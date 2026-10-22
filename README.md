@@ -1,2 +1,2 @@
 # BiDiAr
-Repository containing data from BiDiAr: Bibliography of Digital Archaeology
+This Repository contains data from BiDiAr: Bibliography of Digital Archaeology
