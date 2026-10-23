@@ -1,0 +1,674 @@
+{
+ "citing_aec_id": 946,
+ "source_file": "data/journal/28/946.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Alelis G., Bobrowicz A., Ang C.S. 2013, *Exhibiting Emotion: Capturing visitors' emotional responses to museum artefacts*, in A. Marcus (ed.), *International Conference of Design, User Experience, and Usability (DUXU): User Experience in Novel Technological Environments - HCII 2013. Part of the Lecture Notes in Computer Science Book Series (LNCS, volume 8014)*, Berlin-Heidelberg, Springer-Verlag, 429-438.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Alelis",
+     "given": "G."
+    },
+    {
+     "family": "Bobrowicz",
+     "given": "A."
+    },
+    {
+     "family": "Ang",
+     "given": "C.S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Marcus",
+     "given": "A."
+    }
+   ],
+   "date": "2013",
+   "title": "Exhibiting Emotion: Capturing visitors' emotional responses to museum artefacts",
+   "is_part_of": [
+    "International Conference of Design, User Experience, and Usability (DUXU): User Experience in Novel Technological Environments - HCII 2013"
+   ],
+   "pages": "429-438",
+   "series": "Lecture Notes in Computer Science",
+   "series_number": "8014",
+   "publisher": "Springer-Verlag",
+   "place": "Berlin-Heidelberg",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Balet O., Duysens J., Compdaer J., Gobbetti E., Scopigno R. 2008, *The CRIMSON Project - Simulating populations in massive urban environments*, in *8th World Congress on Computational Mechanics (WCCM8) (Venice 2008)* (http://vcg.isti.cnr.it/Publications/2008/BDCGS08; accessed: 20/06/2017).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Balet",
+     "given": "O."
+    },
+    {
+     "family": "Duysens",
+     "given": "J."
+    },
+    {
+     "family": "Compdaer",
+     "given": "J."
+    },
+    {
+     "family": "Gobbetti",
+     "given": "E."
+    },
+    {
+     "family": "Scopigno",
+     "given": "R."
+    }
+   ],
+   "date": "2008",
+   "title": "The CRIMSON Project - Simulating populations in massive urban environments",
+   "is_part_of": [
+    "8th World Congress on Computational Mechanics (WCCM8) (Venice 2008)"
+   ],
+   "language": "eng",
+   "uri": "http://vcg.isti.cnr.it/Publications/2008/BDCGS08",
+   "notes": "accessed 20/06/2017"
+  },
+  {
+   "position": 3,
+   "raw": "Bedford L. 2001, *Storytelling: The real work of museums*, «Curator. The Museum Journal», 44, 1, 27-34 (http://doi.wiley.com/10.1111/j.2151-6952.2001.tb00027.x; accessed: 01/08/2017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bedford",
+     "given": "L."
+    }
+   ],
+   "date": "2001",
+   "title": "Storytelling: The real work of museums",
+   "is_part_of": [
+    "Curator. The Museum Journal"
+   ],
+   "volume": "44",
+   "issue": "1",
+   "pages": "27-34",
+   "language": "eng",
+   "uri": "http://doi.wiley.com/10.1111/j.2151-6952.2001.tb00027.x"
+  },
+  {
+   "position": 4,
+   "raw": "Brooks K.M. 1996, *Do story agents use rocking chairs? The theory and implementation of one model for computational narrative*, in *Proceedings of the Fourth ACM international conference on Multimedia (MM96) (Boston 1996)*, New York, ACM Press, 317-328 (http://portal.acm.org/citation.cfm?doid=244130.244233; accessed: 20/06/2017).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brooks",
+     "given": "K.M."
+    }
+   ],
+   "date": "1996",
+   "title": "Do story agents use rocking chairs? The theory and implementation of one model for computational narrative",
+   "is_part_of": [
+    "Proceedings of the Fourth ACM international conference on Multimedia (MM96) (Boston 1996)"
+   ],
+   "pages": "317-328",
+   "publisher": "ACM Press",
+   "place": "New York",
+   "language": "eng",
+   "uri": "http://portal.acm.org/citation.cfm?doid=244130.244233"
+  },
+  {
+   "position": 5,
+   "raw": "Callaway C., Stock O., Dekoven E. 2014, *Experiments with mobile drama in an instrumented museum for inducing conversation in small groups*, «ACM Transactions on Interactive Intelligent Systems», 4, 1, 1-39 (http://dl.acm.org/citation.cfm?doid=2602757.2584250; accessed: 20/06/2017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Callaway",
+     "given": "C."
+    },
+    {
+     "family": "Stock",
+     "given": "O."
+    },
+    {
+     "family": "Dekoven",
+     "given": "E."
+    }
+   ],
+   "date": "2014",
+   "title": "Experiments with mobile drama in an instrumented museum for inducing conversation in small groups",
+   "is_part_of": [
+    "ACM Transactions on Interactive Intelligent Systems"
+   ],
+   "volume": "4",
+   "issue": "1",
+   "pages": "1-39",
+   "language": "eng",
+   "uri": "http://dl.acm.org/citation.cfm?doid=2602757.2584250"
+  },
+  {
+   "position": 6,
+   "raw": "Cavazza M.O., Charles F., Mead S.J. 2002, *Character-based interactive storytelling*, «IEEE Intelligent Systems», 17, 4, 17-24 (http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1024747; accessed: 01/08/2017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cavazza",
+     "given": "M.O."
+    },
+    {
+     "family": "Charles",
+     "given": "F."
+    },
+    {
+     "family": "Mead",
+     "given": "S.J."
+    }
+   ],
+   "date": "2002",
+   "title": "Character-based interactive storytelling",
+   "is_part_of": [
+    "IEEE Intelligent Systems"
+   ],
+   "volume": "17",
+   "issue": "4",
+   "pages": "17-24",
+   "language": "eng",
+   "uri": "http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1024747"
+  },
+  {
+   "position": 7,
+   "raw": "Damiano R., Gena C., Lombardo V., Nunnari F., Pizzo A. 2008, *A stroll with Carletto: Adaptation in drama-based tours with virtual characters*, «User Modelling and User-Adapted Interaction», 18, 5, 417-453.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Damiano",
+     "given": "R."
+    },
+    {
+     "family": "Gena",
+     "given": "C."
+    },
+    {
+     "family": "Lombardo",
+     "given": "V."
+    },
+    {
+     "family": "Nunnari",
+     "given": "F."
+    },
+    {
+     "family": "Pizzo",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "A stroll with Carletto: Adaptation in drama-based tours with virtual characters",
+   "is_part_of": [
+    "User Modelling and User-Adapted Interaction"
+   ],
+   "volume": "18",
+   "issue": "5",
+   "pages": "417-453",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Gallo C. 2016, *The Storyteller's Secret: From TED Speakers to Business Legends. Why Some Ideas Catch On and Others Don't*, New York, St. Martin's Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gallo",
+     "given": "C."
+    }
+   ],
+   "date": "2016",
+   "title": "The Storyteller's Secret: From TED Speakers to Business Legends. Why Some Ideas Catch On and Others Don't",
+   "publisher": "St. Martin's Press",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Goodman A. 2015, *The four-letter word behind all successful stories*, «Free-range thinking», November 2015 (www.thegoodmancenter.com; accessed: 20/06/2017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Goodman",
+     "given": "A."
+    }
+   ],
+   "date": "2015",
+   "title": "The four-letter word behind all successful stories",
+   "is_part_of": [
+    "Free-range thinking"
+   ],
+   "language": "eng",
+   "uri": "www.thegoodmancenter.com",
+   "notes": "online article, November 2015"
+  },
+  {
+   "position": 10,
+   "raw": "Johnsson E. 2006, *Telling Tales. A Guide to Developing Effective Storytelling Programmes for Museums* (C. Adler ed.), London, London Museums Hub, Museum of London (available at: http://www.museumoflondon.org.uk/files/4413/7468/3728/Telling-Tales.pdf; accessed: 20/06/2017).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Johnsson",
+     "given": "E."
+    }
+   ],
+   "date": "2006",
+   "title": "Telling Tales. A Guide to Developing Effective Storytelling Programmes for Museums",
+   "publisher": "London Museums Hub, Museum of London",
+   "place": "London",
+   "language": "eng",
+   "uri": "http://www.museumoflondon.org.uk/files/4413/7468/3728/Telling-Tales.pdf",
+   "notes": "C. Adler ed."
+  },
+  {
+   "position": 11,
+   "raw": "Katifori A. *et al.* 2016, *Cultivating mobile-mediated social interaction in the museum: Towards group-based digital storytelling experiences*, in *MW2016: Museums and the Web 2016 (Los Angeles 2016)* (available at: http://mw2016.museumsandtheweb.com/paper/cultivating-mobile-mediated-social-interaction-in-the-museum-towards-group-based-digital-storytelling-experiences/).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Katifori",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Cultivating mobile-mediated social interaction in the museum: Towards group-based digital storytelling experiences",
+   "is_part_of": [
+    "MW2016: Museums and the Web 2016 (Los Angeles 2016)"
+   ],
+   "language": "eng",
+   "uri": "http://mw2016.museumsandtheweb.com/paper/cultivating-mobile-mediated-social-interaction-in-the-museum-towards-group-based-digital-storytelling-experiences/",
+   "notes": "cited \"Katifori A. et al.\"; other authors not given in the citation"
+  },
+  {
+   "position": 12,
+   "raw": "Kriegel M., Aylett R. 2008, *Emergent narrative as a novel framework for massively collaborative authoring*, in H. Prendinger, J. Lester, M. Ishizuka (eds.), *Intelligent Virtual Agents. Proceedings of the 8th IVA 2008 International Workshop (Tokyo 2008)*, Berlin-Heidelberg, Springer, 73-80.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kriegel",
+     "given": "M."
+    },
+    {
+     "family": "Aylett",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Prendinger",
+     "given": "H."
+    },
+    {
+     "family": "Lester",
+     "given": "J."
+    },
+    {
+     "family": "Ishizuka",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "Emergent narrative as a novel framework for massively collaborative authoring",
+   "is_part_of": [
+    "Intelligent Virtual Agents. Proceedings of the 8th IVA 2008 International Workshop (Tokyo 2008)"
+   ],
+   "pages": "73-80",
+   "publisher": "Springer",
+   "place": "Berlin-Heidelberg",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Lebowitz M. 1984, *Creating characters in a storytelling Universe*, «Poetics», 13, 171-194.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lebowitz",
+     "given": "M."
+    }
+   ],
+   "date": "1984",
+   "title": "Creating characters in a storytelling Universe",
+   "is_part_of": [
+    "Poetics"
+   ],
+   "volume": "13",
+   "pages": "171-194",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Mateas M., Stern A. 2005, *Structuring content in the façade interactive drama architecture*, in M. Young, J. Laird (eds.), *Proceedings of the First Artificial Intelligence and Interactive Digital Entertainment Conference (AIIDE) (Marina del Rey 2005)*, Menlo Park (CA), American Association for Artificial Intelligence Press (available at: http://www.interactivestory.net/papers/MateasSternAIIDE05.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mateas",
+     "given": "M."
+    },
+    {
+     "family": "Stern",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Young",
+     "given": "M."
+    },
+    {
+     "family": "Laird",
+     "given": "J."
+    }
+   ],
+   "date": "2005",
+   "title": "Structuring content in the façade interactive drama architecture",
+   "is_part_of": [
+    "Proceedings of the First Artificial Intelligence and Interactive Digital Entertainment Conference (AIIDE) (Marina del Rey 2005)"
+   ],
+   "publisher": "American Association for Artificial Intelligence Press",
+   "place": "Menlo Park (CA)",
+   "language": "eng",
+   "uri": "http://www.interactivestory.net/papers/MateasSternAIIDE05.pdf"
+  },
+  {
+   "position": 15,
+   "raw": "Phillips D. 1997, *Exhibiting Authenticity*, Manchester-New York, Manchester University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Phillips",
+     "given": "D."
+    }
+   ],
+   "date": "1997",
+   "title": "Exhibiting Authenticity",
+   "publisher": "Manchester University Press",
+   "place": "Manchester-New York",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Poole S. 2015, *\"Ghosts in the Garden\": Locative gameplay and historical interpretation from below*, in *Challenge the past / diversify the future (Gothenborg 2015)*, Gothenborg, University of Gothenborg, 93-96 (available at: http://old.react-hub.org.uk/heritagesandbox/projects/2012/ghosts-in-the-garden/).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Poole",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "\"Ghosts in the Garden\": Locative gameplay and historical interpretation from below",
+   "is_part_of": [
+    "Challenge the past / diversify the future (Gothenborg 2015)"
+   ],
+   "pages": "93-96",
+   "publisher": "University of Gothenborg",
+   "place": "Gothenborg",
+   "language": "eng",
+   "uri": "http://old.react-hub.org.uk/heritagesandbox/projects/2012/ghosts-in-the-garden/"
+  },
+  {
+   "position": 17,
+   "raw": "Pujol L., Roussou M., Poulou S., Balet O., Vayanou M., Ioannidis Y. 2013, *Personalizing interactive digital storytelling in archaeological museums: The CHESS project*, in G. Earl, T. Sly, A. Chrysanthi, P. Murrieta-Flores, C. Papadopoulos, I. Romanowska, D. Wheatley (eds.), *Archaeology in the Digital Era. Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA) (Southampton 2012)*, Amsterdam, Amsterdam University Press, 77-90 (available at: dare.uva.nl/cgi/arno/show.cgi?fid=545855).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pujol",
+     "given": "L."
+    },
+    {
+     "family": "Roussou",
+     "given": "M."
+    },
+    {
+     "family": "Poulou",
+     "given": "S."
+    },
+    {
+     "family": "Balet",
+     "given": "O."
+    },
+    {
+     "family": "Vayanou",
+     "given": "M."
+    },
+    {
+     "family": "Ioannidis",
+     "given": "Y."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Earl",
+     "given": "G."
+    },
+    {
+     "family": "Sly",
+     "given": "T."
+    },
+    {
+     "family": "Chrysanthi",
+     "given": "A."
+    },
+    {
+     "family": "Murrieta-Flores",
+     "given": "P."
+    },
+    {
+     "family": "Papadopoulos",
+     "given": "C."
+    },
+    {
+     "family": "Romanowska",
+     "given": "I."
+    },
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "date": "2013",
+   "title": "Personalizing interactive digital storytelling in archaeological museums: The CHESS project",
+   "is_part_of": [
+    "Archaeology in the Digital Era. Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA) (Southampton 2012)"
+   ],
+   "pages": "77-90",
+   "publisher": "Amsterdam University Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "uri": "dare.uva.nl/cgi/arno/show.cgi?fid=545855"
+  },
+  {
+   "position": 18,
+   "raw": "Roussou M. 2004, *Learning by doing and learning through play*, «Computers in Entertainment», 2, 1, 10 (http://portal.acm.org/citation.cfm?doid=973801.973818; accessed: 01/08/2017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Roussou",
+     "given": "M."
+    }
+   ],
+   "date": "2004",
+   "title": "Learning by doing and learning through play",
+   "is_part_of": [
+    "Computers in Entertainment"
+   ],
+   "volume": "2",
+   "issue": "1",
+   "pages": "10",
+   "language": "eng",
+   "uri": "http://portal.acm.org/citation.cfm?doid=973801.973818"
+  },
+  {
+   "position": 19,
+   "raw": "Schell J. 2005, *Understanding Entertainment: Story and gameplay are one*, «ACM Computers in Entertainment», 3, 1, 835-843.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schell",
+     "given": "J."
+    }
+   ],
+   "date": "2005",
+   "title": "Understanding Entertainment: Story and gameplay are one",
+   "is_part_of": [
+    "ACM Computers in Entertainment"
+   ],
+   "volume": "3",
+   "issue": "1",
+   "pages": "835-843",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "Springer J., Kajder S., Borst Brazas J. 2004, *Digital Storytelling at the National Gallery of Art*, in D. Bearman, J. Trant (eds.), *Museums and the Web 2004*, Arlington (VA), Archives & Museum Informatics (available at: http://www.museumsandtheweb.com/mw2004/papers/springer/springer.html).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Springer",
+     "given": "J."
+    },
+    {
+     "family": "Kajder",
+     "given": "S."
+    },
+    {
+     "family": "Borst Brazas",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bearman",
+     "given": "D."
+    },
+    {
+     "family": "Trant",
+     "given": "J."
+    }
+   ],
+   "date": "2004",
+   "title": "Digital Storytelling at the National Gallery of Art",
+   "is_part_of": [
+    "Museums and the Web 2004"
+   ],
+   "publisher": "Archives & Museum Informatics",
+   "place": "Arlington (VA)",
+   "language": "eng",
+   "uri": "http://www.museumsandtheweb.com/mw2004/papers/springer/springer.html"
+  },
+  {
+   "position": 21,
+   "raw": "Tsene L., Saridaki M., Roinioti E., Chrisanthopoulou Ch., Tsakarestou B. 2014, *Playful Transmedia Storytelling: The case of Petite Pousette*, in *International Digital Storytelling Conference: Digital Storytelling in Times of Crisis (Athens 2014)*, Athens, 1-10.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tsene",
+     "given": "L."
+    },
+    {
+     "family": "Saridaki",
+     "given": "M."
+    },
+    {
+     "family": "Roinioti",
+     "given": "E."
+    },
+    {
+     "family": "Chrisanthopoulou Ch.",
+     "given": ""
+    },
+    {
+     "family": "Tsakarestou",
+     "given": "B."
+    }
+   ],
+   "date": "2014",
+   "title": "Playful Transmedia Storytelling: The case of Petite Pousette",
+   "is_part_of": [
+    "International Digital Storytelling Conference: Digital Storytelling in Times of Crisis (Athens 2014)"
+   ],
+   "pages": "1-10",
+   "place": "Athens",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "Vayanou M., Karvounis M., Katifori A., Kyriakidi M., Roussou M., Ioannidis Y. 2014, *The CHESS Project: Adaptive personalized storytelling experiences in museums*, in I. Cantador, M. Chi, R. Farzan, R. Jäschke (eds.), *The 22nd Conference on User Modelling, Adaptation and personalization. UMAP 2014 Extended Proceedings (Aalborg 2014)* (http://ceur-ws.org/Vol-1181/pros2014_paper_04.pdf; accessed: 20/06/2017).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vayanou",
+     "given": "M."
+    },
+    {
+     "family": "Karvounis",
+     "given": "M."
+    },
+    {
+     "family": "Katifori",
+     "given": "A."
+    },
+    {
+     "family": "Kyriakidi",
+     "given": "M."
+    },
+    {
+     "family": "Roussou",
+     "given": "M."
+    },
+    {
+     "family": "Ioannidis",
+     "given": "Y."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cantador",
+     "given": "I."
+    },
+    {
+     "family": "Chi",
+     "given": "M."
+    },
+    {
+     "family": "Farzan",
+     "given": "R."
+    },
+    {
+     "family": "Jäschke",
+     "given": "R."
+    }
+   ],
+   "date": "2014",
+   "title": "The CHESS Project: Adaptive personalized storytelling experiences in museums",
+   "is_part_of": [
+    "The 22nd Conference on User Modelling, Adaptation and personalization. UMAP 2014 Extended Proceedings (Aalborg 2014)"
+   ],
+   "language": "eng",
+   "uri": "http://ceur-ws.org/Vol-1181/pros2014_paper_04.pdf"
+  },
+  {
+   "position": 23,
+   "raw": "Walsh P. 1997, *The Web and the unassailable voice*, «Archives & Museum Informatics», 11, 2, 77-85.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Walsh",
+     "given": "P."
+    }
+   ],
+   "date": "1997",
+   "title": "The Web and the unassailable voice",
+   "is_part_of": [
+    "Archives & Museum Informatics"
+   ],
+   "volume": "11",
+   "issue": "2",
+   "pages": "77-85",
+   "language": "eng"
+  }
+ ]
+}

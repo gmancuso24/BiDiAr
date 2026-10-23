@@ -1,0 +1,524 @@
+{
+ "citing_aec_id": 26,
+ "source_file": "data/journal/2/26.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Atlante 1981 = Atlante delle forme ceramiche I, Roma.",
+   "type": "book",
+   "date": "1981",
+   "title": "Atlante delle forme ceramiche I",
+   "place": "Roma",
+   "notes": "cited as 'Atlante 1981'; no authors",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "BIETTI A. 1982, Tecniche matematiche nell'analisi dei dati archeologici, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    }
+   ],
+   "date": "1982",
+   "title": "Tecniche matematiche nell'analisi dei dati archeologici",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "FENTRESS E., PERKINS P. 1987, Counting African Red Slip Ware, in L' Africa romana. Atti dei V convegno di studio , Sassari, 205-214.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fentress",
+     "given": "E."
+    },
+    {
+     "family": "Perkins",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Counting African Red Slip Ware",
+   "is_part_of": [
+    "L'Africa romana. Atti del V convegno di studio"
+   ],
+   "pages": "205-214",
+   "place": "Sassari",
+   "notes": "editors not cited",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "FONTANA S. 1990, Note sulla distribuzione della sigillata africana in Italia, relazionc: presentata al «IV Convegno di archeologia italiana», Londra 1990 (in corso di stampa).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fontana",
+     "given": "S."
+    }
+   ],
+   "date": "1991",
+   "title": "Note sulla distribuzione della sigillata africana in Italia",
+   "editors": [
+    {
+     "family": "Herring",
+     "given": "E."
+    },
+    {
+     "family": "Whitehouse",
+     "given": "R."
+    },
+    {
+     "family": "Wilkins",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "The Archaeology of Power. Papers of the Fourth Conference of Italian Archaeology, 1"
+   ],
+   "pages": "135-145",
+   "publisher": "Accordia Research Centre",
+   "place": "London",
+   "cs": {
+    "status": "resolved",
+    "source": "https://findingaugustine.org/Record/16903"
+   },
+   "notes": "cited as paper at the IV Convegno di archeologia italiana (London 1990), in corso di stampa; published 1991 in The Archaeology of Power (Papers of the Fourth Conference of Italian Archaeology, vol. 1)",
+   "confidence": "high",
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "FULFORD M., HODDER I. 1975, A regression analisys of some late Roman-British pottery. A case study, «Oxoniensia», 39, 38-64.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fulford",
+     "given": "M."
+    },
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1975",
+   "title": "A regression analysis of some late Roman-British pottery. A case study",
+   "is_part_of": [
+    "Oxoniensia"
+   ],
+   "volume": "39",
+   "pages": "38-64",
+   "notes": "'analisys' corrected to analysis; authors order Fulford, Hodder as cited",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "FULFORD M. 1980, Carthage: Overseas trade and political economy c. AD 400-700, «Reading Medieval Studies», 6, 71 ss.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fulford",
+     "given": "M."
+    }
+   ],
+   "date": "1980",
+   "title": "Carthage: Overseas trade and political economy c. AD 400-700",
+   "is_part_of": [
+    "Reading Medieval Studies"
+   ],
+   "volume": "6",
+   "pages": "71",
+   "notes": "cited '71 ss.'",
+   "confidence": "low",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "FULFORD M. 1983, Pottery and economy of Carthage and its hinterland , «Opus», 2, 5-14.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fulford",
+     "given": "M."
+    }
+   ],
+   "date": "1983",
+   "title": "Pottery and economy of Carthage and its hinterland",
+   "is_part_of": [
+    "Opus"
+   ],
+   "volume": "2",
+   "pages": "5-14",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "FULFORD M. 1985, The Red-Slipped Wares, in M. FULFORD, S. PEACOCK (edd.), Excavations at Carthage. The British Mission, I, 2, Sheffield, 48-114.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fulford",
+     "given": "M."
+    }
+   ],
+   "date": "1985",
+   "title": "The Red-Slipped Wares",
+   "editors": [
+    {
+     "family": "Fulford",
+     "given": "M."
+    },
+    {
+     "family": "Peacock",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Excavations at Carthage. The British Mission, I, 2"
+   ],
+   "pages": "48-114",
+   "place": "Sheffield",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "GANDOLFI D. 1981, La terra sigillata chiara D proveniente dagli scavi di Albintimilium, «Rivista di Studi Liguri», 47, 53-149.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gandolfi",
+     "given": "D."
+    }
+   ],
+   "date": "1981",
+   "title": "La terra sigillata chiara D proveniente dagli scavi di Albintimilium",
+   "is_part_of": [
+    "Rivista di Studi Liguri"
+   ],
+   "volume": "47",
+   "pages": "53-149",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "HAYES J. W. 1972, Late Roman Pottery, London.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hayes",
+     "given": "J.W."
+    }
+   ],
+   "date": "1972",
+   "title": "Late Roman Pottery",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "HAYES J. W. 1980, Supplement to Late Roman Pottery, London.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hayes",
+     "given": "J.W."
+    }
+   ],
+   "date": "1980",
+   "title": "Supplement to Late Roman Pottery",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "HODDER I. 1974, Some marketing models/or Romano-British coarse pottery , «Britannia», 5, 48-114.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1974",
+   "title": "Some marketing models for Romano-British coarse pottery",
+   "is_part_of": [
+    "Britannia"
+   ],
+   "volume": "5",
+   "pages": "48-114",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "HODDER I., ORTON C. 1976, Spatial Analysis in Archaeology, Cambridge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    },
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "date": "1976",
+   "title": "Spatial Analysis in Archaeology",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "LAMBOGLIA N. 1941, T~a Sigil/ata Chiara , «Rivista di Studi Liguri», 7 ss.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lamboglia",
+     "given": "N."
+    }
+   ],
+   "date": "1941",
+   "title": "La Sigillata Chiara",
+   "is_part_of": [
+    "Rivista di Studi Liguri"
+   ],
+   "volume": "7",
+   "notes": "cited '7 ss.'; OCR 'T~a' corrected to La",
+   "confidence": "low",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "LEVEAU P. 1984, Caesarea de Mauretanie : une ville romaine et ses compagnes, Paris.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Leveau",
+     "given": "P."
+    }
+   ],
+   "date": "1984",
+   "title": "Caesarea de Maurétanie: une ville romaine et ses campagnes",
+   "place": "Paris",
+   "notes": "'compagnes' corrected to campagnes",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Luni 1973 - AA.VV., Scavi di Luni. Re/azione preliminare de/le campagne di scavo 19 70-1971 ,Roma.",
+   "type": "book",
+   "date": "1973",
+   "title": "Scavi di Luni. Relazione preliminare delle campagne di scavo 1970-1971",
+   "place": "Roma",
+   "notes": "cited as 'Luni 1973'; AA.VV.",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "MARTELLI D. 1982, L'importazione e lo smistamento della sigillata africana in Lombardia e ii ruolo del delta padano tra tarda antichita e altomedioevo, «PADUSA», 18, 99 ss.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Martelli",
+     "given": "D."
+    }
+   ],
+   "date": "1982",
+   "title": "L'importazione e lo smistamento della sigillata africana in Lombardia e il ruolo del delta padano tra tarda antichità e altomedioevo",
+   "is_part_of": [
+    "Padusa"
+   ],
+   "volume": "18",
+   "pages": "99",
+   "notes": "cited '99 ss.'",
+   "confidence": "low",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "MENEGHINI P. 1986, Lungotevere Testaccio, «Bullettino della Commissione archeologica comunale di Roma», 91, 560 ss.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Meneghini",
+     "given": "P."
+    }
+   ],
+   "date": "1986",
+   "title": "Lungotevere Testaccio",
+   "is_part_of": [
+    "Bullettino della Commissione archeologica comunale di Roma"
+   ],
+   "volume": "91",
+   "pages": "560",
+   "notes": "cited '560 ss.'",
+   "confidence": "low",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "MOSCATI P. 1987, Archeologia e calcolatori, Firenze.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Archeologia e calcolatori",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Paesaggi d'Etruria, c.s. = AA.VV., Paesaggi d'Etruria tra l'Albegna e ii Fiora II: i materiali (in corso di starnpa).",
+   "type": "other",
+   "date": "c.s.",
+   "title": "Paesaggi d'Etruria tra l'Albegna e il Fiora II: i materiali",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "cited as 'Paesaggi d'Etruria, c.s.'; AA.VV.; searched title: only vague, inconsistent records of a later volume (2002/2004) found, not verifiable as this volume",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "RICE P. M. 1989, in BERNARD, JONES (edd.), Quantifying Diversity in Archaeology, Cambridge.",
+   "type": "book",
+   "date": "1989",
+   "title": "Quantifying Diversity in Archaeology",
+   "place": "Cambridge",
+   "editors": [
+    {
+     "family": "Bernard",
+     "given": ""
+    },
+    {
+     "family": "Jones",
+     "given": ""
+    }
+   ],
+   "notes": "cited as: RICE P. M. 1989, in BERNARD, JONES (edd.), Quantifying Diversity in Archaeology; chapter by P.M. Rice, title missing; editors' given names missing",
+   "confidence": "low",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "SAGUì L., Ceramica africana dal/a villa di Tiberio a Sperlogna, «Melanges de !'Ecole Française de Rome, Antiquite», 91, 560 ss.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Saguì",
+     "given": "L."
+    }
+   ],
+   "title": "Ceramica africana dalla villa di Tiberio a Sperlonga",
+   "is_part_of": [
+    "Mélanges de l'École Française de Rome, Antiquité"
+   ],
+   "volume": "91",
+   "pages": "560",
+   "notes": "no year in the citation; cited '560 ss.'; 'Sperlogna' corrected to Sperlonga",
+   "confidence": "low",
+   "language": "ita"
+  },
+  {
+   "position": 23,
+   "raw": "SRIT III = A. GIARDINA (ed.), Societa Romana e Impero Tardoantico, vol. Ill, Le Merci, gli Insediamenti, Roma-Bari.",
+   "type": "book",
+   "title": "Società Romana e Impero Tardoantico, vol. III, Le Merci, gli Insediamenti",
+   "editors": [
+    {
+     "family": "Giardina",
+     "given": "A."
+    }
+   ],
+   "place": "Roma-Bari",
+   "notes": "cited as 'SRIT III'; whole volume edited by Giardina, no year in the citation",
+   "confidence": "low",
+   "language": "ita"
+  },
+  {
+   "position": 24,
+   "raw": "TORTORELLA S. 1983, Produ:r.ione e circolazione delta ceramica africana di Cartagine, «OPUS», 2, 15 SS.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tortorella",
+     "given": "S."
+    }
+   ],
+   "date": "1983",
+   "title": "Produzione e circolazione della ceramica africana di Cartagine",
+   "is_part_of": [
+    "Opus"
+   ],
+   "volume": "2",
+   "pages": "15",
+   "notes": "cited '15 ss.'",
+   "confidence": "low",
+   "language": "ita"
+  },
+  {
+   "position": 25,
+   "raw": "WHITEHOUSE D. 1982, The Sebola Praeconum I, Papers of the British School at Rome, 50.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Whitehouse",
+     "given": "D."
+    }
+   ],
+   "date": "1982",
+   "title": "The Schola Praeconum I",
+   "is_part_of": [
+    "Papers of the British School at Rome"
+   ],
+   "volume": "50",
+   "notes": "'Sebola' corrected to Schola",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "WHITIAKER C.R., 1985, Trade and the aristocracy in the Roman Empire, «OPUS», 4, 49-76.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Whittaker",
+     "given": "C.R."
+    }
+   ],
+   "date": "1985",
+   "title": "Trade and the aristocracy in the Roman Empire",
+   "is_part_of": [
+    "Opus"
+   ],
+   "volume": "4",
+   "pages": "49-76",
+   "notes": "'WHITIAKER' corrected to Whittaker",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

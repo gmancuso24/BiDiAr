@@ -1,0 +1,1621 @@
+{
+ "citing_aec_id": 585,
+ "source_file": "data/journal/22/585.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Acampa P., Mango Furnari M., Noviello C. 2007, Octapy 3: un CMS distribuito e cooperativo orientato al Web Semantico, in Proceedings of Internet Imaging VI Conference (http://www.lab32.org/blogais/wp-content/uploads/2008/04/presentazione-octapy-3-x-pycon.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Acampa",
+     "given": "P."
+    },
+    {
+     "family": "Mango Furnari",
+     "given": "M."
+    },
+    {
+     "family": "Noviello",
+     "given": "C."
+    }
+   ],
+   "date": "2007",
+   "title": "Octapy 3: un CMS distribuito e cooperativo orientato al Web Semantico",
+   "is_part_of": [
+    "Proceedings of Internet Imaging VI Conference"
+   ],
+   "language": "ita",
+   "uri": "http://www.lab32.org/blogais/wp-content/uploads/2008/04/presentazione-octapy-3-x-pycon.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Aiello A., Mango Furnari M., Proto F. 2007, An ontological interpretation of the ICCD recommendations, in Moscati 2007a, 181-208.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Aiello",
+     "given": "A."
+    },
+    {
+     "family": "Mango Furnari",
+     "given": "M."
+    },
+    {
+     "family": "Proto",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "An ontological interpretation of the ICCD recommendations",
+   "is_part_of": [
+    "Virtual Museums and Archaeology. The Contribution of the Italian National Research Council",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 1",
+   "pages": "181-208",
+   "language": "eng",
+   "cited_aec_id": 468,
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Albano A., Lanzaro A., Pecoraro M.L. 2008, Legislazione internazionale e comunitaria dei beni culturali, Napoli, Simone.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Albano",
+     "given": "A."
+    },
+    {
+     "family": "Lanzaro",
+     "given": "A."
+    },
+    {
+     "family": "Pecoraro",
+     "given": "M.L."
+    }
+   ],
+   "date": "2008",
+   "title": "Legislazione internazionale e comunitaria dei beni culturali",
+   "publisher": "Simone",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Alibrandi T., Ferri P.G. 2004, La legislazione dei beni culturali e ambientali, Napoli, Giuffrè.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Alibrandi",
+     "given": "T."
+    },
+    {
+     "family": "Ferri",
+     "given": "P.G."
+    }
+   ],
+   "date": "2004",
+   "title": "La legislazione dei beni culturali e ambientali",
+   "publisher": "Giuffrè",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Amalfitano P., Camodeca G., Medri M. (eds.) 1990, I Campi Flegrei. Un itinerario archeologico, Venezia, Marsilio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Amalfitano",
+     "given": "P."
+    },
+    {
+     "family": "Camodeca",
+     "given": "G."
+    },
+    {
+     "family": "Medri",
+     "given": "M."
+    }
+   ],
+   "date": "1990",
+   "title": "I Campi Flegrei. Un itinerario archeologico",
+   "publisher": "Marsilio",
+   "place": "Venezia",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Antinucci F. 2007, The Virtual Museum, in Moscati 2007a, 79-86.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Antinucci",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "The Virtual Museum",
+   "is_part_of": [
+    "Virtual Museums and Archaeology. The Contribution of the Italian National Research Council",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 1",
+   "pages": "79-86",
+   "language": "eng",
+   "cited_aec_id": 462,
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Barbati C., Cammelli M., Sciullo G. 2006, Il diritto dei beni culturali, Bologna, Il Mulino.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barbati",
+     "given": "C."
+    },
+    {
+     "family": "Cammelli",
+     "given": "M."
+    },
+    {
+     "family": "Sciullo",
+     "given": "G."
+    }
+   ],
+   "date": "2006",
+   "title": "Il diritto dei beni culturali",
+   "publisher": "Il Mulino",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Berners-Lee T. 1996, WWW: Past, Present and Future, «IEEE Computer», 29, 10.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Berners-Lee",
+     "given": "T."
+    }
+   ],
+   "date": "1996",
+   "title": "WWW: Past, Present and Future",
+   "is_part_of": [
+    "IEEE Computer"
+   ],
+   "volume": "29",
+   "issue": "10",
+   "language": "eng",
+   "notes": "cited '29, 10': the '10' is probably the issue, but could be a page",
+   "confidence": "low"
+  },
+  {
+   "position": 9,
+   "raw": "Cammelli M. 2007, Il Codice dei beni culturali e del paesaggio, Bologna, Il Mulino.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cammelli",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Il Codice dei beni culturali e del paesaggio",
+   "publisher": "Il Mulino",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Castiglione Morelli del Franco V. 1993, Il Giornale dei Soprastanti di Pompei e le Notizie degli Scavi, in L. Franchi dell’Orto (ed.), Ercolano 1738-1988. 250 anni di ricerca archeologica. Atti del Convegno Internazionale (Ravello, Ercolano, Pompei, Napoli 1988), Roma, L’Erma di Bretschneider, 659-666.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Castiglione Morelli del Franco",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Franchi dell’Orto",
+     "given": "L."
+    }
+   ],
+   "date": "1993",
+   "title": "Il Giornale dei Soprastanti di Pompei e le Notizie degli Scavi",
+   "is_part_of": [
+    "Ercolano 1738-1988. 250 anni di ricerca archeologica. Atti del Convegno Internazionale (Ravello, Ercolano, Pompei, Napoli 1988)"
+   ],
+   "pages": "659-666",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Chiurazzi F., Gianni A., Miele F., Ruffo F. 1990, Informatica e divulgazione dei beni culturali: l’esperienza del progetto Neapolis, in L. Franchi dell’Orto (ed.), Rediscovering Pompeii, Catalogo della Mostra, Roma, L’Erma di Bretschneider, 119-127.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Chiurazzi",
+     "given": "F."
+    },
+    {
+     "family": "Gianni",
+     "given": "A."
+    },
+    {
+     "family": "Miele",
+     "given": "F."
+    },
+    {
+     "family": "Ruffo",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Franchi dell’Orto",
+     "given": "L."
+    }
+   ],
+   "date": "1990",
+   "title": "Informatica e divulgazione dei beni culturali: l’esperienza del progetto Neapolis",
+   "is_part_of": [
+    "Rediscovering Pompeii, Catalogo della Mostra"
+   ],
+   "pages": "119-127",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Coppola A., Spena M.C. 2008, La legislazione dei beni culturali e del paesaggio, Napoli, Simone.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Coppola",
+     "given": "A."
+    },
+    {
+     "family": "Spena",
+     "given": "M.C."
+    }
+   ],
+   "date": "2008",
+   "title": "La legislazione dei beni culturali e del paesaggio",
+   "publisher": "Simone",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Coralini A. 2010 (ed.), Vesuviana. Archeologie a confronto. Atti del Convegno Internazionale (Bologna 2008), Bologna, Ante Quem.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Coralini",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Vesuviana. Archeologie a confronto. Atti del Convegno Internazionale (Bologna 2008)",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Dallas C. 2007, Archaeological knowledge. Virtual exhibition and the social construction of meaning, in Moscati 2007a, 31-63.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    }
+   ],
+   "date": "2007",
+   "title": "Archaeological knowledge. Virtual exhibition and the social construction of meaning",
+   "is_part_of": [
+    "Virtual Museums and Archaeology. The Contribution of the Italian National Research Council",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 1",
+   "pages": "31-63",
+   "language": "eng",
+   "cited_aec_id": 460,
+   "notes": "cited 'Virtual exhibition', metadata 'virtual exhibitions'",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "D’Ambrosio I., Drummer A., Pascucci P., Rusca F. 2003, La catalogazione promossa dalla regione Lazio nei musei archeologici: dalle schede di carta alla banca dati condivisa, «Archeologia e Calcolatori», 14, 33-71.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D’Ambrosio",
+     "given": "I."
+    },
+    {
+     "family": "Drummer",
+     "given": "A."
+    },
+    {
+     "family": "Pascucci",
+     "given": "P."
+    },
+    {
+     "family": "Rusca",
+     "given": "F."
+    }
+   ],
+   "date": "2003",
+   "title": "La catalogazione promossa dalla regione Lazio nei musei archeologici: dalle schede di carta alla banca dati condivisa",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "14",
+   "pages": "33-71",
+   "language": "ita",
+   "cited_aec_id": 353,
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "D’Andrea A. 2006, Documentazione archeologica, standard e trattamento informatico, Budapest, Archaeolingua.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    }
+   ],
+   "date": "2006",
+   "title": "Documentazione archeologica, standard e trattamento informatico",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "D’Andria F. 1987 (ed.), Informatica e archeologia classica. Atti del Convegno Internazionale (Lecce 1986), Galatina, Congedo.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "D’Andria",
+     "given": "F."
+    }
+   ],
+   "date": "1987",
+   "title": "Informatica e archeologia classica. Atti del Convegno Internazionale (Lecce 1986)",
+   "publisher": "Congedo",
+   "place": "Galatina",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "D’Andria F. 1997 (ed.), Metodologie di catalogazione dei beni archeologici, Bari, Edipuglia.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "D’Andria",
+     "given": "F."
+    }
+   ],
+   "date": "1997",
+   "title": "Metodologie di catalogazione dei beni archeologici",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "De Caro S. 2001, Metodi e modelli “seriali” applicati alla catalogazione informatizzata del patrimonio archeologico – Progetto S.I.V.A. (Sistema di Video Archiviazione Automatizzata), in Rapporti 1: Analisi e proposta di un sistema per la catalogazione in Italia. Atti del primo seminario nazionale sulla catalogazione, Roma, ICCD-MiBAC, 282-290.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Caro",
+     "given": "S."
+    }
+   ],
+   "date": "2001",
+   "title": "Metodi e modelli “seriali” applicati alla catalogazione informatizzata del patrimonio archeologico – Progetto S.I.V.A. (Sistema di Video Archiviazione Automatizzata)",
+   "is_part_of": [
+    "Rapporti 1: Analisi e proposta di un sistema per la catalogazione in Italia. Atti del primo seminario nazionale sulla catalogazione"
+   ],
+   "pages": "282-290",
+   "publisher": "ICCD-MiBAC",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "De Caro S., De Gemmis M., Miele F. 1999, Tre domande su I musei d’Italia nel Web: 18 esperti rispondono, in Monumedia 1999: Multimedialità e Beni Culturali (Napoli 1999), Roma, IPZS, 141-146.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Caro",
+     "given": "S."
+    },
+    {
+     "family": "De Gemmis",
+     "given": "M."
+    },
+    {
+     "family": "Miele",
+     "given": "F."
+    }
+   ],
+   "date": "1999",
+   "title": "Tre domande su I musei d’Italia nel Web: 18 esperti rispondono",
+   "is_part_of": [
+    "Monumedia 1999: Multimedialità e Beni Culturali (Napoli 1999)"
+   ],
+   "pages": "141-146",
+   "publisher": "IPZS",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "De Simone A., Varone A. (eds.) 1988, Pompei: l’informatica al servizio di una città antica, Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "De Simone",
+     "given": "A."
+    },
+    {
+     "family": "Varone",
+     "given": "A."
+    }
+   ],
+   "date": "1988",
+   "title": "Pompei: l’informatica al servizio di una città antica",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Di Roberto M.V., Esposito A. 2010, Dai sistemi informativi territoriali e catalografici ad modelli cooperativi e virtuali: la contestualizzazione delle conoscenze sui beni culturali, in Coralini 2010, 119-126.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Roberto",
+     "given": "M.V."
+    },
+    {
+     "family": "Esposito",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Coralini",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Dai sistemi informativi territoriali e catalografici ad modelli cooperativi e virtuali: la contestualizzazione delle conoscenze sui beni culturali",
+   "is_part_of": [
+    "Vesuviana. Archeologie a confronto. Atti del Convegno Internazionale (Bologna 2008)"
+   ],
+   "pages": "119-126",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "language": "ita",
+   "xref": 13,
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Eco U. 2007, Dall’albero al labirinto. Studi storici sul segno e l’interpretazione, Milano, Bompiani.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Eco",
+     "given": "U."
+    }
+   ],
+   "date": "2007",
+   "title": "Dall’albero al labirinto. Studi storici sul segno e l’interpretazione",
+   "publisher": "Bompiani",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Eschebach L. 1993, Gebäudeverzeichnis und Stadtplan der antiken Stadt Pompeii, Köln-Weimar-Wien, Böhlau.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Eschebach",
+     "given": "L."
+    }
+   ],
+   "date": "1993",
+   "title": "Gebäudeverzeichnis und Stadtplan der antiken Stadt Pompeii",
+   "publisher": "Böhlau",
+   "place": "Köln-Weimar-Wien",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Esposito R. 2010, Applicazioni informatiche per la fruizione diffusa dei siti e dei musei archeologici della Campania. I progetti Archeo Atlante e Archeologia on line, in Coralini 2010, 137-142.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Esposito",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Coralini",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Applicazioni informatiche per la fruizione diffusa dei siti e dei musei archeologici della Campania. I progetti Archeo Atlante e Archeologia on line",
+   "is_part_of": [
+    "Vesuviana. Archeologie a confronto. Atti del Convegno Internazionale (Bologna 2008)"
+   ],
+   "pages": "137-142",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "language": "ita",
+   "xref": 13,
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Ferraris M. 2003, Ontologia, Napoli, Guida Editori.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ferraris",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Ontologia",
+   "publisher": "Guida Editori",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Filippi F. 2005 (ed.), Manuale per la qualità dei siti web pubblici culturali, Roma, MiBAC-Progetto MINERVA.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Filippi",
+     "given": "F."
+    }
+   ],
+   "date": "2005",
+   "title": "Manuale per la qualità dei siti web pubblici culturali",
+   "publisher": "MiBAC-Progetto MINERVA",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Forte M. 2002a, Introduzione ai Sistemi Informativi Territoriali, Roma, MondoGis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Introduzione ai Sistemi Informativi Territoriali",
+   "publisher": "MondoGis",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited as 2002a",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Forte M. 2002b, I Sistemi Informativi Geografici in archeologia, Roma, MondoGis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "I Sistemi Informativi Geografici in archeologia",
+   "publisher": "MondoGis",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited as 2002b",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Forte M. 2007, The Virtual Museum of landscape, in Moscati 2007a, 87-99.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "The Virtual Museum of landscape",
+   "is_part_of": [
+    "Virtual Museums and Archaeology. The Contribution of the Italian National Research Council",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 1",
+   "pages": "87-99",
+   "language": "eng",
+   "cited_aec_id": 463,
+   "notes": "metadata authors Forte, Pescarin; cited Forte alone",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Forte M., Beltrami R. 2000, A proposito di Virtual Archaeology: disordini, interazioni cognitive e virtualità, «Archeologia e Calcolatori», 11, 273-300.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Beltrami",
+     "given": "R."
+    }
+   ],
+   "date": "2000",
+   "title": "A proposito di Virtual Archaeology: disordini, interazioni cognitive e virtualità",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "273-300",
+   "language": "ita",
+   "cited_aec_id": 302,
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Furnari E. (ed.) 1994, Neapolis. La valorizzazione dei beni culturali e ambientali, I-III, Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Furnari",
+     "given": "E."
+    }
+   ],
+   "date": "1994",
+   "title": "Neapolis. La valorizzazione dei beni culturali e ambientali",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited 'I-III' (three volumes)",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Guermandi M.P. 1999, Dalla base di dati alla rete: l’evoluzione del trattamento dei dati archeologici, «Archeologia e Calcolatori», 10, 89-99.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "1999",
+   "title": "Dalla base di dati alla rete: l’evoluzione del trattamento dei dati archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "89-99",
+   "language": "ita",
+   "cited_aec_id": 268,
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Guermandi M.P. 2003, Internet e multimedialità, «Archeologia e Calcolatori», 14, 336-339.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "2003",
+   "title": "Internet e multimedialità",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "14",
+   "pages": "336-339",
+   "language": "ita",
+   "cited_aec_id": 366,
+   "notes": "metadata title 'Internet e multimedia'",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Guermandi M.P. 2004, Nuovi linguaggi e vecchie tecnologie: comunicare la conoscenza archeologica attraverso la rete, «Archeologia e Calcolatori», 15, 483-496.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "2004",
+   "title": "Nuovi linguaggi e vecchie tecnologie: comunicare la conoscenza archeologica attraverso la rete",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "15",
+   "pages": "483-496",
+   "language": "ita",
+   "cited_aec_id": 396,
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Jannelli L., Stefani G. 2010, Ricostruzione virtuale della Villa Regina a Boscoreale, in Coralini 2010, 143-149.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Jannelli",
+     "given": "L."
+    },
+    {
+     "family": "Stefani",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Coralini",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Ricostruzione virtuale della Villa Regina a Boscoreale",
+   "is_part_of": [
+    "Vesuviana. Archeologie a confronto. Atti del Convegno Internazionale (Bologna 2008)"
+   ],
+   "pages": "143-149",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "language": "ita",
+   "xref": 13,
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Mancinelli M.L. 2004, Sistema Informativo generale del Catalogo: nuovi strumenti per la gestione integrata della conoscenza sui beni culturali, «Archeologia e Calcolatori», 15, 115-128.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mancinelli",
+     "given": "M.L."
+    }
+   ],
+   "date": "2004",
+   "title": "Sistema Informativo generale del Catalogo: nuovi strumenti per la gestione integrata della conoscenza sui beni culturali",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "15",
+   "pages": "115-128",
+   "language": "ita",
+   "cited_aec_id": 375,
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Mango Furnari M. 2006, Da Re.Mu.Na. a napolibeniculturali.it, in Il Castello Svelato, Catalogo della Mostra, Napoli, Tipolit, 24-26.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mango Furnari",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Da Re.Mu.Na. a napolibeniculturali.it",
+   "is_part_of": [
+    "Il Castello Svelato, Catalogo della Mostra"
+   ],
+   "pages": "24-26",
+   "publisher": "Tipolit",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Mango Furnari M., Di Napoli C. 2003, Distributed multimedia information systems for the World Wide Web. A case study for cultural heritage, tourism and publishing, Napoli, Liguori Editori.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mango Furnari",
+     "given": "M."
+    },
+    {
+     "family": "Di Napoli",
+     "given": "C."
+    }
+   ],
+   "date": "2003",
+   "title": "Distributed multimedia information systems for the World Wide Web. A case study for cultural heritage, tourism and publishing",
+   "publisher": "Liguori Editori",
+   "place": "Napoli",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Mango Furnari M., Noviello C. 2006, The Integration of Cartographic Information into a Content Management System. Proceedings of Internet Imaging VII San Jose Convention Center in San Jose, California USA, 178-187.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mango Furnari",
+     "given": "M."
+    },
+    {
+     "family": "Noviello",
+     "given": "C."
+    }
+   ],
+   "date": "2006",
+   "title": "The Integration of Cartographic Information into a Content Management System",
+   "is_part_of": [
+    "Proceedings of Internet Imaging VII"
+   ],
+   "pages": "178-187",
+   "language": "eng",
+   "notes": "citation: \"Proceedings of Internet Imaging VII San Jose Convention Center in San Jose, California USA\"; place of the conference not recorded",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Mango Furnari M., Noviello C. 2010, I beni culturali e le tecnologie dei sistemi cooperativi: il CMS Octapy nel C.I.R. Campania, in Coralini 2010, 105-117.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mango Furnari",
+     "given": "M."
+    },
+    {
+     "family": "Noviello",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Coralini",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "I beni culturali e le tecnologie dei sistemi cooperativi: il CMS Octapy nel C.I.R. Campania",
+   "is_part_of": [
+    "Vesuviana. Archeologie a confronto. Atti del Convegno Internazionale (Bologna 2008)"
+   ],
+   "pages": "105-117",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "language": "ita",
+   "xref": 13,
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Miele F. 2001-2002, Progetto di riedizione in formato digitale della Pompeianarum Antiquitatum Historia, «Rivista di Studi Pompeiani», 12-13, 269-271.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Miele",
+     "given": "F."
+    }
+   ],
+   "date": "2001",
+   "title": "Progetto di riedizione in formato digitale della Pompeianarum Antiquitatum Historia",
+   "is_part_of": [
+    "Rivista di Studi Pompeiani"
+   ],
+   "volume": "12-13",
+   "pages": "269-271",
+   "language": "ita",
+   "notes": "cited 2001-2002 (vols 12-13); first year kept",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Miele F. 2002-2003, Riflessioni sul sistema di tutela e di gestione dei beni culturali in Italia, «Quaderni meridionali», 87-115.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Miele",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "Riflessioni sul sistema di tutela e di gestione dei beni culturali in Italia",
+   "is_part_of": [
+    "Quaderni meridionali"
+   ],
+   "pages": "87-115",
+   "language": "ita",
+   "notes": "cited 2002-2003; first year kept",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Miele F. 2005, Il Progetto Re.Mu.Na.-Rete dei Musei di Napoli, Rete virtuale dei Musei Napoletani, «Scrinia», 2, 121-172.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Miele",
+     "given": "F."
+    }
+   ],
+   "date": "2005",
+   "title": "Il Progetto Re.Mu.Na.-Rete dei Musei di Napoli, Rete virtuale dei Musei Napoletani",
+   "is_part_of": [
+    "Scrinia"
+   ],
+   "volume": "2",
+   "pages": "121-172",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Miele F. 2006, Erede del sito Web www.remuna.org, in Il Castello Svelato, Catalogo della Mostra, Napoli, Tipolit, 11.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Miele",
+     "given": "F."
+    }
+   ],
+   "date": "2006",
+   "title": "Erede del sito Web www.remuna.org",
+   "is_part_of": [
+    "Il Castello Svelato, Catalogo della Mostra"
+   ],
+   "pages": "11",
+   "publisher": "Tipolit",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Miele F. 2007a, Progetti integrati per i Sistemi Informativi di Catalogo e Territoriali, in A.F. Leon, E. Plances (eds.), Rapporto 3. Osservazione, studio e analisi dei processi di catalogazione: verso un Osservatorio per lo Stato e le Regioni, Roma, ICCD-MiBAC, 48-56.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Miele",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Leon",
+     "given": "A.F."
+    },
+    {
+     "family": "Plances",
+     "given": "E."
+    }
+   ],
+   "date": "2007",
+   "title": "Progetti integrati per i Sistemi Informativi di Catalogo e Territoriali",
+   "is_part_of": [
+    "Rapporto 3. Osservazione, studio e analisi dei processi di catalogazione: verso un Osservatorio per lo Stato e le Regioni"
+   ],
+   "pages": "48-56",
+   "publisher": "ICCD-MiBAC",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited as 2007a",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "Miele F. 2007b, Il Progetto ARTPAST. Evoluzione delle tecniche di rilievo e documentazione dei monumenti, pitture, mosaici, oggetti e antichità ercolanesi e pompeiani: dalle stampe e dai disegni alle tecnologie digitali, in I. Bragantini (ed.), Atti dell’X Convegno Internazionale dell’Association Internationale pour la Peinture Murale Antique (Napoli 2007), Venezia, Marsilio, 871-877.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Miele",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bragantini",
+     "given": "I."
+    }
+   ],
+   "date": "2007",
+   "title": "Il Progetto ARTPAST. Evoluzione delle tecniche di rilievo e documentazione dei monumenti, pitture, mosaici, oggetti e antichità ercolanesi e pompeiani: dalle stampe e dai disegni alle tecnologie digitali",
+   "is_part_of": [
+    "Atti dell’X Convegno Internazionale dell’Association Internationale pour la Peinture Murale Antique (Napoli 2007)"
+   ],
+   "pages": "871-877",
+   "publisher": "Marsilio",
+   "place": "Venezia",
+   "language": "ita",
+   "notes": "cited as 2007b",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "Miele F. 2009, Le attività della Soprintendenza per i Beni Archeologici di Napoli e Caserta nel 2007, in A.F. Leon, E. Plances (eds.), Rapporto 4. Osservatorio partecipato: le articolazioni del Catalogo nazionale, Roma, ICCD-MiBAC, 63-68.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Miele",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Leon",
+     "given": "A.F."
+    },
+    {
+     "family": "Plances",
+     "given": "E."
+    }
+   ],
+   "date": "2009",
+   "title": "Le attività della Soprintendenza per i Beni Archeologici di Napoli e Caserta nel 2007",
+   "is_part_of": [
+    "Rapporto 4. Osservatorio partecipato: le articolazioni del Catalogo nazionale"
+   ],
+   "pages": "63-68",
+   "publisher": "ICCD-MiBAC",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "Miele F. 2010a, Conoscenza e fruizione dei beni archeologici e culturali: siti web istituzionali ed applicazioni virtuali nel C.I.R. Cultura Campania, in Coralini 2010, 85-104.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Miele",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Coralini",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Conoscenza e fruizione dei beni archeologici e culturali: siti web istituzionali ed applicazioni virtuali nel C.I.R. Cultura Campania",
+   "is_part_of": [
+    "Vesuviana. Archeologie a confronto. Atti del Convegno Internazionale (Bologna 2008)"
+   ],
+   "pages": "85-104",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "language": "ita",
+   "xref": 13,
+   "notes": "cited as 2010a",
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "Miele F. 2010b, Notazioni per una storia della documentazione dei mosaici pompeiani nel Museo Archeologico Nazionale di Napoli: dalle Antichità Ercolanesi e dal fondo storico dei disegni pompeiani alle tecnologie informatiche e digitali, in Atti del XVI Colloquio Internazionale dell’Associazione Internazionale per lo studio e la conservazione del mosaico (Palermo 2010), Tivoli, Scripta Manent, 87-99.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Miele",
+     "given": "F."
+    }
+   ],
+   "date": "2010",
+   "title": "Notazioni per una storia della documentazione dei mosaici pompeiani nel Museo Archeologico Nazionale di Napoli: dalle Antichità Ercolanesi e dal fondo storico dei disegni pompeiani alle tecnologie informatiche e digitali",
+   "is_part_of": [
+    "Atti del XVI Colloquio Internazionale dell’Associazione Internazionale per lo studio e la conservazione del mosaico (Palermo 2010)"
+   ],
+   "pages": "87-99",
+   "publisher": "Scripta Manent",
+   "place": "Tivoli",
+   "language": "ita",
+   "notes": "cited as 2010b",
+   "confidence": "high"
+  },
+  {
+   "position": 51,
+   "raw": "Miele F. et al. (eds.) 2009, Il Sistema Informativo Geografico Territoriale della Campania. I risultati del Progetto, Catanzaro, Rubbettino.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Miele",
+     "given": "F."
+    }
+   ],
+   "date": "2009",
+   "title": "Il Sistema Informativo Geografico Territoriale della Campania. I risultati del Progetto",
+   "publisher": "Rubbettino",
+   "place": "Catanzaro",
+   "language": "ita",
+   "notes": "cited 'Miele F. et al. (eds.)': only the first editor is known",
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "Miele F., De Gemmis M. 2001, Pompei e il Museo Archeologico Nazionale di Napoli. Progetto Esprit n. 22251 “VHF”, in P.G. Guzzo (ed.), Pompei. Scienza e società. 250° Anniversario degli Scavi di Pompei. Atti del Convegno Internazionale (Napoli 1998), Milano, Electa, 275-276.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Miele",
+     "given": "F."
+    },
+    {
+     "family": "De Gemmis",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Guzzo",
+     "given": "P.G."
+    }
+   ],
+   "date": "2001",
+   "title": "Pompei e il Museo Archeologico Nazionale di Napoli. Progetto Esprit n. 22251 “VHF”",
+   "is_part_of": [
+    "Pompei. Scienza e società. 250° Anniversario degli Scavi di Pompei. Atti del Convegno Internazionale (Napoli 1998)"
+   ],
+   "pages": "275-276",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 53,
+   "raw": "Miele F., De Lellis E., Pisapia M.S. 1988, Elaborazioni informatiche dei dati di ricognizione, in De Simone, Varone 1988, 51-71.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Miele",
+     "given": "F."
+    },
+    {
+     "family": "De Lellis",
+     "given": "E."
+    },
+    {
+     "family": "Pisapia",
+     "given": "M.S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Simone",
+     "given": "A."
+    },
+    {
+     "family": "Varone",
+     "given": "A."
+    }
+   ],
+   "date": "1988",
+   "title": "Elaborazioni informatiche dei dati di ricognizione",
+   "is_part_of": [
+    "Pompei: l’informatica al servizio di una città antica"
+   ],
+   "pages": "51-71",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 21,
+   "confidence": "high"
+  },
+  {
+   "position": 54,
+   "raw": "Miele F., Nava M.L. 2007, Le attività condotte nel 2006 dalla Soprintendenza per i Beni Archeologici di Napoli e Caserta, in MiBAC. Ripensare i processi per migliorare i servizi. Forum 18a Mostra-Convegno dei servizi ai cittadini e alle imprese (Roma 2007), Roma, MP Mirabilia, 46-48.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Miele",
+     "given": "F."
+    },
+    {
+     "family": "Nava",
+     "given": "M.L."
+    }
+   ],
+   "date": "2007",
+   "title": "Le attività condotte nel 2006 dalla Soprintendenza per i Beni Archeologici di Napoli e Caserta",
+   "is_part_of": [
+    "MiBAC. Ripensare i processi per migliorare i servizi. Forum 18a Mostra-Convegno dei servizi ai cittadini e alle imprese (Roma 2007)"
+   ],
+   "pages": "46-48",
+   "publisher": "MP Mirabilia",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 55,
+   "raw": "Moscati P. (ed.) 1998, Methodological Trends and Future Perspectives in the Application of GIS in Archaeology, «Archeologia e Calcolatori», 9, 9-270.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+   "is_part_of": [
+    "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "9-270",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 56,
+   "raw": "Moscati P. 2003, Dal mondo della statistica applicata, «Archeologia e Calcolatori», 14, 340-344.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2003",
+   "title": "Dal mondo della statistica applicata",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "14",
+   "pages": "340-344",
+   "language": "ita",
+   "cited_aec_id": 367,
+   "confidence": "high"
+  },
+  {
+   "position": 57,
+   "raw": "Moscati P. (ed.) 2007a, Virtual Museums and Archaeology. The Contibution of the Italian National Research Council, «Archeologia e Calcolatori», Suppl. 1.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2007",
+   "title": "Virtual Museums and Archaeology. The Contribution of the Italian National Research Council",
+   "is_part_of": [
+    "Virtual Museums and Archaeology. The Contribution of the Italian National Research Council",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 1",
+   "language": "eng",
+   "notes": "cited 'Contibution' (typo)",
+   "confidence": "high"
+  },
+  {
+   "position": 58,
+   "raw": "Moscati P. 2007b, Virtuality and museums. Some suggestions from the Italian National Reasearch Council, in Moscati 2007a, 65-77.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2007",
+   "title": "Virtuality and museums. Some suggestions from the Italian National Research Council",
+   "is_part_of": [
+    "Virtual Museums and Archaeology. The Contribution of the Italian National Research Council",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 1",
+   "pages": "65-77",
+   "language": "eng",
+   "cited_aec_id": 461,
+   "notes": "cited 'Reasearch' (typo)",
+   "confidence": "high"
+  },
+  {
+   "position": 59,
+   "raw": "Moscati P. 2009 (ed.), La nascita dell’informatica archeologica. Atti del Convegno Internazionale (Roma 2008), «Archeologia e Calcolatori», 20.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "La nascita dell’informatica archeologica. Atti del Convegno Internazionale (Roma 2008)",
+   "is_part_of": [
+    "La nascita dell’informatica archeologica. Atti del Convegno Internazionale (Roma 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 60,
+   "raw": "Musgrave A. 2005, Senso comune, scienza e scetticismo, Milano, Raffaello Cortina Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Musgrave",
+     "given": "A."
+    }
+   ],
+   "date": "2005",
+   "title": "Senso comune, scienza e scetticismo",
+   "publisher": "Raffaello Cortina Editore",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 61,
+   "raw": "Nappi M.R. 2007, Aggiornamenti sulle comunicazioni del Ministero per i Beni e le Attività Culturali in Campania, in Atti del X Salone Europeo della comunicazione pubblica dei servizi al cittadino e alle imprese (Bologna 2007), Roma, MiBAC, MP Mirabilia, 60-61.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nappi",
+     "given": "M.R."
+    }
+   ],
+   "date": "2007",
+   "title": "Aggiornamenti sulle comunicazioni del Ministero per i Beni e le Attività Culturali in Campania",
+   "is_part_of": [
+    "Atti del X Salone Europeo della comunicazione pubblica dei servizi al cittadino e alle imprese (Bologna 2007)"
+   ],
+   "pages": "60-61",
+   "publisher": "MiBAC, MP Mirabilia",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 62,
+   "raw": "Natale M.T., Saccoccio R. 2010, Museo e Web: un kit pratico per le istituzioni culturali che vogliono realizzare un sito web di qualità, «Archeologia e Calcolatori», 21, 27-47.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Natale",
+     "given": "M.T."
+    },
+    {
+     "family": "Saccoccio",
+     "given": "R."
+    }
+   ],
+   "date": "2010",
+   "title": "Museo e Web: un kit pratico per le istituzioni culturali che vogliono realizzare un sito web di qualità",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "21",
+   "pages": "27-47",
+   "language": "ita",
+   "cited_aec_id": 564,
+   "confidence": "high"
+  },
+  {
+   "position": 63,
+   "raw": "Nicolucci F. 2007, Virtual Museum and archaeology: an international perspective, in Moscati 2007a, 13-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nicolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "Virtual Museum and archaeology: an international perspective",
+   "is_part_of": [
+    "Virtual Museums and Archaeology. The Contribution of the Italian National Research Council",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 1",
+   "pages": "13-30",
+   "language": "eng",
+   "notes": "AeC Suppl. 1 chapter; no find_aec match",
+   "confidence": "high"
+  },
+  {
+   "position": 64,
+   "raw": "Orlandi T. 1999, Multimedialità e archeologia, «Archeologia e Calcolatori», 10, 145-147.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "1999",
+   "title": "Multimedialità e archeologia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "145-147",
+   "language": "ita",
+   "cited_aec_id": 272,
+   "notes": "metadata has pages 145-157, cited 145-147",
+   "confidence": "high"
+  },
+  {
+   "position": 65,
+   "raw": "Pierobon Benoit R., Proto F., Aiello A., Brandi S., Mango Furnari M. 2005, Concettualizzazione e contestualizzazione dei beni culturali archeologici, «Archeologia e Calcolatori», 16, 321-339.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pierobon Benoit",
+     "given": "R."
+    },
+    {
+     "family": "Proto",
+     "given": "F."
+    },
+    {
+     "family": "Aiello",
+     "given": "A."
+    },
+    {
+     "family": "Brandi",
+     "given": "S."
+    },
+    {
+     "family": "Mango Furnari",
+     "given": "M."
+    }
+   ],
+   "date": "2005",
+   "title": "Concettualizzazione e contestualizzazione dei beni culturali archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "321-339",
+   "language": "ita",
+   "cited_aec_id": 416,
+   "confidence": "high"
+  },
+  {
+   "position": 66,
+   "raw": "Proto F. 2010, Modelli di conoscenza contestualizzata e prototipi di classificazione ontologica dei beni culturali, in Coralini 2010, 127-135.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Proto",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Coralini",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Modelli di conoscenza contestualizzata e prototipi di classificazione ontologica dei beni culturali",
+   "is_part_of": [
+    "Vesuviana. Archeologie a confronto. Atti del Convegno Internazionale (Bologna 2008)"
+   ],
+   "pages": "127-135",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "language": "ita",
+   "xref": 13,
+   "confidence": "high"
+  },
+  {
+   "position": 67,
+   "raw": "Scagliarini Corlàita D. 2003, Archeologia virtuale e supporti informatici nella ricostruzione di una domus di Pompei, «Archeologia e Calcolatori», 14, 237-274.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scagliarini Corlàita",
+     "given": "D."
+    }
+   ],
+   "date": "2003",
+   "title": "Archeologia virtuale e supporti informatici nella ricostruzione di una domus di Pompei",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "14",
+   "pages": "237-274",
+   "language": "ita",
+   "cited_aec_id": 362,
+   "notes": "metadata lists 10 authors, cited Scagliarini Corlàita alone",
+   "confidence": "high"
+  },
+  {
+   "position": 68,
+   "raw": "Signore O. 2005, La gestione della conoscenza in archeologia: modelli, linguaggi e strumenti di modellazione concettuale dall’XML al Semantic Web, «Archeologia e Calcolatori», 15, 291-319.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "date": "2005",
+   "title": "La gestione della conoscenza in archeologia: modelli, linguaggi e strumenti di modellazione concettuale dall’XML al Semantic Web",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "15",
+   "pages": "291-319",
+   "language": "ita",
+   "cited_aec_id": 415,
+   "notes": "cited AeC 15; metadata vol. 16 (2005), authors Signore, Missikoff, Moscati",
+   "confidence": "high"
+  },
+  {
+   "position": 69,
+   "raw": "Van der Poel B. 1983, Corpus Topographicum Pompeianum, Toponimy, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Van der Poel",
+     "given": "B."
+    }
+   ],
+   "date": "1983",
+   "title": "Corpus Topographicum Pompeianum, Toponimy",
+   "place": "Roma",
+   "confidence": "high"
+  }
+ ]
+}

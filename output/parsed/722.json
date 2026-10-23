@@ -1,0 +1,691 @@
+{
+ "citing_aec_id": 722,
+ "source_file": "data/journal/25/722.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Amendolagine F. (ed.) 2003, Pordenone Torre e il suo castello. Storie e restauro, Venezia, Marsilio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Amendolagine",
+     "given": "F."
+    }
+   ],
+   "date": "2003",
+   "title": "Pordenone Torre e il suo castello. Storie e restauro",
+   "publisher": "Marsilio",
+   "place": "Venezia",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Arnold D., Chalmers A., Fellner D. (eds.) 2001, VAST01 - Virtual Reality, Archaeology, and Cultural Heritage International Symposium (Athens 2001), New York, ACM.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Arnold",
+     "given": "D."
+    },
+    {
+     "family": "Chalmers",
+     "given": "A."
+    },
+    {
+     "family": "Fellner",
+     "given": "D."
+    }
+   ],
+   "date": "2001",
+   "title": "VAST01 - Virtual Reality, Archaeology, and Cultural Heritage International Symposium (Athens 2001)",
+   "publisher": "ACM",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bezzi A., Bezzi L., Ducke B. 2010, Computer Vision e Structure From Motion, nuove metodologie per la documentazione archeologica tridimensionale: un approccio aperto, in G. De Felice, M.G. Sibilano (eds.), ARCHEOFOSS. Open Source, Free Software e Open Format nei processi di ricerca archeologica, Atti del V Workshop (Foggia 2010), Bari, Edipuglia, 103-111.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bezzi",
+     "given": "A."
+    },
+    {
+     "family": "Bezzi",
+     "given": "L."
+    },
+    {
+     "family": "Ducke",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2010",
+   "title": "Computer Vision e Structure From Motion, nuove metodologie per la documentazione archeologica tridimensionale: un approccio aperto",
+   "is_part_of": [
+    "ARCHEOFOSS. Open Source, Free Software e Open Format nei processi di ricerca archeologica, Atti del V Workshop (Foggia 2010)"
+   ],
+   "pages": "103-111",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Carandini A. (ed.) 1985, Settefinestre. Una villa schiavistica nell'Etruria romana, Modena, Franco Cosimo Panini Editore.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    }
+   ],
+   "date": "1985",
+   "title": "Settefinestre. Una villa schiavistica nell'Etruria romana",
+   "publisher": "Franco Cosimo Panini Editore",
+   "place": "Modena",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Conte A., Salvadori M., Tirone N. 1999, La villa romana di Torre di Pordenone. Tracce della residenza di un ricco dominus nella Cisalpina Orientale, Fiume Veneto (PN), Quasar.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Conte",
+     "given": "A."
+    },
+    {
+     "family": "Salvadori",
+     "given": "M."
+    },
+    {
+     "family": "Tirone",
+     "given": "N."
+    }
+   ],
+   "date": "1999",
+   "title": "La villa romana di Torre di Pordenone. Tracce della residenza di un ricco dominus nella Cisalpina Orientale",
+   "publisher": "Quasar",
+   "place": "Fiume Veneto (PN)",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "di Ragogna G. 1963, L'origine di Cordenons, Pordenone, Fratelli Cosarini.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "di Ragogna",
+     "given": "G."
+    }
+   ],
+   "date": "1963",
+   "title": "L'origine di Cordenons",
+   "publisher": "Fratelli Cosarini",
+   "place": "Pordenone",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Fiasconaro V., Migliori S., Guiducci S. 2012, The ARAS project (Augmented Representation of Archaeological Sites), in A. Castillo (ed.), Proceedings of the 1st International Conference on Best Practices in World Heritage: Archaeology (Menorca 2012), Madrid, Universidad Complutense de Madrid, 309-318.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiasconaro",
+     "given": "V."
+    },
+    {
+     "family": "Migliori",
+     "given": "S."
+    },
+    {
+     "family": "Guiducci",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Castillo",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "The ARAS project (Augmented Representation of Archaeological Sites)",
+   "is_part_of": [
+    "Proceedings of the 1st International Conference on Best Practices in World Heritage: Archaeology (Menorca 2012)"
+   ],
+   "pages": "309-318",
+   "publisher": "Universidad Complutense de Madrid",
+   "place": "Madrid",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Frassine M. 2013, Palus in agro. Aree umide, bonifiche e assetti centuriati in epoca romana, «Agri Centuriati», Supplementa 1.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Palus in agro. Aree umide, bonifiche e assetti centuriati in epoca romana",
+   "is_part_of": [
+    "Agri Centuriati"
+   ],
+   "volume": "Supplementa 1",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Frassine M., Naponiello G. 2012, RAPTOR: archeologia e tutela. Verso la pubblica amministrazione digitale, «Archeologia e Calcolatori», 23, 81-99.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "Naponiello",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "RAPTOR: archeologia e tutela. Verso la pubblica amministrazione digitale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "81-99",
+   "language": "ita",
+   "cited_aec_id": 610,
+   "notes": "metadata pages 81-100",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Frassine M., Naponiello G. 2013, RAPTOR 1.0. Archeologia e pubblica amministrazione: un nuovo geodatabase per la tutela, in M. Serlorenzi (ed.), ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica, Atti del VII Workshop (Roma 2012), «Archeologia e Calcolatori», Suppl. 4, 88-95.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "Naponiello",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "RAPTOR 1.0. Archeologia e pubblica amministrazione: un nuovo geodatabase per la tutela",
+   "is_part_of": [
+    "ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica, Atti del VII Workshop (Roma 2012)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 4",
+   "pages": "88-95",
+   "language": "ita",
+   "cited_aec_id": 692,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Frassine M., Naponiello G., De Francesco S., Asta A. c.s., RAPTOR 1.1. Archeologia nella “pratica”: dai progetti alla documentazione di scavo, in SITAR, Atti del III Convegno Internazionale (Roma 2013), «Archeologia e Calcolatori», Suppl. 7, in corso di stampa.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "Naponiello",
+     "given": "G."
+    },
+    {
+     "family": "De Francesco",
+     "given": "S."
+    },
+    {
+     "family": "Asta",
+     "given": "A."
+    }
+   ],
+   "date": "2015",
+   "title": "RAPTOR 1.1. Archeologia nella “pratica”: dai progetti alla documentazione di scavo",
+   "is_part_of": [
+    "SITAR, Atti del III Convegno Internazionale (Roma 2013)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 7",
+   "pages": "169-178",
+   "language": "ita",
+   "cited_aec_id": 822,
+   "cs": {
+    "status": "resolved",
+    "source": "AeC metadata (data/all_metadata.json): AeC Suppl. 7, 2015, pp. 169-178, id 822"
+   },
+   "notes": "c.s. resolved: published in AeC Suppl. 7 (2015), same authors and title (metadata 'Raptor 1.1')",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Gleue T., Daehne P. 2001, Design and implementation of a mobile device for outdoor Augmented Reality in the ARCHEOGUIDE Project, in Arnold, Chalmers, Fellner 2001, 161-168.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gleue",
+     "given": "T."
+    },
+    {
+     "family": "Daehne",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Arnold",
+     "given": "D."
+    },
+    {
+     "family": "Chalmers",
+     "given": "A."
+    },
+    {
+     "family": "Fellner",
+     "given": "D."
+    }
+   ],
+   "date": "2001",
+   "title": "Design and implementation of a mobile device for outdoor Augmented Reality in the ARCHEOGUIDE Project",
+   "is_part_of": [
+    "VAST01 - Virtual Reality, Archaeology, and Cultural Heritage International Symposium (Athens 2001)"
+   ],
+   "pages": "161-168",
+   "publisher": "ACM",
+   "place": "New York",
+   "language": "eng",
+   "xref": 2,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Moulon P., Bezzi A. 2012, Python photogrammetry toolbox: A free solution for three-dimensional documentation, in F. Cantone (ed.), ARCHEOFOSS Open Source, Free Software e Open Format nei Processi di ricerca archeologica, Atti del VII Workshop (Napoli 2011), Napoli, Naus Editoria, 153-170.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moulon",
+     "given": "P."
+    },
+    {
+     "family": "Bezzi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "date": "2012",
+   "title": "Python photogrammetry toolbox: A free solution for three-dimensional documentation",
+   "is_part_of": [
+    "ARCHEOFOSS Open Source, Free Software e Open Format nei Processi di ricerca archeologica, Atti del VII Workshop (Napoli 2011)"
+   ],
+   "pages": "153-170",
+   "publisher": "Naus Editoria",
+   "place": "Napoli",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Paronuzzi P., Rigoni A.N., Ventura P. 2004, Pordenone, località Torre. 2002-2004, «Aquileia Nostra», 75, 744-746.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Paronuzzi",
+     "given": "P."
+    },
+    {
+     "family": "Rigoni",
+     "given": "A.N."
+    },
+    {
+     "family": "Ventura",
+     "given": "P."
+    }
+   ],
+   "date": "2004",
+   "title": "Pordenone, località Torre. 2002-2004",
+   "is_part_of": [
+    "Aquileia Nostra"
+   ],
+   "volume": "75",
+   "pages": "744-746",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Paronuzzi P., Rigoni A.N., Ventura P. 2006, Torre di Pordenone. Studio geomorfologico, «Notiziario della Soprintendenza per i Beni Archeologici del Friuli Venezia Giulia», 1, 6-9.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Paronuzzi",
+     "given": "P."
+    },
+    {
+     "family": "Rigoni",
+     "given": "A.N."
+    },
+    {
+     "family": "Ventura",
+     "given": "P."
+    }
+   ],
+   "date": "2006",
+   "title": "Torre di Pordenone. Studio geomorfologico",
+   "is_part_of": [
+    "Notiziario della Soprintendenza per i Beni Archeologici del Friuli Venezia Giulia"
+   ],
+   "volume": "1",
+   "pages": "6-9",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Pesavento Mattioli S., Rosada G. 1978, Gli scavi di Torre di Pordenone, «Aquileia Chiama», 25, 9-12.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pesavento Mattioli",
+     "given": "S."
+    },
+    {
+     "family": "Rosada",
+     "given": "G."
+    }
+   ],
+   "date": "1978",
+   "title": "Gli scavi di Torre di Pordenone",
+   "is_part_of": [
+    "Aquileia Chiama"
+   ],
+   "volume": "25",
+   "pages": "9-12",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Rigoni A.N. 2010, Una città di fiume che nasce a Torre, in P. Goi (ed.), Pordenone. Una città, Pordenone, Grafiche Editoriali Artistiche Pordenonesi.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rigoni",
+     "given": "A.N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Goi",
+     "given": "P."
+    }
+   ],
+   "date": "2010",
+   "title": "Una città di fiume che nasce a Torre",
+   "is_part_of": [
+    "Pordenone. Una città"
+   ],
+   "publisher": "Grafiche Editoriali Artistiche Pordenonesi",
+   "place": "Pordenone",
+   "language": "ita",
+   "notes": "no pages in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Rigoni A.N., Venturini I. 1997, Torre di Pordenone: scavi 1994-1996, «Aquileia Nostra», 68, 498-504.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rigoni",
+     "given": "A.N."
+    },
+    {
+     "family": "Venturini",
+     "given": "I."
+    }
+   ],
+   "date": "1997",
+   "title": "Torre di Pordenone: scavi 1994-1996",
+   "is_part_of": [
+    "Aquileia Nostra"
+   ],
+   "volume": "68",
+   "pages": "498-504",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Tirelli M. 2001, Il porto di Altinum, «Antichità Altoadriatiche», 46, 295-316.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tirelli",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Il porto di Altinum",
+   "is_part_of": [
+    "Antichità Altoadriatiche"
+   ],
+   "volume": "46",
+   "pages": "295-316",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Ventura P. 2012, Materiale ceramico da recenti scavi presso la villa di Torre di Pordenone (Provincia di Pordenone, Friuli Venezia Giulia, Italia), «Rei Cretariae Romanae Fautorum Acta», 42, 249-258.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ventura",
+     "given": "P."
+    }
+   ],
+   "date": "2012",
+   "title": "Materiale ceramico da recenti scavi presso la villa di Torre di Pordenone (Provincia di Pordenone, Friuli Venezia Giulia, Italia)",
+   "is_part_of": [
+    "Rei Cretariae Romanae Fautorum Acta"
+   ],
+   "volume": "42",
+   "pages": "249-258",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Ventura P., Rigoni A.N. 2011, Abitare e lavorare in villa: Torre di Pordenone, «Histria Antiqua», 20, 257-268.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ventura",
+     "given": "P."
+    },
+    {
+     "family": "Rigoni",
+     "given": "A.N."
+    }
+   ],
+   "date": "2011",
+   "title": "Abitare e lavorare in villa: Torre di Pordenone",
+   "is_part_of": [
+    "Histria Antiqua"
+   ],
+   "volume": "20",
+   "pages": "257-268",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Ventura P., Rigoni A.N., Masier S. 2008, Torre di Pordenone. Indagini presso il parco del Castello, «Notiziario della Soprintendenza per i Beni Archeologici del Friuli Venezia Giulia», 3, 5-13.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ventura",
+     "given": "P."
+    },
+    {
+     "family": "Rigoni",
+     "given": "A.N."
+    },
+    {
+     "family": "Masier",
+     "given": "S."
+    }
+   ],
+   "date": "2008",
+   "title": "Torre di Pordenone. Indagini presso il parco del Castello",
+   "is_part_of": [
+    "Notiziario della Soprintendenza per i Beni Archeologici del Friuli Venezia Giulia"
+   ],
+   "volume": "3",
+   "pages": "5-13",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Ventura P., Rigoni A.N., Masier S. 2009, Torre di Pordenone. Indagini presso il parco del Castello, «Notiziario della Soprintendenza per i Beni Archeologici del Friuli Venezia Giulia», 4, 5-15.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ventura",
+     "given": "P."
+    },
+    {
+     "family": "Rigoni",
+     "given": "A.N."
+    },
+    {
+     "family": "Masier",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "Torre di Pordenone. Indagini presso il parco del Castello",
+   "is_part_of": [
+    "Notiziario della Soprintendenza per i Beni Archeologici del Friuli Venezia Giulia"
+   ],
+   "volume": "4",
+   "pages": "5-15",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Vlahakis V., Karigiannis J., Tsotros M., Gounaris M., Almeida L., Stricker D., Gleue T., Christou I., Carlucci R., Ioannidis N. 2001, ARCHEOGUIDE: First results of an Augmented Reality, mobile computing system in Cultural Heritage sites, in Arnold, Chalmers, Fellner 2001, 131-140.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vlahakis",
+     "given": "V."
+    },
+    {
+     "family": "Karigiannis",
+     "given": "J."
+    },
+    {
+     "family": "Tsotros",
+     "given": "M."
+    },
+    {
+     "family": "Gounaris",
+     "given": "M."
+    },
+    {
+     "family": "Almeida",
+     "given": "L."
+    },
+    {
+     "family": "Stricker",
+     "given": "D."
+    },
+    {
+     "family": "Gleue",
+     "given": "T."
+    },
+    {
+     "family": "Christou",
+     "given": "I."
+    },
+    {
+     "family": "Carlucci",
+     "given": "R."
+    },
+    {
+     "family": "Ioannidis",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Arnold",
+     "given": "D."
+    },
+    {
+     "family": "Chalmers",
+     "given": "A."
+    },
+    {
+     "family": "Fellner",
+     "given": "D."
+    }
+   ],
+   "date": "2001",
+   "title": "ARCHEOGUIDE: First results of an Augmented Reality, mobile computing system in Cultural Heritage sites",
+   "is_part_of": [
+    "VAST01 - Virtual Reality, Archaeology, and Cultural Heritage International Symposium (Athens 2001)"
+   ],
+   "pages": "131-140",
+   "publisher": "ACM",
+   "place": "New York",
+   "language": "eng",
+   "xref": 2,
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,345 @@
+{
+ "citing_aec_id": 172,
+ "source_file": "data/journal/7/172.md",
+ "references": [
+  {
+   "raw": "BENZÉCRI J.P. 1973, L'Analyse des données, 2 voll. Paris, Dunod.",
+   "date": "1973",
+   "creators": [
+    {
+     "family": "Benzécri",
+     "given": "J.P."
+    }
+   ],
+   "type": "book",
+   "title": "L'Analyse des Données",
+   "publisher": "Dunod",
+   "language": "fre",
+   "confidence": "high",
+   "position": 1,
+   "place": "Paris",
+   "notes": "2 voll."
+  },
+  {
+   "raw": "CAMIZ S. 1994, Metodi di codifica ed analisi dei dati per lo studio di sigilli sumerici, in Atti della XXXVII Riunione Scientifica della Società Italiana di Statistica, Roma, CISU, vol. 2, 105-112.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    }
+   ],
+   "type": "chapter",
+   "title": "Metodi di codifica ed analisi dei dati per lo studio di sigilli sumerici",
+   "pages": "105-112",
+   "is_part_of": [
+    "Atti della XXXVII Riunione Scientifica della Società Italiana di Statistica"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 2,
+   "volume": "2",
+   "place": "Roma",
+   "publisher": "CISU"
+  },
+  {
+   "raw": "CAMIZ S., ROVA E. 1991, Analysis of ancient near-eastern cylinder seals (late fourth millenium B.C.), in E. DIDAY, Y. LECHEVALLIER (eds.), Symbolic-Numeric Data Analysis and Learning, INRIA, Commack, NY, Nova Science Pu, 131-142.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    },
+    {
+     "family": "Rova",
+     "given": "E."
+    }
+   ],
+   "type": "chapter",
+   "title": "Analysis of ancient near-eastern cylinder seals (late fourth millenium B.C.)",
+   "editors": [
+    {
+     "family": "Diday",
+     "given": "E."
+    },
+    {
+     "family": "Lechevallier",
+     "given": "Y."
+    }
+   ],
+   "pages": "131-142",
+   "is_part_of": [
+    "Symbolic-Numeric Data Analysis and Learning"
+   ],
+   "place": "Commack, NY",
+   "publisher": "INRIA; Nova Science Pu",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "CAMIZ S., ROVA E. 1992, Analyse des sceaux cylindriques du Proche Orient ancien de la période de Uruk/Jemdet Nasr, in M. BECUE, L. LEBART, N. RAJADELL (eds.), Jornades Internacionals d'Anàlisi de Dades Textuals 1990, Universitat Politecnica de Catalunya, Barcelona, 213-216.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    },
+    {
+     "family": "Rova",
+     "given": "E."
+    }
+   ],
+   "type": "chapter",
+   "title": "Analyse des sceaux cylindriques du Proche Orient ancien de la période de Uruk/Jemdet Nasr",
+   "editors": [
+    {
+     "family": "Becue",
+     "given": "M."
+    },
+    {
+     "family": "Lebart",
+     "given": "L."
+    },
+    {
+     "family": "Rajadell",
+     "given": "N."
+    }
+   ],
+   "pages": "213-216",
+   "is_part_of": [
+    "Jornades Internacionals d'Anàlisi de Dades Textuals 1990"
+   ],
+   "place": "Barcelona",
+   "publisher": "Universitat Politecnica de Catalunya",
+   "language": "fre",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "CAMIZ S., ROVA E. 1993, L'analyse des segments repétés pour l'étude des sceaux du Proche-Orient, in Secondes journées internationales d'analyse statistique des données textuelles, Montpellier, Paris, Telecom 93 S 003, 437-445.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    },
+    {
+     "family": "Rova",
+     "given": "E."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'analyse des segments repétés pour l'étude des sceaux du Proche-Orient",
+   "pages": "437-445",
+   "is_part_of": [
+    "Secondes journées internationales d'analyse statistique des données textuelles, Montpellier"
+   ],
+   "language": "fre",
+   "confidence": "high",
+   "position": 5,
+   "place": "Paris",
+   "publisher": "Telecom 93 S 003"
+  },
+  {
+   "raw": "CAMIZ S., ROVA E., TULLI V. 1993, Similarity indexes for the study of images engraved on ancient near-eastern seals, Abstract, 4th Conference of the International Federation of Classification Societies, Paris.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    },
+    {
+     "family": "Rova",
+     "given": "E."
+    },
+    {
+     "family": "Tulli",
+     "given": "V."
+    }
+   ],
+   "type": "chapter",
+   "title": "Similarity indexes for the study of images engraved on ancient near-eastern seals, Abstract",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6,
+   "is_part_of": [
+    "4th Conference of the International Federation of Classification Societies, Paris"
+   ],
+   "notes": "Abstract"
+  },
+  {
+   "raw": "CARROLL J.D. 1968, Generalization of canonical correlation analysis to three or more sets of variables, Proc. of the 76th Annual Convention, APA, 227-228.",
+   "date": "1968",
+   "creators": [
+    {
+     "family": "Carroll",
+     "given": "J.D."
+    }
+   ],
+   "pages": "227-228",
+   "type": "chapter",
+   "title": "Generalization of canonical correlation analysis to three or more sets of variables, Proc. of the 76th Annual Convention",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7,
+   "is_part_of": [
+    "Proc. of the 76th Annual Convention, APA"
+   ]
+  },
+  {
+   "raw": "FEOLI E., ORLÓCI L. 1979, Analysis of concentration and detection of underlying factors in structured tables, «Vegetatio», 40, 49-54.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Feoli",
+     "given": "E."
+    },
+    {
+     "family": "Orlóci",
+     "given": "L."
+    }
+   ],
+   "type": "article",
+   "title": "Analysis of concentration and detection of underlying factors in structured tables",
+   "is_part_of": [
+    "Vegetatio"
+   ],
+   "pages": "49-54",
+   "volume": "40",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "GOWER J.C. 1966, Some distance properties of latent root and vector methods used in multivariate analysis, «Biometrika», 53, 325-338.",
+   "date": "1966",
+   "creators": [
+    {
+     "family": "Gower",
+     "given": "J.C."
+    }
+   ],
+   "type": "article",
+   "title": "Some distance properties of latent root and vector methods used in multivariate analysis",
+   "is_part_of": [
+    "Biometrika"
+   ],
+   "pages": "325-338",
+   "volume": "53",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "LEBART L., BECUE M., HAEUSLER L., MORINEAU A. 1994, SPAD.T Version 1.5 - Système Portable pour l'Analyse des Données Textuelles, Manuel de l'utilisateur, Paris, Cisia.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Lebart",
+     "given": "L."
+    },
+    {
+     "family": "Becue",
+     "given": "M."
+    },
+    {
+     "family": "Haeusler",
+     "given": "L."
+    },
+    {
+     "family": "Morineau",
+     "given": "A."
+    }
+   ],
+   "type": "other",
+   "title": "SPAD.T Version 1.5 - Système Portable pour l'Analyse des Données Textuelles, Manuel de l'utilisateur",
+   "place": "Paris",
+   "publisher": "Cisia",
+   "language": "fre",
+   "confidence": "high",
+   "position": 10,
+   "notes": "software manual"
+  },
+  {
+   "raw": "LEBART L., SALEM A. 1988, Analyse Statistique des Données Textuelles, Paris, Dunod.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Lebart",
+     "given": "L."
+    },
+    {
+     "family": "Salem",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Analyse Statistique des Données Textuelles",
+   "place": "Paris",
+   "publisher": "Dunod",
+   "language": "fre",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "ROVA E. 1994, Ricerche sui sigilli a cilindro vicino-orientali del periodo di Uruk/Jemdet Nasr, Orientis Antiqui Collectio 20, Roma, Istituto per l'Oriente «C. Nallino».",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Rova",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "Ricerche sui sigilli a cilindro vicino-orientali del periodo di Uruk/Jemdet Nasr, Orientis Antiqui Collectio 20, Roma, Istituto per l'Oriente",
+   "language": "ita",
+   "confidence": "high",
+   "position": 12,
+   "series": "Orientis Antiqui Collectio",
+   "series_number": "20",
+   "place": "Roma",
+   "publisher": "Istituto per l'Oriente «C. Nallino»"
+  },
+  {
+   "raw": "ROVA E. 1995, Metodi di codifica e analisi per lo studio di immagini strutturate: un'applicazione ai sigilli cilindrici del periodo di Uruk/Jemdet Nasr, «Archeologia e Calcolatori», 6, 7-34.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Rova",
+     "given": "E."
+    }
+   ],
+   "type": "article",
+   "title": "Metodi di codifica e analisi per lo studio di immagini strutturate: un'applicazione ai sigilli cilindrici del periodo di Uruk/Jemdet Nasr",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "7-34",
+   "volume": "6",
+   "language": "ita",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "WARD J.H. 1963, Hierarchical grouping to optimize an objective function, «Journal of the American Statistical Association», 58, 236-244.",
+   "date": "1963",
+   "creators": [
+    {
+     "family": "Ward",
+     "given": "J.H."
+    }
+   ],
+   "type": "article",
+   "title": "Hierarchical grouping to optimize an objective function",
+   "is_part_of": [
+    "Journal of the American Statistical Association"
+   ],
+   "pages": "236-244",
+   "volume": "58",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14
+  }
+ ]
+}

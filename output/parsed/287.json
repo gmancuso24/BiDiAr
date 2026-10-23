@@ -1,0 +1,272 @@
+{
+ "citing_aec_id": 287,
+ "source_file": "data/journal/11/287.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AHSON S., MAHGBOUB I. 1998, Research issues in mobile computing, in IEEE IPCCC’98, Phoenix (AZ), 209-215.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ahson",
+     "given": "S."
+    },
+    {
+     "family": "Mahgboub",
+     "given": "I."
+    }
+   ],
+   "date": "1998",
+   "title": "Research issues in mobile computing",
+   "is_part_of": [
+    "IEEE IPCCC’98"
+   ],
+   "pages": "209-215",
+   "place": "Phoenix (AZ)",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "ANCONA M., COMES D. 1998, WordTree - A pen based software for editing short notes, DISI-Technical Report, Genova.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Ancona",
+     "given": "M."
+    },
+    {
+     "family": "Comes",
+     "given": "D."
+    }
+   ],
+   "date": "1998",
+   "title": "WordTree - A pen based software for editing short notes",
+   "series": "DISI-Technical Report",
+   "place": "Genova",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "ANCONA M., DODERO G., GIANUZZI V., FIERRO C., TINÉ V., TRAVERSO A. 1999, Mobile computing for real time support in archaeological excavations, in L. DINGWALL, S. EXON, V. GAFFNEY, S. LAFLIN, M. VAN LEUSEN (eds.), Archaeology in the Age of the Internet, CAA97 Proceedings, BAR International Series 750, Oxford, 279.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ancona",
+     "given": "M."
+    },
+    {
+     "family": "Dodero",
+     "given": "G."
+    },
+    {
+     "family": "Gianuzzi",
+     "given": "V."
+    },
+    {
+     "family": "Fierro",
+     "given": "C."
+    },
+    {
+     "family": "Tiné",
+     "given": "V."
+    },
+    {
+     "family": "Traverso",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Mobile computing for real time support in archaeological excavations",
+   "is_part_of": [
+    "Archaeology in the Age of the Internet. CAA 1997 Proceedings of the 25th Anniversary Conference"
+   ],
+   "pages": "279",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "IMIELINSKI T., BADRINATH B.R. 1994, Wireless computing, «Communications of the ACM», 37,10, 19-28.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Imielinski",
+     "given": "T."
+    },
+    {
+     "family": "Badrinath",
+     "given": "B.R."
+    }
+   ],
+   "date": "1994",
+   "title": "Wireless computing",
+   "is_part_of": [
+    "Communications of the ACM"
+   ],
+   "volume": "37",
+   "issue": "10",
+   "pages": "19-28",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "JERNEY J. 1994, Mobile insights: the bright future of pen computing, «Pen-based Computing, The Journal of Stylus Systems», (electronic version).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jerney",
+     "given": "J."
+    }
+   ],
+   "date": "1994",
+   "title": "Mobile insights: the bright future of pen computing",
+   "is_part_of": [
+    "Pen-based Computing, The Journal of Stylus Systems"
+   ],
+   "language": "eng",
+   "notes": "electronic version"
+  },
+  {
+   "position": 6,
+   "raw": "KISTLER J., SATYANARAYANAN M. 1992, Disconnected operation in the coda file system, «ACM Transactions on Computer Systems», 10, 1.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kistler",
+     "given": "J."
+    },
+    {
+     "family": "Satyanarayanan",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Disconnected operation in the coda file system",
+   "is_part_of": [
+    "ACM Transactions on Computer Systems"
+   ],
+   "volume": "10",
+   "issue": "1",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "RYAN N.S., PASCOE J., MORSE D. 1999, Enhanced reality fieldwork: the context aware archaeological assistant, in L. DINGWALL, S. EXON, V. GAFFNEY, S. LAFLIN, M. VAN LEUSEN (eds.), Archaeology in the Age of the Internet, CAA97 Proceedings, BAR International Series 750, Oxford, 279.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ryan",
+     "given": "N.S."
+    },
+    {
+     "family": "Pascoe",
+     "given": "J."
+    },
+    {
+     "family": "Morse",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Enhanced reality fieldwork: the context aware archaeological assistant",
+   "is_part_of": [
+    "Archaeology in the Age of the Internet. CAA 1997 Proceedings of the 25th Anniversary Conference"
+   ],
+   "pages": "279",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "SYSLAT 1995, Aide à l’enregistrement de la documentation archéologique, Centre de Documentation Archéologique de Gard, Nîmes.",
+   "type": "other",
+   "date": "1995",
+   "title": "Aide à l’enregistrement de la documentation archéologique",
+   "publisher": "Centre de Documentation Archéologique de Gard",
+   "place": "Nîmes",
+   "language": "fre",
+   "notes": "author given as SYSLAT (project name), no personal creator"
+  },
+  {
+   "position": 9,
+   "raw": "TEGIC COMMUNICATIONS INC., T9 - The Ultimate Text Input Power Tool!, http:/www.t9.com/palmpilot_specs.stm#features.",
+   "type": "other",
+   "title": "T9 - The Ultimate Text Input Power Tool!",
+   "language": "eng",
+   "uri": "http://www.t9.com/palmpilot_specs.stm#features",
+   "notes": "Tegic Communications Inc., web page, undated"
+  },
+  {
+   "position": 10,
+   "raw": "TELXON CORPORATION, Beyond The Radio: Developing Complete Wireless System Solutions, http:/www.telxon.com/pp-2.htm",
+   "type": "other",
+   "title": "Beyond The Radio: Developing Complete Wireless System Solutions",
+   "language": "eng",
+   "uri": "http://www.telxon.com/pp-2.htm",
+   "notes": "Telxon Corporation, web page, undated"
+  },
+  {
+   "position": 11,
+   "raw": "TINÉ S. et al. 1997, Poliochni 1991-1995. I nuovi dati, Monographies, Scuola Archeologica Italiana di Atene, Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tiné",
+     "given": "S."
+    }
+   ],
+   "date": "1997",
+   "title": "Poliochni 1991-1995. I nuovi dati",
+   "series": "Monographies, Scuola Archeologica Italiana di Atene",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "low",
+   "notes": "cited \"TINÉ S. et al.\"; other authors unknown"
+  }
+ ]
+}

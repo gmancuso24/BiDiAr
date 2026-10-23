@@ -1,0 +1,705 @@
+{
+ "citing_aec_id": 1090,
+ "source_file": "data/journal/31/1090.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Altaweel M., McMahon A. 2019, *Recent archaeology in Iraq*, «Iraq», 81, 269-272.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Altaweel",
+     "given": "M."
+    },
+    {
+     "family": "McMahon",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "title": "Recent archaeology in Iraq",
+   "is_part_of": [
+    "Iraq"
+   ],
+   "volume": "81",
+   "pages": "269-272",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Altaweel M., Squitieri A. 2018, *Revolutionizing a World: From Small States to Universalism in the Pre-Islamic Near East*, London, UCL Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Altaweel",
+     "given": "M."
+    },
+    {
+     "family": "Squitieri",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Revolutionizing a World: From Small States to Universalism in the Pre-Islamic Near East",
+   "language": "eng",
+   "publisher": "UCL Press",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Altaweel M., Watanabe C. 2012, *Assessing the resilience of irrigation agriculture: Applying a social-ecological model for understanding the mitigation of salization*, «Journal of Archaeological Science», 39, 1160-1171.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Altaweel",
+     "given": "M."
+    },
+    {
+     "family": "Watanabe",
+     "given": "C."
+    }
+   ],
+   "date": "2012",
+   "title": "Assessing the resilience of irrigation agriculture: Applying a social-ecological model for understanding the mitigation of salization",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "39",
+   "pages": "1160-1171",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Emberling G., Hanson K. (eds.) 2008, *Catastrophe! The Looting and Destruction of Iraq's Past*, Chicago, The University of Chicago Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Emberling",
+     "given": "G."
+    },
+    {
+     "family": "Hanson",
+     "given": "K."
+    }
+   ],
+   "date": "2008",
+   "title": "Catastrophe! The Looting and Destruction of Iraq's Past",
+   "language": "eng",
+   "publisher": "The University of Chicago Press",
+   "place": "Chicago",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Freedman D.N. (ed.) 1979, *Archaeological Reports from the Tabqa Dam Project – Euphrates Valley, Syria*, Cambridge MA, American School of Oriental Research.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Freedman",
+     "given": "D.N."
+    }
+   ],
+   "date": "1979",
+   "title": "Archaeological Reports from the Tabqa Dam Project – Euphrates Valley, Syria",
+   "language": "eng",
+   "publisher": "American School of Oriental Research",
+   "place": "Cambridge MA",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Gasche H., Tanret M. (eds.) 1998, *Changing Watercourses in Babylonia. Towards a Reconstruction of the Ancient Environment in Lower Mesopotamia*, Chicago, Oriental Institute of the University of Chicago.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Gasche",
+     "given": "H."
+    },
+    {
+     "family": "Tanret",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Changing Watercourses in Babylonia. Towards a Reconstruction of the Ancient Environment in Lower Mesopotamia",
+   "language": "eng",
+   "publisher": "Oriental Institute of the University of Chicago",
+   "place": "Chicago",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "George A.R. 1993, *House Most High: The Temples of Ancient Mesopotamia*, Winona Lake, Eisenbrauns.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "George",
+     "given": "A.R."
+    }
+   ],
+   "date": "1993",
+   "title": "House Most High: The Temples of Ancient Mesopotamia",
+   "language": "eng",
+   "publisher": "Eisenbrauns",
+   "place": "Winona Lake",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Harmanşah Ö. 2015, *Heritage, and the spectacles of destruction in the global media*, «Near Eastern Archaeology», 78, 170-177.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Harmanşah",
+     "given": "Ö."
+    }
+   ],
+   "date": "2015",
+   "title": "Heritage, and the spectacles of destruction in the global media",
+   "is_part_of": [
+    "Near Eastern Archaeology"
+   ],
+   "volume": "78",
+   "pages": "170-177",
+   "language": "eng",
+   "notes": "title as cited (the word ISIS at the start is missing)",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Horowitz W. 1998, *Mesopotamian Cosmic Geography*, Winona Lake, Eisenbrauns.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Horowitz",
+     "given": "W."
+    }
+   ],
+   "date": "1998",
+   "title": "Mesopotamian Cosmic Geography",
+   "language": "eng",
+   "publisher": "Eisenbrauns",
+   "place": "Winona Lake",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Jacobsen T. 1982, *Salinity and Irrigation Agriculture in Antiquity*, Bibliotheca Mesopotamica 14, Malibu, Undena Publication.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jacobsen",
+     "given": "T."
+    }
+   ],
+   "date": "1982",
+   "title": "Salinity and Irrigation Agriculture in Antiquity",
+   "language": "eng",
+   "series": "Bibliotheca Mesopotamica",
+   "series_number": "14",
+   "publisher": "Undena Publication",
+   "place": "Malibu",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Kopanias K., MacGinnis J. (eds.) 2016, *The Archaeology of the Kurdistan Region of Iraq and Adjacent Regions*, Oxford, Archaeopress.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Kopanias",
+     "given": "K."
+    },
+    {
+     "family": "MacGinnis",
+     "given": "J."
+    }
+   ],
+   "date": "2016",
+   "title": "The Archaeology of the Kurdistan Region of Iraq and Adjacent Regions",
+   "language": "eng",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Kopanias K., MacGinnis J., Ur J. (eds.) 2015, *Archaeological Projects in the Kurdistan Region in Iraq*, Erbil, Directorate of Antiquities of the Kurdistan Regional Government.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Kopanias",
+     "given": "K."
+    },
+    {
+     "family": "MacGinnis",
+     "given": "J."
+    },
+    {
+     "family": "Ur",
+     "given": "J."
+    }
+   ],
+   "date": "2015",
+   "title": "Archaeological Projects in the Kurdistan Region in Iraq",
+   "language": "eng",
+   "publisher": "Directorate of Antiquities of the Kurdistan Regional Government",
+   "place": "Erbil",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Liverani M. 2018, *Paradiso e dintorni. Il paesaggio rurale dell'antico Oriente*, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Liverani",
+     "given": "M."
+    }
+   ],
+   "date": "2018",
+   "title": "Paradiso e dintorni. Il paesaggio rurale dell'antico Oriente",
+   "language": "ita",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Marchetti N., Curci A., Gatto M.C., Nicolini S., Mühl S., Zaina F. 2019, *A multi-scalar approach for assessing the impact of dams on the cultural heritage in the Middle East and North Africa*, «Journal of Cultural Heritage», 37, 17-28.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Marchetti",
+     "given": "N."
+    },
+    {
+     "family": "Curci",
+     "given": "A."
+    },
+    {
+     "family": "Gatto",
+     "given": "M.C."
+    },
+    {
+     "family": "Nicolini",
+     "given": "S."
+    },
+    {
+     "family": "Mühl",
+     "given": "S."
+    },
+    {
+     "family": "Zaina",
+     "given": "F."
+    }
+   ],
+   "date": "2019",
+   "title": "A multi-scalar approach for assessing the impact of dams on the cultural heritage in the Middle East and North Africa",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "37",
+   "pages": "17-28",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Matthiae P. 1994, *Il sovrano e l'opera. Arte e potere nella Mesopotamia antica*, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Matthiae",
+     "given": "P."
+    }
+   ],
+   "date": "1994",
+   "title": "Il sovrano e l'opera. Arte e potere nella Mesopotamia antica",
+   "language": "ita",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Nicholson E., Clark P. (eds.) 2003, *The Iraqi Marshlands: A Human and Environmental Study*, London, Politico's Publishing.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Nicholson",
+     "given": "E."
+    },
+    {
+     "family": "Clark",
+     "given": "P."
+    }
+   ],
+   "date": "2003",
+   "title": "The Iraqi Marshlands: A Human and Environmental Study",
+   "language": "eng",
+   "publisher": "Politico's Publishing",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Orazi R. 2019, *The Archaeological Environmental Park of Sennacherib's Irrigation Network. Recording, Conservation and Management of the Cultural Heritage of the Northern Region of Iraqi Kurdistan*, Udine, Forum.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Orazi",
+     "given": "R."
+    }
+   ],
+   "date": "2019",
+   "title": "The Archaeological Environmental Park of Sennacherib's Irrigation Network. Recording, Conservation and Management of the Cultural Heritage of the Northern Region of Iraqi Kurdistan",
+   "language": "eng",
+   "publisher": "Forum",
+   "place": "Udine",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Paulette T. 2012, *Domination and resilience in Bronze Age Mesopotamia*, in J. Cooper, P. Sheets (eds.), *Surviving Sudden Environmental Change: Answers from Archaeology*, Boulder CO, University Press of Colorado, 167-195.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Paulette",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cooper",
+     "given": "J."
+    },
+    {
+     "family": "Sheets",
+     "given": "P."
+    }
+   ],
+   "date": "2012",
+   "title": "Domination and resilience in Bronze Age Mesopotamia",
+   "is_part_of": [
+    "Surviving Sudden Environmental Change: Answers from Archaeology"
+   ],
+   "pages": "167-195",
+   "language": "eng",
+   "publisher": "University Press of Colorado",
+   "place": "Boulder CO",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Peyronel L., Vacca A. 2015, *Northern Ubaid and Late Chalcolithic 1-3 Periods in the Erbil Plain. New insights from recent researches at Helawa, Iraqi Kurdistan*, «Origini», 37, 89-126.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peyronel",
+     "given": "L."
+    },
+    {
+     "family": "Vacca",
+     "given": "A."
+    }
+   ],
+   "date": "2015",
+   "title": "Northern Ubaid and Late Chalcolithic 1-3 Periods in the Erbil Plain. New insights from recent researches at Helawa, Iraqi Kurdistan",
+   "is_part_of": [
+    "Origini"
+   ],
+   "volume": "37",
+   "pages": "89-126",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Peyronel L., Vacca A. c.s., *The Italian archaeological project in the Erbil plain (2013-2017)*, in A. Otto *et al.* (eds.), *Proceedings of the 11th ICAANE (Munich 2018)*, Wiesbaden, Harrassowitz, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Peyronel",
+     "given": "L."
+    },
+    {
+     "family": "Vacca",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Otto",
+     "given": "A."
+    },
+    {
+     "family": "Herles",
+     "given": "M."
+    },
+    {
+     "family": "Kaniuth",
+     "given": "K."
+    },
+    {
+     "family": "Korn",
+     "given": "L."
+    },
+    {
+     "family": "Heidenreich",
+     "given": "A."
+    }
+   ],
+   "date": "2020",
+   "title": "The Italian archaeological project in the Erbil plain (2013-2017)",
+   "is_part_of": [
+    "Proceedings of the 11th International Congress on the Archaeology of the Ancient Near East"
+   ],
+   "volume": "2",
+   "pages": "317-330",
+   "language": "eng",
+   "publisher": "Harrassowitz",
+   "place": "Wiesbaden",
+   "cs": {
+    "status": "resolved",
+    "source": "https://air.unimi.it/handle/2434/745444"
+   },
+   "notes": "cited c.s. in A. Otto et al. (eds.), Proceedings of the 11th ICAANE (Munich 2018); published 2020, vol. 2 Field Reports. Islamic Archaeology, pp. 317-330, same title and authors",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Polk M., Schuster M.H. (eds.) 2005, *The Looting of the Iraq Museum, Baghdad: The Lost Legacy of Ancient Mesopotamia*, New York, Abrams Publishers.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Polk",
+     "given": "M."
+    },
+    {
+     "family": "Schuster",
+     "given": "M.H."
+    }
+   ],
+   "date": "2005",
+   "title": "The Looting of the Iraq Museum, Baghdad: The Lost Legacy of Ancient Mesopotamia",
+   "language": "eng",
+   "publisher": "Abrams Publishers",
+   "place": "New York",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Pollock S. 1999, *Ancient Mesopotamia: The Eden that never was*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pollock",
+     "given": "S."
+    }
+   ],
+   "date": "1999",
+   "title": "Ancient Mesopotamia: The Eden that never was",
+   "language": "eng",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Rosen A.M. 2007, *Civilizing Climate: Social Responses to Climate Change in the Ancient Near East*, New York, Alta Mira Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rosen",
+     "given": "A.M."
+    }
+   ],
+   "date": "2007",
+   "title": "Civilizing Climate: Social Responses to Climate Change in the Ancient Near East",
+   "language": "eng",
+   "publisher": "Alta Mira Press",
+   "place": "New York",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Stone E.C. 2015, *An update on the looting of archaeological sites in Iraq*, «Near Eastern Archaeology», 78, 178-186.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Stone",
+     "given": "E.C."
+    }
+   ],
+   "date": "2015",
+   "title": "An update on the looting of archaeological sites in Iraq",
+   "is_part_of": [
+    "Near Eastern Archaeology"
+   ],
+   "volume": "78",
+   "pages": "178-186",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Ur J. 2017, *The Archaeological Renaissance in the Kurdistan Region of Iraq*, «Near Eastern Archaeology», 80, 176-187.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ur",
+     "given": "J."
+    }
+   ],
+   "date": "2017",
+   "title": "The Archaeological Renaissance in the Kurdistan Region of Iraq",
+   "is_part_of": [
+    "Near Eastern Archaeology"
+   ],
+   "volume": "80",
+   "pages": "176-187",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Weiss H. (ed.) 1986, *The Origins of Cities in Dry-farming Syria*, Guilford CO, Four Quarters Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Weiss",
+     "given": "H."
+    }
+   ],
+   "date": "1986",
+   "title": "The Origins of Cities in Dry-farming Syria",
+   "language": "eng",
+   "publisher": "Four Quarters Press",
+   "place": "Guilford CO",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Weiss H. 2017, *4.2 ka BP megadrought and the Akkadian collapse*, in H. Weiss (ed.), *Megadrought and Collapse: From Early Agriculture to Angkor*, Oxford, Oxford University Press, 93-160.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Weiss",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Weiss",
+     "given": "H."
+    }
+   ],
+   "date": "2017",
+   "title": "4.2 ka BP megadrought and the Akkadian collapse",
+   "is_part_of": [
+    "Megadrought and Collapse: From Early Agriculture to Angkor"
+   ],
+   "pages": "93-160",
+   "language": "eng",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Wilkinson T.J. 2000, *Regional approaches to Mesopotamian archaeology: The contribution of archaeological surveys*, «Journal of Archaeological Research», 8, 219-267.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wilkinson",
+     "given": "T.J."
+    }
+   ],
+   "date": "2000",
+   "title": "Regional approaches to Mesopotamian archaeology: The contribution of archaeological surveys",
+   "is_part_of": [
+    "Journal of Archaeological Research"
+   ],
+   "volume": "8",
+   "pages": "219-267",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Wilkinson T.J. 2012, *Introduction to geography, climate, topography and hydrology*, in D.T. Potts (ed.), *Blackwell's Companion to the Archaeology of the Ancient Near East*, 1, Oxford, Blackwells, 3-26.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wilkinson",
+     "given": "T.J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Potts",
+     "given": "D.T."
+    }
+   ],
+   "date": "2012",
+   "title": "Introduction to geography, climate, topography and hydrology",
+   "is_part_of": [
+    "Blackwell's Companion to the Archaeology of the Ancient Near East"
+   ],
+   "volume": "1",
+   "pages": "3-26",
+   "language": "eng",
+   "publisher": "Blackwells",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Wilkinson T.J., Gibson McG., Widell M. (eds.) 2013, *Models of Mesopotamian Landscapes*, BAR International Series 2552, Oxford, Archaeopress.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Wilkinson",
+     "given": "T.J."
+    },
+    {
+     "family": "Gibson",
+     "given": "McG."
+    },
+    {
+     "family": "Widell",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Models of Mesopotamian Landscapes",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "2552",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Wossink A. 2009, *Challenging Climate Change: Competition and Cooperation among Pastoralists and Agriculturalists in Northern Mesopotamia (c. 3000-1600 BC)*, Leiden, Sidestone Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wossink",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "Challenging Climate Change: Competition and Cooperation among Pastoralists and Agriculturalists in Northern Mesopotamia (c. 3000-1600 BC)",
+   "language": "eng",
+   "publisher": "Sidestone Press",
+   "place": "Leiden",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,1173 @@
+{
+ "citing_aec_id": 1505,
+ "source_file": "data/journal/37/1505.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bauman Z. 1998, On glocalization: Or globalization for some, localization for some others, «Thesis Eleven», 54, 1, 37-49 (https://doi.org/10.1177/0725513698054000004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bauman",
+     "given": "Z."
+    }
+   ],
+   "date": "1998",
+   "title": "On glocalization: Or globalization for some, localization for some others",
+   "is_part_of": [
+    "Thesis Eleven"
+   ],
+   "volume": "54",
+   "issue": "1",
+   "pages": "37-49",
+   "language": "eng",
+   "doi": "10.1177/0725513698054000004"
+  },
+  {
+   "position": 2,
+   "raw": "Bentkowska-Kafel A., Denard H., Baker D. 2012, Paradata and Transparency in Virtual Heritage, Farnham, Ashgate Publishing.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bentkowska-Kafel",
+     "given": "A."
+    },
+    {
+     "family": "Denard",
+     "given": "H."
+    },
+    {
+     "family": "Baker",
+     "given": "D."
+    }
+   ],
+   "date": "2012",
+   "title": "Paradata and Transparency in Virtual Heritage",
+   "publisher": "Ashgate Publishing",
+   "place": "Farnham",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Bevilacqua M. 2004, Nolli Vasi Piranesi. Immagine di Roma antica e moderna. Rappresentare e conoscere la metropoli dei lumi, Roma, Artemide.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bevilacqua",
+     "given": "M."
+    }
+   ],
+   "date": "2004",
+   "title": "Nolli Vasi Piranesi. Immagine di Roma antica e moderna. Rappresentare e conoscere la metropoli dei lumi",
+   "publisher": "Artemide",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Bianconi F., Filippucci M., Migliosi A., Mommi C. 2024, AI-D. Algorithmic experiments with AI to aid drawing, «SCIRES-IT», 14, 2, 31-48 (https://doi.org/10.2423/i22394303v14n2p31).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bianconi",
+     "given": "F."
+    },
+    {
+     "family": "Filippucci",
+     "given": "M."
+    },
+    {
+     "family": "Migliosi",
+     "given": "A."
+    },
+    {
+     "family": "Mommi",
+     "given": "C."
+    }
+   ],
+   "date": "2024",
+   "title": "AI-D. Algorithmic experiments with AI to aid drawing",
+   "is_part_of": [
+    "SCIRES-IT"
+   ],
+   "volume": "14",
+   "issue": "2",
+   "pages": "31-48",
+   "language": "eng",
+   "doi": "10.2423/i22394303v14n2p31"
+  },
+  {
+   "position": 5,
+   "raw": "Bianconi F., Filippucci M., Migliosi A., Mommi C. 2025, AI style transfer. Utilizzo e controllo di workflow nodali per l’espressività del disegno architettonico, in 3D Modeling & BIM proliferazioni, Roma, Publica, 67-75.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bianconi",
+     "given": "F."
+    },
+    {
+     "family": "Filippucci",
+     "given": "M."
+    },
+    {
+     "family": "Migliosi",
+     "given": "A."
+    },
+    {
+     "family": "Mommi",
+     "given": "C."
+    }
+   ],
+   "date": "2025",
+   "title": "AI style transfer. Utilizzo e controllo di workflow nodali per l’espressività del disegno architettonico",
+   "is_part_of": [
+    "3D Modeling & BIM proliferazioni"
+   ],
+   "pages": "67-75",
+   "publisher": "Publica",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Bloomer J. 1993, Architecture and the Text: The (S) Crypts of Joyce and Piranesi, Yale, University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bloomer",
+     "given": "J."
+    }
+   ],
+   "date": "1993",
+   "title": "Architecture and the Text: The (S) Crypts of Joyce and Piranesi",
+   "publisher": "Yale University Press",
+   "place": "Yale",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Carpo M. 2023, Beyond Digital: Design and Automation at the End of Modernity, Cambridge, MA, MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carpo",
+     "given": "M."
+    }
+   ],
+   "date": "2023",
+   "title": "Beyond Digital: Design and Automation at the End of Modernity",
+   "publisher": "MIT Press",
+   "place": "Cambridge, MA",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Catelli-Isola M. 1978, Trofeo o sia magnifica colonna coclide, in A. Bettagno (ed.), Piranesi incisioni-rami-legature-architetture, Vicenza, Neri Pozza, 62.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Catelli-Isola",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bettagno",
+     "given": "A."
+    }
+   ],
+   "date": "1978",
+   "title": "Trofeo o sia magnifica colonna coclide",
+   "is_part_of": [
+    "Piranesi incisioni-rami-legature-architetture"
+   ],
+   "pages": "62",
+   "publisher": "Neri Pozza",
+   "place": "Vicenza",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "Copper C., Harrison P.H., Yang Z. 2024, Artificial Intelligence literacy: Collaborating to support image research in architecture education, in 112th ACSA Annual Meeting Proceedings, Disruptors on the Edge (https://doi.org/10.35483/acsa.am.112.21).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Copper",
+     "given": "C."
+    },
+    {
+     "family": "Harrison",
+     "given": "P.H."
+    },
+    {
+     "family": "Yang",
+     "given": "Z."
+    }
+   ],
+   "date": "2024",
+   "title": "Artificial Intelligence literacy: Collaborating to support image research in architecture education",
+   "is_part_of": [
+    "112th ACSA Annual Meeting Proceedings, Disruptors on the Edge"
+   ],
+   "language": "eng",
+   "doi": "10.35483/acsa.am.112.21"
+  },
+  {
+   "position": 10,
+   "raw": "Dal Co F. 2000, Giovan Battista Piranesi, in Storia dell’architettura italiana. Il Settecento, Milano, Electa, 580-611.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dal Co",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "Giovan Battista Piranesi",
+   "is_part_of": [
+    "Storia dell’architettura italiana. Il Settecento"
+   ],
+   "pages": "580-611",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "Del Campo M. 2022, Machine Hallucinations: Architecture & Artificial Intelligence, Hoboken, John Wiley & Sons Inc.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Del Campo",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "Machine Hallucinations: Architecture & Artificial Intelligence",
+   "publisher": "John Wiley & Sons Inc.",
+   "place": "Hoboken",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Del Campo M., Carpo M. 2022, Neural Architecture: Design and Artificial Intelligence, Novato, CA, Oro Editions.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Del Campo",
+     "given": "M."
+    },
+    {
+     "family": "Carpo",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "Neural Architecture: Design and Artificial Intelligence",
+   "publisher": "Oro Editions",
+   "place": "Novato, CA",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Docci M., Chiavoni E. 2017, Saper leggere l’architettura, Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Docci",
+     "given": "M."
+    },
+    {
+     "family": "Chiavoni",
+     "given": "E."
+    }
+   ],
+   "date": "2017",
+   "title": "Saper leggere l’architettura",
+   "publisher": "Laterza",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "Eisenstein E.L. 1980, The Printing Press as an Agent of Change, Cambridge, University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Eisenstein",
+     "given": "E.L."
+    }
+   ],
+   "date": "1980",
+   "title": "The Printing Press as an Agent of Change",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Ejzenštejn S.M. 1980, Piranesi o la fluidità delle forme, in M. Tafuri (ed.), La sfera e il labirinto. Avanguardie e architettura da Piranesi agli anni ’70, Torino, Einaudi, 89-110.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ejzenštejn",
+     "given": "S.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Tafuri",
+     "given": "M."
+    }
+   ],
+   "date": "1980",
+   "title": "Piranesi o la fluidità delle forme",
+   "is_part_of": [
+    "La sfera e il labirinto. Avanguardie e architettura da Piranesi agli anni ’70"
+   ],
+   "pages": "89-110",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Ernst B. 1986, Adventures with Impossible Figures, London, Tarquin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ernst",
+     "given": "B."
+    }
+   ],
+   "date": "1986",
+   "title": "Adventures with Impossible Figures",
+   "publisher": "Tarquin",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Favro D. 2012, Se non è vero, è ben trovato (If not true, it is well conceived). Digital immersive reconstructions of historical environments, «Journal of the Society of Architectural Historians», 71, 3, 273-277 (https://doi.org/10.1525/jsah.2012.71.3.273).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Favro",
+     "given": "D."
+    }
+   ],
+   "date": "2012",
+   "title": "Se non è vero, è ben trovato (If not true, it is well conceived). Digital immersive reconstructions of historical environments",
+   "is_part_of": [
+    "Journal of the Society of Architectural Historians"
+   ],
+   "volume": "71",
+   "issue": "3",
+   "pages": "273-277",
+   "language": "eng",
+   "doi": "10.1525/jsah.2012.71.3.273"
+  },
+  {
+   "position": 18,
+   "raw": "Ficacci L., Tozzi S. 2017, Piranesi: la fabbrica dell’utopia, Roma, De Luca editori d’arte.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ficacci",
+     "given": "L."
+    },
+    {
+     "family": "Tozzi",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Piranesi: la fabbrica dell’utopia",
+   "publisher": "De Luca editori d’arte",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Garms J. 1978, Prima parte di Architetture e Prospettive (1743), in A. Bettagno (ed.), Piranesi incisioni-rami-legature-architetture, Vicenza, Neri, 16-24.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Garms",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bettagno",
+     "given": "A."
+    }
+   ],
+   "date": "1978",
+   "title": "Prima parte di Architetture e Prospettive (1743)",
+   "is_part_of": [
+    "Piranesi incisioni-rami-legature-architetture"
+   ],
+   "pages": "16-24",
+   "publisher": "Neri",
+   "place": "Vicenza",
+   "language": "ita"
+  },
+  {
+   "position": 20,
+   "raw": "Gioseffi D. 1957, Perspectiva artificialis: Per la storia della prospettiva; spigolature e appunti, Trieste, Università degli Studi di Trieste, Facoltà di Lettere e Filosofia.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gioseffi",
+     "given": "D."
+    }
+   ],
+   "date": "1957",
+   "title": "Perspectiva artificialis: Per la storia della prospettiva; spigolature e appunti",
+   "publisher": "Università degli Studi di Trieste, Facoltà di Lettere e Filosofia",
+   "place": "Trieste",
+   "language": "ita"
+  },
+  {
+   "position": 21,
+   "raw": "Goethe J.W. 2013, Viaggio in Italia, Milano, Mondadori.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Goethe",
+     "given": "J.W."
+    }
+   ],
+   "date": "2013",
+   "title": "Viaggio in Italia",
+   "publisher": "Mondadori",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "Hodder I. 1999, The Archaeological Process: An Introduction, Oxford, Blackwell.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1999",
+   "title": "The Archaeological Process: An Introduction",
+   "publisher": "Blackwell",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Hodder I., Hutson S. 2003, Reading the Past: Current Approaches to Interpretation in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    },
+    {
+     "family": "Hutson",
+     "given": "S."
+    }
+   ],
+   "date": "2003",
+   "title": "Reading the Past: Current Approaches to Interpretation in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "Hölscher T., Borg B. 2010, L’archeologia classica: un’introduzione, Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hölscher",
+     "given": "T."
+    },
+    {
+     "family": "Borg",
+     "given": "B."
+    }
+   ],
+   "date": "2010",
+   "title": "L’archeologia classica: un’introduzione",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 25,
+   "raw": "Leach N. 2021, Architecture in the Age of Artificial Intelligence: An Introduction to AI for Architects, London, Bloomsbury (https://doi.org/10.5040/9781350165557).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Leach",
+     "given": "N."
+    }
+   ],
+   "date": "2021",
+   "title": "Architecture in the Age of Artificial Intelligence: An Introduction to AI for Architects",
+   "publisher": "Bloomsbury",
+   "place": "London",
+   "language": "eng",
+   "doi": "10.5040/9781350165557"
+  },
+  {
+   "position": 26,
+   "raw": "Lévy P. 1994, L’intelligence collective. Pour une anthropologie du cyberspace, Paris, La Découverte.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lévy",
+     "given": "P."
+    }
+   ],
+   "date": "1994",
+   "title": "L’intelligence collective. Pour une anthropologie du cyberspace",
+   "publisher": "La Découverte",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 27,
+   "raw": "Limoncelli M. 2012, Il restauro virtuale in archeologia, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Limoncelli",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Il restauro virtuale in archeologia",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 28,
+   "raw": "Maclaren S.F. 2005, La magnificenza e il suo doppio: il pensiero estetico di Giovanni Battista Piranesi, Milano, Mimesis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Maclaren",
+     "given": "S.F."
+    }
+   ],
+   "date": "2005",
+   "title": "La magnificenza e il suo doppio: il pensiero estetico di Giovanni Battista Piranesi",
+   "publisher": "Mimesis",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 29,
+   "raw": "Marcos C.L. 2014, Carceri di invenzione o lo spazio come tema, «Disegnare idee immagini», 48, 44-55.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Marcos",
+     "given": "C.L."
+    }
+   ],
+   "date": "2014",
+   "title": "Carceri di invenzione o lo spazio come tema",
+   "is_part_of": [
+    "Disegnare idee immagini"
+   ],
+   "volume": "48",
+   "pages": "44-55",
+   "language": "ita"
+  },
+  {
+   "position": 30,
+   "raw": "Meshy AI 2023, Meshy AI: Image-to-3D Generation Platform (https://www.meshy.ai/).",
+   "type": "other",
+   "date": "2023",
+   "title": "Meshy AI: Image-to-3D Generation Platform",
+   "language": "eng",
+   "uri": "https://www.meshy.ai/",
+   "notes": "cited as Meshy AI 2023 (web platform)"
+  },
+  {
+   "position": 31,
+   "raw": "Misiti M.C., Scaloni G. (eds.) 2022, Giambattista Piranesi: sognare il sogno impossibile, Roma, Istituto Centrale per la Grafica.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Misiti",
+     "given": "M.C."
+    },
+    {
+     "family": "Scaloni",
+     "given": "G."
+    }
+   ],
+   "date": "2022",
+   "title": "Giambattista Piranesi: sognare il sogno impossibile",
+   "publisher": "Istituto Centrale per la Grafica",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 32,
+   "raw": "Nodier C. 2001, Piranesi. Racconti psicologici sulla monomania riflessiva, Milano, Pagine d’arte.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nodier",
+     "given": "C."
+    }
+   ],
+   "date": "2001",
+   "title": "Piranesi. Racconti psicologici sulla monomania riflessiva",
+   "publisher": "Pagine d’arte",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 33,
+   "raw": "Nucciotti M., Bonacchi C., Molducci C. (eds.) 2019, Archeologia pubblica in Italia, Firenze, Firenze University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Nucciotti",
+     "given": "M."
+    },
+    {
+     "family": "Bonacchi",
+     "given": "C."
+    },
+    {
+     "family": "Molducci",
+     "given": "C."
+    }
+   ],
+   "date": "2019",
+   "title": "Archeologia pubblica in Italia",
+   "publisher": "Firenze University Press",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 34,
+   "raw": "Panza P. 2009, La croce e la sfinge: vita scellerata di Giovan Battista Piranesi, Milano, Bompiani.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Panza",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "La croce e la sfinge: vita scellerata di Giovan Battista Piranesi",
+   "publisher": "Bompiani",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 35,
+   "raw": "Panza P. 2017, Museo Piranesi, Milano, Skira.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Panza",
+     "given": "P."
+    }
+   ],
+   "date": "2017",
+   "title": "Museo Piranesi",
+   "publisher": "Skira",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 36,
+   "raw": "Purini F. 2008a, Attualità di Giovanni Battista Piranesi, Melfi, Libria.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Purini",
+     "given": "F."
+    }
+   ],
+   "date": "2008",
+   "title": "Attualità di Giovanni Battista Piranesi",
+   "publisher": "Libria",
+   "place": "Melfi",
+   "language": "ita"
+  },
+  {
+   "position": 37,
+   "raw": "Purini F. 2008b, La misura italiana dell’architettura, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Purini",
+     "given": "F."
+    }
+   ],
+   "date": "2008",
+   "title": "La misura italiana dell’architettura",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita"
+  },
+  {
+   "position": 38,
+   "raw": "Rapp J. 2014, A geometrical analysis of multiple viewpoint perspective in the work of Giovanni Battista Piranesi: An application of geometric restitution of perspective, in I. Borden, K. Rüedi Ray (eds.), The Dissertation: A Guide for Architecture Students, London, Routledge, 172-213.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rapp",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Borden",
+     "given": "I."
+    },
+    {
+     "family": "Rüedi Ray",
+     "given": "K."
+    }
+   ],
+   "date": "2014",
+   "title": "A geometrical analysis of multiple viewpoint perspective in the work of Giovanni Battista Piranesi: An application of geometric restitution of perspective",
+   "is_part_of": [
+    "The Dissertation: A Guide for Architecture Students"
+   ],
+   "pages": "172-213",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 39,
+   "raw": "Rombach R., Blattmann A., Lorenz D., Esser P., Ommer B. 2022, High-resolution image synthesis with latent diffusion models, in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, 10684-10695 (https://doi.org/10.1109/CVPR52688.2022.01042).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rombach",
+     "given": "R."
+    },
+    {
+     "family": "Blattmann",
+     "given": "A."
+    },
+    {
+     "family": "Lorenz",
+     "given": "D."
+    },
+    {
+     "family": "Esser",
+     "given": "P."
+    },
+    {
+     "family": "Ommer",
+     "given": "B."
+    }
+   ],
+   "date": "2022",
+   "title": "High-resolution image synthesis with latent diffusion models",
+   "is_part_of": [
+    "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+   ],
+   "pages": "10684-10695",
+   "place": "New Orleans",
+   "language": "eng",
+   "doi": "10.1109/CVPR52688.2022.01042"
+  },
+  {
+   "position": 40,
+   "raw": "de Rubertis R. 1994, Il disegno dell’architettura, Roma, NIS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "de Rubertis",
+     "given": "R."
+    }
+   ],
+   "date": "1994",
+   "title": "Il disegno dell’architettura",
+   "publisher": "NIS",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 41,
+   "raw": "de Rubertis R., Filippucci M., Caponi T. 2014, Rilievo e archeologia. L’esperienza della scuola romana in Umbria e il suo valore, in Italian Survey & International Experience, Roma, Gangemi, 261-270.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "de Rubertis",
+     "given": "R."
+    },
+    {
+     "family": "Filippucci",
+     "given": "M."
+    },
+    {
+     "family": "Caponi",
+     "given": "T."
+    }
+   ],
+   "date": "2014",
+   "title": "Rilievo e archeologia. L’esperienza della scuola romana in Umbria e il suo valore",
+   "is_part_of": [
+    "Italian Survey & International Experience"
+   ],
+   "pages": "261-270",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 42,
+   "raw": "Shanks M. 1992, Experiencing the Past: On the Character of Archaeology, London, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Shanks",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Experiencing the Past: On the Character of Archaeology",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 43,
+   "raw": "Shanks M., Tilley C.Y. 1987, Social Theory and Archaeology, Cambridge, Polity Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Shanks",
+     "given": "M."
+    },
+    {
+     "family": "Tilley",
+     "given": "C.Y."
+    }
+   ],
+   "date": "1987",
+   "title": "Social Theory and Archaeology",
+   "publisher": "Polity Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 44,
+   "raw": "Stoppani T. 2006, Voyaging in Piranesi’s space: A contemporary re-reading of the beginnings of modernity, «Haecceity Papers», 1, 2, 32-54.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Stoppani",
+     "given": "T."
+    }
+   ],
+   "date": "2006",
+   "title": "Voyaging in Piranesi’s space: A contemporary re-reading of the beginnings of modernity",
+   "is_part_of": [
+    "Haecceity Papers"
+   ],
+   "volume": "1",
+   "issue": "2",
+   "pages": "32-54",
+   "language": "eng"
+  },
+  {
+   "position": 45,
+   "raw": "Tafuri M. 1980, La sfera e il labirinto. Avanguardie e architettura da Piranesi agli anni’70, Torino, Einaudi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tafuri",
+     "given": "M."
+    }
+   ],
+   "date": "1980",
+   "title": "La sfera e il labirinto. Avanguardie e architettura da Piranesi agli anni’70",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita"
+  },
+  {
+   "position": 46,
+   "raw": "Team G., Anil R., Borgeaud S., Alayrac J.-B., Yu J., Soricut R., Schalkwyk J., Dai A.M., Hauth A., Millican K. 2023, Gemini: a family of highly capable multimodal models, «arXiv preprint, arXiv:2312.11805».",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Team",
+     "given": "G."
+    },
+    {
+     "family": "Anil",
+     "given": "R."
+    },
+    {
+     "family": "Borgeaud",
+     "given": "S."
+    },
+    {
+     "family": "Alayrac",
+     "given": "J.-B."
+    },
+    {
+     "family": "Yu",
+     "given": "J."
+    },
+    {
+     "family": "Soricut",
+     "given": "R."
+    },
+    {
+     "family": "Schalkwyk",
+     "given": "J."
+    },
+    {
+     "family": "Dai",
+     "given": "A.M."
+    },
+    {
+     "family": "Hauth",
+     "given": "A."
+    },
+    {
+     "family": "Millican",
+     "given": "K."
+    }
+   ],
+   "date": "2023",
+   "title": "Gemini: a family of highly capable multimodal models",
+   "is_part_of": [
+    "arXiv"
+   ],
+   "volume": "2312.11805",
+   "language": "eng"
+  },
+  {
+   "position": 47,
+   "raw": "Thomas H. 1954, The Drawings of Giovanni Battista Piranesi, London, Faber & Faber.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Thomas",
+     "given": "H."
+    }
+   ],
+   "date": "1954",
+   "title": "The Drawings of Giovanni Battista Piranesi",
+   "publisher": "Faber & Faber",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 48,
+   "raw": "Tochilkin D., Pankratz D., Liu Z., Huang Z., Letts A., Li Y., Liang D., Laforte C., Jampani V., Cao Y.-P. 2024, Triposr: Fast 3d object reconstruction from a single image, «arXiv preprint, arXiv:2403.02151».",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tochilkin",
+     "given": "D."
+    },
+    {
+     "family": "Pankratz",
+     "given": "D."
+    },
+    {
+     "family": "Liu",
+     "given": "Z."
+    },
+    {
+     "family": "Huang",
+     "given": "Z."
+    },
+    {
+     "family": "Letts",
+     "given": "A."
+    },
+    {
+     "family": "Li",
+     "given": "Y."
+    },
+    {
+     "family": "Liang",
+     "given": "D."
+    },
+    {
+     "family": "Laforte",
+     "given": "C."
+    },
+    {
+     "family": "Jampani",
+     "given": "V."
+    },
+    {
+     "family": "Cao",
+     "given": "Y.-P."
+    }
+   ],
+   "date": "2024",
+   "title": "Triposr: Fast 3d object reconstruction from a single image",
+   "is_part_of": [
+    "arXiv"
+   ],
+   "volume": "2403.02151",
+   "language": "eng"
+  },
+  {
+   "position": 49,
+   "raw": "Trigger B.G. 1989, A History of Archaeological Thought, Cambridge, University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Trigger",
+     "given": "B.G."
+    }
+   ],
+   "date": "1989",
+   "title": "A History of Archaeological Thought",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 50,
+   "raw": "Vogt-Göknil U. 1958, Giovanni Battista Piranesi: Carceri, Zurigo, Origo Verlag.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Vogt-Göknil",
+     "given": "U."
+    }
+   ],
+   "date": "1958",
+   "title": "Giovanni Battista Piranesi: Carceri",
+   "publisher": "Origo Verlag",
+   "place": "Zurigo",
+   "language": "ger"
+  },
+  {
+   "position": 51,
+   "raw": "Volpe G. 2020, Archeologia pubblica, Metodi, tecniche, esperienze, Roma, Carocci Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "date": "2020",
+   "title": "Archeologia pubblica, Metodi, tecniche, esperienze",
+   "publisher": "Carocci Editore",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 52,
+   "raw": "Wilton-Ely J. 1978, The Mind and Art of Giovanni Battista Piranesi, London, Thames and Hudson.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wilton-Ely",
+     "given": "J."
+    }
+   ],
+   "date": "1978",
+   "title": "The Mind and Art of Giovanni Battista Piranesi",
+   "publisher": "Thames and Hudson",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 53,
+   "raw": "Wilton-Ely J. 1994, Piranesi as Architect and Designer, New Haven and London, Yale University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wilton-Ely",
+     "given": "J."
+    }
+   ],
+   "date": "1994",
+   "title": "Piranesi as Architect and Designer",
+   "publisher": "Yale University Press",
+   "place": "New Haven and London",
+   "language": "eng"
+  },
+  {
+   "position": 54,
+   "raw": "Wilton-Ely J. 1997, Piranesi, Milano, Electa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wilton-Ely",
+     "given": "J."
+    }
+   ],
+   "date": "1997",
+   "title": "Piranesi",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 55,
+   "raw": "Wylie A. 2002, Thinking from Things: Essays in the Philosophy of Archaeology, Berkeley, University of California Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wylie",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Thinking from Things: Essays in the Philosophy of Archaeology",
+   "publisher": "University of California Press",
+   "place": "Berkeley",
+   "language": "eng"
+  },
+  {
+   "position": 56,
+   "raw": "Yourcenar M. 1984, The Dark Brain of Piranesi and Other Essays, New York, Farrar, Straus, Giroux.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Yourcenar",
+     "given": "M."
+    }
+   ],
+   "date": "1984",
+   "title": "The Dark Brain of Piranesi and Other Essays",
+   "publisher": "Farrar, Straus, Giroux",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 57,
+   "raw": "Zevi B. 1948, Saper vedere l’architettura: saggio sull’interpretazione spaziale dell’architettura, Milano, Einaudi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Zevi",
+     "given": "B."
+    }
+   ],
+   "date": "1948",
+   "title": "Saper vedere l’architettura: saggio sull’interpretazione spaziale dell’architettura",
+   "publisher": "Einaudi",
+   "place": "Milano",
+   "language": "ita"
+  }
+ ]
+}

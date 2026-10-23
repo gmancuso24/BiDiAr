@@ -1,0 +1,402 @@
+{
+ "citing_aec_id": 511,
+ "source_file": "data/journal/20/511.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Antinucci F. (ed.) 1998, Musei virtuali, «Sistemi intelligenti», 10, 2, 159-306.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Antinucci",
+     "given": "F."
+    }
+   ],
+   "date": "1998",
+   "title": "Musei virtuali",
+   "is_part_of": [
+    "Sistemi intelligenti"
+   ],
+   "volume": "10",
+   "issue": "2",
+   "pages": "159-306",
+   "language": "ita",
+   "notes": "whole journal issue",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Antinucci F. 2007, The virtual museum, in Moscati 2007, 79-86.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Antinucci",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "The virtual museum",
+   "is_part_of": [
+    "Archeologia e Calcolatori. Supplementi"
+   ],
+   "volume": "1",
+   "pages": "79-86",
+   "language": "eng",
+   "cited_aec_id": 462,
+   "notes": "cited as chapter 'in Moscati 2007' (AeC Supplement 1)",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Barchesi C. 2005, «Archeologia e Calcolatori»: nuove strategie per la diffusione di contenuti in rete sulla base dell’OAI-PMH, «Archeologia e Calcolatori», 16, 225-241.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barchesi",
+     "given": "C."
+    }
+   ],
+   "date": "2005",
+   "title": "Archeologia e Calcolatori: nuove strategie per la diffusione di contenuti in rete sulla base dell'OAI-PMH",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "225-241",
+   "language": "ita",
+   "cited_aec_id": 412,
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Critical perspectives on web 2.0, «First Monday», 13, 3, 2008 (http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/issue/view/263/showToc/).",
+   "type": "proceedings",
+   "date": "2008",
+   "title": "Critical perspectives on web 2.0",
+   "is_part_of": [
+    "First Monday"
+   ],
+   "volume": "13",
+   "issue": "3",
+   "uri": "http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/issue/view/263/showToc/",
+   "language": "eng",
+   "notes": "whole journal issue, no editor named",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "D’Andrea A. 2006, Documentazione archeologica, standard e trattamento informatico, Budapest, Archaeolingua.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    }
+   ],
+   "date": "2006",
+   "title": "Documentazione archeologica, standard e trattamento informatico",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Ginouvès R. 1971, Archéographie, archéometrie, archéologie. Pour une informatique de l’archéologie gréco-romaine, «Revue Archéologique», 93-126.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1971",
+   "title": "Archéographie, archéometrie, archéologie. Pour une informatique de l'archéologie gréco-romaine",
+   "is_part_of": [
+    "Revue Archéologique"
+   ],
+   "pages": "93-126",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Guermandi M.P. 1997, Presi nella rete: i siti archeologici in Internet, «Archeologia e Calcolatori», 8, 151-169.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "1997",
+   "title": "Presi nella rete: i siti archeologici in Internet",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "8",
+   "pages": "151-169",
+   "language": "ita",
+   "cited_aec_id": 241,
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Guermandi M.P. 1999, Dalla base dati alla rete: l’evoluzione del trattamento dei dati archeologici, «Archeologia e Calcolatori», 10, 89-99.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "1999",
+   "title": "Dalla base dati alla rete: l'evoluzione del trattamento dei dati archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "89-99",
+   "language": "ita",
+   "cited_aec_id": 268,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Guermandi M.P. 2000, L’archeologia in rete. Internet e multimedia, «Archeologia e Calcolatori», 11, 391-395.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "2000",
+   "title": "L'archeologia in rete. Internet e multimedia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "391-395",
+   "language": "ita",
+   "cited_aec_id": 311,
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Guermandi M.P. 2003, Internet e multimedia, «Archeologia e Calcolatori», 14, 336-339.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "2003",
+   "title": "Internet e multimedia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "14",
+   "pages": "336-339",
+   "language": "ita",
+   "cited_aec_id": 366,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Guermandi M.P. 2004, Nuovi linguaggi e “vecchie tecnologie”: comunicare la conoscenza archeologica attraverso la rete, «Archeologia e Calcolatori», 15, 483-496.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "2004",
+   "title": "Nuovi linguaggi e \"vecchie tecnologie\": comunicare la conoscenza archeologica attraverso la rete",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "15",
+   "pages": "483-496",
+   "language": "ita",
+   "cited_aec_id": 396,
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Guimier-Sorbets A.-M., Fromageot-Lanièpce V. 2006, Les ressources d’information archéologiques sur Internet: le point de vue de l’utilisateur, «Archeologia e Calcolatori», 17, 7-24.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    },
+    {
+     "family": "Fromageot-Lanièpce",
+     "given": "V."
+    }
+   ],
+   "date": "2006",
+   "title": "Les ressources d'information archéologiques sur Internet: le point de vue de l'utilisateur",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "17",
+   "pages": "7-24",
+   "language": "fre",
+   "cited_aec_id": 417,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Heyworth M., Ross S., Richards J. 1996, An international electronic journal for archaeology, in Moscati 1996, 1195-1206.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Heyworth",
+     "given": "M."
+    },
+    {
+     "family": "Ross",
+     "given": "S."
+    },
+    {
+     "family": "Richards",
+     "given": "J."
+    }
+   ],
+   "date": "1996",
+   "title": "An international electronic journal for archaeology",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "1195-1206",
+   "language": "eng",
+   "cited_aec_id": 224,
+   "xref": 14,
+   "notes": "provisional title: the AeC metadata has 'Internet Archaeology: an international electronic journal for archaeology' and a 4th author (Vince); recognised by volume + pages",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Moscati P. (ed.) 1996, Atti del III Convegno internazionale di Archeologia e Informatica (Roma 1995), «Archeologia e Calcolatori», 7.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1996",
+   "title": "Atti del III Convegno internazionale di Archeologia e Informatica (Roma 1995)",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "language": "ita",
+   "notes": "whole AeC volume 7",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Moscati P. (ed.) 2007, Virtual Museums and Archaeology. The Contribution of the Italian National Research Council, «Archeologia e Calcolatori», Supplemento 1.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2007",
+   "title": "Virtual Museums and Archaeology. The Contribution of the Italian National Research Council",
+   "is_part_of": [
+    "Archeologia e Calcolatori. Supplementi"
+   ],
+   "volume": "1",
+   "language": "eng",
+   "notes": "whole AeC Supplement 1",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Moscati P., Barchesi C., Pasquini R. 2006, Archeologia e Calcolatori and the OAI-PMH, Poster Session of International Conference Museums, Libraries and Archives online: MICHAEL Service and Other International Initiatives (Roma 2006).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Barchesi",
+     "given": "C."
+    },
+    {
+     "family": "Pasquini",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Archeologia e Calcolatori and the OAI-PMH",
+   "is_part_of": [
+    "International Conference Museums, Libraries and Archives online: MICHAEL Service and Other International Initiatives (Roma 2006)"
+   ],
+   "language": "eng",
+   "notes": "poster session",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Nelson T. 2009, Geeks Bearing Gifts, Sausalito CA, Mindful Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nelson",
+     "given": "T."
+    }
+   ],
+   "date": "2009",
+   "title": "Geeks Bearing Gifts",
+   "publisher": "Mindful Press",
+   "place": "Sausalito CA",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "O’Reilly T. 2005, What is Web 2.0. Design patterns and business models for the next generation of software (http://oreilly.com/web2/archive/what-is-web-20.html).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "O'Reilly",
+     "given": "T."
+    }
+   ],
+   "date": "2005",
+   "title": "What is Web 2.0. Design patterns and business models for the next generation of software",
+   "uri": "http://oreilly.com/web2/archive/what-is-web-20.html",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Quintarelli E. 2005, Folksonomies: power to the people (http://www.iskoi.org/doc/folksonomies.htm).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Quintarelli",
+     "given": "E."
+    }
+   ],
+   "date": "2005",
+   "title": "Folksonomies: power to the people",
+   "uri": "http://www.iskoi.org/doc/folksonomies.htm",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

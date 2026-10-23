@@ -1,0 +1,341 @@
+{
+ "citing_aec_id": 370,
+ "source_file": "data/journal/15/370.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bahn P.G. 1996, *Archaeology*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bahn",
+     "given": "P.G."
+    }
+   ],
+   "date": "1996",
+   "title": "Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Borbein A. *et al*. (eds.) 2000, *Klassische Archäologie. Eine Einführung*, Berlin, Reimer.",
+   "type": "book",
+   "date": "2000",
+   "title": "Klassische Archäologie. Eine Einführung",
+   "editors": [
+    {
+     "family": "Borbein",
+     "given": "A."
+    }
+   ],
+   "publisher": "Reimer",
+   "place": "Berlin",
+   "language": "ger",
+   "notes": "cited \"Borbein A. et al. (eds.)\": only first editor recorded",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bowkett L. *et al*. 2001, *Classical Archaeology in the Field: Approaches*, London, Bristol Classical Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bowkett",
+     "given": "L."
+    }
+   ],
+   "date": "2001",
+   "title": "Classical Archaeology in the Field: Approaches",
+   "publisher": "Bristol Classical Press",
+   "place": "London",
+   "language": "eng",
+   "notes": "\"et al.\" in citation: only first author recorded",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Cek Z. 1990, *Archaeology Yesterday and Today. The Development of Archaeology in the Sciences and Humanities*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cek",
+     "given": "Z."
+    }
+   ],
+   "date": "1990",
+   "title": "Archaeology Yesterday and Today. The Development of Archaeology in the Sciences and Humanities",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Djindjian F. 1991, *Méthodes pour l’archéologie*, Paris, Armand Colin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Méthodes pour l’archéologie",
+   "publisher": "Armand Colin",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Ennals R., Gardin J.-C. 1990, *Interpretation in the Humanities: Perspectives from Artificial Intelligence*, London, The British Library.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ennals",
+     "given": "R."
+    },
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1990",
+   "title": "Interpretation in the Humanities: Perspectives from Artificial Intelligence",
+   "publisher": "The British Library",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Finn C., Henig M. (eds.) 2001, *Outside Archaeology: Material Culture and Poetic Imagination*, BAR S999, Oxford, Archaeopress.",
+   "type": "book",
+   "date": "2001",
+   "title": "Outside Archaeology: Material Culture and Poetic Imagination",
+   "editors": [
+    {
+     "family": "Finn",
+     "given": "C."
+    },
+    {
+     "family": "Henig",
+     "given": "M."
+    }
+   ],
+   "series": "BAR International Series",
+   "series_number": "S999",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Gamble C. 2001, *Archaeology. The Basics*, London, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gamble",
+     "given": "C."
+    }
+   ],
+   "date": "2001",
+   "title": "Archaeology. The Basics",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Gardin J.-C. 1980, *Archaeological Constructs*, Cambridge-Paris, Cambridge University Press-Editions de la Maison des Sciences de l’Homme.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1980",
+   "title": "Archaeological Constructs",
+   "publisher": "Cambridge University Press-Editions de la Maison des Sciences de l’Homme",
+   "place": "Cambridge-Paris",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Gardin J.-C., Peebles C.S. (eds.) 1992, *Representations in Archaeology*, Indianapolis, Indiana University Press.",
+   "type": "book",
+   "date": "1992",
+   "title": "Representations in Archaeology",
+   "editors": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    },
+    {
+     "family": "Peebles",
+     "given": "C.S."
+    }
+   ],
+   "publisher": "Indiana University Press",
+   "place": "Indianapolis",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Gelbert A. 2003, *Traditions céramiques et emprunts techniques dans la vallée du fleuve Sénégal*, Paris, Maisons des Sciences de l’Homme.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gelbert",
+     "given": "A."
+    }
+   ],
+   "date": "2003",
+   "title": "Traditions céramiques et emprunts techniques dans la vallée du fleuve Sénégal",
+   "publisher": "Maisons des Sciences de l’Homme",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Greene K. 1995, *Archaeology. An Introduction*, London, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Greene",
+     "given": "K."
+    }
+   ],
+   "date": "1995",
+   "title": "Archaeology. An Introduction",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Hodder I. 1986, *Reading the Past. Current Approaches to Interpretation in Archaeology*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1986",
+   "title": "Reading the Past. Current Approaches to Interpretation in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Orlandi 2003, *I modelli fra informatica e tradizioni*, in *I modelli nella ricerca archeologica*, Roma, Accademia Nazionale dei Lincei, 165-176.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": ""
+    }
+   ],
+   "date": "2003",
+   "title": "I modelli fra informatica e tradizioni",
+   "is_part_of": [
+    "I modelli nella ricerca archeologica"
+   ],
+   "pages": "165-176",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "no given name cited",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Renfrew C., Bahn P. 2000, *Archaeology: Theories Methods and Practice*, London, Thames & Hudson Ltd.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Bahn",
+     "given": "P."
+    }
+   ],
+   "date": "2000",
+   "title": "Archaeology: Theories Methods and Practice",
+   "publisher": "Thames & Hudson Ltd",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Renfrew C., Zubrow E.B. 1994, *The Ancient Mind. Elements of Cognitive Archaeology*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B."
+    }
+   ],
+   "date": "1994",
+   "title": "The Ancient Mind. Elements of Cognitive Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Roux V. (ed.) 2000, *Cornaline de l’Inde. Des pratiques techniques de Cambay aux technosystèmes de l’Indus*, Paris, Editions de la Maison des Sciences de l’Homme.",
+   "type": "book",
+   "date": "2000",
+   "title": "Cornaline de l’Inde. Des pratiques techniques de Cambay aux technosystèmes de l’Indus",
+   "editors": [
+    {
+     "family": "Roux",
+     "given": "V."
+    }
+   ],
+   "publisher": "Editions de la Maison des Sciences de l’Homme",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Skeates R. 2000, *Debating the Archaeological Heritage*, London, Duckworth.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Skeates",
+     "given": "R."
+    }
+   ],
+   "date": "2000",
+   "title": "Debating the Archaeological Heritage",
+   "publisher": "Duckworth",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

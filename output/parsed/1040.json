@@ -1,0 +1,349 @@
+{
+ "citing_aec_id": 1040,
+ "source_file": "data/journal/30/1040.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Atzeni P., Ceri S., Fraternali P., Paraboschi S., Torlone R. 2018, *Basi di Dati*, Milano, McGraw-Hill Education, 5th ed.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Atzeni",
+     "given": "P."
+    },
+    {
+     "family": "Ceri",
+     "given": "S."
+    },
+    {
+     "family": "Fraternali",
+     "given": "P."
+    },
+    {
+     "family": "Paraboschi",
+     "given": "S."
+    },
+    {
+     "family": "Torlone",
+     "given": "R."
+    }
+   ],
+   "date": "2018",
+   "title": "Basi di Dati",
+   "edition": "5",
+   "publisher": "McGraw-Hill Education",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Barchesi C. 2005, *\"Archeologia e Calcolatori\": Nuove strategie per la diffusione di contenuti in rete sulla base dell'OAI-PMH*, «Archeologia e Calcolatori», 16, 225-241 (http://www.archcalc.cnr.it/indice/PDF16/Barchesi_16_2005.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barchesi",
+     "given": "C."
+    }
+   ],
+   "date": "2005",
+   "title": "Archeologia e Calcolatori: Nuove strategie per la diffusione di contenuti in rete sulla base dell'OAI-PMH",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "225-241",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF16/Barchesi_16_2005.pdf",
+   "language": "ita",
+   "cited_aec_id": 412
+  },
+  {
+   "position": 3,
+   "raw": "Benito-Osorio D., Peris-Ortiz M., Rueda Armengot C.R., Colino A. 2013, *The future of emotional competences in higher education*, «Global Business Perspectives», 1, 3, 274-287 (https://doi.org/10.1007/s40196-013-0016-5).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Benito-Osorio",
+     "given": "D."
+    },
+    {
+     "family": "Peris-Ortiz",
+     "given": "M."
+    },
+    {
+     "family": "Rueda Armengot",
+     "given": "C.R."
+    },
+    {
+     "family": "Colino",
+     "given": "A."
+    }
+   ],
+   "date": "2013",
+   "title": "The future of emotional competences in higher education",
+   "is_part_of": [
+    "Global Business Perspectives"
+   ],
+   "volume": "1",
+   "issue": "3",
+   "pages": "274-287",
+   "doi": "10.1007/s40196-013-0016-5",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Butler T., Yank K. 2017, *PHP & MySQL: Novice to Ninja*, Collingwood, SitePoint Pty, 6th Ed.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Butler",
+     "given": "T."
+    },
+    {
+     "family": "Yank",
+     "given": "K."
+    }
+   ],
+   "date": "2017",
+   "title": "PHP & MySQL: Novice to Ninja",
+   "edition": "6",
+   "publisher": "SitePoint Pty",
+   "place": "Collingwood",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Chen P. 1976, *The Entity-Relationship model: Toward a unified view of data*, «ACM Transactions on Database Systems», 1, 9-36.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Chen",
+     "given": "P."
+    }
+   ],
+   "date": "1976",
+   "title": "The Entity-Relationship model: Toward a unified view of data",
+   "is_part_of": [
+    "ACM Transactions on Database Systems"
+   ],
+   "volume": "1",
+   "pages": "9-36",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Giudici F. 2018, *Ascesa e declino di JavaFX* (http://www.mokabyte.it/2018/04/javafx-1/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Giudici",
+     "given": "F."
+    }
+   ],
+   "date": "2018",
+   "title": "Ascesa e declino di JavaFX",
+   "uri": "http://www.mokabyte.it/2018/04/javafx-1/",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Jaafar A.F. 2018, *Evolution of the Web: Web 1.0, Web 2.0, Web 3.0, Web 4.0, Web 5.0 and Beyond* (http://ahmadfaizar.blogspot.com/2018/08/evolution-of-web-web-10-web-20-web-30.html).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Jaafar",
+     "given": "A.F."
+    }
+   ],
+   "date": "2018",
+   "title": "Evolution of the Web: Web 1.0, Web 2.0, Web 3.0, Web 4.0, Web 5.0 and Beyond",
+   "uri": "http://ahmadfaizar.blogspot.com/2018/08/evolution-of-web-web-10-web-20-web-30.html",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Jenkov J. 2014, *RIA Architecture*, Jenkov Aps (http://tutorials.jenkov.com/software-architecture/ria-architecture.html).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Jenkov",
+     "given": "J."
+    }
+   ],
+   "date": "2014",
+   "title": "RIA Architecture",
+   "publisher": "Jenkov Aps",
+   "uri": "http://tutorials.jenkov.com/software-architecture/ria-architecture.html",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Khanzode C.A., Sarode R.D. 2016, *Evolution of the World Wide Web: From Web 1.0 to 6.0*, «International Journal of Digital Library Services», 6, 2 (http://www.ijodls.in/uploads/3/6/0/3/3603729/ijodls121.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Khanzode",
+     "given": "C.A."
+    },
+    {
+     "family": "Sarode",
+     "given": "R.D."
+    }
+   ],
+   "date": "2016",
+   "title": "Evolution of the World Wide Web: From Web 1.0 to 6.0",
+   "is_part_of": [
+    "International Journal of Digital Library Services"
+   ],
+   "volume": "6",
+   "issue": "2",
+   "uri": "http://www.ijodls.in/uploads/3/6/0/3/3603729/ijodls121.pdf",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Meloni J.C. 2017, *PHP, MySQL & JavaScript, All in One*, Indianapolis, Sams publishing, 6th Ed.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Meloni",
+     "given": "J.C."
+    }
+   ],
+   "date": "2017",
+   "title": "PHP, MySQL & JavaScript, All in One",
+   "edition": "6",
+   "publisher": "Sams publishing",
+   "place": "Indianapolis",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Moscati P. (ed.) 1996, *III International Symposium on Computing and Archaeology (Roma 1995)*, «Archeologia e Calcolatori», 7 (http://www.archcalc.cnr.it/journal/idyear.php?IDyear=1996-01-01).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1996",
+   "title": "III International Symposium on Computing and Archaeology - Roma 22-25 novembre 1995",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "uri": "http://www.archcalc.cnr.it/journal/idyear.php?IDyear=1996-01-01",
+   "language": "eng",
+   "notes": "cited as 'III International Symposium on Computing and Archaeology (Roma 1995)'; standard title of AeC 7 used"
+  },
+  {
+   "position": 12,
+   "raw": "Nixon R. 2018, *Learning PHP, MySQL & JavaScript, with jQuery, CSS & HTML5*, O'Reilly Media, 5th Ed.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nixon",
+     "given": "R."
+    }
+   ],
+   "date": "2018",
+   "title": "Learning PHP, MySQL & JavaScript, with jQuery, CSS & HTML5",
+   "edition": "5",
+   "publisher": "O'Reilly Media",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Patel K. 2013, *Incremental Journey for World Wide Web: Introduced with Web 1.0 to Recent Web 5.0 – A Survey Paper*, «International Journal of Advanced Research in Computer Science and Software Engineering», 3, 10, 410-417 (https://pdfs.semanticscholar.org/41ad/b8d825d83680803851756bef93516e5a8208.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Patel",
+     "given": "K."
+    }
+   ],
+   "date": "2013",
+   "title": "Incremental Journey for World Wide Web: Introduced with Web 1.0 to Recent Web 5.0 – A Survey Paper",
+   "is_part_of": [
+    "International Journal of Advanced Research in Computer Science and Software Engineering"
+   ],
+   "volume": "3",
+   "issue": "10",
+   "pages": "410-417",
+   "uri": "https://pdfs.semanticscholar.org/41ad/b8d825d83680803851756bef93516e5a8208.pdf",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Rochkind M. 2013, *Expert PHP and MySQL: Application Design and Development*, Berkeley, CA, Apress.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rochkind",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Expert PHP and MySQL: Application Design and Development",
+   "publisher": "Apress",
+   "place": "Berkeley, CA",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Welling L., Thomson L. 2016, *PHP and MySQL Web Development*, Addison-Wesley, 5th Ed.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Welling",
+     "given": "L."
+    },
+    {
+     "family": "Thomson",
+     "given": "L."
+    }
+   ],
+   "date": "2016",
+   "title": "PHP and MySQL Web Development",
+   "edition": "5",
+   "publisher": "Addison-Wesley",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "West A.W., Prettyman S. 2018, *Practical PHP 7, MySQL 8, and MariaDB Website Databases: A Simplified Approach to Developing Database-Driven Websites*, 2nd Ed., Apress.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "West",
+     "given": "A.W."
+    },
+    {
+     "family": "Prettyman",
+     "given": "S."
+    }
+   ],
+   "date": "2018",
+   "title": "Practical PHP 7, MySQL 8, and MariaDB Website Databases: A Simplified Approach to Developing Database-Driven Websites",
+   "edition": "2",
+   "publisher": "Apress",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Zakas N.C. 2012, *Professional JavaScript for Web Developers*, 3rd Ed., Wrox, An imprint of Wiley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Zakas",
+     "given": "N.C."
+    }
+   ],
+   "date": "2012",
+   "title": "Professional JavaScript for Web Developers",
+   "edition": "3",
+   "publisher": "Wrox, An imprint of Wiley",
+   "language": "eng"
+  }
+ ]
+}

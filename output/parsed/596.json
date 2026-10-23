@@ -1,0 +1,663 @@
+{
+ "citing_aec_id": 596,
+ "source_file": "data/journal/22/596.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Aldenderfer M.S., Maschner H.D.G. 1996, Anthropology, Space, and Geogrphic Information Systems, New York, Oxford University.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Aldenderfer",
+     "given": "M.S."
+    },
+    {
+     "family": "Maschner",
+     "given": "H.D.G."
+    }
+   ],
+   "date": "1996",
+   "title": "Anthropology, Space, and Geographic Information Systems",
+   "publisher": "Oxford University",
+   "place": "New York",
+   "language": "eng",
+   "notes": "cited 'Geogrphic' (typo corrected); publisher cited 'Oxford University'",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Allen K.M.S. 1990, Manipulating space: A commentary on GIS applications, in Allen, Green, Zubrow 1990, 197-200.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "Manipulating space: A commentary on GIS applications",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "pages": "197-200",
+   "publisher": "Taylor and Francis",
+   "place": "London",
+   "language": "eng",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Allen K.M.S., Green S.W., Zubrow E.B.W. (eds.) 1990, Intepreting Space: GIS and Archaeology, London, Taylor and Francis.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "Interpreting Space: GIS and Archaeology",
+   "publisher": "Taylor and Francis",
+   "place": "London",
+   "language": "eng",
+   "notes": "cited 'Intepreting' (typo corrected)",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Alvisi C., Diarte Blasco P., Guidazzoli A., Ventura M. en prensa, Sistemi integrati di visualizzazione e fruizione dei dati: verso il corpus degli apparati decorativi di Ercolano, in X Congresso Internazionale di pittura murale antica (Napoli 2007).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Alvisi",
+     "given": "C."
+    },
+    {
+     "family": "Diarte Blasco",
+     "given": "P."
+    },
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    },
+    {
+     "family": "Ventura",
+     "given": "M."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Sistemi integrati di visualizzazione e fruizione dei dati: verso il corpus degli apparati decorativi di Ercolano",
+   "is_part_of": [
+    "X Congresso Internazionale di pittura murale antica (Napoli 2007)"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "cited 'en prensa'; searched author + title: not found",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bellido Gant M.L. 2001, Museos virtuales y digitales, «RdM. Revista de Museología», 21, 41-47.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bellido Gant",
+     "given": "M.L."
+    }
+   ],
+   "date": "2001",
+   "title": "Museos virtuales y digitales",
+   "is_part_of": [
+    "RdM. Revista de Museología"
+   ],
+   "volume": "21",
+   "pages": "41-47",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Burillo Mozota F., Ibañez González E.J. 1991, Configuración de la base de datos y ficha informatizada del Proyecto Carta Arqueológica de Aragón, 1990, Cuadernos del Instituto Aragonés de Arqueología, 1, Teruel.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Burillo Mozota",
+     "given": "F."
+    },
+    {
+     "family": "Ibañez González",
+     "given": "E.J."
+    }
+   ],
+   "date": "1991",
+   "title": "Configuración de la base de datos y ficha informatizada del Proyecto Carta Arqueológica de Aragón, 1990",
+   "series": "Cuadernos del Instituto Aragonés de Arqueología",
+   "series_number": "1",
+   "place": "Teruel",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Cofán F. 1994, La revolución informática: cómo los avances tecnológicos están cambiando los museos, «RdM. Revista de Museología», 3, 32-36.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cofán",
+     "given": "F."
+    }
+   ],
+   "date": "1994",
+   "title": "La revolución informática: cómo los avances tecnológicos están cambiando los museos",
+   "is_part_of": [
+    "RdM. Revista de Museología"
+   ],
+   "volume": "3",
+   "pages": "32-36",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Diarte Blasco P. 2007, The DHER project-Domus Herculaniensis Rationes-and Virtual Archeology, in Science and Supercomputing in Europe. Report 2007, Bologna, Cineca, 728-731.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Diarte Blasco",
+     "given": "P."
+    }
+   ],
+   "date": "2007",
+   "title": "The DHER project-Domus Herculaniensis Rationes-and Virtual Archeology",
+   "is_part_of": [
+    "Science and Supercomputing in Europe. Report 2007"
+   ],
+   "pages": "728-731",
+   "publisher": "Cineca",
+   "place": "Bologna",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Diarte Blasco P., Sebastián López M. 2010, Hacia un nuevo concepto de gestión de datos arqueológicos: tratamiento de la información y visualización, «Salduie», 9, 123-138.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Diarte Blasco",
+     "given": "P."
+    },
+    {
+     "family": "Sebastián López",
+     "given": "M."
+    }
+   ],
+   "date": "2010",
+   "title": "Hacia un nuevo concepto de gestión de datos arqueológicos: tratamiento de la información y visualización",
+   "is_part_of": [
+    "Salduie"
+   ],
+   "volume": "9",
+   "pages": "123-138",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Forte M. 2008, Virtual Archaeology: Communication in 3D and ecological thinking, in Frischer, Dakouri-Hild 2008, 20-34.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Frischer",
+     "given": "B."
+    },
+    {
+     "family": "Dakouri-Hild",
+     "given": ""
+    }
+   ],
+   "date": "2008",
+   "title": "Virtual Archaeology: Communication in 3D and ecological thinking",
+   "is_part_of": [
+    "Beyond Illustration: 2D and 3D Digital Technologies as Tools for Discovery in Archaeology"
+   ],
+   "pages": "20-34",
+   "series": "BAR International Series",
+   "series_number": "1805",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 11,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Frischer B., Dakouri-Hild (eds.) 2008, Beyond Illustration: 2D and 3D Digital Technologies as Tools for Discovery in Archaeology, BAR International Series 1805, Oxford, Archaeopress.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Frischer",
+     "given": "B."
+    },
+    {
+     "family": "Dakouri-Hild",
+     "given": ""
+    }
+   ],
+   "date": "2008",
+   "title": "Beyond Illustration: 2D and 3D Digital Technologies as Tools for Discovery in Archaeology",
+   "series": "BAR International Series",
+   "series_number": "1805",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Gaiani M., Micoli L.L. 2005, A framework to build and visualize 3D models from real world data for historical architecture and archaeology as a base for a 3D information system, in M. Forte (ed.), The Reconstruction of Archaeological Landscapes through Digital Technologies. Proceedings of the 2nd Italy-United States Workshop, Berkeley, BAR International Series 1379, 103-125.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaiani",
+     "given": "M."
+    },
+    {
+     "family": "Micoli",
+     "given": "L.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2005",
+   "title": "A framework to build and visualize 3D models from real world data for historical architecture and archaeology as a base for a 3D information system",
+   "is_part_of": [
+    "The Reconstruction of Archaeological Landscapes through Digital Technologies. Proceedings of the 2nd Italy-United States Workshop, Berkeley"
+   ],
+   "pages": "103-125",
+   "series": "BAR International Series",
+   "series_number": "1379",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "García Benito C., Sebastián López M. en prensa, Methodology of analysis and modelling of the sound for the study of the acoustic relation of the stations of rock art in Aragón, BAR International Series.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "García Benito",
+     "given": "C."
+    },
+    {
+     "family": "Sebastián López",
+     "given": "M."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Methodology of analysis and modelling of the sound for the study of the acoustic relation of the stations of rock art in Aragón",
+   "is_part_of": [
+    "BAR International Series"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "cited 'en prensa', container 'BAR International Series' only; searched author + title: not found",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Giestal C.D. 1988, Sistema de Informação Geográfica para a Arqueologia Urbana: o caso de Bracara Augusta, Mestrado em Arqueologia, Universidade do Minho, Braga.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Giestal",
+     "given": "C.D."
+    }
+   ],
+   "date": "1988",
+   "title": "Sistema de Informação Geográfica para a Arqueologia Urbana: o caso de Bracara Augusta",
+   "publisher": "Universidade do Minho",
+   "place": "Braga",
+   "language": "por",
+   "notes": "Mestrado em Arqueologia",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Grande Leon A. 2002, Itálica virtual. Un proyecto educativo que hace historia, «Boletín del Instituto Andaluz del Patrimonio Histórico», 40/41, 241-247.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Grande Leon",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Itálica virtual. Un proyecto educativo que hace historia",
+   "is_part_of": [
+    "Boletín del Instituto Andaluz del Patrimonio Histórico"
+   ],
+   "volume": "40/41",
+   "pages": "241-247",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Guidazzoli A., Diarte Blasco P. 2009, Escenarios virtuales interactivos y su aplicación a la Arqueología. El Proyecto DHER: una propuesta de trabajo, «Salduie», 7, 113-120.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    },
+    {
+     "family": "Diarte Blasco",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Escenarios virtuales interactivos y su aplicación a la Arqueología. El Proyecto DHER: una propuesta de trabajo",
+   "is_part_of": [
+    "Salduie"
+   ],
+   "volume": "7",
+   "pages": "113-120",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Hermon S. 2008, Reasoning in 3D: A critical appraisal of the role of 3D modelling and virtual reconstructuions in archaeology, in Frischer, Dakouri-Hild 2008, 36-45.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hermon",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Frischer",
+     "given": "B."
+    },
+    {
+     "family": "Dakouri-Hild",
+     "given": ""
+    }
+   ],
+   "date": "2008",
+   "title": "Reasoning in 3D: A critical appraisal of the role of 3D modelling and virtual reconstructions in archaeology",
+   "is_part_of": [
+    "Beyond Illustration: 2D and 3D Digital Technologies as Tools for Discovery in Archaeology"
+   ],
+   "pages": "36-45",
+   "series": "BAR International Series",
+   "series_number": "1805",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 11,
+   "notes": "cited 'reconstructuions' (typo corrected)",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Kohler T.A., Parker S.C. 1986, Predictive models for archaeological resource location, «Advances in Archaeological Method and Theory», 9, 397-452.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kohler",
+     "given": "T.A."
+    },
+    {
+     "family": "Parker",
+     "given": "S.C."
+    }
+   ],
+   "date": "1986",
+   "title": "Predictive models for archaeological resource location",
+   "is_part_of": [
+    "Advances in Archaeological Method and Theory"
+   ],
+   "volume": "9",
+   "pages": "397-452",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Kvamme K.L. 1990, GIS algorithms and their effects on regional archaeological analysis, in Allen, Green, Zubrow 1990, 112-126.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "GIS algorithms and their effects on regional archaeological analysis",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "pages": "112-126",
+   "publisher": "Taylor and Francis",
+   "place": "London",
+   "language": "eng",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Kvamme K.L., Kohler T.A. 1988, Geographic Information Systems: Technical aids for data collection, analysis and display, in W.J. Judge, L. Sebastia (eds.), Quantifying the Present and Predicting the Past: Theory, Method and Application of Archaeological Predictive Modelling, Denver, U.S., Department of the Interior, Bureau of Land Management, 493-548.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    },
+    {
+     "family": "Kohler",
+     "given": "T.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Judge",
+     "given": "W.J."
+    },
+    {
+     "family": "Sebastia",
+     "given": "L."
+    }
+   ],
+   "date": "1988",
+   "title": "Geographic Information Systems: Technical aids for data collection, analysis and display",
+   "is_part_of": [
+    "Quantifying the Present and Predicting the Past: Theory, Method and Application of Archaeological Predictive Modelling"
+   ],
+   "pages": "493-548",
+   "publisher": "U.S. Department of the Interior, Bureau of Land Management",
+   "place": "Denver",
+   "language": "eng",
+   "notes": "editor cited 'L. Sebastia'",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Martins M., Bernardes P. 2000, A Multidisciplinary approach for research and presentation of Bracara Augusta’s Archaeological Heritage, «Archeologia e Calcolatori», 11, 347-357.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Martins",
+     "given": "M."
+    },
+    {
+     "family": "Bernardes",
+     "given": "P."
+    }
+   ],
+   "date": "2000",
+   "title": "A Multidisciplinary approach for research and presentation of Bracara Augusta’s Archaeological Heritage",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "347-357",
+   "language": "eng",
+   "cited_aec_id": 307,
+   "notes": "metadata title 'A multi-disciplinary approach...'",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Maschner H.D.G. (ed.) 1996, New Methods, Old Problems: Geographic Information Systems in Modern Archaeological Research, Occasional Paper 23, Carbondale, Center for Archaeological Investigations, Southern Illinois University.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Maschner",
+     "given": "H.D.G."
+    }
+   ],
+   "date": "1996",
+   "title": "New Methods, Old Problems: Geographic Information Systems in Modern Archaeological Research",
+   "series": "Occasional Paper",
+   "series_number": "23",
+   "publisher": "Center for Archaeological Investigations, Southern Illinois University",
+   "place": "Carbondale",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Mathias P. 1998, La ciudad de Internet, Barcelona, Ediciones Bellaterra.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mathias",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "La ciudad de Internet",
+   "publisher": "Ediciones Bellaterra",
+   "place": "Barcelona",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Nedovic-Budic Z., Pinto J.K. 2001, Organizational (soft) GIS interoperability: Lessons from the U.S., «International Journal of Applied Earth Observation and Geoinformation», 3, 290-298.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nedovic-Budic",
+     "given": "Z."
+    },
+    {
+     "family": "Pinto",
+     "given": "J.K."
+    }
+   ],
+   "date": "2001",
+   "title": "Organizational (soft) GIS interoperability: Lessons from the U.S.",
+   "is_part_of": [
+    "International Journal of Applied Earth Observation and Geoinformation"
+   ],
+   "volume": "3",
+   "pages": "290-298",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Pletinckx D. et al. 2004, Telling the local story: An interactive cultural presentation system for community and regional settings, in Y. Chrysanthou, K. Cain, N. Silberman, F. Niccolucci (eds.), Proceedings of the 5th International Symposium on Virtual Reality, Archaeology and Cultural Heritage, VAST 2004, Bruxelles, 233-239.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pletinckx",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Chrysanthou",
+     "given": "Y."
+    },
+    {
+     "family": "Cain",
+     "given": "K."
+    },
+    {
+     "family": "Silberman",
+     "given": "N."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2004",
+   "title": "Telling the local story: An interactive cultural presentation system for community and regional settings",
+   "is_part_of": [
+    "Proceedings of the 5th International Symposium on Virtual Reality, Archaeology and Cultural Heritage, VAST 2004"
+   ],
+   "pages": "233-239",
+   "place": "Bruxelles",
+   "language": "eng",
+   "notes": "cited 'Pletinckx D. et al.': only the first author known",
+   "confidence": "high"
+  }
+ ]
+}

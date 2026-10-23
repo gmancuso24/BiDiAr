@@ -1,0 +1,279 @@
+{
+ "citing_aec_id": 175,
+ "source_file": "data/journal/7/175.md",
+ "references": [
+  {
+   "raw": "AMANDRY P., BOUSQUET J. 1940-41, La colonne dorique de la Tholos de Marmaria, «Bulletin de correspondance hellénique», 64-65, 121-127.",
+   "date": "1940",
+   "creators": [
+    {
+     "family": "Amandry",
+     "given": "P."
+    },
+    {
+     "family": "Bousquet",
+     "given": "J."
+    }
+   ],
+   "type": "article",
+   "title": "La colonne dorique de la Tholos de Marmaria",
+   "is_part_of": [
+    "Bulletin de correspondance hellénique"
+   ],
+   "pages": "121-127",
+   "language": "fre",
+   "confidence": "high",
+   "position": 1,
+   "volume": "64-65",
+   "notes": "cited 1940-41; date set to first year"
+  },
+  {
+   "raw": "COOPER F.A. 1978, The Temple of Apollo at Bassai. A Preliminary Study, New York and London.",
+   "date": "1978",
+   "creators": [
+    {
+     "family": "Cooper",
+     "given": "F.A."
+    }
+   ],
+   "type": "book",
+   "title": "The Temple of Apollo at Bassai. A Preliminary Study",
+   "place": "New York and London",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "DUGAS CH., BERCHMANS J., CLEMMENSEN M. 1924, Le sanctuaire d'Aléa Athéna à Tégée au IV^e siècle, Paris.",
+   "date": "1924",
+   "creators": [
+    {
+     "family": "Dugas Ch.",
+     "given": ""
+    },
+    {
+     "family": "Berchmans",
+     "given": "J."
+    },
+    {
+     "family": "Clemmensen",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Le sanctuaire d'Aléa Athéna à Tégée au IVe siècle",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "HILL B.H. 1966, The Temple of Zeus at Nemea, Revised and supplemented by C.K. Williams, II, Princeton.",
+   "date": "1966",
+   "creators": [
+    {
+     "family": "Hill",
+     "given": "B.H."
+    }
+   ],
+   "type": "book",
+   "title": "The Temple of Zeus at Nemea",
+   "place": "Princeton",
+   "publisher": "Princeton",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4,
+   "volume": "II",
+   "notes": "Revised and supplemented by C.K. Williams"
+  },
+  {
+   "raw": "KAY D.C., LEVINE J.R. 1992, Graphics File Formats, Blue Ridge Summit, PA.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Kay",
+     "given": "D.C."
+    },
+    {
+     "family": "Levine",
+     "given": "J.R."
+    }
+   ],
+   "type": "book",
+   "title": "Graphics File Formats",
+   "place": "Blue Ridge Summit, PA",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "MUSTONEN S. 1989, Programming SURVO 84 in C, SURVO 84C, Contributions 3, University of Helsinki, Department of Statistics, Helsinki.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Mustonen",
+     "given": "S."
+    }
+   ],
+   "type": "book",
+   "title": "Programming SURVO 84 in C",
+   "place": "Helsinki",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6,
+   "series": "SURVO 84C Contributions",
+   "series_number": "3",
+   "publisher": "University of Helsinki, Department of Statistics"
+  },
+  {
+   "raw": "MUSTONEN S. 1992, SURVO. An Integrated Environment for Statistical Computing and Related Areas, Helsinki.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Mustonen",
+     "given": "S."
+    }
+   ],
+   "type": "book",
+   "title": "SURVO. An Integrated Environment for Statistical Computing and Related Areas",
+   "place": "Helsinki",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "NORMAN N.J. 1984, The Temple of Athena Alea at Tegea, «American Journal of Archaeology», 88, 169-194.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Norman",
+     "given": "N.J."
+    }
+   ],
+   "type": "article",
+   "title": "The Temple of Athena Alea at Tegea",
+   "is_part_of": [
+    "American Journal of Archaeology"
+   ],
+   "pages": "169-194",
+   "volume": "88",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "ØSTBY E. 1994, Recent Excavations in the Sanctuary of Athena Alea at Tegea (1990-93), in K.A. SHEEDY (ed.), Archaeology in the Peloponnese. New Excavations and Research, Oxbow Monograph 48, Oxford.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Østby",
+     "given": "E."
+    }
+   ],
+   "type": "chapter",
+   "title": "Recent Excavations in the Sanctuary of Athena Alea at Tegea (1990-93)",
+   "editors": [
+    {
+     "family": "Sheedy",
+     "given": "K.A."
+    }
+   ],
+   "is_part_of": [
+    "Archaeology in the Peloponnese. New Excavations and Research"
+   ],
+   "place": "Oxford",
+   "series": "Oxbow Monograph",
+   "series_number": "48",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "ØSTBY E., LUCE J.-M., NORDQUIST G.C., TARDITI C., VOYATZIS M.E. 1994, The Sanctuary of Athena Alea at Tegea: First Preliminary Report (1990-1992), «Opuscula Atheniensia», 20, 89-141.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Østby",
+     "given": "E."
+    },
+    {
+     "family": "Luce",
+     "given": "J.-M."
+    },
+    {
+     "family": "Nordquist",
+     "given": "G.C."
+    },
+    {
+     "family": "Tarditi",
+     "given": "C."
+    },
+    {
+     "family": "Voyatzis",
+     "given": "M.E."
+    }
+   ],
+   "type": "article",
+   "title": "The Sanctuary of Athena Alea at Tegea: First Preliminary Report (1990-1992)",
+   "is_part_of": [
+    "Opuscula Atheniensia"
+   ],
+   "pages": "89-141",
+   "volume": "20",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "PENROSE F.C. 1851, An Investigation of the Principles of Athenian Architecture, London.",
+   "date": "1851",
+   "creators": [
+    {
+     "family": "Penrose",
+     "given": "F.C."
+    }
+   ],
+   "type": "book",
+   "title": "An Investigation of the Principles of Athenian Architecture",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "RESEARCH AND EDUCATION ASSOCIATION 1983, The Numerical Problem Solver, New York.",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Research and Education Association",
+     "given": ""
+    }
+   ],
+   "type": "book",
+   "title": "The Numerical Problem Solver",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "ROUX G. 1961, L'architecture de l'Argolide aux IV^e et III^e siècles avant J.-C., Bibliothèque des Ecoles Françaises d'Athènes et de Rome 199, Paris.",
+   "date": "1961",
+   "creators": [
+    {
+     "family": "Roux",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "L'architecture de l'Argolide aux IVe et IIIe siècles avant J.-C.",
+   "place": "Paris",
+   "publisher": "Bibliothèque des Ecoles Françaises d'Athènes et de Rome 199",
+   "language": "fre",
+   "confidence": "high",
+   "position": 13,
+   "series": "Bibliothèque des Ecoles Françaises d'Athènes et de Rome",
+   "series_number": "199"
+  }
+ ]
+}

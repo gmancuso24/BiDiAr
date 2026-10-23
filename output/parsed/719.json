@@ -1,0 +1,1326 @@
+{
+ "citing_aec_id": 719,
+ "source_file": "data/journal/25/719.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Arrighetti A. 2012, Tecnologie fotogrammetriche e registrazione 3D della struttura materiale: dal rilievo alla gestione dei dati, in Curci, Fiorini 2012, 283-296.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Tecnologie fotogrammetriche e registrazione 3D della struttura materiale: dal rilievo alla gestione dei dati",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "283-296",
+   "language": "ita",
+   "cited_aec_id": 623,
+   "xref": 14,
+   "notes": "cited 'in Curci, Fiorini 2012' (Documentare l'archeologia 2.0); metadata pages 283-298",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Arrighetti A., Cavalieri M. 2012, Il rilievo fotogrammetrico per nuvole di punti RGB della “sala triabsidata” del sito archeologico di Aiano-Torraccia di Chiusi (SI), «Archeologia e Calcolatori», 23, 121-133.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    },
+    {
+     "family": "Cavalieri",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Il rilievo fotogrammetrico per nuvole di punti RGB della “sala triabsidata” del sito archeologico di Aiano-Torraccia di Chiusi (SI)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "121-133",
+   "language": "ita",
+   "cited_aec_id": 612,
+   "notes": "metadata pages 121-134",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bandiera A., Beraldin J.A., Gaiani M. 2011, Nascita ed utilizzo delle tecniche digitali di 3D imaging, modellazione e visualizzazione per l'architettura e i beni culturali, «Ikhnos», 81-134.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bandiera",
+     "given": "A."
+    },
+    {
+     "family": "Beraldin",
+     "given": "J.A."
+    },
+    {
+     "family": "Gaiani",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "Nascita ed utilizzo delle tecniche digitali di 3D imaging, modellazione e visualizzazione per l'architettura e i beni culturali",
+   "is_part_of": [
+    "Ikhnos"
+   ],
+   "pages": "81-134",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bigliardi G., Cappelli S., Cocca E., Efrem D., Welderufia N. 2013, Il rilievo tradizionale in archeologia: computer vision e laser scanning a confronto. Il caso studio del settore 3 del sito archeologico di Adulis (Eritrea), poster in ARCHEOFOSS, VIII workshop, Open source free software e open format nei processi di ricerca archeologica (Catania 18-13 giugno 2013), in corso di stampa.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Bigliardi",
+     "given": "G."
+    },
+    {
+     "family": "Cappelli",
+     "given": "S."
+    },
+    {
+     "family": "Cocca",
+     "given": "E."
+    },
+    {
+     "family": "Efrem",
+     "given": "D."
+    },
+    {
+     "family": "Welderufia",
+     "given": "N."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Il rilievo tradizionale in archeologia: computer vision e laser scanning a confronto. Il caso studio del settore 3 del sito archeologico di Adulis (Eritrea)",
+   "is_part_of": [
+    "ARCHEOFOSS, VIII workshop, Open source free software e open format nei processi di ricerca archeologica (Catania 18-13 giugno 2013)"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "poster; cited with year 2013 (workshop) and 'in corso di stampa'. Searched author + title: no publication found (a different paper by the same authors, 'Il sito di Adulis (Eritrea)...', is AeC Suppl. 4, id 709). Dates '18-13 giugno' as cited",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bonacini E., D'Agostino G., Galizia M., Santagati C., Sgarlata M. 2012, The Catacombs of San Giovanni in Syracuse: Surveying, digital enhancement and revitalization of an archaeological landmark, in M. Ioannides, D. Fritsch, J. Leissner, R. Davies, F. Remondino, R. Caffo (eds.), Euromed 2012, Progress in Cultural Heritage Preservation(Cyprus 2012), Lecture Notes in Computer Sciences 7616, Berlin-Eidelberg, Springer, 396-403.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bonacini",
+     "given": "E."
+    },
+    {
+     "family": "D'Agostino",
+     "given": "G."
+    },
+    {
+     "family": "Galizia",
+     "given": "M."
+    },
+    {
+     "family": "Santagati",
+     "given": "C."
+    },
+    {
+     "family": "Sgarlata",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Fritsch",
+     "given": "D."
+    },
+    {
+     "family": "Leissner",
+     "given": "J."
+    },
+    {
+     "family": "Davies",
+     "given": "R."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Caffo",
+     "given": "R."
+    }
+   ],
+   "date": "2012",
+   "title": "The Catacombs of San Giovanni in Syracuse: Surveying, digital enhancement and revitalization of an archaeological landmark",
+   "is_part_of": [
+    "Euromed 2012, Progress in Cultural Heritage Preservation (Cyprus 2012)"
+   ],
+   "pages": "396-403",
+   "series": "Lecture Notes in Computer Sciences",
+   "series_number": "7616",
+   "publisher": "Springer",
+   "place": "Berlin-Eidelberg",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Cambi F. 2009, Archeologia (globale) dei paesaggi (antichi): metodologie, procedure, tecnologie, in G. Macchi Janica (ed.), Geografie del popolamento. Casi di studio, metodi e teorie. Atti della Giornata di Studio (Grosseto 2008), Siena, Edizioni dell'Università, 349-357.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cambi",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Macchi Janica",
+     "given": "G."
+    }
+   ],
+   "date": "2009",
+   "title": "Archeologia (globale) dei paesaggi (antichi): metodologie, procedure, tecnologie",
+   "is_part_of": [
+    "Geografie del popolamento. Casi di studio, metodi e teorie. Atti della Giornata di Studio (Grosseto 2008)"
+   ],
+   "pages": "349-357",
+   "publisher": "Edizioni dell'Università",
+   "place": "Siena",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Campana S. 2012, Archeologia dei paesaggi e Remote sensing, «Groma», 2, 123-138.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Archeologia dei paesaggi e Remote sensing",
+   "is_part_of": [
+    "Groma"
+   ],
+   "volume": "2",
+   "pages": "123-138",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Campana S., Bianchi G., Fichera G.A., Lai L., Sordini M. 2012, 3D recording and total archaeology: From landscapes to historical buildings, «International Journal of Heritage in the Digital Era», 1, 3, 444-460.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Bianchi",
+     "given": "G."
+    },
+    {
+     "family": "Fichera",
+     "given": "G.A."
+    },
+    {
+     "family": "Lai",
+     "given": "L."
+    },
+    {
+     "family": "Sordini",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "3D recording and total archaeology: From landscapes to historical buildings",
+   "is_part_of": [
+    "International Journal of Heritage in the Digital Era"
+   ],
+   "volume": "1",
+   "issue": "3",
+   "pages": "444-460",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Campana S., Forte M. (eds.) 2003, Remote Sensing in Archaeology, XI Ciclo di lezioni sulla ricerca applicata all'archeologia (Certosa di Pontignano-Siena 1999), Firenze, All'insegna del Giglio.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Remote Sensing in Archaeology, XI Ciclo di lezioni sulla ricerca applicata all'archeologia (Certosa di Pontignano-Siena 1999)",
+   "publisher": "All'insegna del Giglio",
+   "place": "Firenze",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Campana S., Francovich R. (eds.) 2006, Laser scanner e GPS. Paesaggi Archeologici e Tecnologie digitali 1, I Workshop (Grosseto 2005), Firenze, All'Insegna del Giglio.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Laser scanner e GPS. Paesaggi Archeologici e Tecnologie digitali 1, I Workshop (Grosseto 2005)",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Caterino D. 2012, Codice sorgente e tutela giuridica del software, Seminario, Taranto (cfr. weblink).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Caterino",
+     "given": "D."
+    }
+   ],
+   "date": "2012",
+   "title": "Codice sorgente e tutela giuridica del software",
+   "place": "Taranto",
+   "language": "ita",
+   "notes": "seminar; cited 'Seminario, Taranto (cfr. weblink)': the weblink is probably entry 48",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Conticello B. 2007, Nuove tecnologie per una migliore fruizione dei beni archeologici, in Il paesaggio “archeologico”. Resti e contesti: prospettive di condivisione tra tutela e valorizzazione, X Borsa mediterranea del turismo archeologico (Paestum 2007), Roma, MP Mirabilia, 6-7.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Conticello",
+     "given": "B."
+    }
+   ],
+   "date": "2007",
+   "title": "Nuove tecnologie per una migliore fruizione dei beni archeologici",
+   "is_part_of": [
+    "Il paesaggio “archeologico”. Resti e contesti: prospettive di condivisione tra tutela e valorizzazione, X Borsa mediterranea del turismo archeologico (Paestum 2007)"
+   ],
+   "pages": "6-7",
+   "publisher": "MP Mirabilia",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Cultraro M. 1996, Sicilia. La facies di Castelluccio: articolazione cronologica e definizione culturale, in D. Cocchi Genick (ed.), L'antica età del Bronzo in Italia, Firenze, Octavo, 163-174.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cultraro",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cocchi Genick",
+     "given": "D."
+    }
+   ],
+   "date": "1996",
+   "title": "Sicilia. La facies di Castelluccio: articolazione cronologica e definizione culturale",
+   "is_part_of": [
+    "L'antica età del Bronzo in Italia"
+   ],
+   "pages": "163-174",
+   "publisher": "Octavo",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Curci A., Fiorini A. (eds.) 2012, Documentare l'archeologia 2.0, Atti dell'Workshop (Bologna, Alma Mater Studiorum Università di Bologna, 2012), «Archeologia e Calcolatori», 23, 211-325.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Curci",
+     "given": "A."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Documentare l'archeologia 2.0, Atti dell'Workshop (Bologna, Alma Mater Studiorum Università di Bologna, 2012)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "211-325",
+   "language": "ita",
+   "notes": "thematic section of AeC 23 cited as a whole; not a single AeC article (find_aec finds only its 'Introduzione', id 618, pp. 211-212)",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Curci A., Urcia A. 2012, Verso un system integrato di documentazione dell'arte rupestre. L'esperienza Akap (Egitto), in Curci, Fiorini 2012, 247-260.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Curci",
+     "given": "A."
+    },
+    {
+     "family": "Urcia",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Verso un sistema integrato di documentazione dell'arte rupestre. L'esperienza AKAP (Egitto)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "247-260",
+   "language": "ita",
+   "cited_aec_id": 621,
+   "xref": 14,
+   "notes": "cited 'system integrato ... Akap' (typo corrected); 'in Curci, Fiorini 2012'",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "De Luca L. 2011, Verso la caratterizzazione semantica di rappresentazioni digitali di artefatti architettonici: linee programmatiche di ricerca, «Disegnare con», 4, 8, 99-106.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Luca",
+     "given": "L."
+    }
+   ],
+   "date": "2011",
+   "title": "Verso la caratterizzazione semantica di rappresentazioni digitali di artefatti architettonici: linee programmatiche di ricerca",
+   "is_part_of": [
+    "Disegnare con"
+   ],
+   "volume": "4",
+   "issue": "8",
+   "pages": "99-106",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Fiorini A. 2008, Esperienze di fotomodellazione e stereofotogrammetria archeologica, in G. De Felice, M.G. Sibilano, G. Volpe (eds.), L'informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008), Bari, EdiPuglia, 175-186.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    },
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "date": "2008",
+   "title": "Esperienze di fotomodellazione e stereofotogrammetria archeologica",
+   "is_part_of": [
+    "L'informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008)"
+   ],
+   "pages": "175-186",
+   "publisher": "EdiPuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Fiorini A., Archetti V. 2011, Fotomodellazione e stereofotogrammetria per la creazione di modelli stratigrafici in archeologia dell'architettura, «Archeologia e Calcolatori», 22, 139-156.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Archetti",
+     "given": "V."
+    }
+   ],
+   "date": "2011",
+   "title": "Fotomodellazione e stereofotogrammetria per la creazione di modelli stratigrafici in archeologia dell'architettura",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "139-156",
+   "language": "ita",
+   "cited_aec_id": 593,
+   "notes": "cited pages 139-156; metadata pages 199-216",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Forte M. 2006, Tra conoscenza e comunicazione in archeologia: considerazione in margine alla terza dimensione, in Campana, Francovich 2006, 23-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Tra conoscenza e comunicazione in archeologia: considerazione in margine alla terza dimensione",
+   "is_part_of": [
+    "Laser scanner e GPS. Paesaggi Archeologici e Tecnologie digitali 1, I Workshop (Grosseto 2005)"
+   ],
+   "pages": "23-40",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 10,
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Francovich R., Valenti M. (eds.) 2006, Atti del IV Congresso nazionale di Archeologia Medievale (Chiusdino, Siena 2006), Firenze, All'insegna del Giglio.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Atti del IV Congresso nazionale di Archeologia Medievale (Chiusdino, Siena 2006)",
+   "publisher": "All'insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Galizia M., Santagati C. c.s., Low-cost image-based modeling techniques for archaeological heritage digitalization: More than just a good tool for 3D visualization?, in Proceedings of ARQUEOLÓGICA 2.0 (Seville 2012), in corso di stampa.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Galizia",
+     "given": "M."
+    },
+    {
+     "family": "Santagati",
+     "given": "C."
+    }
+   ],
+   "date": "2013",
+   "title": "Low-cost image-based modeling techniques for archaeological heritage digitalization: More than just a good tool for 3D visualization?",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "volume": "4",
+   "issue": "9",
+   "pages": "123-129",
+   "doi": "10.4995/var.2013.4262",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://doaj.org/article/b90d6db16ac9422c86c8c0f7dc5318b4"
+   },
+   "notes": "c.s. resolved: cited 'in Proceedings of ARQUEOLÓGICA 2.0 (Seville 2012)'; published in Virtual Archaeology Review 4(9), Nov 2013, doi 10.4995/var.2013.4262 (same authors, same title apart from hyphen)",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Guerra F. 2012, Studi sulle caratteristiche metriche e operative dei sistemi di scansione 3D e dei sistemi fotogrammetrici, in Progetto IUAV_Lab Laboratori di innovazione per l'architettura, Venezia, 1-28.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guerra",
+     "given": "F."
+    }
+   ],
+   "date": "2012",
+   "title": "Studi sulle caratteristiche metriche e operative dei sistemi di scansione 3D e dei sistemi fotogrammetrici",
+   "is_part_of": [
+    "Progetto IUAV_Lab Laboratori di innovazione per l'architettura"
+   ],
+   "pages": "1-28",
+   "place": "Venezia",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Guidi G., Remondino F., Russo M., Menna F., Rizzi A., Ercoli S. 2009, A multi-resolution methodology for the 3D modeling of large and complex archaeological areas, «International Journal of Architectural Computing», 7, 1, 39-55.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guidi",
+     "given": "G."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Russo",
+     "given": "M."
+    },
+    {
+     "family": "Menna",
+     "given": "F."
+    },
+    {
+     "family": "Rizzi",
+     "given": "A."
+    },
+    {
+     "family": "Ercoli",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "A multi-resolution methodology for the 3D modeling of large and complex archaeological areas",
+   "is_part_of": [
+    "International Journal of Architectural Computing"
+   ],
+   "volume": "7",
+   "issue": "1",
+   "pages": "39-55",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Hartley R.I., Zisserman A. 2004, Multiple View Geometry in Computer Vision, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hartley",
+     "given": "R.I."
+    },
+    {
+     "family": "Zisserman",
+     "given": "A."
+    }
+   ],
+   "date": "2004",
+   "title": "Multiple View Geometry in Computer Vision",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Manferdini A.M., Remondino F., Baldissini S., Gaiani M., Benedetti B. 2008, 3D modeling and semantic classification of archaeological finds for management and visualization in 3D archaeological databases, in Digital Heritage. Proceedings of the 14th International Conference on Virtual Systems and Multimedia - Project Papers, Budapest, Archaeolingua, 221- 228.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Manferdini",
+     "given": "A.M."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Baldissini",
+     "given": "S."
+    },
+    {
+     "family": "Gaiani",
+     "given": "M."
+    },
+    {
+     "family": "Benedetti",
+     "given": "B."
+    }
+   ],
+   "date": "2008",
+   "title": "3D modeling and semantic classification of archaeological finds for management and visualization in 3D archaeological databases",
+   "is_part_of": [
+    "Digital Heritage. Proceedings of the 14th International Conference on Virtual Systems and Multimedia - Project Papers"
+   ],
+   "pages": "221-228",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Martín Civantos J.M. 2006, Il territorio stratificato: proposte dall'archeologia del paesaggio, in Francovich, Valenti 2006, 12-16.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Martín Civantos",
+     "given": "J.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Il territorio stratificato: proposte dall'archeologia del paesaggio",
+   "is_part_of": [
+    "Atti del IV Congresso nazionale di Archeologia Medievale (Chiusdino, Siena 2006)"
+   ],
+   "pages": "12-16",
+   "publisher": "All'insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 20,
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Militello P. 2004, Due nuove tholoi del Medio Irminio, in V. La Rosa (ed.), Le presenze micenee nel Siracusano. Atti del Convegno (Siracusa 2003), Padova, Aldo Ausilio Editore/Bottega d'Erasmo, 269-294.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Militello",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "La Rosa",
+     "given": "V."
+    }
+   ],
+   "date": "2004",
+   "title": "Due nuove tholoi del Medio Irminio",
+   "is_part_of": [
+    "Le presenze micenee nel Siracusano. Atti del Convegno (Siracusa 2003)"
+   ],
+   "pages": "269-294",
+   "publisher": "Aldo Ausilio Editore/Bottega d'Erasmo",
+   "place": "Padova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Occhipinti G. 2013, Per un database delle architetture in negativo: il caso di Calicantone, (Tesi Scuola di Specializzazione in Archeologia), Catania.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Occhipinti",
+     "given": "G."
+    }
+   ],
+   "date": "2013",
+   "title": "Per un database delle architetture in negativo: il caso di Calicantone",
+   "place": "Catania",
+   "language": "ita",
+   "notes": "Tesi Scuola di Specializzazione in Archeologia; university not named in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Picone E.G. 1975, Ispica (contrada Calicantoni), «Rivista di Studi Preistorici», XXX (Notiziario).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Picone",
+     "given": "E.G."
+    }
+   ],
+   "date": "1975",
+   "title": "Ispica (contrada Calicantoni)",
+   "is_part_of": [
+    "Rivista di Studi Preistorici"
+   ],
+   "volume": "XXX",
+   "language": "ita",
+   "notes": "cited '(Notiziario)'; no pages",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Picone E.G. 2006, Stanziamenti preistorici nel territorio dell'alta Cava d'Ispica, Siracusa, Lombardi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Picone",
+     "given": "E.G."
+    }
+   ],
+   "date": "2006",
+   "title": "Stanziamenti preistorici nel territorio dell'alta Cava d'Ispica",
+   "publisher": "Lombardi",
+   "place": "Siracusa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Pierrot-Deseilligny M., De Luca L., Remondino F. (eds.) 2011, Automated image-based procedures for accurate artifacts 3D modeling and orthoimage generation, in Proceedings of the 23rd International CIPA Symposium (Prague 2011), Prague, CIPA Heritage Documentation, 291-299.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pierrot-Deseilligny",
+     "given": "M."
+    },
+    {
+     "family": "De Luca",
+     "given": "L."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2011",
+   "title": "Automated image-based procedures for accurate artifacts 3D modeling and orthoimage generation",
+   "is_part_of": [
+    "Proceedings of the 23rd International CIPA Symposium (Prague 2011)"
+   ],
+   "pages": "291-299",
+   "publisher": "CIPA Heritage Documentation",
+   "place": "Prague",
+   "language": "eng",
+   "notes": "cited with '(eds.)' but with a paper title and page range inside the proceedings: read as authors of the paper",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Pingi P., Fasano A., Cignoni P., Montani C., Scopigno R. 2005, Exploiting the scanning sequence for automatic registration of large sets of range maps, «Computer Graphics Forum», 24, 3, 517-526.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pingi",
+     "given": "P."
+    },
+    {
+     "family": "Fasano",
+     "given": "A."
+    },
+    {
+     "family": "Cignoni",
+     "given": "P."
+    },
+    {
+     "family": "Montani",
+     "given": "C."
+    },
+    {
+     "family": "Scopigno",
+     "given": "R."
+    }
+   ],
+   "date": "2005",
+   "title": "Exploiting the scanning sequence for automatic registration of large sets of range maps",
+   "is_part_of": [
+    "Computer Graphics Forum"
+   ],
+   "volume": "24",
+   "issue": "3",
+   "pages": "517-526",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Putzolu C., Vicenzutto D. 2013, Il rilievo delle superfici tramite fotogrammetria 3D: dal microscavo dei complessi tombali agli scavi open area, in A. Curci, A. Fiorini (eds.), Documentare l'archeologia 3.0, Atti del Workshop (Bologna 2013), «Archeologia e Calcolatori», 24, 355-370.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Putzolu",
+     "given": "C."
+    },
+    {
+     "family": "Vicenzutto",
+     "given": "D."
+    }
+   ],
+   "date": "2013",
+   "title": "Il rilievo delle superfici tramite fotogrammetria 3D: dal microscavo dei complessi tombali agli scavi open area",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "24",
+   "pages": "355-370",
+   "language": "ita",
+   "cited_aec_id": 679,
+   "notes": "cited 'in A. Curci, A. Fiorini (eds.), Documentare l'archeologia 3.0, Atti del Workshop (Bologna 2013)'",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Remondino F., El-Hakim S. 2006, Image-based 3D modelling: A review, «The Photogrammetric Record», 21, 115, 269-291.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "El-Hakim",
+     "given": "S."
+    }
+   ],
+   "date": "2006",
+   "title": "Image-based 3D modelling: A review",
+   "is_part_of": [
+    "The Photogrammetric Record"
+   ],
+   "volume": "21",
+   "issue": "115",
+   "pages": "269-291",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Rizzone V.G., Sammito A.M. 1999, Censimento dei siti dell'antica età del Bronzo nel territorio modicano, «Archivum Historicum Mothycense», 5, 37-56.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rizzone",
+     "given": "V.G."
+    },
+    {
+     "family": "Sammito",
+     "given": "A.M."
+    }
+   ],
+   "date": "1999",
+   "title": "Censimento dei siti dell'antica età del Bronzo nel territorio modicano",
+   "is_part_of": [
+    "Archivum Historicum Mothycense"
+   ],
+   "volume": "5",
+   "pages": "37-56",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Rizzone V.G., Sammito A.M. 2002, Tombe dell'antica età del Bronzo con prospetto decorato nel territorio modicano: nuovi dati, «Sicilia Archeologica», 35, 137-144.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rizzone",
+     "given": "V.G."
+    },
+    {
+     "family": "Sammito",
+     "given": "A.M."
+    }
+   ],
+   "date": "2002",
+   "title": "Tombe dell'antica età del Bronzo con prospetto decorato nel territorio modicano: nuovi dati",
+   "is_part_of": [
+    "Sicilia Archeologica"
+   ],
+   "volume": "35",
+   "pages": "137-144",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Rizzone V.G., Sammito A.M. 2010, Indagine topografica dei siti dell'Antica Età del Bronzo nel territorio modicano, «Aitna. Quaderni di Topografia Antica», 4, 49-64.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rizzone",
+     "given": "V.G."
+    },
+    {
+     "family": "Sammito",
+     "given": "A.M."
+    }
+   ],
+   "date": "2010",
+   "title": "Indagine topografica dei siti dell'Antica Età del Bronzo nel territorio modicano",
+   "is_part_of": [
+    "Aitna. Quaderni di Topografia Antica"
+   ],
+   "volume": "4",
+   "pages": "49-64",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Russo M., Guidi G., Remondino F. 2011, Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico, «Archeologia e Calcolatori», 22, 169-198.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Russo",
+     "given": "M."
+    },
+    {
+     "family": "Guidi",
+     "given": "G."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2011",
+   "title": "Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "169-198",
+   "language": "ita",
+   "cited_aec_id": 592,
+   "notes": "author order in the metadata: Russo, Remondino, Guidi",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Russo M., Remondino F. 2011, Laser scanning e fotogrammetria: strumenti e metodi di rilievo tridimensionale per l'archeologia, in G.P. Brogiolo, D.E. Angelucci, A. Colecchia, F. Remondino (eds.), Teoria e metodi della ricerca sul paesaggio d'altura, Mantova, SAP press, 141-170.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Russo",
+     "given": "M."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    },
+    {
+     "family": "Angelucci",
+     "given": "D.E."
+    },
+    {
+     "family": "Colecchia",
+     "given": "A."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2011",
+   "title": "Laser scanning e fotogrammetria: strumenti e metodi di rilievo tridimensionale per l'archeologia",
+   "is_part_of": [
+    "Teoria e metodi della ricerca sul paesaggio d'altura"
+   ],
+   "pages": "141-170",
+   "publisher": "SAP press",
+   "place": "Mantova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Santagati C., Inzerillo L. 2013, 123D-Catch: Efficiency, accuracy, constraints and limitations in architectural heritage field, «International Journal of Heritage in the Digital Era», 2.2, 263-290.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Santagati",
+     "given": "C."
+    },
+    {
+     "family": "Inzerillo",
+     "given": "L."
+    }
+   ],
+   "date": "2013",
+   "title": "123D-Catch: Efficiency, accuracy, constraints and limitations in architectural heritage field",
+   "is_part_of": [
+    "International Journal of Heritage in the Digital Era"
+   ],
+   "volume": "2",
+   "issue": "2",
+   "pages": "263-290",
+   "language": "eng",
+   "notes": "cited '2.2'",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Santagati C., Inzerillo L., Di Paola F. 2013, Image-based modeling techniques for architectural heritage 3D digitalization: Limits and potentialities, in XXIV International CIPA Symposium (Strasbourg 2013), International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XL-5/W2, Strasbourg, 555-560.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Santagati",
+     "given": "C."
+    },
+    {
+     "family": "Inzerillo",
+     "given": "L."
+    },
+    {
+     "family": "Di Paola",
+     "given": "F."
+    }
+   ],
+   "date": "2013",
+   "title": "Image-based modeling techniques for architectural heritage 3D digitalization: Limits and potentialities",
+   "is_part_of": [
+    "XXIV International CIPA Symposium (Strasbourg 2013)",
+    "International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XL-5/W2",
+   "pages": "555-560",
+   "place": "Strasbourg",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Santagati C., D'Agostino G., Galizia M. 2013, Digital reconstruction of archaeological sites and monuments: Some experiences in south eastern Sicily, in E. Ch'ng, H. Chapman, V. Gaffney (eds.), Visual Heritage in the Digital Age, Cultural Computing Series, London, Springer, 205-232.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Santagati",
+     "given": "C."
+    },
+    {
+     "family": "D'Agostino",
+     "given": "G."
+    },
+    {
+     "family": "Galizia",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ch'ng",
+     "given": "E."
+    },
+    {
+     "family": "Chapman",
+     "given": "H."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    }
+   ],
+   "date": "2013",
+   "title": "Digital reconstruction of archaeological sites and monuments: Some experiences in south eastern Sicily",
+   "is_part_of": [
+    "Visual Heritage in the Digital Age"
+   ],
+   "pages": "205-232",
+   "series": "Cultural Computing Series",
+   "publisher": "Springer",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Scopigno R. 2006, Gestione efficiente dei dati prodotti dai sistemi di scansione tridimensionale, in Campana, Francovich 2006, 41-68.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scopigno",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Gestione efficiente dei dati prodotti dai sistemi di scansione tridimensionale",
+   "is_part_of": [
+    "Laser scanner e GPS. Paesaggi Archeologici e Tecnologie digitali 1, I Workshop (Grosseto 2005)"
+   ],
+   "pages": "41-68",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 10,
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Sirugo S. c.s., Paleonutrizione, economia e territorio: primi dati dalla necropoli di Calicantone a Cava Ispica, in Panvini R. (ed.), Il Paesaggio tra archeologia e architettura. Atti Convegno (Catania, Ragusa, Donnafugata 2013), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sirugo",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Panvini",
+     "given": "R."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Paleonutrizione, economia e territorio: primi dati dalla necropoli di Calicantone a Cava Ispica",
+   "is_part_of": [
+    "Il Paesaggio tra archeologia e architettura. Atti Convegno (Catania, Ragusa, Donnafugata 2013)"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Tomasello F. 1997, Le tombe a tholos della Sicilia centro meridionale, in Cronache di Archeologia 1995-1996, Palermo, 24-25.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tomasello",
+     "given": "F."
+    }
+   ],
+   "date": "1997",
+   "title": "Le tombe a tholos della Sicilia centro meridionale",
+   "is_part_of": [
+    "Cronache di Archeologia 1995-1996"
+   ],
+   "pages": "24-25",
+   "place": "Palermo",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Volpe G. 2007, L'archeologia “globale” per l'ascoltare la “storia totale” del paesaggio, «SudEst», 20, gennaio-febbraio, 20-32.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "L'archeologia “globale” per l'ascoltare la “storia totale” del paesaggio",
+   "is_part_of": [
+    "SudEst"
+   ],
+   "volume": "20",
+   "issue": "gennaio-febbraio",
+   "pages": "20-32",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "http://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1257347181815_Opuscolo_Paestum_internet.pdf.",
+   "type": "other",
+   "title": "http://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1257347181815_Opuscolo_Paestum_internet.pdf",
+   "uri": "http://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1257347181815_Opuscolo_Paestum_internet.pdf",
+   "notes": "web resource, no other data in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "http://www.academia.edu/1627870/Codice_sorgente_e_tutela_giuridica_del_software_-seminario_Taranto_2012.",
+   "type": "other",
+   "title": "http://www.academia.edu/1627870/Codice_sorgente_e_tutela_giuridica_del_software_-seminario_Taranto_2012",
+   "uri": "http://www.academia.edu/1627870/Codice_sorgente_e_tutela_giuridica_del_software_-seminario_Taranto_2012",
+   "notes": "web resource, no other data in the citation; the URL is the weblink of Caterino 2012 (entry 11)",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "http://iuavlab.iuav.it/download/WP5-Deliverable1.pdf.",
+   "type": "other",
+   "title": "http://iuavlab.iuav.it/download/WP5-Deliverable1.pdf",
+   "uri": "http://iuavlab.iuav.it/download/WP5-Deliverable1.pdf",
+   "notes": "web resource, no other data in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "http://www.arqueologiavirtual.com/carta/.",
+   "type": "other",
+   "title": "http://www.arqueologiavirtual.com/carta/",
+   "uri": "http://www.arqueologiavirtual.com/carta/",
+   "notes": "web resource, no other data in the citation",
+   "confidence": "high"
+  }
+ ]
+}

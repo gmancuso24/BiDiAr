@@ -1,0 +1,977 @@
+{
+ "citing_aec_id": 1393,
+ "source_file": "data/journal/36/1393.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Addison A.C., De Luca L., Guidi G., Pescarin S. (eds.) 2013, Proceeding of the 2013 Digital Heritage International Congress (Marseille 2013), II, Marseille, IEEE.",
+   "type": "proceedings",
+   "date": "2013",
+   "title": "Proceeding of the 2013 Digital Heritage International Congress (Marseille 2013)",
+   "editors": [
+    {
+     "family": "Addison",
+     "given": "A.C."
+    },
+    {
+     "family": "De Luca",
+     "given": "L."
+    },
+    {
+     "family": "Guidi",
+     "given": "G."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    }
+   ],
+   "volume": "II",
+   "publisher": "IEEE",
+   "place": "Marseille",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Barbieri A. 2015, Nuovo museo archeologico. Catalogo del sistema museale di Ugento, Bari, Scirocco Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barbieri",
+     "given": "A."
+    }
+   ],
+   "date": "2015",
+   "title": "Nuovo museo archeologico. Catalogo del sistema museale di Ugento",
+   "publisher": "Scirocco Editore",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Caggia M.P., Scardozzi G. 2024, Il Nuovo Museo Archeologico di Ugento, Monteroni di Lecce (Lecce), Edizioni Esperidi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Caggia",
+     "given": "M.P."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2024",
+   "title": "Il Nuovo Museo Archeologico di Ugento",
+   "publisher": "Edizioni Esperidi",
+   "place": "Monteroni di Lecce (Lecce)",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "De Giorgi L., Ferrari I., Giuri F., Leucci G., Scardozzi G. 2021, Integrated geoscientific surveys at the Church of Santa Maria della Lizza (Alezio, Italy), «Sensors», 21, 6, 2205 (https://doi.org/10.3390/s21062205).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Giorgi",
+     "given": "L."
+    },
+    {
+     "family": "Ferrari",
+     "given": "I."
+    },
+    {
+     "family": "Giuri",
+     "given": "F."
+    },
+    {
+     "family": "Leucci",
+     "given": "G."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2021",
+   "title": "Integrated geoscientific surveys at the Church of Santa Maria della Lizza (Alezio, Italy)",
+   "is_part_of": [
+    "Sensors"
+   ],
+   "volume": "21",
+   "issue": "6",
+   "pages": "2205",
+   "doi": "10.3390/s21062205",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Dell'Aglio A. 2013, Taranto: l'Ipogeo delle Gorgoni e le tombe con arco, Vetustis novitatem dare. Temi di antichità e archeologia in ricordo di Grazia Angela Maruggi, Taranto, Scorpione Editrice, 511-530.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dell’Aglio",
+     "given": "A."
+    }
+   ],
+   "date": "2013",
+   "title": "Taranto: l’Ipogeo delle Gorgoni e le tombe con arco",
+   "is_part_of": [
+    "Vetustis novitatem dare. Temi di antichità e archeologia in ricordo di Grazia Angela Maruggi"
+   ],
+   "pages": "511-530",
+   "publisher": "Scorpione Editrice",
+   "place": "Taranto",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Dell'Aglio A., Lippolis E. 2003, La pittura funeraria a Taranto, «Archeologia Classica», 54, 97-158.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dell’Aglio",
+     "given": "A."
+    },
+    {
+     "family": "Lippolis",
+     "given": "E."
+    }
+   ],
+   "date": "2003",
+   "title": "La pittura funeraria a Taranto",
+   "is_part_of": [
+    "Archeologia Classica"
+   ],
+   "volume": "54",
+   "pages": "97-158",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Dell'Aglio A., Vinci G. 1990, Taranto, via Crispi. Intervento di valorizzazione e restauro degli ipogei funerari, «Taras. Rivista di Archeologia», 10, 2, 462-463.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dell’Aglio",
+     "given": "A."
+    },
+    {
+     "family": "Vinci",
+     "given": "G."
+    }
+   ],
+   "date": "1990",
+   "title": "Taranto, via Crispi. Intervento di valorizzazione e restauro degli ipogei funerari",
+   "is_part_of": [
+    "Taras. Rivista di Archeologia"
+   ],
+   "volume": "10",
+   "issue": "2",
+   "pages": "462-463",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "Ferrari I., Giuri F., Leucci G., Scardozzi G. 2023, La necropoli messapica di Monte d'Elia ad Alezio (Lecce): integrazione di rilievi topografici e indagini geofisiche a supporto delle indagini stratigrafiche, «Archeologia e Calcolatori», 34.2, 143-162 (https://doi.org/10.19282/ac.34.2.2023.08).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ferrari",
+     "given": "I."
+    },
+    {
+     "family": "Giuri",
+     "given": "F."
+    },
+    {
+     "family": "Leucci",
+     "given": "G."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2023",
+   "title": "La necropoli messapica di Monte d’Elia ad Alezio (Lecce): integrazione di rilievi topografici e indagini geofisiche a supporto delle indagini stratigrafiche",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "34",
+   "issue": "2",
+   "pages": "143-162",
+   "doi": "10.19282/ac.34.2.2023.08",
+   "language": "ita",
+   "cited_aec_id": 1266
+  },
+  {
+   "position": 9,
+   "raw": "Ferrari I., Scardozzi G. 2010, Contributo alla carta archeologica di Alezio, Monografie dell'Istituto per i Beni Archeologici e Monumentali - C.N.R., 10, Bari, Scirocco Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ferrari",
+     "given": "I."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "Contributo alla carta archeologica di Alezio",
+   "series": "Monografie dell’Istituto per i Beni Archeologici e Monumentali - C.N.R.",
+   "series_number": "10",
+   "publisher": "Scirocco Editore",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Gabellone F., Ferrari I., Giuri F., Chiffi M. 2015, The Palmieri hypogeum in Lecce. From the integrated survey to the dissemination of contents, in G. Guidi, J.C. Torres, R. Scopigno, H. Graf (eds.), Proceeding of the 2015 Digital Heritage International Congress (Granada 2015), I, Granada, IEEE, 247-254 (https://doi.org/10.1109/DigitalHeritage.2015.7413878).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gabellone",
+     "given": "F."
+    },
+    {
+     "family": "Ferrari",
+     "given": "I."
+    },
+    {
+     "family": "Giuri",
+     "given": "F."
+    },
+    {
+     "family": "Chiffi",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "The Palmieri hypogeum in Lecce. From the integrated survey to the dissemination of contents",
+   "editors": [
+    {
+     "family": "Guidi",
+     "given": "G."
+    },
+    {
+     "family": "Torres",
+     "given": "J.C."
+    },
+    {
+     "family": "Scopigno",
+     "given": "R."
+    },
+    {
+     "family": "Graf",
+     "given": "H."
+    }
+   ],
+   "is_part_of": [
+    "Proceeding of the 2015 Digital Heritage International Congress (Granada 2015)"
+   ],
+   "volume": "I",
+   "pages": "247-254",
+   "publisher": "IEEE",
+   "place": "Granada",
+   "doi": "10.1109/DigitalHeritage.2015.7413878",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Gabellone F., Giannotta M.T., Ferrari I., Dell'Aglio A. 2013, From museum to original site: A 3D environment for virtual visits to finds recontextualized in their original setting, in Addison et al. 2013, 215-222.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gabellone",
+     "given": "F."
+    },
+    {
+     "family": "Giannotta",
+     "given": "M.T."
+    },
+    {
+     "family": "Ferrari",
+     "given": "I."
+    },
+    {
+     "family": "Dell’Aglio",
+     "given": "A."
+    }
+   ],
+   "date": "2013",
+   "title": "From museum to original site: A 3D environment for virtual visits to finds recontextualized in their original setting",
+   "editors": [
+    {
+     "family": "Addison",
+     "given": "A.C."
+    },
+    {
+     "family": "De Luca",
+     "given": "L."
+    },
+    {
+     "family": "Guidi",
+     "given": "G."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Proceeding of the 2013 Digital Heritage International Congress (Marseille 2013)"
+   ],
+   "volume": "II",
+   "pages": "215-222",
+   "publisher": "IEEE",
+   "place": "Marseille",
+   "xref": 1,
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Gabellone F., Giannotta M.T., Ferrari I., Dell'Aglio A. 2014, Marta Racconta. A project for the virtual enjoyment of inaccessible monuments, in W. Börner, S. Uhlirz (eds.), Proceedings of the 18th International Conference on Cultural Heritage and New Technologies 2013 (Wien 2013), Wien, Museen der Stadt Wien, 1-14.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gabellone",
+     "given": "F."
+    },
+    {
+     "family": "Giannotta",
+     "given": "M.T."
+    },
+    {
+     "family": "Ferrari",
+     "given": "I."
+    },
+    {
+     "family": "Dell’Aglio",
+     "given": "A."
+    }
+   ],
+   "date": "2014",
+   "title": "Marta Racconta. A project for the virtual enjoyment of inaccessible monuments",
+   "editors": [
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Uhlirz",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the 18th International Conference on Cultural Heritage and New Technologies 2013 (Wien 2013)"
+   ],
+   "pages": "1-14",
+   "publisher": "Museen der Stadt Wien",
+   "place": "Wien",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Gabellone F., Ferrari I., Giuri F., Chiffi M. 2017, 3D technologies for a critical reading and philological presentation of ancient contexts, «Archeologia e Calcolatori», 28.2, 591-595 (https://doi.org/10.19282/AC.28.2.2017.50).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gabellone",
+     "given": "F."
+    },
+    {
+     "family": "Ferrari",
+     "given": "I."
+    },
+    {
+     "family": "Giuri",
+     "given": "F."
+    },
+    {
+     "family": "Chiffi",
+     "given": "M."
+    }
+   ],
+   "date": "2017",
+   "title": "3D technologies for a critical reading and philological presentation of ancient contexts",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "591-595",
+   "doi": "10.19282/AC.28.2.2017.50",
+   "language": "eng",
+   "cited_aec_id": 963
+  },
+  {
+   "position": 14,
+   "raw": "Guzzo P.G. 1993, Oreficerie dalla Magna Grecia. Ornamenti in oro e argento dall'Italia meridionale tra l'VIII ed il I secolo, Taranto, Editore La Colomba.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Guzzo",
+     "given": "P.G."
+    }
+   ],
+   "date": "1993",
+   "title": "Oreficerie dalla Magna Grecia. Ornamenti in oro e argento dall’Italia meridionale tra l’VIII ed il I secolo",
+   "publisher": "Editore La Colomba",
+   "place": "Taranto",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Guzzo P.G. 2008, Oreficerie ornamentali dalla tomba 238 in località Crucinia, «Bollettino d'Arte», 143, 15-26.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guzzo",
+     "given": "P.G."
+    }
+   ],
+   "date": "2008",
+   "title": "Oreficerie ornamentali dalla tomba 238 in località Crucinia",
+   "is_part_of": [
+    "Bollettino d’Arte"
+   ],
+   "volume": "143",
+   "pages": "15-26",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Harari M. 2010, La Tomba dei Festoni di Tarquinia e alcuni problemi di pittura greca tardo-classica, «Bollettino di Archeologia on line», volume speciale, 56-77 (https://bollettinodiarcheologiaonline.beniculturali.it/wp-content/uploads/2021/08/6_HARARI.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Harari",
+     "given": "M."
+    }
+   ],
+   "date": "2010",
+   "title": "La Tomba dei Festoni di Tarquinia e alcuni problemi di pittura greca tardo-classica",
+   "is_part_of": [
+    "Bollettino di Archeologia on line"
+   ],
+   "issue": "volume speciale",
+   "pages": "56-77",
+   "uri": "https://bollettinodiarcheologiaonline.beniculturali.it/wp-content/uploads/2021/08/6_HARARI.pdf",
+   "language": "ita"
+  },
+  {
+   "position": 17,
+   "raw": "Kadner N. 2019, The Virtual Production Field Guide, 1, Epic Games Editor (https://cdn2.unrealengine.com/vp-field-guide-v1-3-01-f0bce45b6319.pdf).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Kadner",
+     "given": "N."
+    }
+   ],
+   "date": "2019",
+   "title": "The Virtual Production Field Guide",
+   "volume": "1",
+   "publisher": "Epic Games Editor",
+   "uri": "https://cdn2.unrealengine.com/vp-field-guide-v1-3-01-f0bce45b6319.pdf",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Leucci G., De Giorgi L., Ditaranto I., Giuri F., Ferrari I., Scardozzi G. 2019, New Data on the Messapian necropolis of Monte D'Elia in Alezio (Apulia, Italy) from topographical and geophysical surveys, «Sensors», 19, 16, 3494 (https://doi.org/10.3390/s19163494).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Leucci",
+     "given": "G."
+    },
+    {
+     "family": "De Giorgi",
+     "given": "L."
+    },
+    {
+     "family": "Ditaranto",
+     "given": "I."
+    },
+    {
+     "family": "Giuri",
+     "given": "F."
+    },
+    {
+     "family": "Ferrari",
+     "given": "I."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2019",
+   "title": "New Data on the Messapian necropolis of Monte D’Elia in Alezio (Apulia, Italy) from topographical and geophysical surveys",
+   "is_part_of": [
+    "Sensors"
+   ],
+   "volume": "19",
+   "issue": "16",
+   "pages": "3494",
+   "doi": "10.3390/s19163494",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Limoncelli M. 2021, Restauro virtuale delle superfici pittoriche della Tomba dell'Atleta di Ugento, in Scardozzi 2021, 281-285.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Limoncelli",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "Restauro virtuale delle superfici pittoriche della Tomba dell’Atleta di Ugento",
+   "editors": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Topografia antica e popolamento dalla Preistoria alla Tarda Antichità. Carta archeologica di Ugento"
+   ],
+   "pages": "281-285",
+   "publisher": "Quatrini",
+   "place": "Viterbo",
+   "xref": 29,
+   "language": "ita"
+  },
+  {
+   "position": 20,
+   "raw": "Lo Porto F.G. 1970-1971, Tomba messapica di Ugento, «Atti e Memorie della Società Magna Grecia», 11-12, 99-152.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lo Porto",
+     "given": "F.G."
+    }
+   ],
+   "date": "1970",
+   "title": "Tomba messapica di Ugento",
+   "is_part_of": [
+    "Atti e Memorie della Società Magna Grecia"
+   ],
+   "volume": "11-12",
+   "pages": "99-152",
+   "language": "ita",
+   "notes": "cited as 1970-1971"
+  },
+  {
+   "position": 21,
+   "raw": "Lo Porto F.G. 1971, L'attività archeologica in Puglia, in Taranto nella civiltà della Magna Grecia. Atti del Convegno di Studi sulla Magna Grecia, 10, Napoli, Arte Tipografica Napoli, 523-535.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lo Porto",
+     "given": "F.G."
+    }
+   ],
+   "date": "1971",
+   "title": "L’attività archeologica in Puglia",
+   "is_part_of": [
+    "Taranto nella civiltà della Magna Grecia. Atti del Convegno di Studi sulla Magna Grecia, 10"
+   ],
+   "pages": "523-535",
+   "publisher": "Arte Tipografica Napoli",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "Miccoli I. 2024, La Cripta del Crocefisso, in Caggia, Scardozzi 2024, 81-86.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Miccoli",
+     "given": "I."
+    }
+   ],
+   "date": "2024",
+   "title": "La Cripta del Crocefisso",
+   "editors": [
+    {
+     "family": "Caggia",
+     "given": "M.P."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Il Nuovo Museo Archeologico di Ugento"
+   ],
+   "pages": "81-86",
+   "publisher": "Edizioni Esperidi",
+   "place": "Monteroni di Lecce (Lecce)",
+   "xref": 3,
+   "language": "ita"
+  },
+  {
+   "position": 23,
+   "raw": "Mohammed S.N., Jamhawi M., Rashid M. 2022, Effectiveness of using information and communication technology in developing museum exhibitions: The case of the Sharjah museums, «Istraživanja, Journal of Historical Researches», 33, 191-212 (https://doi.org/10.19090/i.2022.33.191-212).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mohammed",
+     "given": "S.N."
+    },
+    {
+     "family": "Jamhawi",
+     "given": "M."
+    },
+    {
+     "family": "Rashid",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "Effectiveness of using information and communication technology in developing museum exhibitions: The case of the Sharjah museums",
+   "is_part_of": [
+    "Istraživanja, Journal of Historical Researches"
+   ],
+   "volume": "33",
+   "pages": "191-212",
+   "doi": "10.19090/i.2022.33.191-212",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "Montanaro A.C., Ferrari I., Giuri F. 2024, La \"Tomba dell'Atleta\" di via Salentina, in Caggia, Scardozzi 2024, 44-53.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Montanaro",
+     "given": "A.C."
+    },
+    {
+     "family": "Ferrari",
+     "given": "I."
+    },
+    {
+     "family": "Giuri",
+     "given": "F."
+    }
+   ],
+   "date": "2024",
+   "title": "La “Tomba dell’Atleta” di via Salentina",
+   "editors": [
+    {
+     "family": "Caggia",
+     "given": "M.P."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Il Nuovo Museo Archeologico di Ugento"
+   ],
+   "pages": "44-53",
+   "publisher": "Edizioni Esperidi",
+   "place": "Monteroni di Lecce (Lecce)",
+   "xref": 3,
+   "language": "ita"
+  },
+  {
+   "position": 25,
+   "raw": "Nicolucci F., Felicetti A., Hermon S. 2022, Populating the data space for Cultural Heritage with Heritage digital twins, «Data», 7, 8, 105 (https://doi.org/10.3390/data7080105).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nicolucci",
+     "given": "F."
+    },
+    {
+     "family": "Felicetti",
+     "given": "A."
+    },
+    {
+     "family": "Hermon",
+     "given": "S."
+    }
+   ],
+   "date": "2022",
+   "title": "Populating the data space for Cultural Heritage with Heritage digital twins",
+   "is_part_of": [
+    "Data"
+   ],
+   "volume": "7",
+   "issue": "8",
+   "pages": "105",
+   "doi": "10.3390/data7080105",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "Pietroni E., Pagano A., Biocca L., Frassineti G. 2021, Accessibility, natural user interfaces and interactions in museums: The IntARSI Project, «Heritage», 4, 2, 567-584 (https://doi.org/10.3390/heritage4020034).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pietroni",
+     "given": "E."
+    },
+    {
+     "family": "Pagano",
+     "given": "A."
+    },
+    {
+     "family": "Biocca",
+     "given": "L."
+    },
+    {
+     "family": "Frassineti",
+     "given": "G."
+    }
+   ],
+   "date": "2021",
+   "title": "Accessibility, natural user interfaces and interactions in museums: The IntARSI Project",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "4",
+   "issue": "2",
+   "pages": "567-584",
+   "doi": "10.3390/heritage4020034",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "Ronda O., Valente C., Nucara R., Veronese M., Angi A., Rizetti C. 1993, Cracking Art, Verona, Idea Studio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ronda",
+     "given": "O."
+    },
+    {
+     "family": "Valente",
+     "given": "C."
+    },
+    {
+     "family": "Nucara",
+     "given": "R."
+    },
+    {
+     "family": "Veronese",
+     "given": "M."
+    },
+    {
+     "family": "Angi",
+     "given": "A."
+    },
+    {
+     "family": "Rizetti",
+     "given": "C."
+    }
+   ],
+   "date": "1993",
+   "title": "Cracking Art",
+   "publisher": "Idea Studio",
+   "place": "Verona",
+   "language": "ita"
+  },
+  {
+   "position": 28,
+   "raw": "Roussou M., Perry S., Katifori A., Vassos S., Tzouganatou A., McKinney S. 2019, Transformation through provocation?, in Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI 19), Association for Computing Machinery, New York, Paper 627, 1-13 (https://doi.org/10.1145/3290605.3300857).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Roussou",
+     "given": "M."
+    },
+    {
+     "family": "Perry",
+     "given": "S."
+    },
+    {
+     "family": "Katifori",
+     "given": "A."
+    },
+    {
+     "family": "Vassos",
+     "given": "S."
+    },
+    {
+     "family": "Tzouganatou",
+     "given": "A."
+    },
+    {
+     "family": "McKinney",
+     "given": "S."
+    }
+   ],
+   "date": "2019",
+   "title": "Transformation through provocation?",
+   "is_part_of": [
+    "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI 19)"
+   ],
+   "pages": "1-13",
+   "publisher": "Association for Computing Machinery",
+   "place": "New York",
+   "doi": "10.1145/3290605.3300857",
+   "language": "eng",
+   "notes": "Paper 627"
+  },
+  {
+   "position": 29,
+   "raw": "Scardozzi G. 2021, Topografia antica e popolamento dalla Preistoria alla Tarda Antichità. Carta archeologica di Ugento, Viterbo, Quatrini.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2021",
+   "title": "Topografia antica e popolamento dalla Preistoria alla Tarda Antichità. Carta archeologica di Ugento",
+   "publisher": "Quatrini",
+   "place": "Viterbo",
+   "language": "ita"
+  },
+  {
+   "position": 30,
+   "raw": "Scardozzi G., Ferrari I., Giuri F. 2023, Le cave antiche di Porto Miggiano (Santa Cesarea, Lecce): analisi metrologica e rilievo topografico dei settori estrattivi, «Archeologia e Calcolatori», 34.2, 163-184 (https://doi.org/10.19282/ac.34.2.2023.09).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    },
+    {
+     "family": "Ferrari",
+     "given": "I."
+    },
+    {
+     "family": "Giuri",
+     "given": "F."
+    }
+   ],
+   "date": "2023",
+   "title": "Le cave antiche di Porto Miggiano (Santa Cesarea, Lecce): analisi metrologica e rilievo topografico dei settori estrattivi",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "34",
+   "issue": "2",
+   "pages": "163-184",
+   "doi": "10.19282/ac.34.2.2023.09",
+   "language": "ita",
+   "cited_aec_id": 1267
+  },
+  {
+   "position": 31,
+   "raw": "Spadoni E., Porro S., Bordegoni M., Arosio I., Barbalini L., Carulli M. 2022, Augmented reality to engage visitors of science museums through interactive experience, «Heritage», 5, 3, 1370-1394.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Spadoni",
+     "given": "E."
+    },
+    {
+     "family": "Porro",
+     "given": "S."
+    },
+    {
+     "family": "Bordegoni",
+     "given": "M."
+    },
+    {
+     "family": "Arosio",
+     "given": "I."
+    },
+    {
+     "family": "Barbalini",
+     "given": "L."
+    },
+    {
+     "family": "Carulli",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "Augmented reality to engage visitors of science museums through interactive experience",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "5",
+   "issue": "3",
+   "pages": "1370-1394",
+   "language": "eng"
+  },
+  {
+   "position": 32,
+   "raw": "Wilson P.F., Griffiths S., Williams E., Smith M.P., Williams M.A. 2020, Designing 3-D prints for blind and partially sighted audiences in museums: Exploring the needs of those living with sight loss, «Visitor Studies», 23, 2, 120-140 (https://doi.org/10.1080/10645578.2020.1776562).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wilson",
+     "given": "P.F."
+    },
+    {
+     "family": "Griffiths",
+     "given": "S."
+    },
+    {
+     "family": "Williams",
+     "given": "E."
+    },
+    {
+     "family": "Smith",
+     "given": "M.P."
+    },
+    {
+     "family": "Williams",
+     "given": "M.A."
+    }
+   ],
+   "date": "2020",
+   "title": "Designing 3-D prints for blind and partially sighted audiences in museums: Exploring the needs of those living with sight loss",
+   "is_part_of": [
+    "Visitor Studies"
+   ],
+   "volume": "23",
+   "issue": "2",
+   "pages": "120-140",
+   "doi": "10.1080/10645578.2020.1776562",
+   "language": "eng"
+  },
+  {
+   "position": 33,
+   "raw": "Wright D., Narkowicz K., Kelly P. 2022, Lumen: Real-time Global Illumination in Unreal Engine 5, in SIGGRAPH (Vancouver 2022).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wright",
+     "given": "D."
+    },
+    {
+     "family": "Narkowicz",
+     "given": "K."
+    },
+    {
+     "family": "Kelly",
+     "given": "P."
+    }
+   ],
+   "date": "2022",
+   "title": "Lumen: Real-time Global Illumination in Unreal Engine 5",
+   "is_part_of": [
+    "SIGGRAPH (Vancouver 2022)"
+   ],
+   "language": "eng"
+  }
+ ]
+}

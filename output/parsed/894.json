@@ -1,0 +1,1066 @@
+{
+ "citing_aec_id": 894,
+ "source_file": "data/journal/28/894.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Annibaletto M. 2007a, *Vasa Rubra*: un catalogo informatizzato per le terre sigillate di Iulia Concordia, «Archeologia e Calcolatori», 18, 45-56.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Annibaletto",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Vasa Rubra: un catalogo informatizzato per le terre sigillate di Iulia Concordia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "18",
+   "pages": "45-56",
+   "language": "ita",
+   "cited_aec_id": 434
+  },
+  {
+   "position": 2,
+   "raw": "Annibaletto M. 2007b, Il database Vasa Rubra, in Pettenò 2007, 51-61.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Annibaletto",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pettenò",
+     "given": "E."
+    }
+   ],
+   "date": "2007",
+   "title": "Il database Vasa Rubra",
+   "is_part_of": [
+    "Vasa Rubra. Marchi di fabbrica sulla terra sigillata da Iulia Concordia"
+   ],
+   "pages": "51-61",
+   "language": "ita",
+   "xref": 36
+  },
+  {
+   "position": 3,
+   "raw": "Buonopane A. 2009, Manuale di epigrafia latina, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Buonopane",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "Manuale di epigrafia latina",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Buonopane A. 2011, La pubblicazione di marchi e di graffiti su instrumentum inscriptum: alcune riflessioni, «Quaderni Friulani di Archeologia», 21, 11-16.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Buonopane",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "La pubblicazione di marchi e di graffiti su instrumentum inscriptum: alcune riflessioni",
+   "is_part_of": [
+    "Quaderni Friulani di Archeologia"
+   ],
+   "volume": "21",
+   "pages": "11-16",
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "Carandini A. 1975, Archeologia e cultura materiale. Lavori senza gloria nell'antichità classica, Bari, De Donato.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    }
+   ],
+   "date": "1975",
+   "title": "Archeologia e cultura materiale. Lavori senza gloria nell'antichità classica",
+   "publisher": "De Donato",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Carandini A. 1979, Archeologia e cultura materiale: dai lavori senza gloria nell'antichità a una politica dei beni culturali, Bari, De Donato.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    }
+   ],
+   "date": "1979",
+   "title": "Archeologia e cultura materiale: dai lavori senza gloria nell'antichità a una politica dei beni culturali",
+   "publisher": "De Donato",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Chiesi I. 2013, Storia di Brescello. L'età romana, Parma, Monte Università Parma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chiesi",
+     "given": "I."
+    }
+   ],
+   "date": "2013",
+   "title": "Storia di Brescello. L'età romana",
+   "publisher": "Monte Università Parma",
+   "place": "Parma",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "Cipriano S., Mazzocchin S. 2011, Bonifiche con anfore a Padova: note di aggiornamento alla cronologia e alla distribuzione topografica, in Tra protostoria e storia. Studi in onore di Loredana Capuis, Roma, Quasar, 331-367.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cipriano",
+     "given": "S."
+    },
+    {
+     "family": "Mazzocchin",
+     "given": "S."
+    }
+   ],
+   "date": "2011",
+   "title": "Bonifiche con anfore a Padova: note di aggiornamento alla cronologia e alla distribuzione topografica",
+   "is_part_of": [
+    "Tra protostoria e storia. Studi in onore di Loredana Capuis"
+   ],
+   "pages": "331-367",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "Cotton H.M., Geiger J. 1989, Masada II: The Yigael Yadin Excavations 1963-1965, Final Reports. The Latin and Greek documents, Jerusalem, Israel Exploration Society, Hebrew University of Jerusalem.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cotton",
+     "given": "H.M."
+    },
+    {
+     "family": "Geiger",
+     "given": "J."
+    }
+   ],
+   "date": "1989",
+   "title": "Masada II: The Yigael Yadin Excavations 1963-1965, Final Reports. The Latin and Greek documents",
+   "publisher": "Israel Exploration Society, Hebrew University of Jerusalem",
+   "place": "Jerusalem",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Degrassi A. 1952, I fasti consolari dell'Impero romano: dal 30 avanti Cristo al 613 dopo Cristo, Roma, Edizioni di Storia e Letteratura.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Degrassi",
+     "given": "A."
+    }
+   ],
+   "date": "1952",
+   "title": "I fasti consolari dell'Impero romano: dal 30 avanti Cristo al 613 dopo Cristo",
+   "publisher": "Edizioni di Storia e Letteratura",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "Desbat A., Savay-Guerraz H. 1990, Note sur la découverte d'amphores Dressel 2/4 italiques, tardives, à Saint-Romain-en-Gal (Rhône), «Gallia», 47, 203-213.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Desbat",
+     "given": "A."
+    },
+    {
+     "family": "Savay-Guerraz",
+     "given": "H."
+    }
+   ],
+   "date": "1990",
+   "title": "Note sur la découverte d'amphores Dressel 2/4 italiques, tardives, à Saint-Romain-en-Gal (Rhône)",
+   "is_part_of": [
+    "Gallia"
+   ],
+   "volume": "47",
+   "pages": "203-213",
+   "language": "fre"
+  },
+  {
+   "position": 12,
+   "raw": "Dressel H. 1978, Saggi sull'instrumentum romano, Perugia, Editrice umbra cooperativa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Dressel",
+     "given": "H."
+    }
+   ],
+   "date": "1978",
+   "title": "Saggi sull'instrumentum romano",
+   "publisher": "Editrice umbra cooperativa",
+   "place": "Perugia",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "Epigrafia della produzione 1994, Epigrafia della produzione e della distribuzione. Actes de la VIIe Rencontre franco-italienne sur l'épigraphie du monde romain (Rome 1992), Collection de l'École française de Rome 193, Roma, École française de Rome.",
+   "type": "proceedings",
+   "date": "1994",
+   "title": "Epigrafia della produzione e della distribuzione. Actes de la VIIe Rencontre franco-italienne sur l'épigraphie du monde romain (Rome 1992)",
+   "series": "Collection de l'École française de Rome",
+   "series_number": "193",
+   "publisher": "École française de Rome",
+   "place": "Roma",
+   "language": "fre",
+   "notes": "cited as \"Epigrafia della produzione 1994\"; no editors"
+  },
+  {
+   "position": 14,
+   "raw": "Felle A.E. 2012, Esperienze diverse e complementari nel trattamento digitale delle fonti epigrafiche: il caso di EAGLE ed EpiDoc, in N. Palazzolo (ed.), Diritto romano e scienze antichistiche nell'era digitale. Atti del Convegno di studio (Firenze 2011), Collectanea Graeco-Romana. Studi e strumenti per la ricerca storico-giuridica 10, Torino, G. Giappichelli Editore, 117-130.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Felle",
+     "given": "A.E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Palazzolo",
+     "given": "N."
+    }
+   ],
+   "date": "2012",
+   "title": "Esperienze diverse e complementari nel trattamento digitale delle fonti epigrafiche: il caso di EAGLE ed EpiDoc",
+   "is_part_of": [
+    "Diritto romano e scienze antichistiche nell'era digitale. Atti del Convegno di studio (Firenze 2011)"
+   ],
+   "pages": "117-130",
+   "series": "Collectanea Graeco-Romana. Studi e strumenti per la ricerca storico-giuridica",
+   "series_number": "10",
+   "publisher": "G. Giappichelli Editore",
+   "place": "Torino",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Felle A.E. 2016, Oltre EAGLE: l'International Digital Epigraphy Association (IDEA). Una presentazione in anteprima, «Archeologia e Calcolatori», 27, 353-355.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Felle",
+     "given": "A.E."
+    }
+   ],
+   "date": "2016",
+   "title": "Oltre EAGLE: l'International Digital Epigraphy Association (IDEA). Una presentazione in anteprima",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "27",
+   "pages": "353-355",
+   "language": "ita",
+   "cited_aec_id": 856
+  },
+  {
+   "position": 16,
+   "raw": "Giardina A., Schiavone A. (eds.) 1981, Società romana e produzione schiavistica, 3 voll., Roma-Bari, Laterza.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Giardina",
+     "given": "A."
+    },
+    {
+     "family": "Schiavone",
+     "given": "A."
+    }
+   ],
+   "date": "1981",
+   "title": "Società romana e produzione schiavistica",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "notes": "3 voll."
+  },
+  {
+   "position": 17,
+   "raw": "Gomezel C. 1996, I laterizi bollati romani del Friuli-Venezia Giulia. Analisi, problemi e prospettive, Portogruaro, Fondazione Antonio Colluto, Gruppo Archeologico Veneto Orientale.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gomezel",
+     "given": "C."
+    }
+   ],
+   "date": "1996",
+   "title": "I laterizi bollati romani del Friuli-Venezia Giulia. Analisi, problemi e prospettive",
+   "publisher": "Fondazione Antonio Colluto, Gruppo Archeologico Veneto Orientale",
+   "place": "Portogruaro",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "Gualandi Genito M.C. 1983, Cultura materiale dell'Emilia Romagna: un'indagine interpretativa sulla presenza di fornaci e officine ceramiche in età romana, in Studi sulla città antica: l'Emilia-Romagna, Roma, Studia archaeologica 27, L'Erma di Bretschneider, 399-463.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gualandi Genito",
+     "given": "M.C."
+    }
+   ],
+   "date": "1983",
+   "title": "Cultura materiale dell'Emilia Romagna: un'indagine interpretativa sulla presenza di fornaci e officine ceramiche in età romana",
+   "is_part_of": [
+    "Studi sulla città antica: l'Emilia-Romagna"
+   ],
+   "pages": "399-463",
+   "series": "Studia archaeologica",
+   "series_number": "27",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Hainzmann M. 2012, Digitale Präsentationsformen antiker Kleininschriften T.E.Nor als HTML-Version, in G. Baratta, S.M. Marengo (eds.), Instrumenta inscripta III. Manufatti iscritti e vita dei santuari in età romana, Macerata, EUM, 409-429.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hainzmann",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Baratta",
+     "given": "G."
+    },
+    {
+     "family": "Marengo",
+     "given": "S.M."
+    }
+   ],
+   "date": "2012",
+   "title": "Digitale Präsentationsformen antiker Kleininschriften T.E.Nor als HTML-Version",
+   "is_part_of": [
+    "Instrumenta inscripta III. Manufatti iscritti e vita dei santuari in età romana"
+   ],
+   "pages": "409-429",
+   "publisher": "EUM",
+   "place": "Macerata",
+   "language": "ger"
+  },
+  {
+   "position": 20,
+   "raw": "Harris W.V. (ed.) 1993, The Inscribed Economy. Production and Distribution in the Roman Empire in the Light of Instrumentum Domesticum. The Proceedings of a Conference held at The American Academy in Rome on 10-11 January 1992, Ann Harbor, Journal of Roman Archaeology. Supplementary series 6, University of Michigan.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Harris",
+     "given": "W.V."
+    }
+   ],
+   "date": "1993",
+   "title": "The Inscribed Economy. Production and Distribution in the Roman Empire in the Light of Instrumentum Domesticum. The Proceedings of a Conference held at The American Academy in Rome on 10-11 January 1992",
+   "series": "Journal of Roman Archaeology. Supplementary series",
+   "series_number": "6",
+   "publisher": "University of Michigan",
+   "place": "Ann Harbor",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "Instrumenta inscripta Latina 1991, Instrumenta inscripta Latina. Gesellschaftliche und wirtschaftliche Probleme des römischen Reiches im Spiegel der gelegentlichen und reproduzierten Inschriften, Akten des Internationales Kolloquiums (Pécs 1991), «Specimina nova dissertationum ex Instituto historico Universitatis Quinqueecclesiensis de Jano Pannonio nominatae», 7.1.",
+   "type": "proceedings",
+   "date": "1991",
+   "title": "Instrumenta inscripta Latina. Gesellschaftliche und wirtschaftliche Probleme des römischen Reiches im Spiegel der gelegentlichen und reproduzierten Inschriften",
+   "is_part_of": [
+    "Specimina nova dissertationum ex Instituto historico Universitatis Quinqueecclesiensis de Jano Pannonio nominatae"
+   ],
+   "volume": "7",
+   "issue": "1",
+   "language": "ger",
+   "notes": "cited as \"Instrumenta inscripta Latina 1991\"; Akten des Internationales Kolloquiums (Pécs 1991); no editors"
+  },
+  {
+   "position": 22,
+   "raw": "Maggi P. 1997, Corpus delle iscrizioni su instrumentum domesticum del territorio della Venetia orientale. Le iscrizioni graffite, incise e dipinte, «Aquileia Nostra», 68, 338-344.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Maggi",
+     "given": "P."
+    }
+   ],
+   "date": "1997",
+   "title": "Corpus delle iscrizioni su instrumentum domesticum del territorio della Venetia orientale. Le iscrizioni graffite, incise e dipinte",
+   "is_part_of": [
+    "Aquileia Nostra"
+   ],
+   "volume": "68",
+   "pages": "338-344",
+   "language": "ita"
+  },
+  {
+   "position": 23,
+   "raw": "Mainardis F. 2015, The Epigraphic Project of the Laboratory of Epigraphy (EpiLab), Department of Humanities (Trieste University), «Archeologia e Calcolatori», 26, 33-34.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mainardis",
+     "given": "F."
+    }
+   ],
+   "date": "2015",
+   "title": "The Epigraphic Project of the Laboratory of Epigraphy (EpiLab), Department of Humanities (Trieste University)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "26",
+   "pages": "33-34",
+   "language": "eng",
+   "cited_aec_id": 776
+  },
+  {
+   "position": 24,
+   "raw": "Manacorda D. 2001, Sulla Calabria romana nel passaggio tra la repubblica e l'impero, in E. Lo Cascio, A. Storchi Marino (eds.), Modalità insediative e strutture agrarie nell'Italia meridionale in età romana, Bari, Edipuglia, 391-410.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lo Cascio",
+     "given": "E."
+    },
+    {
+     "family": "Storchi Marino",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Sulla Calabria romana nel passaggio tra la repubblica e l'impero",
+   "is_part_of": [
+    "Modalità insediative e strutture agrarie nell'Italia meridionale in età romana"
+   ],
+   "pages": "391-410",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 25,
+   "raw": "Maritan F.E. 2015, Epigrafia mobile ad Altinum. Instrumenta inscripta altinati: analisi e informatizzazione del messaggio impresso sulle classi ceramiche, Tesi di Dottorato, Università Ca' Foscari Venezia (http://dspace.unive.it/handle/10579/5617).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Maritan",
+     "given": "F.E."
+    }
+   ],
+   "date": "2015",
+   "title": "Epigrafia mobile ad Altinum. Instrumenta inscripta altinati: analisi e informatizzazione del messaggio impresso sulle classi ceramiche",
+   "publisher": "Università Ca' Foscari Venezia",
+   "language": "ita",
+   "uri": "http://dspace.unive.it/handle/10579/5617",
+   "notes": "Tesi di Dottorato"
+  },
+  {
+   "position": 26,
+   "raw": "Migliorati G. 2011, Iscrizioni per la ricostruzione storica dell'Impero romano da Marco Aurelio a Commodo, Milano, EDUCatt.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Migliorati",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "Iscrizioni per la ricostruzione storica dell'Impero romano da Marco Aurelio a Commodo",
+   "publisher": "EDUCatt",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 27,
+   "raw": "Mongardi M. 2014, L'instrumentum fittile inscriptum della colonia romana di Mutina e del suo territorio, Tesi di Dottorato, Alma Mater Studiorum-Università di Bologna (http://amsdottorato.unibo.it).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Mongardi",
+     "given": "M."
+    }
+   ],
+   "date": "2014",
+   "title": "L'instrumentum fittile inscriptum della colonia romana di Mutina e del suo territorio",
+   "publisher": "Alma Mater Studiorum-Università di Bologna",
+   "language": "ita",
+   "uri": "http://amsdottorato.unibo.it",
+   "notes": "Tesi di Dottorato"
+  },
+  {
+   "position": 28,
+   "raw": "Morizio V. 1991, Criteri di edizione dell'instrumentum inscriptum: un breve profilo storico, in Instrumenta Inscripta Latina 1991, 351-360.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Morizio",
+     "given": "V."
+    }
+   ],
+   "date": "1991",
+   "title": "Criteri di edizione dell'instrumentum inscriptum: un breve profilo storico",
+   "is_part_of": [
+    "Instrumenta inscripta Latina. Gesellschaftliche und wirtschaftliche Probleme des römischen Reiches im Spiegel der gelegentlichen und reproduzierten Inschriften"
+   ],
+   "pages": "351-360",
+   "language": "ita",
+   "xref": 21
+  },
+  {
+   "position": 29,
+   "raw": "Morizio V. 1994, Proposta di uno schema-guida per la schedatura dell'instrumentum inscriptum, in Epigrafia della produzione 1994, 227-233.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Morizio",
+     "given": "V."
+    }
+   ],
+   "date": "1994",
+   "title": "Proposta di uno schema-guida per la schedatura dell'instrumentum inscriptum",
+   "is_part_of": [
+    "Epigrafia della produzione e della distribuzione. Actes de la VIIe Rencontre franco-italienne sur l'épigraphie du monde romain (Rome 1992)"
+   ],
+   "pages": "227-233",
+   "language": "ita",
+   "xref": 13
+  },
+  {
+   "position": 30,
+   "raw": "Nonnis D. 2015, Produzione e distribuzione nell'Italia repubblicana. Uno studio prosopografico, Instrumentum 2, Roma, Quasar.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nonnis",
+     "given": "D."
+    }
+   ],
+   "date": "2015",
+   "title": "Produzione e distribuzione nell'Italia repubblicana. Uno studio prosopografico",
+   "series": "Instrumentum",
+   "series_number": "2",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 31,
+   "raw": "Oxé A., Comfort H. (eds.) 1968, Corpus Vasorum Arretinorum. A Catalogue of the Signatures, Shapes and Chronology of Italian Sigillata, Bonn, Habelt.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Oxé",
+     "given": "A."
+    },
+    {
+     "family": "Comfort",
+     "given": "H."
+    }
+   ],
+   "date": "1968",
+   "title": "Corpus Vasorum Arretinorum. A Catalogue of the Signatures, Shapes and Chronology of Italian Sigillata",
+   "publisher": "Habelt",
+   "place": "Bonn",
+   "language": "eng"
+  },
+  {
+   "position": 32,
+   "raw": "Oxé A., Comfort H., Kenrick P.M. (eds.) 2000, Corpus Vasorum Arretinorum. A Catalogue of the Signatures, Shapes and Chronology of Italian Sigillata, 2nd ed., Bonn, Habelt.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Oxé",
+     "given": "A."
+    },
+    {
+     "family": "Comfort",
+     "given": "H."
+    },
+    {
+     "family": "Kenrick",
+     "given": "P.M."
+    }
+   ],
+   "date": "2000",
+   "title": "Corpus Vasorum Arretinorum. A Catalogue of the Signatures, Shapes and Chronology of Italian Sigillata",
+   "edition": "2",
+   "publisher": "Habelt",
+   "place": "Bonn",
+   "language": "eng"
+  },
+  {
+   "position": 33,
+   "raw": "Pellicioni M.T. 2012, La PANSIANA in Adriatico. Tegole romane per navigare tra le sponde, Ferrara, Edizioni Arstudio C.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pellicioni",
+     "given": "M.T."
+    }
+   ],
+   "date": "2012",
+   "title": "La PANSIANA in Adriatico. Tegole romane per navigare tra le sponde",
+   "publisher": "Edizioni Arstudio C.",
+   "place": "Ferrara",
+   "language": "ita"
+  },
+  {
+   "position": 34,
+   "raw": "Pérez González J. 2014, La base de datos on-line del CEIPAC. Los tituli picti, «Ar@cne. Revista electrónica de recursos en Internet sobre Geografía y Ciencias Sociales», 190 (http://www.ub.edu/geocrit/aracne/aracne-190.htm).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pérez González",
+     "given": "J."
+    }
+   ],
+   "date": "2014",
+   "title": "La base de datos on-line del CEIPAC. Los tituli picti",
+   "is_part_of": [
+    "Ar@cne. Revista electrónica de recursos en Internet sobre Geografía y Ciencias Sociales"
+   ],
+   "issue": "190",
+   "language": "spa",
+   "uri": "http://www.ub.edu/geocrit/aracne/aracne-190.htm"
+  },
+  {
+   "position": 35,
+   "raw": "Pesavento Mattioli S. 2002, Una produzione norditalica di anfore bollate, in L. Rivet, M. Sciallano (eds.), Vivre, produire et échanger: reflets méditerranéens. Mélanges offerts à Bernard Liou, Montagnac, M. Mergoil, 391-394.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pesavento Mattioli",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rivet",
+     "given": "L."
+    },
+    {
+     "family": "Sciallano",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Una produzione norditalica di anfore bollate",
+   "is_part_of": [
+    "Vivre, produire et échanger: reflets méditerranéens. Mélanges offerts à Bernard Liou"
+   ],
+   "pages": "391-394",
+   "publisher": "M. Mergoil",
+   "place": "Montagnac",
+   "language": "ita"
+  },
+  {
+   "position": 36,
+   "raw": "Pettenò E. (ed.) 2007, Vasa Rubra. Marchi di fabbrica sulla terra sigillata da Iulia Concordia, Saggi di antichità e tradizione classica n. s. 25, Padova, Esedra editrice.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Pettenò",
+     "given": "E."
+    }
+   ],
+   "date": "2007",
+   "title": "Vasa Rubra. Marchi di fabbrica sulla terra sigillata da Iulia Concordia",
+   "series": "Saggi di antichità e tradizione classica n. s.",
+   "series_number": "25",
+   "publisher": "Esedra editrice",
+   "place": "Padova",
+   "language": "ita"
+  },
+  {
+   "position": 37,
+   "raw": "Remesal Rodríguez J. 1999, Politica e regimi alimentari nel principato di Augusto: il ruolo dello stato nella dieta di Roma e dell'esercito, in D. Vera (ed.), Demografia, sistemi agrari, regimi alimentari nel mondo antico. Atti del Convegno Internazionale di Studi (Parma 1997), Bari, Edipuglia, 247-271.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Remesal Rodríguez",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Vera",
+     "given": "D."
+    }
+   ],
+   "date": "1999",
+   "title": "Politica e regimi alimentari nel principato di Augusto: il ruolo dello stato nella dieta di Roma e dell'esercito",
+   "is_part_of": [
+    "Demografia, sistemi agrari, regimi alimentari nel mondo antico. Atti del Convegno Internazionale di Studi (Parma 1997)"
+   ],
+   "pages": "247-271",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 38,
+   "raw": "Remesal Rodríguez J., Porcheddu V., García Sánchez M. 2013, Sodales adiuvate! Il contributo dell'informatica al progresso dell'epigrafia anforaria greca, «Epigraphica», 75, 309-335.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Remesal Rodríguez",
+     "given": "J."
+    },
+    {
+     "family": "Porcheddu",
+     "given": "V."
+    },
+    {
+     "family": "García Sánchez",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Sodales adiuvate! Il contributo dell'informatica al progresso dell'epigrafia anforaria greca",
+   "is_part_of": [
+    "Epigraphica"
+   ],
+   "volume": "75",
+   "pages": "309-335",
+   "language": "ita"
+  },
+  {
+   "position": 39,
+   "raw": "Rigato D., Mongardi M. 2016, Tituli picti con datazione consolare su anfore vinarie italiche: indagini preliminari, in M. Buora, S. Magnani (eds.), Instrumenta inscripta VI. Le iscrizioni con funzione didascalico-esplicativa (Atti Aquileia 2015), Antichità Altoadriatiche 83, Trieste, Editreg, 101-129.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rigato",
+     "given": "D."
+    },
+    {
+     "family": "Mongardi",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Buora",
+     "given": "M."
+    },
+    {
+     "family": "Magnani",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "Tituli picti con datazione consolare su anfore vinarie italiche: indagini preliminari",
+   "is_part_of": [
+    "Instrumenta inscripta VI. Le iscrizioni con funzione didascalico-esplicativa (Atti Aquileia 2015)"
+   ],
+   "pages": "101-129",
+   "series": "Antichità Altoadriatiche",
+   "series_number": "83",
+   "publisher": "Editreg",
+   "place": "Trieste",
+   "language": "ita"
+  },
+  {
+   "position": 40,
+   "raw": "Righini V., Biordi M., Pellicioni Golinelli M.T. 1993, I bolli laterizi romani della regione Cispadana (Emilia e Romagna), in Zaccaria 1993, 23-82.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Righini",
+     "given": "V."
+    },
+    {
+     "family": "Biordi",
+     "given": "M."
+    },
+    {
+     "family": "Pellicioni Golinelli",
+     "given": "M.T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Zaccaria",
+     "given": "C."
+    }
+   ],
+   "date": "1993",
+   "title": "I bolli laterizi romani della regione Cispadana (Emilia e Romagna)",
+   "is_part_of": [
+    "I laterizi di età romana nell'area nordadriatica"
+   ],
+   "pages": "23-82",
+   "language": "ita",
+   "xref": 46
+  },
+  {
+   "position": 41,
+   "raw": "Shepherd E.J. 2015, Il progetto Lateres. Un database dei bolli doliari di Roma, Ostia e dell'Italia centrale (ma non solo), in M. Spanu (ed.), Opus Doliare Tiberinum. Atti delle Giornate di Studio (Viterbo 2012), Daidalos 15, Viterbo, Università degli studi della Tuscia, 229-234.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Shepherd",
+     "given": "E.J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Spanu",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "Il progetto Lateres. Un database dei bolli doliari di Roma, Ostia e dell'Italia centrale (ma non solo)",
+   "is_part_of": [
+    "Opus Doliare Tiberinum. Atti delle Giornate di Studio (Viterbo 2012)"
+   ],
+   "pages": "229-234",
+   "series": "Daidalos",
+   "series_number": "15",
+   "publisher": "Università degli studi della Tuscia",
+   "place": "Viterbo",
+   "language": "ita"
+  },
+  {
+   "position": 42,
+   "raw": "Steinby E.M. 1993, L'organizzazione produttiva dei laterizi: un modello interpretativo per l'instrumentum in genere?, in Harris 1993, 139-143.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Steinby",
+     "given": "E.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Harris",
+     "given": "W.V."
+    }
+   ],
+   "date": "1993",
+   "title": "L'organizzazione produttiva dei laterizi: un modello interpretativo per l'instrumentum in genere?",
+   "is_part_of": [
+    "The Inscribed Economy. Production and Distribution in the Roman Empire in the Light of Instrumentum Domesticum. The Proceedings of a Conference held at The American Academy in Rome on 10-11 January 1992"
+   ],
+   "pages": "139-143",
+   "language": "ita",
+   "xref": 20
+  },
+  {
+   "position": 43,
+   "raw": "Steinby E.M. 1993a, Ricerche sull'industria doliare nelle aree di Roma e di Pompei: un possibile modello interpretativo?, in Zaccaria 1993, 9-14.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Steinby",
+     "given": "E.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Zaccaria",
+     "given": "C."
+    }
+   ],
+   "date": "1993",
+   "title": "Ricerche sull'industria doliare nelle aree di Roma e di Pompei: un possibile modello interpretativo?",
+   "is_part_of": [
+    "I laterizi di età romana nell'area nordadriatica"
+   ],
+   "pages": "9-14",
+   "language": "ita",
+   "xref": 46
+  },
+  {
+   "position": 44,
+   "raw": "Steinby E.M., Kenrick P.M. 2005, Programma per un database dei bolli doliari di Roma, in C. Bruun (ed.), Interpretare i bolli laterizi di Roma e della valle del Tevere: produzione, storia e topografia. Atti del Convegno (Roma 2000), Acta Instituti Romani Finlandiae 32, Roma, Institutum Romanum Finlandiae, 291-305.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Steinby",
+     "given": "E.M."
+    },
+    {
+     "family": "Kenrick",
+     "given": "P.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bruun",
+     "given": "C."
+    }
+   ],
+   "date": "2005",
+   "title": "Programma per un database dei bolli doliari di Roma",
+   "is_part_of": [
+    "Interpretare i bolli laterizi di Roma e della valle del Tevere: produzione, storia e topografia. Atti del Convegno (Roma 2000)"
+   ],
+   "pages": "291-305",
+   "series": "Acta Instituti Romani Finlandiae",
+   "series_number": "32",
+   "publisher": "Institutum Romanum Finlandiae",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 45,
+   "raw": "Vera D. 2010, La tradizione annonaria nella Historia Augusta, in L. Galli Milić, N. Hecquet-Noti (eds.), Historiae Augustae Colloquium Genevense in honorem F. Paschoud septuagenarii. Les traditions historiographiques de l'Antiquité tardive : idéologie propagande, fiction, réalité, Bari, Edipuglia, 211-227.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vera",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Galli Milić",
+     "given": "L."
+    },
+    {
+     "family": "Hecquet-Noti",
+     "given": "N."
+    }
+   ],
+   "date": "2010",
+   "title": "La tradizione annonaria nella Historia Augusta",
+   "is_part_of": [
+    "Historiae Augustae Colloquium Genevense in honorem F. Paschoud septuagenarii. Les traditions historiographiques de l'Antiquité tardive : idéologie propagande, fiction, réalité"
+   ],
+   "pages": "211-227",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 46,
+   "raw": "Zaccaria C. (ed.) 1993, I laterizi di età romana nell'area nordadriatica, Roma, L'Erma di Bretschneider.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Zaccaria",
+     "given": "C."
+    }
+   ],
+   "date": "1993",
+   "title": "I laterizi di età romana nell'area nordadriatica",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 47,
+   "raw": "Zaccaria C. 2008a, Piccole iscrizioni crescono. Le possibili risposte di una banca dati epigrafica integrata con le scritte su instrumentum per la storia economica e sociale della Regio Decima, in P. Basso, A. Buonopane, A. Cavarzere, S. Pesavento Mattioli (eds.), Est enim ille flos Italiae… Vita economica e sociale della Cisalpina romana, Atti delle giornate di Studi in onore di Ezio Buchi (Verona 2006), Verona, QuiEdit, 369-383.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zaccaria",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Basso",
+     "given": "P."
+    },
+    {
+     "family": "Buonopane",
+     "given": "A."
+    },
+    {
+     "family": "Cavarzere",
+     "given": "A."
+    },
+    {
+     "family": "Pesavento Mattioli",
+     "given": "S."
+    }
+   ],
+   "date": "2008",
+   "title": "Piccole iscrizioni crescono. Le possibili risposte di una banca dati epigrafica integrata con le scritte su instrumentum per la storia economica e sociale della Regio Decima",
+   "is_part_of": [
+    "Est enim ille flos Italiae… Vita economica e sociale della Cisalpina romana, Atti delle giornate di Studi in onore di Ezio Buchi (Verona 2006)"
+   ],
+   "pages": "369-383",
+   "publisher": "QuiEdit",
+   "place": "Verona",
+   "language": "ita"
+  },
+  {
+   "position": 48,
+   "raw": "Zaccaria C. 2008b, Instrumenta inscripta Latina: potenziale informativo e importanza dei corpora elettronici. Alcuni esempi dalla Regio X orientale, in M. Hainzmann, R. Wedenig (eds.), Instrumenta Inscripta Latina II. Akten des 2. Internationalen Kolloquiums (Klagenfurt 2005), Aus Forschung und Kunst 36, Klagenfurt, Verlag des Geschichtsvereines für Kärnten, 347-368.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zaccaria",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Hainzmann",
+     "given": "M."
+    },
+    {
+     "family": "Wedenig",
+     "given": "R."
+    }
+   ],
+   "date": "2008",
+   "title": "Instrumenta inscripta Latina: potenziale informativo e importanza dei corpora elettronici. Alcuni esempi dalla Regio X orientale",
+   "is_part_of": [
+    "Instrumenta Inscripta Latina II. Akten des 2. Internationalen Kolloquiums (Klagenfurt 2005)"
+   ],
+   "pages": "347-368",
+   "series": "Aus Forschung und Kunst",
+   "series_number": "36",
+   "publisher": "Verlag des Geschichtsvereines für Kärnten",
+   "place": "Klagenfurt",
+   "language": "ita"
+  }
+ ]
+}

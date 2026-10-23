@@ -1,0 +1,85 @@
+{
+ "citing_aec_id": 45,
+ "source_file": "data/journal/3/45.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "RIX H. 1991, Etruskische Texte. Editio Minor, Tübingen.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rix",
+     "given": "H."
+    }
+   ],
+   "date": "1991",
+   "title": "Etruskische Texte. Editio Minor",
+   "place": "Tübingen",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "ThLE 1978 = PALLOTTINO M., PANDOLFINI ANGELETTI M., Thesaurus Linguae Etruscae. I, Indice Lessicale, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pallottino",
+     "given": "M."
+    },
+    {
+     "family": "Pandolfini Angeletti",
+     "given": "M."
+    }
+   ],
+   "date": "1978",
+   "title": "Thesaurus Linguae Etruscae. I, Indice Lessicale",
+   "place": "Roma",
+   "notes": "cited as 'ThLE 1978'; reference split over two lines in the source",
+   "language": "lat",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "ThLE I Suppl. 1984 = PALLOTTINO M., PANDOLFINI ANGELETTI M., Thesaurus Linguae Etruscae. I Supplemento, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pallottino",
+     "given": "M."
+    },
+    {
+     "family": "Pandolfini Angeletti",
+     "given": "M."
+    }
+   ],
+   "date": "1984",
+   "title": "Thesaurus Linguae Etruscae. I Supplemento",
+   "place": "Roma",
+   "notes": "cited as 'ThLE I Suppl. 1984'; reference split over two lines in the source",
+   "language": "lat",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "ThLE II Suppl. 1991 = PALLOTTINO M., PANDOLFINI ANGELETTI M., Thesaurus Linguae Etruscae. II Supplemento, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pallottino",
+     "given": "M."
+    },
+    {
+     "family": "Pandolfini Angeletti",
+     "given": "M."
+    }
+   ],
+   "date": "1991",
+   "title": "Thesaurus Linguae Etruscae. II Supplemento",
+   "place": "Roma",
+   "notes": "cited as 'ThLE II Suppl. 1991'; reference split over two lines in the source",
+   "language": "lat",
+   "confidence": "high"
+  }
+ ]
+}

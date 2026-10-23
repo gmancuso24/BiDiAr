@@ -1,0 +1,308 @@
+{
+ "citing_aec_id": 304,
+ "source_file": "data/journal/11/304.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "D’ANDRIA F. (ed.) 1997, Metodologie di catalogazione dei beni archeologici, C.N.R. - Università di Lecce, Beni Archeologici - Conoscenze e Tecnologie, Quaderno 1, Lecce-Bari, Martano-Edipuglia.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "D’Andria",
+     "given": "F."
+    }
+   ],
+   "date": "1997",
+   "title": "Metodologie di catalogazione dei beni archeologici",
+   "series": "Beni Archeologici - Conoscenze e Tecnologie",
+   "series_number": "Quaderno 1",
+   "publisher": "Martano-Edipuglia",
+   "place": "Lecce-Bari",
+   "language": "ita",
+   "notes": "C.N.R. - Università di Lecce"
+  },
+  {
+   "position": 2,
+   "raw": "DE SANTIS F., PEDUTO P., SESSA M., URSOLEO M. 1990, Informatica e beni culturali. Un progetto per la schedatura e l’elaborazione automatica di reperti ceramici medievali, Napoli, E.S.I.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "De Santis",
+     "given": "F."
+    },
+    {
+     "family": "Peduto",
+     "given": "P."
+    },
+    {
+     "family": "Sessa",
+     "given": "M."
+    },
+    {
+     "family": "Ursoleo",
+     "given": "M."
+    }
+   ],
+   "date": "1990",
+   "title": "Informatica e beni culturali. Un progetto per la schedatura e l’elaborazione automatica di reperti ceramici medievali",
+   "publisher": "E.S.I.",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "DJINDJIAN F. 1990, Nouvelles tendances méthodologiques dans le traitement de l’information en archéologie, «Archeologia e Calcolatori», 1, 9-13.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1990",
+   "title": "Nouvelles tendances méthodologiques dans le traitement de l’information en archéologie",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "9-13",
+   "language": "fre"
+  },
+  {
+   "position": 4,
+   "raw": "DJINDJIAN F. 1993, Les systèmes d’information en archéologie; «Archeologia e Calcolatori», 4, 9-25.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1993",
+   "title": "Les systèmes d’information en archéologie",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "9-25",
+   "language": "fre"
+  },
+  {
+   "position": 5,
+   "raw": "FORTE M., SILIOTTI A. (edd.) 1996, Archeologia: Percorsi virtuali nelle civiltà scomparse, Milano, Mondadori.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Siliotti",
+     "given": "A."
+    }
+   ],
+   "date": "1996",
+   "title": "Archeologia: Percorsi virtuali nelle civiltà scomparse",
+   "publisher": "Mondadori",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "FRANCOVICH R. 1990, Dalla teoria alla ricerca sul campo: il contributo dell’informatica all’archeologia medievale, «Archeologia e Calcolatori», 1, 15-26.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "1990",
+   "title": "Dalla teoria alla ricerca sul campo: il contributo dell’informatica all’archeologia medievale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "15-26",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "FURET F. 1981, Il quantitativo in storia, in J. LE GOFF, P. NORA (edd.), Fare storia. Temi e metodi della nuova storiografia, Torino, Einaudi.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Furet",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Le Goff",
+     "given": "J."
+    },
+    {
+     "family": "Nora",
+     "given": "P."
+    }
+   ],
+   "date": "1981",
+   "title": "Il quantitativo in storia",
+   "is_part_of": [
+    "Fare storia. Temi e metodi della nuova storiografia"
+   ],
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "GINOUVÈS R., GUIMIER-SORBETS A.-M. 1996, Archéologie et informatique aujourd’hui: quelques idées pour un débat, «Archeologia e Calcolatori», 7**, 1215-1219.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "date": "1996",
+   "title": "Archéologie et informatique aujourd’hui: quelques idées pour un débat",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "1215-1219",
+   "language": "fre",
+   "notes": "raw volume \"7**\" (part of vol. 7)"
+  },
+  {
+   "position": 9,
+   "raw": "HODDER I. 1992, Leggere il passato, Torino, Einaudi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1992",
+   "title": "Leggere il passato",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "MOSCATI P. 1987, Archeologia e Calcolatori, Firenze, Giunti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Archeologia e Calcolatori",
+   "publisher": "Giunti",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "MOSCATI P. 1990, L’analisi quantitativa nell’archeologia di epoca storica, «Archeologia e Calcolatori», 1, 39-80.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1990",
+   "title": "L’analisi quantitativa nell’archeologia di epoca storica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "39-80",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "MOSCATI P. 1996, Archeologia quantitativa: nascita, sviluppo e ‘crisi’, in III Convegno Internazionale di Archeologia e Informatica, «Archeologia e Calcolatori», 7*, 579-590.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1996",
+   "title": "Archeologia quantitativa: nascita, sviluppo e ‘crisi’",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "579-590",
+   "language": "ita",
+   "notes": "raw volume \"7*\""
+  },
+  {
+   "position": 13,
+   "raw": "PORRO A. 1998, Storia e statistica. Introduzione ai metodi quantitativi per la ricerca storica, Roma, N.I.S.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Porro",
+     "given": "A."
+    }
+   ],
+   "date": "1998",
+   "title": "Storia e statistica. Introduzione ai metodi quantitativi per la ricerca storica",
+   "publisher": "N.I.S.",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "RICCI A., ALOIA A., GUALANDI M. 1985, Uno strumento per la gestione di dati archeologici, in L. CORTI, M. SCHMITT (eds.), Second International Conference on Automatic Processing of Art History Data and Documents, Pisa 1984, Proceedings, Firenze, 489-508.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ricci",
+     "given": "A."
+    },
+    {
+     "family": "Aloia",
+     "given": "A."
+    },
+    {
+     "family": "Gualandi",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Corti",
+     "given": "L."
+    },
+    {
+     "family": "Schmitt",
+     "given": "M."
+    }
+   ],
+   "date": "1985",
+   "title": "Uno strumento per la gestione di dati archeologici",
+   "is_part_of": [
+    "Second International Conference on Automatic Processing of Art History Data and Documents, Pisa 1984, Proceedings"
+   ],
+   "pages": "489-508",
+   "place": "Firenze",
+   "language": "ita"
+  }
+ ]
+}

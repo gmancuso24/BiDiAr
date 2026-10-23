@@ -1,0 +1,348 @@
+{
+ "citing_aec_id": 794,
+ "source_file": "data/journal/26/794.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bischi G.I., Carini R., Gardini L., Tenti P. 2004, Sulle orme del caos. Comportamenti complessi in modelli matematici semplici, Milano, Bruno Mondadori.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bischi",
+     "given": "G.I."
+    },
+    {
+     "family": "Carini",
+     "given": "R."
+    },
+    {
+     "family": "Gardini",
+     "given": "L."
+    },
+    {
+     "family": "Tenti",
+     "given": "P."
+    }
+   ],
+   "date": "2004",
+   "title": "Sulle orme del caos. Comportamenti complessi in modelli matematici semplici",
+   "publisher": "Bruno Mondadori",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Citter C. 2012, Modelli predittivi e archeologia postclassica: vecchi strumenti e nuove prospettive, in A. Forgione, F. Redi (eds.), VI Congresso Nazionale di Archeologia Medievale (L’Aquila 2012), Firenze, All’Insegna del Giglio, 12-15.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Citter",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Forgione",
+     "given": "A."
+    },
+    {
+     "family": "Redi",
+     "given": "F."
+    }
+   ],
+   "date": "2012",
+   "title": "Modelli predittivi e archeologia postclassica: vecchi strumenti e nuove prospettive",
+   "is_part_of": [
+    "VI Congresso Nazionale di Archeologia Medievale (L’Aquila 2012)"
+   ],
+   "pages": "12-15",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Clarke D.L. 1968, Analytical Archaeology, London, Methuen Publishing (ed. it. Archeologia analitica, Milano, Mondadori Electa, 1998).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1968",
+   "title": "Analytical Archaeology",
+   "publisher": "Methuen Publishing",
+   "place": "London",
+   "language": "eng",
+   "notes": "cited with the Italian edition: Archeologia analitica, Milano, Mondadori Electa, 1998",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Clarke D.L. 1973, Archaeology: The loss of innocence, «Antiquity», 47, 6-18.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1973",
+   "title": "Archaeology: The loss of innocence",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "47",
+   "pages": "6-18",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Deravignone L. 2009, Comprendere le dinamiche insediative con l’aiuto dell’intelligenza artificiale: un caso di studio, in G. Macchi Janica (ed.), Geografie del popolamento: casi di studio, metodi e teorie. Atti della Giornata di Studi (Grosseto 2008), Siena, Edizioni dell’Università, 187-192.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Deravignone",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Macchi Janica",
+     "given": "G."
+    }
+   ],
+   "date": "2009",
+   "title": "Comprendere le dinamiche insediative con l’aiuto dell’intelligenza artificiale: un caso di studio",
+   "is_part_of": [
+    "Geografie del popolamento: casi di studio, metodi e teorie. Atti della Giornata di Studi (Grosseto 2008)"
+   ],
+   "pages": "187-192",
+   "publisher": "Edizioni dell’Università",
+   "place": "Siena",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Fronza V. c.s., OpenArcheo2. Da base di dati a base della conoscenza, in P. Arthur, M.L. Imperiale (eds.), VII Congresso Nazionale di Archeologia Medievale (Lecce 2015), Firenze, All’Insegna del Giglio, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Arthur",
+     "given": "P."
+    },
+    {
+     "family": "Imperiale",
+     "given": "M.L."
+    }
+   ],
+   "date": "c.s.",
+   "title": "OpenArcheo2. Da base di dati a base della conoscenza",
+   "is_part_of": [
+    "VII Congresso Nazionale di Archeologia Medievale (Lecce 2015)"
+   ],
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: found AeC Suppl. 8 (2016), \"OpenArcheo2. An archaeological knowledge base\", pp. 254-262 (different title and venue); the chapter in the VII Congresso NAM (Lecce 2015, All’Insegna del Giglio 2015) could not be confirmed; not applied",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Lorenz E.N. 1963, Deterministic non periodic flow, «Journal of the Atmospheric Sciences», 20, 130-141.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lorenz",
+     "given": "E.N."
+    }
+   ],
+   "date": "1963",
+   "title": "Deterministic non periodic flow",
+   "is_part_of": [
+    "Journal of the Atmospheric Sciences"
+   ],
+   "volume": "20",
+   "pages": "130-141",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Lu J., Zhang G., Ruan D., Wu F. 2007, Multi-objective Group Decision Making. Methods, Software and Applications with Fuzzy Set Techniques, London, Imperial College Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lu",
+     "given": "J."
+    },
+    {
+     "family": "Zhang",
+     "given": "G."
+    },
+    {
+     "family": "Ruan",
+     "given": "D."
+    },
+    {
+     "family": "Wu",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "Multi-objective Group Decision Making. Methods, Software and Applications with Fuzzy Set Techniques",
+   "publisher": "Imperial College Press",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Serlorenzi M., Fronza V., De Tommasi A., Varavallo A., Loche M., Santamaria M. 2011, Un modello dati per la conoscenza delle architetture di interesse archeologico e la sua implementazione in SITAR, in R. Cecchi (ed.), Roma Archeologia. Interventi per la tutela e la fruizione del patrimonio archeologico. Terzo Rapporto, Milano, Electa, 514-531.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Fronza",
+     "given": "V."
+    },
+    {
+     "family": "De Tommasi",
+     "given": "A."
+    },
+    {
+     "family": "Varavallo",
+     "given": "A."
+    },
+    {
+     "family": "Loche",
+     "given": "M."
+    },
+    {
+     "family": "Santamaria",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cecchi",
+     "given": "R."
+    }
+   ],
+   "date": "2011",
+   "title": "Un modello dati per la conoscenza delle architetture di interesse archeologico e la sua implementazione in SITAR",
+   "is_part_of": [
+    "Roma Archeologia. Interventi per la tutela e la fruizione del patrimonio archeologico. Terzo Rapporto"
+   ],
+   "pages": "514-531",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Serra M. 2013, Gli sdraiati, Milano, Feltrinelli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Serra",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Gli sdraiati",
+   "publisher": "Feltrinelli",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Valenti M. 2000, La piattaforma GIS dello scavo. Filosofia di lavoro e provocazioni, modello dei dati e “soluzione GIS”, «Archeologia e Calcolatori», 11, 93-109.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "La piattaforma GIS dello scavo. Filosofia di lavoro e provocazioni, modello dei dati e “soluzione GIS”",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "93-109",
+   "language": "ita",
+   "cited_aec_id": 290,
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Valenti M. 2012, Per un approccio neo processualista al dato archeologico, in A. Forgione, F. Redi (eds.), VI Congresso Nazionale di Archeologia Medievale (L’Aquila 2012), Firenze, All’Insegna del Giglio, 8-11.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Forgione",
+     "given": "A."
+    },
+    {
+     "family": "Redi",
+     "given": "F."
+    }
+   ],
+   "date": "2012",
+   "title": "Per un approccio neo processualista al dato archeologico",
+   "is_part_of": [
+    "VI Congresso Nazionale di Archeologia Medievale (L’Aquila 2012)"
+   ],
+   "pages": "8-11",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Von Bertalanffy L. 1968, General System Theory. Foundations, Development, Applications, New York, George Braziller (ed. it. Teoria generale dei Sistemi. Fondamenti, sviluppo, applicazioni, Milano, Mondadori, 2004).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Von Bertalanffy",
+     "given": "L."
+    }
+   ],
+   "date": "1968",
+   "title": "General System Theory. Foundations, Development, Applications",
+   "publisher": "George Braziller",
+   "place": "New York",
+   "language": "eng",
+   "notes": "cited with the Italian edition: Teoria generale dei Sistemi. Fondamenti, sviluppo, applicazioni, Milano, Mondadori, 2004",
+   "confidence": "high"
+  }
+ ]
+}

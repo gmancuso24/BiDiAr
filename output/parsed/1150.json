@@ -1,0 +1,489 @@
+{
+ "citing_aec_id": 1150,
+ "source_file": "data/journal/32/1150.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Blackmer W.S. 2016, *GDPR: Getting Ready for the New EU General Data Protection Regulation*, Information Law Group. Archived from the original on 14 May 2018 (https://web.archive.org/web/20180514111300/https://www.infolawgroup.com/2016/05/articles/gdpr/gdpr-getting-ready-for-the-new-eu-general-data-protection-regulation/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Blackmer",
+     "given": "W.S."
+    }
+   ],
+   "date": "2016",
+   "title": "GDPR: Getting Ready for the New EU General Data Protection Regulation",
+   "publisher": "Information Law Group",
+   "language": "eng",
+   "uri": "https://web.archive.org/web/20180514111300/https://www.infolawgroup.com/2016/05/articles/gdpr/gdpr-getting-ready-for-the-new-eu-general-data-protection-regulation/",
+   "notes": "archived from the original on 14 May 2018",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bressan F., Canazza S. 2013, *A systemic approach to the preservation of audio documents: Methodology and software tools*, «Journal of Electrical and Computer Engineering», ID 489515 (https://doi.org/10.1155/2013/489515).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bressan",
+     "given": "F."
+    },
+    {
+     "family": "Canazza",
+     "given": "S."
+    }
+   ],
+   "date": "2013",
+   "title": "A systemic approach to the preservation of audio documents: Methodology and software tools",
+   "is_part_of": [
+    "Journal of Electrical and Computer Engineering"
+   ],
+   "pages": "489515",
+   "language": "eng",
+   "doi": "10.1155/2013/489515",
+   "notes": "\"ID 489515\" is an article number",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bressan F., Canazza S. 2014, *The challenge of preserving interactive sound art: A multi-level approach*, «International Journal of Arts and Technology», 7, 4, 294-315.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bressan",
+     "given": "F."
+    },
+    {
+     "family": "Canazza",
+     "given": "S."
+    }
+   ],
+   "date": "2014",
+   "title": "The challenge of preserving interactive sound art: A multi-level approach",
+   "is_part_of": [
+    "International Journal of Arts and Technology"
+   ],
+   "volume": "7",
+   "issue": "4",
+   "pages": "294-315",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bressan F., Canazza S. 2015, *Honey, I Burnt the Tapes!, A study on thermal treatment for the recovery of magnetic tapes affected by Soft Binder Syndrome-Sticky Shed Syndrome*, «IASA Journal», 44, 53-64.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bressan",
+     "given": "F."
+    },
+    {
+     "family": "Canazza",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "Honey, I Burnt the Tapes!, A study on thermal treatment for the recovery of magnetic tapes affected by Soft Binder Syndrome-Sticky Shed Syndrome",
+   "is_part_of": [
+    "IASA Journal"
+   ],
+   "volume": "44",
+   "pages": "53-64",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bressan F., Bertani R., Furlan C., Simionato F., Canazza S. 2016, *An ATR-FTIR and ESEM study on magnetic tapes for the assessment of the degradation of historical audio recordings*, «Journal of Cultural Heritage», 18, 313-320 (https://doi.org/10.1016/j.culher.2015.09.004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bressan",
+     "given": "F."
+    },
+    {
+     "family": "Bertani",
+     "given": "R."
+    },
+    {
+     "family": "Furlan",
+     "given": "C."
+    },
+    {
+     "family": "Simionato",
+     "given": "F."
+    },
+    {
+     "family": "Canazza",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "An ATR-FTIR and ESEM study on magnetic tapes for the assessment of the degradation of historical audio recordings",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "18",
+   "pages": "313-320",
+   "language": "eng",
+   "doi": "10.1016/j.culher.2015.09.004",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Canazza S., De Poli G. 2019, *Four decades of music research, creation, and education at Padua's Centro di Sonologia Computazionale*, «Computer Music Journal», 43, 4, 58-80.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Canazza",
+     "given": "S."
+    },
+    {
+     "family": "De Poli",
+     "given": "G."
+    }
+   ],
+   "date": "2019",
+   "title": "Four decades of music research, creation, and education at Padua's Centro di Sonologia Computazionale",
+   "is_part_of": [
+    "Computer Music Journal"
+   ],
+   "volume": "43",
+   "issue": "4",
+   "pages": "58-80",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Canazza S., Fantozzi C., Pretto N. 2015, *Accessing tape music documents on mobile devices*, «ACM Transactions on Multimedia Computing, Communications, and Applications», 12, 1s, 1-20.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Canazza",
+     "given": "S."
+    },
+    {
+     "family": "Fantozzi",
+     "given": "C."
+    },
+    {
+     "family": "Pretto",
+     "given": "N."
+    }
+   ],
+   "date": "2015",
+   "title": "Accessing tape music documents on mobile devices",
+   "is_part_of": [
+    "ACM Transactions on Multimedia Computing, Communications, and Applications"
+   ],
+   "volume": "12",
+   "issue": "1s",
+   "pages": "1-20",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Cook T. 2011, *The archive(s) is a foreign country: Historians, archivists, and the changing archival landscape*, «The American Archivist», 74, 2, 600-632.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cook",
+     "given": "T."
+    }
+   ],
+   "date": "2011",
+   "title": "The archive(s) is a foreign country: Historians, archivists, and the changing archival landscape",
+   "is_part_of": [
+    "The American Archivist"
+   ],
+   "volume": "74",
+   "issue": "2",
+   "pages": "600-632",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Dal Molin P. 2016, *Accessing Luigi Nono's correspondence: A user's perspective*, in P. Dal Molin (ed.), Musicians' Correspondence and Interaction Between Archives, Venezia, Fondazione Giorgio Cini, 101-111.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dal Molin",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dal Molin",
+     "given": "P."
+    }
+   ],
+   "date": "2016",
+   "title": "Accessing Luigi Nono's correspondence: A user's perspective",
+   "is_part_of": [
+    "Musicians' Correspondence and Interaction Between Archives"
+   ],
+   "pages": "101-111",
+   "publisher": "Fondazione Giorgio Cini",
+   "place": "Venezia",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "De Benedictis A.I., Rizzardi V. (eds.) 2018, *Luigi Nono. Nostalgia for the Future - Luigi Nono's Selected Writings and Interviews*, Oakland (CA), University of California Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "De Benedictis",
+     "given": "A.I."
+    },
+    {
+     "family": "Rizzardi",
+     "given": "V."
+    }
+   ],
+   "date": "2018",
+   "title": "Luigi Nono. Nostalgia for the Future - Luigi Nono's Selected Writings and Interviews",
+   "publisher": "University of California Press",
+   "place": "Oakland (CA)",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Daniels M.F. 1984, *A Modern Archives Reader: Basic Readings on Archival Theory and Practice*, National Archives Trust Fund Board, Washington D.C., Chapter Introduction to Archival Terminology, 336-342, (https://hdl.handle.net/2027/mdp.39015011587063?urlappend=%3Bseq=8).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Daniels",
+     "given": "M.F."
+    }
+   ],
+   "date": "1984",
+   "title": "Introduction to Archival Terminology",
+   "is_part_of": [
+    "A Modern Archives Reader: Basic Readings on Archival Theory and Practice"
+   ],
+   "pages": "336-342",
+   "publisher": "National Archives Trust Fund Board",
+   "place": "Washington D.C.",
+   "language": "eng",
+   "uri": "https://hdl.handle.net/2027/mdp.39015011587063?urlappend=%3Bseq=8",
+   "notes": "cited with the book title in italics and \"Chapter Introduction to Archival Terminology\" after the publisher: recorded as chapter",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Fantozzi C., Bressan F., Pretto N., Canazza S. 2017, *Tape music archives: From preservation to access*, «International Journal of Digital Libraries», 18, 233 (https://doi.org/10.1007/s00799-017-0208-8).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fantozzi",
+     "given": "C."
+    },
+    {
+     "family": "Bressan",
+     "given": "F."
+    },
+    {
+     "family": "Pretto",
+     "given": "N."
+    },
+    {
+     "family": "Canazza",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Tape music archives: From preservation to access",
+   "is_part_of": [
+    "International Journal of Digital Libraries"
+   ],
+   "volume": "18",
+   "pages": "233",
+   "language": "eng",
+   "doi": "10.1007/s00799-017-0208-8",
+   "notes": "first page only, as cited",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Orio N., Snidaro L., Canazza S., Foresti G.L. 2009, *Methodologies and tools for audio digital archives*, «International Journal of Digital Libraries», 10, 4, 201-220 (https://doi.org/10.1007/s00799-010-0060-6).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orio",
+     "given": "N."
+    },
+    {
+     "family": "Snidaro",
+     "given": "L."
+    },
+    {
+     "family": "Canazza",
+     "given": "S."
+    },
+    {
+     "family": "Foresti",
+     "given": "G.L."
+    }
+   ],
+   "date": "2009",
+   "title": "Methodologies and tools for audio digital archives",
+   "is_part_of": [
+    "International Journal of Digital Libraries"
+   ],
+   "volume": "10",
+   "issue": "4",
+   "pages": "201-220",
+   "language": "eng",
+   "doi": "10.1007/s00799-010-0060-6",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Pearce-Moses R. 2005, *Glossary of Archival and Records Terminology*, Archival Fundamentals Series II, Chicago, Society of American Archivists.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pearce-Moses",
+     "given": "R."
+    }
+   ],
+   "date": "2005",
+   "title": "Glossary of Archival and Records Terminology",
+   "series": "Archival Fundamentals Series II",
+   "publisher": "Society of American Archivists",
+   "place": "Chicago",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Pretto N., Fantozzi C., Micheloni E., Burini V., Canazza S. 2018, *Computing methodologies supporting the preservation of electroacoustic music from analog magnetic tape*, «Computer Music Journal», 42-4, 59-74.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pretto",
+     "given": "N."
+    },
+    {
+     "family": "Fantozzi",
+     "given": "C."
+    },
+    {
+     "family": "Micheloni",
+     "given": "E."
+    },
+    {
+     "family": "Burini",
+     "given": "V."
+    },
+    {
+     "family": "Canazza",
+     "given": "S."
+    }
+   ],
+   "date": "2018",
+   "title": "Computing methodologies supporting the preservation of electroacoustic music from analog magnetic tape",
+   "is_part_of": [
+    "Computer Music Journal"
+   ],
+   "volume": "42",
+   "issue": "4",
+   "pages": "59-74",
+   "language": "eng",
+   "notes": "cited as \"42-4\"",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Pretto N., Russo A., Bressan F., Burini V., Rodà A., Canazza S. 2020, *Active preservation of analogue audio documents: A summary of the last seven years of digitization at CSC*, in S. Spagnol, A Valle (eds.), Proceedings of the 17th Sound and Music Computing Conference 2020, SMC'20 (Torino 2020), Axea sas/SMC Network.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pretto",
+     "given": "N."
+    },
+    {
+     "family": "Russo",
+     "given": "A."
+    },
+    {
+     "family": "Bressan",
+     "given": "F."
+    },
+    {
+     "family": "Burini",
+     "given": "V."
+    },
+    {
+     "family": "Rodà",
+     "given": "A."
+    },
+    {
+     "family": "Canazza",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Spagnol",
+     "given": "S."
+    },
+    {
+     "family": "Valle",
+     "given": "A."
+    }
+   ],
+   "date": "2020",
+   "title": "Active preservation of analogue audio documents: A summary of the last seven years of digitization at CSC",
+   "is_part_of": [
+    "Proceedings of the 17th Sound and Music Computing Conference 2020, SMC'20 (Torino 2020)"
+   ],
+   "publisher": "Axea sas/SMC Network",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Verde S., Pretto N., Milani S., Canazza S. 2018, *Stay true to the sound of history: Philology, phylogenetics and information engineering in musicology*, «Applied Sciences», 8, 2, 226 (https://doi.org/10.3390/app8020226).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Verde",
+     "given": "S."
+    },
+    {
+     "family": "Pretto",
+     "given": "N."
+    },
+    {
+     "family": "Milani",
+     "given": "S."
+    },
+    {
+     "family": "Canazza",
+     "given": "S."
+    }
+   ],
+   "date": "2018",
+   "title": "Stay true to the sound of history: Philology, phylogenetics and information engineering in musicology",
+   "is_part_of": [
+    "Applied Sciences"
+   ],
+   "volume": "8",
+   "issue": "2",
+   "pages": "226",
+   "language": "eng",
+   "doi": "10.3390/app8020226",
+   "notes": "226 is an article number",
+   "confidence": "high"
+  }
+ ]
+}

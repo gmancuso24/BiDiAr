@@ -1,0 +1,1890 @@
+{
+ "citing_aec_id": 916,
+ "source_file": "data/journal/28/916.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Allen K.M.S., Green S.W., Zubrow E.B.W. (eds.) 1990, *Interpreting Space: GIS and Archaeology*, London, Taylor&Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "Interpreting Space: GIS and Archaeology",
+   "publisher": "Taylor&Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Azzena G., Sommella P. 1993, *Carta Archeologica d'Italia: tradizione e innovazione*, «Archeologia e Calcolatori», 4, 153-158.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    },
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "date": "1993",
+   "title": "Carta Archeologica d'Italia: tradizione e innovazione",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "153-158",
+   "language": "ita",
+   "cited_aec_id": 56
+  },
+  {
+   "position": 3,
+   "raw": "Barceló J.A., Bogdanovic I., Piqué R. 2004, *Tele-archaeology*, in Moscati 2004, 467-481.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Bogdanovic",
+     "given": "I."
+    },
+    {
+     "family": "Piqué",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2004",
+   "title": "Tele-archaeology",
+   "is_part_of": [
+    "New Frontiers of Archaeological Research. Languages, Communication, Information Technology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "15",
+   "pages": "467-481",
+   "language": "eng",
+   "cited_aec_id": 395
+  },
+  {
+   "position": 4,
+   "raw": "Barchesi C. 2006, *«Archeologia e Calcolatori»: nuove strategie per la diffusione dei contenuti in rete sulla base dell'OAI-PMH*, «Archeologia e Calcolatori», 16, 225-241.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barchesi",
+     "given": "C."
+    }
+   ],
+   "date": "2006",
+   "title": "\"Archeologia e Calcolatori\": nuove strategie per la diffusione dei contenuti in rete sulla base dell'OAI-PMH",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "225-241",
+   "language": "ita",
+   "cited_aec_id": 412
+  },
+  {
+   "position": 5,
+   "raw": "Basso P., Caravale A., Grossi P. (eds.) 2016, *ARCHEOFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica*, Atti del IX Workshop (Verona 2014), «Archeologia e Calcolatori», Suppl. 8.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Basso",
+     "given": "P."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Grossi",
+     "given": "P."
+    }
+   ],
+   "date": "2016",
+   "title": "ARCHEOFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del IX Workshop (Verona 2014)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 8",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Bianchimani A., Parra M.C. 1991, *NIKE: progetto di una base di dati archeologica*, «Archeologia e Calcolatori», 2, 179-203.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bianchimani",
+     "given": "A."
+    },
+    {
+     "family": "Parra",
+     "given": "M.C."
+    }
+   ],
+   "date": "1991",
+   "title": "NIKE: progetto di una base di dati archeologica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "2",
+   "pages": "179-203",
+   "language": "ita",
+   "cited_aec_id": 30
+  },
+  {
+   "position": 7,
+   "raw": "Boninconto A. 2001, *Progetto Caere: prospettive di applicazione degli standard internazionali per la codifica dei dati testuali*, «Archeologia e Calcolatori», 12, 55-69.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bonincontro",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Progetto Caere: prospettive di applicazione degli standard internazionali per la codifica dei dati testuali",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "55-69",
+   "language": "ita",
+   "cited_aec_id": 315,
+   "notes": "\"Boninconto\" as cited"
+  },
+  {
+   "position": 8,
+   "raw": "Camin L., Carrozzino M., Leonardi R., Negri A. 2010, *Nuove tecnologie per la conoscenza e la comunicazione di Lucca romana*, «Archeologia e Calcolatori», 21, 49-73.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Camin",
+     "given": "L."
+    },
+    {
+     "family": "Carrozzino",
+     "given": "M."
+    },
+    {
+     "family": "Leonardi",
+     "given": "R."
+    },
+    {
+     "family": "Negri",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Nuove tecnologie per la conoscenza e la comunicazione di Lucca romana",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "21",
+   "pages": "49-73",
+   "language": "ita",
+   "cited_aec_id": 565
+  },
+  {
+   "position": 9,
+   "raw": "Castagnoli F. 1974, *La \"Carta archeologica d'Italia\" e gli studi di topografia antica*, in *Ricognizione archeologica e documentazione cartografica*, «Quaderni dell'Istituto di Topografia antica dell'Università di Roma», 6, 7-17.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Castagnoli",
+     "given": "F."
+    }
+   ],
+   "date": "1974",
+   "title": "La \"Carta archeologica d'Italia\" e gli studi di topografia antica",
+   "is_part_of": [
+    "Ricognizione archeologica e documentazione cartografica",
+    "Quaderni dell'Istituto di Topografia antica dell'Università di Roma"
+   ],
+   "volume": "6",
+   "pages": "7-17",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Ceccarelli L. 2001, *Progetto Caere: dallo scavo al territorio. Una soluzione per la distribuzione dei dati archeologici tramite un GIS on-line*, «Archeologia e Calcolatori», 12, 105-121.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ceccarelli",
+     "given": "L."
+    }
+   ],
+   "date": "2001",
+   "title": "Progetto Caere: dallo scavo al territorio. Una soluzione per la distribuzione dei dati archeologici tramite un GIS on-line",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "105-121",
+   "language": "ita",
+   "cited_aec_id": 318
+  },
+  {
+   "position": 11,
+   "raw": "Colosi F., Costantini A., Gabrielli R., Piro S., Santoro P. 2000, *Lo studio del territorio impiegando diverse metodologie d'indagine: il caso della valle del Tevere*, «Archeologia e Calcolatori», 11, 171-189.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Costantini",
+     "given": "A."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Piro",
+     "given": "S."
+    },
+    {
+     "family": "Santoro",
+     "given": "P."
+    }
+   ],
+   "date": "2000",
+   "title": "Lo studio del territorio impiegando diverse metodologie d'indagine: il caso della valle del Tevere",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "171-189",
+   "language": "ita",
+   "cited_aec_id": 295
+  },
+  {
+   "position": 12,
+   "raw": "Cremaschi M., Forte M. 1999, *Reconstructing a fossil landscape by Remote Sensing and GIS applications: Sites, virtual models and territory during the Middle Bronze Age in the Po Plain (Northern Italy)*, «Archeologia e Calcolatori», 10, 207-225.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Reconstructing a fossil landscape by Remote Sensing and GIS applications: Sites, virtual models and territory during the Middle Bronze Age in the Po Plain (Northern Italy)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "207-225",
+   "language": "eng",
+   "cited_aec_id": 276
+  },
+  {
+   "position": 13,
+   "raw": "Curci A., Fiorini A. (eds.) 2012, *Documentare l'archeologia 2.0*. Atti del Workshop (Bologna 2012), «Archeologia e Calcolatori», 23, 209-325.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Curci",
+     "given": "A."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Documentare l'archeologia 2.0. Atti del Workshop (Bologna 2012)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "209-325",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "Curci A., Fiorini A. (eds.) 2013, *Documentare l'archeologia 3.0*. Atti del Workshop (Bologna 2013), «Archeologia e Calcolatori», 24, 325-394.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Curci",
+     "given": "A."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2013",
+   "title": "Documentare l'archeologia 3.0. Atti del Workshop (Bologna 2013)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "24",
+   "pages": "325-394",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Curci A., Fiorini A. (eds.) 2015, *Documentare l'archeologia 4.0: Strumenti e metodi per la costruzione di banche dati territoriali*. Atti del Workshop (Bologna 2014), «Archeologia e Calcolatori», 26, 230-340.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Curci",
+     "given": "A."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2015",
+   "title": "Documentare l'archeologia 4.0: Strumenti e metodi per la costruzione di banche dati territoriali. Atti del Workshop (Bologna 2014)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "26",
+   "pages": "230-340",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "D'Andrea A. 2000, *I GIS tra soluzioni applicative e nuove metafore*, «Archeologia e Calcolatori», 11, 385-390.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "I GIS tra soluzioni applicative e nuove metafore",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "385-390",
+   "language": "ita",
+   "cited_aec_id": 310
+  },
+  {
+   "position": 17,
+   "raw": "D'Andria F. (ed.) 1987, *Informatica e archeologia classica*. Atti del Convegno internazionale (Lecce 1986), Galatina, Congedo Editore.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "date": "1987",
+   "title": "Informatica e archeologia classica. Atti del Convegno internazionale (Lecce 1986)",
+   "publisher": "Congedo Editore",
+   "place": "Galatina",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "D'Andria F., Semeraro G. 1993, *Un sistema integrato per la gestione della cartografia e dei dati di scavo*, «Archeologia e Calcolatori», 4, 159-180.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "date": "1993",
+   "title": "Un sistema integrato per la gestione della cartografia e dei dati di scavo",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "159-180",
+   "language": "ita",
+   "cited_aec_id": 57
+  },
+  {
+   "position": 19,
+   "raw": "De Guio A. 1991, *Calcolatori ed archeologia: un progetto per gli anni '90*, «Archeologia e Calcolatori», 2, 25-78.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Guio",
+     "given": "A."
+    }
+   ],
+   "date": "1991",
+   "title": "Calcolatori ed archeologia: un progetto per gli anni '90",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "2",
+   "pages": "25-78",
+   "language": "ita",
+   "cited_aec_id": 24
+  },
+  {
+   "position": 20,
+   "raw": "Demetrescu E., Palombini A., Pietroni E., Forlani M., Rufa C. 2016, *Making movies: nuove frontiere per la comunicazione audiovisiva del passato*, in Basso, Caravale, Grossi 2016, 203-210.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Palombini",
+     "given": "A."
+    },
+    {
+     "family": "Pietroni",
+     "given": "E."
+    },
+    {
+     "family": "Forlani",
+     "given": "M."
+    },
+    {
+     "family": "Rufa",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Basso",
+     "given": "P."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Grossi",
+     "given": "P."
+    }
+   ],
+   "date": "2016",
+   "title": "Making movies: nuove frontiere per la comunicazione audiovisiva del passato",
+   "is_part_of": [
+    "ARCHEOFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del IX Workshop (Verona 2014)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 8",
+   "pages": "203-210",
+   "language": "ita",
+   "cited_aec_id": 884
+  },
+  {
+   "position": 21,
+   "raw": "Di Giacomo G., Scardozzi G. 2014, *GIS cloud per l'archeologia. Strumenti open source per la gestione e condivisione dei dati*, «Archeologia e Calcolatori», 25, 93-112.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Giacomo",
+     "given": "G."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2014",
+   "title": "GIS cloud per l'archeologia. Strumenti open source per la gestione e condivisione dei dati",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "25",
+   "pages": "93-112",
+   "language": "ita",
+   "cited_aec_id": 717
+  },
+  {
+   "position": 22,
+   "raw": "Djindjian F. 1998, *GIS usage in worldwide archaeology*, in Moscati 1998a, 19-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "GIS usage in worldwide archaeology",
+   "is_part_of": [
+    "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "19-30",
+   "language": "eng",
+   "cited_aec_id": 246
+  },
+  {
+   "position": 23,
+   "raw": "Djindjian F. 2008, *Webmapping in the historical and archaeological sciences. An introduction*, in Djindjian et al. 2008, 9-16.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Noizet",
+     "given": "H."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Pouget",
+     "given": "F."
+    }
+   ],
+   "date": "2008",
+   "title": "Webmapping in the historical and archaeological sciences. An introduction",
+   "is_part_of": [
+    "Webmapping dans les sciences historiques et archéologiques. Actes du Colloque International (Paris 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "19",
+   "pages": "9-16",
+   "language": "eng",
+   "cited_aec_id": 473
+  },
+  {
+   "position": 24,
+   "raw": "Djindjian F. 2014, *Computers and mathematics in archaeology, anatomy of an ineluctable success!*, in F. Giligny, F. Djindjian, L. Costa, P. Moscati, S. Robert (eds.), *Concepts, Methods and Tools. Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology*, Oxford, Archaeopress, 1-8.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giligny",
+     "given": "F."
+    },
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Robert",
+     "given": "S."
+    }
+   ],
+   "date": "2014",
+   "title": "Computers and mathematics in archaeology, anatomy of an ineluctable success!",
+   "is_part_of": [
+    "Concepts, Methods and Tools. Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Paris 2014)"
+   ],
+   "pages": "1-8",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "Djindjian F., Noizet H., Costa L., Pouget F. (eds.) 2008, *Webmapping dans les sciences historiques et archéologiques. Actes du Colloque International (Paris 2008)*, «Archeologia e Calcolatori», 19, 1-237.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Noizet",
+     "given": "H."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Pouget",
+     "given": "F."
+    }
+   ],
+   "date": "2008",
+   "title": "Webmapping dans les sciences historiques et archéologiques. Actes du Colloque International (Paris 2008)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "19",
+   "pages": "1-237",
+   "language": "fre"
+  },
+  {
+   "position": 26,
+   "raw": "Eco U. 1988, *Osservazioni sulla nozione di giacimento culturale*, in U. Eco (ed.), *Le isole del tesoro. Proposte per la riscoperta e la gestione delle risorse culturali*, Milano, IBM Italia.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Eco",
+     "given": "U."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Eco",
+     "given": "U."
+    }
+   ],
+   "date": "1988",
+   "title": "Osservazioni sulla nozione di giacimento culturale",
+   "is_part_of": [
+    "Le isole del tesoro. Proposte per la riscoperta e la gestione delle risorse culturali"
+   ],
+   "publisher": "IBM Italia",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 27,
+   "raw": "Ferrari O. 1991, *La catalogazione dei beni archeologici e le tecnologie informatiche*, «Archeologia e Calcolatori», 2, 13-17.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ferrari",
+     "given": "O."
+    }
+   ],
+   "date": "1991",
+   "title": "La catalogazione dei beni archeologici e le tecnologie informatiche",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "2",
+   "pages": "13-17",
+   "language": "ita",
+   "cited_aec_id": 22
+  },
+  {
+   "position": 28,
+   "raw": "Forte M. 1993, *Un esperimento di visualizzazione scientifica per l'archeologia del paesaggio: la navigazione nel paesaggio virtuale*, «Archeologia e Calcolatori», 4, 137-152.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "1993",
+   "title": "Un esperimento di visualizzazione scientifica per l'archeologia del paesaggio: la navigazione nel paesaggio virtuale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "137-152",
+   "language": "ita",
+   "cited_aec_id": 55
+  },
+  {
+   "position": 29,
+   "raw": "Francovich R. 1990, *Dalla teoria alla ricerca sul campo: il contributo dell'informatica all'archeologia medievale*, «Archeologia e Calcolatori», 1, 15-26.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "1990",
+   "title": "Dalla teoria alla ricerca sul campo: il contributo dell'informatica all'archeologia medievale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "15-26",
+   "language": "ita",
+   "cited_aec_id": 5
+  },
+  {
+   "position": 30,
+   "raw": "Gaffney V., Stančič Z. 1994, *GIS and historical archaeology. The case of the Island of Hvar in Croatia*, in P. Moscati (ed.), *Choice, Representation and Structuring of Archaeological Information*, «Archeologia e Calcolatori», 5, 257-267.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1994",
+   "title": "GIS and historical archaeology. The case of the Island of Hvar in Croatia",
+   "is_part_of": [
+    "Choice, Representation and Structuring of Archaeological Information",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "5",
+   "pages": "257-267",
+   "language": "eng",
+   "cited_aec_id": 101
+  },
+  {
+   "position": 31,
+   "raw": "Garagnani S., Gaucci A., Govi E. 2016, *ArcheoBIM: dallo scavo al Building Information Modeling. Il caso del tempio tuscanico di Uni a Marzabotto*, «Archeologia e Calcolatori», 27, 251-270.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "date": "2016",
+   "title": "ArcheoBIM: dallo scavo al Building Information Modeling. Il caso del tempio tuscanico di Uni a Marzabotto",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "27",
+   "pages": "251-270",
+   "language": "ita",
+   "cited_aec_id": 851
+  },
+  {
+   "position": 32,
+   "raw": "Gottarelli A. 1996, *Museografia e informatica: la ricostruzione virtuale della tomba menfita del generale Horemheb*, in Moscati 1996, 1091-1099.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1996",
+   "title": "Museografia e informatica: la ricostruzione virtuale della tomba menfita del generale Horemheb",
+   "is_part_of": [
+    "III International Symposium on Computing and Archaeology (Roma 1995)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "1091-1099",
+   "language": "ita",
+   "cited_aec_id": 215
+  },
+  {
+   "position": 33,
+   "raw": "Gottarelli A. (ed.) 1997, *Sistemi informativi e reti geografiche in archeologia: GIS-Internet. VIII ciclo di Lezioni sulla ricerca applicata in archeologia (Certosa di Pontignano, Siena, 1995)*, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "date": "1997",
+   "title": "Sistemi informativi e reti geografiche in archeologia: GIS-Internet. VIII ciclo di Lezioni sulla ricerca applicata in archeologia (Certosa di Pontignano, Siena, 1995)",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 34,
+   "raw": "Gottarelli A., Sassatelli G. 2015, *Strategia progetto e sviluppo tecnologico del portale NADIR-network archeologico di ricerca*, in Serlorenzi, Leoni 2015, 179-185.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    },
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Leoni",
+     "given": "G."
+    }
+   ],
+   "date": "2015",
+   "title": "Strategia progetto e sviluppo tecnologico del portale NADIR-network archeologico di ricerca",
+   "is_part_of": [
+    "Il SITAR nella Rete della Ricerca italiana. Verso la conoscenza archeologica condivisa. Atti del III Convegno (Roma 2013)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 7",
+   "pages": "179-185",
+   "language": "ita",
+   "cited_aec_id": 823
+  },
+  {
+   "position": 35,
+   "raw": "Guermandi M.P. 1997, *Tutela del patrimonio archeologico e diffusione delle informazioni: l'uso di GIS e Internet nelle attività dell'Istituto per i Beni Culturali della Regione Emilia Romagna*, in Gottarelli 1997, 137-160.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "date": "1997",
+   "title": "Tutela del patrimonio archeologico e diffusione delle informazioni: l'uso di GIS e Internet nelle attività dell'Istituto per i Beni Culturali della Regione Emilia Romagna",
+   "is_part_of": [
+    "Sistemi informativi e reti geografiche in archeologia: GIS-Internet. VIII ciclo di Lezioni sulla ricerca applicata in archeologia (Certosa di Pontignano, Siena, 1995)"
+   ],
+   "pages": "137-160",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 33
+  },
+  {
+   "position": 36,
+   "raw": "Guermandi M.P., Santoro Bianchi S. 1996, *Didattica e informatica nei musei archeologici: un binomio incompiuto. Riflessioni a margine di una indagine in museo*, in Moscati 1996, 1077-1089.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    },
+    {
+     "family": "Santoro Bianchi",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1996",
+   "title": "Didattica e informatica nei musei archeologici: un binomio incompiuto. Riflessioni a margine di una indagine in museo",
+   "is_part_of": [
+    "III International Symposium on Computing and Archaeology (Roma 1995)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "1077-1089",
+   "language": "ita",
+   "cited_aec_id": 214
+  },
+  {
+   "position": 37,
+   "raw": "Guidazzoli A., Forte M. 1992, *Archeologia e tecniche di eidologia informatica*, «Archeologia e Calcolatori», 3, 37-76.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Archeologia e tecniche di eidologia informatica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "3",
+   "pages": "37-76",
+   "language": "ita",
+   "cited_aec_id": 38
+  },
+  {
+   "position": 38,
+   "raw": "Gullini G. 1987, *Informatica ed architettura*, in D'Andria 1987, 303-308.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gullini",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "date": "1987",
+   "title": "Informatica ed architettura",
+   "is_part_of": [
+    "Informatica e archeologia classica. Atti del Convegno internazionale (Lecce 1986)"
+   ],
+   "pages": "303-308",
+   "publisher": "Congedo Editore",
+   "place": "Galatina",
+   "language": "ita",
+   "xref": 17
+  },
+  {
+   "position": 39,
+   "raw": "Gullini G. 1989, *Il computer per la rappresentazione del manufatto archeologico*, «Rivista IBM», 25, 1, 42-44.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gullini",
+     "given": "G."
+    }
+   ],
+   "date": "1989",
+   "title": "Il computer per la rappresentazione del manufatto archeologico",
+   "is_part_of": [
+    "Rivista IBM"
+   ],
+   "volume": "25",
+   "issue": "1",
+   "pages": "42-44",
+   "language": "ita"
+  },
+  {
+   "position": 40,
+   "raw": "Johnson I. 2008, *Mapping the fourth dimension: A ten year retrospective*, in Djindjian et al. 2008, 31-44.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Johnson",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Noizet",
+     "given": "H."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Pouget",
+     "given": "F."
+    }
+   ],
+   "date": "2008",
+   "title": "Mapping the fourth dimension: A ten year retrospective",
+   "is_part_of": [
+    "Webmapping dans les sciences historiques et archéologiques. Actes du Colloque International (Paris 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "19",
+   "pages": "31-44",
+   "language": "eng",
+   "cited_aec_id": 475
+  },
+  {
+   "position": 41,
+   "raw": "Lasaponara R., Masini N., Scardozzi G. 2007, *Immagini satellitari ad alta risoluzione e ricerca archeologica: applicazioni e casi di studio con riprese pancromatiche e multispettrali di QuickBird*, «Archeologia e Calcolatori», 18, 187-227.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lasaponara",
+     "given": "R."
+    },
+    {
+     "family": "Masini",
+     "given": "N."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "Immagini satellitari ad alta risoluzione e ricerca archeologica: applicazioni e casi di studio con riprese pancromatiche e multispettrali di QuickBird",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "18",
+   "pages": "187-227",
+   "language": "ita",
+   "cited_aec_id": 441
+  },
+  {
+   "position": 42,
+   "raw": "Lazzeri E. 2011, *Un modello multi-hazard per la valutazione del rischio dei beni archeologici: il caso sperimentale della Villa Adriana di Tivoli*, «Archeologia e Calcolatori», 22, 365-389.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lazzeri",
+     "given": "E."
+    }
+   ],
+   "date": "2011",
+   "title": "Un modello multi-hazard per la valutazione del rischio dei beni archeologici: il caso sperimentale della Villa Adriana di Tivoli",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "365-389",
+   "language": "ita",
+   "cited_aec_id": 601
+  },
+  {
+   "position": 43,
+   "raw": "Lock G. 1998, *GIS usage in UK archaeology mid-1997: The Caere survey*, in Moscati 1998a, 147-167.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "GIS usage in UK archaeology mid-1997: The Caere survey",
+   "is_part_of": [
+    "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "147-167",
+   "language": "eng",
+   "cited_aec_id": 251
+  },
+  {
+   "position": 44,
+   "raw": "Mancinelli M.L., Negri A. 2016, *Verso gli Open Data: l'ICCD e gli standard nazionali. Alcune riflessioni per un quadro metodologico condiviso*, in Basso, Caravale, Grossi 2016, 25-34.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mancinelli",
+     "given": "M.L."
+    },
+    {
+     "family": "Negri",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Basso",
+     "given": "P."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Grossi",
+     "given": "P."
+    }
+   ],
+   "date": "2016",
+   "title": "Verso gli Open Data: l'ICCD e gli standard nazionali. Alcune riflessioni per un quadro metodologico condiviso",
+   "is_part_of": [
+    "ARCHEOFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del IX Workshop (Verona 2014)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 8",
+   "pages": "25-34",
+   "language": "ita",
+   "cited_aec_id": 863
+  },
+  {
+   "position": 45,
+   "raw": "Maratini C. 2011, *Gestione informatizzata e valorizzazione del patrimonio archeologico. La piattaforma GIS per lo scavo di Pompei*, «Archeologia e Calcolatori», 22, 391-412.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Maratini",
+     "given": "C."
+    }
+   ],
+   "date": "2011",
+   "title": "Gestione informatizzata e valorizzazione del patrimonio archeologico. La piattaforma GIS per lo scavo di Pompei",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "391-412",
+   "language": "ita",
+   "cited_aec_id": 602
+  },
+  {
+   "position": 46,
+   "raw": "Masini N., Coluzzi R., Lasaponara R. 2010, *Investigating lost medieval villages using Satellite and Airborne Laser Scanning: the case of Yrsum in Basilicata (Southern Italy)*, «Archeologia e Calcolatori», 21, 127-144.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Masini",
+     "given": "N."
+    },
+    {
+     "family": "Coluzzi",
+     "given": "R."
+    },
+    {
+     "family": "Lasaponara",
+     "given": "R."
+    }
+   ],
+   "date": "2010",
+   "title": "Investigating lost medieval villages using Satellite and Airborne Laser Scanning: the case of Yrsum in Basilicata (Southern Italy)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "21",
+   "pages": "127-144",
+   "language": "eng",
+   "cited_aec_id": 568
+  },
+  {
+   "position": 47,
+   "raw": "Moscati P. (ed.) 1996, *III International Symposium on \"Computing and Archaeology\" (Roma 1995)*, «Archeologia e Calcolatori», 7.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1996",
+   "title": "III International Symposium on Computing and Archaeology (Roma 1995)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "language": "eng"
+  },
+  {
+   "position": 48,
+   "raw": "Moscati P. 1998a, *Methodological Trends and Future Perspectives in the Application of GIS in Archaeology*, «Archeologia e Calcolatori», 9.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "language": "eng",
+   "notes": "cited as author \"Moscati P. 1998a\"; whole volume"
+  },
+  {
+   "position": 49,
+   "raw": "Moscati P. 1998b, *GIS Applications in Italian Archaeology*, in Moscati 1998a, 191-236.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "GIS Applications in Italian Archaeology",
+   "is_part_of": [
+    "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "191-236",
+   "language": "eng",
+   "cited_aec_id": 253
+  },
+  {
+   "position": 50,
+   "raw": "Moscati P. 2003, *Dal dato al modello: l'approccio informatico alla ricerca archeologica sul campo*, in Atti del Convegno internazionale sul tema *I modelli nella ricerca archeologica: il ruolo dell'informatica* (Roma 2000), Contributi del Centro Linceo Interdisciplinare \"Beniamino Segre\" 107, Roma, Accademia Nazionale dei Lincei, 55-76.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2003",
+   "title": "Dal dato al modello: l'approccio informatico alla ricerca archeologica sul campo",
+   "is_part_of": [
+    "I modelli nella ricerca archeologica: il ruolo dell'informatica. Atti del Convegno internazionale (Roma 2000)"
+   ],
+   "pages": "55-76",
+   "series": "Contributi del Centro Linceo Interdisciplinare \"Beniamino Segre\"",
+   "series_number": "107",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 51,
+   "raw": "Moscati P. (ed.) 2004, *New Frontiers of Archaeological Research. Languages, Communication, Information Technology*, «Archeologia e Calcolatori», 15.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2004",
+   "title": "New Frontiers of Archaeological Research. Languages, Communication, Information Technology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "15",
+   "language": "eng"
+  },
+  {
+   "position": 52,
+   "raw": "Moscati P. (ed.) 2007, *Virtual Museums and Archaeology. The Contribution of the Italian National Research Council*, «Archeologia e Calcolatori», Suppl. 1.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2007",
+   "title": "Virtual Museums and Archaeology. The Contribution of the Italian National Research Council",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 1",
+   "language": "eng"
+  },
+  {
+   "position": 53,
+   "raw": "Moscati P. 2009a, *Archeologia e società dell'informazione*, in *XXI Secolo*, Vol. 1, Norme e Idee, Roma, Istituto della Enciclopedia Italiana Treccani, 621-630.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Archeologia e società dell'informazione",
+   "is_part_of": [
+    "XXI Secolo, Vol. 1, Norme e Idee"
+   ],
+   "pages": "621-630",
+   "publisher": "Istituto della Enciclopedia Italiana Treccani",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 54,
+   "raw": "Moscati P. (ed.) 2009b, *La nascita dell'informatica archeologica. Atti del Convegno internazionale (Roma 2008)*, «Archeologia e Calcolatori», 20.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "La nascita dell'informatica archeologica. Atti del Convegno internazionale (Roma 2008)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "language": "ita"
+  },
+  {
+   "position": 55,
+   "raw": "Moscati P. 2009c, *«Archeologia e Calcolatori». Le ragioni di una scelta*, in Moscati 2009b, 145-153.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "\"Archeologia e Calcolatori\": le ragioni di una scelta",
+   "is_part_of": [
+    "La nascita dell'informatica archeologica. Atti del Convegno internazionale (Roma 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "pages": "145-153",
+   "language": "ita",
+   "cited_aec_id": 510,
+   "notes": "pages cited 145-153; metadata 145-154"
+  },
+  {
+   "position": 56,
+   "raw": "Moscati P. 2012, *Archeologia e Calcolatori*, in N. Palazzolo (ed.), *Diritto romano e scienze antichistiche nell'era digitale. Convegno di studio (Firenze 2011)*, Collectanea Graeco-Romana 10, Torino, 75-79.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Palazzolo",
+     "given": "N."
+    }
+   ],
+   "date": "2012",
+   "title": "Archeologia e Calcolatori",
+   "is_part_of": [
+    "Diritto romano e scienze antichistiche nell'era digitale. Convegno di studio (Firenze 2011)"
+   ],
+   "pages": "75-79",
+   "series": "Collectanea Graeco-Romana",
+   "series_number": "10",
+   "place": "Torino",
+   "language": "ita"
+  },
+  {
+   "position": 57,
+   "raw": "Moscati P. 2015, *Informatica archeologica*, in *Enciclopedia Italiana - IX Appendice*, Roma, Istituto della Enciclopedia Italiana Treccani, 686-687.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2015",
+   "title": "Informatica archeologica",
+   "is_part_of": [
+    "Enciclopedia Italiana - IX Appendice"
+   ],
+   "pages": "686-687",
+   "publisher": "Istituto della Enciclopedia Italiana Treccani",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 58,
+   "raw": "Moscati P., Mariotti S., Limata B. 1999, *Il \"Progetto Caere\": un esempio di informatizzazione dei diari di scavo*, «Archeologia e Calcolatori», 10, 165-188.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Mariotti",
+     "given": "S."
+    },
+    {
+     "family": "Limata",
+     "given": "B."
+    }
+   ],
+   "date": "1999",
+   "title": "Il \"Progetto Caere\": un esempio di informatizzazione dei diari di scavo",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "165-188",
+   "language": "ita",
+   "cited_aec_id": 274,
+   "notes": "\"Mariotti S.\" as cited"
+  },
+  {
+   "position": 59,
+   "raw": "Pagliani M.L. 1992, *Beni Culturali: didattica al computer*, «Archeologia e Calcolatori», 3, 199-206.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pagliani",
+     "given": "M.L."
+    }
+   ],
+   "date": "1992",
+   "title": "Beni Culturali: didattica al computer",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "3",
+   "pages": "199-206",
+   "language": "ita",
+   "cited_aec_id": 44
+  },
+  {
+   "position": 60,
+   "raw": "Panella C., Gabrielli R., Giorgi C. 2011, *Le \"Terme di Elagabalo\" sul Palatino: sperimentazione di un metodo fotogrammetrico 3D applicato allo scavo archeologico*, «Archeologia e Calcolatori», 22, 243-260.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Panella",
+     "given": "C."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Giorgi",
+     "given": "C."
+    }
+   ],
+   "date": "2011",
+   "title": "Le \"Terme di Elagabalo\" sul Palatino: sperimentazione di un metodo fotogrammetrico 3D applicato allo scavo archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "243-260",
+   "language": "ita",
+   "cited_aec_id": 595
+  },
+  {
+   "position": 61,
+   "raw": "Pecere B. 2006, *Viewshed e Cost Surface Analyses per uno studio dei sistemi insediativi antichi: il caso della Daunia tra X e VI sec. a.C.*, «Archeologia e Calcolatori», 17, 177-213.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pecere",
+     "given": "B."
+    }
+   ],
+   "date": "2006",
+   "title": "Viewshed e Cost Surface Analyses per uno studio dei sistemi insediativi antichi: il caso della Daunia tra X e VI sec. a.C.",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "17",
+   "pages": "177-213",
+   "language": "ita",
+   "cited_aec_id": 427
+  },
+  {
+   "position": 62,
+   "raw": "Pietroni E. 2013, *Natural interaction in VR environments for cultural heritage: The virtual reconstruction of the Regolini-Galassi tomb in Cerveteri*, «Archeologia e Calcolatori», 24, 231-247.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pietroni",
+     "given": "E."
+    }
+   ],
+   "date": "2013",
+   "title": "Natural interaction in VR environments for cultural heritage: The virtual reconstruction of the Regolini-Galassi tomb in Cerveteri",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "24",
+   "pages": "231-247",
+   "language": "eng",
+   "cited_aec_id": 670
+  },
+  {
+   "position": 63,
+   "raw": "*Rapporto sui progetti ex art. 15 Legge 41/1986. Catalogo della Mostra (Roma 1989)*, Roma 1989.",
+   "type": "other",
+   "date": "1989",
+   "title": "Rapporto sui progetti ex art. 15 Legge 41/1986. Catalogo della Mostra (Roma 1989)",
+   "language": "ita"
+  },
+  {
+   "position": 64,
+   "raw": "*Rediscovering Pompeii. Exhibition Catalogue*, Roma 1990, L'Erma di Bretschneider.",
+   "type": "book",
+   "date": "1990",
+   "title": "Rediscovering Pompeii. Exhibition Catalogue",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "eng"
+  },
+  {
+   "position": 65,
+   "raw": "Russo M., Remondino F., Guidi G. 2011, *Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico*, «Archeologia e Calcolatori», 22, 169-198.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Russo",
+     "given": "M."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Guidi",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "169-198",
+   "language": "ita",
+   "cited_aec_id": 592
+  },
+  {
+   "position": 66,
+   "raw": "Sassatelli G. 2009, *Discussione*, in E. Giorgi, *Metodologie di indagine non invasiva e diagnostica per l'archeologia*, *Groma 2. In profondità senza scavare*, Quaderni del Centro Studi per l'Archeologia dell'Adriatico, Bologna, BraDypUS s.a., 506.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giorgi",
+     "given": "E."
+    }
+   ],
+   "date": "2009",
+   "title": "Discussione",
+   "is_part_of": [
+    "Metodologie di indagine non invasiva e diagnostica per l'archeologia, Groma 2. In profondità senza scavare"
+   ],
+   "pages": "506",
+   "series": "Quaderni del Centro Studi per l'Archeologia dell'Adriatico",
+   "publisher": "BraDypUS s.a.",
+   "place": "Bologna",
+   "language": "ita",
+   "notes": "cited as \"in E. Giorgi\" (editor assumed)"
+  },
+  {
+   "position": 67,
+   "raw": "Semeraro G. 2007, *LandLab Project and archaeology on-line. Web-based systems for the study of settlement patterns and excavation data in classical archaeology*, «Archeologia e Calcolatori», 18, 243-254.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "LandLab Project and archaeology on-line. Web-based systems for the study of settlement patterns and excavation data in classical archaeology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "18",
+   "pages": "243-254",
+   "language": "eng",
+   "cited_aec_id": 443
+  },
+  {
+   "position": 68,
+   "raw": "Serlorenzi M., Jovine R. (eds.) 2017, *Pensare in rete, pensare la rete per la ricerca, la tutela e la valorizzazione del patrimonio archeologico. Atti del IV Convegno di Studi SITAR (Roma 2015)*, «Archeologia e Calcolatori», Suppl. 9.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Jovine",
+     "given": "I."
+    }
+   ],
+   "date": "2017",
+   "title": "Pensare in rete, pensare la rete per la ricerca, la tutela e la valorizzazione del patrimonio archeologico. Atti del IV Convegno SITAR (Roma 2015)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 9",
+   "language": "ita",
+   "notes": "\"Jovine R.\" as cited"
+  },
+  {
+   "position": 69,
+   "raw": "Sommella P. 1987, *Cartografia archeologica computerizzata*, in D'Andria 1987, 17-30.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "date": "1987",
+   "title": "Cartografia archeologica computerizzata",
+   "is_part_of": [
+    "Informatica e archeologia classica. Atti del Convegno internazionale (Lecce 1986)"
+   ],
+   "pages": "17-30",
+   "publisher": "Congedo Editore",
+   "place": "Galatina",
+   "language": "ita",
+   "xref": 17
+  },
+  {
+   "position": 70,
+   "raw": "Sommella P. 1992, *Tecnologie avanzate e Beni Culturali*, in *Atti del Convegno \"Calcolatori e Scienze Umane\" (Roma 1991)*, Milano, ETAS Libri, 25-32.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "date": "1992",
+   "title": "Tecnologie avanzate e Beni Culturali",
+   "is_part_of": [
+    "Atti del Convegno \"Calcolatori e Scienze Umane\" (Roma 1991)"
+   ],
+   "pages": "25-32",
+   "publisher": "ETAS Libri",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 71,
+   "raw": "Sommella P. 2009, *Esperienze documentali sul territorio dagli anni '80 ad oggi. Alcune considerazioni*, in Moscati 2009b, 47-59.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Esperienze documentali sul territorio dagli anni '80 ad oggi. Alcune considerazioni",
+   "is_part_of": [
+    "La nascita dell'informatica archeologica. Atti del Convegno internazionale (Roma 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "pages": "47-59",
+   "language": "ita",
+   "cited_aec_id": 503
+  },
+  {
+   "position": 72,
+   "raw": "Sommella P., Azzena G., Tascio M. 1990, *Informatica e topografia storica: cinque anni di esperienza su un secolo di tradizione*, «Archeologia e Calcolatori», 1, 211-236.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    },
+    {
+     "family": "Azzena",
+     "given": "G."
+    },
+    {
+     "family": "Tascio",
+     "given": "M."
+    }
+   ],
+   "date": "1990",
+   "title": "Informatica e topografia storica: cinque anni di esperienza su un secolo di tradizione",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "211-236",
+   "language": "ita",
+   "cited_aec_id": 12
+  },
+  {
+   "position": 73,
+   "raw": "Valenti M. 1998, *La gestione informatizzata del dato. Percorsi ed evoluzioni nell'attività della Cattedra di Archeologia Medievale del Dipartimento di Archeologia e Storia delle Arti - Sezione Archeologica dell'Università di Siena*, «Archeologia e Calcolatori», 9, 305-329.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "La gestione informatizzata del dato. Percorsi ed evoluzioni nell'attività della Cattedra di Archeologia Medievale del Dipartimento di Archeologia e Storia delle Arti - Sezione Archeologica dell'Università di Siena",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "305-329",
+   "language": "ita",
+   "cited_aec_id": 258
+  },
+  {
+   "position": 74,
+   "raw": "Vinci M.S. 2012, *La documentazione dell'edilizia storica in ambito urbano: applicazioni del raddrizzamento fotografico al caso del 'Foro provinciale' di Tarragona*, «Archeologia e Calcolatori», 23, 101-119.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vinci",
+     "given": "M.S."
+    }
+   ],
+   "date": "2012",
+   "title": "La documentazione dell'edilizia storica in ambito urbano: applicazioni del raddrizzamento fotografico al caso del 'Foro provinciale' di Tarragona",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "101-119",
+   "language": "ita",
+   "cited_aec_id": 611,
+   "notes": "pages cited 101-119; metadata 101-120"
+  },
+  {
+   "position": 75,
+   "raw": "White R. 1996, *Building an urban image*, in Moscati 1996, 137-147.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "White",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1996",
+   "title": "Building an urban image",
+   "is_part_of": [
+    "III International Symposium on Computing and Archaeology (Roma 1995)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "137-147",
+   "language": "eng",
+   "cited_aec_id": 132
+  },
+  {
+   "position": 76,
+   "raw": "Zanini E., Ripanti F. 2012, *Pubblicare uno scavo all'epoca di YouTube: comunicazione archeologica, narratività e video*, «Archeologia e Calcolatori», 23, 7-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zanini",
+     "given": "E."
+    },
+    {
+     "family": "Ripanti",
+     "given": "F."
+    }
+   ],
+   "date": "2012",
+   "title": "Pubblicare uno scavo all'epoca di YouTube: comunicazione archeologica, narratività e video",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "7-30",
+   "language": "ita",
+   "cited_aec_id": 606
+  }
+ ]
+}

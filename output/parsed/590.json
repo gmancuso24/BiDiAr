@@ -1,0 +1,820 @@
+{
+ "citing_aec_id": 590,
+ "source_file": "data/journal/22/590.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Aguayo P., Carrilero M., Flores C., De La Torre M.P. 1985, El yacimiento pre y protohistórico de Acinipo (Ronda, Málaga), «Anuario Arqueológico de Andalucía 1985. Actividades Sistemáticas», 2, 33-58.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Aguayo",
+     "given": "P."
+    },
+    {
+     "family": "Carrilero",
+     "given": "M."
+    },
+    {
+     "family": "Flores",
+     "given": "C."
+    },
+    {
+     "family": "De La Torre",
+     "given": "M.P."
+    }
+   ],
+   "date": "1985",
+   "title": "El yacimiento pre y protohistórico de Acinipo (Ronda, Málaga)",
+   "is_part_of": [
+    "Anuario Arqueológico de Andalucía 1985. Actividades Sistemáticas"
+   ],
+   "volume": "2",
+   "pages": "33-58",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Aguayo P., Carrilero M., Flores C., De La Torre M.P. 1986, El yacimiento pre y protohistórico de Acinipo (Ronda, Málaga): un ejemplo de cabañas del Bronce Final y su evolución, «Arqueología Espacial», 9, 33-58.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Aguayo",
+     "given": "P."
+    },
+    {
+     "family": "Carrilero",
+     "given": "M."
+    },
+    {
+     "family": "Flores",
+     "given": "C."
+    },
+    {
+     "family": "De La Torre",
+     "given": "M.P."
+    }
+   ],
+   "date": "1986",
+   "title": "El yacimiento pre y protohistórico de Acinipo (Ronda, Málaga): un ejemplo de cabañas del Bronce Final y su evolución",
+   "is_part_of": [
+    "Arqueología Espacial"
+   ],
+   "volume": "9",
+   "pages": "33-58",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Aguayo P. *et al*. 1992, Excavación arqueológica sistemática en el yacimiento de la Silla del Moro. Primera campaña, 1990, «Anuario Arqueológico de Andalucía 1985. Actividades Sistemáticas», 2, 33-58.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Aguayo",
+     "given": "P."
+    }
+   ],
+   "date": "1992",
+   "title": "Excavación arqueológica sistemática en el yacimiento de la Silla del Moro. Primera campaña, 1990",
+   "is_part_of": [
+    "Anuario Arqueológico de Andalucía 1985. Actividades Sistemáticas"
+   ],
+   "volume": "2",
+   "pages": "33-58",
+   "language": "spa",
+   "notes": "cited 'Aguayo P. et al.' (only the first author known); container, volume and pages identical to ref. 1 (1985): probable copy error in the citation, kept as cited",
+   "confidence": "low"
+  },
+  {
+   "position": 4,
+   "raw": "Belén M., Escacena J.L. 1992, Las comunidades prerromanas de Andalucía Oriental, «Complutum», 2-3, 65-88.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Belén",
+     "given": "M."
+    },
+    {
+     "family": "Escacena",
+     "given": "J.L."
+    }
+   ],
+   "date": "1992",
+   "title": "Las comunidades prerromanas de Andalucía Oriental",
+   "is_part_of": [
+    "Complutum"
+   ],
+   "volume": "2-3",
+   "pages": "65-88",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Belén M., Escacena J.L. 1993, Las comunidades prerromanas de Andalucía Occidental, in M. Almagro, M. and G. Ruiz (eds.), Paleoetnología de la Península Ibérica, Madrid, Servicio de Publicaciones de la Universidad Complutense, 65-87.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Belén",
+     "given": "M."
+    },
+    {
+     "family": "Escacena",
+     "given": "J.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Almagro",
+     "given": "M."
+    },
+    {
+     "family": "Ruiz",
+     "given": "G."
+    }
+   ],
+   "date": "1993",
+   "title": "Las comunidades prerromanas de Andalucía Occidental",
+   "is_part_of": [
+    "Paleoetnología de la Península Ibérica"
+   ],
+   "pages": "65-87",
+   "publisher": "Servicio de Publicaciones de la Universidad Complutense",
+   "place": "Madrid",
+   "language": "spa",
+   "notes": "cited 'in M. Almagro, M. and G. Ruiz (eds.)': garbled editor list, read as two editors (Almagro M., Ruiz G.)",
+   "confidence": "low"
+  },
+  {
+   "position": 6,
+   "raw": "Calter P. 2000, Facade measurement by trigonometry, in C.A. Gorini (ed.), Geometry at Work, Papers in Applied Geometry, MAA 53, Washington, Mathematical Association of America, 20-25.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Calter",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gorini",
+     "given": "C.A."
+    }
+   ],
+   "date": "2000",
+   "title": "Facade measurement by trigonometry",
+   "is_part_of": [
+    "Geometry at Work"
+   ],
+   "pages": "20-25",
+   "series": "Papers in Applied Geometry, MAA",
+   "series_number": "53",
+   "publisher": "Mathematical Association of America",
+   "place": "Washington",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Carr C. 1995, An unified middle range theory of artefact design, in C. Carr, J. Neitzel (eds.), Style, Society, and Person: Archaeological and Ethnological Perspectives, New York, Plenum Press, 171-258.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Carr",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Carr",
+     "given": "C."
+    },
+    {
+     "family": "Neitzel",
+     "given": "J."
+    }
+   ],
+   "date": "1995",
+   "title": "An unified middle range theory of artefact design",
+   "is_part_of": [
+    "Style, Society, and Person: Archaeological and Ethnological Perspectives"
+   ],
+   "pages": "171-258",
+   "publisher": "Plenum Press",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Chapman R. 1990, Emerging Complexity. The Later Prehistory of South-East Spain, Iberia and the West Mediterranean, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chapman",
+     "given": "R."
+    }
+   ],
+   "date": "1990",
+   "title": "Emerging Complexity. The Later Prehistory of South-East Spain, Iberia and the West Mediterranean",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Delgado A. 2005, La transformació de la arquitectura residencial en Andalucia Occidental durante el orintalizante: Una lectura social, Anejos de Archivo Español de Arqueología, 35, 1, 585-594.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Delgado",
+     "given": "A."
+    }
+   ],
+   "date": "2005",
+   "title": "La transformació de la arquitectura residencial en Andalucia Occidental durante el orientalizante: Una lectura social",
+   "is_part_of": [
+    "Anejos de Archivo Español de Arqueología"
+   ],
+   "volume": "35",
+   "issue": "1",
+   "pages": "585-594",
+   "language": "spa",
+   "notes": "cited 'orintalizante' (typo corrected); '35, 1' read as volume 35, tome 1",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Eiteljorg H. 2002, How should we measure an ancient structure?, «Nexus Network Journal», 4, 2, 1590-1596.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Eiteljorg",
+     "given": "H."
+    }
+   ],
+   "date": "2002",
+   "title": "How should we measure an ancient structure?",
+   "is_part_of": [
+    "Nexus Network Journal"
+   ],
+   "volume": "4",
+   "issue": "2",
+   "pages": "1590-1596",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Esquivel J.A., Navas E. 2005, The geometry and the metric used in the enclosure “Fortín 1” at Copper Age site of Los Millares (Almería, Andalusia), «Journal of Archaeological Science», 32 (11), 1577-1586.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Esquivel",
+     "given": "J.A."
+    },
+    {
+     "family": "Navas",
+     "given": "E."
+    }
+   ],
+   "date": "2005",
+   "title": "The geometry and the metric used in the enclosure “Fortín 1” at Copper Age site of Los Millares (Almería, Andalusia)",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "32",
+   "issue": "11",
+   "pages": "1577-1586",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Esquivel J.A., Navas E. 2007, Geometric architectural pattern and constructive energy analysis at Los Millares Copper Age settlement (Santa Fé de Mondújar, Almería, Andalusia), «Journal of Archaeological Science», 34 (6), 894-904.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Esquivel",
+     "given": "J.A."
+    },
+    {
+     "family": "Navas",
+     "given": "E."
+    }
+   ],
+   "date": "2007",
+   "title": "Geometric architectural pattern and constructive energy analysis at Los Millares Copper Age settlement (Santa Fé de Mondújar, Almería, Andalusia)",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "34",
+   "issue": "6",
+   "pages": "894-904",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Flannery K.V. 1972, The origins of the village as a settlement type in Mesoamérica and the Near East: A comparative study, in P.J. Ucko, R. Tringham, G.W. Dimbley (eds.), Man, Settlement and Urbanism, Crescent, NW, Gerald Duckworth and Co. Ltd, 23-54.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Flannery",
+     "given": "K.V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ucko",
+     "given": "P.J."
+    },
+    {
+     "family": "Tringham",
+     "given": "R."
+    },
+    {
+     "family": "Dimbley",
+     "given": "G.W."
+    }
+   ],
+   "date": "1972",
+   "title": "The origins of the village as a settlement type in Mesoamérica and the Near East: A comparative study",
+   "is_part_of": [
+    "Man, Settlement and Urbanism"
+   ],
+   "pages": "23-54",
+   "publisher": "Gerald Duckworth and Co. Ltd",
+   "language": "eng",
+   "notes": "place cited 'Crescent, NW' (not a place name), omitted",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Gallardo V. 2007, Técnicas constructivas prerromanas de las Béticas Occidentales, «@rqueología y Territorio», 4, 117-139.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gallardo",
+     "given": "V."
+    }
+   ],
+   "date": "2007",
+   "title": "Técnicas constructivas prerromanas de las Béticas Occidentales",
+   "is_part_of": [
+    "@rqueología y Territorio"
+   ],
+   "volume": "4",
+   "pages": "117-139",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "García E. 2008, En la orilla de Tartessos. Indígenas y fenicios en las tierras malagueñas. Siglos XI-VI a.C., Málaga, Comunicación y Turismo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "García",
+     "given": "E."
+    }
+   ],
+   "date": "2008",
+   "title": "En la orilla de Tartessos. Indígenas y fenicios en las tierras malagueñas. Siglos XI-VI a.C.",
+   "publisher": "Comunicación y Turismo",
+   "place": "Málaga",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Harding A.F. 2000, European Societies in the Bronze Age, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Harding",
+     "given": "A.F."
+    }
+   ],
+   "date": "2000",
+   "title": "European Societies in the Bronze Age",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Hegmond M. 1998, Archaeological research on style, «Annual Review of Anthropology», 21, 517-536.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hegmond",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Archaeological research on style",
+   "is_part_of": [
+    "Annual Review of Anthropology"
+   ],
+   "volume": "21",
+   "pages": "517-536",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Hodder I. 1990, The Domestication of Europe: Structure and Contingency in Neolithic Societies, Cambridge, Basil Blackwell.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1990",
+   "title": "The Domestication of Europe: Structure and Contingency in Neolithic Societies",
+   "publisher": "Basil Blackwell",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Hodson F.R. 1964, Cultural grouping within the British pre-Roman Iron Age, «Proceedings of the Prehistoric Society», 30, 90-100.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    }
+   ],
+   "date": "1964",
+   "title": "Cultural grouping within the British pre-Roman Iron Age",
+   "is_part_of": [
+    "Proceedings of the Prehistoric Society"
+   ],
+   "volume": "30",
+   "pages": "90-100",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Izquierdo R. 1998, La cabaña circular en el mundo tartésico. Consideraciones sobre su uso como indicador étnico, «Zephyrus», 51, 277-288.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Izquierdo",
+     "given": "R."
+    }
+   ],
+   "date": "1998",
+   "title": "La cabaña circular en el mundo tartésico. Consideraciones sobre su uso como indicador étnico",
+   "is_part_of": [
+    "Zephyrus"
+   ],
+   "volume": "51",
+   "pages": "277-288",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Kappraff J. 2002, Beyond Measure, Singapore, World Scientific Publishing.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kappraff",
+     "given": "J."
+    }
+   ],
+   "date": "2002",
+   "title": "Beyond Measure",
+   "publisher": "World Scientific Publishing",
+   "place": "Singapore",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Kent S. 1990, A cross-cultural study of segmentation architecture and the use of space, in S. Kent (ed.), Domestic Architecture and the Use of Space, Cambridge, Cambridge University Press, 127-152.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kent",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Kent",
+     "given": "S."
+    }
+   ],
+   "date": "1990",
+   "title": "A cross-cultural study of segmentation architecture and the use of space",
+   "is_part_of": [
+    "Domestic Architecture and the Use of Space"
+   ],
+   "pages": "127-152",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "McGuire R.H., Schiffer M.B. 1983, A theory of architectural design, «Journal of Anthropological Archaeology», 2, 277-303.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "McGuire",
+     "given": "R.H."
+    },
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "date": "1983",
+   "title": "A theory of architectural design",
+   "is_part_of": [
+    "Journal of Anthropological Archaeology"
+   ],
+   "volume": "2",
+   "pages": "277-303",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "O’Connor B. 1980, Cross-Channel Relations in the Later Bronze Age, Oxford, BAR International Series 91.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "O’Connor",
+     "given": "B."
+    }
+   ],
+   "date": "1980",
+   "title": "Cross-Channel Relations in the Later Bronze Age",
+   "series": "BAR International Series",
+   "series_number": "91",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Parker Pearson M., Richards C. 1994, Architecture and order: Spatial representation and archaeology, in M. Parker Pearson, C. Richards (eds.), Architecture and Order. Approaches to Social Space, London, Rouletdge, 38-72.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Parker Pearson",
+     "given": "M."
+    },
+    {
+     "family": "Richards",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Parker Pearson",
+     "given": "M."
+    },
+    {
+     "family": "Richards",
+     "given": "C."
+    }
+   ],
+   "date": "1994",
+   "title": "Architecture and order: Spatial representation and archaeology",
+   "is_part_of": [
+    "Architecture and Order. Approaches to Social Space"
+   ],
+   "pages": "38-72",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng",
+   "notes": "cited publisher 'Rouletdge' (typo corrected)",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Rapoport A. 1990, Systems of activities and systems of settings, in S. Kent (ed.), Domestic Architecture and the Use of Space, Cambridge, Cambridge University Press, 9-20.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rapoport",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Kent",
+     "given": "S."
+    }
+   ],
+   "date": "1990",
+   "title": "Systems of activities and systems of settings",
+   "is_part_of": [
+    "Domestic Architecture and the Use of Space"
+   ],
+   "pages": "9-20",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Robbins M. 1966, House types and settlement patterns: an application of ethnology to archaeological interpretation, «Minnesota Archaeologist», 28, 3-35.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Robbins",
+     "given": "M."
+    }
+   ],
+   "date": "1966",
+   "title": "House types and settlement patterns: an application of ethnology to archaeological interpretation",
+   "is_part_of": [
+    "Minnesota Archaeologist"
+   ],
+   "volume": "28",
+   "pages": "3-35",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Ruíz-Zapatero G., Martín-Hernández M., Lorrio-Alvarado A.J. 1986, Casas redondas y rectangulares de la Edad del Hierro: aproximación a un análisis comparativo del espacio doméstico, «Arqueología Espacial», 9, 79-101.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ruíz-Zapatero",
+     "given": "G."
+    },
+    {
+     "family": "Martín-Hernández",
+     "given": "M."
+    },
+    {
+     "family": "Lorrio-Alvarado",
+     "given": "A.J."
+    }
+   ],
+   "date": "1986",
+   "title": "Casas redondas y rectangulares de la Edad del Hierro: aproximación a un análisis comparativo del espacio doméstico",
+   "is_part_of": [
+    "Arqueología Espacial"
+   ],
+   "volume": "9",
+   "pages": "79-101",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Sokal R.R., Rohlf F.J. 1982, Biometry, New York, W.H. Freeman, 3rd ed.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sokal",
+     "given": "R.R."
+    },
+    {
+     "family": "Rohlf",
+     "given": "F.J."
+    }
+   ],
+   "date": "1982",
+   "title": "Biometry",
+   "edition": "3",
+   "publisher": "W.H. Freeman",
+   "place": "New York",
+   "language": "eng",
+   "notes": "cited '3rd ed.'",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Steadman S.R. 2000, Spatial patterning and social complexity on prehistoric Anatolian tell sites: Models for mounds, «Journal of Anthropological Archaeology», 19, 164-199.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Steadman",
+     "given": "S.R."
+    }
+   ],
+   "date": "2000",
+   "title": "Spatial patterning and social complexity on prehistoric Anatolian tell sites: Models for mounds",
+   "is_part_of": [
+    "Journal of Anthropological Archaeology"
+   ],
+   "volume": "19",
+   "pages": "164-199",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Suárez et al. 1996, Aproximación a la dinámica de la población del litoral occidental malagueño durante la Antigüedad: Protohistoria, in F. Wulff, G. Andreotti (eds.), Historia Antigua de Málaga y su Provincia, Málaga, Arguval Ed., 177-187.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Suárez",
+     "given": ""
+    }
+   ],
+   "editors": [
+    {
+     "family": "Wulff",
+     "given": "F."
+    },
+    {
+     "family": "Andreotti",
+     "given": "G."
+    }
+   ],
+   "date": "1996",
+   "title": "Aproximación a la dinámica de la población del litoral occidental malagueño durante la Antigüedad: Protohistoria",
+   "is_part_of": [
+    "Historia Antigua de Málaga y su Provincia"
+   ],
+   "pages": "177-187",
+   "publisher": "Arguval Ed.",
+   "place": "Málaga",
+   "language": "spa",
+   "notes": "cited 'Suárez et al.': first author without initials, other authors unknown",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Van Dyke R.M. 1999, The Chaco connection: Evaluating Bonito style architecture in outlier communities, «Journal of Anthropological Archaeology», 18, 471-506.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Van Dyke",
+     "given": "R.M."
+    }
+   ],
+   "date": "1999",
+   "title": "The Chaco connection: Evaluating Bonito style architecture in outlier communities",
+   "is_part_of": [
+    "Journal of Anthropological Archaeology"
+   ],
+   "volume": "18",
+   "pages": "471-506",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Venables W.N., Ripley B.D. 2002, Modern Applied Statistics with S, New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Venables",
+     "given": "W.N."
+    },
+    {
+     "family": "Ripley",
+     "given": "B.D."
+    }
+   ],
+   "date": "2002",
+   "title": "Modern Applied Statistics with S",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Wilkins H. 2009, Transitional change in proto-buildings: A quantitative study of thermal behaviour and its relationship with social functionally, «Journal of Archaeological Science», 36, 150-156.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wilkins",
+     "given": "H."
+    }
+   ],
+   "date": "2009",
+   "title": "Transitional change in proto-buildings: A quantitative study of thermal behaviour and its relationship with social functionally",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "36",
+   "pages": "150-156",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

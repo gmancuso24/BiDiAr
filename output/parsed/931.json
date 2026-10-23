@@ -1,0 +1,424 @@
+{
+ "citing_aec_id": 931,
+ "source_file": "data/journal/28/931.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Albertini N., Brogni A., Caramiaux B., Gillies M., Olivito R., Taccola E. 2017, *Designing natural gesture interaction for archaeological data in immersive environments*, «Virtual Archaeology Review», 8, 16, 12-21.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Albertini",
+     "given": "N."
+    },
+    {
+     "family": "Brogni",
+     "given": "A."
+    },
+    {
+     "family": "Caramiaux",
+     "given": "B."
+    },
+    {
+     "family": "Gillies",
+     "given": "M."
+    },
+    {
+     "family": "Olivito",
+     "given": "R."
+    },
+    {
+     "family": "Taccola",
+     "given": "E."
+    }
+   ],
+   "date": "2017",
+   "title": "Designing natural gesture interaction for archaeological data in immersive environments",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "volume": "8",
+   "issue": "16",
+   "pages": "12-21",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Bonamici M. 2003, *Volterra. L'acropoli e il suo santuario. Scavi 1987-1995*, Pisa-Roma, Giardini editori e stampatori in Pisa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bonamici",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Volterra. L'acropoli e il suo santuario. Scavi 1987-1995",
+   "publisher": "Giardini editori e stampatori in Pisa",
+   "place": "Pisa-Roma",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Bonamici M., Rosselli L., Taccola E. 2017, *Il santuario dell'acropoli di Volterra*, in E. Govi (ed.), *La città etrusca e il sacro. Santuari e istituzioni politiche. Atti del Convegno (Bologna 2016)*, Bologna, Bononia University Press, 51-74.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bonamici",
+     "given": "M."
+    },
+    {
+     "family": "Rosselli",
+     "given": "L."
+    },
+    {
+     "family": "Taccola",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "date": "2017",
+   "title": "Il santuario dell'acropoli di Volterra",
+   "is_part_of": [
+    "La città etrusca e il sacro. Santuari e istituzioni politiche. Atti del Convegno (Bologna 2016)"
+   ],
+   "pages": "51-74",
+   "publisher": "Bononia University Press",
+   "place": "Bologna",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Carrozzino M., Bergamasco M. 2010, *Beyond virtual museums: Experiencing immersive virtual reality in real museums*, «Journal of Cultural Heritage», 11, 4, 452-458.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carrozzino",
+     "given": "M."
+    },
+    {
+     "family": "Bergamasco",
+     "given": "M."
+    }
+   ],
+   "date": "2010",
+   "title": "Beyond virtual museums: Experiencing immersive virtual reality in real museums",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "11",
+   "issue": "4",
+   "pages": "452-458",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Forte M. 2016, *Cyber Archaeology: 3D sensing and digital embodiment*, in M. Forte, S. Campana (eds.), *Digital Methods and Remote Sensing in Archaeology. Archaeology in the Age of Sensing*, Cham (Switzerland), Springer International Publishing, 271-289.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "Cyber Archaeology: 3D sensing and digital embodiment",
+   "is_part_of": [
+    "Digital Methods and Remote Sensing in Archaeology. Archaeology in the Age of Sensing"
+   ],
+   "pages": "271-289",
+   "publisher": "Springer International Publishing",
+   "place": "Cham (Switzerland)",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Gallese V. 2014, *Arte, corpo, cervello: per un'estetica sperimentale*, «MicroMega», 2, 49-67.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gallese",
+     "given": "V."
+    }
+   ],
+   "date": "2014",
+   "title": "Arte, corpo, cervello: per un'estetica sperimentale",
+   "is_part_of": [
+    "MicroMega"
+   ],
+   "volume": "2",
+   "pages": "49-67",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Garagnani S., Gaucci A., Gruška B. 2016, *From the archaeological record to ArchaeoBIM: the case study of the Etruscan temple of Uni in Marzabotto*, «Virtual Archaeology Review», 7, 15, 77-86.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Gruška",
+     "given": "B."
+    }
+   ],
+   "date": "2016",
+   "title": "From the archaeological record to ArchaeoBIM: the case study of the Etruscan temple of Uni in Marzabotto",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "volume": "7",
+   "issue": "15",
+   "pages": "77-86",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Gaucci A., Garagnani S., Manferdini A.M. 2015, *Reconstructing the lost reality. Archaeological analysis and transmedial technologies for a perspective of Virtual Reality in the Etruscan City of Kainua*, in G. Guidi, R. Scopigno, J.C. Torres, H. Graf (eds.), *2015 Digital Heritage. Proceedings of the 2015 Digital Heritage International Congress (Granada 2015)*, 2, IEEE, 227-234.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Manferdini",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Guidi",
+     "given": "G."
+    },
+    {
+     "family": "Scopigno",
+     "given": "R."
+    },
+    {
+     "family": "Torres",
+     "given": "J.C."
+    },
+    {
+     "family": "Graf",
+     "given": "H."
+    }
+   ],
+   "date": "2015",
+   "title": "Reconstructing the lost reality. Archaeological analysis and transmedial technologies for a perspective of Virtual Reality in the Etruscan City of Kainua",
+   "is_part_of": [
+    "2015 Digital Heritage. Proceedings of the 2015 Digital Heritage International Congress (Granada 2015)"
+   ],
+   "volume": "2",
+   "pages": "227-234",
+   "publisher": "IEEE",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Olivito R., Taccola E., Albertini N. 2015, *A hand-free solution for the interaction in an immersive virtual environment: The case of the agora of Segesta*, in *3D-Arch 2015. 3D Virtual Reconstruction and Visualization of Complex Architectures (Avila 2015)*, «International Archives of the Photogrammetry, Remote Sensing and Visualization of Complex Architectures», 40-5W4, 31-36.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Olivito",
+     "given": "R."
+    },
+    {
+     "family": "Taccola",
+     "given": "E."
+    },
+    {
+     "family": "Albertini",
+     "given": "N."
+    }
+   ],
+   "date": "2015",
+   "title": "A hand-free solution for the interaction in an immersive virtual environment: The case of the agora of Segesta",
+   "is_part_of": [
+    "3D-Arch 2015. 3D Virtual Reconstruction and Visualization of Complex Architectures (Avila 2015)"
+   ],
+   "pages": "31-36",
+   "language": "eng",
+   "notes": "container as cited; published in International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 40-5/W4"
+  },
+  {
+   "position": 10,
+   "raw": "Pescarin S., Hupperetz W., Pagano A., Ray C., Wallergård M. 2013, *Evaluating Virtual Museums: Archaeovirtual test-case*, in E. Graeme, T. Sly, A. Chrysanthi, P. Murrieta-Flores, C. Papadopoulos, I. Romanowska, D. Wheatley (eds.), *CAA 2012. Proceedings of the 40th Conference Computer Applications and Quantitative Methods in Archaeology (Southampton 2012)*, Amsterdam, Amsterdam University Press, 76-84.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pescarin",
+     "given": "S."
+    },
+    {
+     "family": "Hupperetz",
+     "given": "W."
+    },
+    {
+     "family": "Pagano",
+     "given": "A."
+    },
+    {
+     "family": "Ray",
+     "given": "C."
+    },
+    {
+     "family": "Wallergård",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Earl",
+     "given": "G."
+    },
+    {
+     "family": "Sly",
+     "given": "T."
+    },
+    {
+     "family": "Chrysanthi",
+     "given": "A."
+    },
+    {
+     "family": "Murrieta-Flores",
+     "given": "P."
+    },
+    {
+     "family": "Papadopoulos",
+     "given": "C."
+    },
+    {
+     "family": "Romanowska",
+     "given": "I."
+    },
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "date": "2013",
+   "title": "Evaluating Virtual Museums: Archaeovirtual test-case",
+   "is_part_of": [
+    "CAA 2012. Proceedings of the 40th Conference Computer Applications and Quantitative Methods in Archaeology (Southampton 2012)"
+   ],
+   "pages": "76-84",
+   "publisher": "Amsterdam University Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "notes": "first editor cited \"Graeme E.\""
+  },
+  {
+   "position": 11,
+   "raw": "Rosselli L. 2016, *Volterra (Pi). Necropoli di Ulimeto: indagini nell'ipogeo di Torricchi*, «Notiziario della Soprintendenza per i Beni Archeologici della Toscana», 11, 304-308.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rosselli",
+     "given": "L."
+    }
+   ],
+   "date": "2016",
+   "title": "Volterra (Pi). Necropoli di Ulimeto: indagini nell'ipogeo di Torricchi",
+   "is_part_of": [
+    "Notiziario della Soprintendenza per i Beni Archeologici della Toscana"
+   ],
+   "volume": "11",
+   "pages": "304-308",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "Witmer B.G., Singer M.J. 1998, *Measuring presence in virtual environments: A presence questionnaire*, «Presence: Teleoperators and virtual environments», 7, 3, 225-240.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Witmer",
+     "given": "B.G."
+    },
+    {
+     "family": "Singer",
+     "given": "M.J."
+    }
+   ],
+   "date": "1998",
+   "title": "Measuring presence in virtual environments: A presence questionnaire",
+   "is_part_of": [
+    "Presence: Teleoperators and Virtual Environments"
+   ],
+   "volume": "7",
+   "issue": "3",
+   "pages": "225-240",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "https://www.youtube.com/watch?v=SJoF6ZjUpSM&t=37s (Hypogeum of Torricchi).",
+   "type": "other",
+   "title": "Laboratory LADIRE Youtube channel: Hypogeum of Torricchi",
+   "language": "ita",
+   "uri": "https://www.youtube.com/watch?v=SJoF6ZjUpSM&t=37s"
+  },
+  {
+   "position": 15,
+   "raw": "https://www.youtube.com/watch?v=K4QMKKuKlME (Kourotrophos Maffei, Museum Guarnacci).",
+   "type": "other",
+   "title": "Laboratory LADIRE Youtube channel: Kourotrophos Maffei, Museum Guarnacci",
+   "language": "ita",
+   "uri": "https://www.youtube.com/watch?v=K4QMKKuKlME"
+  },
+  {
+   "position": 17,
+   "raw": "https://sketchfab.com/leletaccola/collections/necropoli-di-volterra (Hypogeum of Torricchi).",
+   "type": "other",
+   "title": "Laboratory LADIRE Sketchfab collections: Necropoli di Volterra (Hypogeum of Torricchi)",
+   "language": "ita",
+   "uri": "https://sketchfab.com/leletaccola/collections/necropoli-di-volterra"
+  },
+  {
+   "position": 18,
+   "raw": "https://sketchfab.com/leletaccola/collections/museo-etrusco-guarnacci-di-volterra (Museum Guarnacci).",
+   "type": "other",
+   "title": "Laboratory LADIRE Sketchfab collections: Museo Etrusco Guarnacci di Volterra",
+   "language": "ita",
+   "uri": "https://sketchfab.com/leletaccola/collections/museo-etrusco-guarnacci-di-volterra"
+  }
+ ],
+ "skipped": [
+  {
+   "position": 13,
+   "raw": "*Laboratory LADIRE Youtube channel*:",
+   "reason": "heading of the following URLs (Laboratory LADIRE Youtube channel)"
+  },
+  {
+   "position": 16,
+   "raw": "*Laboratory LADIRE Sketchfab collections*:",
+   "reason": "heading of the following URLs (Laboratory LADIRE Sketchfab collections)"
+  }
+ ]
+}

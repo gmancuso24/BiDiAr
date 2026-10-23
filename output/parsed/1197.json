@@ -1,0 +1,1003 @@
+{
+ "citing_aec_id": 1197,
+ "source_file": "data/journal/33/1197.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bianconi F., Filippucci M. 2019, *La fotomodellazione per il rilievo archeologico*, «Archeologia e Calcolatori», 30, 205-228 (https://doi.org/10.19282/ac.30.2019.13).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bianconi",
+     "given": "F."
+    },
+    {
+     "family": "Filippucci",
+     "given": "M."
+    }
+   ],
+   "date": "2019",
+   "title": "La fotomodellazione per il rilievo archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "30",
+   "pages": "205-228",
+   "doi": "10.19282/ac.30.2019.13",
+   "cited_aec_id": 1048,
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Brandolini F., Cremaschi M., Zerboni A., Degli Esposti M., Mariani G.S., Lischi S. 2020, *SfM-photogrammetry for fast recording of archaeological features in remote areas*, in G. Bagnasco Gianni, S. Bortolotto, A. Garzulino, M. Marzullo (eds.), *Milano internazionale: la fragilità territoriale dei contesti archeologici. Atti del Convegno Internazionale (Milano 2019)*, «Archeologia e Calcolatori», 31.2, 33-45 (https://doi.org/10.19282/ac.31.2.2020.04).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brandolini",
+     "given": "F."
+    },
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    },
+    {
+     "family": "Zerboni",
+     "given": "A."
+    },
+    {
+     "family": "Degli Esposti",
+     "given": "M."
+    },
+    {
+     "family": "Mariani",
+     "given": "G.S."
+    },
+    {
+     "family": "Lischi",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bagnasco Gianni",
+     "given": "G."
+    },
+    {
+     "family": "Bortolotto",
+     "given": "S."
+    },
+    {
+     "family": "Garzulino",
+     "given": "A."
+    },
+    {
+     "family": "Marzullo",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "SfM-photogrammetry for fast recording of archaeological features in remote areas",
+   "is_part_of": [
+    "Milano internazionale: la fragilità territoriale dei contesti archeologici. Atti del Convegno Internazionale (Milano 2019)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "volume": "31",
+   "issue": "2",
+   "pages": "33-45",
+   "doi": "10.19282/ac.31.2.2020.04",
+   "cited_aec_id": 1088,
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Broucke P., Forte M., Siliotti A., Bommelaer J.F. 1999, *Virtual Archaeology: Re-creating ancient worlds*, «American Journal of Archaeology» (https://doi.org/10.2307/506978).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Broucke",
+     "given": "P."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Siliotti",
+     "given": "A."
+    },
+    {
+     "family": "Bommelaer",
+     "given": "J.F."
+    }
+   ],
+   "date": "1999",
+   "title": "Virtual Archaeology: Re-creating ancient worlds",
+   "is_part_of": [
+    "American Journal of Archaeology"
+   ],
+   "language": "eng",
+   "doi": "10.2307/506978",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Brusaporci S., Trizio I. 2013, *La 'Carta di Londra' e il patrimonio architettonico: riflessioni circa una possibile implementazione*, «SCIRES-IT - SCIentific RESearch and Information Technology», 3, 2, 55-68 (https://doi.org/10.2423/i22394303v3n2p55).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brusaporci",
+     "given": "S."
+    },
+    {
+     "family": "Trizio",
+     "given": "I."
+    }
+   ],
+   "date": "2013",
+   "title": "La 'Carta di Londra' e il patrimonio architettonico: riflessioni circa una possibile implementazione",
+   "is_part_of": [
+    "SCIRES-IT - SCIentific RESearch and Information Technology"
+   ],
+   "language": "ita",
+   "volume": "3",
+   "issue": "2",
+   "pages": "55-68",
+   "doi": "10.2423/i22394303v3n2p55",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Calza G. 1927, *Il teatro romano di Ostia*, Roma, Società Editrice d'Arte Illustrata.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Calza",
+     "given": "G."
+    }
+   ],
+   "date": "1927",
+   "title": "Il teatro romano di Ostia",
+   "language": "ita",
+   "publisher": "Società Editrice d'Arte Illustrata",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Card S.K., Mackinlay J.D. 1999, *Readings in Information Visualization: Using Vision to Think*, Durham, Morgan Kaufmann (https://www.researchgate.net/publication/220691172).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Card",
+     "given": "S.K."
+    },
+    {
+     "family": "Mackinlay",
+     "given": "J.D."
+    }
+   ],
+   "date": "1999",
+   "title": "Readings in Information Visualization: Using Vision to Think",
+   "language": "eng",
+   "publisher": "Morgan Kaufmann",
+   "place": "Durham",
+   "uri": "https://www.researchgate.net/publication/220691172",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Clini P., Quattrini R., Angeloni R., D'Alessio M., Cappucci R. 2020, *Realtà virtuale e potenzialità dei facsimili digitali per i musei. Il caso dello Studiolo del duca di Urbino*, «Disegnare Idee Immagini», 61, 56-67.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Clini",
+     "given": "P."
+    },
+    {
+     "family": "Quattrini",
+     "given": "R."
+    },
+    {
+     "family": "Angeloni",
+     "given": "R."
+    },
+    {
+     "family": "D'Alessio",
+     "given": "M."
+    },
+    {
+     "family": "Cappucci",
+     "given": "R."
+    }
+   ],
+   "date": "2020",
+   "title": "Realtà virtuale e potenzialità dei facsimili digitali per i musei. Il caso dello Studiolo del duca di Urbino",
+   "is_part_of": [
+    "Disegnare Idee Immagini"
+   ],
+   "language": "ita",
+   "volume": "61",
+   "pages": "56-67",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "D'Eredità A. 2020, *Il rilievo fotogrammetrico di Doclea*, «Archeologia e Calcolatori», 31.1, 213-230 (https://doi.org/10.19282/ac.31.1.2020.10).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Eredità",
+     "given": "A."
+    }
+   ],
+   "date": "2020",
+   "title": "Il rilievo fotogrammetrico di Doclea",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "31",
+   "issue": "1",
+   "pages": "213-230",
+   "doi": "10.19282/ac.31.1.2020.10",
+   "cited_aec_id": 1121,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Ferdani D., Fanini B., Piccioli M.C., Carboni F., Vigliarolo P. 2020, *3D reconstruction and validation of historical background for immersive VR applications and games: The case study of the Forum of Augustus in Rome*, «Journal of Cultural Heritage», 43, 129-143 (https://doi.org/10.1016/j.culher.2019.12.004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Fanini",
+     "given": "B."
+    },
+    {
+     "family": "Piccioli",
+     "given": "M.C."
+    },
+    {
+     "family": "Carboni",
+     "given": "F."
+    },
+    {
+     "family": "Vigliarolo",
+     "given": "P."
+    }
+   ],
+   "date": "2020",
+   "title": "3D reconstruction and validation of historical background for immersive VR applications and games: The case study of the Forum of Augustus in Rome",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "language": "eng",
+   "volume": "43",
+   "pages": "129-143",
+   "doi": "10.1016/j.culher.2019.12.004",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Forte M., Pescarin S., Pietroni E., Rufa C. 2006, *Multiuser interaction in an archaeological landscape: The Flaminia Project*, in S. Campana, M. Forte (eds.), *From Space to Place, Proceedings of the 2nd International Conference on Remote Sensing in Archaeology (Roma 2006)*, Oxford, BAR International Series 1568, Archaeopress, 189-196. (https://www.ark.lu.se/media/utbildning/dokument/kurser/ARKN06/20102/archaeological_landscape_flaminia.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    },
+    {
+     "family": "Pietroni",
+     "given": "E."
+    },
+    {
+     "family": "Rufa",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Multiuser interaction in an archaeological landscape: The Flaminia Project",
+   "is_part_of": [
+    "From Space to Place, Proceedings of the 2nd International Conference on Remote Sensing in Archaeology (Roma 2006)"
+   ],
+   "language": "eng",
+   "pages": "189-196",
+   "place": "Oxford",
+   "publisher": "Archaeopress",
+   "series": "BAR International Series",
+   "series_number": "1568",
+   "uri": "https://www.ark.lu.se/media/utbildning/dokument/kurser/ARKN06/20102/archaeological_landscape_flaminia.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Gabellone F., Ferrari I., Giuri F. 2017, *A new contribution for the reconstructive study of the theatre of Taormina*, in *IMEKO International Conference on Metrology for Archaeology. Proceedings of the International Conference (Lecce 2017)*, Red Hook, Curran Associates, 595-600 (https://www.researchgate.net/publication/320651265).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gabellone",
+     "given": "F."
+    },
+    {
+     "family": "Ferrari",
+     "given": "I."
+    },
+    {
+     "family": "Giuri",
+     "given": "F."
+    }
+   ],
+   "date": "2017",
+   "title": "A new contribution for the reconstructive study of the theatre of Taormina",
+   "is_part_of": [
+    "IMEKO International Conference on Metrology for Archaeology. Proceedings of the International Conference (Lecce 2017)"
+   ],
+   "language": "eng",
+   "pages": "595-600",
+   "place": "Red Hook",
+   "publisher": "Curran Associates",
+   "uri": "https://www.researchgate.net/publication/320651265",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "García-León J., Sánchez-Allegue P., Peña-Velasco C., Cipriani L., Fantini F. 2018, *Interactive dissemination of the 3D model of a baroque altarpiece: A pipeline from digital survey to game engines*, «SCIRES-IT», 8, 2, 59-76 (https://doi.org/10.2423/i22394303v8n2p59).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "García-León",
+     "given": "J."
+    },
+    {
+     "family": "Sánchez-Allegue",
+     "given": "P."
+    },
+    {
+     "family": "Peña-Velasco",
+     "given": "C."
+    },
+    {
+     "family": "Cipriani",
+     "given": "L."
+    },
+    {
+     "family": "Fantini",
+     "given": "F."
+    }
+   ],
+   "date": "2018",
+   "title": "Interactive dissemination of the 3D model of a baroque altarpiece: A pipeline from digital survey to game engines",
+   "is_part_of": [
+    "SCIRES-IT"
+   ],
+   "language": "eng",
+   "volume": "8",
+   "issue": "2",
+   "pages": "59-76",
+   "doi": "10.2423/i22394303v8n2p59",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Giorgi E., Luppino L., Lapacciana N., Scoz J. 2021, *Accurata, ma sostenibile: soluzioni operative per la documentazione grafica e fotografica dello scavo sul sito di Vignale*, «Archeologia e Calcolatori», 32.1, 155-174 (https://doi.org/10.19282/ac.32.1.2021.09).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Giorgi",
+     "given": "E."
+    },
+    {
+     "family": "Luppino",
+     "given": "L."
+    },
+    {
+     "family": "Lapacciana",
+     "given": "N."
+    },
+    {
+     "family": "Scoz",
+     "given": "J."
+    }
+   ],
+   "date": "2021",
+   "title": "Accurata, ma sostenibile: soluzioni operative per la documentazione grafica e fotografica dello scavo sul sito di Vignale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "32",
+   "issue": "1",
+   "pages": "155-174",
+   "doi": "10.19282/ac.32.1.2021.09",
+   "cited_aec_id": 1132,
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Greco G., Battistelli P. 2002, *Lo sviluppo architettonico del complesso del teatro di Ostia alla luce delle recenti indagini nell'edificio scenico*, «Mélanges de l'École française de Rome: Antiquité», 114.1, 391-420 (http://digital.casalini.it/10.1400/13533).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Greco",
+     "given": "G."
+    },
+    {
+     "family": "Battistelli",
+     "given": "P."
+    }
+   ],
+   "date": "2002",
+   "title": "Lo sviluppo architettonico del complesso del teatro di Ostia alla luce delle recenti indagini nell'edificio scenico",
+   "is_part_of": [
+    "Mélanges de l'École française de Rome: Antiquité"
+   ],
+   "language": "ita",
+   "volume": "114",
+   "issue": "1",
+   "pages": "391-420",
+   "uri": "http://digital.casalini.it/10.1400/13533",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Gros P. 1997, *Vitruvio de Architectura*, Torino, Einaudi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gros",
+     "given": "P."
+    }
+   ],
+   "date": "1997",
+   "title": "Vitruvio de Architectura",
+   "language": "ita",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Guidi G., Frischer B., Lucenti I. 2007, *Rome Reborn. Virtualizing the ancient imperial Rome*, in F. Remondino, S. El-Hakim (eds.), *3D-ARCH 2007, Atti del Convegno Internazionale Virtual Reconstruction and Visualization of Complex Architectures (Zurigo 2007)*, ISPRS Archives-XXXVI-5/W47 (https://www.isprs.org/proceedings/xxxvi/5-W47/pdf/guidi_etal.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guidi",
+     "given": "G."
+    },
+    {
+     "family": "Frischer",
+     "given": "B."
+    },
+    {
+     "family": "Lucenti",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "El-Hakim",
+     "given": "S."
+    }
+   ],
+   "date": "2007",
+   "title": "Rome Reborn. Virtualizing the ancient imperial Rome",
+   "is_part_of": [
+    "3D-ARCH 2007, Atti del Convegno Internazionale Virtual Reconstruction and Visualization of Complex Architectures (Zurigo 2007)"
+   ],
+   "language": "eng",
+   "series": "ISPRS Archives",
+   "series_number": "XXXVI-5/W47",
+   "uri": "https://www.isprs.org/proceedings/xxxvi/5-W47/pdf/guidi_etal.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Inglieri R.U. 1939, *Il teatro romano di Ricina*, Siracusa, Società Tip. di Siracusa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Inglieri",
+     "given": "R.U."
+    }
+   ],
+   "date": "1939",
+   "title": "Il teatro romano di Ricina",
+   "language": "ita",
+   "publisher": "Società Tip. di Siracusa",
+   "place": "Siracusa",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Liarokapis F., Kouřil P., Agrafiotis P., Demesticha S., Chmelík J., Skarlatos D. 2017, *3D modelling and mapping for virtual exploration of underwater archaeology assets*, in *International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives*, International Society for Photogrammetry and Remote Sensing, 425-431 (https://doi.org/10.5194/isprs-archives-XLII-2-W3-425-2017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Liarokapis",
+     "given": "F."
+    },
+    {
+     "family": "Kouřil",
+     "given": "P."
+    },
+    {
+     "family": "Agrafiotis",
+     "given": "P."
+    },
+    {
+     "family": "Demesticha",
+     "given": "S."
+    },
+    {
+     "family": "Chmelík",
+     "given": "J."
+    },
+    {
+     "family": "Skarlatos",
+     "given": "D."
+    }
+   ],
+   "date": "2017",
+   "title": "3D modelling and mapping for virtual exploration of underwater archaeology assets",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "language": "eng",
+   "volume": "XLII-2/W3",
+   "pages": "425-431",
+   "doi": "10.5194/isprs-archives-XLII-2-W3-425-2017",
+   "notes": "journal cited as 'International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives'",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Malfitana D., Gabellone F., Cacciaguerra G., Ferrari I., Giuri F., Pantellaro C. 2016, *Critical reading of surviving structures starting from old studies for new reconstructive proposal of the Roman theatre of Catania*, in J.L. Lerma, M. Cabrelles (eds.), *ARQUEOLÓGICA 2.0, Proceedings of the the 8th International Congress on Archaeology, Computer Graphics, Cultural Heritage and Innovation (Valencia 2016)*, València, Editorial Universitat Politècnica de València, 155-161 (https://doi.org/10.4995/arqueologica8.2016.3556).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Malfitana",
+     "given": "D."
+    },
+    {
+     "family": "Gabellone",
+     "given": "F."
+    },
+    {
+     "family": "Cacciaguerra",
+     "given": "G."
+    },
+    {
+     "family": "Ferrari",
+     "given": "I."
+    },
+    {
+     "family": "Giuri",
+     "given": "F."
+    },
+    {
+     "family": "Pantellaro",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lerma",
+     "given": "J.L."
+    },
+    {
+     "family": "Cabrelles",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "Critical reading of surviving structures starting from old studies for new reconstructive proposal of the Roman theatre of Catania",
+   "is_part_of": [
+    "ARQUEOLÓGICA 2.0, Proceedings of the 8th International Congress on Archaeology, Computer Graphics, Cultural Heritage and Innovation (Valencia 2016)"
+   ],
+   "language": "eng",
+   "pages": "155-161",
+   "place": "València",
+   "publisher": "Editorial Universitat Politècnica de València",
+   "doi": "10.4995/arqueologica8.2016.3556",
+   "notes": "'the the' corrected",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Manzetti M.C., Papadopoulos N.T. 2021, *Being a spectator in a Roman theatre: A VR APP*, in A. Bellia (ed.), *From Digitalisation and Virtual Reconstruction of Ancient Musical Instruments to Sound Heritage Simulation and Preservation*, «Archeologia e Calcolatori», 32.1, 457-468 (https://doi.org/10.19282/ac.32.1.2021.25).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Manzetti",
+     "given": "M.C."
+    },
+    {
+     "family": "Papadopoulos",
+     "given": "N.T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bellia",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "Being a spectator in a Roman theatre: A VR APP",
+   "is_part_of": [
+    "From Digitalisation and Virtual Reconstruction of Ancient Musical Instruments to Sound Heritage Simulation and Preservation",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "volume": "32",
+   "issue": "1",
+   "pages": "457-468",
+   "doi": "10.19282/ac.32.1.2021.25",
+   "cited_aec_id": 1149,
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Modona A.N. 1961, *Gli edifici teatrali greci e romani*, Firenze, L. Olschki Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Modona",
+     "given": "A.N."
+    }
+   ],
+   "date": "1961",
+   "title": "Gli edifici teatrali greci e romani",
+   "language": "ita",
+   "publisher": "L. Olschki Editore",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Niccolucci F., Beacham R., Denard H. 2006, *An introduction to the London Charter*, in M. Ioannides, D.B. Arnold, F. Nicolucci, K. Mania (eds.), *The E-volution of ICTechnology in Cultural Heritage: Where Hi-Tech Touches the Past: Risks and Challenges for the 21st century, Proceedings of the Joint Event CIPA/VAST/EG/EuroMed Event (Cipro 2006)*, Budapest, Archeolingua (https://www.academia.edu/1229183/An_introduction_to_the_london_charter?auto=citations&from=cover_page).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Beacham",
+     "given": "R."
+    },
+    {
+     "family": "Denard",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Arnold",
+     "given": "D.B."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Mania",
+     "given": "K."
+    }
+   ],
+   "date": "2006",
+   "title": "An introduction to the London Charter",
+   "is_part_of": [
+    "The E-volution of ICTechnology in Cultural Heritage: Where Hi-Tech Touches the Past: Risks and Challenges for the 21st century, Proceedings of the Joint Event CIPA/VAST/EG/EuroMed Event (Cipro 2006)"
+   ],
+   "language": "eng",
+   "place": "Budapest",
+   "publisher": "Archeolingua",
+   "uri": "https://www.academia.edu/1229183/An_introduction_to_the_london_charter?auto=citations&from=cover_page",
+   "notes": "editor 'F. Nicolucci' corrected to Niccolucci",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Palombini A., Fanini B. 2019, *Il museo virtuale della Valle del Calore*, in P. Grossi, A. Caravale, P. Basso (eds.), *ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica, Atti del XII Workshop (Roma 2018)*, «Archeologia e Calcolatori», 30, 487-490 (https://doi.org/10.19282/ac.30.2019.36).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Palombini",
+     "given": "A."
+    },
+    {
+     "family": "Fanini",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grossi",
+     "given": "P."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Basso",
+     "given": "P."
+    }
+   ],
+   "date": "2019",
+   "title": "Il museo virtuale della Valle del Calore",
+   "is_part_of": [
+    "ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica, Atti del XII Workshop (Roma 2018)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "30",
+   "pages": "487-490",
+   "doi": "10.19282/ac.30.2019.36",
+   "cited_aec_id": 1072,
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Perna R. 2018, *Problemi di viabilità romana nelle valli del Potenza e del Chienti: per un approccio pluridisciplinare*, «Agri Centuriati: An International Journal of Landscape Archaeology», 15, 83-98.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Perna",
+     "given": "R."
+    }
+   ],
+   "date": "2018",
+   "title": "Problemi di viabilità romana nelle valli del Potenza e del Chienti: per un approccio pluridisciplinare",
+   "is_part_of": [
+    "Agri Centuriati: An International Journal of Landscape Archaeology"
+   ],
+   "language": "ita",
+   "volume": "15",
+   "pages": "83-98",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Perna R. 2019, *Comunicare il paesaggio archeologico: dallo studio del territorio al plastico virtuale interattivo per la ricostruzione del catasto della città romana di Urbs Salvia*, in A. Andreoli (ed.), *Ambiente e società antica. Temi e problemi di geografia storica padano-adriatica. Atti della giornata di studi in ricordo di Nereo Alfieri (Ferrara 2015)*, Ferrara, Edizioni Cartografica, 171-198.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Perna",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Andreoli",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "title": "Comunicare il paesaggio archeologico: dallo studio del territorio al plastico virtuale interattivo per la ricostruzione del catasto della città romana di Urbs Salvia",
+   "is_part_of": [
+    "Ambiente e società antica. Temi e problemi di geografia storica padano-adriatica. Atti della giornata di studi in ricordo di Nereo Alfieri (Ferrara 2015)"
+   ],
+   "language": "ita",
+   "pages": "171-198",
+   "place": "Ferrara",
+   "publisher": "Edizioni Cartografica",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Reilly P. 1991, *Towards a Virtual Archaeology*, in *CAA90. Computer Applications and Quantitative Methods in Archaeology 1990*, BAR International Series 565, Oxford, Tempus Reparatum, 132-139.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Reilly",
+     "given": "P."
+    }
+   ],
+   "date": "1991",
+   "title": "Towards a Virtual Archaeology",
+   "is_part_of": [
+    "CAA90. Computer Applications and Quantitative Methods in Archaeology 1990"
+   ],
+   "language": "eng",
+   "pages": "132-139",
+   "place": "Oxford",
+   "publisher": "Tempus Reparatum",
+   "series": "BAR International Series",
+   "series_number": "565",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Santoni M. 1877, *Il teatro dell'antica Recina*, Camerino, Borgarelli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Santoni",
+     "given": "M."
+    }
+   ],
+   "date": "1877",
+   "title": "Il teatro dell'antica Recina",
+   "language": "ita",
+   "publisher": "Borgarelli",
+   "place": "Camerino",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Sear F. 2006, *Roman Theatres: An Architectural Study*, Oxford, University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sear",
+     "given": "F."
+    }
+   ],
+   "date": "2006",
+   "title": "Roman Theatres: An Architectural Study",
+   "language": "eng",
+   "publisher": "University Press",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Stone R.J. 1999, *Virtual Heritage*, «UNESCO's World Heritage Magazine», 18-20.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Stone",
+     "given": "R.J."
+    }
+   ],
+   "date": "1999",
+   "title": "Virtual Heritage",
+   "is_part_of": [
+    "UNESCO's World Heritage Magazine"
+   ],
+   "language": "eng",
+   "pages": "18-20",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Taccola E., Rosselli L., Albertini N., Martino M. 2021, *Etruscan hypogea in 3D: A proposal for an immersive and interactive visualization of Volterra's funerary contexts*, in V. Baldoni (ed.), *From Pottery to Context. Archaeology and Virtual Modelling*, «Archeologia e Calcolatori», 32.2, 135-152 (https://doi.org/10.19282/ac.32.2.2021.12).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Taccola",
+     "given": "E."
+    },
+    {
+     "family": "Rosselli",
+     "given": "L."
+    },
+    {
+     "family": "Albertini",
+     "given": "N."
+    },
+    {
+     "family": "Martino",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Baldoni",
+     "given": "V."
+    }
+   ],
+   "date": "2021",
+   "title": "Etruscan hypogea in 3D: A proposal for an immersive and interactive visualization of Volterra's funerary contexts",
+   "is_part_of": [
+    "From Pottery to Context. Archaeology and Virtual Modelling",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "volume": "32",
+   "issue": "2",
+   "pages": "135-152",
+   "doi": "10.19282/ac.32.2.2021.12",
+   "cited_aec_id": 1166,
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Tosi G., Baccelle L. 2003, *Gli edifici per spettacoli nell'Italia romana*, Roma, Quasar.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tosi",
+     "given": "G."
+    },
+    {
+     "family": "Baccelle",
+     "given": "L."
+    }
+   ],
+   "date": "2003",
+   "title": "Gli edifici per spettacoli nell'Italia romana",
+   "language": "ita",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Vermeulen F., Van Limbergen D., Monsieur P., Taelman D. 2017, *The Potenza Valley Survey (Marche, Italy): Settlement Dynamics and Changing Material Culture in an Adriatic Valley between Iron Age and Late Antiquity*, Roma, ESS Editorial Service System Srl.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Vermeulen",
+     "given": "F."
+    },
+    {
+     "family": "Van Limbergen",
+     "given": "D."
+    },
+    {
+     "family": "Monsieur",
+     "given": "P."
+    },
+    {
+     "family": "Taelman",
+     "given": "D."
+    }
+   ],
+   "date": "2017",
+   "title": "The Potenza Valley Survey (Marche, Italy): Settlement Dynamics and Changing Material Culture in an Adriatic Valley between Iron Age and Late Antiquity",
+   "language": "eng",
+   "publisher": "ESS Editorial Service System Srl",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Ware C. 2012, *Information Visualization, Third Edition: Perception for Design*, Durham, Morgan Kaufmann.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ware",
+     "given": "C."
+    }
+   ],
+   "date": "2012",
+   "title": "Information Visualization: Perception for Design",
+   "language": "eng",
+   "publisher": "Morgan Kaufmann",
+   "place": "Durham",
+   "edition": "3",
+   "notes": "cited 'Information Visualization, Third Edition: Perception for Design'",
+   "confidence": "high"
+  }
+ ]
+}

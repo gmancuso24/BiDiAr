@@ -1,0 +1,2357 @@
+{
+ "citing_aec_id": 910,
+ "source_file": "data/journal/28/910.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Agamben G. 2006, *Che cos'è un dispositivo*, Roma, Nottetempo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Agamben",
+     "given": "G."
+    }
+   ],
+   "date": "2006",
+   "title": "Che cos'è un dispositivo",
+   "publisher": "Nottetempo",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Ancona M., Dodero G., Gianuzzi V. 2000, *Computer mobili per la gestione dei dati di scavo*, «Archeologia e Calcolatori», 11, 33-47.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ancona",
+     "given": "M."
+    },
+    {
+     "family": "Dodero",
+     "given": "G."
+    },
+    {
+     "family": "Gianuzzi",
+     "given": "V."
+    }
+   ],
+   "date": "2000",
+   "title": "Computer mobili per la gestione dei dati di scavo",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "33-47",
+   "language": "ita",
+   "cited_aec_id": 287
+  },
+  {
+   "position": 3,
+   "raw": "Ancona M., Cappello M., Casamassima M., Cazzola W., Conte D., Pittore M., Villa M. 2006, *Mobile vision and cultural heritage: The Agamemnon project*, in *Proceedings of the 1st International Workshop on Mobile Vision (Graz 2006)*, Austria, 1-15.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ancona",
+     "given": "M."
+    },
+    {
+     "family": "Cappello",
+     "given": "M."
+    },
+    {
+     "family": "Casamassima",
+     "given": "M."
+    },
+    {
+     "family": "Cazzola",
+     "given": "W."
+    },
+    {
+     "family": "Conte",
+     "given": "D."
+    },
+    {
+     "family": "Pittore",
+     "given": "M."
+    },
+    {
+     "family": "Villa",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Mobile vision and cultural heritage: The Agamemnon project",
+   "is_part_of": [
+    "Proceedings of the 1st International Workshop on Mobile Vision (Graz 2006)"
+   ],
+   "pages": "1-15",
+   "place": "Austria",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Andrén A. 1998, *Between Artifacts and Text. Historical Archaeology in Global Perspective*, New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Andrén",
+     "given": "A."
+    }
+   ],
+   "date": "1998",
+   "title": "Between Artifacts and Text. Historical Archaeology in Global Perspective",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Antonio R.J., Kellner D. 1994, *The future of social theory and the limits of postmodern critique*, in D.R. Dickens, A. Fontana (eds.), *Postmodernism and Social Inquiry*, London, Routledge, 127-152.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Antonio",
+     "given": "R.J."
+    },
+    {
+     "family": "Kellner",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dickens",
+     "given": "D.R."
+    },
+    {
+     "family": "Fontana",
+     "given": "A."
+    }
+   ],
+   "date": "1994",
+   "title": "The future of social theory and the limits of postmodern critique",
+   "is_part_of": [
+    "Postmodernism and Social Inquiry"
+   ],
+   "pages": "127-152",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Appadurai A. 1996, *Modernity at Large*, I, Minneapolis, Minnesota University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Appadurai",
+     "given": "A."
+    }
+   ],
+   "date": "1996",
+   "title": "Modernity at Large",
+   "volume": "I",
+   "publisher": "Minnesota University Press",
+   "place": "Minneapolis",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Ashton P., Kean H. (eds.) 2009, *People and their Pasts: Public History Today*, Basingstoke, Palgrave Macmillan.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Ashton",
+     "given": "P."
+    },
+    {
+     "family": "Kean",
+     "given": "H."
+    }
+   ],
+   "date": "2009",
+   "title": "People and their Pasts: Public History Today",
+   "publisher": "Palgrave Macmillan",
+   "place": "Basingstoke",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Assmann J. 1997, *La memoria culturale. Scrittura, ricordo e identità politica nelle grandi civiltà antiche*, Torino, Einaudi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Assmann",
+     "given": "J."
+    }
+   ],
+   "date": "1997",
+   "title": "La memoria culturale. Scrittura, ricordo e identità politica nelle grandi civiltà antiche",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "Barceló J.A. 2001, *Virtual reality for archaeological explanation. Beyond \"pictoresque\" reconstruction*, «Archeologia e Calcolatori», 12, 221-244.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "2001",
+   "title": "Virtual reality for archaeological explanation. Beyond \"pictoresque\" reconstruction",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "221-244",
+   "language": "eng",
+   "cited_aec_id": 324,
+   "notes": "\"pictoresque\" as cited"
+  },
+  {
+   "position": 10,
+   "raw": "Bauman Z. 2003, *Modernità liquida*, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bauman",
+     "given": "Z."
+    }
+   ],
+   "date": "2003",
+   "title": "Modernità liquida",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "Beckett A. 2009, *The dark side of the Internet*, «Guardian.co.uk online» (http://www.guardian.co.uk/technology/2009/nov/26/dark-side-internet-freenet/).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Beckett",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "The dark side of the Internet",
+   "is_part_of": [
+    "Guardian.co.uk online"
+   ],
+   "language": "eng",
+   "uri": "http://www.guardian.co.uk/technology/2009/nov/26/dark-side-internet-freenet/"
+  },
+  {
+   "position": 12,
+   "raw": "Bettini M. 2000, *Il perdono storico. Dono, identità, memoria, oblio*, «Il Mulino», 3, 411-428.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bettini",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "Il perdono storico. Dono, identità, memoria, oblio",
+   "is_part_of": [
+    "Il Mulino"
+   ],
+   "issue": "3",
+   "pages": "411-428",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "Binford L. 1968, *New Perspectives in Archaeology*, Chicago, Aldine Publisher.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Binford",
+     "given": "L."
+    }
+   ],
+   "date": "1968",
+   "title": "New Perspectives in Archaeology",
+   "publisher": "Aldine Publisher",
+   "place": "Chicago",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Bintliff J. 1993, *Why Indiana Jones is smarter than the Post-Processualists*, «Norwegian Archaeological Review», 26, 2, 91-100.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bintliff",
+     "given": "J."
+    }
+   ],
+   "date": "1993",
+   "title": "Why Indiana Jones is smarter than the Post-Processualists",
+   "is_part_of": [
+    "Norwegian Archaeological Review"
+   ],
+   "volume": "26",
+   "issue": "2",
+   "pages": "91-100",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Bourdieu P., Passeron J.-C. 1969, *Les héritiers, les étudiants et la culture*, Paris, Le Minuit.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bourdieu",
+     "given": "P."
+    },
+    {
+     "family": "Passeron",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1969",
+   "title": "Les héritiers, les étudiants et la culture",
+   "publisher": "Le Minuit",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 16,
+   "raw": "Brogiolo G.P. 2007, *Dall'Archeologia dell'architettura all'Archeologia della complessità*, «Pyrenae», 38, 1, 7-38.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "date": "2007",
+   "title": "Dall'Archeologia dell'architettura all'Archeologia della complessità",
+   "is_part_of": [
+    "Pyrenae"
+   ],
+   "volume": "38",
+   "issue": "1",
+   "pages": "7-38",
+   "language": "ita"
+  },
+  {
+   "position": 17,
+   "raw": "Brown C.T., Witschey W.R.T., Liebovitch L.S. 2005, *The broken past: Fractals in archaeology*, «Journal of Archaeological Method and Theory», 12, 1, 37-78.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brown",
+     "given": "C.T."
+    },
+    {
+     "family": "Witschey",
+     "given": "W.R.T."
+    },
+    {
+     "family": "Liebovitch",
+     "given": "L.S."
+    }
+   ],
+   "date": "2005",
+   "title": "The broken past: Fractals in archaeology",
+   "is_part_of": [
+    "Journal of Archaeological Method and Theory"
+   ],
+   "volume": "12",
+   "issue": "1",
+   "pages": "37-78",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Carandini A. 1975, *Archeologia e cultura materiale*, Bari, De Donato.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    }
+   ],
+   "date": "1975",
+   "title": "Archeologia e cultura materiale",
+   "publisher": "De Donato",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Carandini A. 1980, *Quando l'indizio va contro il metodo*, «Quaderni di Storia», 11, 3-12.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    }
+   ],
+   "date": "1980",
+   "title": "Quando l'indizio va contro il metodo",
+   "is_part_of": [
+    "Quaderni di Storia"
+   ],
+   "volume": "11",
+   "pages": "3-12",
+   "language": "ita"
+  },
+  {
+   "position": 20,
+   "raw": "Carbone M.T. 2012, *Quello che Wikipedia considera la verità*, «il Manifesto» (18-12-2012).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carbone",
+     "given": "M.T."
+    }
+   ],
+   "date": "2012",
+   "title": "Quello che Wikipedia considera la verità",
+   "is_part_of": [
+    "il Manifesto"
+   ],
+   "language": "ita",
+   "notes": "newspaper article of 18-12-2012"
+  },
+  {
+   "position": 21,
+   "raw": "Carver M. 2002, *Marriages of true minds: Archaeology with texts*, in B. Cunliffe, W. Davies, C. Renfrew (eds.), *Archaeology: The Widening Debate*, Oxford, Oxford University Press, 465-496.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Carver",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cunliffe",
+     "given": "B."
+    },
+    {
+     "family": "Davies",
+     "given": "W."
+    },
+    {
+     "family": "Renfrew",
+     "given": "C."
+    }
+   ],
+   "date": "2002",
+   "title": "Marriages of true minds: Archaeology with texts",
+   "is_part_of": [
+    "Archaeology: The Widening Debate"
+   ],
+   "pages": "465-496",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "Cerutti S. 1997, *Le linguistic turn en Angleterre*, «Enquête», 5, 125-140.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cerutti",
+     "given": "S."
+    }
+   ],
+   "date": "1997",
+   "title": "Le linguistic turn en Angleterre",
+   "is_part_of": [
+    "Enquête"
+   ],
+   "volume": "5",
+   "pages": "125-140",
+   "language": "fre"
+  },
+  {
+   "position": 23,
+   "raw": "Cignoni P., Palombini A., Pescarin S. (eds.) 2009, *ArcheoFOSS. Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del IV Workshop (Roma 2009)*, «Archeologia e Calcolatori», Suppl. 2.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Cignoni",
+     "given": "P."
+    },
+    {
+     "family": "Palombini",
+     "given": "A."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "ArcheoFOSS. Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del IV Workshop (Roma 2009)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 2",
+   "language": "ita"
+  },
+  {
+   "position": 24,
+   "raw": "Civantos J.M. 2006, *Il territorio stratificato: proposte dall'archeologia del paesaggio*, in R. Francovich, M. Valenti (eds.), *IV Congresso Nazionale di Archeologia Medievale*, Firenze, All'Insegna del Giglio, 6-18.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Civantos",
+     "given": "J.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Il territorio stratificato: proposte dall'archeologia del paesaggio",
+   "is_part_of": [
+    "IV Congresso Nazionale di Archeologia Medievale (Chiusdino-Siena 2006)"
+   ],
+   "pages": "6-18",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 25,
+   "raw": "Clarke D.L. 1973, *Archaeology: The loss of innocence*, «Antiquity», 47, 6-18.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1973",
+   "title": "Archaeology: The loss of innocence",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "47",
+   "pages": "6-18",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "Cochrane A., Russell I. 2007, *Visualizing archaeologies: A manifesto*, «Cambridge Archaeological Journal», 17, 1, 3-19.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cochrane",
+     "given": "A."
+    },
+    {
+     "family": "Russell",
+     "given": "I."
+    }
+   ],
+   "date": "2007",
+   "title": "Visualizing archaeologies: A manifesto",
+   "is_part_of": [
+    "Cambridge Archaeological Journal"
+   ],
+   "volume": "17",
+   "issue": "1",
+   "pages": "3-19",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "Cowgill G.L. 2001, *Past, present and future of quantitative methods in United States archaeology*, in Z. Stančič, T. Veljanovsky (eds.), *Computing Archaeology for Understanding the Past. CAA 2000. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000)*, Oxford, BAR Int. Series 931, Archaeopress, 35-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cowgill",
+     "given": "G.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovsky",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "Past, present and future of quantitative methods in United States archaeology",
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. CAA 2000. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000)"
+   ],
+   "pages": "35-40",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 28,
+   "raw": "Criscione A., Noiret S., Spagnolo C., Vitali S. 2004, *La storia a(l) tempo di Internet: indagine sui siti italiani di storia contemporanea (2001-2003)*, Bologna, Pátron editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Criscione",
+     "given": "A."
+    },
+    {
+     "family": "Noiret",
+     "given": "S."
+    },
+    {
+     "family": "Spagnolo",
+     "given": "C."
+    },
+    {
+     "family": "Vitali",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "La storia a(l) tempo di Internet: indagine sui siti italiani di storia contemporanea (2001-2003)",
+   "publisher": "Pàtron",
+   "place": "Bologna",
+   "language": "ita",
+   "notes": "\"Pátron\" as cited"
+  },
+  {
+   "position": 29,
+   "raw": "Cuozzo M. 1996, *Prospettive teoriche e metodologiche nell'interpretazione delle necropoli: la Post-Processual Archaeology*, «Annali Istituto Orientale di Napoli», 3, 1-38.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cuozzo",
+     "given": "M."
+    }
+   ],
+   "date": "1996",
+   "title": "Prospettive teoriche e metodologiche nell'interpretazione delle necropoli: la Post-Processual Archaeology",
+   "is_part_of": [
+    "Annali Istituto Orientale di Napoli"
+   ],
+   "volume": "3",
+   "pages": "1-38",
+   "language": "ita"
+  },
+  {
+   "position": 30,
+   "raw": "D'Andrea A. 2012-2013, *Dall'archeologia dei modelli all'archeologia dei dati*, «Annali Istituto Orientale di Napoli», 19-20, 303-320.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Dall'archeologia dei modelli all'archeologia dei dati",
+   "is_part_of": [
+    "Annali Istituto Orientale di Napoli"
+   ],
+   "volume": "19-20",
+   "pages": "303-320",
+   "language": "ita",
+   "notes": "cited 2012-2013"
+  },
+  {
+   "position": 31,
+   "raw": "De Certau M. 1975, *L'écriture de l'histoire*, Paris, Gallimard.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "De Certau",
+     "given": "M."
+    }
+   ],
+   "date": "1975",
+   "title": "L'écriture de l'histoire",
+   "publisher": "Gallimard",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 32,
+   "raw": "Deleuze G. 2003, *Qu'est-ce qu'un dispositif*, in D. Lapouja (ed.), *Deux régimes de fous et autres textes (1975-1995)*, Paris, Minuit, 316-325.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Deleuze",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lapoujade",
+     "given": "D."
+    }
+   ],
+   "date": "2003",
+   "title": "Qu'est-ce qu'un dispositif",
+   "is_part_of": [
+    "Deux régimes de fous et autres textes (1975-1995)"
+   ],
+   "pages": "316-325",
+   "publisher": "Minuit",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "editor cited \"Lapouja D.\""
+  },
+  {
+   "position": 33,
+   "raw": "Detienne M. 2008, *Où est le mystère de l'identité nationale?*, Paris, Panama.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Detienne",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "Où est le mystère de l'identité nationale?",
+   "publisher": "Panama",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 34,
+   "raw": "Di Giuseppe H., Fentress E. 2012, *Open Archaeology: i Fasti la pubblicazione online*, in L. Bezzi, D. Francisci, P. Grossi, D. Lotto (eds.), *Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del III Workshop (Padova 2008)*, Roma, Edizioni Quasar, 85-94.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Giuseppe",
+     "given": "H."
+    },
+    {
+     "family": "Fentress",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bezzi",
+     "given": "L."
+    },
+    {
+     "family": "Francisci",
+     "given": "D."
+    },
+    {
+     "family": "Grossi",
+     "given": "P."
+    },
+    {
+     "family": "Lotto",
+     "given": "D."
+    }
+   ],
+   "date": "2012",
+   "title": "Open Archaeology: i Fasti la pubblicazione online",
+   "is_part_of": [
+    "Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del III Workshop (Padova 2008)"
+   ],
+   "pages": "85-94",
+   "publisher": "Edizioni Quasar",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 35,
+   "raw": "Dorfles G. 1997, *Fatti e fattoidi: gli pseudoeventi nell'arte e nella società*, Vicenza, Castelvecchi Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Dorfles",
+     "given": "G."
+    }
+   ],
+   "date": "1997",
+   "title": "Fatti e fattoidi: gli pseudoeventi nell'arte e nella società",
+   "publisher": "Castelvecchi Editore",
+   "place": "Vicenza",
+   "language": "ita"
+  },
+  {
+   "position": 36,
+   "raw": "Eco U. 1992, *Between author and text*, in S. Collini (ed.), *Interpretation and Overinterpretation*, Cambridge, Cambridge University Press, 67-88.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Eco",
+     "given": "U."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Collini",
+     "given": "S."
+    }
+   ],
+   "date": "1992",
+   "title": "Between author and text",
+   "is_part_of": [
+    "Interpretation and Overinterpretation"
+   ],
+   "pages": "67-88",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 37,
+   "raw": "Forte M. (ed.) 2010, *Cyber-Archaeology*, BAR International Series 2177, Oxford, Archaeopress.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2010",
+   "title": "Cyber-Archaeology",
+   "series": "BAR International Series",
+   "series_number": "2177",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 38,
+   "raw": "Foucault M. 1966, *Les mots et les choses*, Paris, Gallimard.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Foucault",
+     "given": "M."
+    }
+   ],
+   "date": "1966",
+   "title": "Les mots et les choses",
+   "publisher": "Gallimard",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 39,
+   "raw": "Foucault M. 1984, *Des espaces autres. Conférence au cercle d'études architecturales (14 mars 1967)*, «Architecture, Mouvement, Continuité», 5, 46-49.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Foucault",
+     "given": "M."
+    }
+   ],
+   "date": "1984",
+   "title": "Des espaces autres. Conférence au cercle d'études architecturales (14 mars 1967)",
+   "is_part_of": [
+    "Architecture, Mouvement, Continuité"
+   ],
+   "volume": "5",
+   "pages": "46-49",
+   "language": "fre"
+  },
+  {
+   "position": 40,
+   "raw": "Fronza V., Nardini A., Valenti M. 2009, *Informatica e Archeologia Medievale. L'esperienza senese*, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    },
+    {
+     "family": "Nardini",
+     "given": "A."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Informatica e Archeologia Medievale. L'esperienza senese",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 41,
+   "raw": "Gardin J.-C. 1963, *Les calculateurs électroniques appliqués à la science historique. Présentation*, «Annales. Économies, Sociétés, Civilisations», 18, 2, 259-263.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1963",
+   "title": "Les calculateurs électroniques appliqués à la science historique. Présentation",
+   "is_part_of": [
+    "Annales. Économies, Sociétés, Civilisations"
+   ],
+   "volume": "18",
+   "issue": "2",
+   "pages": "259-263",
+   "language": "fre"
+  },
+  {
+   "position": 42,
+   "raw": "Gardin J.-C. 1971, *Archaeology and computers: New perspectives*, in *Use of Computers, Documentation and the Social Science Journal*, «International Social Science Journal», 23, 2, 189-203.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1971",
+   "title": "Archaeology and computers: New perspectives",
+   "is_part_of": [
+    "Use of Computers, Documentation and the Social Science Journal",
+    "International Social Science Journal"
+   ],
+   "volume": "23",
+   "issue": "2",
+   "pages": "189-203",
+   "language": "eng"
+  },
+  {
+   "position": 43,
+   "raw": "Gargani A. (ed.) 1979, *Crisi della ragione*, Torino, Einaudi.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Gargani",
+     "given": "A."
+    }
+   ],
+   "date": "1979",
+   "title": "Crisi della ragione",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita"
+  },
+  {
+   "position": 44,
+   "raw": "Giardina A. 1999, *Mazzarino e Rostovtzeff*, in A. Marcone (ed.), *Rostovtzeff e l'Italia*, Napoli, Edizioni Scientifiche Italiane, 117-129.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giardina",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Marcone",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "Mazzarino e Rostovtzeff",
+   "is_part_of": [
+    "Rostovtzeff e l'Italia"
+   ],
+   "pages": "117-129",
+   "publisher": "Edizioni Scientifiche Italiane",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 45,
+   "raw": "Giardina A. 2001, *Conclusions*, «Antiquité Tardive», 9, 289-295.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Giardina",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Conclusions",
+   "is_part_of": [
+    "Antiquité Tardive"
+   ],
+   "volume": "9",
+   "pages": "289-295",
+   "language": "fre"
+  },
+  {
+   "position": 46,
+   "raw": "Ginzburg C. 1979, *Spie. Radici di un paradigma indiziario*, in Gargani 1979, 59-93.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ginzburg",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gargani",
+     "given": "A."
+    }
+   ],
+   "date": "1979",
+   "title": "Spie. Radici di un paradigma indiziario",
+   "is_part_of": [
+    "Crisi della ragione"
+   ],
+   "pages": "59-93",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita",
+   "xref": 43
+  },
+  {
+   "position": 47,
+   "raw": "González-Ruibal A. 2007, *Making things public: Archaeologies of the Spanish Civil War*, «Public Archaeology», 6, 203-226.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "González-Ruibal",
+     "given": "A."
+    }
+   ],
+   "date": "2007",
+   "title": "Making things public: Archaeologies of the Spanish Civil War",
+   "is_part_of": [
+    "Public Archaeology"
+   ],
+   "volume": "6",
+   "pages": "203-226",
+   "language": "eng"
+  },
+  {
+   "position": 48,
+   "raw": "Habermas J. 1987, *L'uso pubblico della storia*, in G.E. Rusconi (ed.), *Germania: un passato che non passa*, Torino, Rusconi Editore.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Habermas",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rusconi",
+     "given": "G.E."
+    }
+   ],
+   "date": "1987",
+   "title": "L'uso pubblico della storia",
+   "is_part_of": [
+    "Germania: un passato che non passa"
+   ],
+   "publisher": "Rusconi Editore",
+   "place": "Torino",
+   "language": "ita"
+  },
+  {
+   "position": 49,
+   "raw": "Hamilakis Y. 1999, *La trahison des archéologues. Archaeological Practice as Intellectual Activity in Postmodernity*, «Journal of Mediterranean Archaeology», 12, 1, 60-79.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hamilakis",
+     "given": "Y."
+    }
+   ],
+   "date": "1999",
+   "title": "La trahison des archéologues. Archaeological Practice as Intellectual Activity in Postmodernity",
+   "is_part_of": [
+    "Journal of Mediterranean Archaeology"
+   ],
+   "volume": "12",
+   "issue": "1",
+   "pages": "60-79",
+   "language": "eng"
+  },
+  {
+   "position": 50,
+   "raw": "Harrison R. 2005, *Contact archaeology and native title in Australia*, «Australian Aboriginal Studies», 1, 16-29.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Harrison",
+     "given": "R."
+    }
+   ],
+   "date": "2005",
+   "title": "Contact archaeology and native title in Australia",
+   "is_part_of": [
+    "Australian Aboriginal Studies"
+   ],
+   "issue": "1",
+   "pages": "16-29",
+   "language": "eng"
+  },
+  {
+   "position": 51,
+   "raw": "Harrison R. 2010, *After Modernity: Archaeological Approaches to the Contemporary Past*, Oxford, Oxford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Harrison",
+     "given": "R."
+    }
+   ],
+   "date": "2010",
+   "title": "After Modernity: Archaeological Approaches to the Contemporary Past",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 52,
+   "raw": "Harrison R., Schofield J. 2009, *Archaeo-ethnography, auto-archaeology. Introducing archaeologies of the contemporary*, «Archaeologies», 5, 2, 185-209.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Harrison",
+     "given": "R."
+    },
+    {
+     "family": "Schofield",
+     "given": "J."
+    }
+   ],
+   "date": "2009",
+   "title": "Archaeo-ethnography, auto-archaeology. Introducing archaeologies of the contemporary",
+   "is_part_of": [
+    "Archaeologies"
+   ],
+   "volume": "5",
+   "issue": "2",
+   "pages": "185-209",
+   "language": "eng"
+  },
+  {
+   "position": 53,
+   "raw": "Hartog F. 1988, *Histoire et sciences sociales. Un tournant critique?*, «Annales», 43, 2, 291-293.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hartog",
+     "given": "F."
+    }
+   ],
+   "date": "1988",
+   "title": "Histoire et sciences sociales. Un tournant critique?",
+   "is_part_of": [
+    "Annales"
+   ],
+   "volume": "43",
+   "issue": "2",
+   "pages": "291-293",
+   "language": "fre"
+  },
+  {
+   "position": 54,
+   "raw": "Hobsbawn E., Ranger T. 1983, *The Invention of Tradition*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hobsbawm",
+     "given": "E."
+    },
+    {
+     "family": "Ranger",
+     "given": "T."
+    }
+   ],
+   "date": "1983",
+   "title": "The Invention of Tradition",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "notes": "\"Hobsbawn\" as cited"
+  },
+  {
+   "position": 55,
+   "raw": "Hodder I. 1986, *Reading the Past: Current Approaches to Interpretation in Archaeology*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1986",
+   "title": "Reading the Past: Current Approaches to Interpretation in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 56,
+   "raw": "Hugget J. 2004, *Archaeology and the new technological fetishism*, «Archeologia e Calcolatori», 15, 81-92.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    }
+   ],
+   "date": "2004",
+   "title": "Archaeology and the new technological fetishism",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "15",
+   "pages": "81-92",
+   "language": "eng",
+   "cited_aec_id": 373,
+   "notes": "\"Hugget\" as cited"
+  },
+  {
+   "position": 57,
+   "raw": "Huvila I. 2006, *The Ecology of Information Work. A Case Study of Bridging Archaeological Work and Virtual Reality Based Knowledge Organisation*, Abo, Abo Akademi University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Huvila",
+     "given": "I."
+    }
+   ],
+   "date": "2006",
+   "title": "The Ecology of Information Work. A Case Study of Bridging Archaeological Work and Virtual Reality Based Knowledge Organisation",
+   "publisher": "Åbo Akademi University Press",
+   "place": "Åbo",
+   "language": "eng"
+  },
+  {
+   "position": 58,
+   "raw": "Joyce P. 1998, *The return of history: Postmodernism and the politics of academic history in Britain*, «Past&Present», 158, 207-235.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Joyce",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "The return of history: Postmodernism and the politics of academic history in Britain",
+   "is_part_of": [
+    "Past&Present"
+   ],
+   "volume": "158",
+   "pages": "207-235",
+   "language": "eng"
+  },
+  {
+   "position": 59,
+   "raw": "Kirschenbaum M.G. 2002, *Editing the interface: Textual studies and first generation electronic objects*, «Text: An Interdisciplinary Annual of Textual Studies», 14, 15-51.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kirschenbaum",
+     "given": "M.G."
+    }
+   ],
+   "date": "2002",
+   "title": "Editing the interface: Textual studies and first generation electronic objects",
+   "is_part_of": [
+    "Text: An Interdisciplinary Annual of Textual Studies"
+   ],
+   "volume": "14",
+   "pages": "15-51",
+   "language": "eng"
+  },
+  {
+   "position": 60,
+   "raw": "Knapp B. 2009, *Monumental architecture, identity and memory*, in *Proceedings of the Symposium Bronze Age Architectural Traditions in the East Mediterranean: Diffusion and Diversity (Gasteig, Munich, 2008)*, Weilheim, Verein für Förderung der Aufarbeitung der Hellenischen Geschichte e.V., 47-59.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Knapp",
+     "given": "B."
+    }
+   ],
+   "date": "2009",
+   "title": "Monumental architecture, identity and memory",
+   "is_part_of": [
+    "Proceedings of the Symposium Bronze Age Architectural Traditions in the East Mediterranean: Diffusion and Diversity (Gasteig, Munich, 2008)"
+   ],
+   "pages": "47-59",
+   "publisher": "Verein für Förderung der Aufarbeitung der Hellenischen Geschichte e.V.",
+   "place": "Weilheim",
+   "language": "eng"
+  },
+  {
+   "position": 61,
+   "raw": "Lansberg A. 2004, *Prosthetic Memory: The Transformation of American Remembrance in the Age of Mass Culture*, New York, Columbia University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Landsberg",
+     "given": "A."
+    }
+   ],
+   "date": "2004",
+   "title": "Prosthetic Memory: The Transformation of American Remembrance in the Age of Mass Culture",
+   "publisher": "Columbia University Press",
+   "place": "New York",
+   "language": "eng",
+   "notes": "\"Lansberg\" as cited"
+  },
+  {
+   "position": 62,
+   "raw": "Latour B. 1996, *Petite réflexion sur le culte moderne des dieux faitiches*, Paris, Les Empêcheurs.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Latour",
+     "given": "B."
+    }
+   ],
+   "date": "1996",
+   "title": "Petite réflexion sur le culte moderne des dieux faitiches",
+   "publisher": "Les Empêcheurs",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 63,
+   "raw": "Le Goff J. 1978, *La Nouvelle Histoire*, Paris, Editions Complexe.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Le Goff",
+     "given": "J."
+    }
+   ],
+   "date": "1978",
+   "title": "La Nouvelle Histoire",
+   "publisher": "Editions Complexe",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 64,
+   "raw": "Le Goff J., Nora P. 1974, *Faire de l'Histoire*, Paris, Gallimard.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Le Goff",
+     "given": "J."
+    },
+    {
+     "family": "Nora",
+     "given": "P."
+    }
+   ],
+   "date": "1974",
+   "title": "Faire de l'Histoire",
+   "publisher": "Gallimard",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 65,
+   "raw": "Lévi Strauss C. 1962, *La pensée sauvage*, Paris, PUF.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lévi-Strauss",
+     "given": "C."
+    }
+   ],
+   "date": "1962",
+   "title": "La pensée sauvage",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 66,
+   "raw": "Lull V. 1999, *The new technologies and designer archaeology*, in J.A. Barceló, I. Briz, A. Vila (eds.), *New Techniques for Old Times: Computer Applications and Quantitative Methods in Archaeology*, Oxford, BAR International Series 7573, 379-383.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lull",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "The new technologies and designer archaeology",
+   "is_part_of": [
+    "New Techniques for Old Times: Computer Applications and Quantitative Methods in Archaeology"
+   ],
+   "pages": "379-383",
+   "series": "BAR International Series",
+   "series_number": "757",
+   "language": "eng",
+   "notes": "series number cited as \"7573\""
+  },
+  {
+   "position": 67,
+   "raw": "Luperini R. 2006-2007, *Tradimento dei chierici e lavoratori della conoscenza*, «Italian Culture», 24-25, 169-181.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Luperini",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Tradimento dei chierici e lavoratori della conoscenza",
+   "is_part_of": [
+    "Italian Culture"
+   ],
+   "volume": "24-25",
+   "pages": "169-181",
+   "language": "ita",
+   "notes": "cited 2006-2007"
+  },
+  {
+   "position": 68,
+   "raw": "Manacorda D. 2009, *La formazione in archeologia, tra ricerca, tutela e valorizzazione*, in A.L. D'agata, S. Alaura (eds.), *Quale futuro per l'archeologia? Workshop internazionale (Roma 2008)*, Roma, Gangemi, 43-52.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Agata",
+     "given": "A.L."
+    },
+    {
+     "family": "Alaura",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "La formazione in archeologia, tra ricerca, tutela e valorizzazione",
+   "is_part_of": [
+    "Quale futuro per l'archeologia? Workshop internazionale (Roma 2008)"
+   ],
+   "pages": "43-52",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 69,
+   "raw": "Manacorda D., Tamassia R. 1985, *Il piccone del regime*, Roma, Curcio Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    },
+    {
+     "family": "Tamassia",
+     "given": "R."
+    }
+   ],
+   "date": "1985",
+   "title": "Il piccone del regime",
+   "publisher": "Curcio Editore",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 70,
+   "raw": "Mapelli M. 2012, *Per una genealogia del virtuale. Dallo specchio a Facebook*, Milano, Mimesis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mapelli",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Per una genealogia del virtuale. Dallo specchio a Facebook",
+   "publisher": "Mimesis",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 71,
+   "raw": "Mazza M. 2005, *Di Romani e Germani nella storiografia francese. Boulainvilliers, Dubos, Guizot, A. Thierry e Fustel de Coulanges per la costruzione dell'identità nazionale*, «Mediterraneo Antico», 7, 2, 401-442.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mazza",
+     "given": "M."
+    }
+   ],
+   "date": "2005",
+   "title": "Di Romani e Germani nella storiografia francese. Boulainvilliers, Dubos, Guizot, A. Thierry e Fustel de Coulanges per la costruzione dell'identità nazionale",
+   "is_part_of": [
+    "Mediterraneo Antico"
+   ],
+   "volume": "7",
+   "issue": "2",
+   "pages": "401-442",
+   "language": "ita"
+  },
+  {
+   "position": 72,
+   "raw": "Mazzarino S. 1974, *Il basso impero. Antico e tardo antico in era costantiniana*, I, Bari, Edizioni Dedalo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mazzarino",
+     "given": "S."
+    }
+   ],
+   "date": "1974",
+   "title": "Il basso impero. Antico e tardo antico in era costantiniana",
+   "volume": "I",
+   "publisher": "Edizioni Dedalo",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 73,
+   "raw": "Messer-Kruse T. 2000, *The Haymarket Conspiracy. Transatlantic Anarchist Networks*, Chicago, University of Illinois Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Messer-Kruse",
+     "given": "T."
+    }
+   ],
+   "date": "2000",
+   "title": "The Haymarket Conspiracy. Transatlantic Anarchist Networks",
+   "publisher": "University of Illinois Press",
+   "place": "Chicago",
+   "language": "eng"
+  },
+  {
+   "position": 74,
+   "raw": "Messer-Kruse T. 2011, *The Trial of the Haymarket Anarchists: Terrorism and Justice in the Gilded Age*, New York, Palgrave Macmillan.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Messer-Kruse",
+     "given": "T."
+    }
+   ],
+   "date": "2011",
+   "title": "The Trial of the Haymarket Anarchists: Terrorism and Justice in the Gilded Age",
+   "publisher": "Palgrave Macmillan",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 75,
+   "raw": "Momigliano A. 1974, *Le regole del giuoco nello studio della storia antica*, «Annali della Scuola Normale Superiore Pisa», 4, 4, 1183-1192.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Momigliano",
+     "given": "A."
+    }
+   ],
+   "date": "1974",
+   "title": "Le regole del giuoco nello studio della storia antica",
+   "is_part_of": [
+    "Annali della Scuola Normale Superiore Pisa"
+   ],
+   "volume": "4",
+   "issue": "4",
+   "pages": "1183-1192",
+   "language": "ita"
+  },
+  {
+   "position": 76,
+   "raw": "Momigliano A. 1984, *Storicismo rivisitato*, in A. Momigliano, *Sui fondamenti della storia antica*, Torino, Einaudi, 455-464.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Momigliano",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Momigliano",
+     "given": "A."
+    }
+   ],
+   "date": "1984",
+   "title": "Storicismo rivisitato",
+   "is_part_of": [
+    "Sui fondamenti della storia antica"
+   ],
+   "pages": "455-464",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita"
+  },
+  {
+   "position": 77,
+   "raw": "Moscati P. 2013, *Archaeology and computers: Perspectives of the 21st century*, in M. Brunori, L. Godart, E. La Rocca, P. Sommella (eds.), *Mediterranean Archaeology: A GIDEMAN Training Course (Rome 2012)*, Atti dei Convegni Lincei 275, Roma, 91-108.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brunori",
+     "given": "M."
+    },
+    {
+     "family": "Godart",
+     "given": "L."
+    },
+    {
+     "family": "La Rocca",
+     "given": "E."
+    },
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "date": "2013",
+   "title": "Archaeology and computers: Perspectives of the 21st century",
+   "is_part_of": [
+    "Mediterranean Archaeology: A GIDEMAN Training Course (Rome 2012)"
+   ],
+   "pages": "91-108",
+   "series": "Atti dei Convegni Lincei",
+   "series_number": "275",
+   "place": "Roma",
+   "language": "eng"
+  },
+  {
+   "position": 78,
+   "raw": "Moscati P. 2016, *Jean-Claude Gardin and the evolution of archaeological computing*, «Les nouvelles de l'archéologie» (http://nda.revues.org/3457; https://doi.org/10.4000/nda.3457).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2016",
+   "title": "Jean-Claude Gardin and the evolution of archaeological computing",
+   "is_part_of": [
+    "Les nouvelles de l'archéologie"
+   ],
+   "language": "eng",
+   "doi": "10.4000/nda.3457",
+   "uri": "http://nda.revues.org/3457",
+   "notes": "same article as art. 908 pos 27 (Dossier Jean-Claude Gardin, NDA 144, 10-13)"
+  },
+  {
+   "position": 79,
+   "raw": "Nicolet C. 2003, *La fabrique d'une nation. La France entre Rome et les Germains*, Paris, Perrin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nicolet",
+     "given": "C."
+    }
+   ],
+   "date": "2003",
+   "title": "La fabrique d'une nation. La France entre Rome et les Germains",
+   "publisher": "Perrin",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 80,
+   "raw": "Noiret S. 2009, *\"Public History\" e \"storia pubblica\" nella rete*, in F. Mineccia, L. Tomassini (eds.), *Media e storia. Ricerche storiche*, Firenze, Polistampa, 275-327.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Noiret",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Mineccia",
+     "given": "F."
+    },
+    {
+     "family": "Tomassini",
+     "given": "L."
+    }
+   ],
+   "date": "2009",
+   "title": "\"Public History\" e \"storia pubblica\" nella rete",
+   "is_part_of": [
+    "Media e storia. Ricerche storiche"
+   ],
+   "pages": "275-327",
+   "publisher": "Polistampa",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 81,
+   "raw": "Nolte E. 1984, *Der Faschismus in seiner Epoche: Action française, Italienischer Faschismus, Nationalsozialismus*, Munich, Piper Auflage.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nolte",
+     "given": "E."
+    }
+   ],
+   "date": "1984",
+   "title": "Der Faschismus in seiner Epoche: Action française, Italienischer Faschismus, Nationalsozialismus",
+   "publisher": "Piper",
+   "place": "Munich",
+   "language": "ger"
+  },
+  {
+   "position": 82,
+   "raw": "Nora P. 1984-1992 (ed.), *Les lieux de mémoire*, Paris, Gallimard.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Nora",
+     "given": "P."
+    }
+   ],
+   "date": "1984",
+   "title": "Les lieux de mémoire",
+   "publisher": "Gallimard",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "cited 1984-1992"
+  },
+  {
+   "position": 83,
+   "raw": "Nye J.S. 2004, *Soft Power: The Means to Success in World Politics*, New York, Public Affairs.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nye",
+     "given": "J.S."
+    }
+   ],
+   "date": "2004",
+   "title": "Soft Power: The Means to Success in World Politics",
+   "publisher": "Public Affairs",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 84,
+   "raw": "Olivier L. 1998, *L'archéologie française et le régime De Vichy (1940-1944)*, «Journal of European Archaeology», 1, 2, 241-264.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Olivier",
+     "given": "L."
+    }
+   ],
+   "date": "1998",
+   "title": "L'archéologie française et le régime De Vichy (1940-1944)",
+   "is_part_of": [
+    "Journal of European Archaeology"
+   ],
+   "volume": "1",
+   "issue": "2",
+   "pages": "241-264",
+   "language": "fre"
+  },
+  {
+   "position": 85,
+   "raw": "Passeron J.-C. 2006, *Le raisonnement sociologique. Un espace non poppérien de l'argumentation*, Paris, Albin Michel.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Passeron",
+     "given": "J.-C."
+    }
+   ],
+   "date": "2006",
+   "title": "Le raisonnement sociologique. Un espace non poppérien de l'argumentation",
+   "publisher": "Albin Michel",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 86,
+   "raw": "Pizzorno A. 2008, *La sfera pubblica e il concetto di mandante immaginario*, «Sociologica», 3, 1-23.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pizzorno",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "La sfera pubblica e il concetto di mandante immaginario",
+   "is_part_of": [
+    "Sociologica"
+   ],
+   "issue": "3",
+   "pages": "1-23",
+   "language": "ita"
+  },
+  {
+   "position": 87,
+   "raw": "Pucci G. 1993, *Il passato prossimo. La scienza dell'antichità alle origini della cultura moderna*, Roma, La Nova Italia Scientifica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pucci",
+     "given": "G."
+    }
+   ],
+   "date": "1993",
+   "title": "Il passato prossimo. La scienza dell'antichità alle origini della cultura moderna",
+   "publisher": "La Nova Italia Scientifica",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 88,
+   "raw": "Pucci G. 2006, *Il buon uso delle rovine*, in G. Tortora (ed.), *Semantica delle rovine*, Roma, Manifesto Libri, 291-306.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pucci",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Tortora",
+     "given": "G."
+    }
+   ],
+   "date": "2006",
+   "title": "Il buon uso delle rovine",
+   "is_part_of": [
+    "Semantica delle rovine"
+   ],
+   "pages": "291-306",
+   "publisher": "Manifesto Libri",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 89,
+   "raw": "Rathje W.L., Lamotta V.M., Longacre W.A. 2002, *Into the black hole: Archaeology 2001 and beyond*, in B. Cunliffe, W. Davies, C. Renfrew (eds.), *Archaeology: The Widening Debate*, Oxford, Oxford University Press, 497-540.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rathje",
+     "given": "W.L."
+    },
+    {
+     "family": "Lamotta",
+     "given": "V.M."
+    },
+    {
+     "family": "Longacre",
+     "given": "W.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cunliffe",
+     "given": "B."
+    },
+    {
+     "family": "Davies",
+     "given": "W."
+    },
+    {
+     "family": "Renfrew",
+     "given": "C."
+    }
+   ],
+   "date": "2002",
+   "title": "Into the black hole: Archaeology 2001 and beyond",
+   "is_part_of": [
+    "Archaeology: The Widening Debate"
+   ],
+   "pages": "497-540",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 90,
+   "raw": "Reddé M. 2004, *Alésia: l'archéologie face à l'imaginaire*, Paris, Editions Errance.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Reddé",
+     "given": "M."
+    }
+   ],
+   "date": "2004",
+   "title": "Alésia: l'archéologie face à l'imaginaire",
+   "publisher": "Editions Errance",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 91,
+   "raw": "Reddé M., Von Schnurbein S. 2008, *Alésia et la bataille de Teutobourg. Un parallèle critique des sources*, Ostfildern, Thorbecke.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Reddé",
+     "given": "M."
+    },
+    {
+     "family": "Von Schnurbein",
+     "given": "S."
+    }
+   ],
+   "date": "2008",
+   "title": "Alésia et la bataille de Teutobourg. Un parallèle critique des sources",
+   "publisher": "Thorbecke",
+   "place": "Ostfildern",
+   "language": "fre"
+  },
+  {
+   "position": 92,
+   "raw": "Renfrew C., Bahn P. 2006, *Archaeology. Theory, Methods and Practice*, London, Thames&Hudson.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Bahn",
+     "given": "P."
+    }
+   ],
+   "date": "2006",
+   "title": "Archaeology. Theory, Methods and Practice",
+   "publisher": "Thames&Hudson",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 93,
+   "raw": "Revel J., Hartog F. 2001, *Les usages politiques du passé*, Paris, Éditions de l'EHESS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Revel",
+     "given": "J."
+    },
+    {
+     "family": "Hartog",
+     "given": "F."
+    }
+   ],
+   "date": "2001",
+   "title": "Les usages politiques du passé",
+   "publisher": "Éditions de l'EHESS",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 94,
+   "raw": "Richardson L.-J., Almansa-Sánchez J. 2015, *Do you even know what public archaeology is? Trends, theory, practice, ethics*, «World Archaeology», 47, 2, 194-211.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Richardson",
+     "given": "L.-J."
+    },
+    {
+     "family": "Almansa-Sánchez",
+     "given": "J."
+    }
+   ],
+   "date": "2015",
+   "title": "Do you even know what public archaeology is? Trends, theory, practice, ethics",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "47",
+   "issue": "2",
+   "pages": "194-211",
+   "language": "eng"
+  },
+  {
+   "position": 95,
+   "raw": "Rostovtzeff M. 1971, *The Social and Economic History of the Roman Empire*, I, Oxford, Oxford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rostovtzeff",
+     "given": "M."
+    }
+   ],
+   "date": "1971",
+   "title": "The Social and Economic History of the Roman Empire",
+   "volume": "I",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 96,
+   "raw": "Schnapp A. 2002, *Between antiquarians and archaeologists, continuities and ruptures*, «Antiquity», 76, 134-140.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schnapp",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Between antiquarians and archaeologists, continuities and ruptures",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "76",
+   "pages": "134-140",
+   "language": "eng"
+  },
+  {
+   "position": 97,
+   "raw": "Shanks M. 1996, *Classical Archaeology of Greece: Experiences of the Discipline*, London-New York, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Shanks",
+     "given": "M."
+    }
+   ],
+   "date": "1996",
+   "title": "Classical Archaeology of Greece: Experiences of the Discipline",
+   "publisher": "Routledge",
+   "place": "London-New York",
+   "language": "eng"
+  },
+  {
+   "position": 98,
+   "raw": "Shanks M. 2007a, *Symmetrical archaeology*, «World Archaeology», 39, 4, 589-596.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Shanks",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Symmetrical archaeology",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "39",
+   "issue": "4",
+   "pages": "589-596",
+   "language": "eng"
+  },
+  {
+   "position": 99,
+   "raw": "Shanks M. 2007b, *Digital media, archaeological design and the politics of archaeological authorship*, in T. Clack, M. Brittain (eds.), *Archaeology and the Media*, Walnut Creek, Left Coast Press, 273-289.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Shanks",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Clack",
+     "given": "T."
+    },
+    {
+     "family": "Brittain",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Digital media, archaeological design and the politics of archaeological authorship",
+   "is_part_of": [
+    "Archaeology and the Media"
+   ],
+   "pages": "273-289",
+   "publisher": "Left Coast Press",
+   "place": "Walnut Creek",
+   "language": "eng"
+  },
+  {
+   "position": 100,
+   "raw": "Sparti D. 2002, *Epistemologia delle scienze sociali*, Bologna, Il Mulino.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sparti",
+     "given": "D."
+    }
+   ],
+   "date": "2002",
+   "title": "Epistemologia delle scienze sociali",
+   "publisher": "Il Mulino",
+   "place": "Bologna",
+   "language": "ita"
+  },
+  {
+   "position": 101,
+   "raw": "Sterenberg J. 2008, *Forensic Archaeology, Anthropology and the Investigation of Mass Graves*, London-New York, Taylor&Francis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sterenberg",
+     "given": "J."
+    }
+   ],
+   "date": "2008",
+   "title": "Forensic Archaeology, Anthropology and the Investigation of Mass Graves",
+   "publisher": "Taylor&Francis",
+   "place": "London-New York",
+   "language": "eng"
+  },
+  {
+   "position": 102,
+   "raw": "Strazzulla M.J. 2000, *Antiquaria*, in R. Francovich, D. Manacorda (eds.), *Dizionario di Archeologia*, Roma-Bari, Laterza, 4-9.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Strazzulla",
+     "given": "M.J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2000",
+   "title": "Antiquaria",
+   "is_part_of": [
+    "Dizionario di Archeologia"
+   ],
+   "pages": "4-9",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita"
+  },
+  {
+   "position": 103,
+   "raw": "Traverso A., Pian D. 2006, *Comunicare l'Archeologia: Strumenti, Metodi e Obiettivi*, Genova, Darficlet.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Traverso",
+     "given": "A."
+    },
+    {
+     "family": "Pian",
+     "given": "D."
+    }
+   ],
+   "date": "2006",
+   "title": "Comunicare l'Archeologia: Strumenti, Metodi e Obiettivi",
+   "publisher": "Darficlet",
+   "place": "Genova",
+   "language": "ita"
+  },
+  {
+   "position": 104,
+   "raw": "Trigger B.G. 2008, *History of Archaeological Thought*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Trigger",
+     "given": "B.G."
+    }
+   ],
+   "date": "2008",
+   "title": "History of Archaeological Thought",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 105,
+   "raw": "Vaidhyanathan S. 2001, *Googlization of Everything (And Why We Should Worry)*, Los Angeles, University of California Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Vaidhyanathan",
+     "given": "S."
+    }
+   ],
+   "date": "2001",
+   "title": "Googlization of Everything (And Why We Should Worry)",
+   "publisher": "University of California Press",
+   "place": "Los Angeles",
+   "language": "eng"
+  },
+  {
+   "position": 106,
+   "raw": "Veyne P. 1971, *Comment on écrit l'histoire*, Paris, Seuil.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Veyne",
+     "given": "P."
+    }
+   ],
+   "date": "1971",
+   "title": "Comment on écrit l'histoire",
+   "publisher": "Seuil",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 107,
+   "raw": "Veyne P. 1995, *Le quotidien et l'intéressant. Entretiens avec Catherine Darbo-Peschanski*, Paris, Belles Lettres.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Veyne",
+     "given": "P."
+    }
+   ],
+   "date": "1995",
+   "title": "Le quotidien et l'intéressant. Entretiens avec Catherine Darbo-Peschanski",
+   "publisher": "Belles Lettres",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 108,
+   "raw": "Witmore C.L. 2007, *Symmetrical archaeology. Excerpts of a manifesto*, «World Archaeology», 39, 4, 546-562.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Witmore",
+     "given": "C.L."
+    }
+   ],
+   "date": "2007",
+   "title": "Symmetrical archaeology. Excerpts of a manifesto",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "39",
+   "issue": "4",
+   "pages": "546-562",
+   "language": "eng"
+  },
+  {
+   "position": 109,
+   "raw": "Zanini E., Costa S. 2006, *Organizzare il processo conoscitivo nell'indagine archeologica: riflessioni metodologiche ed esperimenti digitali*, «Archeologia e Calcolatori», 17, 241-264.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zanini",
+     "given": "E."
+    },
+    {
+     "family": "Costa",
+     "given": "S."
+    }
+   ],
+   "date": "2006",
+   "title": "Organizzare il processo conoscitivo nell'indagine archeologica: riflessioni metodologiche ed esperimenti digitali",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "17",
+   "pages": "241-264",
+   "language": "ita",
+   "cited_aec_id": 430
+  },
+  {
+   "position": 110,
+   "raw": "Zarankin A., Funari P.P.A. 2008, *Eternal sunshine of the spotless mind: Archaeology and construction of memory of military repression in South America (1960-1980)*, «Archaeologies», 4, 2, 310-327.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zarankin",
+     "given": "A."
+    },
+    {
+     "family": "Funari",
+     "given": "P.P.A."
+    }
+   ],
+   "date": "2008",
+   "title": "Eternal sunshine of the spotless mind: Archaeology and construction of memory of military repression in South America (1960-1980)",
+   "is_part_of": [
+    "Archaeologies"
+   ],
+   "volume": "4",
+   "issue": "2",
+   "pages": "310-327",
+   "language": "eng"
+  },
+  {
+   "position": 111,
+   "raw": "Zimmerman L., Welch J. 2006, *Toward an archaeology of homelessness*, «Anthropology News», 47, 2, 54-55.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zimmerman",
+     "given": "L."
+    },
+    {
+     "family": "Welch",
+     "given": "J."
+    }
+   ],
+   "date": "2006",
+   "title": "Toward an archaeology of homelessness",
+   "is_part_of": [
+    "Anthropology News"
+   ],
+   "volume": "47",
+   "issue": "2",
+   "pages": "54-55",
+   "language": "eng"
+  }
+ ]
+}

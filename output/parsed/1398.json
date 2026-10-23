@@ -1,0 +1,557 @@
+{
+ "citing_aec_id": 1398,
+ "source_file": "data/journal/36/1398.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BenardouA.,ChampionE.,DallasC.,HughesL.(eds.)2017, CulturalHeritageInfrastructures in Digital Humanities, London, Routledge (https://doi.org/10.4324/9781315575278).",
+   "type": "book",
+   "date": "2017",
+   "title": "Cultural Heritage Infrastructures in Digital Humanities",
+   "editors": [
+    {
+     "family": "Benardou",
+     "given": "A."
+    },
+    {
+     "family": "Champion",
+     "given": "E."
+    },
+    {
+     "family": "Dallas",
+     "given": "C."
+    },
+    {
+     "family": "Hughes",
+     "given": "L."
+    }
+   ],
+   "publisher": "Routledge",
+   "place": "London",
+   "doi": "10.4324/9781315575278",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Candela G. 2025, Browsing Linked Open Data in Cultural Heritage: A shareable visual configuration approach, «Journal on Computing and Cultural Heritage», 18, 1, 1-15 (https://doi.org/10.1145/3707647).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Candela",
+     "given": "G."
+    }
+   ],
+   "date": "2025",
+   "title": "Browsing Linked Open Data in Cultural Heritage: A shareable visual configuration approach",
+   "is_part_of": [
+    "Journal on Computing and Cultural Heritage"
+   ],
+   "volume": "18",
+   "issue": "1",
+   "pages": "1-15",
+   "doi": "10.1145/3707647",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Caravale A., Moscati P., Rossi I. 2024, Advancements of the H2IOSC Project: Enhancement of digital resources in the Cultural Heritage field targeting archaeology and epigraphy. Introduction to the Special section, «Archeologia e Calcolatori», 35.2, 463-470 (https:// doi.org/10.19282/ac.35.2.2024.48).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2024",
+   "title": "Advancements of the H2IOSC Project: Enhancement of digital resources in the Cultural Heritage field targeting archaeology and epigraphy. Introduction to the Special section",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "463-470",
+   "doi": "10.19282/ac.35.2.2024.48",
+   "language": "eng",
+   "cited_aec_id": 1368
+  },
+  {
+   "position": 4,
+   "raw": "Fu B., Lambrix P., Pesquita C., Vega-Gorgojo G. 2024, LOD4Culture: Easy exploration of cultural heritage linked open data, «Semantic Web», 15, 5, 1563-1592 (https://doi. org/10.3233/sw-233358).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fu",
+     "given": "B."
+    },
+    {
+     "family": "Lambrix",
+     "given": "P."
+    },
+    {
+     "family": "Pesquita",
+     "given": "C."
+    },
+    {
+     "family": "Vega-Gorgojo",
+     "given": "G."
+    }
+   ],
+   "date": "2024",
+   "title": "LOD4Culture: Easy exploration of cultural heritage linked open data",
+   "is_part_of": [
+    "Semantic Web"
+   ],
+   "volume": "15",
+   "issue": "5",
+   "pages": "1563-1592",
+   "doi": "10.3233/sw-233358",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Huggett J. 2020, Is big digital data different? Towards a new archaeological paradigm, «Journal ofFieldArchaeology»,45,sup1,S8-S17(https://doi.org/10.1080/00934690.2020.1713281).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    }
+   ],
+   "date": "2020",
+   "title": "Is big digital data different? Towards a new archaeological paradigm",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "volume": "45",
+   "issue": "sup1",
+   "pages": "S8-S17",
+   "doi": "10.1080/00934690.2020.1713281",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Jirotka M., Lee C.P., Olson G.M. 2013, Supporting scientific collaboration: Methods, tools and concepts, «Computer Supported Cooperative Work (CSCW)», 22, 4, 667-715 (https://doi.org/10.1007/s10606-012-9184-0).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jirotka",
+     "given": "M."
+    },
+    {
+     "family": "Lee",
+     "given": "C.P."
+    },
+    {
+     "family": "Olson",
+     "given": "G.M."
+    }
+   ],
+   "date": "2013",
+   "title": "Supporting scientific collaboration: Methods, tools and concepts",
+   "is_part_of": [
+    "Computer Supported Cooperative Work (CSCW)"
+   ],
+   "volume": "22",
+   "issue": "4",
+   "pages": "667-715",
+   "doi": "10.1007/s10606-012-9184-0",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Luzietti R.B., Spadi A., Giampietro N., Mancuso G., Caravale A., D’Eredità A., Caradonna M., Moscati P., Quochi V., Monachini M., Degl’Innocenti E. 2024, Digital Humanities and Heritage Science: Moving from landscaping to a dynamic research observatory in an Open Science Cloud, in A. Di Silvestro, D. Spampinato (eds.), Me.Te. Digitali. Mediterraneo in rete tra testi e contesti, Proceedings del XIII Convegno Annuale AIUCD (Catania 2024), «Quaderni di Umanistica Digitale», 599565 (https://dx.doi.org/10.6092/unibo/amsacta/7927).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Luzietti",
+     "given": "R.B."
+    },
+    {
+     "family": "Spadi",
+     "given": "A."
+    },
+    {
+     "family": "Giampietro",
+     "given": "N."
+    },
+    {
+     "family": "Mancuso",
+     "given": "G."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "D’Eredità",
+     "given": "A."
+    },
+    {
+     "family": "Caradonna",
+     "given": "M."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Quochi",
+     "given": "V."
+    },
+    {
+     "family": "Monachini",
+     "given": "M."
+    },
+    {
+     "family": "Degl’Innocenti",
+     "given": "E."
+    }
+   ],
+   "date": "2024",
+   "title": "Digital Humanities and Heritage Science: Moving from landscaping to a dynamic research observatory in an Open Science Cloud",
+   "editors": [
+    {
+     "family": "Di Silvestro",
+     "given": "A."
+    },
+    {
+     "family": "Spampinato",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Me.Te. Digitali. Mediterraneo in rete tra testi e contesti, Proceedings del XIII Convegno Annuale AIUCD (Catania 2024)"
+   ],
+   "series": "Quaderni di Umanistica Digitale",
+   "uri": "https://dx.doi.org/10.6092/unibo/amsacta/7927",
+   "language": "eng",
+   "notes": "pages cited as 599565"
+  },
+  {
+   "position": 8,
+   "raw": "Mancuso G., Caravale A., D’Eredità A., Moscati P. in press, Merging Knowledge and Tools in Heritage Science and Digital Archaeology. Practices from H2IOSC WP2, presented to DIGITAL HERITAGE 2025. The Premier Global Forum where Culture Meets Cutting-edge Technology (Siena 2025).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mancuso",
+     "given": "G."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "D’Eredità",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2025",
+   "title": "Merging Knowledge and Tools in Heritage Science and Digital Archaeology. Practices from H2IOSC WP2",
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Graf",
+     "given": "H."
+    },
+    {
+     "family": "Guidi",
+     "given": "G."
+    },
+    {
+     "family": "Hegarty",
+     "given": "Z."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Digital Heritage 2025 (Siena 2025)"
+   ],
+   "publisher": "The Eurographics Association",
+   "doi": "10.2312/dh.20253320",
+   "language": "eng",
+   "cs": {
+    "status": "resolved"
+   },
+   "notes": "cited in press; found online (Eurographics DL, 2025); pages not found"
+  },
+  {
+   "position": 9,
+   "raw": "Mancuso G., D’Eredità A. 2024, DHeLO and BiDiAr: New digital resources within the H2IOSC Project, «Archeologia e Calcolatori», 35.1, 521-542 (https://doi,org/10.19282/ ac.35.1.2024.31).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mancuso",
+     "given": "G."
+    },
+    {
+     "family": "D’Eredità",
+     "given": "A."
+    }
+   ],
+   "date": "2024",
+   "title": "DHeLO and BiDiAr: New digital resources within the H2IOSC Project",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "1",
+   "pages": "521-542",
+   "doi": "10.19282/ac.35.1.2024.31",
+   "language": "eng",
+   "cited_aec_id": 1312
+  },
+  {
+   "position": 10,
+   "raw": "Mancuso G., D’Eredità A. in press, Two FOSS resources for Cultural Heritage and Digital Archaeology in the H2IOSC project, presented to ARCHEO.FOSS XVIII 2024. International Conference on Open Software, Hardware, Processes, Data and Formats in Archaeological Research (Chieti 2024).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mancuso",
+     "given": "G."
+    },
+    {
+     "family": "D’Eredità",
+     "given": "A."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Two FOSS resources for Cultural Heritage and Digital Archaeology in the H2IOSC project",
+   "is_part_of": [
+    "ARCHEO.FOSS XVIII 2024. International Conference on Open Software, Hardware, Processes, Data and Formats in Archaeological Research (Chieti 2024)"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched: only a BiDiAr/Zotero record (Chieti 2024), no published proceedings found"
+  },
+  {
+   "position": 11,
+   "raw": "Marttila S., Botero A. 2021, Infrastructuring for collective heritage knowledge production, in M. Rauterberg (ed.), Culture and Computing. Design Thinking and Cultural Computing. HCII 2021. Lecture Notes in Computer Science, Springer International Publishing, 95-112 (https://doi.org/10.1007/978-3-030-77431-8_6).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Marttila",
+     "given": "S."
+    },
+    {
+     "family": "Botero",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "Infrastructuring for collective heritage knowledge production",
+   "editors": [
+    {
+     "family": "Rauterberg",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Culture and Computing. Design Thinking and Cultural Computing. HCII 2021"
+   ],
+   "series": "Lecture Notes in Computer Science",
+   "pages": "95-112",
+   "publisher": "Springer International Publishing",
+   "doi": "10.1007/978-3-030-77431-8_6",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Marwick B., Birch S.E.P. 2018, A standard for the scholarly citation of archaeological data as an incentive to data sharing, «Advances in Archaeological Practice», 6, 2, 125-143 (https://doi.org/10.1017/aap.2018.3).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Marwick",
+     "given": "B."
+    },
+    {
+     "family": "Birch",
+     "given": "S.E.P."
+    }
+   ],
+   "date": "2018",
+   "title": "A standard for the scholarly citation of archaeological data as an incentive to data sharing",
+   "is_part_of": [
+    "Advances in Archaeological Practice"
+   ],
+   "volume": "6",
+   "issue": "2",
+   "pages": "125-143",
+   "doi": "10.1017/aap.2018.3",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Moscati P. 2021, Digital archaeology: From interdisciplinarity to the ‘fusion’ of Core competences, «magazén. International Journal for Digital and Public Humanities», 2, 2, 253-274 (https://doi.org/10.30687/mag/2724-3923/2021/04/004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "Digital archaeology: From interdisciplinarity to the ‘fusion’ of Core competences",
+   "is_part_of": [
+    "magazén. International Journal for Digital and Public Humanities"
+   ],
+   "volume": "2",
+   "issue": "2",
+   "pages": "253-274",
+   "doi": "10.30687/mag/2724-3923/2021/04/004",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Pawlicka-Deger U. 2021, Infrastructuring digital humanities: On relational infrastructure and global reconfiguration of the field, «Digital Scholarship in the Humanities», 37, 2, 534-550 (https://doi.org/10.1093/llc/fqab086).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pawlicka-Deger",
+     "given": "U."
+    }
+   ],
+   "date": "2021",
+   "title": "Infrastructuring digital humanities: On relational infrastructure and global reconfiguration of the field",
+   "is_part_of": [
+    "Digital Scholarship in the Humanities"
+   ],
+   "volume": "37",
+   "issue": "2",
+   "pages": "534-550",
+   "doi": "10.1093/llc/fqab086",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Ross J., Sheail P., Terras M., Schofield C. 2024, Infrastructure Futures for Digital Cultural Heritage, University of Edinbrugh (https://doi.org/10.5281/zenodo.13710265).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Ross",
+     "given": "J."
+    },
+    {
+     "family": "Sheail",
+     "given": "P."
+    },
+    {
+     "family": "Terras",
+     "given": "M."
+    },
+    {
+     "family": "Schofield",
+     "given": "C."
+    }
+   ],
+   "date": "2024",
+   "title": "Infrastructure Futures for Digital Cultural Heritage",
+   "publisher": "University of Edinburgh",
+   "doi": "10.5281/zenodo.13710265",
+   "language": "eng",
+   "notes": "cited as “University of Edinbrugh”"
+  },
+  {
+   "position": 16,
+   "raw": "Rueff B. 2024, Dealing with post-excavation data: The Omeka S TiMMA web-database, «Peer Community Journal», 4, 1-14 (https://doi.org/10.24072/pcjournal.366).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rueff",
+     "given": "B."
+    }
+   ],
+   "date": "2024",
+   "title": "Dealing with post-excavation data: The Omeka S TiMMA web-database",
+   "is_part_of": [
+    "Peer Community Journal"
+   ],
+   "volume": "4",
+   "pages": "1-14",
+   "doi": "10.24072/pcjournal.366",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Schmidt B., Gemeinholzer B., Treloar A. 2016, Open Data in Global Environmental Research: The Belmont Forum’s Open Data Survey, «PLOS ONE», 11, 1, e0146695 (https://doi.org/10.1371/journal.pone.0146695).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schmidt",
+     "given": "B."
+    },
+    {
+     "family": "Gemeinholzer",
+     "given": "B."
+    },
+    {
+     "family": "Treloar",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Open Data in Global Environmental Research: The Belmont Forum’s Open Data Survey",
+   "is_part_of": [
+    "PLOS ONE"
+   ],
+   "volume": "11",
+   "issue": "1",
+   "pages": "e0146695",
+   "doi": "10.1371/journal.pone.0146695",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Scarpa E., Valente R. 2024, A resource hub for interoperability and data integration in Heritage research: The H-SeTIS database, «Archeologia e Calcolatori», 35.1, 543-562 (https://doi.org/10.19282/ac.35.1.2024.32).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scarpa",
+     "given": "E."
+    },
+    {
+     "family": "Valente",
+     "given": "R."
+    }
+   ],
+   "date": "2024",
+   "title": "A resource hub for interoperability and data integration in Heritage research: The H-SeTIS database",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "1",
+   "pages": "543-562",
+   "doi": "10.19282/ac.35.1.2024.32",
+   "language": "eng",
+   "cited_aec_id": 1313
+  }
+ ]
+}

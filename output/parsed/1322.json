@@ -1,0 +1,162 @@
+{
+ "citing_aec_id": 1322,
+ "source_file": "data/journal/35/1322.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Cantone F., Caravale A. 2019, Archeologia e Calcolatori. Classificazione geografica e tematica per la condivisione della conoscenza, in P. Moscati (ed.), 30 anni di Archeologia e Calcolatori. Tra memoria e progettualità, «Archeologia e Calcolatori», 30, 93-107 (https://doi.org/10.19282/ac.30.2019.07).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "language": "ita",
+   "cited_aec_id": 1042
+  },
+  {
+   "position": 2,
+   "raw": "Casini L. et al. 2023, A human-AI collaboration workflow for archaeological sites detection, «Scientific Report», 13, 8699 (https://doi.org/10.1038/s41598-023-36015-5).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Casini",
+     "given": "L."
+    }
+   ],
+   "date": "2023",
+   "title": "A human-AI collaboration workflow for archaeological sites detection",
+   "is_part_of": [
+    "Scientific Reports"
+   ],
+   "volume": "13",
+   "pages": "8699",
+   "language": "eng",
+   "doi": "10.1038/s41598-023-36015-5",
+   "notes": "cited \"et al.\"; journal cited \"Scientific Report\""
+  },
+  {
+   "position": 3,
+   "raw": "Grossi P., Costa S., Jaia A., Malatesta S.G., Stasolla F.R. 2019, ArcheoFOSS: passato, presente e prospettive future, «Archeologia e Calcolatori», 30, 441-445 (https://doi.org/10.19282/ac.30.2019.25).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Grossi",
+     "given": "P."
+    },
+    {
+     "family": "Costa",
+     "given": "S."
+    },
+    {
+     "family": "Jaia",
+     "given": "A."
+    },
+    {
+     "family": "Malatesta",
+     "given": "S.G."
+    },
+    {
+     "family": "Stasolla",
+     "given": "F.R."
+    }
+   ],
+   "date": "2019",
+   "language": "ita",
+   "cited_aec_id": 1061
+  },
+  {
+   "position": 4,
+   "raw": "McCarthy J., Benjamin J. 2019, Project SAMPHIRE: Crowdsourcing maritime archaeology data off Scotland’s West coast, «The Journal of Island and Coastal Archaeology», 14, 2, 267-290.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "McCarthy",
+     "given": "J."
+    },
+    {
+     "family": "Benjamin",
+     "given": "J."
+    }
+   ],
+   "date": "2019",
+   "title": "Project SAMPHIRE: Crowdsourcing maritime archaeology data off Scotland's West coast",
+   "is_part_of": [
+    "The Journal of Island and Coastal Archaeology"
+   ],
+   "volume": "14",
+   "issue": "2",
+   "pages": "267-290",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Moscati P. 2017, Open Data, Open Knowledge, Open Science: quali prospettive?, in M. Serlorenzi, I. Jovine (eds.), Pensare in rete, pensare la rete per la ricerca, la tutela e la valorizzazione del patrimonio archeologico. Atti del IV Convegno di Studi SITAR (Roma 2015), «Archeologia e Calcolatori», 9, 137-140 (https://doi.org/10.19282/ACS.9.2017.12).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2017",
+   "language": "ita",
+   "cited_aec_id": 979
+  },
+  {
+   "position": 6,
+   "raw": "Moscati P. 2023, L’informatica archeologica nell’era postdigitale, in F. Ciotti (ed.), Digital Humanities. Metodi, strumenti, saperi, Roma, Carocci, 282-298.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ciotti",
+     "given": "F."
+    }
+   ],
+   "date": "2023",
+   "title": "L'informatica archeologica nell'era postdigitale",
+   "is_part_of": [
+    "Digital Humanities. Metodi, strumenti, saperi"
+   ],
+   "pages": "282-298",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Vitale V., de Beer S. 2019, What are urban gazetteers and why do we need them?, «Europeana Tech», 12 (https://pro.europeana.eu/page/issue-12-pelagios#what-are-urban-gazetteersand-why-do-we-need-them).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vitale",
+     "given": "V."
+    },
+    {
+     "family": "de Beer",
+     "given": "S."
+    }
+   ],
+   "date": "2019",
+   "title": "What are urban gazetteers and why do we need them?",
+   "is_part_of": [
+    "Europeana Tech"
+   ],
+   "volume": "12",
+   "language": "eng",
+   "uri": "https://pro.europeana.eu/page/issue-12-pelagios#what-are-urban-gazetteersand-why-do-we-need-them"
+  }
+ ]
+}

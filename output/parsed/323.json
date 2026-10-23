@@ -1,0 +1,1610 @@
+{
+ "citing_aec_id": 323,
+ "source_file": "data/journal/12/323.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BARCELÓ J.A. 2000, Visualizing what might be: An introduction to Virtual Reality techniques in archaeology, in J.A. BARCELÓ, M. FORTE, D.H. SANDERS (eds.), Virtual Reality in Archaeology, Oxford, Archaeopress, 9-35.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "date": "2000",
+   "title": "Visualizing what might be: An introduction to Virtual Reality techniques in archaeology",
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "pages": "9-35",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "CANTONE F. c.s., 3D standards for scientific communication, in CAA2001 - Archaeological Informatics - Pushing the Envelope (Gotland 2001), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    },
+    {
+     "family": "Arvidsson",
+     "given": "J."
+    }
+   ],
+   "date": "2002",
+   "title": "3D standards for scientific communication",
+   "is_part_of": [
+    "Archaeological Informatics: Pushing the Envelope. CAA 2001. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 29th Conference, Gotland, April 2001"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://www.barpublishing.com/?p=28099"
+   },
+   "notes": "raw: c.s.; volume published 2002 (BAR International Series 1016, Archaeopress, eds. G. Burenhult, J. Arvidsson); chapter pages not found"
+  },
+  {
+   "position": 3,
+   "raw": "CANTONE F., NICCOLUCCI F. c.s., New tools for Virtual Archaeology, in 7th Annual Meeting European Association of Archaeologists (Esslingen am Neckar 2001), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "c.s.",
+   "title": "New tools for Virtual Archaeology",
+   "is_part_of": [
+    "7th Annual Meeting European Association of Archaeologists (Esslingen am Neckar 2001)"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "\"in corso di stampa\"; searched: session listed, no proceedings found"
+  },
+  {
+   "position": 4,
+   "raw": "CHAPMAN H. 2000, Understanding wetland archaeological landscapes: GIS, environmental analysis and landscape reconstruction; pathways and narratives, in G. LOCK (ed.), Beyond the Map. Archaeology and Spatial Technologies, Amsterdam, IOS Press, 49-59.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Chapman",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Understanding wetland archaeological landscapes: GIS, environmental analysis and landscape reconstruction; pathways and narratives",
+   "is_part_of": [
+    "Beyond the Map: Archaeology and Spatial Technologies"
+   ],
+   "pages": "49-59",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "CLARK J.T., BERGSTROM A., LANDRUM J.E.I., LARSON F., SLATOR B. c.s., Digital archive network for anthropology (Dana): Three-dimensional modeling and database development for Internet access, in NICCOLUCCI c.s.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Clark",
+     "given": "J.T."
+    },
+    {
+     "family": "Bergstrom",
+     "given": "A."
+    },
+    {
+     "family": "Landrum",
+     "given": "J.E.I."
+    },
+    {
+     "family": "Larson",
+     "given": "F."
+    },
+    {
+     "family": "Slator",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "Digital archive network for anthropology (Dana): Three-dimensional modeling and database development for Internet access",
+   "is_part_of": [
+    "Virtual Archaeology. Proceedings of the VAST Euroconference (Arezzo, November 2000)"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://www.oeaw.ac.at/resources/Record/993620205004498"
+   },
+   "notes": "raw: c.s.; volume published 2002 (BAR International Series 1075, Archaeopress, ed. F. Niccolucci); chapter pages not found"
+  },
+  {
+   "position": 6,
+   "raw": "COLOSI F., D’ANDREA A., FRATTA F., GABRIELLI R. c.s., The integration of different technologies to create a 3D model of Cumae (Naples), in NICCOLUCCI c.s.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Fratta",
+     "given": "F."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "The integration of different technologies to create a 3D model of Cumae (Naples)",
+   "is_part_of": [
+    "Virtual Archaeology. Proceedings of the VAST Euroconference (Arezzo, November 2000)"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://www.oeaw.ac.at/resources/Record/993620205004498"
+   },
+   "notes": "raw: c.s.; volume published 2002 (BAR International Series 1075, Archaeopress, ed. F. Niccolucci); chapter pages not found"
+  },
+  {
+   "position": 7,
+   "raw": "CRESCIOLI M., D’ANDREA A., NICCOLUCCI F. 2000, A GIS-based analysis of the Etruscan cemetery of Pontecagnano using fuzzy logic, in LOCK 2000, 157-179.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Crescioli",
+     "given": "M."
+    },
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "A GIS-based analysis of the Etruscan cemetery of Pontecagnano using fuzzy logic",
+   "is_part_of": [
+    "Beyond the Map: Archaeology and Spatial Technologies"
+   ],
+   "pages": "157-179",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "CRESCIOLI M., NICCOLUCCI F., D’ANDREA A. c.s., XML encoding of archaeological unstructured data, in CAA2001 - Archaeological Informatics - Pushing the Envelope (Gotland 2001), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Crescioli",
+     "given": "M."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    },
+    {
+     "family": "Arvidsson",
+     "given": "J."
+    }
+   ],
+   "date": "2002",
+   "title": "XML encoding of archaeological unstructured data",
+   "is_part_of": [
+    "Archaeological Informatics: Pushing the Envelope. CAA 2001. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 29th Conference, Gotland, April 2001"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://www.barpublishing.com/?p=28099"
+   },
+   "notes": "raw: c.s.; volume published 2002 (BAR International Series 1016, Archaeopress, eds. G. Burenhult, J. Arvidsson); chapter pages not found"
+  },
+  {
+   "position": 9,
+   "raw": "D’ANDREA A., GABRIELLI R., REALI E., TUCCI S., VERDE G. c.s., Data acquisition and three-dimensional models of medieval castles: A comparison between two case-studies Rocca Ricciarda (Tuscany) and Wu’ayra (Petra, Jordan), in NICCOLUCCI c.s.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Reali",
+     "given": "E."
+    },
+    {
+     "family": "Tucci",
+     "given": "S."
+    },
+    {
+     "family": "Verde",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "Data acquisition and three-dimensional models of medieval castles: A comparison between two case-studies Rocca Ricciarda (Tuscany) and Wu’ayra (Petra, Jordan)",
+   "is_part_of": [
+    "Virtual Archaeology. Proceedings of the VAST Euroconference (Arezzo, November 2000)"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://www.oeaw.ac.at/resources/Record/993620205004498"
+   },
+   "notes": "raw: c.s.; volume published 2002 (BAR International Series 1075, Archaeopress, ed. F. Niccolucci); chapter pages not found"
+  },
+  {
+   "position": 10,
+   "raw": "D’ANDREA A., NICCOLUCCI F. c.s., Database di scavo ed Internet. L’accesso remoto all’archivio Syslat, in Atti della Giornata di Studio “Nuove forme di intervento per lo studio del sito antico di Cuma” (Napoli 2001), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Database di scavo ed Internet. L’accesso remoto all’archivio Syslat",
+   "is_part_of": [
+    "Atti della Giornata di Studio “Nuove forme di intervento per lo studio del sito antico di Cuma” (Napoli 2001)"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "raw \"in corso di stampa\"; searched with the other Cuma/AION items: not found"
+  },
+  {
+   "position": 11,
+   "raw": "D’ANDREA A., NICCOLUCCI F., VANNINI G. c.s., “Landscape archaeology” e modelli 3D. Nuove metafore dello spazio, illusioni ottiche e tranelli matematici, « GEOSTORIE, Bollettino e Notiziario del Centro Italiano per gli Studi storico-geografici », 10, 1, gennaio 2001, in corso di stampa.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Vannini",
+     "given": "G."
+    }
+   ],
+   "date": "2001",
+   "title": "“Landscape archaeology” e modelli 3D. Nuove metafore dello spazio, illusioni ottiche e tranelli matematici",
+   "is_part_of": [
+    "Geostorie, Bollettino e Notiziario del Centro Italiano per gli Studi storico-geografici"
+   ],
+   "volume": "10",
+   "issue": "1",
+   "language": "ita",
+   "cs": {
+    "status": "resolved",
+    "source": "https://www.cisge.it/ojs/index.php/geostorie/article/download/171/260/"
+   },
+   "notes": "raw: c.s., gennaio 2001; article found online in Geostorie (title there: \"trappole matematiche\"); pages not found"
+  },
+  {
+   "position": 12,
+   "raw": "DATE C.J. 1986, An Introduction to Database Systems, Reading, Addison-Wesley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Date",
+     "given": "C.J."
+    }
+   ],
+   "date": "1986",
+   "title": "An Introduction to Database Systems",
+   "publisher": "Addison-Wesley",
+   "place": "Reading",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "FARINETTI E., SIGALOS L. c.s., Detailed topography and surface survey. What is the point?, in CAA2001 - Archaeological Informatics - Pushing the Envelope (Gotland 2001), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Farinetti",
+     "given": "E."
+    },
+    {
+     "family": "Sigalos",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    },
+    {
+     "family": "Arvidsson",
+     "given": "J."
+    }
+   ],
+   "date": "2002",
+   "title": "Detailed topography and surface survey. What is the point?",
+   "is_part_of": [
+    "Archaeological Informatics: Pushing the Envelope. CAA 2001. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 29th Conference, Gotland, April 2001"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://www.barpublishing.com/?p=28099"
+   },
+   "notes": "raw: c.s.; volume published 2002 (BAR International Series 1016, Archaeopress, eds. G. Burenhult, J. Arvidsson); chapter pages not found"
+  },
+  {
+   "position": 14,
+   "raw": "FORTE M. 1995, Scientific visualization and archaeological landscape: The case study of a terramara, Italy, in LOCK, STANÈIÈ 1995, 231-238.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Scientific visualization and archaeological landscape: The case study of a terramara, Italy",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems"
+   ],
+   "pages": "231-238",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "FORTE M. 2000, Archaeology and virtual micro-topography: The creation of DEMs for reconstructing fossil landscapes by Remote Sensing and GIS applications, in LOCK 2000, 199-213.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Archaeology and virtual micro-topography: The creation of DEMs for reconstructing fossil landscapes by Remote Sensing and GIS applications",
+   "is_part_of": [
+    "Beyond the Map: Archaeology and Spatial Technologies"
+   ],
+   "pages": "199-213",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "FORTE M., MONTEBELLI M., TUSA S. 1998, Il progetto Valle del Belice: applicazioni GIS e di Remote Sensing su dati archeologici, «Archeologia e Calcolatori», 9, 291-304.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Montebelli",
+     "given": "M."
+    },
+    {
+     "family": "Tusa",
+     "given": "S."
+    }
+   ],
+   "date": "1998",
+   "title": "Il progetto Valle del Belice: applicazioni GIS e di Remote Sensing su dati archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "291-304",
+   "language": "ita"
+  },
+  {
+   "position": 17,
+   "raw": "FORTE M., MOZZI P., ZOCCHI M. 1998, Immagini satellitari e modelli virtuali: interpretazioni geoarcheologiche della regione del Sistan Meridionale, «Archeologia e Calcolatori», 9, 271-290.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Mozzi",
+     "given": "P."
+    },
+    {
+     "family": "Zocchi",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Immagini satellitari e modelli virtuali: interpretazioni geoarcheologiche della regione del Sistan Meridionale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "271-290",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "FRISCHER B., NICCOLUCCI F., RYAN N.S., BARCELÓ J.A. c.s., From CVR to CVRO: The past, present and future of Cultural Virtual Reality, in NICCOLUCCI c.s.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Frischer",
+     "given": "B."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Ryan",
+     "given": "N.S."
+    },
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "From CVR to CVRO: The past, present and future of Cultural Virtual Reality",
+   "is_part_of": [
+    "Virtual Archaeology. Proceedings of the VAST Euroconference (Arezzo, November 2000)"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://www.oeaw.ac.at/resources/Record/993620205004498"
+   },
+   "notes": "raw: c.s.; volume published 2002 (BAR International Series 1075, Archaeopress, ed. F. Niccolucci); chapter pages not found"
+  },
+  {
+   "position": 19,
+   "raw": "GILLINGS M. 1995, Flood dynamics and settlement in the Tisza valley of north-east Hungary: GIS and the Upper Tisza project, in LOCK, STANÈIÈ 1995, 67-84.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Flood dynamics and settlement in the Tisza valley of north-east Hungary: GIS and the Upper Tisza project",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems"
+   ],
+   "pages": "67-84",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "GILLINGS M. 2000, Plans, elevations and virtual worlds: The development of techniques for the routine construction of hyperreal simulations, in J.A. BARCELÓ, M. FORTE, D. H. SANDERS (eds.), Virtual Reality in Archaeology, Oxford, Archaeopress, 59-69.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "date": "2000",
+   "title": "Plans, elevations and virtual worlds: The development of techniques for the routine construction of hyperreal simulations",
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "pages": "59-69",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "GOODRICK G., GILLINGS M. 2000, Constructs, simulations and hyperreal worlds: The role of Virtual Reality (VR) in archaeological research, in G. LOCK, K. BROWN (eds.), On the Theory and Practice of Archaeological Computing, Oxford, Oxford University Committee for Archaeology, Institute of Archaology, 41-58.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Goodrick",
+     "given": "G."
+    },
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Brown",
+     "given": "K."
+    }
+   ],
+   "date": "2000",
+   "title": "Constructs, simulations and hyperreal worlds: The role of Virtual Reality (VR) in archaeological research",
+   "is_part_of": [
+    "On the Theory and Practice of Archaeological Computing"
+   ],
+   "pages": "41-58",
+   "publisher": "Oxford University Committee for Archaeology, Institute of Archaeology",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "raw \"Archaology\""
+  },
+  {
+   "position": 22,
+   "raw": "HAGEMAN J.B., BENNET D.A. 2000, Construction of digital models for archaeological applications, in K.L. WESTCOTT, R.J. BRANDON (eds.), Practical Application of GIS for Archaeologists, London, Taylor & Francis, 114-127.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hageman",
+     "given": "J.B."
+    },
+    {
+     "family": "Bennet",
+     "given": "D.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Westcott",
+     "given": "K.L."
+    },
+    {
+     "family": "Brandon",
+     "given": "R.J."
+    }
+   ],
+   "date": "2000",
+   "title": "Construction of digital models for archaeological applications",
+   "is_part_of": [
+    "Practical Application of GIS for Archaeologists"
+   ],
+   "pages": "114-127",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "HODDER I. 1999, The Archaeological Process: An Introduction, Oxford, Blackwell.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1999",
+   "title": "The Archaeological Process: An Introduction",
+   "publisher": "Blackwell",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "JABLONKA P., SERANGELI J. c.s., TroiaVR: A Virtual Reality model of Troy and the Troad, in 7th Annual Meeting European Association of Archaeologists (Esslingen am Neckar 2001), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Jablonka",
+     "given": "P."
+    },
+    {
+     "family": "Serangeli",
+     "given": "J."
+    }
+   ],
+   "date": "c.s.",
+   "title": "TroiaVR: A Virtual Reality model of Troy and the Troad",
+   "is_part_of": [
+    "7th Annual Meeting European Association of Archaeologists (Esslingen am Neckar 2001)"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "\"in corso di stampa\"; same EAA session as the Cantone-Niccolucci paper: no proceedings found"
+  },
+  {
+   "position": 25,
+   "raw": "LATTARA 10 = PY M. (ed.) 1997, Syslat 3.1. Système d’Information Archéologique. Manuel de référence, Lattes.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Py",
+     "given": "M."
+    }
+   ],
+   "date": "1997",
+   "title": "Syslat 3.1. Système d’Information Archéologique. Manuel de référence",
+   "series": "Lattara",
+   "series_number": "10",
+   "place": "Lattes",
+   "language": "fre",
+   "notes": "raw starts with \"LATTARA 10 =\""
+  },
+  {
+   "position": 26,
+   "raw": "LOCK G. 2000 (ed.), Beyond the Map. Archaeology and Spatial Technologies, Amsterdam, IOS Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Beyond the Map: Archaeology and Spatial Technologies",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "LOCK G., HARRIS T. 2000, Introduction: Return to Ravello, in LOCK 2000, XIII-XXV.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Harris",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Introduction: Return to Ravello",
+   "is_part_of": [
+    "Beyond the Map: Archaeology and Spatial Technologies"
+   ],
+   "pages": "XIII-XXV",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng"
+  },
+  {
+   "position": 28,
+   "raw": "LOCK G., STANÈIÈ Z. (eds.) 1995, Archaeology and Geographical Information Systems, London, Taylor & Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Archaeology and Geographical Information Systems",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "MILLER P., RICHARDS J. 1995, The good, the bad, and the downright misleading: Archaeological adoption of computer visualization, in J. HUGGET, N.S. RYAN (eds.), CAA94 - Computer Applications and Quantitative Methods in Archaeology, Oxford, Tempus Reparatum, 19-22.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Miller",
+     "given": "P."
+    },
+    {
+     "family": "Richards",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    },
+    {
+     "family": "Ryan",
+     "given": "N.S."
+    }
+   ],
+   "date": "1995",
+   "title": "The good, the bad, and the downright misleading: Archaeological adoption of computer visualization",
+   "is_part_of": [
+    "CAA94 - Computer Applications and Quantitative Methods in Archaeology"
+   ],
+   "pages": "19-22",
+   "publisher": "Tempus Reparatum",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "raw \"HUGGET\""
+  },
+  {
+   "position": 30,
+   "raw": "MOSCATI P., MARIOTTI S., LIMATA B. 1999, Il “Progetto Caere”: un esempio di informatizzazione dei diari di scavo, «Archeologia e Calcolatori», 10, 165-188.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Mariotti",
+     "given": "S."
+    },
+    {
+     "family": "Limata",
+     "given": "B."
+    }
+   ],
+   "date": "1999",
+   "title": "Il “Progetto Caere”: un esempio di informatizzazione dei diari di scavo",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "165-188",
+   "language": "ita"
+  },
+  {
+   "position": 31,
+   "raw": "NACKAERTS K., GOVERS G., LOOTS L. 1999, The Use of Monte-Carlo techniques for the estimation of visibility, in L. DINGWALL, S. EXON, V. GAFFNEY, S. LAFLIN, M. VAN LEUSEN (eds.), Archaeology in the Age of the Internet. Proceedings of the 25th CAA Conference (Birmingham 1997), Oxford, Archaeopress, 63-65.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nackaerts",
+     "given": "K."
+    },
+    {
+     "family": "Govers",
+     "given": "G."
+    },
+    {
+     "family": "Loots",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "The Use of Monte-Carlo techniques for the estimation of visibility",
+   "is_part_of": [
+    "Archaeology in the Age of the Internet. CAA 1997 Proceedings of the 25th Anniversary Conference"
+   ],
+   "pages": "63-65",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 32,
+   "raw": "NICCOLUCCI F. c.s., Virtual Archaeology. Proceedings of the VAST Euroconference (Arezzo, November 2000), Oxford, Archaeopress, in corso di stampa.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "Virtual Archaeology. Proceedings of the VAST Euroconference (Arezzo, November 2000)",
+   "series": "BAR International Series",
+   "series_number": "1075",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://www.oeaw.ac.at/resources/Record/993620205004498"
+   },
+   "notes": "raw: c.s.; found published 2002"
+  },
+  {
+   "position": 33,
+   "raw": "NICCOLUCCI F., CANTONE F. c.s., Legend and virtual reconstruction: Porsenna’s mausoleum in X3D, in Web3D 2002 Conference - 7th International Conference on 3D Web Technology (Tempe, Arizona 2002), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "Legend and virtual reconstruction: Porsenna’s mausoleum in X3D",
+   "is_part_of": [
+    "Web3D 2002 Conference - 7th International Conference on 3D Web Technology (Tempe, Arizona 2002)"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://bibbase.org/network/publication/niccolucci-cantone-legendandvirtualreconstructionporsennasmausoleuminx3d-2002"
+   },
+   "confidence": "low",
+   "notes": "raw: c.s.; a 2002 record lists the paper in CAA 2002, pp. 57-62 (different venue from the one cited); container kept as cited"
+  },
+  {
+   "position": 34,
+   "raw": "NICCOLUCCI F., D’ANDREA A., CRESCIOLI M. 2001, Archaeological applications of fuzzy databases, in STANÈIÈ, VELJANOVSKI 2001, 107-115.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Crescioli",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "Archaeological applications of fuzzy databases",
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. CAA 2000 - Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000)"
+   ],
+   "pages": "107-115",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "PARCERO-OUBIÑA C. 1999, Deconstructing the land: The archaeology of sacred geographies, in L. DINGWALL, S. EXON, V. GAFFNEY, S. LAFLIN, M. VAN LEUSEN (eds.), Archaeology in the Age of the Internet. Proceedings of the 25th CAA Conference (Birmingham 1997), Oxford, Archaeopress, 73-80.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Parcero-Oubiña",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Deconstructing the land: The archaeology of sacred geographies",
+   "is_part_of": [
+    "Archaeology in the Age of the Internet. CAA 1997 Proceedings of the 25th Anniversary Conference"
+   ],
+   "pages": "73-80",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 36,
+   "raw": "RENFREW C., BAHN P. 1996, Archaeology. Theories, Methods and Practices, London, Thames and Hudson.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Bahn",
+     "given": "P."
+    }
+   ],
+   "date": "1996",
+   "title": "Archaeology. Theories, Methods and Practices",
+   "publisher": "Thames and Hudson",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 37,
+   "raw": "RICHARDS J., ROBINSON D. 2000 (eds.), Digital Archives from Excavation and Fieldwork: A Guide to Good Practice, Oxford, Oxbow Books.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Richards",
+     "given": "J."
+    },
+    {
+     "family": "Robinson",
+     "given": "D."
+    }
+   ],
+   "date": "2000",
+   "title": "Digital Archives from Excavation and Fieldwork: A Guide to Good Practice",
+   "publisher": "Oxbow Books",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 38,
+   "raw": "ROBINSON J.M., ZUBROW E. 1999, Between spaces: Interpolation in archaeology, in M. GILLINGS, D. MATTINGLY, J. VAN DALEN (eds.), Geographical Information Systems and Landscape Archaeology, Oxford, Oxbow Books, 65-83.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Robinson",
+     "given": "J.M."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    },
+    {
+     "family": "Mattingly",
+     "given": "D."
+    },
+    {
+     "family": "Van Dalen",
+     "given": "J."
+    }
+   ],
+   "date": "1999",
+   "title": "Between spaces: Interpolation in archaeology",
+   "is_part_of": [
+    "Geographical Information Systems and Landscape Archaeology"
+   ],
+   "pages": "65-83",
+   "publisher": "Oxbow Books",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 39,
+   "raw": "ROSS S. 1996, Archaeology’s new language: Multimedia, in P. HIGGINS, P. MAIN, J. LANG (eds.), Imaging the Past, London, British Museum Press, 286-287.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ross",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Higgins",
+     "given": "P."
+    },
+    {
+     "family": "Main",
+     "given": "P."
+    },
+    {
+     "family": "Lang",
+     "given": "J."
+    }
+   ],
+   "date": "1996",
+   "title": "Archaeology’s new language: Multimedia",
+   "is_part_of": [
+    "Imaging the Past"
+   ],
+   "pages": "286-287",
+   "publisher": "British Museum Press",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 40,
+   "raw": "RYAN N.S. 1996, Computer based visualisation of the past: Technical ‘realism’ and historical credibility, in P. HIGGINS, P. MAIN, J. LANG (eds.), Imaging the Past, London, British Museum Press, 95-108.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ryan",
+     "given": "N.S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Higgins",
+     "given": "P."
+    },
+    {
+     "family": "Main",
+     "given": "P."
+    },
+    {
+     "family": "Lang",
+     "given": "J."
+    }
+   ],
+   "date": "1996",
+   "title": "Computer based visualisation of the past: Technical ‘realism’ and historical credibility",
+   "is_part_of": [
+    "Imaging the Past"
+   ],
+   "pages": "95-108",
+   "publisher": "British Museum Press",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 41,
+   "raw": "STANÈIÈ Z., VELJANOVSKI T. 2001 (eds.), Computing Archaeology for Understanding the Past. Proceedings of the 28th CAA Conference (Ljubljana 2000), Oxford, Archaeopress.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "Computing Archaeology for Understanding the Past. CAA 2000 - Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000)",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 42,
+   "raw": "TERRENATO N. 2000 (ed.), Archeologia teorica, Firenze, All’Insegna del Giglio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Terrenato",
+     "given": "N."
+    }
+   ],
+   "date": "2000",
+   "title": "Archeologia teorica",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 43,
+   "raw": "THALLER M. 1993, Historical Information Science: Is there such a thing? New comments on an old idea, in T. ORLANDI (ed.), Discipline umanistiche e informatica. Il problema dell’integrazione, Roma, Accademia Nazionale dei Lincei, 51-86.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Thaller",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "1993",
+   "title": "Historical Information Science: Is there such a thing? New comments on an old idea",
+   "is_part_of": [
+    "Discipline umanistiche e informatica. Il problema dell’integrazione"
+   ],
+   "pages": "51-86",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "language": "eng"
+  },
+  {
+   "position": 44,
+   "raw": "TOPOUZI S., TRIPOLITSIOTIS A., SARRIS A., MERTIKAS S., SOETENS S. 2001, Errors & inaccuracies in repositioning of archaeological sites, in CAA2001 - Archaeological Informatics - Pushing the Envelope (Gotland 2001), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Topouzi",
+     "given": "S."
+    },
+    {
+     "family": "Tripolitsiotis",
+     "given": "A."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    },
+    {
+     "family": "Mertikas",
+     "given": "S."
+    },
+    {
+     "family": "Soetens",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    },
+    {
+     "family": "Arvidsson",
+     "given": "J."
+    }
+   ],
+   "date": "2002",
+   "title": "Errors & inaccuracies in repositioning of archaeological sites",
+   "is_part_of": [
+    "Archaeological Informatics: Pushing the Envelope. CAA 2001. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 29th Conference, Gotland, April 2001"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://www.barpublishing.com/?p=28099"
+   },
+   "notes": "raw date 2001, \"in corso di stampa\"; c.s.; volume published 2002 (BAR International Series 1016, Archaeopress, eds. G. Burenhult, J. Arvidsson); chapter pages not found"
+  },
+  {
+   "position": 45,
+   "raw": "VAN LEUSEN M. 1999, Viewshed and Cost Surface Analysis using GIS, in J.A. BARCELÓ, I. BRIZ, A. VILA (eds.), New Techniques for Old Times. Proceedings of the 26th CAA Conference (Barcelona 1998), Oxford, Archaeopress, 215-223.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "Viewshed and Cost Surface Analysis using GIS",
+   "is_part_of": [
+    "New Techniques for Old Times. CAA 1998 Proceedings of the 26th Conference"
+   ],
+   "pages": "215-223",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 46,
+   "raw": "VERHAGEN P. 1996, The use of GIS as a tool for modeling ecological change and human occupation in the Middle Aguas Valley (S.E. Spain), in H. KAMERMANS, K. FENNEMA (eds.), Interfacing the Past. Proceedings of CAA95, Leiden, University of Leiden, 317-324.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Verhagen",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "date": "1996",
+   "title": "The use of GIS as a tool for modeling ecological change and human occupation in the Middle Aguas Valley (S.E. Spain)",
+   "is_part_of": [
+    "Interfacing the Past. Proceedings of CAA95"
+   ],
+   "pages": "317-324",
+   "publisher": "University of Leiden",
+   "place": "Leiden",
+   "language": "eng"
+  },
+  {
+   "position": 47,
+   "raw": "VOTE E.L., ACEVEDO, D., LAIDLAW D., SHARP JOUKOWSKY M. 2001, ARCHAVE: A virtual environment for archaeological research, in STANÈIÈ, VELJANOVSKI 2001, 313-316.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vote",
+     "given": "E.L."
+    },
+    {
+     "family": "Acevedo",
+     "given": "D."
+    },
+    {
+     "family": "Laidlaw",
+     "given": "D."
+    },
+    {
+     "family": "Sharp Joukowsky",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "ARCHAVE: A virtual environment for archaeological research",
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. CAA 2000 - Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000)"
+   ],
+   "pages": "313-316",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 48,
+   "raw": "WANSLEEBEN M., VERHART L.B.M. 1995, GIS on different spatial levels and the neolithization process in the south-eastern Netherlands, in LOCK, STANÈIÈ 1995, 153-170.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wansleeben",
+     "given": "M."
+    },
+    {
+     "family": "Verhart",
+     "given": "L.B.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "GIS on different spatial levels and the neolithization process in the south-eastern Netherlands",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems"
+   ],
+   "pages": "153-170",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 49,
+   "raw": "WEIBEL R., HELLER M. 1991, Digital Terrain Modelling, in D.J. MAGUIRE, M.F. GOODCHILD, D.W. RHIND (eds.), Geographical Information Systems, Harlow, Longman, 269-297.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Weibel",
+     "given": "R."
+    },
+    {
+     "family": "Heller",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Maguire",
+     "given": "D.J."
+    },
+    {
+     "family": "Goodchild",
+     "given": "M.F."
+    },
+    {
+     "family": "Rhind",
+     "given": "D.W."
+    }
+   ],
+   "date": "1991",
+   "title": "Digital Terrain Modelling",
+   "is_part_of": [
+    "Geographical Information Systems"
+   ],
+   "pages": "269-297",
+   "publisher": "Longman",
+   "place": "Harlow",
+   "language": "eng"
+  },
+  {
+   "position": 50,
+   "raw": "WHEATLEY D., GILLINGS M. 2000, Vision, perception and GIS: Developing enriched approaches to the study of archaeological visibility, in LOCK 2000, 1-27.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    },
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Vision, perception and GIS: Developing enriched approaches to the study of archaeological visibility",
+   "is_part_of": [
+    "Beyond the Map: Archaeology and Spatial Technologies"
+   ],
+   "pages": "1-27",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng"
+  },
+  {
+   "position": 51,
+   "raw": "WOOD J. 1996, The Geomorphological Characterisation of Digital Elevation Models, (Ph.D Thesis), Department of Geography, University of Leicester.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Wood",
+     "given": "J."
+    }
+   ],
+   "date": "1996",
+   "title": "The Geomorphological Characterisation of Digital Elevation Models",
+   "publisher": "University of Leicester, Department of Geography",
+   "place": "Leicester",
+   "language": "eng",
+   "notes": "Ph.D thesis"
+  },
+  {
+   "position": 52,
+   "raw": "IST 2001, http://www.cordis.lu/ist/ka4/tesss/impl_free.htm (15/10/01)",
+   "type": "other",
+   "date": "2001",
+   "title": "http://www.cordis.lu/ist/ka4/tesss/impl_free.htm",
+   "language": "eng",
+   "uri": "http://www.cordis.lu/ist/ka4/tesss/impl_free.htm",
+   "notes": "author: IST 2001; web page accessed 15/10/01; no title in the citation (URL used)"
+  },
+  {
+   "position": 53,
+   "raw": "TAG, http://www.ucd.ie/~archdata/TAGinIreland.html (15/10/01)",
+   "type": "other",
+   "title": "http://www.ucd.ie/~archdata/TAGinIreland.html",
+   "language": "eng",
+   "uri": "http://www.ucd.ie/~archdata/TAGinIreland.html",
+   "notes": "author: TAG; web page accessed 15/10/01; no title in the citation (URL used)"
+  },
+  {
+   "position": 54,
+   "raw": "W3C 2000, http://www.w3c.org/TR/2000/REC-xml-20001006 (15/10/01)",
+   "type": "other",
+   "date": "2000",
+   "title": "http://www.w3c.org/TR/2000/REC-xml-20001006",
+   "language": "eng",
+   "uri": "http://www.w3c.org/TR/2000/REC-xml-20001006",
+   "notes": "author: W3C 2000; web page accessed 15/10/01; no title in the citation (URL used)"
+  }
+ ]
+}

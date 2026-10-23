@@ -1,0 +1,1357 @@
+{
+ "citing_aec_id": 38,
+ "source_file": "data/journal/3/38.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ALVISI G. 1989, La fotografia aerea nell'indagine archeologica, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Alvisi",
+     "given": "G."
+    }
+   ],
+   "date": "1989",
+   "title": "La fotografia aerea nell'indagine archeologica",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "ANCESCHI G. 1989, La grafica della scienza, in Roma 1989, 79-87.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Anceschi",
+     "given": "G."
+    }
+   ],
+   "date": "1989",
+   "title": "La grafica della scienza",
+   "editors": [
+    {
+     "family": "Marini",
+     "given": "D."
+    },
+    {
+     "family": "Albino",
+     "given": "E."
+    },
+    {
+     "family": "Moltedo",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Conoscenza per immagini. Atti del Workshop (Roma, 27-28 novembre 1989)"
+   ],
+   "pages": "79-87",
+   "place": "Roma",
+   "xref": 52,
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "ANGYAL A. 1941, Foundations for a Science of Personality, Harvard University Press, 243-261.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Angyal",
+     "given": "A."
+    }
+   ],
+   "date": "1941",
+   "title": "Foundations for a Science of Personality",
+   "publisher": "Harvard University Press",
+   "pages": "243-261",
+   "notes": "pages 243-261 as cited (pages of a book?)",
+   "confidence": "low",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "ASPINALL A., H AIGH J.G.B. 1988, A review of techniques for the graphical display of geophysical data, in S.P.Q. RAHTZ (ed.) Computer and Quantitative Methods in Archaeology, BAR International Series 446 (ii), Oxford.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Aspinall",
+     "given": "A."
+    },
+    {
+     "family": "Haigh",
+     "given": "J.G.B."
+    }
+   ],
+   "date": "1988",
+   "title": "A review of techniques for the graphical display of geophysical data",
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S.P.Q."
+    }
+   ],
+   "is_part_of": [
+    "Computer and Quantitative Methods in Archaeology"
+   ],
+   "series": "BAR International Series",
+   "series_number": "446 (ii)",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BAKER C., GUMERMAN G.J. 1981, Remote Sensing: Archaeological Applications of Remote Sensing in the North Central Lowlands, Washington.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Baker",
+     "given": "C."
+    },
+    {
+     "family": "Gumerman",
+     "given": "G.J."
+    }
+   ],
+   "date": "1981",
+   "title": "Remote Sensing: Archaeological Applications of Remote Sensing in the North Central Lowlands",
+   "place": "Washington",
+   "notes": "title split over two lines in the source",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "BARISANO E., BARTHOLOMÉ E., MARCOLONGO B. 1984, Télédétection et archéologie. Interprétation intégrée de données télédectées - Hemm, Landsat, Photos aériennes - corrélée avec des aspects physiographiques et archéologiques dans la plaine venitienne occidentale, CNRS, Paris.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barisano",
+     "given": "E."
+    },
+    {
+     "family": "Bartholomé",
+     "given": "E."
+    },
+    {
+     "family": "Marcolongo",
+     "given": "B."
+    }
+   ],
+   "date": "1984",
+   "title": "Télédétection et archéologie. Interprétation intégrée de données télédétectées - Hemm, Landsat, Photos aériennes - corrélée avec des aspects physiographiques et archéologiques dans la plaine vénitienne occidentale",
+   "place": "Paris",
+   "publisher": "CNRS",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "BARNSLEY M. 1988, Fractals Everywhere, New York, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barnsley",
+     "given": "M."
+    }
+   ],
+   "date": "1988",
+   "title": "Fractals Everywhere",
+   "place": "New York",
+   "publisher": "Academic Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "BINFORD S.R., BINFORD L.R. (edd.) 1968, New Perspectives in Archaeology, Chicago.",
+   "type": "book",
+   "date": "1968",
+   "title": "New Perspectives in Archaeology",
+   "place": "Chicago",
+   "editors": [
+    {
+     "family": "Binford",
+     "given": "S.R."
+    },
+    {
+     "family": "Binford",
+     "given": "L.R."
+    }
+   ],
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "BOTTONI P., MUSSIO P. 1989, Metodologie e tendenze nell'interpretazione di immagini, in Roma 1989, 196-202.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bottoni",
+     "given": "P."
+    },
+    {
+     "family": "Mussio",
+     "given": "P."
+    }
+   ],
+   "date": "1989",
+   "title": "Metodologie e tendenze nell'interpretazione di immagini",
+   "editors": [
+    {
+     "family": "Marini",
+     "given": "D."
+    },
+    {
+     "family": "Albino",
+     "given": "E."
+    },
+    {
+     "family": "Moltedo",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Conoscenza per immagini. Atti del Workshop (Roma, 27-28 novembre 1989)"
+   ],
+   "pages": "196-202",
+   "place": "Roma",
+   "xref": 52,
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "BRIVIO A., RIGHETTI M. 1989, Metodi frattali per la costruzione di modelli digitali del terreno, in Roma 1989, 277-280.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brivio",
+     "given": "A."
+    },
+    {
+     "family": "Righetti",
+     "given": "M."
+    }
+   ],
+   "date": "1989",
+   "title": "Metodi frattali per la costruzione di modelli digitali del terreno",
+   "editors": [
+    {
+     "family": "Marini",
+     "given": "D."
+    },
+    {
+     "family": "Albino",
+     "given": "E."
+    },
+    {
+     "family": "Moltedo",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Conoscenza per immagini. Atti del Workshop (Roma, 27-28 novembre 1989)"
+   ],
+   "pages": "277-280",
+   "place": "Roma",
+   "xref": 52,
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "BURROUGH P.A. 1987, Principles of Geographical Information Systems for Land Resources, Oxford.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Burrough",
+     "given": "P.A."
+    }
+   ],
+   "date": "1987",
+   "title": "Principles of Geographical Information Systems for Land Resources",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "CAPPELLINI V. 1985, Elaborazione numerica delle immagini, Torino.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cappellini",
+     "given": "V."
+    }
+   ],
+   "date": "1985",
+   "title": "Elaborazione numerica delle immagini",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "DORAN J.E., HODSON F.R. 1975, Mathematics and Computers in Archaeology, Edinburgh.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    },
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    }
+   ],
+   "date": "1975",
+   "title": "Mathematics and Computers in Archaeology",
+   "place": "Edinburgh",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "DE GUIO A. 1991, Archeologia e Calcolatori: un progetto per gli anni '90, « Archeologia e Calcolatori», 2, 25-78.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Guio",
+     "given": "A."
+    }
+   ],
+   "date": "1991",
+   "title": "Calcolatori ed archeologia: un progetto per gli anni '90",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "2",
+   "pages": "25-78",
+   "notes": "cited as 'Archeologia e Calcolatori: un progetto per gli anni '90'; title corrected to the article's actual title",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "DE GUIO A., WILKINS J., WHITEHOUSE R. (edd.) 1990, \"Progetto Alto-Medio Polesine-Basso Veronese\": quarto rapporto,« Quaderni di Archeologia del Veneto» 6, 217-238.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Guio",
+     "given": "A."
+    },
+    {
+     "family": "Wilkins",
+     "given": "J."
+    },
+    {
+     "family": "Whitehouse",
+     "given": "R."
+    }
+   ],
+   "date": "1990",
+   "title": "Progetto Alto-Medio Polesine - Basso Veronese: quarto rapporto",
+   "is_part_of": [
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "volume": "6",
+   "pages": "217-238",
+   "notes": "cited with (edd.) as authors of the report; author order Wilkins, Whitehouse as cited",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "DE GUIO A., SECCO G. 1988, Archaeological applications of the \"Percolation Method\" for data analysis and pattern recognition, in S.P.Q. RAHTZ (ed.), Computer and Quantitative Methods in Archaeology, BAR International Series 446 (i), Oxford, 63-93.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Guio",
+     "given": "A."
+    },
+    {
+     "family": "Secco",
+     "given": "G."
+    }
+   ],
+   "date": "1988",
+   "title": "Archaeological applications of the \"Percolation Method\" for data analysis and pattern recognition",
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S.P.Q."
+    }
+   ],
+   "is_part_of": [
+    "Computer and Quantitative Methods in Archaeology"
+   ],
+   "pages": "63-93",
+   "series": "BAR International Series",
+   "series_number": "446 (i)",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "DEGLI ANTONI G. 1989, Evoluzione della tecnologia e comunicazione della conoscenza, in Roma 1989, 59-67.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Degli Antoni",
+     "given": "G."
+    }
+   ],
+   "date": "1989",
+   "title": "Evoluzione della tecnologia e comunicazione della conoscenza",
+   "editors": [
+    {
+     "family": "Marini",
+     "given": "D."
+    },
+    {
+     "family": "Albino",
+     "given": "E."
+    },
+    {
+     "family": "Moltedo",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Conoscenza per immagini. Atti del Workshop (Roma, 27-28 novembre 1989)"
+   ],
+   "pages": "59-67",
+   "place": "Roma",
+   "xref": 52,
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "DEL PERO G., MARINO C.M. 1986, Il contributo del telerilevamento da aereo e da satellite nel quadro delle problematiche relative ad un corretto utilizzo delle risorse di un territorio, in Atti del IV Convegno Nazionale \"Attività estrattive e Difesa del Suolo\" (Saint Vincent, 8-9 settembre 1986).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Del Pero",
+     "given": "G."
+    },
+    {
+     "family": "Marino",
+     "given": "C.M."
+    }
+   ],
+   "date": "1986",
+   "title": "Il contributo del telerilevamento da aereo e da satellite nel quadro delle problematiche relative ad un corretto utilizzo delle risorse di un territorio",
+   "is_part_of": [
+    "Atti del IV Convegno Nazionale \"Attività estrattive e Difesa del Suolo\" (Saint Vincent, 8-9 settembre 1986)"
+   ],
+   "notes": "no pages or place cited",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "DEL PERO G., PIZZAFERRI G. 1991, Creazione di data base per l'inventario, la catalogazione e la creazione di carte del rischio relative ai beni culturali: il contributo dei dati telerilevati da aereo e da postazioni a terra , in Atti del VI Convegno di \"Icographics\" (Milano, 5-8 marzo 1991), 394-404, Milano.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Del Pero",
+     "given": "G."
+    },
+    {
+     "family": "Pizzaferri",
+     "given": "G."
+    }
+   ],
+   "date": "1991",
+   "title": "Creazione di data base per l'inventario, la catalogazione e la creazione di carte del rischio relative ai beni culturali: il contributo dei dati telerilevati da aereo e da postazioni a terra",
+   "is_part_of": [
+    "Atti del VI Convegno di \"Icographics\" (Milano, 5-8 marzo 1991)"
+   ],
+   "pages": "394-404",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "DEL PERO G., TONELLI A.M. 1987, Telerilevamento di prossimità nell'analisi di strutture di valore artistico, in Atti del Primo Convegno Nazionale \"Telerilevamento Aerospaziale e Risorse Ambientali\", (Parma, 29-30 settembre e 1-2 ottobre 1987), 172-177.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Del Pero",
+     "given": "G."
+    },
+    {
+     "family": "Tonelli",
+     "given": "A.M."
+    }
+   ],
+   "date": "1987",
+   "title": "Telerilevamento di prossimità nell'analisi di strutture di valore artistico",
+   "is_part_of": [
+    "Atti del Primo Convegno Nazionale \"Telerilevamento Aerospaziale e Risorse Ambientali\" (Parma, 29-30 settembre e 1-2 ottobre 1987)"
+   ],
+   "pages": "172-177",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "DORAN J.E. 1970, Systems Theory, Computer Simulations and Archaeology, « World Archaeology », 1, 289-298.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "date": "1970",
+   "title": "Systems Theory, Computer Simulations and Archaeology",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "1",
+   "pages": "289-298",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "EMERY F.E. 1989 (ed.), La teoria dei sistemi, Milano.",
+   "type": "book",
+   "date": "1989",
+   "title": "La teoria dei sistemi",
+   "place": "Milano",
+   "editors": [
+    {
+     "family": "Emery",
+     "given": "F.E."
+    }
+   ],
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "FABIANI G., GUIDAZZOLI A., PERIA A. 1990, Software NCSA per la visualizzazione di dati scientifici. Versione preliminare, Dipartimento di Tecnologia dei Sistemi. Laboratorio di Visualizzazione scientifica del CINECA, copia interna.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Fabiani",
+     "given": "G."
+    },
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    },
+    {
+     "family": "Peria",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "Software NCSA per la visualizzazione di dati scientifici. Versione preliminare",
+   "publisher": "CINECA, Dipartimento di Tecnologia dei Sistemi, Laboratorio di Visualizzazione scientifica",
+   "notes": "copia interna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "FABIANI G., LANZARINI M. , ROSSI R. 1988, Grafica e Supercomputer: il laboratorio grafico del CINECA, «Pixel », 9, 45-52.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fabiani",
+     "given": "G."
+    },
+    {
+     "family": "Lanzarini",
+     "given": "M."
+    },
+    {
+     "family": "Rossi",
+     "given": "R."
+    }
+   ],
+   "date": "1988",
+   "title": "Grafica e Supercomputer: il laboratorio grafico del CINECA",
+   "is_part_of": [
+    "Pixel"
+   ],
+   "volume": "9",
+   "pages": "45-52",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "FOLEY J.D., VAN DAMA. et al. 1990, Computer Graphics Principles and Practice, Addison Wesley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Foley",
+     "given": "J.D."
+    },
+    {
+     "family": "Van Dam",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "Computer Graphics Principles and Practice",
+   "publisher": "Addison Wesley",
+   "notes": "'et al.' co-authors not listed; 'VAN DAMA.' read as Van Dam A.",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "FORTE M. 1991a, La carta archeologica di Ascoli Satriano (FG: risultati preliminari. Alcuni esempi di \"image processing\" nella fotointerpretazione aerea, in \"L'archeologia del paesaggio\", IV Ciclo di Lezioni sulla Ricerca applicata in Archeologia, Certosa di Pontignano, Siena, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "c.s.",
+   "title": "La carta archeologica di Ascoli Satriano (FG): risultati preliminari. Alcuni esempi di \"image processing\" nella fotointerpretazione aerea",
+   "is_part_of": [
+    "L'archeologia del paesaggio. IV Ciclo di Lezioni sulla Ricerca applicata in Archeologia, Certosa di Pontignano, Siena"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "FORTE M. 1991b, Applicazioni di eidologia informatica nella fotointerpretazione aerea, in Ricerche di topografia storica ad Ascoli Satriano, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Applicazioni di eidologia informatica nella fotointerpretazione aerea",
+   "is_part_of": [
+    "Ricerche di topografia storica ad Ascoli Satriano"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "FORTE M., GUIDAZZOLI A. 1991a, Considerazioni preliminari sul bucchero di Marzabotto: qualche esempio di classificazione di immagini digitalizzate, in \"Produzione artigianale ed esportazione nel mondo antico. Il bucchero etrusco\". Colloquio internazionale, (Milano, 10-11 maggio 1990), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Considerazioni preliminari sul bucchero di Marzabotto: qualche esempio di classificazione di immagini digitalizzate",
+   "is_part_of": [
+    "Produzione artigianale ed esportazione nel mondo antico. Il bucchero etrusco. Colloquio internazionale (Milano, 10-11 maggio 1990)"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "FORTE M., GUIDAZZOLI A. 1991b, Fotointerpretazione aerea digitale e archeologia,« Pixel », 10, 11-14.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    }
+   ],
+   "date": "1991",
+   "title": "Fotointerpretazione aerea digitale e archeologia",
+   "is_part_of": [
+    "Pixel"
+   ],
+   "volume": "10",
+   "pages": "11-14",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "FREEMAN H. 1961, On the Encoding of Arbitrary Geometric Configurations, IRE Trans. Electronic Computers, vol. EC-10, 2, 260-268.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Freeman",
+     "given": "H."
+    }
+   ],
+   "date": "1961",
+   "title": "On the Encoding of Arbitrary Geometric Configurations",
+   "is_part_of": [
+    "IRE Trans. Electronic Computers"
+   ],
+   "volume": "EC-10",
+   "issue": "2",
+   "pages": "260-268",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "FURINI P., RIGHETTI M., BRIVIO P.A., MARINI D. 1991, Una metodologia per la simulazione di scene ambientali, in Atti del VI Congresso di \"Icographics\" (Milano, 5-8 marzo 1991), 405-412, Milano.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Furini",
+     "given": "P."
+    },
+    {
+     "family": "Righetti",
+     "given": "M."
+    },
+    {
+     "family": "Brivio",
+     "given": "P.A."
+    },
+    {
+     "family": "Marini",
+     "given": "D."
+    }
+   ],
+   "date": "1991",
+   "title": "Una metodologia per la simulazione di scene ambientali",
+   "is_part_of": [
+    "Atti del VI Congresso di \"Icographics\" (Milano, 5-8 marzo 1991)"
+   ],
+   "pages": "405-412",
+   "place": "Milano",
+   "notes": "container cited as 'Congresso' here, 'Convegno' in the Del Pero Pizzaferri entry: same proceedings",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "FUSSEL A. 1982, Terrestrial photogrammetry in archaeology, « World Archaeology », 14, 2,157-172.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fussel",
+     "given": "A."
+    }
+   ],
+   "date": "1982",
+   "title": "Terrestrial photogrammetry in archaeology",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "14",
+   "issue": "2",
+   "pages": "157-172",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "GONZALES R.C., WINTZ P. 1977, Digital Image Processing; Addison-Wesley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gonzales",
+     "given": "R.C."
+    },
+    {
+     "family": "Wintz",
+     "given": "P."
+    }
+   ],
+   "date": "1977",
+   "title": "Digital Image Processing",
+   "publisher": "Addison-Wesley",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "GOTTARELLI A. 1987, Tecniche di documentazione dello scavo archeologico: introduzione alla videometria digitalizzata, in F. D'ANDRIA (ed.), Informatica e archeologia classica. Atti del Convegno Internazionale (Lecce, 12-13 maggio 1986), Galatina, 63-90.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "date": "1987",
+   "title": "Tecniche di documentazione dello scavo archeologico: introduzione alla videometria digitalizzata",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Informatica e archeologia classica. Atti del Convegno Internazionale. Lecce 12-13 Maggio 1986"
+   ],
+   "pages": "63-90",
+   "place": "Galatina",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "HARRIS T. 1988, Digital terrain modelling in archaeology and regional planning, in C.L.N. RUGGLES, S.P.Q. RAHTZ (edd.), Computer and Quantitative Methods in Archaeology, BAR International Series 393, Oxford, 161-169.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "T."
+    }
+   ],
+   "date": "1988",
+   "title": "Digital terrain modelling in archaeology and regional planning",
+   "editors": [
+    {
+     "family": "Ruggles",
+     "given": "C.L.N."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S.P.Q."
+    }
+   ],
+   "is_part_of": [
+    "Computer and Quantitative Methods in Archaeology"
+   ],
+   "pages": "161-169",
+   "series": "BAR International Series",
+   "series_number": "393",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "HODDER I. 1978 (ed.), Simulation Studies in Archaeology, Cambridge.",
+   "type": "book",
+   "date": "1978",
+   "title": "Simulation Studies in Archaeology",
+   "place": "Cambridge",
+   "editors": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "HODDER I., 0RTON C. 1976, Spatial Analysis in Archaeology, Cambridge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    },
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "date": "1976",
+   "title": "Spatial Analysis in Archaeology",
+   "place": "Cambridge",
+   "notes": "'0RTON' OCR corrected",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "JACQUES C. et al. 1988, L'apport du satellite SPOT a l'archéologie du paysage, Paris.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jacques",
+     "given": "C."
+    }
+   ],
+   "date": "1988",
+   "title": "L'apport du satellite SPOT à l'archéologie du paysage",
+   "place": "Paris",
+   "notes": "'et al.' co-authors not listed",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "KAMPFFMEYER U., ZAMPERONI P., TEEGEN W.R., GRACA L. 1988, Untersuchungen zur rechnergestützten Klassifikation der Form von Keramik, Arbeiten zur Urgeschichte des Menschen, 11, Frankfurt.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    },
+    {
+     "family": "Zamperoni",
+     "given": "P."
+    },
+    {
+     "family": "Teegen",
+     "given": "W.R."
+    },
+    {
+     "family": "Graca",
+     "given": "L."
+    }
+   ],
+   "date": "1988",
+   "title": "Untersuchungen zur rechnergestützten Klassifikation der Form von Keramik",
+   "series": "Arbeiten zur Urgeschichte des Menschen",
+   "series_number": "11",
+   "place": "Frankfurt",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "KRINZINGER F., SCHICK M., TEEGEN W.R. 1990, Un calcolatore disegna e registra ceramica antica: il sistema ARCOS-1 negli scavi di Velia, Comune di Ascea (Salerno),« Archeologia e Calcolatori», 1, 179-209.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Krinzinger",
+     "given": "F."
+    },
+    {
+     "family": "Schick",
+     "given": "M."
+    },
+    {
+     "family": "Teegen",
+     "given": "W.R."
+    }
+   ],
+   "date": "1990",
+   "title": "Un calcolatore disegna e registra ceramica antica: il sistema ARCOS-1 negli scavi di Velia, Comune di Ascea (Salerno)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "179-209",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "LYONS T.R. 1976, Remote Sensing Experiments in Cultural Resource Studies: Non-destructive methods of archeological exploration, survey and analysis (Reports of the Chaco Center, I), New Mexico, Chaco Center.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lyons",
+     "given": "T.R."
+    }
+   ],
+   "date": "1976",
+   "title": "Remote Sensing Experiments in Cultural Resource Studies: Non-destructive methods of archeological exploration, survey and analysis",
+   "series": "Reports of the Chaco Center",
+   "series_number": "I",
+   "place": "New Mexico",
+   "publisher": "Chaco Center",
+   "notes": "reference split over two lines in the source",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "LYONS T.R. 1981, Remote Sensing: Multispectral Analyses of Cultural Resources, Washington.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lyons",
+     "given": "T.R."
+    }
+   ],
+   "date": "1981",
+   "title": "Remote Sensing: Multispectral Analyses of Cultural Resources",
+   "place": "Washington",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "LYONS T.R., AVERY T.E. 1977, Remote Sensing: A Handbook for Archeologists and Cultural Resource Managers, Washington.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lyons",
+     "given": "T.R."
+    },
+    {
+     "family": "Avery",
+     "given": "T.E."
+    }
+   ],
+   "date": "1977",
+   "title": "Remote Sensing: A Handbook for Archeologists and Cultural Resource Managers",
+   "place": "Washington",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "LYONS T.R., MATHIEN F.J. 1980, Cultural Resources Remote Sensing, Washington.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lyons",
+     "given": "T.R."
+    },
+    {
+     "family": "Mathien",
+     "given": "F.J."
+    }
+   ],
+   "date": "1980",
+   "title": "Cultural Resources Remote Sensing",
+   "place": "Washington",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "MARCOLONGO B., MASCELLANI M. 1978, Immagini da satellite e loro elaborazioni applicate alla individuazione del reticolato romano nella pianura veneta, « Archeologia veneta », 1, 131 ss.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Marcolongo",
+     "given": "B."
+    },
+    {
+     "family": "Mascellani",
+     "given": "M."
+    }
+   ],
+   "date": "1978",
+   "title": "Immagini da satellite e loro elaborazioni applicate alla individuazione del reticolato romano nella pianura veneta",
+   "is_part_of": [
+    "Archeologia veneta"
+   ],
+   "volume": "1",
+   "pages": "131",
+   "notes": "cited '131 ss.'",
+   "confidence": "low",
+   "language": "ita"
+  },
+  {
+   "position": 46,
+   "raw": "MELLI P. 1991, L'elaborazione digitale delle immagini, Milano.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Melli",
+     "given": "P."
+    }
+   ],
+   "date": "1991",
+   "title": "L'elaborazione digitale delle immagini",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "MOSCATI P. 1986, Un esempio di grafica computerizzata, in Atti del II Convegno \"Archeologia nella Tuscia\" (Viterbo 1984), Roma, 27-33.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1986",
+   "title": "Un esempio di grafica computerizzata",
+   "is_part_of": [
+    "Atti del II Convegno \"Archeologia nella Tuscia\" (Viterbo 1984)"
+   ],
+   "pages": "27-33",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "MOSCATI P. 1987, Archeologia e Calcolatori, Firenze.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Archeologia e calcolatori",
+   "place": "Firenze",
+   "publisher": "Giunti",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "O'BRIEN M.J., BEETS J.L., WARREN R.E., HOTRABHAVANANDA T., BARNEY T.W., VOIGT E.E. 1982, Digital enhancement and grey-level slicing of aerial photographs: techniques for archaeological analysis of intrasite variability, « World Archaeology », 14, 2, 173-190.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "O'Brien",
+     "given": "M.J."
+    },
+    {
+     "family": "Beets",
+     "given": "J.L."
+    },
+    {
+     "family": "Warren",
+     "given": "R.E."
+    },
+    {
+     "family": "Hotrabhavananda",
+     "given": "T."
+    },
+    {
+     "family": "Barney",
+     "given": "T.W."
+    },
+    {
+     "family": "Voigt",
+     "given": "E.E."
+    }
+   ],
+   "date": "1982",
+   "title": "Digital enhancement and grey-level slicing of aerial photographs: techniques for archaeological analysis of intrasite variability",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "14",
+   "issue": "2",
+   "pages": "173-190",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "PICARRETA F. 1987, Manuale di fotografia aerea. L'uso archeologico, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Picarreta",
+     "given": "F."
+    }
+   ],
+   "date": "1987",
+   "title": "Manuale di fotografia aerea. L'uso archeologico",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 51,
+   "raw": "PRATI W.K. 1978, Digital Image Processing, New York.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Prati",
+     "given": "W.K."
+    }
+   ],
+   "date": "1978",
+   "title": "Digital Image Processing",
+   "place": "New York",
+   "notes": "surname as cited (probably Pratt)",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "Roma 1989: MARINI D., ALBINO E., MOLTEDO L. (edd.), Conoscenza per immagini, Atti del Workshop, (Roma, 27-28 novembre 1989), Roma.",
+   "type": "proceedings",
+   "date": "1989",
+   "title": "Conoscenza per immagini. Atti del Workshop (Roma, 27-28 novembre 1989)",
+   "editors": [
+    {
+     "family": "Marini",
+     "given": "D."
+    },
+    {
+     "family": "Albino",
+     "given": "E."
+    },
+    {
+     "family": "Moltedo",
+     "given": "L."
+    }
+   ],
+   "place": "Roma",
+   "notes": "cited as 'Roma 1989'",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 53,
+   "raw": "ROSENFELD A., KAK A.C. 1982, Digital Picture Processing, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rosenfeld",
+     "given": "A."
+    },
+    {
+     "family": "Kak",
+     "given": "A.C."
+    }
+   ],
+   "date": "1982",
+   "title": "Digital Picture Processing",
+   "publisher": "Academic Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 54,
+   "raw": "SABLOFF J.A. 1981 (ed.), Simulations in Archaeology, Albuquerque.",
+   "type": "book",
+   "date": "1981",
+   "title": "Simulations in Archaeology",
+   "place": "Albuquerque",
+   "editors": [
+    {
+     "family": "Sabloff",
+     "given": "J.A."
+    }
+   ],
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 55,
+   "raw": "SCOLLAR I. 1977, L'information appliquée à l'archéologie aérienne, « Archéologia. Dossier de l'Archéologie », 22, 78-87.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "date": "1977",
+   "title": "L'informatique appliquée à l'archéologie aérienne",
+   "is_part_of": [
+    "Archéologia. Dossier de l'Archéologie"
+   ],
+   "volume": "22",
+   "pages": "78-87",
+   "notes": "'information' corrected to informatique",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 56,
+   "raw": "SCOLLAR I. 1978, Computer image processing for archaeological air photographs, « World Archaeology », 10, 1, 71-87.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "date": "1978",
+   "title": "Computer image processing for archaeological air photographs",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "10",
+   "issue": "1",
+   "pages": "71-87",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 57,
+   "raw": "SCOTT P.J. 1982, Drawing and measurement of finds: A Reflex action, « World Archaeology, 14, 2, 191-199.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scott",
+     "given": "P.J."
+    }
+   ],
+   "date": "1982",
+   "title": "Drawing and measurement of finds: A Reflex action",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "14",
+   "issue": "2",
+   "pages": "191-199",
+   "notes": "reference split over two lines in the source",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 58,
+   "raw": "TURNER J.D., KEARY A.C., PEACOCK D.P.S. 1990, Drawing potsherds: A low-cost computer-based system, « Archaeometry », 32, 2, 177-182.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Turner",
+     "given": "J.D."
+    },
+    {
+     "family": "Keary",
+     "given": "A.C."
+    },
+    {
+     "family": "Peacock",
+     "given": "D.P.S."
+    }
+   ],
+   "date": "1990",
+   "title": "Drawing potsherds: A low-cost computer-based system",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "32",
+   "issue": "2",
+   "pages": "177-182",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

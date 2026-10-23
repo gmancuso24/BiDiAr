@@ -1,0 +1,50 @@
+{
+ "citing_aec_id": 238,
+ "source_file": "data/journal/8/238.md",
+ "references": [
+  {
+   "raw": "BOUSSAC M.-F. 1993, Archives personnelles à Délos, «Comptes rendus de l'Académie des inscriptions et belles-lettres», 677-693.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Boussac",
+     "given": "M.-F."
+    }
+   ],
+   "type": "article",
+   "title": "Archives personnelles à Délos",
+   "is_part_of": [
+    "Comptes rendus de l'Académie des inscriptions et belles-lettres"
+   ],
+   "pages": "677-693",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "AUDA Y., BOUSSAC M.-F. 1996 (1997), Étude statistique d'un dépôt d'archives à Délos, «Bulletin de Correspondance Hellénique», Suppl. 29, 511-525.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Auda",
+     "given": "Y."
+    },
+    {
+     "family": "Boussac",
+     "given": "M.-F."
+    }
+   ],
+   "type": "article",
+   "title": "(1997), Étude statistique d'un dépôt d'archives à Délos",
+   "is_part_of": [
+    "Bulletin de Correspondance Hellénique"
+   ],
+   "pages": "511-525",
+   "issue": "Suppl. 29",
+   "language": "fre",
+   "confidence": "high",
+   "position": 2,
+   "notes": "cited as 1996 (1997)"
+  }
+ ]
+}

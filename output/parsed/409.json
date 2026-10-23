@@ -1,0 +1,230 @@
+{
+ "citing_aec_id": 409,
+ "source_file": "data/journal/16/409.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Harder C. 1998, Serving Maps on the Internet, ESRI Press, U.S.",
+   "type": "book",
+   "date": "1998",
+   "title": "Serving Maps on the Internet",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Harder",
+     "given": "C."
+    }
+   ],
+   "publisher": "ESRI Press",
+   "place": "U.S."
+  },
+  {
+   "position": 2,
+   "raw": "Hickin B.W., Maguire D.J., Strachan A. 1991, Introduction to GIS: The Arc/INFO Method, Midlands Regional Research Laboratory, University of Leicester.",
+   "type": "book",
+   "date": "1991",
+   "title": "Introduction to GIS: The Arc/INFO Method",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Hickin",
+     "given": "B.W."
+    },
+    {
+     "family": "Maguire",
+     "given": "D.J."
+    },
+    {
+     "family": "Strachan",
+     "given": "A."
+    }
+   ],
+   "publisher": "Midlands Regional Research Laboratory, University of Leicester"
+  },
+  {
+   "position": 3,
+   "raw": "Marshall J. 2000, Developing Internet-Based GIS Applications, in Proceedings of the Twentieth Annual ESRI User Conference, ESRI, Redlands, California.",
+   "type": "chapter",
+   "date": "2000",
+   "title": "Developing Internet-Based GIS Applications",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Marshall",
+     "given": "J."
+    }
+   ],
+   "publisher": "ESRI",
+   "place": "Redlands, California",
+   "is_part_of": [
+    "Proceedings of the Twentieth Annual ESRI User Conference"
+   ]
+  },
+  {
+   "position": 4,
+   "raw": "Moltedo L., Picco R., Salonia P. 2000, La presenza delle Tecnologie dell’Informazione nella ricerca sui Beni Culturali: risultati di una indagine, «Archeologia e Calcolatori», 11, 301-310.",
+   "type": "article",
+   "date": "2000",
+   "title": "La presenza delle Tecnologie dell’Informazione nella ricerca sui Beni Culturali: risultati di una indagine",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Moltedo",
+     "given": "L."
+    },
+    {
+     "family": "Picco",
+     "given": "R."
+    },
+    {
+     "family": "Salonia",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "301-310",
+   "cited_aec_id": 303
+  },
+  {
+   "position": 5,
+   "raw": "Negri A. 2002, Cultural Heritage: GIS solution for sharing knowledge over the WEB, in Atti del Primo Convegno della Sezione Italiana di Eurographics (Politecnico di Milano 2002), CD-ROM.",
+   "type": "chapter",
+   "date": "2002",
+   "title": "Cultural Heritage: GIS solution for sharing knowledge over the WEB",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Negri",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Atti del Primo Convegno della Sezione Italiana di Eurographics (Politecnico di Milano 2002)"
+   ],
+   "notes": "CD-ROM"
+  },
+  {
+   "position": 6,
+   "raw": "Salonia P. 2000, Tecnologie informatiche per la gestione delle conoscenze nella conservazione del costruito storico, «Archeologia e Calcolatori», 11, 219-240.",
+   "type": "article",
+   "date": "2000",
+   "title": "Tecnologie informatiche per la gestione delle conoscenze nella conservazione del costruito storico",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Salonia",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "219-240",
+   "cited_aec_id": 299
+  },
+  {
+   "position": 7,
+   "raw": "Salonia P. 2003, Strumenti informatici innovativi di ausilio alla conservazione del patrimonio storico-architettonico: problemi di organizzazione, diffusione e gestione dati, in M. Rossi, P. Salonia (eds.), Comunicazione multimediale per i Beni Culturali, Milano, Addison Wesley, 25-52.",
+   "type": "chapter",
+   "date": "2003",
+   "title": "Strumenti informatici innovativi di ausilio alla conservazione del patrimonio storico-architettonico: problemi di organizzazione, diffusione e gestione dati",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Salonia",
+     "given": "P."
+    }
+   ],
+   "publisher": "Addison Wesley",
+   "place": "Milano",
+   "editors": [
+    {
+     "family": "Rossi",
+     "given": "M."
+    },
+    {
+     "family": "Salonia",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Comunicazione multimediale per i Beni Culturali"
+   ],
+   "pages": "25-52"
+  },
+  {
+   "position": 8,
+   "raw": "Salonia P., Negri A. 1996, Strumenti e metodologie per la conoscenza del patrimonio edilizio storico: un sistema informativo, in Atti del I International Congress on Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Catania, Siracusa 1995), Palermo, Luxugraph, 921-927.",
+   "type": "chapter",
+   "date": "1996",
+   "title": "Strumenti e metodologie per la conoscenza del patrimonio edilizio storico: un sistema informativo",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Salonia",
+     "given": "P."
+    },
+    {
+     "family": "Negri",
+     "given": "A."
+    }
+   ],
+   "publisher": "Luxugraph",
+   "place": "Palermo",
+   "is_part_of": [
+    "Atti del I International Congress on Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Catania, Siracusa 1995)"
+   ],
+   "pages": "921-927"
+  },
+  {
+   "position": 9,
+   "raw": "Salonia P., Negri A. 2001, Dissemination of heterogeneous informations in the recovery of historical buildings: ARKIS-NET, in Atti del II International Congress on Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Alcalá de Henares 2001), CD-ROM.",
+   "type": "chapter",
+   "date": "2001",
+   "title": "Dissemination of heterogeneous informations in the recovery of historical buildings: ARKIS-NET",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Salonia",
+     "given": "P."
+    },
+    {
+     "family": "Negri",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Atti del II International Congress on Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Alcalá de Henares 2001)"
+   ],
+   "notes": "CD-ROM"
+  },
+  {
+   "position": 10,
+   "raw": "Salonia P., Negri A. 2003, Historical buildings and their decay: Data recording, analysing and transferring in an ITC environment, in Atti dell’International Workshop Vision Tecniques for Digital Architectural and Archaeological Archives (Ancona 2003), Ancona, Università Politecnica delle Marche, 302-306.",
+   "type": "chapter",
+   "date": "2003",
+   "title": "Historical buildings and their decay: Data recording, analysing and transferring in an ITC environment",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Salonia",
+     "given": "P."
+    },
+    {
+     "family": "Negri",
+     "given": "A."
+    }
+   ],
+   "publisher": "Università Politecnica delle Marche",
+   "place": "Ancona",
+   "is_part_of": [
+    "Atti dell’International Workshop Vision Tecniques for Digital Architectural and Archaeological Archives (Ancona 2003)"
+   ],
+   "pages": "302-306"
+  }
+ ]
+}

@@ -1,0 +1,858 @@
+{
+ "citing_aec_id": 587,
+ "source_file": "data/journal/22/587.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Annibaletto M. 2007a, Il database Vasa Rubra, in E. Pettenò (ed.), Vasa Rubra. Marchi di fabbrica sulla terra sigillata di Iulia Concordia, Padova, Esedra, 49-59.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Annibaletto",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pettenò",
+     "given": "E."
+    }
+   ],
+   "date": "2007",
+   "title": "Il database Vasa Rubra",
+   "is_part_of": [
+    "Vasa Rubra. Marchi di fabbrica sulla terra sigillata di Iulia Concordia"
+   ],
+   "pages": "49-59",
+   "publisher": "Esedra",
+   "place": "Padova",
+   "language": "ita",
+   "notes": "cited as 2007a",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Annibaletto M. 2007b, Vasa Rubra: un catalogo informatizzato per le terre sigillate di Iulia Concordia, «Archeologia e Calcolatori», 18, 45-56.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Annibaletto",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Vasa Rubra: un catalogo informatizzato per le terre sigillate di Iulia Concordia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "18",
+   "pages": "45-56",
+   "language": "ita",
+   "cited_aec_id": 434,
+   "notes": "cited as 2007b",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Atzeni P., Ceri S., Fraternali P., Paraboschi S., Torlone R. 2003, Basi di dati (Architetture e linee di evoluzione), Milano, McGraw Hill.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Atzeni",
+     "given": "P."
+    },
+    {
+     "family": "Ceri",
+     "given": "S."
+    },
+    {
+     "family": "Fraternali",
+     "given": "P."
+    },
+    {
+     "family": "Paraboschi",
+     "given": "S."
+    },
+    {
+     "family": "Torlone",
+     "given": "R."
+    }
+   ],
+   "date": "2003",
+   "title": "Basi di dati (Architetture e linee di evoluzione)",
+   "publisher": "McGraw Hill",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Atzeni P., Ceri S., Paraboschi S., Torlone R. 2003, Basi di dati (modelli e linguaggi di interrogazione), Milano, McGraw Hill.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Atzeni",
+     "given": "P."
+    },
+    {
+     "family": "Ceri",
+     "given": "S."
+    },
+    {
+     "family": "Paraboschi",
+     "given": "S."
+    },
+    {
+     "family": "Torlone",
+     "given": "R."
+    }
+   ],
+   "date": "2003",
+   "title": "Basi di dati (modelli e linguaggi di interrogazione)",
+   "publisher": "McGraw Hill",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bernardini P. 1986, Museo Nazionale Romano. Le ceramiche, VI. La ceramica a vernice nera dal Tevere, Roma, De Luca.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bernardini",
+     "given": "P."
+    }
+   ],
+   "date": "1986",
+   "title": "Museo Nazionale Romano. Le ceramiche, VI. La ceramica a vernice nera dal Tevere",
+   "publisher": "De Luca",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Camilli A., Vitali Rosati B. 1993, Nuove ricerche nell’agro di Capena, in N. Christie (ed.), Settlement and Economy in Italy 1500 B.C. to A.D. 1500. Papers of the Fifth Conference of Italian Archaeology, Oxford, Oxbow, 403-412.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Camilli",
+     "given": "A."
+    },
+    {
+     "family": "Vitali Rosati",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Christie",
+     "given": "N."
+    }
+   ],
+   "date": "1993",
+   "title": "Nuove ricerche nell’agro di Capena",
+   "is_part_of": [
+    "Settlement and Economy in Italy 1500 B.C. to A.D. 1500. Papers of the Fifth Conference of Italian Archaeology"
+   ],
+   "pages": "403-412",
+   "publisher": "Oxbow",
+   "place": "Oxford",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Ceccarelli L., Di Mento M. 2005, VI. Ceramica a vernice nera, in F. Di Mario (ed.), Ardea. Il deposito votivo di Casarinaccio, Roma, MiBAC, 195-256.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ceccarelli",
+     "given": "L."
+    },
+    {
+     "family": "Di Mento",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Di Mario",
+     "given": "F."
+    }
+   ],
+   "date": "2005",
+   "title": "Ceramica a vernice nera",
+   "is_part_of": [
+    "Ardea. Il deposito votivo di Casarinaccio"
+   ],
+   "pages": "195-256",
+   "publisher": "MiBAC",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited as chapter VI",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Chiesa F. 2005, Tarquinia. Archeologia e prosopografia. Tra ellenismo e romanizzazione, Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chiesa",
+     "given": "F."
+    }
+   ],
+   "date": "2005",
+   "title": "Tarquinia. Archeologia e prosopografia. Tra ellenismo e romanizzazione",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Comella A.M., Stefani G. 1990, Materiali votivi del Santuario di Campetti a Veio. Corpus delle Stipi votive 5, Roma, Giorgio Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Comella",
+     "given": "A.M."
+    },
+    {
+     "family": "Stefani",
+     "given": "G."
+    }
+   ],
+   "date": "1990",
+   "title": "Materiali votivi del Santuario di Campetti a Veio",
+   "series": "Corpus delle Stipi votive",
+   "series_number": "5",
+   "publisher": "Giorgio Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Cuomo Di Caprio N. 2007, Ceramica in archeologia, Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cuomo Di Caprio",
+     "given": "N."
+    }
+   ],
+   "date": "2007",
+   "title": "Ceramica in archeologia",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Cuomo Di Caprio N., Picon M. 2007, Proposta di un sistema di documentazione tecnica, in C. Chiaramonte Trerè, Tarquinia. Scavi dell’abitato, campagne 1982-1988. I materiali 1, Roma, L’Erma di Bretschneider, 281-308.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cuomo Di Caprio",
+     "given": "N."
+    },
+    {
+     "family": "Picon",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Chiaramonte Trerè",
+     "given": "C."
+    }
+   ],
+   "date": "2007",
+   "title": "Proposta di un sistema di documentazione tecnica",
+   "is_part_of": [
+    "Tarquinia. Scavi dell’abitato, campagne 1982-1988. I materiali 1"
+   ],
+   "pages": "281-308",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited \"in C. Chiaramonte Trerè, Tarquinia...\" without (ed.): treated as editor",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "De Angelis F. 2005, Charun. Una banca-dati per le urne etrusche, con Appendice di M. Novelli, «Archeologia e Calcolatori», 16, 7-40.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Angelis",
+     "given": "F."
+    }
+   ],
+   "date": "2005",
+   "title": "Charun. Una banca-dati per le urne etrusche",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "7-40",
+   "language": "ita",
+   "cited_aec_id": 401,
+   "notes": "cited with Appendice di M. Novelli",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "De Santis F., Peduto P., Sessa I., Ursuleo M. 1990, Informatica e beni culturali. Un progetto per la schedatura e l’elaborazione automatica di reperti ceramici medievali, Napoli, ESI.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "De Santis",
+     "given": "F."
+    },
+    {
+     "family": "Peduto",
+     "given": "P."
+    },
+    {
+     "family": "Sessa",
+     "given": "I."
+    },
+    {
+     "family": "Ursuleo",
+     "given": "M."
+    }
+   ],
+   "date": "1990",
+   "title": "Informatica e beni culturali. Un progetto per la schedatura e l’elaborazione automatica di reperti ceramici medievali",
+   "publisher": "ESI",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Di Giuseppe H. 2005, Un confronto tra l’Etruria settentrionale e meridionale dal punto di vista della ceramica a vernice nera, «Papers of the British School at Rome», 73, 31-84.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Giuseppe",
+     "given": "H."
+    }
+   ],
+   "date": "2005",
+   "title": "Un confronto tra l’Etruria settentrionale e meridionale dal punto di vista della ceramica a vernice nera",
+   "is_part_of": [
+    "Papers of the British School at Rome"
+   ],
+   "volume": "73",
+   "pages": "31-84",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Di Giuseppe H., Bousquet A., Zampini S. 2009, Produzione locale, circolazione e uso della ceramica lungo il Tevere in epoca repubblicana, in F. Coarelli, H. Patterson (eds.), Mercator Placidissimus. The Tiber Valley in Antiquity: New Research in the Upper and Middle River Valley. Proceedings of the Conference held at the British School at Rome (Rome 2008), Roma, Quasar, 587-619.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Giuseppe",
+     "given": "H."
+    },
+    {
+     "family": "Bousquet",
+     "given": "A."
+    },
+    {
+     "family": "Zampini",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Coarelli",
+     "given": "F."
+    },
+    {
+     "family": "Patterson",
+     "given": "H."
+    }
+   ],
+   "date": "2009",
+   "title": "Produzione locale, circolazione e uso della ceramica lungo il Tevere in epoca repubblicana",
+   "is_part_of": [
+    "Mercator Placidissimus. The Tiber Valley in Antiquity: New Research in the Upper and Middle River Valley. Proceedings of the Conference held at the British School at Rome (Rome 2008)"
+   ],
+   "pages": "587-619",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Elmasri R., Navathe S.B. 2003, Fundamentals of Database Systems, Addison Wesley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Elmasri",
+     "given": "R."
+    },
+    {
+     "family": "Navathe",
+     "given": "S.B."
+    }
+   ],
+   "date": "2003",
+   "title": "Fundamentals of Database Systems",
+   "publisher": "Addison Wesley",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Gliozzo E., Kirman L.W., Patos E., Memmi Turbanti I. 2004, Black-Gloss pottery: Production sites and technology in Northern Etruria, Part II, «Archaeometry», 46, 2, 227-246.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gliozzo",
+     "given": "E."
+    },
+    {
+     "family": "Kirman",
+     "given": "L.W."
+    },
+    {
+     "family": "Patos",
+     "given": "E."
+    },
+    {
+     "family": "Memmi Turbanti",
+     "given": "I."
+    }
+   ],
+   "date": "2004",
+   "title": "Black-Gloss pottery: Production sites and technology in Northern Etruria, Part II",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "46",
+   "issue": "2",
+   "pages": "227-246",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Guermandi M.P., Santoro Bianchi S. 1992, Sperimentazioni informatiche per una classificazione della ceramica grezza alpina, «Archeologia e Calcolatori», 3, 177-187.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    },
+    {
+     "family": "Santoro Bianchi",
+     "given": "S."
+    }
+   ],
+   "date": "1992",
+   "title": "Sperimentazioni informatiche per una classificazione della ceramica grezza alpina",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "3",
+   "pages": "177-187",
+   "language": "ita",
+   "notes": "find_aec: no match (vol. 3 not found in metadata)",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Ingo G.M., Bultrini G., De Caro T., Del Vais C. 2000, Microchemical study of the black-gloss on red and black figured Attic vases, «Surface and Interface Analysis», 30, 101-105.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ingo",
+     "given": "G.M."
+    },
+    {
+     "family": "Bultrini",
+     "given": "G."
+    },
+    {
+     "family": "De Caro",
+     "given": "T."
+    },
+    {
+     "family": "Del Vais",
+     "given": "C."
+    }
+   ],
+   "date": "2000",
+   "title": "Microchemical study of the black-gloss on red and black figured Attic vases",
+   "is_part_of": [
+    "Surface and Interface Analysis"
+   ],
+   "volume": "30",
+   "pages": "101-105",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Mazzeo Saracino L., Moranti N., Nannetti M.C. 2000, Ceramica a vernice nera da Ariminum. Produzione locale, rapporti produttivi e commerciali in base allo studio morfologico e archeometrico, in G.P. Brogiolo, G. Olcese (eds.), Produzione ceramica in area padana tra il II secolo a.C. e il VII secolo d.C.: nuovi dati e prospettive di ricerca. Convegno Internazionale (Desenzano del Garda 1999), Mantova, SAP Società Archeologica S.r.l., 135-144.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mazzeo Saracino",
+     "given": "L."
+    },
+    {
+     "family": "Moranti",
+     "given": "N."
+    },
+    {
+     "family": "Nannetti",
+     "given": "M.C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    },
+    {
+     "family": "Olcese",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Ceramica a vernice nera da Ariminum. Produzione locale, rapporti produttivi e commerciali in base allo studio morfologico e archeometrico",
+   "is_part_of": [
+    "Produzione ceramica in area padana tra il II secolo a.C. e il VII secolo d.C.: nuovi dati e prospettive di ricerca. Convegno Internazionale (Desenzano del Garda 1999)"
+   ],
+   "pages": "135-144",
+   "publisher": "SAP Società Archeologica S.r.l.",
+   "place": "Mantova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Morbidelli P., Verga F. 2009, A new light on black-gloss Tiberine manufactures: The Colle Rosetta settlement (Latium, Italy). A preliminary study, «Periodico di Mineralogia», 78, 29-47.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Morbidelli",
+     "given": "P."
+    },
+    {
+     "family": "Verga",
+     "given": "F."
+    }
+   ],
+   "date": "2009",
+   "title": "A new light on black-gloss Tiberine manufactures: The Colle Rosetta settlement (Latium, Italy). A preliminary study",
+   "is_part_of": [
+    "Periodico di Mineralogia"
+   ],
+   "volume": "78",
+   "pages": "29-47",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Morel J.-P. 1969, Études de céramique campanienne. L’atelier des petites estampilles, «Mélanges de l’École Française de Rome. Antiquité», 81, 59-117.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Morel",
+     "given": "J.-P."
+    }
+   ],
+   "date": "1969",
+   "title": "Études de céramique campanienne. L’atelier des petites estampilles",
+   "is_part_of": [
+    "Mélanges de l’École Française de Rome. Antiquité"
+   ],
+   "volume": "81",
+   "pages": "59-117",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Morel J.-P. 1981, Céramique campanienne: les formes, Bibliothèque des Écoles Françaises d’Athènes et de Rome, 244, Rome, École Française de Rome.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Morel",
+     "given": "J.-P."
+    }
+   ],
+   "date": "1981",
+   "title": "Céramique campanienne: les formes",
+   "series": "Bibliothèque des Écoles Françaises d’Athènes et de Rome",
+   "series_number": "244",
+   "publisher": "École Française de Rome",
+   "place": "Rome",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Niro Giangiulio M. 1999, La ceramica a vernice nera di età ellenistica, in C. Chiaramonte Trerè (ed.), Tarquinia. Scavi sistematici nell’abitato. Campagne 1982-1988. I. I materiali, Roma, L’Erma di Bretschneider, 205-259.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Niro Giangiulio",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Chiaramonte Trerè",
+     "given": "C."
+    }
+   ],
+   "date": "1999",
+   "title": "La ceramica a vernice nera di età ellenistica",
+   "is_part_of": [
+    "Tarquinia. Scavi sistematici nell’abitato. Campagne 1982-1988. I. I materiali"
+   ],
+   "pages": "205-259",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Parise Badoni F., Ruggeri M. 1988, Strutturazione dei dati delle schede di catalogo: beni archeologici immobili e territoriali, Roma-Pisa, ICCD-Istituto CNUCE.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Parise Badoni",
+     "given": "F."
+    },
+    {
+     "family": "Ruggeri",
+     "given": "M."
+    }
+   ],
+   "date": "1988",
+   "title": "Strutturazione dei dati delle schede di catalogo: beni archeologici immobili e territoriali",
+   "publisher": "ICCD-Istituto CNUCE",
+   "place": "Roma-Pisa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Picon M., Olcese G. 2002, Per la costruzione di una banca dati sulle ceramiche prodotte in Italia. Archeometria e Mondo Classico, «Periodico di Mineralogia», 72, 167-172.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Picon",
+     "given": "M."
+    },
+    {
+     "family": "Olcese",
+     "given": "G."
+    }
+   ],
+   "date": "2002",
+   "title": "Per la costruzione di una banca dati sulle ceramiche prodotte in Italia. Archeometria e Mondo Classico",
+   "is_part_of": [
+    "Periodico di Mineralogia"
+   ],
+   "volume": "72",
+   "pages": "167-172",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Roth R.E. 2006, Black-Gloss from the Acropolis of Capena (La Civitucola, Provincia di Roma), «Papers of the British School at Rome», 74, 119-162.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Roth",
+     "given": "R.E."
+    }
+   ],
+   "date": "2006",
+   "title": "Black-Gloss from the Acropolis of Capena (La Civitucola, Provincia di Roma)",
+   "is_part_of": [
+    "Papers of the British School at Rome"
+   ],
+   "volume": "74",
+   "pages": "119-162",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Roth R.E. 2007, Styling Romanisation. Pottery and Society in Central Italy, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Roth",
+     "given": "R.E."
+    }
+   ],
+   "date": "2007",
+   "title": "Styling Romanisation. Pottery and Society in Central Italy",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Santoro P. 1987, Il deposito votivo di Trebula Mutuesca. Riesame critico del materiale alla luce dei nuovi dati, «Quaderni del Centro di Studio per l’Archeologia etrusco-italica», 8, 352-364.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Santoro",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Il deposito votivo di Trebula Mutuesca. Riesame critico del materiale alla luce dei nuovi dati",
+   "is_part_of": [
+    "Quaderni del Centro di Studio per l’Archeologia etrusco-italica"
+   ],
+   "volume": "8",
+   "pages": "352-364",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Santoro P., Zarattini A. 1995, Poggio Sommavilla: rendiconto preliminare di un intervento di emergenza, «Quaderni del Centro di Studio per l’Archeologia etrusco-italica», 23, 625-633.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Santoro",
+     "given": "P."
+    },
+    {
+     "family": "Zarattini",
+     "given": "A."
+    }
+   ],
+   "date": "1995",
+   "title": "Poggio Sommavilla: rendiconto preliminare di un intervento di emergenza",
+   "is_part_of": [
+    "Quaderni del Centro di Studio per l’Archeologia etrusco-italica"
+   ],
+   "volume": "23",
+   "pages": "625-633",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Santoro Bianchi S. 1992 (ed.), Castelraimondo, scavi 1988-1990. Lo scavo, Cataloghi e Monografie archeologiche dei Civici Musei di Udine, 2, Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Santoro Bianchi",
+     "given": "S."
+    }
+   ],
+   "date": "1992",
+   "title": "Castelraimondo, scavi 1988-1990. Lo scavo",
+   "series": "Cataloghi e Monografie archeologiche dei Civici Musei di Udine",
+   "series_number": "2",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Schippa F. 1980, Officine ceramiche falische: ceramica a vernice nera nel Museo di Civita Castellana, Bari, De Donato.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Schippa",
+     "given": "F."
+    }
+   ],
+   "date": "1980",
+   "title": "Officine ceramiche falische: ceramica a vernice nera nel Museo di Civita Castellana",
+   "publisher": "De Donato",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Stanco E.A. 2004, La ceramica a vernice nera della stipe di Lucus Feroniae. Analisi preliminari, «Bullettino della Commissione Archeologica Comunale di Roma», 105, 29-46.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Stanco",
+     "given": "E.A."
+    }
+   ],
+   "date": "2004",
+   "title": "La ceramica a vernice nera della stipe di Lucus Feroniae. Analisi preliminari",
+   "is_part_of": [
+    "Bullettino della Commissione Archeologica Comunale di Roma"
+   ],
+   "volume": "105",
+   "pages": "29-46",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Verga F. 2002, L’assetto rurale in età arcaica ed in età romana del territorio di Poggio Sommavilla (Sabina tiberina), «Papers of the British School at Rome», 72, 79-98.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Verga",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "L’assetto rurale in età arcaica ed in età romana del territorio di Poggio Sommavilla (Sabina tiberina)",
+   "is_part_of": [
+    "Papers of the British School at Rome"
+   ],
+   "volume": "72",
+   "pages": "79-98",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Verga F. 2006, Ager Foronovanus I. IGM 138 IIISO/144 IVNO. v. 44, Forma Italiae, Firenze, Leo Olschki.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Verga",
+     "given": "F."
+    }
+   ],
+   "date": "2006",
+   "title": "Ager Foronovanus I. IGM 138 IIISO/144 IVNO",
+   "series": "Forma Italiae",
+   "series_number": "44",
+   "publisher": "Leo Olschki",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "cited 'v. 44'",
+   "confidence": "high"
+  }
+ ]
+}

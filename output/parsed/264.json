@@ -1,0 +1,589 @@
+{
+ "citing_aec_id": 264,
+ "source_file": "data/journal/10/264.md",
+ "references": [
+  {
+   "raw": "BINFORD, L.R. 1980, Willow smoke and dog’s tails: Hunter-gatherer settlement systems and archaeological site formation, «American Antiquity», 45, 1, 4-20.",
+   "date": "1980",
+   "creators": [
+    {
+     "family": "Binford",
+     "given": "L.R."
+    }
+   ],
+   "type": "article",
+   "title": "Willow smoke and dog’s tails: Hunter-gatherer settlement systems and archaeological site formation",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "pages": "4-20",
+   "volume": "45",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "BOONE J.L., SMITH E.A. 1998, Is it evolution yet? (with CA review), «Current Anthropology», vol. 29 Supplement, 141-173.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Boone",
+     "given": "J.L."
+    },
+    {
+     "family": "Smith",
+     "given": "E.A."
+    }
+   ],
+   "type": "article",
+   "title": "Is it evolution yet? (with CA review)",
+   "is_part_of": [
+    "Current Anthropology"
+   ],
+   "pages": "141-173",
+   "issue": "Supplement",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2,
+   "volume": "29"
+  },
+  {
+   "raw": "CONTE R., HEGSELMANN R., TERNA P. (eds.) 1997, Simulating Social Phenomena, Lecture Notes in Economics and Mathematical Systems, 456, Berlin, Springer.",
+   "date": "1997",
+   "editors": [
+    {
+     "family": "Conte",
+     "given": "R."
+    },
+    {
+     "family": "Hegselmann",
+     "given": "R."
+    },
+    {
+     "family": "Terna",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "Simulating Social Phenomena",
+   "place": "Berlin",
+   "publisher": "Springer",
+   "series": "Lecture Notes in Economics and Mathematical Systems",
+   "series_number": "456",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "DORAN J.E. 1970, Systems theory, computer simulations and archaeology, «World Archaeology», 1, 289-298.",
+   "date": "1970",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "type": "article",
+   "title": "Systems theory, computer simulations and archaeology",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "pages": "289-298",
+   "volume": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "DORAN J.E. 1990, Computer based simulation and formal modelling in archaeology: A review, in A. VOORRIPS (ed.), Mathematics and Information Science in Archaeology: A Flexible Framework, Studies in Modern Archaeology, 3, Bonn, Holos, 93-114.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "type": "chapter",
+   "title": "Computer based simulation and formal modelling in archaeology: A review",
+   "editors": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    }
+   ],
+   "pages": "93-114",
+   "is_part_of": [
+    "Mathematics and Information Science in Archaeology: A Flexible Framework"
+   ],
+   "place": "Bonn",
+   "publisher": "Holos",
+   "series": "Studies in Modern Archaeology",
+   "series_number": "3",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "DORAN J.E. 1997, From computer simulation to artificial societies, «Transactions SCS», 14, 2, 69-77.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "type": "article",
+   "title": "From computer simulation to artificial societies",
+   "is_part_of": [
+    "Transactions SCS"
+   ],
+   "pages": "69-77",
+   "volume": "14",
+   "issue": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "DORAN J.E., HODSON F.R. 1975, Mathematics and Computers in Archaeology, Edinburgh, Edinburgh University Press and Harvard University Press.",
+   "date": "1975",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    },
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    }
+   ],
+   "type": "book",
+   "title": "Mathematics and Computers in Archaeology",
+   "place": "Edinburgh",
+   "publisher": "Edinburgh University Press and Harvard University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "DORAN J.E., PALMER M., GILBERT N., MELLARS P. 1994, The EOS project: Modelling Upper Palaeolithic social change, in GILBERT, DORAN 1994, 195-221.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    },
+    {
+     "family": "Palmer",
+     "given": "M."
+    },
+    {
+     "family": "Gilbert",
+     "given": "N."
+    },
+    {
+     "family": "Mellars",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "The EOS project: Modelling Upper Palaeolithic social change",
+   "pages": "195-221",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8,
+   "xref": 12,
+   "is_part_of": [
+    "Simulating Societies"
+   ],
+   "editors": [
+    {
+     "family": "Gilbert",
+     "given": "N."
+    },
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "place": "London",
+   "publisher": "UCL Press"
+  },
+  {
+   "raw": "DORAN J.E., PALMER M. 1995, The EOS Project: Integrating two models of Palaeolithic social change, in N. GILBERT, R. CONTE (eds.) Artificial Societies, London, UCL Press, 103-125.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    },
+    {
+     "family": "Palmer",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "The EOS Project: Integrating two models of Palaeolithic social change",
+   "editors": [
+    {
+     "family": "Gilbert",
+     "given": "N."
+    },
+    {
+     "family": "Conte",
+     "given": "R."
+    }
+   ],
+   "pages": "103-125",
+   "is_part_of": [
+    "Artificial Societies"
+   ],
+   "place": "London",
+   "publisher": "UCL Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "EPSTEIN J.M., AXTELL R. 1996, Growing Artificial Societies: Social Science from the Bottom Up, Washington (D. C.), The Brookings Institution Press.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Epstein",
+     "given": "J.M."
+    },
+    {
+     "family": "Axtell",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Growing Artificial Societies: Social Science from the Bottom Up",
+   "publisher": "The Brookings Institution Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10,
+   "place": "Washington (D.C.)"
+  },
+  {
+   "raw": "GAINES S.W., GAINES W.M. 1997, Simulating success or failure: Another look at small population dynamics, «American Antiquity», 62, 4, 683-697.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Gaines",
+     "given": "S.W."
+    },
+    {
+     "family": "Gaines",
+     "given": "W.M."
+    }
+   ],
+   "type": "article",
+   "title": "Simulating success or failure: Another look at small population dynamics",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "pages": "683-697",
+   "volume": "62",
+   "issue": "4",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "GILBERT N., DORAN J.E. (eds.) 1994, Simulating Societies, London, UCL Press.",
+   "date": "1994",
+   "editors": [
+    {
+     "family": "Gilbert",
+     "given": "N."
+    },
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "type": "book",
+   "title": "Simulating Societies",
+   "place": "London",
+   "publisher": "UCL Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "HODDER I. (ed.) 1977, Simulation Studies in Archaeology, Cambridge, Cambridge University Press.",
+   "date": "1977",
+   "editors": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "type": "book",
+   "title": "Simulation Studies in Archaeology",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "JENNINGS N.R., WOOLDRIDGE M.J. (eds.) 1998, Agent Technology: Foundations, Applications and Markets, Berlin, Springer.",
+   "date": "1998",
+   "editors": [
+    {
+     "family": "Jennings",
+     "given": "N.R."
+    },
+    {
+     "family": "Wooldridge",
+     "given": "M.J."
+    }
+   ],
+   "type": "book",
+   "title": "Agent Technology: Foundations, Applications and Markets",
+   "place": "Berlin",
+   "publisher": "Springer",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "KOHLER T.A., KRESL J., VAN WEST C., CARR E. (forthcoming), Assessing the dependence of ancestral Puebloan residential site location in the Mesa Verde region on distributions of Maize productivity and water sources, Santa Fe Institute Workshop on Understanding Small-Scale Societies through Agent-Based Modeling (December 1997), Proceedings to be published as T.A. KOHLER, G.J. GUMERMAN (eds.), Dynamics of Human and Primate Societies: Agent-Based Modelling of Social and Spatial Processes, Oxford 1999, Oxford University Press.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Kohler",
+     "given": "T.A."
+    },
+    {
+     "family": "Kresl",
+     "given": "J."
+    },
+    {
+     "family": "Van West",
+     "given": "C."
+    },
+    {
+     "family": "Carr",
+     "given": "E."
+    }
+   ],
+   "type": "chapter",
+   "title": "Assessing the dependence of ancestral Puebloan residential site location in the Mesa Verde region on distributions of Maize productivity and water sources",
+   "publisher": "Oxford University Press",
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "eng",
+   "confidence": "high",
+   "position": 15,
+   "is_part_of": [
+    "Dynamics of Human and Primate Societies: Agent-Based Modelling of Social and Spatial Processes"
+   ],
+   "editors": [
+    {
+     "family": "Kohler",
+     "given": "T.A."
+    },
+    {
+     "family": "Gumerman",
+     "given": "G.J."
+    }
+   ],
+   "place": "Oxford",
+   "notes": "Santa Fe Institute Workshop on Understanding Small-Scale Societies through Agent-Based Modeling (December 1997)"
+  },
+  {
+   "raw": "MANOLOGLOU E., DORAN J. (in preparation), Agent-Based Modelling of Prehistoric Hunting Strategies, Internal Research Report, Department of Computer Science, University of Essex, Colchester.",
+   "type": "other",
+   "title": "Agent-Based Modelling of Prehistoric Hunting Strategies",
+   "confidence": "high",
+   "notes": "Internal Research Report (in preparation)",
+   "position": 16,
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Manologlou",
+     "given": "E."
+    },
+    {
+     "family": "Doran",
+     "given": "J."
+    }
+   ],
+   "publisher": "Department of Computer Science, University of Essex",
+   "place": "Colchester",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "MITHEN S.J. 1990, Thoughtful Foragers: A Study of Prehistoric Decision Making, Cambridge, Cambridge University Press.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Mithen",
+     "given": "S.J."
+    }
+   ],
+   "type": "book",
+   "title": "Thoughtful Foragers: A Study of Prehistoric Decision Making",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 17
+  },
+  {
+   "raw": "MOSCATI P. 1987 Archeologia e Calcolatori, Firenze, Giunti Barbera.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "Archeologia e Calcolatori",
+   "place": "Firenze",
+   "publisher": "Giunti Barbera",
+   "language": "eng",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "READ D.W. 1998, Kinship based demographic simulation of societal processes, «Journal of Artificial Societies and Social Simulation», 1, 1, http://www/soc.surrey.ac.uk/JASSS/1/1/1.html.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Read",
+     "given": "D.W."
+    }
+   ],
+   "type": "article",
+   "title": "Kinship based demographic simulation of societal processes",
+   "is_part_of": [
+    "Journal of Artificial Societies and Social Simulation"
+   ],
+   "volume": "1",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 19,
+   "uri": "http://www.soc.surrey.ac.uk/JASSS/1/1/1.html"
+  },
+  {
+   "raw": "RENFREW A.C. 1979, Systems collapse as social transformation: Catastrophe and anastrophe in Early State societies, in C. RENFREW, K.L. COOKE (eds.), Transformations: Mathematical Approaches to Culture Change, London, Academic Press, 481-506.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "A.C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Systems collapse as social transformation: Catastrophe and anastrophe in Early State societies",
+   "editors": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Cooke",
+     "given": "K.L."
+    }
+   ],
+   "pages": "481-506",
+   "is_part_of": [
+    "Transformations: Mathematical Approaches to Culture Change"
+   ],
+   "place": "London",
+   "publisher": "Academic Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 20
+  },
+  {
+   "raw": "RENFREW A.C. 1987, Problems in the modelling of socio-cultural systems, «European Journal of Operational Research», 30, 179-192.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "A.C."
+    }
+   ],
+   "type": "article",
+   "title": "Problems in the modelling of socio-cultural systems",
+   "is_part_of": [
+    "European Journal of Operational Research"
+   ],
+   "pages": "179-192",
+   "volume": "30",
+   "language": "eng",
+   "confidence": "high",
+   "position": 21
+  },
+  {
+   "raw": "SABLOFF J.A. (ed.) 1981, Simulations in archaeology, Albuquerque, University of New Mexico Press.",
+   "date": "1981",
+   "editors": [
+    {
+     "family": "Sabloff",
+     "given": "J.A."
+    }
+   ],
+   "type": "book",
+   "title": "Simulations in archaeology",
+   "place": "Albuquerque",
+   "publisher": "University of New Mexico Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 22
+  },
+  {
+   "raw": "VARIEN M.D., POTTER J.M. 1997, Simulating the accumulation of artifacts, «American Antiquity», 62, 2, 194-213.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Varien",
+     "given": "M.D."
+    },
+    {
+     "family": "Potter",
+     "given": "J.M."
+    }
+   ],
+   "type": "article",
+   "title": "Simulating the accumulation of artifacts",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "pages": "194-213",
+   "volume": "62",
+   "issue": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 23
+  },
+  {
+   "raw": "ZEIGLER B.P. 1990, Object-Oriented Simulation with Hierarchical, Modular Models: Intelligent Agents and Endomorphic Systems, London, Academic Press.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Zeigler",
+     "given": "B.P."
+    }
+   ],
+   "type": "book",
+   "title": "Object-Oriented Simulation with Hierarchical, Modular Models: Intelligent Agents and Endomorphic Systems",
+   "place": "London",
+   "publisher": "Academic Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 24
+  }
+ ]
+}

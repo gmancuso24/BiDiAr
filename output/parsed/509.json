@@ -1,0 +1,41 @@
+{
+ "citing_aec_id": 509,
+ "source_file": "data/journal/20/509.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Garzotto F., Paolini P., Mainetto G., Pisani S., Savino P. 1999, Using & re-using archive information for multimedia applications: the virtual museum of Italian computer science history, in ICHIM’99. International Cultural Heritage Informatics Meeting (Washington D.C. 1999) (http://www.archimuse.com/publishing/ichim_99.html).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Garzotto",
+     "given": "F."
+    },
+    {
+     "family": "Paolini",
+     "given": "P."
+    },
+    {
+     "family": "Mainetto",
+     "given": "G."
+    },
+    {
+     "family": "Pisani",
+     "given": "S."
+    },
+    {
+     "family": "Savino",
+     "given": "P."
+    }
+   ],
+   "date": "1999",
+   "title": "Using & re-using archive information for multimedia applications: the virtual museum of Italian computer science history",
+   "is_part_of": [
+    "ICHIM'99. International Cultural Heritage Informatics Meeting (Washington D.C. 1999)"
+   ],
+   "uri": "http://www.archimuse.com/publishing/ichim_99.html",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

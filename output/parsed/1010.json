@@ -1,0 +1,803 @@
+{
+ "citing_aec_id": 1010,
+ "source_file": "data/journal/29/1010.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Antlej K., Eric M., Šavnik M., Županek B., Slabe J., Battestin B. 2011, Combining 3D technologies in the field of cultural heritage: Three case studies, in Proceedings of the Conference VAST: The 12th International Symposium on Virtual Reality, Archaeology and Cultural Heritage – Short and Project Papers (Prato 2011), The Eurographics Association, 1-4 (http://dx.doi.org/10.2312/PE/VAST/VAST11S/001-004).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Antlej",
+     "given": "K."
+    },
+    {
+     "family": "Eric",
+     "given": "M."
+    },
+    {
+     "family": "Šavnik",
+     "given": "M."
+    },
+    {
+     "family": "Županek",
+     "given": "B."
+    },
+    {
+     "family": "Slabe",
+     "given": "J."
+    },
+    {
+     "family": "Battestin",
+     "given": "B."
+    }
+   ],
+   "date": "2011",
+   "title": "Combining 3D technologies in the field of cultural heritage: Three case studies",
+   "is_part_of": [
+    "Proceedings of the Conference VAST: The 12th International Symposium on Virtual Reality, Archaeology and Cultural Heritage – Short and Project Papers (Prato 2011)"
+   ],
+   "pages": "1-4",
+   "publisher": "The Eurographics Association",
+   "language": "eng",
+   "doi": "10.2312/PE/VAST/VAST11S/001-004",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Barreau J.B., Nicolas T., Bruniaux G., Petit E., Petit Q., Bernard Y., Gaugne R., Gouranton V. 2014, Ceramics fragments digitization by photogrammetry, reconstructions and applications, in EuroMed, Proceedings of the International Conference on Cultural Heritage (Lemessos 2014), 1-8 (https://hal.archives-ouvertes.fr/hal-01090145v2; last accessed 28/02/2018).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barreau",
+     "given": "J.B."
+    },
+    {
+     "family": "Nicolas",
+     "given": "T."
+    },
+    {
+     "family": "Bruniaux",
+     "given": "G."
+    },
+    {
+     "family": "Petit",
+     "given": "E."
+    },
+    {
+     "family": "Petit",
+     "given": "Q."
+    },
+    {
+     "family": "Bernard",
+     "given": "Y."
+    },
+    {
+     "family": "Gaugne",
+     "given": "R."
+    },
+    {
+     "family": "Gouranton",
+     "given": "V."
+    }
+   ],
+   "date": "2014",
+   "title": "Ceramics fragments digitization by photogrammetry, reconstructions and applications",
+   "is_part_of": [
+    "EuroMed, Proceedings of the International Conference on Cultural Heritage (Lemessos 2014)"
+   ],
+   "pages": "1-8",
+   "language": "eng",
+   "uri": "https://hal.archives-ouvertes.fr/hal-01090145v2",
+   "notes": "last accessed 28/02/2018",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bigliardi G., Dioni P., Panico G., Michiara G., Ravasi L., Romano M.G. 2015, Restauro e innovazione al Palazzo Ducale di Mantova: la stampa 3D al servizio dei Gonzaga, «Archeomatica», 3, 40-44 (https://issuu.com/geomedia/docs/archeomatica_3_2015; last accessed 14/03/2018).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bigliardi",
+     "given": "G."
+    },
+    {
+     "family": "Dioni",
+     "given": "P."
+    },
+    {
+     "family": "Panico",
+     "given": "G."
+    },
+    {
+     "family": "Michiara",
+     "given": "G."
+    },
+    {
+     "family": "Ravasi",
+     "given": "L."
+    },
+    {
+     "family": "Romano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2015",
+   "title": "Restauro e innovazione al Palazzo Ducale di Mantova: la stampa 3D al servizio dei Gonzaga",
+   "is_part_of": [
+    "Archeomatica"
+   ],
+   "issue": "3",
+   "pages": "40-44",
+   "language": "ita",
+   "uri": "https://issuu.com/geomedia/docs/archeomatica_3_2015",
+   "notes": "number 3 stored as issue; last accessed 14/03/2018",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Chen G., Chen C., Yu Z., Yin H., He L., Yuan J. 2016, Color 3D Printing: Theory, method, and application, in I.V. Shishkovsky (ed.), New Trends in 3D Printing, InTech, 25-51 (https://dx.doi.org/10.5772/63944).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Chen",
+     "given": "G."
+    },
+    {
+     "family": "Chen",
+     "given": "C."
+    },
+    {
+     "family": "Yu",
+     "given": "Z."
+    },
+    {
+     "family": "Yin",
+     "given": "H."
+    },
+    {
+     "family": "He",
+     "given": "L."
+    },
+    {
+     "family": "Yuan",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Shishkovsky",
+     "given": "I.V."
+    }
+   ],
+   "date": "2016",
+   "title": "Color 3D Printing: Theory, method, and application",
+   "is_part_of": [
+    "New Trends in 3D Printing"
+   ],
+   "pages": "25-51",
+   "publisher": "InTech",
+   "language": "eng",
+   "doi": "10.5772/63944",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Curran B. 2007, The Egyptian Renaissance: The Afterlife of Ancient Egypt in Early Modern Italy, Chicago, University of Chicago Press.",
+   "type": "book",
+   "date": "2007",
+   "title": "The Egyptian Renaissance: The Afterlife of Ancient Egypt in Early Modern Italy",
+   "creators": [
+    {
+     "family": "Curran",
+     "given": "B."
+    }
+   ],
+   "publisher": "University of Chicago Press",
+   "place": "Chicago",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Di Giuseppantonio Di Franco P., Camporesi C., Galeazzi F., Kallmann M. 2015, 3D immersive visualization and 3D printing for improved perception/interaction with past material culture, «Presence: Teleoperators and Virtual Environments», Special Issue on Living Virtual Heritage, MIT Press, 243-264 (http://dx.doi.org/10.1162/PRES_a_00229).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Giuseppantonio Di Franco",
+     "given": "P."
+    },
+    {
+     "family": "Camporesi",
+     "given": "C."
+    },
+    {
+     "family": "Galeazzi",
+     "given": "F."
+    },
+    {
+     "family": "Kallmann",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "3D immersive visualization and 3D printing for improved perception/interaction with past material culture",
+   "is_part_of": [
+    "Presence: Teleoperators and Virtual Environments"
+   ],
+   "pages": "243-264",
+   "language": "eng",
+   "doi": "10.1162/PRES_a_00229",
+   "publisher": "MIT Press",
+   "notes": "cited 'Special Issue on Living Virtual Heritage, MIT Press'",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Di Paola F., Milazzo G., Spatafora F. 2017, Computer aided restoration tools to assist the conservation of an ancient sculpture: The colossal statue of Zeus enthroned, in ICOMOS/ISPRS International Scientific Committee on Heritage Documentation (CIPA) 26th International CIPA Symposium Digital Workflows for Heritage Conservation, «The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», XLII-2/W5, 177-184 (https://doi.org/10.5194/isprs-archives-XLII-2-W5-177-2017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Paola",
+     "given": "F."
+    },
+    {
+     "family": "Milazzo",
+     "given": "G."
+    },
+    {
+     "family": "Spatafora",
+     "given": "F."
+    }
+   ],
+   "date": "2017",
+   "title": "Computer aided restoration tools to assist the conservation of an ancient sculpture: The colossal statue of Zeus enthroned",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XLII-2/W5",
+   "pages": "177-184",
+   "language": "eng",
+   "doi": "10.5194/isprs-archives-XLII-2-W5-177-2017",
+   "notes": "cited in 'ICOMOS/ISPRS International Scientific Committee on Heritage Documentation (CIPA) 26th International CIPA Symposium Digital Workflows for Heritage Conservation'",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Di Pietra V., Donadio E., Picchi D., Sambuelli L., Spanò A. 2017, Multi-source 3D models supporting ultrasonic test to investigate an Egyptian sculpture of the Archaeological Museum in Bologna, in ICOMOS/ISPRS International Scientific Committee on Heritage Documentation (CIPA) 26th International CIPA Symposium Digital Workflows for Heritage Conservation, «The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», XLII-2/W5, 259-266 (https://doi.org/10.5194/isprs-archives-XLII-2-W5-259-2017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Pietra",
+     "given": "V."
+    },
+    {
+     "family": "Donadio",
+     "given": "E."
+    },
+    {
+     "family": "Picchi",
+     "given": "D."
+    },
+    {
+     "family": "Sambuelli",
+     "given": "L."
+    },
+    {
+     "family": "Spanò",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Multi-source 3D models supporting ultrasonic test to investigate an Egyptian sculpture of the Archaeological Museum in Bologna",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XLII-2/W5",
+   "pages": "259-266",
+   "language": "eng",
+   "doi": "10.5194/isprs-archives-XLII-2-W5-259-2017",
+   "notes": "cited in 'ICOMOS/ISPRS International Scientific Committee on Heritage Documentation (CIPA) 26th International CIPA Symposium Digital Workflows for Heritage Conservation'",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Forte M. 2014, 3D archaeology. New perspectives and challenges - The example of Çatalhöyük, «Journal of Eastern Mediterranean Archaeology & Heritage Studies», 2, 1, 1-29 (https://muse.jhu.edu/article/540873; last accessed 12/03/2018).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2014",
+   "title": "3D archaeology. New perspectives and challenges - The example of Çatalhöyük",
+   "is_part_of": [
+    "Journal of Eastern Mediterranean Archaeology & Heritage Studies"
+   ],
+   "volume": "2",
+   "issue": "1",
+   "pages": "1-29",
+   "language": "eng",
+   "uri": "https://muse.jhu.edu/article/540873",
+   "notes": "last accessed 12/03/2018",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Jafri R., Syed Abid A. 2015, Utilizing 3D printing to assist the blind, in 2015 International Conference on Health Informatics and Medical Systems (HIMS'15) (Las Vegas, Nevada, 2015), 55-61 (https://www.semanticscholar.org/paper/Utilizing-3D-Printing-to-Assist-the-Blind-Jafri-Ali/33c68017f12eb2c4a30dc775dd96a1cffa7fad9b; last accessed 12/03/2018).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Jafri",
+     "given": "R."
+    },
+    {
+     "family": "Syed Abid",
+     "given": "A."
+    }
+   ],
+   "date": "2015",
+   "title": "Utilizing 3D printing to assist the blind",
+   "is_part_of": [
+    "2015 International Conference on Health Informatics and Medical Systems (HIMS'15) (Las Vegas, Nevada, 2015)"
+   ],
+   "pages": "55-61",
+   "language": "eng",
+   "uri": "https://www.semanticscholar.org/paper/Utilizing-3D-Printing-to-Assist-the-Blind-Jafri-Ali/33c68017f12eb2c4a30dc775dd96a1cffa7fad9b",
+   "notes": "second author cited 'Syed Abid A.'; last accessed 12/03/2018",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "McKnight L., Adams J.E., Chamberlain A., Atherton-Woolham S.D., Bibb R. 2015, Application of clinical imaging and 3D printing to the identification of anomalies in an ancient Egyptian animal mummy, «Journal of Archaeological Science: Reports», 3, 328-332 (https://doi.org/10.1016/j.jasrep.2015.06.028).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "McKnight",
+     "given": "L."
+    },
+    {
+     "family": "Adams",
+     "given": "J.E."
+    },
+    {
+     "family": "Chamberlain",
+     "given": "A."
+    },
+    {
+     "family": "Atherton-Woolham",
+     "given": "S.D."
+    },
+    {
+     "family": "Bibb",
+     "given": "R."
+    }
+   ],
+   "date": "2015",
+   "title": "Application of clinical imaging and 3D printing to the identification of anomalies in an ancient Egyptian animal mummy",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "volume": "3",
+   "pages": "328-332",
+   "language": "eng",
+   "doi": "10.1016/j.jasrep.2015.06.028",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Neumüller M., Reichinger A., Rist F., Kern C. 2014, 3D printing for Cultural Heritage: Preservation, accessibility, research and education, in M. Ioannides, E. Quak (eds.), 3D Research Challenges in Cultural Heritage. A Roadmap in Digital Heritage Preservation, Lecture Notes in Computer Science, 8355, New York, Springer-Verlag, 119-134 (https://dx.doi.org/10.1007/978-3-662-44630-0_9).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Neumüller",
+     "given": "M."
+    },
+    {
+     "family": "Reichinger",
+     "given": "A."
+    },
+    {
+     "family": "Rist",
+     "given": "F."
+    },
+    {
+     "family": "Kern",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Quak",
+     "given": "E."
+    }
+   ],
+   "date": "2014",
+   "title": "3D printing for Cultural Heritage: Preservation, accessibility, research and education",
+   "is_part_of": [
+    "3D Research Challenges in Cultural Heritage. A Roadmap in Digital Heritage Preservation"
+   ],
+   "pages": "119-134",
+   "series": "Lecture Notes in Computer Science",
+   "series_number": "8355",
+   "publisher": "Springer-Verlag",
+   "place": "New York",
+   "language": "eng",
+   "doi": "10.1007/978-3-662-44630-0_9",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Patay-Horváth A. 2011, The virtual 3D reconstruction of the East pediment of the Temple of Zeus at Olympia, «Geoinformatics FCE CTU», 6, 241-248 (https://doi.org/10.14311/gi.6.30).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Patay-Horváth",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "The virtual 3D reconstruction of the East pediment of the Temple of Zeus at Olympia",
+   "is_part_of": [
+    "Geoinformatics FCE CTU"
+   ],
+   "volume": "6",
+   "pages": "241-248",
+   "language": "eng",
+   "doi": "10.14311/gi.6.30",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Reichinger A., Maierhofer S., Purgathofer W. 2011, High-quality tactile paintings, «ACM Journal on Computing and Cultural Heritage», 4, 2, 1-13 (https://doi.org/10.1145/2037820.2037822).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Reichinger",
+     "given": "A."
+    },
+    {
+     "family": "Maierhofer",
+     "given": "S."
+    },
+    {
+     "family": "Purgathofer",
+     "given": "W."
+    }
+   ],
+   "date": "2011",
+   "title": "High-quality tactile paintings",
+   "is_part_of": [
+    "ACM Journal on Computing and Cultural Heritage"
+   ],
+   "volume": "4",
+   "issue": "2",
+   "pages": "1-13",
+   "language": "eng",
+   "doi": "10.1145/2037820.2037822",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Reichinger A., Neumüller M., Rist F., Maierhofer S., Purgathofer W. 2012, Computer-Aided Design of Tactile Models. Taxonomy and Case Studies, in K. Miesenberger, A. Karshmer, P. Penaz, W. Zagler (eds.), Computers Helping People with Special Needs, Lecture Notes in Computer Science, 7383, Berlin-Heidelberg, Springer, 59-63 (https://doi.org/10.1007/978-3-642-31534-3_73).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Reichinger",
+     "given": "A."
+    },
+    {
+     "family": "Neumüller",
+     "given": "M."
+    },
+    {
+     "family": "Rist",
+     "given": "F."
+    },
+    {
+     "family": "Maierhofer",
+     "given": "S."
+    },
+    {
+     "family": "Purgathofer",
+     "given": "W."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Miesenberger",
+     "given": "K."
+    },
+    {
+     "family": "Karshmer",
+     "given": "A."
+    },
+    {
+     "family": "Penaz",
+     "given": "P."
+    },
+    {
+     "family": "Zagler",
+     "given": "W."
+    }
+   ],
+   "date": "2012",
+   "title": "Computer-Aided Design of Tactile Models. Taxonomy and Case Studies",
+   "is_part_of": [
+    "Computers Helping People with Special Needs"
+   ],
+   "pages": "59-63",
+   "series": "Lecture Notes in Computer Science",
+   "series_number": "7383",
+   "publisher": "Springer",
+   "place": "Berlin-Heidelberg",
+   "language": "eng",
+   "doi": "10.1007/978-3-642-31534-3_73",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Sà A.M., Echavarria Rodriguez K., Kaminski J., Griffin M., Covill D., Arnold D. 2012, Parametric 3D-fitted frames for packaging heritage artefacts, in VAST 2012, The 13th International Symposium on Virtual Reality, Archaeology and Intelligent Cultural Heritage, Eurographics Association, 105-112 (http://dx.doi.org/10.2312/VAST/VAST12/105-112).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sà",
+     "given": "A.M."
+    },
+    {
+     "family": "Echavarria Rodriguez",
+     "given": "K."
+    },
+    {
+     "family": "Kaminski",
+     "given": "J."
+    },
+    {
+     "family": "Griffin",
+     "given": "M."
+    },
+    {
+     "family": "Covill",
+     "given": "D."
+    },
+    {
+     "family": "Arnold",
+     "given": "D."
+    }
+   ],
+   "date": "2012",
+   "title": "Parametric 3D-fitted frames for packaging heritage artefacts",
+   "is_part_of": [
+    "VAST 2012, The 13th International Symposium on Virtual Reality, Archaeology and Intelligent Cultural Heritage"
+   ],
+   "pages": "105-112",
+   "publisher": "Eurographics Association",
+   "language": "eng",
+   "doi": "10.2312/VAST/VAST12/105-112",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Scopigno R. 2013, The virtual 3D reconstruction of the East pediment of the Temple of Zeus at Olympia (review of), «European Journal of Archaeology», 16, 1, 210-212 (https://doi.org/10.1179/146195712X13524807927574).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scopigno",
+     "given": "R."
+    }
+   ],
+   "date": "2013",
+   "title": "The virtual 3D reconstruction of the East pediment of the Temple of Zeus at Olympia (review of)",
+   "is_part_of": [
+    "European Journal of Archaeology"
+   ],
+   "volume": "16",
+   "issue": "1",
+   "pages": "210-212",
+   "language": "eng",
+   "doi": "10.1179/146195712X13524807927574",
+   "notes": "book review (of Patay-Horváth 2011, pos 13)",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Scopigno R., Callieri M., Cignoni P., Corsini M., Dellepiane M., Ponchio F., Ranzuglia G. 2011, 3D models for cultural heritage: Beyond plain visualization, «IEEE Computer», 44, 7, 48-55 (https://doi.org/10.1109/MC.2011.196).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scopigno",
+     "given": "R."
+    },
+    {
+     "family": "Callieri",
+     "given": "M."
+    },
+    {
+     "family": "Cignoni",
+     "given": "P."
+    },
+    {
+     "family": "Corsini",
+     "given": "M."
+    },
+    {
+     "family": "Dellepiane",
+     "given": "M."
+    },
+    {
+     "family": "Ponchio",
+     "given": "F."
+    },
+    {
+     "family": "Ranzuglia",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "3D models for cultural heritage: Beyond plain visualization",
+   "is_part_of": [
+    "IEEE Computer"
+   ],
+   "volume": "44",
+   "issue": "7",
+   "pages": "48-55",
+   "language": "eng",
+   "doi": "10.1109/MC.2011.196",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Scopigno R., Cignoni P., Pietroni N., Callieri M., Dellepiane M. 2015, Digital fabrication techniques for cultural heritage: Survey, «Computer Graphics Forum», 36, 1, 6-21 (https://doi.org/10.1111/cgf.12781).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scopigno",
+     "given": "R."
+    },
+    {
+     "family": "Cignoni",
+     "given": "P."
+    },
+    {
+     "family": "Pietroni",
+     "given": "N."
+    },
+    {
+     "family": "Callieri",
+     "given": "M."
+    },
+    {
+     "family": "Dellepiane",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "Digital fabrication techniques for cultural heritage: Survey",
+   "is_part_of": [
+    "Computer Graphics Forum"
+   ],
+   "volume": "36",
+   "issue": "1",
+   "pages": "6-21",
+   "language": "eng",
+   "doi": "10.1111/cgf.12781",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Stanco F., Tanasi D., Allegra D., Milotta F.L.M., Lamagna G., Monterosso G. 2017, Virtual anastylosis of Greek sculpture as museum policy for public outreach and cognitive accessibility, «Journal of Electronic Imaging», 26, 1, 1-12 (https://doi.org/10.1117/1.JEI.26.1.011025).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Stanco",
+     "given": "F."
+    },
+    {
+     "family": "Tanasi",
+     "given": "D."
+    },
+    {
+     "family": "Allegra",
+     "given": "D."
+    },
+    {
+     "family": "Milotta",
+     "given": "F.L.M."
+    },
+    {
+     "family": "Lamagna",
+     "given": "G."
+    },
+    {
+     "family": "Monterosso",
+     "given": "G."
+    }
+   ],
+   "date": "2017",
+   "title": "Virtual anastylosis of Greek sculpture as museum policy for public outreach and cognitive accessibility",
+   "is_part_of": [
+    "Journal of Electronic Imaging"
+   ],
+   "volume": "26",
+   "issue": "1",
+   "pages": "1-12",
+   "language": "eng",
+   "doi": "10.1117/1.JEI.26.1.011025",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Xu I., Ding L., Love P.E.D. 2017, Digital reproduction of historical building ornamental components: From 3D scanning to 3D printing, «Automation in Construction», 76, 85-96 (https://doi.org/10.1016/j.autcon.2017.01.010).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Xu",
+     "given": "I."
+    },
+    {
+     "family": "Ding",
+     "given": "L."
+    },
+    {
+     "family": "Love",
+     "given": "P.E.D."
+    }
+   ],
+   "date": "2017",
+   "title": "Digital reproduction of historical building ornamental components: From 3D scanning to 3D printing",
+   "is_part_of": [
+    "Automation in Construction"
+   ],
+   "volume": "76",
+   "pages": "85-96",
+   "language": "eng",
+   "doi": "10.1016/j.autcon.2017.01.010",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Zhou P., Shui W., Qu L., Gao F., Wu Z. 2016, Case study: Missing data computation and 3D printing application in symmetrical artifact restoration, in VRCAI'16, Proceedings of the Symposium on VR Culture and Heritage, 2, New York, ACM, 63-66 (https://doi.org/10.1145/3014027.3014032).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zhou",
+     "given": "P."
+    },
+    {
+     "family": "Shui",
+     "given": "W."
+    },
+    {
+     "family": "Qu",
+     "given": "L."
+    },
+    {
+     "family": "Gao",
+     "given": "F."
+    },
+    {
+     "family": "Wu",
+     "given": "Z."
+    }
+   ],
+   "date": "2016",
+   "title": "Case study: Missing data computation and 3D printing application in symmetrical artifact restoration",
+   "is_part_of": [
+    "VRCAI'16, Proceedings of the Symposium on VR Culture and Heritage"
+   ],
+   "pages": "63-66",
+   "publisher": "ACM",
+   "place": "New York",
+   "language": "eng",
+   "doi": "10.1145/3014027.3014032",
+   "volume": "2",
+   "notes": "volume number 2 cited after the title",
+   "confidence": "high"
+  }
+ ]
+}

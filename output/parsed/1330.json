@@ -1,0 +1,874 @@
+{
+ "citing_aec_id": 1330,
+ "source_file": "data/journal/35/1330.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Ahmadi F.F., Ebadi H. 2009, An integrated photogrammetric and spatial database management system for producing fully structured data using aerial and remote sensing images, «Sensors», 9, 4, 2320-2333 (https://doi.org/10.3390/s90402320).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ahmadi",
+     "given": "F.F."
+    },
+    {
+     "family": "Ebadi",
+     "given": "H."
+    }
+   ],
+   "date": "2009",
+   "title": "An integrated photogrammetric and spatial database management system for producing fully structured data using aerial and remote sensing images",
+   "is_part_of": [
+    "Sensors"
+   ],
+   "volume": "9",
+   "issue": "4",
+   "pages": "2320-2333",
+   "language": "eng",
+   "doi": "10.3390/s90402320"
+  },
+  {
+   "position": 2,
+   "raw": "Baillet V., Poularakis I., Farinholt Ward A. 2021, Photogrammetric modeling and the central ravine of the sanctuary of the Great gods, Samothrace, «Digital Applications in Archaeology and Cultural Heritage», 20 (https://www.sciencedirect.com/science/article/pii/S2212054821000023).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baillet",
+     "given": "V."
+    },
+    {
+     "family": "Poularakis",
+     "given": "I."
+    },
+    {
+     "family": "Farinholt Ward",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "Photogrammetric modeling and the central ravine of the sanctuary of the Great gods, Samothrace",
+   "is_part_of": [
+    "Digital Applications in Archaeology and Cultural Heritage"
+   ],
+   "volume": "20",
+   "language": "eng",
+   "uri": "https://www.sciencedirect.com/science/article/pii/S2212054821000023"
+  },
+  {
+   "position": 3,
+   "raw": "Barrile V., Bernardo E., Fotia A., Bilotta G. 2022, Integration of laser scanner, ground-penetrating radar, 3D models and mixed reality for artistic, archaeological and cultural heritage dissemination, «Heritage», 5, 3, 1529-1550 (https://doi.org/10.3390/heritage5030080).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barrile",
+     "given": "V."
+    },
+    {
+     "family": "Bernardo",
+     "given": "E."
+    },
+    {
+     "family": "Fotia",
+     "given": "A."
+    },
+    {
+     "family": "Bilotta",
+     "given": "G."
+    }
+   ],
+   "date": "2022",
+   "title": "Integration of laser scanner, ground-penetrating radar, 3D models and mixed reality for artistic, archaeological and cultural heritage dissemination",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "5",
+   "issue": "3",
+   "pages": "1529-1550",
+   "language": "eng",
+   "doi": "10.3390/heritage5030080"
+  },
+  {
+   "position": 4,
+   "raw": "Bruseker G., Carboni N., Guillem A. 2017, Cultural heritage data management: The role of formal ontology and CIDOC CRM, in M. Vincent, V. López-Menchero Bendicho, M. Ioannides, T.E. Levy (eds.), Heritage and Archaeology in the Digital Age, New York, Springer, 93-131 (https://doi.org/10.1007/978-3-319-65370-9_6).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bruseker",
+     "given": "G."
+    },
+    {
+     "family": "Carboni",
+     "given": "N."
+    },
+    {
+     "family": "Guillem",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Vincent",
+     "given": "M."
+    },
+    {
+     "family": "López-Menchero Bendicho",
+     "given": "V."
+    },
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Levy",
+     "given": "T.E."
+    }
+   ],
+   "date": "2017",
+   "title": "Cultural heritage data management: The role of formal ontology and CIDOC CRM",
+   "is_part_of": [
+    "Heritage and Archaeology in the Digital Age"
+   ],
+   "pages": "93-131",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "doi": "10.1007/978-3-319-65370-9_6"
+  },
+  {
+   "position": 5,
+   "raw": "Carboni N., Bruseker G., Guillem A., Bellido Castañeda, Coughenour C. et al. 2016, Data provenance in photogrammetry through documentation protocols, «ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences», III, 5, 57-64 (https://doi.org/10.5194/isprs-annals-III-5-57-2016).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carboni",
+     "given": "N."
+    },
+    {
+     "family": "Bruseker",
+     "given": "G."
+    },
+    {
+     "family": "Guillem",
+     "given": "A."
+    },
+    {
+     "family": "Bellido Castañeda",
+     "given": ""
+    },
+    {
+     "family": "Coughenour",
+     "given": "C."
+    }
+   ],
+   "date": "2016",
+   "title": "Data provenance in photogrammetry through documentation protocols",
+   "is_part_of": [
+    "ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences"
+   ],
+   "volume": "III",
+   "issue": "5",
+   "pages": "57-64",
+   "language": "eng",
+   "doi": "10.5194/isprs-annals-III-5-57-2016",
+   "notes": "cited \"et al.\"; \"Bellido Castañeda\" without initial"
+  },
+  {
+   "position": 6,
+   "raw": "Chatzigrigoriou P., Nikolakopoulou V., Vakkas T., Vosinakis S., Koutsabasis P. 2021, Is architecture connected with intangible cultural heritage? Reflections from architectural digital documentation and interactive application design in three Aegean islands, «Heritage», 4, 2, 664-689 (https://doi.org/10.3390/heritage4020038).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Chatzigrigoriou",
+     "given": "P."
+    },
+    {
+     "family": "Nikolakopoulou",
+     "given": "V."
+    },
+    {
+     "family": "Vakkas",
+     "given": "T."
+    },
+    {
+     "family": "Vosinakis",
+     "given": "S."
+    },
+    {
+     "family": "Koutsabasis",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "Is architecture connected with intangible cultural heritage? Reflections from architectural digital documentation and interactive application design in three Aegean islands",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "4",
+   "issue": "2",
+   "pages": "664-689",
+   "language": "eng",
+   "doi": "10.3390/heritage4020038"
+  },
+  {
+   "position": 7,
+   "raw": "Di Giulio R., Maietti F., Piaia E., Medici M., Ferrari F., Turrilazzi B. 2017, Integrated data capturing requirements for 3D semantic modelling of Cultural Heritage: The Inception Protocol, «International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», XLII-2/W3, 251-257 (https://doi.org/10.5194/isprs-archives-XLII-2-W3-251-2017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Giulio",
+     "given": "R."
+    },
+    {
+     "family": "Maietti",
+     "given": "F."
+    },
+    {
+     "family": "Piaia",
+     "given": "E."
+    },
+    {
+     "family": "Medici",
+     "given": "M."
+    },
+    {
+     "family": "Ferrari",
+     "given": "F."
+    },
+    {
+     "family": "Turrilazzi",
+     "given": "B."
+    }
+   ],
+   "date": "2017",
+   "title": "Integrated data capturing requirements for 3D semantic modelling of Cultural Heritage: The Inception Protocol",
+   "is_part_of": [
+    "International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XLII-2/W3",
+   "pages": "251-257",
+   "language": "eng",
+   "doi": "10.5194/isprs-archives-XLII-2-W3-251-2017"
+  },
+  {
+   "position": 8,
+   "raw": "Douglass M., Lin S., Chodoronek M. 2015, The application of 3D photogrammetry for In-Field documentation of archaeological features, «Advanced in Archaeological Practice», 3, 2, 136-152.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Douglass",
+     "given": "M."
+    },
+    {
+     "family": "Lin",
+     "given": "S."
+    },
+    {
+     "family": "Chodoronek",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "The application of 3D photogrammetry for In-Field documentation of archaeological features",
+   "is_part_of": [
+    "Advances in Archaeological Practice"
+   ],
+   "volume": "3",
+   "issue": "2",
+   "pages": "136-152",
+   "language": "eng",
+   "notes": "journal cited \"Advanced in Archaeological Practice\""
+  },
+  {
+   "position": 9,
+   "raw": "Faniel I., Kansa E., Whitcher Kansa S., Barrera-Gomez J., Yakel E. 2013, The Challenges of digging data: A study of context in archaeological data reuse, in JCDL '13: Proceedings of the 13th ACM/IEEE-CS Joint Conference on Digital Libraries (Indianapolis 2013), New York, Association for Computing Machinery, 295-304 (http://dx.doi.org/10.1145/2467696.2467712).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Faniel",
+     "given": "I."
+    },
+    {
+     "family": "Kansa",
+     "given": "E."
+    },
+    {
+     "family": "Whitcher Kansa",
+     "given": "S."
+    },
+    {
+     "family": "Barrera-Gomez",
+     "given": "J."
+    },
+    {
+     "family": "Yakel",
+     "given": "E."
+    }
+   ],
+   "date": "2013",
+   "title": "The Challenges of digging data: A study of context in archaeological data reuse",
+   "is_part_of": [
+    "JCDL '13: Proceedings of the 13th ACM/IEEE-CS Joint Conference on Digital Libraries (Indianapolis 2013)"
+   ],
+   "pages": "295-304",
+   "publisher": "Association for Computing Machinery",
+   "place": "New York",
+   "language": "eng",
+   "doi": "10.1145/2467696.2467712"
+  },
+  {
+   "position": 10,
+   "raw": "Fernandez R. 2019, Digital curation of photogrammetric data, in The 84th Annual Meeting of the Society for American Archaeology, Albuquerque, Society for American Archaeology (https://doi.org/10.6067/XCV8451423).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fernandez",
+     "given": "R."
+    }
+   ],
+   "date": "2019",
+   "title": "Digital curation of photogrammetric data",
+   "is_part_of": [
+    "The 84th Annual Meeting of the Society for American Archaeology"
+   ],
+   "publisher": "Society for American Archaeology",
+   "place": "Albuquerque",
+   "language": "eng",
+   "doi": "10.6067/XCV8451423"
+  },
+  {
+   "position": 11,
+   "raw": "Freire N., de Valk S. 2019, Automated interpretability of linked data ontologies: An evaluation within the cultural heritage domain, in 2019 IEEE International Conference on Big Data, Los Angeles, IEEE Institute of Electrical and Electronics Engineers, 3072-3079 (https://doi.org/10.1109/BigData47090.2019.9005491).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Freire",
+     "given": "N."
+    },
+    {
+     "family": "de Valk",
+     "given": "S."
+    }
+   ],
+   "date": "2019",
+   "title": "Automated interpretability of linked data ontologies: An evaluation within the cultural heritage domain",
+   "is_part_of": [
+    "2019 IEEE International Conference on Big Data"
+   ],
+   "pages": "3072-3079",
+   "publisher": "IEEE Institute of Electrical and Electronics Engineers",
+   "place": "Los Angeles",
+   "language": "eng",
+   "doi": "10.1109/BigData47090.2019.9005491"
+  },
+  {
+   "position": 12,
+   "raw": "Garozzo R., Murabito F., Santagati C., Pino C., Spampinato C. 2017, Culto: An ontology-based annotation tool for data curation in Cultural Heritage, «International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», XLII-2/W5, 267-274 (https://doi.org/10.5194/isprs-archives-XLII-2-W5-267-2017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garozzo",
+     "given": "R."
+    },
+    {
+     "family": "Murabito",
+     "given": "F."
+    },
+    {
+     "family": "Santagati",
+     "given": "C."
+    },
+    {
+     "family": "Pino",
+     "given": "C."
+    },
+    {
+     "family": "Spampinato",
+     "given": "C."
+    }
+   ],
+   "date": "2017",
+   "title": "Culto: An ontology-based annotation tool for data curation in Cultural Heritage",
+   "is_part_of": [
+    "International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XLII-2/W5",
+   "pages": "267-274",
+   "language": "eng",
+   "doi": "10.5194/isprs-archives-XLII-2-W5-267-2017"
+  },
+  {
+   "position": 13,
+   "raw": "Goodbody T.R.H., White J.C., Coops N.C., LeBoeuf A. 2021, Benchmarking acquisition parameters for digital aerial photogrammetric data for forest inventory applications: Impacts of image overlap and resolution, «Remote Sensing of Environment», 265, 112677 (https://doi.org/10.1016/j.rse.2021.112677).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Goodbody",
+     "given": "T.R.H."
+    },
+    {
+     "family": "White",
+     "given": "J.C."
+    },
+    {
+     "family": "Coops",
+     "given": "N.C."
+    },
+    {
+     "family": "LeBoeuf",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "Benchmarking acquisition parameters for digital aerial photogrammetric data for forest inventory applications: Impacts of image overlap and resolution",
+   "is_part_of": [
+    "Remote Sensing of Environment"
+   ],
+   "volume": "265",
+   "pages": "112677",
+   "language": "eng",
+   "doi": "10.1016/j.rse.2021.112677"
+  },
+  {
+   "position": 14,
+   "raw": "Homburg T. 2019, Towards creating a best practice digital processing pipeline for cuneiform languages, presented at the Digital Humanities Conference 2019 (DH2019) (Utrecht 2019), DataverseNL, V2 (https://doi.org/10.34894/FKWT9T).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Homburg",
+     "given": "T."
+    }
+   ],
+   "date": "2019",
+   "title": "Towards creating a best practice digital processing pipeline for cuneiform languages, presented at the Digital Humanities Conference 2019 (DH2019) (Utrecht 2019), DataverseNL, V2",
+   "language": "eng",
+   "doi": "10.34894/FKWT9T"
+  },
+  {
+   "position": 15,
+   "raw": "Kansa E.C., Whitcher Kansa S. 2022, Promoting data quality and reuse in archaeology through collaborative identifier practices, in Proceedings of the National Academy of Sciences, 119, 43, e2109313118 (https://doi.org/10.1073/pnas.2109313118).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kansa",
+     "given": "E.C."
+    },
+    {
+     "family": "Whitcher Kansa",
+     "given": "S."
+    }
+   ],
+   "date": "2022",
+   "title": "Promoting data quality and reuse in archaeology through collaborative identifier practices",
+   "is_part_of": [
+    "Proceedings of the National Academy of Sciences"
+   ],
+   "volume": "119",
+   "issue": "43",
+   "pages": "e2109313118",
+   "language": "eng",
+   "doi": "10.1073/pnas.2109313118"
+  },
+  {
+   "position": 16,
+   "raw": "Khalil A., Stravoravdis S. 2022, Challenges of digital building data usage with a focus on the digital documentation of heritage building. Results from an online survey, «Heritage», 5, 4, 3220-3259 (https://doi.org/10.3390/heritage5040166).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Khalil",
+     "given": "A."
+    },
+    {
+     "family": "Stravoravdis",
+     "given": "S."
+    }
+   ],
+   "date": "2022",
+   "title": "Challenges of digital building data usage with a focus on the digital documentation of heritage building. Results from an online survey",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "5",
+   "issue": "4",
+   "pages": "3220-3259",
+   "language": "eng",
+   "doi": "10.3390/heritage5040166"
+  },
+  {
+   "position": 17,
+   "raw": "Klehm C. 2023, The use and challenges of spatial data in archaeology, «Advances in Archaeological Practice», 11, 1, 104-110 (https://doi.org/10.1017/aap.2022.38).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Klehm",
+     "given": "C."
+    }
+   ],
+   "date": "2023",
+   "title": "The use and challenges of spatial data in archaeology",
+   "is_part_of": [
+    "Advances in Archaeological Practice"
+   ],
+   "volume": "11",
+   "issue": "1",
+   "pages": "104-110",
+   "language": "eng",
+   "doi": "10.1017/aap.2022.38"
+  },
+  {
+   "position": 18,
+   "raw": "Koller D., Frischer B., Humphreys G. 2009, Research challenges for digital archives of 3D cultural heritage models, «ACM Journal on Computing and Cultural Heritage», 2, 3, 1-17 (https://doi.org/10.1145/1658346.1658347).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Koller",
+     "given": "D."
+    },
+    {
+     "family": "Frischer",
+     "given": "B."
+    },
+    {
+     "family": "Humphreys",
+     "given": "G."
+    }
+   ],
+   "date": "2009",
+   "title": "Research challenges for digital archives of 3D cultural heritage models",
+   "is_part_of": [
+    "ACM Journal on Computing and Cultural Heritage"
+   ],
+   "volume": "2",
+   "issue": "3",
+   "pages": "1-17",
+   "language": "eng",
+   "doi": "10.1145/1658346.1658347"
+  },
+  {
+   "position": 19,
+   "raw": "Lauro V., Lombardo V. 2023a, The cataloging and conservation of digital survey in archaeology: A photogrammetry protocol in the context of digital data curation, «Heritage», 6, 3113-3136 (https://doi.org/10.3390/heritage6030166).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lauro",
+     "given": "V."
+    },
+    {
+     "family": "Lombardo",
+     "given": "V."
+    }
+   ],
+   "date": "2023",
+   "title": "The cataloging and conservation of digital survey in archaeology: A photogrammetry protocol in the context of digital data curation",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "6",
+   "pages": "3113-3136",
+   "language": "eng",
+   "doi": "10.3390/heritage6030166",
+   "notes": "cited as 2023a"
+  },
+  {
+   "position": 20,
+   "raw": "Lauro V., Lombardo V. 2023b, A digital data curation-based photogrammetric acquisition methodology for Cultural Heritage, expanded with CIDOC CRM compatibility: Protocol BeA-PG, in GCH 2023. Eurographics Workshop on Graphics and Cultural Heritage (https://doi.org/10.2312/gch.20231169).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lauro",
+     "given": "V."
+    },
+    {
+     "family": "Lombardo",
+     "given": "V."
+    }
+   ],
+   "date": "2023",
+   "title": "A digital data curation-based photogrammetric acquisition methodology for Cultural Heritage, expanded with CIDOC CRM compatibility: Protocol BeA-PG",
+   "is_part_of": [
+    "GCH 2023. Eurographics Workshop on Graphics and Cultural Heritage"
+   ],
+   "language": "eng",
+   "doi": "10.2312/gch.20231169",
+   "notes": "cited as 2023b"
+  },
+  {
+   "position": 21,
+   "raw": "Miksa T., Simms S., Mietchen D., Jones S. 2019, Ten principles for machine-actionable data management plans, «PLoS Computational Biology», 15, 3, e1006750 (https://doi.org/10.1371/journal.pcbi.1006750).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Miksa",
+     "given": "T."
+    },
+    {
+     "family": "Simms",
+     "given": "S."
+    },
+    {
+     "family": "Mietchen",
+     "given": "D."
+    },
+    {
+     "family": "Jones",
+     "given": "S."
+    }
+   ],
+   "date": "2019",
+   "title": "Ten principles for machine-actionable data management plans",
+   "is_part_of": [
+    "PLoS Computational Biology"
+   ],
+   "volume": "15",
+   "issue": "3",
+   "pages": "e1006750",
+   "language": "eng",
+   "doi": "10.1371/journal.pcbi.1006750"
+  },
+  {
+   "position": 22,
+   "raw": "Napolitano R.K., Scherer G., Glisic B. 2017, Virtual tours and informational modeling for conservation of cultural heritage sites, «Journal of Cultural Heritage», 29, 123-129.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Napolitano",
+     "given": "R.K."
+    },
+    {
+     "family": "Scherer",
+     "given": "G."
+    },
+    {
+     "family": "Glisic",
+     "given": "B."
+    }
+   ],
+   "date": "2017",
+   "title": "Virtual tours and informational modeling for conservation of cultural heritage sites",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "29",
+   "pages": "123-129",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Pocobelli D.P., Boehm J., Bryan P., Still J., Grau-Bocé J. 2018, BIM for Heritage Science: A review, «Heritage Science», 6, 30 (https://doi.org/10.1186/s40494-018-0191-4).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pocobelli",
+     "given": "D.P."
+    },
+    {
+     "family": "Boehm",
+     "given": "J."
+    },
+    {
+     "family": "Bryan",
+     "given": "P."
+    },
+    {
+     "family": "Still",
+     "given": "J."
+    },
+    {
+     "family": "Grau-Bocé",
+     "given": "J."
+    }
+   ],
+   "date": "2018",
+   "title": "BIM for Heritage Science: A review",
+   "is_part_of": [
+    "Heritage Science"
+   ],
+   "volume": "6",
+   "pages": "30",
+   "language": "eng",
+   "doi": "10.1186/s40494-018-0191-4"
+  },
+  {
+   "position": 24,
+   "raw": "Quantin M., Hervy B., Laroche F., Kerouanton J.-L. 2015, Mass customization for cultural heritage 3D models, in 2015 Digital Heritage (Granada 2015), IEEE, 129-132 (https://doi.org/10.1109/DigitalHeritage.2015.7419469).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Quantin",
+     "given": "M."
+    },
+    {
+     "family": "Hervy",
+     "given": "B."
+    },
+    {
+     "family": "Laroche",
+     "given": "F."
+    },
+    {
+     "family": "Kerouanton",
+     "given": "J.-L."
+    }
+   ],
+   "date": "2015",
+   "title": "Mass customization for cultural heritage 3D models",
+   "is_part_of": [
+    "2015 Digital Heritage (Granada 2015)"
+   ],
+   "pages": "129-132",
+   "publisher": "IEEE",
+   "language": "eng",
+   "doi": "10.1109/DigitalHeritage.2015.7419469"
+  },
+  {
+   "position": 25,
+   "raw": "Reffat R.M., Nofal E.M. 2013, Effective communication with cultural heritage using virtual technologies, «International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», XL-5/W2, 519-524.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Reffat",
+     "given": "R.M."
+    },
+    {
+     "family": "Nofal",
+     "given": "E.M."
+    }
+   ],
+   "date": "2013",
+   "title": "Effective communication with cultural heritage using virtual technologies",
+   "is_part_of": [
+    "International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XL-5/W2",
+   "pages": "519-524",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "Remondino F. 2011, Heritage recording and 3D modeling with photogrammetry and 3D scanning, «Remote Sensing», 3, 6, 1104-1138 (https://doi.org/10.3390/rs3061104).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2011",
+   "title": "Heritage recording and 3D modeling with photogrammetry and 3D scanning",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "volume": "3",
+   "issue": "6",
+   "pages": "1104-1138",
+   "language": "eng",
+   "doi": "10.3390/rs3061104"
+  },
+  {
+   "position": 27,
+   "raw": "Rodríguez-Martín M., Rodríguez-Gonzálvez P. 2020, Suitability of automatic photogrammetric reconstruction configurations for small archaeological remains, «Sensors», 20, 10, 2936 (https://doi.org/10.3390/s20102936).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rodríguez-Martín",
+     "given": "M."
+    },
+    {
+     "family": "Rodríguez-Gonzálvez",
+     "given": "P."
+    }
+   ],
+   "date": "2020",
+   "title": "Suitability of automatic photogrammetric reconstruction configurations for small archaeological remains",
+   "is_part_of": [
+    "Sensors"
+   ],
+   "volume": "20",
+   "issue": "10",
+   "pages": "2936",
+   "language": "eng",
+   "doi": "10.3390/s20102936"
+  },
+  {
+   "position": 28,
+   "raw": "Vlachidis A., Bikakis A., Kyriaki-Manessi D., Triantafyllou I., Antoniou A. 2017, The CrossCult Knowledge Base: A Co-inhabitant of cultural heritage ontology and vocabulary classification, in M. Kirikova et al. (eds.), New Trends in Databases and Information Systems. ADBIS 2017, Communications in Computer and Information Science, 767, New York, Springer (https://doi.org/10.1007/978-3-319-67162-8_35).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vlachidis",
+     "given": "A."
+    },
+    {
+     "family": "Bikakis",
+     "given": "A."
+    },
+    {
+     "family": "Kyriaki-Manessi",
+     "given": "D."
+    },
+    {
+     "family": "Triantafyllou",
+     "given": "I."
+    },
+    {
+     "family": "Antoniou",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Kirikova",
+     "given": "M."
+    }
+   ],
+   "date": "2017",
+   "title": "The CrossCult Knowledge Base: A Co-inhabitant of cultural heritage ontology and vocabulary classification",
+   "is_part_of": [
+    "New Trends in Databases and Information Systems. ADBIS 2017",
+    "Communications in Computer and Information Science"
+   ],
+   "volume": "767",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "doi": "10.1007/978-3-319-67162-8_35",
+   "notes": "editors cited \"M. Kirikova et al.\""
+  },
+  {
+   "position": 29,
+   "raw": "Yaworsky P.M., Vernon K.B., Spangler J.D., Brewer S.C., Codding B.F. 2020, Advancing predictive modeling in archaeology: An evaluation of regression and machine learning methods on the grand staircase-escalante national monument, «PLOS ONE», 15, 10, e0239424 (https://doi.org/10.1371/journal.pone.0239424).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Yaworsky",
+     "given": "P.M."
+    },
+    {
+     "family": "Vernon",
+     "given": "K.B."
+    },
+    {
+     "family": "Spangler",
+     "given": "J.D."
+    },
+    {
+     "family": "Brewer",
+     "given": "S.C."
+    },
+    {
+     "family": "Codding",
+     "given": "B.F."
+    }
+   ],
+   "date": "2020",
+   "title": "Advancing predictive modeling in archaeology: An evaluation of regression and machine learning methods on the grand staircase-escalante national monument",
+   "is_part_of": [
+    "PLOS ONE"
+   ],
+   "volume": "15",
+   "issue": "10",
+   "pages": "e0239424",
+   "language": "eng",
+   "doi": "10.1371/journal.pone.0239424"
+  }
+ ]
+}

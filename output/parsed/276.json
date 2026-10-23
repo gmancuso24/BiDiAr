@@ -1,0 +1,478 @@
+{
+ "citing_aec_id": 276,
+ "source_file": "data/journal/10/276.md",
+ "references": [
+  {
+   "raw": "BALISTA C., DE GUIO A. 1997, Ambiente ed insediamenti nelle Valli Grandi Veronesi, in BERNABÒ BREA, CARDARELLI, CREMASCHI 1997, 137-165.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Balista",
+     "given": "C."
+    },
+    {
+     "family": "De Guio",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Ambiente ed insediamenti nelle Valli Grandi Veronesi",
+   "pages": "137-165",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1,
+   "xref": 2,
+   "is_part_of": [
+    "Le Terramare, la più antica civiltà padana, Catalogo della mostra"
+   ],
+   "editors": [
+    {
+     "family": "Bernabò Brea",
+     "given": "M."
+    },
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    },
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    }
+   ],
+   "place": "Milano",
+   "publisher": "Electa"
+  },
+  {
+   "raw": "BERNABÒ BREA M., CARDARELLI A. 1997, Le Terramare nel tempo, in BERNABÒ BREA, CARDARELLI, CREMASCHI 1997, 295-378.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Bernabò Brea",
+     "given": "M."
+    },
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Le Terramare nel tempo",
+   "pages": "295-378",
+   "language": "ita",
+   "confidence": "high",
+   "position": 2,
+   "xref": 4,
+   "is_part_of": [
+    "Le Terramare, la più antica civiltà padana, Catalogo della mostra"
+   ],
+   "editors": [
+    {
+     "family": "Bernabò Brea",
+     "given": "M."
+    },
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    },
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    }
+   ],
+   "place": "Milano",
+   "publisher": "Electa"
+  },
+  {
+   "raw": "BERNABÒ BREA M., CARDARELLI A., CREMASCHI M. 1987, Le terremare dell’area centro-padana: problemi culturali e paleoambientali, in Preistoria e Protostoria nel bacino del basso Po, Atti del Convegno (Ferrara 1984), Ferrara, 147-191.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Bernabò Brea",
+     "given": "M."
+    },
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    },
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Le terremare dell’area centro-padana: problemi culturali e paleoambientali",
+   "pages": "147-191",
+   "is_part_of": [
+    "Preistoria e Protostoria nel bacino del basso Po, Atti del Convegno (Ferrara 1984)"
+   ],
+   "place": "Ferrara",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "BERNABÒ BREA M., CARDARELLI A., CREMASCHI M. (edd.) 1997, Le Terramare, la più antica civiltà padana, Catalogo della mostra, Milano, Electa.",
+   "date": "1997",
+   "editors": [
+    {
+     "family": "Bernabò Brea",
+     "given": "M."
+    },
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    },
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Le Terramare, la più antica civiltà padana, Catalogo della mostra",
+   "place": "Milano",
+   "publisher": "Electa",
+   "language": "ita",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "BERNABÒ BREA M., CREMASCHI M. 1995, L’indagine archeologica nelle terremare: gli scavi 1991-1993 nel villaggio grande di S. Rosa a Poviglio, «Memorie Museo Civico di Storia Naturale Verona, Sez. Scienze Uomo», 4, 309-323.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Bernabò Brea",
+     "given": "M."
+    },
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "L’indagine archeologica nelle terremare: gli scavi 1991-1993 nel villaggio grande di S. Rosa a Poviglio",
+   "is_part_of": [
+    "Memorie Museo Civico di Storia Naturale Verona, Sez. Scienze Uomo"
+   ],
+   "pages": "309-323",
+   "volume": "4",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "BERNABÒ BREA M., MUTTI A. (edd.) 1994, Le Terremare si scavano per concimare i campi. La nascita dell’archeologia preistorica a Parma nella seconda metà dell’Ottocento, Catalogo della mostra, Parma, Silva editore.",
+   "date": "1994",
+   "editors": [
+    {
+     "family": "Bernabò Brea",
+     "given": "M."
+    },
+    {
+     "family": "Mutti",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Le Terremare si scavano per concimare i campi. La nascita dell’archeologia preistorica a Parma nella seconda metà dell’Ottocento, Catalogo della mostra",
+   "place": "Parma",
+   "publisher": "Silva editore",
+   "language": "ita",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "CARDARELLI A. 1988, L’età del Bronzo, organizzazione del territorio, forme economiche, strutture sociali, in Modena dalle origini all’anno mille. Studi di archeologia e storia, Modena, Panini, 86-127.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "L’età del Bronzo, organizzazione del territorio, forme economiche, strutture sociali",
+   "pages": "86-127",
+   "is_part_of": [
+    "Modena dalle origini all’anno mille. Studi di archeologia e storia"
+   ],
+   "place": "Modena",
+   "publisher": "Panini",
+   "language": "ita",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "CREMASCHI M. (ed.) 1991-1992, Ambiente, insediamento, economia durante la media età del Bronzo. L’Italia settentrionale, «Rassegna di Archeologia», 10, 145-188.",
+   "date": "1991",
+   "editors": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Ambiente, insediamento, economia durante la media età del Bronzo. L’Italia settentrionale",
+   "is_part_of": [
+    "Rassegna di Archeologia"
+   ],
+   "pages": "145-188",
+   "volume": "10",
+   "language": "ita",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "CREMASCHI M. 1997, Terramare e paesaggio padano, in BERNABÒ BREA, CARDARELLI, CREMASCHI 1997, 107-125.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Terramare e paesaggio padano",
+   "pages": "107-125",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9,
+   "xref": 2,
+   "is_part_of": [
+    "Le Terramare, la più antica civiltà padana, Catalogo della mostra"
+   ],
+   "editors": [
+    {
+     "family": "Bernabò Brea",
+     "given": "M."
+    },
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    },
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    }
+   ],
+   "place": "Milano",
+   "publisher": "Electa"
+  },
+  {
+   "raw": "CREMASCHI M., FERRETTI A., FORTE M. 1994, Tecniche digitali e di visualizzazione in geoarcheologia: il caso di studio della Terramara di S. Rosa di Poviglio, «Archeologia e Calcolatori», 5, 305-316.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    },
+    {
+     "family": "Ferretti",
+     "given": "A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Tecniche digitali e di visualizzazione in geoarcheologia: il caso di studio della Terramara di S. Rosa di Poviglio",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "305-316",
+   "volume": "5",
+   "language": "ita",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "CREMASCHI M., MARCHETTI A., RAVAZZI C. 1994, Geomorphological evidence for land surfaces cleared from forest in the central Po Plain (Northern Italy) during the Roman period, in B. FRENZEL (ed.), Evaluation of Land Surfaces Cleared from Forests in the Mediterranean Region during the Time of the Roman Empire, ESF Project European Paleoclimate and Man, 5, Stuttgart, 119-132.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    },
+    {
+     "family": "Marchetti",
+     "given": "A."
+    },
+    {
+     "family": "Ravazzi",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Geomorphological evidence for land surfaces cleared from forest in the central Po Plain (Northern Italy) during the Roman period",
+   "editors": [
+    {
+     "family": "Frenzel",
+     "given": "B."
+    }
+   ],
+   "pages": "119-132",
+   "is_part_of": [
+    "Evaluation of Land Surfaces Cleared from Forests in the Mediterranean Region during the Time of the Roman Empire"
+   ],
+   "place": "Stuttgart",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11,
+   "series": "ESF Project European Paleoclimate and Man",
+   "series_number": "5"
+  },
+  {
+   "raw": "FORTE M. 1995, Scientific visualization and archaeological landscape: the case study of a terramara, Italy, in G. LOCK, Z. STANCIC (eds.), Archaeological and Geographical Information Systems: A European Perspective, London, Taylor & Francis, 231-238.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Scientific visualization and archaeological landscape: the case study of a terramara, Italy",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "231-238",
+   "is_part_of": [
+    "Archaeological and Geographical Information Systems: A European Perspective"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "FORTE M. 1997, Il progetto ARCTOS: tra GIS, Realtà Virtuale e multimedialità, in Seconde giornate internazionali di studi sull’area elima, Atti del Congresso (Gibellina, 22-26 ottobre 1994), Pisa-Gibellina, 693-710.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il progetto ARCTOS: tra GIS, Realtà Virtuale e multimedialità",
+   "pages": "693-710",
+   "is_part_of": [
+    "Seconde giornate internazionali di studi sull’area elima, Atti del Congresso (Gibellina, 22-26 ottobre 1994)"
+   ],
+   "place": "Pisa-Gibellina",
+   "language": "ita",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "FORTE M., GUIDAZZOLI A. 1996, Archaeology, GIS and Desktop Virtual Reality: the ARCTOS Project, in H. KAMERMANS, K. FENNEMA (eds.), Interfacing the past: Computer Applications and Quantitative Methods in Archaeology, CAA 95, Analecta Praehistorica Leidensia, n. 28, Leiden 1996, 439-451.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Archaeology, GIS and Desktop Virtual Reality: the ARCTOS Project",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "pages": "439-451",
+   "is_part_of": [
+    "Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 14,
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28",
+   "place": "Leiden"
+  },
+  {
+   "raw": "MARUYAMA M. 1980, Mindscapes and science theories, «Current Anthropology», 21, 589-599.",
+   "date": "1980",
+   "creators": [
+    {
+     "family": "Maruyama",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Mindscapes and science theories",
+   "is_part_of": [
+    "Current Anthropology"
+   ],
+   "pages": "589-599",
+   "volume": "21",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "MUTTI A. 1993, Caratteristiche e problemi del popolamento terramaricolo in Emilia occidentale, Bologna, University Press.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Mutti",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Caratteristiche e problemi del popolamento terramaricolo in Emilia occidentale",
+   "place": "Bologna",
+   "publisher": "University Press",
+   "language": "ita",
+   "confidence": "high",
+   "position": 16
+  },
+  {
+   "raw": "RAVAZZI C., CREMASCHI M., FORLANI L. 1992, Ricostruzione della storia della vegetazione padana fra l’età del Bronzo e l’alto medioevo in relazione all’intervento antropico. La successione pollinica del fossato della terramara di Poviglio, «Archivio Botanico Italiano», 67, 3/4, 198-220.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Ravazzi",
+     "given": "C."
+    },
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    },
+    {
+     "family": "Forlani",
+     "given": "L."
+    }
+   ],
+   "type": "article",
+   "title": "Ricostruzione della storia della vegetazione padana fra l’età del Bronzo e l’alto medioevo in relazione all’intervento antropico. La successione pollinica del fossato della terramara di Poviglio",
+   "is_part_of": [
+    "Archivio Botanico Italiano"
+   ],
+   "pages": "198-220",
+   "volume": "67",
+   "issue": "3/4",
+   "language": "ita",
+   "confidence": "high",
+   "position": 17
+  }
+ ]
+}

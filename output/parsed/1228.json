@@ -1,0 +1,93 @@
+{
+ "citing_aec_id": 1228,
+ "source_file": "data/journal/34/1228.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bosco A., Minucci E. 2020, *Rendering RTI ed editing d'immagine per elaborazioni SfM: Confronto tra tecniche e strumenti di visualizzazione per la documentazione di graffiti in contesto archeologico*, «Newsletter di Archeologia CISA», 11, 43-66.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bosco",
+     "given": "A."
+    },
+    {
+     "family": "Minucci",
+     "given": "E."
+    }
+   ],
+   "date": "2020",
+   "title": "Rendering RTI ed editing d'immagine per elaborazioni SfM: Confronto tra tecniche e strumenti di visualizzazione per la documentazione di graffiti in contesto archeologico",
+   "is_part_of": [
+    "Newsletter di Archeologia CISA"
+   ],
+   "volume": "11",
+   "pages": "43-66",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "CHI – Cultural Heritage Imaging 2014, *Reflectance Transformation Imaging. Glossary of Photographic and Technical Terms for RTI* (https://culturalheritageimaging.org/What_We_Offer/Downloads/Capture/CHI-RTI-Glossary_v1.pdf).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "CHI – Cultural Heritage Imaging",
+     "given": ""
+    }
+   ],
+   "date": "2014",
+   "title": "Reflectance Transformation Imaging. Glossary of Photographic and Technical Terms for RTI",
+   "uri": "https://culturalheritageimaging.org/What_We_Offer/Downloads/Capture/CHI-RTI-Glossary_v1.pdf",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Duffy S.M. 2013, *Multi-light Imaging Techniques for Heritage Application*, English Heritage, London, Historic England.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Duffy",
+     "given": "S.M."
+    }
+   ],
+   "date": "2013",
+   "title": "Multi-light Imaging Techniques for Heritage Application",
+   "publisher": "Historic England",
+   "place": "London",
+   "language": "eng",
+   "notes": "cited 'English Heritage, London, Historic England'",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Earl G., Martinez K., Malzbender T. 2010, *Archaeological applications of polynomial texture mapping: Analysis, conservation and representation*, «Journal of Archaeological Science», 37, 8, 2040-2050.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Earl",
+     "given": "G."
+    },
+    {
+     "family": "Martinez",
+     "given": "K."
+    },
+    {
+     "family": "Malzbender",
+     "given": "T."
+    }
+   ],
+   "date": "2010",
+   "title": "Archaeological applications of polynomial texture mapping: Analysis, conservation and representation",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "37",
+   "issue": "8",
+   "pages": "2040-2050",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,752 @@
+{
+ "citing_aec_id": 1299,
+ "source_file": "data/journal/35/1299.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Alberti G. 2017, *TRANSIT: A GIS toolbox for estimating the duration of ancient sail-powered navigation*, «Cartography and Geographic Information Science», 45, 6, 510-528 (https://doi.org/10.1080/15230406.2017.1403376).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Alberti",
+     "given": "G."
+    }
+   ],
+   "date": "2017",
+   "title": "TRANSIT: A GIS toolbox for estimating the duration of ancient sail-powered navigation",
+   "is_part_of": [
+    "Cartography and Geographic Information Science"
+   ],
+   "volume": "45",
+   "issue": "6",
+   "pages": "510-528",
+   "language": "eng",
+   "doi": "10.1080/15230406.2017.1403376"
+  },
+  {
+   "position": 2,
+   "raw": "Bechtsi K., Theodoroudi E. 2017, Εργαστήριο αμφορέων ελληνιστικών χρόνων στα Λιμεναρια Θασου, in D. Mulliez, B. Zissis (eds.), *Thasos. Métropole et colonies. Actes du symposium international à la mémoire de Marina Sgourou (Thasos 2006)*, Athens, École Française d'Athènes, 335-342.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bechtsi",
+     "given": "K."
+    },
+    {
+     "family": "Theodoroudi",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Mulliez",
+     "given": "D."
+    },
+    {
+     "family": "Zissis",
+     "given": "B."
+    }
+   ],
+   "date": "2017",
+   "title": "Εργαστήριο αμφορέων ελληνιστικών χρόνων στα Λιμεναρια Θασου",
+   "is_part_of": [
+    "Thasos. Métropole et colonies. Actes du symposium international à la mémoire de Marina Sgourou (Thasos 2006)"
+   ],
+   "pages": "335-342",
+   "publisher": "École Française d'Athènes",
+   "place": "Athens",
+   "language": "gre"
+  },
+  {
+   "position": 3,
+   "raw": "Bonias Z., Brunet M., Sintès G. 1990, *Organisation des espaces et cheminements antiques à Thasos*, in *Archéologie et espaces. Actes des rencontres, Xe Rencontres internationales d'archéologie et d'histoire d'Antibes (Antibes 1989)*, Antibes, Éditions A.P.D.C.A., 71-125.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bonias",
+     "given": "Z."
+    },
+    {
+     "family": "Brunet",
+     "given": "M."
+    },
+    {
+     "family": "Sintès",
+     "given": "G."
+    }
+   ],
+   "date": "1990",
+   "title": "Organisation des espaces et cheminements antiques à Thasos",
+   "is_part_of": [
+    "Archéologie et espaces. Actes des rencontres, Xe Rencontres internationales d'archéologie et d'histoire d'Antibes (Antibes 1989)"
+   ],
+   "pages": "71-125",
+   "publisher": "Éditions A.P.D.C.A.",
+   "place": "Antibes",
+   "language": "fre"
+  },
+  {
+   "position": 4,
+   "raw": "Brunet M. 1986, *Kounophia. Thasos*, «Bulletin de Correspondance Hellénique», 110, 2, 809-812.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brunet",
+     "given": "M."
+    }
+   ],
+   "date": "1986",
+   "title": "Kounophia. Thasos",
+   "is_part_of": [
+    "Bulletin de Correspondance Hellénique"
+   ],
+   "volume": "110",
+   "issue": "2",
+   "pages": "809-812",
+   "language": "fre"
+  },
+  {
+   "position": 5,
+   "raw": "Brunet M. 1996, *Le territoire de Thasos*, in R. Étienne (ed.), *L'espace grec: 150 ans de fouilles de l'École Française d'Athènes*, Paris, Fayard, 34-50.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brunet",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Étienne",
+     "given": "R."
+    }
+   ],
+   "date": "1996",
+   "title": "Le territoire de Thasos",
+   "is_part_of": [
+    "L'espace grec: 150 ans de fouilles de l'École Française d'Athènes"
+   ],
+   "pages": "34-50",
+   "publisher": "Fayard",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 6,
+   "raw": "Brunet M. 2004, *Le territoire de Thasos: modèles et interprétation des données*, in F. Kolb (ed.), *Chora und Polis*, Berlin-Boston, De Gruyter (https://doi.org/10.1524/9783486594577-006), 79-86.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brunet",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Kolb",
+     "given": "F."
+    }
+   ],
+   "date": "2004",
+   "title": "Le territoire de Thasos: modèles et interprétation des données",
+   "is_part_of": [
+    "Chora und Polis"
+   ],
+   "pages": "79-86",
+   "publisher": "De Gruyter",
+   "place": "Berlin-Boston",
+   "language": "fre",
+   "doi": "10.1524/9783486594577-006"
+  },
+  {
+   "position": 7,
+   "raw": "Brunet M. 2008, *Champagne et agriculture aux époques classique et hellénistique*, in O. Picard (ed.), *Économies et sociétés en Grèce ancienne, 478-88 av. J.-C: oikonomia et économie*, Paris, Editions Sedes, 81-110.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brunet",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Picard",
+     "given": "O."
+    }
+   ],
+   "date": "2008",
+   "title": "Champagne et agriculture aux époques classique et hellénistique",
+   "is_part_of": [
+    "Économies et sociétés en Grèce ancienne, 478-88 av. J.-C: oikonomia et économie"
+   ],
+   "pages": "81-110",
+   "publisher": "Editions Sedes",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 8,
+   "raw": "Brunet M. 2019, *La cité de Thasos: organisation et ressources. Le territoire*, in M. Brunet, A. Coulié, P. Hamon, B. Holtzmann, J.-Y. Marc, A. Muller, O. Picard (eds.), *Thasos. Heurs et malheurs d'un Eldorado antique*, Paris, Editions Picard, 45-54.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brunet",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brunet",
+     "given": "M."
+    },
+    {
+     "family": "Coulié",
+     "given": "A."
+    },
+    {
+     "family": "Hamon",
+     "given": "P."
+    },
+    {
+     "family": "Holtzmann",
+     "given": "B."
+    },
+    {
+     "family": "Marc",
+     "given": "J.-Y."
+    },
+    {
+     "family": "Muller",
+     "given": "A."
+    },
+    {
+     "family": "Picard",
+     "given": "O."
+    }
+   ],
+   "date": "2019",
+   "title": "La cité de Thasos: organisation et ressources. Le territoire",
+   "is_part_of": [
+    "Thasos. Heurs et malheurs d'un Eldorado antique"
+   ],
+   "pages": "45-54",
+   "publisher": "Editions Picard",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 9,
+   "raw": "Connolly J., Lake M. 2006, *Geographical Information Systems in Archaeology*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Connolly",
+     "given": "J."
+    },
+    {
+     "family": "Lake",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Geographical Information Systems in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Foxhall L. 2007, *Olive Cultivation in Ancient Greece: Seeking the Ancient Economy*, Oxford-New York, Oxford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Foxhall",
+     "given": "L."
+    }
+   ],
+   "date": "2007",
+   "title": "Olive Cultivation in Ancient Greece: Seeking the Ancient Economy",
+   "publisher": "Oxford University Press",
+   "place": "Oxford-New York",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Garlan Y. 1979, *Koukos*, «Thasiaca», Bullettin de Correspondance Hellénique, Suppl. V, 214-268.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garlan",
+     "given": "Y."
+    }
+   ],
+   "date": "1979",
+   "title": "Koukos",
+   "is_part_of": [
+    "Thasiaca",
+    "Bulletin de Correspondance Hellénique"
+   ],
+   "volume": "Suppl. V",
+   "pages": "214-268",
+   "language": "fre"
+  },
+  {
+   "position": 12,
+   "raw": "Garlan Y. 1985, *L'atelier amphorique de Kèramidi*, «Bulletin de Correspondance Hellénique», 109, 884-888.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garlan",
+     "given": "Y."
+    }
+   ],
+   "date": "1985",
+   "title": "L'atelier amphorique de Kèramidi",
+   "is_part_of": [
+    "Bulletin de Correspondance Hellénique"
+   ],
+   "volume": "109",
+   "pages": "884-888",
+   "language": "fre"
+  },
+  {
+   "position": 13,
+   "raw": "Garlan Y. 1986, *Quelques nouveaux ateliers amphoriques à Thasos*, in J.-Y. Empereur, Y. Garlan (eds.), *Recherches sur les amphores grecques. Actes du colloque international organisé par le Centre National de la Recherche Scientifique, l'Université de Rennes II et l'École Française d'Athènes*, Paris, De Boccard, 201-229.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Garlan",
+     "given": "Y."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Empereur",
+     "given": "J.-Y."
+    },
+    {
+     "family": "Garlan",
+     "given": "Y."
+    }
+   ],
+   "date": "1986",
+   "title": "Quelques nouveaux ateliers amphoriques à Thasos",
+   "is_part_of": [
+    "Recherches sur les amphores grecques. Actes du colloque international organisé par le Centre National de la Recherche Scientifique, l'Université de Rennes II et l'École Française d'Athènes"
+   ],
+   "pages": "201-229",
+   "publisher": "De Boccard",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 14,
+   "raw": "Garlan Y. 1988, *Vin et amphores de Thasos*, Sites et monuments 5, Paris, Diffusion de Boccard.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Garlan",
+     "given": "Y."
+    }
+   ],
+   "date": "1988",
+   "title": "Vin et amphores de Thasos",
+   "series": "Sites et monuments",
+   "series_number": "5",
+   "publisher": "Diffusion de Boccard",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 15,
+   "raw": "Garlan Y. 1999, *Les timbres amphoriques de Thasos. 1: Timbres protothasiens et thasiens anciens*, Études Thasiennes 18, Athènes-Paris, École Française d'Athènes.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Garlan",
+     "given": "Y."
+    }
+   ],
+   "date": "1999",
+   "title": "Les timbres amphoriques de Thasos. 1: Timbres protothasiens et thasiens anciens",
+   "series": "Études Thasiennes",
+   "series_number": "18",
+   "publisher": "École Française d'Athènes",
+   "place": "Athènes-Paris",
+   "language": "fre"
+  },
+  {
+   "position": 16,
+   "raw": "Garlan Y. 2004-2005, *En visitant et revisitant les ateliers amphoriques de Thassos*, «Bulletin de Correspondance Hellénique», 128, 1, 269-329.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garlan",
+     "given": "Y."
+    }
+   ],
+   "date": "2004",
+   "title": "En visitant et revisitant les ateliers amphoriques de Thassos",
+   "is_part_of": [
+    "Bulletin de Correspondance Hellénique"
+   ],
+   "volume": "128",
+   "issue": "1",
+   "pages": "269-329",
+   "language": "fre",
+   "notes": "cited year 2004-2005"
+  },
+  {
+   "position": 17,
+   "raw": "Garlan Y. 2007, *Le timbrage des tuiles à Thasos*, in R.F. Stolba, K. Gex (eds.), *Recherches recentes sur le monde hellenistique. Actes du colloque international organise à l'occasion du 60e anniversaire de Pierre Ducray (Lausanne 1998)*, Bristol, Peter Lang, 191-198.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Garlan",
+     "given": "Y."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stolba",
+     "given": "R.F."
+    },
+    {
+     "family": "Gex",
+     "given": "K."
+    }
+   ],
+   "date": "2007",
+   "title": "Le timbrage des tuiles à Thasos",
+   "is_part_of": [
+    "Recherches recentes sur le monde hellenistique. Actes du colloque international organise à l'occasion du 60e anniversaire de Pierre Ducray (Lausanne 1998)"
+   ],
+   "pages": "191-198",
+   "publisher": "Peter Lang",
+   "place": "Bristol",
+   "language": "fre"
+  },
+  {
+   "position": 18,
+   "raw": "Garlan Y., Karadima-Matsa C. 1996, *Atelier amphorique de Chioni*, «Bulletin de Correspondance Hellénique», 120, 889-890.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garlan",
+     "given": "Y."
+    },
+    {
+     "family": "Karadima-Matsa",
+     "given": "C."
+    }
+   ],
+   "date": "1996",
+   "title": "Atelier amphorique de Chioni",
+   "is_part_of": [
+    "Bulletin de Correspondance Hellénique"
+   ],
+   "volume": "120",
+   "pages": "889-890",
+   "language": "fre"
+  },
+  {
+   "position": 19,
+   "raw": "Grandjean Y., Salviat F. 2000, *Guide de Thasos*, Athènes-Paris, École Française d'Athènes.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Grandjean",
+     "given": "Y."
+    },
+    {
+     "family": "Salviat",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "Guide de Thasos",
+   "publisher": "École Française d'Athènes",
+   "place": "Athènes-Paris",
+   "language": "fre"
+  },
+  {
+   "position": 20,
+   "raw": "Herzog I. 2014, *A review of case studies in archaeological Least-Cost Analysis*, «Archeologia e Calcolatori», 25, 223-239 (https://www.archcalc.cnr.it/indice/PDF25/12_Herzog.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "date": "2014",
+   "title": "A review of case studies in archaeological Least-Cost Analysis",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "25",
+   "pages": "223-239",
+   "language": "eng",
+   "uri": "https://www.archcalc.cnr.it/indice/PDF25/12_Herzog.pdf",
+   "cited_aec_id": 724
+  },
+  {
+   "position": 21,
+   "raw": "Herzog I. 2020, *Spatial analysis based on cost functions*, in M. Gillings, P. Hacigüzeller, G. Lock (eds.), *Archaeological Spatial Analysis. A Methodological Guide*, London-New York, Routledge, 333-358.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    },
+    {
+     "family": "Hacigüzeller",
+     "given": "P."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2020",
+   "title": "Spatial analysis based on cost functions",
+   "is_part_of": [
+    "Archaeological Spatial Analysis. A Methodological Guide"
+   ],
+   "pages": "333-358",
+   "publisher": "Routledge",
+   "place": "London-New York",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "Morton J. 2001, *The Role of the Physical Environment in Ancient Greek Seafaring*, Boston, Brill (https://doi.org/10.1163/9789004351073).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Morton",
+     "given": "J."
+    }
+   ],
+   "date": "2001",
+   "title": "The Role of the Physical Environment in Ancient Greek Seafaring",
+   "publisher": "Brill",
+   "place": "Boston",
+   "language": "eng",
+   "doi": "10.1163/9789004351073"
+  },
+  {
+   "position": 23,
+   "raw": "Newhard J.M.L., Levine N., Rutherford A. 2008, *Least-Cost Pathway analysis and inter-regional interaction in the Göksu Valley, Turkey*, «Anatolian Studies», 58, 87-102.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Newhard",
+     "given": "J.M.L."
+    },
+    {
+     "family": "Levine",
+     "given": "N."
+    },
+    {
+     "family": "Rutherford",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "Least-Cost Pathway analysis and inter-regional interaction in the Göksu Valley, Turkey",
+   "is_part_of": [
+    "Anatolian Studies"
+   ],
+   "volume": "58",
+   "pages": "87-102",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "Pecere B. 2006, *Viewshed e Cost Surface Analyses per uno studio dei sistemi insediativi antichi: il caso della Daunia tra X e VI sec. a.C.*, «Archeologia e Calcolatori», 17, 177-213 (https://www.archcalc.cnr.it/journal/id.php?id=427).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pecere",
+     "given": "B."
+    }
+   ],
+   "date": "2006",
+   "title": "Viewshed e Cost Surface Analyses per uno studio dei sistemi insediativi antichi: il caso della Daunia tra X e VI sec. a.C.",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "17",
+   "pages": "177-213",
+   "language": "ita",
+   "uri": "https://www.archcalc.cnr.it/journal/id.php?id=427",
+   "cited_aec_id": 427
+  },
+  {
+   "position": 25,
+   "raw": "Salviat F., Servais J. 1964, *Stèle indicatrice thasienne trouvée au sanctuaire d'Aliki*, «Bulletin de Correspondance Hellénique», 88, 267-287.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Salviat",
+     "given": "F."
+    },
+    {
+     "family": "Servais",
+     "given": "J."
+    }
+   ],
+   "date": "1964",
+   "title": "Stèle indicatrice thasienne trouvée au sanctuaire d'Aliki",
+   "is_part_of": [
+    "Bulletin de Correspondance Hellénique"
+   ],
+   "volume": "88",
+   "pages": "267-287",
+   "language": "fre"
+  },
+  {
+   "position": 26,
+   "raw": "Seaman A., Thomas L.S. 2020, *Hillforts and power in the British post-Roman West: A GIS analysis of dinas powys*, «European Journal of Archaeology», 23, 4, 547-566 (https://doi.org/10.1017/eaa.2020.19).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Seaman",
+     "given": "A."
+    },
+    {
+     "family": "Thomas",
+     "given": "L.S."
+    }
+   ],
+   "date": "2020",
+   "title": "Hillforts and power in the British post-Roman West: A GIS analysis of dinas powys",
+   "is_part_of": [
+    "European Journal of Archaeology"
+   ],
+   "volume": "23",
+   "issue": "4",
+   "pages": "547-566",
+   "language": "eng",
+   "doi": "10.1017/eaa.2020.19"
+  },
+  {
+   "position": 27,
+   "raw": "Sintès G. 2008, *Géographie historique: itinéraires et organisation spatiale de la Thasos antique*, «Bulletin de Correspondance Hellénique», 132, 639-665.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sintès",
+     "given": "G."
+    }
+   ],
+   "date": "2008",
+   "title": "Géographie historique: itinéraires et organisation spatiale de la Thasos antique",
+   "is_part_of": [
+    "Bulletin de Correspondance Hellénique"
+   ],
+   "volume": "132",
+   "pages": "639-665",
+   "language": "fre"
+  },
+  {
+   "position": 28,
+   "raw": "Surface-Evans S., White D.A. 2012, *An introduction to the Least Cost Analysis of social landscapes*, in D.A. White, S. Surface-Evans (eds.), *Least Cost Analysis of Social Landscapes: Archaeological Case Studies*, Salt Lake City, The University of Utah Press, 1-7.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    },
+    {
+     "family": "White",
+     "given": "D.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "White",
+     "given": "D.A."
+    },
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "An introduction to the Least Cost Analysis of social landscapes",
+   "is_part_of": [
+    "Least Cost Analysis of Social Landscapes: Archaeological Case Studies"
+   ],
+   "pages": "1-7",
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng",
+   "xref": 31
+  },
+  {
+   "position": 29,
+   "raw": "Tomei F. 2022, *Ancient Greek Pottery Workshops in their Rural Landscape Setting. Exploring the Intersection between Production, Environment, Society and Agrarian Economy*, Doctoral Thesis, University of Liverpool (https://doi.org/10.17638/03169006).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Tomei",
+     "given": "F."
+    }
+   ],
+   "date": "2022",
+   "title": "Ancient Greek Pottery Workshops in their Rural Landscape Setting. Exploring the Intersection between Production, Environment, Society and Agrarian Economy",
+   "publisher": "University of Liverpool",
+   "language": "eng",
+   "doi": "10.17638/03169006",
+   "notes": "Doctoral Thesis"
+  },
+  {
+   "position": 30,
+   "raw": "Wheatley D., Gillings M. 2002, *Spatial Technology and Archaeology. The Archaeological Applications of GIS*, London-New York, Taylor&Francis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    },
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Spatial Technology and Archaeology. The Archaeological Applications of GIS",
+   "publisher": "Taylor&Francis",
+   "place": "London-New York",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "White D.A., Surface-Evans S. (eds.) 2012, *Least Cost Analysis of Social Landscapes: Archaeological Case Studies*, Salt Lake City, The University of Utah Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "White",
+     "given": "D.A."
+    },
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Least Cost Analysis of Social Landscapes: Archaeological Case Studies",
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng"
+  }
+ ]
+}

@@ -1,0 +1,720 @@
+{
+ "citing_aec_id": 88,
+ "source_file": "data/journal/5/88.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AITCHISON J.A. 1986, The Statistical Analysis of Compositional Data, London, Chapman and Hall.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Aitchison",
+     "given": "J.A."
+    }
+   ],
+   "date": "1986",
+   "title": "The Statistical Analysis of Compositional Data",
+   "place": "London",
+   "publisher": "Chapman and Hall",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "BAXTER M.J. 1989, The multivariate analysis of compositional data in archaeology: a methodological note, « Archaeometry », 31, 45-53.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    }
+   ],
+   "date": "1989",
+   "title": "The multivariate analysis of compositional data in archaeology: a methodological note",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "31",
+   "pages": "45-53",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BAXTER M.J. 1991, An empirical study of principal component and correspondence analysis of glass compositions, « Archaeometry », 33, 29-41.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    }
+   ],
+   "date": "1991",
+   "title": "An empirical study of principal component and correspondence analysis of glass compositions",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "33",
+   "pages": "29-41",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "BAXTER M.J. 1992a, Archaeological uses of the biplot - a neglected technique?, in G. LOCK, J. MOFFETT (eds.), Computer Applications and Quantitative Methods in Archaeology 1991, BAR International Series 577, Oxford, 141-148.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "date": "1992",
+   "title": "Archaeological uses of the biplot - a neglected technique?",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1991"
+   ],
+   "series": "BAR International Series",
+   "series_number": "577",
+   "place": "Oxford",
+   "pages": "141-148",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BAXTER M.J. 1992b, Statistical analysis of chemical compositional data and the comparison of analyses, « Archaeometry », 34, 267-277.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    }
+   ],
+   "date": "1992",
+   "title": "Statistical analysis of chemical compositional data and the comparison of analyses",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "34",
+   "pages": "267-277",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "BAXTER M.J. 1993, Comment on D. Tangri and R. V.S. Wright, 'Multivariate analysis of compositional data ... ', « Archaeometry », 35, 112-115.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    }
+   ],
+   "date": "1993",
+   "title": "Comment on D. Tangri and R. V.S. Wright, 'Multivariate analysis of compositional data ... '",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "35",
+   "pages": "112-115",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "BAXTER M.J. 1994, Exploratory Multivariate Analysis in Archaeology, Edinburgh, Edinburgh University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    }
+   ],
+   "date": "1994",
+   "title": "Exploratory Multivariate Analysis in Archaeology",
+   "place": "Edinburgh",
+   "publisher": "Edinburgh University Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "BAXTER M.J., COOL H.E.M., HEYWORTH M.P. 1990, Principal component and correspondence analysis of compositional data: some similarities, « Journal of Applied Statistics », 17, 229-235.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    },
+    {
+     "family": "Cool",
+     "given": "H.E.M."
+    },
+    {
+     "family": "Heyworth",
+     "given": "M.P."
+    }
+   ],
+   "date": "1990",
+   "title": "Principal component and correspondence analysis of compositional data: some similarities",
+   "is_part_of": [
+    "Journal of Applied Statistics"
+   ],
+   "volume": "17",
+   "pages": "229-235",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "BISHOP R.L., NEFF H. 1989, Compositional data analysis in archaeology, in R.O. ALLEN (ed.), Archaeological Chemistry IV, Washington D.C., American Chemical Society, 57-86.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bishop",
+     "given": "R.L."
+    },
+    {
+     "family": "Neff",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "R.O."
+    }
+   ],
+   "date": "1989",
+   "title": "Compositional data analysis in archaeology",
+   "is_part_of": [
+    "Archaeological Chemistry IV"
+   ],
+   "place": "Washington D.C.",
+   "publisher": "American Chemical Society",
+   "pages": "57-86",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "CALAMIOTOU M., FILLIPAKIS S.E., JONES R.E., KASSALS D. 1984, X-ray and spectrographic analyses of terracotta figurines from Myrina: an attempt to characterise workshops, « Journal of Archaeological Science », 11, 103-117.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Calamiotou",
+     "given": "M."
+    },
+    {
+     "family": "Fillipakis",
+     "given": "S.E."
+    },
+    {
+     "family": "Jones",
+     "given": "R.E."
+    },
+    {
+     "family": "Kassals",
+     "given": "D."
+    }
+   ],
+   "date": "1984",
+   "title": "X-ray and spectrographic analyses of terracotta figurines from Myrina: an attempt to characterise workshops",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "11",
+   "pages": "103-117",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "DJINDJIAN F. 1989, Fifteen years of contributions of the French school of data analysis, in S.P.Q. RAHTZ, J. RICHARDS (eds.), Computer Applications and Quantitative Methods in Archaeology 1989, BAR International Series 548, Oxford, 193-204.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S.P.Q."
+    },
+    {
+     "family": "Richards",
+     "given": "J."
+    }
+   ],
+   "date": "1989",
+   "title": "Fifteen years of contributions of the French school of data analysis",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1989"
+   ],
+   "series": "BAR International Series",
+   "series_number": "548",
+   "place": "Oxford",
+   "pages": "193-204",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "DORAN J.E., HODSON F.R. 1975, Mathematics and Computers in Archaeology, Edinburgh, Edinburgh University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    },
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    }
+   ],
+   "date": "1975",
+   "title": "Mathematics and Computers in Archaeology",
+   "place": "Edinburgh",
+   "publisher": "Edinburgh University Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "GIHWALA D., JACOBSON L., PEISACH M., PINEDA C.A. 1984, Determining the origin of 18th and 19th century pottery and glasses using PIXE and PIPPS, « Nuclear Instruments and Methods in Physics Research », B3, 408-411.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gihwala",
+     "given": "D."
+    },
+    {
+     "family": "Jacobson",
+     "given": "L."
+    },
+    {
+     "family": "Peisach",
+     "given": "M."
+    },
+    {
+     "family": "Pineda",
+     "given": "C.A."
+    }
+   ],
+   "date": "1984",
+   "title": "Determining the origin of 18th and 19th century pottery and glasses using PIXE and PIPPS",
+   "is_part_of": [
+    "Nuclear Instruments and Methods in Physics Research"
+   ],
+   "volume": "B3",
+   "pages": "408-411",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "GRATUZE B., BARRANDON J-N. 1990, Islamic glass weights and stamps: analysis using nuclear techniques, « Archaeometry », 32, 155-162.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gratuze",
+     "given": "B."
+    },
+    {
+     "family": "Barrandon",
+     "given": "J-N."
+    }
+   ],
+   "date": "1990",
+   "title": "Islamic glass weights and stamps: analysis using nuclear techniques",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "32",
+   "pages": "155-162",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "JACKSON J.E. 1991, A User's Guide to Principal Components, Chichester, John Wiley and Sons.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jackson",
+     "given": "J.E."
+    }
+   ],
+   "date": "1991",
+   "title": "A User's Guide to Principal Components",
+   "place": "Chichester",
+   "publisher": "John Wiley and Sons",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "JACOBSON L., LOUBSER J.H.N., PEISACH M., PINEDA C.A., VAN DER WESTHUIZEN W. 1991, PIXE analysis of pre-European pottery from the Northern Transvaal and its relevance to the distribution of ceramic styles, social interaction and change, « The South African Archaeological Bulletin », 153, 19-24.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jacobson",
+     "given": "L."
+    },
+    {
+     "family": "Loubser",
+     "given": "J.H.N."
+    },
+    {
+     "family": "Peisach",
+     "given": "M."
+    },
+    {
+     "family": "Pineda",
+     "given": "C.A."
+    },
+    {
+     "family": "Van der Westhuizen",
+     "given": "W."
+    }
+   ],
+   "date": "1991",
+   "title": "PIXE analysis of pre-European pottery from the Northern Transvaal and its relevance to the distribution of ceramic styles, social interaction and change",
+   "is_part_of": [
+    "The South African Archaeological Bulletin"
+   ],
+   "volume": "153",
+   "pages": "19-24",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "JOLLIFFE I.T. 1986, Principal Component Analysis, New York, Springer-Verlag.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jolliffe",
+     "given": "I.T."
+    }
+   ],
+   "date": "1986",
+   "title": "Principal Component Analysis",
+   "place": "New York",
+   "publisher": "Springer-Verlag",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "KNAPP A.B., DUERDEN P., WRIGHT R.V.S., GRAVE P. 1988, Ceramic production and social change: archaeometric analysis of Bronze Age pottery from Jordan, « Journal of Mediterranean Archaeology », 1, 57-113.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Knapp",
+     "given": "A.B."
+    },
+    {
+     "family": "Duerden",
+     "given": "P."
+    },
+    {
+     "family": "Wright",
+     "given": "R.V.S."
+    },
+    {
+     "family": "Grave",
+     "given": "P."
+    }
+   ],
+   "date": "1988",
+   "title": "Ceramic production and social change: archaeometric analysis of Bronze Age pottery from Jordan",
+   "is_part_of": [
+    "Journal of Mediterranean Archaeology"
+   ],
+   "volume": "1",
+   "pages": "57-113",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "LEESE M.N., HUGHES M.J., STOPFORD J. 1989, The chemical composition of tiles from Bordesley: a case study in data treatment, in S.P.Q. RAHTZ, J. RICHARDS (eds.), Computer Applications and Quantitative Methods in Archaeology 1989, BAR International Series 548, Oxford, 241-249.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Leese",
+     "given": "M.N."
+    },
+    {
+     "family": "Hughes",
+     "given": "M.J."
+    },
+    {
+     "family": "Stopford",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S.P.Q."
+    },
+    {
+     "family": "Richards",
+     "given": "J."
+    }
+   ],
+   "date": "1989",
+   "title": "The chemical composition of tiles from Bordesley: a case study in data treatment",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1989"
+   ],
+   "series": "BAR International Series",
+   "series_number": "548",
+   "place": "Oxford",
+   "pages": "241-249",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "MIRTI P., ZELANO V., ARUGA R., FERRARA E., APPOLONIA L. 1990, Roman pottery from Augusta Praetoria (A osta, Italy): a provenance study, « Archaeometry », 32, 163-175.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mirti",
+     "given": "P."
+    },
+    {
+     "family": "Zelano",
+     "given": "V."
+    },
+    {
+     "family": "Aruga",
+     "given": "R."
+    },
+    {
+     "family": "Ferrara",
+     "given": "E."
+    },
+    {
+     "family": "Appolonia",
+     "given": "L."
+    }
+   ],
+   "date": "1990",
+   "title": "Roman pottery from Augusta Praetoria (Aosta, Italy): a provenance study",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "32",
+   "pages": "163-175",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "PEISACH M., JACOBSON L., BOULLE G.J., GIHWALA D., UNDERHILL L.G. 1982, Multivariate analysis of trace elements determined in archaeological materials and its use for characterisation, « Journal of Radioanalytical Chemistry », 69, 349-364.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peisach",
+     "given": "M."
+    },
+    {
+     "family": "Jacobson",
+     "given": "L."
+    },
+    {
+     "family": "Boulle",
+     "given": "G.J."
+    },
+    {
+     "family": "Gihwala",
+     "given": "D."
+    },
+    {
+     "family": "Underhill",
+     "given": "L.G."
+    }
+   ],
+   "date": "1982",
+   "title": "Multivariate analysis of trace elements determined in archaeological materials and its use for characterisation",
+   "is_part_of": [
+    "Journal of Radioanalytical Chemistry"
+   ],
+   "volume": "69",
+   "pages": "349-364",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "PIKE H.H.M., FULFORD M.G. 1983, Neutron activation analysis of black-glazed pottery from Carthage, « Archaeometry », 25, 77-86.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pike",
+     "given": "H.H.M."
+    },
+    {
+     "family": "Fulford",
+     "given": "M.G."
+    }
+   ],
+   "date": "1983",
+   "title": "Neutron activation analysis of black-glazed pottery from Carthage",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "25",
+   "pages": "77-86",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "POLLARD A.M. 1986, Data analysis, in R.R. JONES, Greek and Cypriot Pottery: A Review of Scientific Studies, Athens, British School at Athens, 56-83.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pollard",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Jones",
+     "given": "R.R."
+    }
+   ],
+   "date": "1986",
+   "title": "Data analysis",
+   "is_part_of": [
+    "Greek and Cypriot Pottery: A Review of Scientific Studies"
+   ],
+   "place": "Athens",
+   "publisher": "British School at Athens",
+   "pages": "56-83",
+   "language": "eng",
+   "notes": "cited as \"in R.R. JONES, Greek and Cypriot Pottery\"; Jones is editor/author of the volume",
+   "confidence": "low"
+  },
+  {
+   "position": 24,
+   "raw": "SHENNAN S. 1988, Quantifying Archaeology, Edinburgh, Edinburgh University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Shennan",
+     "given": "S."
+    }
+   ],
+   "date": "1988",
+   "title": "Quantifying Archaeology",
+   "place": "Edinburgh",
+   "publisher": "Edinburgh University Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "SIBSON R. 1978, Studies in the robustness of multi-dimensional scaling: Procrustes statistics, « Journal of the Royal Statistical Society », B40, 234-238.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sibson",
+     "given": "R."
+    }
+   ],
+   "date": "1978",
+   "title": "Studies in the robustness of multi-dimensional scaling: Procrustes statistics",
+   "is_part_of": [
+    "Journal of the Royal Statistical Society"
+   ],
+   "volume": "B40",
+   "pages": "234-238",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "TANGRI D., WRIGHT R.V.S. 1993, Multivariate analysis of compositional data: applied comparisons favour standard principal components analysis over Aitchison's loglinear contrast method, « Archaeometry », 35, 103-112.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tangri",
+     "given": "D."
+    },
+    {
+     "family": "Wright",
+     "given": "R.V.S."
+    }
+   ],
+   "date": "1993",
+   "title": "Multivariate analysis of compositional data: applied comparisons favour standard principal components analysis over Aitchison's loglinear contrast method",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "35",
+   "pages": "103-112",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "UNDERHILL L.G., PEISACH M. 1985, Correspondence analysis and its application to multielemental trace analysis, «Journal of Trace and Microprobe Techniques », 3, 41-65.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Underhill",
+     "given": "L.G."
+    },
+    {
+     "family": "Peisach",
+     "given": "M."
+    }
+   ],
+   "date": "1985",
+   "title": "Correspondence analysis and its application to multielemental trace analysis",
+   "is_part_of": [
+    "Journal of Trace and Microprobe Techniques"
+   ],
+   "volume": "3",
+   "pages": "41-65",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "WRIGHT R.V.S. 1989, Doing Multivariate Archaeology and Prehistory: Handling Large Data Sets with MV-ARCH, Sydney, Department of Anthropology, University of Sydney.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wright",
+     "given": "R.V.S."
+    }
+   ],
+   "date": "1989",
+   "title": "Doing Multivariate Archaeology and Prehistory: Handling Large Data Sets with MV-ARCH",
+   "place": "Sydney",
+   "publisher": "Department of Anthropology, University of Sydney",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "citing_aec_id": 273,
+ "source_file": "data/journal/10/273.md",
+ "references": [
+  {
+   "raw": "AA.VV. 1993, Alla ricerca di Entella, Pisa.",
+   "date": "1993",
+   "type": "book",
+   "title": "Alla ricerca di Entella",
+   "place": "Pisa",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "AA.VV. 1995, Entella I, Pisa.",
+   "date": "1995",
+   "type": "book",
+   "title": "Entella I",
+   "place": "Pisa",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "AA.VV. 1996, Linee guida del Piano Territoriale Paesistico Regionale, Palermo.",
+   "date": "1996",
+   "type": "book",
+   "title": "Linee guida del Piano Territoriale Paesistico Regionale",
+   "place": "Palermo",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "CARUSO E., GINI G. c.s., La pianificazione territoriale paesistica della Regione Sicilia attraverso l’articolazione per sistemi e componenti. Il Sistema Informativo Territoriale e la Carta dei siti di interesse archeologico della Sicilia: un’applicazione concreta per la tutela e la pianificazione, in B. AMENDOLEA (ed.), Carta archeologica e pianificazione territoriale. Un problema politico e metodologico, Atti dell’incontro di studio (Roma, 10-12 marzo 1997), Roma.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Caruso",
+     "given": "E."
+    },
+    {
+     "family": "Gini",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "La pianificazione territoriale paesistica della Regione Sicilia attraverso l’articolazione per sistemi e componenti. Il Sistema Informativo Territoriale e la Carta dei siti di interesse archeologico della Sicilia: un’applicazione concreta per la tutela e la pianificazione",
+   "editors": [
+    {
+     "family": "Amendolea",
+     "given": "B."
+    }
+   ],
+   "is_part_of": [
+    "Carta archeologica e pianificazione territoriale. Un problema politico e metodologico, Atti dell’incontro di studio (Roma, 10-12 marzo 1997)"
+   ],
+   "place": "Roma",
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "ita",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "PARRA M.C. (ed.) 1996, Antiquarium di Entella. Guida del Museo, Pisa-Contessa Entellina.",
+   "date": "1996",
+   "editors": [
+    {
+     "family": "Parra",
+     "given": "M.C."
+    }
+   ],
+   "type": "book",
+   "title": "Antiquarium di Entella. Guida del Museo",
+   "place": "Pisa-Contessa Entellina",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5
+  }
+ ]
+}

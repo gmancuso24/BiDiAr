@@ -1,0 +1,1417 @@
+{
+ "citing_aec_id": 494,
+ "source_file": "data/journal/19/494.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Barceló J.A. 2000, Visualizing what might be. An introduction to Virtual Reality techniques in archaeology, in Barceló, Forte, Sanders 2000, 9-35.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "date": "2000",
+   "title": "Visualizing what might be. An introduction to Virtual Reality techniques in archaeology",
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "pages": "9-35",
+   "series": "BAR International Series",
+   "series_number": "843",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 4,
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Barceló J.A. 2001, Virtual reality for archaeological explanation. Beyond “picturesque reconstruction”, «Archeologia e Calcolatori», 12, 221-244.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "2001",
+   "title": "Virtual reality for archaeological explanation. Beyond \"picturesque reconstruction\"",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "221-244",
+   "language": "eng",
+   "cited_aec_id": 324,
+   "notes": "pages as cited: 221-244",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Barceló J.A., de Castro O., Travet D., Vicente O. 2003, A 3D model of an archaeological excavation, in M. Doerr, A. Sarris (eds.), The Digital Heritage of Archaeology, Proceedings of the 30th CAA Conference (Heraklion, Crete 2002), Athens, Hellenic Ministry of Culture, 85-89.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "de Castro",
+     "given": "O."
+    },
+    {
+     "family": "Travet",
+     "given": "D."
+    },
+    {
+     "family": "Vicente",
+     "given": "O."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "date": "2003",
+   "title": "A 3D model of an archaeological excavation",
+   "is_part_of": [
+    "The Digital Heritage of Archaeology, Proceedings of the 30th CAA Conference (Heraklion, Crete 2002)"
+   ],
+   "pages": "85-89",
+   "publisher": "Hellenic Ministry of Culture",
+   "place": "Athens",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Barceló J.A., Forte M., Sanders D.H. (eds.) 2000, Virtual Reality in Archaeology, BAR International Series 843, Oxford, Archaeopress.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "date": "2000",
+   "title": "Virtual Reality in Archaeology",
+   "series": "BAR International Series",
+   "series_number": "843",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Barchesi C. 2005, Archeologia e Calcolatori: nuove strategie per la diffusione di contenuti in rete sulla base dell’OAI-PMH, «Archeologia e Calcolatori», 16, 225-241.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barchesi",
+     "given": "C."
+    }
+   ],
+   "date": "2005",
+   "title": "Archeologia e Calcolatori: nuove strategie per la diffusione di contenuti in rete sulla base dell'OAI-PMH",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "225-241",
+   "language": "ita",
+   "cited_aec_id": 412,
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Campana S., Francovich R. 2006, Laser scanner e GPS. Paesaggi archeologici e tecnologie digitali 1, I Workshop (Grosseto 2005), Firenze, All’Insegna del Giglio.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Laser scanner e GPS. Paesaggi archeologici e tecnologie digitali 1, I Workshop (Grosseto 2005)",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "cited with Campana and Francovich as authors; they are the editors of the workshop volume (see the chapters 'in Campana, Francovich 2006')",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Carandini A. 1990, Nuove riflessioni su “storie dalla terra”, in Francovich, Manacorda 1990, 31-42.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "1990",
+   "title": "Nuove riflessioni su \"storie dalla terra\"",
+   "is_part_of": [
+    "Lo scavo archeologico. Dalla diagnosi all'edizione, III Ciclo di Lezioni sulla Ricerca Applicata in Archeologia (Certosa di Pontignano-SI 1989)"
+   ],
+   "pages": "31-42",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 18,
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Carver M.O.H. 1990, Digging for data: archaeological approaches to data definition, acquisition and analysis, in Francovich, Manacorda 1990, 45-120.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Carver",
+     "given": "M.O.H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "1990",
+   "title": "Digging for data: archaeological approaches to data definition, acquisition and analysis",
+   "is_part_of": [
+    "Lo scavo archeologico. Dalla diagnosi all'edizione, III Ciclo di Lezioni sulla Ricerca Applicata in Archeologia (Certosa di Pontignano-SI 1989)"
+   ],
+   "pages": "45-120",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "eng",
+   "xref": 18,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "D’Andrea A. 2006, Documentazione archeologica, standard e trattamento informatico, Budapest, Archaeolingua.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    }
+   ],
+   "date": "2006",
+   "title": "Documentazione archeologica, standard e trattamento informatico",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "De Felice G., Mangialardi N.M., Sibilano M.G., Volpe G. c.s., Late Roman villa at Faragola (Foggia, Italy). Laser scanning for a global documentation methodology during field research, in Layers of Perception. Proceedings of CAA 2007 (Berlin 2007), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Mangialardi",
+     "given": "N.M."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    },
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Posluschny",
+     "given": "A."
+    },
+    {
+     "family": "Lambers",
+     "given": "K."
+    }
+   ],
+   "date": "2008",
+   "title": "Late Roman villa at Faragola (Foggia, Italy). Laser scanning for a global documentation methodology during field research",
+   "is_part_of": [
+    "CAA2007: Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA), Berlin, Germany, April 2-6, 2007"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://bibliographie.uni-tuebingen.de/xmlui/handle/10900/61302 (CAA2007 Layers of Perception, KVF 10, Habelt, Bonn 2008; file 28_DeFelice_et_al_CAA2007)"
+   },
+   "notes": "cited as c.s.; pages not found; the repository record names only G. Volpe as author",
+   "series": "Kolloquien zur Vor- und Frühgeschichte",
+   "series_number": "10",
+   "publisher": "Rudolf Habelt",
+   "place": "Bonn",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "De Luca P.G., Genco L., Dentamaro F., Perrino G., Pedone A., Cannito C., D’Elia G., Di Zanni A., De Stefano A. c.s., An approach for the re-usability of cultural heritage knowledge. Towards a CORE ontology, in International Workshop Ontology Based Modelling in the Humanities (Hamburg 2006), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Luca",
+     "given": "P.G."
+    },
+    {
+     "family": "Genco",
+     "given": "L."
+    },
+    {
+     "family": "Dentamaro",
+     "given": "F."
+    },
+    {
+     "family": "Perrino",
+     "given": "G."
+    },
+    {
+     "family": "Pedone",
+     "given": "A."
+    },
+    {
+     "family": "Cannito",
+     "given": "C."
+    },
+    {
+     "family": "D'Elia",
+     "given": "G."
+    },
+    {
+     "family": "Di Zanni",
+     "given": "A."
+    },
+    {
+     "family": "De Stefano",
+     "given": "A."
+    }
+   ],
+   "date": "c.s.",
+   "title": "An approach for the re-usability of cultural heritage knowledge. Towards a CORE ontology",
+   "is_part_of": [
+    "International Workshop Ontology Based Modelling in the Humanities (Hamburg 2006)"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Dentamaro F., Cannito C., Perrino G., Sibilano M.G., Stufano N. 2007, A CIDOC CRM-based ontology system for sharing knowledge about Cultural Heritage, in J.T. Clark, E.M. Hagenmeister, Digital Discovery: Exploring New Frontiers in Human Heritage. Computer Applications and Quantitative Methods in Archaeology, Proceedings of the 33<sup>rd</sup> CAA Conference (Fargo 2006), Budapest, Archaeolingua, 437-444, on CD.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dentamaro",
+     "given": "F."
+    },
+    {
+     "family": "Cannito",
+     "given": "C."
+    },
+    {
+     "family": "Perrino",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    },
+    {
+     "family": "Stufano",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Clark",
+     "given": "J.T."
+    },
+    {
+     "family": "Hagenmeister",
+     "given": "E.M."
+    }
+   ],
+   "date": "2007",
+   "title": "A CIDOC CRM-based ontology system for sharing knowledge about Cultural Heritage",
+   "is_part_of": [
+    "Digital Discovery: Exploring New Frontiers in Human Heritage. Computer Applications and Quantitative Methods in Archaeology, Proceedings of the 33rd CAA Conference (Fargo 2006)"
+   ],
+   "pages": "437-444",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "eng",
+   "notes": "Clark and Hagenmeister cited without '(eds.)': treated as editors; on CD",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Doneus M., Neubauer W. c.s., Laser scanners for 3D documentation of stratigraphic excavations, in International Workshop on Recording, Modeling and Visualization of Cultural Heritage (Ascona 2005), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Doneus",
+     "given": "M."
+    },
+    {
+     "family": "Neubauer",
+     "given": "W."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Laser scanners for 3D documentation of stratigraphic excavations",
+   "is_part_of": [
+    "International Workshop on Recording, Modeling and Visualization of Cultural Heritage (Ascona 2005)"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Forte M. 2002, I Sistemi Informativi Geografici in archeologia, Roma, MondoGis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "I Sistemi Informativi Geografici in archeologia",
+   "publisher": "MondoGis",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Forte M. 2006, Tra conoscenza e comunicazione in archeologia: considerazioni in margine alla terza dimensione, in Campana, Francovich 2006, 23-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Tra conoscenza e comunicazione in archeologia: considerazioni in margine alla terza dimensione",
+   "is_part_of": [
+    "Laser scanner e GPS. Paesaggi archeologici e tecnologie digitali 1, I Workshop (Grosseto 2005)"
+   ],
+   "pages": "23-40",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 6,
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Forte M. (ed.) 2007, La villa di Livia. Un percorso di ricerca di archeologia virtuale, Roma, «L’Erma» di Bretschneider.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "La villa di Livia. Un percorso di ricerca di archeologia virtuale",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Francovich R. 1990, Premessa, in Francovich, Manacorda 1990, 5-9.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "1990",
+   "title": "Premessa",
+   "is_part_of": [
+    "Lo scavo archeologico. Dalla diagnosi all'edizione, III Ciclo di Lezioni sulla Ricerca Applicata in Archeologia (Certosa di Pontignano-SI 1989)"
+   ],
+   "pages": "5-9",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 18,
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Francovich R., Manacorda D. (eds.) 1990, Lo scavo archeologico. Dalla diagnosi all’edizione, III Ciclo di Lezioni sulla Ricerca Applicata in Archeologia (Certosa di Pontignano-SI 1989), Firenze, All’Insegna del Giglio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "1990",
+   "title": "Lo scavo archeologico. Dalla diagnosi all'edizione, III Ciclo di Lezioni sulla Ricerca Applicata in Archeologia (Certosa di Pontignano-SI 1989)",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Fronza V. 2003, Principi di Database Management in archeologia: l’esperienza senese, in R. Fiorillo, P. Peduto (eds.), Atti del III Congresso Nazionale di Archeologia Medievale (Salerno 2003), Firenze, All’Insegna del Giglio, 629-632.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Fiorillo",
+     "given": "R."
+    },
+    {
+     "family": "Peduto",
+     "given": "P."
+    }
+   ],
+   "date": "2003",
+   "title": "Principi di Database Management in archeologia: l'esperienza senese",
+   "is_part_of": [
+    "Atti del III Congresso Nazionale di Archeologia Medievale (Salerno 2003)"
+   ],
+   "pages": "629-632",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Guermandi M.P. 1999, Dalla base dati alla rete: l’evoluzione del trattamento dei dati archeologici, «Archeologia e Calcolatori», 10, 89-99.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "1999",
+   "title": "Dalla base dati alla rete: l'evoluzione del trattamento dei dati archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "89-99",
+   "language": "ita",
+   "cited_aec_id": 268,
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Guimier-Sorbets A.-M. 1990, Les bases de données an archéologie. Conceptions et mise en œuvre, Paris, CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "date": "1990",
+   "title": "Les bases de données en archéologie. Conceptions et mise en œuvre",
+   "publisher": "CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "cited as 'an archéologie' (typo)",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Grussenmeyer P., Patias P., Sylaiou S., Sechidis L., Spartalis I., Meyer E., Landes T., Alby E. 2006, A proposed low-cost system for 3D archaeological documentation, in Ioannides et al. 2006, 145-149.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Grussenmeyer",
+     "given": "P."
+    },
+    {
+     "family": "Patias",
+     "given": "P."
+    },
+    {
+     "family": "Sylaiou",
+     "given": "S."
+    },
+    {
+     "family": "Sechidis",
+     "given": "L."
+    },
+    {
+     "family": "Spartalis",
+     "given": "I."
+    },
+    {
+     "family": "Meyer",
+     "given": "E."
+    },
+    {
+     "family": "Landes",
+     "given": "T."
+    },
+    {
+     "family": "Alby",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Arnold",
+     "given": "D."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Mania",
+     "given": "K."
+    }
+   ],
+   "date": "2006",
+   "title": "A proposed low-cost system for 3D archaeological documentation",
+   "is_part_of": [
+    "The E-volution of Information Communication Technology in Cultural Heritage, Project Papers from the Joint Event CIPA, VAST, EG EuroMed 2006 (Nicosia, Cyprus, 2006)"
+   ],
+   "pages": "145-149",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "eng",
+   "xref": 23,
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Ioannides M., Arnold D., Niccolucci F., Mania K. 2006, The E-volution of Information Communication Technology in Cultural Heritage, Project Papers from the Joint Event CIPA, VAST, EG EuroMed 2006 (Nicosia, Cyprus, 2006), Budapest, Archaeolingua.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Arnold",
+     "given": "D."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Mania",
+     "given": "K."
+    }
+   ],
+   "date": "2006",
+   "title": "The E-volution of Information Communication Technology in Cultural Heritage, Project Papers from the Joint Event CIPA, VAST, EG EuroMed 2006 (Nicosia, Cyprus, 2006)",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "eng",
+   "notes": "cited with Ioannides et al. as authors; they are the editors (see 'in Ioannides et al. 2006')",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Lock G. 2003, Using Computers in Archaeology: Towards Virtual Pasts, London-New York, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Using Computers in Archaeology: Towards Virtual Pasts",
+   "publisher": "Routledge",
+   "place": "London-New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Laurenza S., Putzolu C. 2001, Sistema informativo dinamico per la gestione e l’analisi dei dati archeologici: l’esempio di Pompei, in Atti della Terza Conferenza di MondoGis, Roma, MondoGis, 209-216.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Laurenza",
+     "given": "S."
+    },
+    {
+     "family": "Putzolu",
+     "given": "C."
+    }
+   ],
+   "date": "2001",
+   "title": "Sistema informativo dinamico per la gestione e l'analisi dei dati archeologici: l'esempio di Pompei",
+   "is_part_of": [
+    "Atti della Terza Conferenza di MondoGis"
+   ],
+   "pages": "209-216",
+   "publisher": "MondoGis",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Manacorda D. 1990, Introduzione, in Francovich, Manacorda 1990, 11-23.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "1990",
+   "title": "Introduzione",
+   "is_part_of": [
+    "Lo scavo archeologico. Dalla diagnosi all'edizione, III Ciclo di Lezioni sulla Ricerca Applicata in Archeologia (Certosa di Pontignano-SI 1989)"
+   ],
+   "pages": "11-23",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 18,
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Manacorda D. 2004, Prima lezione di archeologia, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2004",
+   "title": "Prima lezione di archeologia",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Manacorda D. 2007, Il sito archeologico: fra ricerca e valorizzazione, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2007",
+   "title": "Il sito archeologico: fra ricerca e valorizzazione",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Manacorda D. 2008, Lezioni di archeologia, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2008",
+   "title": "Lezioni di archeologia",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Mascione C. 2006, Il rilievo strumentale in archeologia, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mascione",
+     "given": "C."
+    }
+   ],
+   "date": "2006",
+   "title": "Il rilievo strumentale in archeologia",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Medri M. 2003, Manuale di rilievo archeologico, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Manuale di rilievo archeologico",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Missikoff O. 1995, Proposta di applicazione di un approccio object-oriented alla formalizzazione dei dati quantitativi, «Archeologia e Calcolatori», 6, 225-241.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Missikoff",
+     "given": "O."
+    }
+   ],
+   "date": "1995",
+   "title": "Proposta di applicazione di un approccio object-oriented alla formalizzazione dei dati quantitativi",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "6",
+   "pages": "225-241",
+   "language": "ita",
+   "cited_aec_id": 118,
+   "notes": "AeC title: '...formalizzazione di dati qualitativi'; pages 225-242 in the metadata; kept as cited",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Moscati P. 1994, Choice, representation and structuring of archaeological information: a current problem, «Archeologia e Calcolatori», 5, 9-21.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1994",
+   "title": "Choice, representation and structuring of archaeological information: a current problem",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "5",
+   "pages": "9-21",
+   "language": "eng",
+   "cited_aec_id": 87,
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Orlandi T. 1990, L’ambiente Unix e le applicazioni umanistiche, «Archeologia e Calcolatori», 1, 237-251.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "1990",
+   "title": "L'ambiente Unix e le applicazioni umanistiche",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "237-251",
+   "language": "ita",
+   "cited_aec_id": 13,
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Peloso D. 2005, Tecniche laser scanner per il rilievo dei beni culturali, «Archeologia e Calcolatori», 16, 199-224.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peloso",
+     "given": "D."
+    }
+   ],
+   "date": "2005",
+   "title": "Tecniche laser scanner per il rilievo dei beni culturali",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "199-224",
+   "language": "ita",
+   "cited_aec_id": 411,
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Peripimeno M. 2006, Sperimentazione di tecniche 3D laser scanning in archeologia: l’esperienza senese, in Campana, Francovich 2006, 143-157.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Peripimeno",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Sperimentazione di tecniche 3D laser scanning in archeologia: l'esperienza senese",
+   "is_part_of": [
+    "Laser scanner e GPS. Paesaggi archeologici e tecnologie digitali 1, I Workshop (Grosseto 2005)"
+   ],
+   "pages": "143-157",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 6,
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Pierobon Benoit R., Proto F., Aiello A., Brandi S., Mango Furnari M. 2005, Concettualizzazione e contestualizzazione dei beni culturali archeologici, «Archeologia e Calcolatori», 16, 321-339.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pierobon Benoit",
+     "given": "R."
+    },
+    {
+     "family": "Proto",
+     "given": "F."
+    },
+    {
+     "family": "Aiello",
+     "given": "A."
+    },
+    {
+     "family": "Brandi",
+     "given": "S."
+    },
+    {
+     "family": "Mango Furnari",
+     "given": "M."
+    }
+   ],
+   "date": "2005",
+   "title": "Concettualizzazione e contestualizzazione dei beni culturali archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "321-339",
+   "language": "ita",
+   "cited_aec_id": 416,
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Scopigno R. 2006, Gestione efficiente dei dati prodotti dai sistemi di scansione tridimensionale, in Campana, Francovich 2006, 41-68.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scopigno",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Gestione efficiente dei dati prodotti dai sistemi di scansione tridimensionale",
+   "is_part_of": [
+    "Laser scanner e GPS. Paesaggi archeologici e tecnologie digitali 1, I Workshop (Grosseto 2005)"
+   ],
+   "pages": "41-68",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 6,
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Sibilano M.G. 2008, Il quartiere tardoantico nell’area delle terme: una banca dati per la gestione informatizzata dei dati di scavo, in Volpe, Leone 2008, 445-459.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "Leone",
+     "given": "D."
+    }
+   ],
+   "date": "2008",
+   "title": "Il quartiere tardoantico nell'area delle terme: una banca dati per la gestione informatizzata dei dati di scavo",
+   "is_part_of": [
+    "Ordona XI"
+   ],
+   "pages": "445-459",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "xref": 48,
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Signore O., Missikoff O., Moscati P. 2005, La gestione della conoscenza in archeologia: modelli, linguaggi e strumenti di modellazione concettuale dall’XML al Sematic Web, «Archeologia e Calcolatori», 16, 291-319.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Signore",
+     "given": "O."
+    },
+    {
+     "family": "Missikoff",
+     "given": "O."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2005",
+   "title": "La gestione della conoscenza in archeologia: modelli, linguaggi e strumenti di modellazione concettuale dall'XML al Semantic Web",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "291-319",
+   "language": "ita",
+   "cited_aec_id": 415,
+   "notes": "cited as 'Sematic Web' (typo)",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Volpe G. 2000 (ed.), Ordona X. Ricerche archeologiche a Herdonia (1993-1998), Bari, Edipuglia.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Ordona X. Ricerche archeologiche a Herdonia (1993-1998)",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Volpe G. 2006, Città apule fra destrutturazione e trasformazione: i casi di Canusium ed Herdonia, in A. Augenti (ed.), Le città italiane tra la tarda Antichità e l’alto Medioevo. Atti del Convegno (Ravenna 2004), Firenze, All’Insegna del Giglio, 559-573.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Augenti",
+     "given": "A."
+    }
+   ],
+   "date": "2006",
+   "title": "Città apule fra destrutturazione e trasformazione: i casi di Canusium ed Herdonia",
+   "is_part_of": [
+    "Le città italiane tra la tarda Antichità e l'alto Medioevo. Atti del Convegno (Ravenna 2004)"
+   ],
+   "pages": "559-573",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Volpe G. 2008, Per una ‘archeologia globale dei paesaggi’ della Daunia. Tra archeologia, metodologia e politica dei beni culturali, in G. Volpe, M.J. Strazzulla, D. Leone (eds.), Storia e archeologia della Daunia. In ricordo di Marina Mazzei, Atti delle giornate di studio (Foggia 2005), Bari, Edipuglia, 447-462.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "Strazzulla",
+     "given": "M.J."
+    },
+    {
+     "family": "Leone",
+     "given": "D."
+    }
+   ],
+   "date": "2008",
+   "title": "Per una 'archeologia globale dei paesaggi' della Daunia. Tra archeologia, metodologia e politica dei beni culturali",
+   "is_part_of": [
+    "Storia e archeologia della Daunia. In ricordo di Marina Mazzei, Atti delle giornate di studio (Foggia 2005)"
+   ],
+   "pages": "447-462",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Volpe G., De Felice G., Turchiano M. 2005, Faragola (Ascoli Satriano). Una residenza aristocratica tardoantica e un villaggio altomedievale nella Valle del Carapelle: primi dati, in G. Volpe, M. Turchiano (eds.), Paesaggi e insediamenti rurali in Italia meridionale fra Tardoantico e Altomedioevo, Atti del I Seminario sul Tardoantico e l’Altomedioevo in Italia Meridionale (Foggia 2004), Bari, Edipuglia, 265-297.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Turchiano",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "Turchiano",
+     "given": "M."
+    }
+   ],
+   "date": "2005",
+   "title": "Faragola (Ascoli Satriano). Una residenza aristocratica tardoantica e un villaggio altomedievale nella Valle del Carapelle: primi dati",
+   "is_part_of": [
+    "Paesaggi e insediamenti rurali in Italia meridionale fra Tardoantico e Altomedioevo, Atti del I Seminario sul Tardoantico e l'Altomedioevo in Italia Meridionale (Foggia 2004)"
+   ],
+   "pages": "265-297",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Volpe G., De Felice G., Turchiano M. 2006, La villa tardoantica di Faragola (Ascoli Satriano) in Apulia, in J. Arce, G.P. Brogiolo, A. Chavarria (eds.), Villas tardoantiguas en el Occidente mediterraneo, Anejos de Archivo Español de Arqueología, 39, Madrid, 221-251.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Turchiano",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Arce",
+     "given": "J."
+    },
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    },
+    {
+     "family": "Chavarria",
+     "given": "A."
+    }
+   ],
+   "date": "2006",
+   "title": "La villa tardoantica di Faragola (Ascoli Satriano) in Apulia",
+   "is_part_of": [
+    "Villas tardoantiguas en el Occidente mediterraneo"
+   ],
+   "series": "Anejos de Archivo Español de Arqueología",
+   "series_number": "39",
+   "pages": "221-251",
+   "place": "Madrid",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Volpe G., Annese C., Corrente M., De Felice G., De Santis P., Favia P., Giuliani R., Leone D., Nuzzo D., Rocco A., Turchiano M. 2003, Il complesso paleocristiano di San Pietro a Canosa. Seconda relazione preliminare (campagna di scavi 2002), «Archeologia Medievale», 30, 107-164.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "Annese",
+     "given": "C."
+    },
+    {
+     "family": "Corrente",
+     "given": "M."
+    },
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "De Santis",
+     "given": "P."
+    },
+    {
+     "family": "Favia",
+     "given": "P."
+    },
+    {
+     "family": "Giuliani",
+     "given": "R."
+    },
+    {
+     "family": "Leone",
+     "given": "D."
+    },
+    {
+     "family": "Nuzzo",
+     "given": "D."
+    },
+    {
+     "family": "Rocco",
+     "given": "A."
+    },
+    {
+     "family": "Turchiano",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Il complesso paleocristiano di San Pietro a Canosa. Seconda relazione preliminare (campagna di scavi 2002)",
+   "is_part_of": [
+    "Archeologia Medievale"
+   ],
+   "volume": "30",
+   "pages": "107-164",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "Volpe G., Favia P., Giuliani R., Nuzzo D. 2007, Il complesso sabiniano di S. Pietro a Canosa, in R.M. Carra Bonacasa, E. Vitale (eds.), La cristianizzazione in Italia fra tardoantico e altomedieovo, Atti del IX Congresso di Archeologia Cristiana (Agrigento 2004), Palermo, 1113-1165.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "Favia",
+     "given": "P."
+    },
+    {
+     "family": "Giuliani",
+     "given": "R."
+    },
+    {
+     "family": "Nuzzo",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Carra Bonacasa",
+     "given": "R.M."
+    },
+    {
+     "family": "Vitale",
+     "given": "E."
+    }
+   ],
+   "date": "2007",
+   "title": "Il complesso sabiniano di S. Pietro a Canosa",
+   "is_part_of": [
+    "La cristianizzazione in Italia fra tardoantico e altomedioevo, Atti del IX Congresso di Archeologia Cristiana (Agrigento 2004)"
+   ],
+   "pages": "1113-1165",
+   "place": "Palermo",
+   "language": "ita",
+   "notes": "cited as 'altomedieovo' (typo)",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "Volpe G., Leone D. (eds.) 2008, Ordona XI, Bari, Edipuglia.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "Leone",
+     "given": "D."
+    }
+   ],
+   "date": "2008",
+   "title": "Ordona XI",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

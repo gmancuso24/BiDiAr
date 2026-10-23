@@ -1,0 +1,193 @@
+{
+ "citing_aec_id": 1347,
+ "source_file": "data/journal/35/1347.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Baca D., Blazek P., Vojtek M. 2016, *Metadata management in GIS: Approach for efficient implementation*, «ISPRS International Journal of Geo-Information», 5, 5, 77.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baca",
+     "given": "D."
+    },
+    {
+     "family": "Blazek",
+     "given": "P."
+    },
+    {
+     "family": "Vojtek",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "Metadata management in GIS: Approach for efficient implementation",
+   "is_part_of": [
+    "ISPRS International Journal of Geo-Information"
+   ],
+   "volume": "5",
+   "issue": "5",
+   "pages": "77",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Billen R., Zlatanova S. 2009, *3D Geo-Information Sciences*, Berlin, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Billen",
+     "given": "R."
+    },
+    {
+     "family": "Zlatanova",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "3D Geo-Information Sciences",
+   "publisher": "Springer",
+   "place": "Berlin",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Fairbairn D., Parsley S. 2006, *The use of the Internet in teaching cartography to support distance learning*, «Journal of Geography in Higher Education», 30, 1, 77-90.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fairbairn",
+     "given": "D."
+    },
+    {
+     "family": "Parsley",
+     "given": "S."
+    }
+   ],
+   "date": "2006",
+   "title": "The use of the Internet in teaching cartography to support distance learning",
+   "is_part_of": [
+    "Journal of Geography in Higher Education"
+   ],
+   "volume": "30",
+   "issue": "1",
+   "pages": "77-90",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Haklay M., Singleton A., Parker C. 2008, *Web mapping 2.0: The neogeography of the GeoWeb*, «Geography Compass», 2, 6, 2011-2039.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Haklay",
+     "given": "M."
+    },
+    {
+     "family": "Singleton",
+     "given": "A."
+    },
+    {
+     "family": "Parker",
+     "given": "C."
+    }
+   ],
+   "date": "2008",
+   "title": "Web mapping 2.0: The neogeography of the GeoWeb",
+   "is_part_of": [
+    "Geography Compass"
+   ],
+   "volume": "2",
+   "issue": "6",
+   "pages": "2011-2039",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Hill L.L. 2004, *Georeferencing: The Geographic Associations of Information*, Cambridge, The MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hill",
+     "given": "L.L."
+    }
+   ],
+   "date": "2004",
+   "title": "Georeferencing: The Geographic Associations of Information",
+   "publisher": "The MIT Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Kim K., Lee S., Han J. 2013, *An efficient LOD management framework for large-scale 3D urban models in web-based GIS*, «Computers, Environment and Urban Systems», 39, 152-164.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kim",
+     "given": "K."
+    },
+    {
+     "family": "Lee",
+     "given": "S."
+    },
+    {
+     "family": "Han",
+     "given": "J."
+    }
+   ],
+   "date": "2013",
+   "title": "An efficient LOD management framework for large-scale 3D urban models in web-based GIS",
+   "is_part_of": [
+    "Computers, Environment and Urban Systems"
+   ],
+   "volume": "39",
+   "pages": "152-164",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Ware C. 2012, *Information Visualization: Perception for Design*, San Francisco, Elsevier.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ware",
+     "given": "C."
+    }
+   ],
+   "date": "2012",
+   "title": "Information Visualization: Perception for Design",
+   "publisher": "Elsevier",
+   "place": "San Francisco",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Zlatanova S., Rahman A.A., Pilouk M. 2002, *Trends in 3D GIS development*, «Journal of Geospatial Engineering», 4, 2, 71-80.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zlatanova",
+     "given": "S."
+    },
+    {
+     "family": "Rahman",
+     "given": "A.A."
+    },
+    {
+     "family": "Pilouk",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Trends in 3D GIS development",
+   "is_part_of": [
+    "Journal of Geospatial Engineering"
+   ],
+   "volume": "4",
+   "issue": "2",
+   "pages": "71-80",
+   "language": "eng"
+  }
+ ]
+}

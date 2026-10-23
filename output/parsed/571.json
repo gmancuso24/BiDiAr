@@ -1,0 +1,186 @@
+{
+ "citing_aec_id": 571,
+ "source_file": "data/journal/21/571.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Allason-Jones L., Bishop M.C. 1988, Excavations at Roman Corbridge: the Hoard, HBMCE Archaeological Report 7, London.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Allason-Jones",
+     "given": "L."
+    },
+    {
+     "family": "Bishop",
+     "given": "M.C."
+    }
+   ],
+   "date": "1988",
+   "title": "Excavations at Roman Corbridge: the Hoard",
+   "series": "HBMCE Archaeological Report",
+   "series_number": "7",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Baxter M.J., Cool H.E.M. 2008, Notes on the statistical analysis of some loomweights from Pompeii, «Archeologia e Calcolatori», 19, 239-258.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    },
+    {
+     "family": "Cool",
+     "given": "H.E.M."
+    }
+   ],
+   "date": "2008",
+   "title": "Notes on the statistical analysis of some loomweights from Pompeii",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "19",
+   "pages": "239-258",
+   "language": "eng",
+   "cited_aec_id": 492,
+   "notes": "metadata has pages 239-256, cited 239-258",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Cool H.E.M., Baxter M.J. 1999, Peeling the onion: an approach to comparing vessel glass assemblages, «Journal of Roman Archaeology», 12, 72-100.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cool",
+     "given": "H.E.M."
+    },
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    }
+   ],
+   "date": "1999",
+   "title": "Peeling the onion: an approach to comparing vessel glass assemblages",
+   "is_part_of": [
+    "Journal of Roman Archaeology"
+   ],
+   "volume": "12",
+   "pages": "72-100",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Caputo T. 2004, Il promontorio di Minerva: nuove acquisitioni topografiche, in Senatore 2004, 51-101.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Caputo",
+     "given": "T."
+    }
+   ],
+   "date": "2004",
+   "title": "Il promontorio di Minerva: nuove acquisizioni topografiche",
+   "is_part_of": [
+    "Pompei, Capri e la penisola sorrentina. Atti del Quinto ciclo di Conferenze di geologia, storia e archeologia (Pompei, Anacapri, Scafati, Castellamare di Stabia 2002-2003)"
+   ],
+   "pages": "51-101",
+   "publisher": "Oebalus",
+   "place": "Capri",
+   "language": "ita",
+   "xref": 6,
+   "notes": "'acquisitioni' in the source corrected to 'acquisizioni'",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Mårtensson L., Nosch M-L., Strand E.A. 2009, Shape of things: understanding a loom weight, «Oxford Journal of Archaeology», 28, 4, 373-398.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mårtensson",
+     "given": "L."
+    },
+    {
+     "family": "Nosch",
+     "given": "M-L."
+    },
+    {
+     "family": "Strand",
+     "given": "E.A."
+    }
+   ],
+   "date": "2009",
+   "title": "Shape of things: understanding a loom weight",
+   "is_part_of": [
+    "Oxford Journal of Archaeology"
+   ],
+   "volume": "28",
+   "issue": "4",
+   "pages": "373-398",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Senatore E. 2004, Pompei, Capri e la penisola sorrentina. Atti del Quinto ciclo di Conferenze di geologia, storia e archeologia (Pompei, Anacapri, Scafati, Castellamare di Stabia 2002-2003), Capri, Oebalus.",
+   "type": "proceedings",
+   "creators": [
+    {
+     "family": "Senatore",
+     "given": "E."
+    }
+   ],
+   "date": "2004",
+   "title": "Pompei, Capri e la penisola sorrentina. Atti del Quinto ciclo di Conferenze di geologia, storia e archeologia (Pompei, Anacapri, Scafati, Castellamare di Stabia 2002-2003)",
+   "publisher": "Oebalus",
+   "place": "Capri",
+   "language": "ita",
+   "notes": "cited without '(ed.)': Senatore listed as author, probably the editor",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Wild J.P. 1970, Textile Manufacture in the Northern Roman Provinces, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wild",
+     "given": "J.P."
+    }
+   ],
+   "date": "1970",
+   "title": "Textile Manufacture in the Northern Roman Provinces",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Wild J.P. 1988, The textiles, in Allason-Jones, Bishop 1988, 107-108.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wild",
+     "given": "J.P."
+    }
+   ],
+   "date": "1988",
+   "title": "The textiles",
+   "is_part_of": [
+    "Excavations at Roman Corbridge: the Hoard"
+   ],
+   "pages": "107-108",
+   "place": "London",
+   "language": "eng",
+   "xref": 1,
+   "confidence": "high"
+  }
+ ]
+}

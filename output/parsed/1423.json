@@ -1,0 +1,158 @@
+{
+ "citing_aec_id": 1423,
+ "source_file": "data/journal/36/1423.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Brancato R. 2025, The rural landscape from the Republic to the Empire, «Dialogues d’histoire ancienne», 51, 1, 272-313 (https://shs.cairn.info/journal-dialogues-dhistoire-ancienne2025-1-page-255?lang=en).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    }
+   ],
+   "date": "2025",
+   "title": "The rural landscape from the Republic to the Empire",
+   "is_part_of": [
+    "Dialogues d’histoire ancienne"
+   ],
+   "volume": "51",
+   "issue": "1",
+   "pages": "272-313",
+   "uri": "https://shs.cairn.info/journal-dialogues-dhistoire-ancienne2025-1-page-255?lang=en",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Brancato R., Ferrari V., Ditaranto I., Merola P., Rossi I. 2024, Investigating resilient Roman agricultural landscapes in southern Italy. An integrated and open IT approach to modeling centuriation, in R. Brancato, J. Bogdani, V. Vitale (eds.), Linking Pasts and Sharing Knowledge. Mapping Archaeological Heritage, Legacy Data Integration and Web Technologies for Modelling Historical Landscapes (Naples, 13th-14th November 2023), «Archeologia e Calcolatori», 35.2, 387-400 (https://doi.org/10.19282/ac.35.2.2024.41).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    },
+    {
+     "family": "Ferrari",
+     "given": "V."
+    },
+    {
+     "family": "Ditaranto",
+     "given": "I."
+    },
+    {
+     "family": "Merola",
+     "given": "P."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2024",
+   "title": "Investigating resilient Roman agricultural landscapes in southern Italy. An integrated and open IT approach to modeling centuriation",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "387-400",
+   "doi": "10.19282/ac.35.2.2024.41",
+   "language": "eng",
+   "cited_aec_id": 1361
+  },
+  {
+   "position": 3,
+   "raw": "Castagnoli F. 1958, Le ricerche sui resti della centuriazione, Roma, Edizioni di Storia e Letteratura.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Castagnoli",
+     "given": "F."
+    }
+   ],
+   "date": "1958",
+   "title": "Le ricerche sui resti della centuriazione",
+   "publisher": "Edizioni di Storia e Letteratura",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Moscati P. 2017, Archaeological computing and ancient cities: Insights from the repository of Archeologia e Calcolatori, «Archeologia e Calcolatori», 28.2, 47-66 (https://doi.org/10.19282/AC.28.2.2017.03).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2017",
+   "title": "Archaeological computing and ancient cities: Insights from the repository of Archeologia e Calcolatori",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "47-66",
+   "doi": "10.19282/AC.28.2.2017.03",
+   "language": "eng",
+   "cited_aec_id": 916
+  },
+  {
+   "position": 5,
+   "raw": "Muzzioli M.P. 2009, Le ricerche sui resti della centuriazione cinquant’anni dopo, «Atlante Tematico di Topografia Antica», 19, 7-50.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Muzzioli",
+     "given": "M.P."
+    }
+   ],
+   "date": "2009",
+   "title": "Le ricerche sui resti della centuriazione cinquant’anni dopo",
+   "is_part_of": [
+    "Atlante Tematico di Topografia Antica"
+   ],
+   "volume": "19",
+   "pages": "7-50",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Quilici Gigli S. 2025, Il difficile ordine dell’ager Campanus, «Atlante Tematico di Topografia Antica», 35, 291-310.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Quilici Gigli",
+     "given": "S."
+    }
+   ],
+   "date": "2025",
+   "title": "Il difficile ordine dell’ager Campanus",
+   "is_part_of": [
+    "Atlante Tematico di Topografia Antica"
+   ],
+   "volume": "35",
+   "pages": "291-310",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Settis S. (ed.) 1993, Misurare la terra: centuriazione e coloni nel mondo romano, Pisa, Panini.",
+   "type": "book",
+   "date": "1993",
+   "title": "Misurare la terra: centuriazione e coloni nel mondo romano",
+   "editors": [
+    {
+     "family": "Settis",
+     "given": "S."
+    }
+   ],
+   "publisher": "Panini",
+   "place": "Pisa",
+   "language": "ita",
+   "notes": "Pisa as cited"
+  }
+ ]
+}

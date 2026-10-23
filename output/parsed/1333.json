@@ -1,0 +1,169 @@
+{
+ "citing_aec_id": 1333,
+ "source_file": "data/journal/35/1333.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Brogiolo G.P., Citter C. 2018, *Paesaggi e sistemazioni agrarie nel basso corso dell'Adige da Montagnana al mare*, in G. Volpe (ed.), *Storia e archeologia globale dei paesaggi rurali in Italia fra tardoantico e medioevo*, Bari, Edipuglia, 599-622.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    },
+    {
+     "family": "Citter",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "date": "2018",
+   "title": "Paesaggi e sistemazioni agrarie nel basso corso dell'Adige da Montagnana al mare",
+   "is_part_of": [
+    "Storia e archeologia globale dei paesaggi rurali in Italia fra tardoantico e medioevo"
+   ],
+   "pages": "599-622",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Del Lungo S. 2003, *Le pendici della città di Leopoli-Cencelle*, in S. Lusuardi Siena (ed.), *Fonti archeologiche e iconografiche per la storia e la cultura degli insediamenti nell'altomedioevo. Atti delle giornate di studio (Milano-Vercelli 2002)*, Milano, Vita e Pensiero Editrice, 19-24.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Del Lungo",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lusuardi Siena",
+     "given": "S."
+    }
+   ],
+   "date": "2003",
+   "title": "Le pendici della città di Leopoli-Cencelle",
+   "is_part_of": [
+    "Fonti archeologiche e iconografiche per la storia e la cultura degli insediamenti nell'altomedioevo. Atti delle giornate di studio (Milano-Vercelli 2002)"
+   ],
+   "pages": "19-24",
+   "publisher": "Vita e Pensiero Editrice",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Duchesne L. (ed.) 1981, *Le Liber Pontificalis*, I-II, Paris, E. Thorin Editeur.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Duchesne",
+     "given": "L."
+    }
+   ],
+   "date": "1981",
+   "title": "Le Liber Pontificalis",
+   "volume": "I-II",
+   "publisher": "E. Thorin Editeur",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 4,
+   "raw": "Küçükdemirci M., Landeschi G., Dell'Unto N., Ohlsson M. 2021, *Mapping archaeological signs from airborne Lidar data using deep neural networks: Primary results*, «ArcheoSciences. Revue d'Archéométrie», 45, 1, 291-293 (https://doi.org/10.4000/archeosciences.10179).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Küçükdemirci",
+     "given": "M."
+    },
+    {
+     "family": "Landeschi",
+     "given": "G."
+    },
+    {
+     "family": "Dell'Unto",
+     "given": "N."
+    },
+    {
+     "family": "Ohlsson",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "Mapping archaeological signs from airborne Lidar data using deep neural networks: Primary results",
+   "is_part_of": [
+    "ArcheoSciences. Revue d'Archéométrie"
+   ],
+   "volume": "45",
+   "issue": "1",
+   "pages": "291-293",
+   "language": "eng",
+   "doi": "10.4000/archeosciences.10179"
+  },
+  {
+   "position": 5,
+   "raw": "Masini N., Soldoveri F. (eds.) 2017, *Sensing the Past. From Artefact to Historical Site*, New York, Springer.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Masini",
+     "given": "N."
+    },
+    {
+     "family": "Soldoveri",
+     "given": "F."
+    }
+   ],
+   "date": "2017",
+   "title": "Sensing the Past. From Artefact to Historical Site",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Optiz R.S., Cowley D.C. (eds.) 2013, *Interpreting Archaeological Topography. 3D Data, Visualisation and Observation*, Oxford, Oxbow Books.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Opitz",
+     "given": "R.S."
+    },
+    {
+     "family": "Cowley",
+     "given": "D.C."
+    }
+   ],
+   "date": "2013",
+   "title": "Interpreting Archaeological Topography. 3D Data, Visualisation and Observation",
+   "publisher": "Oxbow Books",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "editor cited \"Optiz\""
+  },
+  {
+   "position": 7,
+   "raw": "Stasolla F.R. 2012, *Leopoli-Cencelle: il quartiere sud-orientale*, Spoleto, Fondazione CISAM.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Stasolla",
+     "given": "F.R."
+    }
+   ],
+   "date": "2012",
+   "title": "Leopoli-Cencelle: il quartiere sud-orientale",
+   "publisher": "Fondazione CISAM",
+   "place": "Spoleto",
+   "language": "ita"
+  }
+ ]
+}

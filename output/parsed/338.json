@@ -1,0 +1,627 @@
+{
+ "citing_aec_id": 338,
+ "source_file": "data/journal/13/338.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ALLEN K.M.S., GREEN S.W., ZUBROW E.B.W. (eds.) 1990, Interpreting Space: GIS and Archaeology, London, Taylor & Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "Interpreting Space: GIS and Archaeology",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "BARCELÓ J.A., BRIZ I., VILA A. (eds.) 1999, New Techniques for Old Times, CAA 98, Computer Applications and Quantitative Methods in Archaeology, Proceedings of the 26th Conference (Barcelona 1998), BAR International Series 757, Oxford.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "New Techniques for Old Times. CAA 98. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 26th Conference (Barcelona 1998)",
+   "series": "BAR International Series",
+   "series_number": "757",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "DEMARIS A. 1992, Logit Modeling: Practical Applications, Sage University Paper Series on Quantitative Applications in the Social Sciences 07-086, Sage, Newbury Park, California.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "DeMaris",
+     "given": "A."
+    }
+   ],
+   "date": "1992",
+   "title": "Logit Modeling: Practical Applications",
+   "series": "Sage University Paper Series on Quantitative Applications in the Social Sciences",
+   "series_number": "07-086",
+   "publisher": "Sage",
+   "place": "Newbury Park, California",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "EBERT J.I. 2000, The state of the art in “inductive” predictive modeling: Seven big mistakes (and lots of smaller ones), in WESCOTT, BRANDON 2000, 129-134.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ebert",
+     "given": "J.I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Wescott",
+     "given": "K.L."
+    },
+    {
+     "family": "Brandon",
+     "given": "R.J."
+    }
+   ],
+   "date": "2000",
+   "title": "The state of the art in inductive predictive modeling: Seven big mistakes (and lots of smaller ones)",
+   "is_part_of": [
+    "Practical Applications of GIS for Archaeologists: A Predictive Modeling Kit"
+   ],
+   "pages": "129-134",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "xref": 20
+  },
+  {
+   "position": 5,
+   "raw": "GAFFNEY V., VAN LEUSEN M. 1995, Postscript-GIS, environmental determinism and archaeology: A parallel text, in LOCK, STANÈIÈ 1995, 367-382.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Postscript-GIS, environmental determinism and archaeology: A parallel text",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems: A European Perspective"
+   ],
+   "pages": "367-382",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "xref": 8
+  },
+  {
+   "position": 6,
+   "raw": "HARRIS T.M., LOCK G.R. 1995, Toward an evaluation of GIS in European archaeology: The past, present and future of theory and applications, in LOCK, STANÈIÈ 1995, 349-365.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "T.M."
+    },
+    {
+     "family": "Lock",
+     "given": "G.R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Toward an evaluation of GIS in European archaeology: The past, present and future of theory and applications",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems: A European Perspective"
+   ],
+   "pages": "349-365",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "xref": 8
+  },
+  {
+   "position": 7,
+   "raw": "KAMERMANS H., WANSLEEBEN M. 1999, Predictive modelling in Dutch archaeology, joining forces, in BARCELÓ, BRIZ, VILA 1999, 225-229.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Wansleeben",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "Predictive modelling in Dutch archaeology, joining forces",
+   "is_part_of": [
+    "New Techniques for Old Times. CAA 98. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 26th Conference (Barcelona 1998)"
+   ],
+   "pages": "225-229",
+   "series": "BAR International Series",
+   "series_number": "757",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 2
+  },
+  {
+   "position": 8,
+   "raw": "LOCK G., STANÈIÈ Z. (eds.) 1995, Archaeology and Geographical Information Systems: A European Perspective, London, Taylor & Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Archaeology and Geographical Information Systems: A European Perspective",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "SCHWEGMAN J.E. 1973, Comprehensive Plan for the Illinois Natural Preserves System: Part 2: The Natural Divisions of Illinois, Illinois Nature Preserves Commission, Springfield, Illinois.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Schwegman",
+     "given": "J.E."
+    }
+   ],
+   "date": "1973",
+   "title": "Comprehensive Plan for the Illinois Natural Preserves System: Part 2: The Natural Divisions of Illinois",
+   "publisher": "Illinois Nature Preserves Commission",
+   "place": "Springfield, Illinois",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "STANÈIÈ Z., KVAMME K.L. 1999, Settlement pattern modelling through Boolean overlays of social and environmental variables, in BARCELÓ, BRIZ, VILA 1999, 231-237.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "Settlement pattern modelling through Boolean overlays of social and environmental variables",
+   "is_part_of": [
+    "New Techniques for Old Times. CAA 98. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 26th Conference (Barcelona 1998)"
+   ],
+   "pages": "231-237",
+   "series": "BAR International Series",
+   "series_number": "757",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 2
+  },
+  {
+   "position": 11,
+   "raw": "STANÈIÈ Z., VELJANOVSKI T. (eds.) 2001, Computing Archaeology for Understanding the Past, CAA 2000, Computer Applications and Quantitative Methods in Archaeology, Proceedings of the 28th Conference (Ljubljana 2000), BAR International Series 931, Oxford.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "Computing Archaeology for Understanding the Past. CAA 2000. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000)",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "STANÈIÈ Z., VELJANOVSKI T., OŠTIR K., PODOBNIKAR T. 2001, Archaeological predictive modelling for highway construction planning, in STANÈIÈ, VELJANOVSKI 2001, 233-238.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    },
+    {
+     "family": "Oštir",
+     "given": "K."
+    },
+    {
+     "family": "Podobnikar",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "Archaeological predictive modelling for highway construction planning",
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. CAA 2000. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000)"
+   ],
+   "pages": "233-238",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 11
+  },
+  {
+   "position": 13,
+   "raw": "STOKES M.E., DAVIS C.S., KOCH G.G. 1995, Categorical Data Analysis Using the SAS System, Gary, North Carolina, SAS Institute.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Stokes",
+     "given": "M.E."
+    },
+    {
+     "family": "Davis",
+     "given": "C.S."
+    },
+    {
+     "family": "Koch",
+     "given": "G.G."
+    }
+   ],
+   "date": "1995",
+   "title": "Categorical Data Analysis Using the SAS System",
+   "publisher": "SAS Institute",
+   "place": "Gary, North Carolina",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "VERHAGEN P., BERGER J.-F. 2001, The hidden reserve: Predictive modelling of buried archaeological sites in the Tricastin-Valdaine Region (Middle Rhone Valley, France), in STANÈIÈ, VELJANOVSKI 2001, 219-232.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Verhagen",
+     "given": "P."
+    },
+    {
+     "family": "Berger",
+     "given": "J.-F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "The hidden reserve: Predictive modelling of buried archaeological sites in the Tricastin-Valdaine Region (Middle Rhone Valley, France)",
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. CAA 2000. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000)"
+   ],
+   "pages": "219-232",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 11
+  },
+  {
+   "position": 15,
+   "raw": "VERHAGEN P., MC GLADE J., GILI S., RISCH R. 1995, Some criteria for modelling socio-economic activities in the Bronze Age of South-East Spain, in LOCK, STANÈIÈ 1995, 187-209.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Verhagen",
+     "given": "P."
+    },
+    {
+     "family": "McGlade",
+     "given": "J."
+    },
+    {
+     "family": "Gili",
+     "given": "S."
+    },
+    {
+     "family": "Risch",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Some criteria for modelling socio-economic activities in the Bronze Age of South-East Spain",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems: A European Perspective"
+   ],
+   "pages": "187-209",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "xref": 8
+  },
+  {
+   "position": 16,
+   "raw": "VERMEULEN F., ANTROP M., HAGEMAN B., WIEDEMANN T. 2001, Ancient roads and fields in Northwestern Gaul – A GIS-based analysis, in STANÈIÈ, VELJANOVSKI 2001, 187-196.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vermeulen",
+     "given": "F."
+    },
+    {
+     "family": "Antrop",
+     "given": "M."
+    },
+    {
+     "family": "Hageman",
+     "given": "B."
+    },
+    {
+     "family": "Wiedemann",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "Ancient roads and fields in Northwestern Gaul – A GIS-based analysis",
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. CAA 2000. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000)"
+   ],
+   "pages": "187-196",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 11
+  },
+  {
+   "position": 17,
+   "raw": "WARREN R.E. 1990a, Predictive modelling in archaeology: A primer, in ALLEN, GREEN, ZUBROW 1990, 90-111.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Warren",
+     "given": "R.E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "Predictive modelling in archaeology: A primer",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "pages": "90-111",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "xref": 1
+  },
+  {
+   "position": 18,
+   "raw": "WARREN R.E. 1990b, Predictive modelling of archaeological site location: A case study in the Midwest, in ALLEN, GREEN, ZUBROW 1990, 201-215.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Warren",
+     "given": "R.E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "Predictive modelling of archaeological site location: A case study in the Midwest",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "pages": "201-215",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "xref": 1
+  },
+  {
+   "position": 19,
+   "raw": "WARREN R.E., ASCH D.L. 2000, A predictive model of archaeological site location in the Eastern Prairie Peninsula, in WESCOTT, BRANDON 2000, 5-32.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Warren",
+     "given": "R.E."
+    },
+    {
+     "family": "Asch",
+     "given": "D.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Wescott",
+     "given": "K.L."
+    },
+    {
+     "family": "Brandon",
+     "given": "R.J."
+    }
+   ],
+   "date": "2000",
+   "title": "A predictive model of archaeological site location in the Eastern Prairie Peninsula",
+   "is_part_of": [
+    "Practical Applications of GIS for Archaeologists: A Predictive Modeling Kit"
+   ],
+   "pages": "5-32",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "xref": 20
+  },
+  {
+   "position": 20,
+   "raw": "WESCOTT K.L., BRANDON R.J. (eds.) 2000, Practical Applications of GIS for Archaeologists: A Predictive Modeling Kit, London, Taylor & Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Wescott",
+     "given": "K.L."
+    },
+    {
+     "family": "Brandon",
+     "given": "R.J."
+    }
+   ],
+   "date": "2000",
+   "title": "Practical Applications of GIS for Archaeologists: A Predictive Modeling Kit",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  }
+ ]
+}

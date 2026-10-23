@@ -1,0 +1,366 @@
+{
+ "citing_aec_id": 1340,
+ "source_file": "data/journal/35/1340.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Alliata E. 1990, *Ceramica bizantina e omayyade di 'Uyun Musa*, «Liber Annuus», 40, 248.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Alliata",
+     "given": "E."
+    }
+   ],
+   "date": "1990",
+   "title": "Ceramica bizantina e omayyade di 'Uyun Musa",
+   "is_part_of": [
+    "Liber Annuus"
+   ],
+   "volume": "40",
+   "pages": "248",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Butler H.C. 1913, *Ancient Architecture*, Syria Publications of the Princeton University Archaeological Expedition to Syria (Div. II, Part 3, Umm Idj-Djimal, Leyden), 149-213.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Butler",
+     "given": "H.C."
+    }
+   ],
+   "date": "1913",
+   "title": "Ancient Architecture, Syria",
+   "series": "Publications of the Princeton University Archaeological Expedition to Syria",
+   "series_number": "Div. II, Part 3, Umm Idj-Djimal",
+   "place": "Leyden",
+   "language": "eng",
+   "notes": "cited pp. 149-213"
+  },
+  {
+   "position": 3,
+   "raw": "Demetrescu E. 2015, *Archaeological stratigraphy as a formal language for virtual reconstruction. Theory and practice*, «Journal of Archaeological Science», 57, 42-55 (https://doi.org/10.1016/j.jas.2015.02.004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    }
+   ],
+   "date": "2015",
+   "title": "Archaeological stratigraphy as a formal language for virtual reconstruction. Theory and practice",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "57",
+   "pages": "42-55",
+   "language": "eng",
+   "doi": "10.1016/j.jas.2015.02.004"
+  },
+  {
+   "position": 4,
+   "raw": "Demetrescu E. 2018, *Virtual reconstruction as a scientific tool: The Extended Matrix and source-based modelling approach*, in S. Münster, K. Friedrichs, F. Niebling, A. Seidel-Grzesiska (eds.), *Digital Research and Education in Architectural Heritage*, UHDL DECH 2017, Communications in Computer and Information Science, 817, Cham, Springer, 102-116 (https://doi.org/10.1007/978-3-319-76992-9_7).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Münster",
+     "given": "S."
+    },
+    {
+     "family": "Friedrichs",
+     "given": "K."
+    },
+    {
+     "family": "Niebling",
+     "given": "F."
+    },
+    {
+     "family": "Seidel-Grzesińska",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Virtual reconstruction as a scientific tool: The Extended Matrix and source-based modelling approach",
+   "is_part_of": [
+    "Digital Research and Education in Architectural Heritage, UHDL DECH 2017",
+    "Communications in Computer and Information Science"
+   ],
+   "volume": "817",
+   "pages": "102-116",
+   "publisher": "Springer",
+   "place": "Cham",
+   "language": "eng",
+   "doi": "10.1007/978-3-319-76992-9_7",
+   "notes": "editor cited \"Seidel-Grzesiska\""
+  },
+  {
+   "position": 5,
+   "raw": "Demetrescu E. 2023, *zalmoxes-laran/EM-blender-tools: v.1.4.0.dev8 Spadaro (v.1.4.0.dev8)* (https://doi.org/10.5281/zenodo.10372659).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    }
+   ],
+   "date": "2023",
+   "title": "zalmoxes-laran/EM-blender-tools: v.1.4.0.dev8 Spadaro (v.1.4.0.dev8)",
+   "language": "eng",
+   "doi": "10.5281/zenodo.10372659"
+  },
+  {
+   "position": 6,
+   "raw": "Demetrescu E., Fanini B. 2017, *A white-box framework to oversee archaeological virtual reconstructions in space and time: Methods and tools*, «Journal of Archaeological Science: Reports», 14, 500-514 (https://doi.org/10.1016/j.jasrep.2017.06.034).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Fanini",
+     "given": "B."
+    }
+   ],
+   "date": "2017",
+   "title": "A white-box framework to oversee archaeological virtual reconstructions in space and time: Methods and tools",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "volume": "14",
+   "pages": "500-514",
+   "language": "eng",
+   "doi": "10.1016/j.jasrep.2017.06.034"
+  },
+  {
+   "position": 7,
+   "raw": "Demetrescu E., Fanini B., Cocca E. 2023, *An online dissemination workflow for the scientific process in CH through semantic 3d: Emtools and emviq open source tools*, «Heritage», 6, 2, 1264-1276 (https://doi.org/10.3390/heritage6020069).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Fanini",
+     "given": "B."
+    },
+    {
+     "family": "Cocca",
+     "given": "E."
+    }
+   ],
+   "date": "2023",
+   "title": "An online dissemination workflow for the scientific process in CH through semantic 3d: Emtools and emviq open source tools",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "6",
+   "issue": "2",
+   "pages": "1264-1276",
+   "language": "eng",
+   "doi": "10.3390/heritage6020069"
+  },
+  {
+   "position": 8,
+   "raw": "Demetrescu E., Ferdani D. 2021, *From field archaeology to virtual reconstruction. A five steps method using the Extended Matrix*, «Applied Sciences», 11, 5206 (https://doi.org/10.3390/app11115206).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    }
+   ],
+   "date": "2021",
+   "title": "From field archaeology to virtual reconstruction. A five steps method using the Extended Matrix",
+   "is_part_of": [
+    "Applied Sciences"
+   ],
+   "volume": "11",
+   "pages": "5206",
+   "language": "eng",
+   "doi": "10.3390/app11115206"
+  },
+  {
+   "position": 9,
+   "raw": "Helmedag I., Jäger J. 2012, *Stone and Architecture in the Mountainous Regions of Jordan and Syria*, Berlin, Deutscher Akademischer Austausch Dienst, 34.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Helmedag",
+     "given": "I."
+    },
+    {
+     "family": "Jäger",
+     "given": "J."
+    }
+   ],
+   "date": "2012",
+   "title": "Stone and Architecture in the Mountainous Regions of Jordan and Syria",
+   "publisher": "Deutscher Akademischer Austausch Dienst",
+   "place": "Berlin",
+   "language": "eng",
+   "notes": "cited p. 34"
+  },
+  {
+   "position": 10,
+   "raw": "Michel A. 2001, *Les églises d'époque byzantine et umayyade de la Jordanie (provinces d'Arabie et de Palestine), Vᵉ-VIIIᵉ siècle. Typologie architecturale et aménagements liturgiques*, Brepols, Turnhout.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Michel",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Les églises d'époque byzantine et umayyade de la Jordanie (provinces d'Arabie et de Palestine), Ve-VIIIe siècle. Typologie architecturale et aménagements liturgiques",
+   "publisher": "Brepols",
+   "place": "Turnhout",
+   "language": "fre"
+  },
+  {
+   "position": 11,
+   "raw": "Piccirillo M. 1990, *Il Dayr del Diacono Tommaso alle 'Uyun Musa - Monte Nebo*, «Liber Annuus», 40, 466-468.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Piccirillo",
+     "given": "M."
+    }
+   ],
+   "date": "1990",
+   "title": "Il Dayr del Diacono Tommaso alle 'Uyun Musa - Monte Nebo",
+   "is_part_of": [
+    "Liber Annuus"
+   ],
+   "volume": "40",
+   "pages": "466-468",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "Piccirillo M. 1998, *The churches on Mount Nebo. New discoveries*, in M. Piccirillo, E. Alliata (eds.), *Mount Nebo. New Archaeological Excavations 1967-1997*, Jerusalem, Studium Biblicum Franciscanum, 250-261.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Piccirillo",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Piccirillo",
+     "given": "M."
+    },
+    {
+     "family": "Alliata",
+     "given": "E."
+    }
+   ],
+   "date": "1998",
+   "title": "The churches on Mount Nebo. New discoveries",
+   "is_part_of": [
+    "Mount Nebo. New Archaeological Excavations 1967-1997"
+   ],
+   "pages": "250-261",
+   "publisher": "Studium Biblicum Franciscanum",
+   "place": "Jerusalem",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Piccirillo M., Palumbo G. 1993, *Proposal for the zoning of the Mount Nebo archaeological park*, «Liber Annuus», 43, 463-466.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Piccirillo",
+     "given": "M."
+    },
+    {
+     "family": "Palumbo",
+     "given": "G."
+    }
+   ],
+   "date": "1993",
+   "title": "Proposal for the zoning of the Mount Nebo archaeological park",
+   "is_part_of": [
+    "Liber Annuus"
+   ],
+   "volume": "43",
+   "pages": "463-466",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Schick R. 2013, *Field C101: Byzantine church (\"Lower church\")*, in J.P. Oleson, R. Schick (eds.), *Humayma Excavation Project, 2: Nabatean Campground and Necropolis, Byzantine Churches, and Early Islamic Domestic Structures*, Boston, American Schools of Oriental Research, 221-298 (https://doi.org/10.5615/j.ctvj7wktc).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Schick",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Oleson",
+     "given": "J.P."
+    },
+    {
+     "family": "Schick",
+     "given": "R."
+    }
+   ],
+   "date": "2013",
+   "title": "Field C101: Byzantine church (\"Lower church\")",
+   "is_part_of": [
+    "Humayma Excavation Project, 2: Nabatean Campground and Necropolis, Byzantine Churches, and Early Islamic Domestic Structures"
+   ],
+   "pages": "221-298",
+   "publisher": "American Schools of Oriental Research",
+   "place": "Boston",
+   "language": "eng",
+   "doi": "10.5615/j.ctvj7wktc"
+  },
+  {
+   "position": 15,
+   "raw": "Tchalenko G. 1979, *Églises de village de la Syrie du Nord*, in G. Tchalenko, E. Baccache (eds.), *Eglises syriennes à bêma*, Paris, Librairie orientaliste P. Geuthner, Institut français d'archéologie du Proche-Orient.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tchalenko",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Tchalenko",
+     "given": "G."
+    },
+    {
+     "family": "Baccache",
+     "given": "E."
+    }
+   ],
+   "date": "1979",
+   "title": "Églises de village de la Syrie du Nord",
+   "is_part_of": [
+    "Eglises syriennes à bêma"
+   ],
+   "publisher": "Librairie orientaliste P. Geuthner, Institut français d'archéologie du Proche-Orient",
+   "place": "Paris",
+   "language": "fre"
+  }
+ ]
+}

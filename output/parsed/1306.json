@@ -1,0 +1,690 @@
+{
+ "citing_aec_id": 1306,
+ "source_file": "data/journal/35/1306.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Apollonio F.I., Fantini F., Garagnani S., Gaiani M. 2021, *A photogrammetry-based workflow for the accurate 3D construction and visualization of museums assets*, «Remote Sensing», 13, 3, 486 (https://doi.org/10.3390/rs13030486).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Apollonio",
+     "given": "F.I."
+    },
+    {
+     "family": "Fantini",
+     "given": "F."
+    },
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaiani",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "A photogrammetry-based workflow for the accurate 3D construction and visualization of museums assets",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "volume": "13",
+   "issue": "3",
+   "pages": "486",
+   "language": "eng",
+   "doi": "10.3390/rs13030486"
+  },
+  {
+   "position": 2,
+   "raw": "Arrighetti A., Pansini R. (eds.) 2022a, *Sistemi e tecniche di documentazione, gestione e valorizzazione dell'architettura storica. Alcune recenti esperienze*, «Archeologia e Calcolatori», 33.1 (https://www.archcalc.cnr.it/journal/idyear.php?IDyear=2022-07-25).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    },
+    {
+     "family": "Pansini",
+     "given": "R."
+    }
+   ],
+   "date": "2022",
+   "title": "Sistemi e tecniche di documentazione, gestione e valorizzazione dell'architettura storica. Alcune recenti esperienze",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "33",
+   "issue": "1",
+   "language": "ita",
+   "uri": "https://www.archcalc.cnr.it/journal/idyear.php?IDyear=2022-07-25",
+   "notes": "cited as 2022a; whole issue"
+  },
+  {
+   "position": 3,
+   "raw": "Arrighetti A., Pansini R. 2022b, *Introduzione*, in Arrighetti, Pansini 2022a, 9-14 (https://doi.org/10.19282/ac.33.1.2022.01).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    },
+    {
+     "family": "Pansini",
+     "given": "R."
+    }
+   ],
+   "date": "2022",
+   "language": "ita",
+   "cited_aec_id": 1183
+  },
+  {
+   "position": 4,
+   "raw": "Bosco A., Carpentiero L., D'Andrea A., Minucci E., Valentini R. 2021, *Developing an ABIM system: A new prospective for archaeological data management*, in A. Caravale (ed.), *Archaeological Computing: Selected Papers from the 2020 IMEKO TC-4 MetroArchaeo International Conference*, «Archeologia e Calcolatori», 32.2, 167-176 (https://doi.org/10.19282/ac.32.2.2021.15).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bosco",
+     "given": "A."
+    },
+    {
+     "family": "Carpentiero",
+     "given": "L."
+    },
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Minucci",
+     "given": "E."
+    },
+    {
+     "family": "Valentini",
+     "given": "R."
+    }
+   ],
+   "date": "2021",
+   "language": "eng",
+   "cited_aec_id": 1170
+  },
+  {
+   "position": 5,
+   "raw": "Bosco A., D'Andrea A., Nuzzolo M., Zanfagna P. 2019, *A BIM approach for the analysis of an archaeological monument*, «The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences», XLII-2/W9, 165-172 (https://doi.org/10.5194/isprs-archives-XLII-2-W9-165-2019).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bosco",
+     "given": "A."
+    },
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Nuzzolo",
+     "given": "M."
+    },
+    {
+     "family": "Zanfagna",
+     "given": "P."
+    }
+   ],
+   "date": "2019",
+   "title": "A BIM approach for the analysis of an archaeological monument",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XLII-2/W9",
+   "pages": "165-172",
+   "language": "eng",
+   "doi": "10.5194/isprs-archives-XLII-2-W9-165-2019"
+  },
+  {
+   "position": 6,
+   "raw": "Centofanti M., Brusaporci S., Maiezza P. 2016, *Tra \"HistoricalBIM\" ed \"HeritageBIM\": Building Information Modeling per la documentazione dei beni architettonici*, in S. Parrinello, D. Besana (eds.), *IV Convegno internazionale sulla documentazione, conservazione e recupero del patrimonio architettonico e per la tutela paesaggistica (Firenze 2016)*, Firenze, Edifir, 42-51.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Centofanti",
+     "given": "M."
+    },
+    {
+     "family": "Brusaporci",
+     "given": "S."
+    },
+    {
+     "family": "Maiezza",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Parrinello",
+     "given": "S."
+    },
+    {
+     "family": "Besana",
+     "given": "D."
+    }
+   ],
+   "date": "2016",
+   "title": "Tra \"HistoricalBIM\" ed \"HeritageBIM\": Building Information Modeling per la documentazione dei beni architettonici",
+   "is_part_of": [
+    "IV Convegno internazionale sulla documentazione, conservazione e recupero del patrimonio architettonico e per la tutela paesaggistica (Firenze 2016)"
+   ],
+   "pages": "42-51",
+   "publisher": "Edifir",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Clini P., Angeloni R., D'Alessio M., Perna R., Sforzini D. 2022, *La digitalizzazione per la documentazione, lo studio e la fruizione di un sito archeologico. La VR experience del teatro di Ricina*, in Arrighetti, Pansini 2022a, 279-296 (https://doi.org/10.19282/ac.33.1.2022.15).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Clini",
+     "given": "P."
+    },
+    {
+     "family": "Angeloni",
+     "given": "R."
+    },
+    {
+     "family": "D'Alessio",
+     "given": "M."
+    },
+    {
+     "family": "Perna",
+     "given": "R."
+    },
+    {
+     "family": "Sforzini",
+     "given": "D."
+    }
+   ],
+   "date": "2022",
+   "language": "ita",
+   "cited_aec_id": 1197
+  },
+  {
+   "position": 8,
+   "raw": "Clini P., Frapiccini N., Mengoni M., Nespeca R., Ruggeri L. 2016, *SfM technique and focus stacking for digital documentation of archaeological artifacts*, «International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences», XLI-B5, 229-236 (https://doi.org/10.5194/isprs-archives-XLI-B5-229-2016).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Clini",
+     "given": "P."
+    },
+    {
+     "family": "Frapiccini",
+     "given": "N."
+    },
+    {
+     "family": "Mengoni",
+     "given": "M."
+    },
+    {
+     "family": "Nespeca",
+     "given": "R."
+    },
+    {
+     "family": "Ruggeri",
+     "given": "L."
+    }
+   ],
+   "date": "2016",
+   "title": "SfM technique and focus stacking for digital documentation of archaeological artifacts",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XLI-B5",
+   "pages": "229-236",
+   "language": "eng",
+   "doi": "10.5194/isprs-archives-XLI-B5-229-2016"
+  },
+  {
+   "position": 9,
+   "raw": "Coen A., Seidel S. 2009-2010, *I materiali preromani di Montegiorgio della collezione Gian Battista Compagnoni Natali conservati presso il Museo Archeologico di Ancona*, «Bullettino di Paletnologia italiana», 98, n.s. 16, 173-295.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Coen",
+     "given": "A."
+    },
+    {
+     "family": "Seidel",
+     "given": "S."
+    }
+   ],
+   "date": "2009-2010",
+   "title": "I materiali preromani di Montegiorgio della collezione Gian Battista Compagnoni Natali conservati presso il Museo Archeologico di Ancona",
+   "is_part_of": [
+    "Bullettino di Paletnologia italiana"
+   ],
+   "volume": "98",
+   "issue": "n.s. 16",
+   "pages": "173-295",
+   "language": "ita",
+   "notes": "year cited as 2009-2010"
+  },
+  {
+   "position": 10,
+   "raw": "Delgado Llata R. 2022, *Una metodologia di microscavo e di documentazione al servizio della conservazione*, «Bollettino ICR», n.s. 37, 24-36.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Delgado Llata",
+     "given": "R."
+    }
+   ],
+   "date": "2022",
+   "title": "Una metodologia di microscavo e di documentazione al servizio della conservazione",
+   "is_part_of": [
+    "Bollettino ICR"
+   ],
+   "volume": "n.s. 37",
+   "pages": "24-36",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "Delpiano D. 2021, *Antiche e moderne tecnologie: l'applicazione delle tecniche di rilevamento tridimensionale per la rappresentazione e l'analisi dei manufatti litici*, «Archeologia e Calcolatori», 32.1, 43-62 (https://doi.org/10.19282/ac.32.1.2021.03).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Delpiano",
+     "given": "D."
+    }
+   ],
+   "date": "2021",
+   "language": "ita",
+   "cited_aec_id": 1126
+  },
+  {
+   "position": 12,
+   "raw": "De Palma G., Donati P., Giuliani M.R. 2013, *Il pronto intervento sullo scavo e microscavo*, in *Il restauro in Italia. Arte e tecnologia nell'attività dell'Istituto Superiore per la Conservazione ed il Restauro*, Roma, Gangemi Editore, 215-221.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Palma",
+     "given": "G."
+    },
+    {
+     "family": "Donati",
+     "given": "P."
+    },
+    {
+     "family": "Giuliani",
+     "given": "M.R."
+    }
+   ],
+   "date": "2013",
+   "title": "Il pronto intervento sullo scavo e microscavo",
+   "is_part_of": [
+    "Il restauro in Italia. Arte e tecnologia nell'attività dell'Istituto Superiore per la Conservazione ed il Restauro"
+   ],
+   "pages": "215-221",
+   "publisher": "Gangemi Editore",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "Eastman C., Teicholz P., Sacks R.P., Liston K. 2008, *BIM Handbook: A Guide to Building Information Modeling for Owners, Managers, Designers, Engineers and Contractors*, Hoboken, Wiley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Eastman",
+     "given": "C."
+    },
+    {
+     "family": "Teicholz",
+     "given": "P."
+    },
+    {
+     "family": "Sacks",
+     "given": "R.P."
+    },
+    {
+     "family": "Liston",
+     "given": "K."
+    }
+   ],
+   "date": "2008",
+   "title": "BIM Handbook: A Guide to Building Information Modeling for Owners, Managers, Designers, Engineers and Contractors",
+   "publisher": "Wiley",
+   "place": "Hoboken",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Garagnani S. 2021, *Quick digitization techniques: The case study of Numana necropolis*, in V. Baldoni (ed.), *From Pottery to Context. Archaeology and Virtual Modelling*, «Archeologia e Calcolatori», 32.2, 53-62 (https://doi.org/10.19282/ac.32.2.2021.06).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    }
+   ],
+   "date": "2021",
+   "language": "eng",
+   "cited_aec_id": 1160
+  },
+  {
+   "position": 15,
+   "raw": "Garagnani S., Gaucci A. 2020, *The ArchaeoBIM method and the role of digital models in archaeology*, in A. Caravale, P. Moscati (eds.), *Logic and Computing. The Underlying Basis of Digital Archaeology. Proceedings of the MetroArchaeo 2019 Special Session, 2019 IMEKO TC-4 International Conference on Metrology for Archaeology and Cultural Heritage (Florence 2019)*, «Archeologia e Calcolatori», 31.2, 181-188 (https://doi.org/10.19282/ac.31.2.2020.17).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2020",
+   "language": "eng",
+   "cited_aec_id": 1102
+  },
+  {
+   "position": 16,
+   "raw": "Garagnani S., Gaucci A., Govi E. 2016, *ArchaeoBIM: dallo scavo al Building Information Modeling di una struttura sepolta. Il caso del tempio tuscanico di Uni a Marzabotto*, «Archeologia e Calcolatori», 27, 251-270 (https://doi.org/10.19282/AC.27.2016.13).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "date": "2016",
+   "language": "ita",
+   "cited_aec_id": 851
+  },
+  {
+   "position": 17,
+   "raw": "Gigliarelli E., Cangi G., Cessari L. 2022, *Rilievo per la modellazione e la gestione informativa HBIM. Approccio multicomponente per l'analisi strutturale e il restauro di edifici storici*, in Arrighetti, Pansini 2022a, 135-155 (https://doi.org/10.19282/ac.33.1.2022.08).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gigliarelli",
+     "given": "E."
+    },
+    {
+     "family": "Cangi",
+     "given": "G."
+    },
+    {
+     "family": "Cessari",
+     "given": "L."
+    }
+   ],
+   "date": "2022",
+   "language": "ita",
+   "cited_aec_id": 1191
+  },
+  {
+   "position": 18,
+   "raw": "Licheri A. 2016, *Prospettive sull'utilizzo del Building Information Modelling (BIM) in archeologia*, in P. Basso, A. Caravale, P. Grossi (eds.), *ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del IX Workshop (Verona 2014)*, «Archeologia e Calcolatori», Suppl. 8, 197-202 (https://www.archcalc.cnr.it/indice/Suppl_8/25_Licheri.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Licheri",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "language": "ita",
+   "cited_aec_id": 883
+  },
+  {
+   "position": 19,
+   "raw": "Lucentini N. 1987, *Note per la viabilità dell'Ascolano meridionale in età preistorica*, in *Le strade nelle Marche. Il problema nel tempo. Atti del Convegno (Fano-Fabriano-Ancona 1984)*, I, Ancona, Arti Grafiche Editoriali Urbino, 463-465.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lucentini",
+     "given": "N."
+    }
+   ],
+   "date": "1987",
+   "title": "Note per la viabilità dell'Ascolano meridionale in età preistorica",
+   "is_part_of": [
+    "Le strade nelle Marche. Il problema nel tempo. Atti del Convegno (Fano-Fabriano-Ancona 1984)"
+   ],
+   "volume": "I",
+   "pages": "463-465",
+   "publisher": "Arti Grafiche Editoriali Urbino",
+   "place": "Ancona",
+   "language": "ita"
+  },
+  {
+   "position": 20,
+   "raw": "Lucentini N. 1991, *Colli del Tronto (AP), località Casale Superiore: insediamento dell'età del Bronzo e del Ferro*, in M. Luni (ed.), *Scavi e ricerche nelle Marche*, Urbino, QuattroVenti, 17-18.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lucentini",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Luni",
+     "given": "M."
+    }
+   ],
+   "date": "1991",
+   "title": "Colli del Tronto (AP), località Casale Superiore: insediamento dell'età del Bronzo e del Ferro",
+   "is_part_of": [
+    "Scavi e ricerche nelle Marche"
+   ],
+   "pages": "17-18",
+   "publisher": "QuattroVenti",
+   "place": "Urbino",
+   "language": "ita"
+  },
+  {
+   "position": 21,
+   "raw": "Lucentini N. 1999, *Schede per località. Colli del Tronto*, «Picus», 19, 349-355.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lucentini",
+     "given": "N."
+    }
+   ],
+   "date": "1999",
+   "title": "Schede per località. Colli del Tronto",
+   "is_part_of": [
+    "Picus"
+   ],
+   "volume": "19",
+   "pages": "349-355",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "Lucentini N. 2002, *Museo Archeologico di Ascoli Piceno*, Pescara, Carsa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lucentini",
+     "given": "N."
+    }
+   ],
+   "date": "2002",
+   "title": "Museo Archeologico di Ascoli Piceno",
+   "publisher": "Carsa",
+   "place": "Pescara",
+   "language": "ita"
+  },
+  {
+   "position": 23,
+   "raw": "Maiezza P. 2019, *As-built reliability in architectural HBIM modeling*, «The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», 42-2/W9, 461-466 (https://doi.org/10.5194/isprs-archives-XLII-2-W9-461-2019).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Maiezza",
+     "given": "P."
+    }
+   ],
+   "date": "2019",
+   "title": "As-built reliability in architectural HBIM modeling",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "42-2/W9",
+   "pages": "461-466",
+   "language": "eng",
+   "doi": "10.5194/isprs-archives-XLII-2-W9-461-2019"
+  },
+  {
+   "position": 24,
+   "raw": "Mammoli R., Inì M., Quattrini R. 2022, *Metodologie a supporto ricerca storico-archivistica e per la trasparenza del modello HBIM del Lazzaretto di Ancona nel progetto di Luigi Vanvitelli*, in Arrighetti, Pansini 2022a, 157-178 (https://doi.org/10.19282/ac.33.1.2022.09).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mammoli",
+     "given": "R."
+    },
+    {
+     "family": "Inì",
+     "given": "M."
+    },
+    {
+     "family": "Quattrini",
+     "given": "R."
+    }
+   ],
+   "date": "2022",
+   "language": "ita",
+   "cited_aec_id": 1190
+  },
+  {
+   "position": 25,
+   "raw": "Pepe M., Costantino D., Alfio V.S., Restuccia A.G., Papalino N.M. 2021, *Scan to BIM for the digital management and representation in 3D GIS environment of cultural heritage site*, «Journal of Cultural Heritage», 50, 115-125 (https://doi.org/10.1016/j.culher.2021.05.006).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pepe",
+     "given": "M."
+    },
+    {
+     "family": "Costantino",
+     "given": "D."
+    },
+    {
+     "family": "Alfio",
+     "given": "V.S."
+    },
+    {
+     "family": "Restuccia",
+     "given": "A.G."
+    },
+    {
+     "family": "Papalino",
+     "given": "N.M."
+    }
+   ],
+   "date": "2021",
+   "title": "Scan to BIM for the digital management and representation in 3D GIS environment of cultural heritage site",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "50",
+   "pages": "115-125",
+   "language": "eng",
+   "doi": "10.1016/j.culher.2021.05.006"
+  },
+  {
+   "position": 26,
+   "raw": "Scianna A., Gaglio G.F., La Guardia M. 2020, *HBIM data management in historical and archaeological buildings*, «Archeologia e Calcolatori», 31.1, 231-252 (https://doi.org/10.19282/ac.31.1.2020.11).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scianna",
+     "given": "A."
+    },
+    {
+     "family": "Gaglio",
+     "given": "G.F."
+    },
+    {
+     "family": "La Guardia",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "language": "eng",
+   "cited_aec_id": 1122
+  },
+  {
+   "position": 27,
+   "raw": "Weidig J. (ed.) 2017, *Il ritorno dei tesori piceni a Belmonte. La riscoperta a un secolo dalla scoperta*, Roma, Astra Edizioni.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Weidig",
+     "given": "J."
+    }
+   ],
+   "date": "2017",
+   "title": "Il ritorno dei tesori piceni a Belmonte. La riscoperta a un secolo dalla scoperta",
+   "publisher": "Astra Edizioni",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 28,
+   "raw": "Zangrossi F., Delpiano D., Cocilova A., Ferrari F., Balzani M., Paesani M. 2019, *3D visual technology applied for the reconstruction of a Paleolithic workshop*, «Journal of Archaeological Science: Reports», 28, 102045 (https://doi.org/10.1016/j.jasrep.2019.102045).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zangrossi",
+     "given": "F."
+    },
+    {
+     "family": "Delpiano",
+     "given": "D."
+    },
+    {
+     "family": "Cocilova",
+     "given": "A."
+    },
+    {
+     "family": "Ferrari",
+     "given": "F."
+    },
+    {
+     "family": "Balzani",
+     "given": "M."
+    },
+    {
+     "family": "Paesani",
+     "given": "M."
+    }
+   ],
+   "date": "2019",
+   "title": "3D visual technology applied for the reconstruction of a Paleolithic workshop",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "volume": "28",
+   "pages": "102045",
+   "language": "eng",
+   "doi": "10.1016/j.jasrep.2019.102045"
+  }
+ ]
+}

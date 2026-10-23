@@ -1,0 +1,58 @@
+{
+ "citing_aec_id": 58,
+ "source_file": "data/journal/4/58.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "GIUDICE F. 1989, *Vasi e frammenti \"Beazley\" da Locri Epizefiri e ruolo di questa città lungo le rotte verso l'Occidente*, vol. I, Catania 1989.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Giudice",
+     "given": "F."
+    }
+   ],
+   "date": "1989",
+   "title": "Vasi e frammenti \"Beazley\" da Locri Epizefiri e ruolo di questa città lungo le rotte verso l'Occidente",
+   "place": "Catania",
+   "volume": "I",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "GIUDICE F. 1992, *La ceramica figurata*, in F. GIUDICE, S. TUSA, V. TUSA, *La collezione archeologica del Banco di Sicilia*, Palermo, 187-190.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giudice",
+     "given": "F."
+    }
+   ],
+   "date": "1992",
+   "title": "La ceramica figurata",
+   "editors": [
+    {
+     "family": "Giudice",
+     "given": "F."
+    },
+    {
+     "family": "Tusa",
+     "given": "S."
+    },
+    {
+     "family": "Tusa",
+     "given": "V."
+    }
+   ],
+   "is_part_of": [
+    "La collezione archeologica del Banco di Sicilia"
+   ],
+   "pages": "187-190",
+   "place": "Palermo",
+   "notes": "container is an authored book by Giudice, S. Tusa, V. Tusa, recorded with them as editors",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,2825 @@
+{
+ "citing_aec_id": 248,
+ "source_file": "data/journal/9/248.md",
+ "references": [
+  {
+   "raw": "ADLER M.A. 1996, Land tenure, archaeology and the ancestral Pueblo social landscape, «Journal of Anthropological Archaeology», 15 (4).",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Adler",
+     "given": "M.A."
+    }
+   ],
+   "type": "article",
+   "title": "Land tenure, archaeology and the ancestral Pueblo social landscape",
+   "is_part_of": [
+    "Journal of Anthropological Archaeology"
+   ],
+   "issue": "4",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1,
+   "volume": "15"
+  },
+  {
+   "raw": "AGORSAH E.K. 1988, Evaluating spatial behaviour of prehistoric societies, «Journal of Anthropological Archaeology», 7 (3), 231-247.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Agorsah",
+     "given": "E.K."
+    }
+   ],
+   "type": "article",
+   "title": "Evaluating spatial behaviour of prehistoric societies",
+   "is_part_of": [
+    "Journal of Anthropological Archaeology"
+   ],
+   "pages": "231-247",
+   "issue": "3",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2,
+   "volume": "7"
+  },
+  {
+   "raw": "ALLEN K.M.S., GREEN S.W., ZUBROW E.B.W. (eds.) 1990, Interpreting Space: GIS and Archaeology, London, Taylor & Francis.",
+   "date": "1990",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "type": "book",
+   "title": "Interpreting Space: GIS and Archaeology",
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "ANSELIN L., GETIS A. 1992, Spatial statistical analysis and Geographic Information Systems, «Annals of Regional Science», 26, 19-33.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Anselin",
+     "given": "L."
+    },
+    {
+     "family": "Getis",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Spatial statistical analysis and Geographic Information Systems",
+   "is_part_of": [
+    "Annals of Regional Science"
+   ],
+   "pages": "19-33",
+   "volume": "26",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "BAENA J., BLASCO C., RECUERO V. 1995, The spatial analysis of Bell Beaker sites in the Madrid region of Spain, in G. LOCK, Z. STANČIĆ (eds.), Archaeology and Geographical Information Systems, London, Taylor & Francis, 101-116.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Baena",
+     "given": "J."
+    },
+    {
+     "family": "Blasco",
+     "given": "C."
+    },
+    {
+     "family": "Recuero",
+     "given": "V."
+    }
+   ],
+   "type": "chapter",
+   "title": "The spatial analysis of Bell Beaker sites in the Madrid region of Spain",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "101-116",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "BAENA J., BLASCO C., QUESADA F. (eds.) 1997, Los S.I.G. y el análisis espacial en Arqueología. Cantoblanco, Madrid, Ediciones de la Universidad Autónoma de Madrid.",
+   "date": "1997",
+   "editors": [
+    {
+     "family": "Baena",
+     "given": "J."
+    },
+    {
+     "family": "Blasco",
+     "given": "C."
+    },
+    {
+     "family": "Quesada",
+     "given": "F."
+    }
+   ],
+   "type": "book",
+   "title": "Los S.I.G. y el análisis espacial en Arqueología",
+   "language": "spa",
+   "confidence": "high",
+   "position": 6,
+   "place": "Cantoblanco, Madrid",
+   "publisher": "Ediciones de la Universidad Autónoma de Madrid"
+  },
+  {
+   "raw": "BARCELÓ J.A. 1995, ¿Podemos determinar arqueológicamente la interacción social? in II Jornadas de Arqueología a la Carta, Carratraca, Diputación de Málaga, in press.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "type": "chapter",
+   "title": "¿Podemos determinar arqueológicamente la interacción social?",
+   "is_part_of": [
+    "II Jornadas de Arqueología a la Carta"
+   ],
+   "language": "fre",
+   "confidence": "high",
+   "position": 7,
+   "place": "Carratraca",
+   "publisher": "Diputación de Málaga",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "BARCELÓ J.A., PALLARÉS M. 1996, From visual seduction to spatial analysis. A critique of GIS in archaeology, in P. MOSCATI (ed.), III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995), «Archeologia e Calcolatori», 7, 327-335.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Pallarés",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "From visual seduction to spatial analysis. A critique of GIS in archaeology",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "pages": "327-335",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995), «Archeologia e Calcolatori», 7"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "BELLO J.M., CRIADO F., VAZQUEZ VARELA J.M. 1987, La Cultura megalítica de la Provincia de La Coruña y sus relaciones con el marco natural: implicaciones socio-económicas, La Coruña, Diputación Provincial.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Bello",
+     "given": "J.M."
+    },
+    {
+     "family": "Criado",
+     "given": "F."
+    },
+    {
+     "family": "Vazquez Varela",
+     "given": "J.M."
+    }
+   ],
+   "type": "book",
+   "title": "La Cultura megalítica de la Provincia de La Coruña y sus relaciones con el marco natural: implicaciones socio-económicas",
+   "place": "La Coruña",
+   "publisher": "Diputación Provincial",
+   "language": "fre",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "BENDER B. 1992, Theorising landscapes, and the prehistoric landscapes of Stonehenge, «Man», 27, 735-755.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Bender",
+     "given": "B."
+    }
+   ],
+   "type": "article",
+   "title": "Theorising landscapes, and the prehistoric landscapes of Stonehenge",
+   "is_part_of": [
+    "Man"
+   ],
+   "pages": "735-755",
+   "volume": "27",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "BENDER B. (ed.) 1993, Landscape: Politics and Perspective, London, Berg.",
+   "date": "1993",
+   "editors": [
+    {
+     "family": "Bender",
+     "given": "B."
+    }
+   ],
+   "type": "book",
+   "title": "Landscape: Politics and Perspective",
+   "place": "London",
+   "publisher": "Berg",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "BISKOWSKI M. 1994, GIS & the study of grinding tools in the Teotihuacan Valley, Mexico, in I. JOHNSON (ed.), Methods in the Mountains, Proceedings UISPP Commision IV Meeting (Victoria, Australia, August 1993), Sydney University Archaeological Method Series, n. 2., Sydney, 115-134.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Biskowski",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "GIS & the study of grinding tools in the Teotihuacan Valley, Mexico",
+   "editors": [
+    {
+     "family": "Johnson",
+     "given": "I."
+    }
+   ],
+   "pages": "115-134",
+   "is_part_of": [
+    "Methods in the Mountains. Proceedings of UISPP Commission IV Meeting (Mount Victoria, Australia, August 1993)"
+   ],
+   "place": "Sydney",
+   "series": "Sydney University Archaeological Methods Series",
+   "series_number": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "BISWELL S.L, CROPPER J.E., GAFFNEY V., LEACH P. 1995, Gis and excavation: A cautionary tale from Shepton Mallet, Somerset, England, in G. LOCK, Z. STANČIĆ (eds.), Archaeology and Geographical Information Systems, London, Taylor & Francis, 269-286.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Biswell",
+     "given": "S.L."
+    },
+    {
+     "family": "Cropper",
+     "given": "J.E."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Leach",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "Gis and excavation: A cautionary tale from Shepton Mallet, Somerset, England",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "269-286",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "BLASCO C., RECUERO V., DÀVILA A.F., BAENA J. 1995, Sistemas de información geográfica en la gestión del patrimonio: definición de las zonas de protección arqueológica, in Aplicaciones informáticas en Arqueología: Teorías y sistemas, II Coloquio Internacional de Arqueología e Informática (Bilbao, 1993), Bilbao, 155-172.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Blasco",
+     "given": "C."
+    },
+    {
+     "family": "Recuero",
+     "given": "V."
+    },
+    {
+     "family": "Dàvila",
+     "given": "A.F."
+    },
+    {
+     "family": "Baena",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "Sistemas de información geográfica en la gestión del patrimonio: definición de las zonas de protección arqueológica",
+   "pages": "155-172",
+   "is_part_of": [
+    "Aplicaciones informáticas en Arqueología: Teorías y sistemas"
+   ],
+   "place": "Bilbao",
+   "language": "spa",
+   "confidence": "high",
+   "position": 14,
+   "editors": [
+    {
+     "family": "Valdés",
+     "given": "L."
+    },
+    {
+     "family": "Arenal",
+     "given": "I."
+    },
+    {
+     "family": "Pujana",
+     "given": "I."
+    }
+   ],
+   "publisher": "Denboraren Argia"
+  },
+  {
+   "raw": "CARMICHAEL D.L. 1990, GIS. Predictive modelling of prehistoric site distributions in Central Montana, in K.M.S. ALLEN, S.W. GREEN, E.B.W. ZUBROW (eds.) Interpreting Space: GIS and Archaeology, London, Taylor & Francis, 216-225.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Carmichael",
+     "given": "D.L."
+    }
+   ],
+   "type": "chapter",
+   "title": "GIS. Predictive modelling of prehistoric site distributions in Central Montana",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "pages": "216-225",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "CASTRO P.V. et al. 1996, Teoría de las prácticas sociales, «Complutum Extra», 6 (2), 35-48.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Castro",
+     "given": "P.V."
+    }
+   ],
+   "notes": "et al. in citation",
+   "type": "article",
+   "title": "Teoría de las prácticas sociales",
+   "is_part_of": [
+    "Complutum Extra"
+   ],
+   "pages": "35-48",
+   "issue": "2",
+   "language": "spa",
+   "confidence": "high",
+   "position": 16,
+   "volume": "6"
+  },
+  {
+   "raw": "CLAVAL P. 1977, Le marxisme et l’espace, «L’espace géographique», 3, 145-164.",
+   "date": "1977",
+   "creators": [
+    {
+     "family": "Claval",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "Le marxisme et l’espace",
+   "is_part_of": [
+    "L’espace géographique"
+   ],
+   "pages": "145-164",
+   "volume": "3",
+   "language": "fre",
+   "confidence": "high",
+   "position": 17
+  },
+  {
+   "raw": "COSGROVE D. 1984, Social Formation and Symbolic Landscape, London, Croom Helm.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Cosgrove",
+     "given": "D."
+    }
+   ],
+   "type": "book",
+   "title": "Social Formation and Symbolic Landscape",
+   "place": "London",
+   "publisher": "Croom Helm",
+   "language": "eng",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "COUCLELIS H. 1991, Requirements for planning-related GIS in spatial perspective, «Papers in Regional Science», 70 (1), 9-19.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Couclelis",
+     "given": "H."
+    }
+   ],
+   "type": "article",
+   "title": "Requirements for planning-related GIS in spatial perspective",
+   "is_part_of": [
+    "Papers in Regional Science"
+   ],
+   "pages": "9-19",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 19,
+   "volume": "70"
+  },
+  {
+   "raw": "CRESSIE N. 1991, Statistics for Spatial Data, New York, John Wiley.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Cressie",
+     "given": "N."
+    }
+   ],
+   "type": "book",
+   "title": "Statistics for Spatial Data",
+   "place": "New York",
+   "publisher": "John Wiley",
+   "language": "eng",
+   "confidence": "high",
+   "position": 20
+  },
+  {
+   "raw": "DELLA BONA L. 1993, A preliminary predictive model of prehistoric activity location for the western Lake Nipigon watershed, «Archaeological Computing Newsletter», 37, 11-19.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Della Bona",
+     "given": "L."
+    }
+   ],
+   "type": "article",
+   "title": "A preliminary predictive model of prehistoric activity location for the western Lake Nipigon watershed",
+   "is_part_of": [
+    "Archaeological Computing Newsletter"
+   ],
+   "pages": "11-19",
+   "volume": "37",
+   "language": "eng",
+   "confidence": "high",
+   "position": 21
+  },
+  {
+   "raw": "DUNCAN J., DUNCAN N. 1988, (Re)reading the landscape, «Society and Space», 6, 117-126.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Duncan",
+     "given": "J."
+    },
+    {
+     "family": "Duncan",
+     "given": "N."
+    }
+   ],
+   "type": "article",
+   "title": "(Re)reading the landscape",
+   "is_part_of": [
+    "Society and Space"
+   ],
+   "pages": "117-126",
+   "volume": "6",
+   "language": "eng",
+   "confidence": "high",
+   "position": 22
+  },
+  {
+   "raw": "EGENHOFER M.J., FRANZOSA R. 1991, Point-set topological spatial relations, «International Journal of Geographical Information Systems», 5 (2), 161-174.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Egenhofer",
+     "given": "M.J."
+    },
+    {
+     "family": "Franzosa",
+     "given": "R."
+    }
+   ],
+   "type": "article",
+   "title": "Point-set topological spatial relations",
+   "is_part_of": [
+    "International Journal of Geographical Information Systems"
+   ],
+   "pages": "161-174",
+   "issue": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 23,
+   "volume": "5"
+  },
+  {
+   "raw": "FOTHERINGHAM A.S., ROGERSON P.A. 1993, GIS and spatial analytical problems, «International Journal of Geographical Information Systems», 7 (1), 3-19.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Fotheringham",
+     "given": "A.S."
+    },
+    {
+     "family": "Rogerson",
+     "given": "P.A."
+    }
+   ],
+   "type": "article",
+   "title": "GIS and spatial analytical problems",
+   "is_part_of": [
+    "International Journal of Geographical Information Systems"
+   ],
+   "pages": "3-19",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 24,
+   "volume": "7"
+  },
+  {
+   "raw": "FOUCAULT M. 1975, The Birth of the Clinic: An Archaeology of Medical Perception, New York, Vintage Books.",
+   "date": "1975",
+   "creators": [
+    {
+     "family": "Foucault",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "The Birth of the Clinic: An Archaeology of Medical Perception",
+   "place": "New York",
+   "publisher": "Vintage Books",
+   "language": "eng",
+   "confidence": "high",
+   "position": 25
+  },
+  {
+   "raw": "FOUCAULT M. 1977, Discipline and Punish: The Birth of the Prison, New York, Vintage Books.",
+   "date": "1977",
+   "creators": [
+    {
+     "family": "Foucault",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Discipline and Punish: The Birth of the Prison",
+   "place": "New York",
+   "publisher": "Vintage Books",
+   "language": "eng",
+   "confidence": "high",
+   "position": 26
+  },
+  {
+   "raw": "GAFFNEY V., STANČIĆ Z. 1991, Gis Approaches to Regional Analysis: A Case Study of the Island of Hvar, Ljubljana, Znanstveni Institut Filozofske Fakultete.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "type": "book",
+   "title": "Gis Approaches to Regional Analysis: A Case Study of the Island of Hvar",
+   "place": "Ljubljana",
+   "publisher": "Znanstveni Institut Filozofske Fakultete",
+   "language": "eng",
+   "confidence": "high",
+   "position": 27
+  },
+  {
+   "raw": "GAFFNEY V., STANČIĆ Z., WATSON H. 1995, The impact of GIS in Archaeology: A personal perspective, in G. Lock, Z. STANČIĆ (eds.), Archaeology and Geographical Information Systems, London, Taylor & Francis, 211-230.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    },
+    {
+     "family": "Watson",
+     "given": "H."
+    }
+   ],
+   "type": "chapter",
+   "title": "The impact of GIS in Archaeology: A personal perspective",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "211-230",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 28
+  },
+  {
+   "raw": "GAFFNEY V., VAN LEUSEN M. 1995, Postscript-GIS, environmental determinism and archaeology: A parallel text, in G. LOCK, D. STANČIĆ (eds.), Archaeology and Geographical Information Systems, London, Taylor & Francis, 367-382.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Postscript-GIS, environmental determinism and archaeology: A parallel text",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "367-382",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 29
+  },
+  {
+   "raw": "GARCÍA L., RODRÍGUEZ J. 1996, Predicting the ritual? A suggested solution in archaeological forecasting through qualitative response models, in H. KAMERMANS, K. FENNEMA (eds.), Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995, Analecta Praehistorica Leidensia, n. 28, Leiden, 203-216.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "García",
+     "given": "L."
+    },
+    {
+     "family": "Rodríguez",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "Predicting the ritual? A suggested solution in archaeological forecasting through qualitative response models",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "pages": "203-216",
+   "is_part_of": [
+    "Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995"
+   ],
+   "place": "Leiden",
+   "language": "eng",
+   "confidence": "high",
+   "position": 30,
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28"
+  },
+  {
+   "raw": "GATRELL A.C. 1983, Distance and Space: A Geographical Perspective, Oxford, Oxford University Press.",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Gatrell",
+     "given": "A.C."
+    }
+   ],
+   "type": "book",
+   "title": "Distance and Space: A Geographical Perspective",
+   "place": "Oxford",
+   "publisher": "Oxford University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 31
+  },
+  {
+   "raw": "GATRELL A.C. 1991, Concepts of space and geographical data, in D.J. MAGUIRE, M.F. GOODCHILD, D.W RHIND (eds.), Geographical Information Systems: Principles and Applications, London, Longman, vol. 1, 119-34.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Gatrell",
+     "given": "A.C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Concepts of space and geographical data",
+   "editors": [
+    {
+     "family": "Maguire",
+     "given": "D.J."
+    },
+    {
+     "family": "Goodchild",
+     "given": "M.F."
+    },
+    {
+     "family": "Rhind",
+     "given": "D.W."
+    }
+   ],
+   "pages": "119-134",
+   "is_part_of": [
+    "Geographical Information Systems: Principles and Applications"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 32,
+   "volume": "1",
+   "place": "London",
+   "publisher": "Longman"
+  },
+  {
+   "raw": "GILI S. 1995, Territorialidades de la Prehistoria Reciente Mallorquina, Tesi doctoral, Universitat Autònoma de Barcelona.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Gili",
+     "given": "S."
+    }
+   ],
+   "type": "thesis",
+   "title": "Territorialidades de la Prehistoria Reciente Mallorquina",
+   "publisher": "Universitat Autònoma de Barcelona",
+   "language": "fre",
+   "confidence": "high",
+   "position": 33,
+   "notes": "Tesi doctoral"
+  },
+  {
+   "raw": "GILLINGS M. 1996, Not drowning but waving? Re-humanising GIS, the Tisza flood plain revisited, in Proceedings of XIII International Congress of Prehistoric and Protohistoric Sciences (Forlì, Italia, 8-14 September 1996), Forlì, A.B.A.C.O. Edizioni, 69-84.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Not drowning but waving? Re-humanising GIS, the Tisza flood plain revisited",
+   "pages": "69-84",
+   "is_part_of": [
+    "Proceedings of XIII International Congress of Prehistoric and Protohistoric Sciences (Forlì, Italia, 8-14 September 1996)"
+   ],
+   "place": "Forlì",
+   "publisher": "A.B.A.C.O. Edizioni",
+   "language": "eng",
+   "confidence": "high",
+   "position": 34
+  },
+  {
+   "raw": "GOSDEN C. 1994, Social Being and Time, Cambridge, Blackwell.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Gosden",
+     "given": "C."
+    }
+   ],
+   "type": "book",
+   "title": "Social Being and Time",
+   "place": "Cambridge",
+   "publisher": "Blackwell",
+   "language": "eng",
+   "confidence": "high",
+   "position": 35
+  },
+  {
+   "raw": "GOTTDIENER M. 1991, Space, social theory, and the urban metaphor, Current Perspectives in Social Theory, vol. 11, 295-311.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Gottdiener",
+     "given": "M."
+    }
+   ],
+   "pages": "295-311",
+   "type": "article",
+   "title": "Space, social theory, and the urban metaphor",
+   "language": "eng",
+   "confidence": "high",
+   "position": 36,
+   "is_part_of": [
+    "Current Perspectives in Social Theory"
+   ],
+   "volume": "11"
+  },
+  {
+   "raw": "GOTTDIENER M. 1994, Social Production of Urban Space, Texas.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Gottdiener",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Social Production of Urban Space",
+   "place": "Texas",
+   "language": "eng",
+   "confidence": "high",
+   "position": 37
+  },
+  {
+   "raw": "GREGORY D., URRY J. (eds.) 1985, Social Relations and Spatial Structures, London, Mcmillan.",
+   "date": "1985",
+   "editors": [
+    {
+     "family": "Gregory",
+     "given": "D."
+    },
+    {
+     "family": "Urry",
+     "given": "J."
+    }
+   ],
+   "type": "book",
+   "title": "Social Relations and Spatial Structures",
+   "place": "London",
+   "publisher": "Mcmillan",
+   "language": "eng",
+   "confidence": "high",
+   "position": 38
+  },
+  {
+   "raw": "GREIDER T., GARKOVITCH L. 1994, Landscapes: The social construction of nature and the environment, «Rural Sociology», 59 (1), 1-24.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Greider",
+     "given": "T."
+    },
+    {
+     "family": "Garkovitch",
+     "given": "L."
+    }
+   ],
+   "type": "article",
+   "title": "Landscapes: The social construction of nature and the environment",
+   "is_part_of": [
+    "Rural Sociology"
+   ],
+   "pages": "1-24",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 39,
+   "volume": "59"
+  },
+  {
+   "raw": "HARRIS T., LOCK G. 1995, Toward an evaluation of GIS in European archaeology: The past, present and future of theory and applications, in G. LOCK, Z. STANČIĆ (eds.), Archaeology and Geographical Information Systems, London, Taylor & Francis, 349-366.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "T."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Toward an evaluation of GIS in European archaeology: The past, present and future of theory and applications",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "349-366",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 40
+  },
+  {
+   "raw": "HASENSTAB R.J., RESNICK B. 1990, GIS in historical predictive modelling: The Fort Drum Project, in K.M.S. ALLEN, S.W. GREEN, E.B.W. ZUBROW (eds.), Interpreting Space: GIS and Archaeology, London, Taylor & Francis, 284-306.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Hasenstab",
+     "given": "R.J."
+    },
+    {
+     "family": "Resnick",
+     "given": "B."
+    }
+   ],
+   "type": "chapter",
+   "title": "GIS in historical predictive modelling: The Fort Drum Project",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "pages": "284-306",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 41
+  },
+  {
+   "raw": "HERNANDEZ Z.D. 1994, Qualitative Representation of Spatial Knowledge, Lecture Notes in Artificial Intelligence, n. 804, Berlin, Springer-Verlag.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Hernandez",
+     "given": "Z.D."
+    }
+   ],
+   "type": "book",
+   "title": "Qualitative Representation of Spatial Knowledge",
+   "place": "Berlin",
+   "publisher": "Springer-Verlag",
+   "series": "Lecture Notes in Artificial Intelligence",
+   "series_number": "804",
+   "language": "eng",
+   "confidence": "high",
+   "position": 42
+  },
+  {
+   "raw": "HODDER I. 1994, Architecture and meaning: The example of Neolithic houses and tombs, in M.P. PEARSON, C. RICHARDS (eds.), Architecture and Order, New York, Routledge, 73-86.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "type": "chapter",
+   "title": "Architecture and meaning: The example of Neolithic houses and tombs",
+   "editors": [
+    {
+     "family": "Pearson",
+     "given": "M.P."
+    },
+    {
+     "family": "Richards",
+     "given": "C."
+    }
+   ],
+   "pages": "73-86",
+   "is_part_of": [
+    "Architecture and Order"
+   ],
+   "place": "New York",
+   "publisher": "Routledge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 43
+  },
+  {
+   "raw": "J. HUGGET, N. RYAN (eds.) 1995, Computer Applications and Quantitative Methods 1994, BAR International Series, n. 600, Oxford.",
+   "date": "1995",
+   "editors": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    },
+    {
+     "family": "Ryan",
+     "given": "N."
+    }
+   ],
+   "type": "book",
+   "title": "Computer Applications and Quantitative Methods 1994",
+   "place": "Oxford",
+   "series": "BAR International Series",
+   "series_number": "600",
+   "language": "eng",
+   "confidence": "high",
+   "position": 44
+  },
+  {
+   "raw": "HUSAIN T. 1977, Topology and Maps, New York, Plenum Press.",
+   "date": "1977",
+   "creators": [
+    {
+     "family": "Husain",
+     "given": "T."
+    }
+   ],
+   "type": "book",
+   "title": "Topology and Maps",
+   "place": "New York",
+   "publisher": "Plenum Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 45
+  },
+  {
+   "raw": "INGOLD T. 1993, The temporality of the landscape, «World Archaeology», 25 (2), 152-173.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Ingold",
+     "given": "T."
+    }
+   ],
+   "type": "article",
+   "title": "The temporality of the landscape",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "pages": "152-173",
+   "issue": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 46,
+   "volume": "25"
+  },
+  {
+   "raw": "JOHNSON I. (ed.) 1994, Methods in the Mountains, Proceedings UISPP Commision IV Meeting (Victoria, Australia, August 1993), Sydney University Archaeological Method Series, n. 2, Sydney.",
+   "date": "1994",
+   "editors": [
+    {
+     "family": "Johnson",
+     "given": "I."
+    }
+   ],
+   "type": "proceedings",
+   "title": "Methods in the Mountains. Proceedings of UISPP Commission IV Meeting (Mount Victoria, Australia, August 1993)",
+   "place": "Sydney",
+   "series": "Sydney University Archaeological Methods Series",
+   "series_number": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 47
+  },
+  {
+   "raw": "KAMERMANS H., FENNEMA K. (eds.) 1996, Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995, Analecta Praehistorica Leidensia, n. 28, Leiden.",
+   "date": "1996",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "type": "book",
+   "title": "Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995, Analecta Praehistorica Leidensia, n. 28",
+   "place": "Leiden",
+   "language": "eng",
+   "confidence": "high",
+   "position": 48,
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28"
+  },
+  {
+   "raw": "KIRBY K.C., PAZNER M. 1990, Graphic Map Algebra, Proceedings of the 4th International Symposium on Spatial Data Handling (Zurich, July, 23-27).",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Kirby",
+     "given": "K.C."
+    },
+    {
+     "family": "Pazner",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Graphic Map Algebra",
+   "language": "eng",
+   "confidence": "high",
+   "position": 49,
+   "is_part_of": [
+    "Proceedings of the 4th International Symposium on Spatial Data Handling (Zurich, July, 23-27)"
+   ]
+  },
+  {
+   "raw": "KOHLER T.A., PARKER S.C. 1986, Predictive models for archaeological resource location, in M.B. SCHIFFER (ed.), Advances in Archaeological Method and Theory, New York, Academic Press, vol. 9, 397-452.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Kohler",
+     "given": "T.A."
+    },
+    {
+     "family": "Parker",
+     "given": "S.C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Predictive models for archaeological resource location",
+   "editors": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "pages": "397-452",
+   "is_part_of": [
+    "Advances in Archaeological Method and Theory"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 50,
+   "volume": "9",
+   "place": "New York",
+   "publisher": "Academic Press"
+  },
+  {
+   "raw": "KVAMME K.L. 1989, Geographic Information Systems in regional research and data management, in M.B. SCHIFFER (ed.), Archaeological Method and Theory, Tucson, University of Arizona Press, vol. 1, 139-203.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "type": "chapter",
+   "title": "Geographic Information Systems in regional research and data management",
+   "editors": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "pages": "139-203",
+   "is_part_of": [
+    "Archaeological Method and Theory"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 51,
+   "volume": "1",
+   "place": "Tucson",
+   "publisher": "University of Arizona Press"
+  },
+  {
+   "raw": "KVAMME K.L. 1990, GIS algorithms and their effects on regional archaeological analysis, in in K.M.S. ALLEN, S.W. GREEN, E.B.W. ZUBROW (eds.), Interpreting Space: GIS and Archaeology, London, Taylor & Francis, 112-126.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "type": "chapter",
+   "title": "GIS algorithms and their effects on regional archaeological analysis",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "pages": "112-126",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 52
+  },
+  {
+   "raw": "KVAMME K.L. 1990, The fundamental principles and practice of predictive modelling, in A. VOORRIPS (ed.), Mathematics and Information Science in Archaeology, Bonn, Holos-Verlag, vol. 3.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "type": "chapter",
+   "title": "The fundamental principles and practice of predictive modelling",
+   "editors": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Mathematics and Information Science in Archaeology"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 53,
+   "volume": "3",
+   "place": "Bonn",
+   "publisher": "Holos-Verlag"
+  },
+  {
+   "raw": "KVAMME K.L. 1992, Terrain form analysis of archaeological location through Geographic Information Systems, in G. LOCK, J. MOFFETT (eds.), Computer Applications and Quantitative Methods in Archaeology 1991, BAR International Series, n. 577, Oxford, Tempus Reparatum, 127-136.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "type": "chapter",
+   "title": "Terrain form analysis of archaeological location through Geographic Information Systems",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "pages": "127-136",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1991"
+   ],
+   "place": "Oxford",
+   "publisher": "Tempus Reparatum",
+   "series": "BAR International Series",
+   "series_number": "577",
+   "language": "eng",
+   "confidence": "high",
+   "position": 54
+  },
+  {
+   "raw": "KVAMME K.L. 1992, A predictive site location model on the high plains: An example with an independent test, «Plains Anthropologist», 56 (2), 19-40.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "type": "article",
+   "title": "A predictive site location model on the high plains: An example with an independent test",
+   "is_part_of": [
+    "Plains Anthropologist"
+   ],
+   "pages": "19-40",
+   "issue": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 55,
+   "volume": "56"
+  },
+  {
+   "raw": "LEFEBVRE H. 1974, La production de l’Espace, Paris.",
+   "date": "1974",
+   "creators": [
+    {
+     "family": "Lefebvre",
+     "given": "H."
+    }
+   ],
+   "type": "book",
+   "title": "La production de l’Espace",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high",
+   "position": 56
+  },
+  {
+   "raw": "LOCK G., HARRIS T. 1990, Integrating spatial information in computerised SMRs, in K. LOCKYEAR, S. RAHTZ (eds.), Computer Applications and Quantitative methods in Archaeology 1990, Oxford, Tempus Reparatum, 165-174.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Harris",
+     "given": "T."
+    }
+   ],
+   "type": "chapter",
+   "title": "Integrating spatial information in computerised SMRs",
+   "editors": [
+    {
+     "family": "Lockyear",
+     "given": "K."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "pages": "165-174",
+   "is_part_of": [
+    "Computer Applications and Quantitative methods in Archaeology 1990"
+   ],
+   "place": "Oxford",
+   "publisher": "Tempus Reparatum",
+   "language": "eng",
+   "confidence": "high",
+   "position": 57
+  },
+  {
+   "raw": "LOCK G., HARRIS T. 1992, Visualizing spatial data: The importance of Geographic Information Systems, in R. REILLY, S. RAHTZ, (eds.), Archaeology and the Information Age: A Global Perspective, London, Routldge, 81-96.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Harris",
+     "given": "T."
+    }
+   ],
+   "type": "chapter",
+   "title": "Visualizing spatial data: The importance of Geographic Information Systems",
+   "editors": [
+    {
+     "family": "Reilly",
+     "given": "P."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "pages": "81-96",
+   "is_part_of": [
+    "Archaeology and the Information Age: A Global Perspective"
+   ],
+   "place": "London",
+   "publisher": "Routldge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 58
+  },
+  {
+   "raw": "LOCK G., MOFFETT J. 1992 (eds.), Computer Applications and Quantitative Methods in Archaeology 1991, BAR International Series, n. 577, Oxford.",
+   "date": "1992",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "type": "book",
+   "title": "Computer Applications and Quantitative Methods in Archaeology 1991",
+   "place": "Oxford",
+   "series": "BAR International Series",
+   "series_number": "577",
+   "language": "eng",
+   "confidence": "high",
+   "position": 59
+  },
+  {
+   "raw": "LOCK G., STANČIĆ Z. (eds.) 1995, Archaeology and Geographical Information Systems, London, Taylor & Francis.",
+   "date": "1995",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "type": "book",
+   "title": "Archaeology and Geographical Information Systems",
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 60
+  },
+  {
+   "raw": "LOEB A.L. 1976, Spatial Structures, London, Addison-Wesley.",
+   "date": "1976",
+   "creators": [
+    {
+     "family": "Loeb",
+     "given": "A.L."
+    }
+   ],
+   "type": "book",
+   "title": "Spatial Structures",
+   "place": "London",
+   "publisher": "Addison-Wesley",
+   "language": "eng",
+   "confidence": "high",
+   "position": 61
+  },
+  {
+   "raw": "LOPEZ P. et al. (eds.) 1991, El cambio cultural del IV al II milenio a.C. en la comarca Noroeste de Murcia, Madrid, CSIC.",
+   "date": "1991",
+   "editors": [
+    {
+     "family": "Lopez",
+     "given": "P."
+    }
+   ],
+   "notes": "et al. in citation",
+   "type": "book",
+   "title": "El cambio cultural del IV al II milenio a.C. en la comarca Noroeste de Murcia",
+   "place": "Madrid",
+   "publisher": "CSIC",
+   "language": "spa",
+   "confidence": "high",
+   "position": 62
+  },
+  {
+   "raw": "LUX A., RIT J.F. 1988, Modèles de raisonnement pour un module temporal, in D. PASTRE (ed.), Intelligence Artificielle, Actes des Journées Nationales (PRC-GRECO), Toulouse, Teknea.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Lux",
+     "given": "A."
+    },
+    {
+     "family": "Rit",
+     "given": "J.F."
+    }
+   ],
+   "type": "chapter",
+   "title": "Modèles de raisonnement pour un module temporal",
+   "editors": [
+    {
+     "family": "Pastre",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Intelligence Artificielle, Actes des Journées Nationales (PRC-GRECO)"
+   ],
+   "place": "Toulouse",
+   "publisher": "Teknea",
+   "language": "fre",
+   "confidence": "high",
+   "position": 63
+  },
+  {
+   "raw": "MASSEY D. 1992, Politics and space/time, «New Left Review», 196, 65-84.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Massey",
+     "given": "D."
+    }
+   ],
+   "type": "article",
+   "title": "Politics and space/time",
+   "is_part_of": [
+    "New Left Review"
+   ],
+   "pages": "65-84",
+   "volume": "196",
+   "language": "eng",
+   "confidence": "high",
+   "position": 64
+  },
+  {
+   "raw": "MATHÉRON G. 1965, The Theory of Regionalized Variables and its Applications, Les Cahiers du centre de morphologie mathématique de Fontainebleau, Paris, Ecole Nationale Supérieure des Mines de Paris.",
+   "date": "1965",
+   "creators": [
+    {
+     "family": "Mathéron",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "The Theory of Regionalized Variables and its Applications",
+   "place": "Paris",
+   "publisher": "Ecole Nationale Supérieure des Mines de Paris",
+   "series": "Les Cahiers du centre de morphologie mathématique de Fontainebleau",
+   "language": "eng",
+   "confidence": "high",
+   "position": 65
+  },
+  {
+   "raw": "MEFFERT M. 1995, Spatial relations in Roman Iron Age settlements in the Assendelver Polders, The Netherlands, in G. LOCK, Z. STANČIĆ (eds.), Archaeology and Geographical Information Systems, London, Taylor & Francis, 287-300.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Meffert",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Spatial relations in Roman Iron Age settlements in the Assendelver Polders, The Netherlands",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "287-300",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 66
+  },
+  {
+   "raw": "MILLS B. 1994, MapAlgebra: An emerging standard for analysis in GIS, «GISEurope», 3 (9), 18-20.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Mills",
+     "given": "B."
+    }
+   ],
+   "type": "article",
+   "title": "MapAlgebra: An emerging standard for analysis in GIS",
+   "is_part_of": [
+    "GISEurope"
+   ],
+   "pages": "18-20",
+   "issue": "9",
+   "language": "eng",
+   "confidence": "high",
+   "position": 67,
+   "volume": "3"
+  },
+  {
+   "raw": "PALLARÉS M. 1995, Cuestiones teórico-metodológicas sobre el estudio de la organización espacial de los asentamientos de comunidades cazadoras-recolectoras. Sota Palou, un caso practico, in Aplicaciones informáticas en Arqueología: Teorías y sistemas, II Coloquio Internacional de Arqueología e Informática (Bilbao, 1993), Bilbao, 387-408.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Pallarés",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Cuestiones teórico-metodológicas sobre el estudio de la organización espacial de los asentamientos de comunidades cazadoras-recolectoras. Sota Palou, un caso practico",
+   "pages": "387-408",
+   "is_part_of": [
+    "Aplicaciones informáticas en Arqueología: Teorías y sistemas"
+   ],
+   "place": "Bilbao",
+   "language": "spa",
+   "confidence": "high",
+   "position": 68,
+   "editors": [
+    {
+     "family": "Valdés",
+     "given": "L."
+    },
+    {
+     "family": "Arenal",
+     "given": "I."
+    },
+    {
+     "family": "Pujana",
+     "given": "I."
+    }
+   ],
+   "publisher": "Denboraren Argia"
+  },
+  {
+   "raw": "PARCERO-OUBIÑA C. (in press), Deconstructing the land: The archaeology of sacred geographies, in Computer Applications in Archaeology 1997.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Parcero-Oubiña",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Deconstructing the land: The archaeology of sacred geographies",
+   "is_part_of": [
+    "Computer Applications in Archaeology 1997"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "eng",
+   "confidence": "high",
+   "position": 69
+  },
+  {
+   "raw": "PEARSON M.P., RICHARDS C. 1994, Architecture and order: Spatial representation and archaeology, in M.P. PEARSON, C. RICHARDS (eds.), Architecture and Order. Approaches to Social Space, London, Routledge.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Pearson",
+     "given": "M.P."
+    },
+    {
+     "family": "Richards",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Architecture and order: Spatial representation and archaeology",
+   "editors": [
+    {
+     "family": "Pearson",
+     "given": "M.P."
+    },
+    {
+     "family": "Richards",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Architecture and Order. Approaches to Social Space"
+   ],
+   "place": "London",
+   "publisher": "Routledge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 70
+  },
+  {
+   "raw": "PEARSON M.P., RICHARDS C. 1994, Ordering the world: Perceptions of architecture, space and time, in M.P. PEARSON, C. RICHARDS (eds.), Architecture and Order. Approaches to Social Space, London, Routledge.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Pearson",
+     "given": "M.P."
+    },
+    {
+     "family": "Richards",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Ordering the world: Perceptions of architecture, space and time",
+   "editors": [
+    {
+     "family": "Pearson",
+     "given": "M.P."
+    },
+    {
+     "family": "Richards",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Architecture and Order. Approaches to Social Space"
+   ],
+   "place": "London",
+   "publisher": "Routledge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 71
+  },
+  {
+   "raw": "PEUQUET D.J. 1988, Representations of geographic space: Toward a conceptual synthesis, «Annals of the Association of American Geographers», 78, 375-394.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Peuquet",
+     "given": "D.J."
+    }
+   ],
+   "type": "article",
+   "title": "Representations of geographic space: Toward a conceptual synthesis",
+   "is_part_of": [
+    "Annals of the Association of American Geographers"
+   ],
+   "pages": "375-394",
+   "volume": "78",
+   "language": "eng",
+   "confidence": "high",
+   "position": 72
+  },
+  {
+   "raw": "RAPOPORT A. 1982, The Meaning of the Built Environment, Beverly Hills, SAGE.",
+   "date": "1982",
+   "creators": [
+    {
+     "family": "Rapoport",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "The Meaning of the Built Environment",
+   "place": "Beverly Hills",
+   "publisher": "SAGE",
+   "language": "eng",
+   "confidence": "high",
+   "position": 73
+  },
+  {
+   "raw": "RAPOPORT A. 1990, Systems of activities and systems of settings, in S. Kent (ed.), Domestic Architecture and the Use of Space, Cambridge, Cambridge University Press, 9-20.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Rapoport",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Systems of activities and systems of settings",
+   "editors": [
+    {
+     "family": "Kent",
+     "given": "S."
+    }
+   ],
+   "pages": "9-20",
+   "is_part_of": [
+    "Domestic Architecture and the Use of Space"
+   ],
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 74
+  },
+  {
+   "raw": "RELPH E. 1976, Place and Placelessness, London, Pion.",
+   "date": "1976",
+   "creators": [
+    {
+     "family": "Relph",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "Place and Placelessness",
+   "place": "London",
+   "publisher": "Pion",
+   "language": "eng",
+   "confidence": "high",
+   "position": 75
+  },
+  {
+   "raw": "RUGGLES C.L.N., MEDYCKYJ-SCOTT D.J., GRUFFYDD A. 1993, Multiple viewshed analysis using GIS and its archaeological application: A case study in northern Mull, in J. ANDRESEN, T. MADSEN, I. SCOLLAR (eds.), Computing the Past: Computer and Quantitative Methods in Archaeology 1992, Aarhus, Aarhus University Press, 125-131.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Ruggles",
+     "given": "C.L.N."
+    },
+    {
+     "family": "Medyckyj-Scott",
+     "given": "D.J."
+    },
+    {
+     "family": "Gruffydd",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Multiple viewshed analysis using GIS and its archaeological application: A case study in northern Mull",
+   "editors": [
+    {
+     "family": "Andresen",
+     "given": "I."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "pages": "125-131",
+   "is_part_of": [
+    "Computing the Past: Computer and Quantitative Methods in Archaeology 1992"
+   ],
+   "place": "Aarhus",
+   "publisher": "Aarhus University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 76
+  },
+  {
+   "raw": "SÁNCHEZ-PALENCIA J., FERNÁNDEZ-POSSE M., OREJAS A. 1996 (in press), Le projet de la zone archéologique de Las Medulas, l’emploi du SIG, in The Use of GIS in the Study of Ancient Landscapes and Features Related to Ancient Land Use, COST, Workshop (Ljubljana, 27 abril 1996).",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Sánchez-Palencia",
+     "given": "J."
+    },
+    {
+     "family": "Fernández-Posse",
+     "given": "M."
+    },
+    {
+     "family": "Orejas",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Le projet de la zone archéologique de Las Medulas, l’emploi du SIG",
+   "is_part_of": [
+    "The Use of GIS in the Study of Ancient Landscapes and Features Related to Ancient Land Use, COST, Workshop (Ljubljana, 27 abril 1996)"
+   ],
+   "language": "fre",
+   "confidence": "high",
+   "position": 77,
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "SAYER A. 1985, The difference that space makes, in D. GREGORY, J. URRY (eds.), Social Relations and Spatial Structures, London, Mcmillan, 49-66.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Sayer",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "The difference that space makes",
+   "editors": [
+    {
+     "family": "Gregory",
+     "given": "D."
+    },
+    {
+     "family": "Urry",
+     "given": "J."
+    }
+   ],
+   "pages": "49-66",
+   "is_part_of": [
+    "Social Relations and Spatial Structures"
+   ],
+   "place": "London",
+   "publisher": "Mcmillan",
+   "language": "eng",
+   "confidence": "high",
+   "position": 78
+  },
+  {
+   "raw": "SCHATZKI T.R. 1991, Spatial ontology and explanation, «Annals of the Association of American Geographers», 81, 650-670.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Schatzki",
+     "given": "T.R."
+    }
+   ],
+   "type": "article",
+   "title": "Spatial ontology and explanation",
+   "is_part_of": [
+    "Annals of the Association of American Geographers"
+   ],
+   "pages": "650-670",
+   "volume": "81",
+   "language": "eng",
+   "confidence": "high",
+   "position": 79
+  },
+  {
+   "raw": "SIMONSEN K. 1996, What kind of space in what kind of social theory?, «Progress in Human Geography», 20 (4), 494-512.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Simonsen",
+     "given": "K."
+    }
+   ],
+   "type": "article",
+   "title": "What kind of space in what kind of social theory?",
+   "is_part_of": [
+    "Progress in Human Geography"
+   ],
+   "pages": "494-512",
+   "issue": "4",
+   "language": "eng",
+   "confidence": "high",
+   "position": 80,
+   "volume": "20"
+  },
+  {
+   "raw": "SIMS B.T. 1976, Fundamentals of Topology, New York, McMillan.",
+   "date": "1976",
+   "creators": [
+    {
+     "family": "Sims",
+     "given": "B.T."
+    }
+   ],
+   "type": "book",
+   "title": "Fundamentals of Topology",
+   "place": "New York",
+   "publisher": "McMillan",
+   "language": "eng",
+   "confidence": "high",
+   "position": 81
+  },
+  {
+   "raw": "SOJA E. 1980, The socio-spatial dialectic, «Annals of the Association of American Geographers», 70, 207-225.",
+   "date": "1980",
+   "creators": [
+    {
+     "family": "Soja",
+     "given": "E."
+    }
+   ],
+   "type": "article",
+   "title": "The socio-spatial dialectic",
+   "is_part_of": [
+    "Annals of the Association of American Geographers"
+   ],
+   "pages": "207-225",
+   "volume": "70",
+   "language": "eng",
+   "confidence": "high",
+   "position": 82
+  },
+  {
+   "raw": "SOJA E. 1985, The spatiality of social life: Towards a transformative retheorisation, in D. GREGORY, J. URRY (eds.), Social Relations and Spatial Structures, London, McMillan, 90-127.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Soja",
+     "given": "E."
+    }
+   ],
+   "type": "chapter",
+   "title": "The spatiality of social life: Towards a transformative retheorisation",
+   "editors": [
+    {
+     "family": "Gregory",
+     "given": "D."
+    },
+    {
+     "family": "Urry",
+     "given": "J."
+    }
+   ],
+   "pages": "90-127",
+   "is_part_of": [
+    "Social Relations and Spatial Structures"
+   ],
+   "place": "London",
+   "publisher": "McMillan",
+   "language": "eng",
+   "confidence": "high",
+   "position": 83
+  },
+  {
+   "raw": "SOJA E. 1989, Postmodern Geographies, London, Verso.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Soja",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "Postmodern Geographies",
+   "place": "London",
+   "publisher": "Verso",
+   "language": "eng",
+   "confidence": "high",
+   "position": 84
+  },
+  {
+   "raw": "SOJA E. 1996, Thirdspace. Journeys to Los Angeles and Other Real -and- Imagined Places, Cambridge, Blackwell Publishers.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Soja",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "Thirdspace. Journeys to Los Angeles and Other Real -and- Imagined Places",
+   "place": "Cambridge",
+   "publisher": "Blackwell Publishers",
+   "language": "eng",
+   "confidence": "high",
+   "position": 85
+  },
+  {
+   "raw": "SWYNGEDOUW E. 1992, Review: Henri Lefebvre’s “The Production of Space”, «Economic Geography», 68 (3), 317-319.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Swyngedouw",
+     "given": "E."
+    }
+   ],
+   "type": "article",
+   "title": "Review: Henri Lefebvre’s “The Production of Space”",
+   "is_part_of": [
+    "Economic Geography"
+   ],
+   "pages": "317-319",
+   "issue": "3",
+   "language": "eng",
+   "confidence": "high",
+   "position": 86,
+   "volume": "68"
+  },
+  {
+   "raw": "THEUNISSEN R. 1996, The cave as a landscape: A GIS assisted spatial analysis of stone artefacts at Petzkes cave, Northern NSW, Australia, in Proceedings of XIII International Congress of Prehistoric and Protohistoric Sciences (Forlì, Italia, 8-14 September 1996), Forlì, A.B.A.C.O. Edizioni, 232.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Theunissen",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "The cave as a landscape: A GIS assisted spatial analysis of stone artefacts at Petzkes cave, Northern NSW, Australia",
+   "pages": "232",
+   "is_part_of": [
+    "Proceedings of XIII International Congress of Prehistoric and Protohistoric Sciences (Forlì, Italia, 8-14 September 1996)"
+   ],
+   "place": "Forlì",
+   "publisher": "A.B.A.C.O. Edizioni",
+   "language": "eng",
+   "confidence": "high",
+   "position": 87
+  },
+  {
+   "raw": "THOMAS J. 1991, Rethinking the Neolithic, London, Cambridge University Press.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Thomas",
+     "given": "J."
+    }
+   ],
+   "type": "book",
+   "title": "Rethinking the Neolithic",
+   "place": "London",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 88
+  },
+  {
+   "raw": "THOMAS J. 1996, The politics of vision and the archaeologies of landscape, in B. BENDER (ed.), Landscape: Politics and Perspectives, Oxford, Berg, 19-48.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Thomas",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "The politics of vision and the archaeologies of landscape",
+   "editors": [
+    {
+     "family": "Bender",
+     "given": "B."
+    }
+   ],
+   "pages": "19-48",
+   "is_part_of": [
+    "Landscape: Politics and Perspectives"
+   ],
+   "place": "Oxford",
+   "publisher": "Berg",
+   "language": "eng",
+   "confidence": "high",
+   "position": 89
+  },
+  {
+   "raw": "TILLEY C. 1994, Places, Paths and Monuments. A Phenomenology of Landscape, Oxford, Berg.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Tilley",
+     "given": "C."
+    }
+   ],
+   "type": "book",
+   "title": "Places, Paths and Monuments. A Phenomenology of Landscape",
+   "place": "Oxford",
+   "publisher": "Berg",
+   "language": "eng",
+   "confidence": "high",
+   "position": 90
+  },
+  {
+   "raw": "TOBLER W. 1979, Cellular geography, in S. GALE, G. OLSSON (eds.), Philosophy in Geography, Dordrecht, Reidel, 379-386.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Tobler",
+     "given": "W."
+    }
+   ],
+   "type": "chapter",
+   "title": "Cellular geography",
+   "editors": [
+    {
+     "family": "Gale",
+     "given": "S."
+    },
+    {
+     "family": "Olsson",
+     "given": "G."
+    }
+   ],
+   "pages": "379-386",
+   "is_part_of": [
+    "Philosophy in Geography"
+   ],
+   "place": "Dordrecht",
+   "publisher": "Reidel",
+   "language": "eng",
+   "confidence": "high",
+   "position": 91
+  },
+  {
+   "raw": "TOMLIN C.D. 1991, Geographic Information Systems and Cartographic Modelling, Englewood Cliffs, Prentice Hall.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Tomlin",
+     "given": "C.D."
+    }
+   ],
+   "type": "book",
+   "title": "Geographic Information Systems and Cartographic Modelling",
+   "place": "Englewood Cliffs",
+   "publisher": "Prentice Hall",
+   "language": "eng",
+   "confidence": "high",
+   "position": 92
+  },
+  {
+   "raw": "TOMLIN C.D. 1994, Map Algebra: One perspective, «Landscape and Urban Planning», 30, 3-12.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Tomlin",
+     "given": "C.D."
+    }
+   ],
+   "type": "article",
+   "title": "Map Algebra: One perspective",
+   "is_part_of": [
+    "Landscape and Urban Planning"
+   ],
+   "pages": "3-12",
+   "volume": "30",
+   "language": "eng",
+   "confidence": "high",
+   "position": 93
+  },
+  {
+   "raw": "TRICOT C. 1987, Statistique Spatiale, Brouillons Dupont n. 15, Avignon, Groupe Dupont.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Tricot",
+     "given": "C."
+    }
+   ],
+   "type": "book",
+   "title": "Statistique Spatiale",
+   "place": "Avignon",
+   "publisher": "Groupe Dupont",
+   "language": "eng",
+   "confidence": "high",
+   "position": 94,
+   "series": "Brouillons Dupont",
+   "series_number": "15"
+  },
+  {
+   "raw": "TRICOT C., RAFFENSTIN C. 1979, Concentration et connexité ou pour un approche du concept de territorialité, Actes du colloque Géopoint76, Théorie et géographie (Genève, Groupe Dupont), Avignon, Universités de Genève et de Lausanne, 49-62.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Tricot",
+     "given": "C."
+    },
+    {
+     "family": "Raffenstin",
+     "given": "C."
+    }
+   ],
+   "pages": "49-62",
+   "type": "chapter",
+   "title": "Concentration et connexité ou pour un approche du concept de territorialité",
+   "place": "Avignon",
+   "publisher": "Universités de Genève et de Lausanne",
+   "language": "fre",
+   "confidence": "high",
+   "position": 95,
+   "is_part_of": [
+    "Actes du colloque Géopoint76, Théorie et géographie (Genève, Groupe Dupont)"
+   ]
+  },
+  {
+   "raw": "VALDÉS L., ARENAL I., PUJANA I. (eds.) 1995, Aplicaciones informáticas en arqueología. Teorías y Sistemas, Bilbao, Denboraren Argia, vol. 2.",
+   "date": "1995",
+   "editors": [
+    {
+     "family": "Valdés",
+     "given": "L."
+    },
+    {
+     "family": "Arenal",
+     "given": "I."
+    },
+    {
+     "family": "Pujana",
+     "given": "I."
+    }
+   ],
+   "type": "book",
+   "title": "Aplicaciones informáticas en arqueología. Teorías y Sistemas",
+   "language": "spa",
+   "confidence": "high",
+   "position": 96,
+   "volume": "2",
+   "place": "Bilbao",
+   "publisher": "Denboraren Argia"
+  },
+  {
+   "raw": "VAN DER LEEUW S. (ed.) 1995, L’homme et la dégradation de l’environment, XVè Rencontres Internationales d’Archéologie et d’Histoire d’Antibes, Sophia-Antipolis, Ed. APDA.",
+   "date": "1995",
+   "editors": [
+    {
+     "family": "Van der Leeuw",
+     "given": "S."
+    }
+   ],
+   "type": "book",
+   "title": "L’homme et la dégradation de l’environment, XVè Rencontres Internationales d’Archéologie et d’Histoire d’Antibes",
+   "place": "Sophia-Antipolis",
+   "publisher": "Ed. APDA",
+   "language": "fre",
+   "confidence": "high",
+   "position": 97
+  },
+  {
+   "raw": "VERHAEGEN P., MCGLADE J., GILI S., RISCH R. 1995, Some criteria for modelling socio-economic activities in the Bronze-Age of South East Spain, in G. LOCK, Z. STANČIĆ (eds.), Archaeology and Geographical Information Systems, London, Taylor & Francis, 187-209.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Verhaegen",
+     "given": "P."
+    },
+    {
+     "family": "McGlade",
+     "given": "J."
+    },
+    {
+     "family": "Gili",
+     "given": "S."
+    },
+    {
+     "family": "Risch",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Some criteria for modelling socio-economic activities in the Bronze-Age of South East Spain",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "187-209",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 98
+  },
+  {
+   "raw": "VOIRON CANICIO C. 1993, Espace, structures et dynamiques regionales. L’Arc mediterranéen, «Revue d’Analyse Spatiale Quantitative et Appliquée», 33, 1-296.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Voiron Canicio",
+     "given": "C."
+    }
+   ],
+   "type": "article",
+   "title": "Espace, structures et dynamiques regionales. L’Arc mediterranéen",
+   "is_part_of": [
+    "Revue d’Analyse Spatiale Quantitative et Appliquée"
+   ],
+   "pages": "1-296",
+   "volume": "33",
+   "language": "fre",
+   "confidence": "high",
+   "position": 99
+  },
+  {
+   "raw": "VOORRIPS A. 1996, Archaeological theory and GIS, any relations?, in Proceedings of XIII International Congress of Prehistoric and Protohistoric Sciences (Forlì, Italia, 8-14 September 1996), Forlì, A.B.A.C.O. Edizioni, 209-214.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Archaeological theory and GIS, any relations?",
+   "pages": "209-214",
+   "is_part_of": [
+    "Proceedings of XIII International Congress of Prehistoric and Protohistoric Sciences (Forlì, Italia, 8-14 September 1996)"
+   ],
+   "place": "Forlì",
+   "publisher": "A.B.A.C.O. Edizioni",
+   "language": "eng",
+   "confidence": "high",
+   "position": 100
+  },
+  {
+   "raw": "WALL C.T.C. 1972, A Geometric Introduction to Topology, Reading (MA), Addison-Wesley.",
+   "date": "1972",
+   "creators": [
+    {
+     "family": "Wall",
+     "given": "C.T.C."
+    }
+   ],
+   "type": "book",
+   "title": "A Geometric Introduction to Topology",
+   "publisher": "Addison-Wesley",
+   "language": "eng",
+   "confidence": "high",
+   "position": 101,
+   "place": "Reading (MA)"
+  },
+  {
+   "raw": "WANDSNIDER L. 1996, Describing and comparing archaeological spatial structures, «Journal of Archaeological Method and Theory», 3 (4), 319-384.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Wandsnider",
+     "given": "L."
+    }
+   ],
+   "type": "article",
+   "title": "Describing and comparing archaeological spatial structures",
+   "is_part_of": [
+    "Journal of Archaeological Method and Theory"
+   ],
+   "pages": "319-384",
+   "issue": "4",
+   "language": "eng",
+   "confidence": "high",
+   "position": 102,
+   "volume": "3"
+  },
+  {
+   "raw": "WARREN R.E. 1990, Predictive modelling of archaeological site location, in K.M.S. ALLEN, S.W. GREEN, E.B.W. ZUBROW (eds.), Interpreting Space: GIS and Archaeology, London, Taylor & Francis, 201-215.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Warren",
+     "given": "R.E."
+    }
+   ],
+   "type": "chapter",
+   "title": "Predictive modelling of archaeological site location",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "pages": "201-215",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 103
+  },
+  {
+   "raw": "WASSERMAN K., LEIBOWITZ M. 1983, Representing complex physical objects, «Cognition and Brain Theory», 6, 333-352.",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Wasserman",
+     "given": "K."
+    },
+    {
+     "family": "Leibowitz",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Representing complex physical objects",
+   "is_part_of": [
+    "Cognition and Brain Theory"
+   ],
+   "pages": "333-352",
+   "volume": "6",
+   "language": "eng",
+   "confidence": "high",
+   "position": 104
+  },
+  {
+   "raw": "WERLEN B. 1993, Society, Action and Space. An Alternative Human Geography, London, Routledge.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Werlen",
+     "given": "B."
+    }
+   ],
+   "type": "book",
+   "title": "Society, Action and Space. An Alternative Human Geography",
+   "place": "London",
+   "publisher": "Routledge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 105
+  },
+  {
+   "raw": "WHEATLEY D. 1993, Going over old ground: GIS, archaeological theory and the act of perception, in J. ANDRESEN, T. MADSEN, I. SCOLLAR (eds.), Computing the Past: Computer and Quantitative Methods in Archaeology 1992, Aarhus, Aarhus University Press, 133-138.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "Going over old ground: GIS, archaeological theory and the act of perception",
+   "editors": [
+    {
+     "family": "Andresen",
+     "given": "I."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "pages": "133-138",
+   "is_part_of": [
+    "Computing the Past: Computer and Quantitative Methods in Archaeology 1992"
+   ],
+   "place": "Aarhus",
+   "publisher": "Aarhus University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 106
+  },
+  {
+   "raw": "WHEATLEY D. 1995, Cumulative views analysis. A GIS-based method for investigating intervisibility and its archaeological application, in G. LOCK, Z. STANČIĆ (eds.), Archeological and Geographical Information Systems, London, Taylor & Francis, 171-186.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "Cumulative views analysis. A GIS-based method for investigating intervisibility and its archaeological application",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "171-186",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 107
+  },
+  {
+   "raw": "WHEATLEY D. 1996, Between the lines: The role of GIS-based predictive modelling in the interpretation of extensive survey data, in H. KAMERMANS, K. FENNEMA K. (eds.), Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995, Analecta Praehistorica Leidensia, n. 28, Leiden, 275-292.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "Between the lines: The role of GIS-based predictive modelling in the interpretation of extensive survey data",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "pages": "275-292",
+   "is_part_of": [
+    "Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995"
+   ],
+   "place": "Leiden",
+   "language": "eng",
+   "confidence": "high",
+   "position": 108,
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28"
+  },
+  {
+   "raw": "WIEMER R. 1995, How to look good and influence people: Thoughts on the design and interpretation of an archaeological GIS, in G. LOCK, Z. STANČIĆ (eds.), Archaeology and Geographical Information Systems, London, Taylor & Francis, 301-313.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Wiemer",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "How to look good and influence people: Thoughts on the design and interpretation of an archaeological GIS",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "301-313",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 109
+  },
+  {
+   "raw": "WILCOCK J., LOCKYEAR K. (eds.) 1995, Computer Applications and Quantitative Methods in Archaeology 1993, BAR International Series, n. 598, Oxford, Tempus Reparatum.",
+   "date": "1995",
+   "editors": [
+    {
+     "family": "Wilcock",
+     "given": "J."
+    },
+    {
+     "family": "Lockyear",
+     "given": "K."
+    }
+   ],
+   "type": "book",
+   "title": "Computer Applications and Quantitative Methods in Archaeology 1993",
+   "place": "Oxford",
+   "publisher": "Tempus Reparatum",
+   "series": "BAR International Series",
+   "series_number": "598",
+   "language": "eng",
+   "confidence": "high",
+   "position": 110
+  },
+  {
+   "raw": "ZEDEÑO M.A. 1997, Landscapes, land use and the history of territory formation: An example from Puebloan Southwest, «Journal of Archaeological Method and Theory», 4 (1), 67-102",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Zedeño",
+     "given": "M.A."
+    }
+   ],
+   "type": "article",
+   "title": "Landscapes, land use and the history of territory formation: An example from Puebloan Southwest",
+   "is_part_of": [
+    "Journal of Archaeological Method and Theory"
+   ],
+   "pages": "67-102",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 111,
+   "volume": "4"
+  },
+  {
+   "raw": "ZUBROW E.B.W. 1990, The fantasies of GIS software, in K.M.S. ALLEN, S.W. GREEN, E.B.W. ZUBROW (eds.), Interpreting Space: GIS and Archaeology, London, Taylor & Francis, 184-193.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "type": "chapter",
+   "title": "The fantasies of GIS software",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "pages": "184-193",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 112
+  },
+  {
+   "raw": "ZUBROW E.B.W. 1994, Knowledge representation and archaeology: A cognitive example using GIS, in C. RENFREW, E.B.W. ZUBROW (eds.), The Ancient Mind. Elements of Cognitive Archaeology, New Directions in Archaeology, Cambridge, Cambridge University Press.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "type": "chapter",
+   "title": "Knowledge representation and archaeology: A cognitive example using GIS",
+   "editors": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "is_part_of": [
+    "The Ancient Mind. Elements of Cognitive Archaeology"
+   ],
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 113,
+   "series": "New Directions in Archaeology"
+  }
+ ]
+}

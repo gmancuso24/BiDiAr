@@ -1,0 +1,439 @@
+{
+ "citing_aec_id": 136,
+ "source_file": "data/journal/7/136.md",
+ "references": [
+  {
+   "raw": "BOCHNER S. 1966, The Role of Mathematics in the Rise of Science, Princeton, NJ (USA), Princeton University Press.",
+   "date": "1966",
+   "creators": [
+    {
+     "family": "Bochner",
+     "given": "S."
+    }
+   ],
+   "type": "book",
+   "title": "The Role of Mathematics in the Rise of Science",
+   "publisher": "Princeton University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1,
+   "place": "Princeton, NJ (USA)"
+  },
+  {
+   "raw": "BROWN L.A. 1949, The Story of Maps, Little, Brown and Company, Boston, Mass., republished in 1979, Dover Publications, Inc., New York.",
+   "date": "1949",
+   "creators": [
+    {
+     "family": "Brown",
+     "given": "L.A."
+    }
+   ],
+   "type": "book",
+   "title": "The Story of Maps",
+   "place": "Boston, Mass.",
+   "publisher": "Little, Brown and Company",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2,
+   "notes": "republished in 1979, Dover Publications, Inc., New York"
+  },
+  {
+   "raw": "CARACI G. 1979, Il \"negozio delle longitudini\" e Galileo, Genova.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Caraci",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Il \"negozio delle longitudini\" e Galileo",
+   "place": "Genova",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "ENRIQUES F., DE SANTILLANA G. 1936, Compendio di storia del pensiero scientifico dall'antichità fino ai tempi moderni, Bologna, Zanichelli (reprinted 1973).",
+   "date": "1936",
+   "creators": [
+    {
+     "family": "Enriques",
+     "given": "F."
+    },
+    {
+     "family": "De Santillana",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Compendio di storia del pensiero scientifico dall'antichità fino ai tempi moderni",
+   "place": "Bologna",
+   "publisher": "Zanichelli",
+   "language": "ita",
+   "confidence": "high",
+   "position": 4,
+   "notes": "reprinted 1973"
+  },
+  {
+   "raw": "FAGAN C. 1951, Zodiacs Old and New, London.",
+   "date": "1951",
+   "creators": [
+    {
+     "family": "Fagan",
+     "given": "C."
+    }
+   ],
+   "type": "book",
+   "title": "Zodiacs Old and New",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "FISCHER I. 1975, The figure of the Earth. Changes in concepts, «Surveys Geophys.», 2, 3-54.",
+   "date": "1975",
+   "creators": [
+    {
+     "family": "Fischer",
+     "given": "I."
+    }
+   ],
+   "type": "article",
+   "title": "The figure of the Earth. Changes in concepts",
+   "is_part_of": [
+    "Surveys Geophys."
+   ],
+   "pages": "3-54",
+   "volume": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "GLEADOW R. 1968, Les origines du zodiaque, Paris.",
+   "date": "1968",
+   "creators": [
+    {
+     "family": "Gleadow",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Les origines du zodiaque",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "GOYON G. 1977, Le secret des bâtisseurs des grandes pyramides, Paris, Editions Pygmalion, Paris, trad. ital., Roma 1990, Newton Compton Editori.",
+   "date": "1977",
+   "creators": [
+    {
+     "family": "Goyon",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Le secret des bâtisseurs des grandes pyramides",
+   "publisher": "Editions Pygmalion",
+   "language": "fre",
+   "confidence": "high",
+   "position": 8,
+   "place": "Paris",
+   "notes": "trad. ital., Roma 1990, Newton Compton Editori"
+  },
+  {
+   "raw": "GREGORI G.P. 1990, A few mathematical procedures for the analysis of incomplete historical data series, in W. SCHRÖDER (ed.), Advances in Geosciences, Interdivisional Commission on History of IAGA, Bremen-Roennebeck, 80-127.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Gregori",
+     "given": "G.P."
+    }
+   ],
+   "type": "chapter",
+   "title": "A few mathematical procedures for the analysis of incomplete historical data series",
+   "editors": [
+    {
+     "family": "Schröder",
+     "given": "W."
+    }
+   ],
+   "pages": "80-127",
+   "is_part_of": [
+    "Advances in Geosciences"
+   ],
+   "place": "Bremen-Roennebeck",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9,
+   "publisher": "Interdivisional Commission on History of IAGA"
+  },
+  {
+   "raw": "GREGORI G.P., BANZON V., LEONARDI R., DE FRANCESCHI G. 1992, Geomagnetic activity vs. volcanic cycles, and their forecasting. Application to Etna and Vesuvius, in W. SCHRÖDER, J.P. LEGRAND (edd.), Solar Terrestrial Variability and Global Change, Interdivisional Commission on History of IAGA, Bremen-Roennebeck, 188-222.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Gregori",
+     "given": "G.P."
+    },
+    {
+     "family": "Banzon",
+     "given": "V."
+    },
+    {
+     "family": "Leonardi",
+     "given": "R."
+    },
+    {
+     "family": "De Franceschi",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Geomagnetic activity vs. volcanic cycles, and their forecasting. Application to Etna and Vesuvius",
+   "editors": [
+    {
+     "family": "Schröder",
+     "given": "W."
+    },
+    {
+     "family": "Legrand",
+     "given": "J.P."
+    }
+   ],
+   "pages": "188-222",
+   "is_part_of": [
+    "Solar Terrestrial Variability and Global Change"
+   ],
+   "place": "Bremen-Roennebeck",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10,
+   "publisher": "Interdivisional Commission on History of IAGA"
+  },
+  {
+   "raw": "GREGORI G.P., BANZON V., COLACINO M., DE FRANCESCHI G., DIODATO L., PAVESE M.P., SANTOLERI R. 1994, Floods, climatic anomalies, and explosive vulcanism: a four-decade cycle?, in W. SCHRÖDER, M. COLACINO (edd.), Geophysics: Past Achievements and Future Challenges, Interdivisional Commission on History of IAGA, Bremen-Roennebeck, 109-133.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Gregori",
+     "given": "G.P."
+    },
+    {
+     "family": "Banzon",
+     "given": "V."
+    },
+    {
+     "family": "Colacino",
+     "given": "M."
+    },
+    {
+     "family": "De Franceschi",
+     "given": "G."
+    },
+    {
+     "family": "Diodato",
+     "given": "L."
+    },
+    {
+     "family": "Pavese",
+     "given": "M.P."
+    },
+    {
+     "family": "Santoleri",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Floods, climatic anomalies, and explosive vulcanism: a four-decade cycle?",
+   "editors": [
+    {
+     "family": "Schröder",
+     "given": "W."
+    },
+    {
+     "family": "Colacino",
+     "given": "M."
+    }
+   ],
+   "pages": "109-133",
+   "is_part_of": [
+    "Geophysics: Past Achievements and Future Challenges"
+   ],
+   "place": "Bremen-Roennebeck",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11,
+   "publisher": "Interdivisional Commission on History of IAGA"
+  },
+  {
+   "raw": "GREGORI G.P., GREGORI L.G. 1996, Viewpoints in archaeoastronomy. An invitation to the archaeology of Earth's science, in W. SCHRÖDER, M. COLACINO (edd.), Global Change and History of Geophysics, Interdivisional Commission on History of IAGA, Bremen-Roennebeck, 228-288.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Gregori",
+     "given": "G.P."
+    },
+    {
+     "family": "Gregori",
+     "given": "L.G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Viewpoints in archaeoastronomy. An invitation to the archaeology of Earth's science",
+   "editors": [
+    {
+     "family": "Schröder",
+     "given": "W."
+    },
+    {
+     "family": "Colacino",
+     "given": "M."
+    }
+   ],
+   "pages": "228-288",
+   "is_part_of": [
+    "Global Change and History of Geophysics"
+   ],
+   "place": "Bremen-Roennebeck",
+   "language": "eng",
+   "confidence": "high",
+   "position": 12,
+   "publisher": "Interdivisional Commission on History of IAGA"
+  },
+  {
+   "raw": "GRIAULE M. 1966, Dieu d'eau, Librairie Arthème Fayard, Paris, trad. ital. Milano 1968, Casa Editrice Valentino Bompiani & C.",
+   "date": "1966",
+   "creators": [
+    {
+     "family": "Griaule",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Dieu d'eau",
+   "publisher": "Librairie Arthème Fayard",
+   "language": "fre",
+   "confidence": "high",
+   "position": 13,
+   "place": "Paris",
+   "notes": "trad. ital. Milano 1968, Casa Editrice Valentino Bompiani & C."
+  },
+  {
+   "raw": "KLINE M. 1972, Mathematical Thought from Ancient to Modern Times, Oxford, Oxford University Press.",
+   "date": "1972",
+   "creators": [
+    {
+     "family": "Kline",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Mathematical Thought from Ancient to Modern Times",
+   "place": "Oxford",
+   "publisher": "Oxford University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "RICHER J. 1989, Geografia sacra del mondo greco, (III expanded edition, in Italian, Rusconi, Milano). The I and II editions were published in 1967 and 1983 in French by Guy Trédaniel Editions de la Maisnie, Paris.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Richer",
+     "given": "J."
+    }
+   ],
+   "type": "book",
+   "title": "Geografia sacra del mondo greco",
+   "place": "Milano",
+   "publisher": "Rusconi",
+   "language": "ita",
+   "confidence": "high",
+   "position": 15,
+   "edition": "3",
+   "notes": "III expanded edition, in Italian; the I and II editions were published in 1967 and 1983 in French by Guy Trédaniel Editions de la Maisnie, Paris"
+  },
+  {
+   "raw": "SCANDALETTI P. 1989, Galileo privato, Milano, Camunia.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Scandaletti",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "Galileo privato",
+   "place": "Milano",
+   "publisher": "Camunia",
+   "language": "eng",
+   "confidence": "high",
+   "position": 16
+  },
+  {
+   "raw": "SMITH E.K. 1976, The history of the ITU, with particular attention to the CCITT and the CCIR, and the latter's relations with URSI, «Radio Sci.», 11, (6), 497-507.",
+   "date": "1976",
+   "creators": [
+    {
+     "family": "Smith",
+     "given": "E.K."
+    }
+   ],
+   "type": "article",
+   "title": "The history of the ITU, with particular attention to the CCITT and the CCIR, and the latter's relations with URSI",
+   "is_part_of": [
+    "Radio Sci."
+   ],
+   "pages": "497-507",
+   "volume": "11",
+   "issue": "6",
+   "language": "eng",
+   "confidence": "high",
+   "position": 17
+  },
+  {
+   "raw": "TUCKEY J.W. 1977, Exploratory Data Analysis, Reading, Massachusetts, Addison-Wesley Publ. Co.",
+   "date": "1977",
+   "creators": [
+    {
+     "family": "Tuckey",
+     "given": "J.W."
+    }
+   ],
+   "type": "book",
+   "title": "Exploratory Data Analysis, Reading",
+   "place": "Reading, Massachusetts",
+   "publisher": "Addison-Wesley Publ. Co.",
+   "language": "eng",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "YOURGRAU W., MANDELSTAM S. 1968, Variational Principles in Dynamics and Quantum Theory, New York, Dover Publications.",
+   "date": "1968",
+   "creators": [
+    {
+     "family": "Yourgrau",
+     "given": "W."
+    },
+    {
+     "family": "Mandelstam",
+     "given": "S."
+    }
+   ],
+   "type": "book",
+   "title": "Variational Principles in Dynamics and Quantum Theory",
+   "place": "New York",
+   "publisher": "Dover Publications",
+   "language": "eng",
+   "confidence": "high",
+   "position": 19
+  }
+ ]
+}

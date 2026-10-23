@@ -1,0 +1,768 @@
+{
+ "citing_aec_id": 361,
+ "source_file": "data/journal/14/361.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BAILEY T.C., GATRELL A.C. 1995, Interactive Spatial Data Analysis, London, Longman.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bailey",
+     "given": "T.C."
+    },
+    {
+     "family": "Gatrell",
+     "given": "A.C."
+    }
+   ],
+   "date": "1995",
+   "title": "Interactive Spatial Data Analysis",
+   "publisher": "Longman",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "BELL T.W., LOCK G. 2000, Topographic and cultural influences on walking the ridgeway in later prehistoric times, in G. LOCK (ed.), Beyond the Map: Archaeology and Spatial Technologies, Amsterdam, IOS Press, 85-100.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bell",
+     "given": "T.W."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Topographic and cultural influences on walking the ridgeway in later prehistoric times",
+   "is_part_of": [
+    "Beyond the Map: Archaeology and Spatial Technologies"
+   ],
+   "pages": "85-100",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "BELL T., WILSON A., WICKHAM A. 2002, Tracking the Samnites: Landscape and communications routes in the Sangro Valley, Italy, «American Journal of Archaeology», 106, 2, 169-186.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bell",
+     "given": "T."
+    },
+    {
+     "family": "Wilson",
+     "given": "A."
+    },
+    {
+     "family": "Wickham",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Tracking the Samnites: Landscape and communications routes in the Sangro Valley, Italy",
+   "is_part_of": [
+    "American Journal of Archaeology"
+   ],
+   "volume": "106",
+   "issue": "2",
+   "pages": "169-186",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "BEVAN A., CONOLLY J. (in press a), GIS and archaeological survey data: Four case studies in landscape archaeology from the island of Kythera (Greece), «Journal of Field Archaeology».",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bevan",
+     "given": "A."
+    },
+    {
+     "family": "Conolly",
+     "given": "J."
+    }
+   ],
+   "date": "2004",
+   "title": "GIS, archaeological survey and landscape archaeology on the island of Kythera, Greece",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "volume": "29",
+   "issue": "1/2",
+   "pages": "123-138",
+   "language": "eng",
+   "doi": "10.2307/3181488",
+   "cs": {
+    "status": "resolved",
+    "source": "https://discovery.ucl.ac.uk/id/eprint/187461/"
+   },
+   "notes": "cited \"(in press a)\" as \"GIS and archaeological survey data: Four case studies in landscape archaeology from the island of Kythera (Greece)\"; title taken from the published article"
+  },
+  {
+   "position": 5,
+   "raw": "BEVAN A., CONOLLY J. (in press b), Multi-scalar approaches to settlement distributions, in G. LOCK, B. MOLYNEAUX (eds.), Confronting Scale in Archaeology: Issues of Theory and Practice, New York, Kluwer Press.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bevan",
+     "given": "A."
+    },
+    {
+     "family": "Conolly",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Molyneaux",
+     "given": "B."
+    }
+   ],
+   "date": "2006",
+   "title": "Multiscalar approaches to settlement pattern analysis",
+   "is_part_of": [
+    "Confronting Scale in Archaeology: Issues of Theory and Practice"
+   ],
+   "pages": "217-234",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://discovery.ucl.ac.uk/id/eprint/11116/"
+   },
+   "notes": "cited \"(in press b)\" as \"Multi-scalar approaches to settlement distributions\", publisher Kluwer Press; data from the published chapter"
+  },
+  {
+   "position": 6,
+   "raw": "BLAIKIE P., BROOKFIELD H. 1987, Land Degradation and Society, London, Methuen.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Blaikie",
+     "given": "P."
+    },
+    {
+     "family": "Brookfield",
+     "given": "H."
+    }
+   ],
+   "date": "1987",
+   "title": "Land Degradation and Society",
+   "publisher": "Methuen",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "BOMMELIJÉ Y., DOORN P. 1996, The long and winding road: Land routes in Aetolia (Greece) since Byzantine times, in H. KAMERMANS, K. FENNEMA (eds.), Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology (CAA 95), Leiden, Institute of Prehistory, 343-351.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bommeljé",
+     "given": "Y."
+    },
+    {
+     "family": "Doorn",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "date": "1996",
+   "title": "The long and winding road: Land routes in Aetolia (Greece) since Byzantine times",
+   "is_part_of": [
+    "Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology (CAA 95)"
+   ],
+   "pages": "343-351",
+   "publisher": "Institute of Prehistory",
+   "place": "Leiden",
+   "language": "eng",
+   "notes": "first author cited as BOMMELIJÉ"
+  },
+  {
+   "position": 8,
+   "raw": "BROODBANK C. 1999, Kythera Survey: Preliminary report on the 1998 season, «Annual of the British School at Athens», 94, 191-214.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Broodbank",
+     "given": "C."
+    }
+   ],
+   "date": "1999",
+   "title": "Kythera Survey: Preliminary report on the 1998 season",
+   "is_part_of": [
+    "Annual of the British School at Athens"
+   ],
+   "volume": "94",
+   "pages": "191-214",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "CHISHOLM M. 1968, Rural Settlement and Land Use, London, Hutchinson.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chisholm",
+     "given": "M."
+    }
+   ],
+   "date": "1968",
+   "title": "Rural Settlement and Land Use",
+   "publisher": "Hutchinson",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "CLARKE P.J., EVANS F.C. 1954, Distance to nearest neighbour as a measure of spatial relationships in a population, «Ecology», 35, 445-453.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "P.J."
+    },
+    {
+     "family": "Evans",
+     "given": "F.C."
+    }
+   ],
+   "date": "1954",
+   "title": "Distance to nearest neighbour as a measure of spatial relationships in a population",
+   "is_part_of": [
+    "Ecology"
+   ],
+   "volume": "35",
+   "pages": "445-453",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "DOUGLAS D.H. 1994, Least cost path in GIS using an accumulated cost surface and slope lines, «Cartographica», 31, 3, 37-51 (Internet edition: http://www.hig.se/~dds/research/leastcos/cumcost4.htm).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Douglas",
+     "given": "D.H."
+    }
+   ],
+   "date": "1994",
+   "title": "Least cost path in GIS using an accumulated cost surface and slope lines",
+   "is_part_of": [
+    "Cartographica"
+   ],
+   "volume": "31",
+   "issue": "3",
+   "pages": "37-51",
+   "language": "eng",
+   "uri": "http://www.hig.se/~dds/research/leastcos/cumcost4.htm"
+  },
+  {
+   "position": 12,
+   "raw": "FOTHERINGHAM S.A., BRUNSDON C., CHARLTON M. 2002, Quantitative Geography: Perspectives on Spatial Data Analysis, London, Sage Publications.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fotheringham",
+     "given": "S.A."
+    },
+    {
+     "family": "Brunsdon",
+     "given": "C."
+    },
+    {
+     "family": "Charlton",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Quantitative Geography: Perspectives on Spatial Data Analysis",
+   "publisher": "Sage Publications",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "FREDERICK C.D., KRAHTOPOULOU A. 2000, Deconstructing agricultural terraces: Examining the influence of construction method on stratigraphy, dating and archaeological visibility, in P. HALSTEAD, C. FREDERICK (eds.), Landscape and Land Use in Postglacial Greece, Sheffield, Sheffield Academic Press, 79-94.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Frederick",
+     "given": "C.D."
+    },
+    {
+     "family": "Krahtopoulou",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Halstead",
+     "given": "P."
+    },
+    {
+     "family": "Frederick",
+     "given": "C."
+    }
+   ],
+   "date": "2000",
+   "title": "Deconstructing agricultural terraces: Examining the influence of construction method on stratigraphy, dating and archaeological visibility",
+   "is_part_of": [
+    "Landscape and Land Use in Postglacial Greece"
+   ],
+   "pages": "79-94",
+   "publisher": "Sheffield Academic Press",
+   "place": "Sheffield",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "GOREAUD F., PÉLISSIER R. 1999, On explicit formulas of edge correction for Ripley’s K-function, «Journal of Vegetation Science», 10, 433-38.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Goreaud",
+     "given": "F."
+    },
+    {
+     "family": "Pélissier",
+     "given": "R."
+    }
+   ],
+   "date": "1999",
+   "title": "On explicit formulas of edge correction for Ripley's K-function",
+   "is_part_of": [
+    "Journal of Vegetation Science"
+   ],
+   "volume": "10",
+   "pages": "433-438",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "HODDER I., ORTON C. 1976, Spatial Analysis in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    },
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "date": "1976",
+   "title": "Spatial Analysis in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "HORDEN P., PURCELL N. 2000, The Corrupting Sea, London, Blackwell.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Horden",
+     "given": "P."
+    },
+    {
+     "family": "Purcell",
+     "given": "N."
+    }
+   ],
+   "date": "2000",
+   "title": "The Corrupting Sea",
+   "publisher": "Blackwell",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "HUTCHINSON M.F. 1989, A new method for gridding elevation and stream line data with automatic removal of pits, «Journal of Hydrology», 106, 211-32.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hutchinson",
+     "given": "M.F."
+    }
+   ],
+   "date": "1989",
+   "title": "A new method for gridding elevation and stream line data with automatic removal of pits",
+   "is_part_of": [
+    "Journal of Hydrology"
+   ],
+   "volume": "106",
+   "pages": "211-232",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "HUTCHINSON M.F., DOWLING T.I. 1991, A continental hydrological assessment of a new grid-based digital elevation model of Australia, «Hydrological Processes», 5, 45-58.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hutchinson",
+     "given": "M.F."
+    },
+    {
+     "family": "Dowling",
+     "given": "T.I."
+    }
+   ],
+   "date": "1991",
+   "title": "A continental hydrological assessment of a new grid-based digital elevation model of Australia",
+   "is_part_of": [
+    "Hydrological Processes"
+   ],
+   "volume": "5",
+   "pages": "45-58",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "JOHNSTON I., WILSON A. 2003, Making the most of maps: Field survey on the island of Kythera, «Journal of GIS in Archaeology», 1, 81-89 (Internet edition: http://www.esri.com/library/journals/archaeology/volume_1/field_survey.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Johnston",
+     "given": "I."
+    },
+    {
+     "family": "Wilson",
+     "given": "A."
+    }
+   ],
+   "date": "2003",
+   "title": "Making the most of maps: Field survey on the island of Kythera",
+   "is_part_of": [
+    "Journal of GIS in Archaeology"
+   ],
+   "volume": "1",
+   "pages": "81-89",
+   "language": "eng",
+   "uri": "http://www.esri.com/library/journals/archaeology/volume_1/field_survey.pdf"
+  },
+  {
+   "position": 20,
+   "raw": "LAKE M. 2000, MAGICAL computer simulation of Mesolithic foraging, in T.A. KOHLER, G.J. GUMERMAN (eds.), Dynamics in Human and Primate Societies: Agent-based Modelling of Social and Spatial Processes, New York, Oxford University Press, 107-143.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lake",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Kohler",
+     "given": "T.A."
+    },
+    {
+     "family": "Gumerman",
+     "given": "G.J."
+    }
+   ],
+   "date": "2000",
+   "title": "MAGICAL computer simulation of Mesolithic foraging",
+   "is_part_of": [
+    "Dynamics in Human and Primate Societies: Agent-based Modelling of Social and Spatial Processes"
+   ],
+   "pages": "107-143",
+   "publisher": "Oxford University Press",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "LEONTSINIS G.N. 1987, The Island of Kythera. A Social History, Athens, Saripolos.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Leontsinis",
+     "given": "G.N."
+    }
+   ],
+   "date": "1987",
+   "title": "The Island of Kythera. A Social History",
+   "publisher": "Saripolos",
+   "place": "Athens",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "LLOBERA M. 2000, Understanding movement: A pilot model towards the sociology of movement, in G. LOCK (ed.), Beyond the Map: Archaeology and Spatial Technologies, Amsterdam, IOS Press, 65-84.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Llobera",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Understanding movement: A pilot model towards the sociology of movement",
+   "is_part_of": [
+    "Beyond the Map: Archaeology and Spatial Technologies"
+   ],
+   "pages": "65-84",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "MALTHESOU C. 1991, Venitiki Parousia Sta Kithira, Athens, Ballidis, 249-252.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Malthesou",
+     "given": "C."
+    }
+   ],
+   "date": "1991",
+   "title": "Venitiki Parousia Sta Kithira",
+   "pages": "249-252",
+   "publisher": "Ballidis",
+   "place": "Athens",
+   "language": "gre",
+   "notes": "pages as cited"
+  },
+  {
+   "position": 24,
+   "raw": "MASCHNER H.D.G., STEIN J.W. 1995, Multivariate approaches to site location on the north-west coast of North America, «Antiquity», 69, 61-73.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Maschner",
+     "given": "H.D.G."
+    },
+    {
+     "family": "Stein",
+     "given": "J.W."
+    }
+   ],
+   "date": "1995",
+   "title": "Multivariate approaches to site location on the north-west coast of North America",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "69",
+   "pages": "61-73",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "PAGOUNIS M., GERTSOS T. 1984, Hydrological Investigation of the Island of Kithira, IGME Publication 42, Athens, Institute of Geology and Mineral Exploration.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pagounis",
+     "given": "M."
+    },
+    {
+     "family": "Gertsos",
+     "given": "T."
+    }
+   ],
+   "date": "1984",
+   "title": "Hydrological Investigation of the Island of Kithira",
+   "series": "IGME Publication",
+   "series_number": "42",
+   "publisher": "Institute of Geology and Mineral Exploration",
+   "place": "Athens",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "RIPLEY B.D. 1977, Modelling spatial patterns, «Journal of the Royal Statistical Society», 2, Oxford, Oxbow, 172-212.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ripley",
+     "given": "B.D."
+    }
+   ],
+   "date": "1977",
+   "title": "Modelling spatial patterns",
+   "is_part_of": [
+    "Journal of the Royal Statistical Society"
+   ],
+   "issue": "2",
+   "pages": "172-212",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "citation garbled (\"2, Oxford, Oxbow, 172-212\")"
+  },
+  {
+   "position": 27,
+   "raw": "WAGSTAFF M., AUGUSTSON S. 1982, Traditional land use, in C. RENFREW, M. WAGSTAFF (eds.), An Island Polity. The Archaeology of Exploitation in Melos, Cambridge, Cambridge University Press, 106-133.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wagstaff",
+     "given": "M."
+    },
+    {
+     "family": "Augustson",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Wagstaff",
+     "given": "M."
+    }
+   ],
+   "date": "1982",
+   "title": "Traditional land use",
+   "is_part_of": [
+    "An Island Polity. The Archaeology of Exploitation in Melos"
+   ],
+   "pages": "106-133",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 28,
+   "raw": "WARREN R.E. 1990, Predictive modelling in archaeology: a primer, in K.M.S. ALLEN, S.W. GREEN, E.B.W. ZUBROW (eds.), Interpreting Space: GIS and Archaeology, London, Taylor and Francis, 90-111.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Warren",
+     "given": "R.E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "Predictive modelling in archaeology: a primer",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "pages": "90-111",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "WARREN R.E., ASCH D.L. 2000, A predictive model of archaeological site location in the eastern Prairie Peninsula, in K.L. WESCOTT, R.J. BRANDON, Practical Applications of GIS for Archaeologists: A Predictive Modelling Kit, London, Taylor and Francis, 3-32.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Warren",
+     "given": "R.E."
+    },
+    {
+     "family": "Asch",
+     "given": "D.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Wescott",
+     "given": "K.L."
+    },
+    {
+     "family": "Brandon",
+     "given": "R.J."
+    }
+   ],
+   "date": "2000",
+   "title": "A predictive model of archaeological site location in the eastern Prairie Peninsula",
+   "is_part_of": [
+    "Practical Applications of GIS for Archaeologists: A Predictive Modeling Kit"
+   ],
+   "pages": "3-32",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 30,
+   "raw": "WHITELAW T. 1991, The ethnography of recent rural settlement and land use in North West Keos, in J.F. CHERRY, J.L. DAVIS, E. MANTZOURANI (eds.), Landscape Archaeology as Long-Term History: Northern Keos in the Cycladic Islands, Monumenta Archaeologica 16, Los Angeles, UCLA Institute of Archaeology, 403-454.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Whitelaw",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cherry",
+     "given": "J.F."
+    },
+    {
+     "family": "Davis",
+     "given": "J.L."
+    },
+    {
+     "family": "Mantzourani",
+     "given": "E."
+    }
+   ],
+   "date": "1991",
+   "title": "The ethnography of recent rural settlement and land use in North West Keos",
+   "is_part_of": [
+    "Landscape Archaeology as Long-Term History: Northern Keos in the Cycladic Islands"
+   ],
+   "pages": "403-454",
+   "series": "Monumenta Archaeologica",
+   "series_number": "16",
+   "publisher": "UCLA Institute of Archaeology",
+   "place": "Los Angeles",
+   "language": "eng"
+  }
+ ]
+}

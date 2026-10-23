@@ -1,0 +1,861 @@
+{
+ "citing_aec_id": 667,
+ "source_file": "data/journal/24/667.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV. 2011, Atlante geologico della Provincia di Venezia, Padova, Grafiche Erredici Srl.",
+   "type": "book",
+   "date": "2011",
+   "title": "Atlante geologico della Provincia di Venezia",
+   "place": "Padova",
+   "publisher": "Grafiche Erredici Srl",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Arena M. 1959, Reperti di alberi sub fossili nella Laguna di Venezia. Identificazione e descrizione dei campioni di legno, «Memorie di Biogeografia Adriatica», 5, 19-51.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arena",
+     "given": "M."
+    }
+   ],
+   "date": "1959",
+   "title": "Reperti di alberi sub fossili nella Laguna di Venezia. Identificazione e descrizione dei campioni di legno",
+   "is_part_of": [
+    "Memorie di Biogeografia Adriatica"
+   ],
+   "volume": "5",
+   "pages": "19-51",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Bondesan A., Levorato C. (eds.) 2008, I geositi della provincia di Venezia, Padova, Esedra Editrice.",
+   "type": "book",
+   "date": "2008",
+   "title": "I geositi della provincia di Venezia",
+   "editors": [
+    {
+     "family": "Bondesan",
+     "given": "A."
+    },
+    {
+     "family": "Levorato",
+     "given": "C."
+    }
+   ],
+   "place": "Padova",
+   "publisher": "Esedra Editrice",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Bondesan A., Meneghel M. (eds.) 2004, Geomorfologia della provincia di Venezia. Note illustrative della carta geomorfologica della provincia di Venezia, Padova, Esedra Editrice.",
+   "type": "book",
+   "date": "2004",
+   "title": "Geomorfologia della provincia di Venezia. Note illustrative della carta geomorfologica della provincia di Venezia",
+   "editors": [
+    {
+     "family": "Bondesan",
+     "given": "A."
+    },
+    {
+     "family": "Meneghel",
+     "given": "M."
+    }
+   ],
+   "place": "Padova",
+   "publisher": "Esedra Editrice",
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "Bondesan A., Meneghel M., Rosselli R., Vitturi A. (eds.) 2004, La carta geomorfologica della provincia di Venezia. Edizione digitale alla scala 1:20000, edito da Magistrato alle Acque per la Laguna di Venezia, concessionario Consorzio Venezia Nuova, Servizio Informativo Venezia, Cd-Rom.",
+   "type": "other",
+   "date": "2004",
+   "title": "La carta geomorfologica della provincia di Venezia. Edizione digitale alla scala 1:20000",
+   "editors": [
+    {
+     "family": "Bondesan",
+     "given": "A."
+    },
+    {
+     "family": "Meneghel",
+     "given": "M."
+    },
+    {
+     "family": "Rosselli",
+     "given": "R."
+    },
+    {
+     "family": "Vitturi",
+     "given": "A."
+    }
+   ],
+   "publisher": "Magistrato alle Acque per la Laguna di Venezia, concessionario Consorzio Venezia Nuova, Servizio Informativo Venezia",
+   "notes": "Cd-Rom",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Bondesan A., Primon S., Bassan V., Vitturi A. (eds.) 2008, Le unità geologiche della provincia di Venezia, Verona, Cierre Grafica.",
+   "type": "book",
+   "date": "2008",
+   "title": "Le unità geologiche della provincia di Venezia",
+   "editors": [
+    {
+     "family": "Bondesan",
+     "given": "A."
+    },
+    {
+     "family": "Primon",
+     "given": "S."
+    },
+    {
+     "family": "Bassan",
+     "given": "V."
+    },
+    {
+     "family": "Vitturi",
+     "given": "A."
+    }
+   ],
+   "place": "Verona",
+   "publisher": "Cierre Grafica",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Brown A.G. 1997, Alluvial Geoarchaeology: Floodplain Archaeology and Enviroment Change, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Brown",
+     "given": "A.G."
+    }
+   ],
+   "date": "1997",
+   "title": "Alluvial Geoarchaeology: Floodplain Archaeology and Environmental Change",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Brunello L. 1993, Antica idrografia della terraferma veneziana, Centro Studi Storici di Mestre, 2 (nuova serie).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Brunello",
+     "given": "L."
+    }
+   ],
+   "date": "1993",
+   "title": "Antica idrografia della terraferma veneziana",
+   "series": "Centro Studi Storici di Mestre (nuova serie)",
+   "series_number": "2",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "Calaon D., Pizzinato C. 2011, L'analisi archeologica nei processi di valutazione ambientale. Proposta metodologica in ambiente GIS, «Archeologia e Calcolatori», 22, 413-439.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Calaon",
+     "given": "D."
+    },
+    {
+     "family": "Pizzinato",
+     "given": "C."
+    }
+   ],
+   "date": "2011",
+   "title": "L'analisi archeologica nei processi di valutazione ambientale. Proposta metodologica in ambiente GIS",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "413-439",
+   "cited_aec_id": 603,
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Calaon D., Pizzinato C. 2013, From theory to practice. Objectivity and sustainability in archaeological impact assessment processes, in Pre-atti del Convegno Opening the Past 2013. Archaeology of the Future (Pisa 2013), MapPapers 1-3, 18-20.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Calaon",
+     "given": "D."
+    },
+    {
+     "family": "Pizzinato",
+     "given": "C."
+    }
+   ],
+   "date": "2013",
+   "title": "From theory to practice. Objectivity and sustainability in archaeological impact assessment processes",
+   "is_part_of": [
+    "Pre-atti del Convegno Opening the Past 2013. Archaeology of the Future (Pisa 2013)",
+    "MapPapers"
+   ],
+   "volume": "1-3",
+   "pages": "18-20",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Cambi F., Terrenato N. 1994, Introduzione all'archeologia dei paesaggi, Roma, Nuova Scientifica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cambi",
+     "given": "F."
+    },
+    {
+     "family": "Terrenato",
+     "given": "N."
+    }
+   ],
+   "date": "1994",
+   "title": "Introduzione all'archeologia dei paesaggi",
+   "place": "Roma",
+   "publisher": "Nuova Italia Scientifica",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "Carbognin L., Tosi L. (eds.) 2003, Studio relativo ai fenomeni di intrusione salina e di subsidenza (ISES) sulla bassa provincia veneziana e padovana, Grafiche Erredici, Padova.",
+   "type": "book",
+   "date": "2003",
+   "title": "Studio relativo ai fenomeni di intrusione salina e di subsidenza (ISES) sulla bassa provincia veneziana e padovana",
+   "editors": [
+    {
+     "family": "Carbognin",
+     "given": "L."
+    },
+    {
+     "family": "Tosi",
+     "given": "L."
+    }
+   ],
+   "place": "Padova",
+   "publisher": "Grafiche Erredici",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "Carver M. 2003, Archaeological Value and Evaluation, Mantova, Società Archeologica Padana.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carver",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Archaeological Value and Evaluation",
+   "place": "Mantova",
+   "publisher": "Società Archeologica Padana",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "D'Alterio S. 2008, Vegetazione naturale, in AA. VV., I suoli della provincia di Padova, Padova, Grafiche Erredici Srl.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D'Alterio",
+     "given": "S."
+    }
+   ],
+   "date": "2008",
+   "title": "Vegetazione naturale",
+   "is_part_of": [
+    "I suoli della provincia di Padova"
+   ],
+   "place": "Padova",
+   "publisher": "Grafiche Erredici Srl",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Favero V. 1992, Evoluzione morfologica e trasformazioni ambientali dalla conterminazione lagunare al nostro secolo, in Conterminazione lagunare, Atti del Convegno di studio nel bicentenario della conterminazione lagunare (Venezia 1991), Venezia, 165-187.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Favero",
+     "given": "V."
+    }
+   ],
+   "date": "1992",
+   "title": "Evoluzione morfologica e trasformazioni ambientali dalla conterminazione lagunare al nostro secolo",
+   "is_part_of": [
+    "Conterminazione lagunare, Atti del Convegno di studio nel bicentenario della conterminazione lagunare (Venezia 1991)"
+   ],
+   "place": "Venezia",
+   "pages": "165-187",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Favero V., Serandrei Barbero R. 1978, La sedimentazione olocenica nella piana costiera tra Brenta ed Adige, «Memorie della Società Geologica Italiana», 19, 337-343.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Favero",
+     "given": "V."
+    },
+    {
+     "family": "Serandrei Barbero",
+     "given": "R."
+    }
+   ],
+   "date": "1978",
+   "title": "La sedimentazione olocenica nella piana costiera tra Brenta ed Adige",
+   "is_part_of": [
+    "Memorie della Società Geologica Italiana"
+   ],
+   "volume": "19",
+   "pages": "337-343",
+   "language": "ita"
+  },
+  {
+   "position": 17,
+   "raw": "Fontana A. 2008, Introduzione alla geologia della provincia di Venezia, in Bondesan *et al*. 2008, 16-33.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fontana",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "Introduzione alla geologia della provincia di Venezia",
+   "pages": "16-33",
+   "editors": [
+    {
+     "family": "Bondesan",
+     "given": "A."
+    },
+    {
+     "family": "Primon",
+     "given": "S."
+    },
+    {
+     "family": "Bassan",
+     "given": "V."
+    },
+    {
+     "family": "Vitturi",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Le unità geologiche della provincia di Venezia"
+   ],
+   "place": "Verona",
+   "publisher": "Cierre Grafica",
+   "xref": 6,
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "Forte M. 2002, I sistemi informativi geografici in archeologia, Roma, MondoGIS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "I sistemi informativi geografici in archeologia",
+   "place": "Roma",
+   "publisher": "MondoGIS",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Gelichi S., Negrelli C. (eds.) 2008, A misura d'uomo. Archeologia del territorio cesenate e valutazione dei depositi, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "date": "2008",
+   "title": "A misura d'uomo. Archeologia del territorio cesenate e valutazione dei depositi",
+   "editors": [
+    {
+     "family": "Gelichi",
+     "given": "S."
+    },
+    {
+     "family": "Negrelli",
+     "given": "C."
+    }
+   ],
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio",
+   "language": "ita"
+  },
+  {
+   "position": 20,
+   "raw": "Lock G., Harris T. 2006, Enhancing predictive archaeological modeling: Integrating location, landscape and culture, in M.W. Mehrer, K.L. Wescott (eds.), GIS and Archaeological Site Location Modeling, Boca Raton (FL), CRC Press, 36-55.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Harris",
+     "given": "T."
+    }
+   ],
+   "date": "2006",
+   "title": "Enhancing predictive archaeological modeling: Integrating location, landscape and culture",
+   "editors": [
+    {
+     "family": "Mehrer",
+     "given": "M.W."
+    },
+    {
+     "family": "Wescott",
+     "given": "K.L."
+    }
+   ],
+   "is_part_of": [
+    "GIS and Archaeological Site Location Modeling"
+   ],
+   "place": "Boca Raton (FL)",
+   "publisher": "CRC Press",
+   "pages": "36-55",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "Mozzi P. 2003, L'alta e media pianura del Brenta, in A. Bondesan, G. Caniato, D. Gasparini, F. Vallerani, M. Zanetti (eds.), Il Brenta, Verona, Cierre Edizioni, 39-53.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mozzi",
+     "given": "P."
+    }
+   ],
+   "date": "2003",
+   "title": "L'alta e media pianura del Brenta",
+   "editors": [
+    {
+     "family": "Bondesan",
+     "given": "A."
+    },
+    {
+     "family": "Caniato",
+     "given": "G."
+    },
+    {
+     "family": "Gasparini",
+     "given": "D."
+    },
+    {
+     "family": "Vallerani",
+     "given": "F."
+    },
+    {
+     "family": "Zanetti",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Il Brenta"
+   ],
+   "place": "Verona",
+   "publisher": "Cierre Edizioni",
+   "pages": "39-53",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "Mozzi P. 2004, Tra Sile e Naviglio Brenta, in Bondesan, Meneghel 2004, 260-266.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mozzi",
+     "given": "P."
+    }
+   ],
+   "date": "2004",
+   "title": "Tra Sile e Naviglio Brenta",
+   "pages": "260-266",
+   "editors": [
+    {
+     "family": "Bondesan",
+     "given": "A."
+    },
+    {
+     "family": "Meneghel",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Geomorfologia della provincia di Venezia. Note illustrative della carta geomorfologica della provincia di Venezia"
+   ],
+   "place": "Padova",
+   "publisher": "Esedra Editrice",
+   "xref": 4,
+   "language": "ita"
+  },
+  {
+   "position": 23,
+   "raw": "Mozzi P. 2008a, L'unità di Dolo, in Bondesan *et al*. 2008, 120-122.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mozzi",
+     "given": "P."
+    }
+   ],
+   "date": "2008",
+   "title": "L'unità di Dolo",
+   "pages": "120-122",
+   "editors": [
+    {
+     "family": "Bondesan",
+     "given": "A."
+    },
+    {
+     "family": "Primon",
+     "given": "S."
+    },
+    {
+     "family": "Bassan",
+     "given": "V."
+    },
+    {
+     "family": "Vitturi",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Le unità geologiche della provincia di Venezia"
+   ],
+   "place": "Verona",
+   "publisher": "Cierre Grafica",
+   "xref": 6,
+   "language": "ita"
+  },
+  {
+   "position": 24,
+   "raw": "Mozzi P. 2008b, Il caranto, in A. Bondesan, C. Levorato, I geositi della provincia di Venezia, Padova, Grafiche Erredici Srl, 91-94.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mozzi",
+     "given": "P."
+    }
+   ],
+   "date": "2008",
+   "title": "Il caranto",
+   "editors": [
+    {
+     "family": "Bondesan",
+     "given": "A."
+    },
+    {
+     "family": "Levorato",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "I geositi della provincia di Venezia"
+   ],
+   "place": "Padova",
+   "publisher": "Grafiche Erredici Srl",
+   "pages": "91-94",
+   "xref": 3,
+   "language": "ita"
+  },
+  {
+   "position": 25,
+   "raw": "Mozzi P., Furlanetto P., Primon S. 2004, Tra Naviglio Brenta e Bacchiglione, in Bondesan, Meneghel 2004, 269-298.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mozzi",
+     "given": "P."
+    },
+    {
+     "family": "Furlanetto",
+     "given": "P."
+    },
+    {
+     "family": "Primon",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Tra Naviglio Brenta e Bacchiglione",
+   "pages": "269-298",
+   "editors": [
+    {
+     "family": "Bondesan",
+     "given": "A."
+    },
+    {
+     "family": "Meneghel",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Geomorfologia della provincia di Venezia. Note illustrative della carta geomorfologica della provincia di Venezia"
+   ],
+   "place": "Padova",
+   "publisher": "Esedra Editrice",
+   "xref": 4,
+   "language": "ita"
+  },
+  {
+   "position": 26,
+   "raw": "Padoan S., Caniglia G. 2004, L'Oasi di Valle Averto (Venezia): flora e lineamenti della vegetazione, «Lavori della Società Veneziana di Scienze Naturali», 29, 79-88.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Padoan",
+     "given": "S."
+    },
+    {
+     "family": "Caniglia",
+     "given": "G."
+    }
+   ],
+   "date": "2004",
+   "title": "L'Oasi di Valle Averto (Venezia): flora e lineamenti della vegetazione",
+   "is_part_of": [
+    "Lavori della Società Veneziana di Scienze Naturali"
+   ],
+   "volume": "29",
+   "pages": "79-88",
+   "language": "ita"
+  },
+  {
+   "position": 27,
+   "raw": "Primon P. 2008, L'unità Delta Brenta, in Bondesan *et al*. 2008, 128-129.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Primon",
+     "given": "P."
+    }
+   ],
+   "date": "2008",
+   "title": "L'unità Delta Brenta",
+   "pages": "128-129",
+   "editors": [
+    {
+     "family": "Bondesan",
+     "given": "A."
+    },
+    {
+     "family": "Primon",
+     "given": "S."
+    },
+    {
+     "family": "Bassan",
+     "given": "V."
+    },
+    {
+     "family": "Vitturi",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Le unità geologiche della provincia di Venezia"
+   ],
+   "place": "Verona",
+   "publisher": "Cierre Grafica",
+   "xref": 6,
+   "language": "ita"
+  },
+  {
+   "position": 28,
+   "raw": "Primon S., Furlanetto P. 2004, La Laguna sud, in Bondesan, Meneghel 2004, 307-326.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Primon",
+     "given": "S."
+    },
+    {
+     "family": "Furlanetto",
+     "given": "P."
+    }
+   ],
+   "date": "2004",
+   "title": "La Laguna sud",
+   "pages": "307-326",
+   "editors": [
+    {
+     "family": "Bondesan",
+     "given": "A."
+    },
+    {
+     "family": "Meneghel",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Geomorfologia della provincia di Venezia. Note illustrative della carta geomorfologica della provincia di Venezia"
+   ],
+   "place": "Padova",
+   "publisher": "Esedra Editrice",
+   "xref": 4,
+   "language": "ita"
+  },
+  {
+   "position": 29,
+   "raw": "Terrenato N. 2006, Le misure (del campione) contano! Il paradosso dei fenomeni globali e delle ricognizioni locali, in N. Mancassola, F. Saggioro (eds.), Medioevo, paesaggio e metodi, Documenti di Archeologia, 42, Mantova, Società Archeologica Padana, 9-24.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Terrenato",
+     "given": "N."
+    }
+   ],
+   "date": "2006",
+   "title": "Le misure (del campione) contano! Il paradosso dei fenomeni globali e delle ricognizioni locali",
+   "editors": [
+    {
+     "family": "Mancassola",
+     "given": "N."
+    },
+    {
+     "family": "Saggioro",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Medioevo, paesaggio e metodi"
+   ],
+   "series": "Documenti di Archeologia",
+   "series_number": "42",
+   "place": "Mantova",
+   "publisher": "Società Archeologica Padana",
+   "pages": "9-24",
+   "language": "ita"
+  },
+  {
+   "position": 30,
+   "raw": "Verhagen Ph. 2007, Case Studies in Archaeological Predictive Modeling, Leiden, Leiden University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Verhagen",
+     "given": "Ph."
+    }
+   ],
+   "date": "2007",
+   "title": "Case Studies in Archaeological Predictive Modeling",
+   "place": "Leiden",
+   "publisher": "Leiden University Press",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "Verhagen Ph., Deeben J., Hallewas D., Zoetbrood P., Kamermans H., Van Leusen M. 2005, A review of predictive modeling for archaeological heritage management in the Netherlands, in J.F. Berger, F. Bertoncello, F. Braemer, G. Davtian, M. Gazenbeek (eds.), Temps et espace de l'homme en société. Analyses et modèles spatiaux en archéologie. Actes des XXV rencontres internationales d'archéologie et d'histoire d'Antibes (2004), Antibes, Éditions APDCA, 83-92.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Verhagen",
+     "given": "Ph."
+    },
+    {
+     "family": "Deeben",
+     "given": "J."
+    },
+    {
+     "family": "Hallewas",
+     "given": "D."
+    },
+    {
+     "family": "Zoetbrood",
+     "given": "P."
+    },
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "date": "2005",
+   "title": "A review of predictive modeling for archaeological heritage management in the Netherlands",
+   "editors": [
+    {
+     "family": "Berger",
+     "given": "J.F."
+    },
+    {
+     "family": "Bertoncello",
+     "given": "F."
+    },
+    {
+     "family": "Braemer",
+     "given": "F."
+    },
+    {
+     "family": "Davtian",
+     "given": "G."
+    },
+    {
+     "family": "Gazenbeek",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Temps et espace de l'homme en société. Analyses et modèles spatiaux en archéologie. Actes des XXV rencontres internationales d'archéologie et d'histoire d'Antibes (2004)"
+   ],
+   "place": "Antibes",
+   "publisher": "Éditions APDCA",
+   "pages": "83-92",
+   "language": "eng"
+  },
+  {
+   "position": 32,
+   "raw": "Zabeo M. 2007, Da Livio a Venanzio, sulle tracce del Brenta antico, «Quaderni di Archeologia del Veneto», 23, 163-173.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zabeo",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Da Livio a Venanzio, sulle tracce del Brenta antico",
+   "is_part_of": [
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "volume": "23",
+   "pages": "163-173",
+   "language": "ita"
+  },
+  {
+   "position": 33,
+   "raw": "Zampieri M. 2009, Ad duodecimum. Mansio Maio Meduaco. Sambruson in epoca preromana e romana, Grafiche Leone, Venezia.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Zampieri",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Ad duodecimum. Mansio Maio Meduaco. Sambruson in epoca preromana e romana",
+   "place": "Venezia",
+   "publisher": "Grafiche Leone",
+   "language": "ita"
+  }
+ ]
+}

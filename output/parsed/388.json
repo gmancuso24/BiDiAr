@@ -1,0 +1,731 @@
+{
+ "citing_aec_id": 388,
+ "source_file": "data/journal/15/388.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BIANCHI G., NARDINI A. 2000, Archeologia dell’architettura di un centro storico. Proposta per un’elaborazione informatica dei dati su piattaforma GIS bidimensionale, in BROGIOLO 2000, 381-388.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bianchi",
+     "given": "G."
+    },
+    {
+     "family": "Nardini",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "Archeologia dell’architettura di un centro storico. Proposta per un’elaborazione informatica dei dati su piattaforma GIS bidimensionale",
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "is_part_of": [
+    "II Congresso Nazionale di Archeologia Medievale (Società degli Archeologi Medievisti Italiani, Musei Civici di Santa Giulia, Brescia 2000)"
+   ],
+   "pages": "381-388",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "BOSCATO P., FRONZA V., SALVADORI F. 2000, Un archivio informatizzato per la gestione dei reperti archeozoologici, in BROGIOLO 2000, 46-52.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Boscato",
+     "given": "P."
+    },
+    {
+     "family": "Fronza",
+     "given": "V."
+    },
+    {
+     "family": "Salvadori",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "Un archivio informatizzato per la gestione dei reperti archeozoologici",
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "is_part_of": [
+    "II Congresso Nazionale di Archeologia Medievale (Società degli Archeologi Medievisti Italiani, Musei Civici di Santa Giulia, Brescia 2000)"
+   ],
+   "pages": "46-52",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BROGIOLO G.P. (ed.) 2000, II Congresso Nazionale di Archeologia Medievale (Società degli Archeologi Medievisti Italiani, Musei Civici di Santa Giulia, Brescia 2000), Firenze, All’Insegna del Giglio.",
+   "type": "proceedings",
+   "date": "2000",
+   "title": "II Congresso Nazionale di Archeologia Medievale (Società degli Archeologi Medievisti Italiani, Musei Civici di Santa Giulia, Brescia 2000)",
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "FRANCOVICH R. 1990, Dalla teoria alla ricerca sul campo: il contributo dell’informatica all’archeologia medievale, «Archeologia e Calcolatori», 1, 15-27.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "1990",
+   "title": "Dalla teoria alla ricerca sul campo: il contributo dell’informatica all’archeologia medievale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "15-27",
+   "language": "ita",
+   "cited_aec_id": 5,
+   "notes": "cited pp. 15-27; AeC metadata 15-26",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "FRANCOVICH R. 1999, Archeologia medievale e informatica: dieci anni dopo, «Archeologia e Calcolatori», 10, 45-63.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "1999",
+   "title": "Archeologia medievale e informatica: dieci anni dopo",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "45-63",
+   "language": "ita",
+   "cited_aec_id": 265,
+   "notes": "cited pp. 45-63; AeC metadata 45-61",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "FRANCOVICH R., FRONZA V., NARDINI A., VALENTI M. 2003, OpenArcheo: an information system for archaeological data management. Recent developments and future aims, in V. CAPPELLINI, J. HEMSLEY, G. STANKE (eds.), EVA2003 Florence. Electronic Imaging and the Visual Arts. Proceedings (Firenze 2003), Bologna, Pitagora Editrice, 149-153.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Fronza",
+     "given": "V."
+    },
+    {
+     "family": "Nardini",
+     "given": "A."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "OpenArcheo: an information system for archaeological data management. Recent developments and future aims",
+   "editors": [
+    {
+     "family": "Cappellini",
+     "given": "V."
+    },
+    {
+     "family": "Hemsley",
+     "given": "J."
+    },
+    {
+     "family": "Stanke",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "EVA2003 Florence. Electronic Imaging and the Visual Arts. Proceedings (Firenze 2003)"
+   ],
+   "pages": "149-153",
+   "publisher": "Pitagora Editrice",
+   "place": "Bologna",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "FRANCOVICH R., NARDINI A., VALENTI M. 2000, La piattaforma GIS dello scavo nella gestione di un’area cimiteriale, in BROGIOLO 2000, 28-36.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Nardini",
+     "given": "A."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "La piattaforma GIS dello scavo nella gestione di un’area cimiteriale",
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "is_part_of": [
+    "II Congresso Nazionale di Archeologia Medievale (Società degli Archeologi Medievisti Italiani, Musei Civici di Santa Giulia, Brescia 2000)"
+   ],
+   "pages": "28-36",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "FRANCOVICH R., VALENTI M. 2000, La piattaforma GIS dello scavo ed il suo utilizzo: l’esperienza di Poggibonsi, in BROGIOLO 2000, 14-20.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "La piattaforma GIS dello scavo ed il suo utilizzo: l’esperienza di Poggibonsi",
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "is_part_of": [
+    "II Congresso Nazionale di Archeologia Medievale (Società degli Archeologi Medievisti Italiani, Musei Civici di Santa Giulia, Brescia 2000)"
+   ],
+   "pages": "14-20",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "FRANCOVICH R., VALENTI M. 2001, Cartografia archeologica, indagini sul campo ed informatizzazione. Il contributo senese alla conoscenza ed alla gestione della risorsa culturale del territorio, in R. FRANCOVICH, M. PASQUINUCCI (eds.), La carta archeologica della Toscana, Firenze, All’Insegna del Giglio, 81-114.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Cartografia archeologica, indagini sul campo ed informatizzazione. Il contributo senese alla conoscenza ed alla gestione della risorsa culturale del territorio",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Pasquinucci",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "La carta archeologica della Toscana"
+   ],
+   "pages": "81-114",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "FRONZA V. 2000, Il sistema di gestione degli archivi dello scavo di Poggio Imperiale a Poggibonsi (Insegnamento di Archeologia Medievale dell’Università di Siena). Una soluzione all’interno della “soluzione GIS”, «Archeologia e Calcolatori», 11, 125-137.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    }
+   ],
+   "date": "2000",
+   "title": "Il sistema di gestione degli archivi dello scavo di Poggio Imperiale a Poggibonsi (Insegnamento di Archeologia Medievale dell’Università di Siena). Una soluzione all’interno della “soluzione GIS”",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "125-137",
+   "language": "ita",
+   "cited_aec_id": 292,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "FRONZA V., NARDINI A., VALENTI M. 2003, An integrated information system for archaeological data management: latest developments, in M. DOERR, A. SARRIS (eds.), CAA 2002. The Digital Heritage of Archaeology, Proceedings of the 30th Conference (Heraklion, Crete 2002), Hellenic Ministry of Culture – Archive of Monuments and Publications, 147-153.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    },
+    {
+     "family": "Nardini",
+     "given": "A."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "An integrated information system for archaeological data management: latest developments",
+   "editors": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "CAA 2002. The Digital Heritage of Archaeology, Proceedings of the 30th Conference (Heraklion, Crete 2002)"
+   ],
+   "pages": "147-153",
+   "publisher": "Hellenic Ministry of Culture – Archive of Monuments and Publications",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "FRONZA V., VALENTI M. 2000, L’utilizzo delle griglie di riferimento per lo scavo di contesti stratigrafici altomedievali: elaborazione di una soluzione informatica, in BROGIOLO 2000, 21-27.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "L’utilizzo delle griglie di riferimento per lo scavo di contesti stratigrafici altomedievali: elaborazione di una soluzione informatica",
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "is_part_of": [
+    "II Congresso Nazionale di Archeologia Medievale (Società degli Archeologi Medievisti Italiani, Musei Civici di Santa Giulia, Brescia 2000)"
+   ],
+   "pages": "21-27",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "GOTTARELLI A. (ed.) 1995, Sistemi informativi e reti geografiche in archeologia: GIS-Internet, VII Ciclo di Lezioni sulla Ricerca applicata in Archeologia (Certosa di Pontignano, SI), Firenze, All’Insegna del Giglio.",
+   "type": "proceedings",
+   "date": "1995",
+   "title": "Sistemi informativi e reti geografiche in archeologia: GIS-Internet, VII Ciclo di Lezioni sulla Ricerca applicata in Archeologia (Certosa di Pontignano, SI)",
+   "editors": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "ISABELLA L., SALZOTTI F., VALENTI M. 2001, L’esperienza dell’insegnamento di Archeologia Medievale a Siena nel campo dell’informatica applicata, in M. DE MARCHI, M. SCUDELLARI, A. ZAVAGLIA (eds.), Lo spessore storico in urbanistica, Mantova, Società Archeologica Padana s.r.l., 31-64.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Isabella",
+     "given": "L."
+    },
+    {
+     "family": "Salzotti",
+     "given": "F."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "L’esperienza dell’insegnamento di Archeologia Medievale a Siena nel campo dell’informatica applicata",
+   "editors": [
+    {
+     "family": "De Marchi",
+     "given": "M."
+    },
+    {
+     "family": "Scudellari",
+     "given": "M."
+    },
+    {
+     "family": "Zavaglia",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Lo spessore storico in urbanistica"
+   ],
+   "pages": "31-64",
+   "publisher": "Società Archeologica Padana s.r.l.",
+   "place": "Mantova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "MOSCATI P. 1998, GIS applications in Italian archaeology, «Archeologia e Calcolatori», 9, 191-236.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "GIS applications in Italian archaeology",
+   "is_part_of": [
+    "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "191-236",
+   "language": "eng",
+   "cited_aec_id": 253,
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "NARDINI A. 2000, La piattaforma GIS dello scavo di Poggio Imperiale a Poggibonsi (Insegnamento di Archeologia Medievale dell’Università di Siena). Dalla creazione del modello dei dati alla loro lettura, «Archeologia e Calcolatori», 11, 111-123.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nardini",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "La piattaforma GIS dello scavo di Poggio Imperiale a Poggibonsi (Insegnamento di Archeologia Medievale dell’Università di Siena). Dalla creazione del modello dei dati alla loro lettura",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "111-123",
+   "language": "ita",
+   "cited_aec_id": 291,
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "NARDINI A., SALVADORI F. 2000, La piattaforma GIS dello scavo e i modelli distributivi di manufatti e reperti osteologici animali, in BROGIOLO 2000, 37-45.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nardini",
+     "given": "A."
+    },
+    {
+     "family": "Salvadori",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "La piattaforma GIS dello scavo e i modelli distributivi di manufatti e reperti osteologici animali",
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "is_part_of": [
+    "II Congresso Nazionale di Archeologia Medievale (Società degli Archeologi Medievisti Italiani, Musei Civici di Santa Giulia, Brescia 2000)"
+   ],
+   "pages": "37-45",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "POWLESLAND D. 1998, West Heslerton Assessment, «Internet Archaeology», 5, Autumn/Winter 1998.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Powlesland",
+     "given": "D."
+    }
+   ],
+   "date": "1998",
+   "title": "West Heslerton Assessment",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "5",
+   "issue": "Autumn/Winter",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "POWLESLAND D., CLEMENCE H., LYALL J. 1998, West Heslerton: WEB-CD. The application of HTML and WEB tools for creating a distributed excavation archive in the form of a WEB-CD, «Internet Archaeology», 5, Autumn/Winter 1998.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Powlesland",
+     "given": "D."
+    },
+    {
+     "family": "Clemence",
+     "given": "H."
+    },
+    {
+     "family": "Lyall",
+     "given": "J."
+    }
+   ],
+   "date": "1998",
+   "title": "West Heslerton: WEB-CD. The application of HTML and WEB tools for creating a distributed excavation archive in the form of a WEB-CD",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "5",
+   "issue": "Autumn/Winter",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "SCIUTO D. et al. 1977, Introduzione ai sistemi informatici, Milano, McGraw-Hill.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sciuto",
+     "given": "D."
+    }
+   ],
+   "date": "1977",
+   "title": "Introduzione ai sistemi informatici",
+   "publisher": "McGraw-Hill",
+   "place": "Milano",
+   "language": "ita",
+   "notes": "\"et al.\" in the citation: only first author recorded",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "VALENTI M. 1998a, Computer Science and the management of an archaeological excavation: the Poggio Imperiale Project, «Archeological Computing Newsletter», 50 (Spring), 13-20.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Computer Science and the management of an archaeological excavation: the Poggio Imperiale Project",
+   "is_part_of": [
+    "Archeological Computing Newsletter"
+   ],
+   "volume": "50",
+   "issue": "Spring",
+   "pages": "13-20",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "VALENTI M. 1998b, La gestione informatica del dato; percorsi ed evoluzioni nell’attività della cattedra di Archeologia Medievale del Dipartimento di Archeologia e Storia delle Arti – Sezione Archeologica dell’Università di Siena, «Archeologia e Calcolatori», 9, 305-329.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "La gestione informatica del dato; percorsi ed evoluzioni nell’attività della cattedra di Archeologia Medievale del Dipartimento di Archeologia e Storia delle Arti – Sezione Archeologica dell’Università di Siena",
+   "is_part_of": [
+    "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "305-329",
+   "language": "ita",
+   "cited_aec_id": 258,
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "VALENTI M. (ed.) 1999, Carta Archeologica della Provincia di Siena. III. La Val d’Elsa (Colle di Val d’Elsa e Poggibonsi), Siena, Nuova Immagine Editrice.",
+   "type": "book",
+   "date": "1999",
+   "title": "Carta Archeologica della Provincia di Siena. III. La Val d’Elsa (Colle di Val d’Elsa e Poggibonsi)",
+   "editors": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "publisher": "Nuova Immagine Editrice",
+   "place": "Siena",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "VALENTI M. 2000, La piattaforma GIS dello scavo nella sperimentazione dell’Insegnamento di Archeologia Medievale dell’Università di Siena. Filosofia di lavoro e provocazioni, modello dei dati e “soluzione GIS”, «Archeologia e Calcolatori», 11, 93-104",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "La piattaforma GIS dello scavo nella sperimentazione dell’Insegnamento di Archeologia Medievale dell’Università di Siena. Filosofia di lavoro e provocazioni, modello dei dati e “soluzione GIS”",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "93-104",
+   "language": "ita",
+   "cited_aec_id": 290,
+   "notes": "cited pp. 93-104; AeC metadata 93-109",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "VALENTI M. 2002, Dai contesti ai reperti: un sistema informatico per la gestione della memoria storica, in A. RICCI (ed.), Archeologia e urbanistica. International School in Archaeology (Certosa di Pontignano-Siena 2001), Firenze, All’Insegna del Giglio, 281-302.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Dai contesti ai reperti: un sistema informatico per la gestione della memoria storica",
+   "editors": [
+    {
+     "family": "Ricci",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e urbanistica. International School in Archaeology (Certosa di Pontignano-Siena 2001)"
+   ],
+   "pages": "281-302",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "VALENTI M. et al. 2001, A GIS solution for excavations: experience of the Siena University LIAAM, in Z. STANČIČ, T. VELJANOVSKI (eds.), Computing Archaeology for Understanding the Past, CAA 2000. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000), BAR International Series 931, Oxford, Archaeopress, 173-177.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "A GIS solution for excavations: experience of the Siena University LIAAM",
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past, CAA 2000. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000)"
+   ],
+   "pages": "173-177",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "notes": "\"et al.\" in the citation: only first author recorded",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "WORKSHOP SIENA, Soluzioni GIS nell’informatizzazione dello scavo archeologico (Siena 2001), preatti scaricabili in formato rtf: http://archeologiamedievale.unisi.it/NewPages/WORKSHOP.html.",
+   "type": "other",
+   "date": "2001",
+   "title": "Soluzioni GIS nell’informatizzazione dello scavo archeologico (Siena 2001)",
+   "uri": "http://archeologiamedievale.unisi.it/NewPages/WORKSHOP.html",
+   "language": "ita",
+   "notes": "cited as \"WORKSHOP SIENA\" without year; 2001 from the title; pre-proceedings downloadable in rtf",
+   "confidence": "high"
+  }
+ ]
+}

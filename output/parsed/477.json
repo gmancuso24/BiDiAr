@@ -1,0 +1,63 @@
+{
+ "citing_aec_id": 477,
+ "source_file": "data/journal/19/477.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bouillé F. 1977, Un modèle de banque de données simultanément partageable, portable, répartie, Thèse de l’Université de Paris VI.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Bouillé",
+     "given": "F."
+    }
+   ],
+   "date": "1977",
+   "title": "Un modèle de banque de données simultanément partageable, portable, répartie",
+   "publisher": "Université de Paris VI",
+   "language": "fre",
+   "notes": "Thèse",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Denègre J., Salge F. 2004, Les systèmes d’information géographique, Paris, Presses Universitaires de France.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Denègre",
+     "given": "J."
+    },
+    {
+     "family": "Salgé",
+     "given": "F."
+    }
+   ],
+   "date": "2004",
+   "title": "Les systèmes d'information géographique",
+   "publisher": "Presses Universitaires de France",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "cited as 'Salge'",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Lorho T. 1997, Mise en place d’un système d’information géographique pour la pratique de l’archéologie urbaine à Vannes, Mémoire de DESS de l’Université de Bourgogne Dijon.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Lorho",
+     "given": "T."
+    }
+   ],
+   "date": "1997",
+   "title": "Mise en place d'un système d'information géographique pour la pratique de l'archéologie urbaine à Vannes",
+   "publisher": "Université de Bourgogne",
+   "place": "Dijon",
+   "language": "fre",
+   "notes": "Mémoire de DESS",
+   "confidence": "high"
+  }
+ ]
+}

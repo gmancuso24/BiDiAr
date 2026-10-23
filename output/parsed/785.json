@@ -1,0 +1,1727 @@
+{
+ "citing_aec_id": 785,
+ "source_file": "data/journal/26/785.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Albertocchi M., Huysecom-Haxhi S. 2014, Nouveaux projets collectives en coroplathie antique, «Thiasos», 3, 1, 17-25.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Albertocchi",
+     "given": "M."
+    },
+    {
+     "family": "Huysecom-Haxhi",
+     "given": "S."
+    }
+   ],
+   "date": "2014",
+   "title": "Nouveaux projets collectives en coroplathie antique",
+   "is_part_of": [
+    "Thiasos"
+   ],
+   "volume": "3",
+   "issue": "1",
+   "pages": "17-25",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Auer M. 2011, User generated cartography by crowd sourcing web map styling, in A. Ruas (ed.), Digital Proceedings of the 25th International Cartographic Conference (ICC) (Paris 2011) (http://icaci.org/files/documents/ICC_proceedings/ICC2011/; last access 30/01/2015).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Auer",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ruas",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "User generated cartography by crowd sourcing web map styling",
+   "is_part_of": [
+    "Digital Proceedings of the 25th International Cartographic Conference (ICC) (Paris 2011)"
+   ],
+   "language": "eng",
+   "uri": "http://icaci.org/files/documents/ICC_proceedings/ICC2011/",
+   "notes": "last access 30/01/2015",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Azzena G. 2009, Punto di non-ritorno (cartografia numerica, Sistemi Informativi Territoriali, analisi spaziali), in Moscati 2009, 169-177.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Punto di non-ritorno (cartografia numerica, Sistemi Informativi Territoriali, analisi spaziali)",
+   "is_part_of": [
+    "La nascita dell’informatica archeologica. Atti del Convegno Internazionale (Roma 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "pages": "169-177",
+   "language": "ita",
+   "xref": 47,
+   "cited_aec_id": 512,
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Barra Bagnasco M. 1986, Protomi in terracotta da Locri Epizefiri. Contributo allo studio della scultura arcaica in Magna Grecia, Torino, Il quadrante.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barra Bagnasco",
+     "given": "M."
+    }
+   ],
+   "date": "1986",
+   "title": "Protomi in terracotta da Locri Epizefiri. Contributo allo studio della scultura arcaica in Magna Grecia",
+   "publisher": "Il quadrante",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bonghi Iovino M. 1965, Capua preromana. Terrecotte votive. Catalogo del Museo Provinciale Campano. I. Teste isolate, Firenze, Sansoni.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bonghi Iovino",
+     "given": "M."
+    }
+   ],
+   "date": "1965",
+   "title": "Capua preromana. Terrecotte votive. Catalogo del Museo Provinciale Campano. I. Teste isolate",
+   "publisher": "Sansoni",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Bonghi Iovino M. 1980, Il metodo di classificazione. Introduzione, in O. Della Torre, S. Ciaghi (eds.), Terrecotte figurate ed architettoniche del Museo Nazionale di Napoli. Terrecotte figurate da Capua, Napoli, Soprintendenza Archeologica delle Province di Napoli e Caserta, XI-XV.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bonghi Iovino",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Della Torre",
+     "given": "O."
+    },
+    {
+     "family": "Ciaghi",
+     "given": "S."
+    }
+   ],
+   "date": "1980",
+   "title": "Il metodo di classificazione. Introduzione",
+   "is_part_of": [
+    "Terrecotte figurate ed architettoniche del Museo Nazionale di Napoli. Terrecotte figurate da Capua"
+   ],
+   "pages": "XI-XV",
+   "publisher": "Soprintendenza Archeologica delle Province di Napoli e Caserta",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Bonghi Iovino M. 1990, Artigiani e botteghe nell’Italia preromana. Studi sulla coroplastica di area etrusco-laziale-campana, Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bonghi Iovino",
+     "given": "M."
+    }
+   ],
+   "date": "1990",
+   "title": "Artigiani e botteghe nell’Italia preromana. Studi sulla coroplastica di area etrusco-laziale-campana",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Caffo R. 2015, Progetti nazionali ed europei sul Digital Cultural Heritage, in M. Serlorenzi, G. Leoni (eds.), Il SITAR nella rete della ricerca italiana. Verso la conoscenza archeologica condivisa. Atti del III Convegno (Roma 2013), 33-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Caffo",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Leoni",
+     "given": "G."
+    }
+   ],
+   "date": "2015",
+   "title": "Progetti nazionali ed europei sul Digital Cultural Heritage",
+   "is_part_of": [
+    "Il SITAR nella rete della ricerca italiana. Verso la conoscenza archeologica condivisa. Atti del III Convegno (Roma 2013)"
+   ],
+   "pages": "33-40",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Cantone F. 2005, Shared technologies in archeologia: nuove prospettive di gestione e condivisione di dati in rete, «Archeologia e Calcolatori», 16, 271-290.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "date": "2005",
+   "title": "Shared technologies in archeologia: nuove prospettive di gestione e condivisione di dati in rete",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "271-290",
+   "language": "ita",
+   "cited_aec_id": 414,
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Cantone F. 2007a, Sistemi di gestione informatizzata integrata dei dati archeologici. Protocolli di intervento presso l’Heraion alla Foce del Sele e il sito di Cuma, «Rassegna Economica», 35-54.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "Sistemi di gestione informatizzata integrata dei dati archeologici. Protocolli di intervento presso l’Heraion alla Foce del Sele e il sito di Cuma",
+   "is_part_of": [
+    "Rassegna Economica"
+   ],
+   "pages": "35-54",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Cantone F. 2007b, Archeobits. Archeologia e nuovi media, Napoli, Dante e Descartes.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "Archeobits. Archeologia e nuovi media",
+   "publisher": "Dante e Descartes",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Cantone F. 2010a, Problemi di management, worklow, risorse, in De La Genière, Greco 2010, 77-80.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De La Genière",
+     "given": "J."
+    },
+    {
+     "family": "Greco",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "Problemi di management, worklow, risorse",
+   "is_part_of": [
+    "Il santuario di Hera alla Foce del Sele. Indagini e studi 1987-2006"
+   ],
+   "pages": "77-80",
+   "language": "ita",
+   "xref": 24,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Cantone F. 2010b, Terrecotte di età ellenistica: la “donna fiore”, in De La Genière, Greco 2010, 656-663.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De La Genière",
+     "given": "J."
+    },
+    {
+     "family": "Greco",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "Terrecotte di età ellenistica: la “donna fiore”",
+   "is_part_of": [
+    "Il santuario di Hera alla Foce del Sele. Indagini e studi 1987-2006"
+   ],
+   "pages": "656-663",
+   "language": "ita",
+   "xref": 24,
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Cantone F. (ed.) 2012a, ArcheoFOSS 2011. VI Workshop Open Source, Free Software e Open Format nei processi di ricerca archeologica, Pozzuoli, Naus.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "date": "2012",
+   "title": "ArcheoFOSS 2011. VI Workshop Open Source, Free Software e Open Format nei processi di ricerca archeologica",
+   "publisher": "Naus",
+   "place": "Pozzuoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Cantone F. (ed.) 2012b, Ambienti multimediali per i Beni Culturali, Napoli, Liguori.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "date": "2012",
+   "title": "Ambienti multimediali per i Beni Culturali",
+   "publisher": "Liguori",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Cantone F. 2014, La “donna fiore” nel santuario di Hera alla Foce del Sele. Un progetto per l’informatizzazione dei dati, Quaderni del Centro Studi Magna Grecia, Silaris 4, Pozzuoli, Naus.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "date": "2014",
+   "title": "La “donna fiore” nel santuario di Hera alla Foce del Sele. Un progetto per l’informatizzazione dei dati",
+   "series": "Quaderni del Centro Studi Magna Grecia, Silaris",
+   "series_number": "4",
+   "publisher": "Naus",
+   "place": "Pozzuoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Cantone F., De Tommasi A. in press, Digital literacy e open archaeology: nuove forme di integrazione in atto tra open learning, open access, open knowledge, in G. Gallo, F. Stanco (eds.), ArcheoFOSS 2013, ArcheoFOSS Open Source, free software e open format nei processi di ricerca archeologica. Atti dell’VIII workshop (Catania 2013).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    },
+    {
+     "family": "De Tommasi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gallo",
+     "given": "G."
+    },
+    {
+     "family": "Stanco",
+     "given": "F."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Digital literacy e open archaeology: nuove forme di integrazione in atto tra open learning, open access, open knowledge",
+   "is_part_of": [
+    "ArcheoFOSS 2013, ArcheoFOSS Open Source, free software e open format nei processi di ricerca archeologica. Atti dell’VIII workshop (Catania 2013)"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: the proceedings appeared as Proceedings of ArcheoFOSS (Archaeopress, 2016, ed. Stanco, Gallo) but the chapter could not be confirmed in its contents; not applied",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Cantone F., Chianese A. 2013, Archeologia e informatica di base: sperimentazione di approcci non trasmissivi in open source, in Serlorenzi 2013, 181-187.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    },
+    {
+     "family": "Chianese",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Archeologia e informatica di base: sperimentazione di approcci non trasmissivi in open source",
+   "is_part_of": [
+    "ARCHEOFOSS Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 4",
+   "pages": "181-187",
+   "language": "ita",
+   "xref": 53,
+   "cited_aec_id": 703,
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Caravale A. 2009, La catalogazione informatica del patrimonio archeologico, in Moscati 2009, 179-187.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "La catalogazione informatica del patrimonio archeologico",
+   "is_part_of": [
+    "La nascita dell’informatica archeologica. Atti del Convegno Internazionale (Roma 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "pages": "179-187",
+   "language": "ita",
+   "xref": 47,
+   "cited_aec_id": 513,
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Chianese A., Cantone F., Caropreso M., Moscato V. 2010, ARCHAEOLOGY 2.0: Cultural E-Learning tools and distributed repositories supported by SEMANTICA, a system for learning object retrieval and adaptive courseware generation for e-learning environments, in J. Sieglerschmidt, P. Ohly (eds.), Wissensspeicher in digitalen Räumen: Nachhaltigkeit, Verfügbarkeit, semantische Interoperabilität. Proceedings of the International Society of Knowldge Organization, German Chapter 11, ISKO-Tagung Wissensorganisation ’08, Archäologisches Landesmuseum Kons, 171-178.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Chianese",
+     "given": "A."
+    },
+    {
+     "family": "Cantone",
+     "given": "F."
+    },
+    {
+     "family": "Caropreso",
+     "given": "M."
+    },
+    {
+     "family": "Moscato",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Sieglerschmidt",
+     "given": "J."
+    },
+    {
+     "family": "Ohly",
+     "given": "P."
+    }
+   ],
+   "date": "2010",
+   "title": "ARCHAEOLOGY 2.0: Cultural E-Learning tools and distributed repositories supported by SEMANTICA, a system for learning object retrieval and adaptive courseware generation for e-learning environments",
+   "is_part_of": [
+    "Wissensspeicher in digitalen Räumen: Nachhaltigkeit, Verfügbarkeit, semantische Interoperabilität. Proceedings of the International Society of Knowldge Organization, German Chapter 11, ISKO-Tagung Wissensorganisation ’08"
+   ],
+   "pages": "171-178",
+   "language": "eng",
+   "notes": "place cited as \"Archäologisches Landesmuseum Kons\" (truncated): left empty",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Croissant F. 1983, Les protomés féminines archaïques. Recherches sur les représentations du visage dans la plastique grecque de 550 à 480 av. J.-C., Paris, De Boccard.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Croissant",
+     "given": "F."
+    }
+   ],
+   "date": "1983",
+   "title": "Les protomés féminines archaïques. Recherches sur les représentations du visage dans la plastique grecque de 550 à 480 av. J.-C.",
+   "publisher": "De Boccard",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Cuomo Di Caprio N. 1985, La ceramica in archeologia. Antiche tecniche di fabbricazione e moderni metodi di indagine, Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cuomo Di Caprio",
+     "given": "N."
+    }
+   ],
+   "date": "1985",
+   "title": "La ceramica in archeologia. Antiche tecniche di fabbricazione e moderni metodi di indagine",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Dallas C. 2009, From artefact typologies to cultural heritage ontologies: or, an account of the lasting impact of archaeological computing, in Moscati 2009, 205-222.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "From artefact typologies to cultural heritage ontologies: or, an account of the lasting impact of archaeological computing",
+   "is_part_of": [
+    "La nascita dell’informatica archeologica. Atti del Convegno Internazionale (Roma 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "pages": "205-222",
+   "language": "eng",
+   "xref": 47,
+   "cited_aec_id": 515,
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "De La Genière J., Greco G. (eds.) 2010, Il santuario di Hera alla Foce del Sele. Indagini e studi 1987- 2006, Atti e Memorie Società Magna Grecia, Serie IV, 2008-2010, 4.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "De La Genière",
+     "given": "J."
+    },
+    {
+     "family": "Greco",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "Il santuario di Hera alla Foce del Sele. Indagini e studi 1987-2006",
+   "series": "Atti e Memorie Società Magna Grecia",
+   "series_number": "Serie IV, 2008-2010, 4",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Dewailly M. 1992, Les statuettes aux parures du sanctuaire de la Malophoros à Sélonunte. Contexte, typologie et interpretation d’une catégorie d’offrandes, Cahiers du Centre Jean Bérard, 17, Napoli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Dewailly",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Les statuettes aux parures du sanctuaire de la Malophoros à Sélonunte. Contexte, typologie et interpretation d’une catégorie d’offrandes",
+   "series": "Cahiers du Centre Jean Bérard",
+   "series_number": "17",
+   "place": "Napoli",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Di Giacomo G., Scardozzi G. 2014, GIS Cloud per l’archeologia. Strumenti open source per la gestione e condivisione dei dati, «Archeologia e Calcolatori», 25, 93-112.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Giacomo",
+     "given": "G."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2014",
+   "title": "GIS Cloud per l’archeologia. Strumenti open source per la gestione e condivisione dei dati",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "25",
+   "pages": "93-112",
+   "language": "ita",
+   "cited_aec_id": 717,
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Djindjian F. 2008, Webmapping in the historical and archaeological sciences. An introduction, «Archeologia e Calcolatori», 19, 9-16.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "2008",
+   "title": "Webmapping in the historical and archaeological sciences. An introduction",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "19",
+   "pages": "9-16",
+   "language": "eng",
+   "cited_aec_id": 473,
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Djindjian F., Noizet H., Costa L., Pouget F. (eds.) 2008, Webmapping dans les sciences historiques et archéologiques. Actes du Colloque international (Paris 2008), «Archeologia e Calcolatori», 19.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Noizet",
+     "given": "H."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Pouget",
+     "given": "F."
+    }
+   ],
+   "date": "2008",
+   "title": "Webmapping dans les sciences historiques et archéologiques. Actes du Colloque international (Paris 2008)",
+   "is_part_of": [
+    "Webmapping dans les sciences historiques et archéologiques. Actes du Colloque international (Paris 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "19",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Fabricatore G., Cantone F. 2006a, Colour reproduction of digital still cameras. Simple test and affordable solution, in Ioannides et al. 2006, 108-111.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fabricatore",
+     "given": "G."
+    },
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Arnold",
+     "given": "D."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Mania",
+     "given": "K."
+    }
+   ],
+   "date": "2006",
+   "title": "Colour reproduction of digital still cameras. Simple test and affordable solution",
+   "is_part_of": [
+    "The E-volution of Information Communication Technology in Cultural Heritage, Where Hi-Tech Touches the Past: Risks and Challenges for the 21st Century"
+   ],
+   "pages": "108-111",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "eng",
+   "xref": 38,
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Fabricatore G., Cantone F. 2006b, New tools to assist excavation 4D analysis: DATARCH© Archaeological Data Management System and “Variable Transparency Image Stacker”, in Ioannides et al. 2006, 100-107.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fabricatore",
+     "given": "G."
+    },
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Arnold",
+     "given": "D."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Mania",
+     "given": "K."
+    }
+   ],
+   "date": "2006",
+   "title": "New tools to assist excavation 4D analysis: DATARCH© Archaeological Data Management System and “Variable Transparency Image Stacker”",
+   "is_part_of": [
+    "The E-volution of Information Communication Technology in Cultural Heritage, Where Hi-Tech Touches the Past: Risks and Challenges for the 21st Century"
+   ],
+   "pages": "100-107",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "eng",
+   "xref": 38,
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Fabricatore G., Cantone F. 2008, Pushing the archaeological interpretation by analysing workflow protocols: the “Variable Transparency Image Stacker” and DATARCH© Archaeological Data Management System, in Posluschny, Lambers, Herzog 2008, 8 + Cd-ROM.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fabricatore",
+     "given": "G."
+    },
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Posluschny",
+     "given": "A."
+    },
+    {
+     "family": "Lambers",
+     "given": "K."
+    },
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "date": "2008",
+   "title": "Pushing the archaeological interpretation by analysing workflow protocols: the “Variable Transparency Image Stacker” and DATARCH© Archaeological Data Management System",
+   "is_part_of": [
+    "Layers of Perception, Advanced Technological Means to Illuminate our Past, CAA 2007"
+   ],
+   "pages": "8",
+   "publisher": "Dr Rudolf Habelt GmbH",
+   "place": "Bonn",
+   "language": "eng",
+   "xref": 52,
+   "notes": "pages cited as \"8 + Cd-ROM\"",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Ferrara B., Giacco M. 2010, Tipi dei corpi ceramici, in De La Genière, Greco 2010, 63-68.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ferrara",
+     "given": "B."
+    },
+    {
+     "family": "Giacco",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De La Genière",
+     "given": "J."
+    },
+    {
+     "family": "Greco",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "Tipi dei corpi ceramici",
+   "is_part_of": [
+    "Il santuario di Hera alla Foce del Sele. Indagini e studi 1987-2006"
+   ],
+   "pages": "63-68",
+   "language": "ita",
+   "xref": 24,
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Greco G., Cicala L. (eds.) 2014, Archaeometry. Comparing experiences, Quaderni del Centro Studi Magna Grecia 19, Pozzuoli, Naus Editoria.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Greco",
+     "given": "G."
+    },
+    {
+     "family": "Cicala",
+     "given": "L."
+    }
+   ],
+   "date": "2014",
+   "title": "Archaeometry. Comparing experiences",
+   "series": "Quaderni del Centro Studi Magna Grecia",
+   "series_number": "19",
+   "publisher": "Naus Editoria",
+   "place": "Pozzuoli",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Greco G., Ferrara B., Cantone F. 2007, New approaches to scientifical data communication. The “Museo Narrante” of the Foce Sele Sanctuary, «Archaeological Computing Newsletter», 67, 18-24.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Greco",
+     "given": "G."
+    },
+    {
+     "family": "Ferrara",
+     "given": "B."
+    },
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "New approaches to scientifical data communication. The “Museo Narrante” of the Foce Sele Sanctuary",
+   "is_part_of": [
+    "Archaeological Computing Newsletter"
+   ],
+   "volume": "67",
+   "pages": "18-24",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Greco G., Ferrara B., Cantone F. 2008, Museo Narrante: The Foce Sele Hera Sanctuary Virtual Museum, in Posluschny, Lambers, Herzog 2008, 418-425.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Greco",
+     "given": "G."
+    },
+    {
+     "family": "Ferrara",
+     "given": "B."
+    },
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Posluschny",
+     "given": "A."
+    },
+    {
+     "family": "Lambers",
+     "given": "K."
+    },
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "date": "2008",
+   "title": "Museo Narrante: The Foce Sele Hera Sanctuary Virtual Museum",
+   "is_part_of": [
+    "Layers of Perception, Advanced Technological Means to Illuminate our Past, CAA 2007"
+   ],
+   "pages": "418-425",
+   "publisher": "Dr Rudolf Habelt GmbH",
+   "place": "Bonn",
+   "language": "eng",
+   "xref": 52,
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Gruber E., Lockyear K. in press, From dBase III+ to the semantic web: Twenty-five years of the coin hoards of the Roman Republic database, in Proceedings of the 41st Computer Applications and Quantitative Methods in Archaeology Conference CAA 2013 Perth Across Space and Time (Perth 2013).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gruber",
+     "given": "E."
+    },
+    {
+     "family": "Lockyear",
+     "given": "K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Traviglia",
+     "given": "A."
+    }
+   ],
+   "date": "2015",
+   "title": "From dBase III+ to the semantic web: Twenty-five years of the coin hoards of the Roman Republic database",
+   "is_part_of": [
+    "Across Time and Space: Papers from the 41st Conference on Computer Applications and Quantitative Methods in Archaeology, Perth, 25–28 March 2013"
+   ],
+   "pages": "336-346",
+   "publisher": "Amsterdam University Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://discovery.ucl.ac.uk/id/eprint/1473759/"
+   },
+   "notes": "in press, CAA 2013 Perth; published 2015 (same title and authors, same conference)",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Guermandi M.P. 2011, I GIS per una archeologia del territorio, in M. Serlorenzi (ed.) 2011, SITAR. Sistema Informativo Territoriale Archeologico di Roma. Atti del I Convegno (Roma 2010), Roma, Iuno, 107-113.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "I GIS per una archeologia del territorio",
+   "is_part_of": [
+    "SITAR. Sistema Informativo Territoriale Archeologico di Roma. Atti del I Convegno (Roma 2010)"
+   ],
+   "pages": "107-113",
+   "publisher": "Iuno",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Ioannides M., Arnold D., Niccolucci F., Mania K. (eds.) 2006, The E-volution of Information Communication Technology in Cultural Heritage, Where Hi-Tech Touches the Past: Risks and Challenges for the 21st Century, Budapest, Archaeolingua.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Arnold",
+     "given": "D."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Mania",
+     "given": "K."
+    }
+   ],
+   "date": "2006",
+   "title": "The E-volution of Information Communication Technology in Cultural Heritage, Where Hi-Tech Touches the Past: Risks and Challenges for the 21st Century",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Jaxa-Chamiec M., Taroni G. 2008, I thymiateria di El Cabecico del Tesoro (Verdolay Murcia): caratterizzazione morfometrica, «Archeologia e Calcolatori», 19, 257-270.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jaxa-Chamiec",
+     "given": "M."
+    },
+    {
+     "family": "Taroni",
+     "given": "G."
+    }
+   ],
+   "date": "2008",
+   "title": "I thymiateria di El Cabecico del Tesoro (Verdolay Murcia): caratterizzazione morfometrica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "19",
+   "pages": "257-270",
+   "language": "ita",
+   "cited_aec_id": 493,
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Kurtz D. 2009, www.beazley.ox.ac.uk. From apparatus of scholarship to web resource. The Beazley Archive 1970-2008, in Moscati 2009, 37-46.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kurtz",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "www.beazley.ox.ac.uk. From apparatus of scholarship to web resource. The Beazley Archive 1970-2008",
+   "is_part_of": [
+    "La nascita dell’informatica archeologica. Atti del Convegno Internazionale (Roma 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "pages": "37-46",
+   "language": "eng",
+   "xref": 47,
+   "cited_aec_id": 502,
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Marras A.M. 2013, Una volta era il webGIS. La cartografia archeologica sul web: passato, presente e prospettive future, in Serlorenzi 2013, 120-127.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Marras",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Una volta era il webGIS. La cartografia archeologica sul web: passato, presente e prospettive future",
+   "is_part_of": [
+    "ARCHEOFOSS Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 4",
+   "pages": "120-127",
+   "language": "ita",
+   "xref": 53,
+   "cited_aec_id": 696,
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Miller Ammermann R. 2002, The Sanctuary of Santa Venera at Paestum II. The Votive Terracottas, AnnArbor, The University of Michigan Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Miller Ammermann",
+     "given": "R."
+    }
+   ],
+   "date": "2002",
+   "title": "The Sanctuary of Santa Venera at Paestum II. The Votive Terracottas",
+   "publisher": "The University of Michigan Press",
+   "place": "Ann Arbor",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Moscati P. 1990, L’analisi quantitativa nell’archeologia di epoca storica, «Archeologia e Calcolatori», 1, 39-80.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1990",
+   "title": "L’analisi quantitativa nell’archeologia di epoca storica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "39-80",
+   "language": "ita",
+   "cited_aec_id": 7,
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Moscati P. 1995, Quantitative analysis of Etruscan cinerary urns, in J. Huggett, N. Ryan (eds.), Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 22nd CAA Conference (Glasgow 1994), Oxford, Oxbow, 101-104.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    },
+    {
+     "family": "Ryan",
+     "given": "N."
+    }
+   ],
+   "date": "1995",
+   "title": "Quantitative analysis of Etruscan cinerary urns",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 22nd CAA Conference (Glasgow 1994)"
+   ],
+   "pages": "101-104",
+   "publisher": "Oxbow",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Moscati P. 1999, GIS and archaeology: The “Caere” survey, in J. Barceló, I. Briz, A. Vila (eds.), New Techniques for Old Times CAA98. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 26th CAA (Barcelona 1998), Oxford, Archaeopress, 103-106.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "GIS and archaeology: The “Caere” survey",
+   "is_part_of": [
+    "New Techniques for Old Times CAA98. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 26th CAA (Barcelona 1998)"
+   ],
+   "pages": "103-106",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Moscati P. 2001, Progetto Caere: questioni di metodo e sperimentazioni, «Archeologia e Calcolatori», 12, 47-53.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2001",
+   "title": "Progetto Caere: questioni di metodo e sperimentazioni",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "47-53",
+   "language": "ita",
+   "cited_aec_id": 314,
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "Moscati P. (ed.) 2009, La nascita dell’informatica archeologica. Atti del Convegno Internazionale (Roma 2008), «Archeologia e Calcolatori», 20.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "La nascita dell’informatica archeologica. Atti del Convegno Internazionale (Roma 2008)",
+   "is_part_of": [
+    "La nascita dell’informatica archeologica. Atti del Convegno Internazionale (Roma 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "Muller A. (ed.) 1997, Le moulage en terre cuite dans l’antiquité. Création et production dérivée, fabrication et diffusion. Actes du XVIIIe Colloque du Centre de Recherches Archéologiques-Lille III (Lille 1995), Villeneuve d’Ascq, Presses Universitaires du Septentrion.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Muller",
+     "given": "A."
+    }
+   ],
+   "date": "1997",
+   "title": "Le moulage en terre cuite dans l’antiquité. Création et production dérivée, fabrication et diffusion. Actes du XVIIIe Colloque du Centre de Recherches Archéologiques-Lille III (Lille 1995)",
+   "publisher": "Presses Universitaires du Septentrion",
+   "place": "Villeneuve d’Ascq",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "Nicholls R. 1952, Type, group and series: A reconsideration of some coroplastic fundamentals, «The Annual of the British School at Athens», 47, 217-226.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nicholls",
+     "given": "R."
+    }
+   ],
+   "date": "1952",
+   "title": "Type, group and series: A reconsideration of some coroplastic fundamentals",
+   "is_part_of": [
+    "The Annual of the British School at Athens"
+   ],
+   "volume": "47",
+   "pages": "217-226",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "Olimpo G. 2010, Società della conoscenza, educazione, tecnologia, «Tecnologie Didattiche», 50, 4-16.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Olimpo",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "Società della conoscenza, educazione, tecnologia",
+   "is_part_of": [
+    "Tecnologie Didattiche"
+   ],
+   "volume": "50",
+   "pages": "4-16",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 51,
+   "raw": "Orlandi T. 2009, Informatica archeologica e non archeologica, in Moscati 2009, 17-26.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Informatica archeologica e non archeologica",
+   "is_part_of": [
+    "La nascita dell’informatica archeologica. Atti del Convegno Internazionale (Roma 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "pages": "17-26",
+   "language": "ita",
+   "xref": 47,
+   "cited_aec_id": 500,
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "Posluschny A., Lambers K., Herzog I. (eds.), 2008, Layers of Perception, Advanced Technological Means to Illuminate our Past, CAA 2007, Bonn, Dr Rudolf Habelt GmbH.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Posluschny",
+     "given": "A."
+    },
+    {
+     "family": "Lambers",
+     "given": "K."
+    },
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "date": "2008",
+   "title": "Layers of Perception, Advanced Technological Means to Illuminate our Past, CAA 2007",
+   "publisher": "Dr Rudolf Habelt GmbH",
+   "place": "Bonn",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 53,
+   "raw": "Serlorenzi M. (ed.) 2013, ARCHEOFOSS Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012), «Archeologia e Calcolatori», Suppl. 4.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "ARCHEOFOSS Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012)",
+   "is_part_of": [
+    "ARCHEOFOSS Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 4",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 54,
+   "raw": "Serlorenzi M., Jovine I., Leoni G., De Tommasi A., Varavallo A. 2015, A retrospective on GIS and AIS systems for public archaeology in Italy. Searching backward for roots and looking onwards for new methodological road-maps., in F. Giligny, F. Djindjian, L. Costa, P. Moscati, S. Robert, CAA 2014. 21st Century Archaeology. Concepts, Methods and Tools. Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Paris 2014), Oxford, Archaeopress, 17-28.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Jovine",
+     "given": "I."
+    },
+    {
+     "family": "Leoni",
+     "given": "G."
+    },
+    {
+     "family": "De Tommasi",
+     "given": "A."
+    },
+    {
+     "family": "Varavallo",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giligny",
+     "given": "F."
+    },
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Robert",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "A retrospective on GIS and AIS systems for public archaeology in Italy. Searching backward for roots and looking onwards for new methodological road-maps",
+   "is_part_of": [
+    "CAA 2014. 21st Century Archaeology. Concepts, Methods and Tools. Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Paris 2014)"
+   ],
+   "pages": "17-28",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 55,
+   "raw": "Signore O. 2009, Representing knowledge in archaeology: From cataloguing cards to semantic web, in Moscati 2009, 111-128.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Representing knowledge in archaeology: From cataloguing cards to semantic web",
+   "is_part_of": [
+    "La nascita dell’informatica archeologica. Atti del Convegno Internazionale (Roma 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "pages": "111-128",
+   "language": "eng",
+   "xref": 47,
+   "cited_aec_id": 508,
+   "confidence": "high"
+  },
+  {
+   "position": 56,
+   "raw": "Stoop M.W. 1960, Floral Figurines from South Italy. A Study of South Italian Terracotta Incense-Burners in the Shape of Human Figures Supporting a Flower of the Fourth Century and the Hellenistic Period. Their Origin, Development and Signification, Assen, Royal van Gorcum Ltd.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Stoop",
+     "given": "M.W."
+    }
+   ],
+   "date": "1960",
+   "title": "Floral Figurines from South Italy. A Study of South Italian Terracotta Incense-Burners in the Shape of Human Figures Supporting a Flower of the Fourth Century and the Hellenistic Period. Their Origin, Development and Signification",
+   "publisher": "Royal van Gorcum Ltd.",
+   "place": "Assen",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 57,
+   "raw": "Tomeo A. 2010a, Terrecotte di età ellenistica: le figure femminili stanti, in De La Genière, Greco 2010, 641-656.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tomeo",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De La Genière",
+     "given": "J."
+    },
+    {
+     "family": "Greco",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "Terrecotte di età ellenistica: le figure femminili stanti",
+   "is_part_of": [
+    "Il santuario di Hera alla Foce del Sele. Indagini e studi 1987-2006"
+   ],
+   "pages": "641-656",
+   "language": "ita",
+   "xref": 24,
+   "confidence": "high"
+  },
+  {
+   "position": 58,
+   "raw": "Tomeo A. 2010b, La coroplastica, in De La Genière, Greco 2010, 513-527.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tomeo",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De La Genière",
+     "given": "J."
+    },
+    {
+     "family": "Greco",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "La coroplastica",
+   "is_part_of": [
+    "Il santuario di Hera alla Foce del Sele. Indagini e studi 1987-2006"
+   ],
+   "pages": "513-527",
+   "language": "ita",
+   "xref": 24,
+   "confidence": "high"
+  },
+  {
+   "position": 59,
+   "raw": "Tortora G. 2012, Media e tecnologie per la formazione. Partecipazione transmediale nei processi di formazione, in Cantone 2012b, 57-78.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tortora",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "date": "2012",
+   "title": "Media e tecnologie per la formazione. Partecipazione transmediale nei processi di formazione",
+   "is_part_of": [
+    "Ambienti multimediali per i Beni Culturali"
+   ],
+   "pages": "57-78",
+   "publisher": "Liguori",
+   "place": "Napoli",
+   "language": "ita",
+   "xref": 15,
+   "confidence": "high"
+  },
+  {
+   "position": 60,
+   "raw": "Verga F., Fabbri B. 2011, Un approccio globale, archeologico, archeometrico, informatico, alla schedatura della ceramica a vernice nera della valle del Tevere, «Archeologia e Calcolatori», 22, 51-65.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Verga",
+     "given": "F."
+    },
+    {
+     "family": "Fabbri",
+     "given": "B."
+    }
+   ],
+   "date": "2011",
+   "title": "Un approccio globale, archeologico, archeometrico, informatico, alla schedatura della ceramica a vernice nera della valle del Tevere",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "51-65",
+   "language": "ita",
+   "cited_aec_id": 587,
+   "confidence": "high"
+  },
+  {
+   "position": 61,
+   "raw": "Wunsch G. 1996, Thinking about the spatial articulation of the archaeological record: The role of statistical techniques, in P. Moscati (ed.), III International Symposium on Computing and Archaeology (Roma 1995), «Archeologia e Calcolatori», 7, 327-335.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wunsch",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1996",
+   "title": "Thinking about the spatial articulation of the archaeological record: The role of statistical techniques",
+   "is_part_of": [
+    "III International Symposium on Computing and Archaeology - Roma 22-25 novembre 1995",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "327-335",
+   "language": "eng",
+   "cited_aec_id": 148,
+   "confidence": "high"
+  },
+  {
+   "position": 62,
+   "raw": "Zancani Montuoro P., Zanotti Bianco U. 1937, Heraion di Foce del Sele (Relazione preliminare), «Notizie degli Scavi di Antichità», 206-354.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zancani Montuoro",
+     "given": "P."
+    },
+    {
+     "family": "Zanotti Bianco",
+     "given": "U."
+    }
+   ],
+   "date": "1937",
+   "title": "Heraion di Foce del Sele (Relazione preliminare)",
+   "is_part_of": [
+    "Notizie degli Scavi di Antichità"
+   ],
+   "pages": "206-354",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 63,
+   "raw": "Zancani Montuoro P., Zanotti Bianco U. 1951-1954, Heraion di Foce del Sele I-II, Roma, Istituto Poligrafico e Zecca dello Stato-Archivi di Stato.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Zancani Montuoro",
+     "given": "P."
+    },
+    {
+     "family": "Zanotti Bianco",
+     "given": "U."
+    }
+   ],
+   "date": "1951-1954",
+   "title": "Heraion di Foce del Sele I-II",
+   "publisher": "Istituto Poligrafico e Zecca dello Stato-Archivi di Stato",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 64,
+   "raw": "Zöldföldi J., Leno V., Székely B., Szilágyi V., Biró K.T., Hegedüs P. 2010, CERAMIS: Interactive Internet-based information system on neolithic pottery, «Archeologia e Calcolatori», 21, 301-314.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zöldföldi",
+     "given": "J."
+    },
+    {
+     "family": "Leno",
+     "given": "V."
+    },
+    {
+     "family": "Székely",
+     "given": "B."
+    },
+    {
+     "family": "Szilágyi",
+     "given": "V."
+    },
+    {
+     "family": "Biró",
+     "given": "K.T."
+    },
+    {
+     "family": "Hegedüs",
+     "given": "P."
+    }
+   ],
+   "date": "2010",
+   "title": "CERAMIS: Interactive Internet-based information system on neolithic pottery",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "21",
+   "pages": "301-314",
+   "language": "eng",
+   "cited_aec_id": 580,
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,552 @@
+{
+ "citing_aec_id": 508,
+ "source_file": "data/journal/20/508.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Baker T. 2000, A grammar of Dublin Core, «D-Lib Magazine», 6, 10 (http://www.dlib.org/dlib/october00/baker/10baker.html, accessed 9 June 2009).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baker",
+     "given": "T."
+    }
+   ],
+   "date": "2000",
+   "title": "A grammar of Dublin Core",
+   "is_part_of": [
+    "D-Lib Magazine"
+   ],
+   "volume": "6",
+   "issue": "10",
+   "uri": "http://www.dlib.org/dlib/october00/baker/10baker.html",
+   "language": "eng",
+   "notes": "accessed 9 June 2009",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Coyle K. 2007, Managing Technology. The Library Catalog in a 2.0 World, «The Journal of Academic Librarianship», 33, 2, 289-291 (preprint at: http://www.kcoyle.net/jal_33_2.html).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Coyle",
+     "given": "K."
+    }
+   ],
+   "date": "2007",
+   "title": "Managing Technology. The Library Catalog in a 2.0 World",
+   "is_part_of": [
+    "The Journal of Academic Librarianship"
+   ],
+   "volume": "33",
+   "issue": "2",
+   "pages": "289-291",
+   "uri": "http://www.kcoyle.net/jal_33_2.html",
+   "language": "eng",
+   "notes": "uri is a preprint",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "D’Amadio M., Simeoni P.E. (eds.) 1989, Strutturazione dei dati delle schede di Catalogo. Oggetti di interesse demo-antropologico, Roma, ICCD-Museo Nazionale delle Arti e Tradizioni Popolari.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "D'Amadio",
+     "given": "M."
+    },
+    {
+     "family": "Simeoni",
+     "given": "P.E."
+    }
+   ],
+   "date": "1989",
+   "title": "Strutturazione dei dati delle schede di Catalogo. Oggetti di interesse demo-antropologico",
+   "publisher": "ICCD-Museo Nazionale delle Arti e Tradizioni Popolari",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Digicult 2003, Towards a Semantic Web for Heritage Resources, Thematic Issue 3 (http://www.digicult.info/downloads/ti3_high.pdf).",
+   "type": "other",
+   "date": "2003",
+   "title": "Towards a Semantic Web for Heritage Resources",
+   "series": "Thematic Issue",
+   "series_number": "3",
+   "uri": "http://www.digicult.info/downloads/ti3_high.pdf",
+   "language": "eng",
+   "notes": "cited as 'Digicult 2003'; Digicult is the issuing body, no author named",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Doerr M., Hunter J., Lagoze C. 2003, Towards a core ontology for information integration, «Journal of Digital Information», 4, 1, n. 169 (http://jodi.ecs.soton.ac.uk/Articles/v04/i01/Doerr/).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Hunter",
+     "given": "J."
+    },
+    {
+     "family": "Lagoze",
+     "given": "C."
+    }
+   ],
+   "date": "2003",
+   "title": "Towards a core ontology for information integration",
+   "is_part_of": [
+    "Journal of Digital Information"
+   ],
+   "volume": "4",
+   "issue": "1",
+   "uri": "http://jodi.ecs.soton.ac.uk/Articles/v04/i01/Doerr/",
+   "language": "eng",
+   "notes": "cited 'n. 169' (article number)",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Fink E. 1997, Sharing cultural entitlements in the digital age: are we building a garden of Eden or a patch of weeds?, in Museums and the Web: An International Conference (Los Angeles, CA, 1997) (http://www.archimuse.com/mw97/speak/fink.htm).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fink",
+     "given": "E."
+    }
+   ],
+   "date": "1997",
+   "title": "Sharing cultural entitlements in the digital age: are we building a garden of Eden or a patch of weeds?",
+   "is_part_of": [
+    "Museums and the Web: An International Conference (Los Angeles, CA, 1997)"
+   ],
+   "uri": "http://www.archimuse.com/mw97/speak/fink.htm",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Hyvönen E., Junnila M., Kettula S., Mäkelä E., Saarela S., Salminen M., Syreeni A., Valo A., Viljanen K. 2004, Finnish Museums on the Semantic Web. User’s Perspective on MuseumFinland, in Proceedings of Museums and the Web 2004 (Arlington, Virginia/Washington DC) (http://www.archimuse.com/mw2004/papers/hyvonen/hyvonen.html).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hyvönen",
+     "given": "E."
+    },
+    {
+     "family": "Junnila",
+     "given": "M."
+    },
+    {
+     "family": "Kettula",
+     "given": "S."
+    },
+    {
+     "family": "Mäkelä",
+     "given": "E."
+    },
+    {
+     "family": "Saarela",
+     "given": "S."
+    },
+    {
+     "family": "Salminen",
+     "given": "M."
+    },
+    {
+     "family": "Syreeni",
+     "given": "A."
+    },
+    {
+     "family": "Valo",
+     "given": "A."
+    },
+    {
+     "family": "Viljanen",
+     "given": "K."
+    }
+   ],
+   "date": "2004",
+   "title": "Finnish Museums on the Semantic Web. User's Perspective on MuseumFinland",
+   "is_part_of": [
+    "Proceedings of Museums and the Web 2004 (Arlington, Virginia/Washington DC)"
+   ],
+   "uri": "http://www.archimuse.com/mw2004/papers/hyvonen/hyvonen.html",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Massari S., Prosperi Valenti Rodinò S., Papaldo S., Signore O. (eds.) 1988, Strutturazione dei dati delle schede di catalogo - Beni mobili storico-artistici: Stampe, Roma-Pisa, ICCD-CNUCE.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Massari",
+     "given": "S."
+    },
+    {
+     "family": "Prosperi Valenti Rodinò",
+     "given": "S."
+    },
+    {
+     "family": "Papaldo",
+     "given": "S."
+    },
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "date": "1988",
+   "title": "Strutturazione dei dati delle schede di catalogo - Beni mobili storico-artistici: Stampe",
+   "publisher": "ICCD-CNUCE",
+   "place": "Roma-Pisa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Papaldo S., Ruggeri Giove M., Gagliardi R., Matteucci D.R., Romano G.A., Signore O. 1986, Strutturazione dei dati delle schede di catalogo: Beni mobili, in S. Papaldo, G. Zuretti Angle (eds.), Atti del Convegno sull’Automazione dei dati del Catalogo dei Beni Culturali (Roma 1985), Roma, MiBAC-ICCD, 39-42.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Papaldo",
+     "given": "S."
+    },
+    {
+     "family": "Ruggeri Giove",
+     "given": "M."
+    },
+    {
+     "family": "Gagliardi",
+     "given": "R."
+    },
+    {
+     "family": "Matteucci",
+     "given": "D.R."
+    },
+    {
+     "family": "Romano",
+     "given": "G.A."
+    },
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Papaldo",
+     "given": "S."
+    },
+    {
+     "family": "Zuretti Angle",
+     "given": "G."
+    }
+   ],
+   "date": "1986",
+   "title": "Strutturazione dei dati delle schede di catalogo: Beni mobili",
+   "is_part_of": [
+    "Atti del Convegno sull'Automazione dei dati del Catalogo dei Beni Culturali (Roma 1985)"
+   ],
+   "pages": "39-42",
+   "publisher": "MiBAC-ICCD",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Papaldo S., Ruggeri Giove M., Gagliardi R., Matteucci D.R., Romano G.A., Signore O. (eds.) 1988, Proposta di strutturazione dei dati del catalogo: Beni mobili archeologici e storico-artistici (Edizione riveduta e aggiornata), Roma-Pisa, ICCD-CNUCE.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Papaldo",
+     "given": "S."
+    },
+    {
+     "family": "Ruggeri Giove",
+     "given": "M."
+    },
+    {
+     "family": "Gagliardi",
+     "given": "R."
+    },
+    {
+     "family": "Matteucci",
+     "given": "D.R."
+    },
+    {
+     "family": "Romano",
+     "given": "G.A."
+    },
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "date": "1988",
+   "title": "Proposta di strutturazione dei dati del catalogo: Beni mobili archeologici e storico-artistici (Edizione riveduta e aggiornata)",
+   "publisher": "ICCD-CNUCE",
+   "place": "Roma-Pisa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Papaldo S., Signore O. 1989 (eds.), Un approccio metodologico per la realizzazione di una banca dati storico-geografica (A methodological approach to producing a historical/geographical databank), Roma, Multigrafica Editrice.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Papaldo",
+     "given": "S."
+    },
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "date": "1989",
+   "title": "Un approccio metodologico per la realizzazione di una banca dati storico-geografica (A methodological approach to producing a historical/geographical databank)",
+   "publisher": "Multigrafica Editrice",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Parise Badoni F., Ruggeri M. (eds.) 1988, Strutturazione dei dati delle schede di catalogo: Beni archeologici immobili e territoriali, Roma-Pisa, ICCD-CNUCE.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Parise Badoni",
+     "given": "F."
+    },
+    {
+     "family": "Ruggeri",
+     "given": "M."
+    }
+   ],
+   "date": "1988",
+   "title": "Strutturazione dei dati delle schede di catalogo: Beni archeologici immobili e territoriali",
+   "publisher": "ICCD-CNUCE",
+   "place": "Roma-Pisa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Sheth A., Ramakrishnan C. 2003, Semantic (Web) technology in action: ontology driven information systems for search, integration and analysis, in U. Dayal, H. Kuno, K. Wilkinson (eds.), Special Issue on Making the Semantic Web Real, «IEEE Data Engineering Bulletin», 26, 40-48.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sheth",
+     "given": "A."
+    },
+    {
+     "family": "Ramakrishnan",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dayal",
+     "given": "U."
+    },
+    {
+     "family": "Kuno",
+     "given": "H."
+    },
+    {
+     "family": "Wilkinson",
+     "given": "K."
+    }
+   ],
+   "date": "2003",
+   "title": "Semantic (Web) technology in action: ontology driven information systems for search, integration and analysis",
+   "is_part_of": [
+    "Special Issue on Making the Semantic Web Real",
+    "IEEE Data Engineering Bulletin"
+   ],
+   "volume": "26",
+   "pages": "40-48",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Signore O. 1986, Architettura di sistemi per la gestione dei dati catalografici, in S. Papaldo, G. Zuretti Angle (eds.), Atti del Convegno sull’Automazione dei dati del Catalogo dei Beni Culturali (Roma 1985), Roma, MiBAC-ICCD, 51-58.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Papaldo",
+     "given": "S."
+    },
+    {
+     "family": "Zuretti Angle",
+     "given": "G."
+    }
+   ],
+   "date": "1986",
+   "title": "Architettura di sistemi per la gestione dei dati catalografici",
+   "is_part_of": [
+    "Atti del Convegno sull'Automazione dei dati del Catalogo dei Beni Culturali (Roma 1985)"
+   ],
+   "pages": "51-58",
+   "publisher": "MiBAC-ICCD",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Signore O. 1993, Cataloguing art objects: a comparison between French and Italian standards, in D.A. Roberts (ed.), European Museum Documentation Strategies and Standards. Proceedings of an International Conference (Canterbury 1991), Cambridge, MDA, 138-143.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Roberts",
+     "given": "D.A."
+    }
+   ],
+   "date": "1993",
+   "title": "Cataloguing art objects: a comparison between French and Italian standards",
+   "is_part_of": [
+    "European Museum Documentation Strategies and Standards. Proceedings of an International Conference (Canterbury 1991)"
+   ],
+   "pages": "138-143",
+   "publisher": "MDA",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Signore O. 1994, From data structuring to data exchange: a simple path, in H.J. Marker, K. Pagh (eds.), Yesterday. Proceedings from the 6th International Conference Art History and Computing (Odense 1991), Odense, Odense University Press, 48-54.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Marker",
+     "given": "H.J."
+    },
+    {
+     "family": "Pagh",
+     "given": "K."
+    }
+   ],
+   "date": "1994",
+   "title": "From data structuring to data exchange: a simple path",
+   "is_part_of": [
+    "Yesterday. Proceedings from the 6th International Conference Art History and Computing (Odense 1991)"
+   ],
+   "pages": "48-54",
+   "publisher": "Odense University Press",
+   "place": "Odense",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Signore O. 1995, Issues on hypertext design, in DEXA ’95. Database and Expert Systems Application. Proceedings of the International Conference (London 1995), Lecture Notes in Computer Science n. 978, Springer Verlag, 283-292.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "date": "1995",
+   "title": "Issues on hypertext design",
+   "is_part_of": [
+    "DEXA '95. Database and Expert Systems Application. Proceedings of the International Conference (London 1995)"
+   ],
+   "pages": "283-292",
+   "series": "Lecture Notes in Computer Science",
+   "series_number": "978",
+   "publisher": "Springer Verlag",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Signore O. 2004, Representing knowledge in semantic cultural web, in EVA 2004 Jerusalem Conference on the Digitisation of Cultural Heritage (Jerusalem 2004) (http://www.w3c.it/talks/eva2004Jerusalem/).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "date": "2004",
+   "title": "Representing knowledge in semantic cultural web",
+   "is_part_of": [
+    "EVA 2004 Jerusalem Conference on the Digitisation of Cultural Heritage (Jerusalem 2004)"
+   ],
+   "uri": "http://www.w3c.it/talks/eva2004Jerusalem/",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Signore O. 2005, Ontology driven access to Museum Information, in CIDOC 2005 Documentation & Users. Proceedings of the CIDOC Annual Conference (Zagreb 2005) (document: http://www.w3c.it/papers/cidoc2005.pdf; slides: http://www.w3c.it/talks/2005/cidoc2005/).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "date": "2005",
+   "title": "Ontology driven access to Museum Information",
+   "is_part_of": [
+    "CIDOC 2005 Documentation & Users. Proceedings of the CIDOC Annual Conference (Zagreb 2005)"
+   ],
+   "uri": "http://www.w3c.it/papers/cidoc2005.pdf",
+   "language": "eng",
+   "notes": "document url kept; slides: http://www.w3c.it/talks/2005/cidoc2005/",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Signore O. 2006, The Semantic Web and cultural heritage: ontologies and technologies help in accessing Museum information, in Information Technology for the Virtual Museum (Sønderborg 2006) (http://www.weblab.isti.cnr.it/talks/2006/ITVM2006/).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "date": "2006",
+   "title": "The Semantic Web and cultural heritage: ontologies and technologies help in accessing Museum information",
+   "is_part_of": [
+    "Information Technology for the Virtual Museum (Sønderborg 2006)"
+   ],
+   "uri": "http://www.weblab.isti.cnr.it/talks/2006/ITVM2006/",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

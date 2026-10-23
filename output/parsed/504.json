@@ -1,0 +1,512 @@
+{
+ "citing_aec_id": 504,
+ "source_file": "data/journal/20/504.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Borillo M. 1977, Raisonnement et méthodes mathématiques en archéologie, Paris, CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Borillo",
+     "given": "M."
+    }
+   ],
+   "date": "1977",
+   "title": "Raisonnement et méthodes mathématiques en archéologie",
+   "publisher": "CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Borillo M. 1978, Archéologie et calcul: textes recueillis, Paris, Collection 10/18.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Borillo",
+     "given": "M."
+    }
+   ],
+   "date": "1978",
+   "title": "Archéologie et calcul: textes recueillis",
+   "series": "Collection 10/18",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Clarke D.L. (ed.) 1972, Models in Archaeology, London, Methuen.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1972",
+   "title": "Models in Archaeology",
+   "publisher": "Methuen",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Clarke D.L. 1977, Spatial Archaeology, London, Methuen.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1977",
+   "title": "Spatial Archaeology",
+   "publisher": "Methuen",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Djindjian F. 1991, Méthodes pour l’Archéologie, Paris, Armand Colin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Méthodes pour l'Archéologie",
+   "publisher": "Armand Colin",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Djindjian F., Ducasse H. (eds.) 1987, Data Processing and Mathematics Applied to Archaeology, Ecole d’été Valbonne-Montpellier, Mathématiques et Informatique appliquées à l’Archéologie, «Pact», 16.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Ducasse",
+     "given": "H."
+    }
+   ],
+   "date": "1987",
+   "title": "Data Processing and Mathematics Applied to Archaeology, Ecole d'été Valbonne-Montpellier, Mathématiques et Informatique appliquées à l'Archéologie",
+   "series": "Pact",
+   "series_number": "16",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Djindjian F., Moscati P. (eds.) 2002, Proceedings of the Commission 4 Symposia, XIV UISPP Congress (Liège 2001), «Archeologia e Calcolatori», 13.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2002",
+   "title": "Proceedings of the Commission 4 Symposia, XIV UISPP Congress (Liège 2001)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "language": "eng",
+   "notes": "whole AeC volume 13 cited as proceedings",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Doran J.E., Hodson F.R. 1975, Mathematics and Computers in Archaeology, Edinburgh, Edinburgh University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    },
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    }
+   ],
+   "date": "1975",
+   "title": "Mathematics and Computers in Archaeology",
+   "publisher": "Edinburgh University Press",
+   "place": "Edinburgh",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Earle T.K., Ericson J.E. (eds.) 1977, Exchange Systems in Prehistory, New York, Academic Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Earle",
+     "given": "T.K."
+    },
+    {
+     "family": "Ericson",
+     "given": "J.E."
+    }
+   ],
+   "date": "1977",
+   "title": "Exchange Systems in Prehistory",
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Gardin J.-Cl. (ed.) 1970, Archéologie et calculateurs: problèmes sémiologiques et mathématiques, Paris, CNRS.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Gardin",
+     "given": "J.-Cl."
+    }
+   ],
+   "date": "1970",
+   "title": "Archéologie et calculateurs: problèmes sémiologiques et mathématiques",
+   "publisher": "CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Hassan F.A. 1981, Demographic Archaeology, New York, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hassan",
+     "given": "F.A."
+    }
+   ],
+   "date": "1981",
+   "title": "Demographic Archaeology",
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Hietala H. (ed.) 1984, Intrasite Spatial Analysis in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Hietala",
+     "given": "H."
+    }
+   ],
+   "date": "1984",
+   "title": "Intrasite Spatial Analysis in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Higgs E.S. 1975, Palaeoeconomy, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Higgs",
+     "given": "E.S."
+    }
+   ],
+   "date": "1975",
+   "title": "Palaeoeconomy",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Hodder I. (ed.) 1978, Simulation Studies in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1978",
+   "title": "Simulation Studies in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Hodder I., Orton C. 1976, Spatial Analysis in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    },
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "date": "1976",
+   "title": "Spatial Analysis in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Hodson F.R., Kendall D.G., Tautu P. (eds.) 1971, Mathematics in the Archaeological and Historical Sciences. Proceedings of the Anglo-Romanian Conference (Mamaia 1970), Edinburgh, Edinburgh University Press.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    },
+    {
+     "family": "Kendall",
+     "given": "D.G."
+    },
+    {
+     "family": "Tautu",
+     "given": "P."
+    }
+   ],
+   "date": "1971",
+   "title": "Mathematics in the Archaeological and Historical Sciences. Proceedings of the Anglo-Romanian Conference (Mamaia 1970)",
+   "publisher": "Edinburgh University Press",
+   "place": "Edinburgh",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Ihm P. 1978, Statistik in der Archäologie, Archaeophysica 9.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ihm",
+     "given": "P."
+    }
+   ],
+   "date": "1978",
+   "title": "Statistik in der Archäologie",
+   "series": "Archaeophysica",
+   "series_number": "9",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Jochim M.A. 1976, Hunter-Gatherer Subsistence: A Predictive Model, New York, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jochim",
+     "given": "M.A."
+    }
+   ],
+   "date": "1976",
+   "title": "Hunter-Gatherer Subsistence: A Predictive Model",
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Les Dossiers de l’Archéologie, 42, 1980.",
+   "type": "other",
+   "date": "1980",
+   "title": "Les Dossiers de l'Archéologie",
+   "volume": "42",
+   "language": "fre",
+   "notes": "whole journal issue cited without title",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Moscati P. 1987, Archeologia e Calcolatori, Firenze, Giunti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Archeologia e Calcolatori",
+   "publisher": "Giunti",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Mueller J.W. (ed.) 1975, Sampling in Archaeology, Tucson, The University of Arizona Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Mueller",
+     "given": "J.W."
+    }
+   ],
+   "date": "1975",
+   "title": "Sampling in Archaeology",
+   "publisher": "The University of Arizona Press",
+   "place": "Tucson",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Orton C. 1980, Mathematics in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "date": "1980",
+   "title": "Mathematics in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Renfrew C., Cooke K.L. (eds.) 1979, Transformations: Mathematical Approaches to Culture Change, New York, Academic Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Cooke",
+     "given": "K.L."
+    }
+   ],
+   "date": "1979",
+   "title": "Transformations: Mathematical Approaches to Culture Change",
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Sabloff J.A. (ed.) 1981, Simulations in Archaeology, Albuquerque, University of New Mexico Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Sabloff",
+     "given": "J.A."
+    }
+   ],
+   "date": "1981",
+   "title": "Simulations in Archaeology",
+   "publisher": "University of New Mexico Press",
+   "place": "Albuquerque",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Shennan S. 1988, Quantifying Archaeology, Edinburgh, Edinburgh University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Shennan",
+     "given": "S."
+    }
+   ],
+   "date": "1988",
+   "title": "Quantifying Archaeology",
+   "publisher": "Edinburgh University Press",
+   "place": "Edinburgh",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Voorrips A. (ed.) 1990, Mathematics and Information Science in Archaeology: A Flexible Framework, Studies in Modern Archaeology, 3, Bonn.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "Mathematics and Information Science in Archaeology: A Flexible Framework",
+   "series": "Studies in Modern Archaeology",
+   "series_number": "3",
+   "place": "Bonn",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Voorrips A., Loving S.H. (eds.) 1986, To Pattern the Past, «Pact», 11.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    },
+    {
+     "family": "Loving",
+     "given": "S.H."
+    }
+   ],
+   "date": "1986",
+   "title": "To Pattern the Past",
+   "series": "Pact",
+   "series_number": "11",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "World Archaeology 1982, Quantitative Methods in Archaeology.",
+   "type": "proceedings",
+   "date": "1982",
+   "title": "Quantitative Methods in Archaeology",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "language": "eng",
+   "notes": "thematic issue of World Archaeology cited as 'World Archaeology 1982'",
+   "confidence": "high"
+  }
+ ]
+}

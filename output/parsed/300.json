@@ -1,0 +1,544 @@
+{
+ "citing_aec_id": 300,
+ "source_file": "data/journal/11/300.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV. 1986, Débat. La publication en archéologie, «MEFRA», 98, 359-386.",
+   "type": "article",
+   "date": "1986",
+   "title": "Débat. La publication en archéologie",
+   "is_part_of": [
+    "MEFRA"
+   ],
+   "volume": "98",
+   "pages": "359-386",
+   "language": "fre",
+   "notes": "AA.VV."
+  },
+  {
+   "position": 2,
+   "raw": "AA.VV. 1990, Dibattito, «Quaderni di Archeologia del Veneto», 6, 273-282.",
+   "type": "article",
+   "date": "1990",
+   "title": "Dibattito",
+   "is_part_of": [
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "volume": "6",
+   "pages": "273-282",
+   "language": "ita",
+   "notes": "AA.VV."
+  },
+  {
+   "position": 3,
+   "raw": "ARCELIN P. 1996, Vers une édition multimédia en archéologie, «Archeologia e Calcolatori», 7, 1147-1156.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arcelin",
+     "given": "P."
+    }
+   ],
+   "date": "1996",
+   "title": "Vers une édition multimédia en archéologie",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "1147-1156",
+   "language": "fre"
+  },
+  {
+   "position": 4,
+   "raw": "CARANDINI A. 1991, Storie dalla Terra. Manuale dello scavo archeologico, Torino (ed. or. 1981, Bari).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    }
+   ],
+   "date": "1991",
+   "title": "Storie dalla Terra. Manuale dello scavo archeologico",
+   "place": "Torino",
+   "language": "ita",
+   "notes": "ed. or. 1981, Bari"
+  },
+  {
+   "position": 5,
+   "raw": "DOMANICO L., PASSONI A. 1996, Analisi statistiche dei reperti ceramici: il caso di Sorgenti della Nova, «Archeologia e Calcolatori», 7, 629-645.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Domanico",
+     "given": "L."
+    },
+    {
+     "family": "Passoni",
+     "given": "A."
+    }
+   ],
+   "date": "1996",
+   "title": "Analisi statistiche dei reperti ceramici: il caso di Sorgenti della Nova",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "629-645",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "GUIMIER-SORBETS A.M. 1996, Le traitement de l’information en archéologie. Archivage, publication et diffusion, «Archeologia e Calcolatori», 7, 985-995.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.M."
+    }
+   ],
+   "date": "1996",
+   "title": "Le traitement de l’information en archéologie. Archivage, publication et diffusion",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "985-995",
+   "language": "fre"
+  },
+  {
+   "position": 7,
+   "raw": "MANACORDA D., SAGUÌ L., ZANINI E. 1990, L’edizione degli scavi archeologici urbani nell’esperienza della “Crypta Balbi” a Roma, in R. FRANCOVICH, D. MANACORDA (edd.), Lo scavo archeologico: dalla diagnosi all’edizione, Firenze, All’Insegna del Giglio.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    },
+    {
+     "family": "Saguì",
+     "given": "L."
+    },
+    {
+     "family": "Zanini",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "1990",
+   "title": "L’edizione degli scavi archeologici urbani nell’esperienza della “Crypta Balbi” a Roma",
+   "is_part_of": [
+    "Lo scavo archeologico: dalla diagnosi all’edizione"
+   ],
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "MIARI M. 1987, La documentazione dei siti archeologici dei bacini del Fiora e dell’Albegna: criteri di classificazione e analisi dei modelli di insediamento dell’età del Bronzo, «Padusa», 23, 1-4, 113-145.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Miari",
+     "given": "M."
+    }
+   ],
+   "date": "1987",
+   "title": "La documentazione dei siti archeologici dei bacini del Fiora e dell’Albegna: criteri di classificazione e analisi dei modelli di insediamento dell’età del Bronzo",
+   "is_part_of": [
+    "Padusa"
+   ],
+   "volume": "23",
+   "issue": "1-4",
+   "pages": "113-145",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "NEGRONI CATACCHIO N. 1993 (ed.), Preistoria e Protostoria in Etruria. Notiziario 1993, Milano.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Negroni Catacchio",
+     "given": "N."
+    }
+   ],
+   "date": "1993",
+   "title": "Preistoria e Protostoria in Etruria. Notiziario 1993",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "NEGRONI CATACCHIO N., CARDOSA M., DOMANICO L., TENCONI L. 1988, Sorgenti della Nova (Farnese, VT): primi risultati dello scavo nel settore V sul versante meridionale, in N. NEGRONI CATACCHIO (ed.), Il museo di preistoria e protostoria della valle del fiume Fiora, Catalogo del Museo, Manciano, 170-180.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Negroni Catacchio",
+     "given": "N."
+    },
+    {
+     "family": "Cardosa",
+     "given": "M."
+    },
+    {
+     "family": "Domanico",
+     "given": "L."
+    },
+    {
+     "family": "Tenconi",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Negroni Catacchio",
+     "given": "N."
+    }
+   ],
+   "date": "1988",
+   "title": "Sorgenti della Nova (Farnese, VT): primi risultati dello scavo nel settore V sul versante meridionale",
+   "is_part_of": [
+    "Il museo di preistoria e protostoria della valle del fiume Fiora, Catalogo del Museo"
+   ],
+   "pages": "170-180",
+   "place": "Manciano",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "NEGRONI CATACCHIO N., CARDOSA M., MIARI M., PARMEGIANI N., POSCOLIERI M. 1998, Indagine archeologica ambientale sui bacini dei fiumi Fiora e Albegna (Etruria Meridionale) durante l’età pre e protostorica, in C. ALBORE LIVADIE, F. ORTOLANI (edd.), Il sistema uomo-ambiente tra passato e presente, Atti del II Seminario Internazionale, Centro Universitario Europeo per i Beni Culturali (Ravello 1994), Bari, Edipuglia, 171-180.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Negroni Catacchio",
+     "given": "N."
+    },
+    {
+     "family": "Cardosa",
+     "given": "M."
+    },
+    {
+     "family": "Miari",
+     "given": "M."
+    },
+    {
+     "family": "Parmegiani",
+     "given": "N."
+    },
+    {
+     "family": "Poscolieri",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Albore Livadie",
+     "given": "C."
+    },
+    {
+     "family": "Ortolani",
+     "given": "F."
+    }
+   ],
+   "date": "1998",
+   "title": "Indagine archeologica ambientale sui bacini dei fiumi Fiora e Albegna (Etruria Meridionale) durante l’età pre e protostorica",
+   "is_part_of": [
+    "Il sistema uomo-ambiente tra passato e presente, Atti del II Seminario Internazionale, Centro Universitario Europeo per i Beni Culturali (Ravello 1994)"
+   ],
+   "pages": "171-180",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "NEGRONI CATACCHIO N., PADULA M., MASSARI A., RAPOSSO B., SETTI B., TOSI M.L. 1996, Amberweb: progetto di un polo Internet sull’ambra, «Archeologia e Calcolatori», 7, 1011-1026.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Negroni Catacchio",
+     "given": "N."
+    },
+    {
+     "family": "Padula",
+     "given": "M."
+    },
+    {
+     "family": "Massari",
+     "given": "A."
+    },
+    {
+     "family": "Raposso",
+     "given": "B."
+    },
+    {
+     "family": "Setti",
+     "given": "B."
+    },
+    {
+     "family": "Tosi",
+     "given": "M.L."
+    }
+   ],
+   "date": "1996",
+   "title": "Amberweb: progetto di un polo Internet sull’ambra",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "1011-1026",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "NEGRONI CATACCHIO N., PARMEGIANI N., POSCOLIERI M. 1998, Analisi delle caratteristiche territoriali degli abitati pre-protostorici dell’Etruria meridionale, in AA.VV., 1st International Congress on “Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin” (Catania-Siracusa 1995), Palermo, Luxugraph, 245-259.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Negroni Catacchio",
+     "given": "N."
+    },
+    {
+     "family": "Parmegiani",
+     "given": "N."
+    },
+    {
+     "family": "Poscolieri",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Analisi delle caratteristiche territoriali degli abitati pre-protostorici dell’Etruria meridionale",
+   "is_part_of": [
+    "1st International Congress on “Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin” (Catania-Siracusa 1995)"
+   ],
+   "pages": "245-259",
+   "publisher": "Luxugraph",
+   "place": "Palermo",
+   "language": "ita",
+   "notes": "container cited as AA.VV."
+  },
+  {
+   "position": 14,
+   "raw": "PARMEGIANI N., POSCOLIERI M. 1992, Studio dell’assetto del territorio attuale e ricostruzione del medesimo nel periodo protostorico: abitato di Sorgenti della Nova (VT), «Geo-archeologia», 2, 133-155.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Parmegiani",
+     "given": "N."
+    },
+    {
+     "family": "Poscolieri",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Studio dell’assetto del territorio attuale e ricostruzione del medesimo nel periodo protostorico: abitato di Sorgenti della Nova (VT)",
+   "is_part_of": [
+    "Geo-archeologia"
+   ],
+   "volume": "2",
+   "pages": "133-155",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "PARMEGIANI N., POSCOLIERI M. 1993, Analisi quantitativa delle modificazioni dell’assetto geomorfologico del sito di Sorgenti della Nova, in N. NEGRONI CATACCHIO (ed.), Preistoria e Protostoria in Etruria. Atti del Primo Incontro di Studi (Saturnia-Farnese 1991), Milano, 337-344.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Parmegiani",
+     "given": "N."
+    },
+    {
+     "family": "Poscolieri",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Negroni Catacchio",
+     "given": "N."
+    }
+   ],
+   "date": "1993",
+   "title": "Analisi quantitativa delle modificazioni dell’assetto geomorfologico del sito di Sorgenti della Nova",
+   "is_part_of": [
+    "Preistoria e Protostoria in Etruria. Atti del Primo Incontro di Studi (Saturnia-Farnese 1991)"
+   ],
+   "pages": "337-344",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "PARMEGIANI N., POSCOLIERI M. 1995, Sorgenti della Nova: un’applicazione di elaborazione digitale per la ricostruzione del paesaggio degradato, in Sorgenti Nova 1995, 27-37.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Parmegiani",
+     "given": "N."
+    },
+    {
+     "family": "Poscolieri",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Negroni Catacchio",
+     "given": "N."
+    }
+   ],
+   "date": "1995",
+   "title": "Sorgenti della Nova: un’applicazione di elaborazione digitale per la ricostruzione del paesaggio degradato",
+   "is_part_of": [
+    "Sorgenti della Nova. L’abitato del Bronzo Finale"
+   ],
+   "pages": "27-37",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 22
+  },
+  {
+   "position": 17,
+   "raw": "PASSONI A. 1995, La Cluster Analysis nello studio della ceramica dell’abitato del Bronzo Finale di Sorgenti della Nova (Farnese, VT), in N. NEGRONI CATACCHIO (ed.), Preistoria e Protostoria in Etruria. Atti del Secondo Incontro di Studi (Farnese 1993), Milano, 261-263.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Passoni",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Negroni Catacchio",
+     "given": "N."
+    }
+   ],
+   "date": "1995",
+   "title": "La Cluster Analysis nello studio della ceramica dell’abitato del Bronzo Finale di Sorgenti della Nova (Farnese, VT)",
+   "is_part_of": [
+    "Preistoria e Protostoria in Etruria. Atti del Secondo Incontro di Studi (Farnese 1993)"
+   ],
+   "pages": "261-263",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "PASSONI A. 2000, Nuovi risultati di analisi statistica applicati ai materiali ceramici da Sorgenti della Nova (Farnese, VT), in N. NEGRONI CATACCHIO (ed.), Preistoria e Protostoria in Etruria. Atti del Quarto Incontro di Studi (Manciano-Montalto di Castro-Valentano 1997), Milano, 391-398.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Passoni",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Negroni Catacchio",
+     "given": "N."
+    }
+   ],
+   "date": "2000",
+   "title": "Nuovi risultati di analisi statistica applicati ai materiali ceramici da Sorgenti della Nova (Farnese, VT)",
+   "is_part_of": [
+    "Preistoria e Protostoria in Etruria. Atti del Quarto Incontro di Studi (Manciano-Montalto di Castro-Valentano 1997)"
+   ],
+   "pages": "391-398",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "RAPOSSO B., PASSONI A. 1998, Sorgenti della Nova. Analisi dei dati stratigrafici per una cronologia interna dell’abitato, in N. NEGRONI CATACCHIO (ed.), Preistoria e Protostoria in Etruria. Atti del Terzo Incontro di Studi (Farnese-Manciano 1995), Firenze, 99-107.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Raposso",
+     "given": "B."
+    },
+    {
+     "family": "Passoni",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Negroni Catacchio",
+     "given": "N."
+    }
+   ],
+   "date": "1998",
+   "title": "Sorgenti della Nova. Analisi dei dati stratigrafici per una cronologia interna dell’abitato",
+   "is_part_of": [
+    "Preistoria e Protostoria in Etruria. Atti del Terzo Incontro di Studi (Farnese-Manciano 1995)"
+   ],
+   "pages": "99-107",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 20,
+   "raw": "RICCI A. 1985, Settefinestre. Una villa schiavistica nell’Etruria romana, 2, Modena.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ricci",
+     "given": "A."
+    }
+   ],
+   "date": "1985",
+   "title": "Settefinestre. Una villa schiavistica nell’Etruria romana",
+   "volume": "2",
+   "place": "Modena",
+   "language": "ita"
+  },
+  {
+   "position": 21,
+   "raw": "Sorgenti Nova 1981 = N. NEGRONI CATACCHIO (ed.), Sorgenti della Nova. Una comunità protostorica e il suo territorio nell’Etruria meridionale, Catalogo della Mostra, Roma, CNR.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Negroni Catacchio",
+     "given": "N."
+    }
+   ],
+   "date": "1981",
+   "title": "Sorgenti della Nova. Una comunità protostorica e il suo territorio nell’Etruria meridionale, Catalogo della Mostra",
+   "publisher": "CNR",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "Sorgenti Nova 1995 = N. NEGRONI CATACCHIO (ed.), Sorgenti della Nova. L’abitato del Bronzo Finale, Origines, Istituto Italiano di Preistoria e Protostoria, Firenze.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Negroni Catacchio",
+     "given": "N."
+    }
+   ],
+   "date": "1995",
+   "title": "Sorgenti della Nova. L’abitato del Bronzo Finale",
+   "series": "Origines",
+   "publisher": "Istituto Italiano di Preistoria e Protostoria",
+   "place": "Firenze",
+   "language": "ita"
+  }
+ ]
+}

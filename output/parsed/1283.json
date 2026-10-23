@@ -1,0 +1,1726 @@
+{
+ "citing_aec_id": 1283,
+ "source_file": "data/journal/35/1283.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Arizza M. 2021, *Resti umani e ricerca archeologica: 'interferenze' e prospettive metodologiche*, in M. Arizza (ed.), *Trattamento e restituzione del Patrimonio culturale. Oggetti, resti umani, conoscenza, Atti dei Webinar 10-11 novembre 2020 e 21-22 aprile 2021*, Etica e Patrimonio culturale, 1, Roma, CNR Edizioni (https://doi.org/10.48220/eticaepatrimonioculturale-2021-1).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arizza",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Arizza",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "Resti umani e ricerca archeologica: 'interferenze' e prospettive metodologiche",
+   "is_part_of": [
+    "Trattamento e restituzione del Patrimonio culturale. Oggetti, resti umani, conoscenza, Atti dei Webinar 10-11 novembre 2020 e 21-22 aprile 2021"
+   ],
+   "series": "Etica e Patrimonio culturale",
+   "series_number": "1",
+   "publisher": "CNR Edizioni",
+   "place": "Roma",
+   "language": "ita",
+   "doi": "10.48220/eticaepatrimonioculturale-2021-1"
+  },
+  {
+   "position": 2,
+   "raw": "Arroyo-Bishop D., Lantada Zarzosa M.R. 1993, *Bibliografía sobre la aplicación de la informática en arqueología*, Cuadernos del Instituto Aragonés de Arqueología, 3, Teruel.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.R."
+    }
+   ],
+   "date": "1993",
+   "title": "Bibliografía sobre la aplicación de la informática en arqueología",
+   "series": "Cuadernos del Instituto Aragonés de Arqueología",
+   "series_number": "3",
+   "place": "Teruel",
+   "language": "spa"
+  },
+  {
+   "position": 3,
+   "raw": "Bagnasco Gianni G., Marzullo M., Garzulino A. 2017, *The last ten years of research at Tarquinia*, in S. Garagnani, A. Gaucci (eds.), *Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)*, «Archeologia e Calcolatori», 28.2, 211-221 (https://doi.org/10.19282/AC.28.2.2017.15).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bagnasco Gianni",
+     "given": "G."
+    },
+    {
+     "family": "Marzullo",
+     "given": "M."
+    },
+    {
+     "family": "Garzulino",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "The last ten years of research at Tarquinia",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "211-221",
+   "language": "eng",
+   "doi": "10.19282/AC.28.2.2017.15",
+   "cited_aec_id": 928
+  },
+  {
+   "position": 4,
+   "raw": "Baldoni V. (ed.) 2021, *From Pottery to Context. Archaeology and Virtual Modelling*, «Archeologia e Calcolatori», 32.2 (https://www.archcalc.cnr.it/journal/idyear.php?IDyear=2021-12-20).",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Baldoni",
+     "given": "V."
+    }
+   ],
+   "date": "2021",
+   "title": "From Pottery to Context. Archaeology and Virtual Modelling",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "32",
+   "issue": "2",
+   "language": "eng",
+   "uri": "https://www.archcalc.cnr.it/journal/idyear.php?IDyear=2021-12-20"
+  },
+  {
+   "position": 5,
+   "raw": "Betori A., Licordari F. (eds.) 2021, *Strada facendo. Il lungo viaggio del \"carro di Eretum\"*, Catalogo della mostra, Foligno, Il Formichiere.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Betori",
+     "given": "A."
+    },
+    {
+     "family": "Licordari",
+     "given": "F."
+    }
+   ],
+   "date": "2021",
+   "title": "Strada facendo. Il lungo viaggio del carro di Eretum",
+   "publisher": "Il Formichiere",
+   "place": "Foligno",
+   "language": "ita",
+   "notes": "Catalogo della mostra"
+  },
+  {
+   "position": 6,
+   "raw": "Binford L.R. 1971, *Mortuary practices: Their study and their potential*, in J.A. Brown (ed.), *Approaches to the Social Dimensions of Mortuary Practices*, «Memoirs of the Society for American Archaeology», 25, 1971, 6-29 (http://www.jstor.org/stable/25146709).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Binford",
+     "given": "L.R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brown",
+     "given": "J.A."
+    }
+   ],
+   "date": "1971",
+   "title": "Mortuary practices: Their study and their potential",
+   "is_part_of": [
+    "Approaches to the Social Dimensions of Mortuary Practices"
+   ],
+   "pages": "6-29",
+   "series": "Memoirs of the Society for American Archaeology",
+   "series_number": "25",
+   "language": "eng",
+   "uri": "http://www.jstor.org/stable/25146709"
+  },
+  {
+   "position": 7,
+   "raw": "Bonghi Jovino M. 2010, *The Tarquinia Project: A summary of 25 years of excavation*, «American Journal of Archaeology», 114, 161-180.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bonghi Jovino",
+     "given": "M."
+    }
+   ],
+   "date": "2010",
+   "title": "The Tarquinia Project: A summary of 25 years of excavation",
+   "is_part_of": [
+    "American Journal of Archaeology"
+   ],
+   "volume": "114",
+   "pages": "161-180",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Boschi F. 2022, *Archeologia funeraria e tecnologie digitali: la tomba del principe di Corinaldo dalla documentazione alla fruizione*, «Archeologia e Calcolatori», 33.2, 235-254 (https://doi.org/10.19282/ac.33.2.2022.13).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Boschi",
+     "given": "F."
+    }
+   ],
+   "date": "2022",
+   "title": "Archeologia funeraria e tecnologie digitali: la tomba del principe di Corinaldo dalla documentazione alla fruizione",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "33",
+   "issue": "2",
+   "pages": "235-254",
+   "language": "ita",
+   "doi": "10.19282/ac.33.2.2022.13",
+   "cited_aec_id": 1210
+  },
+  {
+   "position": 9,
+   "raw": "Cacciari I., Pocobelli G.F. 2021, *The contribution of Artificial Intelligence to aerial photointerpretation of archaeological sites: A comparison between traditional and Machine Learning methods*, «Archeologia e Calcolatori», 32.1, 81-98 (https://doi.org/10.19282/ac.32.1.2021.05).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cacciari",
+     "given": "I."
+    },
+    {
+     "family": "Pocobelli",
+     "given": "G.F."
+    }
+   ],
+   "date": "2021",
+   "title": "The contribution of Artificial Intelligence to aerial photointerpretation of archaeological sites: A comparison between traditional and Machine Learning methods",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "32",
+   "issue": "1",
+   "pages": "81-98",
+   "language": "eng",
+   "doi": "10.19282/ac.32.1.2021.05",
+   "cited_aec_id": 1128
+  },
+  {
+   "position": 10,
+   "raw": "Caravale A., Duran-Silva N., Grimau B., Moscati P., Rondelli B. 2023, *Developing a digital archaeology classification system using Natural Language Processing and Machine Learning techniques*, «Archeologia e Calcolatori», 34.2, 9-32 (https://doi.org/10.19282/ac.34.2.2023.01).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Duran-Silva",
+     "given": "N."
+    },
+    {
+     "family": "Grimau",
+     "given": "B."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Rondelli",
+     "given": "B."
+    }
+   ],
+   "date": "2023",
+   "title": "Developing a digital archaeology classification system using Natural Language Processing and Machine Learning techniques",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "34",
+   "issue": "2",
+   "pages": "9-32",
+   "language": "eng",
+   "doi": "10.19282/ac.34.2.2023.01",
+   "cited_aec_id": 1259
+  },
+  {
+   "position": 11,
+   "raw": "Caravale A., Moscati P. 2021, *La bibliografia di informatica archeologica nella cultura digitale degli anni Novanta*, 30 anni di informatica archeologica, 1, Firenze, Edizioni All'Insegna del Giglio (https://doi.org/10.19282/FA.4.2021).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "La bibliografia di informatica archeologica nella cultura digitale degli anni Novanta",
+   "series": "30 anni di informatica archeologica",
+   "series_number": "1",
+   "publisher": "Edizioni All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "doi": "10.19282/FA.4.2021"
+  },
+  {
+   "position": 12,
+   "raw": "Ceccarelli L. 2001, *Progetto Caere: dallo scavo al territorio. Una soluzione per la distribuzione dei dati tramite un GIS on-line*, «Archeologia e Calcolatori», 12, 105-121 (https://www.archcalc.cnr.it/indice/PDF12/06Ceccarelli.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ceccarelli",
+     "given": "L."
+    }
+   ],
+   "date": "2001",
+   "title": "Progetto Caere: dallo scavo al territorio. Una soluzione per la distribuzione dei dati tramite un GIS on-line",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "105-121",
+   "language": "ita",
+   "uri": "https://www.archcalc.cnr.it/indice/PDF12/06Ceccarelli.pdf",
+   "cited_aec_id": 318
+  },
+  {
+   "position": 13,
+   "raw": "Cerchiai L. 2022, *Pittura etrusca in 4D: il programma fac-simile*, «Annali di Archeologia e Storia antica», 29, 395-396.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cerchiai",
+     "given": "L."
+    }
+   ],
+   "date": "2022",
+   "title": "Pittura etrusca in 4D: il programma fac-simile",
+   "is_part_of": [
+    "Annali di Archeologia e Storia antica"
+   ],
+   "volume": "29",
+   "pages": "395-396",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "Chapman R., Kinnes I., Randsborg K. (eds.) 1981, *The Archaeology of Death*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Chapman",
+     "given": "R."
+    },
+    {
+     "family": "Kinnes",
+     "given": "I."
+    },
+    {
+     "family": "Randsborg",
+     "given": "K."
+    }
+   ],
+   "date": "1981",
+   "title": "The Archaeology of Death",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Chapman D., Providakis S., Rogers C. 2020, *BIM for the Underground – An enabler of trenchless construction*, «Underground Space», 5, 4, 354-361 (https://doi.org/10.1016/j.undsp.2019.08.001).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Chapman",
+     "given": "D."
+    },
+    {
+     "family": "Providakis",
+     "given": "S."
+    },
+    {
+     "family": "Rogers",
+     "given": "C."
+    }
+   ],
+   "date": "2020",
+   "title": "BIM for the Underground – An enabler of trenchless construction",
+   "is_part_of": [
+    "Underground Space"
+   ],
+   "volume": "5",
+   "issue": "4",
+   "pages": "354-361",
+   "language": "eng",
+   "doi": "10.1016/j.undsp.2019.08.001"
+  },
+  {
+   "position": 16,
+   "raw": "Ciotti F. 2023, *Introduzione. La galassia delle Digital Humanities*, in F. Ciotti (ed.), *Digital Humanities. Metodi, strumenti, saperi*, Roma, Carocci, 19-34.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ciotti",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ciotti",
+     "given": "F."
+    }
+   ],
+   "date": "2023",
+   "title": "Introduzione. La galassia delle Digital Humanities",
+   "is_part_of": [
+    "Digital Humanities. Metodi, strumenti, saperi"
+   ],
+   "pages": "19-34",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 17,
+   "raw": "Cristofani M. 1986, *Nuovi dati per la storia urbana di Caere*, «Bollettino d'Arte», 35-36, 1-24.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cristofani",
+     "given": "M."
+    }
+   ],
+   "date": "1986",
+   "title": "Nuovi dati per la storia urbana di Caere",
+   "is_part_of": [
+    "Bollettino d'Arte"
+   ],
+   "volume": "35-36",
+   "pages": "1-24",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "D'Andrea A. 1999, *Il GIS nella produzione delle carte dell'impatto archeologico: l'esempio di Pontecagnano*, «Archeologia e Calcolatori», 10, 227-237 (https://www.archcalc.cnr.it/indice/PDF10/10_16_D'Andrea.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "Il GIS nella produzione delle carte dell'impatto archeologico: l'esempio di Pontecagnano",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "227-237",
+   "language": "ita",
+   "uri": "https://www.archcalc.cnr.it/indice/PDF10/10_16_D'Andrea.pdf",
+   "cited_aec_id": 277
+  },
+  {
+   "position": 19,
+   "raw": "De Angelis F. 2005, *Charun. Una banca-dati per le urne etrusche*, con Appendice di M. Novelli, «Archeologia e Calcolatori», 16, 7-40 (https://www.archcalc.cnr.it/indice/PDF16/DEANGELIS7-40.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Angelis",
+     "given": "F."
+    }
+   ],
+   "date": "2005",
+   "title": "Charun. Una banca-dati per le urne etrusche",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "7-40",
+   "language": "ita",
+   "uri": "https://www.archcalc.cnr.it/indice/PDF16/DEANGELIS7-40.pdf",
+   "cited_aec_id": 401,
+   "notes": "cited \"con Appendice di M. Novelli\"; AeC metadata title carries the same appendix note"
+  },
+  {
+   "position": 20,
+   "raw": "De Angelis F. 2015, *Miti greci in tombe etrusche. Le urne cinerarie di Chiusi*, Monumenti Antichi dell'Accademia Nazionale dei Lincei, 73, Roma, Giorgio Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "De Angelis",
+     "given": "F."
+    }
+   ],
+   "date": "2015",
+   "title": "Miti greci in tombe etrusche. Le urne cinerarie di Chiusi",
+   "series": "Monumenti Antichi dell'Accademia Nazionale dei Lincei",
+   "series_number": "73",
+   "publisher": "Giorgio Bretschneider",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 21,
+   "raw": "Desantis P., Govi E., Nizzo V., Sassatelli G., Trocchi T. (eds.) 2023, *Spina etrusca. Un grande porto nel Mediterraneo*, Catalogo della mostra, Siena, ARA Edizioni.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Desantis",
+     "given": "P."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    },
+    {
+     "family": "Nizzo",
+     "given": "V."
+    },
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    },
+    {
+     "family": "Trocchi",
+     "given": "T."
+    }
+   ],
+   "date": "2023",
+   "title": "Spina etrusca. Un grande porto nel Mediterraneo",
+   "publisher": "ARA Edizioni",
+   "place": "Siena",
+   "language": "ita",
+   "notes": "Catalogo della mostra"
+  },
+  {
+   "position": 22,
+   "raw": "Djindjian F. 1985, *Seriation and toposeriation by Correspondance Analysis*, in A. Voorrips, S.H. Loving (eds.), *To Pattern the Past*, «PACT», 11, 119-136.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    },
+    {
+     "family": "Loving",
+     "given": "S.H."
+    }
+   ],
+   "date": "1985",
+   "title": "Seriation and toposeriation by Correspondance Analysis",
+   "is_part_of": [
+    "To Pattern the Past"
+   ],
+   "pages": "119-136",
+   "series": "PACT",
+   "series_number": "11",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Djindjian F. 2015, *A short history of the beginnings of mathematics in archaeology*, in J.A. Barceló, I. Bogdanovic (eds.), *Mathematics and Archaeology*, Boca Raton, CRC Press, 65-85.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Bogdanovic",
+     "given": "I."
+    }
+   ],
+   "date": "2015",
+   "title": "A short history of the beginnings of mathematics in archaeology",
+   "is_part_of": [
+    "Mathematics and Archaeology"
+   ],
+   "pages": "65-85",
+   "publisher": "CRC Press",
+   "place": "Boca Raton",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "Donnellan L. 2019, *Modeling the rise of the city: Early urban networks in Southern Italy*, «Frontiers in Digital Humanities», 6, 15 (https://doi.org/10.3389/fdigh.2019.00015).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Donnellan",
+     "given": "L."
+    }
+   ],
+   "date": "2019",
+   "title": "Modeling the rise of the city: Early urban networks in Southern Italy",
+   "is_part_of": [
+    "Frontiers in Digital Humanities"
+   ],
+   "volume": "6",
+   "pages": "15",
+   "language": "eng",
+   "doi": "10.3389/fdigh.2019.00015"
+  },
+  {
+   "position": 25,
+   "raw": "Doran J.E. 1970, *Systems theory, computer simulations and archaeology*, «World Archaeology», 1, 3, 289-298 (https://doi.org/10.1080/00438243.1970.9979448).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "date": "1970",
+   "title": "Systems theory, computer simulations and archaeology",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "1",
+   "issue": "3",
+   "pages": "289-298",
+   "language": "eng",
+   "doi": "10.1080/00438243.1970.9979448"
+  },
+  {
+   "position": 26,
+   "raw": "Doran J.E. 1971, *Computer analysis of data from La Tène cemetery at Münsingen-Rain*, in F.R. Hodson, D.G. Kendall, P. Tautu (eds.), *Mathematics in the Archaeological and Historical Sciences. Proceedings of the Anglo-Romanian Conference (Mamaia 1970)*, Edinburgh, Edinburgh University Press, 422-431.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    },
+    {
+     "family": "Kendall",
+     "given": "D.G."
+    },
+    {
+     "family": "Tautu",
+     "given": "P."
+    }
+   ],
+   "date": "1971",
+   "title": "Computer analysis of data from La Tène cemetery at Münsingen-Rain",
+   "is_part_of": [
+    "Mathematics in the Archaeological and Historical Sciences. Proceedings of the Anglo-Romanian Conference (Mamaia 1970)"
+   ],
+   "pages": "422-431",
+   "publisher": "Edinburgh University Press",
+   "place": "Edinburgh",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "Emiliozzi A., Moscati P., Santoro P. 2007, *The princely cart from Eretum*, in P. Moscati (ed.), *Virtual Museums and Archaeology. The Contribution of the Italian National Research Council*, «Archeologia e Calcolatori», Suppl. 1, 143-162 (https://www.archcalc.cnr.it/indice/Suppl_1/10_Emiliozzi.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Emiliozzi",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Santoro",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2007",
+   "title": "The princely cart from Eretum",
+   "is_part_of": [
+    "Virtual Museums and Archaeology. The Contribution of the Italian National Research Council",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 1",
+   "pages": "143-162",
+   "language": "eng",
+   "uri": "https://www.archcalc.cnr.it/indice/Suppl_1/10_Emiliozzi.pdf",
+   "cited_aec_id": 466
+  },
+  {
+   "position": 28,
+   "raw": "Fromageot-Laniepce V. 2012, *Construction et diffusion de bases de données partagées: l'expérience de la base des sépultures d'enfants dans l'antiquité*, in F. Giligny, L. Costa, F. Djindjian, P. Ciezar, B. Desachy (eds.), *Actes des 2èmes Journées d'Informatique et Archéologie de Paris – JIAP 2010*, «Archeologia e Calcolatori», Suppl. 3, 51-60 (https://www.archcalc.cnr.it/indice/Suppl_3/04-formageot.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fromageot-Laniepce",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giligny",
+     "given": "F."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Ciezar",
+     "given": "P."
+    },
+    {
+     "family": "Desachy",
+     "given": "B."
+    }
+   ],
+   "date": "2012",
+   "title": "Construction et diffusion de bases de données partagées: l'expérience de la base des sépultures d'enfants dans l'antiquité",
+   "is_part_of": [
+    "Actes des 2èmes Journées d'Informatique et Archéologie de Paris – JIAP 2010",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 3",
+   "pages": "51-60",
+   "language": "fre",
+   "uri": "https://www.archcalc.cnr.it/indice/Suppl_3/04-formageot.pdf",
+   "cited_aec_id": 632
+  },
+  {
+   "position": 29,
+   "raw": "Gallay A. 1973, *Formalisation des données archéologiques sur un chantier de fouilles: le site de Petit-Chasseur à Sion (Valais, Suisse)*, in *Actes du 8e Congrès International des Sciences Préhistoriques et Protohistoriques (Beograd 1971)*, Beograd, 85-88.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "date": "1973",
+   "title": "Formalisation des données archéologiques sur un chantier de fouilles: le site de Petit-Chasseur à Sion (Valais, Suisse)",
+   "is_part_of": [
+    "Actes du 8e Congrès International des Sciences Préhistoriques et Protohistoriques (Beograd 1971)"
+   ],
+   "pages": "85-88",
+   "place": "Beograd",
+   "language": "fre"
+  },
+  {
+   "position": 30,
+   "raw": "Gallay A. 1987, *L'ordinateur comme aide au raisonnement en archéologie. Un cas d'application: la nécropole du Petit Chasseur (Sion, Valais, Suisse)*, in F. Djindjian, H. Ducasse (eds.), *Data Processing and Mathematics Applied to Archaeology - Mathématiques et Informatique appliquées à l'archéologie*, «PACT», 16 [1992], 457-472.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Ducasse",
+     "given": "H."
+    }
+   ],
+   "date": "1987",
+   "title": "L'ordinateur comme aide au raisonnement en archéologie. Un cas d'application: la nécropole du Petit Chasseur (Sion, Valais, Suisse)",
+   "is_part_of": [
+    "Data Processing and Mathematics Applied to Archaeology - Mathématiques et Informatique appliquées à l'archéologie"
+   ],
+   "pages": "457-472",
+   "series": "PACT",
+   "series_number": "16",
+   "language": "fre",
+   "notes": "cited year 1987, volume of PACT [1992]"
+  },
+  {
+   "position": 31,
+   "raw": "Gaucci A. 2015, *Organizzazione degli spazi funerari a Spina e in area deltizia con particolare riguardo al periodo tardo-arcaico*, in G. Della Fina (ed.), *La delimitazione dello spazio funerario in Italia dalla protostoria all'età arcaica. Recinti, circoli, tumuli, Atti del XXII Convegno Internazionale di Studi sulla Storia e l'Archeologia dell'Etruria (Orvieto 2014)*, Annali della Fondazione per il Museo «Claudio Faina», 22, 113-170.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Della Fina",
+     "given": "G."
+    }
+   ],
+   "date": "2015",
+   "title": "Organizzazione degli spazi funerari a Spina e in area deltizia con particolare riguardo al periodo tardo-arcaico",
+   "is_part_of": [
+    "La delimitazione dello spazio funerario in Italia dalla protostoria all'età arcaica. Recinti, circoli, tumuli, Atti del XXII Convegno Internazionale di Studi sulla Storia e l'Archeologia dell'Etruria (Orvieto 2014)"
+   ],
+   "pages": "113-170",
+   "series": "Annali della Fondazione per il Museo Claudio Faina",
+   "series_number": "22",
+   "language": "ita"
+  },
+  {
+   "position": 32,
+   "raw": "Gaucci A. 2021, *Virtual Archaeology and the study of necropolises as a system: Methodology and practice in the case study of Numana (AN), Italy*, in Baldoni 2021, 27-34 (https://doi.org/10.19282/ac.32.2.2021.03).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Baldoni",
+     "given": "V."
+    }
+   ],
+   "date": "2021",
+   "title": "Virtual Archaeology and the study of necropolises as a system: Methodology and practice in the case study of Numana (AN), Italy",
+   "is_part_of": [
+    "From Pottery to Context. Archaeology and Virtual Modelling",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "32",
+   "issue": "2",
+   "pages": "27-34",
+   "language": "eng",
+   "doi": "10.19282/ac.32.2.2021.03",
+   "xref": 4,
+   "cited_aec_id": 1157
+  },
+  {
+   "position": 33,
+   "raw": "Gilotta F., Carafa V., Morpurgo G. et al. 2022, *Researches at the Monte Abatone necropolis (Cerveteri)*, «Archeologia e Calcolatori», 33.2, 135-152 (https://doi.org/10.19282/ac.33.2.2022.08).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gilotta",
+     "given": "F."
+    },
+    {
+     "family": "Carafa",
+     "given": "V."
+    },
+    {
+     "family": "Morpurgo",
+     "given": "G."
+    }
+   ],
+   "date": "2022",
+   "title": "Researches at the Monte Abatone necropolis (Cerveteri)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "33",
+   "issue": "2",
+   "pages": "135-152",
+   "language": "eng",
+   "doi": "10.19282/ac.33.2.2022.08",
+   "cited_aec_id": 1205,
+   "notes": "authors truncated with \"et al.\" in the citation"
+  },
+  {
+   "position": 34,
+   "raw": "Govi E. (ed.) 2021, *Birth. Archeologia dell'infanzia nell'Italia preromana*, Bologna, Bononia University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "date": "2021",
+   "title": "Birth. Archeologia dell'infanzia nell'Italia preromana",
+   "publisher": "Bononia University Press",
+   "place": "Bologna",
+   "language": "ita"
+  },
+  {
+   "position": 35,
+   "raw": "Guimier-Sorbets A.-M. 1999, *Des bases de données à la publication électronique: une intégration des données et des outils de recherche*, «Archeologia e Calcolatori», 10, 101-115 (https://www.archcalc.cnr.it/indice/PDF10/10_08_Guimier_Sorbets.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "date": "1999",
+   "title": "Des bases de données à la publication électronique: une intégration des données et des outils de recherche",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "101-115",
+   "language": "fre",
+   "uri": "https://www.archcalc.cnr.it/indice/PDF10/10_08_Guimier_Sorbets.pdf",
+   "cited_aec_id": 269
+  },
+  {
+   "position": 36,
+   "raw": "Hodder I. (ed.) 1978, *Simulation Studies in Archaeology*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1978",
+   "title": "Simulation Studies in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 37,
+   "raw": "Hodson F.R., Sneath P.A., Doran J.E. 1966, *Some experiments in the numerical analysis of archaeological data*, «Biometrika», 53, 3-4, 311-324 (https://doi.org/10.1093/biomet/53.3-4.311).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    },
+    {
+     "family": "Sneath",
+     "given": "P.A."
+    },
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "date": "1966",
+   "title": "Some experiments in the numerical analysis of archaeological data",
+   "is_part_of": [
+    "Biometrika"
+   ],
+   "volume": "53",
+   "issue": "3-4",
+   "pages": "311-324",
+   "language": "eng",
+   "doi": "10.1093/biomet/53.3-4.311"
+  },
+  {
+   "position": 38,
+   "raw": "Iacotucci F., Pellegrino C. 2010, *An user-friendly approach to GIS-application: An utility for the study of Etruscan cemetery of Pontecagnano (Italy)*, in F. Niccolucci, S. Hermon (eds.), *Beyond the Artifact. Digital Interpretation of the Past. Proceedings of CAA 2004 (Prato 2004)*, Budapest, Archaeolingua, 217-219.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Iacotucci",
+     "given": "F."
+    },
+    {
+     "family": "Pellegrino",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Hermon",
+     "given": "S."
+    }
+   ],
+   "date": "2010",
+   "title": "An user-friendly approach to GIS-application: An utility for the study of Etruscan cemetery of Pontecagnano (Italy)",
+   "is_part_of": [
+    "Beyond the Artifact. Digital Interpretation of the Past. Proceedings of CAA 2004 (Prato 2004)"
+   ],
+   "pages": "217-219",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "eng"
+  },
+  {
+   "position": 39,
+   "raw": "Ihm P. 2005, *A contribution to the history of seriation in archaeology*, in C. Weihs, W. Gaul (eds.), *Classification - The Ubiquitous Challenge. Proceedings of the 28th Annual Conference of the Gesellschaft für Klassifikation e.V. (Dortmund 2004)*, Berlin, Heidelberg, Springer (https://doi.org/10.1007/3-540-28084-7_34).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ihm",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Weihs",
+     "given": "C."
+    },
+    {
+     "family": "Gaul",
+     "given": "W."
+    }
+   ],
+   "date": "2005",
+   "title": "A contribution to the history of seriation in archaeology",
+   "is_part_of": [
+    "Classification - The Ubiquitous Challenge. Proceedings of the 28th Annual Conference of the Gesellschaft für Klassifikation e.V. (Dortmund 2004)"
+   ],
+   "publisher": "Springer",
+   "place": "Berlin, Heidelberg",
+   "language": "eng",
+   "doi": "10.1007/3-540-28084-7_34"
+  },
+  {
+   "position": 40,
+   "raw": "Jones J. 1979, *How to Record Graveyards*, London, Council for British Archaeology.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jones",
+     "given": "J."
+    }
+   ],
+   "date": "1979",
+   "title": "How to Record Graveyards",
+   "publisher": "Council for British Archaeology",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 41,
+   "raw": "Kemp B.J. 1982, *Automatic analysis of Predynastic cemeteries: A new method for an old problem*, «The Journal of Egyptian Archaeology», 68, 1, 5-15 (https://doi.org/10.1177/030751338206800102).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kemp",
+     "given": "B.J."
+    }
+   ],
+   "date": "1982",
+   "title": "Automatic analysis of Predynastic cemeteries: A new method for an old problem",
+   "is_part_of": [
+    "The Journal of Egyptian Archaeology"
+   ],
+   "volume": "68",
+   "issue": "1",
+   "pages": "5-15",
+   "language": "eng",
+   "doi": "10.1177/030751338206800102"
+  },
+  {
+   "position": 42,
+   "raw": "Latour B. 2005, *Reassembling the Social. An Introduction to Actor-Network-Theory*, Oxford, Oxford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Latour",
+     "given": "B."
+    }
+   ],
+   "date": "2005",
+   "title": "Reassembling the Social. An Introduction to Actor-Network-Theory",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 43,
+   "raw": "Leredde H. 1982, *Structuration de données. Un exemple autour de quelques plaques-boucles mérovingiennes*, in H. Ducasse (ed.), *Panorama 1981 des applications informatiques en archéologie*, Valbonne, APDCA, 73-87.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Leredde",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ducasse",
+     "given": "H."
+    }
+   ],
+   "date": "1982",
+   "title": "Structuration de données. Un exemple autour de quelques plaques-boucles mérovingiennes",
+   "is_part_of": [
+    "Panorama 1981 des applications informatiques en archéologie"
+   ],
+   "pages": "73-87",
+   "publisher": "APDCA",
+   "place": "Valbonne",
+   "language": "fre"
+  },
+  {
+   "position": 44,
+   "raw": "Materazzi F., Pacifici M., Santaga F.S. 2024, *From top to bottom. Multispectral Remote Sensing and data integration to rediscover Veii*, «FastiOnline», 577 (www.fastionline.org/docs/FOLDER-it-2024-577.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Materazzi",
+     "given": "F."
+    },
+    {
+     "family": "Pacifici",
+     "given": "M."
+    },
+    {
+     "family": "Santaga",
+     "given": "F.S."
+    }
+   ],
+   "date": "2024",
+   "title": "From top to bottom. Multispectral Remote Sensing and data integration to rediscover Veii",
+   "is_part_of": [
+    "FastiOnline"
+   ],
+   "issue": "577",
+   "language": "eng",
+   "uri": "www.fastionline.org/docs/FOLDER-it-2024-577.pdf"
+  },
+  {
+   "position": 45,
+   "raw": "Melandri G. 2011, *L'età del Ferro a Capua. Aspetti distintivi del contesto culturale e suo inquadramento nelle dinamiche di sviluppo dell'Italia protostorica*, BAR International Series 2265, Oxford, Archaeopress.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Melandri",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "L'età del Ferro a Capua. Aspetti distintivi del contesto culturale e suo inquadramento nelle dinamiche di sviluppo dell'Italia protostorica",
+   "series": "BAR International Series",
+   "series_number": "2265",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "ita"
+  },
+  {
+   "position": 46,
+   "raw": "Moscati P. 1994, *Un gruppo di urne etrusche di produzione volterrana: prospettive di analisi quantitativa*, in P. Moscati (ed.), *Choice, Representation and Structuring of Archaeological Information*, «Archeologia e Calcolatori», 5, 87-110.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1994",
+   "title": "Un gruppo di urne etrusche di produzione volterrana: prospettive di analisi quantitativa",
+   "is_part_of": [
+    "Choice, Representation and Structuring of Archaeological Information",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "5",
+   "pages": "87-110",
+   "language": "ita",
+   "cited_aec_id": 92
+  },
+  {
+   "position": 47,
+   "raw": "Moscati P. (ed.) 1998, *Methodological Trends and Future Perspectives in the Application of GIS in Archaeology*, «Archeologia e Calcolatori», 9 (https://www.archcalc.cnr.it/journal/idyear.php?IDyear=1998-01-01).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+   "is_part_of": [
+    "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "language": "eng",
+   "uri": "https://www.archcalc.cnr.it/journal/idyear.php?IDyear=1998-01-01"
+  },
+  {
+   "position": 48,
+   "raw": "Moscati P. 2002, *From an Etruscan town to modern technologies: New advancements in the \"Caere Project\"*, in F. Djindjian, P. Moscati (eds.), *XIV UISPP Congress (Liège-Belgium 2001). Proceedings of Commission IV Symposia. Data Management and Mathematical Methods in Archaeology*, «Archeologia e Calcolatori», 13, 135-149 (https://www.archcalc.cnr.it/indice/PDF13/08Moscati.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2002",
+   "title": "From an Etruscan town to modern technologies: New advancements in the \"Caere Project\"",
+   "is_part_of": [
+    "XIV UISPP Congress (Liège-Belgium 2001). Proceedings of Commission IV Symposia. Data Management and Mathematical Methods in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "pages": "135-149",
+   "language": "eng",
+   "uri": "https://www.archcalc.cnr.it/indice/PDF13/08Moscati.pdf",
+   "cited_aec_id": 339
+  },
+  {
+   "position": 49,
+   "raw": "Moscati P. 2021, *Digital archaeology: From interdisciplinarity to the 'fusion' of core competences. Towards the consolidation of new research areas*, «Magazén», 2, 2, 253-274 (https://doi.org/10.30687/mag/2724-3923/2021/04/004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "Digital archaeology: From interdisciplinarity to the 'fusion' of core competences. Towards the consolidation of new research areas",
+   "is_part_of": [
+    "Magazén"
+   ],
+   "volume": "2",
+   "issue": "2",
+   "pages": "253-274",
+   "language": "eng",
+   "doi": "10.30687/mag/2724-3923/2021/04/004"
+  },
+  {
+   "position": 50,
+   "raw": "Moscati P. 2023, *L'informatica archeologica nell'era postdigitale*, in F. Ciotti (ed.), *Digital Humanities. Metodi, strumenti, saperi*, Roma, Carocci, 282-298.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ciotti",
+     "given": "F."
+    }
+   ],
+   "date": "2023",
+   "title": "L'informatica archeologica nell'era postdigitale",
+   "is_part_of": [
+    "Digital Humanities. Metodi, strumenti, saperi"
+   ],
+   "pages": "282-298",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 16
+  },
+  {
+   "position": 51,
+   "raw": "Moscati P., Orlandi T. (eds.) 2019, *Il Museo virtuale dell'informatica archeologica. Una collaborazione tra l'Accademia Nazionale dei Lincei e il Consiglio Nazionale delle Ricerche. Atti della «Segnatura» (Roma 2017)*, «Rendiconti della Classe di Scienze morali, storiche e filologiche dell'Accademia Nazionale dei Lincei», 30, 39-156.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "2019",
+   "title": "Il Museo virtuale dell'informatica archeologica. Una collaborazione tra l'Accademia Nazionale dei Lincei e il Consiglio Nazionale delle Ricerche. Atti della \"Segnatura\" (Roma 2017)",
+   "is_part_of": [
+    "Rendiconti della Classe di Scienze morali, storiche e filologiche dell'Accademia Nazionale dei Lincei"
+   ],
+   "volume": "30",
+   "pages": "39-156",
+   "language": "ita"
+  },
+  {
+   "position": 52,
+   "raw": "Nista L., Natale M.T., Moscati P. 2010, *Linee guida per la redazione di siti web afferenti a Siti Unesco: il caso delle Necropoli di Cerveteri e Tarquinia*, «Ufficio Studi MiBACT, Newsletter», 4.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nista",
+     "given": "L."
+    },
+    {
+     "family": "Natale",
+     "given": "M.T."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2010",
+   "title": "Linee guida per la redazione di siti web afferenti a Siti Unesco: il caso delle Necropoli di Cerveteri e Tarquinia",
+   "is_part_of": [
+    "Ufficio Studi MiBACT, Newsletter"
+   ],
+   "issue": "4",
+   "language": "ita"
+  },
+  {
+   "position": 53,
+   "raw": "Nizzo V. 2018, *The social life cycle of bodies and things: ricomporre e ripensare la realtà rituale e quella sociale tra material engagement, enchainment e actor network theory*, in V. Nizzo (ed.), *Archeologia e antropologia della morte 2. Corpi, relazioni e azioni: il paesaggio del rito. Atti del 3° Incontro internazionale di studi (Roma 2015)*, Roma, ESS, 63-82.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nizzo",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Nizzo",
+     "given": "V."
+    }
+   ],
+   "date": "2018",
+   "title": "The social life cycle of bodies and things: ricomporre e ripensare la realtà rituale e quella sociale tra material engagement, enchainment e actor network theory",
+   "is_part_of": [
+    "Archeologia e antropologia della morte 2. Corpi, relazioni e azioni: il paesaggio del rito. Atti del 3° Incontro internazionale di studi (Roma 2015)"
+   ],
+   "pages": "63-82",
+   "publisher": "ESS",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 54,
+   "raw": "Pellegrino C., Rossi A. 2017, *Contemporary landscape and the archaeological record. An integrated approach to the study of the Etruscan-Samnite site of Pontecagnano (SA)*, in S. Garagnani, A. Gaucci (eds.), *Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)*, «Archeologia e Calcolatori», 28.2, 189-199 (https://doi.org/10.19282/AC.28.2.2017.13).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pellegrino",
+     "given": "C."
+    },
+    {
+     "family": "Rossi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Contemporary landscape and the archaeological record. An integrated approach to the study of the Etruscan-Samnite site of Pontecagnano (SA)",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "189-199",
+   "language": "eng",
+   "doi": "10.19282/AC.28.2.2017.13",
+   "cited_aec_id": 926
+  },
+  {
+   "position": 55,
+   "raw": "Piergrossi A., Tabolli J., Pacifici M. 2019, *Tempi funerari nella necropoli di Grotta Gramiccia: problematiche e potenzialità della seriazione dei contesti nel rapporto con l'ideologia funeraria della prima età del Ferro*, in M. Arizza (ed.), *Società e pratiche funerarie a Veio. Dalle origini alla conquista romana, Atti della giornata di studi (Roma 2018)*, Roma, Sapienza Università Editrice, 5-23 (https://doi.org/10.13133/9788893771122).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Piergrossi",
+     "given": "A."
+    },
+    {
+     "family": "Tabolli",
+     "given": "J."
+    },
+    {
+     "family": "Pacifici",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Arizza",
+     "given": "M."
+    }
+   ],
+   "date": "2019",
+   "title": "Tempi funerari nella necropoli di Grotta Gramiccia: problematiche e potenzialità della seriazione dei contesti nel rapporto con l'ideologia funeraria della prima età del Ferro",
+   "is_part_of": [
+    "Società e pratiche funerarie a Veio. Dalle origini alla conquista romana, Atti della giornata di studi (Roma 2018)"
+   ],
+   "pages": "5-23",
+   "publisher": "Sapienza Università Editrice",
+   "place": "Roma",
+   "language": "ita",
+   "doi": "10.13133/9788893771122"
+  },
+  {
+   "position": 56,
+   "raw": "Pietroni E. 2013, *Natural interaction in VR environments for cultural heritage: The virtual reconstruction of the Regolini-Galassi tomb in Cerveteri (with an Appendix by M. Sannibale and D. Pletinckx)*, «Archeologia e Calcolatori», 24, 231-247 (https://www.archcalc.cnr.it/indice/PDF24/11_Pietroni.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pietroni",
+     "given": "E."
+    }
+   ],
+   "date": "2013",
+   "title": "Natural interaction in VR environments for cultural heritage: The virtual reconstruction of the Regolini-Galassi tomb in Cerveteri (with an Appendix by M. Sannibale and D. Pletinckx)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "24",
+   "pages": "231-247",
+   "language": "eng",
+   "uri": "https://www.archcalc.cnr.it/indice/PDF24/11_Pietroni.pdf",
+   "cited_aec_id": 670
+  },
+  {
+   "position": 57,
+   "raw": "Russo Tagliente A., Sassatelli G. 2014, *Il viaggio oltre la vita: gli Etruschi e l'aldilà tra capolavori e realtà virtuale*, Catalogo della mostra, Bologna, Bononia University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Russo Tagliente",
+     "given": "A."
+    },
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    }
+   ],
+   "date": "2014",
+   "title": "Il viaggio oltre la vita: gli Etruschi e l'aldilà tra capolavori e realtà virtuale",
+   "publisher": "Bononia University Press",
+   "place": "Bologna",
+   "language": "ita",
+   "notes": "Catalogo della mostra"
+  },
+  {
+   "position": 58,
+   "raw": "Ryan N.S. 1988, *A bibliography of computer applications and quantitative methods in archaeology*, in S.P.Q. Rahtz (ed.), *Computer and Quantitative Methods in Archaeology 1988. CAA88*, BAR International Series 446, Oxford, Tempus Reparatum, 1-27.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ryan",
+     "given": "N.S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S.P.Q."
+    }
+   ],
+   "date": "1988",
+   "title": "A bibliography of computer applications and quantitative methods in archaeology",
+   "is_part_of": [
+    "Computer and Quantitative Methods in Archaeology 1988. CAA88"
+   ],
+   "pages": "1-27",
+   "series": "BAR International Series",
+   "series_number": "446",
+   "publisher": "Tempus Reparatum",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 59,
+   "raw": "Saxe A. 1970, *Social Dimensions of Mortuary Practices*, Dissertation, University of Michigan.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Saxe",
+     "given": "A."
+    }
+   ],
+   "date": "1970",
+   "title": "Social Dimensions of Mortuary Practices",
+   "publisher": "University of Michigan",
+   "language": "eng"
+  },
+  {
+   "position": 60,
+   "raw": "Semple S., Brookes S. 2020, *Necrogeography and necroscapes: Living with the dead*, «World Archaeology», 52, 1, 1-15 (https://doi.org/10.1080/00438243.2020.1779434).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Semple",
+     "given": "S."
+    },
+    {
+     "family": "Brookes",
+     "given": "S."
+    }
+   ],
+   "date": "2020",
+   "title": "Necrogeography and necroscapes: Living with the dead",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "52",
+   "issue": "1",
+   "pages": "1-15",
+   "language": "eng",
+   "doi": "10.1080/00438243.2020.1779434"
+  },
+  {
+   "position": 61,
+   "raw": "Signore O., Missikoff O., Moscati P. 2005, *La gestione della conoscenza in archeologia: modelli, linguaggi e strumenti di modellazione concettuale dall'XML al Semantic Web*, «Archeologia e Calcolatori», 16, 291-319 (https://www.archcalc.cnr.it/indice/PDF16/SIGNORE291-319.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Signore",
+     "given": "O."
+    },
+    {
+     "family": "Missikoff",
+     "given": "O."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2005",
+   "title": "La gestione della conoscenza in archeologia: modelli, linguaggi e strumenti di modellazione concettuale dall'XML al Semantic Web",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "291-319",
+   "language": "ita",
+   "uri": "https://www.archcalc.cnr.it/indice/PDF16/SIGNORE291-319.pdf",
+   "cited_aec_id": 415
+  },
+  {
+   "position": 62,
+   "raw": "Taccola E., Rosselli L., Albertini N., Martino M. 2021, *Etruscan hypogea in 3D: A proposal for an immersive and interactive visualization of Volterra's funerary contexts*, in Baldoni 2021, 135-152 (https://doi.org/10.19282/ac.32.2.2021.12).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Taccola",
+     "given": "E."
+    },
+    {
+     "family": "Rosselli",
+     "given": "L."
+    },
+    {
+     "family": "Albertini",
+     "given": "N."
+    },
+    {
+     "family": "Martino",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Baldoni",
+     "given": "V."
+    }
+   ],
+   "date": "2021",
+   "title": "Etruscan hypogea in 3D: A proposal for an immersive and interactive visualization of Volterra's funerary contexts",
+   "is_part_of": [
+    "From Pottery to Context. Archaeology and Virtual Modelling",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "32",
+   "issue": "2",
+   "pages": "135-152",
+   "language": "eng",
+   "doi": "10.19282/ac.32.2.2021.12",
+   "xref": 4,
+   "cited_aec_id": 1166
+  },
+  {
+   "position": 63,
+   "raw": "Tarlow S., Nilsson Stutz L. (eds.) 2013, *The Oxford Handbook of the Archaeology of Death and Burial*, Oxford, Oxford University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Tarlow",
+     "given": "S."
+    },
+    {
+     "family": "Nilsson Stutz",
+     "given": "L."
+    }
+   ],
+   "date": "2013",
+   "title": "The Oxford Handbook of the Archaeology of Death and Burial",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 64,
+   "raw": "von Graeve V., Helly B., Wolters C. 1974, *Stèles funéraires hellenistiques de Thessalie: essai pour constituer une banque de données*, in M. Borillo, J.-C. Gardin (eds.), *Banques de données archéologiques. Actes du Colloque (Marseille 1972)*, Paris, Éditions du CNRS, 253-262.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "von Graeve",
+     "given": "V."
+    },
+    {
+     "family": "Helly",
+     "given": "B."
+    },
+    {
+     "family": "Wolters",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Borillo",
+     "given": "M."
+    },
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1974",
+   "title": "Stèles funéraires hellenistiques de Thessalie: essai pour constituer une banque de données",
+   "is_part_of": [
+    "Banques de données archéologiques. Actes du Colloque (Marseille 1972)"
+   ],
+   "pages": "253-262",
+   "publisher": "Éditions du CNRS",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 65,
+   "raw": "Wilcock J.D. 1999, *Getting the Best Fit?*, in L. Dingwall, S. Exon, V. Gaffney, S. Laflin, M. van Leusen (eds.), *Archaeology in the Age of the Internet, CAA97, Proceedings of the 25th Anniversary Conference (Birmingham 1997)*, BAR International Series 750, Oxford, Archaeopress, 35-71 (https://proceedings.caaconference.org/paper/07_wilcock_caa_1997/).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wilcock",
+     "given": "J.D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "van Leusen",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Getting the Best Fit?",
+   "is_part_of": [
+    "Archaeology in the Age of the Internet, CAA97, Proceedings of the 25th Anniversary Conference (Birmingham 1997)"
+   ],
+   "pages": "35-71",
+   "series": "BAR International Series",
+   "series_number": "750",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "uri": "https://proceedings.caaconference.org/paper/07_wilcock_caa_1997/"
+  },
+  {
+   "position": 66,
+   "raw": "Williams H., Giles M. (eds.) 2016, *Archaeologists and the Dead: Mortuary Archaeology in Contemporary Society*, Oxford, Oxford University Press, 113-138.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Williams",
+     "given": "H."
+    },
+    {
+     "family": "Giles",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "Archaeologists and the Dead: Mortuary Archaeology in Contemporary Society",
+   "pages": "113-138",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "pages 113-138 as cited, although the entry is the edited volume"
+  }
+ ]
+}

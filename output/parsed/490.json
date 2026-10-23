@@ -1,0 +1,87 @@
+{
+ "citing_aec_id": 490,
+ "source_file": "data/journal/19/490.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Lesage N. 2006, Cours sur les normes géographiques, Marne la Vallée, ENSG.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Lesage",
+     "given": "N."
+    }
+   ],
+   "date": "2006",
+   "title": "Cours sur les normes géographiques",
+   "publisher": "ENSG",
+   "place": "Marne la Vallée",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Masser I. 2005, GIS Worlds. Creating Spatial Data Infrastructures, ESRI Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Masser",
+     "given": "I."
+    }
+   ],
+   "date": "2005",
+   "title": "GIS Worlds. Creating Spatial Data Infrastructures",
+   "publisher": "ESRI Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Minelli F., Pirot F. 2007, Méthodologie pour la localisation automatique des zones humides et des creux potentiels à partir d’une modélisation hydrologique sous Arc Info Workstation 9.1: Cas du Parc Naturel Régional des Caps et Marais d’Opale, in SIG 2007. Actes du Colloque francophone ESRI, (Versailles 2007).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Minelli",
+     "given": "F."
+    },
+    {
+     "family": "Pirot",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "Méthodologie pour la localisation automatique des zones humides et des creux potentiels à partir d'une modélisation hydrologique sous Arc Info Workstation 9.1: Cas du Parc Naturel Régional des Caps et Marais d'Opale",
+   "is_part_of": [
+    "SIG 2007. Actes du Colloque francophone ESRI (Versailles 2007)"
+   ],
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Pirot F., Saint Gerand Th., Varet-Vitu A. 2007, La modélisation des phénomènes linéaires. Des exemples en Sciences de l’Homme et de la Société, in SIG 2007. Actes du Colloque francophone ESRI (Versailles 2007).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pirot",
+     "given": "F."
+    },
+    {
+     "family": "Saint Gerand",
+     "given": "Th."
+    },
+    {
+     "family": "Varet-Vitu",
+     "given": "A."
+    }
+   ],
+   "date": "2007",
+   "title": "La modélisation des phénomènes linéaires. Des exemples en Sciences de l'Homme et de la Société",
+   "is_part_of": [
+    "SIG 2007. Actes du Colloque francophone ESRI (Versailles 2007)"
+   ],
+   "language": "fre",
+   "confidence": "high"
+  }
+ ]
+}

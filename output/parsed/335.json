@@ -1,0 +1,1226 @@
+{
+ "citing_aec_id": 335,
+ "source_file": "data/journal/13/335.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ADAMS R.MCC. 1982 (1966), La rivoluzione urbana. Mesopotamia antica e Messico preispanico, Torino, Loescher.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Adams",
+     "given": "R.McC."
+    }
+   ],
+   "date": "1982",
+   "title": "La rivoluzione urbana. Mesopotamia antica e Messico preispanico",
+   "publisher": "Loescher",
+   "place": "Torino",
+   "language": "ita",
+   "notes": "Italian translation; original ed. 1966 cited in parentheses"
+  },
+  {
+   "position": 2,
+   "raw": "BENDER B. 1978, From hunter-gatherer to farmer, a social perspective, «World Archaeology», 10, 204-222.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bender",
+     "given": "B."
+    }
+   ],
+   "date": "1978",
+   "title": "From hunter-gatherer to farmer, a social perspective",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "10",
+   "pages": "204-222",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "BENDER B. 1990, The dynamics of nonhierarchical societies, in UPHAM 1990, 247-263.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bender",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Upham",
+     "given": "S."
+    }
+   ],
+   "date": "1990",
+   "title": "The dynamics of nonhierarchical societies",
+   "is_part_of": [
+    "The Evolution of Political Systems. Sociopolitics in Small-Scale Sedentary Societies. Proceedings of the Advanced School of American Research Seminar (Santa Fe 1988)"
+   ],
+   "pages": "247-263",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "xref": 51
+  },
+  {
+   "position": 4,
+   "raw": "BRAIDWOOD R.J. 1960, Levels in prehistory, a model for the consideration of the evidence, in S. TAX (ed.), The Evolution of Man (Mind, Culture and Society), 2, Chicago, The University of Chicago Press, 143-152.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Braidwood",
+     "given": "R.J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Tax",
+     "given": "S."
+    }
+   ],
+   "date": "1960",
+   "title": "Levels in prehistory, a model for the consideration of the evidence",
+   "is_part_of": [
+    "The Evolution of Man (Mind, Culture and Society)"
+   ],
+   "volume": "2",
+   "pages": "143-152",
+   "publisher": "The University of Chicago Press",
+   "place": "Chicago",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "BRUN P. 1993, La complexification sociale en Europe moyenne pendant l’âge du Fer, essai de modélisation, in DAUBIGNEY 1993, 275-90.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brun",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Daubigney",
+     "given": "A."
+    }
+   ],
+   "date": "1993",
+   "title": "La complexification sociale en Europe moyenne pendant l'âge du Fer, essai de modélisation",
+   "is_part_of": [
+    "Fonctionnement social de l'âge du Fer. Opérateurs & hypothèses pour la France. Actes de la table ronde internationale (Lons-le-Saunier 1990)"
+   ],
+   "pages": "275-290",
+   "publisher": "Editions du C.N.R.S.",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 9
+  },
+  {
+   "position": 6,
+   "raw": "CHERRY J.F. 1984, The emergence of the State in the prehistoric Aegean, «Proceedings of the Cambridge Philosophical Society», 30, 18-48.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cherry",
+     "given": "J.F."
+    }
+   ],
+   "date": "1984",
+   "title": "The emergence of the State in the prehistoric Aegean",
+   "is_part_of": [
+    "Proceedings of the Cambridge Philosophical Society"
+   ],
+   "volume": "30",
+   "pages": "18-48",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "CHERRY J.F. 1986, Polities and palaces, some problems in Minoan state formation, in RENFREW, CHERRY 1986, 19-45.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cherry",
+     "given": "J.F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Cherry",
+     "given": "J.F."
+    }
+   ],
+   "date": "1986",
+   "title": "Polities and palaces, some problems in Minoan state formation",
+   "is_part_of": [
+    "Peer Polity Interaction and Sociopolitical Change"
+   ],
+   "pages": "19-45",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "xref": 41
+  },
+  {
+   "position": 8,
+   "raw": "D’ALTROY T., EARLE T.K. 1985, Staple finance, wealth finance, and storage in the Inca political economy, «Current Anthropology», 26, 187-206.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Altroy",
+     "given": "T."
+    },
+    {
+     "family": "Earle",
+     "given": "T.K."
+    }
+   ],
+   "date": "1985",
+   "title": "Staple finance, wealth finance, and storage in the Inca political economy",
+   "is_part_of": [
+    "Current Anthropology"
+   ],
+   "volume": "26",
+   "pages": "187-206",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "DAUBIGNEY A. (ed.) 1993, Fonctionnement social de l’âge du Fer. Opérateurs & hypothèses pour la France. Actes de la table ronde internationale (Lons-le-Saunier 1990), Paris, Editions du C.N.R.S.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Daubigney",
+     "given": "A."
+    }
+   ],
+   "date": "1993",
+   "title": "Fonctionnement social de l'âge du Fer. Opérateurs & hypothèses pour la France. Actes de la table ronde internationale (Lons-le-Saunier 1990)",
+   "publisher": "Editions du C.N.R.S.",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 10,
+   "raw": "DEMOULE J.-P. 1993, L’archéologie du pouvoir, oscillations et résistances dans l’Europe protohistorique, in DAUBIGNEY 1993, 259-274.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Demoule",
+     "given": "J.-P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Daubigney",
+     "given": "A."
+    }
+   ],
+   "date": "1993",
+   "title": "L'archéologie du pouvoir, oscillations et résistances dans l'Europe protohistorique",
+   "is_part_of": [
+    "Fonctionnement social de l'âge du Fer. Opérateurs & hypothèses pour la France. Actes de la table ronde internationale (Lons-le-Saunier 1990)"
+   ],
+   "pages": "259-274",
+   "publisher": "Editions du C.N.R.S.",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 9
+  },
+  {
+   "position": 11,
+   "raw": "DUNNELL R.C. 1981, Evolutionary theory in archaeology, in M.B. SCHIFFER (ed.), Advances in Archaeological Method and Theory, 4, Tucson, The University of Arizona Press, 120-189.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dunnell",
+     "given": "R.C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "date": "1981",
+   "title": "Evolutionary theory in archaeology",
+   "is_part_of": [
+    "Advances in Archaeological Method and Theory"
+   ],
+   "volume": "4",
+   "pages": "120-189",
+   "publisher": "The University of Arizona Press",
+   "place": "Tucson",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "EARLE T.K. 1990, Style and iconography as legitimation in complex chiefdoms, in M. CONKEY, C. HASTORF (eds.), The Uses of Style in Archaeology, Cambridge, Cambridge University Press, 73-81.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Earle",
+     "given": "T.K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Conkey",
+     "given": "M."
+    },
+    {
+     "family": "Hastorf",
+     "given": "C."
+    }
+   ],
+   "date": "1990",
+   "title": "Style and iconography as legitimation in complex chiefdoms",
+   "is_part_of": [
+    "The Uses of Style in Archaeology"
+   ],
+   "pages": "73-81",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "EARLE T.K. (ed.) 1991, Chiefdoms, Power, Economy and Ideology. Proceedings of the Advanced School of American Research Seminar (Santa Fe 1988), Cambridge, Cambridge University Press.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Earle",
+     "given": "T.K."
+    }
+   ],
+   "date": "1991",
+   "title": "Chiefdoms, Power, Economy and Ideology. Proceedings of the Advanced School of American Research Seminar (Santa Fe 1988)",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "EARLE T.K. 1994, Political domination and social evolution, in T. INGOLD (ed.), Companion Encyclopaedia of Anthropology, Culture and Social Life, London, Routledge, 940-961.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Earle",
+     "given": "T.K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ingold",
+     "given": "T."
+    }
+   ],
+   "date": "1994",
+   "title": "Political domination and social evolution",
+   "is_part_of": [
+    "Companion Encyclopaedia of Anthropology, Culture and Social Life"
+   ],
+   "pages": "940-961",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "FLANAGAN S.J. 1989, Hierarchy in simple egalitarian society, «Annual Review of Anthropology», 18, 245-266.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Flanagan",
+     "given": "S.J."
+    }
+   ],
+   "date": "1989",
+   "title": "Hierarchy in simple egalitarian society",
+   "is_part_of": [
+    "Annual Review of Anthropology"
+   ],
+   "volume": "18",
+   "pages": "245-266",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "FRANKESTEIN S., ROWLANDS M.J. 1978, The internal structure and regional context of Early Iron Age society in south-western Germany, «Bulletin of the Institute of Archaeology of London», 15, 73-112.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frankestein",
+     "given": "S."
+    },
+    {
+     "family": "Rowlands",
+     "given": "M.J."
+    }
+   ],
+   "date": "1978",
+   "title": "The internal structure and regional context of Early Iron Age society in south-western Germany",
+   "is_part_of": [
+    "Bulletin of the Institute of Archaeology of London"
+   ],
+   "volume": "15",
+   "pages": "73-112",
+   "language": "eng",
+   "notes": "first author spelled FRANKESTEIN in the citation"
+  },
+  {
+   "position": 17,
+   "raw": "FRIED M.H. 1967, The Evolution of Political Society. An Essay in Political Anthropology, New York, Random House.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fried",
+     "given": "M.H."
+    }
+   ],
+   "date": "1967",
+   "title": "The Evolution of Political Society. An Essay in Political Anthropology",
+   "publisher": "Random House",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "GILMAN A. 1995, Prehistoric European chiefdoms. Rethinking “Germanic” societies, in PRICE, FEINMAN 1995, 235-251.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gilman",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Price",
+     "given": "T.D."
+    },
+    {
+     "family": "Feinman",
+     "given": "G.M."
+    }
+   ],
+   "date": "1995",
+   "title": "Prehistoric European chiefdoms. Rethinking Germanic societies",
+   "is_part_of": [
+    "Foundations of Social Inequality"
+   ],
+   "pages": "235-251",
+   "publisher": "Plenum Press",
+   "place": "London, New York",
+   "language": "eng",
+   "xref": 40
+  },
+  {
+   "position": 19,
+   "raw": "GUIDI A., STODDART S. 1998, Preliminary remarks, in M. PEARCE, M. TOSI (eds.), Papers from the EAA Third Annual Meeting at Ravenna 1997, vol. I, Pre- and Protohistory, British Archaeological Reports I.S. 717, Oxford, 154-155.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guidi",
+     "given": "A."
+    },
+    {
+     "family": "Stoddart",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pearce",
+     "given": "M."
+    },
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Preliminary remarks",
+   "is_part_of": [
+    "Papers from the EAA Third Annual Meeting at Ravenna 1997, vol. I, Pre- and Protohistory"
+   ],
+   "pages": "154-155",
+   "series": "BAR International Series",
+   "series_number": "717",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "HAYDEN B. 1993, Archaeology. The Science of Once and Future Things, Chicago, The University of Chicago Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hayden",
+     "given": "B."
+    }
+   ],
+   "date": "1993",
+   "title": "Archaeology. The Science of Once and Future Things",
+   "publisher": "The University of Chicago Press",
+   "place": "Chicago",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "HAYDEN B. 1995, Pathways to power. Principles for creating socioeconomic inequalities, in PRICE, FEINMAN 1995, 15-86.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hayden",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Price",
+     "given": "T.D."
+    },
+    {
+     "family": "Feinman",
+     "given": "G.M."
+    }
+   ],
+   "date": "1995",
+   "title": "Pathways to power. Principles for creating socioeconomic inequalities",
+   "is_part_of": [
+    "Foundations of Social Inequality"
+   ],
+   "pages": "15-86",
+   "publisher": "Plenum Press",
+   "place": "London, New York",
+   "language": "eng",
+   "xref": 40
+  },
+  {
+   "position": 22,
+   "raw": "JOHNSON G.A. 1973, Local exchange and early State formation in southwestern Iran, University of Michigan Anthropological Papers, vol. 51, AnnArbor.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Johnson",
+     "given": "G.A."
+    }
+   ],
+   "date": "1973",
+   "title": "Local exchange and early State formation in southwestern Iran",
+   "series": "University of Michigan Anthropological Papers",
+   "series_number": "51",
+   "place": "Ann Arbor",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "JOHNSON A.V., EARLE T. 1987, The Evolution of Human Societies. From Foraging Group to Agrarian State, Stanford, Stanford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Johnson",
+     "given": "A.V."
+    },
+    {
+     "family": "Earle",
+     "given": "T."
+    }
+   ],
+   "date": "1987",
+   "title": "The Evolution of Human Societies. From Foraging Group to Agrarian State",
+   "publisher": "Stanford University Press",
+   "place": "Stanford",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "KOHL P.L. 1978, The balance of trade in southwestern Asia in the mid-third millennium B.C., «Current Anthropology», 19, 463-492.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kohl",
+     "given": "P.L."
+    }
+   ],
+   "date": "1978",
+   "title": "The balance of trade in southwestern Asia in the mid-third millennium B.C.",
+   "is_part_of": [
+    "Current Anthropology"
+   ],
+   "volume": "19",
+   "pages": "463-492",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "KOHL P.L. 1984, Force, history and the evolutionist paradigm, in SPRIGGS 1984, 127-134.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kohl",
+     "given": "P.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Spriggs",
+     "given": "M."
+    }
+   ],
+   "date": "1984",
+   "title": "Force, history and the evolutionist paradigm",
+   "is_part_of": [
+    "Marxist Perspectives in Archaeology"
+   ],
+   "pages": "127-134",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "xref": 47,
+   "notes": "short form \"SPRIGGS 1984\" refers to the entry dated 1994 in the list (year mismatch in the source)"
+  },
+  {
+   "position": 26,
+   "raw": "KOHL P.L. 1987, The use and abuse of World System Theory, the case of the pristine West Asian State, in M.B. SCHIFFER (ed.), Advances in Archaeological Method and Theory, 11, Tucson, The University of Arizona Press, 1-36.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kohl",
+     "given": "P.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "date": "1987",
+   "title": "The use and abuse of World System Theory, the case of the pristine West Asian State",
+   "is_part_of": [
+    "Advances in Archaeological Method and Theory"
+   ],
+   "volume": "11",
+   "pages": "1-36",
+   "publisher": "The University of Arizona Press",
+   "place": "Tucson",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "KOHL P.L. 1992, The Transcaucasian “periphery” in the Bronze Age. A preliminary formulation, in E.M. SCHORTMAN, P.A. URBAN (eds.), Resources, Power and Interregional Interaction, New York, London, Plenum Press.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kohl",
+     "given": "P.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Schortman",
+     "given": "E.M."
+    },
+    {
+     "family": "Urban",
+     "given": "P.A."
+    }
+   ],
+   "date": "1992",
+   "title": "The Transcaucasian \"periphery\" in the Bronze Age. A preliminary formulation",
+   "is_part_of": [
+    "Resources, Power and Interregional Interaction"
+   ],
+   "publisher": "Plenum Press",
+   "place": "New York, London",
+   "language": "eng"
+  },
+  {
+   "position": 28,
+   "raw": "KRISTIANSEN K. 1987, Centre and periphery in Bronze Age Scandinavia, in ROWLANDS et al. 1987, 74-85.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kristiansen",
+     "given": "K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rowlands",
+     "given": "M."
+    },
+    {
+     "family": "Larsen",
+     "given": "M."
+    },
+    {
+     "family": "Kristiansen",
+     "given": "K."
+    }
+   ],
+   "date": "1987",
+   "title": "Centre and periphery in Bronze Age Scandinavia",
+   "is_part_of": [
+    "Centre and Periphery in the Ancient World"
+   ],
+   "pages": "74-85",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "xref": 43
+  },
+  {
+   "position": 29,
+   "raw": "KRISTIANSEN K. 1989, The emergence of the European World System in the Bronze Age, divergence, convergence and social evolution during the first and second millennia B.C., in K. KRISTIANSEN, S. JENSEN (eds.), Europe in the First Millennium B.C., Sheffield, Sheffield University Press, 7-30.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kristiansen",
+     "given": "K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Kristiansen",
+     "given": "K."
+    },
+    {
+     "family": "Jensen",
+     "given": "S."
+    }
+   ],
+   "date": "1989",
+   "title": "The emergence of the European World System in the Bronze Age, divergence, convergence and social evolution during the first and second millennia B.C.",
+   "is_part_of": [
+    "Europe in the First Millennium B.C."
+   ],
+   "pages": "7-30",
+   "publisher": "Sheffield University Press",
+   "place": "Sheffield",
+   "language": "eng"
+  },
+  {
+   "position": 30,
+   "raw": "KRISTIANSEN K. 1991, Chiefdoms, states and systems of political evolution, in EARLE 1991, 16-43.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kristiansen",
+     "given": "K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Earle",
+     "given": "T.K."
+    }
+   ],
+   "date": "1991",
+   "title": "Chiefdoms, states and systems of political evolution",
+   "is_part_of": [
+    "Chiefdoms, Power, Economy and Ideology. Proceedings of the Advanced School of American Research Seminar (Santa Fe 1988)"
+   ],
+   "pages": "16-43",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "xref": 13
+  },
+  {
+   "position": 31,
+   "raw": "KRISTIANSEN K. 1998, Europe Before History, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kristiansen",
+     "given": "K."
+    }
+   ],
+   "date": "1998",
+   "title": "Europe Before History",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 32,
+   "raw": "LEE R.B. 1990, Primitive communism and the origin of social inequality, in UPHAM 1990, 225-46.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lee",
+     "given": "R.B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Upham",
+     "given": "S."
+    }
+   ],
+   "date": "1990",
+   "title": "Primitive communism and the origin of social inequality",
+   "is_part_of": [
+    "The Evolution of Political Systems. Sociopolitics in Small-Scale Sedentary Societies. Proceedings of the Advanced School of American Research Seminar (Santa Fe 1988)"
+   ],
+   "pages": "225-246",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "xref": 51
+  },
+  {
+   "position": 33,
+   "raw": "LULL V. 1983, La cultura de El Argar. Un modelo para el estudio de las formaciones economico-sociales prehistoricas, Madrid, Akal.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lull",
+     "given": "V."
+    }
+   ],
+   "date": "1983",
+   "title": "La cultura de El Argar. Un modelo para el estudio de las formaciones economico-sociales prehistoricas",
+   "publisher": "Akal",
+   "place": "Madrid",
+   "language": "spa"
+  },
+  {
+   "position": 34,
+   "raw": "MCGUIRE R.H. 1992, A Marxist Archaeology, San Diego, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "McGuire",
+     "given": "R.H."
+    }
+   ],
+   "date": "1992",
+   "title": "A Marxist Archaeology",
+   "publisher": "Academic Press",
+   "place": "San Diego",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "MCKAY M. 1988, The Origins of Hereditary Social Stratification. A Study Focusing on Early Prehistoric Europe and Modern Ethnographic Accounts, British Archaeological Reports I.S. 413, Oxford.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "McKay",
+     "given": "M."
+    }
+   ],
+   "date": "1988",
+   "title": "The Origins of Hereditary Social Stratification. A Study Focusing on Early Prehistoric Europe and Modern Ethnographic Accounts",
+   "series": "BAR International Series",
+   "series_number": "413",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 36,
+   "raw": "NOCETE CALVO F. 1989, El Espacio de la Coerción. La Transición al Estado en las Campiñas del Alto Guadalquivir (España), British Archaeological Reports I.S. 492, Oxford.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nocete Calvo",
+     "given": "F."
+    }
+   ],
+   "date": "1989",
+   "title": "El Espacio de la Coerción. La Transición al Estado en las Campiñas del Alto Guadalquivir (España)",
+   "series": "BAR International Series",
+   "series_number": "492",
+   "place": "Oxford",
+   "language": "spa"
+  },
+  {
+   "position": 37,
+   "raw": "NOCETE CALVO F. 1994, Space as coercion, the transition to the State in the social formations of La Campiña, upper Guadalquivir valley, «Journal of Anthropological Archaeology», 13, 172-200.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nocete Calvo",
+     "given": "F."
+    }
+   ],
+   "date": "1994",
+   "title": "Space as coercion, the transition to the State in the social formations of La Campiña, upper Guadalquivir valley",
+   "is_part_of": [
+    "Journal of Anthropological Archaeology"
+   ],
+   "volume": "13",
+   "pages": "172-200",
+   "language": "eng"
+  },
+  {
+   "position": 38,
+   "raw": "PAYNTER R. 1989, The archaeology of equality and inequality, «Annual Review of Anthropology», 18, 369-399.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Paynter",
+     "given": "R."
+    }
+   ],
+   "date": "1989",
+   "title": "The archaeology of equality and inequality",
+   "is_part_of": [
+    "Annual Review of Anthropology"
+   ],
+   "volume": "18",
+   "pages": "369-399",
+   "language": "eng"
+  },
+  {
+   "position": 39,
+   "raw": "PAYNTER R., MCGUIRE R.H. 1991, The archaeology of inequality, domination and resistance, in R. PAYNTER, R.H. MCGUIRE (eds.), The Archaeology of Inequality, Oxford, Cambridge (USA), Blackwell, 1-27.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Paynter",
+     "given": "R."
+    },
+    {
+     "family": "McGuire",
+     "given": "R.H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Paynter",
+     "given": "R."
+    },
+    {
+     "family": "McGuire",
+     "given": "R.H."
+    }
+   ],
+   "date": "1991",
+   "title": "The archaeology of inequality, domination and resistance",
+   "is_part_of": [
+    "The Archaeology of Inequality"
+   ],
+   "pages": "1-27",
+   "publisher": "Blackwell",
+   "place": "Oxford, Cambridge (USA)",
+   "language": "eng"
+  },
+  {
+   "position": 40,
+   "raw": "PRICE T.D., FEINMAN G.M. (eds.) 1995, Foundations of Social Inequality, London, New York, Plenum Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Price",
+     "given": "T.D."
+    },
+    {
+     "family": "Feinman",
+     "given": "G.M."
+    }
+   ],
+   "date": "1995",
+   "title": "Foundations of Social Inequality",
+   "publisher": "Plenum Press",
+   "place": "London, New York",
+   "language": "eng"
+  },
+  {
+   "position": 41,
+   "raw": "RENFREW C., CHERRY J.F. (eds.) 1986, Peer Polity Interaction and Sociopolitical Change, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Cherry",
+     "given": "J.F."
+    }
+   ],
+   "date": "1986",
+   "title": "Peer Polity Interaction and Sociopolitical Change",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 42,
+   "raw": "RINDOS D. 1989, Undirected variation and the Darwinian explanation of cultural change, in M.B. SCHIFFER (ed.), Advances in Archaeological Method and Theory, 1, Tucson, The University of Arizona Press, 1-46.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rindos",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "date": "1989",
+   "title": "Undirected variation and the Darwinian explanation of cultural change",
+   "is_part_of": [
+    "Advances in Archaeological Method and Theory"
+   ],
+   "volume": "1",
+   "pages": "1-46",
+   "publisher": "The University of Arizona Press",
+   "place": "Tucson",
+   "language": "eng"
+  },
+  {
+   "position": 43,
+   "raw": "ROWLANDS M., LARSEN M., KRISTIANSEN K. (eds.) 1987, Centre and Periphery in the Ancient World, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Rowlands",
+     "given": "M."
+    },
+    {
+     "family": "Larsen",
+     "given": "M."
+    },
+    {
+     "family": "Kristiansen",
+     "given": "K."
+    }
+   ],
+   "date": "1987",
+   "title": "Centre and Periphery in the Ancient World",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 44,
+   "raw": "SERVICE E.R. 1983 (1962), L’organizzazione sociale primitiva, Torino, Loescher.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Service",
+     "given": "E.R."
+    }
+   ],
+   "date": "1983",
+   "title": "L'organizzazione sociale primitiva",
+   "publisher": "Loescher",
+   "place": "Torino",
+   "language": "ita",
+   "notes": "Italian translation; original ed. 1962 cited in parentheses"
+  },
+  {
+   "position": 45,
+   "raw": "SHERRATT A. 1993, What would a Bronze Age World System look like? Relations between temperate Europe and the Mediterranean in later prehistory, «Journal of European Archaeology», 1, 1-58.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sherratt",
+     "given": "A."
+    }
+   ],
+   "date": "1993",
+   "title": "What would a Bronze Age World System look like? Relations between temperate Europe and the Mediterranean in later prehistory",
+   "is_part_of": [
+    "Journal of European Archaeology"
+   ],
+   "volume": "1",
+   "pages": "1-58",
+   "language": "eng"
+  },
+  {
+   "position": 46,
+   "raw": "SPENCER C.S. 1990, On the tempo and mode of State formation: neo-evolutionism reconsidered, «Journal of Anthropological Archaeology», 9, 1-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Spencer",
+     "given": "C.S."
+    }
+   ],
+   "date": "1990",
+   "title": "On the tempo and mode of State formation: neo-evolutionism reconsidered",
+   "is_part_of": [
+    "Journal of Anthropological Archaeology"
+   ],
+   "volume": "9",
+   "pages": "1-30",
+   "language": "eng"
+  },
+  {
+   "position": 47,
+   "raw": "SPRIGGS M. (ed.) 1994, Marxist Perspectives in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Spriggs",
+     "given": "M."
+    }
+   ],
+   "date": "1994",
+   "title": "Marxist Perspectives in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 48,
+   "raw": "TAINTER J.A. 1988, The Collapse of Complex Societies, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tainter",
+     "given": "J.A."
+    }
+   ],
+   "date": "1988",
+   "title": "The Collapse of Complex Societies",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 49,
+   "raw": "TOSI M. 1994, The egalitarian foundations of steppe empires, in B. GENITO (ed.), The Archaeology of the Steppes. Methods and Strategy. Papers from the International Symposium (Naples 1992), Napoli, Istituto Universitario Orientale, 651-666.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Genito",
+     "given": "B."
+    }
+   ],
+   "date": "1994",
+   "title": "The egalitarian foundations of steppe empires",
+   "is_part_of": [
+    "The Archaeology of the Steppes. Methods and Strategy. Papers from the International Symposium (Naples 1992)"
+   ],
+   "pages": "651-666",
+   "publisher": "Istituto Universitario Orientale",
+   "place": "Napoli",
+   "language": "eng"
+  },
+  {
+   "position": 50,
+   "raw": "TOSI M. in press, Introducción, paper presented at the II Reunión International sobre los origenes de la Civilización en la Europa Mediterránea (Baeza 1995).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Introducción",
+   "language": "spa",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "paper presented at the II Reunión Internacional sobre los orígenes de la Civilización en la Europa Mediterránea (Baeza 1995); searched author + title: no publication found"
+  },
+  {
+   "position": 51,
+   "raw": "UPHAM S. (ed.) 1990, The Evolution of Political Systems. Sociopolitics in Small-Scale Sedentary Societies. Proceedings of the Advanced School of American Research Seminar (Santa Fe 1988), Cambridge, Cambridge University Press.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Upham",
+     "given": "S."
+    }
+   ],
+   "date": "1990",
+   "title": "The Evolution of Political Systems. Sociopolitics in Small-Scale Sedentary Societies. Proceedings of the Advanced School of American Research Seminar (Santa Fe 1988)",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 52,
+   "raw": "WALLERSTEIN I. 1974, The Modern World System, Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century, New York, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wallerstein",
+     "given": "I."
+    }
+   ],
+   "date": "1974",
+   "title": "The Modern World System, Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century",
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 53,
+   "raw": "WEBSTER G.S. 1990, Labour control and emergent stratification in prehistoric Europe, «Current Anthropology», 31, 337-366.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Webster",
+     "given": "G.S."
+    }
+   ],
+   "date": "1990",
+   "title": "Labour control and emergent stratification in prehistoric Europe",
+   "is_part_of": [
+    "Current Anthropology"
+   ],
+   "volume": "31",
+   "pages": "337-366",
+   "language": "eng"
+  },
+  {
+   "position": 54,
+   "raw": "YOFFEE N. 1993, Too many chiefs? (or, safe texts for the ’90s), in N. YOFFEE, A. SHERRATT (eds.), Archaeological Theory, Who Sets the Agenda?, Cambridge, Cambridge University Press, 60-78.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Yoffee",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Yoffee",
+     "given": "N."
+    },
+    {
+     "family": "Sherratt",
+     "given": "A."
+    }
+   ],
+   "date": "1993",
+   "title": "Too many chiefs? (or, safe texts for the '90s)",
+   "is_part_of": [
+    "Archaeological Theory, Who Sets the Agenda?"
+   ],
+   "pages": "60-78",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  }
+ ]
+}

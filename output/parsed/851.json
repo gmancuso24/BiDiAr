@@ -1,0 +1,1103 @@
+{
+ "citing_aec_id": 851,
+ "source_file": "data/journal/27/851.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Addison A., Santana Quintero M., Severo M. 2008, *Cultural heritage repositories: Digital archives for conservation and management*, in M. Zambelli, A.H. Janowiak, H. Neuckermans (eds.), *Browsing Architecture: Metadata and Beyond*, Stuttgart, Fraunhofer IRB, 306-317.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Addison",
+     "given": "A."
+    },
+    {
+     "family": "Santana Quintero",
+     "given": "M."
+    },
+    {
+     "family": "Severo",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Zambelli",
+     "given": "M."
+    },
+    {
+     "family": "Janowiak",
+     "given": "A.H."
+    },
+    {
+     "family": "Neuckermans",
+     "given": "H."
+    }
+   ],
+   "date": "2008",
+   "title": "Cultural heritage repositories: Digital archives for conservation and management",
+   "is_part_of": [
+    "Browsing Architecture: Metadata and Beyond"
+   ],
+   "pages": "306-317",
+   "publisher": "Fraunhofer IRB",
+   "place": "Stuttgart",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Andrén A. 1940, *Architectural Terracottas from Etrusco-Italic Temples*, 1. Text, Lund, H. Ohlsson.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Andrén",
+     "given": "A."
+    }
+   ],
+   "date": "1940",
+   "title": "Architectural Terracottas from Etrusco-Italic Temples, 1. Text",
+   "publisher": "H. Ohlsson",
+   "place": "Lund",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Baronio P. 2012, *Un architetto per il tempio di Tina a Marzabotto. Studio dell'antico procedimento geometrico-proporzionale utilizzato nel progetto del tempio urbano della città etrusca di Kainua*, «Ocnus», 20, 9-32.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baronio",
+     "given": "P."
+    }
+   ],
+   "date": "2012",
+   "title": "Un architetto per il tempio di Tina a Marzabotto. Studio dell'antico procedimento geometrico-proporzionale utilizzato nel progetto del tempio urbano della città etrusca di Kainua",
+   "is_part_of": [
+    "Ocnus"
+   ],
+   "volume": "20",
+   "pages": "9-32",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bonghi Jovino M. 2012a, *Tempio II*, in M. Bonghi Jovino, G. Bagnasco Gianni (eds.), *Tarquinia. Il santuario dell'Ara della Regina. I templi arcaici*, Roma, L'Erma di Bretschneider, 33-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bonghi Jovino",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bonghi Jovino",
+     "given": "M."
+    },
+    {
+     "family": "Bagnasco Gianni",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "Tempio II",
+   "is_part_of": [
+    "Tarquinia. Il santuario dell'Ara della Regina. I templi arcaici"
+   ],
+   "pages": "33-40",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bonghi Jovino M. 2012b, *Alle origini del processo di strutturazione del tempio etrusco. La presenza del podio*, «Studi Etruschi», 75, 3-8.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bonghi Jovino",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Alle origini del processo di strutturazione del tempio etrusco. La presenza del podio",
+   "is_part_of": [
+    "Studi Etruschi"
+   ],
+   "volume": "75",
+   "pages": "3-8",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Chiesa F., Binda B. 2009, *Una possibile ricostruzione dei tetti arcaici*, in M. Bonghi Jovino, F. Chiesa (eds.), *L'Ara della Regina di Tarquinia. Aree sacre. Santuari mediterranei*, Milano, Cisalpino, 65-91.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Chiesa",
+     "given": "F."
+    },
+    {
+     "family": "Binda",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bonghi Jovino",
+     "given": "M."
+    },
+    {
+     "family": "Chiesa",
+     "given": "F."
+    }
+   ],
+   "date": "2009",
+   "title": "Una possibile ricostruzione dei tetti arcaici",
+   "is_part_of": [
+    "L'Ara della Regina di Tarquinia. Aree sacre. Santuari mediterranei"
+   ],
+   "pages": "65-91",
+   "publisher": "Cisalpino",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Cifani G. 2008, *Architettura romana arcaica. Edilizia e società tra Monarchia e Repubblica*, Roma, L'Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cifani",
+     "given": "G."
+    }
+   ],
+   "date": "2008",
+   "title": "Architettura romana arcaica. Edilizia e società tra Monarchia e Repubblica",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Colonna G. 1986, *Urbanistica e architettura*, in *Rasenna. Storia e civiltà degli Etruschi*, Milano, Garzanti Scheiwiller, 371-530.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Colonna",
+     "given": "G."
+    }
+   ],
+   "date": "1986",
+   "title": "Urbanistica e architettura",
+   "is_part_of": [
+    "Rasenna. Storia e civiltà degli Etruschi"
+   ],
+   "pages": "371-530",
+   "publisher": "Garzanti Scheiwiller",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Colonna G. 1988-1989, *Gli oggetti lignei in Pyrgi*, «Notizie degli Scavi di Antichità», 42-43, Suppl. II, 111-121.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Colonna",
+     "given": "G."
+    }
+   ],
+   "date": "1988",
+   "title": "Gli oggetti lignei in Pyrgi",
+   "is_part_of": [
+    "Notizie degli Scavi di Antichità"
+   ],
+   "volume": "42-43, Suppl. II",
+   "pages": "111-121",
+   "language": "ita",
+   "notes": "cited as 1988-1989; first year kept",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Colonna G. 2006, *Sacred architecture and the religion of the Etruscans*, in N.T. De Grummond, E. Simon (eds.), *The Religion of the Etruscans*, Austin, University of Texas Press, 132-168.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Colonna",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Grummond",
+     "given": "N.T."
+    },
+    {
+     "family": "Simon",
+     "given": "E."
+    }
+   ],
+   "date": "2006",
+   "title": "Sacred architecture and the religion of the Etruscans",
+   "is_part_of": [
+    "The Religion of the Etruscans"
+   ],
+   "pages": "132-168",
+   "publisher": "University of Texas Press",
+   "place": "Austin",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Colonna G. 2008, *L'officina veiente: Vulca e gli altri maestri di statuaria arcaica in terracotta*, in M. Torelli, A.M. Moretti Sgubini (eds.), *Etruschi. Le antiche metropoli del Lazio, Catalogo della mostra*, Milano, Electa, 53-63.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Colonna",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Torelli",
+     "given": "M."
+    },
+    {
+     "family": "Moretti Sgubini",
+     "given": "A.M."
+    }
+   ],
+   "date": "2008",
+   "title": "L'officina veiente: Vulca e gli altri maestri di statuaria arcaica in terracotta",
+   "is_part_of": [
+    "Etruschi. Le antiche metropoli del Lazio, Catalogo della mostra"
+   ],
+   "pages": "53-63",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Dore C., Murphy M. 2012, *Integration of HBIM and 3D GIS for Digital Heritage Modelling*, in *Digital Documentation International Conference (Edinburgh 2012)* (http://arrow.dit.ie/beschreccon/71/).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dore",
+     "given": "C."
+    },
+    {
+     "family": "Murphy",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Integration of HBIM and 3D GIS for Digital Heritage Modelling",
+   "is_part_of": [
+    "Digital Documentation International Conference (Edinburgh 2012)"
+   ],
+   "uri": "http://arrow.dit.ie/beschreccon/71/",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Eastman C., Teicholz P., Sacks R., Liston K. 2008, *BIM Handbook. A Guide to Building Information Modeling for Owners, Managers, Designers, Engineers, and Contractors*, Hoboken, John Wiley & Sons.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Eastman",
+     "given": "C."
+    },
+    {
+     "family": "Teicholz",
+     "given": "P."
+    },
+    {
+     "family": "Sacks",
+     "given": "R."
+    },
+    {
+     "family": "Liston",
+     "given": "K."
+    }
+   ],
+   "date": "2008",
+   "title": "BIM Handbook. A Guide to Building Information Modeling for Owners, Managers, Designers, Engineers, and Contractors",
+   "publisher": "John Wiley & Sons",
+   "place": "Hoboken",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Fai S., Duckworth T., Graham K., Wood N. 2011, *Building Information Modelling and the conservation of modern heritage*, in *The 24th World Congress of Architecture*, Tokyo, Union Internationale des Architectes (UIA).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fai",
+     "given": "S."
+    },
+    {
+     "family": "Duckworth",
+     "given": "T."
+    },
+    {
+     "family": "Graham",
+     "given": "K."
+    },
+    {
+     "family": "Wood",
+     "given": "N."
+    }
+   ],
+   "date": "2011",
+   "title": "Building Information Modelling and the conservation of modern heritage",
+   "is_part_of": [
+    "The 24th World Congress of Architecture"
+   ],
+   "publisher": "Union Internationale des Architectes (UIA)",
+   "place": "Tokyo",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Garagnani S. 2015, *Semantic representation of accurate surveys for the cultural heritage: BIM applied to the existing domain*, in S. Brusaporci (ed.), *Emerging Digital Tools for Architectural Surveying, Modeling, and Representation*, Hershey, IGI Global.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brusaporci",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "Semantic representation of accurate surveys for the cultural heritage: BIM applied to the existing domain",
+   "is_part_of": [
+    "Emerging Digital Tools for Architectural Surveying, Modeling, and Representation"
+   ],
+   "publisher": "IGI Global",
+   "place": "Hershey",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Garagnani S., Gaucci A., Gruška B. c.s., *From the archaeological record to ArchaeoBIM. The case study of the Etruscan temple of Uni in Marzabotto*, «Virtual Archaeology Review», in corso di stampa.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Gruška",
+     "given": "B."
+    }
+   ],
+   "date": "2016",
+   "title": "From the archaeological record to ArchaeoBIM: the case study of the Etruscan temple of Uni in Marzabotto",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "volume": "7",
+   "issue": "15",
+   "pages": "77-86",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://doaj.org/article/abc1f03f42c0459d982184f4b08397d7"
+   },
+   "notes": "c.s. resolved: Virtual Archaeology Review 7(15), Nov 2016, pp. 77-86 (DOAJ); same title, authors, journal",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Gaucci A. c.s., *Nuovi studi sull'\"isolato Mansuelli\" di Marzabotto (Regio IV, Insula 1)*, «Annali Faina», 23, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Nuovi studi sull'\"isolato Mansuelli\" di Marzabotto (Regio IV, Insula 1)",
+   "is_part_of": [
+    "Dalla capanna al palazzo. Edilizia abitativa nell'Italia preromana",
+    "Annali Faina"
+   ],
+   "volume": "23",
+   "pages": "243-299",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "cs": {
+    "status": "resolved",
+    "source": "https://www.unibo.it/sitoweb/andrea.gaucci3/pubblicazioni?page=8"
+   },
+   "notes": "c.s. resolved: published 2016 in Annali Faina 23 (proceedings Orvieto 2015, 'Dalla capanna al palazzo'), pp. 243-299 (UniBo staff page); same title and author",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Gaucci A., Garagnani S., Manferdini A.M. 2015, *Reconstructing the lost reality. Archaeological analysis and transmedial technologies for a perspective of Virtual Reality in the Etruscan city of Kainua*, in R. Scopigno, G. Guidi (eds.), *Proceedings of the 2nd International Congress on Digital Heritage (Granada 2015)*, IEEE, vol. 2, 21, 1-8.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Manferdini",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Scopigno",
+     "given": "R."
+    },
+    {
+     "family": "Guidi",
+     "given": "G."
+    }
+   ],
+   "date": "2015",
+   "title": "Reconstructing the lost reality. Archaeological analysis and transmedial technologies for a perspective of Virtual Reality in the Etruscan city of Kainua",
+   "is_part_of": [
+    "Proceedings of the 2nd International Congress on Digital Heritage (Granada 2015)"
+   ],
+   "volume": "2",
+   "pages": "1-8",
+   "publisher": "IEEE",
+   "language": "eng",
+   "notes": "cited 'vol. 2, 21, 1-8': 21 kept out (probably paper number)",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Govi E. 2010, *Le tecniche di costruzione*, in Govi, Sassatelli 2010, 1, 205-222.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Govi",
+     "given": "E."
+    },
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "Le tecniche di costruzione",
+   "is_part_of": [
+    "Marzabotto. La Casa 1 della Regio IV – Insula 2"
+   ],
+   "volume": "1",
+   "pages": "205-222",
+   "xref": 22,
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Govi E. 2014, *Etruscan urbanism at Bologna, Marzabotto and in the Po valley*, in E.C. Robinson (ed.), *Papers on Italian Urbanism in the First Millennium B.C.*, «Journal of Roman Archaeology», Suppl. 97, 81-111.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Robinson",
+     "given": "E.C."
+    }
+   ],
+   "date": "2014",
+   "title": "Etruscan urbanism at Bologna, Marzabotto and in the Po valley",
+   "is_part_of": [
+    "Papers on Italian Urbanism in the First Millennium B.C.",
+    "Journal of Roman Archaeology"
+   ],
+   "volume": "Suppl. 97",
+   "pages": "81-111",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Govi E. c.s., *La dimensione del sacro nella città di Kainua – Marzabotto*, in *La città etrusca e il sacro. Santuari e istituzioni politiche*, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "date": "2017",
+   "title": "La dimensione del sacro nella città di Kainua-Marzabotto",
+   "is_part_of": [
+    "La città etrusca e il sacro. Santuari e istituzioni politiche (Atti del Convegno, Bologna 21-23 gennaio 2016)"
+   ],
+   "pages": "145-180",
+   "publisher": "Bononia University Press",
+   "place": "Bologna",
+   "language": "ita",
+   "cs": {
+    "status": "resolved",
+    "source": "https://www.unibo.it/sitoweb/elisabetta.govi/publications?page=4"
+   },
+   "notes": "c.s. resolved: published 2017, Bononia University Press, pp. 145-180 (UniBo staff page); editor Govi from the volume's editorship entry on the same page",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Govi E., Sassatelli G. (eds.) 2010, *Marzabotto. La Casa 1 della Regio IV – Insula 2*, Bologna, Ante Quem.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Govi",
+     "given": "E."
+    },
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "Marzabotto. La Casa 1 della Regio IV – Insula 2",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Kensek K. 2014, *Building Information Modeling: BIM in Current and Future Practice*, Hoboken, Wiley & Sons.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kensek",
+     "given": "K."
+    }
+   ],
+   "date": "2014",
+   "title": "Building Information Modeling: BIM in Current and Future Practice",
+   "publisher": "Wiley & Sons",
+   "place": "Hoboken",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Kymmell W. 2008, *Building Information Modeling: Planning and Managing Construction Projects with 4D CAD and Simulations*, New York, McGraw-Hill Education.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kymmell",
+     "given": "W."
+    }
+   ],
+   "date": "2008",
+   "title": "Building Information Modeling: Planning and Managing Construction Projects with 4D CAD and Simulations",
+   "publisher": "McGraw-Hill Education",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Lippolis E. 2005, *Nuovi dati sull'acropoli e sulla forma urbana di Marzabotto*, in Sassatelli, Govi 2005a, 139-165.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lippolis",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "date": "2005",
+   "title": "Nuovi dati sull'acropoli e sulla forma urbana di Marzabotto",
+   "is_part_of": [
+    "Culti, forma urbana e artigianato a Marzabotto. Nuove prospettive di ricerca"
+   ],
+   "pages": "139-165",
+   "xref": 36,
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Mansuelli G.A. 1966, *Risultati urbanistici degli scavi di Marzabotto*, «Rivista Ingegneri Architetti Costruttori», 4, 1-8.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mansuelli",
+     "given": "G.A."
+    }
+   ],
+   "date": "1966",
+   "title": "Risultati urbanistici degli scavi di Marzabotto",
+   "is_part_of": [
+    "Rivista Ingegneri Architetti Costruttori"
+   ],
+   "volume": "4",
+   "pages": "1-8",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Murphy M., McGovern E., Pavia S. 2013, *Historic Building Information Modelling - Adding intelligence to laser and image based surveys of European classical architecture*, «ISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», 76, 89-102.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Murphy",
+     "given": "M."
+    },
+    {
+     "family": "McGovern",
+     "given": "E."
+    },
+    {
+     "family": "Pavia",
+     "given": "S."
+    }
+   ],
+   "date": "2013",
+   "title": "Historic Building Information Modelling - Adding intelligence to laser and image based surveys of European classical architecture",
+   "is_part_of": [
+    "ISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "76",
+   "pages": "89-102",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Neuhold E. 2014, *Interoperability and semantics: An introduction into the past and a look at the future*, in A. Mahdavi, B. Martens, R. Scherer (eds.), *eWork and eBusiness in Architecture, Engineering and Construction: ECPPM 2014*, Leiden, CRC Press/Balkema, 7-9.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Neuhold",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Mahdavi",
+     "given": "A."
+    },
+    {
+     "family": "Martens",
+     "given": "B."
+    },
+    {
+     "family": "Scherer",
+     "given": "R."
+    }
+   ],
+   "date": "2014",
+   "title": "Interoperability and semantics: An introduction into the past and a look at the future",
+   "is_part_of": [
+    "eWork and eBusiness in Architecture, Engineering and Construction: ECPPM 2014"
+   ],
+   "pages": "7-9",
+   "publisher": "CRC Press/Balkema",
+   "place": "Leiden",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Orlandos A. 1966, *Les matériaux de construction. La technique architecturale des anciens Grecs*, I, Paris, De Boccard.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Orlandos",
+     "given": "A."
+    }
+   ],
+   "date": "1966",
+   "title": "Les matériaux de construction. La technique architecturale des anciens Grecs, I",
+   "publisher": "De Boccard",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Pizzirani C., Pozzi A. 2010, *Laterizi e materiali da costruzione*, in Govi, Sassatelli 2010, 285-313.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pizzirani",
+     "given": "C."
+    },
+    {
+     "family": "Pozzi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Govi",
+     "given": "E."
+    },
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "Laterizi e materiali da costruzione",
+   "is_part_of": [
+    "Marzabotto. La Casa 1 della Regio IV – Insula 2"
+   ],
+   "pages": "285-313",
+   "xref": 22,
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Potts C.R. 2011, *The development and architectural significance of early Etrusco-Italic podia*, «BABESCH», 86, 41-52.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Potts",
+     "given": "C.R."
+    }
+   ],
+   "date": "2011",
+   "title": "The development and architectural significance of early Etrusco-Italic podia",
+   "is_part_of": [
+    "BABESCH"
+   ],
+   "volume": "86",
+   "pages": "41-52",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Quattrini R., Malinverni E., Clini P., Nespeca R., Orlietti E. 2015, *From TLS to HBIM. High quality semantically-aware 3D modeling of complex architecture*, «ISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», 40, 5/W4, 367-374.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Quattrini",
+     "given": "R."
+    },
+    {
+     "family": "Malinverni",
+     "given": "E."
+    },
+    {
+     "family": "Clini",
+     "given": "P."
+    },
+    {
+     "family": "Nespeca",
+     "given": "R."
+    },
+    {
+     "family": "Orlietti",
+     "given": "E."
+    }
+   ],
+   "date": "2015",
+   "title": "From TLS to HBIM. High quality semantically-aware 3D modeling of complex architecture",
+   "is_part_of": [
+    "ISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "40",
+   "issue": "5/W4",
+   "pages": "367-374",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Rendeli M. 1989, «Muratori, ho fretta di erigere questa casa» (*Ant. Pal.* 14, 136). Concorrenza tra formazioni urbane dell'Italia centrale tirrenica nella costruzione di edifici di culto arcaici, «Rivista dell'Istituto Nazionale di Archeologia e Storia dell'Arte», s. III, 12, 49-68.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rendeli",
+     "given": "M."
+    }
+   ],
+   "date": "1989",
+   "title": "Muratori, ho fretta di erigere questa casa (Ant. Pal. 14, 136). Concorrenza tra formazioni urbane dell'Italia centrale tirrenica nella costruzione di edifici di culto arcaici",
+   "is_part_of": [
+    "Rivista dell'Istituto Nazionale di Archeologia e Storia dell'Arte"
+   ],
+   "volume": "12",
+   "pages": "49-68",
+   "language": "ita",
+   "notes": "series III",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Sassatelli G. 2000, *Città etrusca di Marzabotto (progettazione e testi di C. Taglioni)*, CD-Rom, Bologna, Hit Studio Editori.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Città etrusca di Marzabotto (progettazione e testi di C. Taglioni)",
+   "publisher": "Hit Studio Editori",
+   "place": "Bologna",
+   "language": "ita",
+   "notes": "CD-Rom",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Sassatelli G. 2009, *Il tempio di Tina a Marzabotto e i culti della città etrusca*, in G. Cresci Marrone, M. Tirelli (eds.), *Altnoi. Il santuario altinate: strutture del sacro a confronto e i luoghi di culto lungo la via Annia*, Roma, Quasar, 325-344.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cresci Marrone",
+     "given": "G."
+    },
+    {
+     "family": "Tirelli",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Il tempio di Tina a Marzabotto e i culti della città etrusca",
+   "is_part_of": [
+    "Altnoi. Il santuario altinate: strutture del sacro a confronto e i luoghi di culto lungo la via Annia"
+   ],
+   "pages": "325-344",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Sassatelli G., Govi E. (eds.) 2005a, *Culti, forma urbana e artigianato a Marzabotto. Nuove prospettive di ricerca*, Bologna, Ante Quem.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "date": "2005",
+   "title": "Culti, forma urbana e artigianato a Marzabotto. Nuove prospettive di ricerca",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Sassatelli G., Govi E. 2005b, *Il tempio di Tina in area urbana*, in Sassatelli, Govi 2005a, 9-62.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "date": "2005",
+   "title": "Il tempio di Tina in area urbana",
+   "is_part_of": [
+    "Culti, forma urbana e artigianato a Marzabotto. Nuove prospettive di ricerca"
+   ],
+   "pages": "9-62",
+   "xref": 36,
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Sassatelli G., Govi E. 2010, *Cults and foundation rites in the Etruscan city of Marzabotto*, in L.B. van der Meer (ed.), *Material Aspects of Etruscan Religion, Proceedings of the International Colloquium (Leiden 2008)*, «BABESCH», Suppl. 16, Leuven, Peeters, 27-37.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "van der Meer",
+     "given": "L.B."
+    }
+   ],
+   "date": "2010",
+   "title": "Cults and foundation rites in the Etruscan city of Marzabotto",
+   "is_part_of": [
+    "Material Aspects of Etruscan Religion, Proceedings of the International Colloquium (Leiden 2008)",
+    "BABESCH"
+   ],
+   "volume": "Suppl. 16",
+   "pages": "27-37",
+   "publisher": "Peeters",
+   "place": "Leuven",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Scianna A., Serlorenzi M., Gristina S., Filippi M., Pallaga S. 2015, *Sperimentazione di tecniche BIM sull'archeologia romana: il caso delle strutture rinvenute all'interno della cripta della chiesa dei SS. Sergio e Bacco in Roma*, in M. Serlorenzi, G. Leoni (eds.), *Il SITAR nella Rete della ricerca archeologica italiana. Verso la conoscenza archeologica condivisa. Atti del III Convegno (Roma 2013)*, «Archeologia e Calcolatori», Suppl. 7, 199-212.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scianna",
+     "given": "A."
+    },
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Gristina",
+     "given": "S."
+    },
+    {
+     "family": "Filippi",
+     "given": "M."
+    },
+    {
+     "family": "Pallaga",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Leoni",
+     "given": "G."
+    }
+   ],
+   "date": "2015",
+   "title": "Sperimentazione di tecniche BIM sull'archeologia romana: il caso delle strutture rinvenute all'interno della cripta della chiesa dei SS. Sergio e Bacco in Roma",
+   "is_part_of": [
+    "Il SITAR nella Rete della ricerca archeologica italiana. Verso la conoscenza archeologica condivisa. Atti del III Convegno (Roma 2013)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 7",
+   "pages": "199-212",
+   "language": "ita",
+   "cited_aec_id": 825,
+   "notes": "author spelled 'Pallaga' as cited (metadata: Paliaga)",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Vitali D., Brizzolara A.M., Lippolis E. (eds.) 2001, *L'acropoli della città etrusca di Marzabotto*, Imola, University Press Bologna.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Vitali",
+     "given": "D."
+    },
+    {
+     "family": "Brizzolara",
+     "given": "A.M."
+    },
+    {
+     "family": "Lippolis",
+     "given": "E."
+    }
+   ],
+   "date": "2001",
+   "title": "L'acropoli della città etrusca di Marzabotto",
+   "publisher": "University Press Bologna",
+   "place": "Imola",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,597 @@
+{
+ "citing_aec_id": 262,
+ "source_file": "data/journal/10/262.md",
+ "references": [
+  {
+   "raw": "ARROYO BISHOP D. 1988, Los archivos arqueológicos, realidades, perspectivas y evolución, «Boletin de Arqueología Medieval», 2, 49-73.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "article",
+   "title": "Los archivos arqueológicos, realidades, perspectivas y evolución",
+   "is_part_of": [
+    "Boletin de Arqueología Medieval"
+   ],
+   "pages": "49-73",
+   "volume": "2",
+   "language": "spa",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1989, The ArchéoDATA Project, in S. RAHTZ, J. RICHARDS (eds.), Computer and Quantitative Methods in Archaeology 1989, BAR International Series, n. 548, Oxford, 69-86.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "The ArchéoDATA Project",
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S."
+    },
+    {
+     "family": "Richards",
+     "given": "J."
+    }
+   ],
+   "pages": "69-86",
+   "is_part_of": [
+    "Computer and Quantitative Methods in Archaeology 1989"
+   ],
+   "place": "Oxford",
+   "series": "BAR International Series",
+   "series_number": "548",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1991a, The ArchéoDATA System: Towards a European archaeological document, in K. LOCKYEAR, S. RAHTZ, Computer and Quantitative Methods in Archaeology 1990, BAR International Series, n. 565, Oxford, 61-70.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "The ArchéoDATA System: Towards a European archaeological document",
+   "pages": "61-70",
+   "is_part_of": [
+    "Computer and Quantitative Methods in Archaeology 1990"
+   ],
+   "place": "Oxford",
+   "series": "BAR International Series",
+   "series_number": "565",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3,
+   "editors": [
+    {
+     "family": "Lockyear",
+     "given": "K."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ]
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1991b, El sistema ArchéoDATA: Hacia la creación de un Sistema de Información Arqueológico (SIA), in V.M. FERNÁNDEZ MARTINEZ, G. FERNÁNDEZ LÓPEZ (eds.), Aplicaciones Informáticas en Arqueología - Madrid 1990, «Complutum», 1, 167-174.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "article",
+   "title": "El sistema ArchéoDATA: Hacia la creación de un Sistema de Información Arqueológico (SIA)",
+   "editors": [
+    {
+     "family": "Fernández Martinez",
+     "given": "V.M."
+    },
+    {
+     "family": "Fernández López",
+     "given": "G."
+    }
+   ],
+   "pages": "167-174",
+   "is_part_of": [
+    "Aplicaciones Informáticas en Arqueología - Madrid 1990",
+    "Complutum"
+   ],
+   "language": "fre",
+   "confidence": "high",
+   "position": 4,
+   "volume": "1"
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1992a, El “Sistema ArchéoDATA”. Registro en Prehistoria, Seminario de Arqueología y Ethnología Turolense, «Kalathos», 9-10, 31-46.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "article",
+   "title": "El “Sistema ArchéoDATA”. Registro en Prehistoria, Seminario de Arqueología y Ethnología Turolense",
+   "is_part_of": [
+    "Kalathos"
+   ],
+   "pages": "31-46",
+   "issue": "9-10",
+   "language": "spa",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1992b, Further structuring of the ArchéoDATA System, in G. LOCK, J. MOFFETT (eds.), Computer and Quantitative Methods in Archaeology 1991, BAR International Series, n. 577, Oxford, 89-94.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "Further structuring of the ArchéoDATA System",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "pages": "89-94",
+   "is_part_of": [
+    "Computer and Quantitative Methods in Archaeology 1991"
+   ],
+   "place": "Oxford",
+   "series": "BAR International Series",
+   "series_number": "577",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1992c, El tratamiento de los datos obtenidos en las intervenciones arqueológicas y su inclusión en los archivos arqueológicos, in Jornadas Internacionales Arqueología de Intervención (San Sebastien, December 1991), San Sebastien, 287-318.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "El tratamiento de los datos obtenidos en las intervenciones arqueológicas y su inclusión en los archivos arqueológicos",
+   "pages": "287-318",
+   "is_part_of": [
+    "Jornadas Internacionales Arqueología de Intervención (San Sebastien, December 1991)"
+   ],
+   "place": "San Sebastien",
+   "language": "spa",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1994, Advances in archaeological recording and analysis: The ArchéoDATA groups and entities, «Archeologia e Calcolatori», 5, 237-255.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "article",
+   "title": "Advances in archaeological recording and analysis: The ArchéoDATA groups and entities",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "237-255",
+   "volume": "5",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1995a, ArchéoDATA: Enregistrement, analyse et conservation du document archéologique européen, Paris.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "book",
+   "title": "ArchéoDATA: Enregistrement, analyse et conservation du document archéologique européen",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1995b, Une méthodologie pour la création et la conservation du document archéologique, in L. VALDÉS, I. ARENAL, I. PUJANA (eds.), Aplicaciones Informáticas en Arqueología: Teorías y Systemas, Colloque Européen d’Archéologie et Informatique (Saint-Germain-en Laye, 1991), Bilbao, 23-53.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "Une méthodologie pour la création et la conservation du document archéologique",
+   "editors": [
+    {
+     "family": "Valdés",
+     "given": "L."
+    },
+    {
+     "family": "Arenal",
+     "given": "I."
+    },
+    {
+     "family": "Pujana",
+     "given": "I."
+    }
+   ],
+   "pages": "23-53",
+   "is_part_of": [
+    "Aplicaciones informáticas en Arqueología: Teorías y sistemas"
+   ],
+   "place": "Bilbao",
+   "language": "fre",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1995c, Organisation de l’analyse et de l’interprétation en archéologie, in L. VALDÉS, I. ARENAL, I. PUJANA (eds.), Aplicaciones Informáticas en Arqueología: Teorías y Systemas, II Colloque International d’Archéologie et Informatique (Bilbao, 1993), Bilbao, 11-22.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "Organisation de l’analyse et de l’interprétation en archéologie",
+   "editors": [
+    {
+     "family": "Valdés",
+     "given": "L."
+    },
+    {
+     "family": "Arenal",
+     "given": "I."
+    },
+    {
+     "family": "Pujana",
+     "given": "I."
+    }
+   ],
+   "pages": "11-22",
+   "is_part_of": [
+    "Aplicaciones informáticas en Arqueología: Teorías y sistemas"
+   ],
+   "place": "Bilbao",
+   "language": "fre",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1996, Relating time within the general methodological structure of archaeological interpretation, in P. MOSCATI (ed.), III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995), «Archeologia e Calcolatori», 7, 15-26.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "article",
+   "title": "Relating time within the general methodological structure of archaeological interpretation",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "pages": "15-26",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 12,
+   "volume": "7"
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1998a, GIS and archaeology in France, «Archeologia e Calcolatori», 9, 31-45.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "article",
+   "title": "GIS and archaeology in France",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "31-45",
+   "volume": "9",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1998b, Archaeological Information System methodology applied to Landscape Archaeology, in F. BURILLO et al., Arqueología del paisaje, V Coloquio Internacional de Arqueología Espacial, Teruel.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "Archaeological Information System methodology applied to Landscape Archaeology",
+   "is_part_of": [
+    "Arqueología del paisaje, V Coloquio Internacional de Arqueología Espacial"
+   ],
+   "place": "Teruel",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14,
+   "editors": [
+    {
+     "family": "Burillo",
+     "given": "F."
+    }
+   ]
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1998c, MEDAIS*: The potential contribution of GIS to the identification, study and conservation of the Cultural Heritage of the Mediterranean Basin I (*MEDiterranean Archaeological Information System), in 1st International Congress on Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Catania-Siracusa, November 27-December 2 1995), Palermo, 207-216.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "MEDAIS: The potential contribution of GIS to the identification, study and conservation of the Cultural Heritage of the Mediterranean Basin I (MEDiterranean Archaeological Information System)",
+   "pages": "207-216",
+   "is_part_of": [
+    "1st International Congress on Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Catania-Siracusa, November 27-December 2 1995)"
+   ],
+   "place": "Palermo",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "ARROYO BISHOP D. 1998d, MEDAIS*: The potential contribution of GIS to the identification, study and conservation of the Cultural Heritage of the Mediterranean Basin II (*MEDiterranean Archaeological Information System), ibid., 443-465.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "pages": "443-465",
+   "type": "chapter",
+   "title": "MEDAIS: The potential contribution of GIS to the identification, study and conservation of the Cultural Heritage of the Mediterranean Basin II (MEDiterranean Archaeological Information System)",
+   "language": "eng",
+   "confidence": "high",
+   "position": 16,
+   "is_part_of": [
+    "1st International Congress on Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Catania-Siracusa, November 27-December 2 1995)"
+   ],
+   "place": "Palermo"
+  },
+  {
+   "raw": "ARROYO BISHOP D. in print, El registro de estructuras arquitectónicas, in I Congreso de Castellología Ibérica (Aguilar de Campo, Palencia, Septiembre 1994).",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "El registro de estructuras arquitectónicas",
+   "language": "eng",
+   "confidence": "high",
+   "position": 17,
+   "is_part_of": [
+    "I Congreso de Castellología Ibérica (Aguilar de Campo, Palencia, Septiembre 1994)"
+   ],
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "ARROYO BISHOP D., LANTADA ZARZOSA M.T. 1992, The ArchéoDATA System: A method for structuring a European Archaeological Information System (AIS), in C.U. LARSEN (ed.), Sites & Monuments, National Archaeological Records, National Archaeological Records Conference (Copenhagen, May 1991), Copenhagen, 133-156.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    }
+   ],
+   "type": "chapter",
+   "title": "The ArchéoDATA System: A method for structuring a European Archaeological Information System (AIS)",
+   "editors": [
+    {
+     "family": "Larsen",
+     "given": "C.U."
+    }
+   ],
+   "pages": "133-156",
+   "is_part_of": [
+    "Sites & Monuments, National Archaeological Records, National Archaeological Records Conference (Copenhagen, May 1991)"
+   ],
+   "place": "Copenhagen",
+   "language": "eng",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "ARROYO BISHOP D., LANTADA ZARZOSA M.T. 1993a, Planning for site and intra-site data management interpretation, in J. ANDRESEN, T. MADSEN, I. SCOLLAR (eds.), Computing the Past, Computer and Quantitative Methods in Archaeology 1992, Aarhus, Aarhus University Press, 195-204.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    }
+   ],
+   "type": "chapter",
+   "title": "Planning for site and intra-site data management interpretation",
+   "editors": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "pages": "195-204",
+   "is_part_of": [
+    "Computing the Past, Computer and Quantitative Methods in Archaeology 1992"
+   ],
+   "place": "Aarhus",
+   "publisher": "Aarhus University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 19
+  },
+  {
+   "raw": "ARROYO BISHOP D., LANTADA ZARZOSA M.T. 1993b, ArchéoDATA: Quelques pas dans l’enregistrement et l’analyse architecturale, in C. ARNAUD, J. BURNOUF, Dossier: L’archéologie du bâti médiéval urbain, «Nouvelles de l’archéologie», 53-54, 23-28.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    }
+   ],
+   "type": "article",
+   "title": "ArchéoDATA: Quelques pas dans l’enregistrement et l’analyse architecturale",
+   "pages": "23-28",
+   "is_part_of": [
+    "Dossier: L’archéologie du bâti médiéval urbain",
+    "Nouvelles de l’archéologie"
+   ],
+   "language": "fre",
+   "confidence": "high",
+   "position": 20,
+   "editors": [
+    {
+     "family": "Arnaud",
+     "given": "C."
+    },
+    {
+     "family": "Burnouf",
+     "given": "J."
+    }
+   ],
+   "issue": "53-54"
+  },
+  {
+   "raw": "ARROYO BISHOP D., LANTADA ZARZOSA M.T. 1995, To be or not to be: Will an object-space-time GIS/AIS become a scientific reality or end up an Archaeological Entity, in G. LOCK, Z. STANÈIÈ (eds.), Archaeology and Geographic Information Systems: A European Perspective, London, Taylor & Francis, 43-54.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    }
+   ],
+   "type": "chapter",
+   "title": "To be or not to be: Will an object-space-time GIS/AIS become a scientific reality or end up an Archaeological Entity",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "43-54",
+   "is_part_of": [
+    "Archaeology and Geographic Information Systems: A European Perspective"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 21
+  },
+  {
+   "raw": "ARROYO BISHOP D., LANTADA ZARZOSA M.T., MARTY M.T. in print, Pour une réelle valorisation des dépôts et des archives: un Système d’Information Archéologique, in Colloque national sur la conservation du patrimoine (Bourges, novembre 1998).",
+   "type": "chapter",
+   "title": "Pour une réelle valorisation des dépôts et des archives: un Système d’Information Archéologique",
+   "confidence": "high",
+   "position": 22,
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Arroyo Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    },
+    {
+     "family": "Marty",
+     "given": "M.T."
+    }
+   ],
+   "is_part_of": [
+    "Colloque national sur la conservation du patrimoine (Bourges, novembre 1998)"
+   ],
+   "cs": {
+    "status": "unresolved"
+   }
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "citing_aec_id": 138,
+ "source_file": "data/journal/7/138.md",
+ "references": [
+  {
+   "raw": "AZARBAYEJANI A., HOROWITZ B., PENTLAND A. 1993, *Recursive estimation of structure and motion using relative orientation constraints*, New York, Proc. CVPR.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Azarbayejani",
+     "given": "A."
+    },
+    {
+     "family": "Horowitz",
+     "given": "B."
+    },
+    {
+     "family": "Pentland",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Recursive estimation of structure and motion using relative orientation constraints",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1,
+   "is_part_of": [
+    "Proc. CVPR"
+   ]
+  },
+  {
+   "raw": "LONGUET-HIGGINS H.C. 1981, «Nature», 293, 133-135.",
+   "date": "1981",
+   "creators": [
+    {
+     "family": "Longuet-Higgins",
+     "given": "H.C."
+    }
+   ],
+   "type": "other",
+   "title": "Nature",
+   "is_part_of": [
+    "Nature"
+   ],
+   "pages": "133-135",
+   "volume": "293",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2,
+   "notes": "no title in citation"
+  },
+  {
+   "raw": "LUCAS, KANADE 1981, *Performance of Optical Flow Techniques*, Proc. DARPA IU Workshop 8, 121-130.",
+   "date": "1981",
+   "creators": [
+    {
+     "family": "Lucas",
+     "given": ""
+    },
+    {
+     "family": "Kanade",
+     "given": ""
+    }
+   ],
+   "pages": "121-130",
+   "type": "chapter",
+   "title": "Performance of Optical Flow Techniques, Proc. DARPA IU Workshop 8",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3,
+   "is_part_of": [
+    "Proc. DARPA IU Workshop"
+   ],
+   "volume": "8"
+  },
+  {
+   "raw": "SOATTO S., PERONA P. 1994, *Recursive 3-D Visual Motion Estimation Using Subspace Constraints*, CDS Technical report CIT-CDS 95-006, California Institute of Technology.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Soatto",
+     "given": "S."
+    },
+    {
+     "family": "Perona",
+     "given": "P."
+    }
+   ],
+   "type": "other",
+   "title": "Recursive 3-D Visual Motion Estimation Using Subspace Constraints",
+   "publisher": "California Institute of Technology",
+   "series": "CDS Technical report",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4,
+   "series_number": "CIT-CDS 95-006"
+  },
+  {
+   "raw": "SOATTO S., PERONA P. 1995, *Implementation and Uncertainty Analysis of a Feature Tracking Algorithm*, Notes for EE148: Selected Topics in Vision.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Soatto",
+     "given": "S."
+    },
+    {
+     "family": "Perona",
+     "given": "P."
+    }
+   ],
+   "type": "other",
+   "title": "Implementation and Uncertainty Analysis of a Feature Tracking Algorithm, Notes for EE148: Selected Topics in Vision",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5,
+   "notes": "Notes for EE148: Selected Topics in Vision"
+  },
+  {
+   "raw": "TOMASI, KANADE 1991, *Shape and motion from image stream: a factorization method - 3 detection and tracking of point features*, CMU - CS 91 - 132, School.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Tomasi",
+     "given": ""
+    },
+    {
+     "family": "Kanade",
+     "given": ""
+    }
+   ],
+   "type": "other",
+   "title": "Shape and motion from image stream: a factorization method - 3 detection and tracking of point features, CMU - CS 91 - 132",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6,
+   "notes": "CMU - CS 91 - 132, School"
+  }
+ ]
+}

@@ -1,0 +1,275 @@
+{
+ "citing_aec_id": 219,
+ "source_file": "data/journal/7/219.md",
+ "references": [
+  {
+   "raw": "ARIAS C., GABRIELLI F., VEROLA M.L., WILKENS B. 1989, Applicazioni informatiche nella ricerca e nella didattica in archeologia, «Bollettino di informazioni, Centro di elaborazione automatica di dati e documenti storico artistici della Scuola Normale Superiore», Pisa, 10, 1, p. 159 ss.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Arias",
+     "given": "C."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "F."
+    },
+    {
+     "family": "Verola",
+     "given": "M.L."
+    },
+    {
+     "family": "Wilkens",
+     "given": "B."
+    }
+   ],
+   "type": "article",
+   "title": "Applicazioni informatiche nella ricerca e nella didattica in archeologia",
+   "is_part_of": [
+    "Bollettino di informazioni, Centro di elaborazione automatica di dati e documenti storico artistici della Scuola Normale Superiore"
+   ],
+   "issue": "1",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1,
+   "volume": "10",
+   "pages": "159",
+   "place": "Pisa",
+   "notes": "\"p. 159 ss.\""
+  },
+  {
+   "raw": "BARGERO M.L. 1994, Concetti e mappe: una nuova didattica, «RES, Cose d'oggi a scuola», anno IV, 7, p. 44.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Bargero",
+     "given": "M.L."
+    }
+   ],
+   "type": "article",
+   "title": "Concetti e mappe: una nuova didattica",
+   "is_part_of": [
+    "RES, Cose d'oggi a scuola"
+   ],
+   "issue": "7",
+   "language": "ita",
+   "confidence": "high",
+   "position": 2,
+   "volume": "IV",
+   "pages": "44"
+  },
+  {
+   "raw": "BOLZONI L. 1989, Il gioco delle immagini. L'arte della memoria dalle origini al Seicento, in AA.VV., La fabbrica del pensiero. Dall'arte della memoria alle neuroscienze, Catalogo della mostra, Milano.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Bolzoni",
+     "given": "L."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il gioco delle immagini. L'arte della memoria dalle origini al Seicento",
+   "is_part_of": [
+    "La fabbrica del pensiero. Dall'arte della memoria alle neuroscienze, Catalogo della mostra"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "BUSH V. 1992, Come possiamo pensare, in J. NYCE, P. KAHN (edd.), Da Memex a Hypertext, Padova, ed. orig. 1945.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Bush",
+     "given": "V."
+    }
+   ],
+   "type": "chapter",
+   "title": "Come possiamo pensare",
+   "editors": [
+    {
+     "family": "Nyce",
+     "given": "J."
+    },
+    {
+     "family": "Kahn",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Da Memex a Hypertext"
+   ],
+   "place": "Padova",
+   "language": "ita",
+   "confidence": "high",
+   "position": 4,
+   "notes": "ed. orig. 1945"
+  },
+  {
+   "raw": "GIUSTINIANI M., BONAZZI R. 1992, Comunicazione e multimedialità. Guida teorico-pratica alla realizzazione di sistemi multimediali efficaci, Collana Informatica domani, Roma, Franco Angeli - IBM SEMEA.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Giustiniani",
+     "given": "M."
+    },
+    {
+     "family": "Bonazzi",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Comunicazione e multimedialità. Guida teorico-pratica alla realizzazione di sistemi multimediali efficaci, Collana Informatica domani, Roma, Franco Angeli - IBM SEMEA",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5,
+   "series": "Collana Informatica domani",
+   "place": "Roma",
+   "publisher": "Franco Angeli - IBM SEMEA"
+  },
+  {
+   "raw": "MARAGLIANO R. 1994, Manuale di didattica multimediale, Bari, Laterza.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Maragliano",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Manuale di didattica multimediale",
+   "place": "Bari",
+   "publisher": "Laterza",
+   "language": "ita",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "NELSON T.H. 1992, Come penseremo, in J. NYCE, P. KAHN (edd.), Da Memex a Hypertext, Padova, ed. orig. 1972.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Nelson",
+     "given": "T.H."
+    }
+   ],
+   "type": "chapter",
+   "title": "Come penseremo",
+   "editors": [
+    {
+     "family": "Nyce",
+     "given": "J."
+    },
+    {
+     "family": "Kahn",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Da Memex a Hypertext"
+   ],
+   "place": "Padova",
+   "language": "ita",
+   "confidence": "high",
+   "position": 7,
+   "notes": "ed. orig. 1972"
+  },
+  {
+   "raw": "PIATTELLI PALMARINI M. 1984, Mappe della realtà e mappe della ragione, introduzione agli Atti del Convegno \"Livelli di realtà\", Firenze.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Piattelli Palmarini",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Mappe della realtà e mappe della ragione",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high",
+   "position": 8,
+   "is_part_of": [
+    "Livelli di realtà (Atti del Convegno)"
+   ],
+   "notes": "introduzione agli Atti del Convegno"
+  },
+  {
+   "raw": "PRAMPOLINI F., TURTUR A. 1992, Multimedialità e sistemi ipertestuali, in P. RIDOLFI (ed.), Multimedialità: tecnologie e applicazioni, Collana Informatica domani, Roma, Franco Angeli - IBM SEMEA.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Prampolini",
+     "given": "F."
+    },
+    {
+     "family": "Turtur",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Multimedialità e sistemi ipertestuali",
+   "editors": [
+    {
+     "family": "Ridolfi",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Multimedialità: tecnologie e applicazioni, Collana Informatica domani, Roma, Franco Angeli - IBM SEMEA"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 9,
+   "series": "Collana Informatica domani",
+   "place": "Roma",
+   "publisher": "Franco Angeli - IBM SEMEA"
+  },
+  {
+   "raw": "RASPOLLINI C. 1992, Il futuro della multimedialità, in P. RIDOLFI (ed.), Multimedialità: tecnologie e applicazioni, Collana Informatica domani, Roma, Franco Angeli - IBM SEMEA.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Raspollini",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il futuro della multimedialità",
+   "editors": [
+    {
+     "family": "Ridolfi",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Multimedialità: tecnologie e applicazioni, Collana Informatica domani, Roma, Franco Angeli - IBM SEMEA"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 10,
+   "series": "Collana Informatica domani",
+   "place": "Roma",
+   "publisher": "Franco Angeli - IBM SEMEA"
+  },
+  {
+   "raw": "YATES F.A. 1985, L'arte della memoria, Torino, ed. orig. 1966.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Yates",
+     "given": "F.A."
+    }
+   ],
+   "type": "book",
+   "title": "L'arte della memoria",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high",
+   "position": 11,
+   "notes": "ed. orig. 1966"
+  }
+ ]
+}

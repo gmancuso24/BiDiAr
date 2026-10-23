@@ -1,0 +1,835 @@
+{
+ "citing_aec_id": 1188,
+ "source_file": "data/journal/33/1188.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Braschi G. 2009, Antico Catasto Calindri, dalla centuria romana al WEBGIS, Villa Verrucchio, Pazzini.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Braschi",
+     "given": "G."
+    }
+   ],
+   "date": "2009",
+   "title": "Antico Catasto Calindri, dalla centuria romana al WEBGIS",
+   "language": "ita",
+   "publisher": "Pazzini",
+   "place": "Villa Verrucchio",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Cocca E. 2014, Kojtepa 2013: The use of 3D for the drawings of excavation. A methodological approach, «Newsletter di Archeologia CISA», 5, 1-20 (https://www.researchgate.net/publication/301299033_KOJTEPA_2013_THE_USE_OF_3D_FOR_THE_DRAWINGS_OF_EXCAVATION_A_METHODOLOGICAL_APPROACH).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cocca",
+     "given": "E."
+    }
+   ],
+   "date": "2014",
+   "title": "Kojtepa 2013: The use of 3D for the drawings of excavation. A methodological approach",
+   "is_part_of": [
+    "Newsletter di Archeologia CISA"
+   ],
+   "language": "eng",
+   "volume": "5",
+   "pages": "1-20",
+   "uri": "https://www.researchgate.net/publication/301299033_KOJTEPA_2013_THE_USE_OF_3D_FOR_THE_DRAWINGS_OF_EXCAVATION_A_METHODOLOGICAL_APPROACH",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Cocca E. 2015, Il GIS nell'ambito di sistemi innovativi per la gestione del dato archeologico. Sviluppo e implementazione di un sistema gestionale e analitico con strumenti open source di banche dati archeologiche. Caso studio Grotta di Fumane, Phd Thesis, Università di Ferrara.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Cocca",
+     "given": "E."
+    }
+   ],
+   "date": "2015",
+   "title": "Il GIS nell'ambito di sistemi innovativi per la gestione del dato archeologico. Sviluppo e implementazione di un sistema gestionale e analitico con strumenti open source di banche dati archeologiche. Caso studio Grotta di Fumane",
+   "language": "ita",
+   "publisher": "Università di Ferrara",
+   "notes": "PhD thesis",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Cocca E., Mandolesi L. 2016, Analisi statistiche e geostatistiche con pyArchInit: prima sperimentazione, in P. Basso, A. Caravale, P. Grossi (eds.), ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del IX Workshop (Verona 2014), «Archeologia e Calcolatori», Suppl. 8, 132-140 (http://www.archcalc.cnr.it/indice/Suppl_8/18_Cocca-Mandolesi.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cocca",
+     "given": "E."
+    },
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Basso",
+     "given": "P."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Grossi",
+     "given": "P."
+    }
+   ],
+   "date": "2016",
+   "title": "Analisi statistiche e geostatistiche con pyArchInit: prima sperimentazione",
+   "is_part_of": [
+    "ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del IX Workshop (Verona 2014)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "Suppl. 8",
+   "pages": "132-140",
+   "uri": "http://www.archcalc.cnr.it/indice/Suppl_8/18_Cocca-Mandolesi.pdf",
+   "cited_aec_id": 876,
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Forte M. 2002, I Sistemi Informativi Geografici in archeologia, Roma, MondoGis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "I Sistemi Informativi Geografici in archeologia",
+   "language": "ita",
+   "publisher": "MondoGis",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Francovich R. 1990, Dalla teoria alla ricerca sul campo: il contributo dell'informatica all'archeologia medievale, «Archeologia e Calcolatori», 1, 15-27.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "1990",
+   "title": "Dalla teoria alla ricerca sul campo: il contributo dell'informatica all'archeologia medievale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "1",
+   "pages": "15-27",
+   "cited_aec_id": 5,
+   "notes": "cited pages 15-27; metadata 15-26",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Francovich R., Pasquinucci M., Pellicanò A. (eds.) 2001, La Carta Archeologica fra ricerca e pianificazione territoriale. Atti del Seminario di Studi organizzato dalla Regione Toscana, Dipartimento delle Politiche Formative e dei Beni Culturali, Firenze, All'Insegna del Giglio.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Pasquinucci",
+     "given": "M."
+    },
+    {
+     "family": "Pellicanò",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "La Carta Archeologica fra ricerca e pianificazione territoriale. Atti del Seminario di Studi organizzato dalla Regione Toscana, Dipartimento delle Politiche Formative e dei Beni Culturali",
+   "language": "ita",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Francovich R., Valenti M. 2000, La piattaforma G.I.S. dello scavo ed il suo utilizzo: l'esperienza di Poggibonsi, in G.P. Brogiolo (ed.), II Congresso Nazionale di Archeologia Medievale (Brescia 2000), Firenze, All'Insegna del Giglio, 14-20.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "date": "2000",
+   "title": "La piattaforma G.I.S. dello scavo ed il suo utilizzo: l'esperienza di Poggibonsi",
+   "is_part_of": [
+    "II Congresso Nazionale di Archeologia Medievale (Brescia 2000)"
+   ],
+   "language": "ita",
+   "pages": "14-20",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Fronza V. 2000, Il sistema di gestione degli archivi dello scavo di Poggio Imperiale a Poggibonsi (Insegnamento di Archeologia Medievale dell'Università di Siena). Una soluzione all'interno della \"soluzione G.I.S.\", «Archeologia e Calcolatori», 11, 125-137 (http://www.archcalc.cnr.it/indice/PDF11/1.08%20Fronza.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    }
+   ],
+   "date": "2000",
+   "title": "Il sistema di gestione degli archivi dello scavo di Poggio Imperiale a Poggibonsi (Insegnamento di Archeologia Medievale dell'Università di Siena). Una soluzione all'interno della \"soluzione G.I.S.\"",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "11",
+   "pages": "125-137",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF11/1.08%20Fronza.pdf",
+   "cited_aec_id": 292,
+   "notes": "cited title says 'dello scavo', metadata 'nello scavo'",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Fronza V. 2003, Principi di Database Management in archeologia: l'esperienza senese, in R. Fiorillo, P. Peduto (eds.), III Congresso Nazionale di Archeologia Medievale (Salerno 2003), Firenze, All'Insegna del Giglio, 629-632.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Fiorillo",
+     "given": "R."
+    },
+    {
+     "family": "Peduto",
+     "given": "P."
+    }
+   ],
+   "date": "2003",
+   "title": "Principi di Database Management in archeologia: l'esperienza senese",
+   "is_part_of": [
+    "III Congresso Nazionale di Archeologia Medievale (Salerno 2003)"
+   ],
+   "language": "ita",
+   "pages": "629-632",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Fronza V., Nardini A., Valenti M. 2009, Informatica e archeologia medievale. L'esperienza senese, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    },
+    {
+     "family": "Nardini",
+     "given": "A."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Informatica e archeologia medievale. L'esperienza senese",
+   "language": "ita",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Gugnali S., Mandolesi L., Drudi V., Miulli A., Maioli M.G., Frelat M.A., Gruppioni G. 2012, Design and implementation of an open source GIS platform for management of anthropological data in Journal of Biological Research, «Bollettino della Società Italiana di Biologia Sperimentale», 350-353 (https://doi.org/10.4081/jbr.2012.4165).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gugnali",
+     "given": "S."
+    },
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    },
+    {
+     "family": "Drudi",
+     "given": "V."
+    },
+    {
+     "family": "Miulli",
+     "given": "A."
+    },
+    {
+     "family": "Maioli",
+     "given": "M.G."
+    },
+    {
+     "family": "Frelat",
+     "given": "M.A."
+    },
+    {
+     "family": "Gruppioni",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "Design and implementation of an open source GIS platform for management of anthropological data",
+   "is_part_of": [
+    "Journal of Biological Research - Bollettino della Società Italiana di Biologia Sperimentale"
+   ],
+   "language": "eng",
+   "pages": "350-353",
+   "doi": "10.4081/jbr.2012.4165",
+   "notes": "cited 'in Journal of Biological Research, «Bollettino della Società Italiana di Biologia Sperimentale»'; no volume given",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Guidi A. 1994, I metodi della ricerca archeologica, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Guidi",
+     "given": "A."
+    }
+   ],
+   "date": "1994",
+   "title": "I metodi della ricerca archeologica",
+   "language": "ita",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Harris E.C. 1979, Principles of Archaeological Stratigraphy, London-San Diego, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "E.C."
+    }
+   ],
+   "date": "1979",
+   "title": "Principles of Archaeological Stratigraphy",
+   "language": "eng",
+   "publisher": "Academic Press",
+   "place": "London-San Diego",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Kraus K. 1994, Fotogrammetria, Torino, Ed. Levrotto & Bella.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kraus",
+     "given": "K."
+    }
+   ],
+   "date": "1994",
+   "title": "Fotogrammetria",
+   "language": "ita",
+   "publisher": "Ed. Levrotto & Bella",
+   "place": "Torino",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Mandolesi L. 2005, Progettazione e implementazione di un DBMS relazionale per la gestione e l'analisi di contesti archeologici. Dal deposito alla sintesi storica: il caso della ceramica di Poggio Imperiale a Poggibonsi (Si), Tesi di Laurea, Università di Siena.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    }
+   ],
+   "date": "2005",
+   "title": "Progettazione e implementazione di un DBMS relazionale per la gestione e l'analisi di contesti archeologici. Dal deposito alla sintesi storica: il caso della ceramica di Poggio Imperiale a Poggibonsi (Si)",
+   "language": "ita",
+   "publisher": "Università di Siena",
+   "notes": "Tesi di Laurea",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Mandolesi L. 2009a, pyArchInit - python, QGIS e PostgreSQL per la gestione dei dati di scavo, in P. Cignoni, S. Palombini, S. Pescarin (eds.), ArcheoFOSS Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del IV Workshop (Roma 2009), «Archeologia e Calcolatori», Suppl. 2, 209-222 (http://www.archcalc.cnr.it/indice/Suppl_2/20_Mandolesi.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cignoni",
+     "given": "P."
+    },
+    {
+     "family": "Palombini",
+     "given": "S."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "pyArchInit - python, QGIS e PostgreSQL per la gestione dei dati di scavo",
+   "is_part_of": [
+    "ArcheoFOSS Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del IV Workshop (Roma 2009)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "Suppl. 2",
+   "pages": "209-222",
+   "uri": "http://www.archcalc.cnr.it/indice/Suppl_2/20_Mandolesi.pdf",
+   "cited_aec_id": 549,
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Mandolesi L. 2009b, Catasti antichi e G.I.S.: \"Progetto E.L.I.S.A.\", in Braschi 2009, 19.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    }
+   ],
+   "date": "2009",
+   "title": "Catasti antichi e G.I.S.: \"Progetto E.L.I.S.A.\"",
+   "is_part_of": [
+    "Antico Catasto Calindri, dalla centuria romana al WEBGIS"
+   ],
+   "language": "ita",
+   "pages": "19",
+   "xref": 1,
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Mandolesi L., Cocca E. 2013, pyArchInit: gli sviluppi dopo ArcheoFoss 2009, in M. Serlorenzi (ed.), ArcheoFOSS Free, Libre and Open Source Software e Open format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012), «Archeologia e Calcolatori», Suppl. 4, 128-138 (http://www.archcalc.cnr.it/indice/Suppl_4/14_Mandolesi_Cocca.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    },
+    {
+     "family": "Cocca",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "pyArchInit: gli sviluppi dopo ArcheoFoss 2009",
+   "is_part_of": [
+    "ArcheoFOSS Free, Libre and Open Source Software e Open format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "Suppl. 4",
+   "pages": "128-138",
+   "uri": "http://www.archcalc.cnr.it/indice/Suppl_4/14_Mandolesi_Cocca.pdf",
+   "cited_aec_id": 697,
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Mattivi P., Pappalardo S.E., Nikoli N., Mandolesi L., Persichetti A., De Marchi M., Masin R. 2021, Can commercial low-cost drones and open-source GIS technologies be suitable for semi-automatic weed mapping for smart farming? A case study in NE Italy, «Remote Sensing», 13, 10, 1869 (https://doi.org/10.3390/rs13101869).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mattivi",
+     "given": "P."
+    },
+    {
+     "family": "Pappalardo",
+     "given": "S.E."
+    },
+    {
+     "family": "Nikoli",
+     "given": "N."
+    },
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    },
+    {
+     "family": "Persichetti",
+     "given": "A."
+    },
+    {
+     "family": "De Marchi",
+     "given": "M."
+    },
+    {
+     "family": "Masin",
+     "given": "R."
+    }
+   ],
+   "date": "2021",
+   "title": "Can commercial low-cost drones and open-source GIS technologies be suitable for semi-automatic weed mapping for smart farming? A case study in NE Italy",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "language": "eng",
+   "volume": "13",
+   "issue": "10",
+   "pages": "1869",
+   "doi": "10.3390/rs13101869",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Montagnetti R., Guarino G. 2021, From Qgis to Qfield and vice versa: How the new Android application is facilitating the work of the archaeologist in the field, «Environmental Sciences Proceedings», 10, 1, 6 (https://doi.org/10.3390/environsciproc2021010006).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Montagnetti",
+     "given": "R."
+    },
+    {
+     "family": "Guarino",
+     "given": "G."
+    }
+   ],
+   "date": "2021",
+   "title": "From Qgis to Qfield and vice versa: How the new Android application is facilitating the work of the archaeologist in the field",
+   "is_part_of": [
+    "Environmental Sciences Proceedings"
+   ],
+   "language": "eng",
+   "volume": "10",
+   "issue": "1",
+   "pages": "6",
+   "doi": "10.3390/environsciproc2021010006",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Montagnetti R., Mandolesi L. 2019, QGIS, pyArchInit and Blender: Surveying and management of archaeological data with open source solutions, «Archeomatica», 10, 4, 30-41 (https://www.yumpu.com/it/document/view/63265774/archeomatica-4-2019).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Montagnetti",
+     "given": "R."
+    },
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    }
+   ],
+   "date": "2019",
+   "title": "QGIS, pyArchInit and Blender: Surveying and management of archaeological data with open source solutions",
+   "is_part_of": [
+    "Archeomatica"
+   ],
+   "language": "eng",
+   "volume": "10",
+   "issue": "4",
+   "pages": "30-41",
+   "uri": "https://www.yumpu.com/it/document/view/63265774/archeomatica-4-2019",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Montagnetti R., Pickel D., Wilson J., Rizzo F., Soren D. 2020, New research in the Roman villa and late Roman infant and child cemetery at Poggio Gramignano (Lugnano in Teverina, Umbria, Italy), «European Journal of Post-Classical Archaeologies», 10, 279-302 (http://www.postclassical.it/PCA_Vol.10_files/PCA10_Montagnetti-et-al.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Montagnetti",
+     "given": "R."
+    },
+    {
+     "family": "Pickel",
+     "given": "D."
+    },
+    {
+     "family": "Wilson",
+     "given": "J."
+    },
+    {
+     "family": "Rizzo",
+     "given": "F."
+    },
+    {
+     "family": "Soren",
+     "given": "D."
+    }
+   ],
+   "date": "2020",
+   "title": "New research in the Roman villa and late Roman infant and child cemetery at Poggio Gramignano (Lugnano in Teverina, Umbria, Italy)",
+   "is_part_of": [
+    "European Journal of Post-Classical Archaeologies"
+   ],
+   "language": "eng",
+   "volume": "10",
+   "pages": "279-302",
+   "uri": "http://www.postclassical.it/PCA_Vol.10_files/PCA10_Montagnetti-et-al.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Montagnetti R., Rosati P. 2019, Georiferire la stratigrafia archeologica, in P. Grossi et al. (eds.), ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica, Atti del XII Workshop (Roma 2018), «Archeologia e Calcolatori», 30, 463-466 (https://doi.org/10.19282/ac.30.2019.30).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Montagnetti",
+     "given": "R."
+    },
+    {
+     "family": "Rosati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grossi",
+     "given": "P."
+    }
+   ],
+   "date": "2019",
+   "title": "Georiferire la stratigrafia archeologica",
+   "is_part_of": [
+    "ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica, Atti del XII Workshop (Roma 2018)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "30",
+   "pages": "463-466",
+   "doi": "10.19282/ac.30.2019.30",
+   "cited_aec_id": 1066,
+   "notes": "editors cited as 'P. Grossi et al.'",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Nardini A. 2000, La piattaforma GIS dello scavo di Poggio Imperiale a Poggibonsi. Dalla creazione del modello dei dati alla loro lettura, in A. D'Andrea, F. Niccolucci (eds.), Atti del I workshop Nazionale di Archeologia Computazionale (Napoli-Firenze 1999), «Archeologia e Calcolatori», 11, 111-123 (http://www.archcalc.cnr.it/indice/PDF11/1.07%20Nardini.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nardini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "La piattaforma GIS dello scavo di Poggio Imperiale a Poggibonsi. Dalla creazione del modello dei dati alla loro lettura",
+   "is_part_of": [
+    "Atti del I workshop Nazionale di Archeologia Computazionale (Napoli-Firenze 1999)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "11",
+   "pages": "111-123",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF11/1.07%20Nardini.pdf",
+   "cited_aec_id": 291,
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Pellicanò A., Sassoli U. 2001, Il progetto Carta Archeologica della Regione Toscana, in R. Francovich, M. Pasquinucci, A. Pellicanò (eds.), La Carta Archeologica fra ricerca e pianificazione territoriale. Atti del Seminario di Studi organizzato dalla Regione Toscana, Dipartimento delle Politiche Formative e dei Beni Culturali, Firenze, All'Insegna del Giglio, 21-23.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pellicanò",
+     "given": "A."
+    },
+    {
+     "family": "Sassoli",
+     "given": "U."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Pasquinucci",
+     "given": "M."
+    },
+    {
+     "family": "Pellicanò",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Il progetto Carta Archeologica della Regione Toscana",
+   "is_part_of": [
+    "La Carta Archeologica fra ricerca e pianificazione territoriale. Atti del Seminario di Studi organizzato dalla Regione Toscana, Dipartimento delle Politiche Formative e dei Beni Culturali"
+   ],
+   "language": "ita",
+   "pages": "21-23",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "xref": 7,
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Valenti M. 2000, La piattaforma GIS dello scavo. Filosofia di lavoro e provocazioni, modello dei dati e \"soluzione GIS\", in A. D'Andrea, F. Niccolucci (eds.), Atti del I Workshop Nazionale di Archeologia Computazionale (Napoli-Firenze 1999), «Archeologia e Calcolatori», 11, 93-109 (http://www.archcalc.cnr.it/indice/PDF11/1.06%20Valenti.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "La piattaforma GIS dello scavo. Filosofia di lavoro e provocazioni, modello dei dati e \"soluzione GIS\"",
+   "is_part_of": [
+    "Atti del I Workshop Nazionale di Archeologia Computazionale (Napoli-Firenze 1999)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "11",
+   "pages": "93-109",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF11/1.06%20Valenti.pdf",
+   "cited_aec_id": 290,
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "https://www.claris.com/it/filemaker/pro/",
+   "type": "other",
+   "title": "https://www.claris.com/it/filemaker/pro/",
+   "uri": "https://www.claris.com/it/filemaker/pro/",
+   "notes": "web resource, no other data in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "https://www.python.org/",
+   "type": "other",
+   "title": "https://www.python.org/",
+   "uri": "https://www.python.org/",
+   "notes": "web resource, no other data in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "https://www.postgresql.org/",
+   "type": "other",
+   "title": "https://www.postgresql.org/",
+   "uri": "https://www.postgresql.org/",
+   "notes": "web resource, no other data in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "https://www.gaia-gis.it/",
+   "type": "other",
+   "title": "https://www.gaia-gis.it/",
+   "uri": "https://www.gaia-gis.it/",
+   "notes": "web resource, no other data in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "https://www.QGIS.org/it/site/",
+   "type": "other",
+   "title": "https://www.QGIS.org/it/site/",
+   "uri": "https://www.QGIS.org/it/site/",
+   "notes": "web resource, no other data in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "https://github.com/pyarchinit/pyarchinit",
+   "type": "other",
+   "title": "https://github.com/pyarchinit/pyarchinit",
+   "uri": "https://github.com/pyarchinit/pyarchinit",
+   "notes": "web resource, no other data in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "https://www.archeo3.it/",
+   "type": "other",
+   "title": "https://www.archeo3.it/",
+   "uri": "https://www.archeo3.it/",
+   "notes": "web resource, no other data in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "https://qfield.org/",
+   "type": "other",
+   "title": "https://qfield.org/",
+   "uri": "https://qfield.org/",
+   "notes": "web resource, no other data in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "https://pyarchinit.org/",
+   "type": "other",
+   "title": "https://pyarchinit.org/",
+   "uri": "https://pyarchinit.org/",
+   "notes": "web resource, no other data in the citation",
+   "confidence": "high"
+  }
+ ]
+}

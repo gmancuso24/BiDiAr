@@ -1,0 +1,64 @@
+{
+ "citing_aec_id": 911,
+ "source_file": "data/journal/28/911.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Alberti L., Sfameni C. 2015, *La collaborazione scientifica fra l'ISMA e l'Istituto Storico del Montenegro. Un primo risultato di DIPLOMAzia 2014*, «ISMAgazine», 2, 12-13.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Alberti",
+     "given": "L."
+    },
+    {
+     "family": "Sfameni",
+     "given": "C."
+    }
+   ],
+   "date": "2015",
+   "title": "La collaborazione scientifica fra l'ISMA e l'Istituto Storico del Montenegro. Un primo risultato di DIPLOMAzia 2014",
+   "is_part_of": [
+    "ISMAgazine"
+   ],
+   "volume": "2",
+   "pages": "12-13",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Caravale A. (ed.) 2016, *Scavare, documentare, conservare. Viaggio nella ricerca archeologica del CNR*, Roma, CNR.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Scavare, documentare, conservare. Viaggio nella ricerca archeologica del CNR",
+   "publisher": "CNR",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Koprivica T. 2013, *Diaries entries and photographic documentation of J. A. R. Munro related to the archaeological exploration of Doclea (Montenegro) in 1893*, «Zograf», 37, 1-15.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Koprivica",
+     "given": "T."
+    }
+   ],
+   "date": "2013",
+   "title": "Diaries entries and photographic documentation of J. A. R. Munro related to the archaeological exploration of Doclea (Montenegro) in 1893",
+   "is_part_of": [
+    "Zograf"
+   ],
+   "volume": "37",
+   "pages": "1-15",
+   "language": "eng"
+  }
+ ]
+}

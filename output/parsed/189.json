@@ -1,0 +1,472 @@
+{
+ "citing_aec_id": 189,
+ "source_file": "data/journal/7/189.md",
+ "references": [
+  {
+   "raw": "BOSSIO L. 1992, Le politiche dei beni culturali in Europa, Bologna, Il Mulino.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Bossio",
+     "given": "L."
+    }
+   ],
+   "type": "book",
+   "title": "Le politiche dei beni culturali in Europa",
+   "place": "Bologna",
+   "publisher": "Il Mulino",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "BONILAURI F. 1993, I musei e l'IBC, «IBC. Informazioni Commenti Inchieste sui Beni Culturali», 1/4, 43-45.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Bonilauri",
+     "given": "F."
+    }
+   ],
+   "type": "article",
+   "title": "I musei e l'IBC",
+   "is_part_of": [
+    "IBC. Informazioni Commenti Inchieste sui Beni Culturali"
+   ],
+   "pages": "43-45",
+   "volume": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2,
+   "issue": "4"
+  },
+  {
+   "raw": "CORTI L. 1992, Beni culturali: standards di rappresentazione, descrizione e vocabolario, Modena, Franco Cosimo Panini.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Corti",
+     "given": "L."
+    }
+   ],
+   "type": "book",
+   "title": "Beni culturali: standards di rappresentazione, descrizione e vocabolario",
+   "place": "Modena",
+   "publisher": "Franco Cosimo Panini",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "CRC 1995, Beni archeologici. La precatalogazione dei beni culturali. Fasi operative - standard di qualità, Bologna, C.R.C. - Centro Regionale per il Catalogo e la documentazione. Testo ad uso interno per lo sviluppo del progetto ex L. 145/92.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "CRC",
+     "given": ""
+    }
+   ],
+   "type": "other",
+   "title": "Beni archeologici. La precatalogazione dei beni culturali. Fasi operative - standard di qualità",
+   "language": "ita",
+   "confidence": "high",
+   "position": 4,
+   "place": "Bologna",
+   "publisher": "C.R.C. - Centro Regionale per il Catalogo e la documentazione",
+   "notes": "Testo ad uso interno per lo sviluppo del progetto ex L. 145/92"
+  },
+  {
+   "raw": "DESC 1992, Desc. Data Entry, Stampa e Consultazione dei dati delle schede di catalogo. Manuale d'uso, Roma, ICCD.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "DESC",
+     "given": ""
+    }
+   ],
+   "type": "other",
+   "title": "Desc. Data Entry, Stampa e Consultazione dei dati delle schede di catalogo. Manuale d'uso",
+   "place": "Roma",
+   "publisher": "ICCD",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "GUERMANDI M.P. 1992, Musei e informatica: la favola di Cenerentola e del principe azzurro, in S. SANTORO BIANCHI (ed.), Un secolo di archeologia: dall'album all'informatica. Catalogo della mostra, Bologna, edizioni Age, 264-272.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "type": "chapter",
+   "title": "Musei e informatica: la favola di Cenerentola e del principe azzurro",
+   "editors": [
+    {
+     "family": "Santoro Bianchi",
+     "given": "S."
+    }
+   ],
+   "pages": "264-272",
+   "is_part_of": [
+    "Un secolo di archeologia: dall'album all'informatica. Catalogo della mostra"
+   ],
+   "place": "Bologna",
+   "publisher": "edizioni Age",
+   "language": "ita",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "GUERMANDI M.P. 1993, Strumento o tormento, «IBC. Informazioni Commenti Inchieste sui beni culturali», 1/5, 20-24.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "type": "article",
+   "title": "Strumento o tormento",
+   "is_part_of": [
+    "IBC. Informazioni Commenti Inchieste sui beni culturali"
+   ],
+   "pages": "20-24",
+   "volume": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7,
+   "issue": "5"
+  },
+  {
+   "raw": "GUERMANDI M.P. 1994a, Il rinnovamento manageriale e la gestione dei beni culturali in Italia. Il caso dell'Istituto dei beni culturali e un esempio negativo: la catalogazione del patrimonio culturale nazionale, in R. MELE, P. POPOLI (edd.), La gestione delle aziende pubbliche. Principi e tecniche innovative, Rimini, Maggioli, 340-346.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il rinnovamento manageriale e la gestione dei beni culturali in Italia. Il caso dell'Istituto dei beni culturali e un esempio negativo: la catalogazione del patrimonio culturale nazionale",
+   "editors": [
+    {
+     "family": "Mele",
+     "given": "R."
+    },
+    {
+     "family": "Popoli",
+     "given": "P."
+    }
+   ],
+   "pages": "340-346",
+   "is_part_of": [
+    "La gestione delle aziende pubbliche. Principi e tecniche innovative"
+   ],
+   "place": "Rimini",
+   "publisher": "Maggioli",
+   "language": "ita",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "GUERMANDI M.P. 1994b, La qualità e la quantità: l'informatica nel trattamento dell'informazione iconografica. L'esempio del progetto \"Spina\", in F. BOCCHI, P. DENLEY (edd.), Storia e multimedia. Atti del settimo Congresso Internazionale Association for History & Computing, Bologna, Grafis, 196-213.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "type": "chapter",
+   "title": "La qualità e la quantità: l'informatica nel trattamento dell'informazione iconografica. L'esempio del progetto \"Spina\"",
+   "editors": [
+    {
+     "family": "Bocchi",
+     "given": "F."
+    },
+    {
+     "family": "Denley",
+     "given": "P."
+    }
+   ],
+   "pages": "196-213",
+   "is_part_of": [
+    "Storia e multimedia. Atti del settimo Congresso Internazionale Association for History & Computing"
+   ],
+   "place": "Bologna",
+   "publisher": "Grafis",
+   "language": "ita",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "GUERMANDI M.P. 1994c, Documentation of national heritage: the endless challenge, in Prometheus. New Technologies in Culture. International Workshop, Athens 14-16 April 1994, Athens, Lambrakis Research Foundation, 75-88.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "type": "chapter",
+   "title": "Documentation of national heritage: the endless challenge",
+   "pages": "75-88",
+   "is_part_of": [
+    "Prometheus. New Technologies in Culture. International Workshop, Athens 14-16 April 1994"
+   ],
+   "place": "Athens",
+   "publisher": "Lambrakis Research Foundation",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "GUERMANDI M.P., MIGNANI S., MONTANARI A. 1994, Il trattamento dei dati iconografici nell'ambito della ceramica attica e l'esempio del progetto Spina, «Archeologia e Calcolatori», 5, 111-140.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    },
+    {
+     "family": "Mignani",
+     "given": "S."
+    },
+    {
+     "family": "Montanari",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Il trattamento dei dati iconografici nell'ambito della ceramica attica e l'esempio del progetto Spina",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "111-140",
+   "volume": "5",
+   "language": "ita",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "GUERMANDI M.P. 1995, Il computer nel museo tra gestione, comunicazione e ricerca: il difficile confronto tra vecchi problemi e nuove esigenze, in M. TONON (ed.), Comunicare Avicom 1993, Atti 3° Congresso, Cosenza, Media House, 153-162.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il computer nel museo tra gestione, comunicazione e ricerca: il difficile confronto tra vecchi problemi e nuove esigenze",
+   "editors": [
+    {
+     "family": "Tonon",
+     "given": "M."
+    }
+   ],
+   "pages": "153-162",
+   "is_part_of": [
+    "Comunicare Avicom 1993, Atti 3° Congresso"
+   ],
+   "place": "Cosenza",
+   "publisher": "Media House",
+   "language": "ita",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "ISTAT 1995, Indagine statistica sui musei e le istituzioni similari, Roma, Istat.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Istat",
+     "given": ""
+    }
+   ],
+   "type": "book",
+   "title": "Indagine statistica sui musei e le istituzioni similari",
+   "place": "Roma",
+   "publisher": "Istat",
+   "language": "ita",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "MANTOVANI L.D. 1993, Sulla strada del sistema, «IBC. Informazioni Commenti Inchieste sui Beni Culturali», 1/4, 42.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Mantovani",
+     "given": "L.D."
+    }
+   ],
+   "type": "article",
+   "title": "Sulla strada del sistema",
+   "is_part_of": [
+    "IBC. Informazioni Commenti Inchieste sui Beni Culturali"
+   ],
+   "pages": "42",
+   "volume": "1",
+   "language": "ita",
+   "confidence": "high",
+   "position": 14,
+   "issue": "4"
+  },
+  {
+   "raw": "MANTOVANI L.D. 1994, Un sistema in movimento, «IBC. Informazioni Commenti Inchieste sui Beni Culturali», 2/3, 4-5.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Mantovani",
+     "given": "L.D."
+    }
+   ],
+   "type": "article",
+   "title": "Un sistema in movimento",
+   "is_part_of": [
+    "IBC. Informazioni Commenti Inchieste sui Beni Culturali"
+   ],
+   "pages": "4-5",
+   "volume": "2",
+   "language": "fre",
+   "confidence": "high",
+   "position": 15,
+   "issue": "3"
+  },
+  {
+   "raw": "REES J. 1991, Intellectual property and interactive multimedia collaborations, in D. BEARMAN (ed.), Hypermedia & Interactivity in Museums. Proceedings of an International Conference, Pittsburgh, 14-16 October 1991, Pittsburgh, Archives and Museum Informatics, 257-264.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Rees",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "Intellectual property and interactive multimedia collaborations",
+   "editors": [
+    {
+     "family": "Bearman",
+     "given": "D."
+    }
+   ],
+   "pages": "257-264",
+   "is_part_of": [
+    "Hypermedia & Interactivity in Museums. Proceedings of an International Conference, Pittsburgh, 14-16 October 1991"
+   ],
+   "place": "Pittsburgh",
+   "publisher": "Archives and Museum Informatics",
+   "language": "eng",
+   "confidence": "high",
+   "position": 16
+  },
+  {
+   "raw": "REES J. 1994, Copyright issues: technological realities and future directions, in Prometheus. New Technologies in Culture. International Workshop, Athens 14-16 April 1994, Athens, Lambrakis Research Foundation, 151-164.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Rees",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "Copyright issues: technological realities and future directions",
+   "pages": "151-164",
+   "is_part_of": [
+    "Prometheus. New Technologies in Culture. International Workshop, Athens 14-16 April 1994"
+   ],
+   "place": "Athens",
+   "publisher": "Lambrakis Research Foundation",
+   "language": "eng",
+   "confidence": "high",
+   "position": 17
+  },
+  {
+   "raw": "RUGGERI M. (ed.) 1992, Strutturazione dei dati delle schede di catalogo e precatalogo. Beni archeologici. Reperti mobili. Schede RA - N, Roma, ICCD.",
+   "date": "1992",
+   "editors": [
+    {
+     "family": "Ruggeri",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Strutturazione dei dati delle schede di catalogo e precatalogo. Beni archeologici. Reperti mobili. Schede RA - N",
+   "place": "Roma",
+   "publisher": "ICCD",
+   "language": "ita",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "RUGGERI M. (ed.) 1993, Strutturazione dei dati delle schede inventariali. Beni mobili archeologici, Roma, Istituto Poligrafico e Zecca dello Stato.",
+   "date": "1993",
+   "editors": [
+    {
+     "family": "Ruggeri",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Strutturazione dei dati delle schede inventariali. Beni mobili archeologici",
+   "place": "Roma",
+   "publisher": "Istituto Poligrafico e Zecca dello Stato",
+   "language": "ita",
+   "confidence": "high",
+   "position": 19
+  },
+  {
+   "raw": "SANI M., LAVECCHIA F., LOSI D. 1992, SIRIS. Sistema informativo dei beni culturali e delle fonti documentarie, «Archeologia e Calcolatori», 3, 121-138.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Sani",
+     "given": "M."
+    },
+    {
+     "family": "Lavecchia",
+     "given": "F."
+    },
+    {
+     "family": "Losi",
+     "given": "D."
+    }
+   ],
+   "type": "article",
+   "title": "SIRIS. Sistema informativo dei beni culturali e delle fonti documentarie",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "121-138",
+   "volume": "3",
+   "language": "ita",
+   "confidence": "high",
+   "position": 20
+  },
+  {
+   "raw": "SANI M. 1994, Il catalogatore in opera, «IBC. Informazioni Commenti Inchieste sui Beni Culturali», 2/3, 38-42.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Sani",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Il catalogatore in opera",
+   "is_part_of": [
+    "IBC. Informazioni Commenti Inchieste sui Beni Culturali"
+   ],
+   "pages": "38-42",
+   "volume": "2",
+   "language": "ita",
+   "confidence": "high",
+   "position": 21,
+   "issue": "3"
+  }
+ ]
+}

@@ -1,0 +1,165 @@
+{
+ "citing_aec_id": 115,
+ "source_file": "data/journal/6/115.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BRIDGER C., HERZOG I. 1991, Die Stratigraphische Method und ein neues pc-Programm zur Erstellung der Harris-Matrix, «Archäologisches Korrespondenzblatt», 2, 133-144.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bridger",
+     "given": "C."
+    },
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "date": "1991",
+   "title": "Die Stratigraphische Method und ein neues pc-Programm zur Erstellung der Harris-Matrix",
+   "is_part_of": [
+    "Archäologisches Korrespondenzblatt"
+   ],
+   "volume": "2",
+   "pages": "133-144",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "HERZOG I. 1993, Computer-aided Harris Matrix generation, in Principles of Archaeological Stratigraphy, London, Academic Press.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "date": "1993",
+   "title": "Computer-aided Harris Matrix generation",
+   "is_part_of": [
+    "Principles of Archaeological Stratigraphy"
+   ],
+   "place": "London",
+   "publisher": "Academic Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "CARANDINI A. 1991, Storia della terra: manuale di scavo archeologico, Torino, Einaudi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    }
+   ],
+   "date": "1991",
+   "title": "Storia della terra: manuale di scavo archeologico",
+   "place": "Torino",
+   "publisher": "Einaudi",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "HARRIS E.C. 1979, Principles of Archaeological Stratigraphy, London (2nd edition 1989), Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "E.C."
+    }
+   ],
+   "date": "1979",
+   "title": "Principles of Archaeological Stratigraphy",
+   "place": "London",
+   "publisher": "Academic Press",
+   "notes": "cited with \"(2nd edition 1989)\"; edition not set",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "HARRIS E.C., REECE R. 1979, An Aid for the Study of Artifacts from Stratified Sites, «Archéologie en Bretagne», 20-21, 27-34.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "E.C."
+    },
+    {
+     "family": "Reece",
+     "given": "R."
+    }
+   ],
+   "date": "1979",
+   "title": "An Aid for the Study of Artifacts from Stratified Sites",
+   "is_part_of": [
+    "Archéologie en Bretagne"
+   ],
+   "volume": "20-21",
+   "pages": "27-34",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "MAGGIOLO-SCHETTINI A., SECCACINI P., SERRATORE C.D., PIEROBON-BENOIT R., SORICELLI G. 1994, SYSAND: A System for the Archaeological Excavations of Anderitum (Javols, Lozère, France), presented at CAA’94.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Maggiolo-Schettini",
+     "given": "A."
+    },
+    {
+     "family": "Seccacini",
+     "given": "P."
+    },
+    {
+     "family": "Serratore",
+     "given": "C.D."
+    },
+    {
+     "family": "Pierobon-Benoit",
+     "given": "R."
+    },
+    {
+     "family": "Soricelli",
+     "given": "G."
+    }
+   ],
+   "date": "1994",
+   "title": "SYSAND: A System for the Archaeological Excavations of Anderitum (Javols, Lozère, France)",
+   "is_part_of": [
+    "CAA’94"
+   ],
+   "notes": "paper presented at the conference",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "SECCACINI P., SERRATORE C.D. 1993, Elaborazione e rappresentazione di stratigrafie in un sistema di dati archeologici, Tesi di laurea in Scienze dell’Informazione, Università di Pisa, aa. 1992-1993.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Seccacini",
+     "given": "P."
+    },
+    {
+     "family": "Serratore",
+     "given": "C.D."
+    }
+   ],
+   "date": "1993",
+   "title": "Elaborazione e rappresentazione di stratigrafie in un sistema di dati archeologici",
+   "publisher": "Università di Pisa",
+   "notes": "Tesi di laurea in Scienze dell’Informazione, aa. 1992-1993",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

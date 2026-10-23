@@ -1,0 +1,771 @@
+{
+ "citing_aec_id": 1157,
+ "source_file": "data/journal/32/1157.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Cerchiai L. 2018, Società dei vivi, comunità dei morti: qualche anno dopo, «Annali di Archeologia e Storia antica», n.s. 25, 152-158.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cerchiai",
+     "given": "L."
+    }
+   ],
+   "date": "2018",
+   "title": "Società dei vivi, comunità dei morti: qualche anno dopo",
+   "is_part_of": [
+    "Annali di Archeologia e Storia antica"
+   ],
+   "volume": "n.s. 25",
+   "pages": "152-158",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "d'Agostino B. 1985, Società dei vivi, comunità dei morti: un rapporto difficile, «Dialoghi di archeologia», n.s. 1, 47-58.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "d'Agostino",
+     "given": "B."
+    }
+   ],
+   "date": "1985",
+   "title": "Società dei vivi, comunità dei morti: un rapporto difficile",
+   "is_part_of": [
+    "Dialoghi di archeologia"
+   ],
+   "volume": "n.s. 1",
+   "pages": "47-58",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Di Giuseppantonio Di Franco P., Galeazzi F., Vassallo V. 2018a, Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions, Cambridge, McDonald Institute for Archaeological Research.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Di Giuseppantonio Di Franco",
+     "given": "P."
+    },
+    {
+     "family": "Galeazzi",
+     "given": "F."
+    },
+    {
+     "family": "Vassallo",
+     "given": "V."
+    }
+   ],
+   "date": "2018",
+   "title": "Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions",
+   "publisher": "McDonald Institute for Archaeological Research",
+   "place": "Cambridge",
+   "language": "eng",
+   "notes": "cited as 2018a",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Di Giuseppantonio Di Franco P., Galeazzi F., Vassallo V. 2018b, Introduction. Why authenticity still matters today, in Di Giuseppantonio Di Franco, Galeazzi, Vassallo 2018a, 1-9.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Giuseppantonio Di Franco",
+     "given": "P."
+    },
+    {
+     "family": "Galeazzi",
+     "given": "F."
+    },
+    {
+     "family": "Vassallo",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Di Giuseppantonio Di Franco",
+     "given": "P."
+    },
+    {
+     "family": "Galeazzi",
+     "given": "F."
+    },
+    {
+     "family": "Vassallo",
+     "given": "V."
+    }
+   ],
+   "date": "2018",
+   "title": "Introduction. Why authenticity still matters today",
+   "is_part_of": [
+    "Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions"
+   ],
+   "pages": "1-9",
+   "publisher": "McDonald Institute for Archaeological Research",
+   "place": "Cambridge",
+   "language": "eng",
+   "notes": "cited as 2018b, \"in Di Giuseppantonio Di Franco, Galeazzi, Vassallo 2018a\"",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Djindjian F. 2007, The virtual museum: An introduction, in P. Moscati (ed.), Virtual Museums and Archaeology. The Contribution of the Italian National Research Council, «Archeologia e Calcolatori», Suppl. 1, 9-14 (http://www.archcalc.cnr.it/indice/Suppl_1/2_Djindjian.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2007",
+   "title": "The virtual museum: An introduction",
+   "is_part_of": [
+    "Virtual Museums and Archaeology. The Contribution of the Italian National Research Council",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 1",
+   "pages": "9-14",
+   "language": "eng",
+   "uri": "http://www.archcalc.cnr.it/indice/Suppl_1/2_Djindjian.pdf",
+   "cited_aec_id": 458,
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Ercek R., Viviers D., Warzée N. 2010, 3D reconstruction and digitalization of an archeological site, Itanos, Crete, «Virtual Archaeology Review», 1, 1, 81-85 (https://doi.org/10.4995/var.2010.4794).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ercek",
+     "given": "R."
+    },
+    {
+     "family": "Viviers",
+     "given": "D."
+    },
+    {
+     "family": "Warzée",
+     "given": "N."
+    }
+   ],
+   "date": "2010",
+   "title": "3D reconstruction and digitalization of an archeological site, Itanos, Crete",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "volume": "1",
+   "issue": "1",
+   "pages": "81-85",
+   "language": "eng",
+   "doi": "10.4995/var.2010.4794",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Eslami D., Di Angelo L., Di Stefano P., Pane C. 2020, Review of computer-based methods for archaeological ceramic sherds reconstruction, «Virtual Archaeology Review», 11, 23, 34-49 (https://doi.org/10.4995/var.2020.13134).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Eslami",
+     "given": "D."
+    },
+    {
+     "family": "Di Angelo",
+     "given": "L."
+    },
+    {
+     "family": "Di Stefano",
+     "given": "P."
+    },
+    {
+     "family": "Pane",
+     "given": "C."
+    }
+   ],
+   "date": "2020",
+   "title": "Review of computer-based methods for archaeological ceramic sherds reconstruction",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "volume": "11",
+   "issue": "23",
+   "pages": "34-49",
+   "language": "eng",
+   "doi": "10.4995/var.2020.13134",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Forte M., Beltrami R. 2000, A proposito di Virtual Archaeology: disordini, interazioni cognitive e virtualità, «Archeologia e Calcolatori», 11, 273-300 (http://www.archcalc.cnr.it/indice/PDF11/1.17%20Forte.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Beltrami",
+     "given": "R."
+    }
+   ],
+   "date": "2000",
+   "title": "A proposito di Virtual Archaeology: disordini, interazioni cognitive e virtualità",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "273-300",
+   "language": "ita",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF11/1.17%20Forte.pdf",
+   "cited_aec_id": 302,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Garagnani S. 2017, Archaeological Building Information Modeling: Beyond scalable representation of architecture and archaeology, in Garagnani, Gaucci 2017, 141-149 (https://doi.org/10.19282/AC.28.2.2017.09).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Archaeological Building Information Modeling: Beyond scalable representation of architecture and archaeology",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and Dissemination of Ancient Urban Areas. Proceedings of the KAINUA 2017 International Conference in Honour of Professor Giuseppe Sassatelli's 70th Birthday (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "141-149",
+   "language": "eng",
+   "doi": "10.19282/AC.28.2.2017.09",
+   "cited_aec_id": 922,
+   "notes": "cited \"in Garagnani, Gaucci 2017\"",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Garagnani S., Gaucci A. (eds.) 2017, Knowledge, Analysis and Innovative Methods for the Study and Dissemination of Ancient Urban Areas. Proceedings of the KAINUA 2017 International Conference in Honour of Professor Giuseppe Sassatelli's 70th Birthday (Bologna 2017), «Archeologia e Calcolatori», 28.2 (http://www.archcalc.cnr.it/journal/idyear.php?IDyear=20172-01-01).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Knowledge, Analysis and Innovative Methods for the Study and Dissemination of Ancient Urban Areas. Proceedings of the KAINUA 2017 International Conference in Honour of Professor Giuseppe Sassatelli's 70th Birthday (Bologna 2017)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "language": "eng",
+   "uri": "http://www.archcalc.cnr.it/journal/idyear.php?IDyear=20172-01-01",
+   "notes": "whole issue 28.2 cited as a volume",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Garagnani S., Gaucci A. 2020, The ArchaeoBIM method and the role of digital models in archaeology, «Archeologia e Calcolatori», 31.2, 188-191 (https://doi.org/10.19282/ac.31.2.2020.17).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2020",
+   "title": "The ArchaeoBIM method and the role of digital models in archaeology",
+   "is_part_of": [
+    "Logic and Computing. The Underlying Basis of Digital Archaeology. Proceedings of the MetroArchaeo 2019 Special Session, 2019 IMEKO TC-4 International Conference on Metrology for Archaeology and Cultural Heritage (Florence 2019)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "31",
+   "issue": "2",
+   "pages": "188-191",
+   "language": "eng",
+   "doi": "10.19282/ac.31.2.2020.17",
+   "cited_aec_id": 1102,
+   "notes": "pages cited 188-191; AeC metadata 181-188",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Garagnani S., Gaucci A., Moscati P., Gaiani M. 2021, ArchaeoBIM. Theory, Processes and Methodologies for the Lost Heritage, Bologna, Bologna University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Gaiani",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "ArchaeoBIM. Theory, Processes and Methodologies for the Lost Heritage",
+   "publisher": "Bologna University Press",
+   "place": "Bologna",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Gaucci A. 2015, Organizzazione degli spazi funerari a Spina e in area delizia con particolare riguardo al periodo tardo-arcaico, «Annali della Fondazione per il Museo Claudio Faina», 22, 113-170.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2015",
+   "title": "Organizzazione degli spazi funerari a Spina e in area delizia con particolare riguardo al periodo tardo-arcaico",
+   "is_part_of": [
+    "Annali della Fondazione per il Museo Claudio Faina"
+   ],
+   "volume": "22",
+   "pages": "113-170",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Gaucci A. 2017, Kainua Project: Principles, theoretical framework and archaeological analysis, in Garagnani, Gaucci 2017, 99-112 (https://doi.org/10.19282/AC.28.2.2017.06).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Kainua Project: Principles, theoretical framework and archaeological analysis",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and Dissemination of Ancient Urban Areas. Proceedings of the KAINUA 2017 International Conference in Honour of Professor Giuseppe Sassatelli's 70th Birthday (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "99-112",
+   "language": "eng",
+   "doi": "10.19282/AC.28.2.2017.06",
+   "cited_aec_id": 919,
+   "notes": "cited \"in Garagnani, Gaucci 2017\"",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Gaucci A., Govi E., Pizzirani C. 2020, Urbanism and architecture in the Etruscan city of Kainua-Marzabotto: New perspectives, in L. Zamboni, M. Fernández-Götz, C. Metzner-Nebelsick (eds.), Crossing the Alps. Early Urbanism between Northern Italy and Central Europe (900-400 BC), Leiden, Sidestone Press, 123-136 (https://www.sidestone.com/books/crossing-the-alps; accessed 02/05/2021).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    },
+    {
+     "family": "Pizzirani",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Zamboni",
+     "given": "L."
+    },
+    {
+     "family": "Fernández-Götz",
+     "given": "M."
+    },
+    {
+     "family": "Metzner-Nebelsick",
+     "given": "C."
+    }
+   ],
+   "date": "2020",
+   "title": "Urbanism and architecture in the Etruscan city of Kainua-Marzabotto: New perspectives",
+   "is_part_of": [
+    "Crossing the Alps. Early Urbanism between Northern Italy and Central Europe (900-400 BC)"
+   ],
+   "pages": "123-136",
+   "publisher": "Sidestone Press",
+   "place": "Leiden",
+   "language": "eng",
+   "uri": "https://www.sidestone.com/books/crossing-the-alps",
+   "notes": "accessed 02/05/2021",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Govi E. 2017, Kainua-Marzabotto: The archaeological framework, in Garagnani, Gaucci 2017, 87-97 (https://doi.org/10.19282/AC.28.2.2017.05).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Kainua-Marzabotto: The archaeological framework",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and Dissemination of Ancient Urban Areas. Proceedings of the KAINUA 2017 International Conference in Honour of Professor Giuseppe Sassatelli's 70th Birthday (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "87-97",
+   "language": "eng",
+   "doi": "10.19282/AC.28.2.2017.05",
+   "cited_aec_id": 918,
+   "notes": "cited \"in Garagnani, Gaucci 2017\"",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Hupperetz W., Carlani R., Pletinckx D., Pietroni E. 2012, Etruscanning 3D project. The 3D reconstruction of the Regolini Galassi Tomb as a research tool and a new approach in storytelling, «Virtual Archaeology Review», 3, 7, 92-96 (https://doi.org/10.4995/var.2012.4395).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hupperetz",
+     "given": "W."
+    },
+    {
+     "family": "Carlani",
+     "given": "R."
+    },
+    {
+     "family": "Pletinckx",
+     "given": "D."
+    },
+    {
+     "family": "Pietroni",
+     "given": "E."
+    }
+   ],
+   "date": "2012",
+   "title": "Etruscanning 3D project. The 3D reconstruction of the Regolini Galassi Tomb as a research tool and a new approach in storytelling",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "volume": "3",
+   "issue": "7",
+   "pages": "92-96",
+   "language": "eng",
+   "doi": "10.4995/var.2012.4395",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Khunti R. 2018, The Problem with Printing Palmyra: Exploring the Ethics of Using 3D Printing Technology to reconstruct Heritage, «Studies in Digital Heritage», 2, 1, 1-12 (https://doi.org/10.14434/sdh.v2i1.24590).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Khunti",
+     "given": "R."
+    }
+   ],
+   "date": "2018",
+   "title": "The Problem with Printing Palmyra: Exploring the Ethics of Using 3D Printing Technology to reconstruct Heritage",
+   "is_part_of": [
+    "Studies in Digital Heritage"
+   ],
+   "volume": "2",
+   "issue": "1",
+   "pages": "1-12",
+   "language": "eng",
+   "doi": "10.14434/sdh.v2i1.24590",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Latour B., Lowe A. 2011, The migration of the aura, or how to explore the original through its facsimiles, in T. Bartscherer, R. Coover (eds.), Switching Codes. Thinking Through Digital Technology in the Humanities and the Arts, Chicago-London, University of Chicago Press, 275-297.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Latour",
+     "given": "B."
+    },
+    {
+     "family": "Lowe",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bartscherer",
+     "given": "T."
+    },
+    {
+     "family": "Coover",
+     "given": "R."
+    }
+   ],
+   "date": "2011",
+   "title": "The migration of the aura, or how to explore the original through its facsimiles",
+   "is_part_of": [
+    "Switching Codes. Thinking Through Digital Technology in the Humanities and the Arts"
+   ],
+   "pages": "275-297",
+   "publisher": "University of Chicago Press",
+   "place": "Chicago-London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Morpurgo O. 2018, I sepolcreti etruschi di Bologna nei terreni De Luca e Battistini (fine VI-inizi IV secolo a.C.), Bologna, Bononia University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Morpurgo",
+     "given": "O."
+    }
+   ],
+   "date": "2018",
+   "title": "I sepolcreti etruschi di Bologna nei terreni De Luca e Battistini (fine VI-inizi IV secolo a.C.)",
+   "publisher": "Bononia University Press",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Moscati P. 2019, Informatica archeologica e archeologia digitale. Le risposte dalla rete, in P. Moscati (ed.), 30 anni di informatica archeologica, tra memoria e progettualità, «Archeologia e Calcolatori», 30, 21-38 (https://doi.org/10.19282/ac.30.2019.03).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2019",
+   "title": "Informatica archeologica e archeologia digitale. Le risposte dalla rete",
+   "is_part_of": [
+    "30 anni di «Archeologia e Calcolatori». Tra memoria e progettualità",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "30",
+   "pages": "21-38",
+   "language": "ita",
+   "doi": "10.19282/ac.30.2019.03",
+   "cited_aec_id": 1038,
+   "notes": "container cited as \"30 anni di informatica archeologica, tra memoria e progettualità\"",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Pietroni E., Adami A. 2014, Interacting with virtual reconstructions in museums: The Etruscanning Project, «Journal of Computer and Cultural Heritage», 7, 2 (https://doi.org/10.1145/2611375).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pietroni",
+     "given": "E."
+    },
+    {
+     "family": "Adami",
+     "given": "A."
+    }
+   ],
+   "date": "2014",
+   "title": "Interacting with virtual reconstructions in museums: The Etruscanning Project",
+   "is_part_of": [
+    "Journal of Computer and Cultural Heritage"
+   ],
+   "volume": "7",
+   "issue": "2",
+   "language": "eng",
+   "doi": "10.1145/2611375",
+   "notes": "journal cited as \"Journal of Computer and Cultural Heritage\"",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Reilly P. 2015, Additive archaeology: An alternative framework for recontextualising archaeological entities, «Open Archaeology», 1, 215-235 (https://doi.org/10.1515/opar-2015-0013).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Reilly",
+     "given": "P."
+    }
+   ],
+   "date": "2015",
+   "title": "Additive archaeology: An alternative framework for recontextualising archaeological entities",
+   "is_part_of": [
+    "Open Archaeology"
+   ],
+   "volume": "1",
+   "pages": "215-235",
+   "language": "eng",
+   "doi": "10.1515/opar-2015-0013",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Santos P., Ritz M., Fuhrmann C., Fellner D. 2017, 3D mass digitization: A milestone for archaeological documentation, «Virtual Archaeology Review», 8, 16, 1-11 (https://doi.org/10.4995/var.2017.6321).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Santos",
+     "given": "P."
+    },
+    {
+     "family": "Ritz",
+     "given": "M."
+    },
+    {
+     "family": "Fuhrmann",
+     "given": "C."
+    },
+    {
+     "family": "Fellner",
+     "given": "D."
+    }
+   ],
+   "date": "2017",
+   "title": "3D mass digitization: A milestone for archaeological documentation",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "volume": "8",
+   "issue": "16",
+   "pages": "1-11",
+   "language": "eng",
+   "doi": "10.4995/var.2017.6321",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Sassatelli G. 1988, Topografia e \"sistemazione monumentale\" delle necropoli felsinee, in LLa formazione della città preromana in Emilia Romagna. Atti del convegno di studi (Bologna - Marzabotto 1985), Bologna, Istituto per la Storia di Bologna, 197-259.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    }
+   ],
+   "date": "1988",
+   "title": "Topografia e \"sistemazione monumentale\" delle necropoli felsinee",
+   "is_part_of": [
+    "La formazione della città preromana in Emilia Romagna. Atti del convegno di studi (Bologna - Marzabotto 1985)"
+   ],
+   "pages": "197-259",
+   "publisher": "Istituto per la Storia di Bologna",
+   "place": "Bologna",
+   "language": "ita",
+   "notes": "container cited as \"LLa formazione\" (typo corrected)",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Scianna A., Gaglio G.F., La Guardia M. 2020, HBIM data management in historical and archaeological buildings, «Archeologia e Calcolatori», 31.1, 231-252 (https://doi.org/10.19282/ac.31.1.2020.11).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scianna",
+     "given": "A."
+    },
+    {
+     "family": "Gaglio",
+     "given": "G.F."
+    },
+    {
+     "family": "La Guardia",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "HBIM data management in historical and archaeological buildings",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "31",
+   "issue": "1",
+   "pages": "231-252",
+   "language": "eng",
+   "doi": "10.19282/ac.31.1.2020.11",
+   "cited_aec_id": 1122,
+   "confidence": "high"
+  }
+ ]
+}

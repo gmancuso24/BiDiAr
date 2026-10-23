@@ -1,0 +1,456 @@
+{
+ "citing_aec_id": 396,
+ "source_file": "data/journal/15/396.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ANTINUCCI F. 1993, Summa Hypermedialis (per una teoria dell’ipermedia), «Sistemi Intelligenti», 5, 2, 227-257.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Antinucci",
+     "given": "F."
+    }
+   ],
+   "date": "1993",
+   "title": "Summa Hypermedialis (per una teoria dell’ipermedia)",
+   "is_part_of": [
+    "Sistemi Intelligenti"
+   ],
+   "volume": "5",
+   "issue": "2",
+   "pages": "227-257",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "ANTINUCCI F. 1998, Musei e nuove tecnologie: dov’è il problema?, «Sistemi Intelligenti», 10, 2, 281-306.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Antinucci",
+     "given": "F."
+    }
+   ],
+   "date": "1998",
+   "title": "Musei e nuove tecnologie: dov’è il problema?",
+   "is_part_of": [
+    "Sistemi Intelligenti"
+   ],
+   "volume": "10",
+   "issue": "2",
+   "pages": "281-306",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BARRETT E. 1989, The Society of Text, Hypertext, Hypermedia and the Social Construction of Information, Cambridge Ma., The MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barrett",
+     "given": "E."
+    }
+   ],
+   "date": "1989",
+   "title": "The Society of Text, Hypertext, Hypermedia and the Social Construction of Information",
+   "publisher": "The MIT Press",
+   "place": "Cambridge Ma.",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "BONINCONTRO I. 2001, Progetto Caere: prospettive di applicazione degli standard internazionali per la codifica dei dati testuali, «Archeologia e Calcolatori», 12, 55-69.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bonincontro",
+     "given": "I."
+    }
+   ],
+   "date": "2001",
+   "title": "Progetto Caere: prospettive di applicazione degli standard internazionali per la codifica dei dati testuali",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "55-69",
+   "language": "ita",
+   "cited_aec_id": 315,
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BUSH V. 1945, As we may think, «Atlantic Monthly», 176, 101-108.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bush",
+     "given": "V."
+    }
+   ],
+   "date": "1945",
+   "title": "As we may think",
+   "is_part_of": [
+    "Atlantic Monthly"
+   ],
+   "volume": "176",
+   "pages": "101-108",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "GARDIN J.C.1979, Une archéologie théorique, Paris, Hachette.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.C."
+    }
+   ],
+   "date": "1979",
+   "title": "Une archéologie théorique",
+   "publisher": "Hachette",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "GARDIN J.C. 2002, Les modèles logico-discursifs en archéologie, in F. DJINDJIAN, P. MOSCATI (eds.), XIV Congress of the UISPP, Commission IV Data Management and Mathematical Methods in Archaeology. Proceedings of Symposia 1.3, 1.5, 1.8, 1.10 (Liège 2001), «Archeologia e Calcolatori», 13, 19-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.C."
+    }
+   ],
+   "date": "2002",
+   "title": "Les modèles logico-discursifs en archéologie",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "pages": "19-30",
+   "language": "fre",
+   "cited_aec_id": 332,
+   "notes": "AeC 13 is the UISPP Commission IV proceedings (eds Djindjian, Moscati)",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "GUERMANDI M.P. 2001, Internet e Multimedia, «Archeologia e Calcolatori», 12, 343-347.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "2001",
+   "title": "Internet e Multimedia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "343-347",
+   "language": "ita",
+   "cited_aec_id": 330,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "GUERMANDI M.P. 2003, Internet e Multimedia, «Archeologia e Calcolatori», 14, 336-339.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "2003",
+   "title": "Internet e Multimedia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "14",
+   "pages": "336-339",
+   "language": "ita",
+   "cited_aec_id": 366,
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "HODDER I., ORTON C. 1976, Spatial Analysis in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    },
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "date": "1976",
+   "title": "Spatial Analysis in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "LÉVY P. 2003, From Cyberspace to Noosphere. Organizing the human cultural heritage on line: for a global presentation, in Proceedings of Quality for Cultural Web Sites. Online Cultural Heritage for Research, Education and Cultural Tourism Communities (Parma 2003) (http://www.minervaeurope.org/events/parma/parmamaterials.htm).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lévy",
+     "given": "P."
+    }
+   ],
+   "date": "2003",
+   "title": "From Cyberspace to Noosphere. Organizing the human cultural heritage on line: for a global presentation",
+   "is_part_of": [
+    "Proceedings of Quality for Cultural Web Sites. Online Cultural Heritage for Research, Education and Cultural Tourism Communities (Parma 2003)"
+   ],
+   "language": "eng",
+   "uri": "http://www.minervaeurope.org/events/parma/parmamaterials.htm",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "MOSCATI P. 2002, From an Etruscan town to modern technologies: new advancements in the “Caere project”, in F. DJINDJIAN, P. MOSCATI (eds.), XIV Congress of the UISPP, Commission IV Data Management and Mathematical Methods in Archaeology (Liège 2001), «Archeologia e Calcolatori», 13, 135-149.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2002",
+   "title": "From an Etruscan town to modern technologies: new advancements in the “Caere project”",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "pages": "135-149",
+   "language": "eng",
+   "cited_aec_id": 339,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "NELSON T. 1980, Replacing the printed word: a complete literary system, in S.H. LAVINGTON (ed.), IFIP Congress Series Information Processing 80, Amsterdam, North-Holland Publishing Company, 1013-1023.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nelson",
+     "given": "T."
+    }
+   ],
+   "date": "1980",
+   "title": "Replacing the printed word: a complete literary system",
+   "editors": [
+    {
+     "family": "Lavington",
+     "given": "S.H."
+    }
+   ],
+   "is_part_of": [
+    "IFIP Congress Series Information Processing 80"
+   ],
+   "pages": "1013-1023",
+   "publisher": "North-Holland Publishing Company",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "PIAGET J. 1967, Biologie et connaissance, Paris, Gallimard.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Piaget",
+     "given": "J."
+    }
+   ],
+   "date": "1967",
+   "title": "Biologie et connaissance",
+   "publisher": "Gallimard",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "PRENSKY M. 2001, Digital game-based learning, New York, McGraw-Hill.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Prensky",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Digital game-based learning",
+   "publisher": "McGraw-Hill",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "RYAN N. 2001, Documenting and validating virtual archaeology, «Archeologia e Calcolatori», 12, 245-273.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ryan",
+     "given": "N."
+    }
+   ],
+   "date": "2001",
+   "title": "Documenting and validating virtual archaeology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "245-273",
+   "language": "eng",
+   "cited_aec_id": 325,
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "SCHALLER D.T., ALLISON-BUNNELL S. 2003, Practicing what we teach: how learning theory can guide development of on-line educational activities, in D. BEARMAN, J. TRANT (eds.), Proceedings of Museum and the web 2003, Archives and Museum Informatics, Pittsburgh.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Schaller",
+     "given": "D.T."
+    },
+    {
+     "family": "Allison-Bunnell",
+     "given": "S."
+    }
+   ],
+   "date": "2003",
+   "title": "Practicing what we teach: how learning theory can guide development of on-line educational activities",
+   "editors": [
+    {
+     "family": "Bearman",
+     "given": "D."
+    },
+    {
+     "family": "Trant",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of Museum and the web 2003"
+   ],
+   "publisher": "Archives and Museum Informatics",
+   "place": "Pittsburgh",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "SPIRO R., FELTOVICH P.J., JACOBSON M.J., COULSON R.L. 1995, Cognitive flexibility, contructivism and hypertext: random access instruction for advanced knowledge acquisition, in P. STEFFE, J. GALE (eds.), Constructivism in Education, New York, L.E.A., 85-107.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Spiro",
+     "given": "R."
+    },
+    {
+     "family": "Feltovich",
+     "given": "P.J."
+    },
+    {
+     "family": "Jacobson",
+     "given": "M.J."
+    },
+    {
+     "family": "Coulson",
+     "given": "R.L."
+    }
+   ],
+   "date": "1995",
+   "title": "Cognitive flexibility, constructivism and hypertext: random access instruction for advanced knowledge acquisition",
+   "editors": [
+    {
+     "family": "Steffe",
+     "given": "P."
+    },
+    {
+     "family": "Gale",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "Constructivism in Education"
+   ],
+   "pages": "85-107",
+   "publisher": "L.E.A.",
+   "place": "New York",
+   "language": "eng",
+   "notes": "\"contructivism\" in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "VARELA F. 1990, Il corpo come macchina ontologica, in M. CERUTI, L. PRETA (eds.), Che cos’è la conoscenza, Bari, Laterza, 45-54.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Varela",
+     "given": "F."
+    }
+   ],
+   "date": "1990",
+   "title": "Il corpo come macchina ontologica",
+   "editors": [
+    {
+     "family": "Ceruti",
+     "given": "M."
+    },
+    {
+     "family": "Preta",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Che cos’è la conoscenza"
+   ],
+   "pages": "45-54",
+   "publisher": "Laterza",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "VYGOTSKJI L.S. 1966, Pensiero e linguaggio, Firenze, Giunti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Vygotskji",
+     "given": "L.S."
+    }
+   ],
+   "date": "1966",
+   "title": "Pensiero e linguaggio",
+   "publisher": "Giunti",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

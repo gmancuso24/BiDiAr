@@ -1,0 +1,1917 @@
+{
+ "citing_aec_id": 1038,
+ "source_file": "data/journal/30/1038.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Aloia N., Binding C., Cuy S. et al. 2017, *Enabling European archaeological research: The ARIADNE e-infrastructure*, «Internet Archaeology», 43 (https://doi.org/10.11141/ia.43.11).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Aloia",
+     "given": "N."
+    },
+    {
+     "family": "Binding",
+     "given": "C."
+    },
+    {
+     "family": "Cuy",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Enabling European archaeological research: The ARIADNE e-infrastructure",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "43",
+   "doi": "10.11141/ia.43.11",
+   "language": "eng",
+   "notes": "cited 'et al.': only the first three authors are listed"
+  },
+  {
+   "position": 2,
+   "raw": "Arizza M., Boi V., Caravale A., Palombini A., Piergrossi A. (eds.) 2018, *I dati archeologici accessibilità, proprietà, disseminazione (Roma 2017)*, «Archeologia e Calcolatori», 29 (http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2018-01-01).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Arizza",
+     "given": "M."
+    },
+    {
+     "family": "Boi",
+     "given": "V."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Palombini",
+     "given": "A."
+    },
+    {
+     "family": "Piergrossi",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "I dati archeologici accessibilità, proprietà, disseminazione (Roma 2017)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "29",
+   "uri": "http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2018-01-01",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Averett E.W., Gordon J.M., Counts D.B. (eds.) 2016, *Mobilizing the Past for a Digital Future: The Potential of Digital Archaeology*, Grand Forks, ND, The Digital Press at the University of North Dakota (https://thedigitalpress.org/mobilizing-the-past-for-a-digital-future/).",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Averett",
+     "given": "E.W."
+    },
+    {
+     "family": "Gordon",
+     "given": "J.M."
+    },
+    {
+     "family": "Counts",
+     "given": "D.B."
+    }
+   ],
+   "date": "2016",
+   "title": "Mobilizing the Past for a Digital Future: The Potential of Digital Archaeology",
+   "publisher": "The Digital Press at the University of North Dakota",
+   "place": "Grand Forks, ND",
+   "uri": "https://thedigitalpress.org/mobilizing-the-past-for-a-digital-future/",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Barchesi C. 2006, *\"Archeologia e Calcolatori\": nuove strategie per la diffusione di contenuti in rete sulla base dell'OAI-PMH*, «Archeologia e Calcolatori», 16, 225-241 (http://www.archcalc.cnr.it/Barchesi_16_2005.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barchesi",
+     "given": "C."
+    }
+   ],
+   "date": "2006",
+   "title": "Archeologia e Calcolatori: nuove strategie per la diffusione di contenuti in rete sulla base dell'OAI-PMH",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "225-241",
+   "uri": "http://www.archcalc.cnr.it/Barchesi_16_2005.pdf",
+   "language": "ita",
+   "cited_aec_id": 412,
+   "notes": "cited year 2006; metadata year 2005 (vol. 16)"
+  },
+  {
+   "position": 5,
+   "raw": "Basso P., Caravale A., Grossi P. (eds.) 2016, *ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del IX Workshop (Verona 2014)*, «Archeologia e Calcolatori», Suppl. 7 (http://www.archcalc.cnr.it/supplements/idyear_sup.php?IDyear=2015-01-01).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Basso",
+     "given": "P."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Grossi",
+     "given": "P."
+    }
+   ],
+   "date": "2016",
+   "title": "ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del IX Workshop (Verona 2014)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 7",
+   "uri": "http://www.archcalc.cnr.it/supplements/idyear_sup.php?IDyear=2015-01-01",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Benardou A., Champion E., Dallas C., Hughes L. (eds.) 2018, *Cultural Heritage Infrastructures in Digital Humanities*, London-New York, Routledge.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Benardou",
+     "given": "A."
+    },
+    {
+     "family": "Champion",
+     "given": "E."
+    },
+    {
+     "family": "Dallas",
+     "given": "C."
+    },
+    {
+     "family": "Hughes",
+     "given": "L."
+    }
+   ],
+   "date": "2018",
+   "title": "Cultural Heritage Infrastructures in Digital Humanities",
+   "publisher": "Routledge",
+   "place": "London-New York",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Bodenhamer D.J., Corrigan J., Harris T.M. (eds.) 2010, *The Spatial Humanities. GIS and the Future of Humanities Scholarship*, Bloomington, Indiana University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Bodenhamer",
+     "given": "D.J."
+    },
+    {
+     "family": "Corrigan",
+     "given": "J."
+    },
+    {
+     "family": "Harris",
+     "given": "T.M."
+    }
+   ],
+   "date": "2010",
+   "title": "The Spatial Humanities. GIS and the Future of Humanities Scholarship",
+   "publisher": "Indiana University Press",
+   "place": "Bloomington",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Bogdani J. 2019, *PATHs: sulla creazione di un geo-database aperto dedicato all'Egitto tardoantico e medievale*, in P. Grossi (con la collaborazione di S. Costa, A. Jaia, S.G. Malatesta, F.R. Stasolla), *ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del XII Workshop (Roma 2018)*, «Archeologia e Calcolatori», 30, 461-474.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grossi",
+     "given": "P."
+    }
+   ],
+   "date": "2019",
+   "title": "PAThs: sulla creazione di un geo-database aperto dedicato all'Egitto tardoantico e medievale",
+   "is_part_of": [
+    "ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del XII Workshop (Roma 2018)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "30",
+   "pages": "461-474",
+   "language": "ita",
+   "cited_aec_id": 1068,
+   "notes": "cited 'PATHs'; cited pages 461-474, metadata pages 471-474; P. Grossi 'con la collaborazione di S. Costa, A. Jaia, S.G. Malatesta, F.R. Stasolla': only Grossi listed as editor"
+  },
+  {
+   "position": 9,
+   "raw": "Buzzetti D. 2019, *Alle origini dell'Informatica Umanistica: Humanities Computing e/o Digital Humanities?*, in Moscati, Orlandi 2019, 71-103.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Buzzetti",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "2019",
+   "title": "Alle origini dell'Informatica Umanistica: Humanities Computing e/o Digital Humanities?",
+   "is_part_of": [
+    "Il Museo virtuale dell'informatica archeologica. Una collaborazione tra l'Accademia Nazionale dei Lincei e il Consiglio Nazionale delle Ricerche. Atti della \"Segnatura\" (Roma 2017)",
+    "Rendiconti della Classe di Scienze morali, storiche e filologiche dell'Accademia Nazionale dei Lincei"
+   ],
+   "volume": "30",
+   "pages": "71-103",
+   "language": "ita",
+   "xref": 57
+  },
+  {
+   "position": 10,
+   "raw": "Calandra E. 2018, *L'Istituto Centrale per l'Archeologia. Ricerca archeologica e tutela oggi*, in Malfitana 2018, 229-238.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Calandra",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Malfitana",
+     "given": "D."
+    }
+   ],
+   "date": "2018",
+   "title": "L'Istituto Centrale per l'Archeologia. Ricerca archeologica e tutela oggi",
+   "is_part_of": [
+    "Archeologia quo vadis? Riflessioni metodologiche sul futuro di una disciplina. Atti del Workshop internazionale (Catania 2018)"
+   ],
+   "pages": "229-238",
+   "publisher": "CNR-IBAM",
+   "place": "Catania",
+   "language": "ita",
+   "xref": 44
+  },
+  {
+   "position": 11,
+   "raw": "Calandra E., Boi V. 2018, *Tra riproduzione e condivisione dei beni culturali: il ruolo dell'Istituto Centrale per l'Archeologia*, in Arizza et al. 2018, 63-72 (https://doi.org/10.19282/ac.29.2018.08).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Calandra",
+     "given": "E."
+    },
+    {
+     "family": "Boi",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Arizza",
+     "given": "M."
+    },
+    {
+     "family": "Boi",
+     "given": "V."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Palombini",
+     "given": "A."
+    },
+    {
+     "family": "Piergrossi",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Tra riproduzione e condivisione dei beni culturali: il ruolo dell'Istituto Centrale per l'Archeologia",
+   "is_part_of": [
+    "I dati archeologici accessibilità, proprietà, disseminazione (Roma 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "29",
+   "pages": "63-72",
+   "doi": "10.19282/ac.29.2018.08",
+   "language": "ita",
+   "cited_aec_id": 994,
+   "xref": 2
+  },
+  {
+   "position": 12,
+   "raw": "Caravale A. 2017, *Le risorse bibliografiche dell'archeologia in rete. Un panorama in evoluzione*, «Archeologia e Calcolatori», 28.1, 257-270 (https://doi.org/10.19282/AC.28.1.2017.15).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Le risorse bibliografiche dell'archeologia in rete. Un panorama in evoluzione",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "1",
+   "pages": "257-270",
+   "doi": "10.19282/AC.28.1.2017.15",
+   "language": "ita",
+   "cited_aec_id": 908,
+   "notes": "metadata title: 'Le risorse bibliografiche di archeologia in rete. Un panorama in evoluzione'"
+  },
+  {
+   "position": 13,
+   "raw": "Caravale A., Piergrossi A. 2012, *Archeologia in rete. Le riviste open access: risorse e prospettive*, «Archeologia e Calcolatori», 23, 187-207 (http://soi.cnr.it/archcalc/indice/PDF23/11_Caravale_Piergrossi.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Piergrossi",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Archeologia in rete. Le riviste open access: risorse e prospettive",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "187-207",
+   "uri": "http://soi.cnr.it/archcalc/indice/PDF23/11_Caravale_Piergrossi.pdf",
+   "language": "ita",
+   "cited_aec_id": 616
+  },
+  {
+   "position": 14,
+   "raw": "Chenhall R.G. 1968, *The Impact of Computers on Archaeological Theory: An Appraisal and Projection*, «Computers and the Humanities», 3, 1, 15-24 (https://www.jstor.org/stable/30203971?seq=1#page_scan_tab_contents).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Chenhall",
+     "given": "R.G."
+    }
+   ],
+   "date": "1968",
+   "title": "The Impact of Computers on Archaeological Theory: An Appraisal and Projection",
+   "is_part_of": [
+    "Computers and the Humanities"
+   ],
+   "volume": "3",
+   "issue": "1",
+   "pages": "15-24",
+   "uri": "https://www.jstor.org/stable/30203971?seq=1#page_scan_tab_contents",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Costopoulos A. 2016, *Digital Archeology Is Here (and Has Been for a While)*, «Frontiers in Digital Humanities», 3, n. 4 (https://doi.org/10.3389/fdigh.2016.00004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Costopoulos",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Digital Archeology Is Here (and Has Been for a While)",
+   "is_part_of": [
+    "Frontiers in Digital Humanities"
+   ],
+   "volume": "3",
+   "issue": "4",
+   "doi": "10.3389/fdigh.2016.00004",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Cowgill G.L. 1967, *Computer applications in archaeology*, «Computers and the Humanities», 2, 1, 17-23 (http://www.jstor.org/stable/30203945).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cowgill",
+     "given": "G.L."
+    }
+   ],
+   "date": "1967",
+   "title": "Computer applications in archaeology",
+   "is_part_of": [
+    "Computers and the Humanities"
+   ],
+   "volume": "2",
+   "issue": "1",
+   "pages": "17-23",
+   "uri": "http://www.jstor.org/stable/30203945",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "De Santo M., Niccolucci F., Richards J. 2017, *Special Issue on Digital Infrastructures for Cultural Heritage*, «Journal on Computing and Cultural Heritage», 10, 1, 3.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Santo",
+     "given": "M."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Richards",
+     "given": "J."
+    }
+   ],
+   "date": "2017",
+   "title": "Special Issue on Digital Infrastructures for Cultural Heritage",
+   "is_part_of": [
+    "Journal on Computing and Cultural Heritage"
+   ],
+   "volume": "10",
+   "issue": "1",
+   "pages": "3",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Djindjian F. 2015, *Computers and Mathematics in Archaeology, Anatomy of an Ineluctable Success!*, in Giligny et al. 2015, 1-6.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giligny",
+     "given": "F."
+    },
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Robert",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "Computers and Mathematics in Archaeology, Anatomy of an Ineluctable Success",
+   "is_part_of": [
+    "21st Century Archaeology. Concepts, methods and tools, Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology CAA 2014"
+   ],
+   "pages": "1-6",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 31
+  },
+  {
+   "position": 19,
+   "raw": "Djindjian F., Moscati P. (eds.) 2016, *Dossier: Jean-Claude Gardin (1925-2015)*, «Les nouvelles de l'archéologie», 144 (https://journals.openedition.org/nda/3448).",
+   "type": "article",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2016",
+   "title": "Dossier: Jean-Claude Gardin (1925-2015)",
+   "is_part_of": [
+    "Les Nouvelles de l'Archéologie"
+   ],
+   "volume": "144",
+   "uri": "https://journals.openedition.org/nda/3448",
+   "language": "fre",
+   "notes": "dossier edited by Djindjian and Moscati within a journal issue; editors, no creators"
+  },
+  {
+   "position": 20,
+   "raw": "Djindjian F., Noizet H., Costa L., Pouget F. (eds.) 2008, *Webmapping dans les sciences historiques et archéologiques, Actes du Colloque international (Paris 2008)*, «Archeologia e Calcolatori», 19 (http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2008-01-01).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Noizet",
+     "given": "H."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Pouget",
+     "given": "F."
+    }
+   ],
+   "date": "2008",
+   "title": "Webmapping dans les sciences historiques et archéologiques, Actes du Colloque international (Paris 2008)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "19",
+   "uri": "http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2008-01-01",
+   "language": "fre"
+  },
+  {
+   "position": 21,
+   "raw": "Doran J.E., Hodson F.R. 1975, *Mathematics and Computers in Archaeology*, Edinburgh, Edinburgh University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    },
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    }
+   ],
+   "date": "1975",
+   "title": "Mathematics and Computers in Archaeology",
+   "publisher": "Edinburgh University Press",
+   "place": "Edinburgh",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "Evans T.L., Daly P. (eds.) 2006, *Digital Archaeology: Bridging Method and Theory*, London, Routledge (https://enciklopediamoderne.files.wordpress.com/2014/09/patrick-daly-l-evans-digital-archaeology.pdf).",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Evans",
+     "given": "T.L."
+    },
+    {
+     "family": "Daly",
+     "given": "P."
+    }
+   ],
+   "date": "2006",
+   "title": "Digital Archaeology: Bridging Method and Theory",
+   "publisher": "Routledge",
+   "place": "London",
+   "uri": "https://enciklopediamoderne.files.wordpress.com/2014/09/patrick-daly-l-evans-digital-archaeology.pdf",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Fichera M.G., Malnati L., Mancinelli M.L. 2015, *Grande Progetto Pompei: la Direzione Generale per le Antichità e il piano della conoscenza*, in Serlorenzi, Leoni 2015, 25-31 (http://www.archcalc.cnr.it/indice/Suppl_7/03_Fichera_et_al.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fichera",
+     "given": "M.G."
+    },
+    {
+     "family": "Malnati",
+     "given": "L."
+    },
+    {
+     "family": "Mancinelli",
+     "given": "M.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Leoni",
+     "given": "G."
+    }
+   ],
+   "date": "2015",
+   "title": "Grande Progetto Pompei: la Direzione Generale per le Antichità e il piano della conoscenza",
+   "is_part_of": [
+    "Il SITAR nella Rete della ricerca italiana. Verso la conoscenza archeologica condivisa. Atti del III Convegno (Roma 2013)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 7",
+   "pages": "25-31",
+   "uri": "http://www.archcalc.cnr.it/indice/Suppl_7/03_Fichera_et_al.pdf",
+   "language": "ita",
+   "cited_aec_id": 806,
+   "xref": 69
+  },
+  {
+   "position": 24,
+   "raw": "Forte M. (ed.) 2010, *Cyber-Archaeology*, BAR International Series 2177, Oxford, Archaeopress.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2010",
+   "title": "Cyber-Archaeology",
+   "series": "BAR International Series",
+   "series_number": "2177",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "Forte M., Campana S. (eds.) 2016, *Digital Methods and Remote Sensing in Archaeology. Archaeology in the Age of Sensing*, Springer International Publishing Switzerland.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "Digital Methods and Remote Sensing in Archaeology. Archaeology in the Age of Sensing",
+   "publisher": "Springer International Publishing Switzerland",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "Gardin J.-C. 1965, *A Typology of Computer Uses in Anthropology*, in D. Hymes (ed.), *The Use of Computers in Anthropology*, London-The Hague-Paris, Mouton & Co, 103-117.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Hymes",
+     "given": "D."
+    }
+   ],
+   "date": "1965",
+   "title": "A Typology of Computer Uses in Anthropology",
+   "is_part_of": [
+    "The Use of Computers in Anthropology"
+   ],
+   "pages": "103-117",
+   "publisher": "Mouton & Co",
+   "place": "London-The Hague-Paris",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "Gardin J.-C. 1970, *Archéologie et calculateurs: problèmes sémiologiques et mathématiques. Actes du Colloque international sur l'emploi des calculateurs en archéologie (Marseille 1969)*, Paris, CNRS.",
+   "type": "proceedings",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1970",
+   "title": "Archéologie et calculateurs: problèmes sémiologiques et mathématiques. Actes du Colloque international sur l'emploi des calculateurs en archéologie (Marseille 1969)",
+   "publisher": "CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "cited with Gardin as author (he edited the volume); kept as cited"
+  },
+  {
+   "position": 28,
+   "raw": "Gardin J.-C. 1971, *Archaeology and computers: New perspectives*, in Use of Computers, Documentation and the Social Science Journal, «International Social Science Journal», 23, 2, 189-203 (http://unesdoc.unesco.org/images/0000/000037/003772eo.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1971",
+   "title": "Archaeology and computers: New perspectives",
+   "is_part_of": [
+    "Use of Computers, Documentation and the Social Science Journal",
+    "International Social Science Journal"
+   ],
+   "volume": "23",
+   "issue": "2",
+   "pages": "189-203",
+   "uri": "http://unesdoc.unesco.org/images/0000/000037/003772eo.pdf",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "Gattiglia G. 2018, *Classificare le ceramiche: dai metodi tradizionali all'intelligenza artificiale. L'esperienza del progetto europeo ArchAIDE*, in Malfitana 2018, 285-298.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Malfitana",
+     "given": "D."
+    }
+   ],
+   "date": "2018",
+   "title": "Classificare le ceramiche: dai metodi tradizionali all'intelligenza artificiale. L'esperienza del progetto europeo ArchAIDE",
+   "is_part_of": [
+    "Archeologia quo vadis? Riflessioni metodologiche sul futuro di una disciplina. Atti del Workshop internazionale (Catania 2018)"
+   ],
+   "pages": "285-298",
+   "publisher": "CNR-IBAM",
+   "place": "Catania",
+   "language": "ita",
+   "xref": 44
+  },
+  {
+   "position": 30,
+   "raw": "Gaucci A., Garagnani S. (eds.) 2017, *Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas. Proceedings of the KAINUA 2017 International Conference in Honour of Professor Giuseppe Sassatelli's 70th Birthday (Bologna 2017)*, «Archeologia e Calcolatori», 28.2 (https://doi.org/10.19282/AC.28.2.2017).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Garagnani",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas. Proceedings of the KAINUA 2017 International Conference in Honour of Professor Giuseppe Sassatelli's 70th Birthday (Bologna 2017)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "doi": "10.19282/AC.28.2.2017",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "Giligny F., Djindjian F., Costa L., Moscati P., Robert S. (eds.) 2015, *21st Century Archaeology. Concepts, methods and tools, Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology CAA 2014*, Oxford, Archaeopress.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Giligny",
+     "given": "F."
+    },
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Robert",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "21st Century Archaeology. Concepts, methods and tools, Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology CAA 2014",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 32,
+   "raw": "Guermandi M.P. 2019, *Archeologia, Internet, multimedialità: un saggio stratigrafico*, in Moscati, Orlandi 2019.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "2019",
+   "title": "Archeologia, Internet, multimedialità: un saggio stratigrafico",
+   "is_part_of": [
+    "Il Museo virtuale dell'informatica archeologica. Una collaborazione tra l'Accademia Nazionale dei Lincei e il Consiglio Nazionale delle Ricerche. Atti della \"Segnatura\" (Roma 2017)",
+    "Rendiconti della Classe di Scienze morali, storiche e filologiche dell'Accademia Nazionale dei Lincei"
+   ],
+   "volume": "30",
+   "language": "ita",
+   "xref": 57,
+   "notes": "no pages cited"
+  },
+  {
+   "position": 33,
+   "raw": "Huggett J. 2013, *Disciplinary Issues: Challenging the Research and Practice of Computer Applications in Archaeology*, in E. Graeme et al. (eds.), *Archaeology in the Digital Era. Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (Southampton 2012)*, Amsterdam, Amsterdam University Press, 13-24 (http://arno.uva.nl/document/516092).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Graeme",
+     "given": "E."
+    }
+   ],
+   "date": "2013",
+   "title": "Disciplinary Issues: Challenging the Research and Practice of Computer Applications in Archaeology",
+   "is_part_of": [
+    "Archaeology in the Digital Era. Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (Southampton 2012)"
+   ],
+   "pages": "13-24",
+   "publisher": "Amsterdam University Press",
+   "place": "Amsterdam",
+   "uri": "http://arno.uva.nl/document/516092",
+   "language": "eng",
+   "notes": "editors cited as 'E. Graeme et al.': only the cited form is recorded"
+  },
+  {
+   "position": 34,
+   "raw": "Huggett J. 2015a, *Challenging Digital Archaeology*, in J. Huggett, D. Tanasi (eds.), *Open Archaeology: Topical Issue on Challenging Digital Archaeology*, «Open Archaeology», 1, 1, 79-85 (https://doi.org/10.1515/opar-2015-0003).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    },
+    {
+     "family": "Tanasi",
+     "given": "D."
+    }
+   ],
+   "date": "2015",
+   "title": "Challenging Digital Archaeology",
+   "is_part_of": [
+    "Open Archaeology: Topical Issue on Challenging Digital Archaeology",
+    "Open Archaeology"
+   ],
+   "volume": "1",
+   "issue": "1",
+   "pages": "79-85",
+   "doi": "10.1515/opar-2015-0003",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "Huggett J. 2015b, *A Manifesto for an Introspective Digital Archaeology*, «Open Archaeology», 1, 1, 86-95 (https://doi.org/10.1515/opar-2015-0002).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    }
+   ],
+   "date": "2015",
+   "title": "A Manifesto for an Introspective Digital Archaeology",
+   "is_part_of": [
+    "Open Archaeology"
+   ],
+   "volume": "1",
+   "issue": "1",
+   "pages": "86-95",
+   "doi": "10.1515/opar-2015-0002",
+   "language": "eng"
+  },
+  {
+   "position": 36,
+   "raw": "Huggett J. 2017, *The Apparatus of Digital Archaeology*, «Internet Archaeology», 44 (https://doi.org/10.11141/ia.44.7).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    }
+   ],
+   "date": "2017",
+   "title": "The Apparatus of Digital Archaeology",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "44",
+   "doi": "10.11141/ia.44.7",
+   "language": "eng"
+  },
+  {
+   "position": 37,
+   "raw": "Huggett J., Reilly P., Lock G. 2018, *Whither digital archaeological knowledge? The challenge of unstable futures*, «Journal of Computer Applications in Archaeology», 1, 1, 42-54 (https://doi.org/10.5334/jcaa.7).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    },
+    {
+     "family": "Reilly",
+     "given": "P."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2018",
+   "title": "Whither digital archaeological knowledge? The challenge of unstable futures",
+   "is_part_of": [
+    "Journal of Computer Applications in Archaeology"
+   ],
+   "volume": "1",
+   "issue": "1",
+   "pages": "42-54",
+   "doi": "10.5334/jcaa.7",
+   "language": "eng"
+  },
+  {
+   "position": 38,
+   "raw": "Huggett J., Ross S. (eds.) 2004, *Archaeological Informatics. Beyond Technology*, «Internet Archaeology», 15 (https://doi.org/10.11141/ia.15.13).",
+   "type": "article",
+   "editors": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    },
+    {
+     "family": "Ross",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Archaeological Informatics. Beyond Technology",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "15",
+   "doi": "10.11141/ia.15.13",
+   "language": "eng",
+   "notes": "journal issue edited by Huggett and Ross; editors, no creators"
+  },
+  {
+   "position": 39,
+   "raw": "*I modelli nella ricerca archeologica*, Atti del Convegno Internazionale (Roma 2000), Contributi del Centro Linceo Interdisciplinare \"Beniamino Segre\" 107, Roma 2003, Accademia Nazionale dei Lincei (http://archaeologicalcomputing.lincei.it/attachment/107_2003.pdf).",
+   "type": "proceedings",
+   "date": "2003",
+   "title": "I modelli nella ricerca archeologica. Atti del Convegno Internazionale (Roma 2000)",
+   "series": "Contributi del Centro Linceo Interdisciplinare Beniamino Segre",
+   "series_number": "107",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "uri": "http://archaeologicalcomputing.lincei.it/attachment/107_2003.pdf",
+   "language": "ita"
+  },
+  {
+   "position": 40,
+   "raw": "Kansa S.W., Kansa E.C. 2018, *Data beyond the archive in digital archaeology: An introduction to the Special Section*, «Advances in Archaeological Practice», Special Issue, 6, 2, 89-92 (https://doi.org/10.1017/aap.2018.7).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kansa",
+     "given": "S.W."
+    },
+    {
+     "family": "Kansa",
+     "given": "E.C."
+    }
+   ],
+   "date": "2018",
+   "title": "Data beyond the archive in digital archaeology: An introduction to the Special Section",
+   "is_part_of": [
+    "Advances in Archaeological Practice"
+   ],
+   "volume": "6",
+   "issue": "2",
+   "pages": "89-92",
+   "doi": "10.1017/aap.2018.7",
+   "language": "eng",
+   "notes": "cited as Special Issue"
+  },
+  {
+   "position": 41,
+   "raw": "Kansa E.C., Kansa S.W., Watrall E. 2011, *Archaeology 2.0: New Approaches to Communication and Collaboration*, Los Angeles, CA, The Cotsen Institute of Archaeology at UCLA (https://escholarship.org/uc/item/1r6137tb).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kansa",
+     "given": "E.C."
+    },
+    {
+     "family": "Kansa",
+     "given": "S.W."
+    },
+    {
+     "family": "Watrall",
+     "given": "E."
+    }
+   ],
+   "date": "2011",
+   "title": "Archaeology 2.0: New Approaches to Communication and Collaboration",
+   "publisher": "The Cotsen Institute of Archaeology at UCLA",
+   "place": "Los Angeles, CA",
+   "uri": "https://escholarship.org/uc/item/1r6137tb",
+   "language": "eng"
+  },
+  {
+   "position": 42,
+   "raw": "Lock G., Pouncett J. 2017, *Spatial thinking in archaeology: Is GIS the answer?*, in C.L.M. Howey, M. Brouwer Burg, *Archaeological GIS Today: Persistent Challenges, Pushing Old Boundaries, and Exploring New Horizons*, «Journal of Archaeological Science», 84, 129-135 (https://www.sciencedirect.com/journal/journal-of-archaeological-science/vol/84/suppl/C?sdc=1).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Pouncett",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Howey",
+     "given": "C.L.M."
+    },
+    {
+     "family": "Brouwer Burg",
+     "given": "M."
+    }
+   ],
+   "date": "2017",
+   "title": "Spatial thinking in archaeology: Is GIS the answer?",
+   "is_part_of": [
+    "Archaeological GIS Today: Persistent Challenges, Pushing Old Boundaries, and Exploring New Horizons",
+    "Journal of Archaeological Science"
+   ],
+   "volume": "84",
+   "pages": "129-135",
+   "uri": "https://www.sciencedirect.com/journal/journal-of-archaeological-science/vol/84/suppl/C?sdc=1",
+   "language": "eng"
+  },
+  {
+   "position": 43,
+   "raw": "McManamon F., Kintigh K., Ellison L., Brin A. 2017, *tDAR: A cultural heritage archive for Twenty-First-Century public outreach, research, and resource management*, in For the Record: Archaeological Archives in the Twenty-First Century, «Advances in Archaeological Practice», Special Issue, 5, 3, 238-249 (https://doi.org/10.1017/aap.2017.18).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "McManamon",
+     "given": "F."
+    },
+    {
+     "family": "Kintigh",
+     "given": "K."
+    },
+    {
+     "family": "Ellison",
+     "given": "L."
+    },
+    {
+     "family": "Brin",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "tDAR: A cultural heritage archive for Twenty-First-Century public outreach, research, and resource management",
+   "is_part_of": [
+    "For the Record: Archaeological Archives in the Twenty-First Century",
+    "Advances in Archaeological Practice"
+   ],
+   "volume": "5",
+   "issue": "3",
+   "pages": "238-249",
+   "doi": "10.1017/aap.2017.18",
+   "language": "eng"
+  },
+  {
+   "position": 44,
+   "raw": "Malfitana D. (ed.) 2018, *Archeologia quo vadis? Riflessioni metodologiche sul futuro di una disciplina. Atti del Workshop internazionale (Catania 2018)*, Catania, CNR-IBAM.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Malfitana",
+     "given": "D."
+    }
+   ],
+   "date": "2018",
+   "title": "Archeologia quo vadis? Riflessioni metodologiche sul futuro di una disciplina. Atti del Workshop internazionale (Catania 2018)",
+   "publisher": "CNR-IBAM",
+   "place": "Catania",
+   "language": "ita"
+  },
+  {
+   "position": 45,
+   "raw": "Manacorda D. 2014, *Archeologia globale e sistema della tutela*, in G.P. Brogiolo, E. Giannichedda (eds.), *Archeologia globale*, «Archeologia Medievale», 41, 141-148.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    },
+    {
+     "family": "Giannichedda",
+     "given": "E."
+    }
+   ],
+   "date": "2014",
+   "title": "Archeologia globale e sistema della tutela",
+   "is_part_of": [
+    "Archeologia globale",
+    "Archeologia Medievale"
+   ],
+   "volume": "41",
+   "pages": "141-148",
+   "language": "ita"
+  },
+  {
+   "position": 46,
+   "raw": "Maschner H., Levy T., Opitz R. in press, *The Creation of Big Data Labs for Archaeology, Heritage, and Global Initiatives*, in Digital Archaeologies Material Worlds (Past and Present), Proceedings of the 45th Annual Conference on Computer Applications and Quantitative Methods in Archaeology CAA 2017 (Atlanta 2017).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Maschner",
+     "given": "H."
+    },
+    {
+     "family": "Levy",
+     "given": "T."
+    },
+    {
+     "family": "Opitz",
+     "given": "R."
+    }
+   ],
+   "date": "c.s.",
+   "title": "The Creation of Big Data Labs for Archaeology, Heritage, and Global Initiatives",
+   "is_part_of": [
+    "Digital Archaeologies Material Worlds (Past and Present), Proceedings of the 45th Annual Conference on Computer Applications and Quantitative Methods in Archaeology CAA 2017 (Atlanta 2017)"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title + proceedings: only the CAA 2017 session programme found, no publication of the paper"
+  },
+  {
+   "position": 47,
+   "raw": "Moro L., Mancinelli M.L., Negri A. 2017, *Il ruolo dell'ICCD nella diffusione dei modelli descrittivi del patrimonio archeologico*, in Serlorenzi, Jovine 2017, 35-46 (https://doi.org/10.19282/ACS.9.2017.05).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moro",
+     "given": "L."
+    },
+    {
+     "family": "Mancinelli",
+     "given": "M.L."
+    },
+    {
+     "family": "Negri",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Jovine",
+     "given": "I."
+    }
+   ],
+   "date": "2017",
+   "title": "Il ruolo dell'ICCD nella diffusione dei modelli descrittivi del patrimonio archeologico",
+   "is_part_of": [
+    "Pensare in rete, pensare la rete per la ricerca, la tutela e la valorizzazione del patrimonio archeologico. Atti del IV Convegno SITAR (Roma 2015)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 9",
+   "pages": "35-46",
+   "doi": "10.19282/ACS.9.2017.05",
+   "language": "ita",
+   "cited_aec_id": 972,
+   "xref": 68
+  },
+  {
+   "position": 48,
+   "raw": "Moscati P. (ed.) 1998, *Methodological Trends and Future Perspectives in the Application of GIS in Archaeology*, «Archeologia e Calcolatori», 9 (http://www.archcalc.cnr.it/journal/idyear.php?IDyear=1998-01-01).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "uri": "http://www.archcalc.cnr.it/journal/idyear.php?IDyear=1998-01-01",
+   "language": "eng"
+  },
+  {
+   "position": 49,
+   "raw": "Moscati P. 1999, *Archeologia e Calcolatori: dieci anni di contributi all'informatica archeologica*, «Archeologia e Calcolatori», 10, 343-352 (http://www.archcalc.cnr.it/indice/PDF10/10_23_Moscati.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1999",
+   "title": "Archeologia e Calcolatori: dieci anni di contributi all'informatica archeologica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "343-352",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF10/10_23_Moscati.pdf",
+   "language": "ita",
+   "cited_aec_id": 284
+  },
+  {
+   "position": 50,
+   "raw": "Moscati P. 2007, *Virtual Museums and Archaeology. The Contribution of the Italian National Research Council*, «Archeologia e Calcolatori», Suppl. 9 (http://www.archcalc.cnr.it/supplements/idyear_sup.php?IDyear=2007-01-01).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2007",
+   "title": "Virtual Museums and Archaeology. The Contribution of the Italian National Research Council",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 9",
+   "uri": "http://www.archcalc.cnr.it/supplements/idyear_sup.php?IDyear=2007-01-01",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "cited as Suppl. 9, but the URL (IDyear=2007) and the year point to an earlier Supplement (Suppl. 9 is the 2017 SITAR volume, ref. 68): the number looks wrong; kept as cited"
+  },
+  {
+   "position": 51,
+   "raw": "Moscati P. 2009a, *Archeologia e società dell'informazione*, in XXI Secolo, Vol. 1, Norme e Idee, Roma, Istituto della Enciclopedia Italiana Treccani, 621-630 (http://www.treccani.it/enciclopedia/archeologia-e-societa-dell-informazione_%28XXI-Secolo%29/).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Archeologia e società dell'informazione",
+   "is_part_of": [
+    "XXI Secolo, Vol. 1, Norme e Idee"
+   ],
+   "pages": "621-630",
+   "publisher": "Istituto della Enciclopedia Italiana Treccani",
+   "place": "Roma",
+   "uri": "http://www.treccani.it/enciclopedia/archeologia-e-societa-dell-informazione_%28XXI-Secolo%29/",
+   "language": "ita"
+  },
+  {
+   "position": 52,
+   "raw": "Moscati P. (ed.) 2009b, *La nascita dell'informatica archeologica. Atti del Convegno internazionale (Roma 2008)*, «Archeologia e Calcolatori», 20, 2009 (http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2009-01-01).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "La nascita dell'informatica archeologica. Atti del Convegno internazionale (Roma 2008)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "uri": "http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2009-01-01",
+   "language": "ita"
+  },
+  {
+   "position": 53,
+   "raw": "Moscati P. 2011, *Venti anni di \"Archeologia e Calcolatori\". Aspetti e momenti*, in L. Perilli, D. Fiormonte (eds.), *La macchina nel tempo. Studi di informatica umanistica in onore di Tito Orlandi*, Firenze, Le Lettere, 259-280.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Perilli",
+     "given": "L."
+    },
+    {
+     "family": "Fiormonte",
+     "given": "D."
+    }
+   ],
+   "date": "2011",
+   "title": "Venti anni di Archeologia e Calcolatori. Aspetti e momenti",
+   "is_part_of": [
+    "La macchina nel tempo. Studi di informatica umanistica in onore di Tito Orlandi"
+   ],
+   "pages": "259-280",
+   "publisher": "Le Lettere",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 54,
+   "raw": "Moscati P. 2013, *Jean-Claude Gardin (Parigi 1925-2013). Dalla meccanografia all'informatica archeologica*, «Archeologia e Calcolatori», 24, 7-24 (http://www.archcalc.cnr.it/indice/PDF24/01_Moscati.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2013",
+   "title": "Jean-Claude Gardin (Parigi 1925-2013). Dalla meccanografia all'informatica archeologica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "24",
+   "pages": "7-24",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF24/01_Moscati.pdf",
+   "language": "ita",
+   "cited_aec_id": 660
+  },
+  {
+   "position": 55,
+   "raw": "Moscati P. 2015, *Informatica archeologica*, in Enciclopedia Italiana – IX Appendice, Roma, Istituto della Enciclopedia Italiana Treccani, 686-687 (http://www.treccani.it/enciclopedia/informatica-archeologica_%28Enciclopedia-Italiana%29/).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2015",
+   "title": "Informatica archeologica",
+   "is_part_of": [
+    "Enciclopedia Italiana – IX Appendice"
+   ],
+   "pages": "686-687",
+   "publisher": "Istituto della Enciclopedia Italiana Treccani",
+   "place": "Roma",
+   "uri": "http://www.treccani.it/enciclopedia/informatica-archeologica_%28Enciclopedia-Italiana%29/",
+   "language": "ita"
+  },
+  {
+   "position": 56,
+   "raw": "Moscati P. 2019, *Per una storia dell'informatica archeologica*, in Moscati, Orlandi 2019, 105-134.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "2019",
+   "title": "Per una storia dell'informatica archeologica",
+   "is_part_of": [
+    "Il Museo virtuale dell'informatica archeologica. Una collaborazione tra l'Accademia Nazionale dei Lincei e il Consiglio Nazionale delle Ricerche. Atti della \"Segnatura\" (Roma 2017)",
+    "Rendiconti della Classe di Scienze morali, storiche e filologiche dell'Accademia Nazionale dei Lincei"
+   ],
+   "volume": "30",
+   "pages": "105-134",
+   "language": "ita",
+   "xref": 57
+  },
+  {
+   "position": 57,
+   "raw": "Moscati P., Orlandi T. (eds.) 2019, *Il Museo virtuale dell'informatica archeologica. Una collaborazione tra l'Accademia Nazionale dei Lincei e il Consiglio Nazionale delle Ricerche. Atti della \"Segnatura\" (Roma 2017)*, «Rendiconti della Classe di Scienze morali, storiche e filologiche dell'Accademia Nazionale dei Lincei», 30, 2019, 39-134.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "2019",
+   "title": "Il Museo virtuale dell'informatica archeologica. Una collaborazione tra l'Accademia Nazionale dei Lincei e il Consiglio Nazionale delle Ricerche. Atti della \"Segnatura\" (Roma 2017)",
+   "is_part_of": [
+    "Rendiconti della Classe di Scienze morali, storiche e filologiche dell'Accademia Nazionale dei Lincei"
+   ],
+   "volume": "30",
+   "pages": "39-134",
+   "language": "ita"
+  },
+  {
+   "position": 58,
+   "raw": "Niccolucci F. 2017a, *Standard e interoperabilità degli archivi digitali archeologici: il progetto ARIADNE*, in P. Mastandrea, *Strumenti digitali e collaborativi per le Scienze dell'Antichità*, Venezia, Edizioni Ca' Foscari (https://doi.org/10.14277/6969-182-9/ANT-14-2).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Mastandrea",
+     "given": "P."
+    }
+   ],
+   "date": "2017",
+   "title": "Standard e interoperabilità degli archivi digitali archeologici: il progetto ARIADNE",
+   "is_part_of": [
+    "Strumenti digitali e collaborativi per le Scienze dell'Antichità"
+   ],
+   "publisher": "Edizioni Ca' Foscari",
+   "place": "Venezia",
+   "doi": "10.14277/6969-182-9/ANT-14-2",
+   "language": "ita",
+   "notes": "Mastandrea cited without '(ed.)' as author of the container; recorded as editor"
+  },
+  {
+   "position": 59,
+   "raw": "Niccolucci F. 2017b, *ARIADNE e gli Open Data: come trasformare i dati archeologici da open a \"FAIR\"*, in Serlorenzi, Jovine 2017, 141-150 (https://doi.org/10.19282/ACS.9.2017.13).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Jovine",
+     "given": "I."
+    }
+   ],
+   "date": "2017",
+   "title": "ARIADNE e gli Open Data: come trasformare i dati archeologici da open a FAIR",
+   "is_part_of": [
+    "Pensare in rete, pensare la rete per la ricerca, la tutela e la valorizzazione del patrimonio archeologico. Atti del IV Convegno SITAR (Roma 2015)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 9",
+   "pages": "141-150",
+   "doi": "10.19282/ACS.9.2017.13",
+   "language": "ita",
+   "cited_aec_id": 980,
+   "xref": 68
+  },
+  {
+   "position": 60,
+   "raw": "Orlandi T. 2009, *Informatica archeologica e non archeologica*, in Moscati 2009b, 17-26.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Informatica archeologica e non archeologica",
+   "is_part_of": [
+    "La nascita dell'informatica archeologica. Atti del Convegno internazionale (Roma 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "pages": "17-26",
+   "language": "ita",
+   "cited_aec_id": 500,
+   "xref": 52
+  },
+  {
+   "position": 61,
+   "raw": "Osanna M., Picone R. (eds.) 2018, *Restaurando Pompei. Riflessioni a margine del Grande Progetto*, Roma, «L'Erma» di Bretschneider.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Osanna",
+     "given": "M."
+    },
+    {
+     "family": "Picone",
+     "given": "R."
+    }
+   ],
+   "date": "2018",
+   "title": "Restaurando Pompei. Riflessioni a margine del Grande Progetto",
+   "publisher": "«L'Erma» di Bretschneider",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 62,
+   "raw": "Pallecchi S. (ed.) 2017, *Raccontare l'archeologia. Strategie e tecniche per la comunicazione dei risultati delle ricerche archeologiche*, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Pallecchi",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Raccontare l'archeologia. Strategie e tecniche per la comunicazione dei risultati delle ricerche archeologiche",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 63,
+   "raw": "Ross S., Gown A. 1999, *Digital Archaeology: Rescuing Neglected and Damaged Data Resources*, JISC/NPO (http://eprints.gla.ac.uk/100304/1/100304.pdf).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Ross",
+     "given": "S."
+    },
+    {
+     "family": "Gown",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "Digital Archaeology: Rescuing Neglected and Damaged Data Resources",
+   "publisher": "JISC/NPO",
+   "uri": "http://eprints.gla.ac.uk/100304/1/100304.pdf",
+   "language": "eng"
+  },
+  {
+   "position": 64,
+   "raw": "Roussou M., Ripanti F., Servi K. 2017, *Engaging visitors of archaeological sites through \"emotive\" storytelling experiences: A pilot at the ancient Agora of Athens*, in Gaucci, Garagnani 2017, 405-420 (https://doi.org/10.19282/AC.28.2.2017.33).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Roussou",
+     "given": "M."
+    },
+    {
+     "family": "Ripanti",
+     "given": "F."
+    },
+    {
+     "family": "Servi",
+     "given": "K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Garagnani",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Engaging visitors of archaeological sites through \"emotive\" storytelling experiences: A pilot at the ancient Agora of Athens",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas. Proceedings of the KAINUA 2017 International Conference in Honour of Professor Giuseppe Sassatelli's 70th Birthday (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "405-420",
+   "doi": "10.19282/AC.28.2.2017.33",
+   "language": "eng",
+   "cited_aec_id": 946,
+   "xref": 30
+  },
+  {
+   "position": 65,
+   "raw": "Scardozzi G. (ed.) 2015, *Nuovo Atlante di Hierapolis di Frigia. Cartografia archeologica della città e delle necropoli*, Istanbul, Ege Yayınları.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2015",
+   "title": "Nuovo Atlante di Hierapolis di Frigia. Cartografia archeologica della città e delle necropoli",
+   "publisher": "Ege Yayınları",
+   "place": "Istanbul",
+   "language": "ita"
+  },
+  {
+   "position": 66,
+   "raw": "*Science and Heritage* 2006, House of Lords, Science and Technology Committee, Science and Heritage, 9th Report of Session 2005-06, HL Paper 256 (https://publications.parliament.uk/pa/ld200506/ldselect/ldsctech/256/256.pdf).",
+   "type": "other",
+   "date": "2006",
+   "title": "Science and Heritage, 9th Report of Session 2005-06, HL Paper 256",
+   "publisher": "House of Lords, Science and Technology Committee",
+   "uri": "https://publications.parliament.uk/pa/ld200506/ldselect/ldsctech/256/256.pdf",
+   "language": "eng"
+  },
+  {
+   "position": 67,
+   "raw": "Serlorenzi M. (ed.) 2013, *ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012)*, «Archeologia e Calcolatori», Suppl. 4 (http://www.archcalc.cnr.it/supplements/idyear_sup.php?IDyear=2013-01-01).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 4",
+   "uri": "http://www.archcalc.cnr.it/supplements/idyear_sup.php?IDyear=2013-01-01",
+   "language": "ita"
+  },
+  {
+   "position": 68,
+   "raw": "Serlorenzi M., Jovine I. (eds.) 2017, *Pensare in rete, pensare la rete per la ricerca, la tutela e la valorizzazione del patrimonio archeologico. Atti del IV Convegno SITAR (Roma 2015)*, «Archeologia e Calcolatori», Suppl. 9 (http://www.archcalc.cnr.it/supplements/idyear_sup.php?IDyear=2017-01-01).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Jovine",
+     "given": "I."
+    }
+   ],
+   "date": "2017",
+   "title": "Pensare in rete, pensare la rete per la ricerca, la tutela e la valorizzazione del patrimonio archeologico. Atti del IV Convegno SITAR (Roma 2015)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 9",
+   "uri": "http://www.archcalc.cnr.it/supplements/idyear_sup.php?IDyear=2017-01-01",
+   "language": "ita"
+  },
+  {
+   "position": 69,
+   "raw": "Serlorenzi M., Leoni G. (eds.) 2015, *Il SITAR nella Rete della ricerca italiana. Verso la conoscenza archeologica condivisa. Atti del III Convegno (Roma 2013)*, «Archeologia e Calcolatori», Suppl. 7 (http://www.archcalc.cnr.it/supplements/idyear_sup.php?IDyear=2015-01-01).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Leoni",
+     "given": "G."
+    }
+   ],
+   "date": "2015",
+   "title": "Il SITAR nella Rete della ricerca italiana. Verso la conoscenza archeologica condivisa. Atti del III Convegno (Roma 2013)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 7",
+   "uri": "http://www.archcalc.cnr.it/supplements/idyear_sup.php?IDyear=2015-01-01",
+   "language": "ita"
+  },
+  {
+   "position": 70,
+   "raw": "Svensson P. 2009, *Humanities Computing as Digital Humanities*, «Digital Humanities Quarterly», 3, 3 (http://www.digitalhumanities.org/dhq/vol/3/3/000065/000065.html).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Svensson",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Humanities Computing as Digital Humanities",
+   "is_part_of": [
+    "Digital Humanities Quarterly"
+   ],
+   "volume": "3",
+   "issue": "3",
+   "uri": "http://www.digitalhumanities.org/dhq/vol/3/3/000065/000065.html",
+   "language": "eng"
+  },
+  {
+   "position": 71,
+   "raw": "Unsworth J. 2004, *Forms of Attention: Digital Humanities beyond representation*, in The Face of Text: Computer-Assisted Text Analysis in the Humanities, Third Conference of the Canadian Symposium on Text Analysis (Hamilton, Ontario, 2004), Canada, McMaster University, 119.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Unsworth",
+     "given": "J."
+    }
+   ],
+   "date": "2004",
+   "title": "Forms of Attention: Digital Humanities beyond representation",
+   "is_part_of": [
+    "The Face of Text: Computer-Assisted Text Analysis in the Humanities, Third Conference of the Canadian Symposium on Text Analysis (Hamilton, Ontario, 2004)"
+   ],
+   "pages": "119",
+   "publisher": "McMaster University",
+   "place": "Canada",
+   "language": "eng"
+  },
+  {
+   "position": 72,
+   "raw": "Valenti M. 2017, *Ricostruire-rievocare-produrre conoscenza-sviluppare nuove politiche culturali*, in F. Dei, C. Di Pasquale (eds.), *Rievocare il passato: memoria culturale e identità territoriali*, Pisa, Pisa University Press, 257-274.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dei",
+     "given": "F."
+    },
+    {
+     "family": "Di Pasquale",
+     "given": "C."
+    }
+   ],
+   "date": "2017",
+   "title": "Ricostruire-rievocare-produrre conoscenza-sviluppare nuove politiche culturali",
+   "is_part_of": [
+    "Rievocare il passato: memoria culturale e identità territoriali"
+   ],
+   "pages": "257-274",
+   "publisher": "Pisa University Press",
+   "place": "Pisa",
+   "language": "ita"
+  },
+  {
+   "position": 73,
+   "raw": "Whallon R. 1972, *The computer in archaeology: A critical survey*, «Computers in the Humanities», 7, 29-45 (https://www.jstor.org/stable/30208220?seq=1#page_scan_tab_contents).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Whallon",
+     "given": "R."
+    }
+   ],
+   "date": "1972",
+   "title": "The computer in archaeology: A critical survey",
+   "is_part_of": [
+    "Computers and the Humanities"
+   ],
+   "volume": "7",
+   "pages": "29-45",
+   "uri": "https://www.jstor.org/stable/30208220?seq=1#page_scan_tab_contents",
+   "language": "eng",
+   "notes": "cited journal 'Computers in the Humanities'; normalised to 'Computers and the Humanities' (obvious slip)"
+  },
+  {
+   "position": 74,
+   "raw": "Wright H.E., Richards J.D. 2018, *Reflections on collaborative archaeology and large-scale online research infrastructures*, «Journal of Field Archaeology», Special Issue, 43, 60-67 (https://doi.org/10.1080/00934690.2018.1511960).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wright",
+     "given": "H.E."
+    },
+    {
+     "family": "Richards",
+     "given": "J.D."
+    }
+   ],
+   "date": "2018",
+   "title": "Reflections on collaborative archaeology and large-scale online research infrastructures",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "volume": "43",
+   "pages": "60-67",
+   "doi": "10.1080/00934690.2018.1511960",
+   "language": "eng",
+   "notes": "cited as Special Issue"
+  },
+  {
+   "position": 75,
+   "raw": "Zubrow E.B.W. 2006, *Digital archaeology: A historical context*, in Evans, Daly 2006, 8-26.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Evans",
+     "given": "T.L."
+    },
+    {
+     "family": "Daly",
+     "given": "P."
+    }
+   ],
+   "date": "2006",
+   "title": "Digital archaeology: A historical context",
+   "is_part_of": [
+    "Digital Archaeology: Bridging Method and Theory"
+   ],
+   "pages": "8-26",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng",
+   "xref": 22
+  }
+ ]
+}

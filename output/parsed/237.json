@@ -1,0 +1,302 @@
+{
+ "citing_aec_id": 237,
+ "source_file": "data/journal/8/237.md",
+ "references": [
+  {
+   "raw": "CAZZELLA A. 1990-91, Può servire a qualcosa la semiologia per la paletnologia?, «Origini», 15, 23-34.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Cazzella",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Può servire a qualcosa la semiologia per la paletnologia?",
+   "is_part_of": [
+    "Origini"
+   ],
+   "pages": "23-34",
+   "volume": "15",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "CAZZELLA A., MOSCOLONI M. 1996, Il complesso ceramico eneolitico di Conelle di Arcevia (Ancona), in P. MOSCATI (ed.), III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995), «Archeologia e Calcolatori», 7, 611-622.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Cazzella",
+     "given": "A."
+    },
+    {
+     "family": "Moscoloni",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Il complesso ceramico eneolitico di Conelle di Arcevia (Ancona)",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "pages": "611-622",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 2,
+   "volume": "7"
+  },
+  {
+   "raw": "CONKEY M.W. 1989, The use of diversity in stylistic analysis, in R.D. LEONARD, G.T. JONES (eds.), Quantifying Diversity in Archaeology, Cambridge, 118-129.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Conkey",
+     "given": "M.W."
+    }
+   ],
+   "type": "chapter",
+   "title": "The use of diversity in stylistic analysis",
+   "editors": [
+    {
+     "family": "Leonard",
+     "given": "R.D."
+    },
+    {
+     "family": "Jones",
+     "given": "G.T."
+    }
+   ],
+   "pages": "118-129",
+   "is_part_of": [
+    "Quantifying Diversity in Archaeology"
+   ],
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "DUNNELL R.C. 1986, Methodological issues in Americanist artifact classification, «Advances in Archaeological Method and Theory», 9, 149-207.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Dunnell",
+     "given": "R.C."
+    }
+   ],
+   "type": "article",
+   "title": "Methodological issues in Americanist artifact classification",
+   "is_part_of": [
+    "Advances in Archaeological Method and Theory"
+   ],
+   "pages": "149-207",
+   "volume": "9",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "HILL J.N. 1985, Style: a conceptual evolutionary framework, in B.A. NELSON (ed.), Decoding Prehistoric Ceramics, Carbondale, 362-385.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Hill",
+     "given": "J.N."
+    }
+   ],
+   "type": "chapter",
+   "title": "Style: a conceptual evolutionary framework",
+   "editors": [
+    {
+     "family": "Nelson",
+     "given": "B.A."
+    }
+   ],
+   "pages": "362-385",
+   "is_part_of": [
+    "Decoding Prehistoric Ceramics"
+   ],
+   "place": "Carbondale",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "HODDER I. 1985, Boundaries as strategies: an ethnoarchaeological study, in S.W. GREEN, S.N. PERLMAN (eds.), The Archaeology of Frontiers and Boundaries, New York, 141-159.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "type": "chapter",
+   "title": "Boundaries as strategies: an ethnoarchaeological study",
+   "editors": [
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Perlman",
+     "given": "S.N."
+    }
+   ],
+   "pages": "141-159",
+   "is_part_of": [
+    "The Archaeology of Frontiers and Boundaries"
+   ],
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "HODDER I. 1986, Reading the Past, Cambridge.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "type": "book",
+   "title": "Reading the Past",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "MILLER D. 1985, Artefacts as Categories, Cambridge.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Miller",
+     "given": "D."
+    }
+   ],
+   "type": "book",
+   "title": "Artefacts as Categories",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "READ D.W. 1989, Intuitive typology and automatic classification: divergence or full circle?, «Journal of Anthropological Archaeology», 8, 158-188.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Read",
+     "given": "D.W."
+    }
+   ],
+   "type": "article",
+   "title": "Intuitive typology and automatic classification: divergence or full circle?",
+   "is_part_of": [
+    "Journal of Anthropological Archaeology"
+   ],
+   "pages": "158-188",
+   "volume": "8",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "RENFREW C. 1994, Towards a cognitive archaeology, in C. RENFREW, E.B.W. ZUBROW (eds.), The Ancient Mind. Elements of Cognitive Archaeology, Cambridge, Cambridge University Press, 3-12.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Towards a cognitive archaeology",
+   "editors": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "pages": "3-12",
+   "is_part_of": [
+    "The Ancient Mind. Elements of Cognitive Archaeology"
+   ],
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "VOORRIPS A. 1982, Mambrino's helmet: a framework for structuring archaeological data, in R. WHALLON, J.A. BROWN (eds.), Essays on Archaeological Typology, Evanston, 93-126.",
+   "date": "1982",
+   "creators": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Mambrino's helmet: a framework for structuring archaeological data",
+   "editors": [
+    {
+     "family": "Whallon",
+     "given": "R."
+    },
+    {
+     "family": "Brown",
+     "given": "J.A."
+    }
+   ],
+   "pages": "93-126",
+   "is_part_of": [
+    "Essays on Archaeological Typology"
+   ],
+   "place": "Evanston",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "WASHBURN D.K. 1983, Symmetry analysis of ceramic design: two tests of the method on Neolithic material from Greece and the Aegean, in D.K. WASHBURN (ed.), Structure and Cognition in Art, Cambridge, 138-164.",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Washburn",
+     "given": "D.K."
+    }
+   ],
+   "type": "chapter",
+   "title": "Symmetry analysis of ceramic design: two tests of the method on Neolithic material from Greece and the Aegean",
+   "editors": [
+    {
+     "family": "Washburn",
+     "given": "D.K."
+    }
+   ],
+   "pages": "138-164",
+   "is_part_of": [
+    "Structure and Cognition in Art"
+   ],
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 12
+  }
+ ]
+}

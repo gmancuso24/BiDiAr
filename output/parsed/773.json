@@ -1,0 +1,135 @@
+{
+ "citing_aec_id": 773,
+ "source_file": "data/journal/26/773.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Benefiel R.R. 2010, Rome in Pompeii: Wall inscriptions and GIS, in F. Feraudi-Gruénais (ed.), Latin on Stone: Epigraphic Research and Electronic Archives, Lanham, Rowman & Littlefield, 45-75.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Benefiel",
+     "given": "R.R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Feraudi-Gruénais",
+     "given": "F."
+    }
+   ],
+   "date": "2010",
+   "title": "Rome in Pompeii: Wall inscriptions and GIS",
+   "is_part_of": [
+    "Latin on Stone: Epigraphic Research and Electronic Archives"
+   ],
+   "pages": "45-75",
+   "publisher": "Rowman & Littlefield",
+   "place": "Lanham",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Dell’Unto N., Landeschi G., Ferdani D., Dellepiane M., Callieri M., Lindgren S., Leander Touati A.M. 2015, Experiencing ancient buildings from a 3D GIS perspective: A case drawn from the Swedish Pompeii Project, «Journal of Archaeological Method and Theory», 1-24.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dell’Unto",
+     "given": "N."
+    },
+    {
+     "family": "Landeschi",
+     "given": "G."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Dellepiane",
+     "given": "M."
+    },
+    {
+     "family": "Callieri",
+     "given": "M."
+    },
+    {
+     "family": "Lindgren",
+     "given": "S."
+    },
+    {
+     "family": "Leander Touati",
+     "given": "A.M."
+    }
+   ],
+   "date": "2015",
+   "title": "Experiencing ancient buildings from a 3D GIS perspective: A case drawn from the Swedish Pompeii Project",
+   "is_part_of": [
+    "Journal of Archaeological Method and Theory"
+   ],
+   "pages": "1-24",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Landeschi G., Dell’Unto N., Ferdani D., Lindgren S., Leander Touati A.M. 2015, Enhanced 3D-GIS: Documenting Insula V 1 in Pompeii, in F. Giligny, F. Djindjian, L. Costa, P. Moscati, S. Robert (eds.), Concepts, Methods and Tools. Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Paris 2014), Oxford, Archaeopress, 349-360.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Landeschi",
+     "given": "G."
+    },
+    {
+     "family": "Dell’Unto",
+     "given": "N."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Lindgren",
+     "given": "S."
+    },
+    {
+     "family": "Leander Touati",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giligny",
+     "given": "F."
+    },
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Robert",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "Enhanced 3D-GIS: Documenting Insula V 1 in Pompeii",
+   "is_part_of": [
+    "Concepts, Methods and Tools. Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Paris 2014)"
+   ],
+   "pages": "349-360",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,548 @@
+{
+ "citing_aec_id": 1336,
+ "source_file": "data/journal/35/1336.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Adam J.-P. 1996, *La construcción romana. Materiales y técnicas*, Leon, Editorial de los Oficios.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Adam",
+     "given": "J.-P."
+    }
+   ],
+   "date": "1996",
+   "title": "La construcción romana. Materiales y técnicas",
+   "publisher": "Editorial de los Oficios",
+   "place": "Leon",
+   "language": "spa"
+  },
+  {
+   "position": 2,
+   "raw": "Baquedano Beltrán I. 1987, *Inicios del Bronce Final en la cuenca media del Guadalquivir: El Llanete de los Moros (Montoro, Córdoba)*, «Trabajos de Prehistoria», 44, 223-250.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baquedano Beltrán",
+     "given": "I."
+    }
+   ],
+   "date": "1987",
+   "title": "Inicios del Bronce Final en la cuenca media del Guadalquivir: El Llanete de los Moros (Montoro, Córdoba)",
+   "is_part_of": [
+    "Trabajos de Prehistoria"
+   ],
+   "volume": "44",
+   "pages": "223-250",
+   "language": "spa"
+  },
+  {
+   "position": 3,
+   "raw": "Demetrescu E. 2015, *Archaeological stratigraphy as a formal language for virtual reconstruction. Theory and practice*, «Journal of Archaeological Science», 57, 42-55 (https://doi.org/10.1016/j.jas.2015.02.004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    }
+   ],
+   "date": "2015",
+   "title": "Archaeological stratigraphy as a formal language for virtual reconstruction. Theory and practice",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "57",
+   "pages": "42-55",
+   "language": "eng",
+   "doi": "10.1016/j.jas.2015.02.004"
+  },
+  {
+   "position": 4,
+   "raw": "Demetrescu E., Fanini B. 2017, *A white-box framework to oversee archaeological virtual reconstructions in space and time: Methods and tools*, «Journal of Archaeological Science: Reports», 14, 500-514 (https://doi.org/10.1016/j.jasrep.2017.06.034).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Fanini",
+     "given": "B."
+    }
+   ],
+   "date": "2017",
+   "title": "A white-box framework to oversee archaeological virtual reconstructions in space and time: Methods and tools",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "volume": "14",
+   "pages": "500-514",
+   "language": "eng",
+   "doi": "10.1016/j.jasrep.2017.06.034"
+  },
+  {
+   "position": 5,
+   "raw": "Demetrescu E., Ferdani D. 2021, *From field archaeology to virtual reconstruction: A five steps method using the extended matrix*, «Applied Sciences», 11, 5206 (https://doi.org/10.3390/app11115206).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    }
+   ],
+   "date": "2021",
+   "title": "From field archaeology to virtual reconstruction: A five steps method using the extended matrix",
+   "is_part_of": [
+    "Applied Sciences"
+   ],
+   "volume": "11",
+   "pages": "5206",
+   "language": "eng",
+   "doi": "10.3390/app11115206"
+  },
+  {
+   "position": 6,
+   "raw": "Fernández Ochoa C., Morillo Á. 2022, *Murallas urbanas de época romana en Hispania (siglos I a.C. – V d.C.)*, «Vínculos de Historia», 11, 83-115 (https://doi.org/10.18239/vdh_2022.11.04).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fernández Ochoa",
+     "given": "C."
+    },
+    {
+     "family": "Morillo",
+     "given": "Á."
+    }
+   ],
+   "date": "2022",
+   "title": "Murallas urbanas de época romana en Hispania (siglos I a.C. – V d.C.)",
+   "is_part_of": [
+    "Vínculos de Historia"
+   ],
+   "volume": "11",
+   "pages": "83-115",
+   "language": "spa",
+   "doi": "10.18239/vdh_2022.11.04"
+  },
+  {
+   "position": 7,
+   "raw": "Galeano A., Sanseverino A., Berto S., Demetrescu E., Limongiello M. 2024, *Extended BIM: A proposed workflow for the integration of the HBIM and EM approaches*, in *IMEKO TC4 International Conference on Metrology for Archaeology and Cultural Heritage (Rome 2023)*, Red Hook (NY), Curran Associates, 115-120 (https://doi.org/10.21014/tc4-arc-2023.023).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Galeano",
+     "given": "A."
+    },
+    {
+     "family": "Sanseverino",
+     "given": "A."
+    },
+    {
+     "family": "Berto",
+     "given": "S."
+    },
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Limongiello",
+     "given": "M."
+    }
+   ],
+   "date": "2024",
+   "title": "Extended BIM: A proposed workflow for the integration of the HBIM and EM approaches",
+   "is_part_of": [
+    "IMEKO TC4 International Conference on Metrology for Archaeology and Cultural Heritage (Rome 2023)"
+   ],
+   "pages": "115-120",
+   "publisher": "Curran Associates",
+   "place": "Red Hook (NY)",
+   "language": "eng",
+   "doi": "10.21014/tc4-arc-2023.023"
+  },
+  {
+   "position": 8,
+   "raw": "Gros P., Torelli M. 1988, *Storia dell'urbanistica. Il mondo romano*, Roma, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gros",
+     "given": "P."
+    },
+    {
+     "family": "Torelli",
+     "given": "M."
+    }
+   ],
+   "date": "1988",
+   "title": "Storia dell'urbanistica. Il mondo romano",
+   "publisher": "Laterza",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "Ibáñez Castro A. 1990, *Nueva escultura thoracata en Montoro*, «Revista de Arqueología», 11, 105, 62-63.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ibáñez Castro",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "Nueva escultura thoracata en Montoro",
+   "is_part_of": [
+    "Revista de Arqueología"
+   ],
+   "volume": "11",
+   "issue": "105",
+   "pages": "62-63",
+   "language": "spa"
+  },
+  {
+   "position": 10,
+   "raw": "ICOMOS 2017, *Los Principios de Sevilla. Principios Internacionales de la Arqueología Virtual*, International Forum of Virtual Archaeology, New Delhi.",
+   "type": "other",
+   "date": "2017",
+   "title": "Los Principios de Sevilla. Principios Internacionales de la Arqueología Virtual",
+   "publisher": "International Forum of Virtual Archaeology",
+   "place": "New Delhi",
+   "language": "spa",
+   "notes": "author: ICOMOS"
+  },
+  {
+   "position": 11,
+   "raw": "Lara López J.A. 2019, *Cultos religiosos en la antigua Epora romana*, «Montoro en la historia. Revista sobre la historia de Montoro», 7, 29-31.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lara López",
+     "given": "J.A."
+    }
+   ],
+   "date": "2019",
+   "title": "Cultos religiosos en la antigua Epora romana",
+   "is_part_of": [
+    "Montoro en la historia. Revista sobre la historia de Montoro"
+   ],
+   "volume": "7",
+   "pages": "29-31",
+   "language": "spa"
+  },
+  {
+   "position": 12,
+   "raw": "Marcos Pous A. 1978, *Notas arqueológicas sobre Épora (Montoro): estudios del siglo XVIII y recientes descubrimientos*, «Corduba Archaeologica», 5, 121-130.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Marcos Pous",
+     "given": "A."
+    }
+   ],
+   "date": "1978",
+   "title": "Notas arqueológicas sobre Épora (Montoro): estudios del siglo XVIII y recientes descubrimientos",
+   "is_part_of": [
+    "Corduba Archaeologica"
+   ],
+   "volume": "5",
+   "pages": "121-130",
+   "language": "spa"
+  },
+  {
+   "position": 13,
+   "raw": "Márquez Moreno C. 2019, *Órdenes y decoración arquitectónica en el mundo romano*, in E.H. Sánchez López, M. de los Santos Bustamante Álvarez (eds.), *Arqueología romana en la Península Ibérica*, Granada, Editorial de la Universidad de Granada, 135-148 (https://www.ptonline.com/articles/how-to-get-better-mfi-results/).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Márquez Moreno",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Sánchez López",
+     "given": "E.H."
+    },
+    {
+     "family": "Bustamante Álvarez",
+     "given": "M. de los Santos"
+    }
+   ],
+   "date": "2019",
+   "title": "Órdenes y decoración arquitectónica en el mundo romano",
+   "is_part_of": [
+    "Arqueología romana en la Península Ibérica"
+   ],
+   "pages": "135-148",
+   "publisher": "Editorial de la Universidad de Granada",
+   "place": "Granada",
+   "language": "spa",
+   "notes": "URL in the citation (ptonline.com) is unrelated, not copied"
+  },
+  {
+   "position": 14,
+   "raw": "Martín de la Cruz J.C. 1979, *Montoro, un nuevo yacimiento arqueológico en el Guadalquivir*, «Cuadernos de Prehistoria y Arqueología», 5-6, 105-141 (https://doi.org/10.15366/cupauam1979.6.007).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Martín de la Cruz",
+     "given": "J.C."
+    }
+   ],
+   "date": "1979",
+   "title": "Montoro, un nuevo yacimiento arqueológico en el Guadalquivir",
+   "is_part_of": [
+    "Cuadernos de Prehistoria y Arqueología"
+   ],
+   "volume": "5-6",
+   "pages": "105-141",
+   "language": "spa",
+   "doi": "10.15366/cupauam1979.6.007"
+  },
+  {
+   "position": 15,
+   "raw": "Martín de la Cruz J.C. 1987, *El Llanete de los Moros. Montoro, Córdoba*, Excavaciones arqueológicas en España 151, Madrid, Ministerio de Cultura. Dirección General de Bellas Artes y Archivos.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Martín de la Cruz",
+     "given": "J.C."
+    }
+   ],
+   "date": "1987",
+   "title": "El Llanete de los Moros. Montoro, Córdoba",
+   "series": "Excavaciones arqueológicas en España",
+   "series_number": "151",
+   "publisher": "Ministerio de Cultura. Dirección General de Bellas Artes y Archivos",
+   "place": "Madrid",
+   "language": "spa"
+  },
+  {
+   "position": 16,
+   "raw": "Martín Escorza C. 2008, *Dimensiones y orientaciones de anfiteatros y circos romanos en el Imperio Romano*, «Kalakorikos», 13, 185-194.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Martín Escorza",
+     "given": "C."
+    }
+   ],
+   "date": "2008",
+   "title": "Dimensiones y orientaciones de anfiteatros y circos romanos en el Imperio Romano",
+   "is_part_of": [
+    "Kalakorikos"
+   ],
+   "volume": "13",
+   "pages": "185-194",
+   "language": "spa"
+  },
+  {
+   "position": 17,
+   "raw": "Melchor Gil E. 1991, *Camino romano entre Montoro y el Valle de los Pedroches: la vía Epora-Solia*, in *III Encuentros de Historia Local. Alto Guadalquivir (Montoro 1991)*, Córdoba, Ilustre Ayuntamiento de Montoro, 79-86.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Melchor Gil",
+     "given": "E."
+    }
+   ],
+   "date": "1991",
+   "title": "Camino romano entre Montoro y el Valle de los Pedroches: la vía Epora-Solia",
+   "is_part_of": [
+    "III Encuentros de Historia Local. Alto Guadalquivir (Montoro 1991)"
+   ],
+   "pages": "79-86",
+   "publisher": "Ilustre Ayuntamiento de Montoro",
+   "place": "Córdoba",
+   "language": "spa"
+  },
+  {
+   "position": 18,
+   "raw": "Ortega Andrade F. 1995, *La construcción romana (II)*, «Revista de Edificación», 19, 55-76.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ortega Andrade",
+     "given": "F."
+    }
+   ],
+   "date": "1995",
+   "title": "La construcción romana (II)",
+   "is_part_of": [
+    "Revista de Edificación"
+   ],
+   "volume": "19",
+   "pages": "55-76",
+   "language": "spa"
+  },
+  {
+   "position": 19,
+   "raw": "Ortiz García J. 2013, *Las respuestas sobre restos arqueológicos en el Alto Guadalquivir según las noticias del interrogatorio de Tomás López: archivos, informática y reconstrucción gráfica*, «Crónica de Córdoba y sus pueblos», 19, 127-143.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ortiz García",
+     "given": "J."
+    }
+   ],
+   "date": "2013",
+   "title": "Las respuestas sobre restos arqueológicos en el Alto Guadalquivir según las noticias del interrogatorio de Tomás López: archivos, informática y reconstrucción gráfica",
+   "is_part_of": [
+    "Crónica de Córdoba y sus pueblos"
+   ],
+   "volume": "19",
+   "pages": "127-143",
+   "language": "spa"
+  },
+  {
+   "position": 20,
+   "raw": "Ortiz García J. 2022, *Apuntes para la historia de la arqueología en Montoro. Una aproximación histórica (siglos XVI al XX)*, Trabajo Final de Máster, Córdoba, Universidad de Córdoba.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Ortiz García",
+     "given": "J."
+    }
+   ],
+   "date": "2022",
+   "title": "Apuntes para la historia de la arqueología en Montoro. Una aproximación histórica (siglos XVI al XX)",
+   "publisher": "Universidad de Córdoba",
+   "place": "Córdoba",
+   "language": "spa",
+   "notes": "Trabajo Final de Máster"
+  },
+  {
+   "position": 21,
+   "raw": "Rodríguez Neila J.F. 1990, *Problemas sobre la protohistoria y romanización de la antigua ciudad de Epora (Montoro)*, «Boletín de la Real Academia de Córdoba», 118, 199-255.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rodríguez Neila",
+     "given": "J.F."
+    }
+   ],
+   "date": "1990",
+   "title": "Problemas sobre la protohistoria y romanización de la antigua ciudad de Epora (Montoro)",
+   "is_part_of": [
+    "Boletín de la Real Academia de Córdoba"
+   ],
+   "volume": "118",
+   "pages": "199-255",
+   "language": "spa"
+  },
+  {
+   "position": 22,
+   "raw": "Sicre-González P. 2023, *Estudio histórico-arqueológico del cerro de Palomarejo (Montoro, Córdoba). Aproximación a su paleotopografía mediante la aplicación de la Arqueología Virtual*, «Montoro en la Historia. Revista sobre la Historia de Montoro», 33, 46-51.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sicre-González",
+     "given": "P."
+    }
+   ],
+   "date": "2023",
+   "title": "Estudio histórico-arqueológico del cerro de Palomarejo (Montoro, Córdoba). Aproximación a su paleotopografía mediante la aplicación de la Arqueología Virtual",
+   "is_part_of": [
+    "Montoro en la Historia. Revista sobre la Historia de Montoro"
+   ],
+   "volume": "33",
+   "pages": "46-51",
+   "language": "spa"
+  },
+  {
+   "position": 23,
+   "raw": "Staropoli L., Acevedo V.J., Ávido D.N., Vitores M. 2023, *Reflexiones en la práctica de la arqueología digital: la construcción y comunicación del patrimonio cultural virtual*, «Virtual Archaeology Review», 14, 29, 118-135 (https://doi.org/10.4995/var.2023.19292).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Staropoli",
+     "given": "L."
+    },
+    {
+     "family": "Acevedo",
+     "given": "V.J."
+    },
+    {
+     "family": "Ávido",
+     "given": "D.N."
+    },
+    {
+     "family": "Vitores",
+     "given": "M."
+    }
+   ],
+   "date": "2023",
+   "title": "Reflexiones en la práctica de la arqueología digital: la construcción y comunicación del patrimonio cultural virtual",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "volume": "14",
+   "issue": "29",
+   "pages": "118-135",
+   "language": "spa",
+   "doi": "10.4995/var.2023.19292"
+  },
+  {
+   "position": 24,
+   "raw": "Vicent Zaragoza A.M. 1977, *Los más remotos orígenes de la ciudad de Montoro: antigua Épora*, «Corduba Archaeologica», 6, 131-137.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vicent Zaragoza",
+     "given": "A.M."
+    }
+   ],
+   "date": "1977",
+   "title": "Los más remotos orígenes de la ciudad de Montoro: antigua Épora",
+   "is_part_of": [
+    "Corduba Archaeologica"
+   ],
+   "volume": "6",
+   "pages": "131-137",
+   "language": "spa"
+  },
+  {
+   "position": 25,
+   "raw": "Wacker M., Grellert M., Bruschke J., Stille W., Germany D.B. 2023, *Documentation and plausibility of virtual reconstructions. Establishing a culture of documentation with IDOVIR*, in *Proceedings of the 28th International Conference on Cultural Heritage and New Technologies*, Vienna, 1-5.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wacker",
+     "given": "M."
+    },
+    {
+     "family": "Grellert",
+     "given": "M."
+    },
+    {
+     "family": "Bruschke",
+     "given": "J."
+    },
+    {
+     "family": "Stille",
+     "given": "W."
+    },
+    {
+     "family": "Germany",
+     "given": "D.B."
+    }
+   ],
+   "date": "2023",
+   "title": "Documentation and plausibility of virtual reconstructions. Establishing a culture of documentation with IDOVIR",
+   "is_part_of": [
+    "Proceedings of the 28th International Conference on Cultural Heritage and New Technologies"
+   ],
+   "pages": "1-5",
+   "place": "Vienna",
+   "language": "eng",
+   "notes": "last author cited \"Germany D.B.\""
+  }
+ ]
+}

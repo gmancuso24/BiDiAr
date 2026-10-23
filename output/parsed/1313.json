@@ -1,0 +1,954 @@
+{
+ "citing_aec_id": 1313,
+ "source_file": "data/journal/35/1313.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Baca M. (ed.) 2008, Introduction to Metadata, Los Angeles, Getty Research Institute.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Baca",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "Introduction to Metadata",
+   "publisher": "Getty Research Institute",
+   "place": "Los Angeles",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Bordalo R., Bottaini C., Candeias A. 2020, A framework design for information management in Heritage Science laboratories, «Journal on Computing and Cultural Heritage», 14, 1, 1-14 (https://doi.org/10.1145/3417304).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bordalo",
+     "given": "R."
+    },
+    {
+     "family": "Bottaini",
+     "given": "C."
+    },
+    {
+     "family": "Candeias",
+     "given": "A."
+    }
+   ],
+   "date": "2020",
+   "title": "A framework design for information management in Heritage Science laboratories",
+   "is_part_of": [
+    "Journal on Computing and Cultural Heritage"
+   ],
+   "volume": "14",
+   "issue": "1",
+   "pages": "1-14",
+   "language": "eng",
+   "doi": "10.1145/3417304"
+  },
+  {
+   "position": 3,
+   "raw": "Cambon J., Hernangómez D., Belanger C., Possenriede D. 2021, Tidygeocoder: An R package for geocoding, R package version 1.0.5, «Journal of Open Source Software», 6, 65, 3544 (https://doi.org/10.21105/joss.03544).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cambon",
+     "given": "J."
+    },
+    {
+     "family": "Hernangómez",
+     "given": "D."
+    },
+    {
+     "family": "Belanger",
+     "given": "C."
+    },
+    {
+     "family": "Possenriede",
+     "given": "D."
+    }
+   ],
+   "date": "2021",
+   "title": "Tidygeocoder: An R package for geocoding, R package version 1.0.5",
+   "is_part_of": [
+    "Journal of Open Source Software"
+   ],
+   "volume": "6",
+   "issue": "65",
+   "pages": "3544",
+   "language": "eng",
+   "doi": "10.21105/joss.03544"
+  },
+  {
+   "position": 4,
+   "raw": "Cantone D., Nicolosi-Asmundo M., Santamaria D.F., Cristofaro S., Spampinato D., Prado F. 2019, An EpiDoc ontological perspective: The epigraphs of the Castello Ursino Civic Museum of Catania via CIDOC CRM, «Archeologia e Calcolatori», 30, 139-157 (https://doi.org/10.19282/ac.30.2019.10).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "D."
+    },
+    {
+     "family": "Nicolosi-Asmundo",
+     "given": "M."
+    },
+    {
+     "family": "Santamaria",
+     "given": "D.F."
+    },
+    {
+     "family": "Cristofaro",
+     "given": "S."
+    },
+    {
+     "family": "Spampinato",
+     "given": "D."
+    },
+    {
+     "family": "Prado",
+     "given": "F."
+    }
+   ],
+   "date": "2019",
+   "language": "eng",
+   "cited_aec_id": 1045
+  },
+  {
+   "position": 5,
+   "raw": "Carman J., Sørensen M.L.S. 2009, Heritage Studies – An outline, in J. Carman, M.L.S. Sørensen (eds.), Heritage Studies. Methods and Approaches, London, Routledge, 11-28.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Carman",
+     "given": "J."
+    },
+    {
+     "family": "Sørensen",
+     "given": "M.L.S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Carman",
+     "given": "J."
+    },
+    {
+     "family": "Sørensen",
+     "given": "M.L.S."
+    }
+   ],
+   "date": "2009",
+   "title": "Heritage Studies – An outline",
+   "is_part_of": [
+    "Heritage Studies. Methods and Approaches"
+   ],
+   "pages": "11-28",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Castelli L., Felicetti A., Proietti F. 2021, Heritage Science and Cultural Heritage: Standards and tools for establishing cross-domain data interoperability, «International Journal on Digital Libraries», 22, 3, 279-287 (https://doi.org/10.1007/s00799-019-00275-2).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Castelli",
+     "given": "L."
+    },
+    {
+     "family": "Felicetti",
+     "given": "A."
+    },
+    {
+     "family": "Proietti",
+     "given": "F."
+    }
+   ],
+   "date": "2021",
+   "title": "Heritage Science and Cultural Heritage: Standards and tools for establishing cross-domain data interoperability",
+   "is_part_of": [
+    "International Journal on Digital Libraries"
+   ],
+   "volume": "22",
+   "issue": "3",
+   "pages": "279-287",
+   "language": "eng",
+   "doi": "10.1007/s00799-019-00275-2"
+  },
+  {
+   "position": 7,
+   "raw": "Christaki E., Doerr M., Felicetti A., Hermon S., Hiebel G., Kritsotaki A., Masur A., May K., Ore C.-E., Ronzino P., Schmidle W., Theodoridou M., Tsiafaki D. 2024, Definition of the CRMarchaeo. An Extension of CRMbase to support the archaeological excavation process (https://www.cidoc-crm.org/crmarchaeo/sites/default/files/CRMarchaeo_v2.1%28site%29.pdf; last accessed 29/05/2024).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Christaki",
+     "given": "E."
+    },
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Felicetti",
+     "given": "A."
+    },
+    {
+     "family": "Hermon",
+     "given": "S."
+    },
+    {
+     "family": "Hiebel",
+     "given": "G."
+    },
+    {
+     "family": "Kritsotaki",
+     "given": "A."
+    },
+    {
+     "family": "Masur",
+     "given": "A."
+    },
+    {
+     "family": "May",
+     "given": "K."
+    },
+    {
+     "family": "Ore",
+     "given": "C.-E."
+    },
+    {
+     "family": "Ronzino",
+     "given": "P."
+    },
+    {
+     "family": "Schmidle",
+     "given": "W."
+    },
+    {
+     "family": "Theodoridou",
+     "given": "M."
+    },
+    {
+     "family": "Tsiafaki",
+     "given": "D."
+    }
+   ],
+   "date": "2024",
+   "title": "Definition of the CRMarchaeo. An Extension of CRMbase to support the archaeological excavation process",
+   "language": "eng",
+   "uri": "https://www.cidoc-crm.org/crmarchaeo/sites/default/files/CRMarchaeo_v2.1%28site%29.pdf",
+   "notes": "last accessed 29/05/2024"
+  },
+  {
+   "position": 8,
+   "raw": "Felicetti A., Scarselli T., Mancinelli M.L., Niccolucci F. 2013, Mapping ICCD archaeological data to CIDOC-CRM: The RA Schema, in V. Alexiev, V. Ivanov, M. Grinberg (eds.), CRMEX 2013 Practical Experiences with CIDOC CRM and its Extensions, CEUR WS, 11-22.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Felicetti",
+     "given": "A."
+    },
+    {
+     "family": "Scarselli",
+     "given": "T."
+    },
+    {
+     "family": "Mancinelli",
+     "given": "M.L."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Alexiev",
+     "given": "V."
+    },
+    {
+     "family": "Ivanov",
+     "given": "V."
+    },
+    {
+     "family": "Grinberg",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Mapping ICCD archaeological data to CIDOC-CRM: The RA Schema",
+   "is_part_of": [
+    "CRMEX 2013 Practical Experiences with CIDOC CRM and its Extensions"
+   ],
+   "pages": "11-22",
+   "publisher": "CEUR WS",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Gaio S., Borgo S., Masolo C., Oltramari A., Guarino N. 2010, Un'introduzione all'ontologia DOLCE, «AIDA informazioni: Rivista di scienze dell'informazione», 28, 107-125 (https://doi.org/10.1400/212462).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gaio",
+     "given": "S."
+    },
+    {
+     "family": "Borgo",
+     "given": "S."
+    },
+    {
+     "family": "Masolo",
+     "given": "C."
+    },
+    {
+     "family": "Oltramari",
+     "given": "A."
+    },
+    {
+     "family": "Guarino",
+     "given": "N."
+    }
+   ],
+   "date": "2010",
+   "title": "Un'introduzione all'ontologia DOLCE",
+   "is_part_of": [
+    "AIDA informazioni: Rivista di scienze dell'informazione"
+   ],
+   "volume": "28",
+   "pages": "107-125",
+   "language": "ita",
+   "doi": "10.1400/212462"
+  },
+  {
+   "position": 10,
+   "raw": "Garijo D., Poveda-Villalón M. 2020, Best Practices for Implementing FAIR Vocabularies and Ontologies on the Web (https://doi.org/10.48550/arXiv.2003.13084).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Garijo",
+     "given": "D."
+    },
+    {
+     "family": "Poveda-Villalón",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "Best Practices for Implementing FAIR Vocabularies and Ontologies on the Web",
+   "language": "eng",
+   "doi": "10.48550/arXiv.2003.13084"
+  },
+  {
+   "position": 11,
+   "raw": "Gilliland 2008, Setting the stage, in M. Baca (ed.), Introduction to Metadata, Los Angeles, Getty Research Institute, 1-19.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gilliland",
+     "given": ""
+    }
+   ],
+   "editors": [
+    {
+     "family": "Baca",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "Setting the stage",
+   "is_part_of": [
+    "Introduction to Metadata"
+   ],
+   "pages": "1-19",
+   "publisher": "Getty Research Institute",
+   "place": "Los Angeles",
+   "language": "eng",
+   "xref": 1,
+   "notes": "cited without initials"
+  },
+  {
+   "position": 12,
+   "raw": "Gruber T. 2009, Ontology, in L. Liu, M.T. Özsu (eds.), Encyclopedia of Database Systems, Boston, Springer, 1963-1965 (https://doi.org/10.1007/978-0-387-39940-9_1318).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gruber",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Liu",
+     "given": "L."
+    },
+    {
+     "family": "Özsu",
+     "given": "M.T."
+    }
+   ],
+   "date": "2009",
+   "title": "Ontology",
+   "is_part_of": [
+    "Encyclopedia of Database Systems"
+   ],
+   "pages": "1963-1965",
+   "publisher": "Springer",
+   "place": "Boston",
+   "language": "eng",
+   "doi": "10.1007/978-0-387-39940-9_1318"
+  },
+  {
+   "position": 13,
+   "raw": "Hedden H. 2010, The Accidental Taxonomist, Medford, Information Today.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hedden",
+     "given": "H."
+    }
+   ],
+   "date": "2010",
+   "title": "The Accidental Taxonomist",
+   "publisher": "Information Today",
+   "place": "Medford",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Hodge G.M. 2000, Systems of Knowledge Organization for Digital Libraries: Beyond Traditional Authority Files, Washington, Digital Library Federation.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodge",
+     "given": "G.M."
+    }
+   ],
+   "date": "2000",
+   "title": "Systems of Knowledge Organization for Digital Libraries: Beyond Traditional Authority Files",
+   "publisher": "Digital Library Federation",
+   "place": "Washington",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "House of Lords Science and Technology Select Committee 2006, Science and Heritage. Report with Evidence, London, The Stationery Office Limited.",
+   "type": "book",
+   "date": "2006",
+   "title": "Science and Heritage. Report with Evidence",
+   "publisher": "The Stationery Office Limited",
+   "place": "London",
+   "language": "eng",
+   "notes": "author: House of Lords Science and Technology Select Committee"
+  },
+  {
+   "position": 16,
+   "raw": "Huang Y. 2024, Bibliometric analysis of GIS applications in heritage studies based on Web of Science from 1994 to 2023, «Heritage Science», 12, 1, 57 (https://doi.org/10.1186/s40494-024-01163-y).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huang",
+     "given": "Y."
+    }
+   ],
+   "date": "2024",
+   "title": "Bibliometric analysis of GIS applications in heritage studies based on Web of Science from 1994 to 2023",
+   "is_part_of": [
+    "Heritage Science"
+   ],
+   "volume": "12",
+   "issue": "1",
+   "pages": "57",
+   "language": "eng",
+   "doi": "10.1186/s40494-024-01163-y"
+  },
+  {
+   "position": 17,
+   "raw": "Jonquet C., Graybeal J., Bouazzouni S., Dorf M., Fiore N., Kechagioglou X., Redmond T., Rosati I., Skrenchuk A., Vendetti J.L., Musen M. 2023, Ontology repositories and semantic artefact catalogues with the OntoPortal technology, in T.R. Payne, V. Presutti, G. Qi, M. Poveda-Villalón, G. Stoilos, L. Hollink, Z. Kaoudi, G. Cheng, J. Li (eds.), The Semantic Web – ISWC 2023, Cham, Springer Nature Switzerland, 38-58 (https://doi.org/10.1007/978-3-031-47243-5_3).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Jonquet",
+     "given": "C."
+    },
+    {
+     "family": "Graybeal",
+     "given": "J."
+    },
+    {
+     "family": "Bouazzouni",
+     "given": "S."
+    },
+    {
+     "family": "Dorf",
+     "given": "M."
+    },
+    {
+     "family": "Fiore",
+     "given": "N."
+    },
+    {
+     "family": "Kechagioglou",
+     "given": "X."
+    },
+    {
+     "family": "Redmond",
+     "given": "T."
+    },
+    {
+     "family": "Rosati",
+     "given": "I."
+    },
+    {
+     "family": "Skrenchuk",
+     "given": "A."
+    },
+    {
+     "family": "Vendetti",
+     "given": "J.L."
+    },
+    {
+     "family": "Musen",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Payne",
+     "given": "T.R."
+    },
+    {
+     "family": "Presutti",
+     "given": "V."
+    },
+    {
+     "family": "Qi",
+     "given": "G."
+    },
+    {
+     "family": "Poveda-Villalón",
+     "given": "M."
+    },
+    {
+     "family": "Stoilos",
+     "given": "G."
+    },
+    {
+     "family": "Hollink",
+     "given": "L."
+    },
+    {
+     "family": "Kaoudi",
+     "given": "Z."
+    },
+    {
+     "family": "Cheng",
+     "given": "G."
+    },
+    {
+     "family": "Li",
+     "given": "J."
+    }
+   ],
+   "date": "2023",
+   "title": "Ontology repositories and semantic artefact catalogues with the OntoPortal technology",
+   "is_part_of": [
+    "The Semantic Web – ISWC 2023"
+   ],
+   "pages": "38-58",
+   "publisher": "Springer Nature Switzerland",
+   "place": "Cham",
+   "language": "eng",
+   "doi": "10.1007/978-3-031-47243-5_3"
+  },
+  {
+   "position": 18,
+   "raw": "Kennedy C.J. 2015, The role of Heritage Science in conservation philosophy and practice, «The Historic Environment: Policy & Practice», 6, 3, 214-228 (https://doi.org/10.1080/17567505.2015.1099925).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kennedy",
+     "given": "C.J."
+    }
+   ],
+   "date": "2015",
+   "title": "The role of Heritage Science in conservation philosophy and practice",
+   "is_part_of": [
+    "The Historic Environment: Policy & Practice"
+   ],
+   "volume": "6",
+   "issue": "3",
+   "pages": "214-228",
+   "language": "eng",
+   "doi": "10.1080/17567505.2015.1099925"
+  },
+  {
+   "position": 19,
+   "raw": "Kennedy C.J., Penman M., Watkinson D., Emmerson N., Thickett D., Bosché F., Forster A.M., Grau-Bové J., Cassar M. 2024, Beyond Heritage Science: A review, «Heritage», 7, 3, 1510-1538 (https://doi.org/10.3390/heritage7030073).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kennedy",
+     "given": "C.J."
+    },
+    {
+     "family": "Penman",
+     "given": "M."
+    },
+    {
+     "family": "Watkinson",
+     "given": "D."
+    },
+    {
+     "family": "Emmerson",
+     "given": "N."
+    },
+    {
+     "family": "Thickett",
+     "given": "D."
+    },
+    {
+     "family": "Bosché",
+     "given": "F."
+    },
+    {
+     "family": "Forster",
+     "given": "A.M."
+    },
+    {
+     "family": "Grau-Bové",
+     "given": "J."
+    },
+    {
+     "family": "Cassar",
+     "given": "M."
+    }
+   ],
+   "date": "2024",
+   "title": "Beyond Heritage Science: A review",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "7",
+   "issue": "3",
+   "pages": "1510-1538",
+   "language": "eng",
+   "doi": "10.3390/heritage7030073"
+  },
+  {
+   "position": 20,
+   "raw": "Le Franc Y., Parland-von Essen J., Bonino L., Lehväslaiho H., Coen G., Staiger C. 2020, D2.2 FAIR Semantics: First recommendations (https://zenodo.org/records/3707985; last accessed 29/05/2024).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Le Franc",
+     "given": "Y."
+    },
+    {
+     "family": "Parland-von Essen",
+     "given": "J."
+    },
+    {
+     "family": "Bonino",
+     "given": "L."
+    },
+    {
+     "family": "Lehväslaiho",
+     "given": "H."
+    },
+    {
+     "family": "Coen",
+     "given": "G."
+    },
+    {
+     "family": "Staiger",
+     "given": "C."
+    }
+   ],
+   "date": "2020",
+   "title": "D2.2 FAIR Semantics: First recommendations",
+   "language": "eng",
+   "uri": "https://zenodo.org/records/3707985",
+   "notes": "last accessed 29/05/2024"
+  },
+  {
+   "position": 21,
+   "raw": "Moraitou E., Aliprantis J., Christodoulou Y., Teneketzis A., Caridakis G. 2019, Semantic bridging of Cultural Heritage disciplines and tasks, «Heritage», 2, 1, 611-630 (https://doi.org/10.3390/heritage2010040).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moraitou",
+     "given": "E."
+    },
+    {
+     "family": "Aliprantis",
+     "given": "J."
+    },
+    {
+     "family": "Christodoulou",
+     "given": "Y."
+    },
+    {
+     "family": "Teneketzis",
+     "given": "A."
+    },
+    {
+     "family": "Caridakis",
+     "given": "G."
+    }
+   ],
+   "date": "2019",
+   "title": "Semantic bridging of Cultural Heritage disciplines and tasks",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "2",
+   "issue": "1",
+   "pages": "611-630",
+   "language": "eng",
+   "doi": "10.3390/heritage2010040"
+  },
+  {
+   "position": 22,
+   "raw": "Narula G.S., Wason R., Jain V., Baliyan A. 2018, Ontology mapping and merging aspects in Semantic web, «International Robotics & Automation Journal», 4, 1 (https://doi.org/10.15406/iratj.2018.04.00087).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Narula",
+     "given": "G.S."
+    },
+    {
+     "family": "Wason",
+     "given": "R."
+    },
+    {
+     "family": "Jain",
+     "given": "V."
+    },
+    {
+     "family": "Baliyan",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Ontology mapping and merging aspects in Semantic web",
+   "is_part_of": [
+    "International Robotics & Automation Journal"
+   ],
+   "volume": "4",
+   "issue": "1",
+   "language": "eng",
+   "doi": "10.15406/iratj.2018.04.00087"
+  },
+  {
+   "position": 23,
+   "raw": "Sartini B., Baroncini S., Van Erp M., Tomasi F., Gangemi A. 2023, ICON: An ontology for comprehensive artistic interpretations, «Journal on Computing and Cultural Heritage», 16, 3, 1-38 (https://doi.org/10.1145/3594724).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sartini",
+     "given": "B."
+    },
+    {
+     "family": "Baroncini",
+     "given": "S."
+    },
+    {
+     "family": "Van Erp",
+     "given": "M."
+    },
+    {
+     "family": "Tomasi",
+     "given": "F."
+    },
+    {
+     "family": "Gangemi",
+     "given": "A."
+    }
+   ],
+   "date": "2023",
+   "title": "ICON: An ontology for comprehensive artistic interpretations",
+   "is_part_of": [
+    "Journal on Computing and Cultural Heritage"
+   ],
+   "volume": "16",
+   "issue": "3",
+   "pages": "1-38",
+   "language": "eng",
+   "doi": "10.1145/3594724"
+  },
+  {
+   "position": 24,
+   "raw": "Skublewska-Paszkowska M., Milosz M., Powroznik P., Lukasik E. 2022, 3D technologies for intangible cultural heritage preservation. Literature review for selected databases, «Heritage Science», 10, 1, 3 (https://doi.org/10.1186/s40494-021-00633-x).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Skublewska-Paszkowska",
+     "given": "M."
+    },
+    {
+     "family": "Milosz",
+     "given": "M."
+    },
+    {
+     "family": "Powroznik",
+     "given": "P."
+    },
+    {
+     "family": "Lukasik",
+     "given": "E."
+    }
+   ],
+   "date": "2022",
+   "title": "3D technologies for intangible cultural heritage preservation. Literature review for selected databases",
+   "is_part_of": [
+    "Heritage Science"
+   ],
+   "volume": "10",
+   "issue": "1",
+   "pages": "3",
+   "language": "eng",
+   "doi": "10.1186/s40494-021-00633-x"
+  },
+  {
+   "position": 25,
+   "raw": "Souza R.R., Tudhope D., Almeida A.M.B. 2012, Towards a taxonomy of KOS: Dimensions for classifying knowledge organization systems, «Knowledge Organization», 39, 3, 179-192 (https://doi.org/10.5771/0943-7444-2012-3-179).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Souza",
+     "given": "R.R."
+    },
+    {
+     "family": "Tudhope",
+     "given": "D."
+    },
+    {
+     "family": "Almeida",
+     "given": "A.M.B."
+    }
+   ],
+   "date": "2012",
+   "title": "Towards a taxonomy of KOS: Dimensions for classifying knowledge organization systems",
+   "is_part_of": [
+    "Knowledge Organization"
+   ],
+   "volume": "39",
+   "issue": "3",
+   "pages": "179-192",
+   "language": "eng",
+   "doi": "10.5771/0943-7444-2012-3-179"
+  },
+  {
+   "position": 26,
+   "raw": "Strlič M. 2018, Heritage Science: A future-oriented cross-disciplinary field, «Angewandte Chemie International Edition», 57, 25, 7260-7261 (https://doi.org/10.1002/anie.201804246).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Strlič",
+     "given": "M."
+    }
+   ],
+   "date": "2018",
+   "title": "Heritage Science: A future-oriented cross-disciplinary field",
+   "is_part_of": [
+    "Angewandte Chemie International Edition"
+   ],
+   "volume": "57",
+   "issue": "25",
+   "pages": "7260-7261",
+   "language": "eng",
+   "doi": "10.1002/anie.201804246"
+  },
+  {
+   "position": 27,
+   "raw": "van Eck N.J., Waltman L. 2010, Software survey: VOSviewer, a computer program for bibliometric mapping, «Scientometrics», 84, 2, 523-538 (https://doi.org/10.1007/s11192-009-0146-3).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "van Eck",
+     "given": "N.J."
+    },
+    {
+     "family": "Waltman",
+     "given": "L."
+    }
+   ],
+   "date": "2010",
+   "title": "Software survey: VOSviewer, a computer program for bibliometric mapping",
+   "is_part_of": [
+    "Scientometrics"
+   ],
+   "volume": "84",
+   "issue": "2",
+   "pages": "523-538",
+   "language": "eng",
+   "doi": "10.1007/s11192-009-0146-3"
+  },
+  {
+   "position": 28,
+   "raw": "Vandenbussche P.-Y., Atemezing G.A., Poveda-Villalón M., Vatant B. 2017, Linked Open Vocabularies (LOV): A gateway to reusable semantic vocabularies on the web, «Semantic Web», 8.3, 437-452 (https://doi.org/10.3233/SW-160213).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vandenbussche",
+     "given": "P.-Y."
+    },
+    {
+     "family": "Atemezing",
+     "given": "G.A."
+    },
+    {
+     "family": "Poveda-Villalón",
+     "given": "M."
+    },
+    {
+     "family": "Vatant",
+     "given": "B."
+    }
+   ],
+   "date": "2017",
+   "title": "Linked Open Vocabularies (LOV): A gateway to reusable semantic vocabularies on the web",
+   "is_part_of": [
+    "Semantic Web"
+   ],
+   "volume": "8",
+   "issue": "3",
+   "pages": "437-452",
+   "language": "eng",
+   "doi": "10.3233/SW-160213"
+  },
+  {
+   "position": 29,
+   "raw": "Wilkinson M.D., Dumontier M., Aalbersberg Ij.J. et al. 2016, The FAIR Guiding Principles for scientific data management and stewardship, «Scientific Data», 3, 1, 160018 (https://doi.org/10.1038/sdata.2016.18).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wilkinson",
+     "given": "M.D."
+    },
+    {
+     "family": "Dumontier",
+     "given": "M."
+    },
+    {
+     "family": "Aalbersberg",
+     "given": "I.J."
+    }
+   ],
+   "date": "2016",
+   "title": "The FAIR Guiding Principles for scientific data management and stewardship",
+   "is_part_of": [
+    "Scientific Data"
+   ],
+   "volume": "3",
+   "issue": "1",
+   "pages": "160018",
+   "language": "eng",
+   "doi": "10.1038/sdata.2016.18",
+   "notes": "cited \"et al.\""
+  }
+ ]
+}

@@ -1,0 +1,726 @@
+{
+ "citing_aec_id": 1045,
+ "source_file": "data/journal/30/1045.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Agodi S., Cristofaro S., Noto V., Prag J.R.W., Spampinato D. 2018, *Una collaborazione tra museo, enti di ricerca e scuola: l'epigrafia digitale e l'alternanza scuola lavoro*, «Umanistica Digitale», 2, 207-224 (https://doi.org/10.6092/issn.2532-8816/7298).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Agodi",
+     "given": "S."
+    },
+    {
+     "family": "Cristofaro",
+     "given": "S."
+    },
+    {
+     "family": "Noto",
+     "given": "V."
+    },
+    {
+     "family": "Prag",
+     "given": "J.R.W."
+    },
+    {
+     "family": "Spampinato",
+     "given": "D."
+    }
+   ],
+   "date": "2018",
+   "title": "Una collaborazione tra museo, enti di ricerca e scuola: l'epigrafia digitale e l'alternanza scuola lavoro",
+   "is_part_of": [
+    "Umanistica Digitale"
+   ],
+   "volume": "2",
+   "pages": "207-224",
+   "doi": "10.6092/issn.2532-8816/7298",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Allemang D., Hendler J. 2011, *Semantic Web for the Working Ontologist: Effective Modeling in RDFS and OWL*, Elsevier.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Allemang",
+     "given": "D."
+    },
+    {
+     "family": "Hendler",
+     "given": "J."
+    }
+   ],
+   "date": "2011",
+   "title": "Semantic Web for the Working Ontologist: Effective Modeling in RDFS and OWL",
+   "publisher": "Elsevier",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Álvarez F.L., García-Barriocanal E., Gómez-Pantoja J.L. 2010, *Sharing epigraphic information as linked data*, in S. Sánchez-Alonso, I.N. Athanasiadis (eds.), *MTSR 2010*, CCIS 108, Berlin-Heidelberg, Springer-Verlag, 222-234.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Álvarez",
+     "given": "F.L."
+    },
+    {
+     "family": "García-Barriocanal",
+     "given": "E."
+    },
+    {
+     "family": "Gómez-Pantoja",
+     "given": "J.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Sánchez-Alonso",
+     "given": "S."
+    },
+    {
+     "family": "Athanasiadis",
+     "given": "I.N."
+    }
+   ],
+   "date": "2010",
+   "title": "Sharing epigraphic information as linked data",
+   "is_part_of": [
+    "MTSR 2010"
+   ],
+   "series": "CCIS",
+   "series_number": "108",
+   "pages": "222-234",
+   "publisher": "Springer-Verlag",
+   "place": "Berlin-Heidelberg",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Calvanese D., Liuzzo P., Mosca A., Remesal J., Rezk M., Rull G. 2016, *Ontology-based data integration in EPNet: Production and distribution of food during the Roman Empire*, «Engineering Applications of Artificial Intelligence», 51, 212-229.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Calvanese",
+     "given": "D."
+    },
+    {
+     "family": "Liuzzo",
+     "given": "P."
+    },
+    {
+     "family": "Mosca",
+     "given": "A."
+    },
+    {
+     "family": "Remesal",
+     "given": "J."
+    },
+    {
+     "family": "Rezk",
+     "given": "M."
+    },
+    {
+     "family": "Rull",
+     "given": "G."
+    }
+   ],
+   "date": "2016",
+   "title": "Ontology-based data integration in EPNet: Production and distribution of food during the Roman Empire",
+   "is_part_of": [
+    "Engineering Applications of Artificial Intelligence"
+   ],
+   "volume": "51",
+   "pages": "212-229",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Cantale C., Cantone D., Lupica Rinato M., Nicolosi-Asmundo M., Santamaria D.F. 2017a, *The shape of a Benedictine monastery: The Saint Gall ontology*, in Proceedings of the Third Joint Ontology Workshops (JOWO-17) (Bolzano 2017), CEUR Workshop Proceedings 2050 (http://ceur-ws.org/Vol-2050/SHAPES_paper_2.pdf; last accessed: 04/06/2019).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cantale",
+     "given": "C."
+    },
+    {
+     "family": "Cantone",
+     "given": "D."
+    },
+    {
+     "family": "Lupica Rinato",
+     "given": "M."
+    },
+    {
+     "family": "Nicolosi-Asmundo",
+     "given": "M."
+    },
+    {
+     "family": "Santamaria",
+     "given": "D.F."
+    }
+   ],
+   "date": "2017",
+   "title": "The shape of a Benedictine monastery: The Saint Gall ontology",
+   "is_part_of": [
+    "Proceedings of the Third Joint Ontology Workshops (JOWO-17) (Bolzano 2017)"
+   ],
+   "series": "CEUR Workshop Proceedings",
+   "series_number": "2050",
+   "uri": "http://ceur-ws.org/Vol-2050/SHAPES_paper_2.pdf",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Cantale C., Cantone D., Nicolosi-Asmundo M., Santamaria D.F. 2017b, *Distant reading through ontologies: The case study of Catania's Benedictine's monastery*, «Italian Journal of Library, Archives, and Information Science», 8-3, 203-219.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cantale",
+     "given": "C."
+    },
+    {
+     "family": "Cantone",
+     "given": "D."
+    },
+    {
+     "family": "Nicolosi-Asmundo",
+     "given": "M."
+    },
+    {
+     "family": "Santamaria",
+     "given": "D.F."
+    }
+   ],
+   "date": "2017",
+   "title": "Distant reading through ontologies: The case study of Catania's Benedictine's monastery",
+   "is_part_of": [
+    "Italian Journal of Library, Archives, and Information Science"
+   ],
+   "volume": "8",
+   "issue": "3",
+   "pages": "203-219",
+   "language": "eng",
+   "notes": "cited as '8-3'"
+  },
+  {
+   "position": 7,
+   "raw": "Cantone D., Fornaia A., Nicolosi Asmundo M., Santamaria D.F., Tramontana E. 2016, *An OWL framework for rule-based recognition of places in Italian non-structured text*, in Proceedings of the 2nd International Workshop on Knowledge Discovery on the Web, KDWEB 2016 (Cagliari 2016), CEUR Workshop Proceedings, Vol. 1748, Section I, Paper 8 (http://ceur-ws.org/Vol-1748/paper-08.pdf; last accessed: 04/06/2019).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "D."
+    },
+    {
+     "family": "Fornaia",
+     "given": "A."
+    },
+    {
+     "family": "Nicolosi Asmundo",
+     "given": "M."
+    },
+    {
+     "family": "Santamaria",
+     "given": "D.F."
+    },
+    {
+     "family": "Tramontana",
+     "given": "E."
+    }
+   ],
+   "date": "2016",
+   "title": "An OWL framework for rule-based recognition of places in Italian non-structured text",
+   "is_part_of": [
+    "Proceedings of the 2nd International Workshop on Knowledge Discovery on the Web, KDWEB 2016 (Cagliari 2016)"
+   ],
+   "series": "CEUR Workshop Proceedings",
+   "series_number": "1748",
+   "uri": "http://ceur-ws.org/Vol-1748/paper-08.pdf",
+   "language": "eng",
+   "notes": "cited as Vol. 1748, Section I, Paper 8"
+  },
+  {
+   "position": 8,
+   "raw": "Casarosa V., Manghi P., Mannocci A., Ruiz E.R., Zoppi F. 2014, *A conceptual model for inscriptions: Harmonizing digital epigraphy data sources*, in Information Technologies for Epigraphy and Cultural Heritage. Proceedings of the First EAGLE International Conference (Paris 2014), Roma, Sapienza Università Editrice, 23-40 (https://www.eagle-network.eu/wp-content/uploads/2015/01/Paris-Conference-Proceedings.pdf; last accessed: 04/06/2019).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Casarosa",
+     "given": "V."
+    },
+    {
+     "family": "Manghi",
+     "given": "P."
+    },
+    {
+     "family": "Mannocci",
+     "given": "A."
+    },
+    {
+     "family": "Ruiz",
+     "given": "E.R."
+    },
+    {
+     "family": "Zoppi",
+     "given": "F."
+    }
+   ],
+   "date": "2014",
+   "title": "A conceptual model for inscriptions: Harmonizing digital epigraphy data sources",
+   "is_part_of": [
+    "Information Technologies for Epigraphy and Cultural Heritage. Proceedings of the First EAGLE International Conference (Paris 2014)"
+   ],
+   "pages": "23-40",
+   "publisher": "Sapienza Università Editrice",
+   "place": "Roma",
+   "uri": "https://www.eagle-network.eu/wp-content/uploads/2015/01/Paris-Conference-Proceedings.pdf",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Ciotti F. 2018, *A formal ontology for the Text Encoding Initiative*, «Umanistica Digitale», 3 (https://doi.org/10.6092/issn.2532-8816/8174).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ciotti",
+     "given": "F."
+    }
+   ],
+   "date": "2018",
+   "title": "A formal ontology for the Text Encoding Initiative",
+   "is_part_of": [
+    "Umanistica Digitale"
+   ],
+   "volume": "3",
+   "doi": "10.6092/issn.2532-8816/8174",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Ciula A., Eide Ø. 2014, *Reflections on cultural heritage and digital humanities: Modelling in practice and theory*, in Proceedings of the First International Conference on Digital Access to Textual Cultural Heritage (Madrid 2014), New York, ACM, 35-41.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ciula",
+     "given": "A."
+    },
+    {
+     "family": "Eide",
+     "given": "Ø."
+    }
+   ],
+   "date": "2014",
+   "title": "Reflections on cultural heritage and digital humanities: Modelling in practice and theory",
+   "is_part_of": [
+    "Proceedings of the First International Conference on Digital Access to Textual Cultural Heritage (Madrid 2014)"
+   ],
+   "pages": "35-41",
+   "publisher": "ACM",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Cristofaro S., Spampinato D. 2019, *EpiCUM. Un museo epigrafico digitale per visitatori e specialisti*, in S. Allegrezza (ed.), *AIUCD2019 – Book of Abstracts*, Udine, AIUCD, 122-127 (http://aiucd2019.uniud.it/book-of-abstracts/; last accessed: 04/06/2019).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cristofaro",
+     "given": "S."
+    },
+    {
+     "family": "Spampinato",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Allegrezza",
+     "given": "S."
+    }
+   ],
+   "date": "2019",
+   "title": "EpiCUM. Un museo epigrafico digitale per visitatori e specialisti",
+   "is_part_of": [
+    "AIUCD2019 – Book of Abstracts"
+   ],
+   "pages": "122-127",
+   "publisher": "AIUCD",
+   "place": "Udine",
+   "uri": "http://aiucd2019.uniud.it/book-of-abstracts/",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "De Santis A., Rossi I. (eds.) 2018, *Crossing Experiences in Digital Epigraphy. From Practice to Discipline*, Berlin, Boston, De Gruyter.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "De Santis",
+     "given": "A."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2018",
+   "title": "Crossing Experiences in Digital Epigraphy. From Practice to Discipline",
+   "publisher": "De Gruyter",
+   "place": "Berlin, Boston",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Di Iorio A., Nuzzolese A.G., Peroni S., Shotton D., Vitali F. 2014, *Describing bibliographic references in RDF*, in Á. García Castro, C. Lange, P. Lord, R. Stevens (eds.), *Proceedings of 4th Workshop on Semantic Publishing*, CEUR Workshop Proceedings 1155 (http://ceur-ws.org/Vol-1155/paper-05.pdf; last accessed: 04/06/2019).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Iorio",
+     "given": "A."
+    },
+    {
+     "family": "Nuzzolese",
+     "given": "A.G."
+    },
+    {
+     "family": "Peroni",
+     "given": "S."
+    },
+    {
+     "family": "Shotton",
+     "given": "D."
+    },
+    {
+     "family": "Vitali",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "García Castro",
+     "given": "Á."
+    },
+    {
+     "family": "Lange",
+     "given": "C."
+    },
+    {
+     "family": "Lord",
+     "given": "P."
+    },
+    {
+     "family": "Stevens",
+     "given": "R."
+    }
+   ],
+   "date": "2014",
+   "title": "Describing bibliographic references in RDF",
+   "is_part_of": [
+    "Proceedings of 4th Workshop on Semantic Publishing"
+   ],
+   "series": "CEUR Workshop Proceedings",
+   "series_number": "1155",
+   "uri": "http://ceur-ws.org/Vol-1155/paper-05.pdf",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Doerr M. 2003, *The CIDOC CRM. An ontological approach to semantic interoperability of metadata*, «AI Magazine», 24, 3, 75-92.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "The CIDOC CRM. An ontological approach to semantic interoperability of metadata",
+   "is_part_of": [
+    "AI Magazine"
+   ],
+   "volume": "24",
+   "issue": "3",
+   "pages": "75-92",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Evangelisti S. 2017, *Scrittura epigrafica, alcune riflessioni*, in S. Antolini, S.M. Marengo, G. Paci (eds.), *Colonie e municipi nell'era digitale. Documentazione epigrafica per la conoscenza delle città antiche, Atti del Convegno di Studi (Macerata 2015)*, Tored, 163-178.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Evangelisti",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Antolini",
+     "given": "S."
+    },
+    {
+     "family": "Marengo",
+     "given": "S.M."
+    },
+    {
+     "family": "Paci",
+     "given": "G."
+    }
+   ],
+   "date": "2017",
+   "title": "Scrittura epigrafica, alcune riflessioni",
+   "is_part_of": [
+    "Colonie e municipi nell'era digitale. Documentazione epigrafica per la conoscenza delle città antiche, Atti del Convegno di Studi (Macerata 2015)"
+   ],
+   "pages": "163-178",
+   "publisher": "Tored",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Felicetti A., Murano F. 2017, *Scripta manent: A CIDOC CRM semiotic reading of ancient texts*, «International Journal on Digital Libraries», 18, 4, 263-270.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Felicetti",
+     "given": "A."
+    },
+    {
+     "family": "Murano",
+     "given": "F."
+    }
+   ],
+   "date": "2017",
+   "title": "Scripta manent: A CIDOC CRM semiotic reading of ancient texts",
+   "is_part_of": [
+    "International Journal on Digital Libraries"
+   ],
+   "volume": "18",
+   "issue": "4",
+   "pages": "263-270",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Gangemi A., Guarino N., Masolo C., Oltramari A., Schneider L. 2002, *Sweetening ontologies with DOLCE*, in Proceedings of International Conference on Knowledge Engineering and Knowledge Management (EKAW 2002), Ontologies and the Semantic Web, Lecture Notes in Artificial Intelligence 2473, Berlin-Heidelberg, Springer, 166-181.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gangemi",
+     "given": "A."
+    },
+    {
+     "family": "Guarino",
+     "given": "N."
+    },
+    {
+     "family": "Masolo",
+     "given": "C."
+    },
+    {
+     "family": "Oltramari",
+     "given": "A."
+    },
+    {
+     "family": "Schneider",
+     "given": "L."
+    }
+   ],
+   "date": "2002",
+   "title": "Sweetening ontologies with DOLCE",
+   "is_part_of": [
+    "Proceedings of International Conference on Knowledge Engineering and Knowledge Management (EKAW 2002), Ontologies and the Semantic Web"
+   ],
+   "series": "Lecture Notes in Artificial Intelligence",
+   "series_number": "2473",
+   "pages": "166-181",
+   "publisher": "Springer",
+   "place": "Berlin-Heidelberg",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Glimm B., Horrocks I., Motik B., Stoilos G., Wang Z. 2014, *HermiT: An OWL 2 reasoner*, «Journal of Automated Reasoning», 53, 3, 245-269.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Glimm",
+     "given": "B."
+    },
+    {
+     "family": "Horrocks",
+     "given": "I."
+    },
+    {
+     "family": "Motik",
+     "given": "B."
+    },
+    {
+     "family": "Stoilos",
+     "given": "G."
+    },
+    {
+     "family": "Wang",
+     "given": "Z."
+    }
+   ],
+   "date": "2014",
+   "title": "HermiT: An OWL 2 reasoner",
+   "is_part_of": [
+    "Journal of Automated Reasoning"
+   ],
+   "volume": "53",
+   "issue": "3",
+   "pages": "245-269",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Hofweber T. 2018, *Logic and Ontology*, in E.N. Zalta (ed.), *The Stanford Encyclopaedia of Philosophy* (https://plato.stanford.edu/archives/sum2018/entries/logic-ontology/; last accessed 04/06/2019).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hofweber",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Zalta",
+     "given": "E.N."
+    }
+   ],
+   "date": "2018",
+   "title": "Logic and Ontology",
+   "is_part_of": [
+    "The Stanford Encyclopaedia of Philosophy"
+   ],
+   "uri": "https://plato.stanford.edu/archives/sum2018/entries/logic-ontology/",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "Korhonen K. 2004, *Le iscrizioni del Museo Civico di Catania: Storia delle collezioni – Cultura epigrafica – Edizione*, Societas Scientiarum Fennica, Commentationes humanarum litterarum 121, Helsinki, Societas Scientiarum Fennica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Korhonen",
+     "given": "K."
+    }
+   ],
+   "date": "2004",
+   "title": "Le iscrizioni del Museo Civico di Catania: Storia delle collezioni – Cultura epigrafica – Edizione",
+   "series": "Commentationes humanarum litterarum",
+   "series_number": "121",
+   "publisher": "Societas Scientiarum Fennica",
+   "place": "Helsinki",
+   "language": "ita"
+  },
+  {
+   "position": 21,
+   "raw": "Oberle D., Guarino N., Staab S. 2009, *What is an ontology?*, in S. Staab, R. Studer (eds.), *Handbook on Ontologies*, Berlin-Heidelberg, Springer (https://doi.org/10.1007/978-3-540-92673-3_0).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Oberle",
+     "given": "D."
+    },
+    {
+     "family": "Guarino",
+     "given": "N."
+    },
+    {
+     "family": "Staab",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Staab",
+     "given": "S."
+    },
+    {
+     "family": "Studer",
+     "given": "R."
+    }
+   ],
+   "date": "2009",
+   "title": "What is an ontology?",
+   "is_part_of": [
+    "Handbook on Ontologies"
+   ],
+   "publisher": "Springer",
+   "place": "Berlin-Heidelberg",
+   "doi": "10.1007/978-3-540-92673-3_0",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "Sirin E., Parsia B., Grau B.C., Kalyanpur A., Katz Y. 2007, *Pellet: A practical OWL-DL reasoned*, «Journal of Web Semantics», 5, 2, 51-53.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sirin",
+     "given": "E."
+    },
+    {
+     "family": "Parsia",
+     "given": "B."
+    },
+    {
+     "family": "Grau",
+     "given": "B.C."
+    },
+    {
+     "family": "Kalyanpur",
+     "given": "A."
+    },
+    {
+     "family": "Katz",
+     "given": "Y."
+    }
+   ],
+   "date": "2007",
+   "title": "Pellet: A practical OWL-DL reasoner",
+   "is_part_of": [
+    "Journal of Web Semantics"
+   ],
+   "volume": "5",
+   "issue": "2",
+   "pages": "51-53",
+   "language": "eng",
+   "notes": "cited 'reasoned' (OCR/typo for 'reasoner')"
+  },
+  {
+   "position": 23,
+   "raw": "Vavliakis K.N., Karagiannis G.T., Mitkas P.A. 2012, *Semantic web in Cultural Heritage after 2020*, in Proceeding of Workshop What Will the Semantic Web look like 10 Years From Now? (Boston 2012), Boston, 1-6.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vavliakis",
+     "given": "K.N."
+    },
+    {
+     "family": "Karagiannis",
+     "given": "G.T."
+    },
+    {
+     "family": "Mitkas",
+     "given": "P.A."
+    }
+   ],
+   "date": "2012",
+   "title": "Semantic web in Cultural Heritage after 2020",
+   "is_part_of": [
+    "Workshop What Will the Semantic Web look like 10 Years From Now? (Boston 2012)"
+   ],
+   "pages": "1-6",
+   "place": "Boston",
+   "language": "eng"
+  }
+ ]
+}

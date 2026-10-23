@@ -1,0 +1,308 @@
+{
+ "citing_aec_id": 1224,
+ "source_file": "data/journal/34/1224.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Aparicio-Resco P., Figueiredo C. 2016, *El grado de evidencia histórico-arqueológica de las reconstrucciones virtuales: hacia una escala de representación gráfica*, «Otarq», 1, 235-247 (https://doi.org/10.23914/otarq.v0i1.96).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Aparicio-Resco",
+     "given": "P."
+    },
+    {
+     "family": "Figueiredo",
+     "given": "C."
+    }
+   ],
+   "date": "2016",
+   "title": "El grado de evidencia histórico-arqueológica de las reconstrucciones virtuales: hacia una escala de representación gráfica",
+   "is_part_of": [
+    "Otarq"
+   ],
+   "volume": "1",
+   "pages": "235-247",
+   "doi": "10.23914/otarq.v0i1.96",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bogdani J. 2022, *Archaeological documentation as a service. Archaeological Information Systems in the cloud era: The BraDypUS case-study*, «Archeologia e Calcolatori», 33, 2, 115-34 (https://doi.org/10.19282/ac.33.2.2022.07).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    }
+   ],
+   "date": "2022",
+   "title": "Archaeological documentation as a service. Archaeological Information Systems in the cloud era: The BraDypUS case-study",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "33",
+   "issue": "2",
+   "pages": "115-134",
+   "doi": "10.19282/ac.33.2.2022.07",
+   "language": "eng",
+   "cited_aec_id": 1204,
+   "notes": "pages cited 115-34",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Cuy S., De Oliveira D., Gerth P., Kleinke T., Schierenbeck J., Watson J. 2017, *iDAI.field 2: A modern approach to distributed fieldwork documentation*, in Proceedings of the 22nd International Conference on Cultural Heritage and New Technologies 2017 (Wien 2017) (http://dx.doi.org/10.17613/z4dc-kr81).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cuy",
+     "given": "S."
+    },
+    {
+     "family": "De Oliveira",
+     "given": "D."
+    },
+    {
+     "family": "Gerth",
+     "given": "P."
+    },
+    {
+     "family": "Kleinke",
+     "given": "T."
+    },
+    {
+     "family": "Schierenbeck",
+     "given": "J."
+    },
+    {
+     "family": "Watson",
+     "given": "J."
+    }
+   ],
+   "date": "2017",
+   "title": "iDAI.field 2: A modern approach to distributed fieldwork documentation",
+   "is_part_of": [
+    "Proceedings of the 22nd International Conference on Cultural Heritage and New Technologies 2017 (Wien 2017)"
+   ],
+   "uri": "http://dx.doi.org/10.17613/z4dc-kr81",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Demetrescu E. 2015, *Archaeological stratigraphy as a formal language for virtual reconstruction. Theory and practice*, «Journal of Archaeological Science», 57, 42-55 (https://doi.org/10.1016/j.jas.2015.02.004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    }
+   ],
+   "date": "2015",
+   "title": "Archaeological stratigraphy as a formal language for virtual reconstruction. Theory and practice",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "57",
+   "pages": "42-55",
+   "doi": "10.1016/j.jas.2015.02.004",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Demetrescu E. 2022, *Zalmoxes-laran/extendedmatrix* (https://doi.org/10.5281/zenodo.5957132).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    }
+   ],
+   "date": "2022",
+   "title": "Zalmoxes-laran/extendedmatrix",
+   "doi": "10.5281/zenodo.5957132",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Demetrescu E., Ferdani D. 2021, *From field archaeology to virtual reconstruction: A five steps method using the extended matrix*, «Applied Sciences», 11 (https://doi.org/10.3390/app11115206).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    }
+   ],
+   "date": "2021",
+   "title": "From field archaeology to virtual reconstruction: A five steps method using the extended matrix",
+   "is_part_of": [
+    "Applied Sciences"
+   ],
+   "volume": "11",
+   "doi": "10.3390/app11115206",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Demetrescu E., Sala F. 2022, *EM-blender-tools v.1.3.1* (https://doi.org/10.5281/zenodo.4459272).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Sala",
+     "given": "F."
+    }
+   ],
+   "date": "2022",
+   "title": "EM-blender-tools v.1.3.1",
+   "doi": "10.5281/zenodo.4459272",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Drap P., Papini O., Pruno E., Nucciotti M., Vannini G. 2017, *Ontology-based photogrammetry survey for medieval archaeology: Toward a 3D Geographic Information System (GIS)*, «Geosciences», 7, 4, 93 (https://doi.org/10.3390/geosciences7040093).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Drap",
+     "given": "P."
+    },
+    {
+     "family": "Papini",
+     "given": "O."
+    },
+    {
+     "family": "Pruno",
+     "given": "E."
+    },
+    {
+     "family": "Nucciotti",
+     "given": "M."
+    },
+    {
+     "family": "Vannini",
+     "given": "G."
+    }
+   ],
+   "date": "2017",
+   "title": "Ontology-based photogrammetry survey for medieval archaeology: Toward a 3D Geographic Information System (GIS)",
+   "is_part_of": [
+    "Geosciences"
+   ],
+   "volume": "7",
+   "issue": "4",
+   "pages": "93",
+   "doi": "10.3390/geosciences7040093",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Mandolesi L., Cocca E. 2013, *PyArchInit: gli sviluppi dopo ArcheoFoss 2009*, in M. Serlorenzi (ed.), *ArcheoFOSS Free, Libre and Open Source Software e Open format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012)*, «Archeologia e Calcolatori», Suppl. 4, 128-138 (http://www.archcalc.cnr.it/indice/Suppl_4/14_Mandolesi_Cocca.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    },
+    {
+     "family": "Cocca",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "PyArchInit: gli sviluppi dopo ArcheoFoss 2009",
+   "is_part_of": [
+    "ArcheoFOSS Free, Libre and Open Source Software e Open format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 4",
+   "pages": "128-138",
+   "uri": "http://www.archcalc.cnr.it/indice/Suppl_4/14_Mandolesi_Cocca.pdf",
+   "language": "ita",
+   "cited_aec_id": 697,
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Molina-Vidal J., Muñoz-Ojeda F.J. 2015, *Ficha UR* (http://rua.ua.es/dspace/handle/10045/46205).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Molina-Vidal",
+     "given": "J."
+    },
+    {
+     "family": "Muñoz-Ojeda",
+     "given": "F.J."
+    }
+   ],
+   "date": "2015",
+   "title": "Ficha UR",
+   "uri": "http://rua.ua.es/dspace/handle/10045/46205",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Opitz R.S., Johnson T.D. 2016, *Interpretation at the controller's edge: Designing graphical user interfaces for the digital publication of the excavations at Gabii (Italy)*, «Open Archaeology», 1, 1 (https://doi.org/10.1515/opar-2016-0001).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Opitz",
+     "given": "R.S."
+    },
+    {
+     "family": "Johnson",
+     "given": "T.D."
+    }
+   ],
+   "date": "2016",
+   "title": "Interpretation at the controller's edge: Designing graphical user interfaces for the digital publication of the excavations at Gabii (Italy)",
+   "is_part_of": [
+    "Open Archaeology"
+   ],
+   "volume": "1",
+   "issue": "1",
+   "doi": "10.1515/opar-2016-0001",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Sala F. 2020-2023, *From Vitruvius to ArcaheoBIM. BIM reconstruction of the archaeological context of Massaciuccoli (LU)* (https://www.mappalab.eu/en/from-vitruvio-to-archaeobim-bim-reconstruction-of-the-archaeological-context-of-massaciuccoli-massarosa-lu/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Sala",
+     "given": "F."
+    }
+   ],
+   "date": "2020",
+   "title": "From Vitruvius to ArcaheoBIM. BIM reconstruction of the archaeological context of Massaciuccoli (LU)",
+   "uri": "https://www.mappalab.eu/en/from-vitruvio-to-archaeobim-bim-reconstruction-of-the-archaeological-context-of-massaciuccoli-massarosa-lu/",
+   "language": "eng",
+   "notes": "cited as 2020-2023 (project dates); first year used",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "citing_aec_id": 126,
+ "source_file": "data/journal/7/126.md",
+ "references": [
+  {
+   "raw": "AA. VV. 1989, *Manual of Non-Topographic Photogrammetry*, 2ª ed., ASPRS, Virginia (USA).",
+   "date": "1989",
+   "type": "book",
+   "title": "Manual of Non-Topographic Photogrammetry",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1,
+   "edition": "2",
+   "publisher": "ASPRS",
+   "place": "Virginia (USA)"
+  },
+  {
+   "raw": "CAPPELLINI V. 1985, *Elaborazione numerica delle immagini*, Torino, Boringhieri.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Cappellini",
+     "given": "V."
+    }
+   ],
+   "type": "book",
+   "title": "Elaborazione numerica delle immagini",
+   "place": "Torino",
+   "publisher": "Boringhieri",
+   "language": "ita",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "SELVINI A. 1988, *Principi di fotogrammetria*, Torino, Clup.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Selvini",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Principi di fotogrammetria",
+   "place": "Torino",
+   "publisher": "Clup",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  }
+ ]
+}

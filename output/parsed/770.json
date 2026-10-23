@@ -1,0 +1,121 @@
+{
+ "citing_aec_id": 770,
+ "source_file": "data/journal/26/770.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bakkum G.C.L.M. 2009, The Latin Dialect of the Ager Faliscus: 150 Years of Scholarship, Amsterdam, Amsterdam University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bakkum",
+     "given": "G.C.L.M."
+    }
+   ],
+   "date": "2009",
+   "title": "The Latin Dialect of the Ager Faliscus: 150 Years of Scholarship",
+   "publisher": "Amsterdam University Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Crawford M.H. (ed.) 2011, Imagines italicae: A Corpus of Italic Inscriptions, London, Institute of Classical Studies, University of London.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Crawford",
+     "given": "M.H."
+    }
+   ],
+   "date": "2011",
+   "title": "Imagines italicae: A Corpus of Italic Inscriptions",
+   "publisher": "Institute of Classical Studies, University of London",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "di Gennaro F., Rajala U., Rizzo D., Stoddart S., Whitehead N. 2008, Nepi and territory: 1200 BC-400 AD, in H. Patterson, F. Coarelli (eds.), Mercator Placidissimus. The Tiber Valley in Antiquity. New Research in the Upper and Middle Valley, Rome, Quasar, 879-888.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    },
+    {
+     "family": "Rajala",
+     "given": "U."
+    },
+    {
+     "family": "Rizzo",
+     "given": "D."
+    },
+    {
+     "family": "Stoddart",
+     "given": "S."
+    },
+    {
+     "family": "Whitehead",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Patterson",
+     "given": "H."
+    },
+    {
+     "family": "Coarelli",
+     "given": "F."
+    }
+   ],
+   "date": "2008",
+   "title": "Nepi and territory: 1200 BC-400 AD",
+   "is_part_of": [
+    "Mercator Placidissimus. The Tiber Valley in Antiquity. New Research in the Upper and Middle Valley"
+   ],
+   "pages": "879-888",
+   "publisher": "Quasar",
+   "place": "Rome",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Rajala U. in press, Nested identities and mental distances: Archaic burials in Latium Vetus, in E. Perego, R. Scopacasa (eds.), Burial and Social Change in Ancient Italy 9th-5th Century BC: Approaching Social Agents, Oxford, Oxbow.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rajala",
+     "given": "U."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Perego",
+     "given": "E."
+    },
+    {
+     "family": "Scopacasa",
+     "given": "R."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Nested identities and mental distances: Archaic burials in Latium Vetus",
+   "is_part_of": [
+    "Burial and Social Change in Ancient Italy 9th-5th Century BC: Approaching Social Agents"
+   ],
+   "publisher": "Oxbow",
+   "place": "Oxford",
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: the collective volume appeared as Burial and Social Change in First-Millennium BC Italy (Oxbow 2016) but the chapter could not be confirmed in its contents; not applied",
+   "confidence": "high"
+  }
+ ]
+}

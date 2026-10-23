@@ -1,0 +1,389 @@
+{
+ "citing_aec_id": 492,
+ "source_file": "data/journal/19/492.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Castro Curel C. 1985, Pondera, examen cualitativo, cuantitivo especial y su relación con el telar con pesas, «Empúries», 47, 230-253.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Castro Curel",
+     "given": "C."
+    }
+   ],
+   "date": "1985",
+   "title": "Pondera, examen cualitativo, cuantitivo especial y su relación con el telar con pesas",
+   "is_part_of": [
+    "Empúries"
+   ],
+   "volume": "47",
+   "pages": "230-253",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Ciarallo A., De Carolis E. (eds.) 1999, Homo Faber: Natura, Scienza e Tecnica nell’antica Pompei, Milano, Electa.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Ciarallo",
+     "given": "A."
+    },
+    {
+     "family": "De Carolis",
+     "given": "E."
+    }
+   ],
+   "date": "1999",
+   "title": "Homo Faber: Natura, Scienza e Tecnica nell'antica Pompei",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Crawford M.H. 1974, Roman Republican Coinage, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Crawford",
+     "given": "M.H."
+    }
+   ],
+   "date": "1974",
+   "title": "Roman Republican Coinage",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Davidson G.R., Thompson D.B. 1943, Small Objects from the Pnyx: I, «Hesperia», Supplement VII, Athens.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Davidson",
+     "given": "G.R."
+    },
+    {
+     "family": "Thompson",
+     "given": "D.B."
+    }
+   ],
+   "date": "1943",
+   "title": "Small Objects from the Pnyx: I",
+   "is_part_of": [
+    "Hesperia"
+   ],
+   "volume": "Supplement VII",
+   "place": "Athens",
+   "language": "eng",
+   "notes": "Hesperia Supplement VII, as cited",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "de Chazelles Cl.-A. 2000, Eléments archéologiques liés au traitement des fibres textiles en Languedoc occidental et Roussillon au cours de la protohistoire (VI<sup>e</sup>-1<sup>er</sup> s. av. n. è.), in D. Cardun, M. Feugère (eds.), Archéologie des textiles des origines au V<sup>e</sup> siècle. Actes du Colloque (Lattes 1999), Montagnac, Monique Mergoil, 115-130.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "de Chazelles",
+     "given": "Cl.-A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cardon",
+     "given": "D."
+    },
+    {
+     "family": "Feugère",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "Eléments archéologiques liés au traitement des fibres textiles en Languedoc occidental et Roussillon au cours de la protohistoire (VIe-1er s. av. n. è.)",
+   "is_part_of": [
+    "Archéologie des textiles des origines au Ve siècle. Actes du Colloque (Lattes 1999)"
+   ],
+   "pages": "115-130",
+   "publisher": "Monique Mergoil",
+   "place": "Montagnac",
+   "language": "fre",
+   "notes": "editor cited as 'Cardun' (typo for Cardon)",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "DNP = Der Neue Pauly, Stuttgart, Verlag JB Metzler.",
+   "type": "book",
+   "title": "Der Neue Pauly",
+   "publisher": "Verlag JB Metzler",
+   "place": "Stuttgart",
+   "language": "ger",
+   "notes": "cited as 'DNP' (abbreviation); no author, no year",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Fraley C., Raftery A.E. 2006, MCLUST VERSION 3: An R package for normal mixture modelling and model-based clustering (http://www.stat.washington.edu/www/research/reports/2006/tr504.pdf).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Fraley",
+     "given": "C."
+    },
+    {
+     "family": "Raftery",
+     "given": "A.E."
+    }
+   ],
+   "date": "2006",
+   "title": "MCLUST VERSION 3: An R package for normal mixture modelling and model-based clustering",
+   "uri": "http://www.stat.washington.edu/www/research/reports/2006/tr504.pdf",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Hoffman M. 1964, The Warp-weighted Loom, «Studia Norvegica», 14, Oslo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hoffman",
+     "given": "M."
+    }
+   ],
+   "date": "1964",
+   "title": "The Warp-weighted Loom",
+   "series": "Studia Norvegica",
+   "series_number": "14",
+   "place": "Oslo",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Jones R., Robinson D. 2004a, Imperial Pompeii: a city of extremes, «Current World Archaeology», 4, 32-39.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jones",
+     "given": "R."
+    },
+    {
+     "family": "Robinson",
+     "given": "D."
+    }
+   ],
+   "date": "2004",
+   "title": "Imperial Pompeii: a city of extremes",
+   "is_part_of": [
+    "Current World Archaeology"
+   ],
+   "volume": "4",
+   "pages": "32-39",
+   "language": "eng",
+   "notes": "cited as 2004a",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Jones R., Robinson D. 2004b, The making of an elite house: the House of the Vestals at Pompeii, «Journal of Roman Archaeology», 17, 107-130.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jones",
+     "given": "R."
+    },
+    {
+     "family": "Robinson",
+     "given": "D."
+    }
+   ],
+   "date": "2004",
+   "title": "The making of an elite house: the House of the Vestals at Pompeii",
+   "is_part_of": [
+    "Journal of Roman Archaeology"
+   ],
+   "volume": "17",
+   "pages": "107-130",
+   "language": "eng",
+   "notes": "cited as 2004b",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Maiuri A. 1958, Ercolano: Nuovi Scavi (1927-1958), Roma, Istituto Poligrafico dello Stato.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Maiuri",
+     "given": "A."
+    }
+   ],
+   "date": "1958",
+   "title": "Ercolano: Nuovi Scavi (1927-1958)",
+   "publisher": "Istituto Poligrafico dello Stato",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Pescarin S. 2006, Open source in archeologia. Nuove prospettive per la ricerca, «Archeologia e Calcolatori», 17, 137-155.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pescarin",
+     "given": "S."
+    }
+   ],
+   "date": "2006",
+   "title": "Open source in archeologia. Nuove prospettive per la ricerca",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "17",
+   "pages": "137-155",
+   "language": "ita",
+   "cited_aec_id": 425,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "RIB II.2 = Collingwood R.G., Wright R.P., The Roman Inscriptions of Britain. Volume II, Fascicule 2, Instrumentum Domesticum (personal belongings and the like), Stroud, 1991 (S.S. Frere, R.S.O. Tomlin eds.).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Collingwood",
+     "given": "R.G."
+    },
+    {
+     "family": "Wright",
+     "given": "R.P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Frere",
+     "given": "S.S."
+    },
+    {
+     "family": "Tomlin",
+     "given": "R.S.O."
+    }
+   ],
+   "date": "1991",
+   "title": "The Roman Inscriptions of Britain. Volume II, Fascicule 2, Instrumentum Domesticum (personal belongings and the like)",
+   "place": "Stroud",
+   "language": "eng",
+   "notes": "cited as 'RIB II.2'",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Sheather S.J., Jones M.C. 1991, A reliable data-based bandwidth selection method for kernel density estimation, «Journal of the Royal Statistical Society B», 53, 683-690.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sheather",
+     "given": "S.J."
+    },
+    {
+     "family": "Jones",
+     "given": "M.C."
+    }
+   ],
+   "date": "1991",
+   "title": "A reliable data-based bandwidth selection method for kernel density estimation",
+   "is_part_of": [
+    "Journal of the Royal Statistical Society B"
+   ],
+   "volume": "53",
+   "pages": "683-690",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Sutherland C.H.V. 1974, Roman Coins, London, Barrie and Jenkins Ltd.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sutherland",
+     "given": "C.H.V."
+    }
+   ],
+   "date": "1974",
+   "title": "Roman Coins",
+   "publisher": "Barrie and Jenkins Ltd",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Venables W.N., Ripley B.D. 2002, Modern Applied Statistics with S, New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Venables",
+     "given": "W.N."
+    },
+    {
+     "family": "Ripley",
+     "given": "B.D."
+    }
+   ],
+   "date": "2002",
+   "title": "Modern Applied Statistics with S",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Ward-Perkins J., Claridge A. 1976, Pompeii AD79, Bristol, Imperial Tobacco Limited.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ward-Perkins",
+     "given": "J."
+    },
+    {
+     "family": "Claridge",
+     "given": "A."
+    }
+   ],
+   "date": "1976",
+   "title": "Pompeii AD79",
+   "publisher": "Imperial Tobacco Limited",
+   "place": "Bristol",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Wild J.P. 1970, Textile Manufacture in the Northern Roman Provinces, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wild",
+     "given": "J.P."
+    }
+   ],
+   "date": "1970",
+   "title": "Textile Manufacture in the Northern Roman Provinces",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

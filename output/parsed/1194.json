@@ -1,0 +1,712 @@
+{
+ "citing_aec_id": 1194,
+ "source_file": "data/journal/33/1194.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Angelini A., Gabrielli R. 2013, *Laser scanning e photo scanning. Tecniche di rilevamento per la documentazione 3D di beni architettonici ed archeologici*, «Archeologia e Calcolatori», 24, 379-394 (http://www.archcalc.cnr.it/indice/PDF24/21_Angelini_Gabrielli.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Angelini",
+     "given": "A."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    }
+   ],
+   "date": "2013",
+   "title": "Laser scanning e photo scanning. Tecniche di rilevamento per la documentazione 3D di beni architettonici ed archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "24",
+   "pages": "379-394",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF24/21_Angelini_Gabrielli.pdf",
+   "cited_aec_id": 681,
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Ayán Vila X.M., Blanco Rotea R., Mañana Borrazás P. 2003, *Archaeotecture: Archaeology of Architecture*, Oxford, Archaeopress.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ayán Vila",
+     "given": "X.M."
+    },
+    {
+     "family": "Blanco Rotea",
+     "given": "R."
+    },
+    {
+     "family": "Mañana Borrazás",
+     "given": "P."
+    }
+   ],
+   "date": "2003",
+   "title": "Archaeotecture: Archaeology of Architecture",
+   "language": "eng",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bacci E., Boni S., Canonici T., Da Pozzo V., Rabatti A. 2010, *L'utilizzo della ricostruzione nella comunicazione del patrimonio archeologico. L'approccio, il metodo, le finalità e alcuni spunti di discussione*, «Virtual Archaeology Review», 1.2, 63-67.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bacci",
+     "given": "E."
+    },
+    {
+     "family": "Boni",
+     "given": "S."
+    },
+    {
+     "family": "Canonici",
+     "given": "T."
+    },
+    {
+     "family": "Da Pozzo",
+     "given": "V."
+    },
+    {
+     "family": "Rabatti",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "L'utilizzo della ricostruzione nella comunicazione del patrimonio archeologico. L'approccio, il metodo, le finalità e alcuni spunti di discussione",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "language": "ita",
+   "volume": "1",
+   "issue": "2",
+   "pages": "63-67",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bianconi F., Filippucci M. 2019, *La fotomodellazione per il rilievo archeologico*, «Archeologia e Calcolatori», 30, 205-228 (https://doi.org/10.19282/ac.30.2019.13).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bianconi",
+     "given": "F."
+    },
+    {
+     "family": "Filippucci",
+     "given": "M."
+    }
+   ],
+   "date": "2019",
+   "title": "La fotomodellazione per il rilievo archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "30",
+   "pages": "205-228",
+   "doi": "10.19282/ac.30.2019.13",
+   "cited_aec_id": 1048,
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Boato A. 2008, *L'archeologia in architettura*, Venezia, Marsilio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Boato",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "L'archeologia in architettura",
+   "language": "ita",
+   "publisher": "Marsilio",
+   "place": "Venezia",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Brienza E., Carlani R. 2015, *Information and Communication Technology per la ricostruzione virtuale delle architetture e dei paesaggi antichi finalizzata alla valorizzazione e al restauro*, «Geologia dell'Ambiente», 2, 105-110.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brienza",
+     "given": "E."
+    },
+    {
+     "family": "Carlani",
+     "given": "R."
+    }
+   ],
+   "date": "2015",
+   "title": "Information and Communication Technology per la ricostruzione virtuale delle architetture e dei paesaggi antichi finalizzata alla valorizzazione e al restauro",
+   "is_part_of": [
+    "Geologia dell'Ambiente"
+   ],
+   "language": "ita",
+   "volume": "2",
+   "pages": "105-110",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Bukowiecki E., Volpe R., Wulf-Rheidt U. (eds.) 2015, *Archeologia dell'Architettura XXL. Il laterizio nei cantieri imperiali. Roma e il Mediterraneo. Atti del I workshop (Roma 2014)*, Firenze, All'Insegna del Giglio, 213-219.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Bukowiecki",
+     "given": "E."
+    },
+    {
+     "family": "Volpe",
+     "given": "R."
+    },
+    {
+     "family": "Wulf-Rheidt",
+     "given": "U."
+    }
+   ],
+   "date": "2015",
+   "title": "Archeologia dell'Architettura XXL. Il laterizio nei cantieri imperiali. Roma e il Mediterraneo. Atti del I workshop (Roma 2014)",
+   "language": "ita",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "notes": "citation adds pages 213-219 (a contribution of the volume, not the whole book): left out of pages",
+   "confidence": "low"
+  },
+  {
+   "position": 8,
+   "raw": "Carandini A. 2017, *La forza del contesto*, Bari-Roma, Laterza, edizione digitale.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "La forza del contesto",
+   "language": "ita",
+   "publisher": "Laterza",
+   "place": "Bari-Roma",
+   "notes": "digital edition",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Da Gai E. 2008, *Struttura e tipo edilizio dei granari dell'Annona a Roma (1575-1705)*, «Mélanges de l'Ecole française de Rome. Italie et Méditerranée», 120.2, 595-606 (https://www.persee.fr/doc/mefr_1123-9891_2008_num_120_2_10567).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Da Gai",
+     "given": "E."
+    }
+   ],
+   "date": "2008",
+   "title": "Struttura e tipo edilizio dei granari dell'Annona a Roma (1575-1705)",
+   "is_part_of": [
+    "Mélanges de l'Ecole française de Rome. Italie et Méditerranée"
+   ],
+   "language": "ita",
+   "volume": "120",
+   "issue": "2",
+   "pages": "595-606",
+   "uri": "https://www.persee.fr/doc/mefr_1123-9891_2008_num_120_2_10567",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "De Felice G., Cameriano A., Pavone R. 2021, *Archeologia virtuale del passato contemporaneo. Dal rilievo alla ricostruzione digitale del Campo PG 65 di Altamura (BA)*, «Archeologia e Calcolatori», 32.1, 195-212 (https://doi.org/10.19282/ac.32.1.2021.11).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Cameriano",
+     "given": "A."
+    },
+    {
+     "family": "Pavone",
+     "given": "R."
+    }
+   ],
+   "date": "2021",
+   "title": "Archeologia virtuale del passato contemporaneo. Dal rilievo alla ricostruzione digitale del Campo PG 65 di Altamura (BA)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "32",
+   "issue": "1",
+   "pages": "195-212",
+   "doi": "10.19282/ac.32.1.2021.11",
+   "cited_aec_id": 1134,
+   "notes": "metadata author: Camerino",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Del Prete F. 2002, *Il fondo fotografico del piano regolatore del 1883*, Roma, Gangemi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Del Prete",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "Il fondo fotografico del piano regolatore del 1883",
+   "language": "ita",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "DeLaine J. 2008, *Conclusions*, in S. Camporeale, H. Dessales, A. Pizzo (eds.), Arqueología de la construcción, 1. Los procesos constructivos en el mundo romano: Italia y provincias occidentales, «Archivio Español de Arqueología», Suppl. 50, 321-328.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "DeLaine",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Camporeale",
+     "given": "S."
+    },
+    {
+     "family": "Dessales",
+     "given": "H."
+    },
+    {
+     "family": "Pizzo",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "Conclusions",
+   "is_part_of": [
+    "Arqueología de la construcción, 1. Los procesos constructivos en el mundo romano: Italia y provincias occidentales",
+    "Archivio Español de Arqueología"
+   ],
+   "language": "eng",
+   "volume": "Suppl. 50",
+   "pages": "321-328",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Djindjian F. 2019, *Archaeology and computers: A long story in the making of modern archaeology*, in P. Moscati (ed.), 30 anni di Archeologia e Calcolatori. Tra memoria e progettualità, «Archeologia e Calcolatori», 30, 13-20 (https://doi.org/10.19282/ac.30.2019.02).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2019",
+   "title": "Archaeology and computers: A long story in the making of modern archaeology",
+   "is_part_of": [
+    "30 anni di Archeologia e Calcolatori. Tra memoria e progettualità",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "volume": "30",
+   "pages": "13-20",
+   "doi": "10.19282/ac.30.2019.02",
+   "cited_aec_id": 1037,
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Ferdani D., Demetrescu E., D'Annibale E. 2017, *Prima Torre. Verso nuovi orizzonti di ricerca e valorizzazione del patrimonio medievale*, in G. Allegretti (ed.), Città di San Marino, Storia dei castelli della Repubblica di san Marino, IX, 169-177.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "D'Annibale",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Allegretti",
+     "given": "G."
+    }
+   ],
+   "date": "2017",
+   "title": "Prima Torre. Verso nuovi orizzonti di ricerca e valorizzazione del patrimonio medievale",
+   "is_part_of": [
+    "Storia dei castelli della Repubblica di San Marino"
+   ],
+   "language": "ita",
+   "volume": "IX",
+   "pages": "169-177",
+   "place": "Città di San Marino",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Forte M. 2017, *Comunicazione archeologica*, in R. Francovich, D. Manacorda (eds.), Dizionario di archeologia, Roma-Bari, Laterza, edizione digitale, 126-133.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2017",
+   "title": "Comunicazione archeologica",
+   "is_part_of": [
+    "Dizionario di archeologia"
+   ],
+   "language": "ita",
+   "pages": "126-133",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "notes": "digital edition",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Fortini P., Mezzella M. 2015, *La ri-costruzione di Santa Maria Liberatrice. Il modello 3D della chiesa e dei monumenti correlati*, in P. Fortini (ed.), La rampa imperiale. Scavi e restauri tra Foro Romano e Palatino, Milano, Electa, 199-206.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fortini",
+     "given": "P."
+    },
+    {
+     "family": "Mezzella",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Fortini",
+     "given": "P."
+    }
+   ],
+   "date": "2015",
+   "title": "La ri-costruzione di Santa Maria Liberatrice. Il modello 3D della chiesa e dei monumenti correlati",
+   "is_part_of": [
+    "La rampa imperiale. Scavi e restauri tra Foro Romano e Palatino"
+   ],
+   "language": "ita",
+   "pages": "199-206",
+   "publisher": "Electa",
+   "place": "Milano",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Gabellone F. 2021, *Principi e metodi dell'archeologia ricostruttiva. Dall'approccio filologico alla ricostruzione tipologica*, «Archeologia e Calcolatori», 32.1, 213-232 (https://doi.org/10.19282/ac.32.1.2021.12).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gabellone",
+     "given": "F."
+    }
+   ],
+   "date": "2021",
+   "title": "Principi e metodi dell'archeologia ricostruttiva. Dall'approccio filologico alla ricostruzione tipologica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "32",
+   "issue": "1",
+   "pages": "213-232",
+   "doi": "10.19282/ac.32.1.2021.12",
+   "cited_aec_id": 1135,
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Manacorda D. 2008, *Lezioni di Archeologia*, Roma-Bari, Laterza, 234-235.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2008",
+   "title": "Lezioni di Archeologia",
+   "language": "ita",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "notes": "citation adds pages 234-235 (specific pages)",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Manacorda D., Pellecchi S. 2012, *Le fornaci romane di Giancola (Brindisi)*, Bari, Edipuglia.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    },
+    {
+     "family": "Pellecchi",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Le fornaci romane di Giancola (Brindisi)",
+   "language": "ita",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Manacorda D., Santangeli Valenzani R. (eds.) 2011, *Il primo miglio della via Appia a Roma*, Roma, Edizioni Università degli Studi Roma Tre.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    },
+    {
+     "family": "Santangeli Valenzani",
+     "given": "R."
+    }
+   ],
+   "date": "2011",
+   "title": "Il primo miglio della via Appia a Roma",
+   "language": "ita",
+   "publisher": "Edizioni Università degli Studi Roma Tre",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Medri M. 2003, *Manuale di rilievo archeologico*, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Manuale di rilievo archeologico",
+   "language": "ita",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Medri M. 2017, *Disegno ricostruttivo*, in R. Francovich, D. Manacorda (eds.), Dizionario di archeologia, Roma-Bari, Laterza, edizione digitale, 219-225.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2017",
+   "title": "Disegno ricostruttivo",
+   "is_part_of": [
+    "Dizionario di archeologia"
+   ],
+   "language": "ita",
+   "pages": "219-225",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "notes": "digital edition",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Pakkanen J. 2018, *Three-dimensional documentation of architecture and archaeology in the field. Combining intensive total station drawing and photogrammetry*, in A. Brysbaert, V. Klinkenberg, A. Gutiérrez Garcia-M, I. Vikatou (eds.), Constructing Monuments, Perceiving Monumentality & the Economics of Building. Theoretical and Methodological Approaches to the Built Environment, Leiden, Sidestone Press, 117-140 (https://www.sidestone.com/openaccess/9789088906961.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pakkanen",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brysbaert",
+     "given": "A."
+    },
+    {
+     "family": "Klinkenberg",
+     "given": "V."
+    },
+    {
+     "family": "Gutiérrez Garcia-M",
+     "given": "A."
+    },
+    {
+     "family": "Vikatou",
+     "given": "I."
+    }
+   ],
+   "date": "2018",
+   "title": "Three-dimensional documentation of architecture and archaeology in the field. Combining intensive total station drawing and photogrammetry",
+   "is_part_of": [
+    "Constructing Monuments, Perceiving Monumentality & the Economics of Building. Theoretical and Methodological Approaches to the Built Environment"
+   ],
+   "language": "eng",
+   "pages": "117-140",
+   "publisher": "Sidestone Press",
+   "place": "Leiden",
+   "uri": "https://www.sidestone.com/openaccess/9789088906961.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Sanfilippo M. 1992, *La costruzione di una capitale 1870-1911*, Milano, Silvana.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sanfilippo",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "La costruzione di una capitale 1870-1911",
+   "language": "ita",
+   "publisher": "Silvana",
+   "place": "Milano",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Sommaini F. 2019, *Il Complesso di Domiziano tra Foro Romano e Palatino. Storie cronologie e strutture murarie dell'Aula Ovest*, «Mitteilungen des Deutschen Archäologhischen Instituts. Römische Abteilung», 125, 219-255.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sommaini",
+     "given": "F."
+    }
+   ],
+   "date": "2019",
+   "title": "Il Complesso di Domiziano tra Foro Romano e Palatino. Storie cronologie e strutture murarie dell'Aula Ovest",
+   "is_part_of": [
+    "Mitteilungen des Deutschen Archäologischen Instituts. Römische Abteilung"
+   ],
+   "language": "ita",
+   "volume": "125",
+   "pages": "219-255",
+   "notes": "'Archäologhischen' corrected",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Sommaini F., Di Cola V., Albano V. 2019, *L'Aula Ovest del Complesso di Domiziano tra Foro Romano e Palatino: metodologie a confronto per un rilievo XXL*, «Archeologia e Calcolatori», 30, 251-272 (https://doi.org/10.19282/ac.30.2019.15).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sommaini",
+     "given": "F."
+    },
+    {
+     "family": "Di Cola",
+     "given": "V."
+    },
+    {
+     "family": "Albano",
+     "given": "V."
+    }
+   ],
+   "date": "2019",
+   "title": "L'Aula Ovest del Complesso di Domiziano tra Foro Romano e Palatino: metodologie a confronto per un rilievo XXL",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "30",
+   "pages": "251-272",
+   "doi": "10.19282/ac.30.2019.15",
+   "cited_aec_id": 1050,
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Zambruno S., Vazzana A., Buti L., Orlandi M. 2013, *Cloud computing e fotomodellazione come integrazione della modellazione 3D per l'Architettura storica. La chiesa di San Giovanni Evangelista in Ravenna*, «Archeologia e Calcolatori», 24, 371-377 (http://www.archcalc.cnr.it/indice/PDF24/20_Zambruno_et_al.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zambruno",
+     "given": "S."
+    },
+    {
+     "family": "Vazzana",
+     "given": "A."
+    },
+    {
+     "family": "Buti",
+     "given": "L."
+    },
+    {
+     "family": "Orlandi",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Cloud computing e fotomodellazione come integrazione della modellazione 3D per l'Architettura storica. La chiesa di San Giovanni Evangelista in Ravenna",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "24",
+   "pages": "371-377",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF24/20_Zambruno_et_al.pdf",
+   "cited_aec_id": 680,
+   "confidence": "high"
+  }
+ ]
+}

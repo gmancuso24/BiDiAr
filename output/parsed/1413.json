@@ -1,0 +1,618 @@
+{
+ "citing_aec_id": 1413,
+ "source_file": "data/journal/36/1413.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Antoniou G., Van Harmelen F. 2004, A Semantic Web Primer, Cambridge (MA), The MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Antoniou",
+     "given": "G."
+    },
+    {
+     "family": "Van Harmelen",
+     "given": "F."
+    }
+   ],
+   "date": "2004",
+   "title": "A Semantic Web Primer",
+   "publisher": "The MIT Press",
+   "place": "Cambridge (MA)",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Bartsch T. 2008, “Distinctae per locos schedulae non agglutinatae” – Das Census-Datenmo dell und seine Vorgänger, «Pegasus», 10, 223-260.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bartsch",
+     "given": "T."
+    }
+   ],
+   "date": "2008",
+   "title": "“Distinctae per locos schedulae non agglutinatae” – Das Census-Datenmodell und seine Vorgänger",
+   "is_part_of": [
+    "Pegasus"
+   ],
+   "volume": "10",
+   "pages": "223-260",
+   "language": "ger"
+  },
+  {
+   "position": 3,
+   "raw": "Bekiari C., Bruseker G., Doerr M., Ore C.-E., Stead S., Velios A. (eds.) 2021, Definition of the CIDOC Conceptual Reference Model, CIDOC CRM Special Interest Group (https://doi.org/10.26225/FDZH-X261).",
+   "type": "book",
+   "date": "2021",
+   "title": "Definition of the CIDOC Conceptual Reference Model",
+   "editors": [
+    {
+     "family": "Bekiari",
+     "given": "C."
+    },
+    {
+     "family": "Bruseker",
+     "given": "G."
+    },
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Ore",
+     "given": "C.-E."
+    },
+    {
+     "family": "Stead",
+     "given": "S."
+    },
+    {
+     "family": "Velios",
+     "given": "A."
+    }
+   ],
+   "publisher": "CIDOC CRM Special Interest Group",
+   "doi": "10.26225/FDZH-X261",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Berners-Lee T., Hendler J., Lassila O. 2001, The Semantic Web, «Scientific American», 284, 5, 34-43.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Berners-Lee",
+     "given": "T."
+    },
+    {
+     "family": "Hendler",
+     "given": "J."
+    },
+    {
+     "family": "Lassila",
+     "given": "O."
+    }
+   ],
+   "date": "2001",
+   "title": "The Semantic Web",
+   "is_part_of": [
+    "Scientific American"
+   ],
+   "volume": "284",
+   "issue": "5",
+   "pages": "34-43",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Bizer C., Heath T., Berners-Lee T. 2023, Linked Data. The story so far, in Linking the World’s Information: Essays on Tim Berners-Lee’s Invention of the World Wide Web, Association for Computing Machinery, 115-143 (https://doi.org/10.1145/3591366.3591378).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bizer",
+     "given": "C."
+    },
+    {
+     "family": "Heath",
+     "given": "T."
+    },
+    {
+     "family": "Berners-Lee",
+     "given": "T."
+    }
+   ],
+   "date": "2023",
+   "title": "Linked Data. The story so far",
+   "is_part_of": [
+    "Linking the World’s Information: Essays on Tim Berners-Lee’s Invention of the World Wide Web"
+   ],
+   "pages": "115-143",
+   "publisher": "Association for Computing Machinery",
+   "doi": "10.1145/3591366.3591378",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Bober P.P. 1989, The Census of Antiquities known to the Renaissance: Retrospective and prospective, in S.D. Squarzina (ed.), Roma, centro ideale della cultura dell’Antico nei secoli XV e XVI, Milano, Electa, 372-381.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bober",
+     "given": "P.P."
+    }
+   ],
+   "date": "1989",
+   "title": "The Census of Antiquities known to the Renaissance: Retrospective and prospective",
+   "editors": [
+    {
+     "family": "Squarzina",
+     "given": "S.D."
+    }
+   ],
+   "is_part_of": [
+    "Roma, centro ideale della cultura dell’Antico nei secoli XV e XVI"
+   ],
+   "pages": "372-381",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Bober P.P., Rubinstein R. 1986, Renaissance Artists & Antique Sculpture: A Handbook of Sources, London-Oxford, Harvey Miller Publishers-Oxford University.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bober",
+     "given": "P.P."
+    },
+    {
+     "family": "Rubinstein",
+     "given": "R."
+    }
+   ],
+   "date": "1986",
+   "title": "Renaissance Artists & Antique Sculpture: A Handbook of Sources",
+   "publisher": "Harvey Miller Publishers-Oxford University",
+   "place": "London-Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Bruseker G., Fielding M., Nenova D., Haensli T. 2025, The semantic reference data modelling method: Creating understandable, reusable and sustainable semantic data models, «Journal of Open Humanities Data», 11 (https://doi.org/10.5334/johd.282).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bruseker",
+     "given": "G."
+    },
+    {
+     "family": "Fielding",
+     "given": "M."
+    },
+    {
+     "family": "Nenova",
+     "given": "D."
+    },
+    {
+     "family": "Haensli",
+     "given": "T."
+    }
+   ],
+   "date": "2025",
+   "title": "The semantic reference data modelling method: Creating understandable, reusable and sustainable semantic data models",
+   "is_part_of": [
+    "Journal of Open Humanities Data"
+   ],
+   "volume": "11",
+   "doi": "10.5334/johd.282",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Carballo-Garcia A., Boté-Vericad J.-J. 2022, Fair data: History and present context, «Central European Journal of Educational Research», 4, 2 (https://doi.org/10.37441/cejer/2022/4/2/11379).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carballo-Garcia",
+     "given": "A."
+    },
+    {
+     "family": "Boté-Vericad",
+     "given": "J.-J."
+    }
+   ],
+   "date": "2022",
+   "title": "Fair data: History and present context",
+   "is_part_of": [
+    "Central European Journal of Educational Research"
+   ],
+   "volume": "4",
+   "issue": "2",
+   "doi": "10.37441/cejer/2022/4/2/11379",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Christian K. 2024, Semantic data of the Census of Antique Works of Art and Architecture Known in the Renaissance, 1946-05-13 to 2024-10-01 [dataset], Humboldt-Universität zu Berlin e-doc Server (https://doi.org/10.18452/29556).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Christian",
+     "given": "K."
+    }
+   ],
+   "date": "2024",
+   "title": "Semantic data of the Census of Antique Works of Art and Architecture Known in the Renaissance, 1946-05-13 to 2024-10-01 [dataset]",
+   "publisher": "Humboldt-Universität zu Berlin e-doc Server",
+   "doi": "10.18452/29556",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Guarino N. 1997, Understanding, building and using ontologies, «International Journal of Human-Computer Studies», 46, 2, 293-310.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guarino",
+     "given": "N."
+    }
+   ],
+   "date": "1997",
+   "title": "Understanding, building and using ontologies",
+   "is_part_of": [
+    "International Journal of Human-Computer Studies"
+   ],
+   "volume": "46",
+   "issue": "2",
+   "pages": "293-310",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Lu C. 2023, Tracing the Footsteps of Alfred Scharf: The Early History of the Census and the ‘Republic of Pictures’, Verso. A Discussion Forum of the Census (https://verso.hypotheses.org/3749).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Lu",
+     "given": "C."
+    }
+   ],
+   "date": "2023",
+   "title": "Tracing the Footsteps of Alfred Scharf: The Early History of the Census and the ‘Republic of Pictures’",
+   "is_part_of": [
+    "Verso. A Discussion Forum of the Census"
+   ],
+   "uri": "https://verso.hypotheses.org/3749",
+   "language": "eng",
+   "notes": "blog post"
+  },
+  {
+   "position": 13,
+   "raw": "Mantilla J.C.G. 2023, Sacsayhuaman in Early Modernity: The Invention of New Ancient Edifices, Verso. A Discussion Forum of the Census (https://verso.hypotheses.org/2911).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Mantilla",
+     "given": "J.C.G."
+    }
+   ],
+   "date": "2023",
+   "title": "Sacsayhuaman in Early Modernity: The Invention of New Ancient Edifices",
+   "is_part_of": [
+    "Verso. A Discussion Forum of the Census"
+   ],
+   "uri": "https://verso.hypotheses.org/2911",
+   "language": "eng",
+   "notes": "blog post"
+  },
+  {
+   "position": 14,
+   "raw": "Marketakis Y., Minadakis N., Kondylakis H., Konsolaki K., Samaritakis G., Theodoridou M., Flouris G., Doerr M. 2017, X3ML Mapping framework for information integration in Cultural Heritage and beyond, «International Journal on Digital Libraries», 18, 301-319.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Marketakis",
+     "given": "Y."
+    },
+    {
+     "family": "Minadakis",
+     "given": "N."
+    },
+    {
+     "family": "Kondylakis",
+     "given": "H."
+    },
+    {
+     "family": "Konsolaki",
+     "given": "K."
+    },
+    {
+     "family": "Samaritakis",
+     "given": "G."
+    },
+    {
+     "family": "Theodoridou",
+     "given": "M."
+    },
+    {
+     "family": "Flouris",
+     "given": "G."
+    },
+    {
+     "family": "Doerr",
+     "given": "M."
+    }
+   ],
+   "date": "2017",
+   "title": "X3ML Mapping framework for information integration in Cultural Heritage and beyond",
+   "is_part_of": [
+    "International Journal on Digital Libraries"
+   ],
+   "volume": "18",
+   "pages": "301-319",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Michaelis A. 1891, Römische Skizzenbücher Marten van Heemskercks und anderer nordischer Künstler des XVI. Jahrhunderts, «Jahrbuch des Kaiserlich Deutschen Archäologischen Instituts», 6, 125-172.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Michaelis",
+     "given": "A."
+    }
+   ],
+   "date": "1891",
+   "title": "Römische Skizzenbücher Marten van Heemskercks und anderer nordischer Künstler des XVI. Jahrhunderts",
+   "is_part_of": [
+    "Jahrbuch des Kaiserlich Deutschen Archäologischen Instituts"
+   ],
+   "volume": "6",
+   "pages": "125-172",
+   "language": "ger"
+  },
+  {
+   "position": 16,
+   "raw": "Miller J.L. 2024, Forgery, Imitation, Emulation: The Creation of Antiquity in the Renaissance, Verso. A Discussion Forum of the Census (https://verso.hypotheses.org/5360).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Miller",
+     "given": "J.L."
+    }
+   ],
+   "date": "2024",
+   "title": "Forgery, Imitation, Emulation: The Creation of Antiquity in the Renaissance",
+   "is_part_of": [
+    "Verso. A Discussion Forum of the Census"
+   ],
+   "uri": "https://verso.hypotheses.org/5360",
+   "language": "eng",
+   "notes": "blog post"
+  },
+  {
+   "position": 17,
+   "raw": "Nenova D., Bruseker G. 2023a, Deliverable 2-Documented Semantic Data Model (https://doi.org/10.5281/zenodo.7684280).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Nenova",
+     "given": "D."
+    },
+    {
+     "family": "Bruseker",
+     "given": "G."
+    }
+   ],
+   "date": "2023",
+   "title": "Deliverable 2-Documented Semantic Data Model",
+   "doi": "10.5281/zenodo.7684280",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Nenova D., Bruseker G. 2023b, Deliverable 5-Research Questions Implementation (Version 1) [Dataset], Zenodo (https://doi.org/10.5281/zenodo.7684331).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Nenova",
+     "given": "D."
+    },
+    {
+     "family": "Bruseker",
+     "given": "G."
+    }
+   ],
+   "date": "2023",
+   "title": "Deliverable 5-Research Questions Implementation (Version 1) [Dataset]",
+   "publisher": "Zenodo",
+   "doi": "10.5281/zenodo.7684331",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Nenova D., Bruseker G. 2023c, Semantic Census RDF Data (Version 1) [dataset], Zenodo (https://doi.org/10.5281/zenodo.7684301).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Nenova",
+     "given": "D."
+    },
+    {
+     "family": "Bruseker",
+     "given": "G."
+    }
+   ],
+   "date": "2023",
+   "title": "Semantic Census RDF Data (Version 1) [dataset]",
+   "publisher": "Zenodo",
+   "doi": "10.5281/zenodo.7684301",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "Nenova D., Bruseker G. 2023d, Semantic Census X3ML Mappings (Version 1) [dataset], Zenodo (https://doi.org/10.5281/zenodo.7684325).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Nenova",
+     "given": "D."
+    },
+    {
+     "family": "Bruseker",
+     "given": "G."
+    }
+   ],
+   "date": "2023",
+   "title": "Semantic Census X3ML Mappings (Version 1) [dataset]",
+   "publisher": "Zenodo",
+   "doi": "10.5281/zenodo.7684325",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "Nenova D., Bruseker G. 2023e, Sustainable Semantic Data Management Pipeline Documentation. Semantic Census Deliverable 4: An ETL Pipeline from easydb to RDF; Semantic Census Deliverable 6: Semantic Data Transformation and Testing (https://doi.org/10.5281/zenodo.7684257).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Nenova",
+     "given": "D."
+    },
+    {
+     "family": "Bruseker",
+     "given": "G."
+    }
+   ],
+   "date": "2023",
+   "title": "Sustainable Semantic Data Management Pipeline Documentation. Semantic Census Deliverable 4: An ETL Pipeline from easydb to RDF; Semantic Census Deliverable 6: Semantic Data Transformation and Testing",
+   "doi": "10.5281/zenodo.7684257",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "Nesselrath A. 1993, The Census of Antique Works of Art and Architecture Known to the Renaissance, «Archeologia e Calcolatori», 4, 237-241.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nesselrath",
+     "given": "A."
+    }
+   ],
+   "date": "1993",
+   "title": "The Census of Antique Works of Art and Architecture Known to the Renaissance",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "237-241",
+   "language": "eng",
+   "cited_aec_id": 67
+  },
+  {
+   "position": 23,
+   "raw": "Oldman D. 2021, Digital research, the legacy of form and structure and the ResearchSpace system, in K. Golub, Ying-Hsang Liu (eds.), Information and Knowledge Organisation in Digital Humanities, New York, Routledge, 131-153.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Oldman",
+     "given": "D."
+    }
+   ],
+   "date": "2021",
+   "title": "Digital research, the legacy of form and structure and the ResearchSpace system",
+   "editors": [
+    {
+     "family": "Golub",
+     "given": "K."
+    },
+    {
+     "family": "Liu",
+     "given": "Ying-Hsang"
+    }
+   ],
+   "is_part_of": [
+    "Information and Knowledge Organisation in Digital Humanities"
+   ],
+   "pages": "131-153",
+   "publisher": "Routledge",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "Sawatzki C. 2023, Winged Horses and Snail-shaped Dolphins: A Broader Perspective on Drawings after the Antique in the Census Database, Verso. A Discussion Forum of the Census (https://verso.hypotheses.org/1785).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Sawatzki",
+     "given": "C."
+    }
+   ],
+   "date": "2023",
+   "title": "Winged Horses and Snail-shaped Dolphins: A Broader Perspective on Drawings after the Antique in the Census Database",
+   "is_part_of": [
+    "Verso. A Discussion Forum of the Census"
+   ],
+   "uri": "https://verso.hypotheses.org/1785",
+   "language": "eng",
+   "notes": "blog post"
+  },
+  {
+   "position": 25,
+   "raw": "Schich M. 2009, Rezeption und Tradierung als komplexes Netzwerk. Der CENSUS und visuelle Dokumente zu den Thermen in Rom, Munich, Biering & Brinkmann (PhD Diss. HU Berlin 2007).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Schich",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Rezeption und Tradierung als komplexes Netzwerk. Der CENSUS und visuelle Dokumente zu den Thermen in Rom",
+   "publisher": "Biering & Brinkmann",
+   "place": "Munich",
+   "language": "ger",
+   "notes": "PhD Diss. HU Berlin 2007"
+  },
+  {
+   "position": 26,
+   "raw": "Settis S. (ed.) 1984-1986, Memoria dell’antico nell’arte italiana, I-III, Torino, Einaudi.",
+   "type": "book",
+   "date": "1984",
+   "title": "Memoria dell’antico nell’arte italiana",
+   "editors": [
+    {
+     "family": "Settis",
+     "given": "S."
+    }
+   ],
+   "volume": "I-III",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita",
+   "notes": "cited as 1984-1986"
+  },
+  {
+   "position": 27,
+   "raw": "Trapp J.B. 1999, The Census: Its past, its present and its future, «Pegasus. Berliner Beiträge zum Nachleben der Antike», 1, 11-21. 75 Years, 1946-2021. From Index Cards to Online Database [online exhibition] (https://www.census.de/en/exhibition/).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Trapp",
+     "given": "J.B."
+    }
+   ],
+   "date": "1999",
+   "title": "The Census: Its past, its present and its future",
+   "is_part_of": [
+    "Pegasus. Berliner Beiträge zum Nachleben der Antike"
+   ],
+   "volume": "1",
+   "pages": "11-21",
+   "language": "eng"
+  }
+ ]
+}

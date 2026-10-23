@@ -1,0 +1,290 @@
+{
+ "citing_aec_id": 1233,
+ "source_file": "data/journal/34/1233.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bogdani J., Montalbano R., Rosati P. 2021, *ArcheoFOSS XIV 2020: Open Software, Hardware, Processes, Data and Formats in Archaeological Research*, Oxford, Archaeopress.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    },
+    {
+     "family": "Montalbano",
+     "given": "R."
+    },
+    {
+     "family": "Rosati",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "ArcheoFOSS XIV 2020: Open Software, Hardware, Processes, Data and Formats in Archaeological Research",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "cited as authors without (eds.); whole proceedings volume, so recorded as editors",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "B-unicycling, Fthierygeo 2023, *Tag:historic=ogham_stone* (https://wiki.openstreetmap.org/wiki/Tag:historic%3Dogham_stone).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "B-unicycling",
+     "given": ""
+    },
+    {
+     "family": "Fthierygeo",
+     "given": ""
+    }
+   ],
+   "date": "2023",
+   "title": "Tag:historic=ogham_stone",
+   "uri": "https://wiki.openstreetmap.org/wiki/Tag:historic%3Dogham_stone",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Corca Dhuibhne 3D 2023, *Alphabet Stone* (http://www.corcadhuibhne3d.ie/node/28).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Corca Dhuibhne 3D",
+     "given": ""
+    }
+   ],
+   "date": "2023",
+   "title": "Alphabet Stone",
+   "uri": "http://www.corcadhuibhne3d.ie/node/28",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Cuppage J., Bennett I. 1986, *Archaeological survey of the Dingle Peninsula: A description of the field antiquities of the Barony of Corca Dhuibhne from the Mesolithic period to the 17th century A.D. = Suirbhé seandálaíochta Chorca Dhuibhne*, Ballyferriter, Oidhreacht Chorca Dhuibhne.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cuppage",
+     "given": "J."
+    },
+    {
+     "family": "Bennett",
+     "given": "I."
+    }
+   ],
+   "date": "1986",
+   "title": "Archaeological survey of the Dingle Peninsula: A description of the field antiquities of the Barony of Corca Dhuibhne from the Mesolithic period to the 17th century A.D. = Suirbhé seandálaíochta Chorca Dhuibhne",
+   "publisher": "Oidhreacht Chorca Dhuibhne",
+   "place": "Ballyferriter",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Irish Townlands 2023, *Com Dhíneol Thuaidh Townland, Co. Kerry* (https://www.townlands.ie/en/kerry/corkaguiny/dun-chaoin/toghroinn-ceantair-dun-chaoin/com-dhineol-thuaidh/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Irish Townlands",
+     "given": ""
+    }
+   ],
+   "date": "2023",
+   "title": "Com Dhíneol Thuaidh Townland, Co. Kerry",
+   "uri": "https://www.townlands.ie/en/kerry/corkaguiny/dun-chaoin/toghroinn-ceantair-dun-chaoin/com-dhineol-thuaidh/",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Macalister R.A.S. 1945, *Corpus inscriptionum insularum Celticarum*, I, Dublin, Stationery Office.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Macalister",
+     "given": "R.A.S."
+    }
+   ],
+   "date": "1945",
+   "title": "Corpus inscriptionum insularum Celticarum",
+   "volume": "I",
+   "publisher": "Stationery Office",
+   "place": "Dublin",
+   "language": "lat",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "MacManus D. 1997, *A Guide to Ogam*, Maynooth monographs 4, Maynooth, An Sagart.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "MacManus",
+     "given": "D."
+    }
+   ],
+   "date": "1997",
+   "title": "A Guide to Ogam",
+   "series": "Maynooth monographs",
+   "series_number": "4",
+   "publisher": "An Sagart",
+   "place": "Maynooth",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Murray G. (ed.) 2010, *Medieval Treasures of County Kerry: An Action of the Kerry County Council Heritage Plan*, Tralee, Kerry County Museum.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Murray",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "Medieval Treasures of County Kerry: An Action of the Kerry County Council Heritage Plan",
+   "publisher": "Kerry County Museum",
+   "place": "Tralee",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Ogham Link 2023a, *A little Ogham Stone Reference Minion* (http://ref.ogham.link/?node=osullivan_1996:908).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Ogham Link",
+     "given": ""
+    }
+   ],
+   "date": "2023",
+   "title": "A little Ogham Stone Reference Minion",
+   "uri": "http://ref.ogham.link/?node=osullivan_1996:908",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Ogham Link 2023b, *Ogham Search* (http://lookup.ogham.link/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Ogham Link",
+     "given": ""
+    }
+   ],
+   "date": "2023",
+   "title": "Ogham Search",
+   "uri": "http://lookup.ogham.link/",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "O'Sullivan A., Sheehan J. 1996, *The Iveragh Peninsula. An Archaeological Survey of South Kerry*, Cork, Cork University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "O'Sullivan",
+     "given": "A."
+    },
+    {
+     "family": "Sheehan",
+     "given": "J."
+    }
+   ],
+   "date": "1996",
+   "title": "The Iveragh Peninsula. An Archaeological Survey of South Kerry",
+   "publisher": "Cork University Press",
+   "place": "Cork",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Schmidt S.C., Thiery F. 2022, *SPARQLing Ogham Stones: New options for analyzing analog editions by digitization in Wikidata*, «CEUR Workshop Proceedings», 3110, *Graph Technologies in the Humanities, 2020*, 211-244 (https://doi.org/10.5281/zenodo.6380914).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schmidt",
+     "given": "S.C."
+    },
+    {
+     "family": "Thiery",
+     "given": "F."
+    }
+   ],
+   "date": "2022",
+   "title": "SPARQLing Ogham Stones: New options for analyzing analog editions by digitization in Wikidata",
+   "is_part_of": [
+    "Graph Technologies in the Humanities, 2020",
+    "CEUR Workshop Proceedings"
+   ],
+   "volume": "3110",
+   "pages": "211-244",
+   "doi": "10.5281/zenodo.6380914",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Schmidt S.C., Thiery F., Trognitz M. 2022, *Practices of Linked Open Data in archaeology and their realisation in Wikidata*, «Digital», 2, 3, 333-364 (https://doi.org/10.3390/digital2030019).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schmidt",
+     "given": "S.C."
+    },
+    {
+     "family": "Thiery",
+     "given": "F."
+    },
+    {
+     "family": "Trognitz",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "Practices of Linked Open Data in archaeology and their realisation in Wikidata",
+   "is_part_of": [
+    "Digital"
+   ],
+   "volume": "2",
+   "issue": "3",
+   "pages": "333-364",
+   "doi": "10.3390/digital2030019",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Thiery F. 2023, *Ogham Stone Maps: Squirrel Stones in Ireland*, «Squirrel Papers», 5, 2, 1 (https://doi.org/10.5281/zenodo.7544117).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Thiery",
+     "given": "F."
+    }
+   ],
+   "date": "2023",
+   "title": "Ogham Stone Maps: Squirrel Stones in Ireland",
+   "is_part_of": [
+    "Squirrel Papers"
+   ],
+   "volume": "5",
+   "issue": "2",
+   "pages": "1",
+   "doi": "10.5281/zenodo.7544117",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

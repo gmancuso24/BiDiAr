@@ -1,0 +1,1057 @@
+{
+ "citing_aec_id": 393,
+ "source_file": "data/journal/15/393.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ANNUNZIATO M. 1999, Emerging Structures in Artificial Societies, in Creative Application Lab CD ROM, Los Angeles, Siggraph.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Annunziato",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Emerging Structures in Artificial Societies",
+   "is_part_of": [
+    "Creative Application Lab CD ROM"
+   ],
+   "publisher": "Siggraph",
+   "place": "Los Angeles",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "ANNUNZIATO M., PIERUCCI P. 2002, Experimenting with art of emergence, «Leonardo int. journal», 35, 2, april.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Annunziato",
+     "given": "M."
+    },
+    {
+     "family": "Pierucci",
+     "given": "P."
+    }
+   ],
+   "date": "2002",
+   "title": "Experimenting with art of emergence",
+   "is_part_of": [
+    "Leonardo int. journal"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "language": "eng",
+   "notes": "\"april\" in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "ARNHEIM R. 1969, Visual Thinking, University of California Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Arnheim",
+     "given": "R."
+    }
+   ],
+   "date": "1969",
+   "title": "Visual Thinking",
+   "publisher": "University of California Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "BARCELÓ J., FORTE M., SANDERS D. (eds.) 2000, Virtual Reality in Archaeology, BAR International Series S 843, Oxford, Archaeopress.",
+   "type": "proceedings",
+   "date": "2000",
+   "title": "Virtual Reality in Archaeology",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D."
+    }
+   ],
+   "series": "BAR International Series",
+   "series_number": "843",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "series number cited \"S 843\"",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BATESON G. 1972, Steps to an Ecology of Mind, San Francisco, Chandler Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bateson",
+     "given": "G."
+    }
+   ],
+   "date": "1972",
+   "title": "Steps to an Ecology of Mind",
+   "publisher": "Chandler Press",
+   "place": "San Francisco",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "BATESON G. 1979, Mind and Nature. A Necessary Unit, New York, Dutton.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bateson",
+     "given": "G."
+    }
+   ],
+   "date": "1979",
+   "title": "Mind and Nature. A Necessary Unit",
+   "publisher": "Dutton",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "BENTLEY P.J. 2001, Digital Biology, New York, London, Sidney, Singapore, Simon & Schuster.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bentley",
+     "given": "P.J."
+    }
+   ],
+   "date": "2001",
+   "title": "Digital Biology",
+   "publisher": "Simon & Schuster",
+   "place": "New York, London, Sidney, Singapore",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "BONFIGLI M.E., GUIDAZZOLI A. 2000, A WWW Virtual Museum for improving the knowledge of the history of a city, in BARCELÓ, FORTE, SANDERS 2000, 143-148.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bonfigli",
+     "given": "M.E."
+    },
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "A WWW Virtual Museum for improving the knowledge of the history of a city",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "pages": "143-148",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "843",
+   "xref": 4,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "BOWEN LOFTIN R. 2002, Psychophysical effects of Immersive Virtual Reality, in Proceedings of the IEEE Virtual Reality Conference, Washington DC, IEEE Computer Society, 145-148.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bowen Loftin",
+     "given": "R."
+    }
+   ],
+   "date": "2002",
+   "title": "Psychophysical effects of Immersive Virtual Reality",
+   "is_part_of": [
+    "Proceedings of the IEEE Virtual Reality Conference"
+   ],
+   "pages": "145-148",
+   "publisher": "IEEE Computer Society",
+   "place": "Washington DC",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "BRITTON B. 2001, The boundaries of scientific culture in Virtual Heritage, in Seventh International Conference on Virtual Systems and Multimedia (VSMM’01) 2001, Berkeley, California, IEEE Computer Society, 21-27.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Britton",
+     "given": "B."
+    }
+   ],
+   "date": "2001",
+   "title": "The boundaries of scientific culture in Virtual Heritage",
+   "is_part_of": [
+    "Seventh International Conference on Virtual Systems and Multimedia (VSMM’01) 2001"
+   ],
+   "pages": "21-27",
+   "publisher": "IEEE Computer Society",
+   "place": "Berkeley, California",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "CARONIA A. 1996, Il corpo virtuale, Padova, Franco Muzzio Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Caronia",
+     "given": "A."
+    }
+   ],
+   "date": "1996",
+   "title": "Il corpo virtuale",
+   "publisher": "Franco Muzzio Editore",
+   "place": "Padova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "CASTELLS M. 2002, La nascita della società in rete, Milano, Università Bocconi Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Castells",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "La nascita della società in rete",
+   "publisher": "Università Bocconi Editore",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "CIMATTI F. 2000, La scimmia che parla. Linguaggio, autocoscienza e libertà nell’animale umano, Torino, Bollati Boringhieri.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cimatti",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "La scimmia che parla. Linguaggio, autocoscienza e libertà nell’animale umano",
+   "publisher": "Bollati Boringhieri",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "COTUGNO A., DI CESARE G. 2001, Territorio Bateson, Roma, Meltemi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cotugno",
+     "given": "A."
+    },
+    {
+     "family": "Di Cesare",
+     "given": "G."
+    }
+   ],
+   "date": "2001",
+   "title": "Territorio Bateson",
+   "publisher": "Meltemi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "DELEUZE G. 1967, Différence et répétition, Paris, PUF.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Deleuze",
+     "given": "G."
+    }
+   ],
+   "date": "1967",
+   "title": "Différence et répétition",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "DERRIDA J. 1981, La verità in pittura, Roma, Newton Compton.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Derrida",
+     "given": "J."
+    }
+   ],
+   "date": "1981",
+   "title": "La verità in pittura",
+   "publisher": "Newton Compton",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "DERIU M. (ed.) 2000, Gregory Bateson, Milano, Bruno Mondadori.",
+   "type": "book",
+   "date": "2000",
+   "title": "Gregory Bateson",
+   "editors": [
+    {
+     "family": "Deriu",
+     "given": "M."
+    }
+   ],
+   "publisher": "Bruno Mondadori",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "ESCOBAR A. 2001, Benvenuti Cyberia. Note sull’antropologia della cultura, «Avatar», Novembre, 100-117.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Escobar",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Benvenuti Cyberia. Note sull’antropologia della cultura",
+   "is_part_of": [
+    "Avatar"
+   ],
+   "pages": "100-117",
+   "language": "ita",
+   "notes": "\"Novembre\" in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "FORTE M. (ed.) 1996, Archeologia. Percorsi virtuali delle civiltà scomparse, Milano, Mondadori.",
+   "type": "book",
+   "date": "1996",
+   "title": "Archeologia. Percorsi virtuali delle civiltà scomparse",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "publisher": "Mondadori",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "FORTE M. (ed.) 1997, Virtual Archaeology, New York, Harry Abrams Inc. Publishers.",
+   "type": "book",
+   "date": "1997",
+   "title": "Virtual Archaeology",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "publisher": "Harry Abrams Inc. Publishers",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "FORTE M. 2000, About virtual archaeology: disorders, cognitive interactions and virtuality, in BARCELÓ, FORTE, SANDERS 2000, 247-263.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "About virtual archaeology: disorders, cognitive interactions and virtuality",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "pages": "247-263",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "843",
+   "xref": 4,
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "FORTE M. 2003, Mindscape: ecological thinking, cyber-anthropology, and virtual archaeological landscapes, in M. FORTE, P.R. WILLIAMS (eds.), The Reconstruction of Archaeological Landscapes through Digital Technologies. Proceedings of the 1st Italy-United States Workshop (Boston, Massachussets 2001), BAR International Series 1151, Oxford, Archaeopress, 95-108.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Mindscape: ecological thinking, cyber-anthropology, and virtual archaeological landscapes",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Williams",
+     "given": "P.R."
+    }
+   ],
+   "is_part_of": [
+    "The Reconstruction of Archaeological Landscapes through Digital Technologies. Proceedings of the 1st Italy-United States Workshop (Boston, Massachussets 2001)"
+   ],
+   "pages": "95-108",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "1151",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "FORTE M. 2003a, The Remote Sensing project for the archaeological landscape of Aksum (Ethiopia), in M. FORTE, P.R. WILLIAMS (eds.), The Reconstruction of Archaeological Landscapes through Digital Technologies. Proceedings of the 1st Italy-United States Workshop (Boston, Massachussets 2001), BAR International Series 1151, Oxford, Archaeopress, 81-94.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "The Remote Sensing project for the archaeological landscape of Aksum (Ethiopia)",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Williams",
+     "given": "P.R."
+    }
+   ],
+   "is_part_of": [
+    "The Reconstruction of Archaeological Landscapes through Digital Technologies. Proceedings of the 1st Italy-United States Workshop (Boston, Massachussets 2001)"
+   ],
+   "pages": "81-94",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "1151",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "FORTE M. 2003b, Realtà Virtuale, pensiero ecologico e logiche dell’apprendimento fra archeologia e beni culturali, in Contesti virtuali e fruizione dei beni culturali, CD ROM, Napoli.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Realtà Virtuale, pensiero ecologico e logiche dell’apprendimento fra archeologia e beni culturali",
+   "is_part_of": [
+    "Contesti virtuali e fruizione dei beni culturali"
+   ],
+   "place": "Napoli",
+   "language": "ita",
+   "notes": "CD-ROM",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "FORTE M., FRANZONI M. 1998, Il museo virtuale: comunicazione e metafore, «Sistemi intelligenti», 2, 193-240.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Franzoni",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Il museo virtuale: comunicazione e metafore",
+   "is_part_of": [
+    "Sistemi intelligenti"
+   ],
+   "volume": "2",
+   "pages": "193-240",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "FORTE M., PIETRONI E., RUFA C., BIZZARRO A., TILIA A., TILIA S. 2001, Dvr-Pompei Project: reconstructions of archaeological contexts in desktop-Opengl environments, in H. THWAITES, L. ADDISON (eds.), VSMM 2001. Proceedings of the Seventh International Conference on Virtual Systems and Multimedia. Enhanced Realities: Augmented and Unplugged (Berkeley-California, 2001), Los Alamitos, California, IEEE, 77-85.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Pietroni",
+     "given": "E."
+    },
+    {
+     "family": "Rufa",
+     "given": "C."
+    },
+    {
+     "family": "Bizzarro",
+     "given": "A."
+    },
+    {
+     "family": "Tilia",
+     "given": "A."
+    },
+    {
+     "family": "Tilia",
+     "given": "S."
+    }
+   ],
+   "date": "2001",
+   "title": "Dvr-Pompei Project: reconstructions of archaeological contexts in desktop-Opengl environments",
+   "editors": [
+    {
+     "family": "Thwaites",
+     "given": "H."
+    },
+    {
+     "family": "Addison",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "VSMM 2001. Proceedings of the Seventh International Conference on Virtual Systems and Multimedia. Enhanced Realities: Augmented and Unplugged (Berkeley-California, 2001)"
+   ],
+   "pages": "77-85",
+   "publisher": "IEEE",
+   "place": "Los Alamitos, California",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "FORTE M., PIETRONI E., RUFA C., BIZZARRO A., TILIA A., TILIA S. 2001a, Dvr-Pompei: a 3d Information System for the house of the Vettii in Opengl environment, in VAST 2001. Virtual Reality, Archaeology and Cultural Heritage. An International Symposium (Glyfada 2001), Pre-Proceedings, 365-374.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Pietroni",
+     "given": "E."
+    },
+    {
+     "family": "Rufa",
+     "given": "C."
+    },
+    {
+     "family": "Bizzarro",
+     "given": "A."
+    },
+    {
+     "family": "Tilia",
+     "given": "A."
+    },
+    {
+     "family": "Tilia",
+     "given": "S."
+    }
+   ],
+   "date": "2001",
+   "title": "Dvr-Pompei: a 3d Information System for the house of the Vettii in Opengl environment",
+   "is_part_of": [
+    "VAST 2001. Virtual Reality, Archaeology and Cultural Heritage. An International Symposium (Glyfada 2001), Pre-Proceedings"
+   ],
+   "pages": "365-374",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "FORTE M., PIETRONI E., RUFA C. 2002, Musealising the virtual: the Virtual Reality Project of the Scrovegni Chapel of Padua, in H. THWAITES (ed.), VSMM 2000. Proceedings of the Eighth International Conference on Virtual Systems and Multimedia (Gyeonggju-Korea, 2002), Amsterdam, IOS Press, 43-52.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Pietroni",
+     "given": "E."
+    },
+    {
+     "family": "Rufa",
+     "given": "C."
+    }
+   ],
+   "date": "2002",
+   "title": "Musealising the virtual: the Virtual Reality Project of the Scrovegni Chapel of Padua",
+   "editors": [
+    {
+     "family": "Thwaites",
+     "given": "H."
+    }
+   ],
+   "is_part_of": [
+    "VSMM 2000. Proceedings of the Eighth International Conference on Virtual Systems and Multimedia (Gyeonggju-Korea, 2002)"
+   ],
+   "pages": "43-52",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "FOUCAULT M. 1966, Le parole e le cose. Un’archeologia delle scienze umane, Milano, Rizzoli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Foucault",
+     "given": "M."
+    }
+   ],
+   "date": "1966",
+   "title": "Le parole e le cose. Un’archeologia delle scienze umane",
+   "publisher": "Rizzoli",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "GIBSON W. 1984, Neuromante, Milano, Mondadori.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gibson",
+     "given": "W."
+    }
+   ],
+   "date": "1984",
+   "title": "Neuromante",
+   "publisher": "Mondadori",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "GOMBRICH E., HOCHBERG J., BLACK M. 1972, Arte, percezione e realtà, Torino, Einaudi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gombrich",
+     "given": "E."
+    },
+    {
+     "family": "Hochberg",
+     "given": "J."
+    },
+    {
+     "family": "Black",
+     "given": "M."
+    }
+   ],
+   "date": "1972",
+   "title": "Arte, percezione e realtà",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "HORGAN J. 2003, La mente inviolata – Una sfida per la psicologia e le neuroscienze, Milano, Raffaello Cortina Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Horgan",
+     "given": "J."
+    }
+   ],
+   "date": "2003",
+   "title": "La mente inviolata – Una sfida per la psicologia e le neuroscienze",
+   "publisher": "Raffaello Cortina Editore",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "KORZYBSKI A. 1941, Science and Sanity, New York, Science Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Korzybski",
+     "given": "A."
+    }
+   ],
+   "date": "1941",
+   "title": "Science and Sanity",
+   "publisher": "Science Press",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "LEVY P. 1992, Le tecnologie dell’intelligenza, Bologna, Feltrinelli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Levy",
+     "given": "P."
+    }
+   ],
+   "date": "1992",
+   "title": "Le tecnologie dell’intelligenza",
+   "publisher": "Feltrinelli",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "LEVY P. 1995, Qu’est-ce que le virtuel?, Paris, Éditions la Découverte.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Levy",
+     "given": "P."
+    }
+   ],
+   "date": "1995",
+   "title": "Qu’est-ce que le virtuel?",
+   "publisher": "Éditions la Découverte",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "LEVY P. 1996, L’intelligenza collettiva. Per un’antropologia del cyberspazio, Milano, Feltrinelli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Levy",
+     "given": "P."
+    }
+   ],
+   "date": "1996",
+   "title": "L’intelligenza collettiva. Per un’antropologia del cyberspazio",
+   "publisher": "Feltrinelli",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "LEVY P. 1997, Il virtuale, Milano, Raffaele Cortina Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Levy",
+     "given": "P."
+    }
+   ],
+   "date": "1997",
+   "title": "Il virtuale",
+   "publisher": "Raffaele Cortina Editore",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "LEVY P. 1999, Cybercultura. Gli usi sociali delle nuove tecnologie, Milano, Raffaello Cortina Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Levy",
+     "given": "P."
+    }
+   ],
+   "date": "1999",
+   "title": "Cybercultura. Gli usi sociali delle nuove tecnologie",
+   "publisher": "Raffaello Cortina Editore",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "MANGHI S. (ed.) 1998, Attraverso Bateson. Ecologia della mente e relazioni sociali, Milano, Raffaele Cortina Editore.",
+   "type": "book",
+   "date": "1998",
+   "title": "Attraverso Bateson. Ecologia della mente e relazioni sociali",
+   "editors": [
+    {
+     "family": "Manghi",
+     "given": "S."
+    }
+   ],
+   "publisher": "Raffaele Cortina Editore",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "MATURANA H., VARELA F. 1980, Autopoiesis and Cognition: The Realization of the Living, Boston Studies in the Philosophy of Science, 42, Dordecht (Holland), D. Reidel Publishing Co.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Maturana",
+     "given": "H."
+    },
+    {
+     "family": "Varela",
+     "given": "F."
+    }
+   ],
+   "date": "1980",
+   "title": "Autopoiesis and Cognition: The Realization of the Living",
+   "publisher": "D. Reidel Publishing Co.",
+   "place": "Dordecht (Holland)",
+   "language": "eng",
+   "series": "Boston Studies in the Philosophy of Science",
+   "series_number": "42",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "MATURANA H., VARELA F. 1992, The Tree of Knowledge: The Biological Roots of Human Understanding, Boston, Shambhala 1987 (revised edition 1992).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Maturana",
+     "given": "H."
+    },
+    {
+     "family": "Varela",
+     "given": "F."
+    }
+   ],
+   "date": "1992",
+   "title": "The Tree of Knowledge: The Biological Roots of Human Understanding",
+   "publisher": "Shambhala",
+   "place": "Boston",
+   "language": "eng",
+   "notes": "cited \"Shambhala 1987 (revised edition 1992)\"",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "MINATI G. 1998, Sistemica, Milano, Apogeo scientifica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Minati",
+     "given": "G."
+    }
+   ],
+   "date": "1998",
+   "title": "Sistemica",
+   "publisher": "Apogeo scientifica",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "PECCHINENDA G. 2003, Videogiochi e cultura della simulazione, Roma-Bari, Editori Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pecchinenda",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Videogiochi e cultura della simulazione",
+   "publisher": "Editori Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "PESCE M. 1995, VRML Browsing and Building Cyberspace, New York, New Riders Publishing.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pesce",
+     "given": "M."
+    }
+   ],
+   "date": "1995",
+   "title": "VRML Browsing and Building Cyberspace",
+   "publisher": "New Riders Publishing",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "SANDERS D. 2000, Archaeological publications using virtual reality: case studies and caveats, in BARCELÓ, FORTE, SANDERS 2000, 37-46.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sanders",
+     "given": "D."
+    }
+   ],
+   "date": "2000",
+   "title": "Archaeological publications using virtual reality: case studies and caveats",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "pages": "37-46",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "843",
+   "xref": 4,
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "THWAITES H. 2001, Fact, fiction, fantasy: the information impact of virtual heritage, in H. THWAITES, L. ADDISON (eds.), VSMM 2001. Proceedings of the Seventh International Conference on Virtual Systems and Multimedia. Enhanced Realities: Augmented and Unplugged (Berkeley-California, 2001), Los Alamitos, California, IEEE, 263-270.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Thwaites",
+     "given": "H."
+    }
+   ],
+   "date": "2001",
+   "title": "Fact, fiction, fantasy: the information impact of virtual heritage",
+   "editors": [
+    {
+     "family": "Thwaites",
+     "given": "H."
+    },
+    {
+     "family": "Addison",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "VSMM 2001. Proceedings of the Seventh International Conference on Virtual Systems and Multimedia. Enhanced Realities: Augmented and Unplugged (Berkeley-California, 2001)"
+   ],
+   "pages": "263-270",
+   "publisher": "IEEE",
+   "place": "Los Alamitos, California",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "WILLIAM S. 2003, Storia dell’intelligenza artificiale, Milano, Garzanti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "William",
+     "given": "S."
+    }
+   ],
+   "date": "2003",
+   "title": "Storia dell’intelligenza artificiale",
+   "publisher": "Garzanti",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

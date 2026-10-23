@@ -1,0 +1,1375 @@
+{
+ "citing_aec_id": 1425,
+ "source_file": "data/journal/36/1425.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Agapiou A., Lysandrou V. 2023, Interacting with the Artificial Intelligence (AI) language model ChatGPT: A synopsis of earth observation and remote sensing in archaeology, «Heritage», 6, 5, 4072-4085 (https://doi.org/10.3390/heritage6050214).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Agapiou",
+     "given": "A."
+    },
+    {
+     "family": "Lysandrou",
+     "given": "V."
+    }
+   ],
+   "date": "2023",
+   "title": "Interacting with the Artificial Intelligence (AI) language model ChatGPT: A synopsis of earth observation and remote sensing in archaeology",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "6",
+   "issue": "5",
+   "pages": "4072-4085",
+   "doi": "10.3390/heritage6050214",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Alcaras E., Amoroso P.P., Falchi U., Figliomeni F.G., Morale D., Prezioso G. 2025, Comparative analysis of supervised and unsupervised classification methods for Sentinel-2 Imagery, in 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET) (Fez, Morocco 2025), 1-6 (https://doi.org/10.1109/IRASET64571.2025.11007978).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Alcaras",
+     "given": "E."
+    },
+    {
+     "family": "Amoroso",
+     "given": "P.P."
+    },
+    {
+     "family": "Falchi",
+     "given": "U."
+    },
+    {
+     "family": "Figliomeni",
+     "given": "F.G."
+    },
+    {
+     "family": "Morale",
+     "given": "D."
+    },
+    {
+     "family": "Prezioso",
+     "given": "G."
+    }
+   ],
+   "date": "2025",
+   "title": "Comparative analysis of supervised and unsupervised classification methods for Sentinel-2 Imagery",
+   "is_part_of": [
+    "2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET) (Fez, Morocco 2025)"
+   ],
+   "pages": "1-6",
+   "doi": "10.1109/IRASET64571.2025.11007978",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Argyrou A., Agapiou A. 2022, A review of Artificial Intelligence and remote sensing for archaeological research, «Remote Sensing», 14, 6000 (https://doi.org/10.3390/rs14236000).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Argyrou",
+     "given": "A."
+    },
+    {
+     "family": "Agapiou",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "A review of Artificial Intelligence and remote sensing for archaeological research",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "volume": "14",
+   "pages": "6000",
+   "doi": "10.3390/rs14236000",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Badgley G. 2017, Canopy near-infrared reflectance and terrestrial photosynthesis, «Science Advances», 3 (https://doi.org/10.1126/sciadv.1602244).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Badgley",
+     "given": "G."
+    }
+   ],
+   "date": "2017",
+   "title": "Canopy near-infrared reflectance and terrestrial photosynthesis",
+   "is_part_of": [
+    "Science Advances"
+   ],
+   "volume": "3",
+   "doi": "10.1126/sciadv.1602244",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Bickler S. 2021, Machine Learning arrives in archaeology, «Advances in Archaeological Practice», 9, 186-191 (https://doi.org/10.1017/aap.2021.6).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bickler",
+     "given": "S."
+    }
+   ],
+   "date": "2021",
+   "title": "Machine Learning arrives in archaeology",
+   "is_part_of": [
+    "Advances in Archaeological Practice"
+   ],
+   "volume": "9",
+   "pages": "186-191",
+   "doi": "10.1017/aap.2021.6",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Brancato R., Ferrari V., Ditaranto I., Merola P., Rossi I. 2024, Investigating resilient Roman agricultural landscapes in southern Italy. An integrated and open IT approach to modeling centuriation, «Archeologia e Calcolatori», 35.2, 387-400 (https://doi.org/10.19282/ac.35.2.2024.41).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    },
+    {
+     "family": "Ferrari",
+     "given": "V."
+    },
+    {
+     "family": "Ditaranto",
+     "given": "I."
+    },
+    {
+     "family": "Merola",
+     "given": "P."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2024",
+   "title": "Investigating resilient Roman agricultural landscapes in southern Italy. An integrated and open IT approach to modeling centuriation",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "387-400",
+   "doi": "10.19282/ac.35.2.2024.41",
+   "language": "eng",
+   "cited_aec_id": 1361
+  },
+  {
+   "position": 7,
+   "raw": "Breiman L., Friedman J.H., Olshen R.A., Stone C.J. 1984, Classification and Regression Trees, Belmont, Taylor & Francis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Breiman",
+     "given": "L."
+    },
+    {
+     "family": "Friedman",
+     "given": "J.H."
+    },
+    {
+     "family": "Olshen",
+     "given": "R.A."
+    },
+    {
+     "family": "Stone",
+     "given": "C.J."
+    }
+   ],
+   "date": "1984",
+   "title": "Classification and Regression Trees",
+   "publisher": "Taylor & Francis",
+   "place": "Belmont",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Cacciari I., Pocobelli G.F. 2021, The contribution of Artificial Intelligence to aerial photointerpretation of archaeological sites: A comparison between traditional and machine learning methods, «Archeologia e Calcolatori», 32.1, 81-98 (https://doi.org/10.19282/ac.32.1.2021.05).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cacciari",
+     "given": "I."
+    },
+    {
+     "family": "Pocobelli",
+     "given": "G.F."
+    }
+   ],
+   "date": "2021",
+   "title": "The contribution of Artificial Intelligence to aerial photointerpretation of archaeological sites: A comparison between traditional and machine learning methods",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "32",
+   "issue": "1",
+   "pages": "81-98",
+   "doi": "10.19282/ac.32.1.2021.05",
+   "language": "eng",
+   "cited_aec_id": 1128
+  },
+  {
+   "position": 9,
+   "raw": "Campana S. 2017, Remote Sensing in archaeology, in A.S. Gilbert (ed.), Encyclopedia of Geoarchaeology. Encyclopedia of Earth Sciences Series, Dordrecht, Springer, 703-725 (https://doi.org/10.1007/978-1-4020-4409-0_122).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Remote Sensing in archaeology",
+   "editors": [
+    {
+     "family": "Gilbert",
+     "given": "A.S."
+    }
+   ],
+   "is_part_of": [
+    "Encyclopedia of Geoarchaeology"
+   ],
+   "series": "Encyclopedia of Earth Sciences Series",
+   "pages": "703-725",
+   "publisher": "Springer",
+   "place": "Dordrecht",
+   "doi": "10.1007/978-1-4020-4409-0_122",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Canedo D., Hipólito J., Fonte J., Dias R., Pereiro T., Georgieva P., Gonçalves-Seco L., Vázquez M., Pires N., Fábrega-Álvarez P., Menéndez-Marsh F., Neves A. 2024, The synergy between Artificial Intelligence, remote sensing, and archaeological fieldwork validation, «Remote. Sensing», 16, 1933 (https://doi.org/10.3390/rs16111933).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Canedo",
+     "given": "D."
+    },
+    {
+     "family": "Hipólito",
+     "given": "J."
+    },
+    {
+     "family": "Fonte",
+     "given": "J."
+    },
+    {
+     "family": "Dias",
+     "given": "R."
+    },
+    {
+     "family": "Pereiro",
+     "given": "T."
+    },
+    {
+     "family": "Georgieva",
+     "given": "P."
+    },
+    {
+     "family": "Gonçalves-Seco",
+     "given": "L."
+    },
+    {
+     "family": "Vázquez",
+     "given": "M."
+    },
+    {
+     "family": "Pires",
+     "given": "N."
+    },
+    {
+     "family": "Fábrega-Álvarez",
+     "given": "P."
+    },
+    {
+     "family": "Menéndez-Marsh",
+     "given": "F."
+    },
+    {
+     "family": "Neves",
+     "given": "A."
+    }
+   ],
+   "date": "2024",
+   "title": "The synergy between Artificial Intelligence, remote sensing, and archaeological fieldwork validation",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "volume": "16",
+   "pages": "1933",
+   "doi": "10.3390/rs16111933",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Cozzolino M., Di Palma F., Gabrielli R., Mauriello P., Scardozzi G. 2025, A top-down, multi-method and multi-scale approach to studying the Byzantine-Umayyad settlement of Umm ar-Rasas (Amman, Jordan), «Heritage», 8, 5, 177 (https://doi.org/10.3390/heritage8050177).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cozzolino",
+     "given": "M."
+    },
+    {
+     "family": "Di Palma",
+     "given": "F."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Mauriello",
+     "given": "P."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2025",
+   "title": "A top-down, multi-method and multi-scale approach to studying the Byzantine-Umayyad settlement of Umm ar-Rasas (Amman, Jordan)",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "8",
+   "issue": "5",
+   "pages": "177",
+   "doi": "10.3390/heritage8050177",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Del Giglio M., Greggio N., Goffo F., Merloni N., Dubbini M., Barbarella M. 2019, Comparison of pixel- and object-based classification methods of unmanned aerial vehicle data applied to coastal dune vegetation communities: Casal Borsetti case study, «Remote Sensing», 11, 12, 1416 (https://doi.org/10.3390/rs11121416).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Del Giglio",
+     "given": "M."
+    },
+    {
+     "family": "Greggio",
+     "given": "N."
+    },
+    {
+     "family": "Goffo",
+     "given": "F."
+    },
+    {
+     "family": "Merloni",
+     "given": "N."
+    },
+    {
+     "family": "Dubbini",
+     "given": "M."
+    },
+    {
+     "family": "Barbarella",
+     "given": "M."
+    }
+   ],
+   "date": "2019",
+   "title": "Comparison of pixel- and object-based classification methods of unmanned aerial vehicle data applied to coastal dune vegetation communities: Casal Borsetti case study",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "volume": "11",
+   "issue": "12",
+   "pages": "1416",
+   "doi": "10.3390/rs11121416",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Estoque R.C., Murayama Y. 2015, Intensity and spatial pattern of urban land changes in the megacities of Southeast Asia, «Land Use Policy», 48, 213-222 (https://doi.org/10.1016/j.landusepol.2015.05.017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Estoque",
+     "given": "R.C."
+    },
+    {
+     "family": "Murayama",
+     "given": "Y."
+    }
+   ],
+   "date": "2015",
+   "title": "Intensity and spatial pattern of urban land changes in the megacities of Southeast Asia",
+   "is_part_of": [
+    "Land Use Policy"
+   ],
+   "volume": "48",
+   "pages": "213-222",
+   "doi": "10.1016/j.landusepol.2015.05.017",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Friedl M.A., Brodley C. 1997, Decision tree classification of land cover from remotely sensed data, «Remote Sensing of Environment», 61, 399-409 (https://doi.org/10.1016/S0034-4257(97)00049-7).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Friedl",
+     "given": "M.A."
+    },
+    {
+     "family": "Brodley",
+     "given": "C."
+    }
+   ],
+   "date": "1997",
+   "title": "Decision tree classification of land cover from remotely sensed data",
+   "is_part_of": [
+    "Remote Sensing of Environment"
+   ],
+   "volume": "61",
+   "pages": "399-409",
+   "doi": "10.1016/S0034-4257(97)00049-7",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Gallavotti B. 2024, Il futuro è già qui, Milano, Mondadori.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gallavotti",
+     "given": "B."
+    }
+   ],
+   "date": "2024",
+   "title": "Il futuro è già qui",
+   "publisher": "Mondadori",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Gitelson A.A., Kaufman Y.J., Merzlyak M.N. 1996, Use of a green channel in remote sensing of global vegetation from EOS-MODIS, «Remote Sensing of Environment», 58, 3, 289-298 (https://doi.org/10.1016/S0034-4257(96)00072).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gitelson",
+     "given": "A.A."
+    },
+    {
+     "family": "Kaufman",
+     "given": "Y.J."
+    },
+    {
+     "family": "Merzlyak",
+     "given": "M.N."
+    }
+   ],
+   "date": "1996",
+   "title": "Use of a green channel in remote sensing of global vegetation from EOS-MODIS",
+   "is_part_of": [
+    "Remote Sensing of Environment"
+   ],
+   "volume": "58",
+   "issue": "3",
+   "pages": "289-298",
+   "doi": "10.1016/S0034-4257(96)00072",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Gitelson A.A., Kaufman Y.J., Stark R., Rundquist D. 2002, Novel algorithms for remote estimation of vegetation fraction, «Remote Sensing of Environment», 80, 1, 76-87 (https://doi.org/10.1016/S0034-4257(01)00289-9).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gitelson",
+     "given": "A.A."
+    },
+    {
+     "family": "Kaufman",
+     "given": "Y.J."
+    },
+    {
+     "family": "Stark",
+     "given": "R."
+    },
+    {
+     "family": "Rundquist",
+     "given": "D."
+    }
+   ],
+   "date": "2002",
+   "title": "Novel algorithms for remote estimation of vegetation fraction",
+   "is_part_of": [
+    "Remote Sensing of Environment"
+   ],
+   "volume": "80",
+   "issue": "1",
+   "pages": "76-87",
+   "doi": "10.1016/S0034-4257(01)00289-9",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Hansen M.C., Potapov P.V., Moore R., Hancher M., Turubanova S.A., Tyukavina A., Thau D., Stehman S.V., Goetz S.J., Loveland T.R., Kommareddy A., Egorov A., Chini L., Justice C.O., Townshend J.R.G. 2013, High-resolution global maps of 21st-century forest cover change, «Science», 342, 6160, 850-853.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hansen",
+     "given": "M.C."
+    },
+    {
+     "family": "Potapov",
+     "given": "P.V."
+    },
+    {
+     "family": "Moore",
+     "given": "R."
+    },
+    {
+     "family": "Hancher",
+     "given": "M."
+    },
+    {
+     "family": "Turubanova",
+     "given": "S.A."
+    },
+    {
+     "family": "Tyukavina",
+     "given": "A."
+    },
+    {
+     "family": "Thau",
+     "given": "D."
+    },
+    {
+     "family": "Stehman",
+     "given": "S.V."
+    },
+    {
+     "family": "Goetz",
+     "given": "S.J."
+    },
+    {
+     "family": "Loveland",
+     "given": "T.R."
+    },
+    {
+     "family": "Kommareddy",
+     "given": "A."
+    },
+    {
+     "family": "Egorov",
+     "given": "A."
+    },
+    {
+     "family": "Chini",
+     "given": "L."
+    },
+    {
+     "family": "Justice",
+     "given": "C.O."
+    },
+    {
+     "family": "Townshend",
+     "given": "J.R.G."
+    }
+   ],
+   "date": "2013",
+   "title": "High-resolution global maps of 21st-century forest cover change",
+   "is_part_of": [
+    "Science"
+   ],
+   "volume": "342",
+   "issue": "6160",
+   "pages": "850-853",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Hossain M., Chen D. 2019, Segmentation for Object-Based Image Analysis (OBIA): A review of algorithms and challenges from remote sensing perspective, «ISPRS Journal of Photogrammetry and Remote Sensing» (https://doi.org/10.1016/J.ISPRSJPRS.2019.02.009).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hossain",
+     "given": "M."
+    },
+    {
+     "family": "Chen",
+     "given": "D."
+    }
+   ],
+   "date": "2019",
+   "title": "Segmentation for Object-Based Image Analysis (OBIA): A review of algorithms and challenges from remote sensing perspective",
+   "is_part_of": [
+    "ISPRS Journal of Photogrammetry and Remote Sensing"
+   ],
+   "doi": "10.1016/J.ISPRSJPRS.2019.02.009",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "Huete A.R. 1988, A Soil Vegetation Adjusted Index (SAVI), «Remote Sensing of Environment», 25, 295-309 (https://doi.org/10.1016/0034-4257(88)90106-X).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huete",
+     "given": "A.R."
+    }
+   ],
+   "date": "1988",
+   "title": "A Soil Vegetation Adjusted Index (SAVI)",
+   "is_part_of": [
+    "Remote Sensing of Environment"
+   ],
+   "volume": "25",
+   "pages": "295-309",
+   "doi": "10.1016/0034-4257(88)90106-X",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "Johannowsky W. 1987, L’abitato tardo-ellenistico a Fioccaglia di Flumeri e la romanizzazione dell’Irpinia, in M. Salvatore (ed.), Basilicata. L’espansionismo romano nel sud-est d’Italia. Il quadro archeologico, Atti del Convegno (Venosa 1987), Venosa, Osanna Edizioni.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Johannowsky",
+     "given": "W."
+    }
+   ],
+   "date": "1987",
+   "title": "L’abitato tardo-ellenistico a Fioccaglia di Flumeri e la romanizzazione dell’Irpinia",
+   "editors": [
+    {
+     "family": "Salvatore",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Basilicata. L’espansionismo romano nel sud-est d’Italia. Il quadro archeologico, Atti del Convegno (Venosa 1987)"
+   ],
+   "publisher": "Osanna Edizioni",
+   "place": "Venosa",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "Jordan C.F. 1969, Derivation of leaf area index from quality of light on the forest floor, «Ecology», 50, 663-666 (http://dx.doi.org/10.2307/1936256).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jordan",
+     "given": "C.F."
+    }
+   ],
+   "date": "1969",
+   "title": "Derivation of leaf area index from quality of light on the forest floor",
+   "is_part_of": [
+    "Ecology"
+   ],
+   "volume": "50",
+   "pages": "663-666",
+   "doi": "10.2307/1936256",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Kadhim I., Abed F. 2023, A critical review of remote sensing approaches and deep learning techniques in archaeology, «Sensors (Basel, Switzerland)», 23 (https://doi.org/10.3390/s23062918).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kadhim",
+     "given": "I."
+    },
+    {
+     "family": "Abed",
+     "given": "F."
+    }
+   ],
+   "date": "2023",
+   "title": "A critical review of remote sensing approaches and deep learning techniques in archaeology",
+   "is_part_of": [
+    "Sensors"
+   ],
+   "volume": "23",
+   "doi": "10.3390/s23062918",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "Karamitrou A., Sturt F., Bogiatzis P., Beresford-Jones D. 2022, Towards the use of artificial intelligence deep learning networks for detection of archaeological sites, «Surface Topography: Metrology and Properties», 10 (https://doi.org/10.1088/2051-672X/ac9492).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Karamitrou",
+     "given": "A."
+    },
+    {
+     "family": "Sturt",
+     "given": "F."
+    },
+    {
+     "family": "Bogiatzis",
+     "given": "P."
+    },
+    {
+     "family": "Beresford-Jones",
+     "given": "D."
+    }
+   ],
+   "date": "2022",
+   "title": "Towards the use of artificial intelligence deep learning networks for detection of archaeological sites",
+   "is_part_of": [
+    "Surface Topography: Metrology and Properties"
+   ],
+   "volume": "10",
+   "doi": "10.1088/2051-672X/ac9492",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "Lambers K., Vaart W., Bourgeois Q. 2019, Integrating remote sensing, Machine Learning, and citizen science in Dutch archaeological prospection, «Remote Sensing», 11, 794(https://doi.org/10.3390/RS11070794).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lambers",
+     "given": "K."
+    },
+    {
+     "family": "Vaart",
+     "given": "W."
+    },
+    {
+     "family": "Bourgeois",
+     "given": "Q."
+    }
+   ],
+   "date": "2019",
+   "title": "Integrating remote sensing, Machine Learning, and citizen science in Dutch archaeological prospection",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "volume": "11",
+   "pages": "794",
+   "doi": "10.3390/RS11070794",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "Leucci G., Negri S., Ricchetti E. 2002, Integration of high resolution optical satellite imagery and geophysical survey for archaeological prospection in Hierapolis (Turkey), in IEEE International Geoscience and Remote Sensing Symposium, Toronto, ON, Canada, vol. 4, 1991-1993 (https://doi.org/10.1109/IGARSS.2002.1026423).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Leucci",
+     "given": "G."
+    },
+    {
+     "family": "Negri",
+     "given": "S."
+    },
+    {
+     "family": "Ricchetti",
+     "given": "E."
+    }
+   ],
+   "date": "2002",
+   "title": "Integration of high resolution optical satellite imagery and geophysical survey for archaeological prospection in Hierapolis (Turkey)",
+   "is_part_of": [
+    "IEEE International Geoscience and Remote Sensing Symposium (Toronto, ON, Canada)"
+   ],
+   "volume": "4",
+   "pages": "1991-1993",
+   "doi": "10.1109/IGARSS.2002.1026423",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "Luo L., Wang X., Guo H. 2024, Transitioning from remote sensing archaeology to space archaeology: Towards a paradigm shift, «Remote Sensing of Environment» (https://doi.org/10.1016/j.rse.2024.114200).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Luo",
+     "given": "L."
+    },
+    {
+     "family": "Wang",
+     "given": "X."
+    },
+    {
+     "family": "Guo",
+     "given": "H."
+    }
+   ],
+   "date": "2024",
+   "title": "Transitioning from remote sensing archaeology to space archaeology: Towards a paradigm shift",
+   "is_part_of": [
+    "Remote Sensing of Environment"
+   ],
+   "doi": "10.1016/j.rse.2024.114200",
+   "language": "eng"
+  },
+  {
+   "position": 28,
+   "raw": "McFeeters S.K. 1996, The use of the Normalized Difference Water Index (NDWI) in the delineation of open water features, «International Journal of Remote Sensing», 17, 7, 1425-1432 (https://doi.org/10.1080/01431169608948714).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "McFeeters",
+     "given": "S.K."
+    }
+   ],
+   "date": "1996",
+   "title": "The use of the Normalized Difference Water Index (NDWI) in the delineation of open water features",
+   "is_part_of": [
+    "International Journal of Remote Sensing"
+   ],
+   "volume": "17",
+   "issue": "7",
+   "pages": "1425-1432",
+   "doi": "10.1080/01431169608948714",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "Merola P. 2011, Classificazione dei dati da remoto per la ricerca archeologica, in Volume III di Ricerche di Dottorato, Facoltà di Lettere e Filosofia, Seconda Università degli Studi di Napoli.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Merola",
+     "given": "P."
+    }
+   ],
+   "date": "2011",
+   "title": "Classificazione dei dati da remoto per la ricerca archeologica",
+   "is_part_of": [
+    "Volume III di Ricerche di Dottorato, Facoltà di Lettere e Filosofia"
+   ],
+   "publisher": "Seconda Università degli Studi di Napoli",
+   "language": "ita",
+   "notes": "cited in “Volume III di Ricerche di Dottorato”"
+  },
+  {
+   "position": 30,
+   "raw": "Merola P., Allegrini A., Guglietta D., Sampieri S. 2006, Study of buried archaeological sites using vegetation indices, «Proc. SPIE 6366, Remote Sensing for Environmental Monitoring, GIS Applications and Geology», 6, 636609 (https://doi.org/10.1117/12.689727).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Merola",
+     "given": "P."
+    },
+    {
+     "family": "Allegrini",
+     "given": "A."
+    },
+    {
+     "family": "Guglietta",
+     "given": "D."
+    },
+    {
+     "family": "Sampieri",
+     "given": "S."
+    }
+   ],
+   "date": "2006",
+   "title": "Study of buried archaeological sites using vegetation indices",
+   "is_part_of": [
+    "Proc. SPIE 6366, Remote Sensing for Environmental Monitoring, GIS Applications and Geology"
+   ],
+   "volume": "6",
+   "pages": "636609",
+   "doi": "10.1117/12.689727",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "Orengo H., Conesa F., Garcia-Molsosa A., Lobo A., Green A., Madella M., Petrie C. 2020, Automated detection of archaeological mounds using machine-learning classification of multisensor and multitemporal satellite data, «Proceedings of the National Academy of Sciences of the United States of America», 117, 18240-18250 (https://doi.org/10.1073/pnas.2005583117).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orengo",
+     "given": "H."
+    },
+    {
+     "family": "Conesa",
+     "given": "F."
+    },
+    {
+     "family": "Garcia-Molsosa",
+     "given": "A."
+    },
+    {
+     "family": "Lobo",
+     "given": "A."
+    },
+    {
+     "family": "Green",
+     "given": "A."
+    },
+    {
+     "family": "Madella",
+     "given": "M."
+    },
+    {
+     "family": "Petrie",
+     "given": "C."
+    }
+   ],
+   "date": "2020",
+   "title": "Automated detection of archaeological mounds using machine-learning classification of multisensor and multitemporal satellite data",
+   "is_part_of": [
+    "Proceedings of the National Academy of Sciences of the United States of America"
+   ],
+   "volume": "117",
+   "pages": "18240-18250",
+   "doi": "10.1073/pnas.2005583117",
+   "language": "eng"
+  },
+  {
+   "position": 32,
+   "raw": "Pruitt E.L. 1979, The office of naval research and geography, «Annals of the Association of American Geographers», 69, 1, 103-108.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pruitt",
+     "given": "E.L."
+    }
+   ],
+   "date": "1979",
+   "title": "The office of naval research and geography",
+   "is_part_of": [
+    "Annals of the Association of American Geographers"
+   ],
+   "volume": "69",
+   "issue": "1",
+   "pages": "103-108",
+   "language": "eng"
+  },
+  {
+   "position": 33,
+   "raw": "Rondeaux G., Steven M., Baret F. 1996, Optimization of soil-adjusted vegetation indices, «Remote Sensing of Environment», 55, 2, 95-107 (https://doi.org/10.1016/0034-4257(95)00186-7).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rondeaux",
+     "given": "G."
+    },
+    {
+     "family": "Steven",
+     "given": "M."
+    },
+    {
+     "family": "Baret",
+     "given": "F."
+    }
+   ],
+   "date": "1996",
+   "title": "Optimization of soil-adjusted vegetation indices",
+   "is_part_of": [
+    "Remote Sensing of Environment"
+   ],
+   "volume": "55",
+   "issue": "2",
+   "pages": "95-107",
+   "doi": "10.1016/0034-4257(95)00186-7",
+   "language": "eng"
+  },
+  {
+   "position": 34,
+   "raw": "Rouse J.W., Haas R.H., Schell J.A., Deering D.W. 1974, Monitoring the vernal advancement and retrogradation (green wave effect) of natural vegetation, «NASA/GSFCT Type III Final Report, Greenbelt», MD, USA.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Rouse",
+     "given": "J.W."
+    },
+    {
+     "family": "Haas",
+     "given": "R.H."
+    },
+    {
+     "family": "Schell",
+     "given": "J.A."
+    },
+    {
+     "family": "Deering",
+     "given": "D.W."
+    }
+   ],
+   "date": "1974",
+   "title": "Monitoring the vernal advancement and retrogradation (green wave effect) of natural vegetation",
+   "is_part_of": [
+    "NASA/GSFCT Type III Final Report"
+   ],
+   "place": "Greenbelt, MD, USA",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "Sharma S., Beslity J., Rustad L., Shelby L., Manos P., Khanal P., Reinmann A., Khanal C. 2024, Integrating remote sensing, GIS, AI, and machine learning for natural resource management: Comparative analysis of tools and the critical role of in-situ validation data, «Remote Sensing», 16, 4161 (https://doi.org/10.20944/preprints202409.2466.v1).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sharma",
+     "given": "S."
+    },
+    {
+     "family": "Beslity",
+     "given": "J."
+    },
+    {
+     "family": "Rustad",
+     "given": "L."
+    },
+    {
+     "family": "Shelby",
+     "given": "L."
+    },
+    {
+     "family": "Manos",
+     "given": "P."
+    },
+    {
+     "family": "Khanal",
+     "given": "P."
+    },
+    {
+     "family": "Reinmann",
+     "given": "A."
+    },
+    {
+     "family": "Khanal",
+     "given": "C."
+    }
+   ],
+   "date": "2024",
+   "title": "Integrating remote sensing, GIS, AI, and machine learning for natural resource management: Comparative analysis of tools and the critical role of in-situ validation data",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "volume": "16",
+   "pages": "4161",
+   "doi": "10.20944/preprints202409.2466.v1",
+   "language": "eng"
+  },
+  {
+   "position": 36,
+   "raw": "Soroush M., Mehrtash A., Khazraee E., Ur J.A. 2020, Deep learning in archaeological remote sensing: Automated qanat detection in the Kurdistan region of Iraq, «Remote Sensing», 12, 3, 500 (https://doi.org/10.3390/rs12030500).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Soroush",
+     "given": "M."
+    },
+    {
+     "family": "Mehrtash",
+     "given": "A."
+    },
+    {
+     "family": "Khazraee",
+     "given": "E."
+    },
+    {
+     "family": "Ur",
+     "given": "J.A."
+    }
+   ],
+   "date": "2020",
+   "title": "Deep learning in archaeological remote sensing: Automated qanat detection in the Kurdistan region of Iraq",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "volume": "12",
+   "issue": "3",
+   "pages": "500",
+   "doi": "10.3390/rs12030500",
+   "language": "eng"
+  },
+  {
+   "position": 37,
+   "raw": "Sripada R.P., Heiniger R.W., White J.G., Weisz R. 2005, Aerial color infrared photography for determining late-season nitrogen requirements in Corn, «Agronomy Journal», 97, 1443-1451 (https://doi.org/10.2134/agronj2004.0314).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sripada",
+     "given": "R.P."
+    },
+    {
+     "family": "Heiniger",
+     "given": "R.W."
+    },
+    {
+     "family": "White",
+     "given": "J.G."
+    },
+    {
+     "family": "Weisz",
+     "given": "R."
+    }
+   ],
+   "date": "2005",
+   "title": "Aerial color infrared photography for determining late-season nitrogen requirements in Corn",
+   "is_part_of": [
+    "Agronomy Journal"
+   ],
+   "volume": "97",
+   "pages": "1443-1451",
+   "doi": "10.2134/agronj2004.0314",
+   "language": "eng"
+  },
+  {
+   "position": 38,
+   "raw": "Sulik J.J., Long D.S. 2016, Spectral considerations for modelling yield of canola, «Remote Sensing of Environment», 184, 161-174 (https://doi.org/10.1016/j.rse.2016.06.016).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sulik",
+     "given": "J.J."
+    },
+    {
+     "family": "Long",
+     "given": "D.S."
+    }
+   ],
+   "date": "2016",
+   "title": "Spectral considerations for modelling yield of canola",
+   "is_part_of": [
+    "Remote Sensing of Environment"
+   ],
+   "volume": "184",
+   "pages": "161-174",
+   "doi": "10.1016/j.rse.2016.06.016",
+   "language": "eng"
+  },
+  {
+   "position": 39,
+   "raw": "Teodoro A.C., Ferreira D., Sillero N. 2012, Performance of commercial and open source remote sensing/image processing software for land cover/use purposes, «Proc. SPIE 8538, Earth Resources and Environmental Remote Sensing/GIS Applications», 3, 85381K (https://doi.org/10.1117/12.974577).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Teodoro",
+     "given": "A.C."
+    },
+    {
+     "family": "Ferreira",
+     "given": "D."
+    },
+    {
+     "family": "Sillero",
+     "given": "N."
+    }
+   ],
+   "date": "2012",
+   "title": "Performance of commercial and open source remote sensing/image processing software for land cover/use purposes",
+   "is_part_of": [
+    "Proc. SPIE 8538, Earth Resources and Environmental Remote Sensing/GIS Applications"
+   ],
+   "volume": "3",
+   "pages": "85381K",
+   "doi": "10.1117/12.974577",
+   "language": "eng"
+  },
+  {
+   "position": 40,
+   "raw": "Valente R., Iamoni M., Maset E. 2023, Multispectral and high-resolution images as sources for archaeological surveys. New data from Iraqi Kurdistan, «Archeologia e Calcolatori», 34.2, 207-223 (https://doi.org/10.19282/ac.34.2.2023.11).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Valente",
+     "given": "R."
+    },
+    {
+     "family": "Iamoni",
+     "given": "M."
+    },
+    {
+     "family": "Maset",
+     "given": "E."
+    }
+   ],
+   "date": "2023",
+   "title": "Multispectral and high-resolution images as sources for archaeological surveys. New data from Iraqi Kurdistan",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "34",
+   "issue": "2",
+   "pages": "207-223",
+   "doi": "10.19282/ac.34.2.2023.11",
+   "language": "eng",
+   "cited_aec_id": 1269
+  },
+  {
+   "position": 41,
+   "raw": "Vats S., Mehta S. 2024, Revolutionizing archaeological discoveries: The role of artificial intelligence and machine learning in site analysis, in 2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT), 1-5 (https://doi.org/10.1109/ICCCNT61001.2024.10724869).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vats",
+     "given": "S."
+    },
+    {
+     "family": "Mehta",
+     "given": "S."
+    }
+   ],
+   "date": "2024",
+   "title": "Revolutionizing archaeological discoveries: The role of artificial intelligence and machine learning in site analysis",
+   "is_part_of": [
+    "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)"
+   ],
+   "pages": "1-5",
+   "doi": "10.1109/ICCCNT61001.2024.10724869",
+   "language": "eng"
+  },
+  {
+   "position": 42,
+   "raw": "Wang M., Huang Z., Zhang X., Zhang Y., Chen M. 2021, Altered mineral mapping based on ground-airborne hyperspectral data and wavelet spectral angle mapper tri-training model: Case studies from Dehua-Youxi-Yongtai Ore District, Central Fujian, China, «International Journal of Applied Earth Observation and Geoinformation», 102, 102409 (https://doi.org/10.1016/j.jag.2021.102409).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wang",
+     "given": "M."
+    },
+    {
+     "family": "Huang",
+     "given": "Z."
+    },
+    {
+     "family": "Zhang",
+     "given": "X."
+    },
+    {
+     "family": "Zhang",
+     "given": "Y."
+    },
+    {
+     "family": "Chen",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "Altered mineral mapping based on ground-airborne hyperspectral data and wavelet spectral angle mapper tri-training model: Case studies from Dehua-Youxi-Yongtai Ore District, Central Fujian, China",
+   "is_part_of": [
+    "International Journal of Applied Earth Observation and Geoinformation"
+   ],
+   "volume": "102",
+   "pages": "102409",
+   "doi": "10.1016/j.jag.2021.102409",
+   "language": "eng"
+  },
+  {
+   "position": 43,
+   "raw": "Wang Y., Liu Y. 2024, Development trend of remote sensing archaeology based on scientific literature, «Electronic Engineering and Infoirmatics», 51, 247-254 (http://dx.doi.org/10.3233/ATDE240083).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wang",
+     "given": "Y."
+    },
+    {
+     "family": "Liu",
+     "given": "Y."
+    }
+   ],
+   "date": "2024",
+   "title": "Development trend of remote sensing archaeology based on scientific literature",
+   "is_part_of": [
+    "Electronic Engineering and Informatics"
+   ],
+   "volume": "51",
+   "pages": "247-254",
+   "doi": "10.3233/ATDE240083",
+   "language": "eng",
+   "notes": "cited as “Infoirmatics”"
+  },
+  {
+   "position": 44,
+   "raw": "Zamuner D., Piro S., Marasco L., Dabas M., Campana S. 2007, Integration of remote sensing, geophysical surveys and archaeological excavation for the study of a medieval mound (Tuscany-Italy), «Archaeological Prospection», 16, 167-176 (https://doi.org/10.1002/arp.366).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zamuner",
+     "given": "D."
+    },
+    {
+     "family": "Piro",
+     "given": "S."
+    },
+    {
+     "family": "Marasco",
+     "given": "L."
+    },
+    {
+     "family": "Dabas",
+     "given": "M."
+    },
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "date": "2007",
+   "title": "Integration of remote sensing, geophysical surveys and archaeological excavation for the study of a medieval mound (Tuscany-Italy)",
+   "is_part_of": [
+    "Archaeological Prospection"
+   ],
+   "volume": "16",
+   "pages": "167-176",
+   "doi": "10.1002/arp.366",
+   "language": "eng"
+  },
+  {
+   "position": 45,
+   "raw": "Zhang L., Zhang L. 2022, Artificial intelligence for remote sensing data analysis: A review of challenges and opportunities, «IEEE Geoscience and Remote Sensing Magazine», 10, 270-294 (https://doi.org/10.1109/mgrs.2022.3145854).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zhang",
+     "given": "L."
+    },
+    {
+     "family": "Zhang",
+     "given": "L."
+    }
+   ],
+   "date": "2022",
+   "title": "Artificial intelligence for remote sensing data analysis: A review of challenges and opportunities",
+   "is_part_of": [
+    "IEEE Geoscience and Remote Sensing Magazine"
+   ],
+   "volume": "10",
+   "pages": "270-294",
+   "doi": "10.1109/mgrs.2022.3145854",
+   "language": "eng"
+  },
+  {
+   "position": 46,
+   "raw": "Zhang X.L. 2018, Practice teaching of landscape survey course based on eCognition remote sensing image interpretation technology, «Educational Sciences: Theory & Practice», 18, 5, 1411-1423 (https://doi.org/10.12738/estp.2018.5.038).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zhang",
+     "given": "X.L."
+    }
+   ],
+   "date": "2018",
+   "title": "Practice teaching of landscape survey course based on eCognition remote sensing image interpretation technology",
+   "is_part_of": [
+    "Educational Sciences: Theory & Practice"
+   ],
+   "volume": "18",
+   "issue": "5",
+   "pages": "1411-1423",
+   "doi": "10.12738/estp.2018.5.038",
+   "language": "eng"
+  }
+ ]
+}

@@ -1,0 +1,1480 @@
+{
+ "citing_aec_id": 1433,
+ "source_file": "data/journal/36/1433.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Argyrou A., Agapiou A. 2022, A review of Artificial Intelligence and remote sensing for archaeological research, «Remote Sensing», 14, 6000 (https://doi.org/10.3390/rs14236000).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Argyrou",
+     "given": "A."
+    },
+    {
+     "family": "Agapiou",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "A review of Artificial Intelligence and remote sensing for archaeological research",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "volume": "14",
+   "pages": "6000",
+   "doi": "10.3390/rs14236000",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Bonnier A., Finné M., Weiberg E. 2019, Examining land-use through GIS-based Kernel Density Estimation: A re-evaluation of legacy data from the Berbati-Limnes survey, «Journal of Field Archaeology», 44, 2, 70-83.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bonnier",
+     "given": "A."
+    },
+    {
+     "family": "Finné",
+     "given": "M."
+    },
+    {
+     "family": "Weiberg",
+     "given": "E."
+    }
+   ],
+   "date": "2019",
+   "title": "Examining land-use through GIS-based Kernel Density Estimation: A re-evaluation of legacy data from the Berbati-Limnes survey",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "volume": "44",
+   "issue": "2",
+   "pages": "70-83",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Branca S., Coltelli M., Groppelli G. (eds.) 2015, Carta geologica del Vulcano Etna, Memorie descrittive della Carta Geologica d’Italia 98, Catania, ISPRA - Servizio Geologico d’Italia.",
+   "type": "book",
+   "date": "2015",
+   "title": "Carta geologica del Vulcano Etna",
+   "editors": [
+    {
+     "family": "Branca",
+     "given": "S."
+    },
+    {
+     "family": "Coltelli",
+     "given": "M."
+    },
+    {
+     "family": "Groppelli",
+     "given": "G."
+    }
+   ],
+   "series": "Memorie descrittive della Carta Geologica d’Italia",
+   "series_number": "98",
+   "publisher": "ISPRA - Servizio Geologico d’Italia",
+   "place": "Catania",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Brancato R. 2019, How to access ancient landscapes? Field survey and legacy data integration for research on Greek and Roman settlement patterns in Eastern Sicily, «Groma», 4 (https://doi.org/10.12977/groma27).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    }
+   ],
+   "date": "2019",
+   "title": "How to access ancient landscapes? Field survey and legacy data integration for research on Greek and Roman settlement patterns in Eastern Sicily",
+   "is_part_of": [
+    "Groma"
+   ],
+   "volume": "4",
+   "doi": "10.12977/groma27",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Brancato R. 2020, Topografia della Piana di Catania. Archeologia, viabilità e sistemi insediativi, Roma, Quasar.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    }
+   ],
+   "date": "2020",
+   "title": "Topografia della Piana di Catania. Archeologia, viabilità e sistemi insediativi",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Brancato R. 2022, Interazione uomo-ambiente nel corso della preistoria nella Sicilia centro-orientale: sistemi insediativi e paesaggio tra Neolitico e Bronzo antico, in P.M. Militello, F. Nicoletti, R. Panvini (eds.), Prehistoric Sicily. Internal Developments and External Links, Atti del Convegno (Catania, Siracusa 2021), Palermo, Assessorato dei Beni Culturali, 197-206.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    }
+   ],
+   "date": "2022",
+   "title": "Interazione uomo-ambiente nel corso della preistoria nella Sicilia centro-orientale: sistemi insediativi e paesaggio tra Neolitico e Bronzo antico",
+   "editors": [
+    {
+     "family": "Militello",
+     "given": "P.M."
+    },
+    {
+     "family": "Nicoletti",
+     "given": "F."
+    },
+    {
+     "family": "Panvini",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Prehistoric Sicily. Internal Developments and External Links, Atti del Convegno (Catania, Siracusa 2021)"
+   ],
+   "pages": "197-206",
+   "publisher": "Assessorato dei Beni Culturali",
+   "place": "Palermo",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Brancato R., Ferrari V., Ditaranto I., Merola P., Rossi I. 2024, Investigating resilient Roman agricultural landscapes in southern Italy. An integrated and open IT approach to modeling centuriation, in R. Brancato, J. Bogdani, V. Vitale (eds.), Linking Pasts and Sharing Knowledge. Mapping Archaeological Heritage, Legacy Data Integration and Web Technologies for Modelling Historical Landscapes (Naples 2023), «Archeologia e Calcolatori», 35.2, 387-400 (https://doi.org/10.19282/ac.35.2.2024.41).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    },
+    {
+     "family": "Ferrari",
+     "given": "V."
+    },
+    {
+     "family": "Ditaranto",
+     "given": "I."
+    },
+    {
+     "family": "Merola",
+     "given": "P."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2024",
+   "title": "Investigating resilient Roman agricultural landscapes in southern Italy. An integrated and open IT approach to modeling centuriation",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "387-400",
+   "doi": "10.19282/ac.35.2.2024.41",
+   "language": "eng",
+   "cited_aec_id": 1361
+  },
+  {
+   "position": 8,
+   "raw": "Brancato R., Matarese I., Santaniello E. 2024, Gricignano d’Aversa e Carinaro (CE): progetto di digitalizzazione della documentazione di due casi di archeologia preventiva nella Piana Campana, Poster in Il Geoportale Nazionale per l’Archeologia. Primo bilancio e prospettive, Atti del Convegno (Roma 2024), Roma (https://doi.org/10.60974/GNA_08).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    },
+    {
+     "family": "Matarese",
+     "given": "I."
+    },
+    {
+     "family": "Santaniello",
+     "given": "E."
+    }
+   ],
+   "date": "2024",
+   "title": "Gricignano d’Aversa e Carinaro (CE): progetto di digitalizzazione della documentazione di due casi di archeologia preventiva nella Piana Campana",
+   "is_part_of": [
+    "Il Geoportale Nazionale per l’Archeologia. Primo bilancio e prospettive, Atti del Convegno (Roma 2024)"
+   ],
+   "place": "Roma",
+   "doi": "10.60974/GNA_08",
+   "language": "ita",
+   "notes": "poster"
+  },
+  {
+   "position": 9,
+   "raw": "Calandra E. 2022, Il Geoportale Nazionale per l’Archeologia, in L’archeologia preventiva nel quadro del recovery plan, Roma, Accademia dei Lincei, 71-77.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Calandra",
+     "given": "E."
+    }
+   ],
+   "date": "2022",
+   "title": "Il Geoportale Nazionale per l’Archeologia",
+   "is_part_of": [
+    "L’archeologia preventiva nel quadro del recovery plan"
+   ],
+   "pages": "71-77",
+   "publisher": "Accademia dei Lincei",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Campana S. 2017, Remote sensing in archaeology, in A.S. Gilbert (ed.), Encyclopedia of Geo­ archaeology, Dordrecht, Springer, 703-725 (https://doi.org/10.1007/978-1-4020-4409-0_122).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Remote sensing in archaeology",
+   "editors": [
+    {
+     "family": "Gilbert",
+     "given": "A.S."
+    }
+   ],
+   "is_part_of": [
+    "Encyclopedia of Geoarchaeology"
+   ],
+   "pages": "703-725",
+   "publisher": "Springer",
+   "place": "Dordrecht",
+   "doi": "10.1007/978-1-4020-4409-0_122",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Caravale A., Moscati P., Rossi I. 2024, Landscaping and integrating Digital Archaeology and Digital Epigraphy resources: New challenges and future opportunities. Introduction to the Special section, in A. Caravale, P. Moscati, I. Rossi (eds.), The H2IOSC Project and its Impact on Digital Antiquity within the E-RIHS Infrastructure. I, «Archeologia e Calcolatori», 35.1, 515-520 (https://doi.org/10.19282/ac.35.1.2024.30).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2024",
+   "title": "Landscaping and integrating Digital Archaeology and Digital Epigraphy resources: New challenges and future opportunities. Introduction to the Special section",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "1",
+   "pages": "515-520",
+   "doi": "10.19282/ac.35.1.2024.30",
+   "language": "eng",
+   "cited_aec_id": 1311
+  },
+  {
+   "position": 12,
+   "raw": "Castiglioni E. 2018, I dati archeobotanici, in L. Maniscalco (ed.), Il Santuario dei Palici. Le ricerche del secondo decennio, Palermo, Assessorato ai Beni Culturali, 320-353.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Castiglioni",
+     "given": "E."
+    }
+   ],
+   "date": "2018",
+   "title": "I dati archeobotanici",
+   "editors": [
+    {
+     "family": "Maniscalco",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Il Santuario dei Palici. Le ricerche del secondo decennio"
+   ],
+   "pages": "320-353",
+   "publisher": "Assessorato ai Beni Culturali",
+   "place": "Palermo",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "Chester D.K., Duncan A.M., James P. 2011, Mount Etna, Sicily: Landscape evolution and hazard responses in the pre-industrial era, in I.P. Martini, W. Chesworth (eds.), Landscapes and Societies: Selected Cases, New York, Springer, 235-253.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Chester",
+     "given": "D.K."
+    },
+    {
+     "family": "Duncan",
+     "given": "A.M."
+    },
+    {
+     "family": "James",
+     "given": "P."
+    }
+   ],
+   "date": "2011",
+   "title": "Mount Etna, Sicily: Landscape evolution and hazard responses in the pre-industrial era",
+   "editors": [
+    {
+     "family": "Martini",
+     "given": "I.P."
+    },
+    {
+     "family": "Chesworth",
+     "given": "W."
+    }
+   ],
+   "is_part_of": [
+    "Landscapes and Societies: Selected Cases"
+   ],
+   "pages": "235-253",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Costa A., Di Vito M.A., Ricciardi G.P., Smith V.C., Talamo P. 2021, The long and intertwined record of humans and the Campi Flegrei volcano (Italy), «Bulletin of Volcanology», 84 (https://doi.org/10.1007/s00445-021-01503-x).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Costa",
+     "given": "A."
+    },
+    {
+     "family": "Di Vito",
+     "given": "M.A."
+    },
+    {
+     "family": "Ricciardi",
+     "given": "G.P."
+    },
+    {
+     "family": "Smith",
+     "given": "V.C."
+    },
+    {
+     "family": "Talamo",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "The long and intertwined record of humans and the Campi Flegrei volcano (Italy)",
+   "is_part_of": [
+    "Bulletin of Volcanology"
+   ],
+   "volume": "84",
+   "doi": "10.1007/s00445-021-01503-x",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Cozzolino M., Di Palma F., Gabrielli R., Mauriello P., Scardozzi G. 2025, A top-down, multi-method and multi-scale approach to studying the Byzantine-Umayyad settlement of Umm ar-Rasas (Amman, Jordan), «Heritage», 8, 5, 177 (https://doi.org/10.3390/heritage8050177).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cozzolino",
+     "given": "M."
+    },
+    {
+     "family": "Di Palma",
+     "given": "F."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Mauriello",
+     "given": "P."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2025",
+   "title": "A top-down, multi-method and multi-scale approach to studying the Byzantine-Umayyad settlement of Umm ar-Rasas (Amman, Jordan)",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "8",
+   "issue": "5",
+   "pages": "177",
+   "doi": "10.3390/heritage8050177",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Di Lorenzo H., Jung R., Pacciarelli M., Weninger B., Russo Ermolli E. 2021, Human impact and landscape changes between 3000 and 1000 BC on the Tropea Promontory (Calabria, Italy), «The Holocene», 31, 6, 926-942.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Lorenzo",
+     "given": "H."
+    },
+    {
+     "family": "Jung",
+     "given": "R."
+    },
+    {
+     "family": "Pacciarelli",
+     "given": "M."
+    },
+    {
+     "family": "Weninger",
+     "given": "B."
+    },
+    {
+     "family": "Russo Ermolli",
+     "given": "E."
+    }
+   ],
+   "date": "2021",
+   "title": "Human impact and landscape changes between 3000 and 1000 BC on the Tropea Promontory (Calabria, Italy)",
+   "is_part_of": [
+    "The Holocene"
+   ],
+   "volume": "31",
+   "issue": "6",
+   "pages": "926-942",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Di Maio G., Balassone G., Bellini C., Boni M., Ciampo G., Ciattini F., Di Donato V., Esposito P., Fameli T., Fioravanti M., Mariotti Lippi M., Petti C., Saccone G., Scala C. 2012, Geoarcheologia e ricostruzione del paesaggio archeologico, in C. Cicirelli, C. Albore Livadie (eds.), L’abitato protostorico di Poggiomarino. Località Longola. Campagne di scavo 2000-2004, Roma, L’Erma di Bretschneider, 26-44.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Maio",
+     "given": "G."
+    },
+    {
+     "family": "Balassone",
+     "given": "G."
+    },
+    {
+     "family": "Bellini",
+     "given": "C."
+    },
+    {
+     "family": "Boni",
+     "given": "M."
+    },
+    {
+     "family": "Ciampo",
+     "given": "G."
+    },
+    {
+     "family": "Ciattini",
+     "given": "F."
+    },
+    {
+     "family": "Di Donato",
+     "given": "V."
+    },
+    {
+     "family": "Esposito",
+     "given": "P."
+    },
+    {
+     "family": "Fameli",
+     "given": "T."
+    },
+    {
+     "family": "Fioravanti",
+     "given": "M."
+    },
+    {
+     "family": "Mariotti Lippi",
+     "given": "M."
+    },
+    {
+     "family": "Petti",
+     "given": "C."
+    },
+    {
+     "family": "Saccone",
+     "given": "G."
+    },
+    {
+     "family": "Scala",
+     "given": "C."
+    }
+   ],
+   "date": "2012",
+   "title": "Geoarcheologia e ricostruzione del paesaggio archeologico",
+   "editors": [
+    {
+     "family": "Cicirelli",
+     "given": "C."
+    },
+    {
+     "family": "Albore Livadie",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "L’abitato protostorico di Poggiomarino. Località Longola. Campagne di scavo 2000-2004"
+   ],
+   "pages": "26-44",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "Di Palma F., Gabrielli R., Miccoli I., Scardozzi G. 2023, The study of Limes Arabicus using aerial and satellite remote sensing documentation. The case of Umm ar-Rasas (Amman, Jordan), in Proceedings of the IMEKO TC4 International Conference on Metrology for Archaeology and Cultural Heritage (Rome 2023), Budapest, International Measurement Confederation (IMEKO), 316-319 (https://www.imeko.org/publica-tions/tc4-Archaeo-2023/IMEKO-MetroArchaeo-2023-060.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Palma",
+     "given": "F."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Miccoli",
+     "given": "I."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2023",
+   "title": "The study of Limes Arabicus using aerial and satellite remote sensing documentation. The case of Umm ar-Rasas (Amman, Jordan)",
+   "is_part_of": [
+    "Proceedings of the IMEKO TC4 International Conference on Metrology for Archaeology and Cultural Heritage (Rome 2023)"
+   ],
+   "pages": "316-319",
+   "publisher": "International Measurement Confederation (IMEKO)",
+   "place": "Budapest",
+   "uri": "https://www.imeko.org/publications/tc4-Archaeo-2023/IMEKO-MetroArchaeo-2023-060.pdf",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Di Rita F., Molisso F., Sacchi M. 2018, Late Holocene environmental dynamics, vegetation history, human impact, and climate change in the ancient Literna Palus (Lago Patria; Campania, Italy), «Review of Palaeobotany and Palynology», 258, 48-61.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Rita",
+     "given": "F."
+    },
+    {
+     "family": "Molisso",
+     "given": "F."
+    },
+    {
+     "family": "Sacchi",
+     "given": "M."
+    }
+   ],
+   "date": "2018",
+   "title": "Late Holocene environmental dynamics, vegetation history, human impact, and climate change in the ancient Literna Palus (Lago Patria; Campania, Italy)",
+   "is_part_of": [
+    "Review of Palaeobotany and Palynology"
+   ],
+   "volume": "258",
+   "pages": "48-61",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "Di Vito M.A., Castaldo N., Vecchio G., De Vita S. 2013, L’approccio geologico allo studio dell’interazione tra attività vulcanica e vita dell’uomo: esempi dalla Campania, Miscellanea INGV, 18, 9-13.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Vito",
+     "given": "M.A."
+    },
+    {
+     "family": "Castaldo",
+     "given": "N."
+    },
+    {
+     "family": "Vecchio",
+     "given": "G."
+    },
+    {
+     "family": "De Vita",
+     "given": "S."
+    }
+   ],
+   "date": "2013",
+   "title": "L’approccio geologico allo studio dell’interazione tra attività volcanica e vita dell’uomo: esempi dalla Campania",
+   "is_part_of": [
+    "Miscellanea INGV"
+   ],
+   "volume": "18",
+   "pages": "9-13",
+   "language": "ita"
+  },
+  {
+   "position": 21,
+   "raw": "Fiantis D., Ginting F.I., Nelson M., Minasny B. 2019, Volcanic ash, insecurity for the people but securing fertile soil for the future, «Sustainability», 11, 1-19.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiantis",
+     "given": "D."
+    },
+    {
+     "family": "Ginting",
+     "given": "F.I."
+    },
+    {
+     "family": "Nelson",
+     "given": "M."
+    },
+    {
+     "family": "Minasny",
+     "given": "B."
+    }
+   ],
+   "date": "2019",
+   "title": "Volcanic ash, insecurity for the people but securing fertile soil for the future",
+   "is_part_of": [
+    "Sustainability"
+   ],
+   "volume": "11",
+   "pages": "1-19",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "Forte M., Campana S. (eds.) 2016, Digital Methods and Remote Sensing in Archaeology. Archaeology in the Age of Sensing, Cham, Springer.",
+   "type": "book",
+   "date": "2016",
+   "title": "Digital Methods and Remote Sensing in Archaeology. Archaeology in the Age of Sensing",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "publisher": "Springer",
+   "place": "Cham",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Iamarino M., Terribile F. 2008, The importance of andic soils in mountain ecosystems: A pedological investigation in Italy, «European Journal of Soil Science», 59, 6, 1284-1292.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Iamarino",
+     "given": "M."
+    },
+    {
+     "family": "Terribile",
+     "given": "F."
+    }
+   ],
+   "date": "2008",
+   "title": "The importance of andic soils in mountain ecosystems: A pedological investigation in Italy",
+   "is_part_of": [
+    "European Journal of Soil Science"
+   ],
+   "volume": "59",
+   "issue": "6",
+   "pages": "1284-1292",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "James P., Chester D.K., Duncan A.M. 2000, Volcanic soils: Their nature and significance for archaeology, «Geological Society London Special Publications», 171, 1, 317-338.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "James",
+     "given": "P."
+    },
+    {
+     "family": "Chester",
+     "given": "D.K."
+    },
+    {
+     "family": "Duncan",
+     "given": "A.M."
+    }
+   ],
+   "date": "2000",
+   "title": "Volcanic soils: Their nature and significance for archaeology",
+   "is_part_of": [
+    "Geological Society London Special Publications"
+   ],
+   "volume": "171",
+   "issue": "1",
+   "pages": "317-338",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "Laforgia E., Boenzi G. 2011, Nuovi dati sull’Eneolitico della piana campana dagli scavi A.V. in provincia di Napoli, in L’età del Rame in Italia, «Atti della XLIII Riunione Scientifica dell’Istituto Italiano di Preistoria e Protostoria», 249-255.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Laforgia",
+     "given": "E."
+    },
+    {
+     "family": "Boenzi",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "Nuovi dati sull’Eneolitico della piana campana dagli scavi A.V. in provincia di Napoli",
+   "is_part_of": [
+    "L’età del Rame in Italia, Atti della XLIII Riunione Scientifica dell’Istituto Italiano di Preistoria e Protostoria"
+   ],
+   "pages": "249-255",
+   "language": "ita"
+  },
+  {
+   "position": 26,
+   "raw": "Lasaponara R., Masini N. 2020, Big Earth data for Cultural Heritage in the Copernicus era, in Remote Sensing for Archaeology and Cultural Landscapes, Best Practices and Perspectives Across Europe and the Middle East, New York, Springer, 31-46.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lasaponara",
+     "given": "R."
+    },
+    {
+     "family": "Masini",
+     "given": "N."
+    }
+   ],
+   "date": "2020",
+   "title": "Big Earth data for Cultural Heritage in the Copernicus era",
+   "is_part_of": [
+    "Remote Sensing for Archaeology and Cultural Landscapes, Best Practices and Perspectives Across Europe and the Middle East"
+   ],
+   "pages": "31-46",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "Lasaponara R., Masini N., Scardozzi G. 2007, Immagini satellitari ad alta risoluzione e ricerca archeologica: applicazioni e casi di studio con riprese pancromatiche e multispettrali di QuickBird, «Archeologia e Calcolatori», 18, 187-227(https://www.archcalc.cnr.it/journal/articles/441).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lasaponara",
+     "given": "R."
+    },
+    {
+     "family": "Masini",
+     "given": "N."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "Immagini satellitari ad alta risoluzione e ricerca archeologica: applicazioni e casi di studio con riprese pancromatiche e multispettrali di QuickBird",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "18",
+   "pages": "187-227",
+   "uri": "https://www.archcalc.cnr.it/journal/articles/441",
+   "language": "ita",
+   "cited_aec_id": 441
+  },
+  {
+   "position": 28,
+   "raw": "Mercuri A.M., Florenzano A., Burjachs F., Giardini M., Kouli K., Masi A., Picornell-Gelabert L., Revelles J., Sadori L., Servera-Vives G., Torri P., Fyfe R. 2019, From influence to impact: The multifunctional land use in Mediterranean prehistory emerging from palynology of archaeological sites (8.0-2.8 ka BP), «The Holocene», 29, 5, 830-846.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mercuri",
+     "given": "A.M."
+    },
+    {
+     "family": "Florenzano",
+     "given": "A."
+    },
+    {
+     "family": "Burjachs",
+     "given": "F."
+    },
+    {
+     "family": "Giardini",
+     "given": "M."
+    },
+    {
+     "family": "Kouli",
+     "given": "K."
+    },
+    {
+     "family": "Masi",
+     "given": "A."
+    },
+    {
+     "family": "Picornell-Gelabert",
+     "given": "L."
+    },
+    {
+     "family": "Revelles",
+     "given": "J."
+    },
+    {
+     "family": "Sadori",
+     "given": "L."
+    },
+    {
+     "family": "Servera-Vives",
+     "given": "G."
+    },
+    {
+     "family": "Torri",
+     "given": "P."
+    },
+    {
+     "family": "Fyfe",
+     "given": "R."
+    }
+   ],
+   "date": "2019",
+   "title": "From influence to impact: The multifunctional land use in Mediterranean prehistory emerging from palynology of archaeological sites (8.0-2.8 ka BP)",
+   "is_part_of": [
+    "The Holocene"
+   ],
+   "volume": "29",
+   "issue": "5",
+   "pages": "830-846",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "Minieri L., Terribile F., Vingiani S. 2020, Le analisi pedologiche dei suoli sepolti dall’eruzione delle Pomici di Avellino a Nola e a Palma Campania, in C. Albore Livadie, G. Vecchio (eds.), Nola - Croce del Papa. Un villaggio sepolto dall’eruzione vesuviana delle Pomici di Avellino, Napoli, Centre Jean Bérard, 329-334.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Minieri",
+     "given": "L."
+    },
+    {
+     "family": "Terribile",
+     "given": "F."
+    },
+    {
+     "family": "Vingiani",
+     "given": "S."
+    }
+   ],
+   "date": "2020",
+   "title": "Le analisi pedologiche dei suoli sepolti dall’eruzione delle Pomici di Avellino a Nola e a Palma Campania",
+   "editors": [
+    {
+     "family": "Albore Livadie",
+     "given": "C."
+    },
+    {
+     "family": "Vecchio",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Nola - Croce del Papa. Un villaggio sepolto dall’eruzione vesuviana delle Pomici di Avellino"
+   ],
+   "pages": "329-334",
+   "publisher": "Centre Jean Bérard",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 30,
+   "raw": "Nakase D.K., Hartshorn A.S., Spielmann K.A., Hall S. 2014, Eolian deposition and soil fertility in a prehistoric agricultural complex in central Arizona, USA, «Geoarchaeology», 29, 79-97.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nakase",
+     "given": "D.K."
+    },
+    {
+     "family": "Hartshorn",
+     "given": "A.S."
+    },
+    {
+     "family": "Spielmann",
+     "given": "K.A."
+    },
+    {
+     "family": "Hall",
+     "given": "S."
+    }
+   ],
+   "date": "2014",
+   "title": "Eolian deposition and soil fertility in a prehistoric agricultural complex in central Arizona, USA",
+   "is_part_of": [
+    "Geoarchaeology"
+   ],
+   "volume": "29",
+   "pages": "79-97",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "Napoli R., Paolanti M., Di Ferdinando S. (eds.) 2019, Atlante dei suoli del Lazio, Roma, ARSIAL Regione Lazio.",
+   "type": "book",
+   "date": "2019",
+   "title": "Atlante dei suoli del Lazio",
+   "editors": [
+    {
+     "family": "Napoli",
+     "given": "R."
+    },
+    {
+     "family": "Paolanti",
+     "given": "M."
+    },
+    {
+     "family": "Di Ferdinando",
+     "given": "S."
+    }
+   ],
+   "publisher": "ARSIAL Regione Lazio",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 32,
+   "raw": "Nanzyo M. 2002, Unique properties of volcanic ash soils, «Global Environmental Research», 6, 83-97.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nanzyo",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Unique properties of volcanic ash soils",
+   "is_part_of": [
+    "Global Environmental Research"
+   ],
+   "volume": "6",
+   "pages": "83-97",
+   "language": "eng"
+  },
+  {
+   "position": 33,
+   "raw": "Pacciarelli M. 2001, Dal villaggio alla città. La svolta protourbana del 1000 a.C. nell’Italia tirrenica, Firenze, All’Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pacciarelli",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Dal villaggio alla città. La svolta protourbana del 1000 a.C. nell’Italia tirrenica",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 34,
+   "raw": "Pacciarelli M. 2013, Eccezionale sviluppo di insediamenti dal Neolitico all’età del ferro sui suoli di origine vulcanica della Calabria tirrenica, «Miscellanea INGV», 18, 134-136.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pacciarelli",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Eccezionale sviluppo di insediamenti dal Neolitico all’età del ferro sui suoli di origine vulcanica della Calabria tirrenica",
+   "is_part_of": [
+    "Miscellanea INGV"
+   ],
+   "volume": "18",
+   "pages": "134-136",
+   "language": "ita"
+  },
+  {
+   "position": 35,
+   "raw": "Pacciarelli M. 2017, Il ruolo dei centri d’altura nei sistemi territoriali protostorici della Calabria tirrenica, in L. Cicala, M. Pacciarelli (eds.), Centri fortificati indigeni della Calabria dalla protostoria all’età ellenistica, Atti del Convegno (Napoli 2014), Napoli, Naus, 31-50.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pacciarelli",
+     "given": "M."
+    }
+   ],
+   "date": "2017",
+   "title": "Il ruolo dei centri d’altura nei sistemi territoriali protostorici della Calabria tirrenica",
+   "editors": [
+    {
+     "family": "Cicala",
+     "given": "L."
+    },
+    {
+     "family": "Pacciarelli",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Centri fortificati indigeni della Calabria dalla protostoria all’età ellenistica, Atti del Convegno (Napoli 2014)"
+   ],
+   "pages": "31-50",
+   "publisher": "Naus",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 36,
+   "raw": "Pacciarelli M., Madonna S., Fiorillo L., Grilli F., Miranda P. 2022, Ricognizioni territoriali nella bassa valle del Fiora: campagna 2019, in S. Carosi, C. Casi, C. Regoli (eds.), Vulci Work in Progress, Atti del I Incontro internazionale (Vulci 2021), Acquapendente, Antiqua Res, 79-96.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pacciarelli",
+     "given": "M."
+    },
+    {
+     "family": "Madonna",
+     "given": "S."
+    },
+    {
+     "family": "Fiorillo",
+     "given": "L."
+    },
+    {
+     "family": "Grilli",
+     "given": "F."
+    },
+    {
+     "family": "Miranda",
+     "given": "P."
+    }
+   ],
+   "date": "2022",
+   "title": "Ricognizioni territoriali nella bassa valle del Fiora: campagna 2019",
+   "editors": [
+    {
+     "family": "Carosi",
+     "given": "S."
+    },
+    {
+     "family": "Casi",
+     "given": "C."
+    },
+    {
+     "family": "Regoli",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Vulci Work in Progress, Atti del I Incontro internazionale (Vulci 2021)"
+   ],
+   "pages": "79-96",
+   "publisher": "Antiqua Res",
+   "place": "Acquapendente",
+   "language": "ita"
+  },
+  {
+   "position": 37,
+   "raw": "Richards J.D., Jakobsson U., Novák D., Štular B., Wright H. 2021, Digital archiving in archaeology: The state of the art. Introduction, «Internet Archaeology», 58 (https://doi.org/10.11141/ia.58.23).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Richards",
+     "given": "J.D."
+    },
+    {
+     "family": "Jakobsson",
+     "given": "U."
+    },
+    {
+     "family": "Novák",
+     "given": "D."
+    },
+    {
+     "family": "Štular",
+     "given": "B."
+    },
+    {
+     "family": "Wright",
+     "given": "H."
+    }
+   ],
+   "date": "2021",
+   "title": "Digital archiving in archaeology: The state of the art. Introduction",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "58",
+   "doi": "10.11141/ia.58.23",
+   "language": "eng"
+  },
+  {
+   "position": 38,
+   "raw": "Rossi I., Paraciani N. 2021, IT applications to archaeology and the OA diamond journals’challenge. Enhancing access and reuse of textual and visual resources, «Archeologia e Calcolatori», 32.1, 325-347 (https://doi.org/10.19282/ac.32.1.2021.18).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rossi",
+     "given": "I."
+    },
+    {
+     "family": "Paraciani",
+     "given": "N."
+    }
+   ],
+   "date": "2021",
+   "title": "IT applications to archaeology and the OA diamond journals’ challenge. Enhancing access and reuse of textual and visual resources",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "32",
+   "issue": "1",
+   "pages": "325-347",
+   "doi": "10.19282/ac.32.1.2021.18",
+   "language": "eng",
+   "cited_aec_id": 1141
+  },
+  {
+   "position": 39,
+   "raw": "Ruiz P., Mana S., Gutiérrez A., Alarcón G., Garro J., Soto G.J. 2018, Geomorphological insights on human-volcano interactions and use of volcanic materials in pre-Hispanic cultures of Costa Rica through the Holocene, «Frontiers in Earth Science», 6, 1-22.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ruiz",
+     "given": "P."
+    },
+    {
+     "family": "Mana",
+     "given": "S."
+    },
+    {
+     "family": "Gutiérrez",
+     "given": "A."
+    },
+    {
+     "family": "Alarcón",
+     "given": "G."
+    },
+    {
+     "family": "Garro",
+     "given": "J."
+    },
+    {
+     "family": "Soto",
+     "given": "G.J."
+    }
+   ],
+   "date": "2018",
+   "title": "Geomorphological insights on human-volcano interactions and use of volcanic materials in pre-Hispanic cultures of Costa Rica through the Holocene",
+   "is_part_of": [
+    "Frontiers in Earth Science"
+   ],
+   "volume": "6",
+   "pages": "1-22",
+   "language": "eng"
+  },
+  {
+   "position": 40,
+   "raw": "Russo Ermolli E., Romano P., Ruello M.R., Barone Lumaga M.R. 2014, The natural and cultural landscape of Naples (southern Italy) during the Graeco-Roman and Late Antique periods, «Journal of Archaeological Science», 42, 399-411.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Russo Ermolli",
+     "given": "E."
+    },
+    {
+     "family": "Romano",
+     "given": "P."
+    },
+    {
+     "family": "Ruello",
+     "given": "M.R."
+    },
+    {
+     "family": "Barone Lumaga",
+     "given": "M.R."
+    }
+   ],
+   "date": "2014",
+   "title": "The natural and cultural landscape of Naples (southern Italy) during the Graeco-Roman and Late Antique periods",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "42",
+   "pages": "399-411",
+   "language": "eng"
+  },
+  {
+   "position": 41,
+   "raw": "Schreier G. 2020, Opportunities by the Copernicus program for archaeological research and world Heritage site conservation, in Remote Sensing for Archaeology and Cultural Landscapes, Best Practices and Perspectives Across Europe and the Middle East, New York, Springer, 3-18.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Schreier",
+     "given": "G."
+    }
+   ],
+   "date": "2020",
+   "title": "Opportunities by the Copernicus program for archaeological research and world Heritage site conservation",
+   "is_part_of": [
+    "Remote Sensing for Archaeology and Cultural Landscapes, Best Practices and Perspectives Across Europe and the Middle East"
+   ],
+   "pages": "3-18",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 42,
+   "raw": "Sorbello M. 1992, Irrigazione e bonifica nella Piana di Catania, Quaderni del Siculorum Gymnasium, II, 1-2, Catania.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sorbello",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Irrigazione e bonifica nella Piana di Catania",
+   "is_part_of": [
+    "Quaderni del Siculorum Gymnasium"
+   ],
+   "volume": "II",
+   "issue": "1-2",
+   "place": "Catania",
+   "language": "ita"
+  },
+  {
+   "position": 43,
+   "raw": "Talamo P. 2013, Sequenza culturale ed eventi vulcanici in Campania dal Neolitico alla fine dell’età del Bronzo, «Miscellanea INGV», 18, 100-104.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Talamo",
+     "given": "P."
+    }
+   ],
+   "date": "2013",
+   "title": "Sequenza culturale ed eventi vulcanici in Campania dal Neolitico alla fine dell’età del Bronzo",
+   "is_part_of": [
+    "Miscellanea INGV"
+   ],
+   "volume": "18",
+   "pages": "100-104",
+   "language": "ita"
+  },
+  {
+   "position": 44,
+   "raw": "Taylor R. 2015, Roman Neapolis and the landscape of disaster, «Journal of Ancient History», 3, 282-326.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Taylor",
+     "given": "R."
+    }
+   ],
+   "date": "2015",
+   "title": "Roman Neapolis and the landscape of disaster",
+   "is_part_of": [
+    "Journal of Ancient History"
+   ],
+   "volume": "3",
+   "pages": "282-326",
+   "language": "eng"
+  },
+  {
+   "position": 45,
+   "raw": "Terribile F., Mileti F.A., Minieri L., Vingiani S. 2013, Genesi, evoluzione e proprietà dei suoli vulcanici nei paesaggi campani, «Miscellanea INGV», 18, 63-66.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Terribile",
+     "given": "F."
+    },
+    {
+     "family": "Mileti",
+     "given": "F.A."
+    },
+    {
+     "family": "Minieri",
+     "given": "L."
+    },
+    {
+     "family": "Vingiani",
+     "given": "S."
+    }
+   ],
+   "date": "2013",
+   "title": "Genesi, evoluzione e proprietà dei suoli vulcanici nei paesaggi campani",
+   "is_part_of": [
+    "Miscellanea INGV"
+   ],
+   "volume": "18",
+   "pages": "63-66",
+   "language": "ita"
+  },
+  {
+   "position": 46,
+   "raw": "Traviglia A., Torsello A. 2017, Landscape pattern detection in archaeological remote sensing, «Geosciences», 7, 1-16.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Traviglia",
+     "given": "A."
+    },
+    {
+     "family": "Torsello",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Landscape pattern detection in archaeological remote sensing",
+   "is_part_of": [
+    "Geosciences"
+   ],
+   "volume": "7",
+   "pages": "1-16",
+   "language": "eng"
+  },
+  {
+   "position": 47,
+   "raw": "Verhoeven G. 2018, Satellite hyperspectral and multispectral imaging, in The Encyclopediacof Archaeological Sciences, Hoboken, Wiley, 1-4.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Verhoeven",
+     "given": "G."
+    }
+   ],
+   "date": "2018",
+   "title": "Satellite hyperspectral and multispectral imaging",
+   "is_part_of": [
+    "The Encyclopedia of Archaeological Sciences"
+   ],
+   "pages": "1-4",
+   "publisher": "Wiley",
+   "place": "Hoboken",
+   "language": "eng"
+  },
+  {
+   "position": 48,
+   "raw": "Vignola C., Bonetto J., Furlan G., Mazza M. 2021, At the origins of Pompeii: The plantclandscape of the Sarno River floodplain from the 1st millennium B.C. to the A.D. 79ceruption, «Vegetation history and Archaeobotany», 31, 171-186.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vignola",
+     "given": "C."
+    },
+    {
+     "family": "Bonetto",
+     "given": "J."
+    },
+    {
+     "family": "Furlan",
+     "given": "G."
+    },
+    {
+     "family": "Mazza",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "At the origins of Pompeii: The plant landscape of the Sarno River floodplain from the 1st millennium B.C. to the A.D. 79 eruption",
+   "is_part_of": [
+    "Vegetation History and Archaeobotany"
+   ],
+   "volume": "31",
+   "pages": "171-186",
+   "language": "eng"
+  },
+  {
+   "position": 49,
+   "raw": "Vingiani S., Buonanno M., Coraggio S., D’Antonio A. 2018, Soils of Aversa Plain (southern Italy), «Journal of Maps», 14, 2, 312-320.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vingiani",
+     "given": "S."
+    },
+    {
+     "family": "Buonanno",
+     "given": "M."
+    },
+    {
+     "family": "Coraggio",
+     "given": "S."
+    },
+    {
+     "family": "D’Antonio",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Soils of Aversa Plain (southern Italy)",
+   "is_part_of": [
+    "Journal of Maps"
+   ],
+   "volume": "14",
+   "issue": "2",
+   "pages": "312-320",
+   "language": "eng"
+  },
+  {
+   "position": 50,
+   "raw": "Wang Y., Liu Y. 2024, Development trend of remote sensing archaeology based on scientific literature, «Electronic Engineering and Informatics», 51, 247-254 (http://dx.doi.org/10.3233/ATDE240083).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wang",
+     "given": "Y."
+    },
+    {
+     "family": "Liu",
+     "given": "Y."
+    }
+   ],
+   "date": "2024",
+   "title": "Development trend of remote sensing archaeology based on scientific literature",
+   "is_part_of": [
+    "Electronic Engineering and Informatics"
+   ],
+   "volume": "51",
+   "pages": "247-254",
+   "doi": "10.3233/ATDE240083",
+   "language": "eng"
+  }
+ ]
+}

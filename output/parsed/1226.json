@@ -1,0 +1,345 @@
+{
+ "citing_aec_id": 1226,
+ "source_file": "data/journal/34/1226.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Doneus M., Neubauer W., Filzwieser R., Sevara C. 2022, *Stratigraphy from topography II. The practical application of the Harris matrix for the GIS-based spatio-temporal archaeological interpretation of topographical data*, «Archaeologia Austriaca», 106, 223-252 (https://doi.org/10.1553/archaeologia106s223).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Doneus",
+     "given": "M."
+    },
+    {
+     "family": "Neubauer",
+     "given": "W."
+    },
+    {
+     "family": "Filzwieser",
+     "given": "R."
+    },
+    {
+     "family": "Sevara",
+     "given": "C."
+    }
+   ],
+   "date": "2022",
+   "title": "Stratigraphy from topography II. The practical application of the Harris matrix for the GIS-based spatio-temporal archaeological interpretation of topographical data",
+   "is_part_of": [
+    "Archaeologia Austriaca"
+   ],
+   "volume": "106",
+   "pages": "223-252",
+   "doi": "10.1553/archaeologia106s223",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Fronza V., Nardini A., Valenti M. 2009, *Informatica e archeologia medievale*, Metodi e temi dell'archeologia medievale 2, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    },
+    {
+     "family": "Nardini",
+     "given": "A."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Informatica e archeologia medievale",
+   "series": "Metodi e temi dell'archeologia medievale",
+   "series_number": "2",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "La Salvia V., Moderato M., Gallucci L., Gemma M., Mauro G., Mirabella M., Papa L., Pergola I. 2022, *\"Castelseprio, centro di potere\". Lo scavo di Casa Piccoli: la ripresa dei lavori dopo le indagini degli anni '70 e '80 del secolo scorso*, in M. Milanese (ed.), *IX Congresso nazionale di Archeologia medievale*, Firenze, All'Insegna del Giglio, 405-409.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "La Salvia",
+     "given": "V."
+    },
+    {
+     "family": "Moderato",
+     "given": "M."
+    },
+    {
+     "family": "Gallucci",
+     "given": "L."
+    },
+    {
+     "family": "Gemma",
+     "given": "M."
+    },
+    {
+     "family": "Mauro",
+     "given": "G."
+    },
+    {
+     "family": "Mirabella",
+     "given": "M."
+    },
+    {
+     "family": "Papa",
+     "given": "L."
+    },
+    {
+     "family": "Pergola",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Milanese",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "\"Castelseprio, centro di potere\". Lo scavo di Casa Piccoli: la ripresa dei lavori dopo le indagini degli anni '70 e '80 del secolo scorso",
+   "is_part_of": [
+    "IX Congresso nazionale di Archeologia medievale"
+   ],
+   "pages": "405-409",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Mandolesi L. 2009, *pyArchInit - python, QGIS e PostgreSQL per la gestione dei dati di scavo*, in P. Cignoni, A. Palombini, S. Pescarin (eds.), *ArcheoFOSS Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del IV Workshop (Roma 2009)*, «Archeologia e Calcolatori», Suppl. 2, 209-222 (http://www.archcalc.cnr.it/indice/Suppl_2/20_Mandolesi.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cignoni",
+     "given": "P."
+    },
+    {
+     "family": "Palombini",
+     "given": "A."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "pyArchInit - python, QGIS e PostgreSQL per la gestione dei dati di scavo",
+   "is_part_of": [
+    "ArcheoFOSS Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del IV Workshop (Roma 2009)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 2",
+   "pages": "209-222",
+   "uri": "http://www.archcalc.cnr.it/indice/Suppl_2/20_Mandolesi.pdf",
+   "language": "ita",
+   "cited_aec_id": 549,
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Mandolesi L., Cocca E. 2013, *PyArchInit: gli sviluppi dopo ArcheoFoss 2009*, in M. Serlorenzi (ed.), *ArcheoFOSS Free, Libre and Open Source Software e Open format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012)*, «Archeologia e Calcolatori», Suppl. 4, 128-138 (http://www.archcalc.cnr.it/indice/Suppl_4/14_Mandolesi_Cocca.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    },
+    {
+     "family": "Cocca",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "PyArchInit: gli sviluppi dopo ArcheoFoss 2009",
+   "is_part_of": [
+    "ArcheoFOSS Free, Libre and Open Source Software e Open format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 4",
+   "pages": "128-138",
+   "uri": "http://www.archcalc.cnr.it/indice/Suppl_4/14_Mandolesi_Cocca.pdf",
+   "language": "ita",
+   "cited_aec_id": 697,
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Mandolesi L., Montagnetti R., Pickel D.G. 2022, *Come nasce una base GIS per l'archeologia opensource, sviluppata da archeologi per gli archeologi: lo scavo di Poggio Gramignano, Lugnano in Teverina (TR)*, «Archeologia e Calcolatori», 33.1, 93-112 (https://doi.org/10.19282/ac.33.1.2022.06).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    },
+    {
+     "family": "Montagnetti",
+     "given": "R."
+    },
+    {
+     "family": "Pickel",
+     "given": "D.G."
+    }
+   ],
+   "date": "2022",
+   "title": "Come nasce una base GIS per l'archeologia opensource, sviluppata da archeologi per gli archeologi: lo scavo di Poggio Gramignano, Lugnano in Teverina (TR)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "33",
+   "issue": "1",
+   "pages": "93-112",
+   "doi": "10.19282/ac.33.1.2022.06",
+   "language": "ita",
+   "cited_aec_id": 1188,
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Marwick B. 2017, *Open science in archaeology*, «The SAA Archaeological Record», 17, 4, 8-14 (https://doi.org/10.17605/OSF.IO/3D6XX).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Marwick",
+     "given": "B."
+    }
+   ],
+   "date": "2017",
+   "title": "Open science in archaeology",
+   "is_part_of": [
+    "The SAA Archaeological Record"
+   ],
+   "volume": "17",
+   "issue": "4",
+   "pages": "8-14",
+   "doi": "10.17605/OSF.IO/3D6XX",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Montagnetti R., Mandolesi L. 2019, *QGIS, pyArchInit and Blender: Surveying and management of archaeological data with open source solutions*, «Archeomatica», 10, 4 (https://doi.org/10.48258/arc.v10i4.1706).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Montagnetti",
+     "given": "R."
+    },
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    }
+   ],
+   "date": "2019",
+   "title": "QGIS, pyArchInit and Blender: Surveying and management of archaeological data with open source solutions",
+   "is_part_of": [
+    "Archeomatica"
+   ],
+   "volume": "10",
+   "issue": "4",
+   "doi": "10.48258/arc.v10i4.1706",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Psarros D., Stamatopoulos M.I., Anagnostopoulos C.N. 2022, *Information Technology and archaeological excavations: A brief overview*, «Scientific Culture», 8, 2, 147-167 (https://doi.org/10.5281/zenodo.6323149).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Psarros",
+     "given": "D."
+    },
+    {
+     "family": "Stamatopoulos",
+     "given": "M.I."
+    },
+    {
+     "family": "Anagnostopoulos",
+     "given": "C.N."
+    }
+   ],
+   "date": "2022",
+   "title": "Information Technology and archaeological excavations: A brief overview",
+   "is_part_of": [
+    "Scientific Culture"
+   ],
+   "volume": "8",
+   "issue": "2",
+   "pages": "147-167",
+   "doi": "10.5281/zenodo.6323149",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Ullah I., Clow Z., Meling J. 2023, *Paradigm or Practice? Situating GIS in contemporary archaeological method and theory*, Preprint (https://doi.org/10.21203/rs.3.rs-2613634/v1).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Ullah",
+     "given": "I."
+    },
+    {
+     "family": "Clow",
+     "given": "Z."
+    },
+    {
+     "family": "Meling",
+     "given": "J."
+    }
+   ],
+   "date": "2023",
+   "title": "Paradigm or Practice? Situating GIS in contemporary archaeological method and theory",
+   "doi": "10.21203/rs.3.rs-2613634/v1",
+   "language": "eng",
+   "notes": "preprint",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Wilson A.T., Edwards B. (eds.) 2015, *Open source archaeology: Ethics and practice*, De Gruyter Open (https://doi.org/10.1515/9783110440171).",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Wilson",
+     "given": "A.T."
+    },
+    {
+     "family": "Edwards",
+     "given": "B."
+    }
+   ],
+   "date": "2015",
+   "title": "Open source archaeology: Ethics and practice",
+   "publisher": "De Gruyter Open",
+   "doi": "10.1515/9783110440171",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

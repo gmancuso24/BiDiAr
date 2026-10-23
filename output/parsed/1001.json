@@ -1,0 +1,1218 @@
+{
+ "citing_aec_id": 1001,
+ "source_file": "data/journal/29/1001.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Atzeni C., Sanna U., Spanu N. 2006, Applicazioni della matematica fuzzy per la selezione dei progetti conservativi nei siti archeologici, «Archeologia e Calcolatori», 17, 83-94.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Atzeni",
+     "given": "C."
+    },
+    {
+     "family": "Sanna",
+     "given": "U."
+    },
+    {
+     "family": "Spanu",
+     "given": "N."
+    }
+   ],
+   "date": "2006",
+   "title": "Applicazioni della matematica fuzzy per la selezione dei progetti conservativi nei siti archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "17",
+   "pages": "83-94",
+   "language": "ita",
+   "cited_aec_id": 421,
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Baxter M.J. 2009, Archaeological data analysis and fuzzy clustering, «Archaeometry», 51, 6, 1035-1054.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    }
+   ],
+   "date": "2009",
+   "title": "Archaeological data analysis and fuzzy clustering",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "51",
+   "issue": "6",
+   "pages": "1035-1054",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Borda M. 1946, Arte cretese-micenea nel Museo Pigorini di Roma, Roma, Libreria dello Stato.",
+   "type": "book",
+   "date": "1946",
+   "title": "Arte cretese-micenea nel Museo Pigorini di Roma",
+   "creators": [
+    {
+     "family": "Borda",
+     "given": "M."
+    }
+   ],
+   "publisher": "Libreria dello Stato",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Borodkin L.I., Garskova I.M. 1995, Analytical procedure for multidimensional hierarchical data, in B. Genito, M.G. Moskova (eds.), Statistical Analyses of Burial Customs of the Sauromatian Period in Asian Sarmata (6th-4th Centuries B.C.), Napoli, Istituto Universitario Orientale, 63-114.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Borodkin",
+     "given": "L.I."
+    },
+    {
+     "family": "Garskova",
+     "given": "I.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Genito",
+     "given": "B."
+    },
+    {
+     "family": "Moskova",
+     "given": "M.G."
+    }
+   ],
+   "date": "1995",
+   "title": "Analytical procedure for multidimensional hierarchical data",
+   "is_part_of": [
+    "Statistical Analyses of Burial Customs of the Sauromatian Period in Asian Sarmata (6th-4th Centuries B.C.)"
+   ],
+   "pages": "63-114",
+   "publisher": "Istituto Universitario Orientale",
+   "place": "Napoli",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Canal E., Cavazzoni S. 1990, Antichi insediamenti antropici nella laguna di Venezia: analisi multivariata di tipo \"Fuzzy C-Means Clustering\", «Archeologia e Calcolatori», 1, 165-177.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Canal",
+     "given": "E."
+    },
+    {
+     "family": "Cavazzoni",
+     "given": "S."
+    }
+   ],
+   "date": "1990",
+   "title": "Antichi insediamenti antropici nella laguna di Venezia: analisi multivariata di tipo \"Fuzzy C-Means Clustering\"",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "165-177",
+   "language": "ita",
+   "cited_aec_id": 10,
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Carinci F., Levi D. 1988, Festòs e la civiltà minoica II, Roma, Edizioni dell'Ateneo.",
+   "type": "book",
+   "date": "1988",
+   "title": "Festòs e la civiltà minoica",
+   "creators": [
+    {
+     "family": "Carinci",
+     "given": "F."
+    },
+    {
+     "family": "Levi",
+     "given": "D."
+    }
+   ],
+   "publisher": "Edizioni dell'Ateneo",
+   "place": "Roma",
+   "language": "ita",
+   "volume": "II",
+   "notes": "tome II cited after the title",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "CMS 1964-2011, Corpus der Minoischen und Mykenischen Siegel, vol. I-XIII, suppl. 1-9, Berlin, Gebrüder Mann.",
+   "type": "book",
+   "date": "1964-2011",
+   "title": "Corpus der Minoischen und Mykenischen Siegel",
+   "publisher": "Gebrüder Mann",
+   "place": "Berlin",
+   "language": "ger",
+   "volume": "I-XIII, suppl. 1-9",
+   "notes": "cited as 'CMS'; a whole series cited at once (vol. I-XIII, suppl. 1-9)",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Crescioli M., D'Andrea A., Niccolucci F. 2000, A GIS-based analysis of the Etruscan cemetery of Pontecagnano using fuzzy logic, in G.R. Lock (ed.), Beyond the Map: Archaeology and Spatial Technologies, Amsterdam, IOS Press, 157-179.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Crescioli",
+     "given": "M."
+    },
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G.R."
+    }
+   ],
+   "date": "2000",
+   "title": "A GIS-based analysis of the Etruscan cemetery of Pontecagnano using fuzzy logic",
+   "is_part_of": [
+    "Beyond the Map: Archaeology and Spatial Technologies"
+   ],
+   "pages": "157-179",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Crescioli M., D'Andrea A., Niccolucci F. 2002, Archaeological applications of fuzzy databases, in G. Burenhult, J. Arvidsson (eds.), Archaeological Informatics: Pushing the Envelope. Proceedings of CAA 2001, BAR International Series 1016, Oxford, Archaeopress, 107-116.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Crescioli",
+     "given": "M."
+    },
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    },
+    {
+     "family": "Arvidsson",
+     "given": "J."
+    }
+   ],
+   "date": "2002",
+   "title": "Archaeological applications of fuzzy databases",
+   "is_part_of": [
+    "Archaeological Informatics: Pushing the Envelope. Proceedings of CAA 2001"
+   ],
+   "pages": "107-116",
+   "series": "BAR International Series",
+   "series_number": "1016",
+   "publisher": "Archeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "D'Agata A.L. 1999, Haghia Triada 2. Statuette minoiche e post-minoiche dai vecchi scavi di Haghia Triada (Creta), Monografie della Scuola archeologica di Atene e delle missioni italiane in Oriente XI, Padova, Aldo Ausilio Editore.",
+   "type": "book",
+   "date": "1999",
+   "title": "Haghia Triada 2. Statuette minoiche e post-minoiche dai vecchi scavi di Haghia Triada (Creta)",
+   "creators": [
+    {
+     "family": "D'Agata",
+     "given": "A.L."
+    }
+   ],
+   "publisher": "Aldo Ausilio Editore",
+   "place": "Padova",
+   "language": "ita",
+   "series": "Monografie della Scuola archeologica di Atene e delle missioni italiane in Oriente",
+   "series_number": "XI",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "D'Andrea A. 2006, Documentazione archeologica, standard e trattamento informatico, Budapest.",
+   "type": "book",
+   "date": "2006",
+   "title": "Documentazione archeologica, standard e trattamento informatico",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    }
+   ],
+   "place": "Budapest",
+   "language": "ita",
+   "notes": "publisher not cited",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Evely R.D.G. 1993, Minoan Crafts: Tools and Techniques. An Introduction, Vol. I, Studies in Mediterranean Archaeology 92, 1, Göteborg, P. Åström.",
+   "type": "book",
+   "date": "1993",
+   "title": "Minoan Crafts: Tools and Techniques. An Introduction",
+   "creators": [
+    {
+     "family": "Evely",
+     "given": "R.D.G."
+    }
+   ],
+   "publisher": "P. Åström",
+   "place": "Göteborg",
+   "language": "eng",
+   "volume": "I",
+   "series": "Studies in Mediterranean Archaeology",
+   "series_number": "92, 1",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Evely R.D.G. 2000, Minoan Crafts: Tools and Techniques. An Introduction, Vol. II, Studies in Mediterranean Archaeology 92, 2, Jonsered, P. Åström.",
+   "type": "book",
+   "date": "2000",
+   "title": "Minoan Crafts: Tools and Techniques. An Introduction",
+   "creators": [
+    {
+     "family": "Evely",
+     "given": "R.D.G."
+    }
+   ],
+   "publisher": "P. Åström",
+   "place": "Jonsered",
+   "language": "eng",
+   "volume": "II",
+   "series": "Studies in Mediterranean Archaeology",
+   "series_number": "92, 2",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Farinetti E., Hermon S., Niccolucci F. 2010, Fuzzy Logic application to artifact surface survey data, in F. Niccolucci, S. Hermon (eds.), Beyond the Artifact. Digital Interpretation of the Past. Proceedings of CAA 2004 (Prato 2004), Budapest, Archaeolingua, 125-129.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Farinetti",
+     "given": "E."
+    },
+    {
+     "family": "Hermon",
+     "given": "S."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Hermon",
+     "given": "S."
+    }
+   ],
+   "date": "2010",
+   "title": "Fuzzy Logic application to artifact surface survey data",
+   "is_part_of": [
+    "Beyond the Artifact. Digital Interpretation of the Past. Proceedings of CAA 2004 (Prato 2004)"
+   ],
+   "pages": "125-129",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Figuera M. 2016, Complessità e flessibilità del dato archeologico: database management e metodo fuzzy, in M. Figuera, K. Zebrowska (eds.), International Course in Archaeology 'Papers in Mediterranean Archaeology', Syndesmoi 5, Quaderni del Corso di Laurea in Archeologia, opzione internazionale, Catania-Warsaw, Università degli Studi di Catania, 199-213.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Figuera",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Figuera",
+     "given": "M."
+    },
+    {
+     "family": "Zebrowska",
+     "given": "K."
+    }
+   ],
+   "date": "2016",
+   "title": "Complessità e flessibilità del dato archeologico: database management e metodo fuzzy",
+   "is_part_of": [
+    "International Course in Archaeology 'Papers in Mediterranean Archaeology'"
+   ],
+   "pages": "199-213",
+   "series": "Syndesmoi. Quaderni del Corso di Laurea in Archeologia, opzione internazionale",
+   "series_number": "5",
+   "publisher": "Università degli Studi di Catania",
+   "place": "Catania-Warsaw",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Figuera M. 2017, Small finds analysis: Typology and function. A case study from Phaistos, in K. Zebrowska, A. Ulanowska, K. Lewartowski (eds.), Sympozjum Egejskie. Papers in Aegean Archaeology 1, Warsaw, University of Warsaw, Institute of Archaeology, 27-38.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Figuera",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Zebrowska",
+     "given": "K."
+    },
+    {
+     "family": "Ulanowska",
+     "given": "A."
+    },
+    {
+     "family": "Lewartowski",
+     "given": "K."
+    }
+   ],
+   "date": "2017",
+   "title": "Small finds analysis: Typology and function. A case study from Phaistos",
+   "is_part_of": [
+    "Sympozjum Egejskie. Papers in Aegean Archaeology"
+   ],
+   "pages": "27-38",
+   "publisher": "University of Warsaw, Institute of Archaeology",
+   "place": "Warsaw",
+   "language": "eng",
+   "notes": "volume number 1 cited after the title",
+   "volume": "1",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Fronza V. 2003, Principi di database management in archeologia: l'esperienza senese, in Atti del III Congresso Nazionale di Archeologia Medievale, Castello di Salerno, Complesso di Santa Sofia (Salerno 2003), Firenze, All'Insegna del Giglio, 629-632.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    }
+   ],
+   "date": "2003",
+   "title": "Principi di database management in archeologia: l'esperienza senese",
+   "is_part_of": [
+    "Atti del III Congresso Nazionale di Archeologia Medievale, Castello di Salerno, Complesso di Santa Sofia (Salerno 2003)"
+   ],
+   "pages": "629-632",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Harris T.M., Lock G. 1995, Toward an evaluation of GIS in European Archaeology: The past, present and future of theory and applications, in G. Lock, Z. Stančič (eds.), Archaeological and Geographical Information Systems: A European Perspective, London, CRC Press, 349-365.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "T.M."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Toward an evaluation of GIS in European Archaeology: The past, present and future of theory and applications",
+   "is_part_of": [
+    "Archaeological and Geographical Information Systems: A European Perspective"
+   ],
+   "pages": "349-365",
+   "publisher": "CRC Press",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Hatzinikolaou E., Hatzichristos T., Siolas A., Mantzourani E. 2003, Predicting archaeological site locations using G.I.S. and fuzzy logic, in M. Doerr, A. Sarris (eds.), The Digital Heritage of Archaeology. Proceedings of CAA 2002 (Heraklion 2002), Athens, Hellenic Ministry of Culture, 169-177.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hatzinikolaou",
+     "given": "E."
+    },
+    {
+     "family": "Hatzichristos",
+     "given": "T."
+    },
+    {
+     "family": "Siolas",
+     "given": "A."
+    },
+    {
+     "family": "Mantzourani",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "date": "2003",
+   "title": "Predicting archaeological site locations using G.I.S. and fuzzy logic",
+   "is_part_of": [
+    "The Digital Heritage of Archaeology. Proceedings of CAA 2002 (Heraklion 2002)"
+   ],
+   "pages": "169-177",
+   "publisher": "Hellenic Ministry of Culture",
+   "place": "Athens",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Hermon S., Niccolucci F. 2002, Estimating subjectivity of typologists and typological classification with fuzzy logic, «Archeologia e Calcolatori», 13, 217-232.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hermon",
+     "given": "S."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "Estimating subjectivity of typologists and typological classification with fuzzy logic",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "pages": "217-232",
+   "language": "eng",
+   "cited_aec_id": 347,
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Hermon S., Niccolucci F. 2003a, La logica fuzzy e le sue applicazioni alla ricerca archeologica, «Archeologia e Calcolatori», 14, 97-110.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hermon",
+     "given": "S."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2003",
+   "title": "La logica fuzzy e le sue applicazioni alla ricerca archeologica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "14",
+   "pages": "97-110",
+   "language": "ita",
+   "cited_aec_id": 355,
+   "notes": "cited as 2003a",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Hermon S., Niccolucci F. 2003b, A fuzzy logic approach to typology in archaeological research, in M. Doerr, A. Sarris (eds.), The Digital Heritage of Archaeology. Proceedings of CAA 2002 (Heraklion 2002), Athens, Hellenic Ministry of Culture, 307-310.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hermon",
+     "given": "S."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "date": "2003",
+   "title": "A fuzzy logic approach to typology in archaeological research",
+   "is_part_of": [
+    "The Digital Heritage of Archaeology. Proceedings of CAA 2002 (Heraklion 2002)"
+   ],
+   "pages": "307-310",
+   "publisher": "Hellenic Ministry of Culture",
+   "place": "Athens",
+   "language": "eng",
+   "notes": "cited as 2003b",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Hermon S., Niccolucci F. 2017, Formally defining the time-space-archaeological culture relation: problems and prospects, «Archeologia e Calcolatori», 28, 93-108.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hermon",
+     "given": "S."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2017",
+   "title": "Formally defining the time-space-archaeological culture relation: problems and prospects",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "pages": "93-108",
+   "language": "eng",
+   "cited_aec_id": 899,
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Hermon S., Niccolucci F., Alhaique F., Iovino M.-R., Leonini V. 2004, Archaeological typologies – an archaeological fuzzy reality, in K.F. Ausserer et al. (eds.), Enter the Past. The E-way into the four Dimensions of Cultural Heritage. Proceedings of CAA 2003 (Vienna 2003), BAR International Series 1227, Oxford, Archaeopress, 30-33.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hermon",
+     "given": "S."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Alhaique",
+     "given": "F."
+    },
+    {
+     "family": "Iovino",
+     "given": "M.-R."
+    },
+    {
+     "family": "Leonini",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ausserer",
+     "given": "K.F."
+    }
+   ],
+   "date": "2004",
+   "title": "Archaeological typologies – an archaeological fuzzy reality",
+   "is_part_of": [
+    "Enter the Past. The E-way into the four Dimensions of Cultural Heritage. Proceedings of CAA 2003 (Vienna 2003)"
+   ],
+   "pages": "30-33",
+   "series": "BAR International Series",
+   "series_number": "1227",
+   "publisher": "Archeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "editors cited 'K.F. Ausserer et al.' (only first editor)",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Jaroslaw J., Hildebrandt-Radke I. 2009, Using multivariate statistics and fuzzy logic system to analyse settlement preferences in lowland areas of the temperate zone: An example from the Polish Lowlands, «Journal of Archaeological Science», 36, 2096-2107.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jaroslaw",
+     "given": "J."
+    },
+    {
+     "family": "Hildebrandt-Radke",
+     "given": "I."
+    }
+   ],
+   "date": "2009",
+   "title": "Using multivariate statistics and fuzzy logic system to analyse settlement preferences in lowland areas of the temperate zone: An example from the Polish Lowlands",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "36",
+   "pages": "2096-2107",
+   "language": "eng",
+   "notes": "first author cited as 'Jaroslaw J.', kept as cited",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "La Rosa V. 2000, Per i cento anni dello scavo di Festòs, «Creta Antica», 1, 13-41.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "La Rosa",
+     "given": "V."
+    }
+   ],
+   "date": "2000",
+   "title": "Per i cento anni dello scavo di Festòs",
+   "is_part_of": [
+    "Creta Antica"
+   ],
+   "volume": "1",
+   "pages": "13-41",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "La Rosa V. 2003, «Il colle sul quale sorge la chiesa ad ovest è tutto seminato di cocci...». Vicende e temi di uno scavo di lungo corso, «Creta Antica», 4, 11-67.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "La Rosa",
+     "given": "V."
+    }
+   ],
+   "date": "2003",
+   "title": "«Il colle sul quale sorge la chiesa ad ovest è tutto seminato di cocci...». Vicende e temi di uno scavo di lungo corso",
+   "is_part_of": [
+    "Creta Antica"
+   ],
+   "volume": "4",
+   "pages": "11-67",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Levi D. 1952-54, La campagna di scavi a Festòs nel 1953, «Annuario della R. Scuola Archeologica di Atene e delle missioni italiane in Oriente», 30-32, 389-469.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Levi",
+     "given": "D."
+    }
+   ],
+   "date": "1952-1954",
+   "title": "La campagna di scavi a Festòs nel 1953",
+   "is_part_of": [
+    "Annuario della R. Scuola Archeologica di Atene e delle missioni italiane in Oriente"
+   ],
+   "volume": "30-32",
+   "pages": "389-469",
+   "language": "ita",
+   "notes": "date cited '1952-54'",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Levi D. 1976, Festòs e la civiltà minoica, Roma, Edizioni dell'Ateneo.",
+   "type": "book",
+   "date": "1976",
+   "title": "Festòs e la civiltà minoica",
+   "creators": [
+    {
+     "family": "Levi",
+     "given": "D."
+    }
+   ],
+   "publisher": "Edizioni dell'Ateneo",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Mancinelli M.L. 2015, Nota introduttiva alle normative per la catalogazione dei beni archeologici, Roma, Istituto Centrale per il Catalogo e la Documentazione - Servizio Beni Archeologici, MiBACT.",
+   "type": "other",
+   "date": "2015",
+   "title": "Nota introduttiva alle normative per la catalogazione dei beni archeologici",
+   "creators": [
+    {
+     "family": "Mancinelli",
+     "given": "M.L."
+    }
+   ],
+   "publisher": "Istituto Centrale per il Catalogo e la Documentazione - Servizio Beni Archeologici, MiBACT",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "MiBACT 2009, Scheda Si, Sito Archeologico, Vocabolario per la compilazione dei campi OGTD, Definizione dell'oggetto, OGTT, Precisazione tipologica, aggiornamento 2009, Roma, Istituto Centrale per il Catalogo e la Documentazione.",
+   "type": "other",
+   "date": "2009",
+   "title": "Scheda Si, Sito Archeologico, Vocabolario per la compilazione dei campi OGTD, Definizione dell'oggetto, OGTT, Precisazione tipologica, aggiornamento 2009",
+   "creators": [
+    {
+     "family": "MiBACT",
+     "given": ""
+    }
+   ],
+   "publisher": "Istituto Centrale per il Catalogo e la Documentazione",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "MiBACT 2014a, Scheda RA, Reperti Archeologici, Thesaurus per la definizione di bene, versione 03, aggiornamento 2014, Roma, Istituto Centrale per il Catalogo e la Documentazione.",
+   "type": "other",
+   "date": "2014",
+   "title": "Scheda RA, Reperti Archeologici, Thesaurus per la definizione di bene, versione 03, aggiornamento 2014",
+   "creators": [
+    {
+     "family": "MiBACT",
+     "given": ""
+    }
+   ],
+   "publisher": "Istituto Centrale per il Catalogo e la Documentazione",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited as 2014a",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "MiBACT 2014b, Scheda RA, Reperti Archeologici, Vocabolario aperto per la compilazione del campo CLS, Categoria e produzione, aggiornamento 2014, Strumenti terminologici, Roma, Istituto Centrale per il Catalogo e la Documentazione.",
+   "type": "other",
+   "date": "2014",
+   "title": "Scheda RA, Reperti Archeologici, Vocabolario aperto per la compilazione del campo CLS, Categoria e produzione, aggiornamento 2014, Strumenti terminologici",
+   "creators": [
+    {
+     "family": "MiBACT",
+     "given": ""
+    }
+   ],
+   "publisher": "Istituto Centrale per il Catalogo e la Documentazione",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited as 2014b",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "MiBACT 2014-2015a, Normativa Ra, Reperti Archeologici, Versione 3.00, Norme Di Compilazione, aggiornamento 2014-2015_01, Roma, Istituto Centrale per il Catalogo e la Documentazione.",
+   "type": "other",
+   "date": "2014-2015",
+   "title": "Normativa Ra, Reperti Archeologici, Versione 3.00, Norme Di Compilazione, aggiornamento 2014-2015_01",
+   "creators": [
+    {
+     "family": "MiBACT",
+     "given": ""
+    }
+   ],
+   "publisher": "Istituto Centrale per il Catalogo e la Documentazione",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited as 2014-2015a",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "MiBACT 2014-2015b, Normativa SI, Siti Archeologici, Versione 3.00, Norme Di Compilazione, aggiornamento 2014-2015_01, Roma, Istituto Centrale per il Catalogo e la Documentazione.",
+   "type": "other",
+   "date": "2014-2015",
+   "title": "Normativa SI, Siti Archeologici, Versione 3.00, Norme Di Compilazione, aggiornamento 2014-2015_01",
+   "creators": [
+    {
+     "family": "MiBACT",
+     "given": ""
+    }
+   ],
+   "publisher": "Istituto Centrale per il Catalogo e la Documentazione",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited as 2014-2015b",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "MiBACT 2015, Normative per la catalogazione, Versione 3.00 e 3.01, Struttura dei dati: indicazioni di carattere generale, Roma, Istituto Centrale per il Catalogo e la Documentazione.",
+   "type": "other",
+   "date": "2015",
+   "title": "Normative per la catalogazione, Versione 3.00 e 3.01, Struttura dei dati: indicazioni di carattere generale",
+   "creators": [
+    {
+     "family": "MiBACT",
+     "given": ""
+    }
+   ],
+   "publisher": "Istituto Centrale per il Catalogo e la Documentazione",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Militello P. 2000, \"L'archivio di cretule\" del Vano 25 e un nuovo sigillo da Festòs, in M. Perna (ed.), Administrative Documents in the Aegean and their Near Eastern Counterparts, Proceedings of the International Colloquium (Napoli 1996), Torino, Ministero per i beni e le attività culturali, 221-243.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Militello",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Perna",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "\"L'archivio di cretule\" del Vano 25 e un nuovo sigillo da Festòs",
+   "is_part_of": [
+    "Administrative Documents in the Aegean and their Near Eastern Counterparts, Proceedings of the International Colloquium (Napoli 1996)"
+   ],
+   "pages": "221-243",
+   "publisher": "Ministero per i beni e le attività culturali",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Militello P. 2001a, Il periodo Medio Minoico II: L'attività amministrativa, in AA.VV., I cento anni dello scavo di Festòs (Roma 2000), Atti dei Convegni Lincei 173, Roma, Accademia Nazionale dei Lincei, 169-202.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Militello",
+     "given": "P."
+    }
+   ],
+   "date": "2001",
+   "title": "Il periodo Medio Minoico II: L'attività amministrativa",
+   "is_part_of": [
+    "I cento anni dello scavo di Festòs (Roma 2000)"
+   ],
+   "pages": "169-202",
+   "series": "Atti dei Convegni Lincei",
+   "series_number": "173",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited as 2001a; 'in AA.VV.': no editors",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Militello P. 2001b, Amministrazione e contabilità a Festòs I, «Creta Antica», 2, 29-42.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Militello",
+     "given": "P."
+    }
+   ],
+   "date": "2001",
+   "title": "Amministrazione e contabilità a Festòs I",
+   "is_part_of": [
+    "Creta Antica"
+   ],
+   "volume": "2",
+   "pages": "29-42",
+   "language": "ita",
+   "notes": "cited as 2001b",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Militello P. 2002, Amministrazione e contabilità a Festòs II. Il contesto archeologico dei documenti palatini, «Creta Antica», 3, 51-91.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Militello",
+     "given": "P."
+    }
+   ],
+   "date": "2002",
+   "title": "Amministrazione e contabilità a Festòs II. Il contesto archeologico dei documenti palatini",
+   "is_part_of": [
+    "Creta Antica"
+   ],
+   "volume": "3",
+   "pages": "51-91",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Militello P. 2014, Festòs e Haghia Triada. Rinvenimenti minori I. Materiale per la tessitura, Studi di Archeologia Cretese 11, Padova, Ausilio Editore.",
+   "type": "book",
+   "date": "2014",
+   "title": "Festòs e Haghia Triada. Rinvenimenti minori I. Materiale per la tessitura",
+   "creators": [
+    {
+     "family": "Militello",
+     "given": "P."
+    }
+   ],
+   "publisher": "Ausilio Editore",
+   "place": "Padova",
+   "language": "ita",
+   "series": "Studi di Archeologia Cretese",
+   "series_number": "11",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Niccolucci F., D'Andrea A., Crescioli M. 2001, Archaeological applications of fuzzy databases, in Z. Stančič, T. Veljanovski (eds.), Computing Archaeology for Understanding the Past. CAA 2000. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000), BAR International Series 931, Oxford, Archaeopress, 107-116.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Crescioli",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "Archaeological applications of fuzzy databases",
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. CAA 2000. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000)"
+   ],
+   "pages": "107-116",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "publisher": "Archeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Niccolucci F., Pardi G., Zoppi T. 1996, Un archivio georeferenziato di insediamenti archeologici, «Archeologia e Calcolatori», 7, 161-177.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Pardi",
+     "given": "G."
+    },
+    {
+     "family": "Zoppi",
+     "given": "T."
+    }
+   ],
+   "date": "1996",
+   "title": "Un archivio georeferenziato di insediamenti archeologici",
+   "is_part_of": [
+    "III International Symposium on Computing and Archaeology - Roma 22-25 novembre 1995",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "161-177",
+   "language": "ita",
+   "cited_aec_id": 134,
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Palio O. 2008, I vasi in pietra minoici da Festòs, Studi di Archeologia Cretese 5, Padova, Ausilio Editore.",
+   "type": "book",
+   "date": "2008",
+   "title": "I vasi in pietra minoici da Festòs",
+   "creators": [
+    {
+     "family": "Palio",
+     "given": "O."
+    }
+   ],
+   "publisher": "Ausilio Editore",
+   "place": "Padova",
+   "language": "ita",
+   "series": "Studi di Archeologia Cretese",
+   "series_number": "5",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Pernier L. 1902, Scavi della Missione Italiana a Phaestos 1900-1901, «Monumenti Antichi», 12, Roma, Accademia Nazionale dei Lincei, 5-142.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pernier",
+     "given": "L."
+    }
+   ],
+   "date": "1902",
+   "title": "Scavi della Missione Italiana a Phaestos 1900-1901",
+   "is_part_of": [
+    "Monumenti Antichi"
+   ],
+   "volume": "12",
+   "pages": "5-142",
+   "language": "ita",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Pernier L. 1904, Scavi della Missione Italiana a Phaestos 1902-1903. Rapporto preliminare, «Monumenti Antichi», 14, Roma, Accademia Nazionale dei Lincei, 313-492.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pernier",
+     "given": "L."
+    }
+   ],
+   "date": "1904",
+   "title": "Scavi della Missione Italiana a Phaestos 1902-1903. Rapporto preliminare",
+   "is_part_of": [
+    "Monumenti Antichi"
+   ],
+   "volume": "14",
+   "pages": "313-492",
+   "language": "ita",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "Pernier L. 1935, Il palazzo minoico di Festòs, Scavi e studi della Missione Archeologica Italiana a Creta dal 1900 al 1934, Gli strati più antichi e il primo palazzo, I, Roma, Libreria dello Stato.",
+   "type": "book",
+   "date": "1935",
+   "title": "Il palazzo minoico di Festòs, Scavi e studi della Missione Archeologica Italiana a Creta dal 1900 al 1934, Gli strati più antichi e il primo palazzo",
+   "creators": [
+    {
+     "family": "Pernier",
+     "given": "L."
+    }
+   ],
+   "publisher": "Libreria dello Stato",
+   "place": "Roma",
+   "language": "ita",
+   "volume": "I",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "Popa C.N., Knitter D. 2015, From environment to landscape. Reconstructing environment perception using numerical data, «Journal of Archaeological Method and Theory», 23, 4, 1265-1306 (https://doi.org/10.1007/s10816-015-9264-9).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Popa",
+     "given": "C.N."
+    },
+    {
+     "family": "Knitter",
+     "given": "D."
+    }
+   ],
+   "date": "2015",
+   "title": "From environment to landscape. Reconstructing environment perception using numerical data",
+   "is_part_of": [
+    "Journal of Archaeological Method and Theory"
+   ],
+   "volume": "23",
+   "issue": "4",
+   "pages": "1265-1306",
+   "language": "eng",
+   "doi": "10.1007/s10816-015-9264-9",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "Ryan N. 1996, Managing complexity: Archaeological Information Systems past, present and future, Paper presented at the British Association Annual Festival of Science, University of Birmingham, 8-13 September.",
+   "type": "other",
+   "date": "1996",
+   "title": "Managing complexity: Archaeological Information Systems past, present and future",
+   "creators": [
+    {
+     "family": "Ryan",
+     "given": "N."
+    }
+   ],
+   "language": "eng",
+   "notes": "Paper presented at the British Association Annual Festival of Science, University of Birmingham, 8-13 September",
+   "confidence": "high"
+  }
+ ]
+}

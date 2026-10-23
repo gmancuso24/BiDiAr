@@ -1,0 +1,1138 @@
+{
+ "citing_aec_id": 1395,
+ "source_file": "data/journal/36/1395.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Alaminos A. 2023, Introducción a la minería de texto y análisis de sentimiento con R, Alicante, Universidad de Alicante.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Alaminos",
+     "given": "A."
+    }
+   ],
+   "date": "2023",
+   "title": "Introducción a la minería de texto y análisis de sentimiento con R",
+   "publisher": "Universidad de Alicante",
+   "place": "Alicante",
+   "language": "spa"
+  },
+  {
+   "position": 2,
+   "raw": "Albanese V.E., Graziano T. 2021, The role of cultural heritage in wellbeing perceptions: A web-based software analysis in two Italian provinces, «Il Capitale Culturale. Studies on the Value of Cultural Heritage», 24, 293-324 (https://doi.org/1010.13138/2039-2362/2724).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Albanese",
+     "given": "V.E."
+    },
+    {
+     "family": "Graziano",
+     "given": "T."
+    }
+   ],
+   "date": "2021",
+   "title": "The role of cultural heritage in wellbeing perceptions: A web-based software analysis in two Italian provinces",
+   "is_part_of": [
+    "Il Capitale Culturale. Studies on the Value of Cultural Heritage"
+   ],
+   "volume": "24",
+   "pages": "293-324",
+   "doi": "10.13138/2039-2362/2724",
+   "language": "eng",
+   "notes": "doi as cited has typo 1010.13138"
+  },
+  {
+   "position": 3,
+   "raw": "Arce S., Díaz J., Cambronero B. 2023, Online hate speech and emotions on Twitter: A case study of Greta Thunberg at the UN Climate Change Conference COP25 in 2019, «Social Network Analysis and Mining», 13, 48, 1-13 (https://doi.org/10.1007/s13278023-01052-5).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arce",
+     "given": "S."
+    },
+    {
+     "family": "Díaz",
+     "given": "J."
+    },
+    {
+     "family": "Cambronero",
+     "given": "B."
+    }
+   ],
+   "date": "2023",
+   "title": "Online hate speech and emotions on Twitter: A case study of Greta Thunberg at the UN Climate Change Conference COP25 in 2019",
+   "is_part_of": [
+    "Social Network Analysis and Mining"
+   ],
+   "volume": "13",
+   "issue": "48",
+   "pages": "1-13",
+   "doi": "10.1007/s13278-023-01052-5",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Arce S., Menéndez M.I. 2018, Aplicaciones de la estadística al framing y la minería de texto, «Estudios de comunicación, Información, Cultura y Sociedad», 39, 61-70.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arce",
+     "given": "S."
+    },
+    {
+     "family": "Menéndez",
+     "given": "M.I."
+    }
+   ],
+   "date": "2018",
+   "title": "Aplicaciones de la estadística al framing y la minería de texto",
+   "is_part_of": [
+    "Estudios de comunicación, Información, Cultura y Sociedad"
+   ],
+   "volume": "39",
+   "pages": "61-70",
+   "language": "spa"
+  },
+  {
+   "position": 5,
+   "raw": "Carpenter J.P., Morrison S.A., Rosenberg J.M., Hawthorne K.A. 2023, Using social media in pre-service teacher education: The case of a program-wide Twitter hashtag, «Teaching and Teacher Education», 124, 104036 (https://doi.org/10.1016/j.tate.2023.104036).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carpenter",
+     "given": "J.P."
+    },
+    {
+     "family": "Morrison",
+     "given": "S.A."
+    },
+    {
+     "family": "Rosenberg",
+     "given": "J.M."
+    },
+    {
+     "family": "Hawthorne",
+     "given": "K.A."
+    }
+   ],
+   "date": "2023",
+   "title": "Using social media in pre-service teacher education: The case of a program-wide Twitter hashtag",
+   "is_part_of": [
+    "Teaching and Teacher Education"
+   ],
+   "volume": "124",
+   "pages": "104036",
+   "doi": "10.1016/j.tate.2023.104036",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Cuervo T., Arce S., Orviz N. 2023, Corporate social responsibility and its communication on Twitter: Analysis of the discourse and feelings generated in society, «Management Letters», 23, 1, 63-73 (https://doi.org/10.5295/cdg.211639tc).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cuervo",
+     "given": "T."
+    },
+    {
+     "family": "Arce",
+     "given": "S."
+    },
+    {
+     "family": "Orviz",
+     "given": "N."
+    }
+   ],
+   "date": "2023",
+   "title": "Corporate social responsibility and its communication on Twitter: Analysis of the discourse and feelings generated in society",
+   "is_part_of": [
+    "Management Letters"
+   ],
+   "volume": "23",
+   "issue": "1",
+   "pages": "63-73",
+   "doi": "10.5295/cdg.211639tc",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Damasio A.R. 1999, El error de Descartes: la razón de las emociones, Barcelona, Andres Bello.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Damasio",
+     "given": "A.R."
+    }
+   ],
+   "date": "1999",
+   "title": "El error de Descartes: la razón de las emociones",
+   "publisher": "Andres Bello",
+   "place": "Barcelona",
+   "language": "spa"
+  },
+  {
+   "position": 8,
+   "raw": "Ekman P. 1984, Expression and the nature of emotion, in K.R. Scherer, P. Ekman (eds.), Approaches To Emotion, New York, Psychology Press, 319-343.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ekman",
+     "given": "P."
+    }
+   ],
+   "date": "1984",
+   "title": "Expression and the nature of emotion",
+   "editors": [
+    {
+     "family": "Scherer",
+     "given": "K.R."
+    },
+    {
+     "family": "Ekman",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Approaches To Emotion"
+   ],
+   "pages": "319-343",
+   "publisher": "Psychology Press",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Ekman P. 1992, An argument for basic emotions, «Cognition and Emotion», 6, 3, 169-200.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ekman",
+     "given": "P."
+    }
+   ],
+   "date": "1992",
+   "title": "An argument for basic emotions",
+   "is_part_of": [
+    "Cognition and Emotion"
+   ],
+   "volume": "6",
+   "issue": "3",
+   "pages": "169-200",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Elosua P. 2009, Existe vida más allá del SPSS? Descubre R, «Psicothema», 21, 652-655.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Elosua",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Existe vida más allá del SPSS? Descubre R",
+   "is_part_of": [
+    "Psicothema"
+   ],
+   "volume": "21",
+   "pages": "652-655",
+   "language": "spa"
+  },
+  {
+   "position": 11,
+   "raw": "Eurostat 2024, Individuals using the Internet for participating in social networks (https:// ec.europa.eu/eurostat/databrowser/view/tin00127/default/table?lang=en. https://doi. org/10.2908/TIN00127).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Eurostat",
+     "given": ""
+    }
+   ],
+   "date": "2024",
+   "title": "Individuals using the Internet for participating in social networks",
+   "uri": "https://ec.europa.eu/eurostat/databrowser/view/tin00127/default/table?lang=en",
+   "doi": "10.2908/TIN00127",
+   "language": "eng",
+   "notes": "organisation as author"
+  },
+  {
+   "position": 12,
+   "raw": "Fernández A., Barrionuevo L. 2022, La difusión de la producción científica en el ámbito de las Humanidades: el caso de la Universidad de León, «Investigación Bibliotecológica: archivonomía, bibliotecología e información», 36, 90, 47-65 (http://dx.doi.org/10.22201/ iibi.24488321xe.2022.90.58486).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fernández",
+     "given": "A."
+    },
+    {
+     "family": "Barrionuevo",
+     "given": "L."
+    }
+   ],
+   "date": "2022",
+   "title": "La difusión de la producción científica en el ámbito de las Humanidades: el caso de la Universidad de León",
+   "is_part_of": [
+    "Investigación Bibliotecológica: archivonomía, bibliotecología e información"
+   ],
+   "volume": "36",
+   "issue": "90",
+   "pages": "47-65",
+   "doi": "10.22201/iibi.24488321xe.2022.90.58486",
+   "language": "spa"
+  },
+  {
+   "position": 13,
+   "raw": "Freiner I., Hornick H. 2023, tm: Text Mining Package, R package version 0.7-11 (https:// cran.r-project.org/web/packages/tm/tm.pdf.).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Freiner",
+     "given": "I."
+    },
+    {
+     "family": "Hornick",
+     "given": "H."
+    }
+   ],
+   "date": "2023",
+   "title": "tm: Text Mining Package, R package version 0.7-11",
+   "uri": "https://cran.r-project.org/web/packages/tm/tm.pdf",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Fridja N.H. 1986, The Emotions, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fridja",
+     "given": "N.H."
+    }
+   ],
+   "date": "1986",
+   "title": "The Emotions",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "García L.A., Iturralde E., Ramos J.A. 2023, Polarización del movimiento femininsta en México a partir de los métodos digitales, el análisis de sentimientos y los hashtags #UNAMFeminista y #UNAMSinTransfobia, «Paakat: Revista de Tecnología y Sociedad», 13, 25, 1-25 (http://dx.doi.org/10.32870/Pk.a13n25.800).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "García",
+     "given": "L.A."
+    },
+    {
+     "family": "Iturralde",
+     "given": "E."
+    },
+    {
+     "family": "Ramos",
+     "given": "J.A."
+    }
+   ],
+   "date": "2023",
+   "title": "Polarización del movimiento femininsta en México a partir de los métodos digitales, el análisis de sentimientos y los hashtags #UNAMFeminista y #UNAMSinTransfobia",
+   "is_part_of": [
+    "Paakat: Revista de Tecnología y Sociedad"
+   ],
+   "volume": "13",
+   "issue": "25",
+   "pages": "1-25",
+   "doi": "10.32870/Pk.a13n25.800",
+   "language": "spa"
+  },
+  {
+   "position": 16,
+   "raw": "Garzia F., Borghini F., Bruni A., Lombardi M., Mighetto P., Ramalingam S., Russo S.B. 2020, Emotional reactions to the perception of risk in the Pompeii archaeological park, «International Journal of Safety and Security Engineering», 10, 1, 11-16 (https:// doi.org/10.18280/ijsse.100102).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garzia",
+     "given": "F."
+    },
+    {
+     "family": "Borghini",
+     "given": "F."
+    },
+    {
+     "family": "Bruni",
+     "given": "A."
+    },
+    {
+     "family": "Lombardi",
+     "given": "M."
+    },
+    {
+     "family": "Mighetto",
+     "given": "P."
+    },
+    {
+     "family": "Ramalingam",
+     "given": "S."
+    },
+    {
+     "family": "Russo",
+     "given": "S.B."
+    }
+   ],
+   "date": "2020",
+   "title": "Emotional reactions to the perception of risk in the Pompeii archaeological park",
+   "is_part_of": [
+    "International Journal of Safety and Security Engineering"
+   ],
+   "volume": "10",
+   "issue": "1",
+   "pages": "11-16",
+   "doi": "10.18280/ijsse.100102",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Garzia F., Borghini F., Bruni A., Lombardi M., Mino L., Ramalingam S., Tricarico G. 2022, Sentiment and emotional analysis of risk perception in the Herculaneum archaeological park during COVID-19 pandemic, «Sensors», 22, 8138 (https://doi. org/10.3390/s22218138).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garzia",
+     "given": "F."
+    },
+    {
+     "family": "Borghini",
+     "given": "F."
+    },
+    {
+     "family": "Bruni",
+     "given": "A."
+    },
+    {
+     "family": "Lombardi",
+     "given": "M."
+    },
+    {
+     "family": "Mino",
+     "given": "L."
+    },
+    {
+     "family": "Ramalingam",
+     "given": "S."
+    },
+    {
+     "family": "Tricarico",
+     "given": "G."
+    }
+   ],
+   "date": "2022",
+   "title": "Sentiment and emotional analysis of risk perception in the Herculaneum archaeological park during COVID-19 pandemic",
+   "is_part_of": [
+    "Sensors"
+   ],
+   "volume": "22",
+   "pages": "8138",
+   "doi": "10.3390/s22218138",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Hernández R., Fernández C., Baptista P. 2010, Metodología de la investigación, México, McGrawHill.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hernández",
+     "given": "R."
+    },
+    {
+     "family": "Fernández",
+     "given": "C."
+    },
+    {
+     "family": "Baptista",
+     "given": "P."
+    }
+   ],
+   "date": "2010",
+   "title": "Metodología de la investigación",
+   "publisher": "McGraw-Hill",
+   "place": "México",
+   "language": "spa"
+  },
+  {
+   "position": 19,
+   "raw": "Hu M., Liu B. 2004, Mining and summarizing customer reviews, in Association for Computing Machinery, Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, New York, ACM, 168-177 (https://doi. org/10.1145/1014052).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hu",
+     "given": "M."
+    },
+    {
+     "family": "Liu",
+     "given": "B."
+    }
+   ],
+   "date": "2004",
+   "title": "Mining and summarizing customer reviews",
+   "is_part_of": [
+    "Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+   ],
+   "pages": "168-177",
+   "publisher": "ACM",
+   "place": "New York",
+   "doi": "10.1145/1014052",
+   "language": "eng",
+   "notes": "Association for Computing Machinery"
+  },
+  {
+   "position": 20,
+   "raw": "Isasi J. 2021, Análisis de sentimientos en R con ‘syuzhet’, «Programming Historian en español», 5 (https://doi.org/10.46430/phes0051).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Isasi",
+     "given": "J."
+    }
+   ],
+   "date": "2021",
+   "title": "Análisis de sentimientos en R con ‘syuzhet’",
+   "is_part_of": [
+    "Programming Historian en español"
+   ],
+   "volume": "5",
+   "doi": "10.46430/phes0051",
+   "language": "spa"
+  },
+  {
+   "position": 21,
+   "raw": "Jockers M.L. 2023, Introduction to the Syuzhet Package, 2023 (https://cran.r-project.org/ web/packages/syuzhet/vignettes/syuzhet-vignette.html).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Jockers",
+     "given": "M.L."
+    }
+   ],
+   "date": "2023",
+   "title": "Introduction to the Syuzhet Package",
+   "uri": "https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "La Rocca G., Boccia A.G. 2023, Interpreting the changeable meaning of hashtags: Toward the theorization of a model, «Frontiers in Sociology», 7, 1104686 (https://doi.org/10.3389/ fsoc.2022.1104686).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "La Rocca",
+     "given": "G."
+    },
+    {
+     "family": "Boccia",
+     "given": "A.G."
+    }
+   ],
+   "date": "2023",
+   "title": "Interpreting the changeable meaning of hashtags: Toward the theorization of a model",
+   "is_part_of": [
+    "Frontiers in Sociology"
+   ],
+   "volume": "7",
+   "pages": "1104686",
+   "doi": "10.3389/fsoc.2022.1104686",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Liu B., Hu M., Cheng J. 2005, Opinion observer: Analyzing and comparing opinions on the web, in A. Ellis, T. Hagino (eds.), Proceedings of the 14th International World Wide Web Conference, New York, Association for Computing Machinery, 342-351 (https:// doi.org/10.1145/1060745.1060797).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Liu",
+     "given": "B."
+    },
+    {
+     "family": "Hu",
+     "given": "M."
+    },
+    {
+     "family": "Cheng",
+     "given": "J."
+    }
+   ],
+   "date": "2005",
+   "title": "Opinion observer: Analyzing and comparing opinions on the web",
+   "editors": [
+    {
+     "family": "Ellis",
+     "given": "A."
+    },
+    {
+     "family": "Hagino",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the 14th International World Wide Web Conference"
+   ],
+   "pages": "342-351",
+   "publisher": "Association for Computing Machinery",
+   "place": "New York",
+   "doi": "10.1145/1060745.1060797",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "Martínez L., Chaín C. 2018, Humanidades digitales para el aprendizaje y difusión del Patrimonio Naval, «Revista de Educación a Distancia», 18, 57, 1-19.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Martínez",
+     "given": "L."
+    },
+    {
+     "family": "Chaín",
+     "given": "C."
+    }
+   ],
+   "date": "2018",
+   "title": "Humanidades digitales para el aprendizaje y difusión del Patrimonio Naval",
+   "is_part_of": [
+    "Revista de Educación a Distancia"
+   ],
+   "volume": "18",
+   "issue": "57",
+   "pages": "1-19",
+   "language": "spa"
+  },
+  {
+   "position": 25,
+   "raw": "Mohammad S. 2016, Sentiment analysis: Detecting valence, emotions, and other affectual states from text, in H.L. Meiselman (ed.), Emotion Measurement, Sawston, Woodhead Publishing, 201-237 (https://doi.org/10.1016/B978-0-08-100508-8.00009-6).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mohammad",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "Sentiment analysis: Detecting valence, emotions, and other affectual states from text",
+   "editors": [
+    {
+     "family": "Meiselman",
+     "given": "H.L."
+    }
+   ],
+   "is_part_of": [
+    "Emotion Measurement"
+   ],
+   "pages": "201-237",
+   "publisher": "Woodhead Publishing",
+   "place": "Sawston",
+   "doi": "10.1016/B978-0-08-100508-8.00009-6",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "Mohammad S. 2021, Sentiment analysis: Automatically detecting valence, emotions, and other affectual states from text, in H.L. Meiselman (ed.), Emotion Measurement, Swaston, Woodhead Publishing, 323-379 (https://doi.org/10.1016/B978-0-12-821124-3.00011-9).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mohammad",
+     "given": "S."
+    }
+   ],
+   "date": "2021",
+   "title": "Sentiment analysis: Automatically detecting valence, emotions, and other affectual states from text",
+   "editors": [
+    {
+     "family": "Meiselman",
+     "given": "H.L."
+    }
+   ],
+   "is_part_of": [
+    "Emotion Measurement"
+   ],
+   "pages": "323-379",
+   "publisher": "Woodhead Publishing",
+   "place": "Sawston",
+   "doi": "10.1016/B978-0-12-821124-3.00011-9",
+   "language": "eng",
+   "edition": "2"
+  },
+  {
+   "position": 27,
+   "raw": "Mohammad S., Turney P. 2010, Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon, in D. Inkpen, C. Strapparava (eds.), Proceedings of the NAACL-HLT 2010 Workshop on Computational Approaches to Analysis and Generation of Emotion in Text, Los Angeles, Association for Computational Linguistics, 26-34.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mohammad",
+     "given": "S."
+    },
+    {
+     "family": "Turney",
+     "given": "P."
+    }
+   ],
+   "date": "2010",
+   "title": "Emotions evoked by common words and phrases: Using mechanical turk to create an emotion lexicon",
+   "editors": [
+    {
+     "family": "Inkpen",
+     "given": "D."
+    },
+    {
+     "family": "Strapparava",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the NAACL-HLT 2010 Workshop on Computational Approaches to Analysis and Generation of Emotion in Text"
+   ],
+   "pages": "26-34",
+   "publisher": "Association for Computational Linguistics",
+   "place": "Los Angeles",
+   "language": "eng"
+  },
+  {
+   "position": 28,
+   "raw": "Mohammad S., Turney P. 2013, Crowdsourcing a word-emotion association lexicon, «Computational Intelligence», 29, 3, 436-465 (https://doi.org/10.1111/j.14678640.2012.00460.x).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mohammad",
+     "given": "S."
+    },
+    {
+     "family": "Turney",
+     "given": "P."
+    }
+   ],
+   "date": "2013",
+   "title": "Crowdsourcing a word-emotion association lexicon",
+   "is_part_of": [
+    "Computational Intelligence"
+   ],
+   "volume": "29",
+   "issue": "3",
+   "pages": "436-465",
+   "doi": "10.1111/j.1467-8640.2012.00460.x",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "Nielsen F.Å. 2011, A new ANEW: Evaluation of a word list for sentiment analysis in microblogs, «arXiv», 1103.2903 (https://doi.org/10.48550/arXiv.1103.2903).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nielsen",
+     "given": "F.Å."
+    }
+   ],
+   "date": "2011",
+   "title": "A new ANEW: Evaluation of a word list for sentiment analysis in microblogs",
+   "is_part_of": [
+    "arXiv"
+   ],
+   "volume": "1103.2903",
+   "doi": "10.48550/arXiv.1103.2903",
+   "language": "eng"
+  },
+  {
+   "position": 30,
+   "raw": "Pang B., Lee L. 2008, Opinion mining and sentiment analysis, «Foundations and Trends in Information Retrieval», 2, 1-2, 1-135.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pang",
+     "given": "B."
+    },
+    {
+     "family": "Lee",
+     "given": "L."
+    }
+   ],
+   "date": "2008",
+   "title": "Opinion mining and sentiment analysis",
+   "is_part_of": [
+    "Foundations and Trends in Information Retrieval"
+   ],
+   "volume": "2",
+   "issue": "1-2",
+   "pages": "1-135",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "Paradis E. 2005, R for Beginners, Montpellier, Institut des Sciences de l’Evolution, Université Montpellier II.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Paradis",
+     "given": "E."
+    }
+   ],
+   "date": "2005",
+   "title": "R for Beginners",
+   "publisher": "Institut des Sciences de l’Evolution, Université Montpellier II",
+   "place": "Montpellier",
+   "language": "eng"
+  },
+  {
+   "position": 32,
+   "raw": "Pasíes T., Martínez A., Pavón F. 2021, Difusión de la conservación y restauración de bienes culturales en el Museu de Prehistòria de Valencia a través de las redes sociales, «Revista del Instituto de Prehistoria y Arqueología Sautuola», 26, 309-326.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pasíes",
+     "given": "T."
+    },
+    {
+     "family": "Martínez",
+     "given": "A."
+    },
+    {
+     "family": "Pavón",
+     "given": "F."
+    }
+   ],
+   "date": "2021",
+   "title": "Difusión de la conservación y restauración de bienes culturales en el Museu de Prehistòria de Valencia a través de las redes sociales",
+   "is_part_of": [
+    "Revista del Instituto de Prehistoria y Arqueología Sautuola"
+   ],
+   "volume": "26",
+   "pages": "309-326",
+   "language": "spa"
+  },
+  {
+   "position": 33,
+   "raw": "Pastor A., Diaz-Andreu M. 2021, Conservación (crítica) social en Arqueología, «Chungara. Revista de Antropología Chilena», 54, 1, 165-179 (http://dx.doi.org/10.4067/s071773562021005002602).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pastor",
+     "given": "A."
+    },
+    {
+     "family": "Diaz-Andreu",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "Conservación (crítica) social en Arqueología",
+   "is_part_of": [
+    "Chungara. Revista de Antropología Chilena"
+   ],
+   "volume": "54",
+   "issue": "1",
+   "pages": "165-179",
+   "doi": "10.4067/s0717-73562021005002602",
+   "language": "spa"
+  },
+  {
+   "position": 34,
+   "raw": "Plutchik R. 1980, A general psychoevolutionary theory of emotion, in R. Plutchik, H. Kellerman (eds.), Emotion: Theory, Research, and Experience Cambridge, Academic Press, 3-33.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Plutchik",
+     "given": "R."
+    }
+   ],
+   "date": "1980",
+   "title": "A general psychoevolutionary theory of emotion",
+   "editors": [
+    {
+     "family": "Plutchik",
+     "given": "R."
+    },
+    {
+     "family": "Kellerman",
+     "given": "H."
+    }
+   ],
+   "is_part_of": [
+    "Emotion: Theory, Research, and Experience"
+   ],
+   "pages": "3-33",
+   "publisher": "Academic Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "Plutchik R. 2001, The nature of emotions, «American Scientist», 89, 4, 344-350 (http:// www.jstor.org/stable/27857503).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Plutchik",
+     "given": "R."
+    }
+   ],
+   "date": "2001",
+   "title": "The nature of emotions",
+   "is_part_of": [
+    "American Scientist"
+   ],
+   "volume": "89",
+   "issue": "4",
+   "pages": "344-350",
+   "uri": "http://www.jstor.org/stable/27857503",
+   "language": "eng"
+  },
+  {
+   "position": 36,
+   "raw": "Rodríguez T. 2008, El valor de las emociones para el análisis cultural, «Papers», 87, 145-159 (https://doi.org/10.5565/rev/papers/v87n0.793).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rodríguez",
+     "given": "T."
+    }
+   ],
+   "date": "2008",
+   "title": "El valor de las emociones para el análisis cultural",
+   "is_part_of": [
+    "Papers"
+   ],
+   "volume": "87",
+   "pages": "145-159",
+   "doi": "10.5565/rev/papers/v87n0.793",
+   "language": "spa"
+  },
+  {
+   "position": 37,
+   "raw": "Rosenbrock G., Trossero S., Pascal A. 2021, Técnicas de análisis de sentimientos aplicadas a la valoración de opiniones en el lenguaje español, in M.I. Mac Gaul (ed.), Memorias del Congreso Argentino en Ciencias de la Computación-CACIC, Salta, Universidad Nacional de Salta, 291-300.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rosenbrock",
+     "given": "G."
+    },
+    {
+     "family": "Trossero",
+     "given": "S."
+    },
+    {
+     "family": "Pascal",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "Técnicas de análisis de sentimientos aplicadas a la valoración de opiniones en el lenguaje español",
+   "editors": [
+    {
+     "family": "Mac Gaul",
+     "given": "M.I."
+    }
+   ],
+   "is_part_of": [
+    "Memorias del Congreso Argentino en Ciencias de la Computación-CACIC"
+   ],
+   "pages": "291-300",
+   "publisher": "Universidad Nacional de Salta",
+   "place": "Salta",
+   "language": "spa"
+  },
+  {
+   "position": 38,
+   "raw": "Saha A. 2023, Twitter imparting and reinforcing gender-based identities of the Aboriginal Australia women, in C. Chakraborty, D. Pal (eds.), Gender Inequality and its Implications on Education and Health, Bingley, Emerald Publishing Limited, 223-234 (https:// doi.org/10.1108/978-1-83753-180-620231020).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Saha",
+     "given": "A."
+    }
+   ],
+   "date": "2023",
+   "title": "Twitter imparting and reinforcing gender-based identities of the Aboriginal Australia women",
+   "editors": [
+    {
+     "family": "Chakraborty",
+     "given": "C."
+    },
+    {
+     "family": "Pal",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Gender Inequality and its Implications on Education and Health"
+   ],
+   "pages": "223-234",
+   "publisher": "Emerald Publishing Limited",
+   "place": "Bingley",
+   "doi": "10.1108/978-1-83753-180-620231020",
+   "language": "eng"
+  },
+  {
+   "position": 39,
+   "raw": "Said E., Arce S., Mottareale D. 2023, Polarización sentimental en Twitter durante el Paro Nacional de 2021 en Colombia, «Cuadernos.Info», 55, 281-309 (http://dx.doi. org/10.7764/cdi.55.50483).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Said",
+     "given": "E."
+    },
+    {
+     "family": "Arce",
+     "given": "S."
+    },
+    {
+     "family": "Mottareale",
+     "given": "D."
+    }
+   ],
+   "date": "2023",
+   "title": "Polarización sentimental en Twitter durante el Paro Nacional de 2021 en Colombia",
+   "is_part_of": [
+    "Cuadernos.Info"
+   ],
+   "volume": "55",
+   "pages": "281-309",
+   "doi": "10.7764/cdi.55.50483",
+   "language": "spa"
+  },
+  {
+   "position": 40,
+   "raw": "Sarica S., Luo J. 2021, Stopwords in technical language processing, «PlosONE», 16, 8, e0254937 (https://doi.org/10.1371/journal.pone.0254937).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sarica",
+     "given": "S."
+    },
+    {
+     "family": "Luo",
+     "given": "J."
+    }
+   ],
+   "date": "2021",
+   "title": "Stopwords in technical language processing",
+   "is_part_of": [
+    "PLOS ONE"
+   ],
+   "volume": "16",
+   "issue": "8",
+   "pages": "e0254937",
+   "doi": "10.1371/journal.pone.0254937",
+   "language": "eng"
+  },
+  {
+   "position": 41,
+   "raw": "Sauter D., Eisner F., Ekman P., Scott S.K. 2010, Cross-cultural recognition of basic emotions through nonverbal emotional vocalizations, «Proceedings of the National Academy of Sciences», 107, 6, 2408-2412 (https://doi.org/10.1073/pnas.0908239106).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sauter",
+     "given": "D."
+    },
+    {
+     "family": "Eisner",
+     "given": "F."
+    },
+    {
+     "family": "Ekman",
+     "given": "P."
+    },
+    {
+     "family": "Scott",
+     "given": "S.K."
+    }
+   ],
+   "date": "2010",
+   "title": "Cross-cultural recognition of basic emotions through nonverbal emotional vocalizations",
+   "is_part_of": [
+    "Proceedings of the National Academy of Sciences"
+   ],
+   "volume": "107",
+   "issue": "6",
+   "pages": "2408-2412",
+   "doi": "10.1073/pnas.0908239106",
+   "language": "eng"
+  },
+  {
+   "position": 42,
+   "raw": "Vélaz D. 2023, La comunicación de la Prehistoria a través de las redes sociales: El caso de Twitter, «Complutum», 34, 2, 561-581 (https://doi.org/10.5209/cmpl.92268).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vélaz",
+     "given": "D."
+    }
+   ],
+   "date": "2023",
+   "title": "La comunicación de la Prehistoria a través de las redes sociales: El caso de Twitter",
+   "is_part_of": [
+    "Complutum"
+   ],
+   "volume": "34",
+   "issue": "2",
+   "pages": "561-581",
+   "doi": "10.5209/cmpl.92268",
+   "language": "spa"
+  },
+  {
+   "position": 43,
+   "raw": "Wade G. 1994, Signal Coding and Processing, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wade",
+     "given": "G."
+    }
+   ],
+   "date": "1994",
+   "title": "Signal Coding and Processing",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 44,
+   "raw": "Wankhade M., Rao A.C.S., Kulkarni C. 2022, A survey on sentiment analysis methods, applications, and challenges, «Artficial Intelligence Review», 55, 5731-5780 (https:// doi.org/10.1007/s10462-022-10144-1).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wankhade",
+     "given": "M."
+    },
+    {
+     "family": "Rao",
+     "given": "A.C.S."
+    },
+    {
+     "family": "Kulkarni",
+     "given": "C."
+    }
+   ],
+   "date": "2022",
+   "title": "A survey on sentiment analysis methods, applications, and challenges",
+   "is_part_of": [
+    "Artificial Intelligence Review"
+   ],
+   "volume": "55",
+   "pages": "5731-5780",
+   "doi": "10.1007/s10462-022-10144-1",
+   "language": "eng"
+  },
+  {
+   "position": 45,
+   "raw": "Wickham H. 2023, Package ‘stringr’: Simple, Consistent Wrappers for Common String Operations (https://cran.r-project.org/web/packages/stringr/stringr.pdf).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Wickham",
+     "given": "H."
+    }
+   ],
+   "date": "2023",
+   "title": "Package ‘stringr’: Simple, Consistent Wrappers for Common String Operations",
+   "uri": "https://cran.r-project.org/web/packages/stringr/stringr.pdf",
+   "language": "eng"
+  }
+ ]
+}

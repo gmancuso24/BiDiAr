@@ -1,0 +1,132 @@
+{
+ "citing_aec_id": 196,
+ "source_file": "data/journal/7/196.md",
+ "references": [
+  {
+   "raw": "WOOD J. 1994, Major Conservation Projects: Recording Ancient Monuments - LUAU's methodologies and procedures, in J. WOOD (ed.), Buildings Archaeology: Applications in Practice, Oxford, Oxbow Books, Oxbow Monograph 43, 183-208.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Wood",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "Major Conservation Projects: Recording Ancient Monuments - LUAU's methodologies and procedures",
+   "editors": [
+    {
+     "family": "Wood",
+     "given": "J."
+    }
+   ],
+   "pages": "183-208",
+   "is_part_of": [
+    "Buildings Archaeology: Applications in Practice"
+   ],
+   "place": "Oxford",
+   "publisher": "Oxbow Books",
+   "series": "Oxbow Monograph",
+   "series_number": "43",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "WOOD J. 1995, Recording Techniques for the Conservation and Presentation of Standing Buildings, in J. WILCOCK, K. LOCKYEAR (eds.), Computer Applications and Quantitative Methods in Archaeology 1993, Oxford, Tempus Reparatum, BAR International Series 598, 229-230.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Wood",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "Recording Techniques for the Conservation and Presentation of Standing Buildings",
+   "editors": [
+    {
+     "family": "Wilcock",
+     "given": "J."
+    },
+    {
+     "family": "Lockyear",
+     "given": "K."
+    }
+   ],
+   "pages": "229-230",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1993"
+   ],
+   "place": "Oxford",
+   "publisher": "Tempus Reparatum",
+   "series": "BAR International Series",
+   "series_number": "598",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "WOOD J. 1996, Record Making in J. TAYLOR (ed.), The Building Conservation Directory 1996, Tisbury, Cathedral Communications, 12-13.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Wood",
+     "given": "J."
+    }
+   ],
+   "pages": "12-13",
+   "type": "chapter",
+   "title": "Record Making",
+   "place": "Tisbury",
+   "publisher": "Cathedral Communications",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3,
+   "is_part_of": [
+    "The Building Conservation Directory 1996"
+   ],
+   "editors": [
+    {
+     "family": "Taylor",
+     "given": "J."
+    }
+   ]
+  },
+  {
+   "raw": "WOOD J., CHAPMAN G. 1992, Three-dimensional Computer Visualisation of Historic Buildings - with particular reference to reconstruction modelling, in P. REILLY, S. RAHTZ (eds.), Archaeology and the Information Age: A Global Perspective, London, Routledge, One World Archaeology 21, 123-146.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Wood",
+     "given": "J."
+    },
+    {
+     "family": "Chapman",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Three-dimensional Computer Visualisation of Historic Buildings - with particular reference to reconstruction modelling",
+   "editors": [
+    {
+     "family": "Reilly",
+     "given": "P."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "pages": "123-146",
+   "is_part_of": [
+    "Archaeology and the Information Age: A Global Perspective"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 4,
+   "place": "London",
+   "publisher": "Routledge",
+   "series": "One World Archaeology",
+   "series_number": "21"
+  }
+ ]
+}

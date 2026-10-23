@@ -1,0 +1,390 @@
+{
+ "citing_aec_id": 42,
+ "source_file": "data/journal/3/42.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ANDREAE B., SETTIS S. (edd.) 1984, Colloquio sul reimpiego dei sarcofagi romani nel Medioevo (Pisa 5-12 settembre 1982), Marburger Winckelmann-Programm, 1983, Marburg-Lahn.",
+   "type": "proceedings",
+   "date": "1984",
+   "title": "Colloquio sul reimpiego dei sarcofagi romani nel Medioevo (Pisa 5-12 settembre 1982)",
+   "editors": [
+    {
+     "family": "Andreae",
+     "given": "B."
+    },
+    {
+     "family": "Settis",
+     "given": "S."
+    }
+   ],
+   "series": "Marburger Winckelmann-Programm",
+   "series_number": "1983",
+   "place": "Marburg-Lahn",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "APPLE COMPUTER, INC. 1988, HyperCard e. Script Language Guide: The HyperTalk TM Language, Reading, Mass., Addison Wesley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Apple Computer, Inc.",
+     "given": ""
+    }
+   ],
+   "date": "1988",
+   "title": "HyperCard Script Language Guide: The HyperTalk Language",
+   "place": "Reading, Mass.",
+   "publisher": "Addison Wesley",
+   "notes": "'HyperCard e. Script' read as 'HyperCard Script' (® lost in OCR)",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "ARIAS P.E., CRISTIANI E., GABBA E. 1977, Camposanto monumentale di Pisa. Le Antichità, Pisa, Pacini.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Arias",
+     "given": "P.E."
+    },
+    {
+     "family": "Cristiani",
+     "given": "E."
+    },
+    {
+     "family": "Gabba",
+     "given": "E."
+    }
+   ],
+   "date": "1977",
+   "title": "Camposanto monumentale di Pisa. Le Antichità",
+   "place": "Pisa",
+   "publisher": "Pacini",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "AULI R., CECCANTI V., SIGNORE O. 1990, HERMES: un ipertesto sugli stemmi nobiliari corredato da un thesaurus figurato, «Bollettino d'Informazioni », 11, 2, 103-152.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Auli",
+     "given": "R."
+    },
+    {
+     "family": "Ceccanti",
+     "given": "V."
+    },
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "date": "1990",
+   "title": "HERMES: un ipertesto sugli stemmi nobiliari corredato da un thesaurus figurato",
+   "is_part_of": [
+    "Bollettino d'Informazioni"
+   ],
+   "volume": "11",
+   "issue": "2",
+   "pages": "103-152",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Catalogo 1982 - Catalogo Automatico dei sarcofagi romani reimpiegati nel Medioevo, Rete EURONET, Pisa.",
+   "type": "other",
+   "date": "1982",
+   "title": "Catalogo Automatico dei sarcofagi romani reimpiegati nel Medioevo",
+   "place": "Pisa",
+   "publisher": "Rete EURONET",
+   "notes": "cited as 'Catalogo 1982'",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "DONATI F. 1984, Storia della Collezione. Raccolta delle opere antiche, in S. SETTIS (ed.), Camposanto monumentale di Pisa. Le Antichità, 2, Modena, Panini, 9-34.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Donati",
+     "given": "F."
+    }
+   ],
+   "date": "1984",
+   "title": "Storia della Collezione. Raccolta delle opere antiche",
+   "editors": [
+    {
+     "family": "Settis",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Camposanto monumentale di Pisa. Le Antichità, 2"
+   ],
+   "pages": "9-34",
+   "publisher": "Panini",
+   "place": "Modena",
+   "xref": 15,
+   "volume": "2",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "GOODMAN D. 1980, The complete HyperCard 2.0 Handbook, 3 ed., Toronto-New York, Bantam Books.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Goodman",
+     "given": "D."
+    }
+   ],
+   "date": "1980",
+   "title": "The complete HyperCard 2.0 Handbook",
+   "place": "Toronto-New York",
+   "publisher": "Bantam Books",
+   "edition": "3",
+   "notes": "date 1980 as cited (HyperCard 2.0 is later)",
+   "confidence": "low",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "HyperKRS + Hyperindexer 1989 = HyperKRS + Hyperindexer User Manual, Mountain View, CA, KnowledgeSet Corporation.",
+   "type": "other",
+   "date": "1989",
+   "title": "HyperKRS + Hyperindexer User Manual",
+   "place": "Mountain View, CA",
+   "publisher": "KnowledgeSet Corporation",
+   "notes": "cited as 'HyperKRS + Hyperindexer 1989'",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "NIELSEN J. 1990a, Hypertext and Hypermedia, San Diego, Calif., Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nielsen",
+     "given": "J."
+    }
+   ],
+   "date": "1990",
+   "title": "Hypertext and Hypermedia",
+   "place": "San Diego, Calif.",
+   "publisher": "Academic Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "NIELSEN J. 1990b, The Art of Navigating through Hypertext, « Communications of ACM », 33, 3, 297-310.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nielsen",
+     "given": "J."
+    }
+   ],
+   "date": "1990",
+   "title": "The Art of Navigating through Hypertext",
+   "is_part_of": [
+    "Communications of the ACM"
+   ],
+   "volume": "33",
+   "issue": "3",
+   "pages": "297-310",
+   "notes": "'Communications of ACM' as cited",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "PARRA M.C. 1981, Per una catalogazione automatica dei sarcofagi reimpiegati: progetto di ricerca, in visione del I Colloquio sul tema, «Bollettino d'Informazioni », 2, 1, 119-140.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Parra",
+     "given": "M.C."
+    }
+   ],
+   "date": "1981",
+   "title": "Per una catalogazione automatica dei sarcofagi reimpiegati: progetto di ricerca, in visione del I Colloquio sul tema",
+   "is_part_of": [
+    "Bollettino d'Informazioni"
+   ],
+   "volume": "2",
+   "issue": "1",
+   "pages": "119-140",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "PARRA M.C. 1984, Il reimpiego dei sarcofagi romani (fino al 1500): caratteristiche strutturali e processo di formazione dell'archivio elettronico, in B. ANDREAE, S. SETTIS (edd.), Colloquio sul reimpiego dei sarcofagi romani nel Medioevo (Pisa 5-12 settembre 1982), Marburger Winckelmann-Programm, 1983, Marburg-Lahn, 25-41.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Parra",
+     "given": "M.C."
+    }
+   ],
+   "date": "1984",
+   "title": "Il reimpiego dei sarcofagi romani (fino al 1500): caratteristiche strutturali e processo di formazione dell'archivio elettronico",
+   "editors": [
+    {
+     "family": "Andreae",
+     "given": "B."
+    },
+    {
+     "family": "Settis",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Colloquio sul reimpiego dei sarcofagi romani nel Medioevo (Pisa 5-12 settembre 1982)"
+   ],
+   "pages": "25-41",
+   "series": "Marburger Winckelmann-Programm",
+   "series_number": "1983",
+   "place": "Marburg-Lahn",
+   "xref": 1,
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "PARRA M. C. 1985, Prova d'interrogazione dell'archivio dei sarcofagi romani reimpiegati nel Medioevo e fino al 1500, in L. CORTI, M. SCHMITT (edd.), Second International Conference on Automatic Processing of Art History Data and Documents (Pisa-Los Angeles 1984), Proceedings, Firenze, Centro 2P, 373-391.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Parra",
+     "given": "M.C."
+    }
+   ],
+   "date": "1985",
+   "title": "Prova d'interrogazione dell'archivio dei sarcofagi romani reimpiegati nel Medioevo e fino al 1500",
+   "editors": [
+    {
+     "family": "Corti",
+     "given": "L."
+    },
+    {
+     "family": "Schmitt",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Second International Conference on Automatic Processing of Art History Data and Documents (Pisa-Los Angeles 1984), Proceedings"
+   ],
+   "pages": "373-391",
+   "publisher": "Centro 2P",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "PARRA M.C., SETTIS S. 1984, Catalogo dei sarcofagi romani reimpiegati nel Medioevo, fino al 1500, in L. CORTI (ed.), Census. Computerization in the History of Art, Firenze, Centro 2P, 78-80, n. 23.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Parra",
+     "given": "M.C."
+    },
+    {
+     "family": "Settis",
+     "given": "S."
+    }
+   ],
+   "date": "1984",
+   "title": "Catalogo dei sarcofagi romani reimpiegati nel Medioevo, fino al 1500",
+   "editors": [
+    {
+     "family": "Corti",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Census. Computerization in the History of Art"
+   ],
+   "pages": "78-80",
+   "publisher": "Centro 2P",
+   "place": "Firenze",
+   "notes": "n. 23 of the catalogue",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "SETTIS S. (ed.) 1984, Camposanto monumentale di Pisa. Le Antichità, II, Modena, Panini.",
+   "type": "book",
+   "date": "1984",
+   "title": "Camposanto monumentale di Pisa. Le Antichità, II",
+   "place": "Modena",
+   "publisher": "Panini",
+   "editors": [
+    {
+     "family": "Settis",
+     "given": "S."
+    }
+   ],
+   "volume": "II",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "SETTIS S. 1986, Le collezioni archeologiche, in G. DE ANGELIS D'OSSAT (ed.), Il Museo dell'Opera del Duomo a Pisa, Cinisello Balsamo (MI), A. Pizzi SpA, 179-191.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Settis",
+     "given": "S."
+    }
+   ],
+   "date": "1986",
+   "title": "Le collezioni archeologiche",
+   "editors": [
+    {
+     "family": "De Angelis d'Ossat",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Il Museo dell'Opera del Duomo a Pisa"
+   ],
+   "pages": "179-191",
+   "publisher": "A. Pizzi SpA",
+   "place": "Cinisello Balsamo (MI)",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "SHAFER D. 1988, HyperTalk™ Programming, Indianapolis, Indiana, Hayden Books.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Shafer",
+     "given": "D."
+    }
+   ],
+   "date": "1988",
+   "title": "HyperTalk Programming",
+   "place": "Indianapolis, Indiana",
+   "publisher": "Hayden Books",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

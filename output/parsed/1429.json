@@ -1,0 +1,500 @@
+{
+ "citing_aec_id": 1429,
+ "source_file": "data/journal/36/1429.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Brancato R., Ferrari V., Ditaranto I., Merola P., Rossi I. 2024, Investigating resilient Roman agricultural landscapes in southern Italy. An integrated and open IT approach to modeling centuriation, in R. Brancato, J. Bogdani, V. Vitale (eds.), Linking Pasts and Sharing Knowledge. Mapping Archaeological Heritage, Legacy Data Integration and Web Technologies for Modelling Historical Landscapes (Naples 2023), «Archeologia e Calcolatori», 35.2, 387-400 (https://doi.org/10.19282/ac.35.2.2024.41).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    },
+    {
+     "family": "Ferrari",
+     "given": "V."
+    },
+    {
+     "family": "Ditaranto",
+     "given": "I."
+    },
+    {
+     "family": "Merola",
+     "given": "P."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2024",
+   "title": "Investigating resilient Roman agricultural landscapes in southern Italy. An integrated and open IT approach to modeling centuriation",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "387-400",
+   "doi": "10.19282/ac.35.2.2024.41",
+   "language": "eng",
+   "cited_aec_id": 1361
+  },
+  {
+   "position": 2,
+   "raw": "Brancato R., Luongo G., Tosolini M., Porciello C. in press, L’applicativo ICA per la topografia archeologica della Piana Campana centro-meridionale (Gricignano d’Aversa e Carinaro-CE), in I. Matarese, E. Santaniello (eds.), Gricignano d’Aversa e Carinaro. Un progetto di recupero e di organizzazione dei dati archeologici tra tutela e valorizzazione (Napoli 2023).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    },
+    {
+     "family": "Luongo",
+     "given": "G."
+    },
+    {
+     "family": "Tosolini",
+     "given": "M."
+    },
+    {
+     "family": "Porciello",
+     "given": "C."
+    }
+   ],
+   "date": "c.s.",
+   "title": "L’applicativo ICA per la topografia archeologica della Piana Campana centro-meridionale (Gricignano d’Aversa e Carinaro-CE)",
+   "editors": [
+    {
+     "family": "Matarese",
+     "given": "I."
+    },
+    {
+     "family": "Santaniello",
+     "given": "E."
+    }
+   ],
+   "is_part_of": [
+    "Gricignano d’Aversa e Carinaro. Un progetto di recupero e di organizzazione dei dati archeologici tra tutela e valorizzazione (Napoli 2023)"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "in press; searched: not found"
+  },
+  {
+   "position": 3,
+   "raw": "Brancato R., Matarese I., Santaniello E. 2024, Gricignano d’Aversa e Carinaro (CE): progetto di digitalizzazione della documentazione di due casi di archeologia preventiva nella Piana Campana, Poster in Atti del Convegno Il Geoportale Nazionale per l’Archeologia. Primo bilancio e prospettive (Roma 2024), Roma, Istituto Centrale Archeologia (https://doi.org/10.60974/GNA_08).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    },
+    {
+     "family": "Matarese",
+     "given": "I."
+    },
+    {
+     "family": "Santaniello",
+     "given": "E."
+    }
+   ],
+   "date": "2024",
+   "title": "Gricignano d’Aversa e Carinaro (CE): progetto di digitalizzazione della documentazione di due casi di archeologia preventiva nella Piana Campana",
+   "is_part_of": [
+    "Atti del Convegno Il Geoportale Nazionale per l’Archeologia. Primo bilancio e prospettive (Roma 2024)"
+   ],
+   "publisher": "Istituto Centrale Archeologia",
+   "place": "Roma",
+   "doi": "10.60974/GNA_08",
+   "language": "ita",
+   "notes": "poster"
+  },
+  {
+   "position": 4,
+   "raw": "De Caro S. 2002, Ager Campanus-Ager Falernus-Terra di confine e di scambi. Contributi archeologici, in Franciosi 2002, 135-136.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Caro",
+     "given": "S."
+    }
+   ],
+   "date": "2002",
+   "title": "Ager Campanus-Ager Falernus-Terra di confine e di scambi. Contributi archeologici",
+   "editors": [
+    {
+     "family": "Franciosi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Ager Campanus. Atti del Convegno Internazionale (Real Sito di S. Leucio 2001)"
+   ],
+   "pages": "135-136",
+   "publisher": "Jovene",
+   "place": "Napoli",
+   "xref": 7,
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "Deino A.L., Orsi G., de Vita S., Piochi M. 2004, The age of the Neapolitan yellow tuff caldera-forming eruption (Campi Flegrei caldera, Italy) assessed by 40Ar/39Ar dating method, «Journal of Volcanology and Geothermal Research», 133, 157-170.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Deino",
+     "given": "A.L."
+    },
+    {
+     "family": "Orsi",
+     "given": "G."
+    },
+    {
+     "family": "de Vita",
+     "given": "S."
+    },
+    {
+     "family": "Piochi",
+     "given": "M."
+    }
+   ],
+   "date": "2004",
+   "title": "The age of the Neapolitan yellow tuff caldera-forming eruption (Campi Flegrei caldera, Italy) assessed by 40Ar/39Ar dating method",
+   "is_part_of": [
+    "Journal of Volcanology and Geothermal Research"
+   ],
+   "volume": "133",
+   "pages": "157-170",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "De Vivo B., Rolandi G., Gans P.B., Calvert A., Bohrson W.A., Spera F.J., Belkin H.E. 2001, New constraints on the pyroclastic eruptive history of the Campanian volcanic Plain (Italy), «Mineralogy and Petrology», 73, 47-65.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Vivo",
+     "given": "B."
+    },
+    {
+     "family": "Rolandi",
+     "given": "G."
+    },
+    {
+     "family": "Gans",
+     "given": "P.B."
+    },
+    {
+     "family": "Calvert",
+     "given": "A."
+    },
+    {
+     "family": "Bohrson",
+     "given": "W.A."
+    },
+    {
+     "family": "Spera",
+     "given": "F.J."
+    },
+    {
+     "family": "Belkin",
+     "given": "H.E."
+    }
+   ],
+   "date": "2001",
+   "title": "New constraints on the pyroclastic eruptive history of the Campanian volcanic Plain (Italy)",
+   "is_part_of": [
+    "Mineralogy and Petrology"
+   ],
+   "volume": "73",
+   "pages": "47-65",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Franciosi G. (ed.) 2002, Ager Campanus. Atti del Convegno Internazionale (Real Sito di S. Leucio 2001), Napoli, Jovene.",
+   "type": "proceedings",
+   "date": "2002",
+   "title": "Ager Campanus. Atti del Convegno Internazionale (Real Sito di S. Leucio 2001)",
+   "editors": [
+    {
+     "family": "Franciosi",
+     "given": "G."
+    }
+   ],
+   "publisher": "Jovene",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "Frandi F., Ludovici D. 2020, Archaeological risk assessment and the planning process of the railways: The forerunner of the actual procedure for archaeological risk analysis, 25 years of experience, «Atti e Rassegna Tecnica della Società degli Ingegneri e degli Architetti in Torino», 153, 74, 2-3, 63-67.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frandi",
+     "given": "F."
+    },
+    {
+     "family": "Ludovici",
+     "given": "D."
+    }
+   ],
+   "date": "2020",
+   "title": "Archaeological risk assessment and the planning process of the railways: The forerunner of the actual procedure for archaeological risk analysis, 25 years of experience",
+   "is_part_of": [
+    "Atti e Rassegna Tecnica della Società degli Ingegneri e degli Architetti in Torino"
+   ],
+   "volume": "153",
+   "issue": "74, 2-3",
+   "pages": "63-67",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Giaccio B., Hajdas I., Isaia R., Deino A., Nomade S. 2017, High-precision 14C dating and 40Ar/39Ar dating of the Campanian Ignimbrite (Y-5) reconciles the time-scales of climatic-cultural processes at 40 ka, «Science Reports», 7, 45940 (https://doi.org/10.1038/srep45940).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Giaccio",
+     "given": "B."
+    },
+    {
+     "family": "Hajdas",
+     "given": "I."
+    },
+    {
+     "family": "Isaia",
+     "given": "R."
+    },
+    {
+     "family": "Deino",
+     "given": "A."
+    },
+    {
+     "family": "Nomade",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "High-precision 14C dating and 40Ar/39Ar dating of the Campanian Ignimbrite (Y-5) reconciles the time-scales of climatic-cultural processes at 40 ka",
+   "is_part_of": [
+    "Scientific Reports"
+   ],
+   "volume": "7",
+   "pages": "45940",
+   "doi": "10.1038/srep45940",
+   "language": "eng",
+   "notes": "cited as “Science Reports”"
+  },
+  {
+   "position": 10,
+   "raw": "Laforgia E., De Filippis A. 2002, Centuriazione a Gricignano d’Aversa, in Franciosi 2002, 137-145.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Laforgia",
+     "given": "E."
+    },
+    {
+     "family": "De Filippis",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Centuriazione a Gricignano d’Aversa",
+   "editors": [
+    {
+     "family": "Franciosi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Ager Campanus. Atti del Convegno Internazionale (Real Sito di S. Leucio 2001)"
+   ],
+   "pages": "137-145",
+   "publisher": "Jovene",
+   "place": "Napoli",
+   "xref": 7,
+   "language": "ita",
+   "notes": "authors in reverse order vs. De Filippis, Laforgia in vol. 36 art. 1427"
+  },
+  {
+   "position": 11,
+   "raw": "Marzocchella A. 1998, Tutela archeologica e preistoria nella pianura campana, in P.G. Guzzo, R. Peroni (eds.), Archeologia e vulcanologia in Campania, Atti del Convegno (Pompei 1996), Napoli, Arte Tipografica, 97-133.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Marzocchella",
+     "given": "A."
+    }
+   ],
+   "date": "1998",
+   "title": "Tutela archeologica e preistoria nella pianura campana",
+   "editors": [
+    {
+     "family": "Guzzo",
+     "given": "P.G."
+    },
+    {
+     "family": "Peroni",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e vulcanologia in Campania, Atti del Convegno (Pompei 1996)"
+   ],
+   "pages": "97-133",
+   "publisher": "Arte Tipografica",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "Passariello I., Albore Livadie C., Talamo P., Lubritto C., D’Onofrio A, Terrasi F. 2009, 14C Chronology of the Avellino pumices eruption and timing of human reoccupation of the devastated region, «Radiocarbon», 51, 2, 803-816.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Passariello",
+     "given": "I."
+    },
+    {
+     "family": "Albore Livadie",
+     "given": "C."
+    },
+    {
+     "family": "Talamo",
+     "given": "P."
+    },
+    {
+     "family": "Lubritto",
+     "given": "C."
+    },
+    {
+     "family": "D’Onofrio",
+     "given": "A."
+    },
+    {
+     "family": "Terrasi",
+     "given": "F."
+    }
+   ],
+   "date": "2009",
+   "title": "14C Chronology of the Avellino pumices eruption and timing of human reoccupation of the devastated region",
+   "is_part_of": [
+    "Radiocarbon"
+   ],
+   "volume": "51",
+   "issue": "2",
+   "pages": "803-816",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Pizzano N. 2014, Le evidenze archeologiche nell’area della US Navy Support Site di Gricignano d’Aversa, in C. Rescigno, F. Sirano (eds.), Immaginando città. Racconti di fondazioni mitiche, forma e funzioni delle città campane, Catalogo della mostra, Napoli, Denaro Progetti, 22-25.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pizzano",
+     "given": "N."
+    }
+   ],
+   "date": "2014",
+   "title": "Le evidenze archeologiche nell’area della US Navy Support Site di Gricignano d’Aversa",
+   "editors": [
+    {
+     "family": "Rescigno",
+     "given": "C."
+    },
+    {
+     "family": "Sirano",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Immaginando città. Racconti di fondazioni mitiche, forma e funzioni delle città campane, Catalogo della mostra"
+   ],
+   "pages": "22-25",
+   "publisher": "Denaro Progetti",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "Roberts L. 2016, Deep mapping and spatial anthropology, «Humanities», 5, 5 (https://dx.doi.org/10.3390/h5010005).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Roberts",
+     "given": "L."
+    }
+   ],
+   "date": "2016",
+   "title": "Deep mapping and spatial anthropology",
+   "is_part_of": [
+    "Humanities"
+   ],
+   "volume": "5",
+   "issue": "5",
+   "doi": "10.3390/h5010005",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Saccoccio F., Marzocchella A., Vanzetti A. 2013, The field system of Gricignano d’Aversa (Southern Italy) and the agrarian impact in the Piana Campana, ca. 3900 cal BP, «Quaternary International», 303, 282-292.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Saccoccio",
+     "given": "F."
+    },
+    {
+     "family": "Marzocchella",
+     "given": "A."
+    },
+    {
+     "family": "Vanzetti",
+     "given": "A."
+    }
+   ],
+   "date": "2013",
+   "title": "The field system of Gricignano d’Aversa (Southern Italy) and the agrarian impact in the Piana Campana, ca. 3900 cal BP",
+   "is_part_of": [
+    "Quaternary International"
+   ],
+   "volume": "303",
+   "pages": "282-292",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Smith V.C., Isaia R., Pearce N.J.G. 2011, Tephrostratigraphy and glass compositions of post-15 kyr Campi Flegrei eruptions: Implications for eruption history and chronostratigraphic markers, «Quaternary Science Reviews», 30, 3638-3660.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Smith",
+     "given": "V.C."
+    },
+    {
+     "family": "Isaia",
+     "given": "R."
+    },
+    {
+     "family": "Pearce",
+     "given": "N.J.G."
+    }
+   ],
+   "date": "2011",
+   "title": "Tephrostratigraphy and glass compositions of post-15 kyr Campi Flegrei eruptions: Implications for eruption history and chronostratigraphic markers",
+   "is_part_of": [
+    "Quaternary Science Reviews"
+   ],
+   "volume": "30",
+   "pages": "3638-3660",
+   "language": "eng"
+  }
+ ]
+}

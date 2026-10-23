@@ -1,0 +1,3227 @@
+{
+ "citing_aec_id": 673,
+ "source_file": "data/journal/24/673.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Ackley D.H. 1987, Connectionist Machine for Genetic Hill Climbing, Boston, Kluwer Academic Publishers.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ackley",
+     "given": "D.H."
+    }
+   ],
+   "date": "1987",
+   "title": "Connectionist Machine for Genetic Hill Climbing",
+   "place": "Boston",
+   "publisher": "Kluwer Academic Publishers",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Allen J. 1999, Spatial assemblages of power: From domination to empowerment, in D. Massey, J. Allen, P. Sarre (eds.), Human Geography Today, Cambridge, Wiley, 194-218.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Allen",
+     "given": "J."
+    }
+   ],
+   "date": "1999",
+   "title": "Spatial assemblages of power: From domination to empowerment",
+   "editors": [
+    {
+     "family": "Massey",
+     "given": "D."
+    },
+    {
+     "family": "Allen",
+     "given": "J."
+    },
+    {
+     "family": "Sarre",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Human Geography Today"
+   ],
+   "place": "Cambridge",
+   "publisher": "Wiley",
+   "pages": "194-218",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Anderson J.A., Rosenfeld E. (eds.) 1988, Neurocomputing Foundations of Research, Cambridge Ma., MIT Press.",
+   "type": "book",
+   "date": "1988",
+   "title": "Neurocomputing Foundations of Research",
+   "editors": [
+    {
+     "family": "Anderson",
+     "given": "J.A."
+    },
+    {
+     "family": "Rosenfeld",
+     "given": "E."
+    }
+   ],
+   "place": "Cambridge Ma.",
+   "publisher": "MIT Press",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Arbib M.A. 1995, The Handbook of Brain Theory and Neural Networks, Cambridge Ma., MIT Press (2nd ed. 2002).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Arbib",
+     "given": "M.A."
+    }
+   ],
+   "date": "1995",
+   "title": "The Handbook of Brain Theory and Neural Networks",
+   "notes": "2nd ed. 2002",
+   "place": "Cambridge Ma.",
+   "publisher": "MIT Press",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Barceló J.A. 1995, Back-propagation algorithms to compute similarity relationships among archaeological artifacts, in J. Wilcock, K. Lockyear (eds.), Computer Applications and Quantitative Methods in Archaeology 1993, BAR International Series 598, Oxford, Archaeopress, 165-176.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "1995",
+   "title": "Back-propagation algorithms to compute similarity relationships among archaeological artifacts",
+   "editors": [
+    {
+     "family": "Wilcock",
+     "given": "J."
+    },
+    {
+     "family": "Lockyear",
+     "given": "K."
+    }
+   ],
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1993"
+   ],
+   "series": "BAR International Series",
+   "series_number": "598",
+   "place": "Oxford",
+   "publisher": "Archaeopress",
+   "pages": "165-176",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Barceló J.A. 1996, Heuristic classification and fuzzy sets. New tools for archaeological typologies, in H. Kamermans, K. Fennema (eds.), Interfacing the Past: Computer Applications and Quantitative Methods in Archaeology, CAA95, Analecta Praehistorica Leidensia, 28, Leiden, 313-326.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "1996",
+   "title": "Heuristic classification and fuzzy sets. New tools for archaeological typologies",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "is_part_of": [
+    "Interfacing the Past: Computer Applications and Quantitative Methods in Archaeology, CAA95"
+   ],
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28",
+   "place": "Leiden",
+   "pages": "313-326",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Barceló J.A. 2007, Automatic Archaeology: Bridging the gap between Virtual Reality, Artificial Intelligence, and Archaeology, in F. Cameron, S. Kenderdine (eds.), In Theorizing Digital Cultural Heritage, Cambridge Ma., MIT Press, 437-456.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "2007",
+   "title": "Automatic Archaeology: Bridging the gap between Virtual Reality, Artificial Intelligence, and Archaeology",
+   "editors": [
+    {
+     "family": "Cameron",
+     "given": "F."
+    },
+    {
+     "family": "Kenderdine",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Theorizing Digital Cultural Heritage"
+   ],
+   "pages": "437-456",
+   "place": "Cambridge Ma.",
+   "publisher": "MIT Press",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Barceló J.A. 2008, Computational Intelligence in Archaeology. Investigations at the Interface between Theory, Technique and Technology in Anthropology, History and the Geo-Sciences, London, IGI Global.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "2008",
+   "title": "Computational Intelligence in Archaeology. Investigations at the Interface between Theory, Technique and Technology in Anthropology, History and the Geo-Sciences",
+   "place": "London",
+   "publisher": "IGI Global",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Barceló J.A., Faura J.M. 1999, Time series and Neural Networks in archaeological seriation: An example on early pottery from Near East, in L. Dingwall, S. Exon, V. Gaffney, S. Laflin, M. van Leusen (eds.), Archaeology in the Age of the Internet, BAR International Series 750, Oxford, Archaeopress, 91-102.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Faura",
+     "given": "J.M."
+    }
+   ],
+   "date": "1999",
+   "title": "Time series and Neural Networks in archaeological seriation: An example on early pottery from Near East",
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "van Leusen",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Archaeology in the Age of the Internet"
+   ],
+   "series": "BAR International Series",
+   "series_number": "750",
+   "place": "Oxford",
+   "publisher": "Archaeopress",
+   "pages": "91-102",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Baxter M.J. 1995, Standardization and transformation in Principal Component Analysis with applications to archaeometry, «Applied Statistics», 4, 513-527.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    }
+   ],
+   "date": "1995",
+   "title": "Standardization and transformation in Principal Component Analysis with applications to archaeometry",
+   "is_part_of": [
+    "Applied Statistics"
+   ],
+   "volume": "4",
+   "pages": "513-527",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Baxter M.J. 2006, A review of supervised and unsupervised pattern recognition, «Archaeometry», 48, 4, 671-694.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    }
+   ],
+   "date": "2006",
+   "title": "A review of supervised and unsupervised pattern recognition",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "48",
+   "issue": "4",
+   "pages": "671-694",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Baxter M.J., Cool H.E.M. 2010, Correspondence Analysis in R for archaeologists: An educational account, «Archeologia e Calcolatori», 21, 211-228.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    },
+    {
+     "family": "Cool",
+     "given": "H.E.M."
+    }
+   ],
+   "date": "2010",
+   "title": "Correspondence Analysis in R for archaeologists: An educational account",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "21",
+   "pages": "211-228",
+   "cited_aec_id": 573,
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Beckerman M.1997, Adaptive Cooperative Systems, New York, John Wiley & Son.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Beckerman",
+     "given": "M."
+    }
+   ],
+   "date": "1997",
+   "title": "Adaptive Cooperative Systems",
+   "place": "New York",
+   "publisher": "John Wiley & Sons",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Beeckman C.S., Baden W.W. (eds.) 2005, Nonlinear Models for Archaeology and Anthropology: Continuing the Revolution, London, Aldershot.",
+   "type": "book",
+   "date": "2005",
+   "title": "Nonlinear Models for Archaeology and Anthropology: Continuing the Revolution",
+   "editors": [
+    {
+     "family": "Beekman",
+     "given": "C.S."
+    },
+    {
+     "family": "Baden",
+     "given": "W.W."
+    }
+   ],
+   "place": "London",
+   "publisher": "Aldershot",
+   "notes": "editor cited \"Beeckman\"",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Binford L.R. 1965, Archaeological systematics and the study of culture process, «American Antiquity», 31, 2, 203-210.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Binford",
+     "given": "L.R."
+    }
+   ],
+   "date": "1965",
+   "title": "Archaeological systematics and the study of culture process",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "31",
+   "issue": "2",
+   "pages": "203-210",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Bintliff J. 1997, Catastrophe, chaos and complexity: The death, decay and rebirth of towns from antiquity to today, «Journal of European Archaeology», 5, 67-90.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bintliff",
+     "given": "J."
+    }
+   ],
+   "date": "1997",
+   "title": "Catastrophe, chaos and complexity: The death, decay and rebirth of towns from antiquity to today",
+   "is_part_of": [
+    "Journal of European Archaeology"
+   ],
+   "volume": "5",
+   "pages": "67-90",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Bintliff J. 2005, Being in the (past) world: Vermeer, Neural Networks and archaeological theory, in T.L. Kienlin (ed.), Die Dinge als Zeichen. Culturelles Wissen und materielle Kultur, Bonn, Verlag Dr Rudolf Habelt, 125-131.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bintliff",
+     "given": "J."
+    }
+   ],
+   "date": "2005",
+   "title": "Being in the (past) world: Vermeer, Neural Networks and archaeological theory",
+   "editors": [
+    {
+     "family": "Kienlin",
+     "given": "T.L."
+    }
+   ],
+   "is_part_of": [
+    "Die Dinge als Zeichen. Culturelles Wissen und materielle Kultur"
+   ],
+   "place": "Bonn",
+   "publisher": "Verlag Dr Rudolf Habelt",
+   "pages": "125-131",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Bishop C.M. 1995, Neural Networks for Pattern Recognition, Oxford, Oxford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bishop",
+     "given": "C.M."
+    }
+   ],
+   "date": "1995",
+   "title": "Neural Networks for Pattern Recognition",
+   "place": "Oxford",
+   "publisher": "Oxford University Press",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Black W.R. 1995, Spatial interaction modelling using Artificial Neural Networks, «Journal of Transport Geography», 3/3, 159-166.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Black",
+     "given": "W.R."
+    }
+   ],
+   "date": "1995",
+   "title": "Spatial interaction modelling using Artificial Neural Networks",
+   "is_part_of": [
+    "Journal of Transport Geography"
+   ],
+   "volume": "3",
+   "issue": "3",
+   "pages": "159-166",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "Buscema M., Grossi E. 2007, A novel adapting mapping method for emergent properties discovery in data bases: Experience in medical field, in Proceedings of the International Conference on Systems, Man and Cybernetics, ISIC, IEEE (Montreal, Canada, 2007), 3457-3463.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buscema",
+     "given": "M."
+    },
+    {
+     "family": "Grossi",
+     "given": "E."
+    }
+   ],
+   "date": "2007",
+   "title": "A novel adapting mapping method for emergent properties discovery in data bases: Experience in medical field",
+   "is_part_of": [
+    "Proceedings of the International Conference on Systems, Man and Cybernetics, ISIC, IEEE (Montreal, Canada, 2007)"
+   ],
+   "pages": "3457-3463",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "Buscema M., Grossi E. 2008, The semantic connectivity map: An adapting self-organising knowledge discovery method in data bases, «International Journal of Data Mining and Bioinformatics», 2/4, 362-404.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Buscema",
+     "given": "M."
+    },
+    {
+     "family": "Grossi",
+     "given": "E."
+    }
+   ],
+   "date": "2008",
+   "title": "The semantic connectivity map: An adapting self-organising knowledge discovery method in data bases",
+   "is_part_of": [
+    "International Journal of Data Mining and Bioinformatics"
+   ],
+   "volume": "2",
+   "issue": "4",
+   "pages": "362-404",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "Buscema P.M., Intraligi M. 2003, Filosofia dei Sistemi Artificiali Adattivi, «Dedalo», 2, 27-40.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Buscema",
+     "given": "P.M."
+    },
+    {
+     "family": "Intraligi",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Filosofia dei Sistemi Artificiali Adattivi",
+   "is_part_of": [
+    "Dedalo"
+   ],
+   "volume": "2",
+   "pages": "27-40",
+   "language": "ita"
+  },
+  {
+   "position": 23,
+   "raw": "Buscema M., Petritoli R., Pieri G., Sacco P.L. 2008, Auto Contractive Maps, Technical Paper, 32, Roma, Aracne Editrice.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Buscema",
+     "given": "M."
+    },
+    {
+     "family": "Petritoli",
+     "given": "R."
+    },
+    {
+     "family": "Pieri",
+     "given": "G."
+    },
+    {
+     "family": "Sacco",
+     "given": "P.L."
+    }
+   ],
+   "date": "2008",
+   "title": "Auto Contractive Maps",
+   "series": "Technical Paper",
+   "series_number": "32",
+   "place": "Roma",
+   "publisher": "Aracne Editrice",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "Buscema P.M., Tastle W.J. 2013, Intelligent Data Mining in Law Enforcement Analytics: New Neural Networks Applied to Real Problems, Heidelberg-New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Buscema",
+     "given": "P.M."
+    },
+    {
+     "family": "Tastle",
+     "given": "W.J."
+    }
+   ],
+   "date": "2013",
+   "title": "Intelligent Data Mining in Law Enforcement Analytics: New Neural Networks Applied to Real Problems",
+   "place": "Heidelberg-New York",
+   "publisher": "Springer",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "Buscema M., Terzi S. 2007, A new evolutionary approach to topographic mapping, in Proceedings of the 7th WSEAS International Conference on Evolutionary Computing (Cavtat, Croatia, 2007), 12-19.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buscema",
+     "given": "M."
+    },
+    {
+     "family": "Terzi",
+     "given": "S."
+    }
+   ],
+   "date": "2007",
+   "title": "A new evolutionary approach to topographic mapping",
+   "is_part_of": [
+    "Proceedings of the 7th WSEAS International Conference on Evolutionary Computing (Cavtat, Croatia, 2007)"
+   ],
+   "pages": "12-19",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "Camiz S. 2004, On the coding of archaeological finds, in P. Moscati (ed.), New Frontiers of Archaeological Research. Languages, Communication, Information Technology, «Archeologia e Calcolatori», 15, 201-218.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "On the coding of archaeological finds",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "New Frontiers of Archaeological Research. Languages, Communication, Information Technology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "15",
+   "pages": "201-218",
+   "cited_aec_id": 380,
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "Camiz S., Rova E. 2001, Exploratory analysis of structured images: A test on different coding procedures and analysis methods, «Archeologia e Calcolatori», 12, 7-45.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    },
+    {
+     "family": "Rova",
+     "given": "E."
+    }
+   ],
+   "date": "2001",
+   "title": "Exploratory analysis of structured images: A test on different coding procedures and analysis methods",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "7-45",
+   "cited_aec_id": 313,
+   "language": "eng"
+  },
+  {
+   "position": 28,
+   "raw": "Canettieri P. 2012, Unified Theory of the Text (UTT) and the question of authorship attribution, «Memoria di Shakespeare», 8, 65-77.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Canettieri",
+     "given": "P."
+    }
+   ],
+   "date": "2012",
+   "title": "Unified Theory of the Text (UTT) and the question of authorship attribution",
+   "is_part_of": [
+    "Memoria di Shakespeare"
+   ],
+   "volume": "8",
+   "pages": "65-77",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "Canettieri P., Loreto V., Rovetta M., Santini G. 2004-2005, Philology and information theory: Towards an integrated approach, in P. Baret, A. Bozzi, C. Macé (eds.), Textual Criticism and Genetics, «Linguistica Computazionale», 24-25, 104-126.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Canettieri",
+     "given": "P."
+    },
+    {
+     "family": "Loreto",
+     "given": "V."
+    },
+    {
+     "family": "Rovetta",
+     "given": "M."
+    },
+    {
+     "family": "Santini",
+     "given": "G."
+    }
+   ],
+   "date": "2004-2005",
+   "title": "Philology and information theory: Towards an integrated approach",
+   "editors": [
+    {
+     "family": "Baret",
+     "given": "P."
+    },
+    {
+     "family": "Bozzi",
+     "given": "A."
+    },
+    {
+     "family": "Macé",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Textual Criticism and Genetics",
+    "Linguistica Computazionale"
+   ],
+   "volume": "24-25",
+   "pages": "104-126",
+   "language": "eng"
+  },
+  {
+   "position": 30,
+   "raw": "Canettieri P., Loreto V., Rovetta M., Santini G. 2005, Ecdotics and information theory, «Rivista di Filologia Cognitiva», 3 (http://w3.uniroma1.it/cogfil/ecdotica.html).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Canettieri",
+     "given": "P."
+    },
+    {
+     "family": "Loreto",
+     "given": "V."
+    },
+    {
+     "family": "Rovetta",
+     "given": "M."
+    },
+    {
+     "family": "Santini",
+     "given": "G."
+    }
+   ],
+   "date": "2005",
+   "title": "Ecdotics and information theory",
+   "is_part_of": [
+    "Rivista di Filologia Cognitiva"
+   ],
+   "volume": "3",
+   "uri": "http://w3.uniroma1.it/cogfil/ecdotica.html",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "Churchland P.M. 1989, A Neurocomputational Perspective. The Nature of Mind and the Structure of Science, Cambridge Ma, MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Churchland",
+     "given": "P.M."
+    }
+   ],
+   "date": "1989",
+   "title": "A Neurocomputational Perspective. The Nature of Mind and the Structure of Science",
+   "place": "Cambridge Ma.",
+   "publisher": "MIT Press",
+   "language": "eng"
+  },
+  {
+   "position": 32,
+   "raw": "Clark A. 1993, Associative Engines: Connectionism, Concepts and Representational Change, Cambridge Ma., MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Clark",
+     "given": "A."
+    }
+   ],
+   "date": "1993",
+   "title": "Associative Engines: Connectionism, Concepts and Representational Change",
+   "place": "Cambridge Ma.",
+   "publisher": "MIT Press",
+   "language": "eng"
+  },
+  {
+   "position": 33,
+   "raw": "Clark A., Eliasmith C. 2002, Philosophical issues in brain theory and connectionism, in M. Arbib (ed.), The Handbook of Brain Theory and Neural Networks, Cambridge Ma., MIT Press, 2nd ed., 886-888.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Clark",
+     "given": "A."
+    },
+    {
+     "family": "Eliasmith",
+     "given": "C."
+    }
+   ],
+   "date": "2002",
+   "title": "Philosophical issues in brain theory and connectionism",
+   "editors": [
+    {
+     "family": "Arbib",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "The Handbook of Brain Theory and Neural Networks"
+   ],
+   "edition": "2",
+   "pages": "886-888",
+   "place": "Cambridge Ma.",
+   "publisher": "MIT Press",
+   "language": "eng"
+  },
+  {
+   "position": 34,
+   "raw": "Clarke D.L. 1962, Matrix analysis and archaeology with particular reference to British beaker pottery, «Proceedings of the Prehistoric Society», 28, 371-383.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1962",
+   "title": "Matrix analysis and archaeology with particular reference to British beaker pottery",
+   "is_part_of": [
+    "Proceedings of the Prehistoric Society"
+   ],
+   "volume": "28",
+   "pages": "371-383",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "Clarke D.L. 1968, Analytical Archaeology, London, Methuen.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1968",
+   "title": "Analytical Archaeology",
+   "place": "London",
+   "publisher": "Methuen",
+   "language": "eng"
+  },
+  {
+   "position": 36,
+   "raw": "Clarke D.L. 1972, Models and paradigms in contemporary archaeology, in D.L. Clarke (ed.), Models in Archaeology, London, Methuen, 1-57.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1972",
+   "title": "Models and paradigms in contemporary archaeology",
+   "editors": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "is_part_of": [
+    "Models in Archaeology"
+   ],
+   "place": "London",
+   "publisher": "Methuen",
+   "pages": "1-57",
+   "language": "eng"
+  },
+  {
+   "position": 37,
+   "raw": "Clarke D.L. 1994, Culture as a system with subsystem, in M.S. Pearce (ed.), Interpreting Objects and Collections, New York-London, Routledge, 44-47.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1994",
+   "title": "Culture as a system with subsystem",
+   "editors": [
+    {
+     "family": "Pearce",
+     "given": "M.S."
+    }
+   ],
+   "is_part_of": [
+    "Interpreting Objects and Collections"
+   ],
+   "place": "New York-London",
+   "publisher": "Routledge",
+   "pages": "44-47",
+   "language": "eng"
+  },
+  {
+   "position": 38,
+   "raw": "Deravignone L., Macchi J. 2006, Artificial Neural Networks in archaeology, «Archeologia e Calcolatori», 17, 121-136.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Deravignone",
+     "given": "L."
+    },
+    {
+     "family": "Macchi",
+     "given": "J."
+    }
+   ],
+   "date": "2006",
+   "title": "Artificial Neural Networks in archaeology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "17",
+   "pages": "121-136",
+   "cited_aec_id": 424,
+   "language": "eng"
+  },
+  {
+   "position": 39,
+   "raw": "Di Ludovico A. 2011, Experimental approaches to glyptic art using Artificial Neural Networks. An investigation into the Ur III iconological context, in E. Jerem, F. Redõ, V. Szevenényi (eds.), On the Road to Reconstructing the Past. Proceedings of the 36th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA) (Budapest 2008), Budapest, Archaeolingua, 135-146.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Ludovico",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "Experimental approaches to glyptic art using Artificial Neural Networks. An investigation into the Ur III iconological context",
+   "editors": [
+    {
+     "family": "Jerem",
+     "given": "E."
+    },
+    {
+     "family": "Redő",
+     "given": "F."
+    },
+    {
+     "family": "Szeverényi",
+     "given": "V."
+    }
+   ],
+   "is_part_of": [
+    "On the Road to Reconstructing the Past. Proceedings of the 36th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA) (Budapest 2008)"
+   ],
+   "place": "Budapest",
+   "publisher": "Archaeolingua",
+   "pages": "135-146",
+   "notes": "editors cited \"Redõ\", \"Szevenényi\"",
+   "language": "eng"
+  },
+  {
+   "position": 40,
+   "raw": "Di Ludovico A., Pieri G. 2011, Artificial Neural Networks and ancient artefacts: Justifications for a multiform integrated approach using PST and Auto-CM models, «Archeologia e Calcolatori», 22, 99-128.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Ludovico",
+     "given": "A."
+    },
+    {
+     "family": "Pieri",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "Artificial Neural Networks and ancient artefacts: Justifications for a multiform integrated approach using PST and Auto-CM models",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "99-128",
+   "cited_aec_id": 589,
+   "language": "eng"
+  },
+  {
+   "position": 41,
+   "raw": "Di Ludovico A., Ramazzotti M. 2008, Reconstructing lexicography in glyptic art: Structural relations between the Akkadian age and the Ur III Period, in R.D. Biggs, J. Myers, M. Roth (eds.), Proceedings of the 51st Rencontre Assyriologique Internationale (Chicago 2005), «Studies in Ancient Oriental Civilization», 62, Chicago, Oriental Institute Publications, 263-280.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Ludovico",
+     "given": "A."
+    },
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "Reconstructing lexicography in glyptic art: Structural relations between the Akkadian age and the Ur III Period",
+   "editors": [
+    {
+     "family": "Biggs",
+     "given": "R.D."
+    },
+    {
+     "family": "Myers",
+     "given": "J."
+    },
+    {
+     "family": "Roth",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the 51st Rencontre Assyriologique Internationale (Chicago 2005)"
+   ],
+   "series": "Studies in Ancient Oriental Civilization",
+   "series_number": "62",
+   "place": "Chicago",
+   "publisher": "Oriental Institute Publications",
+   "pages": "263-280",
+   "language": "eng"
+  },
+  {
+   "position": 42,
+   "raw": "Di Ludovico A., Ramazzotti M. 2011, Design at Ebla. The decorative system of a painted wall decoration, «Orientalia», 80, 1, 66-80.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Ludovico",
+     "given": "A."
+    },
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "Design at Ebla. The decorative system of a painted wall decoration",
+   "is_part_of": [
+    "Orientalia"
+   ],
+   "volume": "80",
+   "issue": "1",
+   "pages": "66-80",
+   "language": "eng"
+  },
+  {
+   "position": 43,
+   "raw": "Djindjian F. 2002, Pour une théorie générale de la connaissance en archéologie, in Djindjian, Moscati 2002, 101-117.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "Pour une théorie générale de la connaissance en archéologie",
+   "pages": "101-117",
+   "cited_aec_id": 337,
+   "language": "fre",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "XIV UISPP Congress (Liège-Belgium 2001). Proceedings of Commission IV Symposia. Data Management and Mathematical Methods in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "xref": 45
+  },
+  {
+   "position": 44,
+   "raw": "Djindjian F. 2003, Modèles «cognitifs» et modèles «paradigmatiques» en archéologie, in I modelli nella ricerca archeologica 2003, 178-199.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "2003",
+   "title": "Modèles «cognitifs» et modèles «paradigmatiques» en archéologie",
+   "pages": "178-199",
+   "language": "fre",
+   "is_part_of": [
+    "I modelli nella ricerca archeologica. Il ruolo dell'informatica. Atti del Convegno internazionale (Roma 2000)"
+   ],
+   "series": "Contributi del Centro Linceo Interdisciplinare Beniamino Segre",
+   "series_number": "107",
+   "place": "Roma",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "xref": 82
+  },
+  {
+   "position": 45,
+   "raw": "Djindjian F., Moscati P. (eds.) 2002, XIV UISPP Congress (Liège-Belgium 2001). Proceedings of Commission IV Symposia. Data Management and Mathematical Methods in Archaeology, «Archeologia e Calcolatori», 13.",
+   "type": "proceedings",
+   "date": "2002",
+   "title": "XIV UISPP Congress (Liège-Belgium 2001). Proceedings of Commission IV Symposia. Data Management and Mathematical Methods in Archaeology",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "language": "eng"
+  },
+  {
+   "position": 46,
+   "raw": "Doran J.E. 1970a, System theory, computer simulation and archaeology, «World Archaeology», 1, 289-298.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "date": "1970",
+   "title": "System theory, computer simulation and archaeology",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "1",
+   "pages": "289-298",
+   "language": "eng"
+  },
+  {
+   "position": 47,
+   "raw": "Doran J.E. 1970b, Archaeological reasoning and machine reasoning, in Gardin 1970, 57-69.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "date": "1970",
+   "title": "Archaeological reasoning and machine reasoning",
+   "editors": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "is_part_of": [
+    "Archéologie et calculateurs: problèmes mathématiques et sémiologiques"
+   ],
+   "place": "Paris",
+   "publisher": "Ed. du CNRS",
+   "pages": "57-69",
+   "xref": 68,
+   "language": "eng"
+  },
+  {
+   "position": 48,
+   "raw": "Doran J.E., Hodson F.R. 1975, Mathematics and Computers in Archaeology, Edinburgh, Edinburgh University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    },
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    }
+   ],
+   "date": "1975",
+   "title": "Mathematics and Computers in Archaeology",
+   "place": "Edinburgh",
+   "publisher": "Edinburgh University Press",
+   "language": "eng"
+  },
+  {
+   "position": 49,
+   "raw": "Ehsani A.H. 2007, Artificial Neural Networks: Application in Morphometric and Landscape Features Analysis, KTH, Stockholm, Royal Institute of Technology.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Ehsani",
+     "given": "A.H."
+    }
+   ],
+   "date": "2007",
+   "title": "Artificial Neural Networks: Application in Morphometric and Landscape Features Analysis",
+   "place": "Stockholm",
+   "publisher": "KTH, Royal Institute of Technology",
+   "language": "eng"
+  },
+  {
+   "position": 50,
+   "raw": "Elman J.L., Rumelhart D.E. 1989, Advanced in Connectionist Theory, Hillsdale NJ, Speech, Erlbaum.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Elman",
+     "given": "J.L."
+    },
+    {
+     "family": "Rumelhart",
+     "given": "D.E."
+    }
+   ],
+   "date": "1989",
+   "title": "Advanced in Connectionist Theory",
+   "place": "Hillsdale NJ",
+   "publisher": "Erlbaum",
+   "notes": "cited \"Hillsdale NJ, Speech, Erlbaum\"",
+   "language": "eng"
+  },
+  {
+   "position": 51,
+   "raw": "Feldman J.A., Ballard D.H. 1982, Connectionist models and their properties, «Cognitive Science», 6, 205-254.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Feldman",
+     "given": "J.A."
+    },
+    {
+     "family": "Ballard",
+     "given": "D.H."
+    }
+   ],
+   "date": "1982",
+   "title": "Connectionist models and their properties",
+   "is_part_of": [
+    "Cognitive Science"
+   ],
+   "volume": "6",
+   "pages": "205-254",
+   "language": "eng"
+  },
+  {
+   "position": 52,
+   "raw": "Feldman J.A., Ballard D.H. 1989, Connectionist representation of concepts, in R. Pfeifer, Z. Schreter, F. Fogelman-Soulié, L. Steels (eds.), Connectionism in Perspective, Amsterdam, North Holland.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Feldman",
+     "given": "J.A."
+    },
+    {
+     "family": "Ballard",
+     "given": "D.H."
+    }
+   ],
+   "date": "1989",
+   "title": "Connectionist representation of concepts",
+   "editors": [
+    {
+     "family": "Pfeifer",
+     "given": "R."
+    },
+    {
+     "family": "Schreter",
+     "given": "Z."
+    },
+    {
+     "family": "Fogelman-Soulié",
+     "given": "F."
+    },
+    {
+     "family": "Steels",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Connectionism in Perspective"
+   ],
+   "place": "Amsterdam",
+   "publisher": "North Holland",
+   "language": "eng"
+  },
+  {
+   "position": 53,
+   "raw": "Fischer M.M. 1998, A genetic-algorithm based on evolutionary Computational Neural Network for modelling spatial interaction data, «The Annals of Regional Science», 32/3, 437-458.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fischer",
+     "given": "M.M."
+    }
+   ],
+   "date": "1998",
+   "title": "A genetic-algorithm based on evolutionary Computational Neural Network for modelling spatial interaction data",
+   "is_part_of": [
+    "The Annals of Regional Science"
+   ],
+   "volume": "32",
+   "issue": "3",
+   "pages": "437-458",
+   "language": "eng"
+  },
+  {
+   "position": 54,
+   "raw": "Fischer M.M. 2000, Methodological challenges in neural spatial interaction modelling: The issue of model selection, in A. Reggiani (ed.), Spatial Economic Science: New Frontiers in Theory and Methodology, Berlin, Heidelberg and New York, Springer, 89-101.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fischer",
+     "given": "M.M."
+    }
+   ],
+   "date": "2000",
+   "title": "Methodological challenges in neural spatial interaction modelling: The issue of model selection",
+   "editors": [
+    {
+     "family": "Reggiani",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Spatial Economic Science: New Frontiers in Theory and Methodology"
+   ],
+   "place": "Berlin, Heidelberg and New York",
+   "publisher": "Springer",
+   "pages": "89-101",
+   "language": "eng"
+  },
+  {
+   "position": 55,
+   "raw": "Fischer M.M. 2001, Neural Spatial Interaction Models, in M.M. Fischer, Y. Leung (eds.), Geo-Computational Modelling: Techniques and Applications, Berlin, Heidelberg and New York, Springer, 195-219.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fischer",
+     "given": "M.M."
+    }
+   ],
+   "date": "2001",
+   "title": "Neural Spatial Interaction Models",
+   "editors": [
+    {
+     "family": "Fischer",
+     "given": "M.M."
+    },
+    {
+     "family": "Leung",
+     "given": "Y."
+    }
+   ],
+   "is_part_of": [
+    "Geo-Computational Modelling: Techniques and Applications"
+   ],
+   "place": "Berlin, Heidelberg and New York",
+   "publisher": "Springer",
+   "pages": "195-219",
+   "language": "eng"
+  },
+  {
+   "position": 56,
+   "raw": "Fischer M.M. 2002, Learning in neural spatial interaction models: A statistical perspective, «Journal of Geographical Systems», 4/3, 287-299.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fischer",
+     "given": "M.M."
+    }
+   ],
+   "date": "2002",
+   "title": "Learning in neural spatial interaction models: A statistical perspective",
+   "is_part_of": [
+    "Journal of Geographical Systems"
+   ],
+   "volume": "4",
+   "issue": "3",
+   "pages": "287-299",
+   "language": "eng"
+  },
+  {
+   "position": 57,
+   "raw": "Fischer M.M., Reismann M. 2002, A methodology for neural spatial interaction modeling, «Geographical Analysis», 34/3, 1-23.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fischer",
+     "given": "M.M."
+    },
+    {
+     "family": "Reismann",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "A methodology for neural spatial interaction modeling",
+   "is_part_of": [
+    "Geographical Analysis"
+   ],
+   "volume": "34",
+   "issue": "3",
+   "pages": "1-23",
+   "language": "eng"
+  },
+  {
+   "position": 58,
+   "raw": "Flannery K.V. 1968, Archaeological system theory and early Mesoamerica, in J.B. Meggers (ed.), Anthropological Archaeology in the Americas, Washington, Anthropological Society of Washington, 67-87.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Flannery",
+     "given": "K.V."
+    }
+   ],
+   "date": "1968",
+   "title": "Archaeological system theory and early Mesoamerica",
+   "editors": [
+    {
+     "family": "Meggers",
+     "given": "J.B."
+    }
+   ],
+   "is_part_of": [
+    "Anthropological Archaeology in the Americas"
+   ],
+   "place": "Washington",
+   "publisher": "Anthropological Society of Washington",
+   "pages": "67-87",
+   "language": "eng"
+  },
+  {
+   "position": 59,
+   "raw": "Flannery K.V., Marcus J. 1993, Cognitive archaeology, «Cambridge Archaeological Journal», 3, 260-270.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Flannery",
+     "given": "K.V."
+    },
+    {
+     "family": "Marcus",
+     "given": "J."
+    }
+   ],
+   "date": "1993",
+   "title": "Cognitive archaeology",
+   "is_part_of": [
+    "Cambridge Archaeological Journal"
+   ],
+   "volume": "3",
+   "pages": "260-270",
+   "language": "eng"
+  },
+  {
+   "position": 60,
+   "raw": "Fodor J. 1987, Psychosemantics: The Problem of Meaning in the Philosophy of Mind, Cambridge Ma., MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fodor",
+     "given": "J."
+    }
+   ],
+   "date": "1987",
+   "title": "Psychosemantics: The Problem of Meaning in the Philosophy of Mind",
+   "place": "Cambridge Ma.",
+   "publisher": "MIT Press",
+   "language": "eng"
+  },
+  {
+   "position": 61,
+   "raw": "Fodor J., Pylyshyn Z. 1988, Connectionism and cognitive architecture: A critical analysis, «Cognition», 28, 3-71.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fodor",
+     "given": "J."
+    },
+    {
+     "family": "Pylyshyn",
+     "given": "Z."
+    }
+   ],
+   "date": "1988",
+   "title": "Connectionism and cognitive architecture: A critical analysis",
+   "is_part_of": [
+    "Cognition"
+   ],
+   "volume": "28",
+   "pages": "3-71",
+   "language": "eng"
+  },
+  {
+   "position": 62,
+   "raw": "Francfort H.-P. 1990, Modelling interpretative reasoning in archaeology with the aid of Expert Systems: Consequences of a critique of the foundations of inferences, in R. Ennals, J.-C. Gardin (eds.), Interpretation in the Humanities: Perspectives from Artificial Intelligence, LIR Report 71, The British Library, 101-129.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Francfort",
+     "given": "H.-P."
+    }
+   ],
+   "date": "1990",
+   "title": "Modelling interpretative reasoning in archaeology with the aid of Expert Systems: Consequences of a critique of the foundations of inferences",
+   "editors": [
+    {
+     "family": "Ennals",
+     "given": "R."
+    },
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "is_part_of": [
+    "Interpretation in the Humanities: Perspectives from Artificial Intelligence"
+   ],
+   "series": "LIR Report",
+   "series_number": "71",
+   "publisher": "The British Library",
+   "pages": "101-129",
+   "language": "eng"
+  },
+  {
+   "position": 63,
+   "raw": "Francfort H.-P. 1997, Archaeological interpretation and non-linear dynamic modelling: Between metaphor and simulation, in S.E. van der Leeuw, J. McGlade (eds.), Time, Process and Structured Transformation in Archaeology, London, Routledge, 151-175.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Francfort",
+     "given": "H.-P."
+    }
+   ],
+   "date": "1997",
+   "title": "Archaeological interpretation and non-linear dynamic modelling: Between metaphor and simulation",
+   "editors": [
+    {
+     "family": "van der Leeuw",
+     "given": "S.E."
+    },
+    {
+     "family": "McGlade",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "Time, Process and Structured Transformation in Archaeology"
+   ],
+   "place": "London",
+   "publisher": "Routledge",
+   "pages": "151-175",
+   "language": "eng"
+  },
+  {
+   "position": 64,
+   "raw": "Fredman M.L., Willard D.E. 1990, Trans-dichotomous algorithms for minimum spanning trees and shortest paths, in Proceedings of the 31st Annual Symposium on Foundations of Computer Science (St. Louis Missouri 1990), EEE Computer Society Press, 719-725.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fredman",
+     "given": "M.L."
+    },
+    {
+     "family": "Willard",
+     "given": "D.E."
+    }
+   ],
+   "date": "1990",
+   "title": "Trans-dichotomous algorithms for minimum spanning trees and shortest paths",
+   "is_part_of": [
+    "Proceedings of the 31st Annual Symposium on Foundations of Computer Science (St. Louis Missouri 1990)"
+   ],
+   "publisher": "IEEE Computer Society Press",
+   "pages": "719-725",
+   "language": "eng"
+  },
+  {
+   "position": 65,
+   "raw": "Gabow H.N, Galil Z., Spencer T., Tarjan R. 1986, Efficient algorithms for finding the minimum spanning trees in undirected and directed graphs, «Combinatorica», 6, 109-122.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gabow",
+     "given": "H.N."
+    },
+    {
+     "family": "Galil",
+     "given": "Z."
+    },
+    {
+     "family": "Spencer",
+     "given": "T."
+    },
+    {
+     "family": "Tarjan",
+     "given": "R."
+    }
+   ],
+   "date": "1986",
+   "title": "Efficient algorithms for finding the minimum spanning trees in undirected and directed graphs",
+   "is_part_of": [
+    "Combinatorica"
+   ],
+   "volume": "6",
+   "pages": "109-122",
+   "language": "eng"
+  },
+  {
+   "position": 66,
+   "raw": "Gallant S.I. 1993, Neural Network Learning and Expert System, Cambridge Ma., MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gallant",
+     "given": "S.I."
+    }
+   ],
+   "date": "1993",
+   "title": "Neural Network Learning and Expert System",
+   "place": "Cambridge Ma.",
+   "publisher": "MIT Press",
+   "language": "eng"
+  },
+  {
+   "position": 67,
+   "raw": "Gallay A. 1989, Logicism: A French view of archaeological theory founded in computational perspective, «Antiquity», 63, 27-39.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "date": "1989",
+   "title": "Logicism: A French view of archaeological theory founded in computational perspective",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "63",
+   "pages": "27-39",
+   "language": "eng"
+  },
+  {
+   "position": 68,
+   "raw": "Gardin J.-C. 1970, Archéologie et calculateurs: problèmes mathématiques et sémiologiques, Paris, Ed. du CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1970",
+   "title": "Archéologie et calculateurs: problèmes mathématiques et sémiologiques",
+   "place": "Paris",
+   "publisher": "Ed. du CNRS",
+   "language": "fre"
+  },
+  {
+   "position": 69,
+   "raw": "Gardin J.-C. 1987, De l'analyse logiciste aux systèmes experts, in J.-C. Gardin, O. Guillame (eds.), Systèmes experts et sciences humaines: le cas de l'archéologie, Paris, Eyrolles, 27-42.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1987",
+   "title": "De l'analyse logiciste aux systèmes experts",
+   "editors": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    },
+    {
+     "family": "Guillaume",
+     "given": "O."
+    }
+   ],
+   "is_part_of": [
+    "Systèmes experts et sciences humaines: le cas de l'archéologie"
+   ],
+   "place": "Paris",
+   "publisher": "Eyrolles",
+   "pages": "27-42",
+   "language": "fre"
+  },
+  {
+   "position": 70,
+   "raw": "Gardin J.-C. 1996, La révolution cognitive et l'archéologie, in P. Moscati (ed.), III International Symposium on Computing and Archaeology (Roma 1995), «Archeologia e Calcolatori», 7, 2, 1221-1230.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1996",
+   "title": "La révolution cognitive et l'archéologie",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "1221-1230",
+   "cited_aec_id": 227,
+   "language": "fre"
+  },
+  {
+   "position": 71,
+   "raw": "Gardin J.-C. 2002, Les modèles logico-discursifs en archéologie, in Djindjian, Moscati 2002, 19-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "2002",
+   "title": "Les modèles logico-discursifs en archéologie",
+   "pages": "19-30",
+   "cited_aec_id": 332,
+   "language": "fre",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "XIV UISPP Congress (Liège-Belgium 2001). Proceedings of Commission IV Symposia. Data Management and Mathematical Methods in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "xref": 45
+  },
+  {
+   "position": 72,
+   "raw": "Gardin J.-C. 2003, Archéologie et modèles: essai sur les rapports entre thèmes du Symposium, in I modelli nella ricerca archeologica 2003, 5-23.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "2003",
+   "title": "Archéologie et modèles: essai sur les rapports entre thèmes du Symposium",
+   "pages": "5-23",
+   "language": "fre",
+   "is_part_of": [
+    "I modelli nella ricerca archeologica. Il ruolo dell'informatica. Atti del Convegno internazionale (Roma 2000)"
+   ],
+   "series": "Contributi del Centro Linceo Interdisciplinare Beniamino Segre",
+   "series_number": "107",
+   "place": "Roma",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "xref": 82
+  },
+  {
+   "position": 73,
+   "raw": "Gersho A, Gray R.M. 1992, Vector Quantization and Signal Compression, New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gersho",
+     "given": "A."
+    },
+    {
+     "family": "Gray",
+     "given": "R.M."
+    }
+   ],
+   "date": "1992",
+   "title": "Vector Quantization and Signal Compression",
+   "place": "New York",
+   "publisher": "Springer",
+   "language": "eng"
+  },
+  {
+   "position": 74,
+   "raw": "Gong T., Baronchelli A., Puglisi A., Loreto V. 2012, Modelling the emergence of universality in color naming patterns, «Proceedings of the National Academy of Sciences of the United States of America», 107, 2403-2407.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gong",
+     "given": "T."
+    },
+    {
+     "family": "Baronchelli",
+     "given": "A."
+    },
+    {
+     "family": "Puglisi",
+     "given": "A."
+    },
+    {
+     "family": "Loreto",
+     "given": "V."
+    }
+   ],
+   "date": "2012",
+   "title": "Modelling the emergence of universality in color naming patterns",
+   "is_part_of": [
+    "Proceedings of the National Academy of Sciences of the United States of America"
+   ],
+   "volume": "107",
+   "pages": "2403-2407",
+   "language": "eng"
+  },
+  {
+   "position": 75,
+   "raw": "Graham L.R. 1985, On the history of the minimum spanning tree problem, «Annals of the History of Computing», 7, 43-57.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Graham",
+     "given": "L.R."
+    }
+   ],
+   "date": "1985",
+   "title": "On the history of the minimum spanning tree problem",
+   "is_part_of": [
+    "Annals of the History of Computing"
+   ],
+   "volume": "7",
+   "pages": "43-57",
+   "language": "eng"
+  },
+  {
+   "position": 76,
+   "raw": "Grossberg S. 1982, Studies of mind and brain: Neural principles of learning, perception, development, cognition, and motor control, Dordrecht, Reidel.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Grossberg",
+     "given": "S."
+    }
+   ],
+   "date": "1982",
+   "title": "Studies of mind and brain: Neural principles of learning, perception, development, cognition, and motor control",
+   "place": "Dordrecht",
+   "publisher": "Reidel",
+   "language": "eng"
+  },
+  {
+   "position": 77,
+   "raw": "Grossberg S. 1987, The Adaptive Brain, New York, North Holland.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Grossberg",
+     "given": "S."
+    }
+   ],
+   "date": "1987",
+   "title": "The Adaptive Brain",
+   "place": "New York",
+   "publisher": "North Holland",
+   "language": "eng"
+  },
+  {
+   "position": 78,
+   "raw": "Grossberg S.1988, Neural Networks and Natural Intelligence, Cambridge Ma., MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Grossberg",
+     "given": "S."
+    }
+   ],
+   "date": "1988",
+   "title": "Neural Networks and Natural Intelligence",
+   "place": "Cambridge Ma.",
+   "publisher": "MIT Press",
+   "language": "eng"
+  },
+  {
+   "position": 79,
+   "raw": "Hermon S., Niccolucci F. 2002, Estimating subjectivity of typologists and typological classification with fuzzy logic, in Djindjian, Moscati 2002, 217-232.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hermon",
+     "given": "S."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "Estimating subjectivity of typologists and typological classification with fuzzy logic",
+   "pages": "217-232",
+   "cited_aec_id": 347,
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "XIV UISPP Congress (Liège-Belgium 2001). Proceedings of Commission IV Symposia. Data Management and Mathematical Methods in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "xref": 45,
+   "language": "eng"
+  },
+  {
+   "position": 80,
+   "raw": "Hewitson B., Crane R.1994, Neural Nets: Applications in Geography, Dordrecht, Kluwer Academic Publishers.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hewitson",
+     "given": "B."
+    },
+    {
+     "family": "Crane",
+     "given": "R."
+    }
+   ],
+   "date": "1994",
+   "title": "Neural Nets: Applications in Geography",
+   "place": "Dordrecht",
+   "publisher": "Kluwer Academic Publishers",
+   "language": "eng"
+  },
+  {
+   "position": 81,
+   "raw": "Hopfield J.J. 1982, Neural Networks and Physical Systems with Emergent Collective Computational Abilities, «Proceedings of the National Academy of Sciences of the United States of America», 79/8, 2554-2558.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hopfield",
+     "given": "J.J."
+    }
+   ],
+   "date": "1982",
+   "title": "Neural Networks and Physical Systems with Emergent Collective Computational Abilities",
+   "is_part_of": [
+    "Proceedings of the National Academy of Sciences of the United States of America"
+   ],
+   "volume": "79",
+   "issue": "8",
+   "pages": "2554-2558",
+   "language": "eng"
+  },
+  {
+   "position": 82,
+   "raw": "I modelli nella ricerca archeologica. Il ruolo dell'informatica. Atti del Convegno internazionale (Roma 2000), Contributi del Centro Linceo Interdisciplinare Beniamino Segre, n. 107, Roma, Accademia Nazionale dei Lincei 2003.",
+   "type": "proceedings",
+   "date": "2003",
+   "title": "I modelli nella ricerca archeologica. Il ruolo dell'informatica. Atti del Convegno internazionale (Roma 2000)",
+   "series": "Contributi del Centro Linceo Interdisciplinare Beniamino Segre",
+   "series_number": "107",
+   "place": "Roma",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "language": "ita"
+  },
+  {
+   "position": 83,
+   "raw": "Kohler T.A., van der Leeuw S.E. (eds.) 2007, The Model-Based Archaeology of Socionatural Systems, Santa Fe, New Mexico, SAR Press.",
+   "type": "book",
+   "date": "2007",
+   "title": "The Model-Based Archaeology of Socionatural Systems",
+   "editors": [
+    {
+     "family": "Kohler",
+     "given": "T.A."
+    },
+    {
+     "family": "van der Leeuw",
+     "given": "S.E."
+    }
+   ],
+   "place": "Santa Fe, New Mexico",
+   "publisher": "SAR Press",
+   "language": "eng"
+  },
+  {
+   "position": 84,
+   "raw": "Kosko B. 1992, Neural Networks and Fuzzy Systems: A Dynamical Systems Approach to Machine Intelligence, Englewood Cliffs NJ, Prentice Hall.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kosko",
+     "given": "B."
+    }
+   ],
+   "date": "1992",
+   "title": "Neural Networks and Fuzzy Systems: A Dynamical Systems Approach to Machine Intelligence",
+   "place": "Englewood Cliffs NJ",
+   "publisher": "Prentice Hall",
+   "language": "eng"
+  },
+  {
+   "position": 85,
+   "raw": "Kruskal J.B. 1956, On the shortest spanning subtree of a graph and the traveling salesman problem, «Proceedings of the American Mathematical Society», 7/1, 48-50.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kruskal",
+     "given": "J.B."
+    }
+   ],
+   "date": "1956",
+   "title": "On the shortest spanning subtree of a graph and the traveling salesman problem",
+   "is_part_of": [
+    "Proceedings of the American Mathematical Society"
+   ],
+   "volume": "7",
+   "issue": "1",
+   "pages": "48-50",
+   "language": "eng"
+  },
+  {
+   "position": 86,
+   "raw": "Kvamme K.L. 1990, The fundamental principles and practice of predictive archaeological modelling, in A. Voorrips (ed.), Mathematics and Information Science in Archaeology: A Flexible Framework, Bonn, Holos-Verlag, 257-295.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "date": "1990",
+   "title": "The fundamental principles and practice of predictive archaeological modelling",
+   "editors": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Mathematics and Information Science in Archaeology: A Flexible Framework"
+   ],
+   "place": "Bonn",
+   "publisher": "Holos-Verlag",
+   "pages": "257-295",
+   "language": "eng"
+  },
+  {
+   "position": 87,
+   "raw": "Loreto V., Steels V. 2007, Emergence of language, «Nature Physics», 3, 758-760",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Loreto",
+     "given": "V."
+    },
+    {
+     "family": "Steels",
+     "given": "V."
+    }
+   ],
+   "date": "2007",
+   "title": "Emergence of language",
+   "is_part_of": [
+    "Nature Physics"
+   ],
+   "volume": "3",
+   "pages": "758-760",
+   "language": "eng"
+  },
+  {
+   "position": 88,
+   "raw": "Low W.G. 1981, Using system dynamics to simulate the past, in J.A. Sabloff (ed.), Simulations in Archaeology, University of New Mexico Press, 249-281.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Low",
+     "given": "W.G."
+    }
+   ],
+   "date": "1981",
+   "title": "Using system dynamics to simulate the past",
+   "editors": [
+    {
+     "family": "Sabloff",
+     "given": "J.A."
+    }
+   ],
+   "is_part_of": [
+    "Simulations in Archaeology"
+   ],
+   "publisher": "University of New Mexico Press",
+   "pages": "249-281",
+   "language": "eng"
+  },
+  {
+   "position": 89,
+   "raw": "Malafouris L. 2010, Metaplasticity and the human becoming: Principles of neuroarchaeology, «Journal of Anthropological Sciences», 88, 49-72.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Malafouris",
+     "given": "L."
+    }
+   ],
+   "date": "2010",
+   "title": "Metaplasticity and the human becoming: Principles of neuroarchaeology",
+   "is_part_of": [
+    "Journal of Anthropological Sciences"
+   ],
+   "volume": "88",
+   "pages": "49-72",
+   "language": "eng"
+  },
+  {
+   "position": 90,
+   "raw": "Malafouris L., Renfrew C. 2008, Steps to a 'neuroarchaeology' of mind: An introduction, «Cambridge Archaeological Journal», 18, 381-385.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Malafouris",
+     "given": "L."
+    },
+    {
+     "family": "Renfrew",
+     "given": "C."
+    }
+   ],
+   "date": "2008",
+   "title": "Steps to a 'neuroarchaeology' of mind: An introduction",
+   "is_part_of": [
+    "Cambridge Archaeological Journal"
+   ],
+   "volume": "18",
+   "pages": "381-385",
+   "language": "eng"
+  },
+  {
+   "position": 91,
+   "raw": "Malafouris L., Renfrew C. 2010, The cognitive life of things: Archaeology, material engagement and the extended mind, in L. Malafouris, C. Renfrew (eds.), The Cognitive Life of Things: Recasting the Boundaries of the Mind, Cambridge, McDonald Institute Monographs, 1-12.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Malafouris",
+     "given": "L."
+    },
+    {
+     "family": "Renfrew",
+     "given": "C."
+    }
+   ],
+   "date": "2010",
+   "title": "The cognitive life of things: Archaeology, material engagement and the extended mind",
+   "editors": [
+    {
+     "family": "Malafouris",
+     "given": "L."
+    },
+    {
+     "family": "Renfrew",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "The Cognitive Life of Things: Recasting the Boundaries of the Mind"
+   ],
+   "place": "Cambridge",
+   "publisher": "McDonald Institute Monographs",
+   "pages": "1-12",
+   "language": "eng"
+  },
+  {
+   "position": 92,
+   "raw": "Mandic D., Chambers J. 2001, Recurrent Neural Networks for Prediction: Learning Algorithms, Architectures and Stability, London, Wiley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mandic",
+     "given": "D."
+    },
+    {
+     "family": "Chambers",
+     "given": "J."
+    }
+   ],
+   "date": "2001",
+   "title": "Recurrent Neural Networks for Prediction: Learning Algorithms, Architectures and Stability",
+   "place": "London",
+   "publisher": "Wiley",
+   "language": "eng"
+  },
+  {
+   "position": 93,
+   "raw": "Mangan S., Zaslaver A., Alon U. 2003, The coherent feed-forward loop serves as a sign-sensitive delay element in transcription networks, «Molecular Biology», 334, 197-204.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mangan",
+     "given": "S."
+    },
+    {
+     "family": "Zaslaver",
+     "given": "A."
+    },
+    {
+     "family": "Alon",
+     "given": "U."
+    }
+   ],
+   "date": "2003",
+   "title": "The coherent feed-forward loop serves as a sign-sensitive delay element in transcription networks",
+   "is_part_of": [
+    "Molecular Biology"
+   ],
+   "volume": "334",
+   "pages": "197-204",
+   "language": "eng"
+  },
+  {
+   "position": 94,
+   "raw": "Marcus G.F. 2001, The Algebraic Mind. Integrating Connectionism and Cognitive Science, Cambridge Ma., MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Marcus",
+     "given": "G.F."
+    }
+   ],
+   "date": "2001",
+   "title": "The Algebraic Mind. Integrating Connectionism and Cognitive Science",
+   "place": "Cambridge Ma.",
+   "publisher": "MIT Press",
+   "language": "eng"
+  },
+  {
+   "position": 95,
+   "raw": "McClelland J.L., Botvinick M.M., Noelle D.C., Plaut D.C., Rogers T.T., Seidenberg M.S., Smith L.B. 2010, Approaches to cognitive modeling. Letting structure emerge: Connectionist and dynamical systems approaches to cognition, «Cognitive Sciences», 14, 348-356.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "McClelland",
+     "given": "J.L."
+    },
+    {
+     "family": "Botvinick",
+     "given": "M.M."
+    },
+    {
+     "family": "Noelle",
+     "given": "D.C."
+    },
+    {
+     "family": "Plaut",
+     "given": "D.C."
+    },
+    {
+     "family": "Rogers",
+     "given": "T.T."
+    },
+    {
+     "family": "Seidenberg",
+     "given": "M.S."
+    },
+    {
+     "family": "Smith",
+     "given": "L.B."
+    }
+   ],
+   "date": "2010",
+   "title": "Approaches to cognitive modeling. Letting structure emerge: Connectionist and dynamical systems approaches to cognition",
+   "is_part_of": [
+    "Cognitive Sciences"
+   ],
+   "volume": "14",
+   "pages": "348-356",
+   "language": "eng"
+  },
+  {
+   "position": 96,
+   "raw": "McCulloch W.S., Pitts W.H.A. 1993, A logical calculus of the ideas immanent in nervous activity, «Bulletin of Mathematical Biophysics», 5, 115-133.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "McCulloch",
+     "given": "W.S."
+    },
+    {
+     "family": "Pitts",
+     "given": "W.H.A."
+    }
+   ],
+   "date": "1993",
+   "title": "A logical calculus of the ideas immanent in nervous activity",
+   "is_part_of": [
+    "Bulletin of Mathematical Biophysics"
+   ],
+   "volume": "5",
+   "pages": "115-133",
+   "confidence": "low",
+   "notes": "cited 1993; volume 5 of the Bulletin of Mathematical Biophysics is 1943: date kept as cited",
+   "language": "eng"
+  },
+  {
+   "position": 97,
+   "raw": "McClelland J.L., Rumelhart D.E. (eds.) 1986, Parallel Distributed Processing. Explorations in the Microstructure of Cognition, Cambridge Ma., MIT Press.",
+   "type": "book",
+   "date": "1986",
+   "title": "Parallel Distributed Processing. Explorations in the Microstructure of Cognition",
+   "editors": [
+    {
+     "family": "McClelland",
+     "given": "J.L."
+    },
+    {
+     "family": "Rumelhart",
+     "given": "D.E."
+    }
+   ],
+   "place": "Cambridge Ma.",
+   "publisher": "MIT Press",
+   "language": "eng"
+  },
+  {
+   "position": 98,
+   "raw": "McGlade J., Van der Leew S.E. 1997, Introduction: Archaeology and non-linear dynamics - New approach to long-term change, in J. McGlade, S.E. Van der Leew (eds.), Time, Process and Structured Transformation in Archaeology, London, Routledge, 1-31.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "McGlade",
+     "given": "J."
+    },
+    {
+     "family": "Van der Leeuw",
+     "given": "S.E."
+    }
+   ],
+   "date": "1997",
+   "title": "Introduction: Archaeology and non-linear dynamics - New approach to long-term change",
+   "editors": [
+    {
+     "family": "McGlade",
+     "given": "J."
+    },
+    {
+     "family": "Van der Leeuw",
+     "given": "S.E."
+    }
+   ],
+   "is_part_of": [
+    "Time, Process and Structured Transformation in Archaeology"
+   ],
+   "place": "London",
+   "publisher": "Routledge",
+   "pages": "1-31",
+   "notes": "cited \"Van der Leew\"",
+   "language": "eng"
+  },
+  {
+   "position": 99,
+   "raw": "Miller J.H., Page E.S. 2007, Complex Adaptive Systems. An Introduction to Computational Models of Social Life, Princeton, Princeton University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Miller",
+     "given": "J.H."
+    },
+    {
+     "family": "Page",
+     "given": "E.S."
+    }
+   ],
+   "date": "2007",
+   "title": "Complex Adaptive Systems. An Introduction to Computational Models of Social Life",
+   "place": "Princeton",
+   "publisher": "Princeton University Press",
+   "language": "eng"
+  },
+  {
+   "position": 100,
+   "raw": "Minsky M. 1954, Neural Nets and the Brain-Model Problem, Doctoral Dissertation, Princeton University.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Minsky",
+     "given": "M."
+    }
+   ],
+   "date": "1954",
+   "title": "Neural Nets and the Brain-Model Problem",
+   "publisher": "Princeton University",
+   "notes": "Doctoral Dissertation",
+   "language": "eng"
+  },
+  {
+   "position": 101,
+   "raw": "Minsky M. 1986, The Society of Mind, New York, Simon and Schuster (Trad. ital. La società della mente, Milano 1989).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Minsky",
+     "given": "M."
+    }
+   ],
+   "date": "1986",
+   "title": "The Society of Mind",
+   "place": "New York",
+   "publisher": "Simon and Schuster",
+   "notes": "Italian translation: La società della mente, Milano 1989",
+   "language": "eng"
+  },
+  {
+   "position": 102,
+   "raw": "Minsky M., Papert S. 1968, Perceptrons, Cambridge Ma., MIT Press (Expanded ed. 1988).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Minsky",
+     "given": "M."
+    },
+    {
+     "family": "Papert",
+     "given": "S."
+    }
+   ],
+   "date": "1968",
+   "title": "Perceptrons",
+   "notes": "Expanded ed. 1988",
+   "place": "Cambridge Ma.",
+   "publisher": "MIT Press",
+   "language": "eng"
+  },
+  {
+   "position": 103,
+   "raw": "Mira J., Ferrández J.M., de la Pax F., Toledo F.J. (eds.) 2009, Methods and Models in Artificial and Natural Computation. A Homage to Professor Mira's Scientific Legacy. Third International Work-Conference on the Interplay between Natural and Artificial Computation, IWINAC 2009 (Santiago de Compostela 2009), Berlin, Springer.",
+   "type": "proceedings",
+   "date": "2009",
+   "title": "Methods and Models in Artificial and Natural Computation. A Homage to Professor Mira's Scientific Legacy. Third International Work-Conference on the Interplay between Natural and Artificial Computation, IWINAC 2009 (Santiago de Compostela 2009)",
+   "editors": [
+    {
+     "family": "Mira",
+     "given": "J."
+    },
+    {
+     "family": "Ferrández",
+     "given": "J.M."
+    },
+    {
+     "family": "de la Paz",
+     "given": "F."
+    },
+    {
+     "family": "Toledo",
+     "given": "F.J."
+    }
+   ],
+   "place": "Berlin",
+   "publisher": "Springer",
+   "notes": "editor cited \"de la Pax\"",
+   "language": "eng"
+  },
+  {
+   "position": 104,
+   "raw": "Moscati P. 1998, GIS Applications in Italian Archaeology, in P. Moscati (ed.), Methodological Trends and Future Perspectives in the Applicationof GIS in Archaeology, «Archeologia e Calcolatori», 9, 191-236.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "GIS Applications in Italian Archaeology",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "191-236",
+   "cited_aec_id": 253,
+   "language": "eng"
+  },
+  {
+   "position": 105,
+   "raw": "Nunes de Castro L. 2007, Fundamentals of natural computing: An overview, «Physics of Life Reviews», 4, 1-36.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nunes de Castro",
+     "given": "L."
+    }
+   ],
+   "date": "2007",
+   "title": "Fundamentals of natural computing: An overview",
+   "is_part_of": [
+    "Physics of Life Reviews"
+   ],
+   "volume": "4",
+   "pages": "1-36",
+   "language": "eng"
+  },
+  {
+   "position": 106,
+   "raw": "Openshaw S., Openshaw C. 1997, Artificial Intelligence in Geography, Chichester, John Wiley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Openshaw",
+     "given": "S."
+    },
+    {
+     "family": "Openshaw",
+     "given": "C."
+    }
+   ],
+   "date": "1997",
+   "title": "Artificial Intelligence in Geography",
+   "place": "Chichester",
+   "publisher": "John Wiley",
+   "language": "eng"
+  },
+  {
+   "position": 107,
+   "raw": "Puglisi A., Baronchelli A., Loreto A. 2008, Cultural route to the emergence of linguistic categories, «Proceedings of the National Academy of Sciences of the United States of America», 105, 7936-7940.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Puglisi",
+     "given": "A."
+    },
+    {
+     "family": "Baronchelli",
+     "given": "A."
+    },
+    {
+     "family": "Loreto",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "Cultural route to the emergence of linguistic categories",
+   "is_part_of": [
+    "Proceedings of the National Academy of Sciences of the United States of America"
+   ],
+   "volume": "105",
+   "pages": "7936-7940",
+   "language": "eng"
+  },
+  {
+   "position": 108,
+   "raw": "Ramazzotti M. 1997, La fase 'Middle Uruk': studio tramite Reti Neurali Artificiali su un orizzonte latente nella protostoria della Bassa Mesopotamia, in P. Matthiae (ed.), Studi in memoria di Henri Frankfort (1897-1954) presentati dalla scuola romana di Archeologia Orientale, Roma, Sapienza, 495-522.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "1997",
+   "title": "La fase 'Middle Uruk': studio tramite Reti Neurali Artificiali su un orizzonte latente nella protostoria della Bassa Mesopotamia",
+   "editors": [
+    {
+     "family": "Matthiae",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Studi in memoria di Henri Frankfort (1897-1954) presentati dalla scuola romana di Archeologia Orientale"
+   ],
+   "place": "Roma",
+   "publisher": "Sapienza",
+   "pages": "495-522",
+   "language": "ita"
+  },
+  {
+   "position": 109,
+   "raw": "Ramazzotti M. 1999a, La Bassa Mesopotamia come laboratorio storico in età protostorica. Le Reti Neurali Artificiali come strumento di ausilio alle ricerche di archeologia territoriale, Contributi e Materiali di Archeologia Orientale, VIII, Roma, Sapienza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "La Bassa Mesopotamia come laboratorio storico in età protostorica. Le Reti Neurali Artificiali come strumento di ausilio alle ricerche di archeologia territoriale",
+   "series": "Contributi e Materiali di Archeologia Orientale",
+   "series_number": "VIII",
+   "place": "Roma",
+   "publisher": "Sapienza",
+   "language": "ita"
+  },
+  {
+   "position": 110,
+   "raw": "Ramazzotti M. 1999b, Analisi qualitativa dei depositi archeologici come indice guida delle ricerche a scala territoriale, in M. Buscema (ed.), Reti Neurali Artificiali e sistemi sociali complessi. Teoria - Metodi - Applicazioni, Milano, Franco Angeli, 261-269.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Analisi qualitativa dei depositi archeologici come indice guida delle ricerche a scala territoriale",
+   "editors": [
+    {
+     "family": "Buscema",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Reti Neurali Artificiali e sistemi sociali complessi. Teoria - Metodi - Applicazioni"
+   ],
+   "place": "Milano",
+   "publisher": "Franco Angeli",
+   "pages": "261-269",
+   "language": "ita"
+  },
+  {
+   "position": 111,
+   "raw": "Ramazzotti M. 2000, Dall'analisi diacronica all'analisi sincronica: indagine sulle dinamiche insediamentali del periodo Jemdet Nasr nella regione di Warka, «Scienze dell'Antichità», 10, 9-38.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "Dall'analisi diacronica all'analisi sincronica: indagine sulle dinamiche insediamentali del periodo Jemdet Nasr nella regione di Warka",
+   "is_part_of": [
+    "Scienze dell'Antichità"
+   ],
+   "volume": "10",
+   "pages": "9-38",
+   "language": "ita"
+  },
+  {
+   "position": 112,
+   "raw": "Ramazzotti M. 2002, La «Rivoluzione Urbana» nella Mesopotamia meridionale. Replica 'versus' Processo, Rendiconti, Serie IX, Accademia Nazionale dei Lincei, Classe delle Scienze Morali Storiche e Filologiche, 13, 651-752.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "La «Rivoluzione Urbana» nella Mesopotamia meridionale. Replica 'versus' Processo",
+   "is_part_of": [
+    "Rendiconti. Accademia Nazionale dei Lincei, Classe delle Scienze Morali Storiche e Filologiche"
+   ],
+   "volume": "13",
+   "pages": "651-752",
+   "language": "ita",
+   "notes": "Serie IX"
+  },
+  {
+   "position": 113,
+   "raw": "Ramazzotti M. 2008, An integrated analysis for the urban settlement reconstruction. The topographic, mathematical and geophysical frame of Tell Mardikh, Ancient Ebla, in H. Kühne, R.M. Czichon, F.J. Kreppner (eds), Proceedings of the 4th International Congress of the Archaeology of the Ancient Near East (Berlin 2004), 1, Berlin, Harrasowitz Verlag, 191-205.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "An integrated analysis for the urban settlement reconstruction. The topographic, mathematical and geophysical frame of Tell Mardikh, Ancient Ebla",
+   "editors": [
+    {
+     "family": "Kühne",
+     "given": "H."
+    },
+    {
+     "family": "Czichon",
+     "given": "R.M."
+    },
+    {
+     "family": "Kreppner",
+     "given": "F.J."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the 4th International Congress of the Archaeology of the Ancient Near East (Berlin 2004)"
+   ],
+   "volume": "1",
+   "place": "Berlin",
+   "publisher": "Harrassowitz Verlag",
+   "pages": "191-205",
+   "language": "eng"
+  },
+  {
+   "position": 114,
+   "raw": "Ramazzotti M. 2009a, Dall'automazione del record geomagnetico alla scoperta del «Tempio della Roccia» (2400-2350 a.C. ca.), «Archeomatica», 1, 12-15.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Dall'automazione del record geomagnetico alla scoperta del «Tempio della Roccia» (2400-2350 a.C. ca.)",
+   "is_part_of": [
+    "Archeomatica"
+   ],
+   "volume": "1",
+   "pages": "12-15",
+   "language": "ita"
+  },
+  {
+   "position": 115,
+   "raw": "Ramazzotti M. 2009b, Lineamenti di archeologia del paesaggio mesopotamico. Descrizioni statistiche e simulazioni artificiali adattive per un'analisi critica della demografia sumerica e accadica, in G. Macchi (ed.), Geografia del popolamento, Siena, Fieravecchia, 193-202.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Lineamenti di archeologia del paesaggio mesopotamico. Descrizioni statistiche e simulazioni artificiali adattive per un'analisi critica della demografia sumerica e accadica",
+   "editors": [
+    {
+     "family": "Macchi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Geografia del popolamento"
+   ],
+   "place": "Siena",
+   "publisher": "Fieravecchia",
+   "pages": "193-202",
+   "language": "ita"
+  },
+  {
+   "position": 116,
+   "raw": "Ramazzotti M. 2010a, Archeologia e semiotica. Linguaggi, codici, logiche e modelli, Torino, Bollati Boringhieri.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "2010",
+   "title": "Archeologia e semiotica. Linguaggi, codici, logiche e modelli",
+   "place": "Torino",
+   "publisher": "Bollati Boringhieri",
+   "language": "ita"
+  },
+  {
+   "position": 117,
+   "raw": "Ramazzotti M. 2010b, The Ebla Archaeological Park. Natural, archaeological and artificial Italian portrait of the ancient Syrian capital, in P. Matthiae, F. Pinnock, L. Nigro, N. Marchetti (eds.), Proceedings of the 6th International Congress on the Archaeology of the Ancient Near East (Roma 2008), 2, Wiesbaden, Harrassowitz Verlag, 581-597.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "2010",
+   "title": "The Ebla Archaeological Park. Natural, archaeological and artificial Italian portrait of the ancient Syrian capital",
+   "editors": [
+    {
+     "family": "Matthiae",
+     "given": "P."
+    },
+    {
+     "family": "Pinnock",
+     "given": "F."
+    },
+    {
+     "family": "Nigro",
+     "given": "L."
+    },
+    {
+     "family": "Marchetti",
+     "given": "N."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the 6th International Congress on the Archaeology of the Ancient Near East (Roma 2008)"
+   ],
+   "volume": "2",
+   "place": "Wiesbaden",
+   "publisher": "Harrassowitz Verlag",
+   "pages": "581-597",
+   "language": "eng"
+  },
+  {
+   "position": 118,
+   "raw": "Ramazzotti M. 2012a, Aesthetic and cognitive report on ancient Near East clay figurines based on some Early Bronze and Middle Bronze records discovered at Ebla-Tell Mardikh (Syria), «Scienze dell'Antichità», 17, 345-375.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Aesthetic and cognitive report on ancient Near East clay figurines based on some Early Bronze and Middle Bronze records discovered at Ebla-Tell Mardikh (Syria)",
+   "is_part_of": [
+    "Scienze dell'Antichità"
+   ],
+   "volume": "17",
+   "pages": "345-375",
+   "language": "eng"
+  },
+  {
+   "position": 119,
+   "raw": "Ramazzotti M. 2012b, ARCHEOSEMA. Un modello archeo-logico per la ricerca teorica, analitica e sperimentale dei fenomeni complessi, «Archeomatica», 2, 6-10.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "ARCHEOSEMA. Un modello archeo-logico per la ricerca teorica, analitica e sperimentale dei fenomeni complessi",
+   "is_part_of": [
+    "Archeomatica"
+   ],
+   "volume": "2",
+   "pages": "6-10",
+   "language": "ita"
+  },
+  {
+   "position": 120,
+   "raw": "Ramazzotti M. 2013a, Where were the early Syrian Kings of Ebla buried? The Ur-Eridu survey neural model as an Artificial Adaptive System for the probabilistic localization of the Ebla Royal è madim, «Scienze dell'Antichità», 19.1, 10-34.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Where were the early Syrian Kings of Ebla buried? The Ur-Eridu survey neural model as an Artificial Adaptive System for the probabilistic localization of the Ebla Royal è madim",
+   "is_part_of": [
+    "Scienze dell'Antichità"
+   ],
+   "volume": "19",
+   "issue": "1",
+   "pages": "10-34",
+   "language": "eng"
+  },
+  {
+   "position": 121,
+   "raw": "Ramazzotti M. 2013b, Logic and semantics of computational models for the analysis of complex phenomena. Analytical Archaeology of Artificial Adaptive Systems, in A. Montanari (ed.), Urban Coastal Area Conflicts Knowledge: Human Mobility, Climate Change and Local Sustainable Development, Roma, Sapienza Università Editrice, 23-55.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Logic and semantics of computational models for the analysis of complex phenomena. Analytical Archaeology of Artificial Adaptive Systems",
+   "editors": [
+    {
+     "family": "Montanari",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Urban Coastal Area Conflicts Knowledge: Human Mobility, Climate Change and Local Sustainable Development"
+   ],
+   "place": "Roma",
+   "publisher": "Sapienza Università Editrice",
+   "pages": "23-55",
+   "language": "eng"
+  },
+  {
+   "position": 122,
+   "raw": "Ramazzotti M. 2013c, Mesopotamia antica. Archeologia del pensiero creatore di miti nel Paese di Sumer e di Accad, Roma, Artemide.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ramazzotti",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Mesopotamia antica. Archeologia del pensiero creatore di miti nel Paese di Sumer e di Accad",
+   "place": "Roma",
+   "publisher": "Artemide",
+   "language": "ita"
+  },
+  {
+   "position": 123,
+   "raw": "Renfrew C. 1981, The Simulator as demiurge, in J.A. Sabloff (ed.), Simulation in Archaeology, Albuquerque, University of New Mexico Press, 285-306.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    }
+   ],
+   "date": "1981",
+   "title": "The Simulator as demiurge",
+   "editors": [
+    {
+     "family": "Sabloff",
+     "given": "J.A."
+    }
+   ],
+   "is_part_of": [
+    "Simulation in Archaeology"
+   ],
+   "place": "Albuquerque",
+   "publisher": "University of New Mexico Press",
+   "pages": "285-306",
+   "language": "eng"
+  },
+  {
+   "position": 124,
+   "raw": "Renfrew C. 2008, Neuroscience, evolution and the sapient paradox: The factuality of value and of the sacred, «Philosophical Transactions of the Royal Society B: Biological Sciences», 363, 2041-2047.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    }
+   ],
+   "date": "2008",
+   "title": "Neuroscience, evolution and the sapient paradox: The factuality of value and of the sacred",
+   "is_part_of": [
+    "Philosophical Transactions of the Royal Society B: Biological Sciences"
+   ],
+   "volume": "363",
+   "pages": "2041-2047",
+   "language": "eng"
+  },
+  {
+   "position": 125,
+   "raw": "Renfrew C., Cooke K.L. (eds.) 1979, Transformation: Mathematical Approaches to Culture Change, New York, Academic Press.",
+   "type": "book",
+   "date": "1979",
+   "title": "Transformations: Mathematical Approaches to Culture Change",
+   "editors": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Cooke",
+     "given": "K.L."
+    }
+   ],
+   "place": "New York",
+   "publisher": "Academic Press",
+   "notes": "cited \"Transformation\"",
+   "language": "eng"
+  },
+  {
+   "position": 126,
+   "raw": "Renfrew C., Zubrow E.B.W. (eds.) 1994, The Ancient Mind. Elements of Cognitive Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "date": "1994",
+   "title": "The Ancient Mind. Elements of Cognitive Archaeology",
+   "editors": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng"
+  },
+  {
+   "position": 127,
+   "raw": "Rogers T.T., McClelland J.L. 2004, Semantic Cognition: A Parallel Distributed Processing Approach, Cambridge Ma., MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rogers",
+     "given": "T.T."
+    },
+    {
+     "family": "McClelland",
+     "given": "J.L."
+    }
+   ],
+   "date": "2004",
+   "title": "Semantic Cognition: A Parallel Distributed Processing Approach",
+   "place": "Cambridge Ma.",
+   "publisher": "MIT Press",
+   "language": "eng"
+  },
+  {
+   "position": 128,
+   "raw": "Rosenblatt F. 1958, The perceptron: A probabilistic model for information storage and organization in the brain, «Psychological Review», 65/6, 386-408.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rosenblatt",
+     "given": "F."
+    }
+   ],
+   "date": "1958",
+   "title": "The perceptron: A probabilistic model for information storage and organization in the brain",
+   "is_part_of": [
+    "Psychological Review"
+   ],
+   "volume": "65",
+   "issue": "6",
+   "pages": "386-408",
+   "language": "eng"
+  },
+  {
+   "position": 129,
+   "raw": "Rosenblatt F. 1962, Principles of Neurodynamics, New York, Spartan.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rosenblatt",
+     "given": "F."
+    }
+   ],
+   "date": "1962",
+   "title": "Principles of Neurodynamics",
+   "place": "New York",
+   "publisher": "Spartan",
+   "language": "eng"
+  },
+  {
+   "position": 130,
+   "raw": "Smolensky P. 1989, Connectionism and constituent structure, in R. Pfeifer, Z. Schreter, F. Fogelman-Soulié, L. Steels (eds.), Connectionism in Perspective, Amsterdam, North Holland.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Smolensky",
+     "given": "P."
+    }
+   ],
+   "date": "1989",
+   "title": "Connectionism and constituent structure",
+   "editors": [
+    {
+     "family": "Pfeifer",
+     "given": "R."
+    },
+    {
+     "family": "Schreter",
+     "given": "Z."
+    },
+    {
+     "family": "Fogelman-Soulié",
+     "given": "F."
+    },
+    {
+     "family": "Steels",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Connectionism in Perspective"
+   ],
+   "place": "Amsterdam",
+   "publisher": "North Holland",
+   "language": "eng"
+  },
+  {
+   "position": 131,
+   "raw": "Smolensky P., Legendre G. 2006, The Harmonic Mind: From Neural Computation to Optimality-theoretic Grammar, Cambridge Ma., MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Smolensky",
+     "given": "P."
+    },
+    {
+     "family": "Legendre",
+     "given": "G."
+    }
+   ],
+   "date": "2006",
+   "title": "The Harmonic Mind: From Neural Computation to Optimality-theoretic Grammar",
+   "place": "Cambridge Ma.",
+   "publisher": "MIT Press",
+   "language": "eng"
+  },
+  {
+   "position": 132,
+   "raw": "Snyman J.A. 2005, Practical Mathematical Optimization: An Introduction to Basic Optimization Theory and Classical and New Gradient-Based Algorithms, New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Snyman",
+     "given": "J.A."
+    }
+   ],
+   "date": "2005",
+   "title": "Practical Mathematical Optimization: An Introduction to Basic Optimization Theory and Classical and New Gradient-Based Algorithms",
+   "place": "New York",
+   "publisher": "Springer",
+   "language": "eng"
+  },
+  {
+   "position": 133,
+   "raw": "Szczpaniak P.S. (ed.) 1999, Computational Intelligence and Applications, Heidelberg-New York, Springer.",
+   "type": "book",
+   "date": "1999",
+   "title": "Computational Intelligence and Applications",
+   "editors": [
+    {
+     "family": "Szczepaniak",
+     "given": "P.S."
+    }
+   ],
+   "place": "Heidelberg-New York",
+   "publisher": "Springer",
+   "notes": "editor cited \"Szczpaniak\"",
+   "language": "eng"
+  },
+  {
+   "position": 134,
+   "raw": "Zadeh L.A., Klir G.J., Yuan B. (eds.) 1996, Fuzzy Sets, Fuzzy Logic, and Fuzzy Systems: Selected Papers by Lotfi A. Zadeh, Advances in Fuzzy Systems - Applications and Theory, 6, Singapore, World Scientific Publishing.",
+   "type": "book",
+   "date": "1996",
+   "title": "Fuzzy Sets, Fuzzy Logic, and Fuzzy Systems: Selected Papers by Lotfi A. Zadeh",
+   "editors": [
+    {
+     "family": "Zadeh",
+     "given": "L.A."
+    },
+    {
+     "family": "Klir",
+     "given": "G.J."
+    },
+    {
+     "family": "Yuan",
+     "given": "B."
+    }
+   ],
+   "series": "Advances in Fuzzy Systems - Applications and Theory",
+   "series_number": "6",
+   "place": "Singapore",
+   "publisher": "World Scientific Publishing",
+   "language": "eng"
+  },
+  {
+   "position": 135,
+   "raw": "Zubrow E.B.W. 1990, Modelling and prediction with Geographic Information Systems: A demographic example from prehistoric and historic New York, in K.M.S. Allen, S.W. Green, E.B.W. Zubrow (eds.), Interpreting Space: GIS and Archaeology, London, Taylor & Francis, 307-318.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "Modelling and prediction with Geographic Information Systems: A demographic example from prehistoric and historic New York",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "pages": "307-318",
+   "language": "eng"
+  },
+  {
+   "position": 136,
+   "raw": "Zubrow E.B.W. 2003, The archaeologist, the neural network, and the random pattern: Problems in spatial and cultural cognition, in M. Forte, P.R. Williams (eds.), The Reconstruction of Archaeological Landscapes through Digital Technologies - Italy-United States Workshop, Oxford, BAR International Series 1151, Oxford, Archaeopress.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "2003",
+   "title": "The archaeologist, the neural network, and the random pattern: Problems in spatial and cultural cognition",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Williams",
+     "given": "P.R."
+    }
+   ],
+   "is_part_of": [
+    "The Reconstruction of Archaeological Landscapes through Digital Technologies - Italy-United States Workshop"
+   ],
+   "series": "BAR International Series",
+   "series_number": "1151",
+   "place": "Oxford",
+   "publisher": "Archaeopress",
+   "language": "eng"
+  }
+ ]
+}

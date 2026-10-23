@@ -1,0 +1,1315 @@
+{
+ "citing_aec_id": 1374,
+ "source_file": "data/journal/36/1374.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Ackoff R.L. 1989, From data to wisdom, «Journal of Applied Systems Analysis», 15, 3-9",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ackoff",
+     "given": "R.L."
+    }
+   ],
+   "date": "1989",
+   "title": "From data to wisdom",
+   "is_part_of": [
+    "Journal of Applied Systems Analysis"
+   ],
+   "volume": "15",
+   "pages": "3-9",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Anderson C. 2008, The end of theory: The data deluge makes the scientific method obsolete, «Wired Magazine», 16, 7 (https://www.wired.com/2008/06/pb-theory/).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Anderson",
+     "given": "C."
+    }
+   ],
+   "date": "2008",
+   "title": "The end of theory: The data deluge makes the scientific method obsolete",
+   "is_part_of": [
+    "Wired Magazine"
+   ],
+   "volume": "16",
+   "issue": "7",
+   "uri": "https://www.wired.com/2008/06/pb-theory/",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Arnold D.E. 1985, Ceramic Theory and Cultural Process, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Arnold",
+     "given": "D.E."
+    }
+   ],
+   "date": "1985",
+   "title": "Ceramic Theory and Cultural Process",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Binford L.R. 1964, A consideration of archaeological research design, «American Antiquity», 29, 425-451 (https://doi.org/10.2307/277978).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Binford",
+     "given": "L.R."
+    }
+   ],
+   "date": "1964",
+   "title": "A consideration of archaeological research design",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "29",
+   "pages": "425-451",
+   "doi": "10.2307/277978",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Binford S., Binford L.R. 1968, New Perspectives in Archaeology, Chicago, Aldine.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Binford",
+     "given": "S."
+    },
+    {
+     "family": "Binford",
+     "given": "L.R."
+    }
+   ],
+   "date": "1968",
+   "title": "New Perspectives in Archaeology",
+   "publisher": "Aldine",
+   "place": "Chicago",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Bollier D. 2010, The Promise and Peril of Big Data, Washington DC, The Aspen Institute.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bollier",
+     "given": "D."
+    }
+   ],
+   "date": "2010",
+   "title": "The Promise and Peril of Big Data",
+   "publisher": "The Aspen Institute",
+   "place": "Washington DC",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Boroffka N., Becker J. 2004, Töpferöfen un Arisman, in T. Stöllner, R. Slotta, A. Vatandoust (eds.), Persiens Antike Pracht, Bochum, Deutsches Bergbau Museum, 218-221.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Boroffka",
+     "given": "N."
+    },
+    {
+     "family": "Becker",
+     "given": "J."
+    }
+   ],
+   "date": "2004",
+   "title": "Töpferöfen un Arisman",
+   "editors": [
+    {
+     "family": "Stöllner",
+     "given": "T."
+    },
+    {
+     "family": "Slotta",
+     "given": "R."
+    },
+    {
+     "family": "Vatandoust",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Persiens Antike Pracht"
+   ],
+   "pages": "218-221",
+   "publisher": "Deutsches Bergbau Museum",
+   "place": "Bochum",
+   "language": "ger"
+  },
+  {
+   "position": 8,
+   "raw": "Carroll S., Garba I., Figueroa-Rodriguez O., Holbrook J., Lovett R., Materechera S., Parsons M., Raseroka K., Rodriguez-Lonebear D., Rowe R., Sara R., Walker J., Anderson J., Hudson M. 2020, The CARE principles for indigenous data governance, «Data Science Journal», 19, XX, 1-12 (https://doi.org/10.5334/dsj-2020-043).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carroll",
+     "given": "S."
+    },
+    {
+     "family": "Garba",
+     "given": "I."
+    },
+    {
+     "family": "Figueroa-Rodriguez",
+     "given": "O."
+    },
+    {
+     "family": "Holbrook",
+     "given": "J."
+    },
+    {
+     "family": "Lovett",
+     "given": "R."
+    },
+    {
+     "family": "Materechera",
+     "given": "S."
+    },
+    {
+     "family": "Parsons",
+     "given": "M."
+    },
+    {
+     "family": "Raseroka",
+     "given": "K."
+    },
+    {
+     "family": "Rodriguez-Lonebear",
+     "given": "D."
+    },
+    {
+     "family": "Rowe",
+     "given": "R."
+    },
+    {
+     "family": "Sara",
+     "given": "R."
+    },
+    {
+     "family": "Walker",
+     "given": "J."
+    },
+    {
+     "family": "Anderson",
+     "given": "J."
+    },
+    {
+     "family": "Hudson",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "The CARE principles for indigenous data governance",
+   "is_part_of": [
+    "Data Science Journal"
+   ],
+   "volume": "19",
+   "pages": "1-12",
+   "doi": "10.5334/dsj-2020-043",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Carroll S.R., Rodriguez-Lonebear D., Martinez A. 2019, Indigenous data governance: Strategies from United States native nations, «Data Science Journal», 18, 31, 1-15 (https://doi.org/10.5334/dsj-2019-031).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carroll",
+     "given": "S.R."
+    },
+    {
+     "family": "Rodriguez-Lonebear",
+     "given": "D."
+    },
+    {
+     "family": "Martinez",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "title": "Indigenous data governance: Strategies from United States native nations",
+   "is_part_of": [
+    "Data Science Journal"
+   ],
+   "volume": "18",
+   "issue": "31",
+   "pages": "1-15",
+   "doi": "10.5334/dsj-2019-031",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Chevalier N. 2002, La recherche archéologique française au Moyen-Orient 1842-1947, Paris, Éditions Recherche sur les Civilisations.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chevalier",
+     "given": "N."
+    }
+   ],
+   "date": "2002",
+   "title": "La recherche archéologique française au Moyen-Orient 1842-1947",
+   "publisher": "Éditions Recherche sur les Civilisations",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 11,
+   "raw": "Clarke D.L. 1968, Analytical Archaeology, London, Methuen.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1968",
+   "title": "Analytical Archaeology",
+   "publisher": "Methuen",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Clarke D.L. 1973, Archaeology: The loss of innocence, «Antiquity», 47, 185, 6-18 (https:// doi.org/10.1017/S0003598X0003461X).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1973",
+   "title": "Archaeology: The loss of innocence",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "47",
+   "issue": "185",
+   "pages": "6-18",
+   "doi": "10.1017/S0003598X0003461X",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Delcroix G., Huot J.L. 1972, Les fours dits de potier dans l’Orient ancien, «Syria», 49, 1-2, 35-95 (https://doi.org/10.3406/syria.1972.6331).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Delcroix",
+     "given": "G."
+    },
+    {
+     "family": "Huot",
+     "given": "J.L."
+    }
+   ],
+   "date": "1972",
+   "title": "Les fours dits de potier dans l’Orient ancien",
+   "is_part_of": [
+    "Syria"
+   ],
+   "volume": "49",
+   "issue": "1-2",
+   "pages": "35-95",
+   "doi": "10.3406/syria.1972.6331",
+   "language": "fre"
+  },
+  {
+   "position": 14,
+   "raw": "Gallay A. 1977, A propos de deux banques de données sur ordinateur en archéologie, «Archives suisses d’anthropologie générale», 41, 2, 99-110.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "date": "1977",
+   "title": "A propos de deux banques de données sur ordinateur en archéologie",
+   "is_part_of": [
+    "Archives suisses d’anthropologie générale"
+   ],
+   "volume": "41",
+   "issue": "2",
+   "pages": "99-110",
+   "language": "fre"
+  },
+  {
+   "position": 15,
+   "raw": "Gallay A. 1989, Logicism: A French view of archaeological theory founded in computational perspective, «Antiquity», 63, 27-39 (https://doi.org/10.1017/S0003598X00075554).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "date": "1989",
+   "title": "Logicism: A French view of archaeological theory founded in computational perspective",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "63",
+   "pages": "27-39",
+   "doi": "10.1017/S0003598X00075554",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Gardin J.-C. 1958a, On the coding of geometrical shapes and other representations, with reference to archaeological documents, Papers of the International Conference on Scientific Information (I.C.S.I.), Washington, National Academies Press, 75-87 (https://nap. nationalacademies.org/read/10866/chapter/60).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1958",
+   "title": "On the coding of geometrical shapes and other representations, with reference to archaeological documents",
+   "is_part_of": [
+    "Papers of the International Conference on Scientific Information (I.C.S.I.)"
+   ],
+   "pages": "75-87",
+   "publisher": "National Academies Press",
+   "place": "Washington",
+   "uri": "https://nap.nationalacademies.org/read/10866/chapter/60",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Gardin J.-C. 1958b, Four codes for the description of artifact: An essay on archaeological technique and theory, «American Anthropologist», 60, 335-357.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1958",
+   "title": "Four codes for the description of artifact: An essay on archaeological technique and theory",
+   "is_part_of": [
+    "American Anthropologist"
+   ],
+   "volume": "60",
+   "pages": "335-357",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Gardin J.-C. 1962a, Documentation sur cartes perforées en travaux sur ordinateur dans les sciences humaines, «Revue internationale de la documentation», 29, 83-92.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1962",
+   "title": "Documentation sur cartes perforées en travaux sur ordinateur dans les sciences humaines",
+   "is_part_of": [
+    "Revue internationale de la documentation"
+   ],
+   "volume": "29",
+   "pages": "83-92",
+   "language": "fre"
+  },
+  {
+   "position": 19,
+   "raw": "Gardin J.-C. 1962b, La syntaxe dans les langages documentaires, «Information Retrieval», IBM European, European Education Center, Blaricum, 1-7.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1962",
+   "title": "La syntaxe dans les langages documentaires",
+   "is_part_of": [
+    "Information Retrieval"
+   ],
+   "pages": "1-7",
+   "publisher": "IBM European Education Center",
+   "place": "Blaricum",
+   "language": "fre"
+  },
+  {
+   "position": 20,
+   "raw": "Gardin J.-C. 1970, UNISIST: étude sur la réalisation d’un système mondial d’information scientifique, Paris, UNESCO.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1970",
+   "title": "UNISIST: étude sur la réalisation d’un système mondial d’information scientifique",
+   "publisher": "UNESCO",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 21,
+   "raw": "Gardin J.-C. 1979, Une archéologie théorique, Paris, Hachette.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1979",
+   "title": "Une archéologie théorique",
+   "publisher": "Hachette",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 22,
+   "raw": "Gardin J.-C. 1987, Questions d’épistémologie pratique dans les perspectives de l’intelligence artificielle, «Bulletin de la société Française de philosophie», 81, 3, 7-112.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1987",
+   "title": "Questions d’épistémologie pratique dans les perspectives de l’intelligence artificielle",
+   "is_part_of": [
+    "Bulletin de la société Française de philosophie"
+   ],
+   "volume": "81",
+   "issue": "3",
+   "pages": "7-112",
+   "language": "fre"
+  },
+  {
+   "position": 23,
+   "raw": "Garstki K. 2024, Digital archaeology, in E. Nikita, T. Rehren (eds.), Encyclopedia of Archaeology, 2nd ed., vol. 1, London, Academic Press, 245-252.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Garstki",
+     "given": "K."
+    }
+   ],
+   "date": "2024",
+   "title": "Digital archaeology",
+   "editors": [
+    {
+     "family": "Nikita",
+     "given": "E."
+    },
+    {
+     "family": "Rehren",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Encyclopedia of Archaeology"
+   ],
+   "volume": "1",
+   "edition": "2",
+   "pages": "245-252",
+   "publisher": "Academic Press",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "Ghirshman R. 1938, Fouilles de Sialk près de Kashan 1933, 1934, 1937, vol. 1 Série Archéologique, tome 4, Paris, Musée du Louvre.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ghirshman",
+     "given": "R."
+    }
+   ],
+   "date": "1938",
+   "title": "Fouilles de Sialk près de Kashan 1933, 1934, 1937",
+   "volume": "1",
+   "series": "Série Archéologique",
+   "series_number": "4",
+   "publisher": "Musée du Louvre",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "\"vol. 1 Série Archéologique, tome 4\": volume 1, series number = tome 4"
+  },
+  {
+   "position": 25,
+   "raw": "Gonzalez-Perez C. 2018, Information Modelling for Archaeology and Anthropology. Software Engineering Principles for Cultural Heritage, Cham, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gonzalez-Perez",
+     "given": "C."
+    }
+   ],
+   "date": "2018",
+   "title": "Information Modelling for Archaeology and Anthropology. Software Engineering Principles for Cultural Heritage",
+   "publisher": "Springer",
+   "place": "Cham",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "Gosselain O.P. 1992, Bonfire of the enquiries. Pottery firing temperature in archaeology: What for?, «Journal of Archaeological Science», 19, 243-259 (https://doi.org/10.1016/03054403(92)90014-T).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gosselain",
+     "given": "O.P."
+    }
+   ],
+   "date": "1992",
+   "title": "Bonfire of the enquiries. Pottery firing temperature in archaeology: What for?",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "19",
+   "pages": "243-259",
+   "doi": "10.1016/03054403(92)90014-T",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "Hamilakis Y. 2003, Iraq, stewardship and ‘the record’: An ethical crisis for archaeology, «Public Archaeology», 3, 104-111 (https://doi.org/10.1179/pua.2003.3.2.104).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hamilakis",
+     "given": "Y."
+    }
+   ],
+   "date": "2003",
+   "title": "Iraq, stewardship and ‘the record’: An ethical crisis for archaeology",
+   "is_part_of": [
+    "Public Archaeology"
+   ],
+   "volume": "3",
+   "pages": "104-111",
+   "doi": "10.1179/pua.2003.3.2.104",
+   "language": "eng"
+  },
+  {
+   "position": 28,
+   "raw": "Hansen Streily A. 2000, Early pottery kilns in the Middle East, «Paléorient», 26, 2, 69-82 (https://doi.org/10.3406/paleo.2000.4711).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hansen Streily",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "Early pottery kilns in the Middle East",
+   "is_part_of": [
+    "Paléorient"
+   ],
+   "volume": "26",
+   "issue": "2",
+   "pages": "69-82",
+   "doi": "10.3406/paleo.2000.4711",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "Kukutai T., Taylor J. 2016a, Indigenous Data Sovereignty: Toward an Agenda, Canberra, Australian National University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kukutai",
+     "given": "T."
+    },
+    {
+     "family": "Taylor",
+     "given": "J."
+    }
+   ],
+   "date": "2016",
+   "title": "Indigenous Data Sovereignty: Toward an Agenda",
+   "publisher": "Australian National University Press",
+   "place": "Canberra",
+   "language": "eng"
+  },
+  {
+   "position": 30,
+   "raw": "Kukutai T., Walter M. 2015, Recognition and indigenizing official statistics: Reflections from Aotearoa New Zealand and Australia, «Statistical Journal of the IAOS», 31, 2, 317-326 (https://doi.org/10.3233/sji-150896).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kukutai",
+     "given": "T."
+    },
+    {
+     "family": "Walter",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "Recognition and indigenizing official statistics: Reflections from Aotearoa New Zealand and Australia",
+   "is_part_of": [
+    "Statistical Journal of the IAOS"
+   ],
+   "volume": "31",
+   "issue": "2",
+   "pages": "317-326",
+   "doi": "10.3233/sji-150896",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "Livingstone Smith A. 2001, Bonfire II: The return of pottery firing temperature, «Journal of Archaeological Science», 28, 9, 991-1003 (https://doi.org/10.1006/jasc.2001.0713).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Livingstone Smith",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Bonfire II: The return of pottery firing temperature",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "28",
+   "issue": "9",
+   "pages": "991-1003",
+   "doi": "10.1006/jasc.2001.0713",
+   "language": "eng"
+  },
+  {
+   "position": 32,
+   "raw": "Majidzadeh Y. 1975, The development of the pottery kiln in Iran from prehistoric to historical periods, «Paléorient», 3, 207-221 (https://doi.org/10.3406/paleo.1975.4197).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Majidzadeh",
+     "given": "Y."
+    }
+   ],
+   "date": "1975",
+   "title": "The development of the pottery kiln in Iran from prehistoric to historical periods",
+   "is_part_of": [
+    "Paléorient"
+   ],
+   "volume": "3",
+   "pages": "207-221",
+   "doi": "10.3406/paleo.1975.4197",
+   "language": "eng"
+  },
+  {
+   "position": 33,
+   "raw": "Matson F.R. 1974, The archaeological present: Near eastern village potters at work, «American Journal of Archaeology», 78, 4, 345-347 (https://doi.org/10.2307/502748).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Matson",
+     "given": "F.R."
+    }
+   ],
+   "date": "1974",
+   "title": "The archaeological present: Near eastern village potters at work",
+   "is_part_of": [
+    "American Journal of Archaeology"
+   ],
+   "volume": "78",
+   "issue": "4",
+   "pages": "345-347",
+   "doi": "10.2307/502748",
+   "language": "eng"
+  },
+  {
+   "position": 34,
+   "raw": "Meadow R.H. 1991, Harappa Excavations 1986-1990: A Multidisciplinary Approach to Third Millenium Urbanism, Monographs in World Archaeology, 3, Madison, Prehistory Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Meadow",
+     "given": "R.H."
+    }
+   ],
+   "date": "1991",
+   "title": "Harappa Excavations 1986-1990: A Multidisciplinary Approach to Third Millenium Urbanism",
+   "series": "Monographs in World Archaeology",
+   "series_number": "3",
+   "publisher": "Prehistory Press",
+   "place": "Madison",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "Moscati P. 2019, 30 anni di Archeologia e Calcolatori. Tra memoria e progettualità, «Archeologia e Calcolatori», 30, 9-138 (https://www.archcalc.cnr.it/journal/idyear. php?IDyear=2019-01-01).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2019",
+   "title": "30 anni di Archeologia e Calcolatori. Tra memoria e progettualità",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "30",
+   "pages": "9-138",
+   "uri": "https://www.archcalc.cnr.it/journal/idyear.php?IDyear=2019-01-01",
+   "language": "ita",
+   "notes": "find_aec: no match (metadata has only Editoriale 9-10 at vol. 30 p. 9)"
+  },
+  {
+   "position": 36,
+   "raw": "Moscati P. 2021, Digital Archaeology: From interdisciplinarity to the ‘fusion’ of Core competences. Towards the consolidation of new research areas, «magazén», 2, 2, 253-274 (https://edizionicafoscari.unive.it/it/edizioni4/riviste/magazen/2021/2/digital-archaeology-from-interdisciplinarity-to-th/).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "Digital Archaeology: From interdisciplinarity to the ‘fusion’ of Core competences. Towards the consolidation of new research areas",
+   "is_part_of": [
+    "magazén"
+   ],
+   "volume": "2",
+   "issue": "2",
+   "pages": "253-274",
+   "uri": "https://edizionicafoscari.unive.it/it/edizioni4/riviste/magazen/2021/2/digital-archaeology-from-interdisciplinarity-to-th/",
+   "language": "eng"
+  },
+  {
+   "position": 37,
+   "raw": "Padovani C. 2023a, Kiln technology and potters’ agency in the Early Bronze Age: The social construct of Logardan firing areas, Western Qara Dagh, in N. Marchetti, M. Campeggi, F. Cavaliere, C. D’Orazio, G. Giacosa, E. Mariani (eds.), Field Reports. Environmental Archaeology. Hammering the Material Word. Proceedings of the 12th International Congress on the Archaeology of the Ancient Near East (Bologna 2021), Wiesbaden, Harrassowitz, 475-490 (https://www.harrassowitz-verlag.de/Proceedings_ of_the_12 _International_Congress_on_the_Archaeology_of_the_Ancient_Near_East/ title_7228.ahtml).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Padovani",
+     "given": "C."
+    }
+   ],
+   "date": "2023",
+   "title": "Kiln technology and potters’ agency in the Early Bronze Age: The social construct of Logardan firing areas, Western Qara Dagh",
+   "editors": [
+    {
+     "family": "Marchetti",
+     "given": "N."
+    },
+    {
+     "family": "Campeggi",
+     "given": "M."
+    },
+    {
+     "family": "Cavaliere",
+     "given": "F."
+    },
+    {
+     "family": "D’Orazio",
+     "given": "C."
+    },
+    {
+     "family": "Giacosa",
+     "given": "G."
+    },
+    {
+     "family": "Mariani",
+     "given": "E."
+    }
+   ],
+   "is_part_of": [
+    "Field Reports. Environmental Archaeology. Hammering the Material Word. Proceedings of the 12th International Congress on the Archaeology of the Ancient Near East (Bologna 2021)"
+   ],
+   "pages": "475-490",
+   "publisher": "Harrassowitz",
+   "place": "Wiesbaden",
+   "uri": "https://www.harrassowitz-verlag.de/Proceedings_of_the_12_International_Congress_on_the_Archaeology_of_the_Ancient_Near_East/title_7228.ahtml",
+   "language": "eng"
+  },
+  {
+   "position": 38,
+   "raw": "Padovani C. 2023b, L’organisation de la production céramique des premières sociétés urbaines. Analyse technique et sociale des pyrotechnologies et des espaces de travail potiers de l’Asie du Sud-Ouest (4e et 3e millénaires av. n. è.), Université Paris 1 Panthéon Sorbonne, unpublished.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Padovani",
+     "given": "C."
+    }
+   ],
+   "date": "2023",
+   "title": "L’organisation de la production céramique des premières sociétés urbaines. Analyse technique et sociale des pyrotechnologies et des espaces de travail potiers de l’Asie du Sud-Ouest (4e et 3e millénaires av. n. è.)",
+   "publisher": "Université Paris 1 Panthéon Sorbonne",
+   "language": "fre"
+  },
+  {
+   "position": 39,
+   "raw": "Padovani C. 2023c, Kilns and potters: Measuring pyrotechnology diversity to assess dynamics of firing techniques diffusion within Southwest Asia communities, 6500-4700 BCE, «Journal of Archaeological Science: Reports», 52 (https://www.sciencedirect.com/science/ article/pii/S2352409X23004480).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Padovani",
+     "given": "C."
+    }
+   ],
+   "date": "2023",
+   "title": "Kilns and potters: Measuring pyrotechnology diversity to assess dynamics of firing techniques diffusion within Southwest Asia communities, 6500-4700 BCE",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "volume": "52",
+   "uri": "https://www.sciencedirect.com/science/article/pii/S2352409X23004480",
+   "language": "eng"
+  },
+  {
+   "position": 40,
+   "raw": "Padovani C. 2024, Revisiting kilns typologies to reconstruct firing traditions transformations. A comparative analysis of Halaf and Ubaid kilns in context, «Paléorient», 50, 125-142 (https://doi.org/10.4000/12ugw).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Padovani",
+     "given": "C."
+    }
+   ],
+   "date": "2024",
+   "title": "Revisiting kilns typologies to reconstruct firing traditions transformations. A comparative analysis of Halaf and Ubaid kilns in context",
+   "is_part_of": [
+    "Paléorient"
+   ],
+   "volume": "50",
+   "pages": "125-142",
+   "doi": "10.4000/12ugw",
+   "language": "eng"
+  },
+  {
+   "position": 41,
+   "raw": "Porter B.W. 2010, Near Eastern archaeology: Imperial pasts, postcolonial presents, and the possibilities of a decolonized future, in J. Lydon, U. Rizvi (eds.), The World Archaeological Congress Handbook on Postcolonialism and Archaeology, Walnut Creek, Left Coast Press, 49-57.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Porter",
+     "given": "B.W."
+    }
+   ],
+   "date": "2010",
+   "title": "Near Eastern archaeology: Imperial pasts, postcolonial presents, and the possibilities of a decolonized future",
+   "editors": [
+    {
+     "family": "Lydon",
+     "given": "J."
+    },
+    {
+     "family": "Rizvi",
+     "given": "U."
+    }
+   ],
+   "is_part_of": [
+    "The World Archaeological Congress Handbook on Postcolonialism and Archaeology"
+   ],
+   "pages": "49-57",
+   "publisher": "Left Coast Press",
+   "place": "Walnut Creek",
+   "language": "eng"
+  },
+  {
+   "position": 42,
+   "raw": "Postgate J.N. 1983, The West Mound Surface Clearance, London, British School of Archaeology in Iraq.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Postgate",
+     "given": "J.N."
+    }
+   ],
+   "date": "1983",
+   "title": "The West Mound Surface Clearance",
+   "publisher": "British School of Archaeology in Iraq",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 43,
+   "raw": "Rehder J.E. 2000, Mastery and Uses of Fire in Antiquity, Montreal, McGill-Queen’s University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rehder",
+     "given": "J.E."
+    }
+   ],
+   "date": "2000",
+   "title": "Mastery and Uses of Fire in Antiquity",
+   "publisher": "McGill-Queen’s University Press",
+   "place": "Montreal",
+   "language": "eng"
+  },
+  {
+   "position": 44,
+   "raw": "Renfrew J.M. 1969, The archaeological evidence for the domestication of plants: Methods and problems, in P.J. Ucko, G.W. Dimbleby (eds.), The Domestication of Plants and Animals, London, Duckworth, 149-172.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "J.M."
+    }
+   ],
+   "date": "1969",
+   "title": "The archaeological evidence for the domestication of plants: Methods and problems",
+   "editors": [
+    {
+     "family": "Ucko",
+     "given": "P.J."
+    },
+    {
+     "family": "Dimbleby",
+     "given": "G.W."
+    }
+   ],
+   "is_part_of": [
+    "The Domestication of Plants and Animals"
+   ],
+   "pages": "149-172",
+   "publisher": "Duckworth",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 45,
+   "raw": "Roberts B.W., Radivojevic M. 2015, Invention as a process: Pyrotechnologies in early societies, «Cambridge Archaeological Journal», 25, 1, 299-306 (https://doi.org/10.1017/ S0959774314001188).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Roberts",
+     "given": "B.W."
+    },
+    {
+     "family": "Radivojevic",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "Invention as a process: Pyrotechnologies in early societies",
+   "is_part_of": [
+    "Cambridge Archaeological Journal"
+   ],
+   "volume": "25",
+   "issue": "1",
+   "pages": "299-306",
+   "doi": "10.1017/S0959774314001188",
+   "language": "eng"
+  },
+  {
+   "position": 46,
+   "raw": "Rye O.S., Evans C. 1976, Traditional Pottery Techniques of Pakistan: Field and Laboratory Studies, Washington, Smithsonian Institution Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rye",
+     "given": "O.S."
+    },
+    {
+     "family": "Evans",
+     "given": "C."
+    }
+   ],
+   "date": "1976",
+   "title": "Traditional Pottery Techniques of Pakistan: Field and Laboratory Studies",
+   "publisher": "Smithsonian Institution Press",
+   "place": "Washington",
+   "language": "eng"
+  },
+  {
+   "position": 47,
+   "raw": "Schiffer M.B. 2010, Behavioral Archaeology: Principles and Practices, London, Equinox.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "date": "2010",
+   "title": "Behavioral Archaeology: Principles and Practices",
+   "publisher": "Equinox",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 48,
+   "raw": "Simondon G. 1958, Du mode d’existence des objets techniques, Paris, Aubier.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Simondon",
+     "given": "G."
+    }
+   ],
+   "date": "1958",
+   "title": "Du mode d’existence des objets techniques",
+   "publisher": "Aubier",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 49,
+   "raw": "Smith L.T. 2012, Decolonizing Methodologies: Research and Indigenous Peoples, London, University of Otago Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Smith",
+     "given": "L.T."
+    }
+   ],
+   "date": "2012",
+   "title": "Decolonizing Methodologies: Research and Indigenous Peoples",
+   "publisher": "University of Otago Press",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 50,
+   "raw": "Wilkinson M.D., Dumontier M., Aalbersberg I.J., Appleton G., Axton M., Baak A., Blomberg N., Boiten J.-W., Bonino Da Silva Santos L., Bourne P.E., Bouwman J., Brookes A.J., Clark T., Crosas M., Dillo I., Dumon O., Edmunds S., Evelo C.T., Finkers R., Gonzalez-Beltran A., Gray A.J.G., Groth P., Goble C., Grethe J.S., Heringa J., Hoen P.A.C., Hooft R., Kuhn T., Kok R., Kok J., Lusher S.J., Martone M.E., Mons A., Packer A.L., Persson B., Rocca-Serra P., Roos M., Van Schaik R., Sansone S.-A., Schultes E., Sengstag T., Slater T., Strawn G., Swertz M.A., Thompson M., Van Der Lei J., Van Mulligen E., Velterop J., Waagmeester A., Wittenburg P., Wolstencroft K., Zhao J., Mons B. 2016, The FAIR guiding principles for scientific data management and stewardship, «Scientific Data», 3, 160018 (https://doi.org/10.1038/sdata.2016.18).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wilkinson",
+     "given": "M.D."
+    },
+    {
+     "family": "Dumontier",
+     "given": "M."
+    },
+    {
+     "family": "Aalbersberg",
+     "given": "I.J."
+    },
+    {
+     "family": "Appleton",
+     "given": "G."
+    },
+    {
+     "family": "Axton",
+     "given": "M."
+    },
+    {
+     "family": "Baak",
+     "given": "A."
+    },
+    {
+     "family": "Blomberg",
+     "given": "N."
+    },
+    {
+     "family": "Boiten",
+     "given": "J.-W."
+    },
+    {
+     "family": "Bonino Da Silva Santos",
+     "given": "L."
+    },
+    {
+     "family": "Bourne",
+     "given": "P.E."
+    },
+    {
+     "family": "Bouwman",
+     "given": "J."
+    },
+    {
+     "family": "Brookes",
+     "given": "A.J."
+    },
+    {
+     "family": "Clark",
+     "given": "T."
+    },
+    {
+     "family": "Crosas",
+     "given": "M."
+    },
+    {
+     "family": "Dillo",
+     "given": "I."
+    },
+    {
+     "family": "Dumon",
+     "given": "O."
+    },
+    {
+     "family": "Edmunds",
+     "given": "S."
+    },
+    {
+     "family": "Evelo",
+     "given": "C.T."
+    },
+    {
+     "family": "Finkers",
+     "given": "R."
+    },
+    {
+     "family": "Gonzalez-Beltran",
+     "given": "A."
+    },
+    {
+     "family": "Gray",
+     "given": "A.J.G."
+    },
+    {
+     "family": "Groth",
+     "given": "P."
+    },
+    {
+     "family": "Goble",
+     "given": "C."
+    },
+    {
+     "family": "Grethe",
+     "given": "J.S."
+    },
+    {
+     "family": "Heringa",
+     "given": "J."
+    },
+    {
+     "family": "Hoen",
+     "given": "P.A.C."
+    },
+    {
+     "family": "Hooft",
+     "given": "R."
+    },
+    {
+     "family": "Kuhn",
+     "given": "T."
+    },
+    {
+     "family": "Kok",
+     "given": "R."
+    },
+    {
+     "family": "Kok",
+     "given": "J."
+    },
+    {
+     "family": "Lusher",
+     "given": "S.J."
+    },
+    {
+     "family": "Martone",
+     "given": "M.E."
+    },
+    {
+     "family": "Mons",
+     "given": "A."
+    },
+    {
+     "family": "Packer",
+     "given": "A.L."
+    },
+    {
+     "family": "Persson",
+     "given": "B."
+    },
+    {
+     "family": "Rocca-Serra",
+     "given": "P."
+    },
+    {
+     "family": "Roos",
+     "given": "M."
+    },
+    {
+     "family": "Van Schaik",
+     "given": "R."
+    },
+    {
+     "family": "Sansone",
+     "given": "S.-A."
+    },
+    {
+     "family": "Schultes",
+     "given": "E."
+    },
+    {
+     "family": "Sengstag",
+     "given": "T."
+    },
+    {
+     "family": "Slater",
+     "given": "T."
+    },
+    {
+     "family": "Strawn",
+     "given": "G."
+    },
+    {
+     "family": "Swertz",
+     "given": "M.A."
+    },
+    {
+     "family": "Thompson",
+     "given": "M."
+    },
+    {
+     "family": "Van Der Lei",
+     "given": "J."
+    },
+    {
+     "family": "Van Mulligen",
+     "given": "E."
+    },
+    {
+     "family": "Velterop",
+     "given": "J."
+    },
+    {
+     "family": "Waagmeester",
+     "given": "A."
+    },
+    {
+     "family": "Wittenburg",
+     "given": "P."
+    },
+    {
+     "family": "Wolstencroft",
+     "given": "K."
+    },
+    {
+     "family": "Zhao",
+     "given": "J."
+    },
+    {
+     "family": "Mons",
+     "given": "B."
+    }
+   ],
+   "date": "2016",
+   "title": "The FAIR guiding principles for scientific data management and stewardship",
+   "is_part_of": [
+    "Scientific Data"
+   ],
+   "volume": "3",
+   "issue": "160018",
+   "doi": "10.1038/sdata.2016.18",
+   "language": "eng"
+  }
+ ]
+}

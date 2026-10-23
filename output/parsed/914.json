@@ -1,0 +1,112 @@
+{
+ "citing_aec_id": 914,
+ "source_file": "data/journal/28/914.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Colonna G. 2000, *I caratteri originali della civiltà etrusca*, in M. Torelli (ed.), *Gli Etruschi*, Catalogo della Mostra (Venezia 2000), Milano, Bompiani, 25-41.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Colonna",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Torelli",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "I caratteri originali della civiltà etrusca",
+   "is_part_of": [
+    "Gli Etruschi. Catalogo della Mostra (Venezia 2000)"
+   ],
+   "pages": "25-41",
+   "publisher": "Bompiani",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Colonna G. 2004, *La \"disciplina\" etrusca e la dottrina della città fondata*, «Studi Romani», 52, 303-311.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Colonna",
+     "given": "G."
+    }
+   ],
+   "date": "2004",
+   "title": "La \"disciplina\" etrusca e la dottrina della città fondata",
+   "is_part_of": [
+    "Studi Romani"
+   ],
+   "volume": "52",
+   "pages": "303-311",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Eliade M. 1954, *Cosmos and History. The Myth of the Eternal Return*, New York, Harper & Brothers.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Eliade",
+     "given": "M."
+    }
+   ],
+   "date": "1954",
+   "title": "Cosmos and History. The Myth of the Eternal Return",
+   "publisher": "Harper & Brothers",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Sassatelli G. 2015, *Archeologia e preistoria alle origini della nostra disciplina: il congresso di Bologna del 1871 e i suoi protagonisti*, Bologna, Bononia University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    }
+   ],
+   "date": "2015",
+   "title": "Archeologia e preistoria alle origini della nostra disciplina: il congresso di Bologna del 1871 e i suoi protagonisti",
+   "publisher": "Bononia University Press",
+   "place": "Bologna",
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "Smith M.E. 2016, *How can Archaeologists identify early cities? Definitions, types and attributes*, in M. Fernández-Götz, D. Krausse (eds.), *Eurasia at the Dawn of History: Urbanization and Social Change*, Cambridge, Cambridge University Press.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Smith",
+     "given": "M.E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Fernández-Götz",
+     "given": "M."
+    },
+    {
+     "family": "Krausse",
+     "given": "D."
+    }
+   ],
+   "date": "2016",
+   "title": "How can Archaeologists identify early cities? Definitions, types and attributes",
+   "is_part_of": [
+    "Eurasia at the Dawn of History: Urbanization and Social Change"
+   ],
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  }
+ ]
+}

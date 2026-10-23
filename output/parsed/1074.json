@@ -1,0 +1,310 @@
+{
+ "citing_aec_id": 1074,
+ "source_file": "data/journal/30/1074.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bacchetta A. 2009, Scavi e ricerche a Calvatone romana: il \"Quartiere degli Artigiani\" (scavi 2005-2007), «LANX», 2, 169-183.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bacchetta",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "Scavi e ricerche a Calvatone romana: il Quartiere degli Artigiani (scavi 2005-2007)",
+   "is_part_of": [
+    "LANX"
+   ],
+   "language": "ita",
+   "volume": "2",
+   "pages": "169-183"
+  },
+  {
+   "position": 2,
+   "raw": "Bursich D., Pace A. 2017, Ripensando il \"metodo Beazley\". Ceramica attica e fotomodellazione 3D: il caso del Painter of Syracuse 19861, «Archeologia e Calcolatori», 28.1, 73-91.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bursich",
+     "given": "D."
+    },
+    {
+     "family": "Pace",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Ripensando il metodo Beazley. Ceramica attica e fotomodellazione 3D: il caso del Painter of Syracuse 19861",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "pages": "73-91",
+   "language": "ita",
+   "cited_aec_id": 898,
+   "issue": "1",
+   "notes": "cited as 28.1"
+  },
+  {
+   "position": 3,
+   "raw": "Dell'Unto N., Landeschi G., Apel J., Poggi G. 2017, 4D recording at the trowel's edge: Using three-dimensional simulation platforms to support field interpretation, «Journal of Archaeological Science: Reports», 12, 632-645.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dell'Unto",
+     "given": "N."
+    },
+    {
+     "family": "Landeschi",
+     "given": "G."
+    },
+    {
+     "family": "Apel",
+     "given": "J."
+    },
+    {
+     "family": "Poggi",
+     "given": "G."
+    }
+   ],
+   "date": "2017",
+   "title": "4D recording at the trowel's edge: Using three-dimensional simulation platforms to support field interpretation",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "language": "eng",
+   "volume": "12",
+   "pages": "632-645"
+  },
+  {
+   "position": 4,
+   "raw": "Forte M. 2010, Introduction to Cyber-Archaeology, BAR International Series 2177, Oxford, Archaeopress.",
+   "type": "book",
+   "date": "2010",
+   "title": "Introduction to Cyber-Archaeology",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "series": "BAR International Series",
+   "series_number": "2177"
+  },
+  {
+   "position": 5,
+   "raw": "Grassi M.T. (ed.) 2008, Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006), Milano (DVD).",
+   "type": "book",
+   "date": "2008",
+   "title": "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)",
+   "language": "ita",
+   "place": "Milano",
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "notes": "DVD"
+  },
+  {
+   "position": 6,
+   "raw": "Grassi M.T. (ed.) 2013, Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006), 24/3, Mantova, Postumia.",
+   "type": "book",
+   "date": "2013",
+   "title": "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)",
+   "language": "ita",
+   "publisher": "Postumia",
+   "place": "Mantova",
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "notes": "cited with '24/3'"
+  },
+  {
+   "position": 7,
+   "raw": "Grassi M.T. 2016, Calvatone 2005-2014: le novità dell'ultimo decennio di scavi nel vicus padano di Bedriacum, in S. Lusuardi Siena, C. Perassi, F. Sacchi, M. Sannazaro (eds.), Archeologia classica e post-classica tra Italia e Mediterraneo. Scritti in ricordo di Maria Pia Rossignani, Milano, VP-Vita e Pensiero, 183-188.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2016",
+   "title": "Calvatone 2005-2014: le novità dell'ultimo decennio di scavi nel vicus padano di Bedriacum",
+   "is_part_of": [
+    "Archeologia classica e post-classica tra Italia e Mediterraneo. Scritti in ricordo di Maria Pia Rossignani"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Lusuardi Siena",
+     "given": "S."
+    },
+    {
+     "family": "Perassi",
+     "given": "C."
+    },
+    {
+     "family": "Sacchi",
+     "given": "F."
+    },
+    {
+     "family": "Sannazaro",
+     "given": "M."
+    }
+   ],
+   "pages": "183-188",
+   "publisher": "VP-Vita e Pensiero",
+   "place": "Milano"
+  },
+  {
+   "position": 8,
+   "raw": "Grassi M.T., Palmieri L. 2011, Calvatone (CR). Località Costa di S. Andrea, area di proprietà provinciale. Vicus di età romana: l'area della Domus del Kantharos, «Notiziario della Soprintendenza per i Beni Archeologici della Lombardia 2008-2009», 114-120.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    },
+    {
+     "family": "Palmieri",
+     "given": "L."
+    }
+   ],
+   "date": "2011",
+   "title": "Calvatone (CR). Località Costa di S. Andrea, area di proprietà provinciale. Vicus di età romana: l'area della Domus del Kantharos",
+   "is_part_of": [
+    "Notiziario della Soprintendenza per i Beni Archeologici della Lombardia"
+   ],
+   "language": "ita",
+   "volume": "2008-2009",
+   "pages": "114-120"
+  },
+  {
+   "position": 9,
+   "raw": "Hodder I., Marciniak A. 2015, Assembling Çatalhöyük, Themes in Contemporary Archaeology 1, London, Routledge.",
+   "type": "book",
+   "date": "2015",
+   "title": "Assembling Çatalhöyük",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    },
+    {
+     "family": "Marciniak",
+     "given": "A."
+    }
+   ],
+   "publisher": "Routledge",
+   "place": "London",
+   "series": "Themes in Contemporary Archaeology",
+   "series_number": "1"
+  },
+  {
+   "position": 10,
+   "raw": "Mirabella Roberti M. 1972, Scavi a Bedriacum, in Archeologia e storia nella Lombardia padana. Bedriacum nel XIX centenario delle battaglie. Atti del Convegno (Villa Monastero di Varenna, Lago di Como 1969), Como, Pietro Cairoli, 103-122.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mirabella Roberti",
+     "given": "M."
+    }
+   ],
+   "date": "1972",
+   "title": "Scavi a Bedriacum",
+   "is_part_of": [
+    "Archeologia e storia nella Lombardia padana. Bedriacum nel XIX centenario delle battaglie. Atti del Convegno (Villa Monastero di Varenna, Lago di Como 1969)"
+   ],
+   "language": "ita",
+   "pages": "103-122",
+   "publisher": "Pietro Cairoli",
+   "place": "Como"
+  },
+  {
+   "position": 11,
+   "raw": "Passi Pitcher L. (ed.) 1996, Bedriacum. Ricerche archeologiche a Calvatone, Milano, Arbor Sapientiae.",
+   "type": "book",
+   "date": "1996",
+   "title": "Bedriacum. Ricerche archeologiche a Calvatone",
+   "language": "ita",
+   "publisher": "Arbor Sapientiae",
+   "place": "Milano",
+   "editors": [
+    {
+     "family": "Passi Pitcher",
+     "given": "L."
+    }
+   ]
+  },
+  {
+   "position": 12,
+   "raw": "Sena Chiesa G. 1998, Calvatone-Bedriacum: un vicus commerciale lungo la via Postumia, in G. Sena Chiesa, E.A. Arslan (eds.), Optima Via. Postumia: storia e archeologia di una grande strada romana alle radici dell'Europa, Atti del Convegno Internazionale di Studi (Cremona 1996), Cremona, Electa, 345-366.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sena Chiesa",
+     "given": "G."
+    }
+   ],
+   "date": "1998",
+   "title": "Calvatone-Bedriacum: un vicus commerciale lungo la via Postumia",
+   "is_part_of": [
+    "Optima Via. Postumia: storia e archeologia di una grande strada romana alle radici dell'Europa, Atti del Convegno Internazionale di Studi (Cremona 1996)"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Sena Chiesa",
+     "given": "G."
+    },
+    {
+     "family": "Arslan",
+     "given": "E.A."
+    }
+   ],
+   "pages": "345-366",
+   "publisher": "Electa",
+   "place": "Cremona"
+  },
+  {
+   "position": 13,
+   "raw": "Sena Chiesa G., Masseroli S., Medici T., Volonté M. (eds.) 1997, Calvatone romana. Un pozzo e il suo contesto. Saggio nella zona nord dell'area di proprietà provinciale, Quaderni di Acme 29.",
+   "type": "book",
+   "date": "1997",
+   "title": "Calvatone romana. Un pozzo e il suo contesto. Saggio nella zona nord dell'area di proprietà provinciale",
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Sena Chiesa",
+     "given": "G."
+    },
+    {
+     "family": "Masseroli",
+     "given": "S."
+    },
+    {
+     "family": "Medici",
+     "given": "T."
+    },
+    {
+     "family": "Volonté",
+     "given": "M."
+    }
+   ],
+   "series": "Quaderni di Acme",
+   "series_number": "29"
+  }
+ ]
+}

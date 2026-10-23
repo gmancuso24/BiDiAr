@@ -1,0 +1,576 @@
+{
+ "citing_aec_id": 127,
+ "source_file": "data/journal/7/127.md",
+ "references": [
+  {
+   "raw": "BONI C., BONO P., CAPPELLI G. 1988, *Carta idrogeologica del territorio della Regione Lazio*, Regione Lazio e Dipartimento Scienze della Terra dell'Università \"La Sapienza\", Roma.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Boni",
+     "given": "C."
+    },
+    {
+     "family": "Bono",
+     "given": "P."
+    },
+    {
+     "family": "Cappelli",
+     "given": "G."
+    }
+   ],
+   "type": "other",
+   "title": "Carta idrogeologica del territorio della Regione Lazio",
+   "place": "Roma",
+   "publisher": "Regione Lazio e Dipartimento Scienze della Terra dell'Università \"La Sapienza\"",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1,
+   "notes": "map"
+  },
+  {
+   "raw": "CARROZZO M.T., CHIRENTI A., LUZIO D., MARGIOTTA C., QUARTA T., TUNDO A.M., ZUANNI F. 1985, *Data base of Mean Height values for the whole Italian landmass and surrounding areas: determining and statistical analysis*, «Bollettino Geodesia di Scienze Affilliate», 44, 1, 37-56.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Carrozzo",
+     "given": "M.T."
+    },
+    {
+     "family": "Chirenti",
+     "given": "A."
+    },
+    {
+     "family": "Luzio",
+     "given": "D."
+    },
+    {
+     "family": "Margiotta",
+     "given": "C."
+    },
+    {
+     "family": "Quarta",
+     "given": "T."
+    },
+    {
+     "family": "Tundo",
+     "given": "A.M."
+    },
+    {
+     "family": "Zuanni",
+     "given": "F."
+    }
+   ],
+   "type": "article",
+   "title": "Data base of Mean Height values for the whole Italian landmass and surrounding areas: determining and statistical analysis",
+   "is_part_of": [
+    "Bollettino Geodesia di Scienze Affilliate"
+   ],
+   "pages": "37-56",
+   "volume": "44",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "CRIST E.P., CICONE R.C. 1984, *A physically based transformation of Thematic Mapper Data - The TM Tasseled Cap*, «IEEE Transaction on Geosciences and Remote Sensing», GE-22, 3, 256-263.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Crist",
+     "given": "E.P."
+    },
+    {
+     "family": "Cicone",
+     "given": "R.C."
+    }
+   ],
+   "type": "article",
+   "title": "A physically based transformation of Thematic Mapper Data - The TM Tasseled Cap",
+   "is_part_of": [
+    "IEEE Transaction on Geosciences and Remote Sensing"
+   ],
+   "pages": "256-263",
+   "issue": "3",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3,
+   "volume": "GE-22"
+  },
+  {
+   "raw": "CRIST E.P., LAURIN R., CICONE R.C. 1986, *Vegetation and soils information contained in Transformed Thematic Mapper Data*, in Atti IGARSS'86 Symposium, Zurigo, ESA SP-254, 1465-1470.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Crist",
+     "given": "E.P."
+    },
+    {
+     "family": "Laurin",
+     "given": "R."
+    },
+    {
+     "family": "Cicone",
+     "given": "R.C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Vegetation and soils information contained in Transformed Thematic Mapper Data",
+   "pages": "1465-1470",
+   "is_part_of": [
+    "Atti IGARSS'86 Symposium"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 4,
+   "place": "Zurigo",
+   "series": "ESA SP",
+   "series_number": "254"
+  },
+  {
+   "raw": "FAIRFIELD J., LAYMAIRE P. 1991, *Drainage network from Grid Digital Elevation Model*, «Water Resources», 17, 5, 709-717.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Fairfield",
+     "given": "J."
+    },
+    {
+     "family": "Laymaire",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "Drainage network from Grid Digital Elevation Model",
+   "is_part_of": [
+    "Water Resources"
+   ],
+   "pages": "709-717",
+   "volume": "17",
+   "issue": "5",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "FARLEY J.A., LIMP W.F., LOCKHART J. 1990, *The archaeologist's workbench: integrating GIS, remote sensing, EDA and database management*, in K.M.S. ALLEN, S.W. GREEN, E.B.W. ZUBROW (edd.), *Interpreting Space: GIS and Archaeology*, Londra, Taylor and Francis, 141-164.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Farley",
+     "given": "J.A."
+    },
+    {
+     "family": "Limp",
+     "given": "W.F."
+    },
+    {
+     "family": "Lockhart",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "The archaeologist's workbench: integrating GIS, remote sensing, EDA and database management",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "pages": "141-164",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "place": "London",
+   "publisher": "Taylor and Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "FREDA C., PALLADINO D., PIGNATTI S., TRIGILA R., ONORATI G., POSCOLIERI M. 1990, *Volcano-tectonic scenario of Mt. Vulsini (Central Italy) from Landsat-MSS Images and digital elevation data*, «ISPRS Journal of Photogrammetry and Remote Sensing», 45, 316-328.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Freda",
+     "given": "C."
+    },
+    {
+     "family": "Palladino",
+     "given": "D."
+    },
+    {
+     "family": "Pignatti",
+     "given": "S."
+    },
+    {
+     "family": "Trigila",
+     "given": "R."
+    },
+    {
+     "family": "Onorati",
+     "given": "G."
+    },
+    {
+     "family": "Poscolieri",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Volcano-tectonic scenario of Mt. Vulsini (Central Italy) from Landsat-MSS Images and digital elevation data",
+   "is_part_of": [
+    "ISPRS Journal of Photogrammetry and Remote Sensing"
+   ],
+   "pages": "316-328",
+   "volume": "45",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "HUGH-JONES M., BARRE N., NELSON G., EHNES K., WARNER J., GARVIN J., GARRIS G. 1992, *Landsat-TM identification of Amblyomma variegatum (Acari: Ixodidae) habitats in Guadeloupe*, «Remote Sensing and Environment», 40, 43-55.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Hugh-Jones",
+     "given": "M."
+    },
+    {
+     "family": "Barre",
+     "given": "N."
+    },
+    {
+     "family": "Nelson",
+     "given": "G."
+    },
+    {
+     "family": "Ehnes",
+     "given": "K."
+    },
+    {
+     "family": "Warner",
+     "given": "J."
+    },
+    {
+     "family": "Garvin",
+     "given": "J."
+    },
+    {
+     "family": "Garris",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Landsat-TM identification of Amblyomma variegatum (Acari: Ixodidae) habitats in Guadeloupe",
+   "is_part_of": [
+    "Remote Sensing and Environment"
+   ],
+   "pages": "43-55",
+   "volume": "40",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "LEE J. 1994, *Digital analysis of viewshed inclusion and topographic features on Digital Elevation Models*, in *Photogrammetric Engineering and Remote Sensing*, vol. 60, 4, 451-456.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Lee",
+     "given": "J."
+    }
+   ],
+   "type": "article",
+   "title": "Digital analysis of viewshed inclusion and topographic features on Digital Elevation Models",
+   "pages": "451-456",
+   "is_part_of": [
+    "Photogrammetric Engineering and Remote Sensing"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 9,
+   "volume": "60",
+   "issue": "4"
+  },
+  {
+   "raw": "MARK D.M. 1975, *Geomorphometric parameters: a review and evaluation*, «Geographiska Annaler», 57A, 165-177.",
+   "date": "1975",
+   "creators": [
+    {
+     "family": "Mark",
+     "given": "D.M."
+    }
+   ],
+   "type": "article",
+   "title": "Geomorphometric parameters: a review and evaluation",
+   "is_part_of": [
+    "Geographiska Annaler"
+   ],
+   "pages": "165-177",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10,
+   "volume": "57A"
+  },
+  {
+   "raw": "MUSICK H.B., PELLETIER R.E. 1986, *Response of some thematic mapper band ratios in soil water content*, «Photogrammetry Engineering Remote Sensing», 52, 1661-1668.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Musick",
+     "given": "H.B."
+    },
+    {
+     "family": "Pelletier",
+     "given": "R.E."
+    }
+   ],
+   "type": "article",
+   "title": "Response of some thematic mapper band ratios in soil water content",
+   "is_part_of": [
+    "Photogrammetry Engineering Remote Sensing"
+   ],
+   "pages": "1661-1668",
+   "volume": "52",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "ONORATI G., POSCOLIERI M., SALVI S., TRIGILA R. 1987, *Use of TM Landsat data as a support to classical ground-based methodologies in the investigation of a volcanic site in central Italy: the Caldera of Latera*, in *Atti IGARSS'87 Symposium*, Ann Arbor (Mi-USA), 1173-1178.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Onorati",
+     "given": "G."
+    },
+    {
+     "family": "Poscolieri",
+     "given": "M."
+    },
+    {
+     "family": "Salvi",
+     "given": "S."
+    },
+    {
+     "family": "Trigila",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Use of TM Landsat data as a support to classical ground-based methodologies in the investigation of a volcanic site in central Italy: the Caldera of Latera",
+   "pages": "1173-1178",
+   "is_part_of": [
+    "Atti IGARSS'87 Symposium"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 12,
+   "place": "Ann Arbor (Mi-USA)"
+  },
+  {
+   "raw": "ONORATI G., POSCOLIERI M., VENTURA R., CHIARINI V., CRUCILLÀ U. 1992, *The Digital Elevation Model of Italy for geomorphology and structural geology*, «CATENA», 19, 147-178.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Onorati",
+     "given": "G."
+    },
+    {
+     "family": "Poscolieri",
+     "given": "M."
+    },
+    {
+     "family": "Ventura",
+     "given": "R."
+    },
+    {
+     "family": "Chiarini",
+     "given": "V."
+    },
+    {
+     "family": "Crucillà",
+     "given": "U."
+    }
+   ],
+   "type": "article",
+   "title": "The Digital Elevation Model of Italy for geomorphology and structural geology",
+   "is_part_of": [
+    "CATENA"
+   ],
+   "pages": "147-178",
+   "volume": "19",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "PARMEGIANI N., POSCOLIERI M. 1993, *Study of pre-protohistoric sites, identified in the area between the Bolsena Lake and the Albegna river (Italy), based on the analysis of selected environmental parameters*, in *Atti International Symposium Operationalization of Remote Sensing*, Enschede (Olanda), 225-235.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Parmegiani",
+     "given": "N."
+    },
+    {
+     "family": "Poscolieri",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Study of pre-protohistoric sites, identified in the area between the Bolsena Lake and the Albegna river (Italy), based on the analysis of selected environmental parameters",
+   "pages": "225-235",
+   "is_part_of": [
+    "Atti International Symposium Operationalization of Remote Sensing"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 14,
+   "place": "Enschede (Olanda)"
+  },
+  {
+   "raw": "PARMEGIANI N., POSCOLIERI M. 1994, *Appraisal of the interactions between pre-protohistoric settlements and hydrological hydrogeological features in a large area of southern Etruria*, in R. VAUGHAN (ed.), *Remote Sensing from Research to Operational Applications in the New Europe*, in *Atti 13th EARSeL Symposium*, Dundee (GB), Budapest, Springer-Verlag, 209-216.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Parmegiani",
+     "given": "N."
+    },
+    {
+     "family": "Poscolieri",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Appraisal of the interactions between pre-protohistoric settlements and hydrological hydrogeological features in a large area of southern Etruria",
+   "editors": [
+    {
+     "family": "Vaughan",
+     "given": "R."
+    }
+   ],
+   "pages": "209-216",
+   "is_part_of": [
+    "Remote Sensing from Research to Operational Applications in the New Europe, in Atti 13th EARSeL Symposium, Dundee (GB)"
+   ],
+   "place": "Budapest",
+   "publisher": "Springer-Verlag",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "PARMEGIANI N., POSCOLIERI M. (in corso di stampa), *Analisi dei rapporti tra risorse idrologiche e siti archeologici nel bacino del fiume Fiora*, in *Atti del III Incontro di Studi: Preistoria e Protostoria in Etruria* (Manciano-Farnese (Italia), maggio 1995.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Parmegiani",
+     "given": "N."
+    },
+    {
+     "family": "Poscolieri",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Analisi dei rapporti tra risorse idrologiche e siti archeologici nel bacino del fiume Fiora",
+   "is_part_of": [
+    "Atti del III Incontro di Studi: Preistoria e Protostoria in Etruria (Manciano-Farnese (Italia), maggio 1995)"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "ita",
+   "confidence": "high",
+   "position": 16,
+   "notes": "searched author + title: no publication found (possibly related to article 127 itself)"
+  },
+  {
+   "raw": "SOKAL R.R., SNEATH P.H.A. 1963, *Principles of Numerical Taxonomy*, S. Francisco e Londra, Freeman.",
+   "date": "1963",
+   "creators": [
+    {
+     "family": "Sokal",
+     "given": "R.R."
+    },
+    {
+     "family": "Sneath",
+     "given": "P.H.A."
+    }
+   ],
+   "type": "book",
+   "title": "Principles of Numerical Taxonomy",
+   "place": "S. Francisco e Londra",
+   "publisher": "Freeman",
+   "language": "eng",
+   "confidence": "high",
+   "position": 17
+  },
+  {
+   "raw": "SU Z., NEUMANN P., FETT W., SCHUMMAN A. SCHULTZ G.A. 1992, *Application of Remote Sensing and Geographical Information System in Hydrological Modeling*, «EARSel Advances in Remote Sensing», 1, 3-VII, 180-185.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Su",
+     "given": "Z."
+    },
+    {
+     "family": "Neumann",
+     "given": "P."
+    },
+    {
+     "family": "Fett",
+     "given": "W."
+    },
+    {
+     "family": "Schumman",
+     "given": "A."
+    },
+    {
+     "family": "Schultz",
+     "given": "G.A."
+    }
+   ],
+   "type": "article",
+   "title": "Application of Remote Sensing and Geographical Information System in Hydrological Modeling",
+   "is_part_of": [
+    "EARSel Advances in Remote Sensing"
+   ],
+   "pages": "180-185",
+   "volume": "1",
+   "issue": "3-VII",
+   "language": "eng",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "TUCKER C.J. 1979, *Red and photographic infrared linear combinations for monitoring vegetation*, «Remote Sensing and Environment», 8, 127-150.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Tucker",
+     "given": "C.J."
+    }
+   ],
+   "type": "article",
+   "title": "Red and photographic infrared linear combinations for monitoring vegetation",
+   "is_part_of": [
+    "Remote Sensing and Environment"
+   ],
+   "pages": "127-150",
+   "volume": "8",
+   "language": "eng",
+   "confidence": "high",
+   "position": 19
+  }
+ ]
+}

@@ -1,0 +1,331 @@
+{
+ "citing_aec_id": 439,
+ "source_file": "data/journal/18/439.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "COLOSI F., GABRIELLI R., ROSE D. 2001, Integrated use of DGPS and total station for the survey of archeological sites: The case of Colle Breccioso (Borgorose, RI), in Z. STANČIČ, T. VELJANOVSKI (eds.), Proceedings of CAA 2000: Computing Archaeology for Understanding the Past (Lljubljana 2000), BAR International Series 931, Oxford, Archaeopress, 9-12.",
+   "type": "chapter",
+   "date": "2001",
+   "title": "Integrated use of DGPS and total station for the survey of archeological sites: The case of Colle Breccioso (Borgorose, RI)",
+   "language": "eng",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Rose",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of CAA 2000: Computing Archaeology for Understanding the Past (Ljubljana 2000)"
+   ],
+   "pages": "9-12",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "place": "Oxford",
+   "publisher": "Archaeopress",
+   "notes": "OCR 'Lljubljana' corrected"
+  },
+  {
+   "position": 2,
+   "raw": "COLOSI F., D'ANDREA A., GABRIELLI R. 2002, Applicazioni informatiche per l'integrazione di dati eterogenei nel processo di conoscenza del sito antico di Cuma, in B. D'AGOSTINO, A. D'ANDREA (eds.), Cuma. Nuove forme di intervento per lo studio del sito antico. Atti della Giornata di Studio (Napoli 2001), «AION», Quaderno 14, Napoli, 115-126.",
+   "type": "chapter",
+   "date": "2002",
+   "title": "Applicazioni informatiche per l'integrazione di dati eterogenei nel processo di conoscenza del sito antico di Cuma",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Agostino",
+     "given": "B."
+    },
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Cuma. Nuove forme di intervento per lo studio del sito antico. Atti della Giornata di Studio (Napoli 2001)"
+   ],
+   "pages": "115-126",
+   "series": "AION",
+   "series_number": "Quaderno 14",
+   "place": "Napoli"
+  },
+  {
+   "position": 3,
+   "raw": "COLOSI F., GABRIELLI R., PELOSO D., ROSE D. 2002, Impiego del Differential Global Positioning System (DGPS) per lo studio del paesaggio antico: alcuni esempi rappresentativi, «Archeologia e Calcolatori», 12, 181-197.",
+   "type": "article",
+   "date": "2002",
+   "title": "Impiego del Differential Global Positioning System (DGPS) per lo studio del paesaggio antico: alcuni esempi rappresentativi",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Peloso",
+     "given": "D."
+    },
+    {
+     "family": "Rose",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "181-197",
+   "cited_aec_id": 322,
+   "notes": "cited year 2002, metadata 2001"
+  },
+  {
+   "position": 4,
+   "raw": "COLOSI F., GABRIELLI R., MAURIELLO P., PELOSO D. 2003, Cerveteri: topografia della Vigna Parrocchiale II. Metodologie integrate per lo studio di un'area archeologica, «Archeologia e Calcolatori», 14, 177-197.",
+   "type": "article",
+   "date": "2003",
+   "title": "Cerveteri: topografia della Vigna Parrocchiale II. Metodologie integrate per lo studio di un'area archeologica",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Mauriello",
+     "given": "P."
+    },
+    {
+     "family": "Peloso",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "14",
+   "pages": "177-197",
+   "cited_aec_id": 359
+  },
+  {
+   "position": 5,
+   "raw": "COLOSI F., GABRIELLI R., LAZZARI A. 2006, Il sistema GPS per il rilevamento del territorio: potenzialità e limiti dei diversi metodi di acquisizione, in S. CAMPANA, R. FRANCOVICH (eds.), Laser scanner e GPS. Paesaggi archeologici e tecnologie digitali 1. I Workshop (Grosseto 2005), Firenze, All'Insegna del Giglio, 187-200.",
+   "type": "chapter",
+   "date": "2006",
+   "title": "Il sistema GPS per il rilevamento del territorio: potenzialità e limiti dei diversi metodi di acquisizione",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Lazzari",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Laser scanner e GPS. Paesaggi archeologici e tecnologie digitali 1. I Workshop (Grosseto 2005)"
+   ],
+   "pages": "187-200",
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio"
+  },
+  {
+   "position": 6,
+   "raw": "DE MEO M. 1998, S. Pietro in Villamagna presso Anagni. Una villa romana si trasforma in abbazia, Quaderni di architettura e restauro, 2, Roma, Università di Roma \"La Sapienza\", Dipartimento di Storia dell'Architettura, Restauro e Conservazione Beni Architettonici.",
+   "type": "book",
+   "date": "1998",
+   "title": "S. Pietro in Villamagna presso Anagni. Una villa romana si trasforma in abbazia",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "De Meo",
+     "given": "M."
+    }
+   ],
+   "series": "Quaderni di architettura e restauro",
+   "series_number": "2",
+   "place": "Roma",
+   "publisher": "Università di Roma \"La Sapienza\", Dipartimento di Storia dell'Architettura, Restauro e Conservazione Beni Architettonici"
+  },
+  {
+   "position": 7,
+   "raw": "FENTRESS E., GATTI S., GOODSON C., HAY S., KUTTNER A., MAIURO M. 2006, Excavations at Villamagna 2006, «Journal of Fasti Online» (http://www.fastionline.org/docs/FOLDER-it-2006-68.pdf).",
+   "type": "article",
+   "date": "2006",
+   "title": "Excavations at Villamagna 2006",
+   "language": "eng",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Fentress",
+     "given": "E."
+    },
+    {
+     "family": "Gatti",
+     "given": "S."
+    },
+    {
+     "family": "Goodson",
+     "given": "C."
+    },
+    {
+     "family": "Hay",
+     "given": "S."
+    },
+    {
+     "family": "Kuttner",
+     "given": "A."
+    },
+    {
+     "family": "Maiuro",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Journal of Fasti Online"
+   ],
+   "uri": "http://www.fastionline.org/docs/FOLDER-it-2006-68.pdf"
+  },
+  {
+   "position": 8,
+   "raw": "GABRIELLI R. 2001, Introduzione all'uso dei GPS in archeologia, in S. CAMPANA, M. FORTE (eds.), Remote Sensing in Archaeology, Firenze, All'Insegna del Giglio, 1-25.",
+   "type": "chapter",
+   "date": "2001",
+   "title": "Introduzione all'uso dei GPS in archeologia",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Remote Sensing in Archaeology"
+   ],
+   "pages": "1-25",
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio"
+  },
+  {
+   "position": 9,
+   "raw": "GIAMMARIA G. 1999 (ed.), Villamagna, Monumenti di Anagni, 3, Anagni.",
+   "type": "book",
+   "date": "1999",
+   "title": "Villamagna",
+   "language": "ita",
+   "confidence": "high",
+   "editors": [
+    {
+     "family": "Giammaria",
+     "given": "G."
+    }
+   ],
+   "series": "Monumenti di Anagni",
+   "series_number": "3",
+   "place": "Anagni"
+  },
+  {
+   "position": 10,
+   "raw": "RASPA G., La storia, in GIAMMARIA 1999, 13-18.",
+   "type": "chapter",
+   "date": "1999",
+   "title": "La storia",
+   "language": "ita",
+   "confidence": "low",
+   "creators": [
+    {
+     "family": "Raspa",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giammaria",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Villamagna"
+   ],
+   "pages": "13-18",
+   "xref": 9,
+   "series": "Monumenti di Anagni",
+   "series_number": "3",
+   "place": "Anagni",
+   "notes": "no year in citation; 1999 taken from the referred volume"
+  }
+ ]
+}

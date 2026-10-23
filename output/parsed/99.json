@@ -1,0 +1,644 @@
+{
+ "citing_aec_id": 99,
+ "source_file": "data/journal/5/99.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "CLARK J.D. (ed.) 1967, The Atlas of African Prehistory, Cambridge University Press, Cambridge.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Clark",
+     "given": "J.D."
+    }
+   ],
+   "date": "1967",
+   "title": "The Atlas of African Prehistory",
+   "language": "eng",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "DAVIS H., RUSH D., RAKE S. 1993, Microcosm: Pre Release (Beta 2.0) Documentation, CSTR 92-16, Department of Electronics and Computer Science, University of Southampton.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Davis",
+     "given": "H."
+    },
+    {
+     "family": "Rush",
+     "given": "D."
+    },
+    {
+     "family": "Rake",
+     "given": "S."
+    }
+   ],
+   "date": "1993",
+   "title": "Microcosm: Pre Release (Beta 2.0) Documentation",
+   "language": "eng",
+   "series": "CSTR",
+   "series_number": "92-16",
+   "publisher": "Department of Electronics and Computer Science, University of Southampton",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "FOUNTAIN A.M., HALL W., HEATH I., DAVIS H. 1990, Microcosm: An open model for hypermedia with dynamic linking, in A. RIZK, J. ANDRÉ (eds.), Hypertext: Concepts, Systems and Applications, in Proceedings of European Conference on Hypertext 1990.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fountain",
+     "given": "A.M."
+    },
+    {
+     "family": "Hall",
+     "given": "W."
+    },
+    {
+     "family": "Heath",
+     "given": "I."
+    },
+    {
+     "family": "Davis",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rizk",
+     "given": "A."
+    },
+    {
+     "family": "André",
+     "given": "J."
+    }
+   ],
+   "date": "1990",
+   "title": "Microcosm: An open model for hypermedia with dynamic linking",
+   "is_part_of": [
+    "Hypertext: Concepts, Systems and Applications. Proceedings of European Conference on Hypertext 1990"
+   ],
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "HALL W., SIMMONS D. 1992, An open model for the hypermedia and its application to Geographic Information Systems, in Proceedings of EuroGraphics ’92, Cambridge, UK, 10.92.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hall",
+     "given": "W."
+    },
+    {
+     "family": "Simmons",
+     "given": "D."
+    }
+   ],
+   "date": "1992",
+   "title": "An open model for the hypermedia and its application to Geographic Information Systems",
+   "is_part_of": [
+    "Proceedings of EuroGraphics ’92"
+   ],
+   "language": "eng",
+   "place": "Cambridge, UK",
+   "notes": "\"10.92\" in citation read as October 1992, not recorded",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "KAREGA-MUNENE 1992, Dissemination of archaeological information: the East African experience, in REILLY, RAHTZ 1992, 41-46.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Karega-Munene",
+     "given": ""
+    }
+   ],
+   "editors": [
+    {
+     "family": "Reilly",
+     "given": "P."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "date": "1992",
+   "title": "Dissemination of archaeological information: the East African experience",
+   "is_part_of": [
+    "Archaeology and the Information Age"
+   ],
+   "language": "eng",
+   "pages": "41-46",
+   "xref": 11,
+   "notes": "given name missing in citation",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "KOKONYA M. 1992, Information Technology (IT): its role in the Urban Origins Project, in SINCLAIR, JUMA 1992, 110-113.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kokonya",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Sinclair",
+     "given": "P.J.J."
+    },
+    {
+     "family": "Juma",
+     "given": "A."
+    }
+   ],
+   "date": "1992",
+   "title": "Information Technology (IT): its role in the Urban Origins Project",
+   "is_part_of": [
+    "Urban Origins in Eastern Africa. Proceedings of the 1991 Madagascar Workshop"
+   ],
+   "language": "eng",
+   "pages": "110-113",
+   "xref": 20,
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "LOCK G., MOFFETT J. (eds.) 1992, Computer Applications and Quantitative Methods in Archaeology 1991, International Series 577, Oxford, British Archaeology Reports.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "date": "1992",
+   "title": "Computer Applications and Quantitative Methods in Archaeology 1991",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "577",
+   "place": "Oxford",
+   "publisher": "British Archaeological Reports",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "OLIVEIRA J.N., ARAUJO A.S., SILVA A.M. 1991, Historical records processing in the HiTEX system, paper submitted to 1991 AHC conference; from Departamento de Informatica, UM/INESC, Rua D. Pedro V 88-3, 4700 Braga, Portugal.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Oliveira",
+     "given": "J.N."
+    },
+    {
+     "family": "Araujo",
+     "given": "A.S."
+    },
+    {
+     "family": "Silva",
+     "given": "A.M."
+    }
+   ],
+   "date": "1991",
+   "title": "Historical records processing in the HiTEX system",
+   "is_part_of": [
+    "AHC conference 1991"
+   ],
+   "language": "eng",
+   "notes": "paper submitted to 1991 AHC conference; from Departamento de Informatica, UM/INESC, Rua D. Pedro V 88-3, 4700 Braga, Portugal",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "RAHTZ S., CARR L., HALL W. 1989, New designs for archaeological reports, « Science and Archaeology », 31, 20-34.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rahtz",
+     "given": "S."
+    },
+    {
+     "family": "Carr",
+     "given": "L."
+    },
+    {
+     "family": "Hall",
+     "given": "W."
+    }
+   ],
+   "date": "1989",
+   "title": "New designs for archaeological reports",
+   "is_part_of": [
+    "Science and Archaeology"
+   ],
+   "language": "eng",
+   "volume": "31",
+   "pages": "20-34",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "RAHTZ S., HALL W., ALLEN T. 1992, The development of dynamic archaeological publications, in REILLY, RAHTZ 1992, 360-384.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rahtz",
+     "given": "S."
+    },
+    {
+     "family": "Hall",
+     "given": "W."
+    },
+    {
+     "family": "Allen",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Reilly",
+     "given": "P."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "date": "1992",
+   "title": "The development of dynamic archaeological publications",
+   "is_part_of": [
+    "Archaeology and the Information Age"
+   ],
+   "language": "eng",
+   "pages": "360-384",
+   "xref": 11,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "REILLY P., RAHTZ S. (eds.) 1992, Archaeology and the Information Age, One World Archaeology 21, Routledge, London.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Reilly",
+     "given": "P."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "date": "1992",
+   "title": "Archaeology and the Information Age",
+   "language": "eng",
+   "series": "One World Archaeology",
+   "series_number": "21",
+   "publisher": "Routledge",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "SHAW T., SINCLAIR P.J.J., OKPOKO A.B. and A. (eds.) 1993, The Archaeology of Africa: Foods, Metals and Towns, One World Archaeology, Routledge, London.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Shaw",
+     "given": "T."
+    },
+    {
+     "family": "Sinclair",
+     "given": "P.J.J."
+    },
+    {
+     "family": "Okpoko",
+     "given": "A.B."
+    }
+   ],
+   "date": "1993",
+   "title": "The Archaeology of Africa: Foods, Metals and Towns",
+   "language": "eng",
+   "series": "One World Archaeology",
+   "publisher": "Routledge",
+   "place": "London",
+   "confidence": "low",
+   "notes": "editors cited \"SHAW T., SINCLAIR P.J.J., OKPOKO A.B. and A.\"; the last editor (\"and A.\") cannot be identified and is omitted"
+  },
+  {
+   "position": 13,
+   "raw": "SIMMONS D., HALL W., CLARK M. 1992, Integrating GIS with multi-media for site management, in Proceedings of the Mapping Awareness Conference, Olimpia, London, February 1992.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Simmons",
+     "given": "D."
+    },
+    {
+     "family": "Hall",
+     "given": "W."
+    },
+    {
+     "family": "Clark",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Integrating GIS with multi-media for site management",
+   "is_part_of": [
+    "Proceedings of the Mapping Awareness Conference, Olimpia, London, February 1992"
+   ],
+   "language": "eng",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "SINCLAIR P. 1989, Urban Origins in Eastern Africa an international cooperation programme in archaeology and related disciplines, « World Archaeological Bulletin », 3, 33-51.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sinclair",
+     "given": "P."
+    }
+   ],
+   "date": "1989",
+   "title": "Urban Origins in Eastern Africa an international cooperation programme in archaeology and related disciplines",
+   "is_part_of": [
+    "World Archaeological Bulletin"
+   ],
+   "language": "eng",
+   "volume": "3",
+   "pages": "33-51",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "SINCLAIR P., KOKONYA M., MENESES M., RAKATOARISOA J.A. 1992, The impact of informations technology on the archaeology of Southern and Eastern Africa - the first decades, in REILLY, RAHTZ 1992, 29-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sinclair",
+     "given": "P."
+    },
+    {
+     "family": "Kokonya",
+     "given": "M."
+    },
+    {
+     "family": "Meneses",
+     "given": "M."
+    },
+    {
+     "family": "Rakatoarisoa",
+     "given": "J.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Reilly",
+     "given": "P."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "date": "1992",
+   "title": "The impact of informations technology on the archaeology of Southern and Eastern Africa - the first decades",
+   "is_part_of": [
+    "Archaeology and the Information Age"
+   ],
+   "language": "eng",
+   "pages": "29-40",
+   "xref": 11,
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "SINCLAIR P.J.J. (ed.) 1988, Urban Origins in Eastern Africa: The Mombasa Specialist Workshop (1-6 August 1988), Urban Origins in Eastern Africa Project Working Papers 3, Stockholm, Sweden, Swedish Central Board of National Antiquities.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Sinclair",
+     "given": "P.J.J."
+    }
+   ],
+   "date": "1988",
+   "title": "Urban Origins in Eastern Africa: The Mombasa Specialist Workshop (1-6 August 1988)",
+   "language": "eng",
+   "series": "Urban Origins in Eastern Africa Project Working Papers",
+   "series_number": "3",
+   "place": "Stockholm, Sweden",
+   "publisher": "Swedish Central Board of National Antiquities",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "SINCLAIR P.J.J. (ed.) 1990, Micro-stratigraphic investigations at the medieval town site of Birka, Urban Origins in Eastern Africa Project Working Papers 5, Stockholm, Sweden, Swedish Central Board of National Antiquities.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Sinclair",
+     "given": "P.J.J."
+    }
+   ],
+   "date": "1990",
+   "title": "Micro-stratigraphic investigations at the medieval town site of Birka",
+   "language": "eng",
+   "series": "Urban Origins in Eastern Africa Project Working Papers",
+   "series_number": "5",
+   "place": "Stockholm, Sweden",
+   "publisher": "Swedish Central Board of National Antiquities",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "SINCLAIR P.J.J. 1992a, Information technology applications in the Urban Origins in Eastern Africa Project: the wider context, in SINCLAIR, JUMA 1992, 269-275.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sinclair",
+     "given": "P.J.J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Sinclair",
+     "given": "P.J.J."
+    },
+    {
+     "family": "Juma",
+     "given": "A."
+    }
+   ],
+   "date": "1992",
+   "title": "Information technology applications in the Urban Origins in Eastern Africa Project: the wider context",
+   "is_part_of": [
+    "Urban Origins in Eastern Africa. Proceedings of the 1991 Madagascar Workshop"
+   ],
+   "language": "eng",
+   "pages": "269-275",
+   "xref": 20,
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "SINCLAIR P.J.J. 1992b, Introduction, in SINCLAIR, JUMA 1992, 4-9.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sinclair",
+     "given": "P.J.J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Sinclair",
+     "given": "P.J.J."
+    },
+    {
+     "family": "Juma",
+     "given": "A."
+    }
+   ],
+   "date": "1992",
+   "title": "Introduction",
+   "is_part_of": [
+    "Urban Origins in Eastern Africa. Proceedings of the 1991 Madagascar Workshop"
+   ],
+   "language": "eng",
+   "pages": "4-9",
+   "xref": 20,
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "SINCLAIR P.J.J., JUMA A. (eds.) 1992, Urban Origins in Eastern Africa. Proceedings of the 1991 Madagascar Workshop, Urban Origins in Eastern Africa Project Working Papers 8, Stockholm, Sweden, Swedish Central Board of National Antiquities.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Sinclair",
+     "given": "P.J.J."
+    },
+    {
+     "family": "Juma",
+     "given": "A."
+    }
+   ],
+   "date": "1992",
+   "title": "Urban Origins in Eastern Africa. Proceedings of the 1991 Madagascar Workshop",
+   "language": "eng",
+   "series": "Urban Origins in Eastern Africa Project Working Papers",
+   "series_number": "8",
+   "place": "Stockholm, Sweden",
+   "publisher": "Swedish Central Board of National Antiquities",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "SINCLAIR P.J.J., RAKOTOARISOA J.A. (eds.) 1990, Urban Origins in Eastern Africa. Proceedings of the 1989 Madagascar Workshop, Urban Origins in Easter Africa Project Working Papers 4, Stockholm, Sweden, Swedish Central Board of National Antiquities.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Sinclair",
+     "given": "P.J.J."
+    },
+    {
+     "family": "Rakotoarisoa",
+     "given": "J.A."
+    }
+   ],
+   "date": "1990",
+   "title": "Urban Origins in Eastern Africa. Proceedings of the 1989 Madagascar Workshop",
+   "language": "eng",
+   "series": "Urban Origins in Eastern Africa Project Working Papers",
+   "series_number": "4",
+   "place": "Stockholm, Sweden",
+   "publisher": "Swedish Central Board of National Antiquities",
+   "notes": "series cited with OCR \"Easter Africa\"",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "SINCLAIR P.J.J., WANDIBBA S. (eds.) 1988, Urban Origins in Eastern Africa project proposals and workshop summaries, Urban Origins in Eastern Africa Project Working Papers 1, Stockholm, Sweden, Swedish Central Board of National Antiquities.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Sinclair",
+     "given": "P.J.J."
+    },
+    {
+     "family": "Wandibba",
+     "given": "S."
+    }
+   ],
+   "date": "1988",
+   "title": "Urban Origins in Eastern Africa project proposals and workshop summaries",
+   "language": "eng",
+   "series": "Urban Origins in Eastern Africa Project Working Papers",
+   "series_number": "1",
+   "place": "Stockholm, Sweden",
+   "publisher": "Swedish Central Board of National Antiquities",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "SMITH N. 1992, An experiment on electronic exchange and publication of archaeological field data, in LOCK, MOFFETT 1992, 49-58.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Smith",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "date": "1992",
+   "title": "An experiment on electronic exchange and publication of archaeological field data",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1991"
+   ],
+   "language": "eng",
+   "pages": "49-58",
+   "xref": 7,
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "UCKO P. 1987, Archaeological Freedom and Apartheid, Unwin Hyman, London.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ucko",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Archaeological Freedom and Apartheid",
+   "language": "eng",
+   "place": "London",
+   "publisher": "Unwin Hyman",
+   "confidence": "high"
+  }
+ ]
+}

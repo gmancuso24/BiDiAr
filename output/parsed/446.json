@@ -1,0 +1,114 @@
+{
+ "citing_aec_id": 446,
+ "source_file": "data/journal/18/446.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "DESCOEUDRES J.-P. (ed.) 2001, *Ostia port et porte de la Rome antique*, Catalogo della Mostra, Genève.",
+   "type": "book",
+   "date": "2001",
+   "title": "Ostia port et porte de la Rome antique",
+   "language": "fre",
+   "confidence": "high",
+   "editors": [
+    {
+     "family": "Descoeudres",
+     "given": "J.-P."
+    }
+   ],
+   "place": "Genève",
+   "notes": "Catalogo della Mostra"
+  },
+  {
+   "position": 2,
+   "raw": "FERRANTE F., PLANCES E., SHEPHERD E.J. 2007, *Nuove tecnologie per la gestione dei depositi di beni culturali: l’esperienza della Soprintendenza per i Beni Archeologici di Ostia*, in *MiBAC. Ripensare i processi per migliorare i servizi*, in Forum P.A. 18ª Mostra Convegno dei Servizi ai Cittadini ed alle Imprese, Roma, 10-12.",
+   "type": "chapter",
+   "date": "2007",
+   "title": "Nuove tecnologie per la gestione dei depositi di beni culturali: l'esperienza della Soprintendenza per i Beni Archeologici di Ostia",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Ferrante",
+     "given": "F."
+    },
+    {
+     "family": "Plances",
+     "given": "E."
+    },
+    {
+     "family": "Shepherd",
+     "given": "E.J."
+    }
+   ],
+   "is_part_of": [
+    "MiBAC. Ripensare i processi per migliorare i servizi",
+    "Forum P.A. 18ª Mostra Convegno dei Servizi ai Cittadini ed alle Imprese"
+   ],
+   "pages": "10-12",
+   "place": "Roma"
+  },
+  {
+   "position": 3,
+   "raw": "*I beni archeologici in Italia*, I Libri Bianchi del Touring Club Italiano, 6, Roma 1997.",
+   "type": "book",
+   "date": "1997",
+   "title": "I beni archeologici in Italia",
+   "language": "ita",
+   "confidence": "high",
+   "series": "I Libri Bianchi del Touring Club Italiano",
+   "series_number": "6",
+   "place": "Roma",
+   "notes": "no author"
+  },
+  {
+   "position": 4,
+   "raw": "MARICONDA E. 2007, *Fondi tra cultura e sviluppo. Un piano da 200 milioni per la «filiera produttiva» del patrimonio*, in *Il Sole 24 ore*, 14 maggio.",
+   "type": "article",
+   "date": "2007",
+   "title": "Fondi tra cultura e sviluppo. Un piano da 200 milioni per la «filiera produttiva» del patrimonio",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Mariconda",
+     "given": "E."
+    }
+   ],
+   "is_part_of": [
+    "Il Sole 24 ore"
+   ],
+   "notes": "newspaper article, 14 maggio"
+  },
+  {
+   "position": 5,
+   "raw": "SFORZA T. 2007, in *PubblicA*, settembre.",
+   "type": "article",
+   "date": "2007",
+   "title": "PubblicA, settembre 2007",
+   "language": "ita",
+   "confidence": "low",
+   "creators": [
+    {
+     "family": "Sforza",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "PubblicA"
+   ],
+   "notes": "the citation gives no title (only 'in PubblicA, settembre'); title field filled from the container and date"
+  },
+  {
+   "position": 6,
+   "raw": "*Tesori alla luce. Opere dai musei al San Michele*, Catalogo della Mostra, Roma 2007.",
+   "type": "book",
+   "date": "2007",
+   "title": "Tesori alla luce. Opere dai musei al San Michele",
+   "language": "ita",
+   "confidence": "high",
+   "place": "Roma",
+   "notes": "Catalogo della Mostra; no author"
+  }
+ ]
+}

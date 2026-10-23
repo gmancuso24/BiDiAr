@@ -1,0 +1,245 @@
+{
+ "citing_aec_id": 929,
+ "source_file": "data/journal/28/929.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Andreau J., Broise H., Catalli F., Galeotti L., Jolivet V. 2003, *Musarna 1. Les trésors monétaires*, CÉFR 304, Rome, École française de Rome.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Andreau",
+     "given": "J."
+    },
+    {
+     "family": "Broise",
+     "given": "H."
+    },
+    {
+     "family": "Catalli",
+     "given": "F."
+    },
+    {
+     "family": "Galeotti",
+     "given": "L."
+    },
+    {
+     "family": "Jolivet",
+     "given": "V."
+    }
+   ],
+   "date": "2003",
+   "title": "Musarna 1. Les trésors monétaires",
+   "series": "CÉFR",
+   "series_number": "304",
+   "publisher": "École française de Rome",
+   "place": "Rome",
+   "language": "fre"
+  },
+  {
+   "position": 2,
+   "raw": "Broise H., Jolivet V. (eds.) 2004, *Musarna 2. Les bains hellénistiques*, CÉFR 344, Rome, École française de Rome.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Broise",
+     "given": "H."
+    },
+    {
+     "family": "Jolivet",
+     "given": "V."
+    }
+   ],
+   "date": "2004",
+   "title": "Musarna 2. Les bains hellénistiques",
+   "series": "CÉFR",
+   "series_number": "344",
+   "publisher": "École française de Rome",
+   "place": "Rome",
+   "language": "fre"
+  },
+  {
+   "position": 3,
+   "raw": "Cinque G.E., Jolivet V., Broise H. 2017, *Drawing and archaeology: New research objectives. The case of Civita Musarna*, «Abitare la terra», 16, 22-25.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cinque",
+     "given": "G.E."
+    },
+    {
+     "family": "Jolivet",
+     "given": "V."
+    },
+    {
+     "family": "Broise",
+     "given": "H."
+    }
+   ],
+   "date": "2017",
+   "title": "Drawing and archaeology: New research objectives. The case of Civita Musarna",
+   "is_part_of": [
+    "Abitare la terra"
+   ],
+   "volume": "16",
+   "pages": "22-25",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Cinque G.E., Broise H., Jolivet V. c.s., *Dalla groma alla città: nuovi dati sull'urbanistica di Civita Musarna*, in *Atti dell'Incontro internazionale di studi Società e Innovazione in Etruria Meridionale tra IV e III sec. a.C. (Bolsena 2016)*, in corso di stampa.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cinque",
+     "given": "G.E."
+    },
+    {
+     "family": "Broise",
+     "given": "H."
+    },
+    {
+     "family": "Jolivet",
+     "given": "V."
+    }
+   ],
+   "date": "2024",
+   "title": "Dalla groma alla città: nuovi dati sull'urbanistica di Civita Musarna",
+   "is_part_of": [
+    "Aristonothos"
+   ],
+   "volume": "20",
+   "pages": "203-236",
+   "publisher": "Ledizioni",
+   "language": "ita",
+   "cs": {
+    "status": "resolved",
+    "source": "https://art.torvergata.it/handle/2108/455365"
+   },
+   "notes": "cited c.s. in the proceedings \"Società e Innovazione in Etruria Meridionale tra IV e III sec. a.C. (Bolsena 2016)\"; found as Aristonothos 20 (2024): container differs, to verify",
+   "confidence": "low"
+  },
+  {
+   "position": 5,
+   "raw": "Colonna G. 2004, *La \"disciplina\" etrusca e la dottrina della città fondata*, «Studi Romani», 52, 303-311.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Colonna",
+     "given": "G."
+    }
+   ],
+   "date": "2004",
+   "title": "La \"disciplina\" etrusca e la dottrina della città fondata",
+   "is_part_of": [
+    "Studi Romani"
+   ],
+   "volume": "52",
+   "pages": "303-311",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Jolivet V. 2013, *Civita Musarna tra passato, presente e futuro*, «AIAC Folders» (http://www.fastionline.org/docs/FOLDER-it-2013-283.pdf; accessed: 01/04/2017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jolivet",
+     "given": "V."
+    }
+   ],
+   "date": "2013",
+   "title": "Civita Musarna tra passato, presente e futuro",
+   "is_part_of": [
+    "AIAC Folders"
+   ],
+   "language": "ita",
+   "uri": "http://www.fastionline.org/docs/FOLDER-it-2013-283.pdf",
+   "notes": "accessed 01/04/2017"
+  },
+  {
+   "position": 7,
+   "raw": "Jolivet V. 2016, *Nouvelles frontières, nouveaux horizons: les contours changeants du territoire de Tarquinia*, in M.-L. Haack, G. van Heems (eds.), *L'Italie préromaine et la France. Recueil d'études en hommage à Dominique Briquel*, Ariccia, Aracne editrice, 431-446.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Jolivet",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Haack",
+     "given": "M.-L."
+    },
+    {
+     "family": "van Heems",
+     "given": "G."
+    }
+   ],
+   "date": "2016",
+   "title": "Nouvelles frontières, nouveaux horizons: les contours changeants du territoire de Tarquinia",
+   "is_part_of": [
+    "L'Italie préromaine et la France. Recueil d'études en hommage à Dominique Briquel"
+   ],
+   "pages": "431-446",
+   "publisher": "Aracne editrice",
+   "place": "Ariccia",
+   "language": "fre",
+   "notes": "editor \"Haack M.-L.\" as cited"
+  },
+  {
+   "position": 8,
+   "raw": "Liverani P. 1989, *Il rilievo con i popoli etruschi: proposta di ricostruzione e interpretazione*, in M. Fuchs, P. Liverani, P. Santoro (eds.), *Caere 2. Il teatro e il ciclo statuario giulio-claudio*, Roma, CNR Edizioni, 145-157.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Liverani",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Fuchs",
+     "given": "M."
+    },
+    {
+     "family": "Liverani",
+     "given": "P."
+    },
+    {
+     "family": "Santoro",
+     "given": "P."
+    }
+   ],
+   "date": "1989",
+   "title": "Il rilievo con i popoli etruschi: proposta di ricostruzione e interpretazione",
+   "is_part_of": [
+    "Caere 2. Il teatro e il ciclo statuario giulio-claudio"
+   ],
+   "pages": "145-157",
+   "publisher": "CNR Edizioni",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "Mansuelli G.A. 1998, *Etrusca disciplina e pensiero scientifico*, «Annali della Fondazione per il Museo Claudio Faina», 5, 105-118.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mansuelli",
+     "given": "G.A."
+    }
+   ],
+   "date": "1998",
+   "title": "Etrusca disciplina e pensiero scientifico",
+   "is_part_of": [
+    "Annali della Fondazione per il Museo Claudio Faina"
+   ],
+   "volume": "5",
+   "pages": "105-118",
+   "language": "ita"
+  }
+ ]
+}

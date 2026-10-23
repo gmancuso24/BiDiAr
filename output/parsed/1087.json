@@ -1,0 +1,526 @@
+{
+ "citing_aec_id": 1087,
+ "source_file": "data/journal/31/1087.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Ballet P., Vichy M. 1992, *Ateliers de potiers en Égypte hellénistique et romaine. Ateliers du Delta, d'Assouan et de Kharga*, «Cahiers de la Céramique Égyptienne», 3, 113-116.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ballet",
+     "given": "P."
+    },
+    {
+     "family": "Vichy",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Ateliers de potiers en Égypte hellénistique et romaine. Ateliers du Delta, d'Assouan et de Kharga",
+   "is_part_of": [
+    "Cahiers de la Céramique Égyptienne"
+   ],
+   "volume": "3",
+   "pages": "113-116",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "D'Amicone E. *et al.* 2009, *Cartonnages in tela e papiro stuccati e dipinti, e inchiostri: due capitoli del progetto \"colore\"*, «Atti della Accademia Roveretana degli Agiati», 259, 173-191.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Amicone",
+     "given": "E."
+    }
+   ],
+   "date": "2009",
+   "title": "Cartonnages in tela e papiro stuccati e dipinti, e inchiostri: due capitoli del progetto \"colore\"",
+   "is_part_of": [
+    "Atti della Accademia Roveretana degli Agiati"
+   ],
+   "volume": "259",
+   "pages": "173-191",
+   "language": "ita",
+   "notes": "cited \"D'Amicone E. et al.\"; other authors not given",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Dreyer G. 1998, *Umm el-Qaab I, Das prädynastische Königsgrab U-j und seine frühen Schriftzeugnisse*, «Archäologische Veröffentlichungen, Deutsches Archäologisches Institut, Abteilung Kairo», 86, Mainz, Verlag Philipp von Zabern.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Dreyer",
+     "given": "G."
+    }
+   ],
+   "date": "1998",
+   "title": "Umm el-Qaab I, Das prädynastische Königsgrab U-j und seine frühen Schriftzeugnisse",
+   "series": "Archäologische Veröffentlichungen, Deutsches Archäologisches Institut, Abteilung Kairo",
+   "series_number": "86",
+   "publisher": "Verlag Philipp von Zabern",
+   "place": "Mainz",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Dunand F. *et al.* 1992, *Douch I. La nécropole. Exploration archéologique. Monographie des tombes 1 à 72. Structures sociales, économiques, religieuses de l'Égypte romaine*, Le Caire, IFAO.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Dunand",
+     "given": "F."
+    }
+   ],
+   "date": "1992",
+   "title": "Douch I. La nécropole. Exploration archéologique. Monographie des tombes 1 à 72. Structures sociales, économiques, religieuses de l'Égypte romaine",
+   "publisher": "IFAO",
+   "place": "Le Caire",
+   "language": "fre",
+   "notes": "cited \"Dunand F. et al.\"; other authors not given",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Firth C.M. 1910a, *Archaeological Report: The destruction of the cemeteries in the neighbourhood of Dakka*, «The Archaeological Survey of Nubia: Bulletin», 5, 1-3.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Firth",
+     "given": "C.M."
+    }
+   ],
+   "date": "1910",
+   "title": "Archaeological Report: The destruction of the cemeteries in the neighbourhood of Dakka",
+   "is_part_of": [
+    "The Archaeological Survey of Nubia: Bulletin"
+   ],
+   "volume": "5",
+   "pages": "1-3",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Firth C.M. 1910b, *Archaeological report*, «The Archaeological Survey of Nubia: Bulletin», 6, 1-8.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Firth",
+     "given": "C.M."
+    }
+   ],
+   "date": "1910",
+   "title": "Archaeological report",
+   "is_part_of": [
+    "The Archaeological Survey of Nubia: Bulletin"
+   ],
+   "volume": "6",
+   "pages": "1-8",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Firth C.M. 1911, *The archaeological survey of Nubia: Dealing with the work from November 1, 1910, to February 28, 1911*, «The Archaeological Survey of Nubia: Bulletin», 7, 1-19.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Firth",
+     "given": "C.M."
+    }
+   ],
+   "date": "1911",
+   "title": "The archaeological survey of Nubia: Dealing with the work from November 1, 1910, to February 28, 1911",
+   "is_part_of": [
+    "The Archaeological Survey of Nubia: Bulletin"
+   ],
+   "volume": "7",
+   "pages": "1-19",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Firth C.M. 1912, *The archaeological survey of Nubia: Report for 1908-1909*, 2 vols., Cairo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Firth",
+     "given": "C.M."
+    }
+   ],
+   "date": "1912",
+   "title": "The archaeological survey of Nubia: Report for 1908-1909",
+   "place": "Cairo",
+   "language": "eng",
+   "notes": "2 vols.",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Firth C.M. 1915, *The Archaeological Survey of Nubia: Report for 1909-1910*, Cairo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Firth",
+     "given": "C.M."
+    }
+   ],
+   "date": "1915",
+   "title": "The Archaeological Survey of Nubia: Report for 1909-1910",
+   "place": "Cairo",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Firth C.M. 1927, *The Archaeological Survey of Nubia: Report for 1910-1911*, Cairo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Firth",
+     "given": "C.M."
+    }
+   ],
+   "date": "1927",
+   "title": "The Archaeological Survey of Nubia: Report for 1910-1911",
+   "place": "Cairo",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Gasse A., Rondot V. 2007, *Les inscriptions de Séhel*, Le Caire, IFAO.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gasse",
+     "given": "A."
+    },
+    {
+     "family": "Rondot",
+     "given": "V."
+    }
+   ],
+   "date": "2007",
+   "title": "Les inscriptions de Séhel",
+   "publisher": "IFAO",
+   "place": "Le Caire",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Jiménez-Serrano A., Sánchez-Léon J.C. 2019, *Le Premier Nome du sud de l'Égypte au Moyen Empire. Fouilles de la mission espagnole à Qoubbet el-Haoua (Assouan) 2008-2018*, Oxford, BAR International Series 2927, BAR Publishing.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jiménez-Serrano",
+     "given": "A."
+    },
+    {
+     "family": "Sánchez-Léon",
+     "given": "J.C."
+    }
+   ],
+   "date": "2019",
+   "title": "Le Premier Nome du sud de l'Égypte au Moyen Empire. Fouilles de la mission espagnole à Qoubbet el-Haoua (Assouan) 2008-2018",
+   "series": "BAR International Series",
+   "series_number": "2927",
+   "publisher": "BAR Publishing",
+   "place": "Oxford",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Kahl J. 2003, *Die frühen Schriftzeugnisse aus dem Grab U-j in Umm el-Qaab*, «Chronique d'Égypte», 78, 112-35.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kahl",
+     "given": "J."
+    }
+   ],
+   "date": "2003",
+   "title": "Die frühen Schriftzeugnisse aus dem Grab U-j in Umm el-Qaab",
+   "is_part_of": [
+    "Chronique d'Égypte"
+   ],
+   "volume": "78",
+   "pages": "112-135",
+   "language": "ger",
+   "notes": "cited pages 112-35",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Kaiser W. *et al.* 1977, *Stadt und Tempel von Elephantine. 7. Grabungsbericht*, «Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo», 33, 67-112.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kaiser",
+     "given": "W."
+    }
+   ],
+   "date": "1977",
+   "title": "Stadt und Tempel von Elephantine. 7. Grabungsbericht",
+   "is_part_of": [
+    "Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo"
+   ],
+   "volume": "33",
+   "pages": "67-112",
+   "language": "ger",
+   "notes": "cited \"Kaiser W. et al.\"; other authors not given",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Kockelmann H. 2012, *Philae*, in W. Wendrich (ed.), *UCLA Encyclopedia of Egyptology*, Los Angeles.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kockelmann",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Wendrich",
+     "given": "W."
+    }
+   ],
+   "date": "2012",
+   "title": "Philae",
+   "is_part_of": [
+    "UCLA Encyclopedia of Egyptology"
+   ],
+   "place": "Los Angeles",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Lyons H.G. 1896, *A Report on the Island and Temples of Philae*, London, Waterlow.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lyons",
+     "given": "H.G."
+    }
+   ],
+   "date": "1896",
+   "title": "A Report on the Island and Temples of Philae",
+   "publisher": "Waterlow",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Piacentini P. 2013/2014, *From the formation of Egyptological archives to Forming Material Egypt*, «EDAL: Egyptian and Egyptological Documents Archives Libraries», 4, 11-12.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Piacentini",
+     "given": "P."
+    }
+   ],
+   "date": "2013/2014",
+   "title": "From the formation of Egyptological archives to Forming Material Egypt",
+   "is_part_of": [
+    "EDAL: Egyptian and Egyptological Documents Archives Libraries"
+   ],
+   "volume": "4",
+   "pages": "11-12",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Reisner G.A. 1908, *The archaeological survey of Nubia: Progress of survey*, «The Archaeological Survey of Nubia: Bulletin», 2, 3-27.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Reisner",
+     "given": "G.A."
+    }
+   ],
+   "date": "1908",
+   "title": "The archaeological survey of Nubia: Progress of survey",
+   "is_part_of": [
+    "The Archaeological Survey of Nubia: Bulletin"
+   ],
+   "volume": "2",
+   "pages": "3-27",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Reisner G.A. 1909a, *The archaeological survey of Nubia*, «The Archaeological Survey of Nubia: Bulletin», 3, 5-20.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Reisner",
+     "given": "G.A."
+    }
+   ],
+   "date": "1909",
+   "title": "The archaeological survey of Nubia",
+   "is_part_of": [
+    "The Archaeological Survey of Nubia: Bulletin"
+   ],
+   "volume": "3",
+   "pages": "5-20",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Reisner G.A. 1909b, *The archaeological survey of Nubia*, «The Archaeological Survey of Nubia: Bulletin», 4, 7-16.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Reisner",
+     "given": "G.A."
+    }
+   ],
+   "date": "1909",
+   "title": "The archaeological survey of Nubia",
+   "is_part_of": [
+    "The Archaeological Survey of Nubia: Bulletin"
+   ],
+   "volume": "4",
+   "pages": "7-16",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Reisner G.A., Elliot Smith G., Wood Jones F. 1910, *The archaeological survey of Nubia: Report for 1907-1908*, 4 vols., Cairo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Reisner",
+     "given": "G.A."
+    },
+    {
+     "family": "Elliot Smith",
+     "given": "G."
+    },
+    {
+     "family": "Wood Jones",
+     "given": "F."
+    }
+   ],
+   "date": "1910",
+   "title": "The archaeological survey of Nubia: Report for 1907-1908",
+   "place": "Cairo",
+   "language": "eng",
+   "notes": "4 vols.",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Scalf F. 2012, *Ba-Bird Statuette*, in R. Bailleul-LeSuer (ed.), *Between Heaven and Earth: Birds in Ancient Egypt*, Oriental Institute Museum Publications 35, Chicago, Oriental Institute, 201-202.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scalf",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bailleul-LeSuer",
+     "given": "R."
+    }
+   ],
+   "date": "2012",
+   "title": "Ba-Bird Statuette",
+   "is_part_of": [
+    "Between Heaven and Earth: Birds in Ancient Egypt"
+   ],
+   "pages": "201-202",
+   "series": "Oriental Institute Museum Publications",
+   "series_number": "35",
+   "publisher": "Oriental Institute",
+   "place": "Chicago",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Scott D.A. *et al.* 2009, *Examination of some pigments, ground and media from Egyptian cartonnage fragments in the Petrie Museum, University College London*, «Journal of Archaeological Science», 36, 923-932.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scott",
+     "given": "D.A."
+    }
+   ],
+   "date": "2009",
+   "title": "Examination of some pigments, ground and media from Egyptian cartonnage fragments in the Petrie Museum, University College London",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "36",
+   "pages": "923-932",
+   "language": "eng",
+   "notes": "cited \"Scott D.A. et al.\"; other authors not given",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Vandenabeele P. *et al.* 2009, *Multi-disciplinary investigation of the tomb of Menna (TT69), Theban Necropolis, Egypt*, «Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy», 73, 546-552.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vandenabeele",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Multi-disciplinary investigation of the tomb of Menna (TT69), Theban Necropolis, Egypt",
+   "is_part_of": [
+    "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy"
+   ],
+   "volume": "73",
+   "pages": "546-552",
+   "language": "eng",
+   "notes": "cited \"Vandenabeele P. et al.\"; other authors not given",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Wendorf F., Schild R., Close A.E. 1989, *The Prehistory of the Wadi Kubbaniya, Vol. 3: Late Palaeolithic Archaeology*, Dallas, Southern Methodist University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wendorf",
+     "given": "F."
+    },
+    {
+     "family": "Schild",
+     "given": "R."
+    },
+    {
+     "family": "Close",
+     "given": "A.E."
+    }
+   ],
+   "date": "1989",
+   "title": "The Prehistory of the Wadi Kubbaniya, Vol. 3: Late Palaeolithic Archaeology",
+   "publisher": "Southern Methodist University Press",
+   "place": "Dallas",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

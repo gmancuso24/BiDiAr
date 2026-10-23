@@ -1,0 +1,925 @@
+{
+ "citing_aec_id": 1377,
+ "source_file": "data/journal/36/1377.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Agrawal S., Gupta R.D. 2017, Web GIS and its architecture: A review, «Arabian Journal of Geosciences», 10, 23, 518 (https://doi.org/10.1007/s12517-017-3296-2).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Agrawal",
+     "given": "S."
+    },
+    {
+     "family": "Gupta",
+     "given": "R.D."
+    }
+   ],
+   "date": "2017",
+   "title": "Web GIS and its architecture: A review",
+   "is_part_of": [
+    "Arabian Journal of Geosciences"
+   ],
+   "volume": "10",
+   "issue": "23",
+   "pages": "518",
+   "doi": "10.1007/s12517-017-3296-2",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Angelini A., Gabrielli R. 2013, Laser scanning e photo scanning. Tecniche di rilevamento per la documentazione 3D di beni architettonici ed archeologici, in A. Curci, A. Fiorini (eds.), Documentare l’archeologia 3.0, Atti del Workshop (Bologna 2013), «Archeologia e Calcolatori», 24, 379-394 (https://doi.org/10.19282/ac.24.2013.21).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Angelini",
+     "given": "A."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    }
+   ],
+   "date": "2013",
+   "title": "Laser scanning e photo scanning. Tecniche di rilevamento per la documentazione 3D di beni architettonici ed archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "24",
+   "pages": "379-394",
+   "doi": "10.19282/ac.24.2013.21",
+   "language": "ita",
+   "cited_aec_id": 681
+  },
+  {
+   "position": 3,
+   "raw": "Basso P., Belussi A., Bruno B., Grossi P., Migliorini S. 2015, Progetto SITAVR. Una carta archeologica per Verona, in M. Serlorenzi, G. Leoni (eds.), Il SITAR nella Rete della Ricerca Italiana. Verso la conoscenza archeologica condivisa. Atti del III Convegno (Roma 2013), «Archeologia e Calcolatori», Suppl. 7, 155-167.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Basso",
+     "given": "P."
+    },
+    {
+     "family": "Belussi",
+     "given": "A."
+    },
+    {
+     "family": "Bruno",
+     "given": "B."
+    },
+    {
+     "family": "Grossi",
+     "given": "P."
+    },
+    {
+     "family": "Migliorini",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "Progetto SITAVR. Una carta archeologica per Verona",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 7",
+   "pages": "155-167",
+   "language": "ita",
+   "cited_aec_id": 821
+  },
+  {
+   "position": 4,
+   "raw": "Beloch J. 1890, Campanien. Geschichte und Topographie des antiken Neapel und seiner Umgebung, Breslau, Verlag Von E. Morgenstern.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Beloch",
+     "given": "J."
+    }
+   ],
+   "date": "1890",
+   "title": "Campanien. Geschichte und Topographie des antiken Neapel und seiner Umgebung",
+   "publisher": "Verlag Von E. Morgenstern",
+   "place": "Breslau",
+   "language": "ger"
+  },
+  {
+   "position": 5,
+   "raw": "Boenzi G. 2001, Per una nuova carta della preistoria caprese. Le ricognizioni di giugno 1999, «Oebalus. Bollettino dell’Associazione culturale Oebalus», 25-40.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Boenzi",
+     "given": "G."
+    }
+   ],
+   "date": "2001",
+   "title": "Per una nuova carta della preistoria caprese. Le ricognizioni di giugno 1999",
+   "is_part_of": [
+    "Oebalus. Bollettino dell’Associazione culturale Oebalus"
+   ],
+   "pages": "25-40",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Busen T., Grüner A. 2018, The Grotta di Matermania on Capri. Construction, space and atmosphere of an imperial pavilion, «Archäologischer Anzeiger», 1, 183-210 (https://doi.org/10.34780/1w69-82k7).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Busen",
+     "given": "T."
+    },
+    {
+     "family": "Grüner",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "The Grotta di Matermania on Capri. Construction, space and atmosphere of an imperial pavilion",
+   "is_part_of": [
+    "Archäologischer Anzeiger"
+   ],
+   "issue": "1",
+   "pages": "183-210",
+   "doi": "10.34780/1w69-82k7",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Canale A. 1887, Storia dell’isola di Capri dall’età remotissima sino ai tempi presenti, Napoli, Tip. e libreria di Andrea e Salv. Festa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Canale",
+     "given": "A."
+    }
+   ],
+   "date": "1887",
+   "title": "Storia dell’isola di Capri dall’età remotissima sino ai tempi presenti",
+   "publisher": "Tip. e libreria di Andrea e Salv. Festa",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "Caratelli G. 2022, La villa romana di Gradola a Capri. Nuove indagini e prospettive di ricerca, in Di Franco, Perrella 2022, 89-108.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Caratelli",
+     "given": "G."
+    }
+   ],
+   "date": "2022",
+   "title": "La villa romana di Gradola a Capri. Nuove indagini e prospettive di ricerca",
+   "editors": [
+    {
+     "family": "Di Franco",
+     "given": "L."
+    },
+    {
+     "family": "Perrella",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Le grotte tra Preistoria, età classica e Medioevo. Capri, la Campania, il Mediterraneo. Atti del Convegno Internazionale di Studi (Capri-Anacapri 2021)"
+   ],
+   "pages": "89-108",
+   "publisher": "Edizioni Quasar",
+   "place": "Roma",
+   "xref": 18,
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "Caratelli G., Giorgi C. 2023, A metrological approach to the study of ancient architecture. The cases of the Grotta dell’Arsenale and the villas of Gradola and Damecuta in Capri, in 2023 IMEKO International Conference on Metrology for Archaeology and Cultural Heritage Proceedings (Roma 2023), 796-801 (https://doi.org/10.21014/ tc4-ARC-2023.148).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Caratelli",
+     "given": "G."
+    },
+    {
+     "family": "Giorgi",
+     "given": "C."
+    }
+   ],
+   "date": "2023",
+   "title": "A metrological approach to the study of ancient architecture. The cases of the Grotta dell’Arsenale and the villas of Gradola and Damecuta in Capri",
+   "is_part_of": [
+    "2023 IMEKO International Conference on Metrology for Archaeology and Cultural Heritage Proceedings (Roma 2023)"
+   ],
+   "pages": "796-801",
+   "doi": "10.21014/tc4-ARC-2023.148",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Caratelli G., Giorgi C. 2024, Laser scanner surveys on the Island of Capri. The contribution of a metrological approach to the understanding of ancient architecture, «Acta IMEKO», 13, 2, 1-9 (https://doi.org/10.21014/actaimeko.v13i2.1827).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caratelli",
+     "given": "G."
+    },
+    {
+     "family": "Giorgi",
+     "given": "C."
+    }
+   ],
+   "date": "2024",
+   "title": "Laser scanner surveys on the Island of Capri. The contribution of a metrological approach to the understanding of ancient architecture",
+   "is_part_of": [
+    "Acta IMEKO"
+   ],
+   "volume": "13",
+   "issue": "2",
+   "pages": "1-9",
+   "doi": "10.21014/actaimeko.v13i2.1827",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Castronova A.M., Goodall J.L., Elag M.M. 2013, Models as web services using the Open Geospatial Consortium (OGC) Web Processing Service (WPS) standard, «Environmental Modelling & Software», 41, 72-83 (https://doi.org/10.1016/j. envsoft.2012.11.010).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Castronova",
+     "given": "A.M."
+    },
+    {
+     "family": "Goodall",
+     "given": "J.L."
+    },
+    {
+     "family": "Elag",
+     "given": "M.M."
+    }
+   ],
+   "date": "2013",
+   "title": "Models as web services using the Open Geospatial Consortium (OGC) Web Processing Service (WPS) standard",
+   "is_part_of": [
+    "Environmental Modelling & Software"
+   ],
+   "volume": "41",
+   "pages": "72-83",
+   "doi": "10.1016/j.envsoft.2012.11.010",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Ciardiello R. 2007, Abitare a Capri in età romana: il complesso residenziale di Gradola, in M. Amitrano, E. Federico, C. Fiorentino (eds.), Conoscere Capri. Studi e materiali per la storia di Capri, 5, Capri, Oebalus, 29-45.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ciardiello",
+     "given": "R."
+    }
+   ],
+   "date": "2007",
+   "title": "Abitare a Capri in età romana: il complesso residenziale di Gradola",
+   "editors": [
+    {
+     "family": "Amitrano",
+     "given": "M."
+    },
+    {
+     "family": "Federico",
+     "given": "E."
+    },
+    {
+     "family": "Fiorentino",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Conoscere Capri. Studi e materiali per la storia di Capri"
+   ],
+   "volume": "5",
+   "pages": "29-45",
+   "publisher": "Oebalus",
+   "place": "Capri",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "De Magistris E. 2005, Le fortificazioni antiche di Capri e la difesa marittima del golfo neapolitano, in S. Monti (ed.), Annali del Laboratorio “Osservatorio Terzo Mondo”. Università degli Studi di Salerno, 1, Napoli, Loffredo Editore, 51-72.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Magistris",
+     "given": "E."
+    }
+   ],
+   "date": "2005",
+   "title": "Le fortificazioni antiche di Capri e la difesa marittima del golfo neapolitano",
+   "editors": [
+    {
+     "family": "Monti",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Annali del Laboratorio “Osservatorio Terzo Mondo”. Università degli Studi di Salerno"
+   ],
+   "volume": "1",
+   "pages": "51-72",
+   "publisher": "Loffredo Editore",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "Di Franco L. 2015, Capreensia disiecta membra. Augusto a Capri e la villa di Palazzo a Mare, Roma, Scienze e Lettere.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Di Franco",
+     "given": "L."
+    }
+   ],
+   "date": "2015",
+   "title": "Capreensia disiecta membra. Augusto a Capri e la villa di Palazzo a Mare",
+   "publisher": "Scienze e Lettere",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Di Franco L. (ed.) 2021, La ricerca archeologica a Capri in età borbonica: siti, personaggi, documenti, Roma, Edizioni Quasar.",
+   "type": "book",
+   "date": "2021",
+   "title": "La ricerca archeologica a Capri in età borbonica: siti, personaggi, documenti",
+   "editors": [
+    {
+     "family": "Di Franco",
+     "given": "L."
+    }
+   ],
+   "publisher": "Edizioni Quasar",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Di Franco L. 2022, In quodam specu concha canentem Tritonem: le grotte-ninfeo di Capri tra architettura, decorazione scultorea e mito, in Di Franco, Perrella 2022, 27-67.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Franco",
+     "given": "L."
+    }
+   ],
+   "date": "2022",
+   "title": "In quodam specu concha canentem Tritonem: le grotte-ninfeo di Capri tra architettura, decorazione scultorea e mito",
+   "editors": [
+    {
+     "family": "Di Franco",
+     "given": "L."
+    },
+    {
+     "family": "Perrella",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Le grotte tra Preistoria, età classica e Medioevo. Capri, la Campania, il Mediterraneo. Atti del Convegno Internazionale di Studi (Capri-Anacapri 2021)"
+   ],
+   "pages": "27-67",
+   "publisher": "Edizioni Quasar",
+   "place": "Roma",
+   "xref": 18,
+   "language": "ita"
+  },
+  {
+   "position": 17,
+   "raw": "Di Franco L., Di Martino G. 2018, Il collezionismo di antichità classiche a Capri tra Ottocento e primo Novecento, Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Di Franco",
+     "given": "L."
+    },
+    {
+     "family": "Di Martino",
+     "given": "G."
+    }
+   ],
+   "date": "2018",
+   "title": "Il collezionismo di antichità classiche a Capri tra Ottocento e primo Novecento",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "Di Franco L., Perrella R. (eds.) 2022, Le grotte tra Preistoria, età classica e Medioevo. Capri, la Campania, il Mediterraneo. Atti del Convegno Internazionale di Studi (Capri-Anacapri 2021), Roma, Edizioni Quasar.",
+   "type": "proceedings",
+   "date": "2022",
+   "title": "Le grotte tra Preistoria, età classica e Medioevo. Capri, la Campania, il Mediterraneo. Atti del Convegno Internazionale di Studi (Capri-Anacapri 2021)",
+   "editors": [
+    {
+     "family": "Di Franco",
+     "given": "L."
+    },
+    {
+     "family": "Perrella",
+     "given": "R."
+    }
+   ],
+   "publisher": "Edizioni Quasar",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Douglas N. 1930, Capri. Materials for a Description of the Island, Firenze, G. Orioli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Douglas",
+     "given": "N."
+    }
+   ],
+   "date": "1930",
+   "title": "Capri. Materials for a Description of the Island",
+   "publisher": "G. Orioli",
+   "place": "Firenze",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "Fasulo M. 1895, La Penisola Sorrentina e l’Isola di Capri, Napoli, Tip. F. Mormile.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fasulo",
+     "given": "M."
+    }
+   ],
+   "date": "1895",
+   "title": "La Penisola Sorrentina e l’Isola di Capri",
+   "publisher": "Tip. F. Mormile",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 21,
+   "raw": "Federico E., Miranda E. (eds.) 1998, Capri antica. Dalla Preistoria alla fine dell’età romana, Capri, Edizioni La Conchiglia.",
+   "type": "book",
+   "date": "1998",
+   "title": "Capri antica. Dalla Preistoria alla fine dell’età romana",
+   "editors": [
+    {
+     "family": "Federico",
+     "given": "E."
+    },
+    {
+     "family": "Miranda",
+     "given": "E."
+    }
+   ],
+   "publisher": "Edizioni La Conchiglia",
+   "place": "Capri",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "Feola G. 1894, Rapporto sullo stato attuale dei ruderi augusto-tiberiani nella isola di Capri. Manoscritto inedito del 1830, pubblicato ed annotato dal nipote Dott. Ignazio Cerio di Capri, Napoli, Federigo Furchheim.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Feola",
+     "given": "G."
+    }
+   ],
+   "date": "1894",
+   "title": "Rapporto sullo stato attuale dei ruderi augusto-tiberiani nella isola di Capri. Manoscritto inedito del 1830, pubblicato ed annotato dal nipote Dott. Ignazio Cerio di Capri",
+   "publisher": "Federigo Furchheim",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 23,
+   "raw": "Giardino C. 1998, L’isola di Capri dal Neolitico alla prima età del Ferro, in Federico, Miranda 1998, 67-105.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giardino",
+     "given": "C."
+    }
+   ],
+   "date": "1998",
+   "title": "L’isola di Capri dal Neolitico alla prima età del Ferro",
+   "editors": [
+    {
+     "family": "Federico",
+     "given": "E."
+    },
+    {
+     "family": "Miranda",
+     "given": "E."
+    }
+   ],
+   "is_part_of": [
+    "Capri antica. Dalla Preistoria alla fine dell’età romana"
+   ],
+   "pages": "67-105",
+   "publisher": "Edizioni La Conchiglia",
+   "place": "Capri",
+   "xref": 21,
+   "language": "ita"
+  },
+  {
+   "position": 24,
+   "raw": "Giorgi C. 2022, La Grotta dell’Arsenale a Capri: analisi del contesto, delle murature e degli apparati decorativi, in Di Franco, Perrella 2022, 69-88.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giorgi",
+     "given": "C."
+    }
+   ],
+   "date": "2022",
+   "title": "La Grotta dell’Arsenale a Capri: analisi del contesto, delle murature e degli apparati decorativi",
+   "editors": [
+    {
+     "family": "Di Franco",
+     "given": "L."
+    },
+    {
+     "family": "Perrella",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Le grotte tra Preistoria, età classica e Medioevo. Capri, la Campania, il Mediterraneo. Atti del Convegno Internazionale di Studi (Capri-Anacapri 2021)"
+   ],
+   "pages": "69-88",
+   "publisher": "Edizioni Quasar",
+   "place": "Roma",
+   "xref": 18,
+   "language": "ita"
+  },
+  {
+   "position": 25,
+   "raw": "Giorgi C., Caratelli G. 2020, Verso una nuova carta archeologica per l’isola di Capri. Il contributo del CNR al progetto Masgaba, in R. Bosso, L. Di Franco, G. Di Martino, S. Foresta, R. Perrella (eds.), Archeologie borboniche. La ricerca sull’antico a Capri e nelle province di Napoli e Terra di Lavoro. Convegno Internazionale di Studi (Capri- Anacapri 2019), Roma, Edizioni Quasar, 21-41.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giorgi",
+     "given": "C."
+    },
+    {
+     "family": "Caratelli",
+     "given": "G."
+    }
+   ],
+   "date": "2020",
+   "title": "Verso una nuova carta archeologica per l’isola di Capri. Il contributo del CNR al progetto Masgaba",
+   "editors": [
+    {
+     "family": "Bosso",
+     "given": "R."
+    },
+    {
+     "family": "Di Franco",
+     "given": "L."
+    },
+    {
+     "family": "Di Martino",
+     "given": "G."
+    },
+    {
+     "family": "Foresta",
+     "given": "S."
+    },
+    {
+     "family": "Perrella",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Archeologie borboniche. La ricerca sull’antico a Capri e nelle province di Napoli e Terra di Lavoro. Convegno Internazionale di Studi (Capri-Anacapri 2019)"
+   ],
+   "pages": "21-41",
+   "publisher": "Edizioni Quasar",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 26,
+   "raw": "Hadrava N. 1793, Ragguagli di varii scavi, e scoverte di antichità fatte nell’isola di Capri dal sig. Hadrava, e dal medesimo comunicati per lettere ad un suo amico in Vienna, Napoli (repr. 1984, Napoli, Grimaldi & Cicerano).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hadrava",
+     "given": "N."
+    }
+   ],
+   "date": "1793",
+   "title": "Ragguagli di varii scavi, e scoverte di antichità fatte nell’isola di Capri dal sig. Hadrava, e dal medesimo comunicati per lettere ad un suo amico in Vienna",
+   "place": "Napoli",
+   "language": "ita",
+   "notes": "repr. 1984, Napoli, Grimaldi & Cicerano"
+  },
+  {
+   "position": 27,
+   "raw": "Iacopini E. 2023, Punto Zero. Una nuova web application per la gestione e l’informatizzazione dei dati di archivio. Il caso di Ancona, «Archeologia e Calcolatori», 34.1, 95-104 (https://doi.org/10.19282/ac.34.1.2023.11).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Iacopini",
+     "given": "E."
+    }
+   ],
+   "date": "2023",
+   "title": "Punto Zero. Una nuova web application per la gestione e l’informatizzazione dei dati di archivio. Il caso di Ancona",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "34",
+   "issue": "1",
+   "pages": "95-104",
+   "doi": "10.19282/ac.34.1.2023.11",
+   "language": "ita",
+   "cited_aec_id": 1232
+  },
+  {
+   "position": 28,
+   "raw": "Krause C. 2006, Villa Jovis. L’edificio residenziale, Napoli, Electa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Krause",
+     "given": "C."
+    }
+   ],
+   "date": "2006",
+   "title": "Villa Jovis. L’edificio residenziale",
+   "publisher": "Electa",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 29,
+   "raw": "Maiuri A. 1956, Capri. Storia e monumenti, Roma, Istituto Poligrafico dello Stato.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Maiuri",
+     "given": "A."
+    }
+   ],
+   "date": "1956",
+   "title": "Capri. Storia e monumenti",
+   "publisher": "Istituto Poligrafico dello Stato",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 30,
+   "raw": "Malfitana D., Mazzaglia A., Cacciaguerra G. 2016, Catania archeologia e città: il progetto OPENCiTy Banca Dati, GIS e WebGIS, Catania, Consiglio Nazionale delle Ricerche.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Malfitana",
+     "given": "D."
+    },
+    {
+     "family": "Mazzaglia",
+     "given": "A."
+    },
+    {
+     "family": "Cacciaguerra",
+     "given": "G."
+    }
+   ],
+   "date": "2016",
+   "title": "Catania archeologia e città: il progetto OPENCiTy Banca Dati, GIS e WebGIS",
+   "publisher": "Consiglio Nazionale delle Ricerche",
+   "place": "Catania",
+   "language": "ita"
+  },
+  {
+   "position": 31,
+   "raw": "Mangoni R. 1834, Ricerche topografiche e archeologiche sull’isola di Capri da servire di guida a’ viaggiatori, Napoli, Gennaro Palma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mangoni",
+     "given": "R."
+    }
+   ],
+   "date": "1834",
+   "title": "Ricerche topografiche e archeologiche sull’isola di Capri da servire di guida a’ viaggiatori",
+   "publisher": "Gennaro Palma",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 32,
+   "raw": "Mingazzini P. 1931, Edizione archeologica della Carta d’Italia al 100.000. Foglio 196. Vico Equense (Penisola Sorrentina ed Isola di Capri), Firenze, R. Istituto Geografico Militare.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mingazzini",
+     "given": "P."
+    }
+   ],
+   "date": "1931",
+   "title": "Edizione archeologica della Carta d’Italia al 100.000. Foglio 196. Vico Equense (Penisola Sorrentina ed Isola di Capri)",
+   "publisher": "R. Istituto Geografico Militare",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 33,
+   "raw": "Sadoun B., Al-Bayari O., Al-Tawara S. 2022, Open source GIS solution: An overview of the architecture of free open source WebGIS, «Jordan Journal of Earth and Environmental Sciences», 13, 2, 74-81.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sadoun",
+     "given": "B."
+    },
+    {
+     "family": "Al-Bayari",
+     "given": "O."
+    },
+    {
+     "family": "Al-Tawara",
+     "given": "S."
+    }
+   ],
+   "date": "2022",
+   "title": "Open source GIS solution: An overview of the architecture of free open source WebGIS",
+   "is_part_of": [
+    "Jordan Journal of Earth and Environmental Sciences"
+   ],
+   "volume": "13",
+   "issue": "2",
+   "pages": "74-81",
+   "language": "eng"
+  },
+  {
+   "position": 34,
+   "raw": "Sarup J., Shukla V. 2012, Web-based solution for mapping application using open-source software server, «International Journal of Informatics and Communication Technology», 1, 2, 91.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sarup",
+     "given": "J."
+    },
+    {
+     "family": "Shukla",
+     "given": "V."
+    }
+   ],
+   "date": "2012",
+   "title": "Web-based solution for mapping application using open-source software server",
+   "is_part_of": [
+    "International Journal of Informatics and Communication Technology"
+   ],
+   "volume": "1",
+   "issue": "2",
+   "pages": "91",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "Serlorenzi M., Jovine I. (eds.) 2013, SITAR. Sistema Informativo Territoriale Archeologico di Roma, Atti del II Convegno, Roma, Iuno Edizioni.",
+   "type": "proceedings",
+   "date": "2013",
+   "title": "SITAR. Sistema Informativo Territoriale Archeologico di Roma, Atti del II Convegno",
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Jovine",
+     "given": "I."
+    }
+   ],
+   "publisher": "Iuno Edizioni",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 36,
+   "raw": "Schmidt S.C., Thiery F., Trognitz M. 2022, Practices of Linked Open Data in archaeology and their realisation in Wikidata, «Digital», 2, 3, 333-364 (https://doi.org/10.3390/ digital2030019).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schmidt",
+     "given": "S.C."
+    },
+    {
+     "family": "Thiery",
+     "given": "F."
+    },
+    {
+     "family": "Trognitz",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "Practices of Linked Open Data in archaeology and their realisation in Wikidata",
+   "is_part_of": [
+    "Digital"
+   ],
+   "volume": "2",
+   "issue": "3",
+   "pages": "333-364",
+   "doi": "10.3390/digital2030019",
+   "language": "eng"
+  },
+  {
+   "position": 37,
+   "raw": "Uyaguari A., Espinosa-Gallardo E., Jácome-Guerrero S.P., Espinel P., Cabezas C.F., Arias Almeida G.I., Calderón F.A.C. 2018, Open source web software architecture components for Geographic Information Systems in the last 5 years: A systematic mapping study, in Á. Rocha, T. Guarda (eds.), Proceedings of the International Conference on Information Technology & Systems (ICITS 2018), Cham, Springer International Publishing, 688-699 (https://doi.org/10.1007/978-3-319-73450-7_65).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Uyaguari",
+     "given": "A."
+    },
+    {
+     "family": "Espinosa-Gallardo",
+     "given": "E."
+    },
+    {
+     "family": "Jácome-Guerrero",
+     "given": "S.P."
+    },
+    {
+     "family": "Espinel",
+     "given": "P."
+    },
+    {
+     "family": "Cabezas",
+     "given": "C.F."
+    },
+    {
+     "family": "Arias Almeida",
+     "given": "G.I."
+    },
+    {
+     "family": "Calderón",
+     "given": "F.A.C."
+    }
+   ],
+   "date": "2018",
+   "title": "Open source web software architecture components for Geographic Information Systems in the last 5 years: A systematic mapping study",
+   "editors": [
+    {
+     "family": "Rocha",
+     "given": "Á."
+    },
+    {
+     "family": "Guarda",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the International Conference on Information Technology & Systems (ICITS 2018)"
+   ],
+   "pages": "688-699",
+   "publisher": "Springer International Publishing",
+   "place": "Cham",
+   "doi": "10.1007/978-3-319-73450-7_65",
+   "language": "eng"
+  },
+  {
+   "position": 38,
+   "raw": "Veenendaal B., Brovelli M.A., Li S. 2017, Review of web mapping: Eras, trends and directions, «ISPRS International Journal of Geo-Information», 6, 10, 317 (https://doi. org/10.3390/ijgi6100317).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Veenendaal",
+     "given": "B."
+    },
+    {
+     "family": "Brovelli",
+     "given": "M.A."
+    },
+    {
+     "family": "Li",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Review of web mapping: Eras, trends and directions",
+   "is_part_of": [
+    "ISPRS International Journal of Geo-Information"
+   ],
+   "volume": "6",
+   "issue": "10",
+   "pages": "317",
+   "doi": "10.3390/ijgi6100317",
+   "language": "eng"
+  }
+ ]
+}

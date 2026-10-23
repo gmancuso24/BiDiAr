@@ -1,0 +1,624 @@
+{
+ "citing_aec_id": 939,
+ "source_file": "data/journal/28/939.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Abdullaev K., Genito B. 2014 (eds.), *The Archaeological Project in the Samarkand Area (Sogdiana): Excavation at Kojtepa (2008-2012)*, Samarkand-Napoli, Università degli Studi di Napoli \"L'Orientale\".",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Abdullaev",
+     "given": "K."
+    },
+    {
+     "family": "Genito",
+     "given": "B."
+    }
+   ],
+   "date": "2014",
+   "title": "The Archaeological Project in the Samarkand Area (Sogdiana): Excavation at Kojtepa (2008-2012)",
+   "publisher": "Università degli Studi di Napoli \"L'Orientale\"",
+   "place": "Samarkand-Napoli",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Berdimuradov A.E., Franceschini F., Giorgetti D., Mantellini S., Rondelli B., Tosi M. 2007, *Samarkand and its territory: From archaeological map to cultural landscape management*, «Bulletin of the International Institute for Central Asian Studies», 6, 22-33.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Berdimuradov",
+     "given": "A.E."
+    },
+    {
+     "family": "Franceschini",
+     "given": "F."
+    },
+    {
+     "family": "Giorgetti",
+     "given": "D."
+    },
+    {
+     "family": "Mantellini",
+     "given": "S."
+    },
+    {
+     "family": "Rondelli",
+     "given": "B."
+    },
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Samarkand and its territory: From archaeological map to cultural landscape management",
+   "is_part_of": [
+    "Bulletin of the International Institute for Central Asian Studies"
+   ],
+   "volume": "6",
+   "pages": "22-33",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Bernard P. 1994, *The Greek kingdoms of Central Asia*, in J. Harmatta (ed.), *History of Civilizations of Central Asia*, II. *The Development of Sedentary and Nomadic Civilizations: 770 B.C. to A.D. 250*, Paris, UNESCO Publishing, 99-129.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bernard",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Harmatta",
+     "given": "J."
+    }
+   ],
+   "date": "1994",
+   "title": "The Greek kingdoms of Central Asia",
+   "is_part_of": [
+    "History of Civilizations of Central Asia"
+   ],
+   "volume": "II. The Development of Sedentary and Nomadic Civilizations: 770 B.C. to A.D. 250",
+   "pages": "99-129",
+   "publisher": "UNESCO Publishing",
+   "place": "Paris",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "de La Vaissière É. 2002, *Histoire des marchands sogdiens*, Paris, Collège de France.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "de La Vaissière",
+     "given": "É."
+    }
+   ],
+   "date": "2002",
+   "title": "Histoire des marchands sogdiens",
+   "publisher": "Collège de France",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 5,
+   "raw": "Di Cugno S., Mantellini S., Berdimuradov A.E. 2013, *Traditional techniques, resource exploitation and archaeological record: An ethnographical study from the oasis of Samarkand (Uzbekistan)*, in F. Lugli, A.A. Stoppiello, S. Biagetti (eds.), *Ethnoarchaeology: Current Research and Field Methods. Conference Proceedings (Rome 2010)*, BAR International Series 2472, Oxford, Archaeopress, 99-106.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Cugno",
+     "given": "S."
+    },
+    {
+     "family": "Mantellini",
+     "given": "S."
+    },
+    {
+     "family": "Berdimuradov",
+     "given": "A.E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lugli",
+     "given": "F."
+    },
+    {
+     "family": "Stoppiello",
+     "given": "A.A."
+    },
+    {
+     "family": "Biagetti",
+     "given": "S."
+    }
+   ],
+   "date": "2013",
+   "title": "Traditional techniques, resource exploitation and archaeological record: An ethnographical study from the oasis of Samarkand (Uzbekistan)",
+   "is_part_of": [
+    "Ethnoarchaeology: Current Research and Field Methods. Conference Proceedings (Rome 2010)"
+   ],
+   "pages": "99-106",
+   "series": "BAR International Series",
+   "series_number": "2472",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Grenet F. 2004, *Maracanda/Samarkand, une métropole pré-mongole. Sources écrites et archéologie*, «Annales. Histoire, Sciences Sociales», 59, 5-6, 1043-1067.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Grenet",
+     "given": "F."
+    }
+   ],
+   "date": "2004",
+   "title": "Maracanda/Samarkand, une métropole pré-mongole. Sources écrites et archéologie",
+   "is_part_of": [
+    "Annales. Histoire, Sciences Sociales"
+   ],
+   "volume": "59",
+   "issue": "5-6",
+   "pages": "1043-1067",
+   "language": "fre"
+  },
+  {
+   "position": 7,
+   "raw": "Isamiddinov M.Kh. 2002, *Istoki gorodskoy kultury samarkandskogo sogda* [The origins of urban culture in Samarkand Sogd], Tashkent, Izdatelstvo nardodnogo naslediya imeni A. Kadyri.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Isamiddinov M.Kh.",
+     "given": ""
+    }
+   ],
+   "date": "2002",
+   "title": "Istoki gorodskoy kultury samarkandskogo sogda [The origins of urban culture in Samarkand Sogd]",
+   "publisher": "Izdatelstvo nardodnogo naslediya imeni A. Kadyri",
+   "place": "Tashkent",
+   "language": "rus"
+  },
+  {
+   "position": 8,
+   "raw": "Malatesta L.C., Castelltort S., Mantellini S., Picotti V., Hajdas I., Simpson G., Berdimuradov A.E., Tosi M., Willett S.D. 2012, *Dating the irrigation system of the Samarkand oasis: A geoarchaeological study*, «Radiocarbon», 54, 91-105.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Malatesta",
+     "given": "L.C."
+    },
+    {
+     "family": "Castelltort",
+     "given": "S."
+    },
+    {
+     "family": "Mantellini",
+     "given": "S."
+    },
+    {
+     "family": "Picotti",
+     "given": "V."
+    },
+    {
+     "family": "Hajdas",
+     "given": "I."
+    },
+    {
+     "family": "Simpson",
+     "given": "G."
+    },
+    {
+     "family": "Berdimuradov",
+     "given": "A.E."
+    },
+    {
+     "family": "Tosi",
+     "given": "M."
+    },
+    {
+     "family": "Willett",
+     "given": "S.D."
+    }
+   ],
+   "date": "2012",
+   "title": "Dating the irrigation system of the Samarkand oasis: A geoarchaeological study",
+   "is_part_of": [
+    "Radiocarbon"
+   ],
+   "volume": "54",
+   "pages": "91-105",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Mantellini S. 2014, *Settlement dynamics, territory exploitation, and trade routes in the ancient Samarkand oasis (Uzbekistan)*, in B. Genito, L. Caterina (eds.), *Archeologia delle \"Vie della Seta\". Percorsi, Immagini e Cultura Materiale. II Ciclo di Conferenze*, Napoli, Centro Interdipartimentale di Servizi di Archeologia (CISA), 38-59.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mantellini",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Genito",
+     "given": "B."
+    },
+    {
+     "family": "Caterina",
+     "given": "L."
+    }
+   ],
+   "date": "2014",
+   "title": "Settlement dynamics, territory exploitation, and trade routes in the ancient Samarkand oasis (Uzbekistan)",
+   "is_part_of": [
+    "Archeologia delle \"Vie della Seta\". Percorsi, Immagini e Cultura Materiale. II Ciclo di Conferenze"
+   ],
+   "pages": "38-59",
+   "publisher": "Centro Interdipartimentale di Servizi di Archeologia (CISA)",
+   "place": "Napoli",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Mantellini S. 2015, *Irrigation systems in Samarkand*, in H. Selin (ed.), *Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures*, Dordrecht, Springer Science+Business Media, 1-14.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mantellini",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Selin",
+     "given": "H."
+    }
+   ],
+   "date": "2015",
+   "title": "Irrigation systems in Samarkand",
+   "is_part_of": [
+    "Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures"
+   ],
+   "pages": "1-14",
+   "publisher": "Springer Science+Business Media",
+   "place": "Dordrecht",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Mantellini S., Berdimuradov A.E. 2005, *Archaeological explorations in the Sogdian fortress of Kafir Kala (Samarkand region, Republic of Uzbekistan)*, «Ancient Civilizations from Scythia to Siberia», 11, 107-132.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mantellini",
+     "given": "S."
+    },
+    {
+     "family": "Berdimuradov",
+     "given": "A.E."
+    }
+   ],
+   "date": "2005",
+   "title": "Archaeological explorations in the Sogdian fortress of Kafir Kala (Samarkand region, Republic of Uzbekistan)",
+   "is_part_of": [
+    "Ancient Civilizations from Scythia to Siberia"
+   ],
+   "volume": "11",
+   "pages": "107-132",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Mantellini S., Berdimuradov A.E. 2016, *The archaeological and historical heritage of Samarkand: An overview from the Uzbek-Italian Expedition 2001-2016*, in A.E. Berdimuradov (ed.), *Archaeology of Uzbekistan During the Years of the Independence: Progress and Perspectives*, Samarkand, Institute of Archaeology of the Uzbek Academy of Sciences, 60-63.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mantellini",
+     "given": "S."
+    },
+    {
+     "family": "Berdimuradov",
+     "given": "A.E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Berdimuradov",
+     "given": "A.E."
+    }
+   ],
+   "date": "2016",
+   "title": "The archaeological and historical heritage of Samarkand: An overview from the Uzbek-Italian Expedition 2001-2016",
+   "is_part_of": [
+    "Archaeology of Uzbekistan During the Years of the Independence: Progress and Perspectives"
+   ],
+   "pages": "60-63",
+   "publisher": "Institute of Archaeology of the Uzbek Academy of Sciences",
+   "place": "Samarkand",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Mantellini S., di Cugno S., Dimartino R., Berdimuradov A.E. 2017, *Change and continuity in the Samarkand oasis: Evidence for the islamic conquest from the citadel of Kafir Kala*, «The Journal of Inner Asian Art and Archaeology», 7, 221-247.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mantellini",
+     "given": "S."
+    },
+    {
+     "family": "di Cugno",
+     "given": "S."
+    },
+    {
+     "family": "Dimartino",
+     "given": "R."
+    },
+    {
+     "family": "Berdimuradov",
+     "given": "A.E."
+    }
+   ],
+   "date": "2017",
+   "title": "Change and continuity in the Samarkand oasis: Evidence for the islamic conquest from the citadel of Kafir Kala",
+   "is_part_of": [
+    "The Journal of Inner Asian Art and Archaeology"
+   ],
+   "volume": "7",
+   "pages": "221-247",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Mantellini S., Rondelli B., Stride S. 2011, *Analytical approach for representing the water landscape evolution in Samarkand oasis (Uzbekistan)*, in E. Jerem, F. Redi, F.V. Szeveréni (eds.), *On the Road to Reconstructing the Past. Computer Applications and Quantitative Methods in Archaeology (CAA). Proceedings of the 36th International Conference (Budapest 2008)*, Budapest, Archaeolingua Foundation, 387-396.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mantellini",
+     "given": "S."
+    },
+    {
+     "family": "Rondelli",
+     "given": "B."
+    },
+    {
+     "family": "Stride",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Jerem",
+     "given": "E."
+    },
+    {
+     "family": "Redi",
+     "given": "F."
+    },
+    {
+     "family": "Szeveréni",
+     "given": "F.V."
+    }
+   ],
+   "date": "2011",
+   "title": "Analytical approach for representing the water landscape evolution in Samarkand oasis (Uzbekistan)",
+   "is_part_of": [
+    "On the Road to Reconstructing the Past. Computer Applications and Quantitative Methods in Archaeology (CAA). Proceedings of the 36th International Conference (Budapest 2008)"
+   ],
+   "pages": "387-396",
+   "publisher": "Archaeolingua Foundation",
+   "place": "Budapest",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Marshak B.I., Negmatov N.N. 1996, *Sogdiana*, in B.A. Litvisnky (ed.), *History of Civilizations of Central Asia*, III. *The Crossroad of Civilizations: A.D. 250-750*, Paris, UNESCO Publishing, 233-280.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Marshak",
+     "given": "B.I."
+    },
+    {
+     "family": "Negmatov",
+     "given": "N.N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Litvinsky",
+     "given": "B.A."
+    }
+   ],
+   "date": "1996",
+   "title": "Sogdiana",
+   "is_part_of": [
+    "History of Civilizations of Central Asia"
+   ],
+   "volume": "III. The Crossroad of Civilizations: A.D. 250-750",
+   "pages": "233-280",
+   "publisher": "UNESCO Publishing",
+   "place": "Paris",
+   "language": "eng",
+   "notes": "editor cited \"Litvisnky\""
+  },
+  {
+   "position": 16,
+   "raw": "Masson M.E. 1928, *O mestonakhozhdenii sada Timura Davlet-abad* [On the location of the Timurid garden of Davletabad], «Izvestiya Sredne-Aziatskogo Komiteta», 3, 43-48.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Masson",
+     "given": "M.E."
+    }
+   ],
+   "date": "1928",
+   "title": "O mestonakhozhdenii sada Timura Davlet-abad [On the location of the Timurid garden of Davletabad]",
+   "is_part_of": [
+    "Izvestiya Sredne-Aziatskogo Komiteta"
+   ],
+   "volume": "3",
+   "pages": "43-48",
+   "language": "rus"
+  },
+  {
+   "position": 17,
+   "raw": "Rapin C., Isamiddinov M.Kh. 2013, *Entre sédentaires et nomades: les recherches de la Mission archéologique franco-ouzbèke (MAFOuz) de Sogdiane sur le site de Koktepe*, «Cahiers d'Asie Centrale», 21/22, 113-133.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rapin",
+     "given": "C."
+    },
+    {
+     "family": "Isamiddinov M.Kh.",
+     "given": ""
+    }
+   ],
+   "date": "2013",
+   "title": "Entre sédentaires et nomades: les recherches de la Mission archéologique franco-ouzbèke (MAFOuz) de Sogdiane sur le site de Koktepe",
+   "is_part_of": [
+    "Cahiers d'Asie Centrale"
+   ],
+   "volume": "21/22",
+   "pages": "113-133",
+   "language": "fre"
+  },
+  {
+   "position": 18,
+   "raw": "Rondelli B., Mantellini S. 2004, *Methods and perspective for ancient settlement studies in the middle Zeravshan Valley*, «The Silk Road Newsletter», 2, 35-39.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rondelli",
+     "given": "B."
+    },
+    {
+     "family": "Mantellini",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Methods and perspective for ancient settlement studies in the middle Zeravshan Valley",
+   "is_part_of": [
+    "The Silk Road Newsletter"
+   ],
+   "volume": "2",
+   "pages": "35-39",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Rondelli B., Tosi M. 2006, *GIS and Silk Road studies: Monitoring landscape and population changes at Samarkand and in the middle Zeravshan Valley*, in T. Uno (ed.), *Reading Historical Spatial Information from Around the World. Studies of Culture and Civilization Based on Geographic Information Systems Data (Kyoto 2005)*, Kyoto, International Research Center for Japanese Studies, 459-489.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rondelli",
+     "given": "B."
+    },
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Uno",
+     "given": "T."
+    }
+   ],
+   "date": "2006",
+   "title": "GIS and Silk Road studies: Monitoring landscape and population changes at Samarkand and in the middle Zeravshan Valley",
+   "is_part_of": [
+    "Reading Historical Spatial Information from Around the World. Studies of Culture and Civilization Based on Geographic Information Systems Data (Kyoto 2005)"
+   ],
+   "pages": "459-489",
+   "publisher": "International Research Center for Japanese Studies",
+   "place": "Kyoto",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "Shirinov T., Tosi M. 2003, *Land behind Samarkand. The archaeological map of the middle Zeravshan Valley: Perspectives and geographical repartitions*, in S. Pagani (ed.), *Italo-Uzbek Scientific Cooperation in Archaeology and Islamic Studies: An Overview (Rome 2001)*, Roma, Istituto Italiano per l'Africa e l'Oriente, 13-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Shirinov",
+     "given": "T."
+    },
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pagani",
+     "given": "S."
+    }
+   ],
+   "date": "2003",
+   "title": "Land behind Samarkand. The archaeological map of the middle Zeravshan Valley: Perspectives and geographical repartitions",
+   "is_part_of": [
+    "Italo-Uzbek Scientific Cooperation in Archaeology and Islamic Studies: An Overview (Rome 2001)"
+   ],
+   "pages": "13-40",
+   "publisher": "Istituto Italiano per l'Africa e l'Oriente",
+   "place": "Roma",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "Shishkina G.V. 1994, *Ancient Samarkand: Capital of Soghd*, «Bulletin of the Asia Institute», 8, 81-99.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Shishkina",
+     "given": "G.V."
+    }
+   ],
+   "date": "1994",
+   "title": "Ancient Samarkand: Capital of Soghd",
+   "is_part_of": [
+    "Bulletin of the Asia Institute"
+   ],
+   "volume": "8",
+   "pages": "81-99",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "Stride S., Rondelli B., Mantellini S. 2009, *Canals versus horses: Political power in the oasis of Samarkand*, «World Archaeology», 41, 73-87.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Stride",
+     "given": "S."
+    },
+    {
+     "family": "Rondelli",
+     "given": "B."
+    },
+    {
+     "family": "Mantellini",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "Canals versus horses: Political power in the oasis of Samarkand",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "41",
+   "pages": "73-87",
+   "language": "eng"
+  }
+ ]
+}

@@ -1,0 +1,532 @@
+{
+ "citing_aec_id": 1238,
+ "source_file": "data/journal/34/1238.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Berners-Lee T. 2006, *Linked Data - Design Issues* (https://www.w3.org/DesignIssues/LinkedData.html).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Berners-Lee",
+     "given": "T."
+    }
+   ],
+   "date": "2006",
+   "title": "Linked Data - Design Issues",
+   "uri": "https://www.w3.org/DesignIssues/LinkedData.html",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Brickley D., Guha R.V. 2014, *RDF Schema 1.1. W3C Recommendation 25 February 2014* (https://www.w3.org/TR/rdf-schema/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Brickley",
+     "given": "D."
+    },
+    {
+     "family": "Guha",
+     "given": "R.V."
+    }
+   ],
+   "date": "2014",
+   "title": "RDF Schema 1.1. W3C Recommendation 25 February 2014",
+   "uri": "https://www.w3.org/TR/rdf-schema/",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Brickley D., Miller L. 2004, *FOAF Vocabulary Specification. Namespace Document 1 May 2004* (http://xmlns.com/foaf/0.1/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Brickley",
+     "given": "D."
+    },
+    {
+     "family": "Miller",
+     "given": "L."
+    }
+   ],
+   "date": "2004",
+   "title": "FOAF Vocabulary Specification. Namespace Document 1 May 2004",
+   "uri": "http://xmlns.com/foaf/0.1/",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Isaksen L. 2011, *Archaeology and the Semantic Web*, Thesis (Doctoral), University of Southampton, School of Electronics and Computer Science (https://eprints.soton.ac.uk/id/eprint/206421).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Isaksen",
+     "given": "L."
+    }
+   ],
+   "date": "2011",
+   "title": "Archaeology and the Semantic Web",
+   "publisher": "University of Southampton, School of Electronics and Computer Science",
+   "uri": "https://eprints.soton.ac.uk/id/eprint/206421",
+   "language": "eng",
+   "notes": "Doctoral thesis",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Schmidt S.C., Thiery F., Trognitz M. 2022, *Practices of Linked Open Data in archaeology and their realisation in Wikidata*, «Digital», 2, 3, 333-364 (https://doi.org/10.3390/digital2030019).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schmidt",
+     "given": "S.C."
+    },
+    {
+     "family": "Thiery",
+     "given": "F."
+    },
+    {
+     "family": "Trognitz",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "Practices of Linked Open Data in archaeology and their realisation in Wikidata",
+   "is_part_of": [
+    "Digital"
+   ],
+   "volume": "2",
+   "issue": "3",
+   "pages": "333-364",
+   "doi": "10.3390/digital2030019",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Thiery F. 2013, *Semantic web und linked data: Generierung von Interoperabilität in archäologischen Fachdaten am Beispiel römischer Töpferstempel*, «Squirrel Papers», 4, 1, 3, Thesis (Master), Mainz, Germany, Fachhochschule Mainz (https://doi.org/10.5281/zenodo.292979).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Thiery",
+     "given": "F."
+    }
+   ],
+   "date": "2013",
+   "title": "Semantic web und linked data: Generierung von Interoperabilität in archäologischen Fachdaten am Beispiel römischer Töpferstempel",
+   "is_part_of": [
+    "Squirrel Papers"
+   ],
+   "volume": "4",
+   "issue": "1",
+   "pages": "3",
+   "publisher": "Fachhochschule Mainz",
+   "place": "Mainz",
+   "doi": "10.5281/zenodo.292979",
+   "language": "ger",
+   "notes": "Master thesis, Mainz, Germany",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Thiery F., Homburg T., Trognitz M. 2021, *Linked pipe: Linked open Samian Ware*, «Squirrel Papers», 4, 2, 3 (https://doi.org/10.5281/zenodo.5779053).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Thiery",
+     "given": "F."
+    },
+    {
+     "family": "Homburg",
+     "given": "T."
+    },
+    {
+     "family": "Trognitz",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "Linked pipe: Linked open Samian Ware",
+   "is_part_of": [
+    "Squirrel Papers"
+   ],
+   "volume": "4",
+   "issue": "2",
+   "pages": "3",
+   "doi": "10.5281/zenodo.5779053",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Thiery F., Mees A.W. 2021, *Ceramic typologies ontology (CeraTyOnt)*, «Squirrel Papers», 3, 3, 1 (https://doi.org/10.5281/zenodo.5767082).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Thiery",
+     "given": "F."
+    },
+    {
+     "family": "Mees",
+     "given": "A.W."
+    }
+   ],
+   "date": "2021",
+   "title": "Ceramic typologies ontology (CeraTyOnt)",
+   "is_part_of": [
+    "Squirrel Papers"
+   ],
+   "volume": "3",
+   "issue": "3",
+   "pages": "1",
+   "doi": "10.5281/zenodo.5767082",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Thiery F., Mees A.W. 2022, *Wikidata: WikiProject Linked Open Samian Ware* (https://www.wikidata.org/wiki/Wikidata:WikiProject_Linked_Open_Samian_Ware).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Thiery",
+     "given": "F."
+    },
+    {
+     "family": "Mees",
+     "given": "A.W."
+    }
+   ],
+   "date": "2022",
+   "title": "Wikidata: WikiProject Linked Open Samian Ware",
+   "uri": "https://www.wikidata.org/wiki/Wikidata:WikiProject_Linked_Open_Samian_Ware",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Thiery F., Mees A.W., Gottwald D. 2020, *Linked open Samian Ware*, «Squirrel Papers», 2, 2, 1 (https://doi.org/10.5281/zenodo.5767082).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Thiery",
+     "given": "F."
+    },
+    {
+     "family": "Mees",
+     "given": "A.W."
+    },
+    {
+     "family": "Gottwald",
+     "given": "D."
+    }
+   ],
+   "date": "2020",
+   "title": "Linked open Samian Ware",
+   "is_part_of": [
+    "Squirrel Papers"
+   ],
+   "volume": "2",
+   "issue": "2",
+   "pages": "1",
+   "doi": "10.5281/zenodo.5767082",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Trognitz M., Epìdosis, Schmidt S.C., PKM, Anitnelav V., Thiery F. 2023, *Wikidata: WikiProject Archaeology* (https://www.wikidata.org/wiki/Wikidata:WikiProject_Archaeology).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Trognitz",
+     "given": "M."
+    },
+    {
+     "family": "Epìdosis",
+     "given": ""
+    },
+    {
+     "family": "Schmidt",
+     "given": "S.C."
+    },
+    {
+     "family": "PKM",
+     "given": ""
+    },
+    {
+     "family": "Anitnelav",
+     "given": "V."
+    },
+    {
+     "family": "Thiery",
+     "given": "F."
+    }
+   ],
+   "date": "2023",
+   "title": "Wikidata: WikiProject Archaeology",
+   "uri": "https://www.wikidata.org/wiki/Wikidata:WikiProject_Archaeology",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Vrandečić D., Krötzsch M. 2014, *Wikidata: A free collaborative knowledgebase*, «Communications of the ACM», 57, 10, 78-85 (https://doi.org/10.1145/2629489).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vrandečić",
+     "given": "D."
+    },
+    {
+     "family": "Krötzsch",
+     "given": "M."
+    }
+   ],
+   "date": "2014",
+   "title": "Wikidata: A free collaborative knowledgebase",
+   "is_part_of": [
+    "Communications of the ACM"
+   ],
+   "volume": "57",
+   "issue": "10",
+   "pages": "78-85",
+   "doi": "10.1145/2629489",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Wilkinson M.D., Dumontier M., Aalbersberg Ij.J., Appleton G., Axton M., Baak A., Blomberg N., Boiten J.-W., da Silva Santos L.B., Bourne P.E., Bouwman J., Brookes A.J., Clark T., Crosas M., Dillo I., Dumon O., Edmunds S., Evelo C.T., Finkers R., Gonzalez-Beltran A., Gray A.J.G., Groth P., Goble C., Grethe J.S., Heringa J., 't Hoen P.A.C., Hooft R., Kuhn T., Kok R., Kok J., Lusher S.J., Martone M.E., Mons A., Packer A.L., Persson B., Rocca-Serra P., Roos M., van Schaik R., Sansone S.-A., Schultes E., Sengstag T., Slater T., Strawn G., Swertz M.A., Thompson M., van der Lei J., van Mulligen E., Velterop J., Waagmeester A., Wittenburg P., Wolstencroft K., Zhao J., Mons B. 2016, *The FAIR Guiding Principles for scientific data management and stewardship*, «Scientific Data», 3, 160018 (https://doi.org/10.1038/sdata.2016.18).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wilkinson",
+     "given": "M.D."
+    },
+    {
+     "family": "Dumontier",
+     "given": "M."
+    },
+    {
+     "family": "Aalbersberg",
+     "given": "Ij.J."
+    },
+    {
+     "family": "Appleton",
+     "given": "G."
+    },
+    {
+     "family": "Axton",
+     "given": "M."
+    },
+    {
+     "family": "Baak",
+     "given": "A."
+    },
+    {
+     "family": "Blomberg",
+     "given": "N."
+    },
+    {
+     "family": "Boiten",
+     "given": "J.-W."
+    },
+    {
+     "family": "da Silva Santos",
+     "given": "L.B."
+    },
+    {
+     "family": "Bourne",
+     "given": "P.E."
+    },
+    {
+     "family": "Bouwman",
+     "given": "J."
+    },
+    {
+     "family": "Brookes",
+     "given": "A.J."
+    },
+    {
+     "family": "Clark",
+     "given": "T."
+    },
+    {
+     "family": "Crosas",
+     "given": "M."
+    },
+    {
+     "family": "Dillo",
+     "given": "I."
+    },
+    {
+     "family": "Dumon",
+     "given": "O."
+    },
+    {
+     "family": "Edmunds",
+     "given": "S."
+    },
+    {
+     "family": "Evelo",
+     "given": "C.T."
+    },
+    {
+     "family": "Finkers",
+     "given": "R."
+    },
+    {
+     "family": "Gonzalez-Beltran",
+     "given": "A."
+    },
+    {
+     "family": "Gray",
+     "given": "A.J.G."
+    },
+    {
+     "family": "Groth",
+     "given": "P."
+    },
+    {
+     "family": "Goble",
+     "given": "C."
+    },
+    {
+     "family": "Grethe",
+     "given": "J.S."
+    },
+    {
+     "family": "Heringa",
+     "given": "J."
+    },
+    {
+     "family": "'t Hoen",
+     "given": "P.A.C."
+    },
+    {
+     "family": "Hooft",
+     "given": "R."
+    },
+    {
+     "family": "Kuhn",
+     "given": "T."
+    },
+    {
+     "family": "Kok",
+     "given": "R."
+    },
+    {
+     "family": "Kok",
+     "given": "J."
+    },
+    {
+     "family": "Lusher",
+     "given": "S.J."
+    },
+    {
+     "family": "Martone",
+     "given": "M.E."
+    },
+    {
+     "family": "Mons",
+     "given": "A."
+    },
+    {
+     "family": "Packer",
+     "given": "A.L."
+    },
+    {
+     "family": "Persson",
+     "given": "B."
+    },
+    {
+     "family": "Rocca-Serra",
+     "given": "P."
+    },
+    {
+     "family": "Roos",
+     "given": "M."
+    },
+    {
+     "family": "van Schaik",
+     "given": "R."
+    },
+    {
+     "family": "Sansone",
+     "given": "S.-A."
+    },
+    {
+     "family": "Schultes",
+     "given": "E."
+    },
+    {
+     "family": "Sengstag",
+     "given": "T."
+    },
+    {
+     "family": "Slater",
+     "given": "T."
+    },
+    {
+     "family": "Strawn",
+     "given": "G."
+    },
+    {
+     "family": "Swertz",
+     "given": "M.A."
+    },
+    {
+     "family": "Thompson",
+     "given": "M."
+    },
+    {
+     "family": "van der Lei",
+     "given": "J."
+    },
+    {
+     "family": "van Mulligen",
+     "given": "E."
+    },
+    {
+     "family": "Velterop",
+     "given": "J."
+    },
+    {
+     "family": "Waagmeester",
+     "given": "A."
+    },
+    {
+     "family": "Wittenburg",
+     "given": "P."
+    },
+    {
+     "family": "Wolstencroft",
+     "given": "K."
+    },
+    {
+     "family": "Zhao",
+     "given": "J."
+    },
+    {
+     "family": "Mons",
+     "given": "B."
+    }
+   ],
+   "date": "2016",
+   "title": "The FAIR Guiding Principles for scientific data management and stewardship",
+   "is_part_of": [
+    "Scientific Data"
+   ],
+   "volume": "3",
+   "pages": "160018",
+   "doi": "10.1038/sdata.2016.18",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

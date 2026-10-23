@@ -1,0 +1,294 @@
+{
+ "citing_aec_id": 1107,
+ "source_file": "data/journal/31/1107.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Angelini A. 2018, *Tecniche di rilevamento e metodi di rappresentazione per l'architettura rupestre. Il monastero benedettino di Subiaco*, BAR International Series 2889, Oxford.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Angelini",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Tecniche di rilevamento e metodi di rappresentazione per l'architettura rupestre. Il monastero benedettino di Subiaco",
+   "language": "ita",
+   "series": "BAR International Series",
+   "series_number": "2889",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Billi E. 2017, *I dipinti murali della grotta di S. Michele al Monte Tancia: una storia da ricostruire*, «Arte Medievale», 7, 261-274.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Billi",
+     "given": "E."
+    }
+   ],
+   "date": "2017",
+   "title": "I dipinti murali della grotta di S. Michele al Monte Tancia: una storia da ricostruire",
+   "is_part_of": [
+    "Arte Medievale"
+   ],
+   "volume": "7",
+   "pages": "261-274",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Carpiceci M. 2011, *Survey problems and representation of architectural painted surface*, «The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», 38-5/W16, 523-528.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carpiceci",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "Survey problems and representation of architectural painted surface",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "38-5/W16",
+   "pages": "523-528",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Carpiceci M. 2012, *Fotografia digitale e architettura. Storia, strumenti ed elaborazioni con le odierne attrezzature fotografiche e informatiche*, Roma, Aracne Editrice.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carpiceci",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Fotografia digitale e architettura. Storia, strumenti ed elaborazioni con le odierne attrezzature fotografiche e informatiche",
+   "language": "ita",
+   "publisher": "Aracne Editrice",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Carpiceci M., Carnevali L., Angelini A. 2018, *A new protocol for texture mapping process and 2D representation of rupestrian architecture*, in ISPRS TCII Symposium Towards Photogrammetry 2020, «International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», 42, 209-215.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carpiceci",
+     "given": "M."
+    },
+    {
+     "family": "Carnevali",
+     "given": "L."
+    },
+    {
+     "family": "Angelini",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "A new protocol for texture mapping process and 2D representation of rupestrian architecture",
+   "is_part_of": [
+    "ISPRS TCII Symposium Towards Photogrammetry 2020",
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "42",
+   "pages": "209-215",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Carpiceci M. 2013, *Siamo solo agli inizi del rilevamento digitale: alcune considerazioni sullo sviluppo delle attuali tecnologie*, «Quaestio. Studi e ricerche per il disegno e la documentazione dei Beni Culturali», 27, 53-64.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carpiceci",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Siamo solo agli inizi del rilevamento digitale: alcune considerazioni sullo sviluppo delle attuali tecnologie",
+   "is_part_of": [
+    "Quaestio. Studi e ricerche per il disegno e la documentazione dei Beni Culturali"
+   ],
+   "volume": "27",
+   "pages": "53-64",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Giletti F. 2019, *Il valico del Tancia tra storia e archeologia: Castellum Fatucli, Rocca Tanciae, la grotta di San Michele e la chiesa di Sant'Ilario*, in F. Giletti (ed.), *Città scomparse della Sabina*, Montecompatri, Edizioni Espera, 17-44.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giletti",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giletti",
+     "given": "F."
+    }
+   ],
+   "date": "2019",
+   "title": "Il valico del Tancia tra storia e archeologia: Castellum Fatucli, Rocca Tanciae, la grotta di San Michele e la chiesa di Sant'Ilario",
+   "is_part_of": [
+    "Città scomparse della Sabina"
+   ],
+   "pages": "17-44",
+   "language": "ita",
+   "publisher": "Edizioni Espera",
+   "place": "Montecompatri",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Kolmanič S., Guid N. 2002, *The flattening of arbitrary surfaces by approximation with developable stripes*, in U. Cugini, M. Wozny (eds.), *From Geometric Modeling to Shape Modeling*, New York, Springer Science+Business Media, 35-46.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kolmanič",
+     "given": "S."
+    },
+    {
+     "family": "Guid",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cugini",
+     "given": "U."
+    },
+    {
+     "family": "Wozny",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "The flattening of arbitrary surfaces by approximation with developable stripes",
+   "is_part_of": [
+    "From Geometric Modeling to Shape Modeling"
+   ],
+   "pages": "35-46",
+   "language": "eng",
+   "publisher": "Springer Science+Business Media",
+   "place": "New York",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Mara M.G. 1960, *Contributo allo studio del culto di S. Michele nel Lazio*, «Archivio della Società Romana di Storia Patria», 83, 269-290.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mara",
+     "given": "M.G."
+    }
+   ],
+   "date": "1960",
+   "title": "Contributo allo studio del culto di S. Michele nel Lazio",
+   "is_part_of": [
+    "Archivio della Società Romana di Storia Patria"
+   ],
+   "volume": "83",
+   "pages": "269-290",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Migliari R. 2009, *Geometria descrittiva. Tecniche e applicazioni*, II, Novara, CittàStudi, 144-298.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Migliari",
+     "given": "R."
+    }
+   ],
+   "date": "2009",
+   "title": "Geometria descrittiva. Tecniche e applicazioni",
+   "volume": "II",
+   "pages": "144-298",
+   "language": "ita",
+   "publisher": "CittàStudi",
+   "place": "Novara",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Piazza S. 2006, *Pittura rupestre medievale*, Roma, École Française de Rome.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Piazza",
+     "given": "S."
+    }
+   ],
+   "date": "2006",
+   "title": "Pittura rupestre medievale",
+   "language": "ita",
+   "publisher": "École Française de Rome",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Remondino F., El-Hakim S.F. 2006, *Image-based 3D modelling: A review*, «The Photogrammetric Record», 21, 115, 269-291.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "El-Hakim",
+     "given": "S.F."
+    }
+   ],
+   "date": "2006",
+   "title": "Image-based 3D modelling: A review",
+   "is_part_of": [
+    "The Photogrammetric Record"
+   ],
+   "volume": "21",
+   "issue": "115",
+   "pages": "269-291",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Van Wijk J.J. 2008, *Unfolding the Earth: Myriahedral Projections*, «The Cartographic Journal», 45, 1, 32-42.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Van Wijk",
+     "given": "J.J."
+    }
+   ],
+   "date": "2008",
+   "title": "Unfolding the Earth: Myriahedral Projections",
+   "is_part_of": [
+    "The Cartographic Journal"
+   ],
+   "volume": "45",
+   "issue": "1",
+   "pages": "32-42",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,1233 @@
+{
+ "citing_aec_id": 901,
+ "source_file": "data/journal/28/901.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Baddeley A., Turner R. 2013, Spatstat: Spatial point analysis, model-fitting, simulation, tests, Vienna, R Foundation for Statistical Computing (https://rdrr.io/cran/spatstat/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Baddeley",
+     "given": "A."
+    },
+    {
+     "family": "Turner",
+     "given": "R."
+    }
+   ],
+   "date": "2013",
+   "title": "Spatstat: Spatial point analysis, model-fitting, simulation, tests",
+   "publisher": "R Foundation for Statistical Computing",
+   "place": "Vienna",
+   "language": "eng",
+   "uri": "https://rdrr.io/cran/spatstat/"
+  },
+  {
+   "position": 2,
+   "raw": "Bagolini B. 1972, Primi risultati delle ricerche sugli insediamenti epipaleolitici del Colbricon (Dolomiti), «Preistoria Alpina», 8, 107-149.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bagolini",
+     "given": "B."
+    }
+   ],
+   "date": "1972",
+   "title": "Primi risultati delle ricerche sugli insediamenti epipaleolitici del Colbricon (Dolomiti)",
+   "is_part_of": [
+    "Preistoria Alpina"
+   ],
+   "volume": "8",
+   "pages": "107-149",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Bagolini B., Broglio A., Lunz R. 1983, Le Mésolithique des Dolomites, «Preistoria Alpina», 19, 15-36.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bagolini",
+     "given": "B."
+    },
+    {
+     "family": "Broglio",
+     "given": "A."
+    },
+    {
+     "family": "Lunz",
+     "given": "R."
+    }
+   ],
+   "date": "1983",
+   "title": "Le Mésolithique des Dolomites",
+   "is_part_of": [
+    "Preistoria Alpina"
+   ],
+   "volume": "19",
+   "pages": "15-36",
+   "language": "fre"
+  },
+  {
+   "position": 4,
+   "raw": "Bagolini B., Dalmeri G. 1987, I siti mesolitici del Colbricon (Trentino). Analisi spaziale e fruizione del territorio, «Preistoria Alpina», 23, 7-188.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bagolini",
+     "given": "B."
+    },
+    {
+     "family": "Dalmeri",
+     "given": "G."
+    }
+   ],
+   "date": "1987",
+   "title": "I siti mesolitici del Colbricon (Trentino). Analisi spaziale e fruizione del territorio",
+   "is_part_of": [
+    "Preistoria Alpina"
+   ],
+   "volume": "23",
+   "pages": "7-188",
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "Bevan A., Crema E., Li X., Palmisano A. 2013, Intensities, interactions and uncertainties: Some new approaches to archaeological distributions, in A. Bevan, M. Lake (eds.), Computational Approaches to Archaeological Space, Walnut Creek, Left Coast Press, 27-52.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bevan",
+     "given": "A."
+    },
+    {
+     "family": "Crema",
+     "given": "E."
+    },
+    {
+     "family": "Li",
+     "given": "X."
+    },
+    {
+     "family": "Palmisano",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bevan",
+     "given": "A."
+    },
+    {
+     "family": "Lake",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Intensities, interactions and uncertainties: Some new approaches to archaeological distributions",
+   "is_part_of": [
+    "Computational Approaches to Archaeological Space"
+   ],
+   "pages": "27-52",
+   "publisher": "Left Coast Press",
+   "place": "Walnut Creek",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Bevan A., Conolly J. 2006, Multiscalar approaches to settlement pattern analysis, in G. Lock, B. Molyneaux (eds.), Confronting Scale in Archaeology: Issues of Theory and Practice, New York, Springer, 217-234.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bevan",
+     "given": "A."
+    },
+    {
+     "family": "Conolly",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Molyneaux",
+     "given": "B."
+    }
+   ],
+   "date": "2006",
+   "title": "Multiscalar approaches to settlement pattern analysis",
+   "is_part_of": [
+    "Confronting Scale in Archaeology: Issues of Theory and Practice"
+   ],
+   "pages": "217-234",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Bivand R. 2010, spgrass6: interface between GRASS 6 and R, R package version 0. 6-19.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Bivand",
+     "given": "R."
+    }
+   ],
+   "date": "2010",
+   "title": "spgrass6: interface between GRASS 6 and R",
+   "language": "eng",
+   "notes": "R package version 0. 6-19"
+  },
+  {
+   "position": 8,
+   "raw": "Bivand R., Lewin-Koh N. 2013, Maptools: Tools for Reading and Handling Spatial Objects (http://cran.r-project.org/package=maptools/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Bivand",
+     "given": "R."
+    },
+    {
+     "family": "Lewin-Koh",
+     "given": "N."
+    }
+   ],
+   "date": "2013",
+   "title": "Maptools: Tools for Reading and Handling Spatial Objects",
+   "language": "eng",
+   "uri": "http://cran.r-project.org/package=maptools/"
+  },
+  {
+   "position": 9,
+   "raw": "Broglio A. 1994, Mountain sites in the context of the North-East Italian Upper Palaeolithic and Mesolithic, «Preistoria Alpina», 28, 293-310.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Broglio",
+     "given": "A."
+    }
+   ],
+   "date": "1994",
+   "title": "Mountain sites in the context of the North-East Italian Upper Palaeolithic and Mesolithic",
+   "is_part_of": [
+    "Preistoria Alpina"
+   ],
+   "volume": "28",
+   "pages": "293-310",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Broglio A., Lanzinger M. 1990, Considerazioni sulla distribuzione dei siti tra la fine del Paleolitico superiore e l'inizio del Neolitico nell'Italia nord-orientale, in P. Biagi (ed.), The Neolithisation of the Alpine Region, Monografie di Natura Bresciana 13, Brescia, Museo Civico di Scienze Naturali, 53-69.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Broglio",
+     "given": "A."
+    },
+    {
+     "family": "Lanzinger",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Biagi",
+     "given": "P."
+    }
+   ],
+   "date": "1990",
+   "title": "Considerazioni sulla distribuzione dei siti tra la fine del Paleolitico superiore e l'inizio del Neolitico nell'Italia nord-orientale",
+   "is_part_of": [
+    "The Neolithisation of the Alpine Region"
+   ],
+   "pages": "53-69",
+   "series": "Monografie di Natura Bresciana",
+   "series_number": "13",
+   "publisher": "Museo Civico di Scienze Naturali",
+   "place": "Brescia",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "Carrer F. 2013, An ethnoarchaeological inductive model for predicting archaeological site location: A case study of pastoral settlement locations in the Val di Fiemme and Val di Sole (Trentino, Italian Alps), «Journal of Anthropological Archaeology», 32, 1, 54-62.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carrer",
+     "given": "F."
+    }
+   ],
+   "date": "2013",
+   "title": "An ethnoarchaeological inductive model for predicting archaeological site location: A case study of pastoral settlement locations in the Val di Fiemme and Val di Sole (Trentino, Italian Alps)",
+   "is_part_of": [
+    "Journal of Anthropological Archaeology"
+   ],
+   "volume": "32",
+   "issue": "1",
+   "pages": "54-62",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Cavulli F., Grimaldi S. 2007, To see or not to see. Archaeological data and surface visibility as seen by an AIS (Archaeological Information System) approach, in A. Figueiredo, G. Leite Velho (eds.), The World is in Your Eyes. CAA2005. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 33rd Conference (Tomar 2005), Tomar, 413-420.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cavulli",
+     "given": "F."
+    },
+    {
+     "family": "Grimaldi",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Figueiredo",
+     "given": "A."
+    },
+    {
+     "family": "Leite Velho",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "To see or not to see. Archaeological data and surface visibility as seen by an AIS (Archaeological Information System) approach",
+   "is_part_of": [
+    "The World is in Your Eyes. CAA2005. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 33rd Conference (Tomar 2005)"
+   ],
+   "pages": "413-420",
+   "place": "Tomar",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Cavulli F., Grimaldi S., Pedrotti A., Angelucci D.E. 2011, Toward an understanding of archaeological visibility: The case of Trentino (southern Alps), in M. van Leusen, G. Pizziolo, L. Sarti (eds.), Hidden Landscapes of Mediterranean Europe. Cultural and Methodological Biases in Pre- and Protohistoric Landscape Studies. Proceedings of the International Meeting (Siena 2007), BAR International Series 2320, Oxford, Archaeopress, 83-94.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cavulli",
+     "given": "F."
+    },
+    {
+     "family": "Grimaldi",
+     "given": "S."
+    },
+    {
+     "family": "Pedrotti",
+     "given": "A."
+    },
+    {
+     "family": "Angelucci",
+     "given": "D.E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "van Leusen",
+     "given": "M."
+    },
+    {
+     "family": "Pizziolo",
+     "given": "G."
+    },
+    {
+     "family": "Sarti",
+     "given": "L."
+    }
+   ],
+   "date": "2011",
+   "title": "Toward an understanding of archaeological visibility: The case of Trentino (southern Alps)",
+   "is_part_of": [
+    "Hidden Landscapes of Mediterranean Europe. Cultural and Methodological Biases in Pre- and Protohistoric Landscape Studies. Proceedings of the International Meeting (Siena 2007)"
+   ],
+   "pages": "83-94",
+   "series": "BAR International Series",
+   "series_number": "2320",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Cesco Frare P., Mondini C. 2005, Il Mesolitico in Provincia di Belluno. Il quadro dei ritrovamenti, «Archivio storico di Belluno Feltre e Cadore», 76.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cesco Frare",
+     "given": "P."
+    },
+    {
+     "family": "Mondini",
+     "given": "C."
+    }
+   ],
+   "date": "2005",
+   "title": "Il Mesolitico in Provincia di Belluno. Il quadro dei ritrovamenti",
+   "is_part_of": [
+    "Archivio storico di Belluno Feltre e Cadore"
+   ],
+   "volume": "76",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Crawley M.J. 2012, The R Book, Chichester, John Wiley & Sons.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Crawley",
+     "given": "M.J."
+    }
+   ],
+   "date": "2012",
+   "title": "The R Book",
+   "publisher": "John Wiley & Sons",
+   "place": "Chichester",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Crema E.R., Bevan A., Lake M.W. 2010, A probabilistic framework for assessing spatio-temporal point patterns in the archaeological record, «Journal of Archaeological Science», 32, 1118-1130.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Crema",
+     "given": "E.R."
+    },
+    {
+     "family": "Bevan",
+     "given": "A."
+    },
+    {
+     "family": "Lake",
+     "given": "M.W."
+    }
+   ],
+   "date": "2010",
+   "title": "A probabilistic framework for assessing spatio-temporal point patterns in the archaeological record",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "32",
+   "pages": "1118-1130",
+   "language": "eng",
+   "notes": "volume as cited"
+  },
+  {
+   "position": 17,
+   "raw": "Dalmeri G., Pedrotti A. 1994, Distribuzione topografica dei siti del Paleolitico superiore finale e Mesolitico in Trentino Alto-Adige e nelle Dolomiti Venete (Italia), «Preistoria Alpina», 28, 247-267.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dalmeri",
+     "given": "G."
+    },
+    {
+     "family": "Pedrotti",
+     "given": "A."
+    }
+   ],
+   "date": "1994",
+   "title": "Distribuzione topografica dei siti del Paleolitico superiore finale e Mesolitico in Trentino Alto-Adige e nelle Dolomiti Venete (Italia)",
+   "is_part_of": [
+    "Preistoria Alpina"
+   ],
+   "volume": "28",
+   "pages": "247-267",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "Drescher-Schneider R. 2009, La storia forestale delle Alpi Sud-Orientali e del margine pedemontano durante gli ultimi 15 mila anni, in M. Peresani, C. Ravazzi (eds.), Le foreste dei cacciatori paleolitici. Ambiente e popolamento umano in Cansiglio tra Tardoglaciale e Postglaciale, Supplemento al Bollettino della Società Naturalisti Silvia Zenari, Pordenone, 27-64.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Drescher-Schneider",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Peresani",
+     "given": "M."
+    },
+    {
+     "family": "Ravazzi",
+     "given": "C."
+    }
+   ],
+   "date": "2009",
+   "title": "La storia forestale delle Alpi Sud-Orientali e del margine pedemontano durante gli ultimi 15 mila anni",
+   "is_part_of": [
+    "Le foreste dei cacciatori paleolitici. Ambiente e popolamento umano in Cansiglio tra Tardoglaciale e Postglaciale"
+   ],
+   "pages": "27-64",
+   "series": "Supplemento al Bollettino della Società Naturalisti Silvia Zenari",
+   "place": "Pordenone",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Eve S.J., Crema E.R. 2014, A house with a view? Multi-model inference, visibility fields, and point process analysis of a Bronze Age settlement on Leskernick Hill (Cornwall, UK), «Journal of Archaeological Science», 43, 267-277.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Eve",
+     "given": "S.J."
+    },
+    {
+     "family": "Crema",
+     "given": "E.R."
+    }
+   ],
+   "date": "2014",
+   "title": "A house with a view? Multi-model inference, visibility fields, and point process analysis of a Bronze Age settlement on Leskernick Hill (Cornwall, UK)",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "43",
+   "pages": "267-277",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "Finke P.A., Meylemans E., Van de Wauw J. 2008, Mapping the possible occurrence of archaeological sites by Bayesian inference, «Journal of Archaeological Science», 35, 10, 2786-2796.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Finke",
+     "given": "P.A."
+    },
+    {
+     "family": "Meylemans",
+     "given": "E."
+    },
+    {
+     "family": "Van de Wauw",
+     "given": "J."
+    }
+   ],
+   "date": "2008",
+   "title": "Mapping the possible occurrence of archaeological sites by Bayesian inference",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "35",
+   "issue": "10",
+   "pages": "2786-2796",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "Fontana F., Govoni L., Guerreschi A., Padoanello S., Siviero A., Thun Hohenstein U., Ziggiotti S. 2009, L'occupazione sauveterriana di Mondeval de Sora 1, settore I (San Vito di Cadore, Belluno) in bilico tra accampamento residenziale e campo da caccia, «Preistoria Alpina», 44, 207-226.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fontana",
+     "given": "F."
+    },
+    {
+     "family": "Govoni",
+     "given": "L."
+    },
+    {
+     "family": "Guerreschi",
+     "given": "A."
+    },
+    {
+     "family": "Padoanello",
+     "given": "S."
+    },
+    {
+     "family": "Siviero",
+     "given": "A."
+    },
+    {
+     "family": "Thun Hohenstein",
+     "given": "U."
+    },
+    {
+     "family": "Ziggiotti",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "L'occupazione sauveterriana di Mondeval de Sora 1, settore I (San Vito di Cadore, Belluno) in bilico tra accampamento residenziale e campo da caccia",
+   "is_part_of": [
+    "Preistoria Alpina"
+   ],
+   "volume": "44",
+   "pages": "207-226",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "Fontana F., Guerreschi A., Peresani M. 2011, The visible landscape: Inferring Mesolithic settlement dynamics from multifaceted evidence in the south-eastern Alps, in M. van Leusen, G. Pizziolo, L. Sarti (eds.), Hidden Landscapes of Mediterranean Europe: Cultural and Methodological Biases in Pre- and Protohistoric Landscape Studies. Proceedings of the International Meeting (Siena 2007), Oxford, BAR International Series 2320, Archaeopress, 71-81.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fontana",
+     "given": "F."
+    },
+    {
+     "family": "Guerreschi",
+     "given": "A."
+    },
+    {
+     "family": "Peresani",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "van Leusen",
+     "given": "M."
+    },
+    {
+     "family": "Pizziolo",
+     "given": "G."
+    },
+    {
+     "family": "Sarti",
+     "given": "L."
+    }
+   ],
+   "date": "2011",
+   "title": "The visible landscape: Inferring Mesolithic settlement dynamics from multifaceted evidence in the south-eastern Alps",
+   "is_part_of": [
+    "Hidden Landscapes of Mediterranean Europe: Cultural and Methodological Biases in Pre- and Protohistoric Landscape Studies. Proceedings of the International Meeting (Siena 2007)"
+   ],
+   "pages": "71-81",
+   "series": "BAR International Series",
+   "series_number": "2320",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Fontana F., Pasi E. 2002, Risultati delle ultime prospezioni nell'area di Mondeval de Sora (San Vito di Cadore, Belluno), «Quaderni di Archeologia del Veneto», 18, 21-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fontana",
+     "given": "F."
+    },
+    {
+     "family": "Pasi",
+     "given": "E."
+    }
+   ],
+   "date": "2002",
+   "title": "Risultati delle ultime prospezioni nell'area di Mondeval de Sora (San Vito di Cadore, Belluno)",
+   "is_part_of": [
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "volume": "18",
+   "pages": "21-30",
+   "language": "ita"
+  },
+  {
+   "position": 24,
+   "raw": "Fontana F., Pasi E., Petrucci G., Guerreschi A. 2009, Premiers résultats de l'étude des niveaux sauveterriens du site 1, secteur III de Mondeval de Sora (Dolomites, Belluno, Italie), «Rivista di Scienze Preistoriche», 59, 79-92.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fontana",
+     "given": "F."
+    },
+    {
+     "family": "Pasi",
+     "given": "E."
+    },
+    {
+     "family": "Petrucci",
+     "given": "G."
+    },
+    {
+     "family": "Guerreschi",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "Premiers résultats de l'étude des niveaux sauveterriens du site 1, secteur III de Mondeval de Sora (Dolomites, Belluno, Italie)",
+   "is_part_of": [
+    "Rivista di Scienze Preistoriche"
+   ],
+   "volume": "59",
+   "pages": "79-92",
+   "language": "fre"
+  },
+  {
+   "position": 25,
+   "raw": "Fontana F., Visentin D. 2016, Between the Venetian Alps and the Emilian Apennines (Northern Italy): Highland vs. lowland occupation in the early Mesolithic, «Quaternary International», 423, 266-278.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fontana",
+     "given": "F."
+    },
+    {
+     "family": "Visentin",
+     "given": "D."
+    }
+   ],
+   "date": "2016",
+   "title": "Between the Venetian Alps and the Emilian Apennines (Northern Italy): Highland vs. lowland occupation in the early Mesolithic",
+   "is_part_of": [
+    "Quaternary International"
+   ],
+   "volume": "423",
+   "pages": "266-278",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "Fontana F., Visentin D., Turrini M.C., Falceri L., Valletta F. 2014, Casera Staulanza, Zoldo Alto e Forcella Pecol, Selva di Cadore: campagne 2011 e 2012, «Notizie di Archeologia del Veneto», 1, 9-12.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fontana",
+     "given": "F."
+    },
+    {
+     "family": "Visentin",
+     "given": "D."
+    },
+    {
+     "family": "Turrini",
+     "given": "M.C."
+    },
+    {
+     "family": "Falceri",
+     "given": "L."
+    },
+    {
+     "family": "Valletta",
+     "given": "F."
+    }
+   ],
+   "date": "2014",
+   "title": "Casera Staulanza, Zoldo Alto e Forcella Pecol, Selva di Cadore: campagne 2011 e 2012",
+   "is_part_of": [
+    "Notizie di Archeologia del Veneto"
+   ],
+   "volume": "1",
+   "pages": "9-12",
+   "language": "ita"
+  },
+  {
+   "position": 27,
+   "raw": "Gietl R., Doneus M., Fera M. 2008, Cost distance analysis in an Alpine environment: Comparison of different cost surface modules, in A. Posluschny, K. Lambers, I. Herzog (eds.), Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (Berlin 2007), Bonn, Rudolf Habelt, 342-350.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gietl",
+     "given": "R."
+    },
+    {
+     "family": "Doneus",
+     "given": "M."
+    },
+    {
+     "family": "Fera",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Posluschny",
+     "given": "A."
+    },
+    {
+     "family": "Lambers",
+     "given": "K."
+    },
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "date": "2008",
+   "title": "Cost distance analysis in an Alpine environment: Comparison of different cost surface modules",
+   "is_part_of": [
+    "Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (Berlin 2007)"
+   ],
+   "pages": "342-350",
+   "publisher": "Rudolf Habelt",
+   "place": "Bonn",
+   "language": "eng"
+  },
+  {
+   "position": 28,
+   "raw": "Grimaldi S. 2006, Radiocarbon dating of the early Mesolithic Colbricon site (north-eastern Italian Alps), «Journal of Anthropological Sciences», 84, 137-145.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Grimaldi",
+     "given": "S."
+    }
+   ],
+   "date": "2006",
+   "title": "Radiocarbon dating of the early Mesolithic Colbricon site (north-eastern Italian Alps)",
+   "is_part_of": [
+    "Journal of Anthropological Sciences"
+   ],
+   "volume": "84",
+   "pages": "137-145",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "Jarosław J., Hildebrandt-Radke I. 2009, Using multivariate statistics and fuzzy logic system to analyse settlement preferences in lowland areas of the temperate zone: An example from the Polish Lowlands, «Journal of Archaeological Science», 36, 10, 2096-2107.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jarosław",
+     "given": "J."
+    },
+    {
+     "family": "Hildebrandt-Radke",
+     "given": "I."
+    }
+   ],
+   "date": "2009",
+   "title": "Using multivariate statistics and fuzzy logic system to analyse settlement preferences in lowland areas of the temperate zone: An example from the Polish Lowlands",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "36",
+   "issue": "10",
+   "pages": "2096-2107",
+   "language": "eng"
+  },
+  {
+   "position": 30,
+   "raw": "Kompatscher K., Hrozny-Kompatscher M. 2006, Dove piantare il campo: modelli insediativi e di mobilità nel Mesolitico in ambiente alpino, in P. Della Casa, K. Walsh (eds.), Interpretation of Sites and Material Culture from Mid-High Altitude Mountain Environments. Proceedings of the 10th Annual Meeting of the European Association of Archaeologists 2004, Preistoria Alpina, Trento, Museo Tridentino di Scienze Naturali, 137-162.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kompatscher",
+     "given": "K."
+    },
+    {
+     "family": "Hrozny-Kompatscher",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Della Casa",
+     "given": "P."
+    },
+    {
+     "family": "Walsh",
+     "given": "K."
+    }
+   ],
+   "date": "2006",
+   "title": "Dove piantare il campo: modelli insediativi e di mobilità nel Mesolitico in ambiente alpino",
+   "is_part_of": [
+    "Interpretation of Sites and Material Culture from Mid-High Altitude Mountain Environments. Proceedings of the 10th Annual Meeting of the European Association of Archaeologists 2004"
+   ],
+   "pages": "137-162",
+   "series": "Preistoria Alpina",
+   "publisher": "Museo Tridentino di Scienze Naturali",
+   "place": "Trento",
+   "language": "ita"
+  },
+  {
+   "position": 31,
+   "raw": "Kwamme K.L. 1999, Recent directions and developments in Geographical Information Systems, «Journal of Archaeological Research», 7, 2, 153-201.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kwamme",
+     "given": "K.L."
+    }
+   ],
+   "date": "1999",
+   "title": "Recent directions and developments in Geographical Information Systems",
+   "is_part_of": [
+    "Journal of Archaeological Research"
+   ],
+   "volume": "7",
+   "issue": "2",
+   "pages": "153-201",
+   "language": "eng"
+  },
+  {
+   "position": 32,
+   "raw": "Löwenborg D. 2010, Using geographically weighted regression to predict site representativity, in B. Frischer, J. Webb Crawford, D. Koller (eds.), Making History Interactive. Computer Applications and Quantitative Methods in Archaeology (CAA). Proceedings of the 37th International Conference (Williamsburg, Virginia, 2009), BAR International Series, Oxford, Archaeopress, 203-215.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Löwenborg",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Frischer",
+     "given": "B."
+    },
+    {
+     "family": "Webb Crawford",
+     "given": "J."
+    },
+    {
+     "family": "Koller",
+     "given": "D."
+    }
+   ],
+   "date": "2010",
+   "title": "Using geographically weighted regression to predict site representativity",
+   "is_part_of": [
+    "Making History Interactive. Computer Applications and Quantitative Methods in Archaeology (CAA). Proceedings of the 37th International Conference (Williamsburg, Virginia, 2009)"
+   ],
+   "pages": "203-215",
+   "series": "BAR International Series",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 33,
+   "raw": "Neteler M., Mitasova H. 2013, Open Source GIS: A GRASS GIS approach, New York, Springer Science & Business Media.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Neteler",
+     "given": "M."
+    },
+    {
+     "family": "Mitasova",
+     "given": "H."
+    }
+   ],
+   "date": "2013",
+   "title": "Open Source GIS: A GRASS GIS approach",
+   "publisher": "Springer Science & Business Media",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 34,
+   "raw": "Oeggl K., Wahlmüller N. 1994, Vegetation and climate history of a high Alpine Mesolithic Camp site in the eastern Alps, «Preistoria Alpina», 28, 71-82.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Oeggl",
+     "given": "K."
+    },
+    {
+     "family": "Wahlmüller",
+     "given": "N."
+    }
+   ],
+   "date": "1994",
+   "title": "Vegetation and climate history of a high Alpine Mesolithic Camp site in the eastern Alps",
+   "is_part_of": [
+    "Preistoria Alpina"
+   ],
+   "volume": "28",
+   "pages": "71-82",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "Orton C. 2004, Point pattern analysis revisited, in P. Moscati (ed.), New Frontiers of Archaeological Research Languages, Communication, Information Technology, «Archeologia e Calcolatori», 15, 299-315.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2004",
+   "title": "Point pattern analysis revisited",
+   "is_part_of": [
+    "New Frontiers of Archaeological Research. Languages, Communication, Information Technology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "15",
+   "pages": "299-315",
+   "language": "eng",
+   "cited_aec_id": 386
+  },
+  {
+   "position": 36,
+   "raw": "Palmisano A. 2013, Zooming patterns among the scales: A statistics technique to detect spatial patterns among settlements, in G. Earl, T. Sly, A. Chrysanthy, P. Murrieta-Flores, C. Papadopoulos, I. Romanowska, D. Wheatley (eds.), CAA 2012. Proceedings of the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (Southampton 2012), Southampton, Palla Publications, 348-356.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Palmisano",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Earl",
+     "given": "G."
+    },
+    {
+     "family": "Sly",
+     "given": "T."
+    },
+    {
+     "family": "Chrysanthy",
+     "given": "A."
+    },
+    {
+     "family": "Murrieta-Flores",
+     "given": "P."
+    },
+    {
+     "family": "Papadopoulos",
+     "given": "C."
+    },
+    {
+     "family": "Romanowska",
+     "given": "I."
+    },
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "date": "2013",
+   "title": "Zooming patterns among the scales: A statistics technique to detect spatial patterns among settlements",
+   "is_part_of": [
+    "CAA 2012. Proceedings of the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (Southampton 2012)"
+   ],
+   "pages": "348-356",
+   "publisher": "Palla Publications",
+   "place": "Southampton",
+   "language": "eng"
+  },
+  {
+   "position": 37,
+   "raw": "Soldati M., Dibona D., Paganelli A., Panizza V. 1997, Evoluzione ambientale dell'area dell'Alpe Fedéra (Croda da Lago, Dolomiti), «Studi Trentini di Scienze Naturali, Acta Geologica», 71, 21-56.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Soldati",
+     "given": "M."
+    },
+    {
+     "family": "Dibona",
+     "given": "D."
+    },
+    {
+     "family": "Paganelli",
+     "given": "A."
+    },
+    {
+     "family": "Panizza",
+     "given": "V."
+    }
+   ],
+   "date": "1997",
+   "title": "Evoluzione ambientale dell'area dell'Alpe Fedéra (Croda da Lago, Dolomiti)",
+   "is_part_of": [
+    "Studi Trentini di Scienze Naturali, Acta Geologica"
+   ],
+   "volume": "71",
+   "pages": "21-56",
+   "language": "ita"
+  },
+  {
+   "position": 38,
+   "raw": "Vanzetti A., Vidale M., Gallinaro M., Frayer D.W., Bondioli L. 2010, The iceman as a burial, «Antiquity», 84, 681-692.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vanzetti",
+     "given": "A."
+    },
+    {
+     "family": "Vidale",
+     "given": "M."
+    },
+    {
+     "family": "Gallinaro",
+     "given": "M."
+    },
+    {
+     "family": "Frayer",
+     "given": "D.W."
+    },
+    {
+     "family": "Bondioli",
+     "given": "L."
+    }
+   ],
+   "date": "2010",
+   "title": "The iceman as a burial",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "84",
+   "pages": "681-692",
+   "language": "eng"
+  },
+  {
+   "position": 39,
+   "raw": "Venables W.N., Ripley B.D. 2002, Modern Applied Statistics with S, 2nd ed., New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Venables",
+     "given": "W.N."
+    },
+    {
+     "family": "Ripley",
+     "given": "B.D."
+    }
+   ],
+   "date": "2002",
+   "title": "Modern Applied Statistics with S",
+   "edition": "2",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 40,
+   "raw": "Visentin D., Carrer F., Fontana F., Cavulli F., Cesco Frare P., Mondini C., Pedrotti A. 2016, Prehistoric landscapes of the Dolomites. Survey data from the Cadore territory (Belluno Dolomites, Northern Italy), «Quaternary International», 402, 5-14.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Visentin",
+     "given": "D."
+    },
+    {
+     "family": "Carrer",
+     "given": "F."
+    },
+    {
+     "family": "Fontana",
+     "given": "F."
+    },
+    {
+     "family": "Cavulli",
+     "given": "F."
+    },
+    {
+     "family": "Cesco Frare",
+     "given": "P."
+    },
+    {
+     "family": "Mondini",
+     "given": "C."
+    },
+    {
+     "family": "Pedrotti",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Prehistoric landscapes of the Dolomites. Survey data from the Cadore territory (Belluno Dolomites, Northern Italy)",
+   "is_part_of": [
+    "Quaternary International"
+   ],
+   "volume": "402",
+   "pages": "5-14",
+   "language": "eng"
+  },
+  {
+   "position": 41,
+   "raw": "Visentin D., Fontana F., Cavulli F., Carrer F., Cesco Frare P., Mondini C., Pedrotti A. 2016, The \"Total Archaeology Project\" and the Mesolithic occupation of the highland district of San Vito di Cadore (Belluno Dolomites, Northern Italy), «Preistoria Alpina», 48, 65-70.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Visentin",
+     "given": "D."
+    },
+    {
+     "family": "Fontana",
+     "given": "F."
+    },
+    {
+     "family": "Cavulli",
+     "given": "F."
+    },
+    {
+     "family": "Carrer",
+     "given": "F."
+    },
+    {
+     "family": "Cesco Frare",
+     "given": "P."
+    },
+    {
+     "family": "Mondini",
+     "given": "C."
+    },
+    {
+     "family": "Pedrotti",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "The \"Total Archaeology Project\" and the Mesolithic occupation of the highland district of San Vito di Cadore (Belluno Dolomites, Northern Italy)",
+   "is_part_of": [
+    "Preistoria Alpina"
+   ],
+   "volume": "48",
+   "pages": "65-70",
+   "language": "eng"
+  },
+  {
+   "position": 42,
+   "raw": "Zimmerman D.L. 2010, Likelihood-based methods, in A.E. Gelfand, P.J. Diggle, M. Fuentes, P. Guttorp (eds.), Handbook of Spatial Statistics, Boca Raton (FL), CRC Press, 45-56.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zimmerman",
+     "given": "D.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gelfand",
+     "given": "A.E."
+    },
+    {
+     "family": "Diggle",
+     "given": "P.J."
+    },
+    {
+     "family": "Fuentes",
+     "given": "M."
+    },
+    {
+     "family": "Guttorp",
+     "given": "P."
+    }
+   ],
+   "date": "2010",
+   "title": "Likelihood-based methods",
+   "is_part_of": [
+    "Handbook of Spatial Statistics"
+   ],
+   "pages": "45-56",
+   "publisher": "CRC Press",
+   "place": "Boca Raton (FL)",
+   "language": "eng"
+  }
+ ]
+}

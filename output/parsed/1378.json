@@ -1,0 +1,876 @@
+{
+ "citing_aec_id": 1378,
+ "source_file": "data/journal/36/1378.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Acconcia V., Boi V., Falcone A., Di Cocco I., Serlorenzi M. 2024, Dati aperti in archeologia: una riflessione sullo stato dell’arte nell’ambito del Ministero della Cultura, «Archeologia e Calcolatori», 35.2, 29-38 (https://doi.org/10.19282/ac.35.2.2024.04).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Acconcia",
+     "given": "V."
+    },
+    {
+     "family": "Boi",
+     "given": "V."
+    },
+    {
+     "family": "Falcone",
+     "given": "A."
+    },
+    {
+     "family": "Di Cocco",
+     "given": "I."
+    },
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2024",
+   "title": "Dati aperti in archeologia: una riflessione sullo stato dell’arte nell’ambito del Ministero della Cultura",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "29-38",
+   "doi": "10.19282/ac.35.2.2024.04",
+   "language": "ita",
+   "cited_aec_id": 1324
+  },
+  {
+   "position": 2,
+   "raw": "Alberti G., Grima R., Vella N. 2018, The use of geographic information system and 1860s cadastral data to model agricultural suitability before heavy mechanization. A case study from Malta, «PLoS ONE», 13 (https://doi.org/10.1371/journal. pone.0192039).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Alberti",
+     "given": "G."
+    },
+    {
+     "family": "Grima",
+     "given": "R."
+    },
+    {
+     "family": "Vella",
+     "given": "N."
+    }
+   ],
+   "date": "2018",
+   "title": "The use of geographic information system and 1860s cadastral data to model agricultural suitability before heavy mechanization. A case study from Malta",
+   "is_part_of": [
+    "PLoS ONE"
+   ],
+   "volume": "13",
+   "doi": "10.1371/journal.pone.0192039",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Binaghi L. 1993, Arsago Seprio, via Roma, Necropoli a incinerazione, «Notiziario della Soprintendenza Archeologica della Lombardia», 71.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Binaghi",
+     "given": "L."
+    }
+   ],
+   "date": "1993",
+   "title": "Arsago Seprio, via Roma, Necropoli a incinerazione",
+   "is_part_of": [
+    "Notiziario della Soprintendenza Archeologica della Lombardia"
+   ],
+   "pages": "71",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Boi V. 2024, Il Geoportale Nazionale per l’Archeologia (GNA). Standardizzazione e apertura dei dati (https://doi.org/10.60974/GNA_02).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Boi",
+     "given": "V."
+    }
+   ],
+   "date": "2024",
+   "title": "Il Geoportale Nazionale per l’Archeologia (GNA). Standardizzazione e apertura dei dati",
+   "doi": "10.60974/GNA_02",
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "Brandolini F., Carrer F. 2020, Terra, silva et paludes. Assessing the role of alluvial geomorphology for late-Holocene settlement strategies (Po Plain, N Italy) through Point Pattern Analysis, «Environmental Archaeology» (https://doi.org/10.1080/14614103 .2020.1740866).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brandolini",
+     "given": "F."
+    },
+    {
+     "family": "Carrer",
+     "given": "F."
+    }
+   ],
+   "date": "2020",
+   "title": "Terra, silva et paludes. Assessing the role of alluvial geomorphology for late-Holocene settlement strategies (Po Plain, N Italy) through Point Pattern Analysis",
+   "is_part_of": [
+    "Environmental Archaeology"
+   ],
+   "doi": "10.1080/14614103.2020.1740866",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Calandra E. 2022, Il Geoportale Nazionale per l’Archeologia, in L’archeologia preventiva nel quadro del recovery plan, Roma, Accademia dei Lincei, 71-77.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Calandra",
+     "given": "E."
+    }
+   ],
+   "date": "2022",
+   "title": "Il Geoportale Nazionale per l’Archeologia",
+   "is_part_of": [
+    "L’archeologia preventiva nel quadro del recovery plan"
+   ],
+   "pages": "71-77",
+   "publisher": "Accademia dei Lincei",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Carlson D.L. 2017, Quantitative Methods in Archaeology Using R, Cambridge, University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carlson",
+     "given": "D.L."
+    }
+   ],
+   "date": "2017",
+   "title": "Quantitative Methods in Archaeology Using R",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Carrer F. 2013, An ethnoarchaeological inductive model for predicting archaeological site location: A case-study of pastoral settlement patterns in the Val di Fiemme and Val di Sole (Trentino, Italian Alps), «Journal of Anthropological Archaeology», 32, 54-62 (https://doi.org/10.1016/j.jaa.2012.10.001).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carrer",
+     "given": "F."
+    }
+   ],
+   "date": "2013",
+   "title": "An ethnoarchaeological inductive model for predicting archaeological site location: A case-study of pastoral settlement patterns in the Val di Fiemme and Val di Sole (Trentino, Italian Alps)",
+   "is_part_of": [
+    "Journal of Anthropological Archaeology"
+   ],
+   "volume": "32",
+   "pages": "54-62",
+   "doi": "10.1016/j.jaa.2012.10.001",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Claeskens G., Jansen M. 2015, Model selection and model averaging, in J.D. Wright (ed.), International Encyclopedia of the Social & Behavioral Sciences, 2nd edition, vol. 15, Elsevier, 647-652.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Claeskens",
+     "given": "G."
+    },
+    {
+     "family": "Jansen",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "Model selection and model averaging",
+   "editors": [
+    {
+     "family": "Wright",
+     "given": "J.D."
+    }
+   ],
+   "is_part_of": [
+    "International Encyclopedia of the Social & Behavioral Sciences"
+   ],
+   "volume": "15",
+   "edition": "2",
+   "pages": "647-652",
+   "publisher": "Elsevier",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Conolly J., Lake M. 2006, Geographical Information Systems in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Conolly",
+     "given": "J."
+    },
+    {
+     "family": "Lake",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Geographical Information Systems in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Croce E. 2022, Archeologia d’alta quota alle sorgenti del Brembo, PhD Thesis, Università di Trento.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Croce",
+     "given": "E."
+    }
+   ],
+   "date": "2022",
+   "title": "Archeologia d’alta quota alle sorgenti del Brembo",
+   "publisher": "Università di Trento",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "Croce E., Carrer F. 2024, SBC Predictive Model (v1.0.1) - Dataset.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Croce",
+     "given": "E."
+    },
+    {
+     "family": "Carrer",
+     "given": "F."
+    }
+   ],
+   "date": "2024",
+   "title": "SBC Predictive Model (v1.0.1) - Dataset",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Croce E., Carrer F., Angelucci D.E. 2025, Ethnoarchaeological inductive predictive model: A field test in the Italian Alps, «Journal of Archaeological Methods and Theory», 32, 43 (https://doi.org/10.1007/s10816-025-09712-w).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Croce",
+     "given": "E."
+    },
+    {
+     "family": "Carrer",
+     "given": "F."
+    },
+    {
+     "family": "Angelucci",
+     "given": "D.E."
+    }
+   ],
+   "date": "2025",
+   "title": "Ethnoarchaeological inductive predictive model: A field test in the Italian Alps",
+   "is_part_of": [
+    "Journal of Archaeological Methods and Theory"
+   ],
+   "volume": "32",
+   "issue": "43",
+   "doi": "10.1007/s10816-025-09712-w",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "De Marchi M. 1999, Insediamenti longobardi e castelli tardoantichi tra Ticino e Mincio, in G.P. Brogiolo (ed.), Le fortificazioni del Garda e i sistemi di difesa dell’Italia settentrionale tra Tardoantico e Altomedioevo. 2° Convegno archeologico del Garda (Gardone Riviera 1998), Quingentole (MN), SAP Società Archeologica, 109-136.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Marchi",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Insediamenti longobardi e castelli tardoantichi tra Ticino e Mincio",
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "is_part_of": [
+    "Le fortificazioni del Garda e i sistemi di difesa dell’Italia settentrionale tra Tardoantico e Altomedioevo. 2° Convegno archeologico del Garda (Gardone Riviera 1998)"
+   ],
+   "pages": "109-136",
+   "publisher": "SAP Società Archeologica",
+   "place": "Quingentole (MN)",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "De Reu J., Bourgeois J., Bats M., Zwertvaegher A., Gelorini V., De Smedt P., Chu W., Antrop M., De Maeyer P., Finke P., Van Meirvenne M., Verniers J., Crombé P. 2013, Application of the topographic position index to heterogeneous landscapes, «Geomorphology», 186, 39-49 (https://doi.org/10.1016/j.geomorph.2012.12.015).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Reu",
+     "given": "J."
+    },
+    {
+     "family": "Bourgeois",
+     "given": "J."
+    },
+    {
+     "family": "Bats",
+     "given": "M."
+    },
+    {
+     "family": "Zwertvaegher",
+     "given": "A."
+    },
+    {
+     "family": "Gelorini",
+     "given": "V."
+    },
+    {
+     "family": "De Smedt",
+     "given": "P."
+    },
+    {
+     "family": "Chu",
+     "given": "W."
+    },
+    {
+     "family": "Antrop",
+     "given": "M."
+    },
+    {
+     "family": "De Maeyer",
+     "given": "P."
+    },
+    {
+     "family": "Finke",
+     "given": "P."
+    },
+    {
+     "family": "Van Meirvenne",
+     "given": "M."
+    },
+    {
+     "family": "Verniers",
+     "given": "J."
+    },
+    {
+     "family": "Crombé",
+     "given": "P."
+    }
+   ],
+   "date": "2013",
+   "title": "Application of the topographic position index to heterogeneous landscapes",
+   "is_part_of": [
+    "Geomorphology"
+   ],
+   "volume": "186",
+   "pages": "39-49",
+   "doi": "10.1016/j.geomorph.2012.12.015",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Dolci M. 2003, Perviae paucis Alpes, viabilità romana attraverso i valichi delle Alpi Centrali, Oxford, Archaeopress.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Dolci",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Perviae paucis Alpes, viabilità romana attraverso i valichi delle Alpi Centrali",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "ita"
+  },
+  {
+   "position": 17,
+   "raw": "Dormann C.F., Elith J., Bacher S., Buchmann C., Carl G., Carré G., García Marquéz J.R., Grube B., Lafourcade B., Leitão P.J., Münkemüller T., McClean C., Osborne P.E., Reineking B., Schröder B., Skidmore A.K., Zurell D., Lautenbach S. 2013, Collinearity: A review of methods to deal with it and a simulation study evaluating their performance, «Ecography», 36, 27-46 (https://doi.org/10.1111/j.16000587.2012.07348.x).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dormann",
+     "given": "C.F."
+    },
+    {
+     "family": "Elith",
+     "given": "J."
+    },
+    {
+     "family": "Bacher",
+     "given": "S."
+    },
+    {
+     "family": "Buchmann",
+     "given": "C."
+    },
+    {
+     "family": "Carl",
+     "given": "G."
+    },
+    {
+     "family": "Carré",
+     "given": "G."
+    },
+    {
+     "family": "García Marquéz",
+     "given": "J.R."
+    },
+    {
+     "family": "Grube",
+     "given": "B."
+    },
+    {
+     "family": "Lafourcade",
+     "given": "B."
+    },
+    {
+     "family": "Leitão",
+     "given": "P.J."
+    },
+    {
+     "family": "Münkemüller",
+     "given": "T."
+    },
+    {
+     "family": "McClean",
+     "given": "C."
+    },
+    {
+     "family": "Osborne",
+     "given": "P.E."
+    },
+    {
+     "family": "Reineking",
+     "given": "B."
+    },
+    {
+     "family": "Schröder",
+     "given": "B."
+    },
+    {
+     "family": "Skidmore",
+     "given": "A.K."
+    },
+    {
+     "family": "Zurell",
+     "given": "D."
+    },
+    {
+     "family": "Lautenbach",
+     "given": "S."
+    }
+   ],
+   "date": "2013",
+   "title": "Collinearity: A review of methods to deal with it and a simulation study evaluating their performance",
+   "is_part_of": [
+    "Ecography"
+   ],
+   "volume": "36",
+   "pages": "27-46",
+   "doi": "10.1111/j.16000587.2012.07348.x",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Gabucci A. 2024, Un template QGIS al servizio del Geoportale Nazionale per l’Archeologia (GNA), 1-5 (https://doi.org/10.60974/GNA_05).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Gabucci",
+     "given": "A."
+    }
+   ],
+   "date": "2024",
+   "title": "Un template QGIS al servizio del Geoportale Nazionale per l’Archeologia (GNA)",
+   "pages": "1-5",
+   "doi": "10.60974/GNA_05",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Hosmer D.W., Lemeshow S., Sturdivant R. 2013, Applied Logistic Regression, III, Hoboken, John Wiley & Sons.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hosmer",
+     "given": "D.W."
+    },
+    {
+     "family": "Lemeshow",
+     "given": "S."
+    },
+    {
+     "family": "Sturdivant",
+     "given": "R."
+    }
+   ],
+   "date": "2013",
+   "title": "Applied Logistic Regression",
+   "edition": "3",
+   "publisher": "John Wiley & Sons",
+   "place": "Hoboken",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "King D., Bourennane H., Isambert M., Macaire J.J. 1999, Relationship of the presence of a non-calcareous clay-loam horizon to DEM attributes in a gently sloping area, «Geoderma», 89, 95-111 (https://doi.org/10.1016/S0016-7061(98)00124-4).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "King",
+     "given": "D."
+    },
+    {
+     "family": "Bourennane",
+     "given": "H."
+    },
+    {
+     "family": "Isambert",
+     "given": "M."
+    },
+    {
+     "family": "Macaire",
+     "given": "J.J."
+    }
+   ],
+   "date": "1999",
+   "title": "Relationship of the presence of a non-calcareous clay-loam horizon to DEM attributes in a gently sloping area",
+   "is_part_of": [
+    "Geoderma"
+   ],
+   "volume": "89",
+   "pages": "95-111",
+   "doi": "10.1016/S0016-7061(98)00124-4",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "Kvamme K.L. 1988, Development and testing of quantitative models, in W.J. Judge, L. Sebastian (eds.), Quantifying the Present and Predicting the Past: Theory, Method and Application of Archaeological Predictive Modeling, Washington, US Government Printing Office, 325-428.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "date": "1988",
+   "title": "Development and testing of quantitative models",
+   "editors": [
+    {
+     "family": "Judge",
+     "given": "W.J."
+    },
+    {
+     "family": "Sebastian",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Quantifying the Present and Predicting the Past: Theory, Method and Application of Archaeological Predictive Modeling"
+   ],
+   "pages": "325-428",
+   "publisher": "US Government Printing Office",
+   "place": "Washington",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "Kvamme K.L. 2020, Analysing regional environmental relationship, in M. Gillings, P. Hacıgüzeller, G. Lock (eds.), Archaeological Spatial Analysis, Oxon-New York, Routledge, 212-230.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "date": "2020",
+   "title": "Analysing regional environmental relationship",
+   "editors": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    },
+    {
+     "family": "Hacıgüzeller",
+     "given": "P."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Archaeological Spatial Analysis"
+   ],
+   "pages": "212-230",
+   "publisher": "Routledge",
+   "place": "Oxon-New York",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "van Leusen M., Deeben J., Hallewas D., Zoetbrood P., Kamermans H., Verhagen P. 2005, A baseline for predictive modelling in the Netherlands, in P.M. van Leusen, H. Kamermans (eds.), Predictive Modeling for Archaeological Heritage Management: A Research Agenda, Amersfoort, Rijksdienst voor het Oudheidkundig Bodemonderzoek, 27-94.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "van Leusen",
+     "given": "M."
+    },
+    {
+     "family": "Deeben",
+     "given": "J."
+    },
+    {
+     "family": "Hallewas",
+     "given": "D."
+    },
+    {
+     "family": "Zoetbrood",
+     "given": "P."
+    },
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Verhagen",
+     "given": "P."
+    }
+   ],
+   "date": "2005",
+   "title": "A baseline for predictive modelling in the Netherlands",
+   "editors": [
+    {
+     "family": "van Leusen",
+     "given": "P.M."
+    },
+    {
+     "family": "Kamermans",
+     "given": "H."
+    }
+   ],
+   "is_part_of": [
+    "Predictive Modeling for Archaeological Heritage Management: A Research Agenda"
+   ],
+   "pages": "27-94",
+   "publisher": "Rijksdienst voor het Oudheidkundig Bodemonderzoek",
+   "place": "Amersfoort",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "Midi H., Sarkar S.K., Rana S. 2010, Collinearity diagnostics of binary logistic regression model, «Journal of Interdisciplinary Mathematics», 13, 253-267 (https://doi.org/10. 1080/09720502.2010.10700699).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Midi",
+     "given": "H."
+    },
+    {
+     "family": "Sarkar",
+     "given": "S.K."
+    },
+    {
+     "family": "Rana",
+     "given": "S."
+    }
+   ],
+   "date": "2010",
+   "title": "Collinearity diagnostics of binary logistic regression model",
+   "is_part_of": [
+    "Journal of Interdisciplinary Mathematics"
+   ],
+   "volume": "13",
+   "pages": "253-267",
+   "doi": "10.1080/09720502.2010.10700699",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "Netler M., Mitasova H. 2008, Open Source GIS: A Grass GIS approach, III, New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Netler",
+     "given": "M."
+    },
+    {
+     "family": "Mitasova",
+     "given": "H."
+    }
+   ],
+   "date": "2008",
+   "title": "Open Source GIS: A Grass GIS approach",
+   "edition": "3",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "Olaya V. 2009, Basic land-surface parameters, in T. Hengl, H.I. Reuter (eds.), Geomorphometry. Concepts, Software, Applications, Elsevier, 142-169.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Olaya",
+     "given": "V."
+    }
+   ],
+   "date": "2009",
+   "title": "Basic land-surface parameters",
+   "editors": [
+    {
+     "family": "Hengl",
+     "given": "T."
+    },
+    {
+     "family": "Reuter",
+     "given": "H.I."
+    }
+   ],
+   "is_part_of": [
+    "Geomorphometry. Concepts, Software, Applications"
+   ],
+   "pages": "142-169",
+   "publisher": "Elsevier",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "Simone L. 1985, Strada romana, «Notiziario della Soprintendenza Archeologica della Lombardia», 56.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Simone",
+     "given": "L."
+    }
+   ],
+   "date": "1985",
+   "title": "Strada romana",
+   "is_part_of": [
+    "Notiziario della Soprintendenza Archeologica della Lombardia"
+   ],
+   "pages": "56",
+   "language": "ita"
+  },
+  {
+   "position": 28,
+   "raw": "Tobler W.R. 1970, A computer movie simulating urban growth in the Detroit region, «Economic Geography», 46, 234-240 (https://doi.org/10.2307/143141).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tobler",
+     "given": "W.R."
+    }
+   ],
+   "date": "1970",
+   "title": "A computer movie simulating urban growth in the Detroit region",
+   "is_part_of": [
+    "Economic Geography"
+   ],
+   "volume": "46",
+   "pages": "234-240",
+   "doi": "10.2307/143141",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "Venables W.N., Smith D.M., R Core Team 2024, An Introduction to R, Notes on R: A Programming Environment for Data Analysis and Graphics. Electronic edition (http:// cran.r-project.org/doc/manuals/R-intro.html).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Venables",
+     "given": "W.N."
+    },
+    {
+     "family": "Smith",
+     "given": "D.M."
+    },
+    {
+     "family": "R Core Team",
+     "given": ""
+    }
+   ],
+   "date": "2024",
+   "title": "An Introduction to R, Notes on R: A Programming Environment for Data Analysis and Graphics. Electronic edition",
+   "uri": "http://cran.r-project.org/doc/manuals/R-intro.html",
+   "language": "eng"
+  },
+  {
+   "position": 30,
+   "raw": "Verhagen P., Whitley T.G. 2020, Predictive spatial modelling, in M. Gillings, P. Hacigüzeller, G. Lock (eds.), Archaeological Spatial Analysis, Oxon-New York, Routledge, 231-246.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Verhagen",
+     "given": "P."
+    },
+    {
+     "family": "Whitley",
+     "given": "T.G."
+    }
+   ],
+   "date": "2020",
+   "title": "Predictive spatial modelling",
+   "editors": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    },
+    {
+     "family": "Hacigüzeller",
+     "given": "P."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Archaeological Spatial Analysis"
+   ],
+   "pages": "231-246",
+   "publisher": "Routledge",
+   "place": "Oxon-New York",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "Wheatley D., Gillings M. 2002, Spatial Technology and Archaeology: The Archaeological Applications of GIS, London, CRC Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    },
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Spatial Technology and Archaeology: The Archaeological Applications of GIS",
+   "publisher": "CRC Press",
+   "place": "London",
+   "language": "eng"
+  }
+ ]
+}

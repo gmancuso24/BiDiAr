@@ -1,0 +1,371 @@
+{
+ "citing_aec_id": 44,
+ "source_file": "data/journal/3/44.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ANCESCHI G. 1990, in Il Museo parla al pubblico, Atti del Convegno (Bologna 1989), Roma, Editoriale Test, 237-242.",
+   "type": "proceedings",
+   "date": "1990",
+   "title": "Il Museo parla al pubblico. Atti del Convegno (Bologna 1989)",
+   "place": "Roma",
+   "publisher": "Editoriale Test",
+   "pages": "237-242",
+   "confidence": "low",
+   "notes": "cited as: ANCESCHI G. 1990, in Il Museo parla al pubblico...; chapter by G. Anceschi, title missing in the citation",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Atti Bologna 1991, Gli occhi della curiosità, Atti del Convegno (Bologna 1990), Bologna, Comune di Bologna.",
+   "type": "proceedings",
+   "date": "1991",
+   "title": "Gli occhi della curiosità. Atti del Convegno (Bologna 1990)",
+   "place": "Bologna",
+   "publisher": "Comune di Bologna",
+   "notes": "cited as 'Atti Bologna 1991'; reference split over two lines in the source",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "CALIDONI M. 1990, Scuola e beni culturali e ambientali,« L'Ippogrifo>>, 3, 1990, 285-298.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Calidoni",
+     "given": "M."
+    }
+   ],
+   "date": "1990",
+   "title": "Scuola e beni culturali e ambientali",
+   "is_part_of": [
+    "L'Ippogrifo"
+   ],
+   "volume": "3",
+   "pages": "285-298",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "CERIZZA A. 1989, L'esperto simulato, « L'Ippogrifo », 2, 85-89.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cerizza",
+     "given": "A."
+    }
+   ],
+   "date": "1989",
+   "title": "L'esperto simulato",
+   "is_part_of": [
+    "L'Ippogrifo"
+   ],
+   "volume": "2",
+   "pages": "85-89",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "DEL VECCHIO F. 1990, M11seum and Education: la didattica museale in Gran Bretagna, « L'lppogrifo », 3, 387-391",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Del Vecchio",
+     "given": "F."
+    }
+   ],
+   "date": "1990",
+   "title": "Museum and Education: la didattica museale in Gran Bretagna",
+   "is_part_of": [
+    "L'Ippogrifo"
+   ],
+   "volume": "3",
+   "pages": "387-391",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "ECO R. 1991, Sussidi offerti dal museo per una didattica efficace, in Corso di formazione e aggiornamento, Udine, Comune di Udine, 125-136.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Eco",
+     "given": "R."
+    }
+   ],
+   "date": "1991",
+   "title": "Sussidi offerti dal museo per una didattica efficace",
+   "is_part_of": [
+    "Corso di formazione e aggiornamento"
+   ],
+   "pages": "125-136",
+   "publisher": "Comune di Udine",
+   "place": "Udine",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "EMILIANI A. 1989, Il Politecnico delle Arti, Bologna, Nuova Alfa Editoriale.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Emiliani",
+     "given": "A."
+    }
+   ],
+   "date": "1989",
+   "title": "Il Politecnico delle Arti",
+   "place": "Bologna",
+   "publisher": "Nuova Alfa Editoriale",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "F1NARELLI L., VALLI P., ZANARINI G. 1990, Ipertesti e beni culturali: Giulio Romano e Palazzo Te, « L'Ippogrifo», 3, 119-130.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Finarelli",
+     "given": "L."
+    },
+    {
+     "family": "Valli",
+     "given": "P."
+    },
+    {
+     "family": "Zanarini",
+     "given": "G."
+    }
+   ],
+   "date": "1990",
+   "title": "Ipertesti e beni culturali: Giulio Romano e Palazzo Te",
+   "is_part_of": [
+    "L'Ippogrifo"
+   ],
+   "volume": "3",
+   "pages": "119-130",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "GIORDANO L. 1991, Le \"delizie\" del Settecento lombardo, «Rivista IBM », 2, 54-64.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Giordano",
+     "given": "L."
+    }
+   ],
+   "date": "1991",
+   "title": "Le \"delizie\" del Settecento lombardo",
+   "is_part_of": [
+    "Rivista IBM"
+   ],
+   "volume": "2",
+   "pages": "54-64",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "GUARDUCCI M. L. 1988, Musei e didattica, Firenze, Becocci Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Guarducci",
+     "given": "M.L."
+    }
+   ],
+   "date": "1988",
+   "title": "Musei e didattica",
+   "place": "Firenze",
+   "publisher": "Becocci Editore",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "LENZI F., PAGLIANI M.L. 1988, Per una didattica dei beni culturali, « Rivista IBM », 4, 22-24.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lenzi",
+     "given": "F."
+    },
+    {
+     "family": "Pagliani",
+     "given": "M.L."
+    }
+   ],
+   "date": "1988",
+   "title": "Per una didattica dei beni culturali",
+   "is_part_of": [
+    "Rivista IBM"
+   ],
+   "volume": "4",
+   "pages": "22-24",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "MASETTI M. 1990, Fare didattica con il persona/ computer, « Rivista IBM », 1, 30-35.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Masetti",
+     "given": "M."
+    }
+   ],
+   "date": "1990",
+   "title": "Fare didattica con il personal computer",
+   "is_part_of": [
+    "Rivista IBM"
+   ],
+   "volume": "1",
+   "pages": "30-35",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "MENIS C.C. 1990, La questione longobarda,« Rivista IBM », 3, 2-10.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Menis",
+     "given": "C.C."
+    }
+   ],
+   "date": "1990",
+   "title": "La questione longobarda",
+   "is_part_of": [
+    "Rivista IBM"
+   ],
+   "volume": "3",
+   "pages": "2-10",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "PAGLIANI M.L. 1991 , in Seminario interregionale sui musei locali, Atti (Gaeta 1990), Gaeta, Regione Lazio, 322-326.",
+   "type": "proceedings",
+   "date": "1991",
+   "title": "Seminario interregionale sui musei locali. Atti (Gaeta 1990)",
+   "place": "Gaeta",
+   "publisher": "Regione Lazio",
+   "pages": "322-326",
+   "confidence": "low",
+   "notes": "cited as: PAGLIANI M.L. 1991, in Seminario interregionale sui musei locali...; chapter by M.L. Pagliani, title missing in the citation",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "PANZER! P. 1990, Didattica Museale in Italia. Rassegna Bibliografica, Roma, Fratelli Palombi Editori.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Panzeri",
+     "given": "P."
+    }
+   ],
+   "date": "1990",
+   "title": "Didattica Museale in Italia. Rassegna Bibliografica",
+   "place": "Roma",
+   "publisher": "Fratelli Palombi Editori",
+   "notes": "'PANZER!' OCR corrected",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "PISANI SARTORIO G. 1988, Didattica e computer: /'elaborazione dei dati ai fini didattici e museali, in Archeologia e informatica, Atti del Convegno (Roma 1988), Roma, Quasar, 137-140.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pisani Sartorio",
+     "given": "G."
+    }
+   ],
+   "date": "1988",
+   "title": "Didattica e computer: l'elaborazione dei dati ai fini didattici e museali",
+   "is_part_of": [
+    "Archeologia e informatica. Atti del Convegno (Roma 1988)"
+   ],
+   "pages": "137-140",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "UNCINI A. 1990, Capolavori d'arte russa in Vaticano, « Rivista IBM », 1, 10-13.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Uncini",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "Capolavori d'arte russa in Vaticano",
+   "is_part_of": [
+    "Rivista IBM"
+   ],
+   "volume": "1",
+   "pages": "10-13",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "VERZOTII G. 1989, Dodici computer in cel'ca d'autore, «Rivista IBM », 3, 32-36.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Verzotti",
+     "given": "G."
+    }
+   ],
+   "date": "1989",
+   "title": "Dodici computer in cerca d'autore",
+   "is_part_of": [
+    "Rivista IBM"
+   ],
+   "volume": "3",
+   "pages": "32-36",
+   "notes": "'VERZOTII' OCR corrected",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "VERZOTII G . 1990, Warhol e la Pop Art, l'artista come macchina, «Rivista IBM », 3, 26-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Verzotti",
+     "given": "G."
+    }
+   ],
+   "date": "1990",
+   "title": "Warhol e la Pop Art, l'artista come macchina",
+   "is_part_of": [
+    "Rivista IBM"
+   ],
+   "volume": "3",
+   "pages": "26-30",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

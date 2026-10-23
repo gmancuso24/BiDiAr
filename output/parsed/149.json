@@ -1,0 +1,587 @@
+{
+ "citing_aec_id": 149,
+ "source_file": "data/journal/7/149.md",
+ "references": [
+  {
+   "raw": "ARCOSPACE ver. 2.0 1987, A Package for the Spatial Analysis of Archaeological Data, by T.D. PRICE and H.P. BLANKHOLM.",
+   "type": "other",
+   "title": "ARCOSPACE ver. 2.0. A Package for the Spatial Analysis of Archaeological Data",
+   "confidence": "low",
+   "notes": "software",
+   "position": 1,
+   "creators": [
+    {
+     "family": "Price",
+     "given": "T.D."
+    },
+    {
+     "family": "Blankholm",
+     "given": "H.P."
+    }
+   ],
+   "date": "1987"
+  },
+  {
+   "raw": "BASP 5.0 1994, Bonn Archaeological Statistical Package, by I. SCOLLAR, Unkelbach Valley Software Works.",
+   "type": "other",
+   "title": "BASP 5.0. Bonn Archaeological Statistical Package",
+   "confidence": "low",
+   "notes": "software",
+   "position": 2,
+   "creators": [
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "date": "1994",
+   "publisher": "Unkelbach Valley Software Works"
+  },
+  {
+   "raw": "BLANKHOLM H.P. 1991, Intrasite Spatial Analysis in Theory and Practice, Aarhus, Aarhus University Press.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Blankholm",
+     "given": "H.P."
+    }
+   ],
+   "type": "book",
+   "title": "Intrasite Spatial Analysis in Theory and Practice",
+   "place": "Aarhus",
+   "publisher": "Aarhus University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "BIETTI A. 1993, Nuove prospettive nelle analisi di correlazioni spaziali in preistoria, «Archeologia e Calcolatori», 3, 39-60.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Nuove prospettive nelle analisi di correlazioni spaziali in preistoria",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "39-60",
+   "volume": "3",
+   "language": "ita",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "BINFORD L.R. 1981, Behavioral Archaeology and the \"Pompeii Premise\", «Journal of Anthropological Research», 36, 3, 195-208.",
+   "date": "1981",
+   "creators": [
+    {
+     "family": "Binford",
+     "given": "L.R."
+    }
+   ],
+   "type": "article",
+   "title": "Behavioral Archaeology and the \"Pompeii Premise\"",
+   "is_part_of": [
+    "Journal of Anthropological Research"
+   ],
+   "pages": "195-208",
+   "volume": "36",
+   "issue": "3",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "CREMASCHI M. 1990, Geoarcheologia: metodi e tecniche delle scienze della terra nella ricerca archeologica, in T. MANNONI, A. MOLINARI (edd.), Scienze in Archeologia, Quaderni del Dipartimento di Archeologia e Storia delle Arti, Università di Siena, 20-21, 395-422.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Geoarcheologia: metodi e tecniche delle scienze della terra nella ricerca archeologica",
+   "editors": [
+    {
+     "family": "Mannoni",
+     "given": "T."
+    },
+    {
+     "family": "Molinari",
+     "given": "A."
+    }
+   ],
+   "pages": "395-422",
+   "is_part_of": [
+    "Scienze in Archeologia, Quaderni del Dipartimento di Archeologia e Storia delle Arti, Università di Siena, 20-21"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "CREMASCHI M., DI LERNIA S. 1995, Caratteri sedimentologici e micromorfologici della successione stratigrafica, in GORGOGLIONE et al. 1995, 37-44.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    },
+    {
+     "family": "Di Lernia",
+     "given": "S."
+    }
+   ],
+   "type": "chapter",
+   "title": "Caratteri sedimentologici e micromorfologici della successione stratigrafica",
+   "pages": "37-44",
+   "language": "ita",
+   "confidence": "high",
+   "position": 7,
+   "xref": 10,
+   "is_part_of": [
+    "L'insediamento preistorico di Terragne (Manduria, Taranto). Nuovi dati sul processo di neolitizzazione nel sud est italiano"
+   ],
+   "editors": [
+    {
+     "family": "Gorgoglione",
+     "given": "M.A."
+    },
+    {
+     "family": "Di Lernia",
+     "given": "S."
+    },
+    {
+     "family": "Fiorentino",
+     "given": "G."
+    }
+   ],
+   "place": "Manduria",
+   "publisher": "CRSEC"
+  },
+  {
+   "raw": "DE GUIO A. 1988, Unità archeostratigrafiche come unità operazionali: verso le archeologie possibili degli anni '90, «Quaderni di Archeologia Stratigrafica dell'Italia Settentrionale», 1, 9-22.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "De Guio",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Unità archeostratigrafiche come unità operazionali: verso le archeologie possibili degli anni '90",
+   "is_part_of": [
+    "Quaderni di Archeologia Stratigrafica dell'Italia Settentrionale"
+   ],
+   "pages": "9-22",
+   "volume": "1",
+   "language": "ita",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "GORGOGLIONE M.A., DI LERNIA S., FIORENTINO G. 1991, L'insediamento preistorico di Terragne, Manduria (Taranto). Indagine territoriale e metodologia d'intervento, «Taras», 11, 1, 57-83.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Gorgoglione",
+     "given": "M.A."
+    },
+    {
+     "family": "Di Lernia",
+     "given": "S."
+    },
+    {
+     "family": "Fiorentino",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "L'insediamento preistorico di Terragne, Manduria (Taranto). Indagine territoriale e metodologia d'intervento",
+   "is_part_of": [
+    "Taras"
+   ],
+   "pages": "57-83",
+   "volume": "11",
+   "issue": "1",
+   "language": "ita",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "GORGOGLIONE M.A., DI LERNIA S., FIORENTINO G. (edd.) 1995, L'insediamento preistorico di Terragne (Manduria, Taranto). Nuovi dati sul processo di neolitizzazione nel sud est italiano, Manduria, CRSEC.",
+   "date": "1995",
+   "editors": [
+    {
+     "family": "Gorgoglione",
+     "given": "M.A."
+    },
+    {
+     "family": "Di Lernia",
+     "given": "S."
+    },
+    {
+     "family": "Fiorentino",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "L'insediamento preistorico di Terragne (Manduria, Taranto). Nuovi dati sul processo di neolitizzazione nel sud est italiano",
+   "place": "Manduria",
+   "publisher": "CRSEC",
+   "language": "ita",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "HARRIS E.C. 1979, Principles of Archaeological Stratigraphy, London, Academic Press.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "E.C."
+    }
+   ],
+   "type": "book",
+   "title": "Principles of Archaeological Stratigraphy",
+   "place": "London",
+   "publisher": "Academic Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "JOHNSON I. 1984, Cell frequency recording and analysis of artifact distributions, in J.H. HIETALA (ed.), Intrasite Spatial Analysis in Archaeology, Cambridge, Cambridge University Press, 75-96.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Johnson",
+     "given": "I."
+    }
+   ],
+   "type": "chapter",
+   "title": "Cell frequency recording and analysis of artifact distributions",
+   "editors": [
+    {
+     "family": "Hietala",
+     "given": "J.H."
+    }
+   ],
+   "pages": "75-96",
+   "is_part_of": [
+    "Intrasite Spatial Analysis in Archaeology"
+   ],
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "LEONARDI G. 1992 (ed.), Processi formativi della stratificazione archeologica, «Saltuarie dal Laboratorio del Piovego», 3, 13-47.",
+   "date": "1992",
+   "editors": [
+    {
+     "family": "Leonardi",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Processi formativi della stratificazione archeologica",
+   "is_part_of": [
+    "Saltuarie dal Laboratorio del Piovego"
+   ],
+   "pages": "13-47",
+   "volume": "3",
+   "language": "ita",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "LEONARDI G., PRACCHIA S., VIDALE M. 1989, L'indicatore ceramico nei percorsi archeologici, in Atti della XXVII Riunione Scientifica I.I.P.P. (Ferrara 17-20 novembre 1987), 85-104.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Leonardi",
+     "given": "G."
+    },
+    {
+     "family": "Pracchia",
+     "given": "S."
+    },
+    {
+     "family": "Vidale",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'indicatore ceramico nei percorsi archeologici",
+   "pages": "85-104",
+   "is_part_of": [
+    "Atti della XXVII Riunione Scientifica I.I.P.P. (Ferrara 17-20 novembre 1987)"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "DI LERNIA S. 1995, Analisi spaziale delle industrie litiche di Terragne, in GORGOGLIONE et al. 1995, 73-85.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Di Lernia",
+     "given": "S."
+    }
+   ],
+   "type": "chapter",
+   "title": "Analisi spaziale delle industrie litiche di Terragne",
+   "pages": "73-85",
+   "language": "ita",
+   "confidence": "high",
+   "position": 15,
+   "xref": 10,
+   "is_part_of": [
+    "L'insediamento preistorico di Terragne (Manduria, Taranto). Nuovi dati sul processo di neolitizzazione nel sud est italiano"
+   ],
+   "editors": [
+    {
+     "family": "Gorgoglione",
+     "given": "M.A."
+    },
+    {
+     "family": "Di Lernia",
+     "given": "S."
+    },
+    {
+     "family": "Fiorentino",
+     "given": "G."
+    }
+   ],
+   "place": "Manduria",
+   "publisher": "CRSEC"
+  },
+  {
+   "raw": "DI LERNIA S., FIORENTINO G. 1995, Analisi del deposito archeologico: il caso della ceramica, in GORGOGLIONE et al. 1995, 45-72.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Di Lernia",
+     "given": "S."
+    },
+    {
+     "family": "Fiorentino",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Analisi del deposito archeologico: il caso della ceramica",
+   "pages": "45-72",
+   "language": "ita",
+   "confidence": "high",
+   "position": 16,
+   "xref": 10,
+   "is_part_of": [
+    "L'insediamento preistorico di Terragne (Manduria, Taranto). Nuovi dati sul processo di neolitizzazione nel sud est italiano"
+   ],
+   "editors": [
+    {
+     "family": "Gorgoglione",
+     "given": "M.A."
+    },
+    {
+     "family": "Di Lernia",
+     "given": "S."
+    },
+    {
+     "family": "Fiorentino",
+     "given": "G."
+    }
+   ],
+   "place": "Manduria",
+   "publisher": "CRSEC"
+  },
+  {
+   "raw": "DI LERNIA S., FIORENTINO G. c.s., Decoding an open-air archaeological deposit: the prehistoric settlement of Terragne (Manduria - Taranto, South Eastern Italy). Formation processes and spatial analysis, «Origini», 19 (in corso di stampa).",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Di Lernia",
+     "given": "S."
+    },
+    {
+     "family": "Fiorentino",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Decoding an open-air archaeological deposit: the prehistoric settlement of Terragne (Manduria - Taranto, South Eastern Italy). Formation processes and spatial analysis",
+   "is_part_of": [
+    "Origini"
+   ],
+   "cs": {
+    "status": "resolved",
+    "source": "https://iris.uniroma1.it/handle/11573/400844"
+   },
+   "language": "eng",
+   "confidence": "high",
+   "position": 17,
+   "volume": "19",
+   "notes": "cited \"c.s.\": published in Origini XIX (1995)"
+  },
+  {
+   "raw": "O'BRIEN M.J., LEWARCH D.E. (edd.) 1981, Plowzone Archaeology: Contributions to Theory and Technique, Vanderbilt University Publications in Archaeology, 27.",
+   "date": "1981",
+   "editors": [
+    {
+     "family": "O'brien",
+     "given": "M.J."
+    },
+    {
+     "family": "Lewarch",
+     "given": "D.E."
+    }
+   ],
+   "type": "book",
+   "title": "Plowzone Archaeology: Contributions to Theory and Technique",
+   "language": "eng",
+   "confidence": "high",
+   "position": 18,
+   "series": "Vanderbilt University Publications in Archaeology",
+   "series_number": "27"
+  },
+  {
+   "raw": "ORTON C.R., TYERS P.A. 1990, Statistical analysis of ceramic assemblages, «Archeologia e Calcolatori», 1, 81-110.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C.R."
+    },
+    {
+     "family": "Tyers",
+     "given": "P.A."
+    }
+   ],
+   "type": "article",
+   "title": "Statistical analysis of ceramic assemblages",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "81-110",
+   "volume": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 19
+  },
+  {
+   "raw": "SANESI G. 1977, Guida alla descrizione del suolo, Firenze, C.N.R.",
+   "date": "1977",
+   "creators": [
+    {
+     "family": "Sanesi",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Guida alla descrizione del suolo",
+   "place": "Firenze",
+   "publisher": "C.N.R",
+   "language": "ita",
+   "confidence": "high",
+   "position": 20
+  },
+  {
+   "raw": "SCHIFFER M.B. 1977, Toward a unified science of the cultural past, in S. SOUTH (ed.), Research Strategies in Historical Archaeology, New York, Academic Press, 13-50.",
+   "date": "1977",
+   "creators": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "type": "chapter",
+   "title": "Toward a unified science of the cultural past",
+   "editors": [
+    {
+     "family": "South",
+     "given": "S."
+    }
+   ],
+   "pages": "13-50",
+   "is_part_of": [
+    "Research Strategies in Historical Archaeology"
+   ],
+   "place": "New York",
+   "publisher": "Academic Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 21
+  },
+  {
+   "raw": "SPSS 5.0 1992, Statistical Package for Social Sciences.",
+   "type": "other",
+   "title": "SPSS 5.0. Statistical Package for Social Sciences",
+   "confidence": "low",
+   "notes": "software",
+   "position": 22,
+   "creators": [
+    {
+     "family": "SPSS",
+     "given": ""
+    }
+   ]
+  },
+  {
+   "raw": "VILLA P. 1982, Conjoinable pieces and site formation processes, «American Antiquity», 47, 276-290.",
+   "date": "1982",
+   "creators": [
+    {
+     "family": "Villa",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "Conjoinable pieces and site formation processes",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "pages": "276-290",
+   "volume": "47",
+   "language": "eng",
+   "confidence": "high",
+   "position": 23
+  },
+  {
+   "raw": "WHALLON R. 1984, Unconstrained clustering for the analysis of spatial distributions in archaeology, in J.H. HIETALA (ed.), Intrasite Spatial Analysis in Archaeology, Cambridge, Cambridge University Press, 245-277.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Whallon",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Unconstrained clustering for the analysis of spatial distributions in archaeology",
+   "editors": [
+    {
+     "family": "Hietala",
+     "given": "J.H."
+    }
+   ],
+   "pages": "245-277",
+   "is_part_of": [
+    "Intrasite Spatial Analysis in Archaeology"
+   ],
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 24
+  }
+ ]
+}

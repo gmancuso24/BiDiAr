@@ -1,0 +1,263 @@
+{
+ "citing_aec_id": 234,
+ "source_file": "data/journal/8/234.md",
+ "references": [
+  {
+   "raw": "WÜNSCH G., GUILLAMÓN C. 1987, Proposta teòrico-metodològica per a l'anàlisi de les interrelacions espacials dels elements arqueològics, Tesis de licenciatura, Univ. Autònoma de Barcelona.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Wünsch",
+     "given": "G."
+    },
+    {
+     "family": "Guillamón",
+     "given": "C."
+    }
+   ],
+   "type": "thesis",
+   "title": "Proposta teòrico-metodològica per a l'anàlisi de les interrelacions espacials dels elements arqueològics",
+   "publisher": "Univ. Autònoma de Barcelona",
+   "language": "cat",
+   "confidence": "high",
+   "position": 1,
+   "notes": "Tesis de licenciatura"
+  },
+  {
+   "raw": "WÜNSCH G. 1989a, Cuantificación en arqueología: el análisis de las interrelaciones espaciales de los elementos arqueológicos, «Revista de Arqueología», 95, 5-9.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Wünsch",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Cuantificación en arqueología: el análisis de las interrelaciones espaciales de los elementos arqueológicos",
+   "is_part_of": [
+    "Revista de Arqueología"
+   ],
+   "pages": "5-9",
+   "volume": "95",
+   "language": "spa",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "WÜNSCH G. 1989b, La organización interna de los asentamientos de comunidades cazadoras-recolectoras: el análisis de las interrelaciones espaciales de los elementos arqueológicos, «Trabajos de Prehistoria», 46, 13-33.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Wünsch",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "La organización interna de los asentamientos de comunidades cazadoras-recolectoras: el análisis de las interrelaciones espaciales de los elementos arqueológicos",
+   "is_part_of": [
+    "Trabajos de Prehistoria"
+   ],
+   "pages": "13-33",
+   "volume": "46",
+   "language": "spa",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "WÜNSCH G. 1991, Del estudio de la organización espacial al análisis de las interrelaciones espaciales de los elementos arqueológicos, in A. VILA (ed.), Arqueología, Madrid, CSIC, 195-208.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Wünsch",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Del estudio de la organización espacial al análisis de las interrelaciones espaciales de los elementos arqueológicos",
+   "editors": [
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "pages": "195-208",
+   "is_part_of": [
+    "Arqueología"
+   ],
+   "place": "Madrid",
+   "publisher": "CSIC",
+   "language": "spa",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "WÜNSCH G. 1991-92, La organización del espacio interno de los asentamientos de comunidades cazadoras-recolectoras: revisión crítica y alternativas, «Xama», 4-5, 161-218.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Wünsch",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "La organización del espacio interno de los asentamientos de comunidades cazadoras-recolectoras: revisión crítica y alternativas",
+   "is_part_of": [
+    "Xama"
+   ],
+   "pages": "161-218",
+   "issue": "4-5",
+   "language": "spa",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "WÜNSCH G. 1992a, Aproximación a las estrategias organizativas de las comunidades cazadoras-recolectoras, «Archidiskodon», 2, 1-36.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Wünsch",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Aproximación a las estrategias organizativas de las comunidades cazadoras-recolectoras",
+   "is_part_of": [
+    "Archidiskodon"
+   ],
+   "pages": "1-36",
+   "volume": "2",
+   "language": "spa",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "WÜNSCH G. 1992b, L'estudi de les associacions d'elements de combustió (AEC) en el marc de l'anàlisi de les interrelacions espacials dels elements arqueològics (ANITES): una reflexió teòrico-metodològica, Tesis doctoral, edición microfotográfica, Servei de Publicacions de la Univ. Autònoma de Barcelona.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Wünsch",
+     "given": "G."
+    }
+   ],
+   "type": "thesis",
+   "title": "L'estudi de les associacions d'elements de combustió (AEC) en el marc de l'anàlisi de les interrelacions espacials dels elements arqueològics (ANITES): una reflexió teòrico-metodològica",
+   "publisher": "Servei de Publicacions de la Univ. Autònoma de Barcelona",
+   "language": "cat",
+   "confidence": "high",
+   "position": 7,
+   "notes": "Tesis doctoral, edición microfotográfica"
+  },
+  {
+   "raw": "WÜNSCH G. 1994, Modifying the nearest-neigbour analysis for 3D, «Archaeological Computing Newsletter», 39, 9-15.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Wünsch",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Modifying the nearest-neigbour analysis for 3D",
+   "is_part_of": [
+    "Archaeological Computing Newsletter"
+   ],
+   "pages": "9-15",
+   "volume": "39",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "WÜNSCH G. 1995a, The spatial interrelationships analysis and its simple statistical tools, en J. HUGGETT, N. RYAN (eds.), Computer Applications and Quantitative Methods in Archaeology 1994, BAR International Series, 600, Oxford, 75-80.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Wünsch",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "The spatial interrelationships analysis and its simple statistical tools",
+   "editors": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    },
+    {
+     "family": "Ryan",
+     "given": "N."
+    }
+   ],
+   "pages": "75-80",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1994"
+   ],
+   "place": "Oxford",
+   "series": "BAR International Series",
+   "series_number": "600",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "WÜNSCH G. 1995b, De la articulación espacial del registro arqueológico a la gestión del espacio social: un ejemplo de aplicación del análisis de las interrelaciones espaciales (ANITES), en J. ESTÉVEZ, A. VILA (eds.), Encuentros en los conchales fueguinos, Treballs d'Etnoarqueologia, 1, Bellaterra, UAB-CSIC, 127-142.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Wünsch",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "De la articulación espacial del registro arqueológico a la gestión del espacio social: un ejemplo de aplicación del análisis de las interrelaciones espaciales (ANITES)",
+   "editors": [
+    {
+     "family": "Estévez",
+     "given": "J."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "pages": "127-142",
+   "is_part_of": [
+    "Encuentros en los conchales fueguinos, Treballs d'Etnoarqueologia, 1"
+   ],
+   "place": "Bellaterra",
+   "publisher": "UAB-CSIC",
+   "language": "spa",
+   "confidence": "high",
+   "position": 10,
+   "series": "Treballs d'Etnoarqueologia",
+   "series_number": "1"
+  },
+  {
+   "raw": "WÜNSCH G. 1996, Thinking about the spatial articulation of the archaeological record: the role of statistical techniques, en P. MOSCATI (ed.), III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995), «Archeologia e Calcolatori», 7, 327-335.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Wünsch",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Thinking about the spatial articulation of the archaeological record: the role of statistical techniques",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "pages": "327-335",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 11,
+   "volume": "7"
+  }
+ ]
+}

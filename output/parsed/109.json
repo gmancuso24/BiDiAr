@@ -1,0 +1,713 @@
+{
+ "citing_aec_id": 109,
+ "source_file": "data/journal/6/109.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ALLEN K.M.S., GREEN S.W., ZUBROW E.B.W. 1990, Interpreting space, in K.M.S. ALLEN, S.W. GREEN, E.B.W. ZUBROW (eds.), Interpreting Space: GIS and Archaeology, Londra, Taylor & Francis, 383-387.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "Interpreting space",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "pages": "383-387",
+   "notes": "place cited \"Londra\"",
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "AMBLER J.R. 1984, The use and abuse of predictive modelling in cultural resource management, «American Archeology», 4, 140-145.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ambler",
+     "given": "J.R."
+    }
+   ],
+   "date": "1984",
+   "title": "The use and abuse of predictive modelling in cultural resource management",
+   "is_part_of": [
+    "American Archeology"
+   ],
+   "volume": "4",
+   "pages": "140-145",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "CHADBURN A. 1989, Computerized county sites and monuments records in England: an overview of their structure, development and progress, in AA.VV., Quantitative Methods in Archaeology, B.A.R. International Series, Oxford.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Chadburn",
+     "given": "A."
+    }
+   ],
+   "date": "1989",
+   "title": "Computerized county sites and monuments records in England: an overview of their structure, development and progress",
+   "is_part_of": [
+    "Quantitative Methods in Archaeology"
+   ],
+   "series": "B.A.R. International Series",
+   "place": "Oxford",
+   "notes": "cited \"in AA.VV.\"",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "CLARKE K.C. 1986, Advances in Geographic Information System, «Computers, Environment and Urban Systems», 10/3, 75-184.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "K.C."
+    }
+   ],
+   "date": "1986",
+   "title": "Advances in Geographic Information System",
+   "is_part_of": [
+    "Computers, Environment and Urban Systems"
+   ],
+   "volume": "10",
+   "issue": "3",
+   "pages": "75-184",
+   "notes": "pages as cited (75-184; possibly 175-184)",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "CUCARZI M. 1990, Esplorazione geoarcheologica in aree urbane: i casi di Padova, Roma e Adrano, in Atti del Seminario “Geofisica per l’Archeologia” (Porano, 21-23 settembre 1988), Quaderni dell’Istituto delle Tecnologie Applicate ai Beni Culturali - CNR, 187-210.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cucarzi",
+     "given": "M."
+    }
+   ],
+   "date": "1990",
+   "title": "Esplorazione geoarcheologica in aree urbane: i casi di Padova, Roma e Adrano",
+   "is_part_of": [
+    "Atti del Seminario “Geofisica per l’Archeologia” (Porano, 21-23 settembre 1988)"
+   ],
+   "series": "Quaderni dell’Istituto delle Tecnologie Applicate ai Beni Culturali - CNR",
+   "pages": "187-210",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "CUCARZI M. 1992, The integrated geoarchaeological approach within the territory: the case of the Microregion, in S. BOKONYI (ed.), Cultural and Lanscape Changes in South-Est Hungary, Budapest, Archaeolingua, 13-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cucarzi",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bokonyi",
+     "given": "S."
+    }
+   ],
+   "date": "1992",
+   "title": "The integrated geoarchaeological approach within the territory: the case of the Microregion",
+   "is_part_of": [
+    "Cultural and Landscape Changes in South-East Hungary"
+   ],
+   "place": "Budapest",
+   "publisher": "Archaeolingua",
+   "pages": "13-40",
+   "notes": "\"Lanscape\" and \"South-Est\" corrected",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "CUCARZI M., GLAZUNOV V.V. c.s., Package for processing and interpretating magnetic field anomalies of multi-aged archaeological site of Endroed-124, in Proceedings of the Conference of East-European EGS (Grenoble, 25-28 aprile 1994), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cucarzi",
+     "given": "M."
+    },
+    {
+     "family": "Glazunov",
+     "given": "V.V."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Package for processing and interpretating magnetic field anomalies of multi-aged archaeological site of Endroed-124",
+   "is_part_of": [
+    "Proceedings of the Conference of East-European EGS (Grenoble, 25-28 aprile 1994)"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "EBERT J.I., KOHLER T.A. 1986, Bureau Land Management, Predictive Modelling Draft, Bureau of Land Manegement.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Ebert",
+     "given": "J.I."
+    },
+    {
+     "family": "Kohler",
+     "given": "T.A."
+    }
+   ],
+   "date": "1986",
+   "title": "Bureau Land Management, Predictive Modelling Draft",
+   "publisher": "Bureau of Land Management",
+   "notes": "\"Manegement\" corrected",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "GUILLOT D. c.s., The use of GIS for archaeological resource management in France, in Atti della Conferenza Internazionale “The Impact of Geographic Information Systems in Archaeology: a European Perspective” (Ravello, 1-2 ottobre 1993), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guillot",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stancic",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "The use of GIS for archaeological resource management in France",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems: A European Perspective"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "cs": {
+    "status": "resolved",
+    "source": "https://archaeologicalcomputing.lincei.it/node/2970"
+   },
+   "notes": "cited \"c.s.\" in the Ravello 1993 conference proceedings; published with co-author G. Leroy and subtitle \"the SCALA project, with a case study in Picardie\"; citation lists Guillot only",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "HARRIS T.M. 1985, GIS design for archaeological site information retrieval and predictive modelling, in “Professional archaeology in Sussex: the next five years”. Proceedings of a one day conference by Association of Field Archaeologists, Seaford, Sussex.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "T.M."
+    }
+   ],
+   "date": "1985",
+   "title": "GIS design for archaeological site information retrieval and predictive modelling",
+   "is_part_of": [
+    "Professional archaeology in Sussex: the next five years. Proceedings of a one day conference by Association of Field Archaeologists"
+   ],
+   "place": "Seaford, Sussex",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "HARRIS T.M. 1986, Geographical Information System design for archaeological site information retrieval, in S. LAFLIN (ed.), Computer Applications in Archaeology, University of Birmingham, Birmingham, 148-161.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "T.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Laflin",
+     "given": "S."
+    }
+   ],
+   "date": "1986",
+   "title": "Geographical Information System design for archaeological site information retrieval",
+   "is_part_of": [
+    "Computer Applications in Archaeology"
+   ],
+   "place": "Birmingham",
+   "publisher": "University of Birmingham",
+   "pages": "148-161",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "HARRIS T.M., LOCK G.R. 1990, The diffusion of a new technology: a perspective on the adoption of Geographic Information Systems within UK archaeology, in K.M.S. ALLEN, S.W. GREEN, E.B.W. ZUBROW (eds.), Interpreting Space: GIS and Archaeology, Londra, Taylor & Francis, 32-53.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "T.M."
+    },
+    {
+     "family": "Lock",
+     "given": "G.R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "The diffusion of a new technology: a perspective on the adoption of Geographic Information Systems within UK archaeology",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "pages": "32-53",
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "HART J.S., LEECH R.H. 1989, The Computerization of the National Archaeological Record: Progress and the Future for Online Access, B.A.R. International Series, Oxford, 78-96.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hart",
+     "given": "J.S."
+    },
+    {
+     "family": "Leech",
+     "given": "R.H."
+    }
+   ],
+   "date": "1989",
+   "title": "The Computerization of the National Archaeological Record: Progress and the Future for Online Access",
+   "series": "B.A.R. International Series",
+   "place": "Oxford",
+   "pages": "78-96",
+   "confidence": "low",
+   "notes": "containing volume not named in the citation",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "JANKOVICH B.D., PATTANTYUS A.M. 1990, Archaeological and geophysical survey of a multi-aged site Endroed-170, SE-Hungary. Preliminary report, «Prospezioni Archeologiche - Quaderni della Fondazione Ing. Carlo M. Lerici», 1/90, 123-132.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jankovich",
+     "given": "B.D."
+    },
+    {
+     "family": "Pattantyus",
+     "given": "A.M."
+    }
+   ],
+   "date": "1990",
+   "title": "Archaeological and geophysical survey of a multi-aged site Endroed-170, SE-Hungary. Preliminary report",
+   "is_part_of": [
+    "Prospezioni Archeologiche - Quaderni della Fondazione Ing. Carlo M. Lerici"
+   ],
+   "volume": "1/90",
+   "pages": "123-132",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "KVAMME K.L. 1987, An Overview of Geographic Information Systems for Archaeological Research and Data Management. Manuscript on file at the Arizona State Museum, Tucson, University of Arizona.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "date": "1987",
+   "title": "An Overview of Geographic Information Systems for Archaeological Research and Data Management",
+   "place": "Tucson",
+   "notes": "manuscript on file at the Arizona State Museum, University of Arizona",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "KVAMME K.L. 1989, Geographical information systems in regional archaeological research and data management, in M.B. SHIFFER (ed.), Advances in Archaeological Method and Theory, I, Tucson, Arizona University Press, 139-203.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "date": "1989",
+   "title": "Geographical information systems in regional archaeological research and data management",
+   "is_part_of": [
+    "Advances in Archaeological Method and Theory"
+   ],
+   "volume": "I",
+   "place": "Tucson",
+   "publisher": "Arizona University Press",
+   "pages": "139-203",
+   "notes": "editor cited \"SHIFFER\"",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "LERICI 1988, Relazione sulla esplorazione geoarcheologica nel Comune di Oppido Mamertina, R07/1988, Archivi della Soprintendenza Archeologica della Calabria.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Lerici",
+     "given": ""
+    }
+   ],
+   "date": "1988",
+   "title": "Relazione sulla esplorazione geoarcheologica nel Comune di Oppido Mamertina",
+   "publisher": "Archivi della Soprintendenza Archeologica della Calabria",
+   "notes": "institutional author; report R07/1988",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "LERICI 1992, Relazione sulla esplorazione geoarcheologica nel Comune di Oppido Mamertina, R12/92, Archivi della Soprintendenza Archeologica della Calabria.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Lerici",
+     "given": ""
+    }
+   ],
+   "date": "1992",
+   "title": "Relazione sulla esplorazione geoarcheologica nel Comune di Oppido Mamertina",
+   "publisher": "Archivi della Soprintendenza Archeologica della Calabria",
+   "notes": "institutional author; report R12/92",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "MARBLE D.F., PEUQUET D. (eds.) 1990, Introductory Readings in Geographic Information Systems, Londra, Taylor & Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Marble",
+     "given": "D.F."
+    },
+    {
+     "family": "Peuquet",
+     "given": "D."
+    }
+   ],
+   "date": "1990",
+   "title": "Introductory Readings in Geographic Information Systems",
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "MARQUARDT W.H., CRUMLEY C.L. 1987, Theoretical issues in the analysis of spatial patterning, in C.L. CRUMLEY, W.H. MARQUARDT (eds.), Regional Dynamics: Burgundian Landscapes in Historical Perspective, San Diego, Academic Press, 1-18.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Marquardt",
+     "given": "W.H."
+    },
+    {
+     "family": "Crumley",
+     "given": "C.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Crumley",
+     "given": "C.L."
+    },
+    {
+     "family": "Marquardt",
+     "given": "W.H."
+    }
+   ],
+   "date": "1987",
+   "title": "Theoretical issues in the analysis of spatial patterning",
+   "is_part_of": [
+    "Regional Dynamics: Burgundian Landscapes in Historical Perspective"
+   ],
+   "place": "San Diego",
+   "publisher": "Academic Press",
+   "pages": "1-18",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "PARKER S. 1985, Predictive modeling of site settlement systems using multivariate logistics, in C. CARR (ed.), For Concordance in Archaeological Analysis: Bridging Data Structure, Quantitative Techniques, and Theory, Kansas City, Westport Publisher, 173-207.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Parker",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Carr",
+     "given": "C."
+    }
+   ],
+   "date": "1985",
+   "title": "Predictive modeling of site settlement systems using multivariate logistics",
+   "is_part_of": [
+    "For Concordance in Archaeological Analysis: Bridging Data Structure, Quantitative Techniques, and Theory"
+   ],
+   "place": "Kansas City",
+   "publisher": "Westport Publisher",
+   "pages": "173-207",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "SAVAGE S.H. 1989, Projecting settlement patterns with Geopraphic Information Systems and the archaeological resource management system, in Interpreting Space: The Use of Geographic Information Systems in Archaeology, First Annual World Archaeological Congress, Baltimore.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Savage",
+     "given": "S.H."
+    }
+   ],
+   "date": "1989",
+   "title": "Projecting settlement patterns with Geographic Information Systems and the archaeological resource management system",
+   "is_part_of": [
+    "Interpreting Space: The Use of Geographic Information Systems in Archaeology, First Annual World Archaeological Congress"
+   ],
+   "place": "Baltimore",
+   "notes": "\"Geopraphic\" corrected",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "SAVAGE S.H. 1990, GIS in archaeological research, in K.M.S. ALLEN, S.W. GREEN, E.B.W. ZUBROW (eds.), Interpreting Space: GIS and Archaeology, Londra, Taylor & Francis, 22-32.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Savage",
+     "given": "S.H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "GIS in archaeological research",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "pages": "22-32",
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "WANSLEEBEN M. 1988, Applications of Geographical Information Systems in archaeological research, in S.P.Q. RAHTZ (ed.), Computer Applicatons and Quantitative Methods in Archaeology, B.A.R. International Series, 446, Oxford, 435-451.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wansleeben",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S.P.Q."
+    }
+   ],
+   "date": "1988",
+   "title": "Applications of Geographical Information Systems in archaeological research",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology"
+   ],
+   "series": "B.A.R. International Series",
+   "series_number": "446",
+   "place": "Oxford",
+   "pages": "435-451",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "WARREN R.E., OLIVER S.G., FERGUSON J.A., DRUHOT R.E. 1987, Predictive Model of Archaeological Site Location in the Western Shawnee National Forest, Illinois State Museum Society Quaternary Studies Program Technical Report 86, Springfield, Illinois.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Warren",
+     "given": "R.E."
+    },
+    {
+     "family": "Oliver",
+     "given": "S.G."
+    },
+    {
+     "family": "Ferguson",
+     "given": "J.A."
+    },
+    {
+     "family": "Druhot",
+     "given": "R.E."
+    }
+   ],
+   "date": "1987",
+   "title": "Predictive Model of Archaeological Site Location in the Western Shawnee National Forest",
+   "series": "Illinois State Museum Society Quaternary Studies Program Technical Report",
+   "series_number": "86",
+   "place": "Springfield, Illinois",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "WARREN R.E. 1988, Predictive modelling of archaeological site location: a case study in the Midwest, in Proceedings of the 53rd Annual Meeting of the Society for American Archaeology, April 1988, Phoenix, Arizona.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Warren",
+     "given": "R.E."
+    }
+   ],
+   "date": "1988",
+   "title": "Predictive modelling of archaeological site location: a case study in the Midwest",
+   "is_part_of": [
+    "Proceedings of the 53rd Annual Meeting of the Society for American Archaeology, April 1988"
+   ],
+   "place": "Phoenix, Arizona",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "WILLIAMS G.I., LIMP W.F., BRUER F.L. 1990, Using Geographic Information Systems and exploratory data analysis for archaeological site classification and analysis, in K.M.S. ALLEN, S.W. GREEN, E.B.W. ZUBROW (eds.), Interpreting Space: GIS and Archaeology, Londra, Taylor & Francis, 239-273.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Williams",
+     "given": "G.I."
+    },
+    {
+     "family": "Limp",
+     "given": "W.F."
+    },
+    {
+     "family": "Bruer",
+     "given": "F.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "Using Geographic Information Systems and exploratory data analysis for archaeological site classification and analysis",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "pages": "239-273",
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

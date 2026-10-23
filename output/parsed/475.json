@@ -1,0 +1,340 @@
+{
+ "citing_aec_id": 475,
+ "source_file": "data/journal/19/475.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "André P., Wilson M.L., Russell A., Smith D.A., Owens A., Schraefel M.C. 2007, Continuum: designing timelines for hierarchies, relationships and scale. Proceedings of the 20th Annual ACM Symposium on User Interface Software and Technology, Newport, Rhode Island, USA, 101-110.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "André",
+     "given": "P."
+    },
+    {
+     "family": "Wilson",
+     "given": "M.L."
+    },
+    {
+     "family": "Russell",
+     "given": "A."
+    },
+    {
+     "family": "Smith",
+     "given": "D.A."
+    },
+    {
+     "family": "Owens",
+     "given": "A."
+    },
+    {
+     "family": "Schraefel",
+     "given": "M.C."
+    }
+   ],
+   "date": "2007",
+   "title": "Continuum: designing timelines for hierarchies, relationships and scale",
+   "is_part_of": [
+    "Proceedings of the 20th Annual ACM Symposium on User Interface Software and Technology"
+   ],
+   "pages": "101-110",
+   "place": "Newport, Rhode Island, USA",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Black J. et al. (eds.) 2005, World History Atlas, London, Dorling Kindersley.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Black",
+     "given": "J."
+    }
+   ],
+   "date": "2005",
+   "title": "World History Atlas",
+   "publisher": "Dorling Kindersley",
+   "place": "London",
+   "language": "eng",
+   "notes": "et al.: only the first editor is cited",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Castleford J. 1992, Archaeology, GIS and the time dimension: an overview, in G. Lock, J. Moffet (eds.), Computer Applications and Quantitative Methods in Archaeology 1991, BAR International Series S577, Oxford, 95-106.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Castleford",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "date": "1992",
+   "title": "Archaeology, GIS and the time dimension: an overview",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1991"
+   ],
+   "series": "BAR International Series",
+   "series_number": "S577",
+   "pages": "95-106",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "editor cited as 'Moffet' (typo for Moffett)",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Chainey S., Ratcliffe J. 2005, GIS and Crime Mapping, Indianapolis, John Wiley Publishing.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chainey",
+     "given": "S."
+    },
+    {
+     "family": "Ratcliffe",
+     "given": "J."
+    }
+   ],
+   "date": "2005",
+   "title": "GIS and Crime Mapping",
+   "publisher": "John Wiley Publishing",
+   "place": "Indianapolis",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Christian D. 2005, Maps of Time: An Introduction to Big History, Berkeley, University of California Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Christian",
+     "given": "D."
+    }
+   ],
+   "date": "2005",
+   "title": "Maps of Time: An Introduction to Big History",
+   "publisher": "University of California Press",
+   "place": "Berkeley",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Drucker J., Nowviskie B. n.d., Temporal Modelling: Conceptualization and Visualization of Temporal Relations for Humanities Scholarship (http://www2.iath.virginia.edu/time/reports/infodesign.doc; accessed 14 August 2007).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Drucker",
+     "given": "J."
+    },
+    {
+     "family": "Nowviskie",
+     "given": "B."
+    }
+   ],
+   "title": "Temporal Modelling: Conceptualization and Visualization of Temporal Relations for Humanities Scholarship",
+   "uri": "http://www2.iath.virginia.edu/time/reports/infodesign.doc",
+   "language": "eng",
+   "notes": "n.d. in the citation (web document, accessed 14 August 2007)",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Drucker J., Nowviskie B. forthcoming, Temporal Modelling: Visualization of Temporal Relations for Humanities Scholarship – Part I: Literature Review and Conceptualization; Temporal Modelling: Visualizing Temporal Relations for Humanities Scholarship – Part II: Composition Tool Design, «Information Design Journal» (http://www2.iath.virginia.edu/time/reports/infovis1.doc; accessed 14 August 2007).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Drucker",
+     "given": "J."
+    },
+    {
+     "family": "Nowviskie",
+     "given": "B."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Temporal Modelling: Visualization of Temporal Relations for Humanities Scholarship – Part I: Literature Review and Conceptualization; Temporal Modelling: Visualizing Temporal Relations for Humanities Scholarship – Part II: Composition Tool Design",
+   "is_part_of": [
+    "Information Design Journal"
+   ],
+   "uri": "http://www2.iath.virginia.edu/time/reports/infovis1.doc",
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "one line cites two titles (Part I and Part II), recorded as one work as cited; searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Jensen M. 2003, Visualizing Complex Semantic Timelines (http://www.newsblip.com/tr/nbtr2003001.pdf; accessed 9 October 2008).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Jensen",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Visualizing Complex Semantic Timelines",
+   "uri": "http://www.newsblip.com/tr/nbtr2003001.pdf",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Johnson I. 1999, Mapping the Fourth Dimension: the TimeMap project, in L. Dingwall, S. Exon, V. Gaffney, S. Laflin, M. van Leusen (eds.), Archaeology in the Age of the Internet CAA97, BAR International Series 750, Oxford, 21.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Johnson",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "van Leusen",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Mapping the Fourth Dimension: the TimeMap project",
+   "is_part_of": [
+    "Archaeology in the Age of the Internet CAA97"
+   ],
+   "series": "BAR International Series",
+   "series_number": "750",
+   "pages": "21",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Langren G. 1992, Time in Geographic Information Systems, London, Taylor and Francis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Langran",
+     "given": "G."
+    }
+   ],
+   "date": "1992",
+   "title": "Time in Geographic Information Systems",
+   "publisher": "Taylor and Francis",
+   "place": "London",
+   "language": "eng",
+   "notes": "cited as 'Langren' (typo for Langran)",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Mostern R., Johnson I. 2008, From named place to naming event: Creating gazetteers for history, «International Journal of Geographical Information Science», 22, 10, 1091-1108.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mostern",
+     "given": "R."
+    },
+    {
+     "family": "Johnson",
+     "given": "I."
+    }
+   ],
+   "date": "2008",
+   "title": "From named place to naming event: Creating gazetteers for history",
+   "is_part_of": [
+    "International Journal of Geographical Information Science"
+   ],
+   "volume": "22",
+   "issue": "10",
+   "pages": "1091-1108",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Peuquet D.J. 1994, A conceptual framework for the representation of temporal dynamics in Geographic Information Systems, «Annals of the Association of American Geographers», 84, 3, 441-461.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peuquet",
+     "given": "D.J."
+    }
+   ],
+   "date": "1994",
+   "title": "A conceptual framework for the representation of temporal dynamics in Geographic Information Systems",
+   "is_part_of": [
+    "Annals of the Association of American Geographers"
+   ],
+   "volume": "84",
+   "issue": "3",
+   "pages": "441-461",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Strehlow T.G.H. 1978, Journey to Horseshoe Bend, Adelaide, Rigby.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Strehlow",
+     "given": "T.G.H."
+    }
+   ],
+   "date": "1978",
+   "title": "Journey to Horseshoe Bend",
+   "publisher": "Rigby",
+   "place": "Adelaide",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Vinson T. 2004, The distribution of social disadvantage in Victoria and New South Wales and the mediating role of social cohesion, Jesuit Social Services, Richmond, Victoria.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Vinson",
+     "given": "T."
+    }
+   ],
+   "date": "2004",
+   "title": "The distribution of social disadvantage in Victoria and New South Wales and the mediating role of social cohesion",
+   "publisher": "Jesuit Social Services",
+   "place": "Richmond, Victoria",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

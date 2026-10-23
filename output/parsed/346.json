@@ -1,0 +1,61 @@
+{
+ "citing_aec_id": 346,
+ "source_file": "data/journal/13/346.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AITKEN M.J. 1985, Thermoluminescence Dating, London, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Aitken",
+     "given": "M.J."
+    }
+   ],
+   "date": "1985",
+   "title": "Thermoluminescence Dating",
+   "publisher": "Academic Press",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "ORTON C. 1980, Mathematics in Archaeology, London, Collins.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "date": "1980",
+   "title": "Mathematics in Archaeology",
+   "publisher": "Collins",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "PRESCOTT J.R., HUTTON J.T. 1994, Cosmic ray contributions to dose rates for luminescence and ESR dating: Large depths and long-term time variations, «Radiation Measurements», 23, 497-500.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Prescott",
+     "given": "J.R."
+    },
+    {
+     "family": "Hutton",
+     "given": "J.T."
+    }
+   ],
+   "date": "1994",
+   "title": "Cosmic ray contributions to dose rates for luminescence and ESR dating: Large depths and long-term time variations",
+   "is_part_of": [
+    "Radiation Measurements"
+   ],
+   "volume": "23",
+   "pages": "497-500",
+   "language": "eng"
+  }
+ ]
+}

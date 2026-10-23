@@ -1,0 +1,1680 @@
+{
+ "citing_aec_id": 93,
+ "source_file": "data/journal/5/93.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV. 1960, Mostra dell'Etruria Padana e della Città di Spina, I, Catalogo, Bologna, Edizioni Alfa.",
+   "type": "book",
+   "date": "1960",
+   "title": "Mostra dell'Etruria Padana e della Città di Spina, Catalogo",
+   "place": "Bologna",
+   "publisher": "Edizioni Alfa",
+   "language": "ita",
+   "volume": "I",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "AA.VV. 1986, La città delle immagini. Religione e società nella Grecia Antica, Modena, Panini.",
+   "type": "book",
+   "date": "1986",
+   "title": "La città delle immagini. Religione e società nella Grecia Antica",
+   "place": "Modena",
+   "publisher": "Panini",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "ALDENDERFER M.S., BLASHFIELD R.K. 1984, Cluster Analysis, Beverly Hills, Sage.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Aldenderfer",
+     "given": "M.S."
+    },
+    {
+     "family": "Blashfield",
+     "given": "R.K."
+    }
+   ],
+   "date": "1984",
+   "title": "Cluster Analysis",
+   "place": "Beverly Hills",
+   "publisher": "Sage",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "ALFIERI N. 1979, Spina. Museo Archeologico Nazionale di Ferrara, Bologna, Calderini.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Alfieri",
+     "given": "N."
+    }
+   ],
+   "date": "1979",
+   "title": "Spina. Museo Archeologico Nazionale di Ferrara",
+   "place": "Bologna",
+   "publisher": "Calderini",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "ARIAS P.E. 1963, Storia della ceramica di età arcaica, classica ed ellenistica e delle pitture di età arcaica e classica, Enciclopedia Classica, vol. XI, tomo V, Torino, U.T.E.T., 489-516.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arias",
+     "given": "P.E."
+    }
+   ],
+   "date": "1963",
+   "title": "Storia della ceramica di età arcaica, classica ed ellenistica e delle pitture di età arcaica e classica",
+   "is_part_of": [
+    "Enciclopedia Classica"
+   ],
+   "pages": "489-516",
+   "language": "ita",
+   "volume": "XI",
+   "issue": "tomo V",
+   "place": "Torino",
+   "publisher": "U.T.E.T.",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "ARIAS P.E. 1978, Problemi passati ed attuali della ceramica greca. L'elaborazione elettronica dei dati emergenti dai vasi greci figurati, « Quaderni della Ricerca Scientifica - CNR », 112, II, 413-437.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arias",
+     "given": "P.E."
+    }
+   ],
+   "date": "1978",
+   "title": "Problemi passati ed attuali della ceramica greca. L'elaborazione elettronica dei dati emergenti dai vasi greci figurati",
+   "is_part_of": [
+    "Quaderni della Ricerca Scientifica - CNR"
+   ],
+   "volume": "112",
+   "pages": "413-437",
+   "language": "ita",
+   "issue": "II",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "ARIAS P.E., DI BARI V.C., RONZITTI ORSOLINI G. 1985, La ceramica attica a figure nere e rosse del Corpus Vasorum Antiquorum. L'analisi computerizzata dei dati, Contributi del Centro Linceo Interdisciplinare di scienze matematiche e loro applicazioni, 70, Roma, Accademia Nazionale dei Lincei.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Arias",
+     "given": "P.E."
+    },
+    {
+     "family": "Di Bari",
+     "given": "V.C."
+    },
+    {
+     "family": "Ronzitti Orsolini",
+     "given": "G."
+    }
+   ],
+   "date": "1985",
+   "title": "La ceramica attica a figure nere e rosse del Corpus Vasorum Antiquorum. L'analisi computerizzata dei dati",
+   "place": "Roma",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "language": "ita",
+   "series": "Contributi del Centro Linceo Interdisciplinare di scienze matematiche e loro applicazioni",
+   "series_number": "70",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "BAZANT J. 1981, Studies on the Use and Decoration of Athenian Vases, Praha, Academia Nakladatelství Ceskoslovenské Akademie Véd.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bazant",
+     "given": "J."
+    }
+   ],
+   "date": "1981",
+   "title": "Studies on the Use and Decoration of Athenian Vases",
+   "place": "Praha",
+   "publisher": "Academia Nakladatelství Ceskoslovenské Akademie Véd",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "BAZANT J. 1987, Les vases athéniens et les réformes démocratiques, in BÉRARD, BRON, POMARI 1987, 33-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bazant",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bérard",
+     "given": "C."
+    },
+    {
+     "family": "Bron",
+     "given": "C."
+    },
+    {
+     "family": "Pomari",
+     "given": "A."
+    }
+   ],
+   "date": "1987",
+   "title": "Les vases athéniens et les réformes démocratiques",
+   "is_part_of": [
+    "Images et société en Grèce ancienne. L'iconographie comme méthode d'analyse. Actes du Colloque International (Lausanne, 8-11 février 1984)"
+   ],
+   "pages": "33-40",
+   "language": "fre",
+   "xref": 13,
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "BENZÉCRI J.P. et al. 1973, L'Analyse des Données, Paris, Dunod.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Benzécri",
+     "given": "J.P."
+    }
+   ],
+   "date": "1973",
+   "title": "L'Analyse des Données",
+   "place": "Paris",
+   "publisher": "Dunod",
+   "language": "fre",
+   "notes": "et al. in citation",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "BÉRARD C. 1983a, Mythe et réalité. Pour une bonne lecture des vases grecs, « Desmos », 3, 7-12.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bérard",
+     "given": "C."
+    }
+   ],
+   "date": "1983",
+   "title": "Mythe et réalité. Pour une bonne lecture des vases grecs",
+   "is_part_of": [
+    "Desmos"
+   ],
+   "volume": "3",
+   "pages": "7-12",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "BÉRARD C. 1983b, Héros de tout poil. D'Héraklès imberbe à Tarzan barbu, in F. LISSARRAGUE, F. THELAMON (eds.), Image et Céramique Grecque. Actes du Colloque (Rouen, 25-26 novembre 1982), Rouen, Université de Rouen - C.N.R.S., 111-121.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bérard",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lissarrague",
+     "given": "F."
+    },
+    {
+     "family": "Thelamon",
+     "given": "F."
+    }
+   ],
+   "date": "1983",
+   "title": "Héros de tout poil. D'Héraklès imberbe à Tarzan barbu",
+   "is_part_of": [
+    "Image et Céramique Grecque. Actes du Colloque (Rouen, 25-26 novembre 1982)"
+   ],
+   "pages": "111-121",
+   "language": "fre",
+   "place": "Rouen",
+   "publisher": "Université de Rouen - C.N.R.S.",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "BÉRARD C., BRON C., POMARI A. (edd.) 1987, Images et société en Grèce ancienne. L'iconographie comme méthode d'analyse. Actes du Colloque International (Lausanne, 8-11 février 1984), C.A.R., 36, Université de Lausanne.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Bérard",
+     "given": "C."
+    },
+    {
+     "family": "Bron",
+     "given": "C."
+    },
+    {
+     "family": "Pomari",
+     "given": "A."
+    }
+   ],
+   "date": "1987",
+   "title": "Images et société en Grèce ancienne. L'iconographie comme méthode d'analyse. Actes du Colloque International (Lausanne, 8-11 février 1984)",
+   "series": "C.A.R.",
+   "series_number": "36",
+   "publisher": "Université de Lausanne",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "BÉRARD C., DURAND J.L. 1986, Entrare nel mondo delle immagini, in AA.VV. 1986, 19-32.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bérard",
+     "given": "C."
+    },
+    {
+     "family": "Durand",
+     "given": "J.L."
+    }
+   ],
+   "date": "1986",
+   "title": "Entrare nel mondo delle immagini",
+   "is_part_of": [
+    "La città delle immagini. Religione e società nella Grecia Antica"
+   ],
+   "pages": "19-32",
+   "language": "ita",
+   "xref": 2,
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "BERTI F. (ed.) 1991, Dionysos. Mito e mistero. Atti del Convegno Internazionale (Comacchio, 3-5 novembre 1989), Ferrara, Liberty House.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Berti",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Dionysos. Mito e mistero. Atti del Convegno Internazionale (Comacchio, 3-5 novembre 1989)",
+   "place": "Ferrara",
+   "publisher": "Liberty House",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "BERTI F., GASPARRI C. (edd.) 1989, Dionysos. Mito e mistero, Bologna, Nuova Alfa.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Berti",
+     "given": "F."
+    },
+    {
+     "family": "Gasparri",
+     "given": "C."
+    }
+   ],
+   "date": "1989",
+   "title": "Dionysos. Mito e mistero",
+   "place": "Bologna",
+   "publisher": "Nuova Alfa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "BERTI F., GUZZO P.G. (edd.) 1993, Spina. Storia di una città tra Greci ed Etruschi, Ferrara, Comitato Ferrara Arte.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Berti",
+     "given": "F."
+    },
+    {
+     "family": "Guzzo",
+     "given": "P.G."
+    }
+   ],
+   "date": "1993",
+   "title": "Spina. Storia di una città tra Greci ed Etruschi",
+   "place": "Ferrara",
+   "publisher": "Comitato Ferrara Arte",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "BOARDMAN J. 1979, The Athenian Pottery Trade. The Classical Period, « Expedition », 33-39.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Boardman",
+     "given": "J."
+    }
+   ],
+   "date": "1979",
+   "title": "The Athenian Pottery Trade. The Classical Period",
+   "is_part_of": [
+    "Expedition"
+   ],
+   "pages": "33-39",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "BOARDMAN J. 1993, LIMC, in Proceedings of International Con/erence on \"Data and Image Processing in Classical Archaeology \" (Ravello, 3-4 aprile 1992), « Archeologia e Calcolatori », 4, 251-252.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Boardman",
+     "given": "J."
+    }
+   ],
+   "date": "1993",
+   "title": "LIMC",
+   "is_part_of": [
+    "Proceedings of International Conference on \"Data and Image Processing in Classical Archaeology\" (Ravello, 3-4 aprile 1992)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "251-252",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "BRON C., RoGGER A., VIRET BERNAL F. c.s., Iconographie et intelligence artificielle: du signe au sens; compréhension et interprétation d'image, in Actes du Colloque Européen \"Archéologie et Informatique\" Saint-Germain-en-Laye, (21-24 novembre 1991).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bron",
+     "given": "C."
+    },
+    {
+     "family": "Rogger",
+     "given": "A."
+    },
+    {
+     "family": "Viret Bernal",
+     "given": "F."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Iconographie et intelligence artificielle: du signe au sens; compréhension et interprétation d'image",
+   "is_part_of": [
+    "Actes du Colloque Européen \"Archéologie et Informatique\" Saint-Germain-en-Laye, (21-24 novembre 1991)"
+   ],
+   "language": "fre",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "CHRISTENSON A., READ D. 1977, Numerical taxonomy, r-mode factor analysis, and archaeological classification, « American Antiquity », 42, 163-179.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Christenson",
+     "given": "A."
+    },
+    {
+     "family": "Read",
+     "given": "D."
+    }
+   ],
+   "date": "1977",
+   "title": "Numerical taxonomy, r-mode factor analysis, and archaeological classification",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "42",
+   "pages": "163-179",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "CLARK G.A. 1982, Quantifying archaeological research, in M.B. SCHIFFER (ed.), Advances in Archaeological Method and Theory, vol. 5, New York, Academic Press, 217-273.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Clark",
+     "given": "G.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "date": "1982",
+   "title": "Quantifying archaeological research",
+   "is_part_of": [
+    "Advances in Archaeological Method and Theory"
+   ],
+   "pages": "217-273",
+   "language": "eng",
+   "volume": "5",
+   "place": "New York",
+   "publisher": "Academic Press",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "CORTI L. 1992, Beni Culturali: standards di rappresentazione, descrizione e vocabolario, Modena, Franco Cosimo Panini.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Corti",
+     "given": "L."
+    }
+   ],
+   "date": "1992",
+   "title": "Beni Culturali: standards di rappresentazione, descrizione e vocabolario",
+   "place": "Modena",
+   "publisher": "Franco Cosimo Panini",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "DALLAS C.J. c.s., Un modèle sémantique pour la description iconographique, in Actes du Colloque Européen \"Archéologie et Informatique\" (Saint-Germain-en-Laye, 21-24 novembre 1991).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C.J."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Un modèle sémantique pour la description iconographique",
+   "is_part_of": [
+    "Actes du Colloque Européen \"Archéologie et Informatique\" (Saint-Germain-en-Laye, 21-24 novembre 1991)"
+   ],
+   "language": "fre",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "DAY W.H.E. c.s., Alignment comparison and consensus of molecular sequences, in Proceedings of the 4th Conference of the International Federation of Classification Societies, Parigi, 31 Agosto- 4Settembre 1993.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Day",
+     "given": "W.H.E."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Alignment comparison and consensus of molecular sequences",
+   "is_part_of": [
+    "Proceedings of the 4th Conference of the International Federation of Classification Societies, Parigi, 31 Agosto-4 Settembre 1993"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "DENOYELLE M. 1993, Base de données JUPITER du Département des Antiquités grecques, étrusques et romaines du Musée du Louvre: les applications à la céramique grecque, in Proceedings of International Conference on \"Data and Image Processing in Classical Archaeology \" (Ravello, 3-4 aprile 1992), « Archeologia e Calcolatori », 4, 221-229.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Denoyelle",
+     "given": "M."
+    }
+   ],
+   "date": "1993",
+   "title": "Base de données JUPITER du Département des Antiquités grecques, étrusques et romaines du Musée du Louvre: les applications à la céramique grecque",
+   "is_part_of": [
+    "Proceedings of International Conference on \"Data and Image Processing in Classical Archaeology\" (Ravello, 3-4 aprile 1992)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "221-229",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "DORAN J.E. 1966, A digital computer analysis of palaeolithic /lint assemblages, «Nature », 210, 688-689.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "date": "1966",
+   "title": "A digital computer analysis of palaeolithic flint assemblages",
+   "is_part_of": [
+    "Nature"
+   ],
+   "volume": "210",
+   "pages": "688-689",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "FISHER R.A. 1940, The precision of discriminant functions, « Annuals of Eugenics », 10, 422-429.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fisher",
+     "given": "R.A."
+    }
+   ],
+   "date": "1940",
+   "title": "The precision of discriminant functions",
+   "is_part_of": [
+    "Annuals of Eugenics"
+   ],
+   "volume": "10",
+   "pages": "422-429",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "FRONTISI-DUCROUX F. 1988, Figures de l'invisible, stratégies textuelles et stratégies iconiques, Atti del Colloquio Internazionale di Capri, « Annali del Dipartimento di Studi del Mondo Classico e del Mediterraneo Antico. Archeologia e Storia Antica », 27-40.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frontisi-Ducroux",
+     "given": "F."
+    }
+   ],
+   "date": "1988",
+   "title": "Figures de l'invisible, stratégies textuelles et stratégies iconiques",
+   "is_part_of": [
+    "Atti del Colloquio Internazionale di Capri",
+    "Annali del Dipartimento di Studi del Mondo Classico e del Mediterraneo Antico. Archeologia e Storia Antica"
+   ],
+   "pages": "27-40",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "GARNIER F. 1984, Système descriptif des représentations: thésaurus iconographique, Paris, Le léopard d'or.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Garnier",
+     "given": "F."
+    }
+   ],
+   "date": "1984",
+   "title": "Système descriptif des représentations: thésaurus iconographique",
+   "place": "Paris",
+   "publisher": "Le léopard d'or",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "GASPARRI C. 1986, Dionysos, in Lexicon Iconographicum Mythologiae Classicae, III, 1, 420-566.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gasparri",
+     "given": "C."
+    }
+   ],
+   "date": "1986",
+   "title": "Dionysos",
+   "is_part_of": [
+    "Lexicon Iconographicum Mythologiae Classicae"
+   ],
+   "pages": "420-566",
+   "language": "ita",
+   "volume": "III",
+   "issue": "1",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "GINOUVÈS R., GUIMIER-SORBETS A.M. 1978, La constitution des données en archéologie classique, Paris, Editions du C.N.R.S.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.M."
+    }
+   ],
+   "date": "1978",
+   "title": "La constitution des données en archéologie classique",
+   "place": "Paris",
+   "publisher": "Editions du C.N.R.S.",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "GIUDICE F. 1993, Le rotte commerciali dei vasi attici dal VI al IV sec. a.C. Analisi quantitativa e qualitativa, « Archeologia e Calcolatori », 4, 181-196.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Giudice",
+     "given": "F."
+    }
+   ],
+   "date": "1993",
+   "title": "Le rotte commerciali dei vasi attici dal VI al IV sec. a.C. Analisi quantitativa e qualitativa",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "181-196",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "GORDON A.D. 1981, Classification, New York, Chapman and Hall.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gordon",
+     "given": "A.D."
+    }
+   ],
+   "date": "1981",
+   "title": "Classification",
+   "place": "New York",
+   "publisher": "Chapman and Hall",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "GOWER J. C. 1971, A general coefficient of similarity and some of its properties, « Biometrics », 27, 858-872.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gower",
+     "given": "J.C."
+    }
+   ],
+   "date": "1971",
+   "title": "A general coefficient of similarity and some of its properties",
+   "is_part_of": [
+    "Biometrics"
+   ],
+   "volume": "27",
+   "pages": "858-872",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "GREENACRE M.J. 1993, Correspondence Analysis in Practice, London, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Greenacre",
+     "given": "M.J."
+    }
+   ],
+   "date": "1993",
+   "title": "Correspondence Analysis in Practice",
+   "place": "London",
+   "publisher": "Academic Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "GUERMANDI M.P. c.s., La qualità e la quantità: l'informatica nel trattamento dell'informazione iconografica. L'esempio del progetto Spina, in Atti del VII Congresso Internazionale di \"History and Computing \" (Bologna, 29 agosto- 1 settembre 1992).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "c.s.",
+   "title": "La qualità e la quantità: l'informatica nel trattamento dell'informazione iconografica. L'esempio del progetto Spina",
+   "is_part_of": [
+    "Atti del VII Congresso Internazionale di \"History and Computing\" (Bologna, 29 agosto-1 settembre 1992)"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: proceedings likely published (Bocchi, Denley eds., Storia & Multimedia, 1994) but the paper was not confirmed",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "GUERMANDI M.P., QUARTILI L., SANTORO BIANCHI S., MINGUCCI R. 1992, Le sperimentazioni sulla ceramica dell'Istituto di Archeologia dell'Università di Bologna, « Archeologia e Calcolatori », 3, 77-99.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    },
+    {
+     "family": "Quartili",
+     "given": "L."
+    },
+    {
+     "family": "Santoro Bianchi",
+     "given": "S."
+    },
+    {
+     "family": "Mingucci",
+     "given": "R."
+    }
+   ],
+   "date": "1992",
+   "title": "Le sperimentazioni sulla ceramica dell'Istituto di Archeologia dell'Università di Bologna",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "3",
+   "pages": "77-99",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "GUIMIER-SORBETS A.M. 1992, La banque de données sur la mosaique grecque des origines à la fin de l'époque hellénistique - Data bank for Greek mosaics, from the origins to the end of the hellenistic period, in F. DJINDJIAN, H. DUCASSE (eds.), Data Processing and Mathematics Applied to Archaeology - Mathématiques et Informatique appliquées à l'archéologie, « PACT », 16, 1987, 110-133.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Ducasse",
+     "given": "H."
+    }
+   ],
+   "date": "1992",
+   "title": "La banque de données sur la mosaique grecque des origines à la fin de l'époque hellénistique - Data bank for Greek mosaics, from the origins to the end of the hellenistic period",
+   "is_part_of": [
+    "Data Processing and Mathematics Applied to Archaeology - Mathématiques et Informatique appliquées à l'archéologie",
+    "PACT"
+   ],
+   "pages": "110-133",
+   "language": "fre",
+   "volume": "16",
+   "notes": "\"1987\" in citation is the volume year of PACT 16",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "HILL M.O. 1974, Correspondence analysis: a neglected multivariate method, « Applied statistics », 23, 340-354.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hill",
+     "given": "M.O."
+    }
+   ],
+   "date": "1974",
+   "title": "Correspondence analysis: a neglected multivariate method",
+   "is_part_of": [
+    "Applied statistics"
+   ],
+   "volume": "23",
+   "pages": "340-354",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "HOOSON F.R., SNEATH P.H., DORAN J.E. 1966, Some experiments in the numerical analysis of archaeological data, « Biometrika », 53, 311-324.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    },
+    {
+     "family": "Sneath",
+     "given": "P.H."
+    },
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "date": "1966",
+   "title": "Some experiments in the numerical analysis of archaeological data",
+   "is_part_of": [
+    "Biometrika"
+   ],
+   "volume": "53",
+   "pages": "311-324",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "first author cited as \"HOOSON\", read as Hodson (OCR)"
+  },
+  {
+   "position": 42,
+   "raw": "ISLER-KERÉNYI C. 1991, Dionysos: dio delle donne? Iconografia dionisiaca II, in F. BERTI (ed.), Dionysos. Mito e mistero. Atti del Convegno Internazionale (Comacchio, 3-5 novembre 1989), Ferrara, Liberty House, 293-307.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Isler-Kerényi",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Berti",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Dionysos: dio delle donne? Iconografia dionisiaca II",
+   "is_part_of": [
+    "Dionysos. Mito e mistero. Atti del Convegno Internazionale (Comacchio, 3-5 novembre 1989)"
+   ],
+   "pages": "293-307",
+   "language": "ita",
+   "place": "Ferrara",
+   "publisher": "Liberty House",
+   "xref": 15,
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "KENDALL D.G. 1971, A mathematical approach to seriation, « Philosophical Transactions of the Royal Society of London », A 269, 125-135.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kendall",
+     "given": "D.G."
+    }
+   ],
+   "date": "1971",
+   "title": "A mathematical approach to seriation",
+   "is_part_of": [
+    "Philosophical Transactions of the Royal Society of London"
+   ],
+   "volume": "A 269",
+   "pages": "125-135",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "KRUSKAL J.B. 1964, Nonmetric multidimensional scaling: a numerical method, « Psychometrika », 29, 115-129.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kruskal",
+     "given": "J.B."
+    }
+   ],
+   "date": "1964",
+   "title": "Nonmetric multidimensional scaling: a numerical method",
+   "is_part_of": [
+    "Psychometrika"
+   ],
+   "volume": "29",
+   "pages": "115-129",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "KRUSKAL J.B. 1983, An overview of sequence comparison: time warps, string edits and macromolecules, « Siam Review », 25, 201-237.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kruskal",
+     "given": "J.B."
+    }
+   ],
+   "date": "1983",
+   "title": "An overview of sequence comparison: time warps, string edits and macromolecules",
+   "is_part_of": [
+    "Siam Review"
+   ],
+   "volume": "25",
+   "pages": "201-237",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "KRZANOWSKI W.J. 1988, Principles of Multivariate Analysis, Oxford, Oxford Science Publications.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Krzanowski",
+     "given": "W.J."
+    }
+   ],
+   "date": "1988",
+   "title": "Principles of Multivariate Analysis",
+   "place": "Oxford",
+   "publisher": "Oxford Science Publications",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "KURTZ D.C. 1990, The Beazley Archive and its database of ancient Greek pottery, « B.R.I.S.E.S. », 15, 81-85.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kurtz",
+     "given": "D.C."
+    }
+   ],
+   "date": "1990",
+   "title": "The Beazley Archive and its database of ancient Greek pottery",
+   "is_part_of": [
+    "B.R.I.S.E.S."
+   ],
+   "volume": "15",
+   "pages": "81-85",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "KURTZ D.C. 1993, The Beazley Archive database, in Proceedings of International Conference on \"Data and Image Processing in Classical Archaeology \" (Ravello, 3-4 aprile 1992), « Archeologia e Calcolatori », 4, 263-264.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kurtz",
+     "given": "D.C."
+    }
+   ],
+   "date": "1993",
+   "title": "The Beazley Archive database",
+   "is_part_of": [
+    "Proceedings of International Conference on \"Data and Image Processing in Classical Archaeology\" (Ravello, 3-4 aprile 1992)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "263-264",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "LAFON P. 1980, Sur la variabilité de la fréquence des formes dans un corpus, « Mots », 1, 127-165.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lafon",
+     "given": "P."
+    }
+   ],
+   "date": "1980",
+   "title": "Sur la variabilité de la fréquence des formes dans un corpus",
+   "is_part_of": [
+    "Mots"
+   ],
+   "volume": "1",
+   "pages": "127-165",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "LAGRANGE M. S., RENAUD M. 1983, L'interprétation des documents figurés en archéologie et histoire de l'art: essai de simulation sur ordinateur, in F. LISSARRAGUE, F. THELAMON (eds.), Image et Céramique Grecque. Actes du Colloque (Rouen, 25-26 novembre 1982), Rouen, Université de Rouen - C.N.R.S., 43-66.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lagrange",
+     "given": "M.S."
+    },
+    {
+     "family": "Renaud",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lissarrague",
+     "given": "F."
+    },
+    {
+     "family": "Thelamon",
+     "given": "F."
+    }
+   ],
+   "date": "1983",
+   "title": "L'interprétation des documents figurés en archéologie et histoire de l'art: essai de simulation sur ordinateur",
+   "is_part_of": [
+    "Image et Céramique Grecque. Actes du Colloque (Rouen, 25-26 novembre 1982)"
+   ],
+   "pages": "43-66",
+   "language": "fre",
+   "place": "Rouen",
+   "publisher": "Université de Rouen - C.N.R.S.",
+   "confidence": "high"
+  },
+  {
+   "position": 51,
+   "raw": "LEBART L., SALEM A. 1988, Analyse statistique des données textuelles, Paris, Dunod.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lebart",
+     "given": "L."
+    },
+    {
+     "family": "Salem",
+     "given": "A."
+    }
+   ],
+   "date": "1988",
+   "title": "Analyse statistique des données textuelles",
+   "place": "Paris",
+   "publisher": "Dunod",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "LETI G. 1979, Distanze e indici statistici, Roma, La Goliardica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Leti",
+     "given": "G."
+    }
+   ],
+   "date": "1979",
+   "title": "Distanze e indici statistici",
+   "place": "Roma",
+   "publisher": "La Goliardica",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 53,
+   "raw": "MADSEN T. 1990, The use of multivariate statistics in scandinavian archaeology, in H.H. BOCK, I. HM (eds.), Classification, Data Analysis, and Knowledge Organization. Models and Methods with Applications, Proceedings of the 14th Annual Conference of the Gesellschaft fur Klassifikation e. V. , Marburg, March 12-14, Marburg.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Madsen",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bock",
+     "given": "H.H."
+    },
+    {
+     "family": "Hm",
+     "given": "I."
+    }
+   ],
+   "date": "1990",
+   "title": "The use of multivariate statistics in scandinavian archaeology",
+   "is_part_of": [
+    "Classification, Data Analysis, and Knowledge Organization. Models and Methods with Applications, Proceedings of the 14th Annual Conference of the Gesellschaft fur Klassifikation e. V., Marburg, March 12-14"
+   ],
+   "language": "eng",
+   "place": "Marburg",
+   "confidence": "low",
+   "notes": "second editor \"I. HM\": probably OCR of Ihm; kept as cited"
+  },
+  {
+   "position": 54,
+   "raw": "McLACHLAN G.J. 1992, Discriminant Analysis and Statistical Pattern Recognition, New York, John Wiley & Sons.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "McLachlan",
+     "given": "G.J."
+    }
+   ],
+   "date": "1992",
+   "title": "Discriminant Analysis and Statistical Pattern Recognition",
+   "place": "New York",
+   "publisher": "John Wiley & Sons",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 55,
+   "raw": "METZGER H. 1953, Les représentations dans la céramique attique du IV siècle, Paris.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Metzger",
+     "given": "H."
+    }
+   ],
+   "date": "1953",
+   "title": "Les représentations dans la céramique attique du IV siècle",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 56,
+   "raw": "MIGNANI S., MONTANARI A. 1993, Iconography and shapes of attic vases in Etrurian sites: a quantitative approach to the study of style preferences, poster presentato alla \"4th Conference of the International Federation of Classification Societies\", Parigi, 31 Agosto-4 Settembre 1993.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Mignani",
+     "given": "S."
+    },
+    {
+     "family": "Montanari",
+     "given": "A."
+    }
+   ],
+   "date": "1993",
+   "title": "Iconography and shapes of attic vases in Etrurian sites: a quantitative approach to the study of style preferences",
+   "is_part_of": [
+    "4th Conference of the International Federation of Classification Societies, Parigi, 31 Agosto-4 Settembre 1993"
+   ],
+   "language": "eng",
+   "notes": "poster",
+   "confidence": "high"
+  },
+  {
+   "position": 57,
+   "raw": "MOSCATI P. 1984, Ricerche matematico-statistiche sugli specchi etruschi, Contributi del Centro Linceo Interdisciplinare di scienze matematiche e loro applicazioni, 66, Roma, Accademia Nazionale dei Lincei.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1984",
+   "title": "Ricerche matematico-statistiche sugli specchi etruschi",
+   "place": "Roma",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "language": "ita",
+   "series": "Contributi del Centro Linceo Interdisciplinare di scienze matematiche e loro applicazioni",
+   "series_number": "66",
+   "confidence": "high"
+  },
+  {
+   "position": 58,
+   "raw": "MOSCATI P. 1986, Analisi statistiche multivariate sugli specchi etruschi, Contributi del Centro Linceo Interdisciplinare di scienze matematiche e loro applicazioni, 74, Roma, Accademia Nazionale dei Lincei.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1986",
+   "title": "Analisi statistiche multivariate sugli specchi etruschi",
+   "place": "Roma",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "language": "ita",
+   "series": "Contributi del Centro Linceo Interdisciplinare di scienze matematiche e loro applicazioni",
+   "series_number": "74",
+   "notes": "citation split over three lines, joined",
+   "confidence": "high"
+  },
+  {
+   "position": 59,
+   "raw": "ORLANDI T. 1993, Sulla codifica delle fonti archeologiche, « Archeologia e Calcolatori », 4, 27-38.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "1993",
+   "title": "Sulla codifica delle fonti archeologiche",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "27-38",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 60,
+   "raw": "PARMEGGIANI G. 1985, Ceramica attica da mensa, in AA.VV., Civiltà degli Etruschi, Firenze, Regione Toscana - Electa, 189-190.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Parmeggiani",
+     "given": "G."
+    }
+   ],
+   "date": "1985",
+   "title": "Ceramica attica da mensa",
+   "is_part_of": [
+    "Civiltà degli Etruschi"
+   ],
+   "pages": "189-190",
+   "language": "ita",
+   "place": "Firenze",
+   "publisher": "Regione Toscana - Electa",
+   "notes": "cited \"in AA.VV.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 61,
+   "raw": "RIZZI A. 1985, Analisi dei dati, Roma, La Nuova Italia Scientifica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rizzi",
+     "given": "A."
+    }
+   ],
+   "date": "1985",
+   "title": "Analisi dei dati",
+   "place": "Roma",
+   "publisher": "La Nuova Italia Scientifica",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 62,
+   "raw": "RIZZI A. 1992, Orientamenti attuali della statistica linguistica, «Statistica », 4, 487-505.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rizzi",
+     "given": "A."
+    }
+   ],
+   "date": "1992",
+   "title": "Orientamenti attuali della statistica linguistica",
+   "is_part_of": [
+    "Statistica"
+   ],
+   "volume": "4",
+   "pages": "487-505",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 63,
+   "raw": "ROSATI R. 1987, La catalogazione elettronica della ceramica attica su base regionale, in F. D'ANDRIA (ed.), Informatica e Archeologia Classica. Atti del Convegno Internazionale (Lecce, 12-13 maggio 1986), Galatina, Congedo Editore, 263-276.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rosati",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "date": "1987",
+   "title": "La catalogazione elettronica della ceramica attica su base regionale",
+   "is_part_of": [
+    "Informatica e Archeologia Classica. Atti del Convegno Internazionale (Lecce, 12-13 maggio 1986)"
+   ],
+   "pages": "263-276",
+   "language": "ita",
+   "place": "Galatina",
+   "publisher": "Congedo Editore",
+   "confidence": "high"
+  },
+  {
+   "position": 64,
+   "raw": "ROSATI R. (ed.) 1989, La ceramica attica nel Mediterraneo. Analisi computerizzata della diffusione. Le fasi iniziali (630-560 a.C.), Bologna, C.L.U.E.B.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Rosati",
+     "given": "R."
+    }
+   ],
+   "date": "1989",
+   "title": "La ceramica attica nel Mediterraneo. Analisi computerizzata della diffusione. Le fasi iniziali (630-560 a.C.)",
+   "place": "Bologna",
+   "publisher": "C.L.U.E.B.",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 65,
+   "raw": "SALOMÉ M.R. 1980, Code pour l'analyse des représentations figurées sur les vases grecs, Paris, C.N.R.S.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Salomé",
+     "given": "M.R."
+    }
+   ],
+   "date": "1980",
+   "title": "Code pour l'analyse des représentations figurées sur les vases grecs",
+   "place": "Paris",
+   "publisher": "C.N.R.S.",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 66,
+   "raw": "SANTORO BIANCHI (ed.) 1994, Castel Raimondo. Scavi 1988-90. II. I materiali, Roma, L'Erma di Bretschneider.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Santoro Bianchi",
+     "given": ""
+    }
+   ],
+   "date": "1994",
+   "title": "Castel Raimondo. Scavi 1988-90. II. I materiali",
+   "place": "Roma",
+   "publisher": "L'Erma di Bretschneider",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 67,
+   "raw": "SCARDOVI I. 1980, Appunti di statistica , Bologna, Patron.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Scardovi",
+     "given": "I."
+    }
+   ],
+   "date": "1980",
+   "title": "Appunti di statistica",
+   "place": "Bologna",
+   "publisher": "Patron",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 68,
+   "raw": "SCHMITT-PANTEL P., THELAMON F. 1983, Image et histoire: illustration ou document, in F. LISSARRAGUE, F. THELAMON (eds.), Image et Céramique Grecque. Actes du Colloque (Rouen, 25-26 novembre 1982), Rouen, Université de Rouen, 9-20.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Schmitt-Pantel",
+     "given": "P."
+    },
+    {
+     "family": "Thelamon",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lissarrague",
+     "given": "F."
+    },
+    {
+     "family": "Thelamon",
+     "given": "F."
+    }
+   ],
+   "date": "1983",
+   "title": "Image et histoire: illustration ou document",
+   "is_part_of": [
+    "Image et Céramique Grecque. Actes du Colloque (Rouen, 25-26 novembre 1982)"
+   ],
+   "pages": "9-20",
+   "language": "fre",
+   "place": "Rouen",
+   "publisher": "Université de Rouen",
+   "confidence": "high"
+  },
+  {
+   "position": 69,
+   "raw": "SCHNAPP A. 1988, Why did the Greeks need Images?, in Proceedings of the 3rd Symposium on Ancient Greek and Related Pottery (Copenhagen 1987), Copenhagen, 568-574.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Schnapp",
+     "given": "A."
+    }
+   ],
+   "date": "1988",
+   "title": "Why did the Greeks need Images?",
+   "is_part_of": [
+    "Proceedings of the 3rd Symposium on Ancient Greek and Related Pottery (Copenhagen 1987)"
+   ],
+   "pages": "568-574",
+   "language": "eng",
+   "place": "Copenhagen",
+   "confidence": "high"
+  },
+  {
+   "position": 70,
+   "raw": "SHEPARD R. N. 1962a, The analysis of proximities: multidimensional scaling with an unknown distance function I, « Psycometrika », 27, 125-40.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Shepard",
+     "given": "R.N."
+    }
+   ],
+   "date": "1962",
+   "title": "The analysis of proximities: multidimensional scaling with an unknown distance function I",
+   "is_part_of": [
+    "Psychometrika"
+   ],
+   "volume": "27",
+   "pages": "125-140",
+   "language": "eng",
+   "notes": "journal cited as \"Psycometrika\"",
+   "confidence": "high"
+  },
+  {
+   "position": 71,
+   "raw": "SHEPARD R.N. 1962b, The analysis of proximities: multidimensional scaling with an unknown distance function 11, « Psycometrika », 27, 219-246.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Shepard",
+     "given": "R.N."
+    }
+   ],
+   "date": "1962",
+   "title": "The analysis of proximities: multidimensional scaling with an unknown distance function II",
+   "is_part_of": [
+    "Psychometrika"
+   ],
+   "volume": "27",
+   "pages": "219-246",
+   "language": "eng",
+   "notes": "journal cited as \"Psycometrika\"; \"11\" read as II",
+   "confidence": "high"
+  },
+  {
+   "position": 72,
+   "raw": "SHEPARD R. N. 1972, A taxonomy of some principal types of data and multidimensional methods for their analysis, in R.N. SHEPARD, A.K. RoMNEY, S. NERLOVE (eds.), Multidimensional Scaling: Theory and Applications in the Behavioral Sciences, vol. 1, 21-47, New York, Seminar Press.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Shepard",
+     "given": "R.N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Shepard",
+     "given": "R.N."
+    },
+    {
+     "family": "Romney",
+     "given": "A.K."
+    },
+    {
+     "family": "Nerlove",
+     "given": "S."
+    }
+   ],
+   "date": "1972",
+   "title": "A taxonomy of some principal types of data and multidimensional methods for their analysis",
+   "is_part_of": [
+    "Multidimensional Scaling: Theory and Applications in the Behavioral Sciences"
+   ],
+   "pages": "21-47",
+   "language": "eng",
+   "volume": "1",
+   "place": "New York",
+   "publisher": "Seminar Press",
+   "confidence": "high"
+  },
+  {
+   "position": 73,
+   "raw": "SNEATH P.H.A., SOKAL R.R. 1973, Numerical Taxonomy, San Francisco, W.H. Freeman and Company.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sneath",
+     "given": "P.H.A."
+    },
+    {
+     "family": "Sokal",
+     "given": "R.R."
+    }
+   ],
+   "date": "1973",
+   "title": "Numerical Taxonomy",
+   "place": "San Francisco",
+   "publisher": "W.H. Freeman and Company",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 74,
+   "raw": "THOMAS D.H. 1978, The awful truth about statistics in Archaeology, « American Antiquity », 43, 231-244.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Thomas",
+     "given": "D.H."
+    }
+   ],
+   "date": "1978",
+   "title": "The awful truth about statistics in Archaeology",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "43",
+   "pages": "231-244",
+   "language": "eng",
+   "notes": "citation split over two lines, joined",
+   "confidence": "high"
+  },
+  {
+   "position": 75,
+   "raw": "TORGERSON W.S. 1958, Theory and Methods of Scaling, London, John Wiley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Torgerson",
+     "given": "W.S."
+    }
+   ],
+   "date": "1958",
+   "title": "Theory and Methods of Scaling",
+   "place": "London",
+   "publisher": "John Wiley",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 76,
+   "raw": "VALLET G. 1950, Athènes et l'Adriatique, « Mélanges d' Archéologie et d'Histoire de l'Ecole Française de Rome », 33-52.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vallet",
+     "given": "G."
+    }
+   ],
+   "date": "1950",
+   "title": "Athènes et l'Adriatique",
+   "is_part_of": [
+    "Mélanges d'Archéologie et d'Histoire de l'Ecole Française de Rome"
+   ],
+   "pages": "33-52",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 77,
+   "raw": "VAN DE WAAL H. 1974-1985, ICONCLASS: An Iconographical Classification System, completed and edited by L. Couprie with E. Tholen and G. Vellekoop, Amsterdam, North Holland Publication.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Van de Waal",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Couprie",
+     "given": "L."
+    },
+    {
+     "family": "Tholen",
+     "given": "E."
+    },
+    {
+     "family": "Vellekoop",
+     "given": "G."
+    }
+   ],
+   "date": "1974",
+   "title": "ICONCLASS: An Iconographical Classification System",
+   "place": "Amsterdam",
+   "publisher": "North Holland Publication",
+   "language": "eng",
+   "notes": "cited 1974-1985 (completed and edited by L. Couprie with E. Tholen and G. Vellekoop); date set to first year",
+   "confidence": "high"
+  }
+ ]
+}

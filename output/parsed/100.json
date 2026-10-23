@@ -1,0 +1,525 @@
+{
+ "citing_aec_id": 100,
+ "source_file": "data/journal/5/100.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ARROYO-BISHOP D. 1988, Los archivos arqueológicos, realidades, perspectivas y evolución, « Boletín de Arqueología Medieval », 2, 49-73.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    }
+   ],
+   "date": "1988",
+   "title": "Los archivos arqueológicos, realidades, perspectivas y evolución",
+   "is_part_of": [
+    "Boletín de Arqueología Medieval"
+   ],
+   "language": "spa",
+   "volume": "2",
+   "pages": "49-73",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "ARROYO-BISHOP D. 1989a, The ArchéoDATA Project, in S. RAHTZ, J. RICHARDS (eds.), Computer and Quantitative Methods in Archaeology 1989, BAR International Series, 548, Oxford, 69-86.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S."
+    },
+    {
+     "family": "Richards",
+     "given": "J."
+    }
+   ],
+   "date": "1989",
+   "title": "The ArchéoDATA Project",
+   "is_part_of": [
+    "Computer and Quantitative Methods in Archaeology 1989"
+   ],
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "548",
+   "place": "Oxford",
+   "pages": "69-86",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "ARROYO-BISHOP D. 1989b, L’archéo-informatique du quotidien ou vos données dans le maquis des puces, « Nouvelles de l’archéologie », 34.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    }
+   ],
+   "date": "1989",
+   "title": "L’archéo-informatique du quotidien ou vos données dans le maquis des puces",
+   "is_part_of": [
+    "Nouvelles de l’archéologie"
+   ],
+   "language": "fre",
+   "volume": "34",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "ARROYO-BISHOP D. 1991a, The ArchéoDATA System: Towards a European archaeological document, in K. LOCKYEAR, S. RAHTZ (eds.), Computer and Quantitative Methods in Archaeology 1990, BAR International Series, 565, Oxford, 61-70.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lockyear",
+     "given": "K."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "date": "1991",
+   "title": "The ArchéoDATA System: Towards a European archaeological document",
+   "is_part_of": [
+    "Computer and Quantitative Methods in Archaeology 1990"
+   ],
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "565",
+   "place": "Oxford",
+   "pages": "61-70",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "ARROYO-BISHOP D. 1991b, El Sistema ArchéoDATA: Hacia la creación de un Sistema de Información Arqueológico (SIA), in V.M. FERNÁNDEZ MARTÍNEZ, G. FERNÁNDEZ LÓPEZ, (eds.), Aplicaciones Informáticas en Arqueología, Madrid 1990, « Complutum », 1, 167-174.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Fernández Martínez",
+     "given": "V.M."
+    },
+    {
+     "family": "Fernández López",
+     "given": "G."
+    }
+   ],
+   "date": "1991",
+   "title": "El Sistema ArchéoDATA: Hacia la creación de un Sistema de Información Arqueológico (SIA)",
+   "is_part_of": [
+    "Aplicaciones Informáticas en Arqueología, Madrid 1990",
+    "Complutum"
+   ],
+   "language": "spa",
+   "volume": "1",
+   "pages": "167-174",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "ARROYO-BISHOP D. 1992a, El tratamiento de los datos obtenidos en las intervenciones arqueológicas y su inclusión en los archivos arqueológicos, in Jornadas Internacionales Arqueología de Intervención, San Sebastien, Dicembre 1991, San Sebastien, 287-318.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    }
+   ],
+   "date": "1992",
+   "title": "El tratamiento de los datos obtenidos en las intervenciones arqueológicas y su inclusión en los archivos arqueológicos",
+   "is_part_of": [
+    "Jornadas Internacionales Arqueología de Intervención, San Sebastien, Dicembre 1991"
+   ],
+   "language": "spa",
+   "place": "San Sebastien",
+   "pages": "287-318",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "ARROYO-BISHOP D. 1992b, El « Sistema ArchéoDATA ». Registro en prehistoria, « Kalathos », 9-10, Seminario de Arqueología y Ethnología Turolense, Teruel, 31-46.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    }
+   ],
+   "date": "1992",
+   "title": "El Sistema ArchéoDATA. Registro en prehistoria",
+   "is_part_of": [
+    "Kalathos"
+   ],
+   "language": "spa",
+   "volume": "9-10",
+   "pages": "31-46",
+   "publisher": "Seminario de Arqueología y Ethnología Turolense",
+   "place": "Teruel",
+   "notes": "guillemets in the title removed",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "ARROYO-BISHOP D. 1992c, Further structuring of the ArchéoDATA System, in G. LOCK, J. MOFFETT (eds.), Computer and Quantitative Methods in Archaeology 1991, BAR International Series, 577, Oxford 89-94.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "date": "1992",
+   "title": "Further structuring of the ArchéoDATA System",
+   "is_part_of": [
+    "Computer and Quantitative Methods in Archaeology 1991"
+   ],
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "577",
+   "place": "Oxford",
+   "pages": "89-94",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "ARROYO-BISHOP D. in press, Analyse et interprétation inter et intra-site, in Colloque Européen d’Archéologie et Informatique, Saint-Germain, novembre 1991.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Analyse et interprétation inter et intra-site",
+   "is_part_of": [
+    "Colloque Européen d'Archéologie et Informatique, Saint-Germain, novembre 1991"
+   ],
+   "language": "fre",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "ARROYO-BISHOP D., LANTADA ZARZOSA M.T. 1988/Novembre, Rapport préliminaire sur l’implantation informatique dans la fouille de l’Ilot d’Arras, Paris, Rapport administratif, DRAH - Ile-de-France, SDA, Ministère de la Culture, Paris, pp. 53.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    }
+   ],
+   "date": "1988",
+   "title": "Rapport préliminaire sur l’implantation informatique dans la fouille de l’Ilot d’Arras",
+   "language": "fre",
+   "place": "Paris",
+   "publisher": "DRAH - Ile-de-France, SDA, Ministère de la Culture",
+   "notes": "administrative report, 53 pp.; cited 1988/Novembre",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "ARROYO-BISHOP D., LANTADA ZARZOSA M.T. 1990b, L’informatisation des grandes fouilles urbaines et des chantiers archéologiques de sauvetage, « BRISES » (Bulletin de recherches sur l’information en sciences économiques, humaines et sociales), 15, (1989/2), 5-15.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    }
+   ],
+   "date": "1990",
+   "title": "L’informatisation des grandes fouilles urbaines et des chantiers archéologiques de sauvetage",
+   "is_part_of": [
+    "BRISES (Bulletin de recherches sur l’information en sciences économiques, humaines et sociales)"
+   ],
+   "language": "fre",
+   "volume": "15",
+   "issue": "1989/2",
+   "pages": "5-15",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "ARROYO-BISHOP D., LANTADA ZARZOSA M.T. 1991a, Practical considerations for long term data conservation and analysis, in K. LOCKYEAR, S. RAHTZ (eds.), Computer and Quantitative Methods in Archaeology 1990, BAR International Series, 565, Oxford, 71-74.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lockyear",
+     "given": "K."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "date": "1991",
+   "title": "Practical considerations for long term data conservation and analysis",
+   "is_part_of": [
+    "Computer and Quantitative Methods in Archaeology 1990"
+   ],
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "565",
+   "place": "Oxford",
+   "pages": "71-74",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "ARROYO-BISHOP D., LANTADA ZARZOSA M.T. 1991b, Implantación informática en grandes excavaciones y proyectos arqueológicos, in V.M. FERNÁNDEZ MARTÍNEZ, G. FERNÁNDEZ LÓPEZ (eds.), Aplicaciones Informáticas en Arqueología, Madrid 1990, « Complutum », 1, 175-188.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Fernández Martínez",
+     "given": "V.M."
+    },
+    {
+     "family": "Fernández López",
+     "given": "G."
+    }
+   ],
+   "date": "1991",
+   "title": "Implantación informática en grandes excavaciones y proyectos arqueológicos",
+   "is_part_of": [
+    "Aplicaciones Informáticas en Arqueología, Madrid 1990",
+    "Complutum"
+   ],
+   "language": "spa",
+   "volume": "1",
+   "pages": "175-188",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "ARROYO-BISHOP D., LANTADA ZARZOSA M.T. 1992a, The ArchéoDATA System: A method for structuring a European Archaeological Information System (AIS), in Sites & Monuments, National Archaeological Records (National Archaeological Records Conference, Copenhagen, mai 1991), Copenhagen, 133-156.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    }
+   ],
+   "date": "1992",
+   "title": "The ArchéoDATA System: A method for structuring a European Archaeological Information System (AIS)",
+   "is_part_of": [
+    "Sites & Monuments, National Archaeological Records (National Archaeological Records Conference, Copenhagen, mai 1991)"
+   ],
+   "language": "eng",
+   "place": "Copenhagen",
+   "pages": "133-156",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "ARROYO-BISHOP D., LANTADA ZARZOSA M.T. 1992c, La identificación de los colores en arqueología, in Actas del Ier Coloquio de Pintura Mural Romana, Valence-Alicante 1989, Valencia, 65-74.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    }
+   ],
+   "date": "1992",
+   "title": "La identificación de los colores en arqueología",
+   "is_part_of": [
+    "Actas del Ier Coloquio de Pintura Mural Romana, Valence-Alicante 1989"
+   ],
+   "language": "spa",
+   "place": "Valencia",
+   "pages": "65-74",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "ARROYO-BISHOP D., LANTADA ZARZOSA M.T. in press, Planning for site and intra-site data management interpretation, in J. ANDERSEN, T. MADSEN, I. SCOLLAR (eds.), Computer and Quantitative Methods in Archaeology 1992, BAR International Series, Oxford.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "date": "1993",
+   "title": "Planning for Inter- and Intra-Site Data Management and Interpretation",
+   "is_part_of": [
+    "Computing the Past. Computer Applications and Quantitative Methods in Archaeology. CAA92"
+   ],
+   "language": "eng",
+   "place": "Aarhus",
+   "publisher": "Aarhus University Press",
+   "pages": "195-204",
+   "cs": {
+    "status": "resolved",
+    "source": "https://proceedings.caaconference.org/paper/21_arroyo-bishop_lantada_caa_1992/"
+   },
+   "notes": "cited \"in press\" as \"Planning for site and intra-site data management interpretation\", CAA 1992",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "ARROYO-BISHOP D., LANTADA ZARZOSA M.T. in press, ArchéoDATA pour un Système d’Information Archéologique Européen (SIAE), in Colloque Européen d’Archéologie et Informatique, Saint-Germain, novembre 1991.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    }
+   ],
+   "date": "c.s.",
+   "title": "ArchéoDATA pour un Système d’Information Archéologique Européen (SIAE)",
+   "is_part_of": [
+    "Colloque Européen d'Archéologie et Informatique, Saint-Germain, novembre 1991"
+   ],
+   "language": "fre",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "ARROYO-BISHOP D., LANTADA ZARZOSA M.T. in press, Pour une précision durable dans l’enregistrement archéologique, in Colloque Européen d’Archéologie et Informatique, Saint-Germain, novembre 1991.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Pour une précision durable dans l’enregistrement archéologique",
+   "is_part_of": [
+    "Colloque Européen d'Archéologie et Informatique, Saint-Germain, novembre 1991"
+   ],
+   "language": "fre",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "ARROYO-BISHOP D., LANTADA ZARZOSA M.T., VAN OSSEL P. 1988/Décembre, Manuel d’utilisation des fiches d’enregistrement informatisées du Système ArchéoDATA pour les Fouilles des Jardins du Carrousel, Rapport administratif, DRAH - Ile-de-France, SDA, Ministère de la Culture, GDR 880 du CNRS, Paris, pp. 40.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    },
+    {
+     "family": "Van Ossel",
+     "given": "P."
+    }
+   ],
+   "date": "1988",
+   "title": "Manuel d’utilisation des fiches d’enregistrement informatisées du Système ArchéoDATA pour les Fouilles des Jardins du Carrousel",
+   "language": "fre",
+   "place": "Paris",
+   "publisher": "DRAH - Ile-de-France, SDA, Ministère de la Culture, GDR 880 du CNRS",
+   "notes": "administrative report, 40 pp.; cited 1988/Décembre",
+   "confidence": "high"
+  }
+ ]
+}

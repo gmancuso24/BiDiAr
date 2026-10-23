@@ -1,0 +1,200 @@
+{
+ "citing_aec_id": 119,
+ "source_file": "data/journal/6/119.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BERNSTEIN M. 1989, Navigare con gli ipertesti, Milano, Mondadori.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bernstein",
+     "given": "M."
+    }
+   ],
+   "date": "1989",
+   "title": "Navigare con gli ipertesti",
+   "place": "Milano",
+   "publisher": "Mondadori",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "CALOINI A., GARZOTTO F., PAOLINI P. 1991, Hypermedia Course Notes: the experience of Politecnico di Milano, Proc. Italian Conference on Hypertext in Education and Research.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Caloini",
+     "given": "A."
+    },
+    {
+     "family": "Garzotto",
+     "given": "F."
+    },
+    {
+     "family": "Paolini",
+     "given": "P."
+    }
+   ],
+   "date": "1991",
+   "title": "Hypermedia Course Notes: the experience of Politecnico di Milano",
+   "is_part_of": [
+    "Proc. Italian Conference on Hypertext in Education and Research"
+   ],
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "GARZOTTO F., PAOLINI P., SCHWABE D. 1991, HDM: A Model for the Design of Hypertext Application, Proc. ACM Hypertext ’91.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Garzotto",
+     "given": "F."
+    },
+    {
+     "family": "Paolini",
+     "given": "P."
+    },
+    {
+     "family": "Schwabe",
+     "given": "D."
+    }
+   ],
+   "date": "1991",
+   "title": "HDM: A Model for the Design of Hypertext Application",
+   "is_part_of": [
+    "Proc. ACM Hypertext ’91"
+   ],
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "GARZOTTO F., PAOLINI P., SCHWABE D. 1993, HDM: A model Based Approach to Hypermedia Application Design, «ACM Transactions on Office Information Systems», 11, n. 1.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garzotto",
+     "given": "F."
+    },
+    {
+     "family": "Paolini",
+     "given": "P."
+    },
+    {
+     "family": "Schwabe",
+     "given": "D."
+    }
+   ],
+   "date": "1993",
+   "title": "HDM: A model Based Approach to Hypermedia Application Design",
+   "is_part_of": [
+    "ACM Transactions on Office Information Systems"
+   ],
+   "volume": "11",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "GRECO E., D’AMBROSIO I. 1995, Paestum, coll. Itinerari Multimediali, Napoli, ed. Ceaprelda.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Greco",
+     "given": "E."
+    },
+    {
+     "family": "D’Ambrosio",
+     "given": "I."
+    }
+   ],
+   "date": "1995",
+   "title": "Paestum",
+   "series": "Itinerari Multimediali",
+   "place": "Napoli",
+   "publisher": "Ceaprelda",
+   "notes": "multimedia product",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "NASO A. 1995 (presentazione di M. Cristofani), Gli Etruschi - Etruria meridionale, coll. Itinerari Multimediali, Napoli, ed. Ceaprelda.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Naso",
+     "given": "A."
+    }
+   ],
+   "date": "1995",
+   "title": "Gli Etruschi - Etruria meridionale",
+   "series": "Itinerari Multimediali",
+   "place": "Napoli",
+   "publisher": "Ceaprelda",
+   "notes": "multimedia product; presentazione di M. Cristofani",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "NIELSEN J. 1989, Hypertext & Hypermedia, San Diego-California, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nielsen",
+     "given": "J."
+    }
+   ],
+   "date": "1989",
+   "title": "Hypertext & Hypermedia",
+   "place": "San Diego-California",
+   "publisher": "Academic Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "RUVO C. 1993, Campi Flegrei, coll. Itinerari Multimediali, Napoli, ed. Ceaprelda.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Ruvo",
+     "given": "C."
+    }
+   ],
+   "date": "1993",
+   "title": "Campi Flegrei",
+   "series": "Itinerari Multimediali",
+   "place": "Napoli",
+   "publisher": "Ceaprelda",
+   "notes": "multimedia product",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "RUVO C. 1994 (a cura di), Napoli-Mirabilia, coll. Itinerari Multimediali, Napoli, ed. Ceaprelda.",
+   "type": "other",
+   "editors": [
+    {
+     "family": "Ruvo",
+     "given": "C."
+    }
+   ],
+   "date": "1994",
+   "title": "Napoli-Mirabilia",
+   "series": "Itinerari Multimediali",
+   "place": "Napoli",
+   "publisher": "Ceaprelda",
+   "notes": "multimedia product",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

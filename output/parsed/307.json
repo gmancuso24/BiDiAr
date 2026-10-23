@@ -1,0 +1,318 @@
+{
+ "citing_aec_id": 307,
+ "source_file": "data/journal/11/307.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ALLEN K.M.S., GREEN S.W., ZUBROW E.B.W. (eds.) 1990, Interpreting Space: GIS and Archaeology, London, Taylor & Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "Interpreting Space: GIS and Archaeology",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "ENCARNAÇÃO J.L., ASTHEIMER P., DAI F., FELGER W., GÖBEL M., HAASE H., MÜLLER S., ZIEGLER R. 1995, Virtual Reality Technology - Enabling New Dimensions in Computer-Supported Applications, in Proceedings Part1 of DMMI (Design to Manufacture in Modern Industry), Slowenia.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Encarnação",
+     "given": "J.L."
+    },
+    {
+     "family": "Astheimer",
+     "given": "P."
+    },
+    {
+     "family": "Dai",
+     "given": "F."
+    },
+    {
+     "family": "Felger",
+     "given": "W."
+    },
+    {
+     "family": "Göbel",
+     "given": "M."
+    },
+    {
+     "family": "Haase",
+     "given": "H."
+    },
+    {
+     "family": "Müller",
+     "given": "S."
+    },
+    {
+     "family": "Ziegler",
+     "given": "R."
+    }
+   ],
+   "date": "1995",
+   "title": "Virtual Reality Technology - Enabling New Dimensions in Computer-Supported Applications",
+   "is_part_of": [
+    "Proceedings Part1 of DMMI (Design to Manufacture in Modern Industry)"
+   ],
+   "place": "Slowenia",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "GIESTAL C.D. 1998, Sistema de Informação Geográfica para a Arqueologia Urbana: O caso de Bracara Augusta, Braga.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Giestal",
+     "given": "C.D."
+    }
+   ],
+   "date": "1998",
+   "title": "Sistema de Informação Geográfica para a Arqueologia Urbana: O caso de Bracara Augusta",
+   "place": "Braga",
+   "language": "por",
+   "notes": "type not stated in the citation"
+  },
+  {
+   "position": 4,
+   "raw": "HARRIS T., LOCK G. 1995, Toward an evaluation of GIS in European archaeology: The past, present and future of theory applications, in G. LOCK, Z. STANČIČ (eds.), Archaeology and Geographical Information Systems, London, Taylor & Francis, 349-365.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "T."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Toward an evaluation of GIS in European archaeology: The past, present and future of theory and applications",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems"
+   ],
+   "pages": "349-365",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "notes": "raw \"theory applications\""
+  },
+  {
+   "position": 5,
+   "raw": "HARTMAN J., WERNECKE J. 1996, The VRML 2.0 Handbook, Addison-Wesley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hartman",
+     "given": "J."
+    },
+    {
+     "family": "Wernecke",
+     "given": "J."
+    }
+   ],
+   "date": "1996",
+   "title": "The VRML 2.0 Handbook",
+   "publisher": "Addison-Wesley",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "HEYWOOD I. 1997, Beyond chorley: Current geographic information issues, in Geographic information - Exploiting the Benefits, Agi 97 Conference Proceedings, London, Miller Freeman, 1.1.1-1.1.6.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Heywood",
+     "given": "I."
+    }
+   ],
+   "date": "1997",
+   "title": "Beyond chorley: Current geographic information issues",
+   "is_part_of": [
+    "Geographic Information - Exploiting the Benefits, Agi 97 Conference Proceedings"
+   ],
+   "pages": "1.1.1-1.1.6",
+   "publisher": "Miller Freeman",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "MARTINS M. 1999, A urbanização do NO peninsular: o caso de Bracara Augusta, in Actas do Colóquio As Cidades do Norte da Península, Tongobriga (currently being printed).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Martins",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "A urbanização do NO peninsular: o caso de Bracara Augusta",
+   "is_part_of": [
+    "Actas do Colóquio As Cidades do Norte da Península"
+   ],
+   "place": "Tongobriga",
+   "language": "por",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "\"currently being printed\"; searched author + title: no publication found"
+  },
+  {
+   "position": 8,
+   "raw": "OFEK E., SHILAT E., RAPPOPORT A., WERMAN M. 1997, Multiresolution textures from image sequences, «IEEE Computer Graphics and Applications», 17, 2, 18-29.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ofek",
+     "given": "E."
+    },
+    {
+     "family": "Shilat",
+     "given": "E."
+    },
+    {
+     "family": "Rappoport",
+     "given": "A."
+    },
+    {
+     "family": "Werman",
+     "given": "M."
+    }
+   ],
+   "date": "1997",
+   "title": "Multiresolution textures from image sequences",
+   "is_part_of": [
+    "IEEE Computer Graphics and Applications"
+   ],
+   "volume": "17",
+   "issue": "2",
+   "pages": "18-29",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "RAY C., FRASER M. 1997, Analysis of geographic data in the water industry, in Geographic Information - Exploiting the Benefits, Agi 97 Conference Proceedings, London, Miller Freeman, 10.7.1.-10.7.5.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ray",
+     "given": "C."
+    },
+    {
+     "family": "Fraser",
+     "given": "M."
+    }
+   ],
+   "date": "1997",
+   "title": "Analysis of geographic data in the water industry",
+   "is_part_of": [
+    "Geographic Information - Exploiting the Benefits, Agi 97 Conference Proceedings"
+   ],
+   "pages": "10.7.1-10.7.5",
+   "publisher": "Miller Freeman",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "ROWELL A. 1997, The design benefits of group VR, «Computer Graphics World», February, 21-28.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rowell",
+     "given": "A."
+    }
+   ],
+   "date": "1997",
+   "title": "The design benefits of group VR",
+   "is_part_of": [
+    "Computer Graphics World"
+   ],
+   "pages": "21-28",
+   "language": "eng",
+   "notes": "February"
+  },
+  {
+   "position": 11,
+   "raw": "SHADE J., LISCHINSKI D., SALESIN D.H., DE ROSE T., SNYDER J. 1996, Hierarchical image catching for accelerated walkthroughs of complex environments, in SIGGRAPH 96 Conference Proceedings, Annual Conference Series, August, 75-82.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Shade",
+     "given": "J."
+    },
+    {
+     "family": "Lischinski",
+     "given": "D."
+    },
+    {
+     "family": "Salesin",
+     "given": "D.H."
+    },
+    {
+     "family": "De Rose",
+     "given": "T."
+    },
+    {
+     "family": "Snyder",
+     "given": "J."
+    }
+   ],
+   "date": "1996",
+   "title": "Hierarchical image caching for accelerated walkthroughs of complex environments",
+   "is_part_of": [
+    "SIGGRAPH 96 Conference Proceedings, Annual Conference Series"
+   ],
+   "pages": "75-82",
+   "language": "eng",
+   "notes": "raw \"catching\" corrected to \"caching\"; August"
+  },
+  {
+   "position": 12,
+   "raw": "SIMS D. 1997, Archaeological models: Pretty pictures or research tools?, «IEEE Computer Graphics and Applications», 17, 1, 13-15.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sims",
+     "given": "D."
+    }
+   ],
+   "date": "1997",
+   "title": "Archaeological models: Pretty pictures or research tools?",
+   "is_part_of": [
+    "IEEE Computer Graphics and Applications"
+   ],
+   "volume": "17",
+   "issue": "1",
+   "pages": "13-15",
+   "language": "eng"
+  }
+ ]
+}

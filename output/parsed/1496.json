@@ -1,0 +1,194 @@
+{
+ "citing_aec_id": 1496,
+ "source_file": "data/journal/37/1496.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Delamare S. 2024, La modélisation 3D en archéologie: objectifs, enjeux et contexte d’utilisation. Du terrain à la réalité virtuelle: études de cas en archéologie programmée et préventive, Thèse de Doctorat, Université Panthéon-Sorbonne-Paris I, Paris (https://hal.science/tel-05075631v1).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Delamare",
+     "given": "S."
+    }
+   ],
+   "date": "2024",
+   "title": "La modélisation 3D en archéologie: objectifs, enjeux et contexte d’utilisation. Du terrain à la réalité virtuelle: études de cas en archéologie programmée et préventive",
+   "publisher": "Université Panthéon-Sorbonne-Paris I",
+   "place": "Paris",
+   "language": "fre",
+   "uri": "https://hal.science/tel-05075631v1",
+   "notes": "Thèse de Doctorat"
+  },
+  {
+   "position": 2,
+   "raw": "Desachy B. 2018, Analyse statistique et graphique des données archéologiques (support de formation) - version 2018-3, in ArchéoFab. Archéologie du bassin parisien. UMR 7041 ArScAn (https://doi.org/10.58079/ahdr).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Desachy",
+     "given": "B."
+    }
+   ],
+   "date": "2018",
+   "title": "Analyse statistique et graphique des données archéologiques (support de formation) - version 2018-3",
+   "is_part_of": [
+    "ArchéoFab. Archéologie du bassin parisien. UMR 7041 ArScAn"
+   ],
+   "language": "fre",
+   "doi": "10.58079/ahdr"
+  },
+  {
+   "position": 3,
+   "raw": "Glady M., Leimdorfer F. 2015, Usages de la lexicométrie et interprétation sociologique, «Bulletin of Sociological Methodology», 127, 5-25 (https://doi.org/10.1177/0759106315582192).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Glady",
+     "given": "M."
+    },
+    {
+     "family": "Leimdorfer",
+     "given": "F."
+    }
+   ],
+   "date": "2015",
+   "title": "Usages de la lexicométrie et interprétation sociologique",
+   "is_part_of": [
+    "Bulletin of Sociological Methodology"
+   ],
+   "volume": "127",
+   "pages": "5-25",
+   "language": "fre",
+   "doi": "10.1177/0759106315582192"
+  },
+  {
+   "position": 4,
+   "raw": "Khelifi H. 2018, La lexicométrie: un outil efficient pour l’analyse du discours, in Médias numériques, langues, discours, pratiques et interculturalité. Actes du Colloque international, Rabat, Faculté des lettres et des sciences humaines, 151-161 (https://hal.univ-lorraine.fr/hal-01737622).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Khelifi",
+     "given": "H."
+    }
+   ],
+   "date": "2018",
+   "title": "La lexicométrie: un outil efficient pour l’analyse du discours",
+   "is_part_of": [
+    "Médias numériques, langues, discours, pratiques et interculturalité. Actes du Colloque international, Rabat, Faculté des lettres et des sciences humaines"
+   ],
+   "pages": "151-161",
+   "language": "fre",
+   "uri": "https://hal.univ-lorraine.fr/hal-01737622"
+  },
+  {
+   "position": 5,
+   "raw": "Mancuso G., Caravale A., D’Eredità A., Moscati P. (eds.) 2025, Merging knowledge and tools in Heritage Science and Digital Archaeology. Practices from H2IOSC WP2, in S. Campana et al. (eds.), Digital Heritage (Siena 2025), The Eurographics Association (https://doi.org/10.2312/dh.20253320).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mancuso",
+     "given": "G."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "D’Eredità",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "date": "2025",
+   "title": "Merging knowledge and tools in Heritage Science and Digital Archaeology. Practices from H2IOSC WP2",
+   "is_part_of": [
+    "Digital Heritage (Siena 2025)"
+   ],
+   "publisher": "The Eurographics Association",
+   "language": "eng",
+   "doi": "10.2312/dh.20253320",
+   "confidence": "low",
+   "notes": "cited with \"(eds.)\" after Mancuso et al., but the entry looks like a paper in the proceedings: treated as authors; to verify"
+  },
+  {
+   "position": 6,
+   "raw": "Molette P., Landré A. 2013, Manuel Tropes version 8.4: manuel de référence (https://www.tropes.fr/doc.html).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Molette",
+     "given": "P."
+    },
+    {
+     "family": "Landré",
+     "given": "A."
+    }
+   ],
+   "date": "2013",
+   "title": "Manuel Tropes version 8.4: manuel de référence",
+   "language": "fre",
+   "uri": "https://www.tropes.fr/doc.html"
+  },
+  {
+   "position": 7,
+   "raw": "Saly-Giocanti F. 2005, Utiliser les statistiques en histoire, Paris, Armand Colin (Cursus).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Saly-Giocanti",
+     "given": "F."
+    }
+   ],
+   "date": "2005",
+   "title": "Utiliser les statistiques en histoire",
+   "publisher": "Armand Colin",
+   "place": "Paris",
+   "language": "fre",
+   "series": "Cursus"
+  },
+  {
+   "position": 8,
+   "raw": "Sorin-Mazouni S. et al. 2024, La 3D comme réponse à des questionnements SHS - Bilan de l’enquête du Consortium 3D SHS, Consortium 3D SHS-HN (https://shs.hal.science/hal-04419886v1).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Sorin-Mazouni",
+     "given": "S."
+    }
+   ],
+   "date": "2024",
+   "title": "La 3D comme réponse à des questionnements SHS - Bilan de l’enquête du Consortium 3D SHS",
+   "publisher": "Consortium 3D SHS-HN",
+   "language": "fre",
+   "uri": "https://shs.hal.science/hal-04419886v1",
+   "notes": "cited \"et al.\""
+  },
+  {
+   "position": 9,
+   "raw": "Tuffery C. 2022, Ce que le numérique fait à l’archéologie et aux archéologues: contribution historiographique et épistémologique à l’étude des évolution d’une discipline et de ses pratiques en France depuis les années 1970, Thèse de Doctorat, CY Cergy Paris Université, Cergy.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Tuffery",
+     "given": "C."
+    }
+   ],
+   "date": "2022",
+   "title": "Ce que le numérique fait à l’archéologie et aux archéologues: contribution historiographique et épistémologique à l’étude des évolution d’une discipline et de ses pratiques en France depuis les années 1970",
+   "publisher": "CY Cergy Paris Université",
+   "place": "Cergy",
+   "language": "fre",
+   "notes": "Thèse de Doctorat"
+  }
+ ]
+}

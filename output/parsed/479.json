@@ -1,0 +1,41 @@
+{
+ "citing_aec_id": 479,
+ "source_file": "data/journal/19/479.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Parlement Européen et Conseil de l’Union Européenne 2007, directive 2007/2/CE du 14 mars 2007 établissant une infrastructure d’information géographique dans la Communauté européenne (INSPIRE), Bruxelles, Joce.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Parlement Européen et Conseil de l'Union Européenne",
+     "given": ""
+    }
+   ],
+   "date": "2007",
+   "title": "Directive 2007/2/CE du 14 mars 2007 établissant une infrastructure d'information géographique dans la Communauté européenne (INSPIRE)",
+   "publisher": "Joce",
+   "place": "Bruxelles",
+   "language": "fre",
+   "notes": "corporate author (EU institutions)",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Da Silva Pires A. 2008, Géoportail. Le portail Internet des territoires et des citoyens, Vanves, Foucher.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Da Silva Pires",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "Géoportail. Le portail Internet des territoires et des citoyens",
+   "publisher": "Foucher",
+   "place": "Vanves",
+   "language": "fre",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,1659 @@
+{
+ "citing_aec_id": 387,
+ "source_file": "data/journal/15/387.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AKIN O., MOUSTAPHA H. 2003, Strategic use of representation in architectural massing, «Design Studies» (http://www.andrew.cmu.edu/user/oa04/Papers/Massing.pdf; ultimo accesso 11/12/2003).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Akin",
+     "given": "O."
+    },
+    {
+     "family": "Moustapha",
+     "given": "H."
+    }
+   ],
+   "date": "2003",
+   "title": "Strategic use of representation in architectural massing",
+   "is_part_of": [
+    "Design Studies"
+   ],
+   "language": "eng",
+   "uri": "http://www.andrew.cmu.edu/user/oa04/Papers/Massing.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "ARENS C.A. 2003, Maintaining Reality: Modelling 3D Spatial Objects in a Geo-DBMS Using a 3D Primitive, Master Thesis, Section GIS-Tecnology, Department of Geodesy, Faculty of Civil Engineering and Geosciences, Delft (http://www.geo.tudelft.nl/gist/publicaties/2003/afstuderen/MaintainingReality.zip; ultimo accesso 11/12/2003).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Arens",
+     "given": "C.A."
+    }
+   ],
+   "date": "2003",
+   "title": "Maintaining Reality: Modelling 3D Spatial Objects in a Geo-DBMS Using a 3D Primitive",
+   "place": "Delft",
+   "uri": "http://www.geo.tudelft.nl/gist/publicaties/2003/afstuderen/MaintainingReality.zip",
+   "language": "eng",
+   "notes": "Master Thesis, Section GIS-Technology, Department of Geodesy, Faculty of Civil Engineering and Geosciences",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "ARENS C.A., STOTER J., OOSTEROM P.J.M. 2003, Modelling 3d spatial objects in a Geo-DBMS using a 3d primitive, in 6th AGILE Conference (http://www.gdmc.nl/stoter/publicaties/agile2003.zip; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arens",
+     "given": "C.A."
+    },
+    {
+     "family": "Stoter",
+     "given": "J."
+    },
+    {
+     "family": "Oosterom",
+     "given": "P.J.M."
+    }
+   ],
+   "date": "2003",
+   "title": "Modelling 3d spatial objects in a Geo-DBMS using a 3d primitive",
+   "is_part_of": [
+    "6th AGILE Conference"
+   ],
+   "language": "eng",
+   "uri": "http://www.gdmc.nl/stoter/publicaties/agile2003.zip",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "BARCELÓ J., DE CASTRO O., TRAVET D., VICENTE O. 2003, A 3D model of an archaeological excavation, in M. DOERR, A. SARRIS (eds.), Computer Applications and Quantitative Methods in Archaeology, CAA 2002, Hiraklion, Archive of Monuments and Publications, Hellenic Ministry of Culture, 85-89.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J."
+    },
+    {
+     "family": "De Castro",
+     "given": "O."
+    },
+    {
+     "family": "Travet",
+     "given": "D."
+    },
+    {
+     "family": "Vicente",
+     "given": "O."
+    }
+   ],
+   "date": "2003",
+   "title": "A 3D model of an archaeological excavation",
+   "editors": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology, CAA 2002"
+   ],
+   "pages": "85-89",
+   "publisher": "Archive of Monuments and Publications, Hellenic Ministry of Culture",
+   "place": "Hiraklion",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BROGIOLO G.P. 1988a, Archeologia dell’edilizia storica, Como, New Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "date": "1988",
+   "title": "Archeologia dell’edilizia storica",
+   "publisher": "New Press",
+   "place": "Como",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "BROGIOLO G.P. 1988b, Campionatura e obiettivi nell’analisi stratigrafica degli elevati, in R. FRANCOVICH, R. PARENTI (eds.), Archeologia e restauro dei monumenti, Firenze, All’Insegna del Giglio, 335-346.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "date": "1988",
+   "title": "Campionatura e obiettivi nell’analisi stratigrafica degli elevati",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Parenti",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e restauro dei monumenti"
+   ],
+   "pages": "335-346",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "BROGIOLO G.P. 1997, Dall’analisi stratigrafica degli elevati all’archeologia dell’architettura, «Archeologia dell’Architettura», 2, 181-184.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "date": "1997",
+   "title": "Dall’analisi stratigrafica degli elevati all’archeologia dell’architettura",
+   "is_part_of": [
+    "Archeologia dell’Architettura"
+   ],
+   "volume": "2",
+   "pages": "181-184",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "CANDELATO F., CARDARELLI A., CATTANI M., LABATE D., PELLACANI G. 2002, Il sistema informativo dello scavo della terramare di Montale (Castelnuovo Rangone – MO), in C. PERETTO (ed.), Analisi informatizzata e trattamento dati delle strutture di abitato di età preistorica e protostorica, Firenze, Istituto Italiano di Preistoria e Protostoria, 257-270.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Candelato",
+     "given": "F."
+    },
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    },
+    {
+     "family": "Cattani",
+     "given": "M."
+    },
+    {
+     "family": "Labate",
+     "given": "D."
+    },
+    {
+     "family": "Pellacani",
+     "given": "G."
+    }
+   ],
+   "date": "2002",
+   "title": "Il sistema informativo dello scavo della terramare di Montale (Castelnuovo Rangone – MO)",
+   "editors": [
+    {
+     "family": "Peretto",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Analisi informatizzata e trattamento dati delle strutture di abitato di età preistorica e protostorica"
+   ],
+   "pages": "257-270",
+   "publisher": "Istituto Italiano di Preistoria e Protostoria",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "CARVER M.O.H. 1983, Valutazione, strategia ed analisi nei siti pluristratificati, «Archeologia Medievale», 10, 49-71.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carver",
+     "given": "M.O.H."
+    }
+   ],
+   "date": "1983",
+   "title": "Valutazione, strategia ed analisi nei siti pluristratificati",
+   "is_part_of": [
+    "Archeologia Medievale"
+   ],
+   "volume": "10",
+   "pages": "49-71",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "CARVER M.O.H. 1990, Digging for data: archaeological approaches to data definition, acquisition and analysis, in R. FRANCOVICH, D. MANACORDA (eds.), Lo scavo archeologico: dalla diagnosi all’edizione (Siena 1988), Firenze, All’Insegna del Giglio, 45-120.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Carver",
+     "given": "M.O.H."
+    }
+   ],
+   "date": "1990",
+   "title": "Digging for data: archaeological approaches to data definition, acquisition and analysis",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Lo scavo archeologico: dalla diagnosi all’edizione (Siena 1988)"
+   ],
+   "pages": "45-120",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "CATTANI M. 2003, Il sistema informativo dello scavo di HD6 (Ra’s al Hadd – Sultanato d’Oman), «Ocnus», 11, 77-96.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Il sistema informativo dello scavo di HD6 (Ra’s al Hadd – Sultanato d’Oman)",
+   "is_part_of": [
+    "Ocnus"
+   ],
+   "volume": "11",
+   "pages": "77-96",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "CATTANI M., FIORINI A., RONDELLI B. 2004, Computer applications for a reconstruction of archaeological stratigraphy as a predictive model in urban and territorial contexts, in K.F. AUSSERER, W. BÖRNER, M. GORIANY, L. KARLHUBER-VÖCKL (eds.), Enter the Past: the E-way into the Four Dimensions of Cultural Heritage, Proceedings of the 31st CAA Conference (Wien), BAR International Series 1227, Oxford, Archaeopress.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Rondelli",
+     "given": "B."
+    }
+   ],
+   "date": "2004",
+   "title": "Computer applications for a reconstruction of archaeological stratigraphy as a predictive model in urban and territorial contexts",
+   "editors": [
+    {
+     "family": "Ausserer",
+     "given": "K.F."
+    },
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Goriany",
+     "given": "M."
+    },
+    {
+     "family": "Karlhuber-Vöckl",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Enter the Past: the E-way into the Four Dimensions of Cultural Heritage, Proceedings of the 31st CAA Conference (Wien)"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "1227",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "CHILDS C. 2003, ArcGIS Topology for ArcView Users, «ArcUser», July-September (http://www.esri.com/news/arcuser/0703/files/av_topo.pdf; ultimo accesso 08/06/2004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Childs",
+     "given": "C."
+    }
+   ],
+   "date": "2003",
+   "title": "ArcGIS Topology for ArcView Users",
+   "is_part_of": [
+    "ArcUser"
+   ],
+   "issue": "July-September",
+   "language": "eng",
+   "uri": "http://www.esri.com/news/arcuser/0703/files/av_topo.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "CLARAMUNT C., JIANG B. 2000, A representation of relationships in temporal spaces, in P. ATKINSON, D. MARTIN (eds.), Innovations in GIS VII: GeoComputation, Ch. 4, Taylor and Francis, 41-53 (http://citeseer.nj.nec.com/400380.html; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Claramunt",
+     "given": "C."
+    },
+    {
+     "family": "Jiang",
+     "given": "B."
+    }
+   ],
+   "date": "2000",
+   "title": "A representation of relationships in temporal spaces",
+   "editors": [
+    {
+     "family": "Atkinson",
+     "given": "P."
+    },
+    {
+     "family": "Martin",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Innovations in GIS VII: GeoComputation"
+   ],
+   "pages": "41-53",
+   "publisher": "Taylor and Francis",
+   "language": "eng",
+   "uri": "http://citeseer.nj.nec.com/400380.html",
+   "notes": "Ch. 4",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "CLARAMUNT C., JIANG B. 2001, An integrated representation of spatial and temporal relationships between evolving regions, «Journal of Geographycal Systems», 3, 411-428.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Claramunt",
+     "given": "C."
+    },
+    {
+     "family": "Jiang",
+     "given": "B."
+    }
+   ],
+   "date": "2001",
+   "title": "An integrated representation of spatial and temporal relationships between evolving regions",
+   "is_part_of": [
+    "Journal of Geographical Systems"
+   ],
+   "volume": "3",
+   "pages": "411-428",
+   "language": "eng",
+   "notes": "\"Geographycal\" corrected",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "CONFORTO M.L. 1988, La conoscenza della città antica per il recupero dell’opera edilizia, in R. FRANCOVICH, R. PARENTI (eds.), Archeologia e restauro dei monumenti, Firenze, All’Insegna del Giglio (http://192.167.112.135/NewPages/COLLANE/QDS12-131.html; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Conforto",
+     "given": "M.L."
+    }
+   ],
+   "date": "1988",
+   "title": "La conoscenza della città antica per il recupero dell’opera edilizia",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Parenti",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e restauro dei monumenti"
+   ],
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "uri": "http://192.167.112.135/NewPages/COLLANE/QDS12-131.html",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "CRESCENZI C. 1999, Scienza del taglio dei solidi, in Architettura e ambiente: rilievo e documentazione, «Firenze Architettura», 1, 76-80.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Crescenzi",
+     "given": "C."
+    }
+   ],
+   "date": "1999",
+   "title": "Scienza del taglio dei solidi",
+   "is_part_of": [
+    "Architettura e ambiente: rilievo e documentazione",
+    "Firenze Architettura"
+   ],
+   "volume": "1",
+   "pages": "76-80",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "DE LUCA L. 2001-2002, Proposition d’une approche pour l’introduction des connaissances dans la chaîne Relevé-Modélisation-Représentation. Projet du DEA – M.C.A.O. Laboratoire MAP-Gamsau, Marseille (http://www.map.archi.fr/ldl/rechercheFR.html; ultimo accesso 11/12/2003).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "De Luca",
+     "given": "L."
+    }
+   ],
+   "date": "2001",
+   "title": "Proposition d’une approche pour l’introduction des connaissances dans la chaîne Relevé-Modélisation-Représentation",
+   "language": "fre",
+   "uri": "http://www.map.archi.fr/ldl/rechercheFR.html",
+   "notes": "cited 2001-2002; Projet du DEA – M.C.A.O. Laboratoire MAP-Gamsau, Marseille",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "DE VRIES B., JESSURUN A.J., KELLENERS R.H.M.C. 2000, Using 3D geometric constraints in architectural design support systems, in Proceedings of the 8-th International Conference in Central Europa on Computer Graphics, Visualization and Interactive Digital Media 2000, West Bohemia, CZ, University of West Bohemia, Czech Republic (http://www.ds.arch.tue.nl/Research/Publications/Bauke/WSCG2000_Ref.pdf; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Vries",
+     "given": "B."
+    },
+    {
+     "family": "Jessurun",
+     "given": "A.J."
+    },
+    {
+     "family": "Kelleners",
+     "given": "R.H.M.C."
+    }
+   ],
+   "date": "2000",
+   "title": "Using 3D geometric constraints in architectural design support systems",
+   "is_part_of": [
+    "Proceedings of the 8-th International Conference in Central Europa on Computer Graphics, Visualization and Interactive Digital Media 2000"
+   ],
+   "publisher": "University of West Bohemia",
+   "place": "West Bohemia, CZ",
+   "language": "eng",
+   "uri": "http://www.ds.arch.tue.nl/Research/Publications/Bauke/WSCG2000_Ref.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "DEKEYSER F., GASPARD F., FLORENZANO M., DE LUCA L., CHEN X., LERAY P. 2003, Cultural heritage recording with laser scanning, computer vision and exploitation of architectural rules, in Proceedings of the International Workshop on “Vision Techniques for Digital Architectural and Archaeological Archives” (Portonovo, Ancona 2003), Italy (http://www.map.archi.fr/theme1/axe/axe2/RMRARCHI/articles/3dim_scanner3d.pdf; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dekeyser",
+     "given": "F."
+    },
+    {
+     "family": "Gaspard",
+     "given": "F."
+    },
+    {
+     "family": "Florenzano",
+     "given": "M."
+    },
+    {
+     "family": "De Luca",
+     "given": "L."
+    },
+    {
+     "family": "Chen",
+     "given": "X."
+    },
+    {
+     "family": "Leray",
+     "given": "P."
+    }
+   ],
+   "date": "2003",
+   "title": "Cultural heritage recording with laser scanning, computer vision and exploitation of architectural rules",
+   "is_part_of": [
+    "Proceedings of the International Workshop on “Vision Techniques for Digital Architectural and Archaeological Archives” (Portonovo, Ancona 2003)"
+   ],
+   "language": "eng",
+   "uri": "http://www.map.archi.fr/theme1/axe/axe2/RMRARCHI/articles/3dim_scanner3d.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "DI CRISTINA G. 2001, Architettura e topologia: per una teoria spaziale dell’architettura, Roma, Librerie Dedalo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Di Cristina",
+     "given": "G."
+    }
+   ],
+   "date": "2001",
+   "title": "Architettura e topologia: per una teoria spaziale dell’architettura",
+   "publisher": "Librerie Dedalo",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "DRAP P., FLORENZANO M., BLAISE J.Y. 1997, PAROS, Photogrammétrie et modèles objet appliqués à l’étude de l’architecture construite, «L’Objet, Logiciel, Base de données, Réseaux», 3, 1, 27-52.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Drap",
+     "given": "P."
+    },
+    {
+     "family": "Florenzano",
+     "given": "M."
+    },
+    {
+     "family": "Blaise",
+     "given": "J.Y."
+    }
+   ],
+   "date": "1997",
+   "title": "PAROS, Photogrammétrie et modèles objet appliqués à l’étude de l’architecture construite",
+   "is_part_of": [
+    "L’Objet, Logiciel, Base de données, Réseaux"
+   ],
+   "volume": "3",
+   "issue": "1",
+   "pages": "27-52",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "DUDEK I., DRAP P., BLAISE J.Y. 1999, An architectural model compiler dedicated to archaeological hypothesis – An experiment on Krakow’s Kramy Bogate, in P. LENCA (ed.), Proceedings of the Human Centered Processes Conference (Brest 1999) (http://moma.gamsau.archi.fr/Sources/articlesPdf/HumanCenteredProcesses1999.pdf; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dudek",
+     "given": "I."
+    },
+    {
+     "family": "Drap",
+     "given": "P."
+    },
+    {
+     "family": "Blaise",
+     "given": "J.Y."
+    }
+   ],
+   "date": "1999",
+   "title": "An architectural model compiler dedicated to archaeological hypothesis – An experiment on Krakow’s Kramy Bogate",
+   "editors": [
+    {
+     "family": "Lenca",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the Human Centered Processes Conference (Brest 1999)"
+   ],
+   "language": "eng",
+   "uri": "http://moma.gamsau.archi.fr/Sources/articlesPdf/HumanCenteredProcesses1999.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "EGENHOFER M., CLEMENTINI E., DI FELICE P. 1994, Evaluating Inconsistencies Among Multiple Representations, Sixth International Symposium on Spatial Data Handling (Edinburgh 1994), 901-920 (http://www.spatial.maine.edu/~max/MR.pdf; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Egenhofer",
+     "given": "M."
+    },
+    {
+     "family": "Clementini",
+     "given": "E."
+    },
+    {
+     "family": "Di Felice",
+     "given": "P."
+    }
+   ],
+   "date": "1994",
+   "title": "Evaluating Inconsistencies Among Multiple Representations",
+   "is_part_of": [
+    "Sixth International Symposium on Spatial Data Handling (Edinburgh 1994)"
+   ],
+   "pages": "901-920",
+   "language": "eng",
+   "uri": "http://www.spatial.maine.edu/~max/MR.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "FIORINI A. 2001-2002, Il Castello di Roccella: analisi archeologiche di un sito fortificato medievale, tesi di laurea in Archeologia Medievale, Facoltà di Conservazione dei Beni Culturali, Università di Bologna.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Il Castello di Roccella: analisi archeologiche di un sito fortificato medievale",
+   "publisher": "Università di Bologna",
+   "language": "ita",
+   "notes": "cited 2001-2002; tesi di laurea in Archeologia Medievale, Facoltà di Conservazione dei Beni Culturali",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "FLORENZANO M., BLAISE J.Y. 2000, Modèles et représentation a l’échelle architecturale: une expérience à Cracovie, in Rome An 2000. Ville, maquette et modèle virtuel. Actes du colloque de Caen (Caen 2003), Les Cahiers de la MRSH, 33, 155,-168.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Florenzano",
+     "given": "M."
+    },
+    {
+     "family": "Blaise",
+     "given": "J.Y."
+    }
+   ],
+   "date": "2000",
+   "title": "Modèles et représentation a l’échelle architecturale: une expérience à Cracovie",
+   "is_part_of": [
+    "Rome An 2000. Ville, maquette et modèle virtuel. Actes du colloque de Caen (Caen 2003)"
+   ],
+   "pages": "155-168",
+   "language": "fre",
+   "series": "Les Cahiers de la MRSH",
+   "series_number": "33",
+   "notes": "pages cited \"155,-168\"",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "GERO J.S., KAZAKOV V. 2003, On measuring the visual complexity of 3D solid objects, in B. TUNCER, S. OZSARIYILDIZ, S. SARIYILIDIZ (eds.), e-Activities in Design and Design Education, Paris, Europia, 147-156 (http://www.arch.su.edu.au/~john/publications/2003/03_GeroKazakov_EIA9.pdf; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gero",
+     "given": "J.S."
+    },
+    {
+     "family": "Kazakov",
+     "given": "V."
+    }
+   ],
+   "date": "2003",
+   "title": "On measuring the visual complexity of 3D solid objects",
+   "editors": [
+    {
+     "family": "Tuncer",
+     "given": "B."
+    },
+    {
+     "family": "Ozsariyildiz",
+     "given": "S."
+    },
+    {
+     "family": "Sariyilidiz",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "e-Activities in Design and Design Education"
+   ],
+   "pages": "147-156",
+   "publisher": "Europia",
+   "place": "Paris",
+   "language": "eng",
+   "uri": "http://www.arch.su.edu.au/~john/publications/2003/03_GeroKazakov_EIA9.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "GOTTARELLI A. 1995, La modellazione tridimensionale del documento archeologico: livelli descrittivi e processamento digitale, «Archeologia e Calcolatori», 6, 75-103.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "date": "1995",
+   "title": "La modellazione tridimensionale del documento archeologico: livelli descrittivi e processamento digitale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "6",
+   "pages": "75-103",
+   "language": "ita",
+   "cited_aec_id": 110,
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "GROS P. 2001, L’architettura romana: dagli inizi del III secolo a.C. alla fine dell’alto impero, Milano, Longanesi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gros",
+     "given": "P."
+    }
+   ],
+   "date": "2001",
+   "title": "L’architettura romana: dagli inizi del III secolo a.C. alla fine dell’alto impero",
+   "publisher": "Longanesi",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "GUIDI A. 1994, I metodi della ricerca archeologica, Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Guidi",
+     "given": "A."
+    }
+   ],
+   "date": "1994",
+   "title": "I metodi della ricerca archeologica",
+   "publisher": "Laterza",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "HARRIS E.C. 1983, Principi di stratigrafia archeologica, Roma, NIS (ed. or. 1979).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "E.C."
+    }
+   ],
+   "date": "1983",
+   "title": "Principi di stratigrafia archeologica",
+   "publisher": "NIS",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "Italian edition (ed. or. 1979)",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "HARRIS E.C. 1991, The central role of stratigraphy in archaeological excavation, Interbentzio Arkeologia, Jornadas Internationales Arqueología de Intervencíon, San Sebastián, Bergara-Gipuzkoa, Departamento de Cultura, 111-135.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "E.C."
+    }
+   ],
+   "date": "1991",
+   "title": "The central role of stratigraphy in archaeological excavation",
+   "is_part_of": [
+    "Interbentzio Arkeologia, Jornadas Internationales Arqueología de Intervencíon (San Sebastián)"
+   ],
+   "pages": "111-135",
+   "publisher": "Departamento de Cultura",
+   "place": "Bergara-Gipuzkoa",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "HEDORFER M.M. 1997, Corso di cartografia numerica (http://brezza.iuav.it/~hedorfer/docs/dgcav/dgcavj96-ITA-toc.html; ultimo accesso 11/12/2003).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Hedorfer",
+     "given": "M.M."
+    }
+   ],
+   "date": "1997",
+   "title": "Corso di cartografia numerica",
+   "language": "ita",
+   "uri": "http://brezza.iuav.it/~hedorfer/docs/dgcav/dgcavj96-ITA-toc.html",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "HEINE E. 1999, High precision building documentation: element definition and data structuring, in WORKING GROUP II (ed.), Mapping and Preservation for the New Millenium – Brazil 500 Year, The ICOMOS & ISPRS Committee for the Documentation of Cultural Heritage, Recife/Brazil (http://cipa.icomos.org/papers/1999cd/artigos/02/O_Heine.pdf; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Heine",
+     "given": "E."
+    }
+   ],
+   "date": "1999",
+   "title": "High precision building documentation: element definition and data structuring",
+   "editors": [
+    {
+     "family": "Working Group II",
+     "given": ""
+    }
+   ],
+   "is_part_of": [
+    "Mapping and Preservation for the New Millenium – Brazil 500 Year"
+   ],
+   "publisher": "The ICOMOS & ISPRS Committee for the Documentation of Cultural Heritage",
+   "place": "Recife/Brazil",
+   "language": "eng",
+   "uri": "http://cipa.icomos.org/papers/1999cd/artigos/02/O_Heine.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "HERZOG I. 2004, Group and conquer – A method for displaying large stratigraphic data sets, in K.F. AUSSERER, W. BÖRNER, M. GORIANY, L. KARLHUBER-VÖCKL (eds.), Enter the Past: the E-way into the Four Dimensions of Cultural Heritage, Proceedings of the 31st CAA Conference (Wien), BAR International Series 1227, Oxford, Archaeopress, 423-426.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "date": "2004",
+   "title": "Group and conquer – A method for displaying large stratigraphic data sets",
+   "editors": [
+    {
+     "family": "Ausserer",
+     "given": "K.F."
+    },
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Goriany",
+     "given": "M."
+    },
+    {
+     "family": "Karlhuber-Vöckl",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Enter the Past: the E-way into the Four Dimensions of Cultural Heritage, Proceedings of the 31st CAA Conference (Wien)"
+   ],
+   "pages": "423-426",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "1227",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "HERZOG I., SCOLLAR I. 1991, A new graph theoretic oriented program for Harris matrix analysis, in K. LOCKYEAR, S.P.Q. RAHTZ (eds.), Computer Applications and Quantitative Methods in Archaeology, 1990, British Archaeological Reports, Oxford, 53-59.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Herzog",
+     "given": "I."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "date": "1991",
+   "title": "A new graph theoretic oriented program for Harris matrix analysis",
+   "editors": [
+    {
+     "family": "Lockyear",
+     "given": "K."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S.P.Q."
+    }
+   ],
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology, 1990"
+   ],
+   "pages": "53-59",
+   "publisher": "British Archaeological Reports",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "HILLIER C., HANSON J. 1984, The Social Logic of Space, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hillier",
+     "given": "C."
+    },
+    {
+     "family": "Hanson",
+     "given": "J."
+    }
+   ],
+   "date": "1984",
+   "title": "The Social Logic of Space",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "HEYWOOD I., CORNELIUS S., CARVER S. 1998, An Introduction to Geographical Information Systems, London, Addison Wesley Longman.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Heywood",
+     "given": "I."
+    },
+    {
+     "family": "Cornelius",
+     "given": "S."
+    },
+    {
+     "family": "Carver",
+     "given": "S."
+    }
+   ],
+   "date": "1998",
+   "title": "An Introduction to Geographical Information Systems",
+   "publisher": "Addison Wesley Longman",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "HODDER I. (ed.) 2002, Towards Reflexive Methods in Archaeology: the Example of Çatalhöyük, Ankara, British Institute of Archaeology at Ankara.",
+   "type": "book",
+   "date": "2002",
+   "title": "Towards Reflexive Methods in Archaeology: the Example of Çatalhöyük",
+   "editors": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "publisher": "British Institute of Archaeology at Ankara",
+   "place": "Ankara",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "HUDSON P. 1979, Contributo sulla documentazione dello scavo: problemi di pubblicazione e della formazione dell’archivio archeologico nell’esperienza inglese, «Archeologia Medievale», 6, 329-343.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hudson",
+     "given": "P."
+    }
+   ],
+   "date": "1979",
+   "title": "Contributo sulla documentazione dello scavo: problemi di pubblicazione e della formazione dell’archivio archeologico nell’esperienza inglese",
+   "is_part_of": [
+    "Archeologia Medievale"
+   ],
+   "volume": "6",
+   "pages": "329-343",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "JIMÉNEZ D., CHAPMAN D. 1998, Visualizing 3D spatial patterns of archaeological assemblages, in Visualisation in the Social Sciences Workshop (http://www.agocg.ac.uk/wshop/sosci/jimenez.htm; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Jiménez",
+     "given": "D."
+    },
+    {
+     "family": "Chapman",
+     "given": "D."
+    }
+   ],
+   "date": "1998",
+   "title": "Visualizing 3D spatial patterns of archaeological assemblages",
+   "is_part_of": [
+    "Visualisation in the Social Sciences Workshop"
+   ],
+   "language": "eng",
+   "uri": "http://www.agocg.ac.uk/wshop/sosci/jimenez.htm",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "LEE J. 2001, 3D data model for representing topological relations of urban features, in Proceedings of 21st Annual ESRI International User Conference, San Diego (http://gis.esri.com/library/userconf/proc01/professional/papers/pap565/p565.htm; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lee",
+     "given": "J."
+    }
+   ],
+   "date": "2001",
+   "title": "3D data model for representing topological relations of urban features",
+   "is_part_of": [
+    "Proceedings of 21st Annual ESRI International User Conference, San Diego"
+   ],
+   "language": "eng",
+   "uri": "http://gis.esri.com/library/userconf/proc01/professional/papers/pap565/p565.htm",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "LEONARDI G. 1992a, Procedure di stratigrafia processuale. La necropoli paleoveneta del Piovego a Padova, in Formation Processes and Excavation Methods, «Aquileia Nostra», 57, 1986, cc. 209-236 (ristampato in LEONARDI 1992b, 199-235).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Leonardi",
+     "given": "G."
+    }
+   ],
+   "date": "1992",
+   "title": "Procedure di stratigrafia processuale. La necropoli paleoveneta del Piovego a Padova",
+   "is_part_of": [
+    "Formation Processes and Excavation Methods",
+    "Aquileia Nostra"
+   ],
+   "volume": "57",
+   "pages": "209-236",
+   "language": "ita",
+   "notes": "volume of «Aquileia Nostra» dated 1986 in the citation; reprinted in Leonardi 1992b, 199-235",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "LEONARDI G. (ed.) 1992b, Formation Processes and Excavation Methods in Archaeology: Perspectives, Atti del seminario (Padova 1991), Padova, Dipartimento di Scienze dell’Antichità-Università degli Studi di Padova.",
+   "type": "proceedings",
+   "date": "1992",
+   "title": "Formation Processes and Excavation Methods in Archaeology: Perspectives, Atti del seminario (Padova 1991)",
+   "editors": [
+    {
+     "family": "Leonardi",
+     "given": "G."
+    }
+   ],
+   "publisher": "Dipartimento di Scienze dell’Antichità-Università degli Studi di Padova",
+   "place": "Padova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "LEONARDI G., BALISTA C. 1992, Linee di approccio al deposito archeologico, in LEONARDI 1992b, 13-47.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Leonardi",
+     "given": "G."
+    },
+    {
+     "family": "Balista",
+     "given": "C."
+    }
+   ],
+   "date": "1992",
+   "title": "Linee di approccio al deposito archeologico",
+   "editors": [
+    {
+     "family": "Leonardi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Formation Processes and Excavation Methods in Archaeology: Perspectives, Atti del seminario (Padova 1991)"
+   ],
+   "pages": "13-47",
+   "publisher": "Dipartimento di Scienze dell’Antichità-Università degli Studi di Padova",
+   "place": "Padova",
+   "language": "ita",
+   "xref": 44,
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "LOCK G. 2003, Using Computers in Archaeology, London, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Using Computers in Archaeology",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "LOCK G., HARRIS T. 1999, Analysing Change through Time within a Cultural Landscape: Conceptual and Functional Limitations of a GIS Approach (http://www.arkeologi.uu.se/afr/projects/BOOK/lock.pdf; ultimo accesso 11/12/2003).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Harris",
+     "given": "T."
+    }
+   ],
+   "date": "1999",
+   "title": "Analysing Change through Time within a Cultural Landscape: Conceptual and Functional Limitations of a GIS Approach",
+   "language": "eng",
+   "uri": "http://www.arkeologi.uu.se/afr/projects/BOOK/lock.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "MACDONALD A.J. 2001, Virtual archaeology: virtual reality as a tool for the exploration of architecture, submitted for the MSc, «Archaeological Information Systems», University of York, Department of Archaeology, September 2001.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "MacDonald",
+     "given": "A.J."
+    }
+   ],
+   "date": "2001",
+   "title": "Virtual archaeology: virtual reality as a tool for the exploration of architecture",
+   "publisher": "University of York, Department of Archaeology",
+   "language": "eng",
+   "notes": "submitted for the MSc «Archaeological Information Systems», September 2001",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "MEDRI M. 2003, Manuale di rilievo archeologico, Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Manuale di rilievo archeologico",
+   "publisher": "Laterza",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "MOGOROVICH P. 2001, La topologia, lezione 8, dispense del corso, Sistemi Informativi Territoriali I Consorzio Nettuno (http://www.uninettuno.it/materiali/B/172/433/18/Lezione%2008.pdf; ultimo accesso 11/12/2003).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Mogorovich",
+     "given": "P."
+    }
+   ],
+   "date": "2001",
+   "title": "La topologia, lezione 8, dispense del corso, Sistemi Informativi Territoriali I Consorzio Nettuno",
+   "language": "ita",
+   "uri": "http://www.uninettuno.it/materiali/B/172/433/18/Lezione%2008.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 51,
+   "raw": "PARISE BADONI F., RUGGERI GIOVE M. (eds.) 1984, Norme per la redazione della scheda del saggio stratigrafico, Roma, ICCD.",
+   "type": "book",
+   "date": "1984",
+   "title": "Norme per la redazione della scheda del saggio stratigrafico",
+   "editors": [
+    {
+     "family": "Parise Badoni",
+     "given": "F."
+    },
+    {
+     "family": "Ruggeri Giove",
+     "given": "M."
+    }
+   ],
+   "publisher": "ICCD",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "PAPADIAS D., KAVOURAS M. 1994, Acquiring, representing and processing spatial relations, in T.C. WAUGH, R.G HEALEY (eds.), Advances in GIS Research, Proceedings of the 6th International Symposium on Spatial Data Handling (SDH 94) (Edinburgh 1994), London, Taylor & Francis, 2, 631-645.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Papadias",
+     "given": "D."
+    },
+    {
+     "family": "Kavouras",
+     "given": "M."
+    }
+   ],
+   "date": "1994",
+   "title": "Acquiring, representing and processing spatial relations",
+   "editors": [
+    {
+     "family": "Waugh",
+     "given": "T.C."
+    },
+    {
+     "family": "Healey",
+     "given": "R.G."
+    }
+   ],
+   "is_part_of": [
+    "Advances in GIS Research, Proceedings of the 6th International Symposium on Spatial Data Handling (SDH 94) (Edinburgh 1994)"
+   ],
+   "pages": "631-645",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "volume": "2",
+   "confidence": "high"
+  },
+  {
+   "position": 53,
+   "raw": "PUGLISI L.P. 2001, L’architettura parla?, «Archi’t» (Rivista digitale di Architettura) (http://architettura.supereva.it/seminario/prestinenza/prestinenza_01.htm; ultimo accesso 11/12/2003).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Puglisi",
+     "given": "L.P."
+    }
+   ],
+   "date": "2001",
+   "title": "L’architettura parla?",
+   "is_part_of": [
+    "Archi’t"
+   ],
+   "language": "ita",
+   "uri": "http://architettura.supereva.it/seminario/prestinenza/prestinenza_01.htm",
+   "notes": "Rivista digitale di Architettura",
+   "confidence": "high"
+  },
+  {
+   "position": 54,
+   "raw": "RAGIA L., LEOPOLD E. 2003, Matching texts with geographical data, in M. DOERR, A. SARRIS (eds.), The Digital Heritage of Archaeology, Computer Applications and Quantitative Methods in Archaeology, CAA 2002, Hiraklion, Archive of Monuments and Publications, Hellenic Ministry of Culture, 103-107.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ragia",
+     "given": "L."
+    },
+    {
+     "family": "Leopold",
+     "given": "E."
+    }
+   ],
+   "date": "2003",
+   "title": "Matching texts with geographical data",
+   "editors": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "The Digital Heritage of Archaeology, Computer Applications and Quantitative Methods in Archaeology, CAA 2002"
+   ],
+   "pages": "103-107",
+   "publisher": "Archive of Monuments and Publications, Hellenic Ministry of Culture",
+   "place": "Hiraklion",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 55,
+   "raw": "RITTER F., PREIM B., DEUSSEN O., STROTHOTTE T. 2000, Using a 3D puzzle as a metaphor for learning spatial relations, in S.S. FELS, P. POULIN (eds.), Proceedings of Graphics Interface (Montréal, 2000), San Francisco, Morgan Kaufmann Publishers, 171-178 (http://isgwww.cs.uni-magdeburg.de/~fritter/postscript/GI2000.pdf; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ritter",
+     "given": "F."
+    },
+    {
+     "family": "Preim",
+     "given": "B."
+    },
+    {
+     "family": "Deussen",
+     "given": "O."
+    },
+    {
+     "family": "Strothotte",
+     "given": "T."
+    }
+   ],
+   "date": "2000",
+   "title": "Using a 3D puzzle as a metaphor for learning spatial relations",
+   "editors": [
+    {
+     "family": "Fels",
+     "given": "S.S."
+    },
+    {
+     "family": "Poulin",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of Graphics Interface (Montréal, 2000)"
+   ],
+   "pages": "171-178",
+   "publisher": "Morgan Kaufmann Publishers",
+   "place": "San Francisco",
+   "language": "eng",
+   "uri": "http://isgwww.cs.uni-magdeburg.de/~fritter/postscript/GI2000.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 56,
+   "raw": "RYAN N.S. 1985, Some thoughts on an archaeologist’s toolkit, in E. WEBB (ed.), Computer Applications in Archaeology, London, University of London Institute of Archaeology, 126-132.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ryan",
+     "given": "N.S."
+    }
+   ],
+   "date": "1985",
+   "title": "Some thoughts on an archaeologist’s toolkit",
+   "editors": [
+    {
+     "family": "Webb",
+     "given": "E."
+    }
+   ],
+   "is_part_of": [
+    "Computer Applications in Archaeology"
+   ],
+   "pages": "126-132",
+   "publisher": "University of London Institute of Archaeology",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 57,
+   "raw": "RYAN N.S. 2001, Jnet, a successor to gnet, in Archaologie und Computer, Workshop 6, Forschungsgesellschaft Wiener Stadtarchäologie, November 2001 (CD-ROM).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ryan",
+     "given": "N.S."
+    }
+   ],
+   "date": "2001",
+   "title": "Jnet, a successor to gnet",
+   "is_part_of": [
+    "Archaologie und Computer, Workshop 6"
+   ],
+   "publisher": "Forschungsgesellschaft Wiener Stadtarchäologie",
+   "language": "eng",
+   "notes": "November 2001 (CD-ROM)",
+   "confidence": "high"
+  },
+  {
+   "position": 58,
+   "raw": "SCHIAVONI U., IOANNILLI M. 2002-2003, Corso di tecniche di analisi urbane e territoriali (appunti), Roma, Università degli Studi “Tor Vergata”.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Schiavoni",
+     "given": "U."
+    },
+    {
+     "family": "Ioannilli",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Corso di tecniche di analisi urbane e territoriali (appunti)",
+   "publisher": "Università degli Studi “Tor Vergata”",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited 2002-2003",
+   "confidence": "high"
+  },
+  {
+   "position": 59,
+   "raw": "SHARMA J., FLEWELLING D., EGENHOFER M. 1994, A Qualitative Spatial Reasoner, in 6th International Symposium on Spatial Data Handling (SDH) (Edinburgh 1994), London, Taylor & Francis, 665-681 (http://www.spatial.maine.edu/~max/QR.pdf; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sharma",
+     "given": "J."
+    },
+    {
+     "family": "Flewelling",
+     "given": "D."
+    },
+    {
+     "family": "Egenhofer",
+     "given": "M."
+    }
+   ],
+   "date": "1994",
+   "title": "A Qualitative Spatial Reasoner",
+   "is_part_of": [
+    "6th International Symposium on Spatial Data Handling (SDH) (Edinburgh 1994)"
+   ],
+   "pages": "665-681",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "uri": "http://www.spatial.maine.edu/~max/QR.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 60,
+   "raw": "THEOBALD D.M. 2001, Understanding Topology and Shapefiles, «ArcUser», April-June (http://www.esri.com/news/arcuser/0401/topo.html; ultimo accesso 11/12/2003).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Theobald",
+     "given": "D.M."
+    }
+   ],
+   "date": "2001",
+   "title": "Understanding Topology and Shapefiles",
+   "is_part_of": [
+    "ArcUser"
+   ],
+   "issue": "April-June",
+   "language": "eng",
+   "uri": "http://www.esri.com/news/arcuser/0401/topo.html",
+   "confidence": "high"
+  },
+  {
+   "position": 61,
+   "raw": "TOSI M., CATTANI M., CURCI A., MARCUCCI L.G., USAI D. 2001-2002, Missione archeologica nel Sultanato di Oman “Joint hadd Project”. Campagna di ricerca 2000-2001, «Ocnus», 9/10, 357-366.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tosi",
+     "given": "M."
+    },
+    {
+     "family": "Cattani",
+     "given": "M."
+    },
+    {
+     "family": "Curci",
+     "given": "A."
+    },
+    {
+     "family": "Marcucci",
+     "given": "L.G."
+    },
+    {
+     "family": "Usai",
+     "given": "D."
+    }
+   ],
+   "date": "2001",
+   "title": "Missione archeologica nel Sultanato di Oman “Joint hadd Project”. Campagna di ricerca 2000-2001",
+   "is_part_of": [
+    "Ocnus"
+   ],
+   "volume": "9/10",
+   "pages": "357-366",
+   "language": "ita",
+   "notes": "cited 2001-2002",
+   "confidence": "high"
+  },
+  {
+   "position": 62,
+   "raw": "VANZETTI A. 1992, Sepolture a cremazione. Diagrammi di flusso tra processi ed esito archeologico, in LEONARDI 1992b, 213-231.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vanzetti",
+     "given": "A."
+    }
+   ],
+   "date": "1992",
+   "title": "Sepolture a cremazione. Diagrammi di flusso tra processi ed esito archeologico",
+   "editors": [
+    {
+     "family": "Leonardi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Formation Processes and Excavation Methods in Archaeology: Perspectives, Atti del seminario (Padova 1991)"
+   ],
+   "pages": "213-231",
+   "publisher": "Dipartimento di Scienze dell’Antichità-Università degli Studi di Padova",
+   "place": "Padova",
+   "language": "ita",
+   "xref": 44,
+   "confidence": "high"
+  },
+  {
+   "position": 63,
+   "raw": "ZEILER M. 1999, Modeling Our World: The ESRI Guide to Geodatabase Design, ESRI Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Zeiler",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Modeling Our World: The ESRI Guide to Geodatabase Design",
+   "publisher": "ESRI Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 64,
+   "raw": "ZLATANOVA S., GRUBER M. 1998, 3D Urban GIS, in Proceedings of the International Symposium on GIS: Between Vision and Applications (Stuttgart 1998), 691-699 (http://www.gdmc.nl/zlatanova/thesis/html/refer/ps/sz_mg98.pdf; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zlatanova",
+     "given": "S."
+    },
+    {
+     "family": "Gruber",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "3D Urban GIS",
+   "is_part_of": [
+    "Proceedings of the International Symposium on GIS: Between Vision and Applications (Stuttgart 1998)"
+   ],
+   "pages": "691-699",
+   "language": "eng",
+   "uri": "http://www.gdmc.nl/zlatanova/thesis/html/refer/ps/sz_mg98.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 65,
+   "raw": "ZLATANOVA S., RAHMAN A.A., SHI W. 2002, Topology for 3D spatial objects, in Proceedings of International Symposium and Exhibition on Geoinformation 2002 (Kuala Lumpur 2002), (CD-ROM) (http://www.gdmc.nl/zlatanova/thesis/html/refer/ps/SZ_AR_WS_02.pdf; ultimo accesso 11/12/2003).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zlatanova",
+     "given": "S."
+    },
+    {
+     "family": "Rahman",
+     "given": "A.A."
+    },
+    {
+     "family": "Shi",
+     "given": "W."
+    }
+   ],
+   "date": "2002",
+   "title": "Topology for 3D spatial objects",
+   "is_part_of": [
+    "Proceedings of International Symposium and Exhibition on Geoinformation 2002 (Kuala Lumpur 2002)"
+   ],
+   "language": "eng",
+   "uri": "http://www.gdmc.nl/zlatanova/thesis/html/refer/ps/SZ_AR_WS_02.pdf",
+   "notes": "CD-ROM",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,370 @@
+{
+ "citing_aec_id": 105,
+ "source_file": "data/journal/5/105.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AHMED F.A. 1983, A laser scanning plotter for measurements of archaeological objects, « Journal of Field Archaeology », 10, 236-238.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ahmed",
+     "given": "F.A."
+    }
+   ],
+   "date": "1983",
+   "title": "A laser scanning plotter for measurements of archaeological objects",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "volume": "10",
+   "pages": "236-238",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "ANER E. 1975, Ein Gerät für die Umrißprojektion, « DFG Mitteilungen », 2, 42-44.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Aner",
+     "given": "E."
+    }
+   ],
+   "date": "1975",
+   "title": "Ein Gerät für die Umrißprojektion",
+   "is_part_of": [
+    "DFG Mitteilungen"
+   ],
+   "volume": "2",
+   "pages": "42-44",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "DIBBLE H.L., CHASE P.G. 1981, A new method for describing and analyzing artifact shape, « American Antiquity », 46, 178-187.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dibble",
+     "given": "H.L."
+    },
+    {
+     "family": "Chase",
+     "given": "P.G."
+    }
+   ],
+   "date": "1981",
+   "title": "A new method for describing and analyzing artifact shape",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "46",
+   "pages": "178-187",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "EICHSTAEDT P.A. 1978, Ein neues Gerät zum Umzeichnen archäologischer Funde, « Archäologisches Korrespondenzblatt », 14, 417-436.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Eichstaedt",
+     "given": "P.A."
+    }
+   ],
+   "date": "1978",
+   "title": "Ein neues Gerät zum Umzeichnen archäologischer Funde",
+   "is_part_of": [
+    "Archäologisches Korrespondenzblatt"
+   ],
+   "volume": "14",
+   "pages": "417-436",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "FORTE M., GUIDAZZOLI A. 1992, Archeologia e tecniche di eidologia informatica, « Archeologia e Calcolatori », 3, 37-76.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    }
+   ],
+   "date": "1992",
+   "title": "Archeologia e tecniche di eidologia informatica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "3",
+   "pages": "37-76",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "GUERMANDI M.P., QUARTILI L., SANTORO S., MINGUCCI R. 1992, Le sperimentazioni sulla ceramica dell’Istituto di Archeologia dell’Università di Bologna, « Archeologia e Calcolatori », 3, 157-198.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    },
+    {
+     "family": "Quartili",
+     "given": "L."
+    },
+    {
+     "family": "Santoro",
+     "given": "S."
+    },
+    {
+     "family": "Mingucci",
+     "given": "R."
+    }
+   ],
+   "date": "1992",
+   "title": "Le sperimentazioni sulla ceramica dell’Istituto di Archeologia dell’Università di Bologna",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "3",
+   "pages": "157-198",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "KAMPFFMEYER U., ZAMPERONI P., TEEGEN W.R., GRACA L. 1988, Untersuchungen zur rechnergestützten Klassifikation der Form von Keramik, Arbeiten zur Urgeschichte des Menschen, 11, Frankfurt.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    },
+    {
+     "family": "Zamperoni",
+     "given": "P."
+    },
+    {
+     "family": "Teegen",
+     "given": "W.R."
+    },
+    {
+     "family": "Graca",
+     "given": "L."
+    }
+   ],
+   "date": "1988",
+   "title": "Untersuchungen zur rechnergestützten Klassifikation der Form von Keramik",
+   "series": "Arbeiten zur Urgeschichte des Menschen",
+   "series_number": "11",
+   "place": "Frankfurt",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "KORBEL G. 1978, Ein System zum Zeichnen von Keramik, « Archäologisches Korrespondenzblatt », 8, 149-151.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Korbel",
+     "given": "G."
+    }
+   ],
+   "date": "1978",
+   "title": "Ein System zum Zeichnen von Keramik",
+   "is_part_of": [
+    "Archäologisches Korrespondenzblatt"
+   ],
+   "volume": "8",
+   "pages": "149-151",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "KRINZINGER F., SCHICK M., TEEGEN W.R. 1990, Un calcolatore disegna e registra ceramica antica: il sistema ARCOS-1 negli scavi di Velia, comune di Ascea (Salerno), « Archeologia e Calcolatori », 1, 179-210.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Krinzinger",
+     "given": "F."
+    },
+    {
+     "family": "Schick",
+     "given": "M."
+    },
+    {
+     "family": "Teegen",
+     "given": "W.R."
+    }
+   ],
+   "date": "1990",
+   "title": "Un calcolatore disegna e registra ceramica antica: il sistema ARCOS-1 negli scavi di Velia, comune di Ascea (Salerno)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "179-210",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "LEONARDI G., PENELLO G. 1991, Il disegno archeologico della ceramica, in G. LEONARDI, G. PENELLO (edd.), Il disegno archeologico della ceramica e altri problemi, Padova, 9-76.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Leonardi",
+     "given": "G."
+    },
+    {
+     "family": "Penello",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Leonardi",
+     "given": "G."
+    },
+    {
+     "family": "Penello",
+     "given": "G."
+    }
+   ],
+   "date": "1991",
+   "title": "Il disegno archeologico della ceramica",
+   "is_part_of": [
+    "Il disegno archeologico della ceramica e altri problemi"
+   ],
+   "pages": "9-76",
+   "place": "Padova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "MICHELI M., PRACCHIA S., RISPOLI F., VIDALE M. 1991, Una nuova procedura per il disegno di frammenti ceramici archeologici, in G. LEONARDI, G. PENELLO (edd.), Il disegno archeologico della ceramica e altri problemi, Padova, 77-86.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Micheli",
+     "given": "M."
+    },
+    {
+     "family": "Pracchia",
+     "given": "S."
+    },
+    {
+     "family": "Rispoli",
+     "given": "F."
+    },
+    {
+     "family": "Vidale",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Leonardi",
+     "given": "G."
+    },
+    {
+     "family": "Penello",
+     "given": "G."
+    }
+   ],
+   "date": "1991",
+   "title": "Una nuova procedura per il disegno di frammenti ceramici archeologici",
+   "is_part_of": [
+    "Il disegno archeologico della ceramica e altri problemi"
+   ],
+   "pages": "77-86",
+   "place": "Padova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "MINGUCCI R. 1992, Applicazioni di disegno interattivo alla documentazione di reperti archeologici in ceramica grezza, « Archeologia e Calcolatori », 3, 188-198.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mingucci",
+     "given": "R."
+    }
+   ],
+   "date": "1992",
+   "title": "Applicazioni di disegno interattivo alla documentazione di reperti archeologici in ceramica grezza",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "3",
+   "pages": "188-198",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "SCOTT P.J. 1982, Drawing and measurements of finds: a Reflex action, « World Archaeology », 14, n. 2, 191-199.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scott",
+     "given": "P.J."
+    }
+   ],
+   "date": "1982",
+   "title": "Drawing and measurements of finds: a Reflex action",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "14",
+   "pages": "191-199",
+   "language": "eng",
+   "issue": "2",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "TURNER J.D., KEARY A.C., PEACOCK D.P.S. 1990, Drawing potsherds: a low-cost computer-based system, « Archaeometry », 32, 2, 177-182.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Turner",
+     "given": "J.D."
+    },
+    {
+     "family": "Keary",
+     "given": "A.C."
+    },
+    {
+     "family": "Peacock",
+     "given": "D.P.S."
+    }
+   ],
+   "date": "1990",
+   "title": "Drawing potsherds: a low-cost computer-based system",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "32",
+   "pages": "177-182",
+   "language": "eng",
+   "issue": "2",
+   "confidence": "high"
+  }
+ ]
+}

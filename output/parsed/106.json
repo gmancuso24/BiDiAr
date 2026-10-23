@@ -1,0 +1,408 @@
+{
+ "citing_aec_id": 106,
+ "source_file": "data/journal/5/106.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "GIMBUTAS M. 1989, The Goddess and Gods o/ Old Europe, Myths and Culture Images, London, Thames and Hudson Ltd.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gimbutas",
+     "given": "M."
+    }
+   ],
+   "date": "1989",
+   "title": "The Goddess and Gods of Old Europe, Myths and Culture Images",
+   "language": "eng",
+   "place": "London",
+   "publisher": "Thames and Hudson Ltd",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "FRANCFORT H.-P., LAGRANGE M.-S., RENAUD M. 1989, PALAMEDE. Application des systèmes experts à l'archéologie des civilisations urbaines protohistoriques, (2 Voi.), Document de travail, N° 9, Paris, LISH/UPR 315, CNRS, Paris.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Francfort",
+     "given": "H.-P."
+    },
+    {
+     "family": "Lagrange",
+     "given": "M.-S."
+    },
+    {
+     "family": "Renaud",
+     "given": "M."
+    }
+   ],
+   "date": "1989",
+   "title": "PALAMEDE. Application des systèmes experts à l'archéologie des civilisations urbaines protohistoriques",
+   "language": "fre",
+   "series": "Document de travail",
+   "series_number": "9",
+   "place": "Paris",
+   "publisher": "LISH/UPR 315, CNRS",
+   "notes": "working document, 2 volumes",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "GALLAY A. 1986, L'Archéologie demain, Paris, Belfond/Sciences.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "date": "1986",
+   "title": "L'Archéologie demain",
+   "language": "fre",
+   "place": "Paris",
+   "publisher": "Belfond/Sciences",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "GARDIN J.-C. 1980, Archaeological Constructs, Paris, Maison des Sciences de l'Homme, et Cambridge, Cambridge University Press. Traduction française sous le titre: Une archéologie théorique, 1979, Paris, Hachette.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1980",
+   "title": "Archaeological Constructs",
+   "language": "eng",
+   "place": "Paris, Cambridge",
+   "publisher": "Maison des Sciences de l'Homme; Cambridge University Press",
+   "notes": "French translation Une archéologie théorique (1979, Hachette) mentioned in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "GARDIN J.-C. 1991, Le calcul et la raison, Paris, Editions de l'Ecole des Hautes Etudes en Sciences Sociales.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1991",
+   "title": "Le calcul et la raison",
+   "language": "fre",
+   "place": "Paris",
+   "publisher": "Editions de l'Ecole des Hautes Etudes en Sciences Sociales",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "GARDIN J.-C., LAGRANGE M.-S. 1975, Essais d'analyse du discours archéologique, Notes et monographies techniques du Centre de Recherches Archéologiques, N° 7, Sophia Antipolis, Editions du CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    },
+    {
+     "family": "Lagrange",
+     "given": "M.-S."
+    }
+   ],
+   "date": "1975",
+   "title": "Essais d'analyse du discours archéologique",
+   "language": "fre",
+   "series": "Notes et monographies techniques du Centre de Recherches Archéologiques",
+   "series_number": "7",
+   "place": "Sophia Antipolis",
+   "publisher": "Editions du CNRS",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "GARDIN J.-C., LAGRANGE M.-S., MARTIN J.-M., MOLINO J., NATALI J. 1981, La Logique du Plausible. Essais d'épistimologie pratique, Seconde édition: 1987, Paris, Editions de la Maison des Sciences de l'Homme.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    },
+    {
+     "family": "Lagrange",
+     "given": "M.-S."
+    },
+    {
+     "family": "Martin",
+     "given": "J.-M."
+    },
+    {
+     "family": "Molino",
+     "given": "J."
+    },
+    {
+     "family": "Natali",
+     "given": "J."
+    }
+   ],
+   "date": "1981",
+   "title": "La Logique du Plausible. Essais d'épistimologie pratique",
+   "language": "fre",
+   "edition": "2",
+   "place": "Paris",
+   "publisher": "Editions de la Maison des Sciences de l'Homme",
+   "notes": "cited \"Seconde édition: 1987\"",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "GARDIN J.-C., GUILLAUME O., HERMAN P.Q., HESNARD A., LAGRANGE M.-S. RENAUD M., ZADORA-RIO E. 1987, Systèmes experts et sciences humaines: le cas de l'archéologie, Paris, Eyrolles.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    },
+    {
+     "family": "Guillaume",
+     "given": "O."
+    },
+    {
+     "family": "Herman",
+     "given": "P.Q."
+    },
+    {
+     "family": "Hesnard",
+     "given": "A."
+    },
+    {
+     "family": "Lagrange",
+     "given": "M.-S."
+    },
+    {
+     "family": "Renaud",
+     "given": "M."
+    },
+    {
+     "family": "Zadora-Rio",
+     "given": "E."
+    }
+   ],
+   "date": "1987",
+   "title": "Systèmes experts et sciences humaines: le cas de l'archéologie",
+   "language": "fre",
+   "place": "Paris",
+   "publisher": "Eyrolles",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "LAGRANGE M.-S., BoNNET C. 1978, Les chemins de la \"Memoria \". Nouvel essai d'analyse du discours archéologique, Notes et monographies techniques du Centre de Recherches Archéologiques, N° 10, Sophia Antipolis, Editions du CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lagrange",
+     "given": "M.-S."
+    },
+    {
+     "family": "Bonnet",
+     "given": "C."
+    }
+   ],
+   "date": "1978",
+   "title": "Les chemins de la Memoria. Nouvel essai d'analyse du discours archéologique",
+   "language": "fre",
+   "series": "Notes et monographies techniques du Centre de Recherches Archéologiques",
+   "series_number": "10",
+   "place": "Sophia Antipolis",
+   "publisher": "Editions du CNRS",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "LAGRANGE M.-S., RENAUD M. 1987a, SUPERIKON, essai de cumul de six expertises en iconographie, dans GARDIN et al. 1987, 191-229.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lagrange",
+     "given": "M.-S."
+    },
+    {
+     "family": "Renaud",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1987",
+   "title": "SUPERIKON, essai de cumul de six expertises en iconographie",
+   "is_part_of": [
+    "Systèmes experts et sciences humaines: le cas de l'archéologie"
+   ],
+   "language": "fre",
+   "pages": "191-229",
+   "xref": 8,
+   "notes": "container authored by Gardin et al.",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "GIFFORD-GONZALES D. 1991, Bones are not enough: analogues, knowledge, and interpretive strategies in zooarchaelogy, « Journal of Anthropological Archaeology », 10, 215-254.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gifford-Gonzales",
+     "given": "D."
+    }
+   ],
+   "date": "1991",
+   "title": "Bones are not enough: analogues, knowledge, and interpretive strategies in zooarchaeology",
+   "is_part_of": [
+    "Journal of Anthropological Archaeology"
+   ],
+   "language": "eng",
+   "volume": "10",
+   "pages": "215-254",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "STOCZKOWSKI W. (ed.) 1991, Les Nouvelles de L'Archéologie, Numéro spécial consacré à: L'archéologie: démarches savantes et conceptions nai:ves, voi. 44, Eté.",
+   "type": "article",
+   "editors": [
+    {
+     "family": "Stoczkowski",
+     "given": "W."
+    }
+   ],
+   "date": "1991",
+   "title": "L'archéologie: démarches savantes et conceptions naïves",
+   "is_part_of": [
+    "Les Nouvelles de L'Archéologie"
+   ],
+   "language": "fre",
+   "volume": "44",
+   "issue": "Eté",
+   "notes": "special issue",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "STOCZKOWSKI W. 1992, Origines de l'homme: quand la science répète le mythe, « La Recherche », 244, Juin, 746-750.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Stoczkowski",
+     "given": "W."
+    }
+   ],
+   "date": "1992",
+   "title": "Origines de l'homme: quand la science répète le mythe",
+   "is_part_of": [
+    "La Recherche"
+   ],
+   "language": "fre",
+   "volume": "244",
+   "issue": "Juin",
+   "pages": "746-750",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "TRIGGER B.C. 1991, Distinguished lecture in archaeology: Constraint and freedom, « American Anthropologist », 93, 3, Septembre, 551-569.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Trigger",
+     "given": "B.C."
+    }
+   ],
+   "date": "1991",
+   "title": "Distinguished lecture in archaeology: Constraint and freedom",
+   "is_part_of": [
+    "American Anthropologist"
+   ],
+   "language": "eng",
+   "volume": "93",
+   "issue": "3",
+   "pages": "551-569",
+   "notes": "Septembre",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "LAURIÈRE J.-L. 1986a, Intelligence Arti/icielle. Résolution de problèmes par l'homme et la machine, Paris, Editions Eyrolles.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Laurière",
+     "given": "J.-L."
+    }
+   ],
+   "date": "1986",
+   "title": "Intelligence Artificielle. Résolution de problèmes par l'homme et la machine",
+   "language": "fre",
+   "place": "Paris",
+   "publisher": "Editions Eyrolles",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "LAURIÈRE J.-L. 19866, Un langage déclaratif SNARK, « Technique et science informatiques », 3, 141-172.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Laurière",
+     "given": "J.-L."
+    }
+   ],
+   "date": "1986",
+   "title": "Un langage déclaratif SNARK",
+   "is_part_of": [
+    "Technique et science informatiques"
+   ],
+   "language": "fre",
+   "volume": "3",
+   "pages": "141-172",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "LAGRANGE M.-S., RENAUD M. 19876, Le système SNARK, dans GARDIN et al. 1987, 42-55.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lagrange",
+     "given": "M.-S."
+    },
+    {
+     "family": "Renaud",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1987",
+   "title": "Le système SNARK",
+   "is_part_of": [
+    "Systèmes experts et sciences humaines: le cas de l'archéologie"
+   ],
+   "language": "fre",
+   "pages": "42-55",
+   "xref": 8,
+   "notes": "container authored by Gardin et al.",
+   "confidence": "high"
+  }
+ ]
+}

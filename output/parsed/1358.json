@@ -1,0 +1,553 @@
+{
+ "citing_aec_id": 1358,
+ "source_file": "data/journal/35/1358.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Berners-Lee T., Hendler J., Lassila O. 2001, *The Semantic Web*, «Scientific American», 284, 5, 34-43.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Berners-Lee",
+     "given": "T."
+    },
+    {
+     "family": "Hendler",
+     "given": "J."
+    },
+    {
+     "family": "Lassila",
+     "given": "O."
+    }
+   ],
+   "date": "2001",
+   "title": "The Semantic Web",
+   "is_part_of": [
+    "Scientific American"
+   ],
+   "volume": "284",
+   "issue": "5",
+   "pages": "34-43",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Brancato R., Nicolosi-Asmundo M., Pagano G., Santamaria D.F., Ucchino S. 2019a, *An ontology for legacy data on ancient ceramics of the plain of Catania*, in A. Casagrande, E. Omodeo (eds.), *Proceedings of the 34th Italian Conference on Computational Logic (Trieste 2019)*, CEUR-WS, 2396, 59-67.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    },
+    {
+     "family": "Nicolosi-Asmundo",
+     "given": "M."
+    },
+    {
+     "family": "Pagano",
+     "given": "G."
+    },
+    {
+     "family": "Santamaria",
+     "given": "D.F."
+    },
+    {
+     "family": "Ucchino",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Casagrande",
+     "given": "A."
+    },
+    {
+     "family": "Omodeo",
+     "given": "E."
+    }
+   ],
+   "date": "2019",
+   "title": "An ontology for legacy data on ancient ceramics of the plain of Catania",
+   "is_part_of": [
+    "Proceedings of the 34th Italian Conference on Computational Logic (Trieste 2019)",
+    "CEUR-WS"
+   ],
+   "volume": "2396",
+   "pages": "59-67",
+   "language": "eng",
+   "notes": "cited as 2019a"
+  },
+  {
+   "position": 3,
+   "raw": "Brancato R., Nicolosi-Asmundo M., Pagano G., Santamaria D.F., Ucchino S. 2019b, *Towards an ontology for investigating on archaeological Sicilian landscapes*, in C. Meghini, A. Poggi (eds.), *Proceedings of the 1st International Workshop on Open Data and Ontologies for Cultural Heritage 2019 (Rome 2019)*, CEUR-WS, 2375, 85-90.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    },
+    {
+     "family": "Nicolosi-Asmundo",
+     "given": "M."
+    },
+    {
+     "family": "Pagano",
+     "given": "G."
+    },
+    {
+     "family": "Santamaria",
+     "given": "D.F."
+    },
+    {
+     "family": "Ucchino",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Meghini",
+     "given": "C."
+    },
+    {
+     "family": "Poggi",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "title": "Towards an ontology for investigating on archaeological Sicilian landscapes",
+   "is_part_of": [
+    "Proceedings of the 1st International Workshop on Open Data and Ontologies for Cultural Heritage 2019 (Rome 2019)",
+    "CEUR-WS"
+   ],
+   "volume": "2375",
+   "pages": "85-90",
+   "language": "eng",
+   "notes": "cited as 2019b"
+  },
+  {
+   "position": 4,
+   "raw": "Cantale C., Cantone D., Lupica Rinato M., Nicolosi-Asmundo M., Santamaria D.F., Stufano Melone M.R. 2021, *The ideal Benedictine monastery: From the Saint Gall map to ontologies*, «Applied Ontology», 16, 2, 137-160.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cantale",
+     "given": "C."
+    },
+    {
+     "family": "Cantone",
+     "given": "D."
+    },
+    {
+     "family": "Lupica Rinato",
+     "given": "M."
+    },
+    {
+     "family": "Nicolosi-Asmundo",
+     "given": "M."
+    },
+    {
+     "family": "Santamaria",
+     "given": "D.F."
+    },
+    {
+     "family": "Stufano Melone",
+     "given": "M.R."
+    }
+   ],
+   "date": "2021",
+   "title": "The ideal Benedictine monastery: From the Saint Gall map to ontologies",
+   "is_part_of": [
+    "Applied Ontology"
+   ],
+   "volume": "16",
+   "issue": "2",
+   "pages": "137-160",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Cantale C., Cantone D., Nicolosi-Asmundo M., Santamaria D.F. 2017, *Distant reading through ontologies: The case study of Catania's benedictines monastery*, «Italian Journal of Library, Archives and Information Sciences», 8, 3, 203-219.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cantale",
+     "given": "C."
+    },
+    {
+     "family": "Cantone",
+     "given": "D."
+    },
+    {
+     "family": "Nicolosi-Asmundo",
+     "given": "M."
+    },
+    {
+     "family": "Santamaria",
+     "given": "D.F."
+    }
+   ],
+   "date": "2017",
+   "title": "Distant reading through ontologies: The case study of Catania's benedictines monastery",
+   "is_part_of": [
+    "Italian Journal of Library, Archives and Information Sciences"
+   ],
+   "volume": "8",
+   "issue": "3",
+   "pages": "203-219",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Cantone D., Nicolosi-Asmundo M., Santamaria D.F., Trapani F. 2015, *Ontoceramic: An OWL ontology for ceramics classification*, in D. Ancona, M. Maratea, V. Mascardi (eds.), *Proceedings of the 30th Italian Conference of Computational Logic (Genova 2015)*, CEUR-WS, 1459, 122-127.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "D."
+    },
+    {
+     "family": "Nicolosi-Asmundo",
+     "given": "M."
+    },
+    {
+     "family": "Santamaria",
+     "given": "D.F."
+    },
+    {
+     "family": "Trapani",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ancona",
+     "given": "D."
+    },
+    {
+     "family": "Maratea",
+     "given": "M."
+    },
+    {
+     "family": "Mascardi",
+     "given": "V."
+    }
+   ],
+   "date": "2015",
+   "title": "Ontoceramic: An OWL ontology for ceramics classification",
+   "is_part_of": [
+    "Proceedings of the 30th Italian Conference of Computational Logic (Genova 2015)",
+    "CEUR-WS"
+   ],
+   "volume": "1459",
+   "pages": "122-127",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Cantone D., Cristofaro S., Nicolosi-Asmundo M., Prado F., Santamaria D.F., Spampinato D. 2019, *An EpiDoc Ontological Perspective: The Epigraphs of the Castello Ursino Civic Museum of Catania via CIDOC CRM*, «Archeologia e Calcolatori», 30, 139-157 (https://doi.org/10.19282/ac.30.2019.10).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "D."
+    },
+    {
+     "family": "Cristofaro",
+     "given": "S."
+    },
+    {
+     "family": "Nicolosi-Asmundo",
+     "given": "M."
+    },
+    {
+     "family": "Prado",
+     "given": "F."
+    },
+    {
+     "family": "Santamaria",
+     "given": "D.F."
+    },
+    {
+     "family": "Spampinato",
+     "given": "D."
+    }
+   ],
+   "date": "2019",
+   "title": "An EpiDoc Ontological Perspective: The Epigraphs of the Castello Ursino Civic Museum of Catania via CIDOC CRM",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "30",
+   "pages": "139-157",
+   "language": "eng",
+   "doi": "10.19282/ac.30.2019.10",
+   "cited_aec_id": 1045
+  },
+  {
+   "position": 8,
+   "raw": "Felicetti A., Murano F. 2017, *Scripta manent: A CIDOC CRM semiotic reading of ancient texts*, «International Journal on Digital Libraries», 18, 4, 263-270.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Felicetti",
+     "given": "A."
+    },
+    {
+     "family": "Murano",
+     "given": "F."
+    }
+   ],
+   "date": "2017",
+   "title": "Scripta manent: A CIDOC CRM semiotic reading of ancient texts",
+   "is_part_of": [
+    "International Journal on Digital Libraries"
+   ],
+   "volume": "18",
+   "issue": "4",
+   "pages": "263-270",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Gilmour G. 2002, *Foreign burials in Late Bronze Age Palestine*, «Near Eastern Archaeology», 65, 2, 112-119.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gilmour",
+     "given": "G."
+    }
+   ],
+   "date": "2002",
+   "title": "Foreign burials in Late Bronze Age Palestine",
+   "is_part_of": [
+    "Near Eastern Archaeology"
+   ],
+   "volume": "65",
+   "issue": "2",
+   "pages": "112-119",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Killebrew A.E. 2012, *Biblical peoples and ethnicity. An archaeological study of Egyptians, Canaanite, Philistines, and Early Israel 1300-1100 BCE*, «Society of Biblical Literature – Archaeology and Biblical Studies», 9.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Killebrew",
+     "given": "A.E."
+    }
+   ],
+   "date": "2012",
+   "title": "Biblical peoples and ethnicity. An archaeological study of Egyptians, Canaanite, Philistines, and Early Israel 1300-1100 BCE",
+   "is_part_of": [
+    "Society of Biblical Literature – Archaeology and Biblical Studies"
+   ],
+   "volume": "9",
+   "language": "eng",
+   "notes": "cited as journal; actually a monograph series"
+  },
+  {
+   "position": 11,
+   "raw": "Koch I. 2019, *Religion at Lachish under Egyptian colonialism*, «Die Welt Des Orients», 49, 2, 161-182.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Koch",
+     "given": "I."
+    }
+   ],
+   "date": "2019",
+   "title": "Religion at Lachish under Egyptian colonialism",
+   "is_part_of": [
+    "Die Welt Des Orients"
+   ],
+   "volume": "49",
+   "issue": "2",
+   "pages": "161-182",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Laneri N. 2024, *From Ritual to God in the Ancient Near East. Tracing the Origins of Religion*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Laneri",
+     "given": "N."
+    }
+   ],
+   "date": "2024",
+   "title": "From Ritual to God in the Ancient Near East. Tracing the Origins of Religion",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Laneri N., Nicolosi-Asmundo M., Santamaria D.F., Pappalardo C. 2024, *Godscapes: modeling second millennium BCE polytheisms in the eastern Mediterranean thanks to the Storage project*, in A. Di Silvesto, D. Spampinato (eds.), *Me.Te. Digitali. Mediterraneo in rete tra testi e contesti, Proceedings XIII Convegno Annuale AIUCD (Catania 2024)*, 525-529 (poster).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Laneri",
+     "given": "N."
+    },
+    {
+     "family": "Nicolosi-Asmundo",
+     "given": "M."
+    },
+    {
+     "family": "Santamaria",
+     "given": "D.F."
+    },
+    {
+     "family": "Pappalardo",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Di Silvestro",
+     "given": "A."
+    },
+    {
+     "family": "Spampinato",
+     "given": "D."
+    }
+   ],
+   "date": "2024",
+   "title": "Godscapes: modeling second millennium BCE polytheisms in the eastern Mediterranean thanks to the Storage project",
+   "is_part_of": [
+    "Me.Te. Digitali. Mediterraneo in rete tra testi e contesti, Proceedings XIII Convegno Annuale AIUCD (Catania 2024)"
+   ],
+   "pages": "525-529",
+   "language": "eng",
+   "notes": "poster; editor cited \"Di Silvesto\""
+  },
+  {
+   "position": 14,
+   "raw": "Laneri N., Pappalardo C. in press, *Patterns of religiosity in the Levant and Egypt during the second millennium BCE: The case of the anthropoid clay coffins*, in *Studies in honour of Marilina Betrò*.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Laneri",
+     "given": "N."
+    },
+    {
+     "family": "Pappalardo",
+     "given": "C."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Patterns of religiosity in the Levant and Egypt during the second millennium BCE: The case of the anthropoid clay coffins",
+   "is_part_of": [
+    "Studies in honour of Marilina Betrò"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "position": 15,
+   "raw": "Oggiano I. 2005, *Dal terreno al divino: archeologia del culto nella Palestina del primo millennio*, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Oggiano",
+     "given": "I."
+    }
+   ],
+   "date": "2005",
+   "title": "Dal terreno al divino: archeologia del culto nella Palestina del primo millennio",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Schulz S., Jansen L. 2018, *Towards an ontology of religious and spiritual belief*, in S. Borgo et al. (eds.), *Proceedings of the 10th International Conference (FOIS 2018)*, Amsterdam, IOS Press, 253-260.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Schulz",
+     "given": "S."
+    },
+    {
+     "family": "Jansen",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Borgo",
+     "given": "S. et al."
+    }
+   ],
+   "date": "2018",
+   "title": "Towards an ontology of religious and spiritual belief",
+   "is_part_of": [
+    "Proceedings of the 10th International Conference (FOIS 2018)"
+   ],
+   "pages": "253-260",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Smith M.S. 2001, *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts*, Oxford, Oxford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Smith",
+     "given": "M.S."
+    }
+   ],
+   "date": "2001",
+   "title": "The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Staab S., Studer R. 2010, *Handbook on Ontologies*, Dordrecht, Springer Science & Business Media.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Staab",
+     "given": "S."
+    },
+    {
+     "family": "Studer",
+     "given": "R."
+    }
+   ],
+   "date": "2010",
+   "title": "Handbook on Ontologies",
+   "publisher": "Springer Science & Business Media",
+   "place": "Dordrecht",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Stockhammer P.W. 2013, *From hybridity to entanglement, from essentialism to practice*, «Archaeological Review from Cambridge», 28, 1, 11-28.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Stockhammer",
+     "given": "P.W."
+    }
+   ],
+   "date": "2013",
+   "title": "From hybridity to entanglement, from essentialism to practice",
+   "is_part_of": [
+    "Archaeological Review from Cambridge"
+   ],
+   "volume": "28",
+   "issue": "1",
+   "pages": "11-28",
+   "language": "eng"
+  }
+ ]
+}

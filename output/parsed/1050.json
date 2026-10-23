@@ -1,0 +1,872 @@
+{
+ "citing_aec_id": 1050,
+ "source_file": "data/journal/30/1050.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Adembri B., Alonso-Durá A., Juan-Vidal F., Bertacchi G., Bertacchi S., Cipriani L., Fantini F., Soriano-Estevalis B. et al. 2016, Modelli digitali 3D per documentare, conoscere ed analizzare l'architettura e la costruzione nel mondo antico: l'esempio della Sala Ottagonale delle Piccole Terme di Villa Adriana, «Archeologia e Calcolatori», 27, 291-316.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Adembri",
+     "given": "B."
+    },
+    {
+     "family": "Alonso-Durá",
+     "given": "A."
+    },
+    {
+     "family": "Juan-Vidal",
+     "given": "F."
+    },
+    {
+     "family": "Bertacchi",
+     "given": "G."
+    },
+    {
+     "family": "Bertacchi",
+     "given": "S."
+    },
+    {
+     "family": "Cipriani",
+     "given": "L."
+    },
+    {
+     "family": "Fantini",
+     "given": "F."
+    },
+    {
+     "family": "Soriano-Estevalis",
+     "given": "B."
+    }
+   ],
+   "date": "2016",
+   "title": "Modelli digitali 3D per documentare, conoscere ed analizzare l'architettura e la costruzione nel mondo antico: l'esempio della Sala Ottagonale delle Piccole Terme di Villa Adriana",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "27",
+   "pages": "291-316",
+   "language": "ita",
+   "cited_aec_id": 853,
+   "notes": "cited 'et al.'"
+  },
+  {
+   "position": 2,
+   "raw": "Alessandri C., Uccelli F. 2006, The 3D Laser Scanner in integrated analyses of archaeological sites, in Campana, Francovich 2006, 69-91.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Alessandri",
+     "given": "C."
+    },
+    {
+     "family": "Uccelli",
+     "given": "F."
+    }
+   ],
+   "date": "2006",
+   "title": "The 3D Laser Scanner in integrated analyses of archaeological sites",
+   "is_part_of": [
+    "Laser Scanner e GPS. Paesaggi archeologici e tecnologie digitali (Grosseto 2005)"
+   ],
+   "language": "eng",
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "pages": "69-91",
+   "xref": 9
+  },
+  {
+   "position": 3,
+   "raw": "Arrighetti A. 2012, Tecnologie fotogrammetriche e registrazione 3D della struttura materiale: dal rilievo alla gestione dei dati, «Archeologia e Calcolatori», 23, 283-296.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Tecnologie fotogrammetriche e registrazione 3D della struttura materiale: dal rilievo alla gestione dei dati",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "283-296",
+   "language": "ita",
+   "cited_aec_id": 623,
+   "notes": "cited pages 283-296, metadata 283-298"
+  },
+  {
+   "position": 4,
+   "raw": "Armellini M. 1887, Le chiese di Roma dalle loro origini sino al secolo XVI, Roma, Tipografia editrice romana.",
+   "type": "book",
+   "date": "1887",
+   "title": "Le chiese di Roma dalle loro origini sino al secolo XVI",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Armellini",
+     "given": "M."
+    }
+   ],
+   "publisher": "Tipografia editrice romana",
+   "place": "Roma"
+  },
+  {
+   "position": 5,
+   "raw": "Artioli R. 1900, La Chiesa di Santa Maria Liberatrice, «Cosmos Catholicus», 2, 81-96.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Artioli",
+     "given": "R."
+    }
+   ],
+   "date": "1900",
+   "title": "La Chiesa di Santa Maria Liberatrice",
+   "is_part_of": [
+    "Cosmos Catholicus"
+   ],
+   "language": "ita",
+   "volume": "2",
+   "pages": "81-96"
+  },
+  {
+   "position": 6,
+   "raw": "Bezzi A., Bezzi L., Benjamin D. 2011, Computer Vision e Structure from Motion. Nuove metodologie per la documentazione archeologica tridimensionale. Un approccio aperto, in G. De Felice, M.G. Sibilano (eds.), ArcheoFOSS. Open Source Free Software and Open Format nei processi di ricerca archeologica (Foggia 2010), Bari, Edipuglia, 103-111.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bezzi",
+     "given": "A."
+    },
+    {
+     "family": "Bezzi",
+     "given": "L."
+    },
+    {
+     "family": "Benjamin",
+     "given": "D."
+    }
+   ],
+   "date": "2011",
+   "title": "Computer Vision e Structure from Motion. Nuove metodologie per la documentazione archeologica tridimensionale. Un approccio aperto",
+   "is_part_of": [
+    "ArcheoFOSS. Open Source Free Software and Open Format nei processi di ricerca archeologica (Foggia 2010)"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "pages": "103-111",
+   "publisher": "Edipuglia",
+   "place": "Bari"
+  },
+  {
+   "position": 7,
+   "raw": "Bini M., Verdiani G. 2006, Il rilievo delle archeologie monumentali: esperienze del Laboratorio di Rilievo della Sezione Architettura e Disegno di Firenze, in Campana, Francovich 2006, 107-115.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bini",
+     "given": "M."
+    },
+    {
+     "family": "Verdiani",
+     "given": "G."
+    }
+   ],
+   "date": "2006",
+   "title": "Il rilievo delle archeologie monumentali: esperienze del Laboratorio di Rilievo della Sezione Architettura e Disegno di Firenze",
+   "is_part_of": [
+    "Laser Scanner e GPS. Paesaggi archeologici e tecnologie digitali (Grosseto 2005)"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "pages": "107-115",
+   "xref": 9
+  },
+  {
+   "position": 8,
+   "raw": "Bloch H. 1947, I bolli laterizi e la storia edilizia romana. Contributi all'archeologia e alla storia edilizia romana, Roma, Comune di Roma, Ripartizione Antichità e Belle Arti.",
+   "type": "book",
+   "date": "1947",
+   "title": "I bolli laterizi e la storia edilizia romana. Contributi all'archeologia e alla storia edilizia romana",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Bloch",
+     "given": "H."
+    }
+   ],
+   "publisher": "Comune di Roma, Ripartizione Antichità e Belle Arti",
+   "place": "Roma"
+  },
+  {
+   "position": 9,
+   "raw": "Campana S., Francovich R. (eds.) 2006, Laser Scanner e GPS. Paesaggi archeologici e tecnologie digitali (Grosseto 2005), Firenze, All'Insegna del Giglio.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Laser Scanner e GPS. Paesaggi archeologici e tecnologie digitali (Grosseto 2005)",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Carandini A. 2017, La forza del contesto, Roma, Editore Laterza.",
+   "type": "book",
+   "date": "2017",
+   "title": "La forza del contesto",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    }
+   ],
+   "publisher": "Editore Laterza",
+   "place": "Roma"
+  },
+  {
+   "position": 11,
+   "raw": "Casagrande G., Salvatori F. 2011, Geografia e prospezioni territoriali con micro-droni. Resoconto di una sperimentazione ai fini di ricerca archeologica, Frosinone, If Press.",
+   "type": "book",
+   "date": "2011",
+   "title": "Geografia e prospezioni territoriali con micro-droni. Resoconto di una sperimentazione ai fini di ricerca archeologica",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Casagrande",
+     "given": "G."
+    },
+    {
+     "family": "Salvatori",
+     "given": "F."
+    }
+   ],
+   "publisher": "If Press",
+   "place": "Frosinone"
+  },
+  {
+   "position": 12,
+   "raw": "D'Andrea A. 2011, Il rilievo archeologico con il laser scanner: luci e ombre, «Vesuviana», 3, 193-218.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "Il rilievo archeologico con il laser scanner: luci e ombre",
+   "is_part_of": [
+    "Vesuviana"
+   ],
+   "language": "ita",
+   "volume": "3",
+   "pages": "193-218"
+  },
+  {
+   "position": 13,
+   "raw": "Delbrück R. 1921, Der Südostbau am Forum Romanum, «Jahrbuch des Deutschen Archäologischen Instituts», 36, 8-33.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Delbrück",
+     "given": "R."
+    }
+   ],
+   "date": "1921",
+   "title": "Der Südostbau am Forum Romanum",
+   "is_part_of": [
+    "Jahrbuch des Deutschen Archäologischen Instituts"
+   ],
+   "language": "ger",
+   "volume": "36",
+   "pages": "8-33"
+  },
+  {
+   "position": 14,
+   "raw": "Granshaw S.I. 2010, Structure from Motion: Origins and originality, «The Photogrammetric Record», 22, 161, 6-10.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Granshaw",
+     "given": "S.I."
+    }
+   ],
+   "date": "2010",
+   "title": "Structure from Motion: Origins and originality",
+   "is_part_of": [
+    "The Photogrammetric Record"
+   ],
+   "language": "eng",
+   "volume": "22",
+   "issue": "161",
+   "pages": "6-10"
+  },
+  {
+   "position": 15,
+   "raw": "Guerra F., Pilot L., Vernier P. 2004, Fotogrammetria e laser scanning: alternativa?, in E.S. Malinverni (ed.), E-Arcom 2004. Tecnologie per comunicare l'architettura. Atti del Convegno (Ancona 2004), Ancona, CLUA, 356-361.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guerra",
+     "given": "F."
+    },
+    {
+     "family": "Pilot",
+     "given": "L."
+    },
+    {
+     "family": "Vernier",
+     "given": "P."
+    }
+   ],
+   "date": "2004",
+   "title": "Fotogrammetria e laser scanning: alternativa?",
+   "is_part_of": [
+    "E-Arcom 2004. Tecnologie per comunicare l'architettura. Atti del Convegno (Ancona 2004)"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Malinverni",
+     "given": "E.S."
+    }
+   ],
+   "pages": "356-361",
+   "publisher": "CLUA",
+   "place": "Ancona"
+  },
+  {
+   "position": 16,
+   "raw": "Heinzelmann M. 2010-2011, The imperial building complex of S. Maria Antiqua in Rome. An incomplete Senate building of Domitian?, «Anales de Arqueología Cordobesa», 21-22, 57-80.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Heinzelmann",
+     "given": "M."
+    }
+   ],
+   "date": "2010",
+   "title": "The imperial building complex of S. Maria Antiqua in Rome. An incomplete Senate building of Domitian?",
+   "is_part_of": [
+    "Anales de Arqueología Cordobesa"
+   ],
+   "language": "eng",
+   "volume": "21-22",
+   "pages": "57-80",
+   "notes": "cited 2010-2011"
+  },
+  {
+   "position": 17,
+   "raw": "Hodder I. 1999, The Archaeological Process. An Introduction, Oxford, Blackwell Publ.",
+   "type": "book",
+   "date": "1999",
+   "title": "The Archaeological Process. An Introduction",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "publisher": "Blackwell Publ.",
+   "place": "Oxford"
+  },
+  {
+   "position": 18,
+   "raw": "Hurst H. 1986, Area di S. Maria Antiqua, «Bullettino della Commissione archeologica comunale di Roma», 91, 2, 470-478.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hurst",
+     "given": "H."
+    }
+   ],
+   "date": "1986",
+   "title": "Area di S. Maria Antiqua",
+   "is_part_of": [
+    "Bullettino della Commissione archeologica comunale di Roma"
+   ],
+   "language": "ita",
+   "volume": "91",
+   "issue": "2",
+   "pages": "470-478"
+  },
+  {
+   "position": 19,
+   "raw": "Hurst H. 1995, s.v. Domus Tiberiana. Forum Extension, Lexicon Topographicum Urbis Romae II, 197-200.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hurst",
+     "given": "H."
+    }
+   ],
+   "date": "1995",
+   "title": "Domus Tiberiana. Forum Extension",
+   "is_part_of": [
+    "Lexicon Topographicum Urbis Romae"
+   ],
+   "language": "eng",
+   "pages": "197-200",
+   "volume": "II",
+   "notes": "cited 's.v. Domus Tiberiana. Forum Extension'"
+  },
+  {
+   "position": 20,
+   "raw": "Lanciani R. 1892, Pagan and Christian Rome, London, Macmillan & Co.",
+   "type": "book",
+   "date": "1892",
+   "title": "Pagan and Christian Rome",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Lanciani",
+     "given": "R."
+    }
+   ],
+   "publisher": "Macmillan & Co.",
+   "place": "London"
+  },
+  {
+   "position": 21,
+   "raw": "Lanciani R. 1900, Le escavazioni del Foro (II), «Bullettino della Commissione archeologica comunale di Roma», 28, 299-320.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lanciani",
+     "given": "R."
+    }
+   ],
+   "date": "1900",
+   "title": "Le escavazioni del Foro (II)",
+   "is_part_of": [
+    "Bullettino della Commissione archeologica comunale di Roma"
+   ],
+   "language": "ita",
+   "volume": "28",
+   "pages": "299-320"
+  },
+  {
+   "position": 22,
+   "raw": "Lugli G. 1941, Aedes Caesarum in Palatio e templum novum Divi Augusti, «Bullettino della Commissione archeologica comunale di Roma», 69, 1941, 29-58.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lugli",
+     "given": "G."
+    }
+   ],
+   "date": "1941",
+   "title": "Aedes Caesarum in Palatio e templum novum Divi Augusti",
+   "is_part_of": [
+    "Bullettino della Commissione archeologica comunale di Roma"
+   ],
+   "language": "ita",
+   "volume": "69",
+   "pages": "29-58",
+   "notes": "cited '69, 1941'"
+  },
+  {
+   "position": 23,
+   "raw": "Medri M. 2003, Manuale di rilievo archeologico, Bari, Editore Laterza.",
+   "type": "book",
+   "date": "2003",
+   "title": "Manuale di rilievo archeologico",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    }
+   ],
+   "publisher": "Editore Laterza",
+   "place": "Bari"
+  },
+  {
+   "position": 24,
+   "raw": "Monaco E. 2015, Il Complesso edilizio sud-orientale del Foro Romano. La topografia dell'area, in P. Fortini (ed.), La rampa imperiale. Scavi e restauri tra Foro Romano e Palatino, Milano, Electa, 19-26.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Monaco",
+     "given": "E."
+    }
+   ],
+   "date": "2015",
+   "title": "Il Complesso edilizio sud-orientale del Foro Romano. La topografia dell'area",
+   "is_part_of": [
+    "La rampa imperiale. Scavi e restauri tra Foro Romano e Palatino"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Fortini",
+     "given": "P."
+    }
+   ],
+   "pages": "19-26",
+   "publisher": "Electa",
+   "place": "Milano"
+  },
+  {
+   "position": 25,
+   "raw": "Nicolai F. 2016, Da Santa Maria libera nos a poenis inferni alla chiesa barocca di Santa Maria Liberatrice al Foro, in M. Andaloro, G. Morganti, G. Bordi (eds.), Santa Maria Antiqua tra Roma e Bisanzio, Milano, Electa, 288-293.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nicolai",
+     "given": "F."
+    }
+   ],
+   "date": "2016",
+   "title": "Da Santa Maria libera nos a poenis inferni alla chiesa barocca di Santa Maria Liberatrice al Foro",
+   "is_part_of": [
+    "Santa Maria Antiqua tra Roma e Bisanzio"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Andaloro",
+     "given": "M."
+    },
+    {
+     "family": "Morganti",
+     "given": "G."
+    },
+    {
+     "family": "Bordi",
+     "given": "G."
+    }
+   ],
+   "pages": "288-293",
+   "publisher": "Electa",
+   "place": "Milano"
+  },
+  {
+   "position": 26,
+   "raw": "Parenti R. 2001, La facciata del Palazzo Pubblico di Siena: stratigrafia e fonti documentali; premessa, «Archeologia dell'Architettura», 6, 63-65.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Parenti",
+     "given": "R."
+    }
+   ],
+   "date": "2001",
+   "title": "La facciata del Palazzo Pubblico di Siena: stratigrafia e fonti documentali; premessa",
+   "is_part_of": [
+    "Archeologia dell'Architettura"
+   ],
+   "language": "ita",
+   "volume": "6",
+   "pages": "63-65"
+  },
+  {
+   "position": 27,
+   "raw": "Peloso D. 2005, Tecniche Laser Scanner per il rilievo dei Beni Culturali, «Archeologia e Calcolatori», 16, 199-224.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peloso",
+     "given": "D."
+    }
+   ],
+   "date": "2005",
+   "title": "Tecniche Laser Scanner per il rilievo dei Beni Culturali",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "199-224",
+   "language": "ita",
+   "cited_aec_id": 411
+  },
+  {
+   "position": 28,
+   "raw": "Peripimeno M. 2006, Sperimentazione di tecniche 3D Laser Scanning in archeologia: l'esperienza senese, in Campana, Francovich 2006, 143-152.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Peripimeno",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Sperimentazione di tecniche 3D Laser Scanning in archeologia: l'esperienza senese",
+   "is_part_of": [
+    "Laser Scanner e GPS. Paesaggi archeologici e tecnologie digitali (Grosseto 2005)"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "pages": "143-152",
+   "xref": 9
+  },
+  {
+   "position": 29,
+   "raw": "Rasmus Brandt J. 2004, The Oratory of the Forty Martyrs: From Imperial Hall to Baroque Church, in J. Osborne, J. Rasmus Brandt, G. Morganti (eds.), Santa Maria Antiqua 100 anni dopo lo scavo. Atti del Colloquio internazionale (Roma 2000), Roma, Campisano Editore, 137-152.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rasmus Brandt",
+     "given": "J."
+    }
+   ],
+   "date": "2004",
+   "title": "The Oratory of the Forty Martyrs: From Imperial Hall to Baroque Church",
+   "is_part_of": [
+    "Santa Maria Antiqua 100 anni dopo lo scavo. Atti del Colloquio internazionale (Roma 2000)"
+   ],
+   "language": "eng",
+   "editors": [
+    {
+     "family": "Osborne",
+     "given": "J."
+    },
+    {
+     "family": "Rasmus Brandt",
+     "given": "J."
+    },
+    {
+     "family": "Morganti",
+     "given": "G."
+    }
+   ],
+   "pages": "137-152",
+   "publisher": "Campisano Editore",
+   "place": "Roma"
+  },
+  {
+   "position": 30,
+   "raw": "Remondino F., Rizzi A., Agugiaro G. 2011, Rilievo e modellazione 3D. Atti XV Conferenza Nazionale ASITA (Reggio di Colorno 2011), Parma, ASITA, 1825-1836 (http://atti.asita.it/ASITA2011/Pdf/046.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Rizzi",
+     "given": "A."
+    },
+    {
+     "family": "Agugiaro",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "Rilievo e modellazione 3D",
+   "is_part_of": [
+    "Atti XV Conferenza Nazionale ASITA (Reggio di Colorno 2011)"
+   ],
+   "language": "ita",
+   "pages": "1825-1836",
+   "publisher": "ASITA",
+   "place": "Parma",
+   "uri": "http://atti.asita.it/ASITA2011/Pdf/046.pdf"
+  },
+  {
+   "position": 31,
+   "raw": "Russo M., Guidi C., Remondino F. 2011, Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico, «Archeologia e Calcolatori», 22, 169-198.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Russo",
+     "given": "M."
+    },
+    {
+     "family": "Guidi",
+     "given": "C."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2011",
+   "title": "Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "169-198",
+   "language": "ita",
+   "cited_aec_id": 592,
+   "notes": "authors cited as Russo, Guidi, Remondino (metadata: Russo, Remondino, Guidi)"
+  },
+  {
+   "position": 32,
+   "raw": "Sfacteria M. 2016, Fotomodellazione 3D e rilievo speditivo di scavo. L'esperienza del Philolosphiana Project, «Archeologia e Calcolatori», 27, 271-289.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sfacteria",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "Fotomodellazione 3D e rilievo speditivo di scavo. L'esperienza del Philosophiana Project",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "27",
+   "pages": "271-289",
+   "language": "ita",
+   "cited_aec_id": 852,
+   "notes": "cited 'Philolosphiana' (typo)"
+  },
+  {
+   "position": 33,
+   "raw": "Tea E. 1937, La Basilica di Santa Maria Antiqua, Milano, Società Editrice \"Vita e Pensiero\".",
+   "type": "book",
+   "date": "1937",
+   "title": "La Basilica di Santa Maria Antiqua",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Tea",
+     "given": "E."
+    }
+   ],
+   "publisher": "Società Editrice Vita e Pensiero",
+   "place": "Milano"
+  },
+  {
+   "position": 34,
+   "raw": "Vinci M.S. 2013, La documentazione dell'edilizia storica in ambito urbano: applicazioni del raddrizzamento fotografico al caso del \"Foro Provinciale\" di Tarragona, «Archeologia e Calcolatori», 23, 101-119.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vinci",
+     "given": "M.S."
+    }
+   ],
+   "date": "2013",
+   "title": "La documentazione dell'edilizia storica in ambito urbano: applicazioni del raddrizzamento fotografico al caso del Foro Provinciale di Tarragona",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "101-119",
+   "language": "ita",
+   "cited_aec_id": 611,
+   "notes": "cited as 2013, pages 101-119; metadata: 2012, 101-120"
+  },
+  {
+   "position": 35,
+   "raw": "Wulf-Rheidt U. 2012, Still higher and more audacious. The architecture of the imperial palaces on the Palatine in Rome, in R. Ousterhout, R. Holod, L. Haselberger (eds.), Masons at Work, Philadelphia, CAS Publication (https://www.sas.upenn.edu/ancient/publications.html; ultimo accesso: 3/11/2018).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wulf-Rheidt",
+     "given": "U."
+    }
+   ],
+   "date": "2012",
+   "title": "Still higher and more audacious. The architecture of the imperial palaces on the Palatine in Rome",
+   "is_part_of": [
+    "Masons at Work"
+   ],
+   "language": "eng",
+   "editors": [
+    {
+     "family": "Ousterhout",
+     "given": "R."
+    },
+    {
+     "family": "Holod",
+     "given": "R."
+    },
+    {
+     "family": "Haselberger",
+     "given": "L."
+    }
+   ],
+   "publisher": "CAS Publication",
+   "place": "Philadelphia",
+   "uri": "https://www.sas.upenn.edu/ancient/publications.html"
+  },
+  {
+   "position": 36,
+   "raw": "Wulf-Rheidt U. 2016, Laterizio, progetti XXL e potere imperiale, in E. Bukowiecki, R. Volpe, U. Wulf-Rheidt (eds.), Archeologia dell'Architettura XX. Il laterizio nei cantieri imperiali. Roma e il Mediterraneo. Atti del I workshop (Roma 2014), Firenze, All'Insegna del Giglio, 213-219.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wulf-Rheidt",
+     "given": "U."
+    }
+   ],
+   "date": "2016",
+   "title": "Laterizio, progetti XXL e potere imperiale",
+   "is_part_of": [
+    "Archeologia dell'Architettura XX. Il laterizio nei cantieri imperiali. Roma e il Mediterraneo. Atti del I workshop (Roma 2014)"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Bukowiecki",
+     "given": "E."
+    },
+    {
+     "family": "Volpe",
+     "given": "R."
+    },
+    {
+     "family": "Wulf-Rheidt",
+     "given": "U."
+    }
+   ],
+   "pages": "213-219",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze"
+  }
+ ]
+}

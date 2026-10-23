@@ -1,0 +1,817 @@
+{
+ "citing_aec_id": 1261,
+ "source_file": "data/journal/34/1261.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Barbaro B. 2010, Insediamenti, aree funerarie ed entità territoriali in Etruria meridionale nel Bronzo finale, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barbaro",
+     "given": "B."
+    }
+   ],
+   "date": "2010",
+   "title": "Insediamenti, aree funerarie ed entità territoriali in Etruria meridionale nel Bronzo finale",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bartoloni G. 1989, La cultura villanoviana. All'inizio della storia etrusca, Roma, La Nuova Italia Scientifica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bartoloni",
+     "given": "G."
+    }
+   ],
+   "date": "1989",
+   "title": "La cultura villanoviana. All'inizio della storia etrusca",
+   "publisher": "La Nuova Italia Scientifica",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bartoloni G. (ed.) 2012, Introduzione all'Etruscologia, Firenze, Hoepli.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Bartoloni",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "Introduzione all'Etruscologia",
+   "publisher": "Hoepli",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Belardelli C., Angle M., di Gennaro F., Petitti P., Trucco F. (eds.) 2007, Repertorio dei siti protostorici del Lazio: province di Roma, Viterbo e Frosinone, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Belardelli",
+     "given": "C."
+    },
+    {
+     "family": "Angle",
+     "given": "M."
+    },
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    },
+    {
+     "family": "Petitti",
+     "given": "P."
+    },
+    {
+     "family": "Trucco",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "Repertorio dei siti protostorici del Lazio: province di Roma, Viterbo e Frosinone",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bickler S.H. 2021, Machine Learning arrives in archaeology, «Advances in Archaeological Practice», 9, 186-191 (https://doi.org/10.1017/aap.2021.6).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bickler",
+     "given": "S.H."
+    }
+   ],
+   "date": "2021",
+   "title": "Machine Learning arrives in archaeology",
+   "is_part_of": [
+    "Advances in Archaeological Practice"
+   ],
+   "volume": "9",
+   "pages": "186-191",
+   "doi": "10.1017/aap.2021.6",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Bietti Sestieri A.M. 2010, L'Italia nell'età del Bronzo e del Ferro: dalle palafitte a Romolo (2200-700 a. C.), Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bietti Sestieri",
+     "given": "A.M."
+    }
+   ],
+   "date": "2010",
+   "title": "L'Italia nell'età del Bronzo e del Ferro: dalle palafitte a Romolo (2200-700 a. C.)",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Cardarelli A. 2018, Before the city. The last villages and proto-urban centres between the Po and Tiber rivers, «Origini», 42, 359-382.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Before the city. The last villages and proto-urban centres between the Po and Tiber rivers",
+   "is_part_of": [
+    "Origini"
+   ],
+   "volume": "42",
+   "pages": "359-382",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Cardarelli L., Lapadula A. 2022, Dimensionality reduction for data visualization and exploratory analysis of ceramic assemblages, «Archeologia e Calcolatori», 33, 33-52 (https://doi.org/10.19282/ac.33.2.2022.03).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cardarelli",
+     "given": "L."
+    },
+    {
+     "family": "Lapadula",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "Dimensionality reduction for data visualization and exploratory analysis of ceramic assemblages",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "33",
+   "pages": "33-52",
+   "doi": "10.19282/ac.33.2.2022.03",
+   "language": "eng",
+   "cited_aec_id": 1200,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Corder G.W., Foreman D.I. 2014, Nonparametric Statistics: A Step-by-Step Approach, Hoboken NJ, Wiley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Corder",
+     "given": "G.W."
+    },
+    {
+     "family": "Foreman",
+     "given": "D.I."
+    }
+   ],
+   "date": "2014",
+   "title": "Nonparametric Statistics: A Step-by-Step Approach",
+   "publisher": "Wiley",
+   "place": "Hoboken NJ",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "De Angelis S. 2006, Il passaggio tra Bronzo Finale 2 e Bronzo Finale 3 in Etruria meridionale sotto il profilo delle sepolture, in R. Peroni (ed.), Studi in onore di Renato Peroni, Firenze, All'Insegna del Giglio, 581-589.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Angelis",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Peroni",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Il passaggio tra Bronzo Finale 2 e Bronzo Finale 3 in Etruria meridionale sotto il profilo delle sepolture",
+   "is_part_of": [
+    "Studi in onore di Renato Peroni"
+   ],
+   "pages": "581-589",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "di Gennaro F. 1979, Contributo alla conoscenza del territorio etrusco meridionale alla fine dell'età del Bronzo, in Atti XXI Riunione Scientifica Istituto Italiano Preistoria e Protostoria, 267-274.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    }
+   ],
+   "date": "1979",
+   "title": "Contributo alla conoscenza del territorio etrusco meridionale alla fine dell'età del Bronzo",
+   "is_part_of": [
+    "Atti XXI Riunione Scientifica Istituto Italiano Preistoria e Protostoria"
+   ],
+   "pages": "267-274",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "di Gennaro F. 1982, Organizzazione del territorio nell'Etruria meridionale protostorica: applicazione di un modello grafico, «Dialoghi di Archeologia», 2, 102-112.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    }
+   ],
+   "date": "1982",
+   "title": "Organizzazione del territorio nell'Etruria meridionale protostorica: applicazione di un modello grafico",
+   "is_part_of": [
+    "Dialoghi di Archeologia"
+   ],
+   "volume": "2",
+   "pages": "102-112",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "di Gennaro F. 1986, Forme di insediamento tra Tevere e Fiora dal Bronzo finale al principio dell'età del Ferro, Firenze, L.S. Olschki.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    }
+   ],
+   "date": "1986",
+   "title": "Forme di insediamento tra Tevere e Fiora dal Bronzo finale al principio dell'età del Ferro",
+   "publisher": "L.S. Olschki",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "di Gennaro F. 1988, Il popolamento dell'Etruria meridionale e le caratteristiche degli insediamenti tra l'età del Bronzo e l'età del Ferro, in C. Bettini, G. Colonna, R. Staccioli (eds.), Etruria meridionale. Conoscenza, conservazione. Atti del convegno (Viterbo 1985), Roma, Edizioni Quasar, 59-82.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bettini",
+     "given": "C."
+    },
+    {
+     "family": "Colonna",
+     "given": "G."
+    },
+    {
+     "family": "Staccioli",
+     "given": "R."
+    }
+   ],
+   "date": "1988",
+   "title": "Il popolamento dell'Etruria meridionale e le caratteristiche degli insediamenti tra l'età del Bronzo e l'età del Ferro",
+   "is_part_of": [
+    "Etruria meridionale. Conoscenza, conservazione. Atti del convegno (Viterbo 1985)"
+   ],
+   "pages": "59-82",
+   "publisher": "Edizioni Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "di Gennaro F. 2010, Introduzione, in Barbaro 2010, 13-16.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    }
+   ],
+   "date": "2010",
+   "title": "Introduzione",
+   "is_part_of": [
+    "Insediamenti, aree funerarie ed entità territoriali in Etruria meridionale nel Bronzo finale"
+   ],
+   "pages": "13-16",
+   "language": "ita",
+   "xref": 1,
+   "notes": "contribution within Barbaro 2010 (authored book, no editors)",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Drennan R.D. 2010, Statistics for Archaeologists: A Commonsense Approach, New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Drennan",
+     "given": "R.D."
+    }
+   ],
+   "date": "2010",
+   "title": "Statistics for Archaeologists: A Commonsense Approach",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Harrington P. 2012, Machine Learning in Action, Shelter Island, Manning Publications Co.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Harrington",
+     "given": "P."
+    }
+   ],
+   "date": "2012",
+   "title": "Machine Learning in Action",
+   "publisher": "Manning Publications Co.",
+   "place": "Shelter Island",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Hastie T., Tibshirani R., Friedman J.H. 2009, The Elements of Statistical Learning: Data Mining, Inference and Prediction, New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hastie",
+     "given": "T."
+    },
+    {
+     "family": "Tibshirani",
+     "given": "R."
+    },
+    {
+     "family": "Friedman",
+     "given": "J.H."
+    }
+   ],
+   "date": "2009",
+   "title": "The Elements of Statistical Learning: Data Mining, Inference and Prediction",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Ho T.K. 1998, The random subspace method for constructing decision forests, «IEEE Transactions on Pattern Analysis and Machine Intelligence», 20, 832-844 (https://doi.org/10.1109/34.709601).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ho",
+     "given": "T.K."
+    }
+   ],
+   "date": "1998",
+   "title": "The random subspace method for constructing decision forests",
+   "is_part_of": [
+    "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+   ],
+   "volume": "20",
+   "pages": "832-844",
+   "doi": "10.1109/34.709601",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "James G., Witten D., Hastie T., Tibshirani R. 2013, An Introduction to Statistical Learning, New York, Springer (https://doi.org/10.1007/978-1-4614-7138-7).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "James",
+     "given": "G."
+    },
+    {
+     "family": "Witten",
+     "given": "D."
+    },
+    {
+     "family": "Hastie",
+     "given": "T."
+    },
+    {
+     "family": "Tibshirani",
+     "given": "R."
+    }
+   ],
+   "date": "2013",
+   "title": "An Introduction to Statistical Learning",
+   "publisher": "Springer",
+   "place": "New York",
+   "doi": "10.1007/978-1-4614-7138-7",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Liu H. 2010, Feature selection, in C. Sammut, G.I. Webb (eds.), Encyclopedia of Machine Learning, Boston, Springer US, 402-406 (https://doi.org/10.1007/978-0-387-30164-8_306).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Liu",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Sammut",
+     "given": "C."
+    },
+    {
+     "family": "Webb",
+     "given": "G.I."
+    }
+   ],
+   "date": "2010",
+   "title": "Feature selection",
+   "is_part_of": [
+    "Encyclopedia of Machine Learning"
+   ],
+   "pages": "402-406",
+   "publisher": "Springer US",
+   "place": "Boston",
+   "doi": "10.1007/978-0-387-30164-8_306",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Negroni Catacchio N. (ed.) 1995, Sorgenti della Nova: l'abitato del Bronzo Finale, Firenze, Istituto Italiano di Preistoria.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Negroni Catacchio",
+     "given": "N."
+    }
+   ],
+   "date": "1995",
+   "title": "Sorgenti della Nova: l'abitato del Bronzo Finale",
+   "publisher": "Istituto Italiano di Preistoria",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Pacciarelli M. 2001, Dal villaggio alla città: la svolta protourbana del 1000 a.C. nell'Italia tirrenica, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pacciarelli",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Dal villaggio alla città: la svolta protourbana del 1000 a.C. nell'Italia tirrenica",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Peroni R. 1989, Protostoria dell'Italia continentale: la penisola italiana nelle età del Bronzo e del Ferro, Roma, Biblioteca di Storia Patria.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Peroni",
+     "given": "R."
+    }
+   ],
+   "date": "1989",
+   "title": "Protostoria dell'Italia continentale: la penisola italiana nelle età del Bronzo e del Ferro",
+   "publisher": "Biblioteca di Storia Patria",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Peroni R. 2004, L'Italia alle soglie della storia, Roma, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Peroni",
+     "given": "R."
+    }
+   ],
+   "date": "2004",
+   "title": "L'Italia alle soglie della storia",
+   "publisher": "Laterza",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Potter T.W. 1985, Storia del paesaggio dell'Etruria meridionale. Archeologia e trasformazioni del territorio, Roma, La Nuova Italia Scientifica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Potter",
+     "given": "T.W."
+    }
+   ],
+   "date": "1985",
+   "title": "Storia del paesaggio dell'Etruria meridionale. Archeologia e trasformazioni del territorio",
+   "publisher": "La Nuova Italia Scientifica",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Saarela M., Jauhiainen S. 2021, Comparison of feature importance measures as explanations for classification models, «SN Applied Sciences», 3, 2, 272 (https://doi.org/10.1007/s42452-021-04148-9).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Saarela",
+     "given": "M."
+    },
+    {
+     "family": "Jauhiainen",
+     "given": "S."
+    }
+   ],
+   "date": "2021",
+   "title": "Comparison of feature importance measures as explanations for classification models",
+   "is_part_of": [
+    "SN Applied Sciences"
+   ],
+   "volume": "3",
+   "issue": "2",
+   "pages": "272",
+   "doi": "10.1007/s42452-021-04148-9",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Saeys Y., Inza I., Larrañaga P. 2007, A review of feature selection techniques in bioinformatics, «Bioinformatics», 23, 2507-2517 (https://doi.org/10.1093/bioinformatics/btm344).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Saeys",
+     "given": "Y."
+    },
+    {
+     "family": "Inza",
+     "given": "I."
+    },
+    {
+     "family": "Larrañaga",
+     "given": "P."
+    }
+   ],
+   "date": "2007",
+   "title": "A review of feature selection techniques in bioinformatics",
+   "is_part_of": [
+    "Bioinformatics"
+   ],
+   "volume": "23",
+   "pages": "2507-2517",
+   "doi": "10.1093/bioinformatics/btm344",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Schiappelli A. 2008, Sviluppo storico della Teverina nell'età del Bronzo e nella prima età del Ferro, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Schiappelli",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "Sviluppo storico della Teverina nell'età del Bronzo e nella prima età del Ferro",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Schober P., Boer C., Schwarte L.A. 2018, Correlation coefficients: Appropriate use and interpretation, «Anesthesia & Analgesia», 126, 1763-1768 (https://doi.org/10.1213/ANE.0000000000002864).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schober",
+     "given": "P."
+    },
+    {
+     "family": "Boer",
+     "given": "C."
+    },
+    {
+     "family": "Schwarte",
+     "given": "L.A."
+    }
+   ],
+   "date": "2018",
+   "title": "Correlation coefficients: Appropriate use and interpretation",
+   "is_part_of": [
+    "Anesthesia & Analgesia"
+   ],
+   "volume": "126",
+   "pages": "1763-1768",
+   "doi": "10.1213/ANE.0000000000002864",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Scianna A., Villa B. 2011, GIS applications in archaeology, «Archeologia e Calcolatori», 22, 337-363 (http://www.archcalc.cnr.it/indice/PDF22/AC_22_Scianna_Villa.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scianna",
+     "given": "A."
+    },
+    {
+     "family": "Villa",
+     "given": "B."
+    }
+   ],
+   "date": "2011",
+   "title": "GIS applications in archaeology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "337-363",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF22/AC_22_Scianna_Villa.pdf",
+   "language": "eng",
+   "cited_aec_id": 600,
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Spearman C. 1904, The proof and measurement of association between two things, «The American Journal of Psychology», 15, 1, 72-101 (https://doi.org/10.2307/1412159).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Spearman",
+     "given": "C."
+    }
+   ],
+   "date": "1904",
+   "title": "The proof and measurement of association between two things",
+   "is_part_of": [
+    "The American Journal of Psychology"
+   ],
+   "volume": "15",
+   "issue": "1",
+   "pages": "72-101",
+   "doi": "10.2307/1412159",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Tang J., Alelyani S., Liu H. 2014, Feature selection for classification: A review, in C.C. Aggarwal (ed.), Data Classification, New York, CRC Press, 37-64 (https://doi.org/10.1201/b17320).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tang",
+     "given": "J."
+    },
+    {
+     "family": "Alelyani",
+     "given": "S."
+    },
+    {
+     "family": "Liu",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Aggarwal",
+     "given": "C.C."
+    }
+   ],
+   "date": "2014",
+   "title": "Feature selection for classification: A review",
+   "is_part_of": [
+    "Data Classification"
+   ],
+   "pages": "37-64",
+   "publisher": "CRC Press",
+   "place": "New York",
+   "doi": "10.1201/b17320",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Vanderplas J.T. 2016, Python Data Science Handbook: Essential Tools for Working with Data, Sebastopol, Ed. O'Reilly Media.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Vanderplas",
+     "given": "J.T."
+    }
+   ],
+   "date": "2016",
+   "title": "Python Data Science Handbook: Essential Tools for Working with Data",
+   "publisher": "O'Reilly Media",
+   "place": "Sebastopol",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Van Hulse J., Khoshgoftaar T.M., Napolitano A., Wald R. 2012, Threshold-based feature selection techniques for high-dimensional bioinformatics data, «Network Modeling Analysis in Health Informatics and Bioinformatics», 1, 47-61 (https://doi.org/10.1007/s13721-012-0006-6).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Van Hulse",
+     "given": "J."
+    },
+    {
+     "family": "Khoshgoftaar",
+     "given": "T.M."
+    },
+    {
+     "family": "Napolitano",
+     "given": "A."
+    },
+    {
+     "family": "Wald",
+     "given": "R."
+    }
+   ],
+   "date": "2012",
+   "title": "Threshold-based feature selection techniques for high-dimensional bioinformatics data",
+   "is_part_of": [
+    "Network Modeling Analysis in Health Informatics and Bioinformatics"
+   ],
+   "volume": "1",
+   "pages": "47-61",
+   "doi": "10.1007/s13721-012-0006-6",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Ward Perkins J.B. 1955, Notes on Southern Etruria and the Ager Veientanus, «Papers of the British School at Rome», 23, 44-72 (https://doi.org/10.1017/S0068246200006620).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ward Perkins",
+     "given": "J.B."
+    }
+   ],
+   "date": "1955",
+   "title": "Notes on Southern Etruria and the Ager Veientanus",
+   "is_part_of": [
+    "Papers of the British School at Rome"
+   ],
+   "volume": "23",
+   "pages": "44-72",
+   "doi": "10.1017/S0068246200006620",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

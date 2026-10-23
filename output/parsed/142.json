@@ -1,0 +1,358 @@
+{
+ "citing_aec_id": 142,
+ "source_file": "data/journal/7/142.md",
+ "references": [
+  {
+   "raw": "BARATTI F. 1993-94, Il sito archeologico di Otranto: un problema di archeologia urbana, Tesi di Specializzazione, Scuola di Specializzazione in Archeologia, Università degli Studi di Lecce, A.A. 1993-94.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Baratti",
+     "given": "F."
+    }
+   ],
+   "type": "thesis",
+   "title": "Il sito archeologico di Otranto: un problema di archeologia urbana",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1,
+   "publisher": "Scuola di Specializzazione in Archeologia, Università degli Studi di Lecce",
+   "notes": "Tesi di Specializzazione, A.A. 1993-94; date set to first year"
+  },
+  {
+   "raw": "BARATTI F. c.s., Cartografia e computers. Dal territorio al dato di scavo, in Metodologie 1.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Baratti",
+     "given": "F."
+    }
+   ],
+   "type": "chapter",
+   "title": "Cartografia e computers. Dal territorio al dato di scavo",
+   "is_part_of": [
+    "Metodologie di Catalogazione dei Beni Archeologici"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "ita",
+   "confidence": "high",
+   "position": 2,
+   "xref": 10,
+   "notes": "cited \"in Metodologie 1\" (in corso di stampa); volume published 1997 (Lecce-Bari, ed. D'Andria) but this contribution not confirmed"
+  },
+  {
+   "raw": "CAGGIA M.P., MELISSANO V. c.s., Il sistema per la gestione dei dati scavo. Normalizzazione dei dati e vocabolari, in Metodologie 1.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Caggia",
+     "given": "M.P."
+    },
+    {
+     "family": "Melissano",
+     "given": "V."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il sistema per la gestione dei dati scavo. Normalizzazione dei dati e vocabolari",
+   "is_part_of": [
+    "Metodologie di Catalogazione dei Beni Archeologici"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "ita",
+   "confidence": "high",
+   "position": 3,
+   "xref": 10,
+   "notes": "cited \"in Metodologie 1\" (in corso di stampa); volume published 1997 (Lecce-Bari, ed. D'Andria) but this contribution not confirmed"
+  },
+  {
+   "raw": "D'ANDRIA F., SEMERARO G. 1993a, Un sistema integrato per la gestione della cartografia e dei dati di scavo, «Archeologia e Calcolatori», 4, 159-180.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Un sistema integrato per la gestione della cartografia e dei dati di scavo",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "159-180",
+   "volume": "4",
+   "language": "ita",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "D'ANDRIA F., SEMERARO G. 1993b, Oria. Archivio di scavo. Progetto Strategico CNR. Università di Lecce, in G. MARUGGI (ed.), Oria. Pagine di scavo, Catalogo della mostra, Oria.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Oria. Archivio di scavo. Progetto Strategico CNR. Università di Lecce",
+   "editors": [
+    {
+     "family": "Maruggi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Oria. Pagine di scavo, Catalogo della mostra"
+   ],
+   "place": "Oria",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "D'ANDRIA F. c.s., Otranto, in G. NENCI, G. VALLET (edd.), Bibliografia Topografica della Colonizzazione Greca in Occidente, 12, Pisa-Roma.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "type": "chapter",
+   "title": "Otranto",
+   "editors": [
+    {
+     "family": "Nenci",
+     "given": "G."
+    },
+    {
+     "family": "Vallet",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Bibliografia Topografica della Colonizzazione Greca in Occidente"
+   ],
+   "place": "Pisa-Roma",
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "eng",
+   "confidence": "high",
+   "position": 6,
+   "volume": "12",
+   "notes": "searched author + title: not confirmed"
+  },
+  {
+   "raw": "FERRI M. c.s., Una proposta di ipertesto per i vocabolari archeologici, in Metodologie 1.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Ferri",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Una proposta di ipertesto per i vocabolari archeologici",
+   "is_part_of": [
+    "Metodologie di Catalogazione dei Beni Archeologici"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "ita",
+   "confidence": "high",
+   "position": 7,
+   "xref": 10,
+   "notes": "cited \"in Metodologie 1\" (in corso di stampa); volume published 1997 (Lecce-Bari, ed. D'Andria) but this contribution not confirmed"
+  },
+  {
+   "raw": "MANGIA C. c.s., Il sistema per la gestione dei dati scavo. L'ambiente hardware e software, in Metodologie 1.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Mangia",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il sistema per la gestione dei dati scavo. L'ambiente hardware e software",
+   "is_part_of": [
+    "Metodologie di Catalogazione dei Beni Archeologici"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "ita",
+   "confidence": "high",
+   "position": 8,
+   "xref": 10,
+   "notes": "cited \"in Metodologie 1\" (in corso di stampa); volume published 1997 (Lecce-Bari, ed. D'Andria) but this contribution not confirmed"
+  },
+  {
+   "raw": "MARUGGI G. c.s., L'informatica nella tutela delle emergenze archeologiche, in Metodologie 1.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Maruggi",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'informatica nella tutela delle emergenze archeologiche",
+   "is_part_of": [
+    "Metodologie di Catalogazione dei Beni Archeologici"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "ita",
+   "confidence": "high",
+   "position": 9,
+   "xref": 10,
+   "notes": "cited \"in Metodologie 1\" (in corso di stampa); volume published 1997 (Lecce-Bari, ed. D'Andria) but this contribution not confirmed"
+  },
+  {
+   "raw": "Metodologie 1 c.s., AA.VV., Metodologie di Catalogazione dei Beni Archeologici, Quaderno n. 1, CNR, Consiglio Nazionale delle Ricerche, Comitato 15, Università di Lecce, Progetto Strategico n. 251100, Lecce (in corso di stampa).",
+   "type": "book",
+   "title": "Metodologie di Catalogazione dei Beni Archeologici",
+   "confidence": "low",
+   "notes": "cited as \"Quaderno n. 1, CNR, Comitato 15, Università di Lecce, Progetto Strategico n. 251100, Lecce (in corso di stampa)\"; editor from catalogue record",
+   "position": 10,
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "date": "1997",
+   "series": "Beni Archeologici, Conoscenza e Tecnologie",
+   "series_number": "1",
+   "place": "Lecce-Bari",
+   "publisher": "Martano Editore; Edipuglia",
+   "cs": {
+    "status": "resolved",
+    "source": "https://zenon.dainst.org/Record/000198205"
+   },
+   "volume": "1"
+  },
+  {
+   "raw": "SEMERARO G. 1990, Note sulla distribuzione delle ceramiche di importazione greca nel Salento (600-480 a.C.). Aspetti metodologici e statistici, «Archeologia e Calcolatori», 1, 111-163.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Note sulla distribuzione delle ceramiche di importazione greca nel Salento (600-480 a.C.). Aspetti metodologici e statistici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "111-163",
+   "volume": "1",
+   "language": "ita",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "SEMERARO G. 1993, The excavation archive: an integrated system for the management of cartographic and alphanumeric data, in J. ANDRESEN, T. MADSEN, I. SCOLLAR (edd.), Computing the Past. Computer Applications and Quantitative Methods in Archaeology 1992, Aarhus, 205-211.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "The excavation archive: an integrated system for the management of cartographic and alphanumeric data",
+   "editors": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "pages": "205-211",
+   "is_part_of": [
+    "Computing the Past. Computer Applications and Quantitative Methods in Archaeology 1992"
+   ],
+   "place": "Aarhus",
+   "language": "eng",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "SEMERARO G. c.s., Il sistema per la gestione dei dati di scavo. Aspetti metodologici, in Metodologie 1.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il sistema per la gestione dei dati di scavo. Aspetti metodologici",
+   "is_part_of": [
+    "Metodologie di Catalogazione dei Beni Archeologici"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "ita",
+   "confidence": "high",
+   "position": 13,
+   "xref": 10,
+   "notes": "cited \"in Metodologie 1\" (in corso di stampa); volume published 1997 (Lecce-Bari, ed. D'Andria) but this contribution not confirmed"
+  },
+  {
+   "raw": "SEMERARO G. c.s. 2, The Management of Excavation Data: Problems and Prospects, in S. ROSS (ed.), The Problems and Potentials of Electronic Information for Archaeology, Seminar, London 3-4 June 1994, (in corso di stampa).",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "The Management of Excavation Data: Problems and Prospects",
+   "editors": [
+    {
+     "family": "Ross",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "The Problems and Potentials of Electronic Information for Archaeology, Seminar, London 3-4 June 1994"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "eng",
+   "confidence": "high",
+   "position": 14,
+   "notes": "cited \"c.s. 2\"; searched author + title: no publication found (the seminar volume apparently never appeared)"
+  }
+ ]
+}

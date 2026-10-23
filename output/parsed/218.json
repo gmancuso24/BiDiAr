@@ -1,0 +1,125 @@
+{
+ "citing_aec_id": 218,
+ "source_file": "data/journal/7/218.md",
+ "references": [
+  {
+   "raw": "AA.VV. 1995, Amalfi, coll. Itinerari Multimediali, Napoli, ed. Ceaprelda.",
+   "date": "1995",
+   "type": "other",
+   "title": "Amalfi",
+   "place": "Napoli",
+   "publisher": "Ceaprelda",
+   "series": "Itinerari Multimediali",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1,
+   "notes": "multimedia product"
+  },
+  {
+   "raw": "GRECO E., D'AMBROSIO I. 1995, Paestum, coll. Itinerari Multimediali, Napoli, ed. Ceaprelda, (in corso di stampa).",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Greco",
+     "given": "E."
+    },
+    {
+     "family": "D'Ambrosio",
+     "given": "I."
+    }
+   ],
+   "type": "other",
+   "title": "Paestum",
+   "language": "ita",
+   "confidence": "high",
+   "position": 2,
+   "cs": {
+    "status": "unresolved"
+   },
+   "series": "Itinerari Multimediali",
+   "place": "Napoli",
+   "publisher": "Ceaprelda",
+   "notes": "multimedia product; cited \"(in corso di stampa)\"; online search not performed (year given)"
+  },
+  {
+   "raw": "NASO A. 1995 (presentazione di Mauro Cristofani), Gli Etruschi - Etruria meridionale, coll. Itinerari Multimediali, Napoli, ed. Ceaprelda.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Naso",
+     "given": "A."
+    }
+   ],
+   "type": "other",
+   "title": "Gli Etruschi - Etruria meridionale",
+   "place": "Napoli",
+   "publisher": "Ceaprelda",
+   "series": "Itinerari Multimediali",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3,
+   "notes": "multimedia product; presentazione di Mauro Cristofani"
+  },
+  {
+   "raw": "RUVO C. 1993, Campi Flegrei, coll. Itinerari Multimediali, Napoli, ed. Ceaprelda.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Ruvo",
+     "given": "C."
+    }
+   ],
+   "type": "other",
+   "title": "Campi Flegrei",
+   "place": "Napoli",
+   "publisher": "Ceaprelda",
+   "series": "Itinerari Multimediali",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4,
+   "notes": "multimedia product"
+  },
+  {
+   "raw": "RUVO C. 1994 c.s., Napoli-Mirabilia, coll. Itinerari Multimediali, Napoli, ed. Ceaprelda, (in corso di stampa).",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Ruvo",
+     "given": "C."
+    }
+   ],
+   "type": "other",
+   "title": "Napoli-Mirabilia",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5,
+   "cs": {
+    "status": "unresolved"
+   },
+   "series": "Itinerari Multimediali",
+   "place": "Napoli",
+   "publisher": "Ceaprelda",
+   "notes": "multimedia product; cited \"c.s.\"/\"in corso di stampa\"; online search not performed (year given)"
+  },
+  {
+   "raw": "RUVO C. 1995, La comunicazione multimediale nelle attività scientifiche e divulgative dei beni culturali, «Archeologia e Calcolatori», 6, 243-258.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Ruvo",
+     "given": "C."
+    }
+   ],
+   "type": "article",
+   "title": "La comunicazione multimediale nelle attività scientifiche e divulgative dei beni culturali",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "243-258",
+   "volume": "6",
+   "language": "ita",
+   "confidence": "high",
+   "position": 6
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "citing_aec_id": 327,
+ "source_file": "data/journal/12/327.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BONAMICI M. 1974, I buccheri con figurazioni graffite, Firenze, Leo S. Olschki.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bonamici",
+     "given": "M."
+    }
+   ],
+   "date": "1974",
+   "title": "I buccheri con figurazioni graffite",
+   "publisher": "Leo S. Olschki",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "CAMPOREALE G. 1983, Un gruppo di vasi bronzei chiusini di facies orientalizzante, «Studi Etruschi», 59, 29-39.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Camporeale",
+     "given": "G."
+    }
+   ],
+   "date": "1983",
+   "title": "Un gruppo di vasi bronzei chiusini di facies orientalizzante",
+   "is_part_of": [
+    "Studi Etruschi"
+   ],
+   "volume": "59",
+   "pages": "29-39",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "CAMPOREALE G. 1991, La Collezione CA, Roma, Giorgio Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Camporeale",
+     "given": "G."
+    }
+   ],
+   "date": "1991",
+   "title": "La Collezione CA",
+   "publisher": "Giorgio Bretschneider",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "DI BLASI L. 2000, Alcuni aspetti della documentazione grafica degli specchi etruschi, in AA.VV., Aspetti e problemi della produzione degli specchi etruschi figurati. Atti dell’incontro internazionale di studio (Roma 1997), Roma, Aracne, 79-113.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Blasi",
+     "given": "L."
+    }
+   ],
+   "date": "2000",
+   "title": "Alcuni aspetti della documentazione grafica degli specchi etruschi",
+   "is_part_of": [
+    "Aspetti e problemi della produzione degli specchi etruschi figurati. Atti dell’incontro internazionale di studio (Roma 1997)"
+   ],
+   "pages": "79-113",
+   "publisher": "Aracne",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "container cited as AA.VV."
+  },
+  {
+   "position": 5,
+   "raw": "EMILIOZZI A., SANTORO P. 1997, Eretum: i veicoli dalla tomba XI di Colle del Forno, in AA.VV., Carri da guerra e principi etruschi, Catalogo della Mostra (Viterbo 1977), Roma, L’Erma di Bretschneider, 291-300.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Emiliozzi",
+     "given": "A."
+    },
+    {
+     "family": "Santoro",
+     "given": "P."
+    }
+   ],
+   "date": "1997",
+   "title": "Eretum: i veicoli dalla tomba XI di Colle del Forno",
+   "is_part_of": [
+    "Carri da guerra e principi etruschi, Catalogo della Mostra (Viterbo 1977)"
+   ],
+   "pages": "291-300",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "container cited as AA.VV.; mostra year as cited (1977)"
+  },
+  {
+   "position": 6,
+   "raw": "JOHANSEN F. 1971, Reliefs en bronze d’Etrurie, Copenhague, Permold-Rosengreen.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Johansen",
+     "given": "F."
+    }
+   ],
+   "date": "1971",
+   "title": "Reliefs en bronze d’Etrurie",
+   "publisher": "Permold-Rosengreen",
+   "place": "Copenhague",
+   "language": "fre"
+  },
+  {
+   "position": 7,
+   "raw": "JOHANSEN F. 1979, Etruskiske Bronzerelieffer i Glyptoteket, «Meddelelser fra Ny Carlserg Glyptotek», 80-87.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Johansen",
+     "given": "F."
+    }
+   ],
+   "date": "1979",
+   "title": "Etruskiske Bronzerelieffer i Glyptoteket",
+   "is_part_of": [
+    "Meddelelser fra Ny Carlsberg Glyptotek"
+   ],
+   "pages": "80-87",
+   "language": "dan",
+   "notes": "raw \"Carlserg\""
+  },
+  {
+   "position": 8,
+   "raw": "SANTORO P. 1977, Scavi nella necropoli sabina arcaica a Colle del Forno, «Notizie degli Scavi», 211-298.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Santoro",
+     "given": "P."
+    }
+   ],
+   "date": "1977",
+   "title": "Scavi nella necropoli sabina arcaica a Colle del Forno",
+   "is_part_of": [
+    "Notizie degli Scavi"
+   ],
+   "pages": "211-298",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "STEINBERG A. 1968, Techniques of working bronze, in AA.VV., Master Bronzes from the Classical World, Mainz on Rhine, Philipp von Zabern, 9-15.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Steinberg",
+     "given": "A."
+    }
+   ],
+   "date": "1968",
+   "title": "Techniques of working bronze",
+   "is_part_of": [
+    "Master Bronzes from the Classical World"
+   ],
+   "pages": "9-15",
+   "publisher": "Philipp von Zabern",
+   "place": "Mainz on Rhine",
+   "language": "eng",
+   "notes": "container cited as AA.VV."
+  }
+ ]
+}

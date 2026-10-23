@@ -1,0 +1,513 @@
+{
+ "citing_aec_id": 1510,
+ "source_file": "data/journal/37/1510.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Caravale A., Moscati P., Rossi I. (eds.) 2026, The H2IOSC Project and Its Impact on Digital Antiquity within the E-RIHS Infrastructure, Firenze, All’Insegna del Giglio (https://doi.org/10.19282/h2iosc.2026).",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2026",
+   "title": "The H2IOSC Project and Its Impact on Digital Antiquity within the E-RIHS Infrastructure",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "eng",
+   "doi": "10.19282/h2iosc.2026"
+  },
+  {
+   "position": 2,
+   "raw": "Degl’Innocenti E., Monachini M., Bucciero A., Pasini E., Fanini B., Frontini F. 2023, H2IOSC: Humanities and Heritage Open Science Cloud, in E. Carbé, G. Lo Piccolo, A. Valenti, F. Stella (eds.), La memoria digitale: forme del testo e organizzazione della conoscenza. Atti del XII Convegno Annuale AIUCD, Siena, AIUCD, 63-64.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Degl’Innocenti",
+     "given": "E."
+    },
+    {
+     "family": "Monachini",
+     "given": "M."
+    },
+    {
+     "family": "Bucciero",
+     "given": "A."
+    },
+    {
+     "family": "Pasini",
+     "given": "E."
+    },
+    {
+     "family": "Fanini",
+     "given": "B."
+    },
+    {
+     "family": "Frontini",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Carbé",
+     "given": "E."
+    },
+    {
+     "family": "Lo Piccolo",
+     "given": "G."
+    },
+    {
+     "family": "Valenti",
+     "given": "A."
+    },
+    {
+     "family": "Stella",
+     "given": "F."
+    }
+   ],
+   "date": "2023",
+   "title": "H2IOSC: Humanities and Heritage Open Science Cloud",
+   "is_part_of": [
+    "La memoria digitale: forme del testo e organizzazione della conoscenza. Atti del XII Convegno Annuale AIUCD"
+   ],
+   "pages": "63-64",
+   "publisher": "AIUCD",
+   "place": "Siena",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Fabiani V., Marras C., Reggiani L., Russo A., Sichera P., Pasini E. 2025, D5.1 CLA-RIN/OPERAS/DARIAH/E-RIHS and the H2IOSC MarketPlace (Final) (https://doi.org/10.5281/zenodo.19481374).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Fabiani",
+     "given": "V."
+    },
+    {
+     "family": "Marras",
+     "given": "C."
+    },
+    {
+     "family": "Reggiani",
+     "given": "L."
+    },
+    {
+     "family": "Russo",
+     "given": "A."
+    },
+    {
+     "family": "Sichera",
+     "given": "P."
+    },
+    {
+     "family": "Pasini",
+     "given": "E."
+    }
+   ],
+   "date": "2025",
+   "title": "D5.1 CLA-RIN/OPERAS/DARIAH/E-RIHS and the H2IOSC MarketPlace (Final)",
+   "language": "eng",
+   "doi": "10.5281/zenodo.19481374"
+  },
+  {
+   "position": 4,
+   "raw": "Li Y., Dong L., Fan X., Wei R., Guo S., Ma W., Li Z. 2024, New roles of research data infrastructure in research paradigm evolution, «Journal of Data and Information Science», 9 (https://doi.org/10.2478/jdis-2024-0011).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Li",
+     "given": "Y."
+    },
+    {
+     "family": "Dong",
+     "given": "L."
+    },
+    {
+     "family": "Fan",
+     "given": "X."
+    },
+    {
+     "family": "Wei",
+     "given": "R."
+    },
+    {
+     "family": "Guo",
+     "given": "S."
+    },
+    {
+     "family": "Ma",
+     "given": "W."
+    },
+    {
+     "family": "Li",
+     "given": "Z."
+    }
+   ],
+   "date": "2024",
+   "title": "New roles of research data infrastructure in research paradigm evolution",
+   "is_part_of": [
+    "Journal of Data and Information Science"
+   ],
+   "volume": "9",
+   "language": "eng",
+   "doi": "10.2478/jdis-2024-0011"
+  },
+  {
+   "position": 5,
+   "raw": "Luzietti R.B., Spadi A., Giampietro N., Mancuso G., Caravale A., D’Eredità A., Degl’Innocenti E. 2024, Digital Humanities and Heritage Science: Moving from landscaping to a dynamic research observatory in an Open Science Cloud, in A. Di Silvestro, D. Spampinato (eds.), Me.Te. Digitali. Mediterraneo in rete tra testi e contesti, Proceedings del XIII Convegno Annuale AIUCD (Catania 2024), «Quaderni di Umanistica Digitale», 565-599 (https://dx.doi.org/10.6092/unibo/amsacta/7927).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Luzietti",
+     "given": "R.B."
+    },
+    {
+     "family": "Spadi",
+     "given": "A."
+    },
+    {
+     "family": "Giampietro",
+     "given": "N."
+    },
+    {
+     "family": "Mancuso",
+     "given": "G."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "D’Eredità",
+     "given": "A."
+    },
+    {
+     "family": "Degl’Innocenti",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Di Silvestro",
+     "given": "A."
+    },
+    {
+     "family": "Spampinato",
+     "given": "D."
+    }
+   ],
+   "date": "2024",
+   "title": "Digital Humanities and Heritage Science: Moving from landscaping to a dynamic research observatory in an Open Science Cloud",
+   "is_part_of": [
+    "Me.Te. Digitali. Mediterraneo in rete tra testi e contesti, Proceedings del XIII Convegno Annuale AIUCD (Catania 2024)"
+   ],
+   "pages": "565-599",
+   "language": "eng",
+   "series": "Quaderni di Umanistica Digitale",
+   "doi": "10.6092/unibo/amsacta/7927"
+  },
+  {
+   "position": 6,
+   "raw": "Luzietti R.B., Spadi A., Giampietro N., Mancuso G., Caravale A., D’Eredità A., Degl’Innocenti E. 2025, Digital Humanities and Heritage Science: Moving from landscaping to a dynamic research observatory in an Open Science Cloud, «Umanistica Digitale», 9, 20, 419-439 (https://doi.org/10.6092/issn.2532-8816/21226).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Luzietti",
+     "given": "R.B."
+    },
+    {
+     "family": "Spadi",
+     "given": "A."
+    },
+    {
+     "family": "Giampietro",
+     "given": "N."
+    },
+    {
+     "family": "Mancuso",
+     "given": "G."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "D’Eredità",
+     "given": "A."
+    },
+    {
+     "family": "Degl’Innocenti",
+     "given": "E."
+    }
+   ],
+   "date": "2025",
+   "title": "Digital Humanities and Heritage Science: Moving from landscaping to a dynamic research observatory in an Open Science Cloud",
+   "is_part_of": [
+    "Umanistica Digitale"
+   ],
+   "volume": "9",
+   "issue": "20",
+   "pages": "419-439",
+   "language": "eng",
+   "doi": "10.6092/issn.2532-8816/21226"
+  },
+  {
+   "position": 7,
+   "raw": "Mancuso G. 2025, Beyond monitoring. Reimagining DHeLO as a Linked Open Data infrastructure for Cultural Heritage research, «Archeologia e Calcolatori», 36.1, 443-454 (https://doi.org/10.19282/ac.36.1.2025.24).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mancuso",
+     "given": "G."
+    }
+   ],
+   "date": "2025",
+   "title": "Beyond monitoring. Reimagining DHeLO as a Linked Open Data infrastructure for Cultural Heritage research",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "36",
+   "issue": "1",
+   "pages": "443-454",
+   "language": "eng",
+   "doi": "10.19282/ac.36.1.2025.24",
+   "cited_aec_id": 1398
+  },
+  {
+   "position": 8,
+   "raw": "Mancuso G., Caravale A., D’Eredità A., Moscati P. 2025, Merging knowledge and tools in Heritage Science and Digital Archaeology. Practices from H2IOSC WP2, in S. Campana, D. Ferdani, H. Graf, G. Guidi, Z. Hegarty, S. Pescarin, F. Remondino (eds.), Digital Heritage 2025 (Siena 2025), Goslar, The Eurographics Association (https://doi.org/10.2312/dh.20253320).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mancuso",
+     "given": "G."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "D’Eredità",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Graf",
+     "given": "H."
+    },
+    {
+     "family": "Guidi",
+     "given": "G."
+    },
+    {
+     "family": "Hegarty",
+     "given": "Z."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2025",
+   "title": "Merging knowledge and tools in Heritage Science and Digital Archaeology. Practices from H2IOSC WP2",
+   "is_part_of": [
+    "Digital Heritage 2025 (Siena 2025)"
+   ],
+   "publisher": "The Eurographics Association",
+   "place": "Goslar",
+   "language": "eng",
+   "doi": "10.2312/dh.20253320"
+  },
+  {
+   "position": 9,
+   "raw": "Mancuso G., D’Eredità A. 2024, DHeLO and BiDiAr: New digital resources within the H2IOSC Project, «Archeologia e Calcolatori», 35.1, 521-542 (https://doi.org/10.19282/ac.35.1.2024.31).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mancuso",
+     "given": "G."
+    },
+    {
+     "family": "D’Eredità",
+     "given": "A."
+    }
+   ],
+   "date": "2024",
+   "title": "DHeLO and BiDiAr: New digital resources within the H2IOSC Project",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "1",
+   "pages": "521-542",
+   "language": "eng",
+   "doi": "10.19282/ac.35.1.2024.31",
+   "cited_aec_id": 1312
+  },
+  {
+   "position": 10,
+   "raw": "Monachini M., Quochi V., Luzietti R.B., Spadi A., Mancuso G., D’Eredità A., Melaccio D. 2025, D2.2 Updated Report on the H2IOSC Landscapes (https://doi.org/10.5281/zenodo.17737101).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Monachini",
+     "given": "M."
+    },
+    {
+     "family": "Quochi",
+     "given": "V."
+    },
+    {
+     "family": "Luzietti",
+     "given": "R.B."
+    },
+    {
+     "family": "Spadi",
+     "given": "A."
+    },
+    {
+     "family": "Mancuso",
+     "given": "G."
+    },
+    {
+     "family": "D’Eredità",
+     "given": "A."
+    },
+    {
+     "family": "Melaccio",
+     "given": "D."
+    }
+   ],
+   "date": "2025",
+   "title": "D2.2 Updated Report on the H2IOSC Landscapes",
+   "language": "eng",
+   "doi": "10.5281/zenodo.17737101"
+  },
+  {
+   "position": 11,
+   "raw": "Sichera P., Monachini M., Quochi V., Giampietro N., Fabiani V., Ottaviani R., Luzietti R.B. 2025, Synergies between CLARIN-IT and OPERAS-IT within H2IOSC: Monitoring communities and orchestrating digital services, in C. Grisot, T. Kontino (eds.), CLARIN Annual Conference Proceedings, Vienna, 26-30 (https://dx.doi.org/10.5281/zenodo.17357825).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sichera",
+     "given": "P."
+    },
+    {
+     "family": "Monachini",
+     "given": "M."
+    },
+    {
+     "family": "Quochi",
+     "given": "V."
+    },
+    {
+     "family": "Giampietro",
+     "given": "N."
+    },
+    {
+     "family": "Fabiani",
+     "given": "V."
+    },
+    {
+     "family": "Ottaviani",
+     "given": "R."
+    },
+    {
+     "family": "Luzietti",
+     "given": "R.B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grisot",
+     "given": "C."
+    },
+    {
+     "family": "Kontino",
+     "given": "T."
+    }
+   ],
+   "date": "2025",
+   "title": "Synergies between CLARIN-IT and OPERAS-IT within H2IOSC: Monitoring communities and orchestrating digital services",
+   "is_part_of": [
+    "CLARIN Annual Conference Proceedings"
+   ],
+   "pages": "26-30",
+   "place": "Vienna",
+   "language": "eng",
+   "doi": "10.5281/zenodo.17357825"
+  },
+  {
+   "position": 12,
+   "raw": "Wilkinson M.D., Dumontier M., Aalbersberg I.J., Appleton G., Axton M., Baak A., Mons B. 2016, The FAIR guiding principles for scientific data management and stewardship, «Scientific Data», 3, 1 (https://doi.org/10.1038/sdata.2016.18).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wilkinson",
+     "given": "M.D."
+    },
+    {
+     "family": "Dumontier",
+     "given": "M."
+    },
+    {
+     "family": "Aalbersberg",
+     "given": "I.J."
+    },
+    {
+     "family": "Appleton",
+     "given": "G."
+    },
+    {
+     "family": "Axton",
+     "given": "M."
+    },
+    {
+     "family": "Baak",
+     "given": "A."
+    },
+    {
+     "family": "Mons",
+     "given": "B."
+    }
+   ],
+   "date": "2016",
+   "title": "The FAIR guiding principles for scientific data management and stewardship",
+   "is_part_of": [
+    "Scientific Data"
+   ],
+   "volume": "3",
+   "issue": "1",
+   "language": "eng",
+   "doi": "10.1038/sdata.2016.18"
+  }
+ ]
+}

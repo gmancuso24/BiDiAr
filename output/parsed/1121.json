@@ -1,0 +1,649 @@
+{
+ "citing_aec_id": 1121,
+ "source_file": "data/journal/31/1121.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Alberti L. (ed.) 2019, *The ArcheoLab Project in the Doclea Valley, Montenegro (Campaign 2017). Archaeology, Technologies and Future Perspectives*, «Archeologia e Calcolatori», Suppl. 11.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Alberti",
+     "given": "L."
+    }
+   ],
+   "title": "The ArcheoLab Project in the Doclea Valley, Montenegro (Campaign 2017). Archaeology, Technologies and Future Perspectives",
+   "date": "2019",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 11",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Alberti L., D'Eredità A. 2019, *The future of the past: First perspectives for Doclea today*, in Alberti 2019, 105-111 (https://doi.org/10.19282/ACS.11.2019.09).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Alberti",
+     "given": "L."
+    },
+    {
+     "family": "D'Eredità",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Alberti",
+     "given": "L."
+    }
+   ],
+   "title": "The future of the past: First perspectives for Doclea today",
+   "date": "2019",
+   "is_part_of": [
+    "The ArcheoLab Project in the Doclea Valley, Montenegro (Campaign 2017). Archaeology, Technologies and Future Perspectives",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 11",
+   "pages": "105-111",
+   "language": "eng",
+   "doi": "10.19282/ACS.11.2019.09",
+   "cited_aec_id": 1032,
+   "notes": "cited \"in Alberti 2019\"",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Alberti L., Koprivica T. 2017, *Joint Archaeological Laboratory Italia Montenegro: The Doclea Valley*, «Archeologia e Calcolatori», 28.1, 311-313 (https://doi.org/10.19282/AC.28.1.2017.18).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Alberti",
+     "given": "L."
+    },
+    {
+     "family": "Koprivica",
+     "given": "T."
+    }
+   ],
+   "title": "Joint Archaeological Laboratory Italia Montenegro: The Doclea Valley",
+   "date": "2017",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "1",
+   "pages": "311-313",
+   "language": "eng",
+   "doi": "10.19282/AC.28.1.2017.18",
+   "cited_aec_id": 911,
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Campana S. 2017, *Drones in archaeology. State-of-the-art and future perspectives*, «Archaeological Prospection», 24, 4, 275-296.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "title": "Drones in archaeology. State-of-the-art and future perspectives",
+   "date": "2017",
+   "is_part_of": [
+    "Archaeological Prospection"
+   ],
+   "volume": "24",
+   "issue": "4",
+   "pages": "275-296",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Cardone V. 1999, *Modelli grafici dell'architettura e del territorio*, Napoli, CUEN.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cardone",
+     "given": "V."
+    }
+   ],
+   "title": "Modelli grafici dell'architettura e del territorio",
+   "date": "1999",
+   "language": "ita",
+   "publisher": "CUEN",
+   "place": "Napoli",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Colosi F., Merola P., Moscati P. 2019, *The urban planning of Doclea: Remote sensing and topographical survey*, in Alberti 2019, 59-75 (https://doi.org/10.19282/ACS.11.2019.06).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Merola",
+     "given": "P."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Alberti",
+     "given": "L."
+    }
+   ],
+   "title": "The urban planning of Doclea: Remote sensing and topographical survey",
+   "date": "2019",
+   "is_part_of": [
+    "The ArcheoLab Project in the Doclea Valley, Montenegro (Campaign 2017). Archaeology, Technologies and Future Perspectives",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 11",
+   "pages": "59-75",
+   "language": "eng",
+   "doi": "10.19282/ACS.11.2019.06",
+   "cited_aec_id": 1029,
+   "notes": "cited \"in Alberti 2019\"",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Di Guardo D. 2007, *Architettura e segno digitale. Esperienze e visioni radicali*, Roma, Aracne Editrice.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Di Guardo",
+     "given": "D."
+    }
+   ],
+   "title": "Architettura e segno digitale. Esperienze e visioni radicali",
+   "date": "2007",
+   "language": "ita",
+   "publisher": "Aracne Editrice",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Galli M., Griffo M., Inglese C., Ismaelli T. 2019, *Vecchi scavi e nuove tecnologie: primi risultati del progetto Basilica Iulia*, «Archeologia e Calcolatori», 30, 229-249 (https://doi.org/10.19282/ac.30.2019.14).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Galli",
+     "given": "M."
+    },
+    {
+     "family": "Griffo",
+     "given": "M."
+    },
+    {
+     "family": "Inglese",
+     "given": "C."
+    },
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "title": "Vecchi scavi e nuove tecnologie: primi risultati del progetto Basilica Iulia",
+   "date": "2019",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "30",
+   "pages": "229-249",
+   "language": "ita",
+   "doi": "10.19282/ac.30.2019.14",
+   "cited_aec_id": 1049,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Gelichi S., Negrelli C., Leardi S., Sabbionesi L., Belcari R. 2012, *Doclea alla fine dell'antichità. Studi e ricerche per la storia di una città abbandonata della Prevalitania/Duklja na kraju antickog doba. Studije i istraživanja istorije jednog napuštenog grada Prevalitanije*, «Nova Anticka Duklja/New Antique Doclea», 3, 10-40.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gelichi",
+     "given": "S."
+    },
+    {
+     "family": "Negrelli",
+     "given": "C."
+    },
+    {
+     "family": "Leardi",
+     "given": "S."
+    },
+    {
+     "family": "Sabbionesi",
+     "given": "L."
+    },
+    {
+     "family": "Belcari",
+     "given": "R."
+    }
+   ],
+   "title": "Doclea alla fine dell'antichità. Studi e ricerche per la storia di una città abbandonata della Prevalitania/Duklja na kraju antickog doba. Studije i istraživanja istorije jednog napuštenog grada Prevalitanije",
+   "date": "2012",
+   "is_part_of": [
+    "Nova Anticka Duklja/New Antique Doclea"
+   ],
+   "volume": "3",
+   "pages": "10-40",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Haala N. 2013, *The landscape of dense image matching algorithms*, in D. Fritsch (ed.), *Photogrammetric Week '13*, Berlin-Offenbach, Wichmann, 271-284.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Haala",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Fritsch",
+     "given": "D."
+    }
+   ],
+   "title": "The landscape of dense image matching algorithms",
+   "date": "2013",
+   "is_part_of": [
+    "Photogrammetric Week '13"
+   ],
+   "pages": "271-284",
+   "language": "eng",
+   "publisher": "Wichmann",
+   "place": "Berlin-Offenbach",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Historic England 2017, *Photogrammetric Applications for Cultural Heritage. Guidance for Good Practice*, Swindon, Historic England.",
+   "type": "book",
+   "title": "Photogrammetric Applications for Cultural Heritage. Guidance for Good Practice",
+   "date": "2017",
+   "language": "eng",
+   "publisher": "Historic England",
+   "place": "Swindon",
+   "notes": "corporate author Historic England not kept as creator",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Lafarge F., Mallet C. 2012, *Creating large-scale city models from 3D-point clouds: A robust approach with hybrid representation*, «International Journal of Computer Vision», 99, 1, 69-85.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lafarge",
+     "given": "F."
+    },
+    {
+     "family": "Mallet",
+     "given": "C."
+    }
+   ],
+   "title": "Creating large-scale city models from 3D-point clouds: A robust approach with hybrid representation",
+   "date": "2012",
+   "is_part_of": [
+    "International Journal of Computer Vision"
+   ],
+   "volume": "99",
+   "issue": "1",
+   "pages": "69-85",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Munro J.A.R., Anderson W.C.F., Milne J.G., Haverfield F. 1896, *On the Roman town Doclea in Montenegro*, «Archaeologia», 55, 1-60.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Munro",
+     "given": "J.A.R."
+    },
+    {
+     "family": "Anderson",
+     "given": "W.C.F."
+    },
+    {
+     "family": "Milne",
+     "given": "J.G."
+    },
+    {
+     "family": "Haverfield",
+     "given": "F."
+    }
+   ],
+   "title": "On the Roman town Doclea in Montenegro",
+   "date": "1896",
+   "is_part_of": [
+    "Archaeologia"
+   ],
+   "volume": "55",
+   "pages": "1-60",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Rinaldi Tufi S. 2000, *Archeologia delle province romane*, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rinaldi Tufi",
+     "given": "S."
+    }
+   ],
+   "title": "Archeologia delle province romane",
+   "date": "2000",
+   "language": "ita",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Rinaldi Tufi S. 2012, *Doclea, città romana del Montenegro*, in G. de Marinis, G.M. Fabrini, G. Paci, R. Perna, M. Silvestrini (eds.), *I processi evolutivi della città in area adriatica*, BAR International Series 2419, Oxford, Archeopress, 477-490.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rinaldi Tufi",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "de Marinis",
+     "given": "G."
+    },
+    {
+     "family": "Fabrini",
+     "given": "G.M."
+    },
+    {
+     "family": "Paci",
+     "given": "G."
+    },
+    {
+     "family": "Perna",
+     "given": "R."
+    },
+    {
+     "family": "Silvestrini",
+     "given": "M."
+    }
+   ],
+   "title": "Doclea, città romana del Montenegro",
+   "date": "2012",
+   "is_part_of": [
+    "I processi evolutivi della città in area adriatica"
+   ],
+   "pages": "477-490",
+   "language": "ita",
+   "series": "BAR International Series",
+   "series_number": "2419",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Rinaldi Tufi S., Baratin L., Peloso D. 2008, *Valorizzazione del sito archeologico di Doclea, città romana in Montenegro*, «Bollettino di Archeologia on line», 1, 71-77.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rinaldi Tufi",
+     "given": "S."
+    },
+    {
+     "family": "Baratin",
+     "given": "L."
+    },
+    {
+     "family": "Peloso",
+     "given": "D."
+    }
+   ],
+   "title": "Valorizzazione del sito archeologico di Doclea, città romana in Montenegro",
+   "date": "2008",
+   "is_part_of": [
+    "Bollettino di Archeologia on line"
+   ],
+   "volume": "1",
+   "pages": "71-77",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Rovinski P. 1909, *Cernogorija v jejo prošlom i nastojašem, Geografija.-Istorija.-Etnografija.-Arheologija*, tom II, cast 4 [Montenegro in the Past and Present, Geography-History-Ethnography-Archaeology, vol. II, part 4], S. Peterburg (republished in Cetinje-Novi Sad 1994).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rovinski",
+     "given": "P."
+    }
+   ],
+   "title": "Cernogorija v jejo prošlom i nastojašem, Geografija.-Istorija.-Etnografija.-Arheologija [Montenegro in the Past and Present, Geography-History-Ethnography-Archaeology]",
+   "date": "1909",
+   "language": "rus",
+   "volume": "II",
+   "place": "S. Peterburg",
+   "notes": "cited \"tom II, cast 4\" (part 4); republished Cetinje-Novi Sad 1994",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Sansoni G. 2006, *Misure ottiche. Modelli di telecamere che tengono conto delle distorsioni*, Laboratory of Optoelectronics, Università di Brescia (http://www.optolab-bs.it/VISIONE_3D/Modelli_con_distorsioni.pdf).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Sansoni",
+     "given": "G."
+    }
+   ],
+   "title": "Misure ottiche. Modelli di telecamere che tengono conto delle distorsioni",
+   "date": "2006",
+   "language": "ita",
+   "publisher": "Laboratory of Optoelectronics, Università di Brescia",
+   "uri": "http://www.optolab-bs.it/VISIONE_3D/Modelli_con_distorsioni.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Sfameni C., D'Eredità A., Koprivica T. 2019, *The main public buildings of Doclea: Archival, archaeological and architectural research*, in Alberti 2019, 85-103 (https://doi.org/10.19282/ACS.11.2019.08).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sfameni",
+     "given": "C."
+    },
+    {
+     "family": "D'Eredità",
+     "given": "A."
+    },
+    {
+     "family": "Koprivica",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Alberti",
+     "given": "L."
+    }
+   ],
+   "title": "The main public buildings of Doclea: Archival, archaeological and architectural research",
+   "date": "2019",
+   "is_part_of": [
+    "The ArcheoLab Project in the Doclea Valley, Montenegro (Campaign 2017). Archaeology, Technologies and Future Perspectives",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 11",
+   "pages": "85-103",
+   "language": "eng",
+   "doi": "10.19282/ACS.11.2019.08",
+   "cited_aec_id": 1031,
+   "notes": "cited \"in Alberti 2019\"",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Sticotti P. 1913, *Die römische Stadt Doclea in Montenegro*, Schriften der Balkankommission Antiquarische Abteilung Heft 6, Wien, In Kommission bei A. Hölder.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sticotti",
+     "given": "P."
+    }
+   ],
+   "title": "Die römische Stadt Doclea in Montenegro",
+   "date": "1913",
+   "language": "ger",
+   "series": "Schriften der Balkankommission Antiquarische Abteilung",
+   "series_number": "Heft 6",
+   "publisher": "In Kommission bei A. Hölder",
+   "place": "Wien",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Szeliski R. 2010, *Computer Vision: Algorithms and Applications*, London, Springer Science & Business.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Szeliski",
+     "given": "R."
+    }
+   ],
+   "title": "Computer Vision: Algorithms and Applications",
+   "date": "2010",
+   "language": "eng",
+   "publisher": "Springer Science & Business",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Villicich R., Morigi A., Rinaldi E. 2019, *Ricerche nell'area della villa di Teoderico a Galeata (FC): un \"dialogo\" fra nuove tecnologie e tradizionali metodi di scavo*, «Archeologia e Calcolatori», 30, 183-204 (https://doi.org/10.19282/ac.30.2019.12).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Villicich",
+     "given": "R."
+    },
+    {
+     "family": "Morigi",
+     "given": "A."
+    },
+    {
+     "family": "Rinaldi",
+     "given": "E."
+    }
+   ],
+   "title": "Ricerche nell'area della villa di Teoderico a Galeata (FC): un \"dialogo\" fra nuove tecnologie e tradizionali metodi di scavo",
+   "date": "2019",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "30",
+   "pages": "183-204",
+   "language": "ita",
+   "doi": "10.19282/ac.30.2019.12",
+   "cited_aec_id": 1047,
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Ward-Perkins J.B. 1970, *Roman Imperial Architecture*, Yale, Yale University Press, 246-254.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ward-Perkins",
+     "given": "J.B."
+    }
+   ],
+   "title": "Roman Imperial Architecture",
+   "date": "1970",
+   "language": "eng",
+   "publisher": "Yale University Press",
+   "place": "Yale",
+   "notes": "cited with pp. 246-254",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Westoby M.J., Brasington J., Glasser N.F., Hambrey M.J., Reynolds J.M. 2012, *Structure-from-Motion photogrammetry: A low-cost, effective tool for geoscience applications*, «Geomorphology», 179, 300-314.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Westoby",
+     "given": "M.J."
+    },
+    {
+     "family": "Brasington",
+     "given": "J."
+    },
+    {
+     "family": "Glasser",
+     "given": "N.F."
+    },
+    {
+     "family": "Hambrey",
+     "given": "M.J."
+    },
+    {
+     "family": "Reynolds",
+     "given": "J.M."
+    }
+   ],
+   "title": "Structure-from-Motion photogrammetry: A low-cost, effective tool for geoscience applications",
+   "date": "2012",
+   "is_part_of": [
+    "Geomorphology"
+   ],
+   "volume": "179",
+   "pages": "300-314",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Zangrossi F. 2019, *3D visual technology applied for the reconstruction of a Paleolithic workshop*, «Journal of Archaeological Science: Reports», 28, 102045.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zangrossi",
+     "given": "F."
+    }
+   ],
+   "title": "3D visual technology applied for the reconstruction of a Paleolithic workshop",
+   "date": "2019",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "volume": "28",
+   "pages": "102045",
+   "language": "eng",
+   "notes": "102045 = article number",
+   "confidence": "high"
+  }
+ ]
+}

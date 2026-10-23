@@ -1,0 +1,432 @@
+{
+ "citing_aec_id": 274,
+ "source_file": "data/journal/10/274.md",
+ "references": [
+  {
+   "raw": "BINDER K., ALSPACH T. 1997, Grande guida a Photoshop 4.0, Milano.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Binder",
+     "given": "K."
+    },
+    {
+     "family": "Alspach",
+     "given": "T."
+    }
+   ],
+   "type": "book",
+   "title": "Grande guida a Photoshop 4.0",
+   "place": "Milano",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "BONINCONTRO I. 1997, Una ipotesi per l’archiviazione di dati testuali nel settore archeologico. L’impiego dello Standard Generalized Markup Language per la codifica delle informazioni, «Archeologia e Calcolatori», 8, 139-149.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Bonincontro",
+     "given": "I."
+    }
+   ],
+   "type": "article",
+   "title": "Una ipotesi per l’archiviazione di dati testuali nel settore archeologico. L’impiego dello Standard Generalized Markup Language per la codifica delle informazioni",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "139-149",
+   "volume": "8",
+   "language": "ita",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "CRISTOFANI M. 1986, Nuovi dati per la storia urbana di Caere, «Bollettino d’Arte», 35-36, 1-24.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Cristofani",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Nuovi dati per la storia urbana di Caere",
+   "is_part_of": [
+    "Bollettino d’Arte"
+   ],
+   "pages": "1-24",
+   "issue": "35-36",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "CRISTOFANI M. 1992 (ed.), Caere 3.1, Lo scarico arcaico della Vigna Parrocchiale, Roma, Consiglio Nazionale delle Ricerche.",
+   "date": "1992",
+   "editors": [
+    {
+     "family": "Cristofani",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Caere 3.1. Lo scarico arcaico della Vigna Parrocchiale",
+   "language": "ita",
+   "confidence": "high",
+   "position": 4,
+   "place": "Roma",
+   "publisher": "Consiglio Nazionale delle Ricerche"
+  },
+  {
+   "raw": "CRISTOFANI M. 1993 (ed.), Caere 3.2, Lo scarico arcaico della Vigna Parrocchiale, Roma, Consiglio Nazionale delle Ricerche.",
+   "date": "1993",
+   "editors": [
+    {
+     "family": "Cristofani",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Caere 3.2. Lo scarico arcaico della Vigna Parrocchiale",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5,
+   "place": "Roma",
+   "publisher": "Consiglio Nazionale delle Ricerche"
+  },
+  {
+   "raw": "CRISTOFANI M. 1996, Recenti scoperte nell’area urbana di Cerveteri, «Notiziario dell’Università degli Studi di Napoli Federico II» n.s., anno II, 11-12, 73-78.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Cristofani",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Recenti scoperte nell’area urbana di Cerveteri",
+   "is_part_of": [
+    "Notiziario dell’Università degli Studi di Napoli Federico II"
+   ],
+   "pages": "73-78",
+   "issue": "11-12",
+   "language": "ita",
+   "confidence": "high",
+   "position": 6,
+   "volume": "n.s., anno II"
+  },
+  {
+   "raw": "GLOVER G. 1991, Scanner. L’elaborazione delle immagini con il personal computer, Milano.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Glover",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Scanner. L’elaborazione delle immagini con il personal computer",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "GOTTARELLI A. 1992, Videodocumentazione dello scavo archeologico, «Archeologia e Calcolatori», 3, 77-99.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Videodocumentazione dello scavo archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "77-99",
+   "volume": "3",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "GRAY J., WALFORD K. 1999, One good site deserves another: electronic publishing in field archaeology, «Internet Archaeology», 7, http://intarch.ac.uk/journal/issue7/gray_toc.html.",
+   "date": "1999",
+   "creators": [
+    {
+     "family": "Gray",
+     "given": "J."
+    },
+    {
+     "family": "Walford",
+     "given": "K."
+    }
+   ],
+   "type": "article",
+   "title": "One good site deserves another: electronic publishing in field archaeology",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "7",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9,
+   "uri": "http://intarch.ac.uk/journal/issue7/gray_toc.html"
+  },
+  {
+   "raw": "GUIDAZZOLI A., FORTE M. 1992, Archeologia e tecniche di eidologia informatica, «Archeologia e Calcolatori», 3, 37-76.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Archeologia e tecniche di eidologia informatica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "37-76",
+   "volume": "3",
+   "language": "ita",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "GUIMIER-SORBETS A.-M. 1993, Ouvrir à un large public l’accès à une information spécialisée, in AA.VV., Data and Image Processing in Classical Archaeology, Proceedings of the International Conference (Ravello 3-4 April 1992), «Archeologia e Calcolatori», 4, 1993, 67-72.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "article",
+   "title": "Ouvrir à un large public l’accès à une information spécialisée",
+   "pages": "67-72",
+   "is_part_of": [
+    "Proceedings of International Conference on \"Data and Image Processing in Classical Archaeology\" (Ravello, 3-4 aprile 1992)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "fre",
+   "confidence": "high",
+   "position": 11,
+   "volume": "4"
+  },
+  {
+   "raw": "GUIMIER-SORBETS A.-M. 1996, Le traitement de l’information en Archéologie: archivage, publication et diffusion, in P. Moscati (ed.), Proceedings of the III International Symposium on Computing and Archaeology (Rome 1995), «Archeologia e Calcolatori», 7, 985-995.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "article",
+   "title": "Le traitement de l’information en Archéologie: archivage, publication et diffusion",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "pages": "985-995",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "fre",
+   "confidence": "high",
+   "position": 12,
+   "volume": "7"
+  },
+  {
+   "raw": "LOCK G. 1995, Archaeological computing, archaeological theory and moves towards contextualism, in HUGGETT J., RYAN N. (eds.), Computer Applications and Quantitative Methods in Archaeology 1994, Oxford, BAR International Series 600, 13-18.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Archaeological computing, archaeological theory and moves towards contextualism",
+   "editors": [
+    {
+     "family": "Huggett J.",
+     "given": ""
+    },
+    {
+     "family": "Ryan N.",
+     "given": ""
+    }
+   ],
+   "pages": "13-18",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1994"
+   ],
+   "place": "Oxford",
+   "series": "BAR International Series",
+   "series_number": "600",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "MEDRI M., POLESE W. 1991, Una banca dati di immagini su videodisco, «Archeologia e Calcolatori», 2, 1991, 129-172.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    },
+    {
+     "family": "Polese",
+     "given": "W."
+    }
+   ],
+   "type": "article",
+   "title": "Una banca dati di immagini su videodisco",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "129-172",
+   "volume": "2",
+   "language": "ita",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "MOSCATI P. 1998, Mauro Cristofani, computerised archaeology and the “Caere Project”, in P. MOSCATI (ed.), Methodological Trends and Future Perspectives in the Application of GIS in Archaeology, «Archeologia e Calcolatori», 9, 13-18.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "Mauro Cristofani, computerised archaeology and the “Caere Project”",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "pages": "13-18",
+   "is_part_of": [
+    "Methodological trends and future perspectives in the application of GIS in archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 15,
+   "volume": "9"
+  },
+  {
+   "raw": "MOSCATI P. c.s., The “Caere Project”: methodological and technical considerations, in Proceedings of the Second International Congress on Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Paris 1999), in corso di stampa.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "The “Caere Project”: methodological and technical considerations",
+   "is_part_of": [
+    "Proceedings of the Second International Congress on Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Paris 1999)"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "eng",
+   "confidence": "high",
+   "position": 16
+  },
+  {
+   "raw": "POWLESLAND D., CLEMENCE H., LYALL J. 1998, West Heslerton: WEB-CD. The application of HTML and Web tools for creating a distributed excavation archive in the form of WEB-CD, «Internet Archaeology», 5 (http://intarch.ac.uk/journal/issue5/westhescd_index.html).",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Powlesland",
+     "given": "D."
+    },
+    {
+     "family": "Clemence",
+     "given": "H."
+    },
+    {
+     "family": "Lyall",
+     "given": "J."
+    }
+   ],
+   "type": "article",
+   "title": "West Heslerton: WEB-CD. The application of HTML and Web tools for creating a distributed excavation archive in the form of WEB-CD",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 17,
+   "volume": "5",
+   "uri": "http://intarch.ac.uk/journal/issue5/westhescd_index.html"
+  },
+  {
+   "raw": "SQUINTANI M.B. 1995, Lo scanner come tecnica di documentazione, «Archeologia e Calcolatori», 6, 139-158.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Squintani",
+     "given": "M.B."
+    }
+   ],
+   "type": "article",
+   "title": "Lo scanner come tecnica di documentazione",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "139-158",
+   "volume": "6",
+   "language": "ita",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "WOLLE A.C. 1996, Multimedia methods for excavation reports and archives using Microcosm, in P. Moscati (ed.), Proceedings of the III International Symposium on Computing and Archaeology (Rome 1995), «Archeologia e Calcolatori», 7, 1167-1177.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Wolle",
+     "given": "A.C."
+    }
+   ],
+   "type": "article",
+   "title": "Multimedia methods for excavation reports and archives using Microcosm",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "pages": "1167-1177",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 19,
+   "volume": "7"
+  }
+ ]
+}

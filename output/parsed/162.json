@@ -1,0 +1,119 @@
+{
+ "citing_aec_id": 162,
+ "source_file": "data/journal/7/162.md",
+ "references": [
+  {
+   "raw": "CATARSI DALL'AGLIO M. 1994, Il territorio fidentino nell'antichità, in Fidenza, Milano, 12-55.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Catarsi Dall'Aglio",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il territorio fidentino nell'antichità",
+   "pages": "12-55",
+   "is_part_of": [
+    "Fidenza"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "CATARSI DALL'AGLIO M., SASSATELLI G. 1990-91, Fidenza (PR), Cabriolo, loc. Case Nuove di Siccomonte, «Studi e Documenti di Archeologia», 7, Bologna, 120-122.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Catarsi Dall'Aglio",
+     "given": "M."
+    },
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Fidenza (PR), Cabriolo, loc. Case Nuove di Siccomonte",
+   "is_part_of": [
+    "Studi e Documenti di Archeologia"
+   ],
+   "pages": "120-122",
+   "volume": "7",
+   "language": "ita",
+   "confidence": "high",
+   "position": 2,
+   "notes": "cited 1990-91; date set to first year; place Bologna"
+  },
+  {
+   "raw": "MALNATI L. 1988, Marzabotto (Bologna), in Aes signatum - Un aspetto dell'economia nell'Emilia preromana, Reggio Emilia, 85-87.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Malnati",
+     "given": "L."
+    }
+   ],
+   "type": "chapter",
+   "title": "Marzabotto (Bologna)",
+   "pages": "85-87",
+   "is_part_of": [
+    "Aes signatum - Un aspetto dell'economia nell'Emilia preromana"
+   ],
+   "place": "Reggio Emilia",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "MARINI CALVANI M., CATARSI DALL'AGLIO M. 1988, Quingento di San Prospero (Parma) e territorio parmense, in Aes signatum - Un aspetto dell'economia dell'Emilia preromana, Reggio Emilia, 29-38.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Marini Calvani",
+     "given": "M."
+    },
+    {
+     "family": "Catarsi Dall'Aglio",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Quingento di San Prospero (Parma) e territorio parmense",
+   "pages": "29-38",
+   "is_part_of": [
+    "Aes signatum - Un aspetto dell'economia dell'Emilia preromana"
+   ],
+   "place": "Reggio Emilia",
+   "language": "ita",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "MARINI CALVANI M., CATARSI DALL'AGLIO M. 1989, I pani di rame di Quingento di San Prospero, in Quingento di S. Prospero fra II e I Millennio a.C., Parma, 123-134.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Marini Calvani",
+     "given": "M."
+    },
+    {
+     "family": "Catarsi Dall'Aglio",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "I pani di rame di Quingento di San Prospero",
+   "pages": "123-134",
+   "is_part_of": [
+    "Quingento di S. Prospero fra II e I Millennio a.C."
+   ],
+   "place": "Parma",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5
+  }
+ ]
+}

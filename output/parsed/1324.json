@@ -1,0 +1,149 @@
+{
+ "citing_aec_id": 1324,
+ "source_file": "data/journal/35/1324.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ANICCHINI F., DUBBINI N., FABIANI F., GATTIGLIA G., GUALANDI M.L. 2013, *Mappa. Metodologie applicate alla predittività del potenziale archeologico*, 2, Pisa, Edizioni Nuova Cultura.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Dubbini",
+     "given": "N."
+    },
+    {
+     "family": "Fabiani",
+     "given": "F."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    },
+    {
+     "family": "Gualandi",
+     "given": "M.L."
+    }
+   ],
+   "date": "2013",
+   "title": "Mappa. Metodologie applicate alla predittività del potenziale archeologico",
+   "volume": "2",
+   "publisher": "Edizioni Nuova Cultura",
+   "place": "Pisa",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "BOI V. 2023, *Il Geoportale Nazionale per l'Archeologia (GNA). Standardizzazione e apertura dei dati* (https://doi.org/10.60974/GNA_02).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Boi",
+     "given": "V."
+    }
+   ],
+   "date": "2023",
+   "title": "Il Geoportale Nazionale per l'Archeologia (GNA). Standardizzazione e apertura dei dati",
+   "language": "ita",
+   "doi": "10.60974/GNA_02"
+  },
+  {
+   "position": 3,
+   "raw": "CALANDRA E. 2023, *Il Geoportale Nazionale per l'Archeologia (GNA). Un'introduzione* (https://doi.org/10.60974/GNA_01).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Calandra",
+     "given": "E."
+    }
+   ],
+   "date": "2023",
+   "title": "Il Geoportale Nazionale per l'Archeologia (GNA). Un'introduzione",
+   "language": "ita",
+   "doi": "10.60974/GNA_01"
+  },
+  {
+   "position": 4,
+   "raw": "CANTATORE M.F.A., DI COCCO I., MOINE C., PODINI M., SERICOLA M. 2024, *ArcheoDB, a new geodatabase of archaeological findings for conservation and research in the Emilia-Romagna Region (Italy). The case of the Soprintendenza di Parma and Piacenza*, «Groma», 8.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cantatore",
+     "given": "M.F.A."
+    },
+    {
+     "family": "Di Cocco",
+     "given": "I."
+    },
+    {
+     "family": "Moine",
+     "given": "C."
+    },
+    {
+     "family": "Podini",
+     "given": "M."
+    },
+    {
+     "family": "Sericola",
+     "given": "M."
+    }
+   ],
+   "date": "2024",
+   "title": "ArcheoDB, a new geodatabase of archaeological findings for conservation and research in the Emilia-Romagna Region (Italy). The case of the Soprintendenza di Parma and Piacenza",
+   "is_part_of": [
+    "Groma"
+   ],
+   "volume": "8",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "FRASSINE M., DI FRANCESCO S., ZAMBETTI A. 2021, *RAPTOR reloaded. Un geodatabase gestionale per la tutela archeologica: nuovi aggiornamenti per un sistema aperto*, «Archeologia e Calcolatori», 32, 1, 107-324 (https://doi.org/10.19282/ac.32.1.2021.17).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "Di Francesco",
+     "given": "S."
+    },
+    {
+     "family": "Zambetti",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "language": "ita",
+   "cited_aec_id": 1140,
+   "notes": "cited pages 107-324 (typo for 307-324)"
+  },
+  {
+   "position": 6,
+   "raw": "SERLORENZI M., D'ANDREA A., MOLINARO R. 2022, *SITAR: An open data platform for digital archaeology of Rome. From data collecting towards shared knowledge* (https://www.archeostarproject.it/wp-content/uploads/2022/09/ADA_ppt_Della_SITAR_040622.pdf).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Molinaro",
+     "given": "R."
+    }
+   ],
+   "date": "2022",
+   "title": "SITAR: An open data platform for digital archaeology of Rome. From data collecting towards shared knowledge",
+   "language": "eng",
+   "uri": "https://www.archeostarproject.it/wp-content/uploads/2022/09/ADA_ppt_Della_SITAR_040622.pdf"
+  }
+ ]
+}

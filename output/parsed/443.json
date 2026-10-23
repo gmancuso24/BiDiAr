@@ -1,0 +1,140 @@
+{
+ "citing_aec_id": 443,
+ "source_file": "data/journal/18/443.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "D’ANDRIA F., SEMERARO G. 2003, *Applicazioni GIS alla ricerca archeologica. Modelli di formalizzazione dei dati*, in *I modelli nella ricerca archeologica, Il ruolo dell’informatica. Atti del Convegno (Roma 2000)*, Roma, Accademia Nazionale dei Lincei, 77-105.",
+   "type": "chapter",
+   "date": "2003",
+   "title": "Applicazioni GIS alla ricerca archeologica. Modelli di formalizzazione dei dati",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "I modelli nella ricerca archeologica, Il ruolo dell'informatica. Atti del Convegno (Roma 2000)"
+   ],
+   "pages": "77-105",
+   "place": "Roma",
+   "publisher": "Accademia Nazionale dei Lincei"
+  },
+  {
+   "position": 2,
+   "raw": "D’ANDRIA F., SEMERARO G. 2006, *The LandLab Project. Multimedia laboratory for research, education and communication regarding archaeological landscapes*, «Archaeological Computing Newsletter», 64, 19-22.",
+   "type": "article",
+   "date": "2006",
+   "title": "The LandLab Project. Multimedia laboratory for research, education and communication regarding archaeological landscapes",
+   "language": "eng",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Archaeological Computing Newsletter"
+   ],
+   "volume": "64",
+   "pages": "19-22"
+  },
+  {
+   "position": 3,
+   "raw": "MANACORDA D., SAGUÌ L., ZANINI E. 1990, *L’edizione degli scavi archeologici urbani nell’esperienza della “Crypta Balbi” a Roma*, in R. FRANCOVICH, D. MANACORDA (eds.), *Lo scavo archeologico: dalla diagnosi all’edizione. III Ciclo di lezioni sulla ricerca applicata in archeologia (Certosa di Pontignano, Siena, 1989)*, Firenze, All’Insegna del Giglio, 461-502.",
+   "type": "chapter",
+   "date": "1990",
+   "title": "L'edizione degli scavi archeologici urbani nell'esperienza della “Crypta Balbi” a Roma",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    },
+    {
+     "family": "Saguì",
+     "given": "L."
+    },
+    {
+     "family": "Zanini",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Lo scavo archeologico: dalla diagnosi all'edizione. III Ciclo di lezioni sulla ricerca applicata in archeologia (Certosa di Pontignano, Siena, 1989)"
+   ],
+   "pages": "461-502",
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio"
+  },
+  {
+   "position": 4,
+   "raw": "SEMERARO G. 2002, *GIS and archaeology of the indigenous world in Southern Italy*, in P. ATTEMA, G.-J. BURGERS, E. VAN JOOLEN, M. VAN LEUSEN, B. MATER (eds.), *New Developments in Italian Landscape Archaeology. Proceedings of a three-day Conference (Groningen 2000)*, BAR International Series 1091, Oxford, Archeopress, 107-110.",
+   "type": "chapter",
+   "date": "2002",
+   "title": "GIS and archaeology of the indigenous world in Southern Italy",
+   "language": "eng",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Attema",
+     "given": "P."
+    },
+    {
+     "family": "Burgers",
+     "given": "G.-J."
+    },
+    {
+     "family": "Van Joolen",
+     "given": "E."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    },
+    {
+     "family": "Mater",
+     "given": "B."
+    }
+   ],
+   "is_part_of": [
+    "New Developments in Italian Landscape Archaeology. Proceedings of a three-day Conference (Groningen 2000)"
+   ],
+   "pages": "107-110",
+   "series": "BAR International Series",
+   "series_number": "1091",
+   "place": "Oxford",
+   "publisher": "Archaeopress",
+   "notes": "publisher cited 'Archeopress'"
+  }
+ ]
+}

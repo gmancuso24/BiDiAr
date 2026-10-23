@@ -1,0 +1,1232 @@
+{
+ "citing_aec_id": 1190,
+ "source_file": "data/journal/33/1190.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Barba S., Barbato D., Di Filippo A., Napoletano R., Ribera F. 2020, BIM-oriented modelling and management of structured information for Cultural Heritage, in L. Agustín-Hernández, A. Vallespín Muniesa, A. Fernández-Morales (eds.), Graphical Heritage, Cham, Springer International Publishing, 630-640 (https://link.springer.com/chapter/10.1007/978-3-030-47979-4_54).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barba",
+     "given": "S."
+    },
+    {
+     "family": "Barbato",
+     "given": "D."
+    },
+    {
+     "family": "Di Filippo",
+     "given": "A."
+    },
+    {
+     "family": "Napoletano",
+     "given": "R."
+    },
+    {
+     "family": "Ribera",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Agustín-Hernández",
+     "given": "L."
+    },
+    {
+     "family": "Vallespín Muniesa",
+     "given": "A."
+    },
+    {
+     "family": "Fernández-Morales",
+     "given": "A."
+    }
+   ],
+   "date": "2020",
+   "title": "BIM-oriented modelling and management of structured information for Cultural Heritage",
+   "is_part_of": [
+    "Graphical Heritage"
+   ],
+   "language": "eng",
+   "pages": "630-640",
+   "publisher": "Springer International Publishing",
+   "place": "Cham",
+   "uri": "https://link.springer.com/chapter/10.1007/978-3-030-47979-4_54",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Barrozio da Vignola M.I. 1562, La regola delli cinque ordini d'architettura, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barrozio da Vignola",
+     "given": "M.I."
+    }
+   ],
+   "date": "1562",
+   "title": "La regola delli cinque ordini d'architettura",
+   "language": "ita",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Beacham R., Denard H., Niccolucci F. 2006, W4 RL2 An Introduction to the London Charter, The Evolution of ICTechnology in Cultural Heritage, CIPA/VAST/EG/EuroMed Event 2006, Nicosia, Cyprus (http://www.londoncharter.org/fileadmin/templates/main/docs/beacham-denard-niccolucci_intro.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Beacham",
+     "given": "R."
+    },
+    {
+     "family": "Denard",
+     "given": "H."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2006",
+   "title": "W4 RL2 An Introduction to the London Charter",
+   "is_part_of": [
+    "The Evolution of ICTechnology in Cultural Heritage, CIPA/VAST/EG/EuroMed Event 2006"
+   ],
+   "language": "eng",
+   "place": "Nicosia",
+   "uri": "http://www.londoncharter.org/fileadmin/templates/main/docs/beacham-denard-niccolucci_intro.pdf",
+   "notes": "event held in Nicosia, Cyprus",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bentkowska-Kafel A., Denard H. (eds.) 2012, Paradata and Transparency in Virtual Heritage, London, Routledge (https://doi.org/10.4324/9781315599366).",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Bentkowska-Kafel",
+     "given": "A."
+    },
+    {
+     "family": "Denard",
+     "given": "H."
+    }
+   ],
+   "date": "2012",
+   "title": "Paradata and Transparency in Virtual Heritage",
+   "language": "eng",
+   "publisher": "Routledge",
+   "place": "London",
+   "doi": "10.4324/9781315599366",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bianchini C., Inglese C., Ippolito A. 2016, The role of BIM (Building Information Modeling) for representation and managing of built and historic artifacts, «Disegnarecon», 9, 10.1-10.9 (http://disegnarecon.univaq.it/ojs/index.php/disegnarecon/article/view/152/134).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bianchini",
+     "given": "C."
+    },
+    {
+     "family": "Inglese",
+     "given": "C."
+    },
+    {
+     "family": "Ippolito",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "The role of BIM (Building Information Modeling) for representation and managing of built and historic artifacts",
+   "is_part_of": [
+    "Disegnarecon"
+   ],
+   "language": "eng",
+   "volume": "9",
+   "pages": "10.1-10.9",
+   "uri": "http://disegnarecon.univaq.it/ojs/index.php/disegnarecon/article/view/152/134",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Brusaporci S., Maiezza P., Tata A. 2018, Computational design for as-built modeling of architectural heritage in HBIM processes, in 2018 IEEE International Conference on Metrology for Archaeology and Cultural Heritage, MetroArchaeo 2018 – Proceedings, Institute of Electrical and Electronics Engineers Inc., 199-203 (https://ieeexplore.ieee.org/document/9089752).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brusaporci",
+     "given": "S."
+    },
+    {
+     "family": "Maiezza",
+     "given": "P."
+    },
+    {
+     "family": "Tata",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Computational design for as-built modeling of architectural heritage in HBIM processes",
+   "is_part_of": [
+    "2018 IEEE International Conference on Metrology for Archaeology and Cultural Heritage, MetroArchaeo 2018 – Proceedings"
+   ],
+   "language": "eng",
+   "pages": "199-203",
+   "publisher": "Institute of Electrical and Electronics Engineers Inc.",
+   "uri": "https://ieeexplore.ieee.org/document/9089752",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Bucciarelli G., Mezzetti C., Pugnaloni F. 1979, Il Lazzaretto di Ancona, un'opera dimenticata, Ancona, Cassa di Risparmio di Ancona, Industrie Grafiche F.lli Aniballi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bucciarelli",
+     "given": "G."
+    },
+    {
+     "family": "Mezzetti",
+     "given": "C."
+    },
+    {
+     "family": "Pugnaloni",
+     "given": "F."
+    }
+   ],
+   "date": "1979",
+   "title": "Il Lazzaretto di Ancona, un'opera dimenticata",
+   "language": "ita",
+   "publisher": "Cassa di Risparmio di Ancona, Industrie Grafiche F.lli Aniballi",
+   "place": "Ancona",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Cavallo S., Storey T. 2013, Healthy Living in Late Renaissance Italy, Oxford, Oxford University Press (https://doi.org/10.1093/acprof:oso/9780199678136.001.0001).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cavallo",
+     "given": "S."
+    },
+    {
+     "family": "Storey",
+     "given": "T."
+    }
+   ],
+   "date": "2013",
+   "title": "Healthy Living in Late Renaissance Italy",
+   "language": "eng",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "doi": "10.1093/acprof:oso/9780199678136.001.0001",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Chase-Levenson A. 2020, The Yellow Flag, Cambridge, Cambridge University Press (https://doi.org/10.1017/9781108751773).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chase-Levenson",
+     "given": "A."
+    }
+   ],
+   "date": "2020",
+   "title": "The Yellow Flag",
+   "language": "eng",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "doi": "10.1017/9781108751773",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Chiabrando F., Lo Turco M., Santagati C. 2017, Digital invasions: From point clouds to historical building object modeling (h-BOM) of a UNESCO WHL site, The International Archives of the Photogrammetry, Remote Sensing and Spatial Information, XLII-2/W3, 171-178 (https://doi.org/10.5194/isprs-archives-XLII-2-W3-171-2017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Chiabrando",
+     "given": "F."
+    },
+    {
+     "family": "Lo Turco",
+     "given": "M."
+    },
+    {
+     "family": "Santagati",
+     "given": "C."
+    }
+   ],
+   "date": "2017",
+   "title": "Digital invasions: From point clouds to historical building object modeling (h-BOM) of a UNESCO WHL site",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "language": "eng",
+   "volume": "XLII-2/W3",
+   "pages": "171-178",
+   "doi": "10.5194/isprs-archives-XLII-2-W3-171-2017",
+   "notes": "journal cited without 'Sciences'",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Chitham R. 1987, Gli ordini classici in architettura. I fondamenti storici, gli ordini nei loro particolari, l'uso degli ordini, Milano, Hoepli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chitham",
+     "given": "R."
+    }
+   ],
+   "date": "1987",
+   "title": "Gli ordini classici in architettura. I fondamenti storici, gli ordini nei loro particolari, l'uso degli ordini",
+   "language": "ita",
+   "publisher": "Hoepli",
+   "place": "Milano",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Cipolla C.M. 1981, Fighting the Plague in Seventeenth-Century Italy, University of Wisconsin Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cipolla",
+     "given": "C.M."
+    }
+   ],
+   "date": "1981",
+   "title": "Fighting the Plague in Seventeenth-Century Italy",
+   "language": "eng",
+   "publisher": "University of Wisconsin Press",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Cooper D. 2018, Firenze scomparsa: le chiese di Santa Chiara e San Pier maggiore e la loro ricostruzione digitale presso i musei di Londra, in P. Vitolo (ed.), Progetti digitali per la storia dell'arte medievale - Digital Projects in Medieval Art History, «Archeologia e Calcolatori», Suppl. 10, 67-80 (https://doi.org/10.19282/ACS.10.2018.05).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cooper",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Vitolo",
+     "given": "P."
+    }
+   ],
+   "date": "2018",
+   "title": "Firenze scomparsa: le chiese di Santa Chiara e San Pier maggiore e la loro ricostruzione digitale presso i musei di Londra",
+   "is_part_of": [
+    "Progetti digitali per la storia dell'arte medievale - Digital Projects in Medieval Art History",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "Suppl. 10",
+   "pages": "67-80",
+   "doi": "10.19282/ACS.10.2018.05",
+   "cited_aec_id": 1017,
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Cursi S., Simeone D., Toldo I. 2015, A semantic web approach for built heritage representation, in G. Celani, D.M. Sperling, J.M. Santos Franco (eds.), Communications in Computer and Information Science, Berlin-Heidelberg, Springer, 383-401 (https://doi.org/10.1007/978-3-662-47386-3_21).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cursi",
+     "given": "S."
+    },
+    {
+     "family": "Simeone",
+     "given": "D."
+    },
+    {
+     "family": "Toldo",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Celani",
+     "given": "G."
+    },
+    {
+     "family": "Sperling",
+     "given": "D.M."
+    },
+    {
+     "family": "Santos Franco",
+     "given": "J.M."
+    }
+   ],
+   "date": "2015",
+   "title": "A semantic web approach for built heritage representation",
+   "is_part_of": [
+    "Communications in Computer and Information Science"
+   ],
+   "language": "eng",
+   "pages": "383-401",
+   "publisher": "Springer",
+   "place": "Berlin-Heidelberg",
+   "doi": "10.1007/978-3-662-47386-3_21",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "D'Andrea A., Bosco A., Barbarino M. 2017, A 3D Environment to rebuild virtually the so-called Augusteum in Herculaneum, in S. Garagnani, A. Gaucci (eds.), Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017), «Archeologia e Calcolatori», 28.2, 437-446 (https://doi.org/10.19282/AC.28.2.2017.35).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Bosco",
+     "given": "A."
+    },
+    {
+     "family": "Barbarino",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "A 3D Environment to rebuild virtually the so-called Augusteum in Herculaneum",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "volume": "28",
+   "issue": "2",
+   "pages": "437-446",
+   "doi": "10.19282/AC.28.2.2017.35",
+   "cited_aec_id": 948,
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Daniotti B., Gianinetto M., della Torre S. 2020, Digital Transformation of the Design, Construction and Management Processes of the Built Environment, Research for Development, Switzerland AG, Springer Nature.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Daniotti",
+     "given": "B."
+    },
+    {
+     "family": "Gianinetto",
+     "given": "M."
+    },
+    {
+     "family": "della Torre",
+     "given": "S."
+    }
+   ],
+   "date": "2020",
+   "title": "Digital Transformation of the Design, Construction and Management Processes of the Built Environment",
+   "language": "eng",
+   "series": "Research for Development",
+   "publisher": "Springer Nature",
+   "place": "Switzerland AG",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Ferdani D., Demetrescu E., Cavalieri M., Pace G., Lenzi S. 2020, 3D modelling and visualization in field archaeology. From survey to interpretation of the past using digital technologies, «Groma. Documenting archaeology», 4, 19, 1-21 (https://doi.org/10.12977/groma26).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Cavalieri",
+     "given": "M."
+    },
+    {
+     "family": "Pace",
+     "given": "G."
+    },
+    {
+     "family": "Lenzi",
+     "given": "S."
+    }
+   ],
+   "date": "2020",
+   "title": "3D modelling and visualization in field archaeology. From survey to interpretation of the past using digital technologies",
+   "is_part_of": [
+    "Groma. Documenting archaeology"
+   ],
+   "language": "eng",
+   "volume": "4",
+   "issue": "19",
+   "pages": "1-21",
+   "doi": "10.12977/groma26",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Fiorani D., Acierno M., Cutarelli S., Donatelli A. 2020, Transformation of tools and conservation of architecture, «Építés - Építészettudomány», 49, 1-35 (https://doi.org/10.1556/096.2020.005).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiorani",
+     "given": "D."
+    },
+    {
+     "family": "Acierno",
+     "given": "M."
+    },
+    {
+     "family": "Cutarelli",
+     "given": "S."
+    },
+    {
+     "family": "Donatelli",
+     "given": "A."
+    }
+   ],
+   "date": "2020",
+   "title": "Transformation of tools and conservation of architecture",
+   "is_part_of": [
+    "Építés - Építészettudomány"
+   ],
+   "language": "eng",
+   "volume": "49",
+   "pages": "1-35",
+   "doi": "10.1556/096.2020.005",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Garagnani S. 2017, Archaeological Building Information Modeling: beyond scalable representation of architecture and archaeology, in S. Garagnani, A. Gaucci (eds.), Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017), «Archeologia e Calcolatori», 28.2, 141-149 (https://doi.org/10.19282/AC.28.2.2017.09).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Archaeological Building Information Modeling: beyond scalable representation of architecture and archaeology",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "volume": "28",
+   "issue": "2",
+   "pages": "141-149",
+   "doi": "10.19282/AC.28.2.2017.09",
+   "cited_aec_id": 922,
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Garagnani S., Gaucci A., Govi E. 2016, ArchaeoBIM: dallo scavo al Building Information Modeling di una struttura sepolta. Il caso del tempio tuscanico di Uni a Marzabotto, «Archeologia e Calcolatori», 27, 251-270 (https://doi.org/10.19282/AC.27.2016.13).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "date": "2016",
+   "title": "ArchaeoBIM: dallo scavo al Building Information Modeling di una struttura sepolta. Il caso del tempio tuscanico di Uni a Marzabotto",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "27",
+   "pages": "251-270",
+   "doi": "10.19282/AC.27.2016.13",
+   "cited_aec_id": 851,
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Garagnani S., Gaucci A., Moscati P., Gaiani M. 2021, ArchaeoBIM. Theory, Processes and Digital Methodologies for the Lost Heritage, Bologna, Bononia University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Gaiani",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "ArchaeoBIM. Theory, Processes and Digital Methodologies for the Lost Heritage",
+   "language": "eng",
+   "publisher": "Bononia University Press",
+   "place": "Bologna",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Giacomini C. 2009, Le magistrature giudiziarie di Ancona nei documenti comunali di antico regime (1308-1797), Ancona, Affinità Elettive.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Giacomini",
+     "given": "C."
+    }
+   ],
+   "date": "2009",
+   "title": "Le magistrature giudiziarie di Ancona nei documenti comunali di antico regime (1308-1797)",
+   "language": "ita",
+   "publisher": "Affinità Elettive",
+   "place": "Ancona",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Inì M. 2021, Materiality, quarantine and contagion in the early modern Mediterranean, «Social History of Medicine», 34, 4, 1161-1184 (https://doi.org/10.1093/shm/hkaa124).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Inì",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "Materiality, quarantine and contagion in the early modern Mediterranean",
+   "is_part_of": [
+    "Social History of Medicine"
+   ],
+   "language": "eng",
+   "volume": "34",
+   "issue": "4",
+   "pages": "1161-1184",
+   "doi": "10.1093/shm/hkaa124",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "King C. 2016, Domestic buildings: Understanding houses and society, in C. Richardson, T. Hamling, D. Gaimster (eds.), The Routledge Handbook of Material Culture in Early Modern Europe, London, Routledge, 115-130 (https://www.routledge.com/The-Routledge-Handbook-of-Material-Culture-in-Early-Modern-Europe/Richardson-Hamling-Gaimster/p/book/9781409462699).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "King",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Richardson",
+     "given": "C."
+    },
+    {
+     "family": "Hamling",
+     "given": "T."
+    },
+    {
+     "family": "Gaimster",
+     "given": "D."
+    }
+   ],
+   "date": "2016",
+   "title": "Domestic buildings: Understanding houses and society",
+   "is_part_of": [
+    "The Routledge Handbook of Material Culture in Early Modern Europe"
+   ],
+   "language": "eng",
+   "pages": "115-130",
+   "publisher": "Routledge",
+   "place": "London",
+   "uri": "https://www.routledge.com/The-Routledge-Handbook-of-Material-Culture-in-Early-Modern-Europe/Richardson-Hamling-Gaimster/p/book/9781409462699",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Kümin B., Usborne C. 2013, At home and in the workplace: A historical introduction to the 'spatial turn', «History and Theory», 52, 3, 305-318 (https://www.jstor.org/stable/24542988).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kümin",
+     "given": "B."
+    },
+    {
+     "family": "Usborne",
+     "given": "C."
+    }
+   ],
+   "date": "2013",
+   "title": "At home and in the workplace: A historical introduction to the 'spatial turn'",
+   "is_part_of": [
+    "History and Theory"
+   ],
+   "language": "eng",
+   "volume": "52",
+   "issue": "3",
+   "pages": "305-318",
+   "uri": "https://www.jstor.org/stable/24542988",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "López F., Lerones P.M., Llamas J., Gómez-Garcìa-Bermejo J., Zalama E. 2018, A review of Heritage Building Information Modeling (H-BIM), «Multimodal Technologies and Interaction», 2, 2, 1-29 (https://doi.org/10.3390/mti2020021).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "López",
+     "given": "F."
+    },
+    {
+     "family": "Lerones",
+     "given": "P.M."
+    },
+    {
+     "family": "Llamas",
+     "given": "J."
+    },
+    {
+     "family": "Gómez-García-Bermejo",
+     "given": "J."
+    },
+    {
+     "family": "Zalama",
+     "given": "E."
+    }
+   ],
+   "date": "2018",
+   "title": "A review of Heritage Building Information Modeling (H-BIM)",
+   "is_part_of": [
+    "Multimodal Technologies and Interaction"
+   ],
+   "language": "eng",
+   "volume": "2",
+   "issue": "2",
+   "pages": "1-29",
+   "doi": "10.3390/mti2020021",
+   "notes": "'Gómez-Garcìa-Bermejo' corrected (OCR accent)",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Maiezza P., Tata A. 2019, Modelling and visualization issues in the Architectural Heritage BIM, in C. Marcos (ed.) Graphic Imprints. EGA 2018, Cham, Springer, 521-531 (https://doi.org/10.1007/978-3-319-93749-6_42).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Maiezza",
+     "given": "P."
+    },
+    {
+     "family": "Tata",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Marcos",
+     "given": "C."
+    }
+   ],
+   "date": "2019",
+   "title": "Modelling and visualization issues in the Architectural Heritage BIM",
+   "is_part_of": [
+    "Graphic Imprints. EGA 2018"
+   ],
+   "language": "eng",
+   "pages": "521-531",
+   "publisher": "Springer",
+   "place": "Cham",
+   "doi": "10.1007/978-3-319-93749-6_42",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Mammoli R., Mariotti C., Quattrini R. 2021, Modeling the fourth dimension of architectural heritage: Enabling processes for a sustainable conservation, «Sustainability», 13, 9, 1-15 (https://doi.org/10.3390/su13095173).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mammoli",
+     "given": "R."
+    },
+    {
+     "family": "Mariotti",
+     "given": "C."
+    },
+    {
+     "family": "Quattrini",
+     "given": "R."
+    }
+   ],
+   "date": "2021",
+   "title": "Modeling the fourth dimension of architectural heritage: Enabling processes for a sustainable conservation",
+   "is_part_of": [
+    "Sustainability"
+   ],
+   "language": "eng",
+   "volume": "13",
+   "issue": "9",
+   "pages": "1-15",
+   "doi": "10.3390/su13095173",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Mead R. 1720, A short discourse concerning pestilential contagion, and the methods to be used to prevent it (printed by R. Smith and S. Buckley), London.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mead",
+     "given": "R."
+    }
+   ],
+   "date": "1720",
+   "title": "A short discourse concerning pestilential contagion, and the methods to be used to prevent it",
+   "language": "eng",
+   "publisher": "R. Smith and S. Buckley",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Mordenti A. 1992, L'inventario Angelini Rota dell'Archivio storico comunale di Ancona, in Studi anconitani. Ricerca della città, Ancona, Archivio di Stato di Ancona.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mordenti",
+     "given": "A."
+    }
+   ],
+   "date": "1992",
+   "title": "L'inventario Angelini Rota dell'Archivio storico comunale di Ancona",
+   "is_part_of": [
+    "Studi anconitani. Ricerca della città"
+   ],
+   "language": "ita",
+   "publisher": "Archivio di Stato di Ancona",
+   "place": "Ancona",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Muratori L.A. 1714, Del governo della peste, e delle maniere di guardarsene (printed by B. Soliani), Modena.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Muratori",
+     "given": "L.A."
+    }
+   ],
+   "date": "1714",
+   "title": "Del governo della peste, e delle maniere di guardarsene",
+   "language": "ita",
+   "publisher": "B. Soliani",
+   "place": "Modena",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Murphy M., McGovern E., Pavia S. 2009, Historic Building Information Modelling (HBIM), «Structural Survey», 27, 4, 311-327 (https://doi.org/10.1108/02630800910985108).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Murphy",
+     "given": "M."
+    },
+    {
+     "family": "McGovern",
+     "given": "E."
+    },
+    {
+     "family": "Pavia",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "Historic Building Information Modelling (HBIM)",
+   "is_part_of": [
+    "Structural Survey"
+   ],
+   "language": "eng",
+   "volume": "27",
+   "issue": "4",
+   "pages": "311-327",
+   "doi": "10.1108/02630800910985108",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Nutton V. 1983, The seeds of disease: An explanation of contagion and infection from the Greeks to the Renaissance, «Medical History», 27, 1, 1-34 (https://doi.org/10.1017/s0025727300042241).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nutton",
+     "given": "V."
+    }
+   ],
+   "date": "1983",
+   "title": "The seeds of disease: An explanation of contagion and infection from the Greeks to the Renaissance",
+   "is_part_of": [
+    "Medical History"
+   ],
+   "language": "eng",
+   "volume": "27",
+   "issue": "1",
+   "pages": "1-34",
+   "doi": "10.1017/s0025727300042241",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Orlandi G. 1991, La gelosa materia. I Provvisori alla sanità di Ancona (1430-1810), Ancona, Archivio di Stato di Ancona.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "G."
+    }
+   ],
+   "date": "1991",
+   "title": "La gelosa materia. I Provvisori alla sanità di Ancona (1430-1810)",
+   "language": "ita",
+   "publisher": "Archivio di Stato di Ancona",
+   "place": "Ancona",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Osello A., Davardoust S., Semeraro F., Lucibello G., Barone L., Dellosta M., Ronzino A., Del Giudice M., Fonsati A., Ugliotti F.M., Rapetti N. 2016, La centralità della rappresentazione con il BIM, «Disegnarecon», 9, 5.1-5.12 (http://disegnarecon.univaq.it/ojs/index.php/disegnarecon/article/view/145).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Osello",
+     "given": "A."
+    },
+    {
+     "family": "Davardoust",
+     "given": "S."
+    },
+    {
+     "family": "Semeraro",
+     "given": "F."
+    },
+    {
+     "family": "Lucibello",
+     "given": "G."
+    },
+    {
+     "family": "Barone",
+     "given": "L."
+    },
+    {
+     "family": "Dellosta",
+     "given": "M."
+    },
+    {
+     "family": "Ronzino",
+     "given": "A."
+    },
+    {
+     "family": "Del Giudice",
+     "given": "M."
+    },
+    {
+     "family": "Fonsati",
+     "given": "A."
+    },
+    {
+     "family": "Ugliotti",
+     "given": "F.M."
+    },
+    {
+     "family": "Rapetti",
+     "given": "N."
+    }
+   ],
+   "date": "2016",
+   "title": "La centralità della rappresentazione con il BIM",
+   "is_part_of": [
+    "Disegnarecon"
+   ],
+   "language": "ita",
+   "volume": "9",
+   "pages": "5.1-5.12",
+   "uri": "http://disegnarecon.univaq.it/ojs/index.php/disegnarecon/article/view/145",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Pietroni E., Ferdani D. 2021, Virtual restoration and virtual reconstruction in cultural heritage: Terminology, methodologies, visual representation techniques and cognitive models, «Information», 12, 4, 1-30 (https://doi.org/10.3390/info12040167).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pietroni",
+     "given": "E."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    }
+   ],
+   "date": "2021",
+   "title": "Virtual restoration and virtual reconstruction in cultural heritage: Terminology, methodologies, visual representation techniques and cognitive models",
+   "is_part_of": [
+    "Information"
+   ],
+   "language": "eng",
+   "volume": "12",
+   "issue": "4",
+   "pages": "1-30",
+   "doi": "10.3390/info12040167",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Quattrini R., Malinverni E.S., Clini P., Nespeca R., Orlietti E. 2015, From TLS to HBIM. High quality semantically-aware 3D modeling of complex architecture, The International Archives of the Photogrammetry, Remote Sensing and Spatial Information, XL-5/W4, 367-374 (https://doi.org/10.5194/isprsarchives-XL-5-W4-367-2015).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Quattrini",
+     "given": "R."
+    },
+    {
+     "family": "Malinverni",
+     "given": "E.S."
+    },
+    {
+     "family": "Clini",
+     "given": "P."
+    },
+    {
+     "family": "Nespeca",
+     "given": "R."
+    },
+    {
+     "family": "Orlietti",
+     "given": "E."
+    }
+   ],
+   "date": "2015",
+   "title": "From TLS to HBIM. High quality semantically-aware 3D modeling of complex architecture",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "language": "eng",
+   "volume": "XL-5/W4",
+   "pages": "367-374",
+   "doi": "10.5194/isprsarchives-XL-5-W4-367-2015",
+   "notes": "journal cited without 'Sciences'",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Quattrini R., Pierdicca R., Morbidoni C., Malinverni E.S. 2017, Conservation-oriented Hbim. The bimexplorer web tool, The International Archives of the Photogrammetry, Remote Sensing and Spatial Information, XLII-5/W1, 275-281 (https://doi.org/10.5194/isprs-archives-XLII-5-W1-275-2017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Quattrini",
+     "given": "R."
+    },
+    {
+     "family": "Pierdicca",
+     "given": "R."
+    },
+    {
+     "family": "Morbidoni",
+     "given": "C."
+    },
+    {
+     "family": "Malinverni",
+     "given": "E.S."
+    }
+   ],
+   "date": "2017",
+   "title": "Conservation-oriented Hbim. The bimexplorer web tool",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "language": "eng",
+   "volume": "XLII-5/W1",
+   "pages": "275-281",
+   "doi": "10.5194/isprs-archives-XLII-5-W1-275-2017",
+   "notes": "journal cited without 'Sciences'",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Russell P. 1791, A treatise of the plague: Containing an historical journal, and medical account, of the plague, at Aleppo, in the years 1760, 1761, and 1762 (printed by G.G.J. Robinson and J. Robinson), London.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Russell",
+     "given": "P."
+    }
+   ],
+   "date": "1791",
+   "title": "A treatise of the plague: Containing an historical journal, and medical account, of the plague, at Aleppo, in the years 1760, 1761, and 1762",
+   "language": "eng",
+   "publisher": "G.G.J. Robinson and J. Robinson",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Scianna A., Gaglio G.F., Guardia M. 2020, HBIM data management in historical and archaeological buildings, «Archeologia e Calcolatori», 31.1, 231-252 (https://doi.org/10.19282/ac.31.1.2020.11).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scianna",
+     "given": "A."
+    },
+    {
+     "family": "Gaglio",
+     "given": "G.F."
+    },
+    {
+     "family": "Guardia",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "HBIM data management in historical and archaeological buildings",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "volume": "31",
+   "issue": "1",
+   "pages": "231-252",
+   "doi": "10.19282/ac.31.1.2020.11",
+   "cited_aec_id": 1122,
+   "notes": "metadata author: La Guardia",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Simeone D., Cursi S., Toldo I., Carrara G. 2014, B(H)IM - Built Heritage Information Modelling, in 2nd eCAADe Conference at Department of Architecture and Built Environment (Newcastle upon Tyne), England, 613-622 (http://ecaade.org/downloads/eCAADe2014_volume1.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Simeone",
+     "given": "D."
+    },
+    {
+     "family": "Cursi",
+     "given": "S."
+    },
+    {
+     "family": "Toldo",
+     "given": "I."
+    },
+    {
+     "family": "Carrara",
+     "given": "G."
+    }
+   ],
+   "date": "2014",
+   "title": "B(H)IM - Built Heritage Information Modelling",
+   "is_part_of": [
+    "2nd eCAADe Conference at Department of Architecture and Built Environment (Newcastle upon Tyne), England"
+   ],
+   "language": "eng",
+   "pages": "613-622",
+   "uri": "http://ecaade.org/downloads/eCAADe2014_volume1.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Varlik N. 2017, \"Oriental plague\" or epidemiological orientalism? Revisiting the plague episteme of the early modern Mediterranean, in Plague and Contagion in the Islamic Mediterranean, Amsterdam, University Press, 57-88 (https://doi.org/10.1515/9781942401162-005).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Varlik",
+     "given": "N."
+    }
+   ],
+   "date": "2017",
+   "title": "\"Oriental plague\" or epidemiological orientalism? Revisiting the plague episteme of the early modern Mediterranean",
+   "is_part_of": [
+    "Plague and Contagion in the Islamic Mediterranean"
+   ],
+   "language": "eng",
+   "pages": "57-88",
+   "publisher": "University Press",
+   "place": "Amsterdam",
+   "doi": "10.1515/9781942401162-005",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Volk R., Stengel J., Schultmann F. 2014, Building Information Modeling (BIM) for existing buildings - Literature review and future needs, «Automation in Construction», 38, 109-127 (https://doi.org/10.1016/j.autcon.2013.10.023).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Volk",
+     "given": "R."
+    },
+    {
+     "family": "Stengel",
+     "given": "J."
+    },
+    {
+     "family": "Schultmann",
+     "given": "F."
+    }
+   ],
+   "date": "2014",
+   "title": "Building Information Modeling (BIM) for existing buildings - Literature review and future needs",
+   "is_part_of": [
+    "Automation in Construction"
+   ],
+   "language": "eng",
+   "volume": "38",
+   "pages": "109-127",
+   "doi": "10.1016/j.autcon.2013.10.023",
+   "confidence": "high"
+  }
+ ]
+}

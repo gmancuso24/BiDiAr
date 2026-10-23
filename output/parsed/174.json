@@ -1,0 +1,645 @@
+{
+ "citing_aec_id": 174,
+ "source_file": "data/journal/7/174.md",
+ "references": [
+  {
+   "raw": "ADAM S. 1966, The Technique of Greek Sculpture in the Archaic and Classical periods, «British School of Archaeology at Athens», Suppl. Vol. 3, Oxford.",
+   "date": "1966",
+   "creators": [
+    {
+     "family": "Adam",
+     "given": "S."
+    }
+   ],
+   "type": "article",
+   "title": "The Technique of Greek Sculpture in the Archaic and Classical periods",
+   "is_part_of": [
+    "British School of Archaeology at Athens"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 1,
+   "volume": "Suppl. Vol. 3",
+   "place": "Oxford"
+  },
+  {
+   "raw": "ALMAGRO-GORBEA M. 1982, El paisaje de las necropolis ibéricas y su interpretación sociocultural. Homenaje a Nino Lamboglia, «Rivista di Studi Liguri», 43, 199-218.",
+   "date": "1982",
+   "creators": [
+    {
+     "family": "Almagro-Gorbea",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "El paisaje de las necropolis ibéricas y su interpretación sociocultural. Homenaje a Nino Lamboglia",
+   "is_part_of": [
+    "Rivista di Studi Liguri"
+   ],
+   "pages": "199-218",
+   "volume": "43",
+   "language": "spa",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "ALMAGRO-GORBEA M. 1983a, Pozo Moro. El monumento orientalizante, su contexto sociocultural y sus paralelos en la arquitectura funeraria ibérica, «Madrider Mitteilungen», 24, 177-293.",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Almagro-Gorbea",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Pozo Moro. El monumento orientalizante, su contexto sociocultural y sus paralelos en la arquitectura funeraria ibérica",
+   "is_part_of": [
+    "Madrider Mitteilungen"
+   ],
+   "pages": "177-293",
+   "volume": "24",
+   "language": "spa",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "ALMAGRO-GORBEA M. 1983b, Arquitectura y sociedad en la cultura ibérica. Architecture et Société (De L'Archaïsme Grec à la fin de la Republica Romaine, Actes du colloque international organisé par le Centre National de la Recherche Scientifique et L'Ecole Française de Rome, Collection de l'Ecole Française de Rome, 66, 387-414.",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Almagro-Gorbea",
+     "given": "M."
+    }
+   ],
+   "pages": "387-414",
+   "type": "chapter",
+   "title": "Arquitectura y sociedad en la cultura ibérica",
+   "publisher": "Actes du colloque international organisé par le Centre National de la Recherche Scientifique et L'Ecole Française de Rome",
+   "series": "Collection de l'Ecole Française de Rome",
+   "series_number": "66",
+   "language": "spa",
+   "confidence": "high",
+   "position": 4,
+   "is_part_of": [
+    "Architecture et Société (De L'Archaïsme Grec à la fin de la Republica Romaine), Actes du colloque international organisé par le Centre National de la Recherche Scientifique et L'Ecole Française de Rome"
+   ]
+  },
+  {
+   "raw": "BLÁNQUEZ PÉREZ J. 1992a, Nuevas consideraciones en torno a la escultura ibérica, «Cuadernos de Prehistoria y Arqueología de la Universidad Autónoma de Madrid», 19, 121-143.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Blánquez Pérez",
+     "given": "J."
+    }
+   ],
+   "type": "article",
+   "title": "Nuevas consideraciones en torno a la escultura ibérica",
+   "is_part_of": [
+    "Cuadernos de Prehistoria y Arqueología de la Universidad Autónoma de Madrid"
+   ],
+   "pages": "121-143",
+   "volume": "19",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "BLÁNQUEZ PÉREZ J. 1992b, Las necrópolis ibéricas en el sureste de la meseta, en J. BLÁNQUEZ, V. ANTONA, Coords. Congreso de Arqueología Ibérica, Serie Varia, 1, 235-278.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Blánquez Pérez",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "Las necrópolis ibéricas en el sureste de la meseta",
+   "pages": "235-278",
+   "is_part_of": [
+    "Congreso de Arqueología Ibérica"
+   ],
+   "language": "spa",
+   "confidence": "high",
+   "position": 6,
+   "editors": [
+    {
+     "family": "Blánquez",
+     "given": "J."
+    },
+    {
+     "family": "Antona",
+     "given": "V."
+    }
+   ],
+   "series": "Serie Varia",
+   "series_number": "1",
+   "notes": "editors cited \"Coords.\""
+  },
+  {
+   "raw": "BLÁNQUEZ PÉREZ J. 1995, El vino en los rituales funerarios ibéricos, en S. CELESTINO (ed.), Arqueología del vino. Los orígenes del vino en Occidente, Jerez de la Frontera, 213-240.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Blánquez Pérez",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "El vino en los rituales funerarios ibéricos",
+   "editors": [
+    {
+     "family": "Celestino",
+     "given": "S."
+    }
+   ],
+   "pages": "213-240",
+   "is_part_of": [
+    "Arqueología del vino. Los orígenes del vino en Occidente"
+   ],
+   "place": "Jerez de la Frontera",
+   "language": "spa",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "BLÁNQUEZ PÉREZ J. 1996a, Espacios sacrales en los poblados ibéricos. Nuevas propuestas, «Revista de Estudios Ibéricos», 2, c.s.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Blánquez Pérez",
+     "given": "J."
+    }
+   ],
+   "type": "article",
+   "title": "Espacios sacrales en los poblados ibéricos. Nuevas propuestas",
+   "is_part_of": [
+    "Revista de Estudios Ibéricos"
+   ],
+   "volume": "2",
+   "language": "spa",
+   "confidence": "high",
+   "position": 8,
+   "notes": "cited \"c.s.\" in place of pages; online search not performed (year given)",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "BLÁNQUEZ PÉREZ J. 1996b, Caballeros y aristocracia en el s. V a.C., en Iconografía ibérica e iconografía itálica: propuestas de interpretación y lectura, Roma 1993, Serie Varia, 3, c.s.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Blánquez Pérez",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "Caballeros y aristocracia en el s. V a.C.",
+   "is_part_of": [
+    "Iconografía ibérica e iconografía itálica: propuestas de interpretación y lectura, Roma 1993"
+   ],
+   "language": "spa",
+   "confidence": "high",
+   "position": 9,
+   "series": "Serie Varia",
+   "series_number": "3",
+   "notes": "cited \"c.s.\"; online search not performed (year given)",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "BONET H. 1992, La cerámica de Sant Miquel de Lliria: su contexto arqueológico, en R. OLMOS (ed.), La sociedad ibérica a través de la imagen, Madrid, Ministerio de Cultura, 224-236.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Bonet",
+     "given": "H."
+    }
+   ],
+   "type": "chapter",
+   "title": "La cerámica de Sant Miquel de Lliria: su contexto arqueológico",
+   "editors": [
+    {
+     "family": "Olmos",
+     "given": "R."
+    }
+   ],
+   "pages": "224-236",
+   "is_part_of": [
+    "La sociedad ibérica a través de la imagen"
+   ],
+   "place": "Madrid",
+   "publisher": "Ministerio de Cultura",
+   "language": "fre",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "CASTELO RUANO R. 1995, Monumentos funerarios del sureste peninsular: elementos y técnicas constructivas, Madrid.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Castelo Ruano",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Monumentos funerarios del sureste peninsular: elementos y técnicas constructivas",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "CHAPA BRUNET T. 1985, La escultura ibérica zoomorfa, Madrid.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Chapa Brunet",
+     "given": "T."
+    }
+   ],
+   "type": "book",
+   "title": "La escultura ibérica zoomorfa",
+   "place": "Madrid",
+   "language": "ita",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "CHAPA BRUNET T. 1986, Escultura ibérica: una revisión de sus interpretaciones, «Trabajos de Prehistoria», 43, 43-60.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Chapa Brunet",
+     "given": "T."
+    }
+   ],
+   "type": "article",
+   "title": "Escultura ibérica: una revisión de sus interpretaciones",
+   "is_part_of": [
+    "Trabajos de Prehistoria"
+   ],
+   "pages": "43-60",
+   "volume": "43",
+   "language": "spa",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "CHAPA BRUNET T. 1994, Algunas reflexiones acerca del origen de la escultura ibérica, «Revista de estudios ibéricos», 1, 43-59.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Chapa Brunet",
+     "given": "T."
+    }
+   ],
+   "type": "article",
+   "title": "Algunas reflexiones acerca del origen de la escultura ibérica",
+   "is_part_of": [
+    "Revista de estudios ibéricos"
+   ],
+   "pages": "43-59",
+   "volume": "1",
+   "language": "ita",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "GARCÍA BELLIDO A. 1943, La Dama de Elche y el conjunto de piezas arqueológicas reingresadas en España en 1941, Madrid.",
+   "date": "1943",
+   "creators": [
+    {
+     "family": "García Bellido",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "La Dama de Elche y el conjunto de piezas arqueológicas reingresadas en España en 1941",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "GARCÍA CANO J.M. 1994, El pilar-esteta de Coimbra del Barranco Ancho (Jumilla, Murcia), «Revista de Estudios Ibéricos», 1, 173-201.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "García Cano",
+     "given": "J.M."
+    }
+   ],
+   "type": "article",
+   "title": "El pilar-esteta de Coimbra del Barranco Ancho (Jumilla, Murcia)",
+   "is_part_of": [
+    "Revista de Estudios Ibéricos"
+   ],
+   "pages": "173-201",
+   "volume": "1",
+   "language": "spa",
+   "confidence": "high",
+   "position": 16
+  },
+  {
+   "raw": "LEÓN P. 1993, La colección de Escultura Clásica del Museo del Prado, en S.F. SCHRODER, Museo del Prado. Catálogo de la Escultura Clásica, Vol. I: Los retratos, Madrid, 1-32.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "León",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "La colección de Escultura Clásica del Museo del Prado",
+   "pages": "1-32",
+   "is_part_of": [
+    "Museo del Prado. Catálogo de la Escultura Clásica. Vol. I: Los retratos"
+   ],
+   "place": "Madrid",
+   "language": "ita",
+   "confidence": "high",
+   "position": 17,
+   "editors": [
+    {
+     "family": "Schröder",
+     "given": "S.F."
+    }
+   ]
+  },
+  {
+   "raw": "LORENZ J., BENOIT P. (edd.) 1991, Carrières et Constructions en France et dans les pays limitrophes, Actes du 115° Congrès National des Sociétés Savantes, Avignon 1990, Paris.",
+   "date": "1991",
+   "editors": [
+    {
+     "family": "Lorenz",
+     "given": "J."
+    },
+    {
+     "family": "Benoit",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "Carrières et Constructions en France et dans les pays limitrophes, Actes du 115° Congrès National des Sociétés Savantes, Avignon 1990",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "LUZZATTO L., POMPAS R. 1988, Il significato dei colori nelle civiltà antiche, Milano.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Luzzatto",
+     "given": "L."
+    },
+    {
+     "family": "Pompas",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Il significato dei colori nelle civiltà antiche",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high",
+   "position": 19
+  },
+  {
+   "raw": "LLOBREGAT CONESA E. 1993, Arquitectura y escultura en la necrópolis de Cabezo Lucero, en C. ARANEGUI et al., La nécropole ibérique de Cabezo Lucero. Guardamar del Segura, Alicante, Collection de la Casa de Velázquez, 41, Madrid-Alicante.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Llobregat Conesa",
+     "given": "E."
+    }
+   ],
+   "type": "chapter",
+   "title": "Arquitectura y escultura en la necrópolis de Cabezo Lucero",
+   "is_part_of": [
+    "La nécropole ibérique de Cabezo Lucero. Guardamar del Segura, Alicante"
+   ],
+   "place": "Madrid-Alicante",
+   "series": "Collection de la Casa de Velázquez",
+   "series_number": "41",
+   "language": "spa",
+   "confidence": "high",
+   "position": 20,
+   "editors": [
+    {
+     "family": "Aranegui",
+     "given": "C."
+    }
+   ],
+   "notes": "editors \"et al.\" in citation"
+  },
+  {
+   "raw": "NEGUERUELA MARTÍNEZ I. 1990, Los monumentos escultóricos ibéricos del Cerrillo Blanco de Porcuna, Madrid.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Negueruela Martínez",
+     "given": "I."
+    }
+   ],
+   "type": "book",
+   "title": "Los monumentos escultóricos ibéricos del Cerrillo Blanco de Porcuna",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "high",
+   "position": 21
+  },
+  {
+   "raw": "NOGUERA CELDRÁN J.M. 1994, La escultura romana de la provincia de Albacete (Hispania Citerior-Conventus Carthaginensis), Albacete.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Noguera Celdrán",
+     "given": "J.M."
+    }
+   ],
+   "type": "book",
+   "title": "La escultura romana de la provincia de Albacete (Hispania Citerior-Conventus Carthaginensis)",
+   "place": "Albacete",
+   "language": "fre",
+   "confidence": "high",
+   "position": 22
+  },
+  {
+   "raw": "OLMOS R. 1992, La sociedad ibérica a través de la imagen, Madrid, Ministerio de Cultura.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Olmos",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "La sociedad ibérica a través de la imagen",
+   "place": "Madrid",
+   "publisher": "Ministerio de Cultura",
+   "language": "fre",
+   "confidence": "high",
+   "position": 23
+  },
+  {
+   "raw": "OLMOS R. (ed.) 1996, La dama de Elche, Coloquio, Colección LYNX, 2, c.s.",
+   "date": "1996",
+   "editors": [
+    {
+     "family": "Olmos",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "La dama de Elche, Coloquio",
+   "language": "fre",
+   "confidence": "high",
+   "position": 24,
+   "series": "Colección LYNX",
+   "series_number": "2",
+   "notes": "cited \"c.s.\"; online search not performed (year given)",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "PRESEDO VELO F. 1982, La necrópolis de Baza, «Excavaciones Arqueológicas en España», 119, Madrid.",
+   "date": "1982",
+   "creators": [
+    {
+     "family": "Presedo Velo",
+     "given": "F."
+    }
+   ],
+   "type": "article",
+   "title": "La necrópolis de Baza",
+   "is_part_of": [
+    "Excavaciones Arqueológicas en España"
+   ],
+   "volume": "119",
+   "language": "fre",
+   "confidence": "high",
+   "position": 25
+  },
+  {
+   "raw": "RAMALLO S. 1993, La monumentalización de los santuarios ibéricos en época tardorrepublicana, «Ostraka», Anno II, 1, 117-144.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Ramallo",
+     "given": "S."
+    }
+   ],
+   "type": "article",
+   "title": "La monumentalización de los santuarios ibéricos en época tardorrepublicana",
+   "is_part_of": [
+    "Ostraka"
+   ],
+   "pages": "117-144",
+   "issue": "1",
+   "language": "spa",
+   "confidence": "high",
+   "position": 26,
+   "volume": "II"
+  },
+  {
+   "raw": "ROCKWELL P. 1989, Lavorare la pietra, Roma.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Rockwell",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "Lavorare la pietra",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high",
+   "position": 27
+  },
+  {
+   "raw": "RUANO RUIZ E. 1987, La escultura humana de piedra en el mundo ibérico, Madrid.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Ruano Ruiz",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "La escultura humana de piedra en el mundo ibérico",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "high",
+   "position": 28
+  },
+  {
+   "raw": "RUIZ A., MOLINOS M. 1990, Informe de la Campaña de 1990 en el Cerro de La Plaza de Armas de Puente Tablas (Jaén), «Anuario Arqueológico de Andalucía», 1990, II. Actividades Sistemáticas, 216-224.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Ruiz",
+     "given": "A."
+    },
+    {
+     "family": "Molinos",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Informe de la Campaña de 1990 en el Cerro de La Plaza de Armas de Puente Tablas (Jaén)",
+   "is_part_of": [
+    "Anuario Arqueológico de Andalucía"
+   ],
+   "pages": "216-224",
+   "volume": "1990",
+   "language": "fre",
+   "confidence": "high",
+   "position": 29,
+   "issue": "II. Actividades Sistemáticas"
+  },
+  {
+   "raw": "RUIZ BREMÓN M. 1989, Los exvotos del santuario ibérico del Cerro de Los Santos, Albacete.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Ruiz Bremón",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Los exvotos del santuario ibérico del Cerro de Los Santos",
+   "place": "Albacete",
+   "language": "spa",
+   "confidence": "high",
+   "position": 30
+  },
+  {
+   "raw": "TOVAR LLORENTE A. 1987, Estado actual de los estudios ibéricos, «Archivo Español de Arqueología», 17, 29-48.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Tovar Llorente",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Estado actual de los estudios ibéricos",
+   "is_part_of": [
+    "Archivo Español de Arqueología"
+   ],
+   "pages": "29-48",
+   "volume": "17",
+   "language": "spa",
+   "confidence": "high",
+   "position": 31
+  }
+ ]
+}

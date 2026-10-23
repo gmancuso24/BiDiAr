@@ -1,0 +1,449 @@
+{
+ "citing_aec_id": 395,
+ "source_file": "data/journal/15/395.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BARCELÓ J.A. 1996, Arqueología automática. Inteligencia artificial en Arqueología, «Cuadernos de Arqueología Mediterránea», 2, AUSA, Sabadell (Barcelona).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "1996",
+   "title": "Arqueología automática. Inteligencia artificial en Arqueología",
+   "is_part_of": [
+    "Cuadernos de Arqueología Mediterránea"
+   ],
+   "volume": "2",
+   "publisher": "AUSA",
+   "place": "Sabadell (Barcelona)",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "BARCELÓ J.A. 2000, Visualizing what might be. An introduction to Virtual Reality in archaeology, in J.A. BARCELÓ, M. FORTE, D. SANDERS (eds.), Virtual Reality in Archaeology, British Archaeological Reports 843, Oxford, ArcheoPress, 9-36.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "2000",
+   "title": "Visualizing what might be. An introduction to Virtual Reality in archaeology",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "series": "BAR International Series",
+   "series_number": "843",
+   "pages": "9-36",
+   "publisher": "ArcheoPress",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "series cited \"British Archaeological Reports 843\"",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BARCELÓ J.A. 2001, Virtual Reality for archaeological explanation. Beyond “picturesque” reconstruction, «Archeologia e Calcolatori», 12, 221-244.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "2001",
+   "title": "Virtual Reality for archaeological explanation. Beyond “picturesque” reconstruction",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "221-244",
+   "language": "eng",
+   "cited_aec_id": 324,
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "BARCELÓ J.A. 2002, Virtual museums. When heritage does not exist, in K.T. BIRÓ (ed.), A Közgyütemények és a tudomány, World Conference on Science, UNESCO-ICSU and Hungarian Academy of Sciences, Magyar Nemzeti Múzeum, Documentationes et Communicationes.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "2002",
+   "title": "Virtual museums. When heritage does not exist",
+   "editors": [
+    {
+     "family": "Biró",
+     "given": "K.T."
+    }
+   ],
+   "is_part_of": [
+    "A Közgyütemények és a tudomány"
+   ],
+   "series": "Documentationes et Communicationes",
+   "publisher": "Magyar Nemzeti Múzeum",
+   "language": "eng",
+   "notes": "World Conference on Science, UNESCO-ICSU and Hungarian Academy of Sciences",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BINFORD L.R. 2001, Constructing Frames of Reference, Berkley-Los Angeles-London, University of California Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Binford",
+     "given": "L.R."
+    }
+   ],
+   "date": "2001",
+   "title": "Constructing Frames of Reference",
+   "publisher": "University of California Press",
+   "place": "Berkley-Los Angeles-London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "BOGDANOVIĆ I., TASIĆ N. 1998, Archaeological Web Symposia, Paper presented at CAA98, Barcelona.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Bogdanović",
+     "given": "I."
+    },
+    {
+     "family": "Tasić",
+     "given": "N."
+    }
+   ],
+   "date": "1998",
+   "title": "Archaeological Web Symposia",
+   "language": "eng",
+   "is_part_of": [
+    "CAA98, Barcelona"
+   ],
+   "notes": "paper presented at the conference",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "BOGDANOVIĆ I., BARCELÓ J.A., VICENTE O. 1999, A theory of archaeological knowledge building by using Internet, in Proceedings of the 27th CAA Conference (Dublin 1999), (in press).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bogdanović",
+     "given": "I."
+    },
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Vicente",
+     "given": "O."
+    }
+   ],
+   "date": "2004",
+   "title": "A theory of archaeological knowledge building by using Internet",
+   "editors": [
+    {
+     "family": "Fennema",
+     "given": "K."
+    },
+    {
+     "family": "Kamermans",
+     "given": "H."
+    }
+   ],
+   "is_part_of": [
+    "Making the connection to the Past. CAA99. Computer Applications and Quantitative Methods in Archaeology: Proceedings of the 27th Conference (Dublin 1999)"
+   ],
+   "pages": "31-38",
+   "publisher": "Faculty of Archaeology, Leiden University",
+   "place": "Leiden",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://proceedings.caaconference.org/?p=4329"
+   },
+   "notes": "cited \"(in press)\", Proceedings of the 27th CAA Conference (Dublin 1999); published 2004; editors from the CAA proceedings record, published title ends \"the DIASPORA Project\"",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "BURKE P. 2000, Historia social del conocimiento. De Gutenberg a Diderot, Buenos Aires-Barcelona-México, Paidós.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Burke",
+     "given": "P."
+    }
+   ],
+   "date": "2000",
+   "title": "Historia social del conocimiento. De Gutenberg a Diderot",
+   "publisher": "Paidós",
+   "place": "Buenos Aires-Barcelona-México",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "DALLWITZ M.J. 1980, A general system for coding taxonomic descriptions, «Taxon», 29, 41-46.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dallwitz",
+     "given": "M.J."
+    }
+   ],
+   "date": "1980",
+   "title": "A general system for coding taxonomic descriptions",
+   "is_part_of": [
+    "Taxon"
+   ],
+   "volume": "29",
+   "pages": "41-46",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "DALLWITZ M.J., PAINE T.A., ZURCHER E.J. 1993, User’s guide to the DELTA system: a general system for processing taxonomic descriptions, 4th edition (http://biodiversity.uno.edu/delta/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Dallwitz",
+     "given": "M.J."
+    },
+    {
+     "family": "Paine",
+     "given": "T.A."
+    },
+    {
+     "family": "Zurcher",
+     "given": "E.J."
+    }
+   ],
+   "date": "1993",
+   "title": "User’s guide to the DELTA system: a general system for processing taxonomic descriptions",
+   "uri": "http://biodiversity.uno.edu/delta/",
+   "language": "eng",
+   "edition": "4",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "DALLWITZ M.J., PAINE T.A., ZURCHER E.J. 1995, User’s guide to Intkey: a program for interactive identification and Information Retrieval, 1st edition (http://biodiversity.uno.edu/delta/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Dallwitz",
+     "given": "M.J."
+    },
+    {
+     "family": "Paine",
+     "given": "T.A."
+    },
+    {
+     "family": "Zurcher",
+     "given": "E.J."
+    }
+   ],
+   "date": "1995",
+   "title": "User’s guide to Intkey: a program for interactive identification and Information Retrieval",
+   "uri": "http://biodiversity.uno.edu/delta/",
+   "language": "eng",
+   "notes": "1st edition",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "DALLWITZ M.J., PAINE T.A., ZURCHER E.J. 2000, Principles of interactive keys (http://biodiversity.uno.edu/delta/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Dallwitz",
+     "given": "M.J."
+    },
+    {
+     "family": "Paine",
+     "given": "T.A."
+    },
+    {
+     "family": "Zurcher",
+     "given": "E.J."
+    }
+   ],
+   "date": "2000",
+   "title": "Principles of interactive keys",
+   "uri": "http://biodiversity.uno.edu/delta/",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "HODDER I. 1999, The Archaeological Process. An Introduction, Oxford, Blackwell Publishers.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1999",
+   "title": "The Archaeological Process. An Introduction",
+   "publisher": "Blackwell Publishers",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "MARTIN P. 1996, Procedures for a cooperative building of knowledge bases by multiple users (http://meganesia.int.gu.edu.au/~phmartin/WebKB/doc/coopOntologyBuilding.html).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Martin",
+     "given": "P."
+    }
+   ],
+   "date": "1996",
+   "title": "Procedures for a cooperative building of knowledge bases by multiple users",
+   "uri": "http://meganesia.int.gu.edu.au/~phmartin/WebKB/doc/coopOntologyBuilding.html",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "MAJCHRZAK A. et al. 1999, Development and adaptation of inter-organizational virtual team norms using collaborative technology (http://www.cogtech.org/CT99/3.htm#THE%20COLLABORATIVE%20TECHNOLOGY).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Majchrzak",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "Development and adaptation of inter-organizational virtual team norms using collaborative technology",
+   "uri": "http://www.cogtech.org/CT99/3.htm#THE%20COLLABORATIVE%20TECHNOLOGY",
+   "language": "eng",
+   "notes": "\"et al.\" in the citation: only first author recorded",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "NEUMANN K., SCHOCH W., DÉTIENNE P., SCHWEINGRUBER F.H. 2001, Woods of the Sahara and the Sahel / Bois du Sahara et du Sahel/Hölzer der Sahara und des Sahel. Birmensdorf, Eidg. Forschungsanstalt WSL, Bern-Stuttgart-Wien, Haupt.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Neumann",
+     "given": "K."
+    },
+    {
+     "family": "Schoch",
+     "given": "W."
+    },
+    {
+     "family": "Détienne",
+     "given": "P."
+    },
+    {
+     "family": "Schweingruber",
+     "given": "F.H."
+    }
+   ],
+   "date": "2001",
+   "title": "Woods of the Sahara and the Sahel / Bois du Sahara et du Sahel / Hölzer der Sahara und des Sahel",
+   "publisher": "Eidg. Forschungsanstalt WSL, Haupt",
+   "place": "Birmensdorf, Bern-Stuttgart-Wien",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "PONYIK J.G. 2002, Software architecture options for true telescience, NASA Glenn Research Center at Lewis Field (http://scp.grc.nasa.gov/siw/presentations/Session_A/A_07_Ponyik.pdf).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Ponyik",
+     "given": "J.G."
+    }
+   ],
+   "date": "2002",
+   "title": "Software architecture options for true telescience",
+   "uri": "http://scp.grc.nasa.gov/siw/presentations/Session_A/A_07_Ponyik.pdf",
+   "language": "eng",
+   "publisher": "NASA Glenn Research Center at Lewis Field",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "RICHTER H.G., DALLWITZ M.J. 2000, Commercial timbers: descriptions, illustrations, identification, and Information Retrieval (in English, French, German, and Spanish. Version), 18th October 2002 (http://biodiversity.uno.edu/delta/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Richter",
+     "given": "H.G."
+    },
+    {
+     "family": "Dallwitz",
+     "given": "M.J."
+    }
+   ],
+   "date": "2000",
+   "title": "Commercial timbers: descriptions, illustrations, identification, and Information Retrieval (in English, French, German, and Spanish. Version)",
+   "uri": "http://biodiversity.uno.edu/delta/",
+   "language": "eng",
+   "notes": "version 18th October 2002",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "ZHANG J., NORMAN D. 1994, Representations in distributed cognitive tasks, «Cognitive Science», 18, 87-122.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zhang",
+     "given": "J."
+    },
+    {
+     "family": "Norman",
+     "given": "D."
+    }
+   ],
+   "date": "1994",
+   "title": "Representations in distributed cognitive tasks",
+   "is_part_of": [
+    "Cognitive Science"
+   ],
+   "volume": "18",
+   "pages": "87-122",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

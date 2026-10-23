@@ -1,0 +1,317 @@
+{
+ "citing_aec_id": 384,
+ "source_file": "data/journal/15/384.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BENNANI Y. 1999, Adaptive weighting of pattern features during learning, in Proceeding of the IEEE, 87, 3008-3013.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bennani",
+     "given": "Y."
+    }
+   ],
+   "date": "1999",
+   "title": "Adaptive weighting of pattern features during learning",
+   "is_part_of": [
+    "Proceedings of the IEEE"
+   ],
+   "volume": "87",
+   "pages": "3008-3013",
+   "language": "eng",
+   "notes": "journal cited as \"Proceeding of the IEEE\"",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "BOKSER M. 1992, Omnidocument technologies, in Proceeding of the IEEE, 80, 7, 1066-1078.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bokser",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Omnidocument technologies",
+   "is_part_of": [
+    "Proceedings of the IEEE"
+   ],
+   "volume": "80",
+   "issue": "7",
+   "pages": "1066-1078",
+   "language": "eng",
+   "notes": "journal cited as \"Proceeding of the IEEE\"",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BOZZI A. 1997, Better Access to Manuscripts and Browsing of Images. Aims and Results of an European Research Project in the Field of Digital Libraries (BAMBI LIB-3114), Bologna, CLUEB.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bozzi",
+     "given": "A."
+    }
+   ],
+   "date": "1997",
+   "title": "Better Access to Manuscripts and Browsing of Images. Aims and Results of an European Research Project in the Field of Digital Libraries (BAMBI LIB-3114)",
+   "publisher": "CLUEB",
+   "place": "Bologna",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "BOZZI A. 2000, Computer-aided Recovery and Analysis of Damaged Text Documents, Bologna, CLUEB.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bozzi",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "Computer-aided Recovery and Analysis of Damaged Text Documents",
+   "publisher": "CLUEB",
+   "place": "Bologna",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BOZZI A. 2003, Digital documents and computational philology: the Digital Philology System (DIPHILOS), in M. VENEZIANI (ed.), Informatica e Scienze umane. Mezzo secolo di studi e ricerche, Firenze, Olschki, 175-201.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bozzi",
+     "given": "A."
+    }
+   ],
+   "date": "2003",
+   "title": "Digital documents and computational philology: the Digital Philology System (DIPHILOS)",
+   "editors": [
+    {
+     "family": "Veneziani",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Informatica e Scienze umane. Mezzo secolo di studi e ricerche"
+   ],
+   "pages": "175-201",
+   "publisher": "Olschki",
+   "place": "Firenze",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "BOZZI A., CIGNONI L., LEBRAVE J.L. 2004, Digital Technology and Philological Disciplines, Pisa-Roma, IEPI.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bozzi",
+     "given": "A."
+    },
+    {
+     "family": "Cignoni",
+     "given": "L."
+    },
+    {
+     "family": "Lebrave",
+     "given": "J.L."
+    }
+   ],
+   "date": "2004",
+   "title": "Digital Technology and Philological Disciplines",
+   "publisher": "IEPI",
+   "place": "Pisa-Roma",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "BOZZI A., RAGGIOLI A. 2003, Tecnologia digitale negli Istituti culturali: un case study, in S. ZOPPI (ed.), Itinerari multimediali umanistici, Alessandria, Edizioni dell’Orso, 23-42.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bozzi",
+     "given": "A."
+    },
+    {
+     "family": "Raggioli",
+     "given": "A."
+    }
+   ],
+   "date": "2003",
+   "title": "Tecnologia digitale negli Istituti culturali: un case study",
+   "editors": [
+    {
+     "family": "Zoppi",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Itinerari multimediali umanistici"
+   ],
+   "pages": "23-42",
+   "publisher": "Edizioni dell’Orso",
+   "place": "Alessandria",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "BRESCIANI E., PERNIGOTTI S., BETRÒ M.C. 1983, Ostraka demotici da Narmuti, I, Pisa, ETS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bresciani",
+     "given": "E."
+    },
+    {
+     "family": "Pernigotti",
+     "given": "S."
+    },
+    {
+     "family": "Betrò",
+     "given": "M.C."
+    }
+   ],
+   "date": "1983",
+   "title": "Ostraka demotici da Narmuti",
+   "publisher": "ETS",
+   "place": "Pisa",
+   "language": "ita",
+   "volume": "I",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "FEDELE G. 2002, Restauro di documenti a stampa antichi per il riconoscimento automatico dei caratteri, in Escuela Interlatina de Altos Estudios en Linguistica Aplicada: Matemàticas y Tratamiento de Corpus (San Millàn de La Cogolla, 2000), Logroño, Fundación San Millàn de La Cogolla, 289-308.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fedele",
+     "given": "G."
+    }
+   ],
+   "date": "2002",
+   "title": "Restauro di documenti a stampa antichi per il riconoscimento automatico dei caratteri",
+   "is_part_of": [
+    "Escuela Interlatina de Altos Estudios en Linguistica Aplicada: Matemàticas y Tratamiento de Corpus (San Millàn de La Cogolla, 2000)"
+   ],
+   "pages": "289-308",
+   "publisher": "Fundación San Millàn de La Cogolla",
+   "place": "Logroño",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "GALLO P. 1997, Ostraka demotici e ieratici dall’archivio bilingue di Narmouthis, II, Pisa, ETS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gallo",
+     "given": "P."
+    }
+   ],
+   "date": "1997",
+   "title": "Ostraka demotici e ieratici dall’archivio bilingue di Narmouthis",
+   "publisher": "ETS",
+   "place": "Pisa",
+   "language": "ita",
+   "volume": "II",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "GLAUBERMANN M.H. 1956, Character recognition for business machine, «Electronics», 29, 132-136.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Glaubermann",
+     "given": "M.H."
+    }
+   ],
+   "date": "1956",
+   "title": "Character recognition for business machine",
+   "is_part_of": [
+    "Electronics"
+   ],
+   "volume": "29",
+   "pages": "132-136",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "KOHONEN T. 1990, The self-organising maps, in Proceeding of the IEEE, 78, 9, 1464-1480.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kohonen",
+     "given": "T."
+    }
+   ],
+   "date": "1990",
+   "title": "The self-organising maps",
+   "is_part_of": [
+    "Proceedings of the IEEE"
+   ],
+   "volume": "78",
+   "issue": "9",
+   "pages": "1464-1480",
+   "language": "eng",
+   "notes": "journal cited as \"Proceeding of the IEEE\"",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "LO Z.P., YU Y. 1992, Derivation of learning vector quantization algorithm, in Proceeding of the IEEE, 80, 561-566.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lo",
+     "given": "Z.P."
+    },
+    {
+     "family": "Yu",
+     "given": "Y."
+    }
+   ],
+   "date": "1992",
+   "title": "Derivation of learning vector quantization algorithm",
+   "is_part_of": [
+    "Proceedings of the IEEE"
+   ],
+   "volume": "80",
+   "pages": "561-566",
+   "language": "eng",
+   "notes": "journal cited as \"Proceeding of the IEEE\"",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "PRATT W.K. 1991, Digital Image Processing – Second Edition, Wiley-Interscience Publication, New York, John Wiley & Sons, Inc.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pratt",
+     "given": "W.K."
+    }
+   ],
+   "date": "1991",
+   "title": "Digital Image Processing",
+   "publisher": "John Wiley & Sons, Inc.",
+   "place": "New York",
+   "language": "eng",
+   "edition": "2",
+   "notes": "\"Wiley-Interscience Publication\"",
+   "confidence": "high"
+  }
+ ]
+}

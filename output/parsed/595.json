@@ -1,0 +1,271 @@
+{
+ "citing_aec_id": 595,
+ "source_file": "data/journal/22/595.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bianchini M. 2008, Manuale di rilievo e di documentazione digitale in archeologia, Roma, Aracne.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bianchini",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "Manuale di rilievo e di documentazione digitale in archeologia",
+   "publisher": "Aracne",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Catizzone S. 2007, Fondamenti di cartografia, Roma, Gangemi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Catizzone",
+     "given": "S."
+    }
+   ],
+   "date": "2007",
+   "title": "Fondamenti di cartografia",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Forte M., Gabrielli R. 2002, Il GPS, in M. Forte, I Sistemi Informativi Geografici in Archeologia, Roma, MondoGis, 157-171.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Il GPS",
+   "is_part_of": [
+    "I Sistemi Informativi Geografici in Archeologia"
+   ],
+   "pages": "157-171",
+   "publisher": "MondoGis",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited 'in M. Forte, I Sistemi Informativi Geografici in Archeologia' without (ed.): treated as editor",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Gabrielli R., Angelini A., Vannini G., Nucciotti M., Menci L. 2008, Nuovo sistema di fotogrammetria digitale da pallone aerostatico: il caso di studio del castello di Shawbak, in Atti della 12 Conferenza Nazionale ASITA (L’Aquila 2008), Milano, Asita.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Angelini",
+     "given": "A."
+    },
+    {
+     "family": "Vannini",
+     "given": "G."
+    },
+    {
+     "family": "Nucciotti",
+     "given": "M."
+    },
+    {
+     "family": "Menci",
+     "given": "L."
+    }
+   ],
+   "date": "2008",
+   "title": "Nuovo sistema di fotogrammetria digitale da pallone aerostatico: il caso di studio del castello di Shawbak",
+   "is_part_of": [
+    "Atti della 12 Conferenza Nazionale ASITA (L’Aquila 2008)"
+   ],
+   "publisher": "Asita",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Gabrielli R., Colosi F., Angelini A., Peloso D. 2009, Velocità in acquisizione, complessità nell’elaborazione: da GPS alle nuvole di punti, in G. De Felice, M.G. Sibilano, G. Volpe (eds.), L’informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008), Bari, Edipuglia, 135-147.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Angelini",
+     "given": "A."
+    },
+    {
+     "family": "Peloso",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    },
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "date": "2009",
+   "title": "Velocità in acquisizione, complessità nell’elaborazione: da GPS alle nuvole di punti",
+   "is_part_of": [
+    "L’informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008)"
+   ],
+   "pages": "135-147",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Giorgi C. 2009, Palatino, pendici nord-orientali: le “Terme di Elagabalo”. Studio del complesso archeologico e applicazione innovativa di fotogrammetria tridimensionale, Tesi magistrale, Sapienza Università di Roma.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Giorgi",
+     "given": "C."
+    }
+   ],
+   "date": "2009",
+   "title": "Palatino, pendici nord-orientali: le “Terme di Elagabalo”. Studio del complesso archeologico e applicazione innovativa di fotogrammetria tridimensionale",
+   "publisher": "Sapienza Università di Roma",
+   "language": "ita",
+   "notes": "Tesi magistrale",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Mar R. 2005, El Palatí. La formació dels palaus imperials a Roma, Tarragona, Institut Català d’Arqueologia Clàssica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mar",
+     "given": "R."
+    }
+   ],
+   "date": "2005",
+   "title": "El Palatí. La formació dels palaus imperials a Roma",
+   "publisher": "Institut Català d’Arqueologia Clàssica",
+   "place": "Tarragona",
+   "language": "cat",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Panella C. 2006, Il Palatino nord-orientale: nuove conoscenze, nuove riflessioni, «Scienze dell’Antichità», 13, 264-299.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Panella",
+     "given": "C."
+    }
+   ],
+   "date": "2006",
+   "title": "Il Palatino nord-orientale: nuove conoscenze, nuove riflessioni",
+   "is_part_of": [
+    "Scienze dell’Antichità"
+   ],
+   "volume": "13",
+   "pages": "264-299",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Piccarreta F. 2002, La fotogrammetria, in Il Mondo dell’Archeologia, Istituto della Enciclopedia Italiana Treccani, vol. 1, 161-163.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Piccarreta",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "La fotogrammetria",
+   "is_part_of": [
+    "Il Mondo dell’Archeologia"
+   ],
+   "volume": "1",
+   "pages": "161-163",
+   "publisher": "Istituto della Enciclopedia Italiana Treccani",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Piccarreta F., Ceraudo G. 2000, Manuale di aerofotografia archeologica. Metodologia, tecniche e applicazioni, Bari, Edipuglia.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Piccarreta",
+     "given": "F."
+    },
+    {
+     "family": "Ceraudo",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Manuale di aerofotografia archeologica. Metodologia, tecniche e applicazioni",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Saguì L. 2009, Pendici nord-orientali del Palatino: le ‘Terme di Elagabalo’, «Archeologia Classica», 60, 235-274.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Saguì",
+     "given": "L."
+    }
+   ],
+   "date": "2009",
+   "title": "Pendici nord-orientali del Palatino: le ‘Terme di Elagabalo’",
+   "is_part_of": [
+    "Archeologia Classica"
+   ],
+   "volume": "60",
+   "pages": "235-274",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

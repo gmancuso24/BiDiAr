@@ -1,0 +1,504 @@
+{
+ "citing_aec_id": 399,
+ "source_file": "data/journal/15/399.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AZZENA G. 1991, Recensione a M. PASQUINUCCI, S. MENCHELLI, La cartografia archeologica. Problemi e prospettive, Atti del Convegno Internazionale (Pisa 1988), Pisa 1989, «Archeologia e Calcolatori», 2, 339-340.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    }
+   ],
+   "date": "1991",
+   "title": "Recensione a M. Pasquinucci, S. Menchelli, La cartografia archeologica. Problemi e prospettive, Atti del Convegno Internazionale (Pisa 1988), Pisa 1989",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "2",
+   "pages": "339-340",
+   "language": "ita",
+   "notes": "review; not found in the AeC metadata",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "AZZENA G. 1997, Questioni terminologiche – e di merito – sui GIS in archeologia, in A. GOTTARELLI (ed.), Sistemi Informativi e reti geografiche in archeologia: GIS-Internet, VII Ciclo di Lezioni sulla Ricerca applicata in Archeologia (Certosa di Pontignano-Siena 1995), Firenze, All’Insegna del Giglio, 33-43.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    }
+   ],
+   "date": "1997",
+   "title": "Questioni terminologiche – e di merito – sui GIS in archeologia",
+   "editors": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Sistemi Informativi e reti geografiche in archeologia: GIS-Internet, VII Ciclo di Lezioni sulla Ricerca applicata in Archeologia (Certosa di Pontignano-Siena 1995)"
+   ],
+   "pages": "33-43",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BARCELÓ J.A., FORTE M., SANDERS D. (eds.) 2000, Virtual Reality in Archaeology, BAR International Series 843, Oxford, Archaeopress.",
+   "type": "proceedings",
+   "date": "2000",
+   "title": "Virtual Reality in Archaeology",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D."
+    }
+   ],
+   "series": "BAR International Series",
+   "series_number": "843",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "CHAMPION S. 1997, Archaeology on the World Wide Web: a user’s field-guide, «Antiquity», 71, 1027-1038.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Champion",
+     "given": "S."
+    }
+   ],
+   "date": "1997",
+   "title": "Archaeology on the World Wide Web: a user’s field-guide",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "71",
+   "pages": "1027-1038",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "CRESCIOLI M., D’ANDREA A., NICCOLUCCI F. 2001, Un GIS archeologico distribuito via Internet, in M.P. GUERMANDI (ed.), Rischio archeologico: se lo conosci lo eviti, Atti del Convegno (Ferrara 2000), Firenze, All’Insegna del Giglio, 391-394.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Crescioli",
+     "given": "M."
+    },
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2001",
+   "title": "Un GIS archeologico distribuito via Internet",
+   "editors": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "is_part_of": [
+    "Rischio archeologico: se lo conosci lo eviti, Atti del Convegno (Ferrara 2000)"
+   ],
+   "pages": "391-394",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "D’ANDREA A., NICCOLUCCI F., CRESCIOLI M. 2001, Web access to an archaeological GIS, in Z. STANČIČ, T. VELJANOVSKI (eds.), Computing Archaeology for Understanding the Past. CAA 2000, BAR International Series 931, Oxford, Archaeopress, 317-321.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Crescioli",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Web access to an archaeological GIS",
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. CAA 2000"
+   ],
+   "series": "BAR International Series",
+   "series_number": "931",
+   "pages": "317-321",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "DAVID J. 1999, L’Archéodrome di Bourgogne, in F. LENZI (ed.), Archeologia e Ambiente, Atti del Convegno Internazionale (Ferrara 1998), Forlì 1999, 594-598.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "David",
+     "given": "J."
+    }
+   ],
+   "date": "1999",
+   "title": "L’Archéodrome di Bourgogne",
+   "editors": [
+    {
+     "family": "Lenzi",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Ambiente, Atti del Convegno Internazionale (Ferrara 1998)"
+   ],
+   "pages": "594-598",
+   "place": "Forlì",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "FILIPPI F. (ed.) 2004, Manuale per la qualità dei siti web pubblici culturali, Roma, Ministero per i Beni e le Attività Culturali.",
+   "type": "book",
+   "date": "2004",
+   "title": "Manuale per la qualità dei siti web pubblici culturali",
+   "editors": [
+    {
+     "family": "Filippi",
+     "given": "F."
+    }
+   ],
+   "publisher": "Ministero per i Beni e le Attività Culturali",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "GUERMANDI M.P. 1997, Presi nella rete: i siti archeologici in Internet, «Archeologia e Calcolatori», 8, 151-169.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "1997",
+   "title": "Presi nella rete: i siti archeologici in Internet",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "8",
+   "pages": "151-169",
+   "language": "ita",
+   "cited_aec_id": 241,
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "GUERMANDI M.P. 1999, Dalle basi di dati alla rete: l’evoluzione del trattamento dei dati archeologici, «Archeologia e Calcolatori», 10, 89-99.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "1999",
+   "title": "Dalle basi di dati alla rete: l’evoluzione del trattamento dei dati archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "89-99",
+   "language": "ita",
+   "cited_aec_id": 268,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "GUERMANDI M.P. 2000, L’archeologia in rete. Internet e multimedia, «Archeologia e Calcolatori», 11, 391-395.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "2000",
+   "title": "L’archeologia in rete. Internet e multimedia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "391-395",
+   "language": "ita",
+   "cited_aec_id": 311,
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "GUERMANDI M.P. 2001, Internet e multimedia, «Archeologia e Calcolatori», 12, 343-347.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "2001",
+   "title": "Internet e multimedia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "343-347",
+   "language": "ita",
+   "cited_aec_id": 330,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "HERMON S., NICCOLUCCI F. 2000, The impact of shared information technology on archaeological scientific research, in CRIS 2000, Conference (Helsinki 2000) (ftp://ftp.cordis.lu/pub/cris2000/docs/hermon_fulltext.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hermon",
+     "given": "S."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "The impact of shared information technology on archaeological scientific research",
+   "is_part_of": [
+    "CRIS 2000, Conference (Helsinki 2000)"
+   ],
+   "uri": "ftp://ftp.cordis.lu/pub/cris2000/docs/hermon_fulltext.pdf",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "MIGLIORATI L. 2002, Le fonti cartografiche: Oriente e Mondo Classico, in Il Mondo dell’Archeologia, Roma, Treccani, 142-146.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Migliorati",
+     "given": "L."
+    }
+   ],
+   "date": "2002",
+   "title": "Le fonti cartografiche: Oriente e Mondo Classico",
+   "is_part_of": [
+    "Il Mondo dell’Archeologia"
+   ],
+   "pages": "142-146",
+   "publisher": "Treccani",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "NICCOLUCCI F. (ed.) 2002, Virtual Archaeology. Proceedings of the VAST Euroconference (Arezzo 2000), BAR International Series 1075, Oxford, Archaeopress.",
+   "type": "proceedings",
+   "date": "2002",
+   "title": "Virtual Archaeology. Proceedings of the VAST Euroconference (Arezzo 2000)",
+   "editors": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "series": "BAR International Series",
+   "series_number": "1075",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "ORLANDI T. 1996, Formalizzazione dei dati, semiotica e comunicazione, in P. MOSCATI (ed.), III International Symposium on Computing and Archaeology (Roma 1995), «Archeologia e Calcolatori», 7, 2, 1247-1258.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "1996",
+   "title": "Formalizzazione dei dati, semiotica e comunicazione",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "issue": "2",
+   "pages": "1247-1258",
+   "language": "ita",
+   "cited_aec_id": 229,
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "ORLANDI T. 1999, Multimedialità e archeologia, «Archeologia e Calcolatori», 10, 145-157.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "1999",
+   "title": "Multimedialità e archeologia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "145-157",
+   "language": "ita",
+   "cited_aec_id": 272,
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "RYAN N. 2001, Documenting and validating Virtual Archaeology, «Archeologia e Calcolatori», 12, 245-273.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ryan",
+     "given": "N."
+    }
+   ],
+   "date": "2001",
+   "title": "Documenting and validating Virtual Archaeology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "245-273",
+   "language": "eng",
+   "cited_aec_id": 325,
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "VAN LEUSEN M., CHAMPION S. 1997, Tessere l’European archaeological heritage web, in A. GOTTARELLI (ed.), Sistemi Informativi e reti geografiche in archeologia: GIS-Internet, VII Ciclo di Lezioni sulla Ricerca applicata in Archeologia (Certosa di Pontignano-Siena 1995), Firenze, All’Insegna del Giglio, 161-167.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    },
+    {
+     "family": "Champion",
+     "given": "S."
+    }
+   ],
+   "date": "1997",
+   "title": "Tessere l’European archaeological heritage web",
+   "editors": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Sistemi Informativi e reti geografiche in archeologia: GIS-Internet, VII Ciclo di Lezioni sulla Ricerca applicata in Archeologia (Certosa di Pontignano-Siena 1995)"
+   ],
+   "pages": "161-167",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "VISCIOLA M. 2000, Usabilità dei siti web, Milano, Apogeo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Visciola",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "Usabilità dei siti web",
+   "publisher": "Apogeo",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "WACE P., CONDRON F. 2002, The Internet, images and archaeology: ideas for interactive tutorials, «Internet Archaeology», 12 (http://intarch.ac.uk/journal/issue12/wace-condron_toc.html).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wace",
+     "given": "P."
+    },
+    {
+     "family": "Condron",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "The Internet, images and archaeology: ideas for interactive tutorials",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "12",
+   "uri": "http://intarch.ac.uk/journal/issue12/wace-condron_toc.html",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,797 @@
+{
+ "citing_aec_id": 378,
+ "source_file": "data/journal/15/378.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Balfet H., Fauvet-Berthelot M.F., Monzon S. 1983, Lexique et typologie des poteries. Pour la normalisation de la description des poteries, Paris, Édition du CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Balfet",
+     "given": "H."
+    },
+    {
+     "family": "Fauvet-Berthelot",
+     "given": "M.F."
+    },
+    {
+     "family": "Monzon",
+     "given": "S."
+    }
+   ],
+   "date": "1983",
+   "title": "Lexique et typologie des poteries. Pour la normalisation de la description des poteries",
+   "publisher": "Édition du CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bats M. 1988, Vaisselle et alimentation à Olbia de Provence, Paris, Édition du CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bats",
+     "given": "M."
+    }
+   ],
+   "date": "1988",
+   "title": "Vaisselle et alimentation à Olbia de Provence",
+   "publisher": "Édition du CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Caggia P., Melissano V. 1997, Il sistema per la gestione dei dati di scavo. Normalizzazione dei dati e vocabolari, in D'Andria 1997, 97-116.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Caggia",
+     "given": "P."
+    },
+    {
+     "family": "Melissano",
+     "given": "V."
+    }
+   ],
+   "date": "1997",
+   "title": "Il sistema per la gestione dei dati di scavo. Normalizzazione dei dati e vocabolari",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Metodologie di catalogazione per i Beni Culturali"
+   ],
+   "series": "BACT",
+   "series_number": "1.1",
+   "pages": "97-116",
+   "publisher": "CNR-Università di Lecce",
+   "place": "Lecce-Bari",
+   "language": "ita",
+   "xref": 5,
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Charters S., Evershed R.P., Quye A., Blinkhorn P.W., Reeves V. 1997, Simulation experiments for determining the use of ancient pottery vessels: the behaviour of epicuticular leaf wax during boiling of a leafy vegetable, «Journal of Archaeological Science», 24, 1-7.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Charters",
+     "given": "S."
+    },
+    {
+     "family": "Evershed",
+     "given": "R.P."
+    },
+    {
+     "family": "Quye",
+     "given": "A."
+    },
+    {
+     "family": "Blinkhorn",
+     "given": "P.W."
+    },
+    {
+     "family": "Reeves",
+     "given": "V."
+    }
+   ],
+   "date": "1997",
+   "title": "Simulation experiments for determining the use of ancient pottery vessels: the behaviour of epicuticular leaf wax during boiling of a leafy vegetable",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "24",
+   "pages": "1-7",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "D'Andria F. (ed.) 1997, Metodologie di catalogazione per i Beni Culturali, BACT, 1.1, Lecce-Bari, CNR-Università di Lecce.",
+   "type": "book",
+   "date": "1997",
+   "title": "Metodologie di catalogazione per i Beni Culturali",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "publisher": "CNR-Università di Lecce",
+   "place": "Lecce-Bari",
+   "language": "ita",
+   "series": "BACT",
+   "series_number": "1.1",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "D'Andria F., Semeraro G. 1993, Un sistema integrato per la gestione della cartografia e dei dati di scavo, «Archeologia e Calcolatori», 4, 161-180.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "date": "1993",
+   "title": "Un sistema integrato per la gestione della cartografia e dei dati di scavo",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "161-180",
+   "language": "ita",
+   "cited_aec_id": 57,
+   "notes": "cited pages 161-180; AeC metadata 159-180",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "D'Andria F., Semeraro G. 2000, Le ceramiche greco-orientali in Italia Meridionale. Appunti sulla distribuzione, in Atti XXIX Convegno di studi sulla Magna Grecia (Taranto 1999), Taranto, Istituto per la Storia e l'Archeologia della Magna Grecia, 457-501.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Le ceramiche greco-orientali in Italia Meridionale. Appunti sulla distribuzione",
+   "is_part_of": [
+    "Atti XXIX Convegno di studi sulla Magna Grecia (Taranto 1999)"
+   ],
+   "pages": "457-501",
+   "publisher": "Istituto per la Storia e l’Archeologia della Magna Grecia",
+   "place": "Taranto",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "D'Andria F., Semeraro G. 2003, Applicazioni GIS alla ricerca archeologica. Modelli di formalizzazione dei dati, in I modelli nella ricerca archeologica, Il ruolo dell'informatica, Atti del Convegno di Roma (Roma, Accademia dei Lincei, 2000), Roma, 77-105.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Applicazioni GIS alla ricerca archeologica. Modelli di formalizzazione dei dati",
+   "is_part_of": [
+    "I modelli nella ricerca archeologica, Il ruolo dell’informatica, Atti del Convegno di Roma (Roma, Accademia dei Lincei, 2000)"
+   ],
+   "pages": "77-105",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Descœudres J.P., Robinson E. 1993, La \"Chiusa\" alla Masseria del Fano. Un sito messapico arcaico presso Salve in Provincia di Lecce, Lecce, Martano Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Descœudres",
+     "given": "J.P."
+    },
+    {
+     "family": "Robinson",
+     "given": "E."
+    }
+   ],
+   "date": "1993",
+   "title": "La “Chiusa” alla Masseria del Fano. Un sito messapico arcaico presso Salve in Provincia di Lecce",
+   "publisher": "Martano Editore",
+   "place": "Lecce",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Gardin J.-C. 2002, Les modèles logico-discoursifs en archéologie, in F. Djindjian, P. Moscati (eds.), XIV Congress of the UISPP, Proceedings of Commission IV Data Management and Mathematical Methods in Archaeology (Liège 2001), «Archeologia e Calcolatori», 13, 19-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "2002",
+   "title": "Les modèles logico-discoursifs en archéologie",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "pages": "19-30",
+   "language": "fre",
+   "cited_aec_id": 332,
+   "notes": "title cited with \"discoursifs\"; AeC 13 is the UISPP Commission IV proceedings (eds Djindjian, Moscati)",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Ginouvès R. 1971, Archéographie, archéométrie, archéologie. Pour une informatique de l'archéologie gréco-romaine, «Revue Archéologique», 93-126.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1971",
+   "title": "Archéographie, archéométrie, archéologie. Pour une informatique de l’archéologie gréco-romaine",
+   "is_part_of": [
+    "Revue Archéologique"
+   ],
+   "pages": "93-126",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Ginouvès R. 1987, Informatique pour l'archéologie classique en France, in F. D'Andria (ed.), Informatica ed Archeologia Classica. Atti del Convegno Internazionale (Lecce 1986), Galatina, Congedo Editore, 31-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1987",
+   "title": "Informatique pour l’archéologie classique en France",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Informatica ed Archeologia Classica. Atti del Convegno Internazionale (Lecce 1986)"
+   ],
+   "pages": "31-40",
+   "publisher": "Congedo Editore",
+   "place": "Galatina",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Ginouvès R., Martin R. 1985, Dictionnaire méthodique de l'architecture grecque et romaine, I, Rome, Collection École Française.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Martin",
+     "given": "R."
+    }
+   ],
+   "date": "1985",
+   "title": "Dictionnaire méthodique de l’architecture grecque et romaine",
+   "publisher": "Collection École Française",
+   "place": "Rome",
+   "language": "fre",
+   "volume": "I",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Ginouvès R., Martin R. 1998, Dictionnaire méthodique de l'architecture grecque et romaine, III, Rome, Collection École Française.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Martin",
+     "given": "R."
+    }
+   ],
+   "date": "1998",
+   "title": "Dictionnaire méthodique de l’architecture grecque et romaine",
+   "publisher": "Collection École Française",
+   "place": "Rome",
+   "language": "fre",
+   "volume": "III",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Guermandi M.P. 1993, Gli archeologi classici di fronte al computer: l'esempio di Francia e Italia, in Les archéologues et l'archéologie, Colloque de Bourg-en-Bresse (Archives) 1992, «Caesarodunum», 27, 252-270.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "1993",
+   "title": "Gli archeologi classici di fronte al computer: l’esempio di Francia e Italia",
+   "is_part_of": [
+    "Les archéologues et l’archéologie, Colloque de Bourg-en-Bresse (Archives) 1992",
+    "Caesarodunum"
+   ],
+   "volume": "27",
+   "pages": "252-270",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Guimier-Sorbets A.M. 1987, Les banques de données documentaires préparées au Centre de Recherche sur les traitements automatisés en archéologie classique, Paris, in F. D'Andria (ed.), Informatica ed Archeologia Classica. Atti del Convegno Internazionale (Lecce 1986), Galatina, Congedo Editore, 49-62.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.M."
+    }
+   ],
+   "date": "1987",
+   "title": "Les banques de données documentaires préparées au Centre de Recherche sur les traitements automatisés en archéologie classique",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Informatica ed Archeologia Classica. Atti del Convegno Internazionale (Lecce 1986)"
+   ],
+   "pages": "49-62",
+   "publisher": "Congedo Editore",
+   "place": "Galatina",
+   "language": "fre",
+   "notes": "\"Paris\" in the citation belongs to the Centre, not to the publication",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Guimier-Sorbets A.M. 1990, Les bases de données en archéologie classique, Paris, Éditions du CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.M."
+    }
+   ],
+   "date": "1990",
+   "title": "Les bases de données en archéologie classique",
+   "publisher": "Éditions du CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Hodder I. 1992, Leggere il passato, Torino, Einaudi (trad. it.).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1992",
+   "title": "Leggere il passato",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita",
+   "notes": "Italian translation",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Lattara 6 = M. Py (ed.), DICOCER. Dictionnaire des céramiques antiques (VIIè s. av. n.è.-VIIè s. de n.è.) en Méditerranée nord-occidentale (Provence, Languedoc, Ampurdan). Lattara 6, Lattes 1993, Mélanges d'histoire et d'archéologie de Lattes.",
+   "type": "book",
+   "date": "1993",
+   "title": "DICOCER. Dictionnaire des céramiques antiques (VIIè s. av. n.è.-VIIè s. de n.è.) en Méditerranée nord-occidentale (Provence, Languedoc, Ampurdan)",
+   "editors": [
+    {
+     "family": "Py",
+     "given": "M."
+    }
+   ],
+   "series": "Lattara",
+   "series_number": "6",
+   "publisher": "Mélanges d’histoire et d’archéologie de Lattes",
+   "place": "Lattes",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Mastronuzzi G. 1997, I luoghi di culto nel mondo indigeno dell'Italia meridionale, Tesi di Dottorato di Ricerca in Archeologia della Magna Grecia, X ciclo, aa.aa. 1994-1997.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Mastronuzzi",
+     "given": "G."
+    }
+   ],
+   "date": "1997",
+   "title": "I luoghi di culto nel mondo indigeno dell’Italia meridionale",
+   "language": "ita",
+   "notes": "Tesi di Dottorato di Ricerca in Archeologia della Magna Grecia, X ciclo, aa.aa. 1994-1997",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Moscati P. 1987, Archeologia e calcolatori, Firenze, Giunti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Archeologia e calcolatori",
+   "publisher": "Giunti",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Orton C., Tyers P., Vince A. 1993, Pottery in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C."
+    },
+    {
+     "family": "Tyers",
+     "given": "P."
+    },
+    {
+     "family": "Vince",
+     "given": "A."
+    }
+   ],
+   "date": "1993",
+   "title": "Pottery in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Parise Badoni F. 2000, Ceramiche d'impasto di età orientalizzante in Italia. Dizionari terminologici, Nuova Serie 1, Roma, Ministero per i Beni e le Attività Culturali.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Parise Badoni",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "Ceramiche d’impasto di età orientalizzante in Italia",
+   "publisher": "Ministero per i Beni e le Attività Culturali",
+   "place": "Roma",
+   "language": "ita",
+   "series": "Dizionari terminologici, Nuova Serie",
+   "series_number": "1",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Recchia G. 1999, L'analisi degli aspetti funzionali dei contenitori ceramici: un'ipotesi di percorso applicata all'età del Bronzo dell'Italia Meridionale, «Origini», 21 (1997), 207-306.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Recchia",
+     "given": "G."
+    }
+   ],
+   "date": "1999",
+   "title": "L’analisi degli aspetti funzionali dei contenitori ceramici: un’ipotesi di percorso applicata all’età del Bronzo dell’Italia Meridionale",
+   "is_part_of": [
+    "Origini"
+   ],
+   "volume": "21",
+   "pages": "207-306",
+   "language": "ita",
+   "notes": "cited «Origini», 21 (1997)",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Recchia G. 2000, La funzione dei contenitori ceramici dell'età del Bronzo nell'Italia meridionale: una prospettiva etnoarcheologica, «Archeologia Postmedievale», 4, 111-122.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Recchia",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "La funzione dei contenitori ceramici dell’età del Bronzo nell’Italia meridionale: una prospettiva etnoarcheologica",
+   "is_part_of": [
+    "Archeologia Postmedievale"
+   ],
+   "volume": "4",
+   "pages": "111-122",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Rice P.M. 1987, Pottery Analysis. A Sourcebook, Chicago, The University of Chicago Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rice",
+     "given": "P.M."
+    }
+   ],
+   "date": "1987",
+   "title": "Pottery Analysis. A Sourcebook",
+   "publisher": "The University of Chicago Press",
+   "place": "Chicago",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Semeraro G. 1997, Il sistema per la gestione dei dati archeologici. Aspetti metodologici, in D'Andria 1997, 33-56.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "date": "1997",
+   "title": "Il sistema per la gestione dei dati archeologici. Aspetti metodologici",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Metodologie di catalogazione per i Beni Culturali"
+   ],
+   "series": "BACT",
+   "series_number": "1.1",
+   "pages": "33-56",
+   "publisher": "CNR-Università di Lecce",
+   "place": "Lecce-Bari",
+   "language": "ita",
+   "xref": 5,
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Skibo J.M. 1992, Pottery Function. A Use-Alteration Perspective, Interdisciplinary Contributions to Archaeology, New York, Plenum Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Skibo",
+     "given": "J.M."
+    }
+   ],
+   "date": "1992",
+   "title": "Pottery Function. A Use-Alteration Perspective",
+   "publisher": "Plenum Press",
+   "place": "New York",
+   "language": "eng",
+   "series": "Interdisciplinary Contributions to Archaeology",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Skibo J.M., Feinman G.M. (eds.) 1999, Pottery and People: a Dynamic Interaction, Salt Lake City, The University of Utah Press.",
+   "type": "book",
+   "date": "1999",
+   "title": "Pottery and People: a Dynamic Interaction",
+   "editors": [
+    {
+     "family": "Skibo",
+     "given": "J.M."
+    },
+    {
+     "family": "Feinman",
+     "given": "G.M."
+    }
+   ],
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Smith M.F. 1985, Toward an economic interpretation of ceramics: relating vessel size and shape to use, in B.A. Nelson (ed.), Decoding Prehistoric Ceramics, Carbondale, Southern Illinois University Press, 254-309.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Smith",
+     "given": "M.F."
+    }
+   ],
+   "date": "1985",
+   "title": "Toward an economic interpretation of ceramics: relating vessel size and shape to use",
+   "editors": [
+    {
+     "family": "Nelson",
+     "given": "B.A."
+    }
+   ],
+   "is_part_of": [
+    "Decoding Prehistoric Ceramics"
+   ],
+   "pages": "254-309",
+   "publisher": "Southern Illinois University Press",
+   "place": "Carbondale",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Trigger B. 1996, Storia del pensiero archeologico, Firenze, La Nuova Italia (trad. it.).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Trigger",
+     "given": "B."
+    }
+   ],
+   "date": "1996",
+   "title": "Storia del pensiero archeologico",
+   "publisher": "La Nuova Italia",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "Italian translation",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Van der Leeuw S.E., Pritchard A.C. (eds.) 1984, The Many Dimensions of Pottery: Ceramics in Archaeology and Anthropology, Amsterdam, Universiteit van Amsterdam.",
+   "type": "book",
+   "date": "1984",
+   "title": "The Many Dimensions of Pottery: Ceramics in Archaeology and Anthropology",
+   "editors": [
+    {
+     "family": "Van der Leeuw",
+     "given": "S.E."
+    },
+    {
+     "family": "Pritchard",
+     "given": "A.C."
+    }
+   ],
+   "publisher": "Universiteit van Amsterdam",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Varien M.D., Mills B.J. 1997, Accumulations research: problems and prospects for estimating site occupation span, «Journal of Archaeological Method and Theory», 4, 2, 141-191.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Varien",
+     "given": "M.D."
+    },
+    {
+     "family": "Mills",
+     "given": "B.J."
+    }
+   ],
+   "date": "1997",
+   "title": "Accumulations research: problems and prospects for estimating site occupation span",
+   "is_part_of": [
+    "Journal of Archaeological Method and Theory"
+   ],
+   "volume": "4",
+   "issue": "2",
+   "pages": "141-191",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Yntema D.G. 1990, The Matt-Painted Pottery of Southern Italy, Galatina, Congedo Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Yntema",
+     "given": "D.G."
+    }
+   ],
+   "date": "1990",
+   "title": "The Matt-Painted Pottery of Southern Italy",
+   "publisher": "Congedo Editore",
+   "place": "Galatina",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Yntema D.G. 1991, Le ceramiche e l'artigianato del Salento fra l'età del Ferro e la romanizzazione, in Atti del XXX Convegno di Studi sulla Magna Grecia (Taranto 1990), Taranto, 139-183.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Yntema",
+     "given": "D.G."
+    }
+   ],
+   "date": "1991",
+   "title": "Le ceramiche e l’artigianato del Salento fra l’età del Ferro e la romanizzazione",
+   "is_part_of": [
+    "Atti del XXX Convegno di Studi sulla Magna Grecia (Taranto 1990)"
+   ],
+   "pages": "139-183",
+   "place": "Taranto",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Yntema D.G. 2001, Pre-Roman Valesio. Excavations of the Free University at Valesio, Prov. of Brindisi, Southern Italy. Vol. 1. The Pottery, Amsterdam, Free University.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Yntema",
+     "given": "D.G."
+    }
+   ],
+   "date": "2001",
+   "title": "Pre-Roman Valesio. Excavations of the Free University at Valesio, Prov. of Brindisi, Southern Italy. Vol. 1. The Pottery",
+   "publisher": "Free University",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

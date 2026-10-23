@@ -1,0 +1,249 @@
+{
+ "citing_aec_id": 791,
+ "source_file": "data/journal/26/791.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Angelini A., Gabrielli R. 2013, Laser scanning e photoscanning. Tecniche di rilevamento per la documentazione 3D di beni architettonici e archeologici, «Archeologia e Calcolatori», 24, 379-394.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Angelini",
+     "given": "A."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    }
+   ],
+   "date": "2013",
+   "title": "Laser scanning e photoscanning. Tecniche di rilevamento per la documentazione 3D di beni architettonici e archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "24",
+   "pages": "379-394",
+   "language": "ita",
+   "cited_aec_id": 681,
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bini M., Bertocci S. 2004, Castelli di pietre. Aspetti formali e materiali dei castelli crociati nell’area di Petra in Transgiordania, Firenze, Polistampa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bini",
+     "given": "M."
+    },
+    {
+     "family": "Bertocci",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Castelli di pietre. Aspetti formali e materiali dei castelli crociati nell’area di Petra in Transgiordania",
+   "publisher": "Polistampa",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Carpiceci M. 2012, Modelli geometrici e costruzioni grafiche per il rilevamento architettonico. Idee e proposte per una migliore gestione dei dati grafici e numerici nel rilevamento architettonico, Roma, Aracne, 33-60.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carpiceci",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Modelli geometrici e costruzioni grafiche per il rilevamento architettonico. Idee e proposte per una migliore gestione dei dati grafici e numerici nel rilevamento architettonico",
+   "pages": "33-60",
+   "publisher": "Aracne",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "pages cited without a container",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Cundari C. 2012, Il rilievo architettonico. Ragioni. Fondamenti. Applicazioni, Roma, Kappa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cundari",
+     "given": "C."
+    }
+   ],
+   "date": "2012",
+   "title": "Il rilievo architettonico. Ragioni. Fondamenti. Applicazioni",
+   "publisher": "Kappa",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Gabrielli R., Angelini A., Giunta E., Taffi E. 2012, From 2D to 3D data: Al-Wu’ayra’s crusader castle, in Proceedings of 5th International Congress on Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Istanbul 2011), I, Roma, 71-77.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Angelini",
+     "given": "A."
+    },
+    {
+     "family": "Giunta",
+     "given": "E."
+    },
+    {
+     "family": "Taffi",
+     "given": "E."
+    }
+   ],
+   "date": "2012",
+   "title": "From 2D to 3D data: Al-Wu’ayra’s crusader castle",
+   "is_part_of": [
+    "Proceedings of 5th International Congress on Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Istanbul 2011)"
+   ],
+   "volume": "I",
+   "pages": "71-77",
+   "place": "Roma",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Migliari R. 2009, Geometria descrittiva - Tecniche e applicazioni, II, Novara, CittàStudi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Migliari",
+     "given": "R."
+    }
+   ],
+   "date": "2009",
+   "title": "Geometria descrittiva - Tecniche e applicazioni",
+   "volume": "II",
+   "publisher": "CittàStudi",
+   "place": "Novara",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Paris L. 2012, Fotogrammetria e/o foto modellazione, in A. Casale, Geometria descrittiva e rappresentazione digitale. Memoria e innovazione, Roma, Kappa, 55-62.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Paris",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Casale",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Fotogrammetria e/o foto modellazione",
+   "is_part_of": [
+    "Geometria descrittiva e rappresentazione digitale. Memoria e innovazione"
+   ],
+   "pages": "55-62",
+   "publisher": "Kappa",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "container cited \"in A. Casale,\" without (ed.): recorded as editor",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Sgrenzaroli M., Vassena G.P.M. 2007, Tecniche di rilevamento tridimensionale tramite laser scanner. Volume 1 – Introduzione generale, Brescia, Starrylink.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sgrenzaroli",
+     "given": "M."
+    },
+    {
+     "family": "Vassena",
+     "given": "G.P.M."
+    }
+   ],
+   "date": "2007",
+   "title": "Tecniche di rilevamento tridimensionale tramite laser scanner. Introduzione generale",
+   "volume": "1",
+   "publisher": "Starrylink",
+   "place": "Brescia",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Vannini G., Vanni Desideri A., Nucciotti M., Tonghini C. 2003, Medieval Petra. Archaeology of the Crusader-Ayyubid fortified installations in Trans-Jordan. Archaeological Mission of the University of Florence, in G. Vannini et al. (eds.), Civiltà del Passato, dialogo del presente: Missioni di ricerca italiana in Giordania (Amman 2002), Amman, 181-200.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vannini",
+     "given": "G."
+    },
+    {
+     "family": "Vanni Desideri",
+     "given": "A."
+    },
+    {
+     "family": "Nucciotti",
+     "given": "M."
+    },
+    {
+     "family": "Tonghini",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Vannini",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Medieval Petra. Archaeology of the Crusader-Ayyubid fortified installations in Trans-Jordan. Archaeological Mission of the University of Florence",
+   "is_part_of": [
+    "Civiltà del Passato, dialogo del presente: Missioni di ricerca italiana in Giordania (Amman 2002)"
+   ],
+   "pages": "181-200",
+   "place": "Amman",
+   "language": "eng",
+   "notes": "editors cited as \"G. Vannini et al.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Vannini G., Nucciotti M. 2009, Da Petra a Shawbak. Archeologia di una frontiera, Firenze, Giunti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Vannini",
+     "given": "G."
+    },
+    {
+     "family": "Nucciotti",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Da Petra a Shawbak. Archeologia di una frontiera",
+   "publisher": "Giunti",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

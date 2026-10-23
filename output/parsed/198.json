@@ -1,0 +1,67 @@
+{
+ "citing_aec_id": 198,
+ "source_file": "data/journal/7/198.md",
+ "references": [
+  {
+   "raw": "COLOMBO L., SELVINI A. 1993, Strumenti e applicazioni della fotogrammetria digitale, «Bollettino SIFET», 4.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Colombo",
+     "given": "L."
+    },
+    {
+     "family": "Selvini",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Strumenti e applicazioni della fotogrammetria digitale",
+   "is_part_of": [
+    "Bollettino SIFET"
+   ],
+   "volume": "4",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "COLOMBO L. 1993, Applicazioni dell'informazione digitale nel rilievo di sistemi territoriali e beni ambientali, «Bollettino SIFET», 1.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Colombo",
+     "given": "L."
+    }
+   ],
+   "type": "article",
+   "title": "Applicazioni dell'informazione digitale nel rilievo di sistemi territoriali e beni ambientali",
+   "is_part_of": [
+    "Bollettino SIFET"
+   ],
+   "volume": "1",
+   "language": "ita",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "COLOMBO L. 1994, Tecnologie digitali per il territorio, «Pixel», 1.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Colombo",
+     "given": "L."
+    }
+   ],
+   "type": "article",
+   "title": "Tecnologie digitali per il territorio",
+   "is_part_of": [
+    "Pixel"
+   ],
+   "volume": "1",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,968 @@
+{
+ "citing_aec_id": 394,
+ "source_file": "data/journal/15/394.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ANDERSON M.A. 2003, QTVR and the preservation of Pompeii Regio VI: Using digital technologies to document and preserve archaeological sites, in DOERR, SARRIS 2003, 21-28.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Anderson",
+     "given": "M.A."
+    }
+   ],
+   "date": "2003",
+   "title": "QTVR and the preservation of Pompeii Regio VI: Using digital technologies to document and preserve archaeological sites",
+   "editors": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "The Digital Heritage of Archaeology. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 30th Conference (Heraklion 2002)"
+   ],
+   "pages": "21-28",
+   "publisher": "Archive of Monuments and Publications, Hellenic Ministry of Culture",
+   "language": "eng",
+   "xref": 10,
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "ANDERSON M.A. 2004, Computer games and archaeological reconstruction: the low cost VR, in FISCHER AUSSERER et al. 2004, 521-524.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Anderson",
+     "given": "M.A."
+    }
+   ],
+   "date": "2004",
+   "title": "Computer games and archaeological reconstruction: the low cost VR",
+   "editors": [
+    {
+     "family": "Fischer Ausserer",
+     "given": "K."
+    },
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Goriany",
+     "given": "M."
+    },
+    {
+     "family": "Karlhuber-Vöckl",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Enter the Past. The E-way into the Four Dimensions of Cultural Heritage. Proceedings of the 31st CAA Conference (Vienna 2003)"
+   ],
+   "pages": "521-524",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "1227",
+   "xref": 12,
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "AVERN G. 2003, Small- and medium- scale 3D modelling in archaeology, Workshop held at Vienna, CAA 2003 (unpublished).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Avern",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Small- and medium- scale 3D modelling in archaeology",
+   "language": "eng",
+   "is_part_of": [
+    "Workshop held at Vienna, CAA 2003"
+   ],
+   "notes": "unpublished workshop",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "AVERN G. 2004, The orthographic approximation – A simple geometrical model for avoiding perspective error in construction photomosaics, in FISCHER AUSSERER et al. 2004, 405-408.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Avern",
+     "given": "G."
+    }
+   ],
+   "date": "2004",
+   "title": "The orthographic approximation – A simple geometrical model for avoiding perspective error in construction photomosaics",
+   "editors": [
+    {
+     "family": "Fischer Ausserer",
+     "given": "K."
+    },
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Goriany",
+     "given": "M."
+    },
+    {
+     "family": "Karlhuber-Vöckl",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Enter the Past. The E-way into the Four Dimensions of Cultural Heritage. Proceedings of the 31st CAA Conference (Vienna 2003)"
+   ],
+   "pages": "405-408",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "1227",
+   "xref": 12,
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BARCELÓ J.A., VICENTE O. 2004, Some problems in archaeological excavation 3D modelling, in FISCHER AUSSERER et al. 2004, 400-404.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Vicente",
+     "given": "O."
+    }
+   ],
+   "date": "2004",
+   "title": "Some problems in archaeological excavation 3D modelling",
+   "editors": [
+    {
+     "family": "Fischer Ausserer",
+     "given": "K."
+    },
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Goriany",
+     "given": "M."
+    },
+    {
+     "family": "Karlhuber-Vöckl",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Enter the Past. The E-way into the Four Dimensions of Cultural Heritage. Proceedings of the 31st CAA Conference (Vienna 2003)"
+   ],
+   "pages": "400-404",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "1227",
+   "xref": 12,
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "CANTONE F. 2002, 3D standards for scientific communication, in G. BURENHULT, J. ARVIDSSON, Archaeological Informatics: Pushing the Envelope. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 29th Conference (Gotland 2001), Oxford, Archaeopress.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "3D standards for scientific communication",
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    },
+    {
+     "family": "Arvidsson",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "Archaeological Informatics: Pushing the Envelope. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 29th Conference (Gotland 2001)"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "editors not marked \"(eds.)\" in the citation; no pages",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Corpus Topographicum Pompeianum 1986, Ricca Maps, Roma, H. Van der Poel.",
+   "type": "other",
+   "date": "1986",
+   "title": "Corpus Topographicum Pompeianum, Ricca Maps",
+   "publisher": "H. Van der Poel",
+   "place": "Roma",
+   "language": "lat",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "COX N. 2000, Use of Excel for Statistical Analysis (http://www.agresearch.cri.nz/Science/Statistics/exceluse1.htm, retrieved on 2nd June 2004).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Cox",
+     "given": "N."
+    }
+   ],
+   "date": "2000",
+   "title": "Use of Excel for Statistical Analysis",
+   "uri": "http://www.agresearch.cri.nz/Science/Statistics/exceluse1.htm",
+   "language": "eng",
+   "notes": "retrieved 2 June 2004",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "DOBBINS J. 1997, Pompeii Forum Project Website (http://pompeii.virginia.edu/pompeii/, retrieved on 2nd June, 2004).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Dobbins",
+     "given": "J."
+    }
+   ],
+   "date": "1997",
+   "title": "Pompeii Forum Project Website",
+   "uri": "http://pompeii.virginia.edu/pompeii/",
+   "language": "eng",
+   "notes": "retrieved 2 June 2004",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "DOERR M., SARRIS A. (eds.) 2003, The Digital Heritage of Archaeology. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 30th Conference (Heraklion 2002), Archive of Monuments and Publications, Hellenic Ministry of Culture.",
+   "type": "proceedings",
+   "date": "2003",
+   "title": "The Digital Heritage of Archaeology. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 30th Conference (Heraklion 2002)",
+   "editors": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "publisher": "Archive of Monuments and Publications, Hellenic Ministry of Culture",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "ESCHEBACH H. 1970, Stadtplan von Pompeji im Maßstab 1:1000, Mainz, P. von Zabern.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Eschebach",
+     "given": "H."
+    }
+   ],
+   "date": "1970",
+   "title": "Stadtplan von Pompeji im Maßstab 1:1000",
+   "publisher": "P. von Zabern",
+   "place": "Mainz",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "FISCHER AUSSERER K., BÖRNER W., GORIANY M., KARLHUBER-VÖCKL L. (eds.) 2004, Enter the Past. The E-way into the Four Dimensions of Cultural Heritage. Proceedings of the 31st CAA Conference (Vienna 2003), BAR International Series 1227, Oxford, Archaeopress.",
+   "type": "proceedings",
+   "date": "2004",
+   "title": "Enter the Past. The E-way into the Four Dimensions of Cultural Heritage. Proceedings of the 31st CAA Conference (Vienna 2003)",
+   "editors": [
+    {
+     "family": "Fischer Ausserer",
+     "given": "K."
+    },
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Goriany",
+     "given": "M."
+    },
+    {
+     "family": "Karlhuber-Vöckl",
+     "given": "L."
+    }
+   ],
+   "series": "BAR International Series",
+   "series_number": "1227",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "FORTE M., PESCARIN S., PIETRONI E., RUFA C., BACILIERI D., BORRA D. 2004, The multimedia room of the Scrovegni Chapel: a virtual heritage project, in FISCHER AUSSERER et al. 2004, 529-532.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    },
+    {
+     "family": "Pietroni",
+     "given": "E."
+    },
+    {
+     "family": "Rufa",
+     "given": "C."
+    },
+    {
+     "family": "Bacilieri",
+     "given": "D."
+    },
+    {
+     "family": "Borra",
+     "given": "D."
+    }
+   ],
+   "date": "2004",
+   "title": "The multimedia room of the Scrovegni Chapel: a virtual heritage project",
+   "editors": [
+    {
+     "family": "Fischer Ausserer",
+     "given": "K."
+    },
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Goriany",
+     "given": "M."
+    },
+    {
+     "family": "Karlhuber-Vöckl",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Enter the Past. The E-way into the Four Dimensions of Cultural Heritage. Proceedings of the 31st CAA Conference (Vienna 2003)"
+   ],
+   "pages": "529-532",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "1227",
+   "xref": 12,
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Game Studies = The international journal of computer game research (http://gamestudies.org/).",
+   "type": "other",
+   "title": "Game Studies. The international journal of computer game research",
+   "uri": "http://gamestudies.org/",
+   "language": "eng",
+   "notes": "cited as \"Game Studies\"; no year",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "KITCHENS S.A. 1998, The QuickTime VR Book: Creating Immersive Imaging on your Desktop, Berkeley, Peachpit.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kitchens",
+     "given": "S.A."
+    }
+   ],
+   "date": "1998",
+   "title": "The QuickTime VR Book: Creating Immersive Imaging on your Desktop",
+   "publisher": "Peachpit",
+   "place": "Berkeley",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "KNUSEL L. 1998, On the accuracy of statistical distributions in Microsoft Excel 97, «Computational Statistics & Data Analysis», 26, 375-377.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Knusel",
+     "given": "L."
+    }
+   ],
+   "date": "1998",
+   "title": "On the accuracy of statistical distributions in Microsoft Excel 97",
+   "is_part_of": [
+    "Computational Statistics & Data Analysis"
+   ],
+   "volume": "26",
+   "pages": "375-377",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "KRAZNIEWICZ L. 2000, Immersive imaging technologies for archaeological research, in J.A. BARCELÓ, M. FORTE, D.H. SANDERS (eds.), Virtual Reality in Archaeology, BAR International Series 843, Oxford, Archaeopress.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Krazniewicz",
+     "given": "L."
+    }
+   ],
+   "date": "2000",
+   "title": "Immersive imaging technologies for archaeological research",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "843",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "LING R. 1997, The Insula of the Menander at Pompeii, Oxford, Clarendon Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ling",
+     "given": "R."
+    }
+   ],
+   "date": "1997",
+   "title": "The Insula of the Menander at Pompeii",
+   "publisher": "Clarendon Press",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "MCCULLOUGH B.D., WILSON B. 1998, On the accuracy of statistical distributions in Microsoft Excel 97, «Computational Statistics & Data Analysis», 26, 375-377.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "McCullough",
+     "given": "B.D."
+    },
+    {
+     "family": "Wilson",
+     "given": "B."
+    }
+   ],
+   "date": "1998",
+   "title": "On the accuracy of statistical distributions in Microsoft Excel 97",
+   "is_part_of": [
+    "Computational Statistics & Data Analysis"
+   ],
+   "volume": "26",
+   "pages": "375-377",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "MEISTER C., ASMUS B. 2004, QuickTime Virtual Reality (QTVR) and the documentation of rock art localities, in FISCHER AUSSERER et al. 2004, 548-551.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Meister",
+     "given": "C."
+    },
+    {
+     "family": "Asmus",
+     "given": "B."
+    }
+   ],
+   "date": "2004",
+   "title": "QuickTime Virtual Reality (QTVR) and the documentation of rock art localities",
+   "editors": [
+    {
+     "family": "Fischer Ausserer",
+     "given": "K."
+    },
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Goriany",
+     "given": "M."
+    },
+    {
+     "family": "Karlhuber-Vöckl",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Enter the Past. The E-way into the Four Dimensions of Cultural Heritage. Proceedings of the 31st CAA Conference (Vienna 2003)"
+   ],
+   "pages": "548-551",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "1227",
+   "xref": 12,
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "MEISTER M., BOSS M. 2004, On using state of the art computer game engines to visualize archaeological structures in interactive teaching and research, in FISCHER AUSSERER et al. 2004, 505-509.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Meister",
+     "given": "M."
+    },
+    {
+     "family": "Boss",
+     "given": "M."
+    }
+   ],
+   "date": "2004",
+   "title": "On using state of the art computer game engines to visualize archaeological structures in interactive teaching and research",
+   "editors": [
+    {
+     "family": "Fischer Ausserer",
+     "given": "K."
+    },
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Goriany",
+     "given": "M."
+    },
+    {
+     "family": "Karlhuber-Vöckl",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Enter the Past. The E-way into the Four Dimensions of Cultural Heritage. Proceedings of the 31st CAA Conference (Vienna 2003)"
+   ],
+   "pages": "505-509",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "1227",
+   "xref": 12,
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "MERLO S. 2004, The “Contemporary Mind” 3D GIS as a challenge in excavation practice, in FISCHER AUSSERER et al. 2004, 276-280.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Merlo",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "The “Contemporary Mind” 3D GIS as a challenge in excavation practice",
+   "editors": [
+    {
+     "family": "Fischer Ausserer",
+     "given": "K."
+    },
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Goriany",
+     "given": "M."
+    },
+    {
+     "family": "Karlhuber-Vöckl",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Enter the Past. The E-way into the Four Dimensions of Cultural Heritage. Proceedings of the 31st CAA Conference (Vienna 2003)"
+   ],
+   "pages": "276-280",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "1227",
+   "xref": 12,
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "MURRY W.P., MAEKAWA K. 1996, Reliability evaluation of 3M magneto-optic media (http://www.osta.org/technology/pdf/mo_disk_life.pdf, retrieved on 10th September 2003).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Murry",
+     "given": "W.P."
+    },
+    {
+     "family": "Maekawa",
+     "given": "K."
+    }
+   ],
+   "date": "1996",
+   "title": "Reliability evaluation of 3M magneto-optic media",
+   "uri": "http://www.osta.org/technology/pdf/mo_disk_life.pdf",
+   "language": "eng",
+   "notes": "retrieved 10 September 2003",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "NEWMAN M. 2003, Auditing Heritage Data – Ensuring Quality, in DOERR, SARRIS 2003, 385-390.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Newman",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Auditing Heritage Data – Ensuring Quality",
+   "editors": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "The Digital Heritage of Archaeology. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 30th Conference (Heraklion 2002)"
+   ],
+   "pages": "385-390",
+   "publisher": "Archive of Monuments and Publications, Hellenic Ministry of Culture",
+   "language": "eng",
+   "xref": 10,
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Oxford ArchDigital Ltd. 2002, OAD projects online (http://www.oxarchdigital.com/, retrieved on 30th September 2003).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Oxford ArchDigital Ltd.",
+     "given": ""
+    }
+   ],
+   "date": "2002",
+   "title": "OAD projects online",
+   "uri": "http://www.oxarchdigital.com/",
+   "language": "eng",
+   "notes": "retrieved 30 September 2003",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "RICHENS P. (no date), Playing Games (http://www.arct.cam.ac.uk/research/pubs/pdfs/rich00a.pdf), retrieved on 22nd December 2002.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Richens",
+     "given": "P."
+    }
+   ],
+   "title": "Playing Games",
+   "uri": "http://www.arct.cam.ac.uk/research/pubs/pdfs/rich00a.pdf",
+   "language": "eng",
+   "notes": "\"no date\" in the citation; retrieved 22 December 2002",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "SCAGLIARINI CORLÀITA D., GUIDAZZOLI A., SALMON CINOTTI T. et al. 2003, Archeologia virtuale e supporti informatici nella ricostruzione di una domus di Pompei, «Archeologia e Calcolatori», 14, 237-274.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scagliarini Corlàita",
+     "given": "D."
+    },
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    },
+    {
+     "family": "Salmon Cinotti",
+     "given": "T."
+    }
+   ],
+   "date": "2003",
+   "title": "Archeologia virtuale e supporti informatici nella ricostruzione di una domus di Pompei",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "14",
+   "pages": "237-274",
+   "language": "ita",
+   "cited_aec_id": 362,
+   "notes": "\"et al.\" in the citation: only first three authors recorded",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "SCAGLIARINI CORLÀITA D., CORALLINI A., VECCHIETTI E. (forthcoming), The role of scientific reconstruction in Virtual Archaeology: education, communication and valorization. The “Pompei – Insula del Centenario (IX 8) Project”, in Proceedings of the 32nd CAA Conference (Prato 2004).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scagliarini Corlàita",
+     "given": "D."
+    },
+    {
+     "family": "Corallini",
+     "given": "A."
+    },
+    {
+     "family": "Vecchietti",
+     "given": "E."
+    }
+   ],
+   "date": "2010",
+   "title": "The role of scientific reconstruction in Virtual Archaeology: education, communication and valorization. The “Pompei – Insula del Centenario (IX 8) Project”",
+   "editors": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Hermon",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Beyond the Artifact. Proceedings of CAA2004 (Prato, 13-17 April 2004)"
+   ],
+   "pages": "347-350",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://proceedings.caaconference.org/?p=4532"
+   },
+   "notes": "cited forthcoming (Proceedings of the 32nd CAA Conference, Prato 2004); published Budapest 2010; author spelled \"Corallini\" in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "The CD-Info Company Website 1998, CD-R Media Longevity (http://www.cd-info.com/CDIC/Technology/CD-R/Media/Longevity.html), retrieved on 10th September 2003.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "The CD-Info Company",
+     "given": ""
+    }
+   ],
+   "date": "1998",
+   "title": "CD-R Media Longevity",
+   "uri": "http://www.cd-info.com/CDIC/Technology/CD-R/Media/Longevity.html",
+   "language": "eng",
+   "notes": "retrieved 10 September 2003; cited as \"The CD-Info Company Website\"",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "TRONCHIN F., BONILLA D. 2002, Quick Time VR tour of Pompeii Website (http://hypergraphia.com/francesca/QTVR.htm), retrieved on 2nd June 2004.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Tronchin",
+     "given": "F."
+    },
+    {
+     "family": "Bonilla",
+     "given": "D."
+    }
+   ],
+   "date": "2002",
+   "title": "Quick Time VR tour of Pompeii Website",
+   "uri": "http://hypergraphia.com/francesca/QTVR.htm",
+   "language": "eng",
+   "notes": "retrieved 2 June 2004",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "WINTERS J.C. 2003, Towards Sustainable Electronic Publishing for Archaeology, in DOERR, SARRIS 2003, 415-420.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Winters",
+     "given": "J.C."
+    }
+   ],
+   "date": "2003",
+   "title": "Towards Sustainable Electronic Publishing for Archaeology",
+   "editors": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "The Digital Heritage of Archaeology. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 30th Conference (Heraklion 2002)"
+   ],
+   "pages": "415-420",
+   "publisher": "Archive of Monuments and Publications, Hellenic Ministry of Culture",
+   "language": "eng",
+   "xref": 10,
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "The CD-Info Company Website 1998, CD-R Media Longevity, http://www.cd-info.com/CDIC/Technology/CD-R/Media/Longevity.html, retrieved on 10th September 2003.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "The CD-Info Company",
+     "given": ""
+    }
+   ],
+   "date": "1998",
+   "title": "CD-R Media Longevity",
+   "uri": "http://www.cd-info.com/CDIC/Technology/CD-R/Media/Longevity.html",
+   "language": "eng",
+   "notes": "retrieved 10 September 2003; same entry repeated in the bibliography",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "WHITLEY T.G. 2003, GIS as an Interpretive Tool for Addressing Risk Management and Cognitive Spatial Dynamics in a Slave Society, in DOERR, SARRIS 2003, 209-218.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Whitley",
+     "given": "T.G."
+    }
+   ],
+   "date": "2003",
+   "title": "GIS as an Interpretive Tool for Addressing Risk Management and Cognitive Spatial Dynamics in a Slave Society",
+   "editors": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "The Digital Heritage of Archaeology. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 30th Conference (Heraklion 2002)"
+   ],
+   "pages": "209-218",
+   "publisher": "Archive of Monuments and Publications, Hellenic Ministry of Culture",
+   "language": "eng",
+   "xref": 10,
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "ZEMANEK H. 2004, Archaeological Information – An Information Scientist Looks on Archaeology, in FISCHER AUSSERER et al. 2004, 16-29.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zemanek",
+     "given": "H."
+    }
+   ],
+   "date": "2004",
+   "title": "Archaeological Information – An Information Scientist Looks on Archaeology",
+   "editors": [
+    {
+     "family": "Fischer Ausserer",
+     "given": "K."
+    },
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Goriany",
+     "given": "M."
+    },
+    {
+     "family": "Karlhuber-Vöckl",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Enter the Past. The E-way into the Four Dimensions of Cultural Heritage. Proceedings of the 31st CAA Conference (Vienna 2003)"
+   ],
+   "pages": "16-29",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "1227",
+   "xref": 12,
+   "confidence": "high"
+  }
+ ]
+}

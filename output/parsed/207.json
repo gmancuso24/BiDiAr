@@ -1,0 +1,213 @@
+{
+ "citing_aec_id": 207,
+ "source_file": "data/journal/7/207.md",
+ "references": [
+  {
+   "raw": "AA.VV. 1994, R.A.M.A. Remote Access to Museum Archives, RAMA Consortium, The Hague.",
+   "date": "1994",
+   "type": "book",
+   "title": "R.A.M.A. Remote Access to Museum Archives",
+   "place": "The Hague",
+   "publisher": "RAMA Consortium",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "GLYN R. 1983, The Beazley Archive Computer Project, in AA.VV., Image et céramique grecque, Actes du Colloque de Rouen (25-26 novembre 1982), Rouen, 67-79.",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Glyn",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "The Beazley Archive Computer Project",
+   "pages": "67-79",
+   "is_part_of": [
+    "Image et céramique grecque, Actes du Colloque de Rouen (25-26 novembre 1982)"
+   ],
+   "place": "Rouen",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "KURTZ D.C. 1983, The Berlin Painter, Oxford, Clarendon Press, 5.",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Kurtz",
+     "given": "D.C."
+    }
+   ],
+   "type": "book",
+   "title": "The Berlin Painter",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3,
+   "place": "Oxford",
+   "publisher": "Clarendon Press",
+   "pages": "5"
+  },
+  {
+   "raw": "MARZI M.G. 1975, Kylix attica firmata da Euarchos nella collezione Vagnonville, «Prospettiva», 3, 45-48.",
+   "date": "1975",
+   "creators": [
+    {
+     "family": "Marzi",
+     "given": "M.G."
+    }
+   ],
+   "type": "article",
+   "title": "Kylix attica firmata da Euarchos nella collezione Vagnonville",
+   "is_part_of": [
+    "Prospettiva"
+   ],
+   "pages": "45-48",
+   "volume": "3",
+   "language": "ita",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "MARZI M.G. c.s., Un esempio di \"antica pittura ad olio\" nelle Collezioni Medicee degli Uffizi, \"Studi Miscellanei\" in onore di L. Guerrini, Roma, L'Erma di Bretschneider, (in corso di stampa).",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Marzi",
+     "given": "M.G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Un esempio di antica pittura ad olio nelle Collezioni Medicee degli Uffizi",
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "ita",
+   "confidence": "high",
+   "position": 5,
+   "is_part_of": [
+    "\"Studi Miscellanei\" in onore di L. Guerrini"
+   ],
+   "place": "Roma",
+   "publisher": "L'Erma di Bretschneider",
+   "notes": "searched author + title: no publication found"
+  },
+  {
+   "raw": "PARIBENI E. 1953, Museo Nazionale Romano, Sculture greche del V secolo - Originali e repliche, Roma, Poligrafico dello Stato.",
+   "date": "1953",
+   "creators": [
+    {
+     "family": "Paribeni",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "Museo Nazionale Romano, Sculture greche del V secolo - Originali e repliche",
+   "language": "ita",
+   "confidence": "high",
+   "position": 6,
+   "place": "Roma",
+   "publisher": "Poligrafico dello Stato"
+  },
+  {
+   "raw": "PARIBENI E. 1959, Catalogo delle sculture di Cirene - Statue e rilievi di carattere religioso, Roma, L'Erma di Bretschneider.",
+   "date": "1959",
+   "creators": [
+    {
+     "family": "Paribeni",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "Catalogo delle sculture di Cirene - Statue e rilievi di carattere religioso",
+   "place": "Roma",
+   "publisher": "L'Erma di Bretschneider",
+   "language": "ita",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "PARIBENI E. 1969, La perplessità di Athena. Per una corretta lettura del frontone di Pyrgi, «Archeologia Classica», 21, 53-57.",
+   "date": "1969",
+   "creators": [
+    {
+     "family": "Paribeni",
+     "given": "E."
+    }
+   ],
+   "type": "article",
+   "title": "La perplessità di Athena. Per una corretta lettura del frontone di Pyrgi",
+   "is_part_of": [
+    "Archeologia Classica"
+   ],
+   "pages": "53-57",
+   "volume": "21",
+   "language": "ita",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "PARIBENI E. 1976, Ancora sulla coppa Vagnonville 44, «Prospettiva», 5, 52-53.",
+   "date": "1976",
+   "creators": [
+    {
+     "family": "Paribeni",
+     "given": "E."
+    }
+   ],
+   "type": "article",
+   "title": "Ancora sulla coppa Vagnonville 44",
+   "is_part_of": [
+    "Prospettiva"
+   ],
+   "pages": "52-53",
+   "volume": "5",
+   "language": "ita",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "PARIBENI E. 1981, Di Diana Nemorensis e di Artemide Efesia, «Dialoghi di Archeologia», N.S., 3, 41-48.",
+   "date": "1981",
+   "creators": [
+    {
+     "family": "Paribeni",
+     "given": "E."
+    }
+   ],
+   "type": "article",
+   "title": "Di Diana Nemorensis e di Artemide Efesia",
+   "is_part_of": [
+    "Dialoghi di Archeologia"
+   ],
+   "pages": "41-48",
+   "language": "ita",
+   "confidence": "high",
+   "position": 10,
+   "volume": "N.S. 3"
+  },
+  {
+   "raw": "ROBERTSON C.M. 1976, The Beazley Archive, «Athens Annals of Archaeology», 9, 3-4.",
+   "date": "1976",
+   "creators": [
+    {
+     "family": "Robertson",
+     "given": "C.M."
+    }
+   ],
+   "type": "article",
+   "title": "The Beazley Archive",
+   "is_part_of": [
+    "Athens Annals of Archaeology"
+   ],
+   "pages": "3-4",
+   "volume": "9",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  }
+ ]
+}

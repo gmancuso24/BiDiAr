@@ -1,0 +1,1114 @@
+{
+ "citing_aec_id": 1417,
+ "source_file": "data/journal/36/1417.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Alberti L. 1567, Isole appartenenti alla Italia, di fra Leandro Alberti bolognese. Aggiuntovi di nuovo i disegni di quelle, et collocati alli suoi luoghi, a commune utilità et sodisfattione dei lettori, Venetia, appresso Lodovico Avanzi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Alberti",
+     "given": "L."
+    }
+   ],
+   "date": "1567",
+   "title": "Isole appartenenti alla Italia, di fra Leandro Alberti bolognese. Aggiuntovi di nuovo i disegni di quelle, et collocati alli suoi luoghi, a commune utilità et sodisfattione dei lettori",
+   "publisher": "appresso Lodovico Avanzi",
+   "place": "Venetia",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Apollonio F. 2016, Classification schemes for visualization of uncertainty in digital hypothetical reconstruction, in S. Münster, M. Pfarr-Harfst, P. Kuroczyński, M. Ioannides (eds.), 3D Research Challenges in Cultural Heritage II. How to Manage Data and Knowledge Related to Interpretative Digital 3D Reconstructions of Cultural Heritage, New York, Springer Nature, 173-197 (https://doi.org/10.1007/978-3-319-47647-6_9).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Apollonio",
+     "given": "F."
+    }
+   ],
+   "date": "2016",
+   "title": "Classification schemes for visualization of uncertainty in digital hypothetical reconstruction",
+   "editors": [
+    {
+     "family": "Münster",
+     "given": "S."
+    },
+    {
+     "family": "Pfarr-Harfst",
+     "given": "M."
+    },
+    {
+     "family": "Kuroczyński",
+     "given": "P."
+    },
+    {
+     "family": "Ioannides",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "3D Research Challenges in Cultural Heritage II. How to Manage Data and Knowledge Related to Interpretative Digital 3D Reconstructions of Cultural Heritage"
+   ],
+   "pages": "173-197",
+   "publisher": "Springer Nature",
+   "place": "New York",
+   "doi": "10.1007/978-3-319-47647-6_9",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Attenni M., Bianchini C., Griffo M., Senatore L.J. 2022, HBIM meta-modelling: 50 (and More) shades of grey, «ISPRS International Journal of Geo-Information», 11, 468 (https://doi.org/10.3390/ijgi11090468).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Attenni",
+     "given": "M."
+    },
+    {
+     "family": "Bianchini",
+     "given": "C."
+    },
+    {
+     "family": "Griffo",
+     "given": "M."
+    },
+    {
+     "family": "Senatore",
+     "given": "L.J."
+    }
+   ],
+   "date": "2022",
+   "title": "HBIM meta-modelling: 50 (and More) shades of grey",
+   "is_part_of": [
+    "ISPRS International Journal of Geo-Information"
+   ],
+   "volume": "11",
+   "pages": "468",
+   "doi": "10.3390/ijgi11090468",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Bedros V., Scirocco E. 2019, Liturgical screens, East and West. Liminality and spiritual experience, in K. Doležalová, I. Foletti (eds.), The Notion of Liminality and Medieval Sacred Space, «Convivium Supplementum», 68-89.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bedros",
+     "given": "V."
+    },
+    {
+     "family": "Scirocco",
+     "given": "E."
+    }
+   ],
+   "date": "2019",
+   "title": "Liturgical screens, East and West. Liminality and spiritual experience",
+   "editors": [
+    {
+     "family": "Doležalová",
+     "given": "K."
+    },
+    {
+     "family": "Foletti",
+     "given": "I."
+    }
+   ],
+   "is_part_of": [
+    "The Notion of Liminality and Medieval Sacred Space"
+   ],
+   "series": "Convivium Supplementum",
+   "pages": "68-89",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Camerlenghi N., Michalsky T., Scirocco E. 2023, Introduction, in N. Camerlenghi, T. Michalsky, E. Scirocco (eds.), Visualizing Complexities. Practices and Heuristics of Digital Models in Art History, Rome, Bibliotheca Hertziana (https://doi.org/10.48431/hsah.02).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Camerlenghi",
+     "given": "N."
+    },
+    {
+     "family": "Michalsky",
+     "given": "T."
+    },
+    {
+     "family": "Scirocco",
+     "given": "E."
+    }
+   ],
+   "date": "2023",
+   "title": "Introduction",
+   "editors": [
+    {
+     "family": "Camerlenghi",
+     "given": "N."
+    },
+    {
+     "family": "Michalsky",
+     "given": "T."
+    },
+    {
+     "family": "Scirocco",
+     "given": "E."
+    }
+   ],
+   "is_part_of": [
+    "Visualizing Complexities. Practices and Heuristics of Digital Models in Art History"
+   ],
+   "publisher": "Bibliotheca Hertziana",
+   "place": "Rome",
+   "doi": "10.48431/hsah.02",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Cardano M., Ortalda F. 2020, L’analisi qualitativa, Torino, UTET Università. Cazzaro I. 2023, Uncertainty in hypothetical 3D reconstructions: Technical, visual and cultural ‘transitions’, in M. Cannella, A. Garozzo, S. Morena (eds.), Transitions. Proceedings of the 44th International Conference of Representation Disciplines Teachers,",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cardano",
+     "given": "M."
+    },
+    {
+     "family": "Ortalda",
+     "given": "F."
+    }
+   ],
+   "date": "2020",
+   "title": "L’analisi qualitativa",
+   "publisher": "UTET Università",
+   "place": "Torino",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Cardano M., Ortalda F. 2020, L’analisi qualitativa, Torino, UTET Università. Cazzaro I. 2023, Uncertainty in hypothetical 3D reconstructions: Technical, visual and cultural ‘transitions’, in M. Cannella, A. Garozzo, S. Morena (eds.), Transitions. Proceedings of the 44th International Conference of Representation Disciplines Teachers,",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cazzaro",
+     "given": "I."
+    }
+   ],
+   "date": "2023",
+   "title": "Uncertainty in hypothetical 3D reconstructions: Technical, visual and cultural ‘transitions’",
+   "editors": [
+    {
+     "family": "Cannella",
+     "given": "M."
+    },
+    {
+     "family": "Garozzo",
+     "given": "A."
+    },
+    {
+     "family": "Morena",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Transitions. Proceedings of the 44th International Conference of Representation Disciplines Teachers"
+   ],
+   "pages": "997-1007",
+   "publisher": "FrancoAngeli",
+   "place": "Milano",
+   "doi": "10.3280/oa-1016-c334",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "De Caumont N. 1418/1858, Voyage d’oultremer en Jhérusalem par le Seigneur de Caumont, l’an MCCCCXVIII. Publié pour la première fois d’après le manuscrit du Musée britannique, par le Marquis de la Grange, Paris, August Aubry.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "De Caumont",
+     "given": "N."
+    }
+   ],
+   "date": "1858",
+   "title": "Voyage d’oultremer en Jhérusalem par le Seigneur de Caumont, l’an MCCCCXVIII. Publié pour la première fois d’après le manuscrit du Musée britannique, par le Marquis de la Grange",
+   "publisher": "August Aubry",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "cited as 1418/1858"
+  },
+  {
+   "position": 9,
+   "raw": "Del Giudice M. 1702, Descrizione del real tempio e monasterio di Santa Maria Nuova di Morreale [...] di Giovan Luigi Lello, ristampata d’ordine dell’illustrissimo e reverendissimo monsignore arcivescovo abbate don Giovanni Ruano [...] opera del padre don Michele del Giudice priore cassinese, Palermo, Regia Stamperia d’Agostino Epiro.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Del Giudice",
+     "given": "M."
+    }
+   ],
+   "date": "1702",
+   "title": "Descrizione del real tempio e monasterio di Santa Maria Nuova di Morreale [...] di Giovan Luigi Lello, ristampata d’ordine dell’illustrissimo e reverendissimo monsignore arcivescovo abbate don Giovanni Ruano [...] opera del padre don Michele del Giudice priore cassinese",
+   "publisher": "Regia Stamperia d’Agostino Epiro",
+   "place": "Palermo",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Del Pozzo E., Moscardo C., Bortolami F. 2024, Let’s spill the BIMs. Riflessioni sul potenziale delle applicazioni BIM in ambito archeologico, «magazén», 5, 1, 55-74 (http://doi.org/10.30687/mag/2724-3923/2024/01/003).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Del Pozzo",
+     "given": "E."
+    },
+    {
+     "family": "Moscardo",
+     "given": "C."
+    },
+    {
+     "family": "Bortolami",
+     "given": "F."
+    }
+   ],
+   "date": "2024",
+   "title": "Let’s spill the BIMs. Riflessioni sul potenziale delle applicazioni BIM in ambito archeologico",
+   "is_part_of": [
+    "magazén"
+   ],
+   "volume": "5",
+   "issue": "1",
+   "pages": "55-74",
+   "doi": "10.30687/mag/2724-3923/2024/01/003",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "Dittelbach T. 2003, Rex imago Christi: der Dom von Monreale. Bildsprachen und Zeremoniell in Mosaikkunst und Architektur, Wiesbaden, Ludwig Reichert.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Dittelbach",
+     "given": "T."
+    }
+   ],
+   "date": "2003",
+   "title": "Rex imago Christi: der Dom von Monreale. Bildsprachen und Zeremoniell in Mosaikkunst und Architektur",
+   "publisher": "Ludwig Reichert",
+   "place": "Wiesbaden",
+   "language": "ger"
+  },
+  {
+   "position": 12,
+   "raw": "Etthingausen R., Grabar O., Jenkins-Madina M. 2001, Islamic Art and Architecture 650-1250, New Haven-London, Yale University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ettinghausen",
+     "given": "R."
+    },
+    {
+     "family": "Grabar",
+     "given": "O."
+    },
+    {
+     "family": "Jenkins-Madina",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Islamic Art and Architecture 650-1250",
+   "publisher": "Yale University Press",
+   "place": "New Haven-London",
+   "language": "eng",
+   "notes": "cited as Etthingausen"
+  },
+  {
+   "position": 13,
+   "raw": "Foschi R., Fallavolita F., Apollonio F.I. 2024, Quantifying uncertainty in hypothetical 3D reconstruction. A user-independent methodology for the calculation of average uncertainty, «Heritage», 7, 4440-4454 (https://doi.org/10.3390/heritage7080209).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Foschi",
+     "given": "R."
+    },
+    {
+     "family": "Fallavolita",
+     "given": "F."
+    },
+    {
+     "family": "Apollonio",
+     "given": "F.I."
+    }
+   ],
+   "date": "2024",
+   "title": "Quantifying uncertainty in hypothetical 3D reconstruction. A user-independent methodology for the calculation of average uncertainty",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "7",
+   "pages": "4440-4454",
+   "doi": "10.3390/heritage7080209",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Gianandrea M., Longo R. 2020, Mutuazioni, sincretismo e interculturalità in Marittima. Lo spazio sacro e gli arredi liturgici del duomo di Terracina, in M.T. Gigliozzi, M. Nuzzo (eds.), Terracina nel Medioevo: la cattedrale e la città. Atti del Convegno internazionale di studi (Terracina 2018), Roma, Viella, 83-103.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gianandrea",
+     "given": "M."
+    },
+    {
+     "family": "Longo",
+     "given": "R."
+    }
+   ],
+   "date": "2020",
+   "title": "Mutuazioni, sincretismo e interculturalità in Marittima. Lo spazio sacro e gli arredi liturgici del duomo di Terracina",
+   "editors": [
+    {
+     "family": "Gigliozzi",
+     "given": "M.T."
+    },
+    {
+     "family": "Nuzzo",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Terracina nel Medioevo: la cattedrale e la città. Atti del Convegno internazionale di studi (Terracina 2018)"
+   ],
+   "pages": "83-103",
+   "publisher": "Viella",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Gianandrea M., Scirocco E. 2018, Sistema liturgico, memoria del passato, sintesi retorica. L’arredo ecclesiastico medievale in Italia dalla Controriforma al post-Vaticano II, in I. Foletti, M. Gianandrea, S. Romano, E. Scirocco (eds.), Re-Thinking, Re-Making, Re-Living Christian Origins, Roma, Viella, 407-451.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gianandrea",
+     "given": "M."
+    },
+    {
+     "family": "Scirocco",
+     "given": "E."
+    }
+   ],
+   "date": "2018",
+   "title": "Sistema liturgico, memoria del passato, sintesi retorica. L’arredo ecclesiastico medievale in Italia dalla Controriforma al post-Vaticano II",
+   "editors": [
+    {
+     "family": "Foletti",
+     "given": "I."
+    },
+    {
+     "family": "Gianandrea",
+     "given": "M."
+    },
+    {
+     "family": "Romano",
+     "given": "S."
+    },
+    {
+     "family": "Scirocco",
+     "given": "E."
+    }
+   ],
+   "is_part_of": [
+    "Re-Thinking, Re-Making, Re-Living Christian Origins"
+   ],
+   "pages": "407-451",
+   "publisher": "Viella",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Gómez-Morón M.A., Palomar T., Alves L.C., Ortiz P., Vilarigues M., Schibille N. 2021, Christian-Muslim contacts across the Mediterranean: Byzantine glass mosaics in the Great Umayyad Mosque of Córdoba (Spain), «Journal of Archaeological Science», 129, 1-11.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gómez-Morón",
+     "given": "M.A."
+    },
+    {
+     "family": "Palomar",
+     "given": "T."
+    },
+    {
+     "family": "Alves",
+     "given": "L.C."
+    },
+    {
+     "family": "Ortiz",
+     "given": "P."
+    },
+    {
+     "family": "Vilarigues",
+     "given": "M."
+    },
+    {
+     "family": "Schibille",
+     "given": "N."
+    }
+   ],
+   "date": "2021",
+   "title": "Christian-Muslim contacts across the Mediterranean: Byzantine glass mosaics in the Great Umayyad Mosque of Córdoba (Spain)",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "129",
+   "pages": "1-11",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Gravina D.B. 1859, Il Duomo di Monreale illustrato e riportato in tavole cromo-litografiche, 2 vols., Palermo, Stabilimento Tipografico di F. Lao.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gravina",
+     "given": "D.B."
+    }
+   ],
+   "date": "1859",
+   "title": "Il Duomo di Monreale illustrato e riportato in tavole cromo-litografiche",
+   "publisher": "Stabilimento Tipografico di F. Lao",
+   "place": "Palermo",
+   "language": "ita",
+   "notes": "2 vols."
+  },
+  {
+   "position": 18,
+   "raw": "Ioannides M., Baker D., Agapiou A., Siegkas P. (eds.) 2025, 3D Research Challenges in Cultural Heritage V. Paradata, Metadata and Data Digitisation, New York, Springer Nature (https://doi.org//10.1007/978-3-031-78590-0).",
+   "type": "book",
+   "date": "2025",
+   "title": "3D Research Challenges in Cultural Heritage V. Paradata, Metadata and Data Digitisation",
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Baker",
+     "given": "D."
+    },
+    {
+     "family": "Agapiou",
+     "given": "A."
+    },
+    {
+     "family": "Siegkas",
+     "given": "P."
+    }
+   ],
+   "publisher": "Springer Nature",
+   "place": "New York",
+   "doi": "10.1007/978-3-031-78590-0",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Kant I. 1790, Critique of Judgment (ed. 1979: Immanuel Kant. Critica del Giudizio, Roma Bari Laterza), 43-90.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kant",
+     "given": "I."
+    }
+   ],
+   "date": "1790",
+   "title": "Critique of Judgment",
+   "language": "eng",
+   "notes": "cited ed. 1979: Immanuel Kant. Critica del Giudizio, Roma Bari Laterza; pp. 43-90"
+  },
+  {
+   "position": 20,
+   "raw": "Krönig W. 1965, Il Duomo di Monreale e l’architettura normanna in Sicilia, Palermo, S.F. Flaccovio Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Krönig",
+     "given": "W."
+    }
+   ],
+   "date": "1965",
+   "title": "Il Duomo di Monreale e l’architettura normanna in Sicilia",
+   "publisher": "S.F. Flaccovio Editore",
+   "place": "Palermo",
+   "language": "ita"
+  },
+  {
+   "position": 21,
+   "raw": "Kuroczyński P., Apollonio F.I., Bajena I., Cazzaro I. 2023, Scientific reference model. Defining standards, methodology and implementation of serious 3D models in archaeology, art and architectural history, «The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», XLVIII-M-2-2023, 895-902 (https://doi.org/10.5194/isprs-archives-XLVIII-M-2-2023-895-2023).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kuroczyński",
+     "given": "P."
+    },
+    {
+     "family": "Apollonio",
+     "given": "F.I."
+    },
+    {
+     "family": "Bajena",
+     "given": "I."
+    },
+    {
+     "family": "Cazzaro",
+     "given": "I."
+    }
+   ],
+   "date": "2023",
+   "title": "Scientific reference model. Defining standards, methodology and implementation of serious 3D models in archaeology, art and architectural history",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XLVIII-M-2-2023",
+   "pages": "895-902",
+   "doi": "10.5194/isprs-archives-XLVIII-M-2-2023-895-2023",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "Lello G.L. 1588, Descrittione del real tempio e monasterio di Santa Maria Nuova di Monreale, Roma, Francesco Zanetti. Lello G.L. 1596, Historia della Chiesa di Monreale, Roma, Luigi Zanetti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lello",
+     "given": "G.L."
+    }
+   ],
+   "date": "1588",
+   "title": "Descrittione del real tempio e monasterio di Santa Maria Nuova di Monreale",
+   "publisher": "Francesco Zanetti",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "Lello G.L. 1588, Descrittione del real tempio e monasterio di Santa Maria Nuova di Monreale, Roma, Francesco Zanetti. Lello G.L. 1596, Historia della Chiesa di Monreale, Roma, Luigi Zanetti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lello",
+     "given": "G.L."
+    }
+   ],
+   "date": "1596",
+   "title": "Historia della Chiesa di Monreale",
+   "publisher": "Luigi Zanetti",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 23,
+   "raw": "Longo R. 2011, Le decorazioni in opus sectile della Cappella Palatina di Palermo. Nuovi materiali per nuove ricerche, in T. Dittelbach (ed.), La Cappella Palatina a Palermo. Storia, arte, funzione, Künzelsau, Swiridoff, 344-351.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Longo",
+     "given": "R."
+    }
+   ],
+   "date": "2011",
+   "title": "Le decorazioni in opus sectile della Cappella Palatina di Palermo. Nuovi materiali per nuove ricerche",
+   "editors": [
+    {
+     "family": "Dittelbach",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "La Cappella Palatina a Palermo. Storia, arte, funzione"
+   ],
+   "pages": "344-351",
+   "publisher": "Swiridoff",
+   "place": "Künzelsau",
+   "language": "ita"
+  },
+  {
+   "position": 24,
+   "raw": "Longo R., Giarrusso R. 2014, Indagini mineralogico-petrografiche e colorimetriche su campioni di tessere bianche e di malte in opera nella chiesa di San Menna, in F. Iannotta (ed.), Intorno alla chiesa di San Menna a Sant’Agata de’ Goti, Proceedings of the Conference (Sant’Agata de’ Goti 2010), Salerno, Industria Grafica Campana, 147-160.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Longo",
+     "given": "R."
+    },
+    {
+     "family": "Giarrusso",
+     "given": "R."
+    }
+   ],
+   "date": "2014",
+   "title": "Indagini mineralogico-petrografiche e colorimetriche su campioni di tessere bianche e di malte in opera nella chiesa di San Menna",
+   "editors": [
+    {
+     "family": "Iannotta",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Intorno alla chiesa di San Menna a Sant’Agata de’ Goti, Proceedings of the Conference (Sant’Agata de’ Goti 2010)"
+   ],
+   "pages": "147-160",
+   "publisher": "Industria Grafica Campana",
+   "place": "Salerno",
+   "language": "ita"
+  },
+  {
+   "position": 25,
+   "raw": "Longo R. Giarrusso R. 2024, Indagini mineralogico-petrografiche e colorimetriche su campioni di tessere bianche e di malte in opera nella chiesa di San Menna, in F. Iannotta (ed.), Intorno alla chiesa di San Menna a Sant’Agata de’ Goti, Proceedings of the Conference (Sant’Agata de’ Goti 2010), Salerno, Industria Grafica Campana, 147-160.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Longo",
+     "given": "R."
+    },
+    {
+     "family": "Giarrusso",
+     "given": "R."
+    }
+   ],
+   "date": "2014",
+   "title": "Indagini mineralogico-petrografiche e colorimetriche su campioni di tessere bianche e di malte in opera nella chiesa di San Menna",
+   "editors": [
+    {
+     "family": "Iannotta",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Intorno alla chiesa di San Menna a Sant’Agata de’ Goti, Proceedings of the Conference (Sant’Agata de’ Goti 2010)"
+   ],
+   "pages": "147-160",
+   "publisher": "Industria Grafica Campana",
+   "place": "Salerno",
+   "language": "ita",
+   "notes": "cited as 2024 (typo for 2014); same entry as 24"
+  },
+  {
+   "position": 26,
+   "raw": "Longo R., Scirocco E. 2020, Sakralen Raum kartieren, in Forschungsbericht der Max-Planck-Gesellschaft (https://www.mpg.de/16151367/biblhertz_jb_2020?c=152805).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Longo",
+     "given": "R."
+    },
+    {
+     "family": "Scirocco",
+     "given": "E."
+    }
+   ],
+   "date": "2020",
+   "title": "Sakralen Raum kartieren",
+   "is_part_of": [
+    "Forschungsbericht der Max-Planck-Gesellschaft"
+   ],
+   "uri": "https://www.mpg.de/16151367/biblhertz_jb_2020?c=152805",
+   "language": "ger"
+  },
+  {
+   "position": 27,
+   "raw": "Longo R., Scirocco E. 2021, Il recupero del candelabro pasquale della Cattedrale di Amalfi, in F. Coden (ed.), Arredi liturgici tra Oriente e Occidente (V-XV sec.): frammenti, opere e contesti/Liturgical Furnishings Between East and West (5th-15th centuries): Fragments, Objects, and Contexts, Cinisello Balsamo, Silvana Editoriale, 422-453.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Longo",
+     "given": "R."
+    },
+    {
+     "family": "Scirocco",
+     "given": "E."
+    }
+   ],
+   "date": "2021",
+   "title": "Il recupero del candelabro pasquale della Cattedrale di Amalfi",
+   "editors": [
+    {
+     "family": "Coden",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Arredi liturgici tra Oriente e Occidente (V-XV sec.): frammenti, opere e contesti/Liturgical Furnishings Between East and West (5th-15th centuries): Fragments, Objects, and Contexts"
+   ],
+   "pages": "422-453",
+   "publisher": "Silvana Editoriale",
+   "place": "Cinisello Balsamo",
+   "language": "ita"
+  },
+  {
+   "position": 28,
+   "raw": "Longo R., Scirocco E. 2022, Arredi liturgici, maestranze e tecniche nel Regno normanno tra Amalfi e la Sicilia, in Amalfi e la Sicilia nel Medioevo. Uomini, commerci, culture, Amalfi, Centro di Cultura e Storia Amalfitana, 159-258.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Longo",
+     "given": "R."
+    },
+    {
+     "family": "Scirocco",
+     "given": "E."
+    }
+   ],
+   "date": "2022",
+   "title": "Arredi liturgici, maestranze e tecniche nel Regno normanno tra Amalfi e la Sicilia",
+   "is_part_of": [
+    "Amalfi e la Sicilia nel Medioevo. Uomini, commerci, culture"
+   ],
+   "pages": "159-258",
+   "publisher": "Centro di Cultura e Storia Amalfitana",
+   "place": "Amalfi",
+   "language": "ita"
+  },
+  {
+   "position": 29,
+   "raw": "Longo R., Scirocco E. forthcoming, Frammenti perduti e contesti recuperati: lo spazio del coro nella cattedrale normanna di Monreale, in M. Gianandrea, R. Longo, T. Michalsky, E. Scirocco (eds.), Mappare lo spazio sacro. Dal frammento al contesto, Roma, Campisano Editore.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Longo",
+     "given": "R."
+    },
+    {
+     "family": "Scirocco",
+     "given": "E."
+    }
+   ],
+   "date": "2026",
+   "title": "Frammenti perduti e contesti recuperati: lo spazio del coro nella cattedrale normanna di Monreale",
+   "editors": [
+    {
+     "family": "Gianandrea",
+     "given": "M."
+    },
+    {
+     "family": "Longo",
+     "given": "R."
+    },
+    {
+     "family": "Michalsky",
+     "given": "T."
+    },
+    {
+     "family": "Scirocco",
+     "given": "E."
+    }
+   ],
+   "is_part_of": [
+    "Mappare lo spazio sacro. Arredi liturgici dal frammento al contesto (Italia, secoli XI–XIV)"
+   ],
+   "series": "Quaderni della Bibliotheca Hertziana",
+   "series_number": "15",
+   "publisher": "Campisano Editore",
+   "place": "Roma",
+   "language": "ita",
+   "cs": {
+    "status": "resolved"
+   },
+   "notes": "cited forthcoming; found online (Bibliotheca Hertziana): vol. published 2026, essay starts p. 363, end page not found"
+  },
+  {
+   "position": 30,
+   "raw": "Münster S. et al. 2024, Handbook of Digital 3D Reconstruction of Historical Architecture, New York, Springer Nature (https://doi.org/10.1007/978-3-031-43363).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Münster",
+     "given": "S."
+    }
+   ],
+   "date": "2024",
+   "title": "Handbook of Digital 3D Reconstruction of Historical Architecture",
+   "publisher": "Springer Nature",
+   "place": "New York",
+   "doi": "10.1007/978-3-031-43363",
+   "language": "eng",
+   "notes": "cited as Münster S. et al."
+  },
+  {
+   "position": 31,
+   "raw": "Palazzo É. 2014, L’invention chrétienne des cinq sens dans la liturgie et l’art au Moyen Âge, Paris, Éditions du Cerf.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Palazzo",
+     "given": "É."
+    }
+   ],
+   "date": "2014",
+   "title": "L’invention chrétienne des cinq sens dans la liturgie et l’art au Moyen Âge",
+   "publisher": "Éditions du Cerf",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 32,
+   "raw": "Panofsky E. 1938, The history of art as a humanistic discipline, in T. Meyer Greene (ed.), The Meaning of the Humanities, New York-London, Princeton University Press, 89-118.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Panofsky",
+     "given": "E."
+    }
+   ],
+   "date": "1938",
+   "title": "The history of art as a humanistic discipline",
+   "editors": [
+    {
+     "family": "Meyer Greene",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "The Meaning of the Humanities"
+   ],
+   "pages": "89-118",
+   "publisher": "Princeton University Press",
+   "place": "New York-London",
+   "language": "eng"
+  },
+  {
+   "position": 33,
+   "raw": "Papadopoulos C. 2024, A leap of faith: Revisiting paradata in 3D scholarship, in I. Huvila, L. Andersson, O. Sköld (eds.), Perspectives on Paradata. Research and Practice of Documenting Process Knowledge, New York, Springer Nature, 61-86 (https://doi.org/10.1007/978-3-031-53946-6_4).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Papadopoulos",
+     "given": "C."
+    }
+   ],
+   "date": "2024",
+   "title": "A leap of faith: Revisiting paradata in 3D scholarship",
+   "editors": [
+    {
+     "family": "Huvila",
+     "given": "I."
+    },
+    {
+     "family": "Andersson",
+     "given": "L."
+    },
+    {
+     "family": "Sköld",
+     "given": "O."
+    }
+   ],
+   "is_part_of": [
+    "Perspectives on Paradata. Research and Practice of Documenting Process Knowledge"
+   ],
+   "pages": "61-86",
+   "publisher": "Springer Nature",
+   "place": "New York",
+   "doi": "10.1007/978-3-031-53946-6_4",
+   "language": "eng"
+  },
+  {
+   "position": 34,
+   "raw": "Pentcheva B.V. 2017, Hagia Sophia. Sound, Space, and Spirit in Byzantium, University Park, PA, The Pennsylvania State University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pentcheva",
+     "given": "B.V."
+    }
+   ],
+   "date": "2017",
+   "title": "Hagia Sophia. Sound, Space, and Spirit in Byzantium",
+   "publisher": "The Pennsylvania State University Press",
+   "place": "University Park, PA",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "Piva P. (ed.) 2006, L’arte medievale nel contesto (300-1300): funzioni, iconografia, tecniche, Milano, Jaca Book.",
+   "type": "book",
+   "date": "2006",
+   "title": "L’arte medievale nel contesto (300-1300): funzioni, iconografia, tecniche",
+   "editors": [
+    {
+     "family": "Piva",
+     "given": "P."
+    }
+   ],
+   "publisher": "Jaca Book",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 36,
+   "raw": "Russell B. 1914, Mysticism and logic, «Hibbert Journal», 12, 780-803.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Russell",
+     "given": "B."
+    }
+   ],
+   "date": "1914",
+   "title": "Mysticism and logic",
+   "is_part_of": [
+    "Hibbert Journal"
+   ],
+   "volume": "12",
+   "pages": "780-803",
+   "language": "eng"
+  },
+  {
+   "position": 37,
+   "raw": "Schirò G. 2009, Il rilievo dell’abbazia del 1590, in A.A. Belfiore (ed.), Il duomo di Monreale. Architettura di luce e icona, Palermo, Abadir, 231-241.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Schirò",
+     "given": "G."
+    }
+   ],
+   "date": "2009",
+   "title": "Il rilievo dell’abbazia del 1590",
+   "editors": [
+    {
+     "family": "Belfiore",
+     "given": "A.A."
+    }
+   ],
+   "is_part_of": [
+    "Il duomo di Monreale. Architettura di luce e icona"
+   ],
+   "pages": "231-241",
+   "publisher": "Abadir",
+   "place": "Palermo",
+   "language": "ita"
+  },
+  {
+   "position": 38,
+   "raw": "Scirocco E. 2010, Arredi liturgici dei secoli XI-XIII in Campania: le cattedrali di Salerno, Ravello, Amalfi, Caserta Vecchia, Capua, Doctoral Thesis, Università degli Studi di Napoli Federico II.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Scirocco",
+     "given": "E."
+    }
+   ],
+   "date": "2010",
+   "title": "Arredi liturgici dei secoli XI-XIII in Campania: le cattedrali di Salerno, Ravello, Amalfi, Caserta Vecchia, Capua",
+   "publisher": "Università degli Studi di Napoli Federico II",
+   "language": "ita",
+   "notes": "Doctoral Thesis"
+  },
+  {
+   "position": 39,
+   "raw": "Scirocco E. 2016, Liturgical installations in the Cathedral of Salerno: The double ambo in its regional context between Sicilian models and local liturgy, in G. Boto Varela, J.E.A. Kroesen (eds.), Romanesque Cathedrals in Mediterranean Europe (11th-12th centuries). Architecture, Ritual and Urban Context, Turnhout, Brepols, 205-221.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scirocco",
+     "given": "E."
+    }
+   ],
+   "date": "2016",
+   "title": "Liturgical installations in the Cathedral of Salerno: The double ambo in its regional context between Sicilian models and local liturgy",
+   "editors": [
+    {
+     "family": "Boto Varela",
+     "given": "G."
+    },
+    {
+     "family": "Kroesen",
+     "given": "J.E.A."
+    }
+   ],
+   "is_part_of": [
+    "Romanesque Cathedrals in Mediterranean Europe (11th-12th centuries). Architecture, Ritual and Urban Context"
+   ],
+   "pages": "205-221",
+   "publisher": "Brepols",
+   "place": "Turnhout",
+   "language": "eng"
+  },
+  {
+   "position": 40,
+   "raw": "Scirocco E. 2020, Sculpture and liturgy: Monuments and art histories of Southern Italy (c. 1150-1250), and beyond, in G. Boto Varela, M. Serrano, J. Mcneill (eds.), Emerging Naturalism. Contexts and Narratives of the European Sculpture 1160-1210, Turnhout, Brepols, 127-148.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scirocco",
+     "given": "E."
+    }
+   ],
+   "date": "2020",
+   "title": "Sculpture and liturgy: Monuments and art histories of Southern Italy (c. 1150-1250), and beyond",
+   "editors": [
+    {
+     "family": "Boto Varela",
+     "given": "G."
+    },
+    {
+     "family": "Serrano",
+     "given": "M."
+    },
+    {
+     "family": "Mcneill",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "Emerging Naturalism. Contexts and Narratives of the European Sculpture 1160-1210"
+   ],
+   "pages": "127-148",
+   "publisher": "Brepols",
+   "place": "Turnhout",
+   "language": "eng"
+  },
+  {
+   "position": 41,
+   "raw": "Zorić V. 2009, L’arredo liturgico fisso nelle chiese di età normanna: un aspetto trascurato dalla storiografia architettonica, in M. Re, C. Rognoni (eds.), Bizantino-Sicula V, Giorgio di Antiochia. L’arte della politica in Sicilia nel XII secolo tra Bisanzio e l’Islam, Quaderni",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zorić",
+     "given": "V."
+    }
+   ],
+   "date": "2009",
+   "title": "L’arredo liturgico fisso nelle chiese di età normanna: un aspetto trascurato dalla storiografia architettonica",
+   "editors": [
+    {
+     "family": "Re",
+     "given": "M."
+    },
+    {
+     "family": "Rognoni",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Bizantino-Sicula V, Giorgio di Antiochia. L’arte della politica in Sicilia nel XII secolo tra Bisanzio e l’Islam"
+   ],
+   "series": "Quaderni dell’Istituto siciliano di studi bizantini e neoellenici",
+   "pages": "85-124",
+   "place": "Palermo",
+   "language": "ita"
+  }
+ ],
+ "skipped": [
+  {
+   "position": 7,
+   "raw": "Milano, FrancoAngeli, 997-1007 (https://doi.org/10.3280/oa-1016-c334).",
+   "reason": "continuation of 6"
+  },
+  {
+   "position": 42,
+   "raw": "dell’Istituto siciliano di studi bizantini e neoellenici, Palermo, 85-124.",
+   "reason": "continuation of 41"
+  }
+ ]
+}

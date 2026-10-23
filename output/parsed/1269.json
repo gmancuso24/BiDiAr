@@ -1,0 +1,994 @@
+{
+ "citing_aec_id": 1269,
+ "source_file": "data/journal/34/1269.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Agapiou A. 2020, Detecting looting activity through earth observation multi-temporal analysis over the archaeological site of Apamea (Syria) during 2011-2012, «Journal of Computer Applications in Archaeology», 3, 1, 219-237.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Agapiou",
+     "given": "A."
+    }
+   ],
+   "date": "2020",
+   "title": "Detecting looting activity through earth observation multi-temporal analysis over the archaeological site of Apamea (Syria) during 2011-2012",
+   "is_part_of": [
+    "Journal of Computer Applications in Archaeology"
+   ],
+   "volume": "3",
+   "issue": "1",
+   "pages": "219-237",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Akkermans P.M.M.G. 2013, Living space. Temporality and community segmentation: Interpreting Late Neolithic settlement in Northern Syria, in O.P. Nieuwenhuyse, R. Bernbeck, P.M.M.G. Akkermans, J. Rogasch (eds.), The Late Neolithic of Upper Mesopotamia, Turnhout, Brepols, 63-75.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Akkermans",
+     "given": "P.M.M.G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Nieuwenhuyse",
+     "given": "O.P."
+    },
+    {
+     "family": "Bernbeck",
+     "given": "R."
+    },
+    {
+     "family": "Akkermans",
+     "given": "P.M.M.G."
+    },
+    {
+     "family": "Rogasch",
+     "given": "J."
+    }
+   ],
+   "date": "2013",
+   "title": "Living space. Temporality and community segmentation: Interpreting Late Neolithic settlement in Northern Syria",
+   "is_part_of": [
+    "The Late Neolithic of Upper Mesopotamia"
+   ],
+   "pages": "63-75",
+   "publisher": "Brepols",
+   "place": "Turnhout",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Altaweeel M., Squitieri A. 2019, Finding a relatively flat archaeological site with minimal ceramics: A case study from Iraqi Kurdistan, «Journal of Field Archaeology», 44, 8, 523-537.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Altaweel",
+     "given": "M."
+    },
+    {
+     "family": "Squitieri",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "title": "Finding a relatively flat archaeological site with minimal ceramics: A case study from Iraqi Kurdistan",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "volume": "44",
+   "issue": "8",
+   "pages": "523-537",
+   "language": "eng",
+   "notes": "'Altaweeel' corrected to Altaweel",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bezdek J.C. 1981, Pattern Recognition with Fuzzy Objective Function Algorithms, New York-London, Plenum Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bezdek",
+     "given": "J.C."
+    }
+   ],
+   "date": "1981",
+   "title": "Pattern Recognition with Fuzzy Objective Function Algorithms",
+   "publisher": "Plenum Press",
+   "place": "New York-London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Casana J., Cothren J. 2013, The CORONA Atlas Project: Orthorectification of CORONA satellite imagery and regional-scale archaeological exploration in the Near East, in D.C. Comer, M.J. Harrower (eds.), Mapping Archaeological Landscapes from Space, New York, Springer, 33-43.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Casana",
+     "given": "J."
+    },
+    {
+     "family": "Cothren",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Comer",
+     "given": "D.C."
+    },
+    {
+     "family": "Harrower",
+     "given": "M.J."
+    }
+   ],
+   "date": "2013",
+   "title": "The CORONA Atlas Project: Orthorectification of CORONA satellite imagery and regional-scale archaeological exploration in the Near East",
+   "is_part_of": [
+    "Mapping Archaeological Landscapes from Space"
+   ],
+   "pages": "33-43",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Forte M., Campana S. 2016, Digital Methods and Remote Sensing in Archaeology. Archaeology in the Age of Sensing, Springer, Cham.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "Digital Methods and Remote Sensing in Archaeology. Archaeology in the Age of Sensing",
+   "publisher": "Springer",
+   "place": "Cham",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Forti L., Perego A., Brandolini F., Mariani G.S., Zebari M., Nicoli K., Regattieri E., Barbaro C.C., Bonacossi D.M., Qasim H.A., Cremaschi M., Zerboni A. 2021, Geomorphology of the North-Western Kurdistan region of Iraq: Landscapes of the Zagros Mountains drained by the Tigris and Great Zab Rivers, «Journal of Maps», 17, 2, 225-236.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forti",
+     "given": "L."
+    },
+    {
+     "family": "Perego",
+     "given": "A."
+    },
+    {
+     "family": "Brandolini",
+     "given": "F."
+    },
+    {
+     "family": "Mariani",
+     "given": "G.S."
+    },
+    {
+     "family": "Zebari",
+     "given": "M."
+    },
+    {
+     "family": "Nicoli",
+     "given": "K."
+    },
+    {
+     "family": "Regattieri",
+     "given": "E."
+    },
+    {
+     "family": "Barbaro",
+     "given": "C.C."
+    },
+    {
+     "family": "Bonacossi",
+     "given": "D.M."
+    },
+    {
+     "family": "Qasim",
+     "given": "H.A."
+    },
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    },
+    {
+     "family": "Zerboni",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "Geomorphology of the North-Western Kurdistan region of Iraq: Landscapes of the Zagros Mountains drained by the Tigris and Great Zab Rivers",
+   "is_part_of": [
+    "Journal of Maps"
+   ],
+   "volume": "17",
+   "issue": "2",
+   "pages": "225-236",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Gorelick N., Hancher M., Dixon M., Ilyushchenko S., Thau D., Moore R. 2017, Google Earth Engine: Planetary-scale geospatial analysis for everyone, «Remote Sensing of Environment», 202, 18-27 (https://linkinghub.elsevier.com/retrieve/pii/S0034425717302900).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gorelick",
+     "given": "N."
+    },
+    {
+     "family": "Hancher",
+     "given": "M."
+    },
+    {
+     "family": "Dixon",
+     "given": "M."
+    },
+    {
+     "family": "Ilyushchenko",
+     "given": "S."
+    },
+    {
+     "family": "Thau",
+     "given": "D."
+    },
+    {
+     "family": "Moore",
+     "given": "R."
+    }
+   ],
+   "date": "2017",
+   "title": "Google Earth Engine: Planetary-scale geospatial analysis for everyone",
+   "is_part_of": [
+    "Remote Sensing of Environment"
+   ],
+   "volume": "202",
+   "pages": "18-27",
+   "uri": "https://linkinghub.elsevier.com/retrieve/pii/S0034425717302900",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Iamoni M., Qasim H.A. 2021, Asingeran, a Neolithic and Chalcolithic \"Iceberg\" in Northern Mesopotamia, «Origini», 43, 9-34.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Iamoni",
+     "given": "M."
+    },
+    {
+     "family": "Qasim",
+     "given": "H.A."
+    }
+   ],
+   "date": "2021",
+   "title": "Asingeran, a Neolithic and Chalcolithic \"Iceberg\" in Northern Mesopotamia",
+   "is_part_of": [
+    "Origini"
+   ],
+   "volume": "43",
+   "pages": "9-34",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Kohonen T. 1982, Self-organized formation of topologically correct feature maps, «Biological Cybernetics», 43, 1, 59-69.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kohonen",
+     "given": "T."
+    }
+   ],
+   "date": "1982",
+   "title": "Self-organized formation of topologically correct feature maps",
+   "is_part_of": [
+    "Biological Cybernetics"
+   ],
+   "volume": "43",
+   "issue": "1",
+   "pages": "59-69",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Kolinski R. 2018, An archaeological reconnaissance in the Greater Zab Area of the Iraqi Kurdistan (UGZAR) 2012-2015, in R. Salisbury, R.B. Salisbury, F. Höflmayer, T. Bürge (eds.), Proceedings of the 10th International Congress on the Archaeology of the Ancient Near East; Volume 2: Prehistoric and Historical Landscapes and Settlement Patterns (Wien 2016), Wiesbaden, Harrassowitz Verlag, 13-26.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kolinski",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Salisbury",
+     "given": "R."
+    },
+    {
+     "family": "Salisbury",
+     "given": "R.B."
+    },
+    {
+     "family": "Höflmayer",
+     "given": "F."
+    },
+    {
+     "family": "Bürge",
+     "given": "T."
+    }
+   ],
+   "date": "2018",
+   "title": "An archaeological reconnaissance in the Greater Zab Area of the Iraqi Kurdistan (UGZAR) 2012-2015",
+   "is_part_of": [
+    "Proceedings of the 10th International Congress on the Archaeology of the Ancient Near East; Volume 2: Prehistoric and Historical Landscapes and Settlement Patterns (Wien 2016)"
+   ],
+   "pages": "13-26",
+   "publisher": "Harrassowitz Verlag",
+   "place": "Wiesbaden",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Laugier E.J., Abdullatif N., Glatz C. 2022, Embedding the remote sensing monitoring of archaeological site damage at the local level: Results from the \"Archaeological practice and heritage protection in the Kurdistan Region of Iraq\" project, «PLOS ONE», 17, 6, e0269796 (https://doi.org/10.1371/journal.pone.0269796).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Laugier",
+     "given": "E.J."
+    },
+    {
+     "family": "Abdullatif",
+     "given": "N."
+    },
+    {
+     "family": "Glatz",
+     "given": "C."
+    }
+   ],
+   "date": "2022",
+   "title": "Embedding the remote sensing monitoring of archaeological site damage at the local level: Results from the \"Archaeological practice and heritage protection in the Kurdistan Region of Iraq\" project",
+   "is_part_of": [
+    "PLOS ONE"
+   ],
+   "volume": "17",
+   "issue": "6",
+   "pages": "e0269796",
+   "doi": "10.1371/journal.pone.0269796",
+   "language": "eng",
+   "notes": "e0269796 is the article number",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Laugier E.J., Casana J. 2021, Integrating satellite, UAV, and ground-based remote sensing in archaeology: An exploration of pre-modern land use in Northeastern Iraq, «Remote Sensing», 13, 24, 5119 (https://www.mdpi.com/2072-4292/13/24/5119).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Laugier",
+     "given": "E.J."
+    },
+    {
+     "family": "Casana",
+     "given": "J."
+    }
+   ],
+   "date": "2021",
+   "title": "Integrating satellite, UAV, and ground-based remote sensing in archaeology: An exploration of pre-modern land use in Northeastern Iraq",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "volume": "13",
+   "issue": "24",
+   "uri": "https://www.mdpi.com/2072-4292/13/24/5119",
+   "language": "eng",
+   "notes": "5119 is the article number",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Liss B., Howland M.D., Levy T.E. 2017, Testing Google Earth engine for the automatic identification and vectorization of archaeological features: A case study from Faynan, Jordan, «Journal of Archaeological Science: Reports», 15, 299-304 (https://linkinghub.elsevier.com/retrieve/pii/S2352409X16308082).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Liss",
+     "given": "B."
+    },
+    {
+     "family": "Howland",
+     "given": "M.D."
+    },
+    {
+     "family": "Levy",
+     "given": "T.E."
+    }
+   ],
+   "date": "2017",
+   "title": "Testing Google Earth engine for the automatic identification and vectorization of archaeological features: A case study from Faynan, Jordan",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "volume": "15",
+   "pages": "299-304",
+   "uri": "https://linkinghub.elsevier.com/retrieve/pii/S2352409X16308082",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "MacQueen J. 1967, Some methods for classification and analysis of multivariate observations, in L.M. Le Cam, J. Neyman (eds.), Proceedings of the Fifth Berkley Symposium on Mathematical Statistics and Probability, 1, Berkeley, University of California, 281-297.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "MacQueen",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Le Cam",
+     "given": "L.M."
+    },
+    {
+     "family": "Neyman",
+     "given": "J."
+    }
+   ],
+   "date": "1967",
+   "title": "Some methods for classification and analysis of multivariate observations",
+   "is_part_of": [
+    "Proceedings of the Fifth Berkley Symposium on Mathematical Statistics and Probability"
+   ],
+   "volume": "1",
+   "pages": "281-297",
+   "publisher": "University of California",
+   "place": "Berkeley",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Malinverni E.S., Pierdicca R., Bozzi C.A., Colosi F., Orazi R. 2017, Analysis and processing of Nadir and Stereo VHR Pleiadés images for 3D mapping and planning the land of Nineveh, Iraqi Kurdistan, «Geosciences», 7, 80 (https://doi.org/10.3390/geosciences7030080).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Malinverni",
+     "given": "E.S."
+    },
+    {
+     "family": "Pierdicca",
+     "given": "R."
+    },
+    {
+     "family": "Bozzi",
+     "given": "C.A."
+    },
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Orazi",
+     "given": "R."
+    }
+   ],
+   "date": "2017",
+   "title": "Analysis and processing of Nadir and Stereo VHR Pleiadés images for 3D mapping and planning the land of Nineveh, Iraqi Kurdistan",
+   "is_part_of": [
+    "Geosciences"
+   ],
+   "volume": "7",
+   "doi": "10.3390/geosciences7030080",
+   "language": "eng",
+   "notes": "80 is the article number",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Maset E., Carniel R., Crosilla F. 2015, Unsupervised classification of raw full-waveform airborne lidar data by self organizing maps, in V. Murino, E. Puppo (eds.), Image Analysis and Processing - ICIAP 2015 (Genoa 2015), Springer, Cham, 69-72 (https://doi.org/10.1007/978-3-319-23231-7_6).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Maset",
+     "given": "E."
+    },
+    {
+     "family": "Carniel",
+     "given": "R."
+    },
+    {
+     "family": "Crosilla",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Murino",
+     "given": "V."
+    },
+    {
+     "family": "Puppo",
+     "given": "E."
+    }
+   ],
+   "date": "2015",
+   "title": "Unsupervised classification of raw full-waveform airborne lidar data by self organizing maps",
+   "is_part_of": [
+    "Image Analysis and Processing - ICIAP 2015 (Genoa 2015)"
+   ],
+   "pages": "69-72",
+   "publisher": "Springer",
+   "place": "Cham",
+   "doi": "10.1007/978-3-319-23231-7_6",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Morandi Bonacossi D. 2016, The Land of Niniveh Archaeological Project. Assyrian settlement in the Niniveh hinterland: A view from the centre, in J. MacGinnis, D. Wicke, T. Greenfield (eds.), The Provincial Archaeology of the Assyrian Empire, Cambridge, McDonald Institute for Archaeological Research, 141-150.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Morandi Bonacossi",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "MacGinnis",
+     "given": "J."
+    },
+    {
+     "family": "Wicke",
+     "given": "D."
+    },
+    {
+     "family": "Greenfield",
+     "given": "T."
+    }
+   ],
+   "date": "2016",
+   "title": "The Land of Niniveh Archaeological Project. Assyrian settlement in the Niniveh hinterland: A view from the centre",
+   "is_part_of": [
+    "The Provincial Archaeology of the Assyrian Empire"
+   ],
+   "pages": "141-150",
+   "publisher": "McDonald Institute for Archaeological Research",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Morandi Bonacossi D., Iamoni M. 2015, Landscape and settlement in the Eastern Upper Iraqi Tigris and Navkur Plains (Northern Kurdistan Region, Iraq). The land of Nineveh archaeological project, seasons 2012-2013, «Iraq», 77, 9-39 (https://doi.org/10.1017/irq.2015.5).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Morandi Bonacossi",
+     "given": "D."
+    },
+    {
+     "family": "Iamoni",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "Landscape and settlement in the Eastern Upper Iraqi Tigris and Navkur Plains (Northern Kurdistan Region, Iraq). The land of Nineveh archaeological project, seasons 2012-2013",
+   "is_part_of": [
+    "Iraq"
+   ],
+   "volume": "77",
+   "pages": "9-39",
+   "doi": "10.1017/irq.2015.5",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Nieuwenhuyse O.P., Wilkinson T.J. 2008, Late Neolithic settlement in the area of Tell Beydar (NE Syria), in M. Lebeau, A. Suleiman (eds.), Beydar Studies I, Subartu XXI, Turnhout, Brepols, 267-304.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nieuwenhuyse",
+     "given": "O.P."
+    },
+    {
+     "family": "Wilkinson",
+     "given": "T.J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lebeau",
+     "given": "M."
+    },
+    {
+     "family": "Suleiman",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "Late Neolithic settlement in the area of Tell Beydar (NE Syria)",
+   "is_part_of": [
+    "Beydar Studies I"
+   ],
+   "pages": "267-304",
+   "series": "Subartu",
+   "series_number": "XXI",
+   "publisher": "Brepols",
+   "place": "Turnhout",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Pfälzner P., Sconzo P., Beutelscheiss R., Edmonds A., Glissmann B., Herdt S., Herrmann J.T., Heydari-Guran S., Kohler J., Mueller Weiner M., Puljiz I., Sharp M. 2016, The Eastern Habur archaeological survey in Iraqi Kurdistan. A preliminary report on the 2014 season, «Zeitschrift Für Orient-Archäologie», 9, 10-69.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pfälzner",
+     "given": "P."
+    },
+    {
+     "family": "Sconzo",
+     "given": "P."
+    },
+    {
+     "family": "Beutelscheiss",
+     "given": "R."
+    },
+    {
+     "family": "Edmonds",
+     "given": "A."
+    },
+    {
+     "family": "Glissmann",
+     "given": "B."
+    },
+    {
+     "family": "Herdt",
+     "given": "S."
+    },
+    {
+     "family": "Herrmann",
+     "given": "J.T."
+    },
+    {
+     "family": "Heydari-Guran",
+     "given": "S."
+    },
+    {
+     "family": "Kohler",
+     "given": "J."
+    },
+    {
+     "family": "Mueller Weiner",
+     "given": "M."
+    },
+    {
+     "family": "Puljiz",
+     "given": "I."
+    },
+    {
+     "family": "Sharp",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "The Eastern Habur archaeological survey in Iraqi Kurdistan. A preliminary report on the 2014 season",
+   "is_part_of": [
+    "Zeitschrift Für Orient-Archäologie"
+   ],
+   "volume": "9",
+   "pages": "10-69",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Pirowski T., Marciak M., Sobiech M. 2021, Potentialities and limitations of research on VHRS data: Alexander the Great's military camp at Gaugamela on the Navkur Plain in Kurdish Iraq as a test case, «Remote Sensing», 13, 5, 904 (https://www.mdpi.com/2072-4292/13/5/904).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pirowski",
+     "given": "T."
+    },
+    {
+     "family": "Marciak",
+     "given": "M."
+    },
+    {
+     "family": "Sobiech",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "Potentialities and limitations of research on VHRS data: Alexander the Great's military camp at Gaugamela on the Navkur Plain in Kurdish Iraq as a test case",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "volume": "13",
+   "issue": "5",
+   "uri": "https://www.mdpi.com/2072-4292/13/5/904",
+   "language": "eng",
+   "notes": "904 is the article number",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Poidebard R.P.A. 1934, La trace de Rome dans le désert de Syrie. Le limes de Trajan a la conquéte arabe. Recherches aériennes (1925-1932), Paris.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Poidebard",
+     "given": "R.P.A."
+    }
+   ],
+   "date": "1934",
+   "title": "La trace de Rome dans le désert de Syrie. Le limes de Trajan a la conquéte arabe. Recherches aériennes (1925-1932)",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Soroush M., Mehrtash A., Khazraee E., Ur J.A. 2020, Deep learning in archaeological remote sensing: Automated qanat detection in the Kurdistan Region of Iraq, «Remote Sensing», 12, 3, 500 (https://www.mdpi.com/2072-4292/12/3/500).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Soroush",
+     "given": "M."
+    },
+    {
+     "family": "Mehrtash",
+     "given": "A."
+    },
+    {
+     "family": "Khazraee",
+     "given": "E."
+    },
+    {
+     "family": "Ur",
+     "given": "J.A."
+    }
+   ],
+   "date": "2020",
+   "title": "Deep learning in archaeological remote sensing: Automated qanat detection in the Kurdistan Region of Iraq",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "volume": "12",
+   "issue": "3",
+   "uri": "https://www.mdpi.com/2072-4292/12/3/500",
+   "language": "eng",
+   "notes": "500 is the article number",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Starková L. 2020, Toward a high-definition remote sensing approach to the study of deserted medieval cities in the Near East, «Geosciences», 10, 369 (https://doi.org/10.3390/geosciences10090369).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Starková",
+     "given": "L."
+    }
+   ],
+   "date": "2020",
+   "title": "Toward a high-definition remote sensing approach to the study of deserted medieval cities in the Near East",
+   "is_part_of": [
+    "Geosciences"
+   ],
+   "volume": "10",
+   "doi": "10.3390/geosciences10090369",
+   "language": "eng",
+   "notes": "369 is the article number",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Titolo A. 2021, Use of time-series NDWI to monitor emerging archaeological sites: Case studies from Iraqi artificial reservoirs, «Remote Sensing», 13, 4, 786 (https://www.mdpi.com/2072-4292/13/4/786).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Titolo",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "Use of time-series NDWI to monitor emerging archaeological sites: Case studies from Iraqi artificial reservoirs",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "volume": "13",
+   "issue": "4",
+   "uri": "https://www.mdpi.com/2072-4292/13/4/786",
+   "language": "eng",
+   "notes": "786 is the article number",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Ur J., Babakr N., Palermo R., Creamer P., Soroush M., Ramand S., Nováček K. 2021, The Erbil Plain Archaeological Survey: Preliminary results, 2012-2020, «Iraq», 83, 205-243.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ur",
+     "given": "J."
+    },
+    {
+     "family": "Babakr",
+     "given": "N."
+    },
+    {
+     "family": "Palermo",
+     "given": "R."
+    },
+    {
+     "family": "Creamer",
+     "given": "P."
+    },
+    {
+     "family": "Soroush",
+     "given": "M."
+    },
+    {
+     "family": "Ramand",
+     "given": "S."
+    },
+    {
+     "family": "Nováček",
+     "given": "K."
+    }
+   ],
+   "date": "2021",
+   "title": "The Erbil Plain Archaeological Survey: Preliminary results, 2012-2020",
+   "is_part_of": [
+    "Iraq"
+   ],
+   "volume": "83",
+   "pages": "205-243",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Valente R., Maset E., Iamoni M. 2022, Archaeological site identification from open access multispectral imagery: Cloud computing applications in Northern Kurdistan (Iraq), «Archaeological Prospection», 29, 4, 1-17 (https://doi.org/10.1002/arp.1874).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Valente",
+     "given": "R."
+    },
+    {
+     "family": "Maset",
+     "given": "E."
+    },
+    {
+     "family": "Iamoni",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "Archaeological site identification from open access multispectral imagery: Cloud computing applications in Northern Kurdistan (Iraq)",
+   "is_part_of": [
+    "Archaeological Prospection"
+   ],
+   "volume": "29",
+   "issue": "4",
+   "pages": "1-17",
+   "doi": "10.1002/arp.1874",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Ward Jr. J.H. 1963, Hierarchical grouping to optimize an objective function, «Journal of the American Statistical Association», 58, 301, 236-244.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ward Jr.",
+     "given": "J.H."
+    }
+   ],
+   "date": "1963",
+   "title": "Hierarchical grouping to optimize an objective function",
+   "is_part_of": [
+    "Journal of the American Statistical Association"
+   ],
+   "volume": "58",
+   "issue": "301",
+   "pages": "236-244",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Wilkinson T. 2003, Archaeological Landscapes of the Near East, Tucson, University of Arizona.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wilkinson",
+     "given": "T."
+    }
+   ],
+   "date": "2003",
+   "title": "Archaeological Landscapes of the Near East",
+   "publisher": "University of Arizona",
+   "place": "Tucson",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Wilkinson T.J., Ur J.A., Hritz C. 2013, Settlement archaeology of Mesopotamia, in T.J. Wilkinson, G. McGuire, M. Widell, Models of Mesopotamian Landscapes. How Small-Scale Processes Contributed to the Growth of Early Civilizations, BAR International Series 2552, Oxford, Archaeopress, 34-55.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wilkinson",
+     "given": "T.J."
+    },
+    {
+     "family": "Ur",
+     "given": "J.A."
+    },
+    {
+     "family": "Hritz",
+     "given": "C."
+    }
+   ],
+   "date": "2013",
+   "title": "Settlement archaeology of Mesopotamia",
+   "is_part_of": [
+    "Models of Mesopotamian Landscapes. How Small-Scale Processes Contributed to the Growth of Early Civilizations"
+   ],
+   "pages": "34-55",
+   "series": "BAR International Series",
+   "series_number": "2552",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "chapter of the monograph by Wilkinson, McGuire, Widell (authors, not editors); only the chapter authors are recorded",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Wirth E. 1962, Agrargeographie des Irak, Hamburg.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wirth",
+     "given": "E."
+    }
+   ],
+   "date": "1962",
+   "title": "Agrargeographie des Irak",
+   "place": "Hamburg",
+   "language": "ger",
+   "confidence": "high"
+  }
+ ]
+}

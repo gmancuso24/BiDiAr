@@ -1,0 +1,399 @@
+{
+ "citing_aec_id": 163,
+ "source_file": "data/journal/7/163.md",
+ "references": [
+  {
+   "raw": "ANGLE et al. 1988, Il computer nello strato: integrazione di tecniche informatiche alla ricerca archeologica, «Quaderni dei Dialoghi di Archeologia», 4, 83-124.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Angle",
+     "given": ""
+    }
+   ],
+   "notes": "et al. in citation",
+   "type": "article",
+   "title": "Il computer nello strato: integrazione di tecniche informatiche alla ricerca archeologica",
+   "is_part_of": [
+    "Quaderni dei Dialoghi di Archeologia"
+   ],
+   "pages": "83-124",
+   "volume": "4",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "BURILLO F. (ed.) 1993, Procesos postdeposicionales, «Arqueología Espacial», 16-17.",
+   "date": "1993",
+   "editors": [
+    {
+     "family": "Burillo",
+     "given": "F."
+    }
+   ],
+   "type": "article",
+   "title": "Procesos postdeposicionales",
+   "is_part_of": [
+    "Arqueología Espacial"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 2,
+   "volume": "16-17"
+  },
+  {
+   "raw": "CREMASCHI M. 1989, Gli apporti delle scienze della terra in archeologia per la ricostruzione degli ambienti del passato, in Atti XXVII Riunione Scientifica Istituto Italiano Preistoria e Protostoria (Ferrara 17-20 novembre 1987), 339-356.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Gli apporti delle scienze della terra in archeologia per la ricostruzione degli ambienti del passato",
+   "pages": "339-356",
+   "is_part_of": [
+    "Atti XXVII Riunione Scientifica Istituto Italiano Preistoria e Protostoria (Ferrara 17-20 novembre 1987)"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "CREMASCHI M., DI LERNIA S. 1995, The transition between Late Pleistocene and Early Holocene in the Uan Afuda cave (Tadrart Acacus, Libyan Sahara). Environmental changes and human occupation, «Quaternaire», 6, (3-4), 173-189.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    },
+    {
+     "family": "Di Lernia",
+     "given": "S."
+    }
+   ],
+   "type": "article",
+   "title": "The transition between Late Pleistocene and Early Holocene in the Uan Afuda cave (Tadrart Acacus, Libyan Sahara). Environmental changes and human occupation",
+   "is_part_of": [
+    "Quaternaire"
+   ],
+   "pages": "173-189",
+   "volume": "6",
+   "issue": "3-4",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "CREMASCHI M., RODOLFI G. (edd.), 1991, Il Suolo, Roma, La Nuova Italia Scientifica.",
+   "date": "1991",
+   "editors": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    },
+    {
+     "family": "Rodolfi",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Il Suolo",
+   "place": "Roma",
+   "publisher": "La Nuova Italia Scientifica",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "GOTTARELLI A. 1987, Tecniche di documentazione dello scavo archeologico: introduzione alla videometria digitalizzata, in F. D'ANDRIA (ed.), Informatica e Archeologia Classica, Atti del Convegno Internazionale (Lecce 1986), Galatina.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Tecniche di documentazione dello scavo archeologico: introduzione alla videometria digitalizzata",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Informatica e Archeologia Classica, Atti del Convegno Internazionale (Lecce 1986)"
+   ],
+   "place": "Galatina",
+   "language": "ita",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "GOTTARELLI A. 1992, La video-documentazione elettronica dello scavo archeologico (V.M.D.). Studi ed esperienze per il progetto di una periferica dedicata, «Archeologia e Calcolatori», 3, 77-99.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "La video-documentazione elettronica dello scavo archeologico (V.M.D.). Studi ed esperienze per il progetto di una periferica dedicata",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "77-99",
+   "volume": "3",
+   "language": "ita",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "GUIDAZZOLI A., FORTE M. 1992, Archeologia e tecniche di eidologia informatica, «Archeologia e Calcolatori», 3, 37-76.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Archeologia e tecniche di eidologia informatica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "37-76",
+   "volume": "3",
+   "language": "ita",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "KUBIENA W.L. 1967, Die Mikromorphometrische Bodenanalyse, Stuttgart, Ferd. Enke Verlag.",
+   "date": "1967",
+   "creators": [
+    {
+     "family": "Kubiena",
+     "given": "W.L."
+    }
+   ],
+   "type": "book",
+   "title": "Die Mikromorphometrische Bodenanalyse",
+   "place": "Stuttgart",
+   "publisher": "Ferd. Enke Verlag",
+   "language": "ger",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "KUBIENA W.L. 1971, Discussion at the Symposium on the Age of Parent Materials and Soils (Amsterdam, Netherlands, August 10-15, 1970), in D.H. YAALON (ed.), Paleopedology: Origin, Nature and Dating of Paleosols, Jerusalem, Israel Universities Press.",
+   "date": "1971",
+   "creators": [
+    {
+     "family": "Kubiena",
+     "given": "W.L."
+    }
+   ],
+   "type": "chapter",
+   "title": "Discussion at the Symposium on the Age of Parent Materials and Soils (Amsterdam, Netherlands, August 10-15, 1970)",
+   "editors": [
+    {
+     "family": "Yaalon",
+     "given": "D.H."
+    }
+   ],
+   "is_part_of": [
+    "Paleopedology: Origin, Nature and Dating of Paleosols"
+   ],
+   "place": "Jerusalem",
+   "publisher": "Israel Universities Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "JONGERIUS A., SCHOONDERBEEK D., JAGER A. 1972, The application of Quantimet 720 in Soil Micromorphology, «Microscope», 20, 243-254.",
+   "date": "1972",
+   "creators": [
+    {
+     "family": "Jongerius",
+     "given": "A."
+    },
+    {
+     "family": "Schoonderbeek",
+     "given": "D."
+    },
+    {
+     "family": "Jager",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "The application of Quantimet 720 in Soil Micromorphology",
+   "is_part_of": [
+    "Microscope"
+   ],
+   "pages": "243-254",
+   "volume": "20",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "LEONARDI G. 1992 (ed.), Processi formativi della stratificazione archeologica, «Saltuarie dal Laboratorio del Piovego», 3, 13-47.",
+   "date": "1992",
+   "editors": [
+    {
+     "family": "Leonardi",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Processi formativi della stratificazione archeologica",
+   "is_part_of": [
+    "Saltuarie dal Laboratorio del Piovego"
+   ],
+   "pages": "13-47",
+   "volume": "3",
+   "language": "ita",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "DI LERNIA S., MANZI G. 1992, La sepoltura preistorica presso Uan Muhuggiag (H2) e le nuove ricerche nel Tadrart Acacus (Sahara libico), «Origini», XVI, 161-180.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Di Lernia",
+     "given": "S."
+    },
+    {
+     "family": "Manzi",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "La sepoltura preistorica presso Uan Muhuggiag (H2) e le nuove ricerche nel Tadrart Acacus (Sahara libico)",
+   "is_part_of": [
+    "Origini"
+   ],
+   "pages": "161-180",
+   "volume": "XVI",
+   "language": "ita",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "NASH D.T., PETRAGLIA M.D. (edd.) 1987, Natural Formation Processes and the Archaeological Record, BAR International Series 352.",
+   "date": "1987",
+   "editors": [
+    {
+     "family": "Nash",
+     "given": "D.T."
+    },
+    {
+     "family": "Petraglia",
+     "given": "M.D."
+    }
+   ],
+   "type": "book",
+   "title": "Natural Formation Processes and the Archaeological Record",
+   "series": "BAR International Series",
+   "series_number": "352",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "PROTZ R., SHIPTALO M.J., MERMUT A.R., FOX C.A. 1987, Image Analysis of Soils: Present and Future, «Geoderma», 40, 115-125.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Protz",
+     "given": "R."
+    },
+    {
+     "family": "Shiptalo",
+     "given": "M.J."
+    },
+    {
+     "family": "Mermut",
+     "given": "A.R."
+    },
+    {
+     "family": "Fox",
+     "given": "C.A."
+    }
+   ],
+   "type": "article",
+   "title": "Image Analysis of Soils: Present and Future",
+   "is_part_of": [
+    "Geoderma"
+   ],
+   "pages": "115-125",
+   "volume": "40",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "SCHIFFER M.B. 1977, Toward a unified science of the cultural past, in S. SOUTH (ed.), Research Strategies in Historical Archaeology, New York, Academic Press, 13-50.",
+   "date": "1977",
+   "creators": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "type": "chapter",
+   "title": "Toward a unified science of the cultural past",
+   "editors": [
+    {
+     "family": "South",
+     "given": "S."
+    }
+   ],
+   "pages": "13-50",
+   "is_part_of": [
+    "Research Strategies in Historical Archaeology"
+   ],
+   "place": "New York",
+   "publisher": "Academic Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 16
+  },
+  {
+   "raw": "WOOD W.R., JOHNSON D.L.J. 1978, A survey of disturbance processes in archaeological site formation, «Advances in Archaeological Method and Theory», 1, 315-381.",
+   "date": "1978",
+   "creators": [
+    {
+     "family": "Wood",
+     "given": "W.R."
+    },
+    {
+     "family": "Johnson",
+     "given": "D.L.J."
+    }
+   ],
+   "type": "article",
+   "title": "A survey of disturbance processes in archaeological site formation",
+   "is_part_of": [
+    "Advances in Archaeological Method and Theory"
+   ],
+   "pages": "315-381",
+   "volume": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 17
+  }
+ ]
+}

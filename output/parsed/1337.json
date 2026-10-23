@@ -1,0 +1,159 @@
+{
+ "citing_aec_id": 1337,
+ "source_file": "data/journal/35/1337.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Aparicio Resco P. 2022, *Hacia una nueva versión de la escala histórico-arqueológica para reconstrucciones virtuales* (https://parpatrimonioytecnologia.wordpress.com/2022/06/06/hacia-una-nueva-version-de-la-escala-de-evidencia-historico-arqueologica).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Aparicio Resco",
+     "given": "P."
+    }
+   ],
+   "date": "2022",
+   "title": "Hacia una nueva versión de la escala histórico-arqueológica para reconstrucciones virtuales",
+   "language": "spa",
+   "uri": "https://parpatrimonioytecnologia.wordpress.com/2022/06/06/hacia-una-nueva-version-de-la-escala-de-evidencia-historico-arqueologica"
+  },
+  {
+   "position": 2,
+   "raw": "Carrillo y Ancona C. 1979, *El obispado de Yucatán. Historia de su fundación y de sus obispos desde el siglo XVI hasta el XIX*, Mérida, Fondo Editorial de Yucatán.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carrillo y Ancona",
+     "given": "C."
+    }
+   ],
+   "date": "1979",
+   "title": "El obispado de Yucatán. Historia de su fundación y de sus obispos desde el siglo XVI hasta el XIX",
+   "publisher": "Fondo Editorial de Yucatán",
+   "place": "Mérida",
+   "language": "spa"
+  },
+  {
+   "position": 3,
+   "raw": "Chuchiak J.F., Duncan J. 2023, *Theatres and spaces of power in ephemeral architecture: The autos de fe of the Inquisition and the visual, spatial and physical representation of inquisitorial power, 1481-1736*, in A. Rodríguez Alcalá (ed.), *El patrimonio. Vehículo de la memoria remota y reciente*, Mérida, Universidad Anáhuac Mayab, 50-78.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Chuchiak",
+     "given": "J.F."
+    },
+    {
+     "family": "Duncan",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rodríguez Alcalá",
+     "given": "A."
+    }
+   ],
+   "date": "2023",
+   "title": "Theatres and spaces of power in ephemeral architecture: The autos de fe of the Inquisition and the visual, spatial and physical representation of inquisitorial power, 1481-1736",
+   "is_part_of": [
+    "El patrimonio. Vehículo de la memoria remota y reciente"
+   ],
+   "pages": "50-78",
+   "publisher": "Universidad Anáhuac Mayab",
+   "place": "Mérida",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Díaz de León Alcalá L.R., Ordaz Tamayo M. 2022, *Reconstrucción virtual del ex Convento de San Miguel Arcángel de Maní, Yucatán*, in A. Rodríguez Alcalá (ed.), *El Patrimonio. Vehículo de la memoria remota y reciente*, Mérida, Universidad Anáhuac Mayab, 33-44.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Díaz de León Alcalá",
+     "given": "L.R."
+    },
+    {
+     "family": "Ordaz Tamayo",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rodríguez Alcalá",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "Reconstrucción virtual del ex Convento de San Miguel Arcángel de Maní, Yucatán",
+   "is_part_of": [
+    "El patrimonio. Vehículo de la memoria remota y reciente"
+   ],
+   "pages": "33-44",
+   "publisher": "Universidad Anáhuac Mayab",
+   "place": "Mérida",
+   "language": "spa"
+  },
+  {
+   "position": 5,
+   "raw": "ICOMOS 2017, *The Seville Principles. International Principles of Virtual Archaeology*, International Forum of Virtual Archaeology, New Delhi, 1-27.",
+   "type": "other",
+   "date": "2017",
+   "title": "The Seville Principles. International Principles of Virtual Archaeology",
+   "publisher": "International Forum of Virtual Archaeology",
+   "place": "New Delhi",
+   "language": "eng",
+   "notes": "author: ICOMOS; pp. 1-27"
+  },
+  {
+   "position": 6,
+   "raw": "León Cázares M.C. 2003, *Diego de Landa*, in J.A. Ortega y Medina, R. Camelo (eds.), *Historiografía mexicana. Historiografía novohispana de tradición indígena*, I, México, Universidad Nacional Autónoma de México, Instituto de Investigaciones Históricas.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "León Cázares",
+     "given": "M.C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ortega y Medina",
+     "given": "J.A."
+    },
+    {
+     "family": "Camelo",
+     "given": "R."
+    }
+   ],
+   "date": "2003",
+   "title": "Diego de Landa",
+   "is_part_of": [
+    "Historiografía mexicana. Historiografía novohispana de tradición indígena"
+   ],
+   "volume": "I",
+   "publisher": "Universidad Nacional Autónoma de México, Instituto de Investigaciones Históricas",
+   "place": "México",
+   "language": "spa"
+  },
+  {
+   "position": 7,
+   "raw": "Scholes F.V., Adams E.B. 1938, *Don Diego Quijada, Alcalde Mayor de Yucatán, 1561-1565*, I-II, México, Antigua Librería Robredo, de José Porrúa e Hijos.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Scholes",
+     "given": "F.V."
+    },
+    {
+     "family": "Adams",
+     "given": "E.B."
+    }
+   ],
+   "date": "1938",
+   "title": "Don Diego Quijada, Alcalde Mayor de Yucatán, 1561-1565",
+   "volume": "I-II",
+   "publisher": "Antigua Librería Robredo, de José Porrúa e Hijos",
+   "place": "México",
+   "language": "spa"
+  }
+ ]
+}

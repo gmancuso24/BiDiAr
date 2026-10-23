@@ -1,0 +1,538 @@
+{
+ "citing_aec_id": 1262,
+ "source_file": "data/journal/34/1262.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Beck C., Jones G.T. 1989, *Bias and archaeological classification*, «American Antiquity», 54, 244-262 (https://doi.org/10.2307/281706).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Beck",
+     "given": "C."
+    },
+    {
+     "family": "Jones",
+     "given": "G.T."
+    }
+   ],
+   "date": "1989",
+   "title": "Bias and archaeological classification",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "54",
+   "pages": "244-262",
+   "doi": "10.2307/281706",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Casteel R.W. 1972, *Some biases in the recovery of archaeological faunal remains*, «Proceedings of the Prehistoric Society», 38, 382-388 (https://doi.org/10.1017/s0079497x00012172).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Casteel",
+     "given": "R.W."
+    }
+   ],
+   "date": "1972",
+   "title": "Some biases in the recovery of archaeological faunal remains",
+   "is_part_of": [
+    "Proceedings of the Prehistoric Society"
+   ],
+   "volume": "38",
+   "pages": "382-388",
+   "doi": "10.1017/s0079497x00012172",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Cuomo Di Caprio N. 2007, *Ceramica in archeologia, 2: Antiche tecniche di lavorazione e moderni metodi di indagine*, Roma, L'Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cuomo Di Caprio",
+     "given": "N."
+    }
+   ],
+   "date": "2007",
+   "title": "Ceramica in archeologia, 2: Antiche tecniche di lavorazione e moderni metodi di indagine",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "De Venuto G., Goffredo R., Totten D.M., Ciminale M., De Mitri C., Valenzano V. 2015, *Salapia: Storia e archeologia di una città tra mare e laguna*, «Mélanges de l'École française de Rome. Antiquité», 127, 1 (https://doi.org/10.4000/mefra.2719).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Venuto",
+     "given": "G."
+    },
+    {
+     "family": "Goffredo",
+     "given": "R."
+    },
+    {
+     "family": "Totten",
+     "given": "D.M."
+    },
+    {
+     "family": "Ciminale",
+     "given": "M."
+    },
+    {
+     "family": "De Mitri",
+     "given": "C."
+    },
+    {
+     "family": "Valenzano",
+     "given": "V."
+    }
+   ],
+   "date": "2015",
+   "title": "Salapia: Storia e archeologia di una città tra mare e laguna",
+   "is_part_of": [
+    "Mélanges de l'École française de Rome. Antiquité"
+   ],
+   "volume": "127",
+   "issue": "1",
+   "doi": "10.4000/mefra.2719",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Dibble H.L., Lin S.C., Sandgathe D.M., Turq A. 2018, *Assessing the integrity of older archeological collections: An example from La Ferrassie*, «Journal of Paleolithic Archaeology», 1, 179-201 (https://doi.org/10.1007/s41982-018-0010-1).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dibble",
+     "given": "H.L."
+    },
+    {
+     "family": "Lin",
+     "given": "S.C."
+    },
+    {
+     "family": "Sandgathe",
+     "given": "D.M."
+    },
+    {
+     "family": "Turq",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Assessing the integrity of older archeological collections: An example from La Ferrassie",
+   "is_part_of": [
+    "Journal of Paleolithic Archaeology"
+   ],
+   "volume": "1",
+   "pages": "179-201",
+   "doi": "10.1007/s41982-018-0010-1",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Dibble H.L., Raczek T.P., McPherron S.P. 2005, *Excavator bias at the site of Pech de l'Aze IV, France*, «Journal of Field Archaeology», 30, 317-328.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dibble",
+     "given": "H.L."
+    },
+    {
+     "family": "Raczek",
+     "given": "T.P."
+    },
+    {
+     "family": "McPherron",
+     "given": "S.P."
+    }
+   ],
+   "date": "2005",
+   "title": "Excavator bias at the site of Pech de l'Aze IV, France",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "volume": "30",
+   "pages": "317-328",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Drennan R.D. 2010, *Statistics for Archaeologists: A Common Sense Approach*, New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Drennan",
+     "given": "R.D."
+    }
+   ],
+   "date": "2010",
+   "title": "Statistics for Archaeologists: A Common Sense Approach",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Fish P.R. 1978, *Consistency in archaeological measurement and classification: A pilot study*, «American Antiquity», 43, 86-89 (https://doi.org/10.2307/279635).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fish",
+     "given": "P.R."
+    }
+   ],
+   "date": "1978",
+   "title": "Consistency in archaeological measurement and classification: A pilot study",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "43",
+   "pages": "86-89",
+   "doi": "10.2307/279635",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Giorgio M. 2016, *Storie [di] Ceramiche 2 - Maioliche \"arcaiche\". Atti della seconda giornata di studi in ricordo di Graziella Berti a due anni dalla scomparsa (Pisa 2015)*, Sesto Fiorentino, All'Insegna del Giglio.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Giorgio",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "Storie [di] Ceramiche 2 - Maioliche \"arcaiche\". Atti della seconda giornata di studi in ricordo di Graziella Berti a due anni dalla scomparsa (Pisa 2015)",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Sesto Fiorentino",
+   "language": "ita",
+   "notes": "cited as author without (ed.); whole proceedings volume, recorded as editor",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Graesch A.P. 2009, *Fieldworker experience and single-episode screening as sources of data recovery bias in archaeology: A case study from the Central Pacific Northwest Coast*, «American Antiquity», 74, 759-779 (https://doi.org/10.1017/s0002731600049040).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Graesch",
+     "given": "A.P."
+    }
+   ],
+   "date": "2009",
+   "title": "Fieldworker experience and single-episode screening as sources of data recovery bias in archaeology: A case study from the Central Pacific Northwest Coast",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "74",
+   "pages": "759-779",
+   "doi": "10.1017/s0002731600049040",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Greenacre M. 2021, *Correspondence Analysis in Practice*, Boca Raton, Chapman and Hall/CRC.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Greenacre",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "Correspondence Analysis in Practice",
+   "publisher": "Chapman and Hall/CRC",
+   "place": "Boca Raton",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Hawkins A.L., Stewart S.T., Banning E.B. 2003, *Interobserver bias in enumerated data from archaeological survey*, «Journal of Archaeological Science», 30, 1503-1512 (https://doi.org/10.1016/s0305-4403(03)00051-7).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hawkins",
+     "given": "A.L."
+    },
+    {
+     "family": "Stewart",
+     "given": "S.T."
+    },
+    {
+     "family": "Banning",
+     "given": "E.B."
+    }
+   ],
+   "date": "2003",
+   "title": "Interobserver bias in enumerated data from archaeological survey",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "30",
+   "pages": "1503-1512",
+   "doi": "10.1016/s0305-4403(03)00051-7",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Hodder I. 1999, *The Archaeological Process: An Introduction*, Oxford, Blackwell.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1999",
+   "title": "The Archaeological Process: An Introduction",
+   "publisher": "Blackwell",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Laganara C. 2011, *Siponto: archeologia di una città abbandonata nel Medioevo*, Foggia, C. Grenzi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Laganara",
+     "given": "C."
+    }
+   ],
+   "date": "2011",
+   "title": "Siponto: archeologia di una città abbandonata nel Medioevo",
+   "publisher": "C. Grenzi",
+   "place": "Foggia",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Lê S., Josse J., Husson F. 2008, *FactoMineR: An R package for multivariate analysis*, «Journal of Statistical Software», 25, 1-18 (https://doi.org/10.18637/jss.v025.i01).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lê",
+     "given": "S."
+    },
+    {
+     "family": "Josse",
+     "given": "J."
+    },
+    {
+     "family": "Husson",
+     "given": "F."
+    }
+   ],
+   "date": "2008",
+   "title": "FactoMineR: An R package for multivariate analysis",
+   "is_part_of": [
+    "Journal of Statistical Software"
+   ],
+   "volume": "25",
+   "pages": "1-18",
+   "doi": "10.18637/jss.v025.i01",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Mazzei M. 1999, *Siponto antica*, Foggia, C. Grenzi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mazzei",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Siponto antica",
+   "publisher": "C. Grenzi",
+   "place": "Foggia",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Payne S. 1972, *Partial recovery and sample bias: The results of some sieving experiments*, «Papers in Economic Prehistory», 1, 49-64.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Payne",
+     "given": "S."
+    }
+   ],
+   "date": "1972",
+   "title": "Partial recovery and sample bias: The results of some sieving experiments",
+   "is_part_of": [
+    "Papers in Economic Prehistory"
+   ],
+   "volume": "1",
+   "pages": "49-64",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Ritchey E.L., McGrath J.M., Gehring D. 2015, *Determining soil texture by feel*, «Agriculture and Natural Resources Publications», 139 (https://core.ac.uk/download/232575664.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ritchey",
+     "given": "E.L."
+    },
+    {
+     "family": "McGrath",
+     "given": "J.M."
+    },
+    {
+     "family": "Gehring",
+     "given": "D."
+    }
+   ],
+   "date": "2015",
+   "title": "Determining soil texture by feel",
+   "is_part_of": [
+    "Agriculture and Natural Resources Publications"
+   ],
+   "volume": "139",
+   "uri": "https://core.ac.uk/download/232575664.pdf",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Schiavariello G. 2019, *Sipontum*, in R. Cassano, M. Chelotti, G. Mastrocinque (eds.), *Paesaggi urbani della Puglia in età romana: dalla società indigena alle comunità tardoantiche*, Bari, Edipuglia, 125-139.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Schiavariello",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cassano",
+     "given": "R."
+    },
+    {
+     "family": "Chelotti",
+     "given": "M."
+    },
+    {
+     "family": "Mastrocinque",
+     "given": "G."
+    }
+   ],
+   "date": "2019",
+   "title": "Sipontum",
+   "is_part_of": [
+    "Paesaggi urbani della Puglia in età romana: dalla società indigena alle comunità tardoantiche"
+   ],
+   "pages": "125-139",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Shennan S. 1997, *Quantifying Archaeology*, Edinburgh, Edinburgh University Press, 2nd ed.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Shennan",
+     "given": "S."
+    }
+   ],
+   "date": "1997",
+   "title": "Quantifying Archaeology",
+   "publisher": "Edinburgh University Press",
+   "place": "Edinburgh",
+   "language": "eng",
+   "confidence": "high",
+   "edition": "2"
+  },
+  {
+   "position": 21,
+   "raw": "Valenzano V. 2018, *La ceramica medievale in Capitanata: Produzione e commercio tra l'XI e il XV secolo*, Bari, Edipuglia.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Valenzano",
+     "given": "V."
+    }
+   ],
+   "date": "2018",
+   "title": "La ceramica medievale in Capitanata: Produzione e commercio tra l'XI e il XV secolo",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Welch B.L. 1947, *The generalization of 'Student's' problem when several different population variances are involved*, «Biometrika», 34, 28-35 (https://doi.org/10.1093/biomet/34.1-2.28).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Welch",
+     "given": "B.L."
+    }
+   ],
+   "date": "1947",
+   "title": "The generalization of 'Student's' problem when several different population variances are involved",
+   "is_part_of": [
+    "Biometrika"
+   ],
+   "volume": "34",
+   "pages": "28-35",
+   "doi": "10.1093/biomet/34.1-2.28",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Yazici B., Yolacan S. 2007, *A comparison of various tests of normality*, «Journal of Statistical Computation and Simulation», 77, 175-183 (https://doi.org/10.1080/10629360600678310).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Yazici",
+     "given": "B."
+    },
+    {
+     "family": "Yolacan",
+     "given": "S."
+    }
+   ],
+   "date": "2007",
+   "title": "A comparison of various tests of normality",
+   "is_part_of": [
+    "Journal of Statistical Computation and Simulation"
+   ],
+   "volume": "77",
+   "pages": "175-183",
+   "doi": "10.1080/10629360600678310",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

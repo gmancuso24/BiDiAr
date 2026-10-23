@@ -1,0 +1,537 @@
+{
+ "citing_aec_id": 503,
+ "source_file": "data/journal/20/503.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV. 1995-2004, Carta Archeologica della Provincia di Siena, voll. I-VI, Siena, NIE.",
+   "type": "book",
+   "date": "1995",
+   "title": "Carta Archeologica della Provincia di Siena",
+   "volume": "I-VI",
+   "publisher": "NIE",
+   "place": "Siena",
+   "language": "ita",
+   "notes": "cited 'AA.VV. 1995-2004, ... voll. I-VI'; first year kept",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "AA.VV. 2003, I modelli nella ricerca archeologica. Il ruolo dell’informatica, Atti del Convegno Internazionale (Roma 2000), Contributi del Centro Linceo Interdisciplinare Beniamino Segre, 107, Roma.",
+   "type": "proceedings",
+   "date": "2003",
+   "title": "I modelli nella ricerca archeologica. Il ruolo dell'informatica, Atti del Convegno Internazionale (Roma 2000)",
+   "series": "Contributi del Centro Linceo Interdisciplinare Beniamino Segre",
+   "series_number": "107",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Azzena G. 1997, Questioni terminologiche - e di merito - sui GIS in archeologia, in A. Gottarelli (ed.), Sistemi Informativi e reti geografiche in archeologia: GIS-INTERNET, VII Ciclo di Lezioni sulla ricerca applicata in archeologia (Certosa di Pontignano, Siena, 1995), Firenze, All’Insegna del Giglio, 33-43.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "date": "1997",
+   "title": "Questioni terminologiche - e di merito - sui GIS in archeologia",
+   "is_part_of": [
+    "Sistemi Informativi e reti geografiche in archeologia: GIS-INTERNET, VII Ciclo di Lezioni sulla ricerca applicata in archeologia (Certosa di Pontignano, Siena, 1995)"
+   ],
+   "pages": "33-43",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Azzena G. 1999, Dal rilievo archeologico all’Atlante storico: un percorso possibile, in Archeologia senza scavo. Nuovi metodi d’indagine per la conoscenza del territorio antico, Atti della XXVIII Settimana di Studi Aquileiesi (Aquileia 1997), Trieste, 241-251.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    }
+   ],
+   "date": "1999",
+   "title": "Dal rilievo archeologico all'Atlante storico: un percorso possibile",
+   "is_part_of": [
+    "Archeologia senza scavo. Nuovi metodi d'indagine per la conoscenza del territorio antico, Atti della XXVIII Settimana di Studi Aquileiesi (Aquileia 1997)"
+   ],
+   "pages": "241-251",
+   "place": "Trieste",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Azzena G., Tascio M. 1996, Il Sistema Informativo Territoriale per la Carta Archeologica d’Italia, in M.L. Marchi, G. Sabbatini, Venusia, Forma Italiae 37, Firenze, Leo S. Olschki, 281-297.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    },
+    {
+     "family": "Tascio",
+     "given": "M."
+    }
+   ],
+   "date": "1996",
+   "title": "Il Sistema Informativo Territoriale per la Carta Archeologica d'Italia",
+   "is_part_of": [
+    "Venusia"
+   ],
+   "pages": "281-297",
+   "series": "Forma Italiae",
+   "series_number": "37",
+   "publisher": "Leo S. Olschki",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "container Venusia is a book by M.L. Marchi and G. Sabbatini (authors, not editors)",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Castagnoli F. 1974, La Carta Archeologica d’Italia e gli studi di topografia antica, in Ricognizione archeologica e documentazione cartografica, «Quaderni dell’Istituto di Topografia Antica dell’Università di Roma», 6, 7-17.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Castagnoli",
+     "given": "F."
+    }
+   ],
+   "date": "1974",
+   "title": "La Carta Archeologica d'Italia e gli studi di topografia antica",
+   "is_part_of": [
+    "Ricognizione archeologica e documentazione cartografica"
+   ],
+   "pages": "7-17",
+   "series": "Quaderni dell'Istituto di Topografia Antica dell'Università di Roma",
+   "series_number": "6",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Consalvi F. 2009, Il Celio orientale. Contributo alla Carta archeologica di Roma. Tav. VI, sett. H, Roma, Quasar.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Consalvi",
+     "given": "F."
+    }
+   ],
+   "date": "2009",
+   "title": "Il Celio orientale. Contributo alla Carta archeologica di Roma. Tav. VI, sett. H",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Guzzo P.G. 2002, Natura e storia nel territorio e nel paesaggio, Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Guzzo",
+     "given": "P.G."
+    }
+   ],
+   "date": "2002",
+   "title": "Natura e storia nel territorio e nel paesaggio",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Harris W.H. 2008, «Bryn Mawr Classical Review», 2008.02.49.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "W.H."
+    }
+   ],
+   "date": "2008",
+   "title": "Review",
+   "is_part_of": [
+    "Bryn Mawr Classical Review"
+   ],
+   "issue": "2008.02.49",
+   "language": "eng",
+   "notes": "no title in the citation; probably the review of Sommella 2006a (TIR K-32), see pos. 22",
+   "confidence": "low"
+  },
+  {
+   "position": 10,
+   "raw": "La cartografia dei beni storici, archeologici e paesistici nelle grandi aree urbane dal censimento alla tutela, Atti del Convegno (Roma 1990), Roma 1994, Quasar.",
+   "type": "proceedings",
+   "date": "1994",
+   "title": "La cartografia dei beni storici, archeologici e paesistici nelle grandi aree urbane dal censimento alla tutela, Atti del Convegno (Roma 1990)",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Martin R. 1972, Atti del Colloque international sur la cartographie archéologique et historique (Paris 1970), Tours.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Martin",
+     "given": "R."
+    }
+   ],
+   "date": "1972",
+   "title": "Atti del Colloque international sur la cartographie archéologique et historique (Paris 1970)",
+   "place": "Tours",
+   "language": "fre",
+   "notes": "R. Martin recorded as editor of the proceedings",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Pasquinucci M., Menchelli S. (eds.) 1989, La Cartografia archeologica. Problemi e prospettive. Atti del Convegno Internazionale (Pisa 1988), Pisa, Università degli Studi di Pisa.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Pasquinucci",
+     "given": "M."
+    },
+    {
+     "family": "Menchelli",
+     "given": "S."
+    }
+   ],
+   "date": "1989",
+   "title": "La Cartografia archeologica. Problemi e prospettive. Atti del Convegno Internazionale (Pisa 1988)",
+   "publisher": "Università degli Studi di Pisa",
+   "place": "Pisa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Sommella P. 1987a, Cartografia archeologica computerizzata, in F. D’Andria (ed.), Informatica e Archeologia Classica, Atti del Congresso Internazionale (Lecce 1986), Lecce, Congedo Editore, 17-30.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "date": "1987",
+   "title": "Cartografia archeologica computerizzata",
+   "is_part_of": [
+    "Informatica e Archeologia Classica, Atti del Congresso Internazionale (Lecce 1986)"
+   ],
+   "pages": "17-30",
+   "publisher": "Congedo Editore",
+   "place": "Lecce",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Sommella P. 1987b, Premessa a G. Azzena, Atri, Città antiche in Italia 1, Roma.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Premessa",
+   "is_part_of": [
+    "Atri"
+   ],
+   "series": "Città antiche in Italia",
+   "series_number": "1",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited 'Premessa a G. Azzena, Atri'; container author G. Azzena",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Sommella P. 1987c, in AA.VV., La collana “Città antiche in Italia” e il progetto per la cartografia archeologica di Padova, «Quaderni di Archeologia del Veneto», 3, 217-221.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "La collana «Città antiche in Italia» e il progetto per la cartografia archeologica di Padova",
+   "is_part_of": [
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "volume": "3",
+   "pages": "217-221",
+   "language": "ita",
+   "notes": "cited 'in AA.VV., ...'; Sommella kept as author",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Sommella P. 1989, Forma Italiae. Un progetto scientifico e uno strumento operativo, in Pasquinucci, Menchelli 1989, 291-305.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pasquinucci",
+     "given": "M."
+    },
+    {
+     "family": "Menchelli",
+     "given": "S."
+    }
+   ],
+   "date": "1989",
+   "title": "Forma Italiae. Un progetto scientifico e uno strumento operativo",
+   "is_part_of": [
+    "La Cartografia archeologica. Problemi e prospettive. Atti del Convegno Internazionale (Pisa 1988)"
+   ],
+   "pages": "291-305",
+   "publisher": "Università degli Studi di Pisa",
+   "place": "Pisa",
+   "language": "ita",
+   "xref": 12,
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Sommella P. 1990, Informatica e topografia storica: cinque anni di esperienza su un secolo di tradizione, «Archeologia e Calcolatori», 1, 211-236 (collab. G. Azzena e M. Tascio).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "date": "1990",
+   "title": "Informatica e topografia storica: cinque anni di esperienza su un secolo di tradizione",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "211-236",
+   "language": "ita",
+   "cited_aec_id": 12,
+   "notes": "cited with 'collab. G. Azzena e M. Tascio'; the AeC metadata lists them as co-authors",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Sommella P. 1992, Tecnologie avanzate e Beni Culturali. La cartografia, in Calcolatori e Scienze umane. Atti del Convegno (Roma, Accademia Nazionale dei Lincei-Fondazione IBM, 1991), Roma, ETAS, 25-32.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "date": "1992",
+   "title": "Tecnologie avanzate e Beni Culturali. La cartografia",
+   "is_part_of": [
+    "Calcolatori e Scienze umane. Atti del Convegno (Roma, Accademia Nazionale dei Lincei-Fondazione IBM, 1991)"
+   ],
+   "pages": "25-32",
+   "publisher": "ETAS",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Sommella P. 1998, Rec. a Atlante dei Siti archeologici della Toscana, «Bonner Jahrbücher», 198, 527-530.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "Rec. a Atlante dei Siti archeologici della Toscana",
+   "is_part_of": [
+    "Bonner Jahrbücher"
+   ],
+   "volume": "198",
+   "pages": "527-530",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Sommella P. 2002, Dopo Lanciani, in M.P. Guermandi (ed.), Rischio archeologico: se lo conosci lo eviti, Atti del congresso Internazionale di Studi su cartografia archeologica e tutela del territorio (Ferrara 2000), Firenze, All’Insegna del Giglio, 20-28.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "2002",
+   "title": "Dopo Lanciani",
+   "is_part_of": [
+    "Rischio archeologico: se lo conosci lo eviti, Atti del congresso Internazionale di Studi su cartografia archeologica e tutela del territorio (Ferrara 2000)"
+   ],
+   "pages": "20-28",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Sommella P. (ed.) 2006a, Tabula Imperii Romani F. K-32, Roma, Quasar.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "date": "2006",
+   "title": "Tabula Imperii Romani F. K-32",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Sommella P. 2006b, Saper leggere la TIR (Foglio K-32). A proposito di una recensione di W.V. Harris, «Mediterraneo Antico», 9, 2, 391-414.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "date": "2006",
+   "title": "Saper leggere la TIR (Foglio K-32). A proposito di una recensione di W.V. Harris",
+   "is_part_of": [
+    "Mediterraneo Antico"
+   ],
+   "volume": "9",
+   "issue": "2",
+   "pages": "391-414",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Talbert R.J.A. 1992, Mapping the classical world: major atlases and map series 1872-1990, «Journal of Roman Archaeology», 5, 5-38.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Talbert",
+     "given": "R.J.A."
+    }
+   ],
+   "date": "1992",
+   "title": "Mapping the classical world: major atlases and map series 1872-1990",
+   "is_part_of": [
+    "Journal of Roman Archaeology"
+   ],
+   "volume": "5",
+   "pages": "5-38",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Talbert R.J.A. (ed.) 2000, Barrington Atlas of the Greek and Roman World, Princeton-Oxford, Princeton University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Talbert",
+     "given": "R.J.A."
+    }
+   ],
+   "date": "2000",
+   "title": "Barrington Atlas of the Greek and Roman World",
+   "publisher": "Princeton University Press",
+   "place": "Princeton-Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Tomei M.A., Liverani P. 2005, Carta archeologica di Roma. Primo Quadrante, Roma, Quasar.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tomei",
+     "given": "M.A."
+    },
+    {
+     "family": "Liverani",
+     "given": "P."
+    }
+   ],
+   "date": "2005",
+   "title": "Carta archeologica di Roma. Primo Quadrante",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Torelli M. (ed.) 1992, Atlante dei siti archeologici della Toscana, voll. 1-2, Firenze-Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Torelli",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Atlante dei siti archeologici della Toscana",
+   "volume": "1-2",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Firenze-Roma",
+   "language": "ita",
+   "notes": "cited 'voll. 1-2'",
+   "confidence": "high"
+  }
+ ]
+}

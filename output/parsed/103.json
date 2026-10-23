@@ -1,0 +1,63 @@
+{
+ "citing_aec_id": 103,
+ "source_file": "data/journal/5/103.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "KERMORYANT A., PRAT F., ROMERO S. et al. 1988, Détection et exploration de gisements archéologiques par des techniques de prospection électrique et magnétique: Intérêts et limites. Un exemple d’application en Pays Basque, in II Congreso Internacional de Vasco, Congreso de Antropología y Arqueología, « Rev. Munibe », suplemento 6, San Sebastian, 17-24.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kermoryant",
+     "given": "A."
+    },
+    {
+     "family": "Prat",
+     "given": "F."
+    },
+    {
+     "family": "Romero",
+     "given": "S."
+    }
+   ],
+   "date": "1988",
+   "title": "Détection et exploration de gisements archéologiques par des techniques de prospection électrique et magnétique: Intérêts et limites. Un exemple d’application en Pays Basque",
+   "is_part_of": [
+    "II Congreso Internacional de Vasco, Congreso de Antropología y Arqueología",
+    "Rev. Munibe"
+   ],
+   "volume": "suplemento 6",
+   "pages": "17-24",
+   "place": "San Sebastian",
+   "language": "fre",
+   "notes": "et al. in citation",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "GONZALEZ DURANA J.M., LLANOS ACEBO H.J. 1988, Estado actual de las investigaciones arqueofísicas en la provincia de Álava: La prospección por campos eléctricos de los yacimientos arqueológicos de la Hoya e Iruña, in II Congreso Internacional de Vasco, Congreso de Antropología y Arqueología, « Rev. Munibe », suplemento 6, San Sebastian, 73-81.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gonzalez Durana",
+     "given": "J.M."
+    },
+    {
+     "family": "Llanos Acebo",
+     "given": "H.J."
+    }
+   ],
+   "date": "1988",
+   "title": "Estado actual de las investigaciones arqueofísicas en la provincia de Álava: La prospección por campos eléctricos de los yacimientos arqueológicos de la Hoya e Iruña",
+   "is_part_of": [
+    "II Congreso Internacional de Vasco, Congreso de Antropología y Arqueología",
+    "Rev. Munibe"
+   ],
+   "volume": "suplemento 6",
+   "pages": "73-81",
+   "place": "San Sebastian",
+   "language": "spa",
+   "confidence": "high"
+  }
+ ]
+}

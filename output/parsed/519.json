@@ -1,0 +1,1065 @@
+{
+ "citing_aec_id": 519,
+ "source_file": "data/journal/20/519.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Chapman H.P. 2006, Landscape Archaeology and GIS, Stroud, Tempus.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chapman",
+     "given": "H.P."
+    }
+   ],
+   "date": "2006",
+   "title": "Landscape Archaeology and GIS",
+   "language": "eng",
+   "publisher": "Tempus",
+   "place": "Stroud",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Coarelli F., Patterson H. (eds.) 2008, Mercator Placidissimus. The Tiber Valley in Antiquity. New Research in the Upper and Middle River Valley, Quaderni di Eutopia 8, Roma, Quasar.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Coarelli",
+     "given": "F."
+    },
+    {
+     "family": "Patterson",
+     "given": "H."
+    }
+   ],
+   "date": "2008",
+   "title": "Mercator Placidissimus. The Tiber Valley in Antiquity. New Research in the Upper and Middle River Valley",
+   "series": "Quaderni di Eutopia",
+   "series_number": "8",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Crow J., Turner S. in press, Unlocking historic landscapes in the Eastern Mediterranean using historic landscape characterisation, «Antiquity».",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Crow",
+     "given": "J."
+    },
+    {
+     "family": "Turner",
+     "given": "S."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Unlocking historic landscapes in the Eastern Mediterranean using historic landscape characterisation",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "web search: published 2010 as 'Unlocking historic landscapes in the Eastern Mediterranean: two pilot studies using Historic Landscape Characterisation', Antiquity 84 (323), 216-229 (Edinburgh research repository lists J. Crow, S. Turner; Cambridge page lists S. Turner first). Title differs from the citation: left unresolved for the pre-review decision",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Dalla Bona L. 2000, Protecting cultural resources through forest management planning in Ontario using archaeological predictive modelling, in Wescott, Brandon 2000, 73-100.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dalla Bona",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Wescott",
+     "given": "K.L."
+    },
+    {
+     "family": "Brandon",
+     "given": "R.J."
+    }
+   ],
+   "date": "2000",
+   "title": "Protecting cultural resources through forest management planning in Ontario using archaeological predictive modelling",
+   "is_part_of": [
+    "Practical Applications of GIS for Archaeologists: A Predictive Modelling Kit"
+   ],
+   "language": "eng",
+   "xref": 35,
+   "pages": "73-100",
+   "publisher": "Taylor and Francis",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Di Giuseppe H., Sansoni M., Williams J., Witcher R. 2002, The Sabinensis Ager revisited: a field survey in the Sabina Tiberina, «Papers of the British School at Rome», 70, 99-150.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Giuseppe",
+     "given": "H."
+    },
+    {
+     "family": "Sansoni",
+     "given": "M."
+    },
+    {
+     "family": "Williams",
+     "given": "J."
+    },
+    {
+     "family": "Witcher",
+     "given": "R."
+    }
+   ],
+   "date": "2002",
+   "title": "The Sabinensis Ager revisited: a field survey in the Sabina Tiberina",
+   "is_part_of": [
+    "Papers of the British School at Rome"
+   ],
+   "language": "eng",
+   "volume": "70",
+   "pages": "99-150",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Ebert J.I. 2000, The state of the art in “inductive” predictive modelling: seven big mistakes (and lots of smaller ones), in Wescott, Brandon 2000, 129-134.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ebert",
+     "given": "J.I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Wescott",
+     "given": "K.L."
+    },
+    {
+     "family": "Brandon",
+     "given": "R.J."
+    }
+   ],
+   "date": "2000",
+   "title": "The state of the art in inductive predictive modelling: seven big mistakes (and lots of smaller ones)",
+   "is_part_of": [
+    "Practical Applications of GIS for Archaeologists: A Predictive Modelling Kit"
+   ],
+   "language": "eng",
+   "xref": 35,
+   "pages": "129-134",
+   "publisher": "Taylor and Francis",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Espa G., Benedetti R., De Meo A., Ricci U., Espa S. 2006, GIS based models and estimation methods for the probability of archaeological site location, «Journal of Cultural Heritage», 7, 3, 147-155.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Espa",
+     "given": "G."
+    },
+    {
+     "family": "Benedetti",
+     "given": "R."
+    },
+    {
+     "family": "De Meo",
+     "given": "A."
+    },
+    {
+     "family": "Ricci",
+     "given": "U."
+    },
+    {
+     "family": "Espa",
+     "given": "S."
+    }
+   ],
+   "date": "2006",
+   "title": "GIS based models and estimation methods for the probability of archaeological site location",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "language": "eng",
+   "volume": "7",
+   "issue": "3",
+   "pages": "147-155",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Gabrielli R., Guidi A., Santoro P. 2003, Il progetto Galantina, in J.R. Brandt, X. Dupré Raventós, G. Ghini (eds.), Lazio e Sabina 1, Roma, De Luca, 109-114.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Guidi",
+     "given": "A."
+    },
+    {
+     "family": "Santoro",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brandt",
+     "given": "J.R."
+    },
+    {
+     "family": "Dupré Raventós",
+     "given": "X."
+    },
+    {
+     "family": "Ghini",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Il progetto Galantina",
+   "is_part_of": [
+    "Lazio e Sabina 1"
+   ],
+   "language": "ita",
+   "pages": "109-114",
+   "publisher": "De Luca",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Gaffney V., Stančič Z. 1991, GIS Approaches to Regional Analysis: A Case Study of the Island of Hvar, Ljubljana, Znanstveni Institut Filozofske Fakultete.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1991",
+   "title": "GIS Approaches to Regional Analysis: A Case Study of the Island of Hvar",
+   "language": "eng",
+   "publisher": "Znanstveni Institut Filozofske Fakultete",
+   "place": "Ljubljana",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "García Sanjuán L., Wheatley D.W. (eds.) 2002, Mapping the Future of the Past. Managing the Spatial Dimension of the European Archaeological Resource, Seville, Universidad de Sevilla.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "García Sanjuán",
+     "given": "L."
+    },
+    {
+     "family": "Wheatley",
+     "given": "D.W."
+    }
+   ],
+   "date": "2002",
+   "title": "Mapping the Future of the Past. Managing the Spatial Dimension of the European Archaeological Resource",
+   "language": "eng",
+   "publisher": "Universidad de Sevilla",
+   "place": "Seville",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Goodchild H. 2007, Modelling Roman Agricultural Production in the Middle Tiber Valley, Central Italy, University of Birmingham, Unpublished PhD thesis (http://etheses.bham.ac.uk/175/).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Goodchild",
+     "given": "H."
+    }
+   ],
+   "date": "2007",
+   "title": "Modelling Roman Agricultural Production in the Middle Tiber Valley, Central Italy",
+   "publisher": "University of Birmingham",
+   "uri": "http://etheses.bham.ac.uk/175/",
+   "language": "eng",
+   "notes": "Unpublished PhD thesis",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Goodchild H. 2008, Modelling the productive potential of the middle Tiber valley, in Coarelli, Patterson 2008, 769-796.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Goodchild",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Coarelli",
+     "given": "F."
+    },
+    {
+     "family": "Patterson",
+     "given": "H."
+    }
+   ],
+   "date": "2008",
+   "title": "Modelling the productive potential of the middle Tiber valley",
+   "is_part_of": [
+    "Mercator Placidissimus. The Tiber Valley in Antiquity. New Research in the Upper and Middle River Valley"
+   ],
+   "language": "eng",
+   "series": "Quaderni di Eutopia",
+   "series_number": "8",
+   "xref": 2,
+   "pages": "769-796",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Goodchild H., Witcher R.E. in press, Modelling the agricultural landscapes of Republican Italy, in J. Carlsen, E. Lo Cascio (eds.), Agricoltura e scambi nell’Italia tardo repubblicana, Bari-Roma, Edipuglia.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Goodchild",
+     "given": "H."
+    },
+    {
+     "family": "Witcher",
+     "given": "R.E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Carlsen",
+     "given": "J."
+    },
+    {
+     "family": "Lo Cascio",
+     "given": "E."
+    }
+   ],
+   "date": "2010",
+   "title": "Modelling the agricultural landscapes of Republican Italy",
+   "is_part_of": [
+    "Agricoltura e scambi nell'Italia tardo repubblicana"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://durham-repository.worktribe.com/output/1660689"
+   },
+   "notes": "c.s. resolved: published 2010, pp. 187-220 (same title, authors, editors, publisher)",
+   "pages": "187-220",
+   "publisher": "Edipuglia",
+   "place": "Bari-Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Hansen D.T. 2004, Describing GIS applications: Spatial statistics and weights of evidence extension in ArcView in the analysis of the archaeology sites in the landscape (http://www.giscafe.com/technical_papers/Papers/paper054/, accessed 15/07/2004).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Hansen",
+     "given": "D.T."
+    }
+   ],
+   "date": "2004",
+   "title": "Describing GIS applications: Spatial statistics and weights of evidence extension in ArcView in the analysis of the archaeology sites in the landscape",
+   "uri": "http://www.giscafe.com/technical_papers/Papers/paper054/",
+   "language": "eng",
+   "notes": "accessed 15/07/2004",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Ingold T. 2000, The Perception of the Environment. Essays on Livelihood, Dwelling and Skill, London-New York, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ingold",
+     "given": "T."
+    }
+   ],
+   "date": "2000",
+   "title": "The Perception of the Environment. Essays on Livelihood, Dwelling and Skill",
+   "language": "eng",
+   "publisher": "Routledge",
+   "place": "London-New York",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Kamermans H. 2000, Land evaluation as predictive modelling: a deductive approach, in Lock 2000, 124-146.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Land evaluation as predictive modelling: a deductive approach",
+   "is_part_of": [
+    "Beyond the Map. Archaeology and Spatial Technologies"
+   ],
+   "language": "eng",
+   "xref": 18,
+   "pages": "124-146",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Kay S., Witcher R.E. 2005, The Tiber Valley Project. The role of GIS and databases in field survey data integration and analysis, «Archeologia e Calcolatori», 16, 113-137.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kay",
+     "given": "S."
+    },
+    {
+     "family": "Witcher",
+     "given": "R.E."
+    }
+   ],
+   "date": "2005",
+   "title": "The Tiber Valley Project. The role of GIS and databases in field survey data integration and analysis",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "cited_aec_id": 406,
+   "notes": "cited pages 113-137; the AeC metadata has 113-127",
+   "volume": "16",
+   "pages": "113-137",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Lock G. (ed.) 2000, Beyond the Map. Archaeology and Spatial Technologies, Amsterdam, IOS Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Beyond the Map. Archaeology and Spatial Technologies",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Lock G. 2003, Using Computers in Archaeology: Towards Virtual Pasts, London, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Using Computers in Archaeology: Towards Virtual Pasts",
+   "language": "eng",
+   "publisher": "Routledge",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Lock G., Stančič Z. (eds.) 1995, Archaeology and Geographical Information Systems: A European Perspective, London, Taylor and Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Archaeology and Geographical Information Systems: A European Perspective",
+   "language": "eng",
+   "publisher": "Taylor and Francis",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Mehrer M.W., Wescott C.L. (eds.) 2006, GIS and Archaeological Site Location Modeling, London, Taylor and Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Mehrer",
+     "given": "M.W."
+    },
+    {
+     "family": "Wescott",
+     "given": "C.L."
+    }
+   ],
+   "date": "2006",
+   "title": "GIS and Archaeological Site Location Modeling",
+   "language": "eng",
+   "publisher": "Taylor and Francis",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Patterson H. (ed.) 2004, Bridging the Tiber. Approaches to Regional Archaeology in the Middle Tiber Valley, Archaeological Monographs of The British School at Rome 13, London, The British School at Rome.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Patterson",
+     "given": "H."
+    }
+   ],
+   "date": "2004",
+   "title": "Bridging the Tiber. Approaches to Regional Archaeology in the Middle Tiber Valley",
+   "series": "Archaeological Monographs of The British School at Rome",
+   "series_number": "13",
+   "publisher": "The British School at Rome",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Patterson H., Bousquet A., Di Giuseppe H., Felici F., Fontana S., Witcher R., Zampini S. 2004a, Le produzioni ceramiche nella media Valle del Tevere tra l’età repubblicana e tardo antica, «Rei Cretariae Romanae Fautores Acta», 38, 161-170.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Patterson",
+     "given": "H."
+    },
+    {
+     "family": "Bousquet",
+     "given": "A."
+    },
+    {
+     "family": "Di Giuseppe",
+     "given": "H."
+    },
+    {
+     "family": "Felici",
+     "given": "F."
+    },
+    {
+     "family": "Fontana",
+     "given": "S."
+    },
+    {
+     "family": "Witcher",
+     "given": "R."
+    },
+    {
+     "family": "Zampini",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Le produzioni ceramiche nella media Valle del Tevere tra l'età repubblicana e tardo antica",
+   "is_part_of": [
+    "Rei Cretariae Romanae Fautores Acta"
+   ],
+   "language": "ita",
+   "volume": "38",
+   "pages": "161-170",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Patterson H., Di Giuseppe H., Witcher R.E. 2004b, Three south Etrurian “crises”: first results of the Tiber Valley Project, «Papers of the British School at Rome», 72, 1-36.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Patterson",
+     "given": "H."
+    },
+    {
+     "family": "Di Giuseppe",
+     "given": "H."
+    },
+    {
+     "family": "Witcher",
+     "given": "R.E."
+    }
+   ],
+   "date": "2004",
+   "title": "Three south Etrurian crises: first results of the Tiber Valley Project",
+   "is_part_of": [
+    "Papers of the British School at Rome"
+   ],
+   "language": "eng",
+   "volume": "72",
+   "pages": "1-36",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Patterson H., Di Giuseppe H., Witcher R.E. 2004c, Progetto Tiber Valley. La Sabina e le due rive a confronto, in A. Guidi, S. Ponchia (eds.), Ricerche archeologiche in Italia e in Siria, Padova, Sargon, 67-88.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Patterson",
+     "given": "H."
+    },
+    {
+     "family": "Di Giuseppe",
+     "given": "H."
+    },
+    {
+     "family": "Witcher",
+     "given": "R.E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Guidi",
+     "given": "A."
+    },
+    {
+     "family": "Ponchia",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Progetto Tiber Valley. La Sabina e le due rive a confronto",
+   "is_part_of": [
+    "Ricerche archeologiche in Italia e in Siria"
+   ],
+   "language": "ita",
+   "pages": "67-88",
+   "publisher": "Sargon",
+   "place": "Padova",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Rua H. 2009, Geographic Information Systems in archaeological analysis: a predictive model in the detection of rural Roman villae, «Journal of Archaeological Science», 36, 2, 224-235.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rua",
+     "given": "H."
+    }
+   ],
+   "date": "2009",
+   "title": "Geographic Information Systems in archaeological analysis: a predictive model in the detection of rural Roman villae",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "language": "eng",
+   "volume": "36",
+   "issue": "2",
+   "pages": "224-235",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Sawatzky D.L., Raines G.L., Bonham-Carter G.F., Looney C.G. 2004, ArcSDM2: ArcMAP extension for spatial data modelling using Weights of Evidence, logistic regression, fuzzy logic and neural network analysis (http://www.ige.unicamp.br/sdm).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Sawatzky",
+     "given": "D.L."
+    },
+    {
+     "family": "Raines",
+     "given": "G.L."
+    },
+    {
+     "family": "Bonham-Carter",
+     "given": "G.F."
+    },
+    {
+     "family": "Looney",
+     "given": "C.G."
+    }
+   ],
+   "date": "2004",
+   "title": "ArcSDM2: ArcMAP extension for spatial data modelling using Weights of Evidence, logistic regression, fuzzy logic and neural network analysis",
+   "uri": "http://www.ige.unicamp.br/sdm",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Stančič Z., Veljanovski T. 2000, Understanding Roman settlement patterns through multi-variate statistics and predictive modelling, in Lock 2000, 147-156.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Understanding Roman settlement patterns through multi-variate statistics and predictive modelling",
+   "is_part_of": [
+    "Beyond the Map. Archaeology and Spatial Technologies"
+   ],
+   "language": "eng",
+   "xref": 18,
+   "pages": "147-156",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Terrenato N., Ammerman A.J. 1996, Visibility and site recovery in the Cecina Valley Survey, Italy, «Journal of Field Archaeology», 23, 91-109.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Terrenato",
+     "given": "N."
+    },
+    {
+     "family": "Ammerman",
+     "given": "A.J."
+    }
+   ],
+   "date": "1996",
+   "title": "Visibility and site recovery in the Cecina Valley Survey, Italy",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "language": "eng",
+   "volume": "23",
+   "pages": "91-109",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "van Hove D. 2004, Time and experience: taskscapes within GIS, «Internet Archaeology», 16 (http://intarch.ac.uk/journal/issue16/vanhove_index.html, accessed 06/09/ 2007).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "van Hove",
+     "given": "D."
+    }
+   ],
+   "date": "2004",
+   "title": "Time and experience: taskscapes within GIS",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "language": "eng",
+   "uri": "http://intarch.ac.uk/journal/issue16/vanhove_index.html",
+   "notes": "accessed 06/09/2007",
+   "volume": "16",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "van Leusen P.M. et al. 2002, Understanding digital archaeological landscapes, in P. Attema, G.J. Burgers, E. van Joolen, M. van Leusen, B. Mater (eds.), New Developments in Italian Landscape Archaeology, BAR International Series 1091, Oxford, Archaeopress, 125-152.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "van Leusen",
+     "given": "P.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Attema",
+     "given": "P."
+    },
+    {
+     "family": "Burgers",
+     "given": "G.J."
+    },
+    {
+     "family": "van Joolen",
+     "given": "E."
+    },
+    {
+     "family": "van Leusen",
+     "given": "M."
+    },
+    {
+     "family": "Mater",
+     "given": "B."
+    }
+   ],
+   "date": "2002",
+   "title": "Understanding digital archaeological landscapes",
+   "is_part_of": [
+    "New Developments in Italian Landscape Archaeology"
+   ],
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "1091",
+   "notes": "cited 'van Leusen P.M. et al.': only the first author is known",
+   "pages": "125-152",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "van Leusen M., Kamermans H. (eds.) 2005, Predictive Modelling for Archaeological Heritage Management: A Research Agenda, Nederlandse Archeologische Rapporten 29, Amersfoort, National Service for Archaeological Heritage.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "van Leusen",
+     "given": "M."
+    },
+    {
+     "family": "Kamermans",
+     "given": "H."
+    }
+   ],
+   "date": "2005",
+   "title": "Predictive Modelling for Archaeological Heritage Management: A Research Agenda",
+   "language": "eng",
+   "series": "Nederlandse Archeologische Rapporten",
+   "series_number": "29",
+   "publisher": "National Service for Archaeological Heritage",
+   "place": "Amersfoort",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Verga F. 2007, Ager Foronovanus I, Forma Italiae, vol. 44, Firenze, Leo S. Olschki Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Verga",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "Ager Foronovanus I",
+   "language": "ita",
+   "series": "Forma Italiae",
+   "series_number": "44",
+   "publisher": "Leo S. Olschki Editore",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Verhagen Ph. (ed.) 2007, Case Studies in Archaeological Predictive Modelling, Archaeological Studies Leiden University 14, Amsterdam, Leiden University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Verhagen",
+     "given": "Ph."
+    }
+   ],
+   "date": "2007",
+   "title": "Case Studies in Archaeological Predictive Modelling",
+   "language": "eng",
+   "series": "Archaeological Studies Leiden University",
+   "series_number": "14",
+   "publisher": "Leiden University Press",
+   "place": "Amsterdam",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Wescott K.L., Brandon R.J. (eds.) 2000, Practical Applications of GIS for Archaeologists: A Predictive Modelling Kit, London, Taylor and Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Wescott",
+     "given": "K.L."
+    },
+    {
+     "family": "Brandon",
+     "given": "R.J."
+    }
+   ],
+   "date": "2000",
+   "title": "Practical Applications of GIS for Archaeologists: A Predictive Modelling Kit",
+   "language": "eng",
+   "publisher": "Taylor and Francis",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Wheatley D. 2004, Making space for an archaeology of place, «Internet Archaeology», 15 (http://intarch.ac.uk/journal/issue15/wheatley_index.html, accessed 15/07/2004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "date": "2004",
+   "title": "Making space for an archaeology of place",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "language": "eng",
+   "uri": "http://intarch.ac.uk/journal/issue15/wheatley_index.html",
+   "notes": "accessed 15/07/2004",
+   "volume": "15",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Wheatley D., Gillings M. 2002, Spatial Technology and Archaeology, London, Taylor and Francis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    },
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Spatial Technology and Archaeology",
+   "language": "eng",
+   "publisher": "Taylor and Francis",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Witcher R.E. in press, Missing persons? Models of Mediterranean regional survey and ancient populations, in A. Bowman, A. Wilson (eds.), Settlement, Urbanisation and Population, Oxford Studies in the Roman Economy 2, Oxford, Oxford University Press.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Witcher",
+     "given": "R.E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bowman",
+     "given": "A."
+    },
+    {
+     "family": "Wilson",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "Missing persons? Models of Mediterranean regional survey and ancient populations",
+   "is_part_of": [
+    "Settlement, Urbanisation and Population"
+   ],
+   "language": "eng",
+   "series": "Oxford Studies in the Roman Economy",
+   "series_number": "2",
+   "cs": {
+    "status": "resolved",
+    "source": "https://durham-repository.worktribe.com/OutputFile/1657153"
+   },
+   "notes": "c.s. resolved: OUP 2011, pp. 36-75 (same title, author, editors, series)",
+   "pages": "36-75",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Witcher R.E., Kay S.J. 2008, The Tiber Valley Project: the database and Geographical Information System, in Coarelli, Patterson 2008, 417-423.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Witcher",
+     "given": "R.E."
+    },
+    {
+     "family": "Kay",
+     "given": "S.J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Coarelli",
+     "given": "F."
+    },
+    {
+     "family": "Patterson",
+     "given": "H."
+    }
+   ],
+   "date": "2008",
+   "title": "The Tiber Valley Project: the database and Geographical Information System",
+   "is_part_of": [
+    "Mercator Placidissimus. The Tiber Valley in Antiquity. New Research in the Upper and Middle River Valley"
+   ],
+   "language": "eng",
+   "series": "Quaderni di Eutopia",
+   "series_number": "8",
+   "xref": 2,
+   "pages": "417-423",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Wood J. 1996-2008, Landserf (http://www.landserf.org).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Wood",
+     "given": "J."
+    }
+   ],
+   "date": "1996",
+   "title": "Landserf",
+   "uri": "http://www.landserf.org",
+   "language": "eng",
+   "notes": "software; cited 1996-2008, first year kept",
+   "confidence": "high"
+  }
+ ]
+}

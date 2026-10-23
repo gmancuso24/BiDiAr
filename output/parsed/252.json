@@ -1,0 +1,76 @@
+{
+ "citing_aec_id": 252,
+ "source_file": "data/journal/9/252.md",
+ "references": [
+  {
+   "raw": "MADSEN T. 1996, GIS and Scandinavian archaeology. A tale from the real world, in A. BIETTI, A. CAZZELLA, I. JOHNSON, A. VOORRIPS (eds.), Theoretical and Methodological Problems, Proceedings of Colloquium I, XIII International Congress of Prehistoric and Protohistoric Sciences (Forlì, 8-14 September 1996), Forlì, A.B.A.C.O. Edizioni, 127-135.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Madsen",
+     "given": "T."
+    }
+   ],
+   "type": "chapter",
+   "title": "GIS and Scandinavian archaeology. A tale from the real world",
+   "editors": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    },
+    {
+     "family": "Cazzella",
+     "given": "A."
+    },
+    {
+     "family": "Johnson",
+     "given": "I."
+    },
+    {
+     "family": "Voorrips",
+     "given": "A."
+    }
+   ],
+   "pages": "127-135",
+   "is_part_of": [
+    "Theoretical and Methodological Problems, Proceedings of Colloquium I, XIII International Congress of Prehistoric and Protohistoric Sciences (Forlì, 8-14 September 1996)"
+   ],
+   "place": "Forlì",
+   "publisher": "A.B.A.C.O. Edizioni",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "MADSEN T. 1997, GIS and Scandinavian archaeology. A tale from the real world (revised and extended version of Madsen 1996), in M. NORTH, I. JOHNSON (eds.), Archaeological Applications of GIS, Proceedings of Colloquium II, XIII International Congress of Prehistoric and Protohistoric Sciences (Forlì, 8-14 September 1996), Sydney University Archaeological Methods Series, n. 5 (CD-ROM).",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Madsen",
+     "given": "T."
+    }
+   ],
+   "type": "chapter",
+   "title": "GIS and Scandinavian archaeology. A tale from the real world",
+   "editors": [
+    {
+     "family": "North",
+     "given": "M."
+    },
+    {
+     "family": "Johnson",
+     "given": "I."
+    }
+   ],
+   "is_part_of": [
+    "Archaeological Applications of GIS, Proceedings of Colloquium II, XIII International Congress of Prehistoric and Protohistoric Sciences (Forlì, 8-14 September 1996)"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 2,
+   "notes": "revised and extended version of Madsen 1996",
+   "series": "Sydney University Archaeological Methods Series",
+   "series_number": "5"
+  }
+ ]
+}

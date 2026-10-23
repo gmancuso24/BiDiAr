@@ -1,0 +1,429 @@
+{
+ "citing_aec_id": 801,
+ "source_file": "data/journal/26/801.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bonora R. 2009, La prima edizione del Data Base Topografico Regionale, Bologna, Regione Emilia Romagna.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bonora",
+     "given": "R."
+    }
+   ],
+   "date": "2009",
+   "title": "La prima edizione del Data Base Topografico Regionale",
+   "publisher": "Regione Emilia Romagna",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Cardarelli A. 2006, L’Appennino modenese nell’età del Bronzo, in A. Cardarelli, L. Malnati (eds.), Atlante dei beni archeologici della provincia di Modena, II, 2, Firenze, All’Insegna del Giglio, 40-68.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    },
+    {
+     "family": "Malnati",
+     "given": "L."
+    }
+   ],
+   "date": "2006",
+   "title": "L’Appennino modenese nell’età del Bronzo",
+   "is_part_of": [
+    "Atlante dei beni archeologici della provincia di Modena"
+   ],
+   "volume": "II",
+   "issue": "2",
+   "pages": "40-68",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Castiglioni G.B., Ajassa R., Baroni C., Biancotti A., Bondesan A., Bondesan M. et al. 1997, Carta geomorfologica della Pianura Padana, Firenze.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Castiglioni",
+     "given": "G.B."
+    },
+    {
+     "family": "Ajassa",
+     "given": "R."
+    },
+    {
+     "family": "Baroni",
+     "given": "C."
+    },
+    {
+     "family": "Biancotti",
+     "given": "A."
+    },
+    {
+     "family": "Bondesan",
+     "given": "A."
+    },
+    {
+     "family": "Bondesan",
+     "given": "M."
+    }
+   ],
+   "date": "1997",
+   "title": "Carta geomorfologica della Pianura Padana",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "further authors cited as \"et al.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Cavazzuti C., Putzolu C. c.s., Strategie e sistemi insediativi nell’Appennino emiliano durante l’età del Bronzo media e recente, in V. Acconcia, F. Cambi (eds.), Inland and Mountainous Areas of the Italian Peninsula and Population Patterns from Protohistoric to Medieval Period, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cavazzuti",
+     "given": "C."
+    },
+    {
+     "family": "Putzolu",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Acconcia",
+     "given": "V."
+    },
+    {
+     "family": "Cambi",
+     "given": "F."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Strategie e sistemi insediativi nell’Appennino emiliano durante l’età del Bronzo media e recente",
+   "is_part_of": [
+    "Inland and Mountainous Areas of the Italian Peninsula and Population Patterns from Protohistoric to Medieval Period"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: found Cavazzuti, Putzolu 2015, \"Strategie di occupazione dell’Appennino emiliano durante l’età del bronzo\", in Cambi, De Venuto, Goffredo (eds.), Storia e archeologia globale 2, Edipuglia, pp. 51-71 (different title and container); not applied",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Cremaschi M., Bernabò Brea M.A., Tirabassi J., D’Agostini A., Dall’Aglio P.L., Magri S., Baricchi W., Marchesini A., Nepoti S. 1980, L’evoluzione della pianura emiliana durante l’età del Bronzo, l’età romana e l’alto medio evo: geomorfologia ed insediamenti, «Padusa», 16, 53-158.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    },
+    {
+     "family": "Bernabò Brea",
+     "given": "M.A."
+    },
+    {
+     "family": "Tirabassi",
+     "given": "J."
+    },
+    {
+     "family": "D’Agostini",
+     "given": "A."
+    },
+    {
+     "family": "Dall’Aglio",
+     "given": "P.L."
+    },
+    {
+     "family": "Magri",
+     "given": "S."
+    },
+    {
+     "family": "Baricchi",
+     "given": "W."
+    },
+    {
+     "family": "Marchesini",
+     "given": "A."
+    },
+    {
+     "family": "Nepoti",
+     "given": "S."
+    }
+   ],
+   "date": "1980",
+   "title": "L’evoluzione della pianura emiliana durante l’età del Bronzo, l’età romana e l’alto medio evo: geomorfologia ed insediamenti",
+   "is_part_of": [
+    "Padusa"
+   ],
+   "volume": "16",
+   "pages": "53-158",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Ghiretti A. 2000, L’età del Bronzo nelle Valli di Taro e Ceno (Appennino Parmense), «Padusa», 36, 31-84.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ghiretti",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "L’età del Bronzo nelle Valli di Taro e Ceno (Appennino Parmense)",
+   "is_part_of": [
+    "Padusa"
+   ],
+   "volume": "36",
+   "pages": "31-84",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Higuchi T. 1988 The Visual and Spatial Structure of Landscapes, Cambridge, MA, MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Higuchi",
+     "given": "T."
+    }
+   ],
+   "date": "1988",
+   "title": "The Visual and Spatial Structure of Landscapes",
+   "publisher": "MIT Press",
+   "place": "Cambridge, MA",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Lock G. 2000, Beyond the Map. Archaeology and Spatial Technologies, Amsterdam, IOS Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Beyond the Map. Archaeology and Spatial Technologies",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Maggi R. 1983, Dall’età del Rame alla fine dell’età del Bronzo, in AA.VV., Preistoria della Liguria Orientale, Recco, Siri, 59-78.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Maggi",
+     "given": "R."
+    }
+   ],
+   "date": "1983",
+   "title": "Dall’età del Rame alla fine dell’età del Bronzo",
+   "is_part_of": [
+    "Preistoria della Liguria Orientale"
+   ],
+   "pages": "59-78",
+   "publisher": "Siri",
+   "place": "Recco",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Maggi R., Del Lucchese A., Melli P. 1983, Rocche di Drusco: una stazione dell’età del Bronzo nell’alta Valle del Ceno (Bedonia-PR), «Rivista di Studi Liguri», 43, 151-176.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Maggi",
+     "given": "R."
+    },
+    {
+     "family": "Del Lucchese",
+     "given": "A."
+    },
+    {
+     "family": "Melli",
+     "given": "P."
+    }
+   ],
+   "date": "1983",
+   "title": "Rocche di Drusco: una stazione dell’età del Bronzo nell’alta Valle del Ceno (Bedonia-PR)",
+   "is_part_of": [
+    "Rivista di Studi Liguri"
+   ],
+   "volume": "43",
+   "pages": "151-176",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Perego S. 1994, Evoluzione naturale antropica del medio e basso corso del F. Taro (Prov. di Parma), «Acta Naturalia de l’Ateneo Parmense», 30, 1/4.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Perego",
+     "given": "S."
+    }
+   ],
+   "date": "1994",
+   "title": "Evoluzione naturale antropica del medio e basso corso del F. Taro (Prov. di Parma)",
+   "is_part_of": [
+    "Acta Naturalia de l’Ateneo Parmense"
+   ],
+   "volume": "30",
+   "issue": "1/4",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Putzolu C. 2013, Il popolamento di età del bronzo nella valle del Taro. Insediamenti ed organizzazione territoriale, Tesi di Dottorato, Università di Padova.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Putzolu",
+     "given": "C."
+    }
+   ],
+   "date": "2013",
+   "title": "Il popolamento di età del bronzo nella valle del Taro. Insediamenti ed organizzazione territoriale",
+   "publisher": "Università di Padova",
+   "language": "ita",
+   "notes": "Tesi di Dottorato",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Putzolu C. c.s., Anse cornute ed ollette a doppia carena: il territorio montano della valle del Taro e la frontiera tra facies terramaricola e facies occidentale, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Putzolu",
+     "given": "C."
+    }
+   ],
+   "date": "2017",
+   "title": "Anse cornute ed ollette a doppia carena: il territorio montano della valle del Taro e la frontiera tra facies terramaricola e facies occidentale",
+   "is_part_of": [
+    "Beyond limits: studi in onore di Giovanni Leonardi"
+   ],
+   "pages": "363-370",
+   "series": "Antenor Quaderni",
+   "series_number": "39",
+   "publisher": "Padova University Press",
+   "language": "ita",
+   "cs": {
+    "status": "resolved",
+    "source": "https://cris.unibo.it/handle/11585/851499"
+   },
+   "notes": "in press; published 2017 (same title and author; no container was cited)",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Putzolu C., Ghiretti A. c.s., Il paesaggio dell’età del Bronzo nella porzione montana della valle del Taro, in Atti della XLV Riunione Scientifica dell’IIPP (Modena 2010), Firenze, Istituto Italiano Preistoria e Protostoria, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Putzolu",
+     "given": "C."
+    },
+    {
+     "family": "Ghiretti",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Il paesaggio dell’età del Bronzo nella porzione montana della valle del Taro",
+   "is_part_of": [
+    "Preistoria e Protostoria dell’Emilia Romagna. Atti della XLV Riunione Scientifica dell’IIPP (Modena 2010)"
+   ],
+   "volume": "2",
+   "pages": "553-560",
+   "series": "Studi di Preistoria e Protostoria",
+   "publisher": "Istituto Italiano di Preistoria e Protostoria",
+   "place": "Firenze",
+   "language": "ita",
+   "cs": {
+    "status": "resolved",
+    "source": "https://cris.unibo.it/handle/11585/851482"
+   },
+   "notes": "in press, XLV Riunione Scientifica IIPP (Modena 2010); published 2018 (same title, authors, conference and publisher)",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Van Leusen M. 2002, Pattern to Process. Methodological Investigations into the Formation and Interpretation of Spatial Patterns in Archaeological Landscapes, Groningen, Rijksuniversiteit.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Pattern to Process. Methodological Investigations into the Formation and Interpretation of Spatial Patterns in Archaeological Landscapes",
+   "publisher": "Rijksuniversiteit",
+   "place": "Groningen",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Wheatley D., Gillings M. 2000, Vision, perception and GIS: Developing enriched approaches to the study of archaeological visibility, in Lock 2000, 1-27.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    },
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Vision, perception and GIS: Developing enriched approaches to the study of archaeological visibility",
+   "is_part_of": [
+    "Beyond the Map. Archaeology and Spatial Technologies"
+   ],
+   "pages": "1-27",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "xref": 8,
+   "confidence": "high"
+  }
+ ]
+}

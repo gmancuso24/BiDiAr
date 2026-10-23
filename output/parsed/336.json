@@ -1,0 +1,1324 @@
+{
+ "citing_aec_id": 336,
+ "source_file": "data/journal/13/336.md",
+ "references": [
+  {
+   "position": 4,
+   "raw": "BERTHELOT J.-M. (ed.) 2001a, Epistémologie des sciences sociales, Paris, PUF.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Berthelot",
+     "given": "J.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Epistémologie des sciences sociales",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 5,
+   "raw": "BERTHELOT J.-M. 2001b, Les sciences du social, in ESS, 203-265.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Berthelot",
+     "given": "J.-M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Berthelot",
+     "given": "J.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Les sciences du social",
+   "is_part_of": [
+    "Epistémologie des sciences sociales"
+   ],
+   "pages": "203-265",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 4
+  },
+  {
+   "position": 6,
+   "raw": "BERTHELOT J.-M. 2001c, Programmes, paradigmes, disciplines: pluralité et unité des sciences sociales, in ESS, 457-519.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Berthelot",
+     "given": "J.-M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Berthelot",
+     "given": "J.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Programmes, paradigmes, disciplines: pluralité et unité des sciences sociales",
+   "is_part_of": [
+    "Epistémologie des sciences sociales"
+   ],
+   "pages": "457-519",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 4
+  },
+  {
+   "position": 7,
+   "raw": "BOUGNOUX D. 2001, Les sciences du langage et de la communication, in ESS, 149-201.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bougnoux",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Berthelot",
+     "given": "J.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Les sciences du langage et de la communication",
+   "is_part_of": [
+    "Epistémologie des sciences sociales"
+   ],
+   "pages": "149-201",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 4
+  },
+  {
+   "position": 8,
+   "raw": "BRIL B. 1992, Universalité et relativisme culturel: quelques exemples, in Ethnoarchéologie: justification, problèmes, limites. Rencontres internationales d’archéologie et d’histoire 12 (Antibes 1991), Juan-les-Pins, APDCA, 57-66.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bril",
+     "given": "B."
+    }
+   ],
+   "date": "1992",
+   "title": "Universalité et relativisme culturel: quelques exemples",
+   "is_part_of": [
+    "Ethnoarchéologie: justification, problèmes, limites. Rencontres internationales d'archéologie et d'histoire 12 (Antibes 1991)"
+   ],
+   "pages": "57-66",
+   "publisher": "APDCA",
+   "place": "Juan-les-Pins",
+   "language": "fre"
+  },
+  {
+   "position": 9,
+   "raw": "DJINDJIAN F. 1991, Méthodes pour l’archéologie, Paris, Armand Colin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Méthodes pour l'archéologie",
+   "publisher": "Armand Colin",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 10,
+   "raw": "EDELMAN G.M. 1992, Biologie de la conscience, Paris, Odile Jacob.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Edelman",
+     "given": "G.M."
+    }
+   ],
+   "date": "1992",
+   "title": "Biologie de la conscience",
+   "publisher": "Odile Jacob",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 11,
+   "raw": "FRANCFORT H.-P. 1988, A propos de l’urbanisation du site de Shortugai (Afghanistan): une approche archéologique des transformations de l’économie de production, «Bulletin du Centre genevois d’anthropologie», 1, 15-34.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Francfort",
+     "given": "H.-P."
+    }
+   ],
+   "date": "1988",
+   "title": "A propos de l'urbanisation du site de Shortugai (Afghanistan): une approche archéologique des transformations de l'économie de production",
+   "is_part_of": [
+    "Bulletin du Centre genevois d'anthropologie"
+   ],
+   "volume": "1",
+   "pages": "15-34",
+   "language": "fre"
+  },
+  {
+   "position": 12,
+   "raw": "FRANCFORT H.-P. 1989, Fouilles de Shortugaï: recherches sur l’Asie centrale protohistorique, Mémoires de la Mission archéologique française en Asie centrale, 2, 2 vol., Paris, de Boccard.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Francfort",
+     "given": "H.-P."
+    }
+   ],
+   "date": "1989",
+   "title": "Fouilles de Shortugaï: recherches sur l'Asie centrale protohistorique",
+   "series": "Mémoires de la Mission archéologique française en Asie centrale",
+   "series_number": "2",
+   "publisher": "de Boccard",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "cited as 2 vol."
+  },
+  {
+   "position": 13,
+   "raw": "FRANCFORT H.-P., LAGRANGE M.-S., RENAUD M. 1989, Palamède: application des systèmes experts à l’archéologie de civilisations urbaines protohistoriques, Paris, Editions du CNRS (LISH/UPR; 315, Doc. de travail, 9).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Francfort",
+     "given": "H.-P."
+    },
+    {
+     "family": "Lagrange",
+     "given": "M.-S."
+    },
+    {
+     "family": "Renaud",
+     "given": "M."
+    }
+   ],
+   "date": "1989",
+   "title": "Palamède: application des systèmes experts à l'archéologie de civilisations urbaines protohistoriques",
+   "series": "LISH/UPR 315, Doc. de travail",
+   "series_number": "9",
+   "publisher": "Editions du CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "low",
+   "notes": "series reading of \"(LISH/UPR; 315, Doc. de travail, 9)\" is a guess"
+  },
+  {
+   "position": 14,
+   "raw": "FRANCK R. 2001, Histoire et structure, in ESS, 317-356.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Franck",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Berthelot",
+     "given": "J.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Histoire et structure",
+   "is_part_of": [
+    "Epistémologie des sciences sociales"
+   ],
+   "pages": "317-356",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 4
+  },
+  {
+   "position": 15,
+   "raw": "GALLAY A. 1970, La poterie en pays Sarakolé (Mali, Afrique occidentale): étude de technologie traditionnelle, «Journal de la Société des Africanistes», 40, 1, 7-84.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "date": "1970",
+   "title": "La poterie en pays Sarakolé (Mali, Afrique occidentale): étude de technologie traditionnelle",
+   "is_part_of": [
+    "Journal de la Société des Africanistes"
+   ],
+   "volume": "40",
+   "issue": "1",
+   "pages": "7-84",
+   "language": "fre"
+  },
+  {
+   "position": 16,
+   "raw": "GALLAY A. 1986, L’archéologie demain, Paris, Belfond (Belfond/Sciences).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "date": "1986",
+   "title": "L'archéologie demain",
+   "series": "Belfond/Sciences",
+   "publisher": "Belfond",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 17,
+   "raw": "GALLAY A. 1989, Logicism: A French view of archaeological theory founded in computational perspective, «Antiquity», 63, 27-39.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "date": "1989",
+   "title": "Logicism: A French view of archaeological theory founded in computational perspective",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "63",
+   "pages": "27-39",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "GALLAY A. 1990, L’ethnoarchéologie, science de référence de l’archéologie, in T. JUDICE GAMITO (ed.), Arqueologia hoje, 1: etno-arqueologia. Coloquio (Faro 1989), Faro, Universidad do Algarve, 282-302.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Judice Gamito",
+     "given": "T."
+    }
+   ],
+   "date": "1990",
+   "title": "L'ethnoarchéologie, science de référence de l'archéologie",
+   "is_part_of": [
+    "Arqueologia hoje, 1: etno-arqueologia. Coloquio (Faro 1989)"
+   ],
+   "pages": "282-302",
+   "publisher": "Universidad do Algarve",
+   "place": "Faro",
+   "language": "fre"
+  },
+  {
+   "position": 19,
+   "raw": "GALLAY A. 1991, Itinéraires ethnoarchéologiques I, Documents du Département d’anthropologie et d’écologie de l’Université 18, Genève.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "date": "1991",
+   "title": "Itinéraires ethnoarchéologiques I",
+   "series": "Documents du Département d'anthropologie et d'écologie de l'Université",
+   "series_number": "18",
+   "place": "Genève",
+   "language": "fre"
+  },
+  {
+   "position": 20,
+   "raw": "GALLAY A. 1992, A propos de la céramique actuelle du delta intérieur du Niger (Mali): approche ethnoarchéologique et règles transculturelles, in Ethnoarchéologie: justification, problèmes, limites. Rencontres internationales d’archéologie et d’histoire 12 (Antibes 1991), Juan-les-Pins, APDCA, 67-89.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "date": "1992",
+   "title": "A propos de la céramique actuelle du delta intérieur du Niger (Mali): approche ethnoarchéologique et règles transculturelles",
+   "is_part_of": [
+    "Ethnoarchéologie: justification, problèmes, limites. Rencontres internationales d'archéologie et d'histoire 12 (Antibes 1991)"
+   ],
+   "pages": "67-89",
+   "publisher": "APDCA",
+   "place": "Juan-les-Pins",
+   "language": "fre"
+  },
+  {
+   "position": 21,
+   "raw": "GALLAY A. 1994, Sociétés englobées et traditions céramiques: le cas du Pays dogon (Mali) depuis le 13ème siècle, in Terre cuite et société: la céramique, document technique, économique, culturel. Rencontres internationales d’archéologie et d’histoire 14 (CNRS-CRA-ERA 36, Antibes 1993), 435-457.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "date": "1994",
+   "title": "Sociétés englobées et traditions céramiques: le cas du Pays dogon (Mali) depuis le 13ème siècle",
+   "is_part_of": [
+    "Terre cuite et société: la céramique, document technique, économique, culturel. Rencontres internationales d'archéologie et d'histoire 14 (CNRS-CRA-ERA 36, Antibes 1993)"
+   ],
+   "pages": "435-457",
+   "language": "fre"
+  },
+  {
+   "position": 22,
+   "raw": "GALLAY A. 1995, L’ethnoarchéologie entre sciences et histoire: une réflexion fondée sur le développement des sciences de la nature, in A. BAZZANA, M.-C. DELAIGUE (eds.), Ethnoarchéologie méditerranéenne: finalité, démarches et résultats. Table ronde (Madrid 1991), Madrid, Casa de Velásquez. (Coll. de la Casa de Velásquez, 54), 17-27.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bazzana",
+     "given": "A."
+    },
+    {
+     "family": "Delaigue",
+     "given": "M.-C."
+    }
+   ],
+   "date": "1995",
+   "title": "L'ethnoarchéologie entre sciences et histoire: une réflexion fondée sur le développement des sciences de la nature",
+   "is_part_of": [
+    "Ethnoarchéologie méditerranéenne: finalité, démarches et résultats. Table ronde (Madrid 1991)"
+   ],
+   "pages": "17-27",
+   "series": "Coll. de la Casa de Velásquez",
+   "series_number": "54",
+   "publisher": "Casa de Velásquez",
+   "place": "Madrid",
+   "language": "fre"
+  },
+  {
+   "position": 23,
+   "raw": "GALLAY A. 1998, Mathematics and logicism in archaelogy: A historical approach, in S. TABACZYNSKI (ed.), Theory and Practice of Archaeological Research, 3: Dialogue with the Data: The Archaeology of Complex Societies and its Context in the ’90s, Warszawa, Polish Academy of Sciences, 115-137.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Tabaczynski",
+     "given": "S."
+    }
+   ],
+   "date": "1998",
+   "title": "Mathematics and logicism in archaeology: A historical approach",
+   "is_part_of": [
+    "Theory and Practice of Archaeological Research. Vol. III, Dialogue with the Data: The Archaeology of Complex Societies and its Context in the '90s"
+   ],
+   "pages": "115-137",
+   "publisher": "Polish Academy of Sciences",
+   "place": "Warszawa",
+   "language": "eng",
+   "notes": "cited \"archaelogy\" (typo)"
+  },
+  {
+   "position": 24,
+   "raw": "GALLAY A., HUYSECOM E., MAYOR A. 1995, Archéologie, histoire et traditions orales: trois clés pour découvrir le passé dogon, in L. HOMBERGER (ed.), Die Kunst der Dogon, Catalogue d’exposition (Zürich 1995), Zürich, Museum Rietberg, 19-43.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    },
+    {
+     "family": "Huysecom",
+     "given": "E."
+    },
+    {
+     "family": "Mayor",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Homberger",
+     "given": "L."
+    }
+   ],
+   "date": "1995",
+   "title": "Archéologie, histoire et traditions orales: trois clés pour découvrir le passé dogon",
+   "is_part_of": [
+    "Die Kunst der Dogon, Catalogue d'exposition (Zürich 1995)"
+   ],
+   "pages": "19-43",
+   "publisher": "Museum Rietberg",
+   "place": "Zürich",
+   "language": "fre"
+  },
+  {
+   "position": 25,
+   "raw": "GALLAY A., HUYSECOM E., MAYOR A., DE CEUNINCK G. 1996, Hier et aujourd’hui, des potières et des femmes: céramiques traditionnelles du Mali, Catalogue d’exposition (Genève 1996), Document du Département d’anthropologie et d’écologie de l’Université 22, Genève.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    },
+    {
+     "family": "Huysecom",
+     "given": "E."
+    },
+    {
+     "family": "Mayor",
+     "given": "A."
+    },
+    {
+     "family": "De Ceuninck",
+     "given": "G."
+    }
+   ],
+   "date": "1996",
+   "title": "Hier et aujourd'hui, des potières et des femmes: céramiques traditionnelles du Mali",
+   "series": "Document du Département d'anthropologie et d'écologie de l'Université",
+   "series_number": "22",
+   "place": "Genève",
+   "language": "fre",
+   "notes": "exhibition catalogue (Genève 1996)"
+  },
+  {
+   "position": 26,
+   "raw": "GALLAY A., HUYSECOM E., MAYOR A. 1998, Peuples et céramiques du Delta intérieur du Niger (Mali): un bilan de cinq années de missions (1988-1993), Terra Archaeologica 3, Mainz, P. von Zabern.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    },
+    {
+     "family": "Huysecom",
+     "given": "E."
+    },
+    {
+     "family": "Mayor",
+     "given": "A."
+    }
+   ],
+   "date": "1998",
+   "title": "Peuples et céramiques du Delta intérieur du Niger (Mali): un bilan de cinq années de missions (1988-1993)",
+   "series": "Terra Archaeologica",
+   "series_number": "3",
+   "publisher": "P. von Zabern",
+   "place": "Mainz",
+   "language": "fre"
+  },
+  {
+   "position": 27,
+   "raw": "GALLAY A., SAUVAIN-DUGERDIL C. et al. 1981, Le Sarnyéré Dogon: archéologie d’un isolat, Mali, Recherche sur les grandes civilisations, Mémoire 4, Paris, Ed. ADPF.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gallay",
+     "given": "A."
+    },
+    {
+     "family": "Sauvain-Dugerdil",
+     "given": "C."
+    }
+   ],
+   "date": "1981",
+   "title": "Le Sarnyéré Dogon: archéologie d'un isolat, Mali",
+   "series": "Recherche sur les grandes civilisations, Mémoire",
+   "series_number": "4",
+   "publisher": "Ed. ADPF",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "cited with \"et al.\""
+  },
+  {
+   "position": 28,
+   "raw": "GARDIN J.-C. 1979, Une archéologie théorique, Paris, Hachette (L’Esprit critique).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1979",
+   "title": "Une archéologie théorique",
+   "series": "L'Esprit critique",
+   "publisher": "Hachette",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 29,
+   "raw": "GARDIN J.-C. 1982, La logique du plausible ou l’intelligence artificielle des textes dans les disciplines humanistes, in Les disciplines humanistes et leurs bibliographies à l’âge de l’informatique. Table ronde CNRS (Paris 1982), Paris, Editions du CNRS, 145-151.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1982",
+   "title": "La logique du plausible ou l'intelligence artificielle des textes dans les disciplines humanistes",
+   "is_part_of": [
+    "Les disciplines humanistes et leurs bibliographies à l'âge de l'informatique. Table ronde CNRS (Paris 1982)"
+   ],
+   "pages": "145-151",
+   "publisher": "Editions du CNRS",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 30,
+   "raw": "GARDIN J.-C. (ed.) 1998, Prospections archéologiques en Bactriane orientale (1974-1978), 3: description des sites et notes de synthèse, Recherches sur les civilisations, Mémoires de la Mission archéologique française en Asie centrale 9, Paris.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1998",
+   "title": "Prospections archéologiques en Bactriane orientale (1974-1978). Description des sites et notes de synthèse",
+   "volume": "3",
+   "series": "Mémoires de la Mission archéologique française en Asie centrale",
+   "series_number": "9",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "cited as (ed.), with series \"Recherches sur les civilisations\""
+  },
+  {
+   "position": 31,
+   "raw": "GARDIN J.-C. 2000, Approches sémiotiques du raisonnement en archéologie: une contribution au problème du “pont”, in P. PERRON et al. (eds.), Semiotics as a Bridge Between the Humanities and the Sciences, New York, Ottawa, etc., Legas, 27-48.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Perron",
+     "given": "P."
+    }
+   ],
+   "date": "2000",
+   "title": "Approches sémiotiques du raisonnement en archéologie: une contribution au problème du pont",
+   "is_part_of": [
+    "Semiotics as a Bridge Between the Humanities and the Sciences"
+   ],
+   "pages": "27-48",
+   "publisher": "Legas",
+   "place": "New York, Ottawa",
+   "language": "fre",
+   "notes": "editors cited as P. PERRON et al."
+  },
+  {
+   "position": 32,
+   "raw": "GARDIN J.-C. 2001a, Entre modèle et récit: les flottements de la troisième voie, in MR, 457-488.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grenier",
+     "given": "J.-Y."
+    },
+    {
+     "family": "Grignon",
+     "given": "C."
+    },
+    {
+     "family": "Menger",
+     "given": "P.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Entre modèle et récit: les flottements de la troisième voie",
+   "is_part_of": [
+    "Le modèle et le récit"
+   ],
+   "pages": "457-488",
+   "publisher": "Maison des sciences de l'homme",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 36
+  },
+  {
+   "position": 33,
+   "raw": "GARDIN J.-C 2001b, Modèles et récits, in ESS, 407-454.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Berthelot",
+     "given": "J.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Modèles et récits",
+   "is_part_of": [
+    "Epistémologie des sciences sociales"
+   ],
+   "pages": "407-454",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 4
+  },
+  {
+   "position": 34,
+   "raw": "GELBERT A. 2000, Etude ethnoarchéologique des phénomènes d’emprunts céramiques: enquêtes dans les haute et moyenne vallées du fleuve Sénégal (Sénégal), Paris, Université Nanterre-Paris X (Thèse de doctorat).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Gelbert",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "Etude ethnoarchéologique des phénomènes d'emprunts céramiques: enquêtes dans les haute et moyenne vallées du fleuve Sénégal (Sénégal)",
+   "publisher": "Université Nanterre-Paris X",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 35,
+   "raw": "GOULD S.J. 2001, Les coquillages de Léonard, Paris, Le Seuil (Science ouverte).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gould",
+     "given": "S.J."
+    }
+   ],
+   "date": "2001",
+   "title": "Les coquillages de Léonard",
+   "series": "Science ouverte",
+   "publisher": "Le Seuil",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 36,
+   "raw": "GRENIER J.-Y, GRIGNON C., MENGER P.-M. (eds.) 2001, Le modèle et le récit, Paris, Maison des sciences de l’homme.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Grenier",
+     "given": "J.-Y."
+    },
+    {
+     "family": "Grignon",
+     "given": "C."
+    },
+    {
+     "family": "Menger",
+     "given": "P.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Le modèle et le récit",
+   "publisher": "Maison des sciences de l'homme",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 37,
+   "raw": "GRIGNON C. 2001, La formalisation et les sciences du récit: le cas de la sociologie, in MR, 7-43.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Grignon",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grenier",
+     "given": "J.-Y."
+    },
+    {
+     "family": "Grignon",
+     "given": "C."
+    },
+    {
+     "family": "Menger",
+     "given": "P.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "La formalisation et les sciences du récit: le cas de la sociologie",
+   "is_part_of": [
+    "Le modèle et le récit"
+   ],
+   "pages": "7-43",
+   "publisher": "Maison des sciences de l'homme",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 36
+  },
+  {
+   "position": 38,
+   "raw": "GRENIER J.-Y. 2001, Du bon usage du modèle en histoire, in MR, 71-101.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Grenier",
+     "given": "J.-Y."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grenier",
+     "given": "J.-Y."
+    },
+    {
+     "family": "Grignon",
+     "given": "C."
+    },
+    {
+     "family": "Menger",
+     "given": "P.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Du bon usage du modèle en histoire",
+   "is_part_of": [
+    "Le modèle et le récit"
+   ],
+   "pages": "71-101",
+   "publisher": "Maison des sciences de l'homme",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 36
+  },
+  {
+   "position": 39,
+   "raw": "ISRAEL G. 2001, Modèle récit ou récit modèle?, in MR, 365-424.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Israel",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grenier",
+     "given": "J.-Y."
+    },
+    {
+     "family": "Grignon",
+     "given": "C."
+    },
+    {
+     "family": "Menger",
+     "given": "P.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Modèle récit ou récit modèle?",
+   "is_part_of": [
+    "Le modèle et le récit"
+   ],
+   "pages": "365-424",
+   "publisher": "Maison des sciences de l'homme",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 36
+  },
+  {
+   "position": 40,
+   "raw": "LENCLUD G. 2001, Le formel et le vécu, in MR, 425-456.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lenclud",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grenier",
+     "given": "J.-Y."
+    },
+    {
+     "family": "Grignon",
+     "given": "C."
+    },
+    {
+     "family": "Menger",
+     "given": "P.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Le formel et le vécu",
+   "is_part_of": [
+    "Le modèle et le récit"
+   ],
+   "pages": "425-456",
+   "publisher": "Maison des sciences de l'homme",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 36
+  },
+  {
+   "position": 41,
+   "raw": "LEVI-STRAUSS C. 1950, Introduction à l’œuvre de Marcel Mauss, in M. MAUSS, Sociologie et anthropologie, Paris, PUF IX-LII (Bibliothèque de sociologie contemporaine).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lévi-Strauss",
+     "given": "C."
+    }
+   ],
+   "date": "1950",
+   "title": "Introduction à l'œuvre de Marcel Mauss",
+   "is_part_of": [
+    "Sociologie et anthropologie"
+   ],
+   "pages": "IX-LII",
+   "series": "Bibliothèque de sociologie contemporaine",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "container is a book by M. Mauss, not edited"
+  },
+  {
+   "position": 42,
+   "raw": "LEVI-STRAUSS C. 1974 (3e éd.), La pensée sauvage, Paris, Plon.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lévi-Strauss",
+     "given": "C."
+    }
+   ],
+   "date": "1974",
+   "title": "La pensée sauvage",
+   "edition": "3",
+   "publisher": "Plon",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "cited \"1974 (3e éd.)\""
+  },
+  {
+   "position": 43,
+   "raw": "LIVET P. 2001, Action et cognition en sciences sociales, in ESS, 269-316.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Livet",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Berthelot",
+     "given": "J.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Action et cognition en sciences sociales",
+   "is_part_of": [
+    "Epistémologie des sciences sociales"
+   ],
+   "pages": "269-316",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 4
+  },
+  {
+   "position": 44,
+   "raw": "MENGER P.-M. 2001, Les temps, les causes et les raisons de l’action, in MR, 103-177.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Menger",
+     "given": "P.-M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grenier",
+     "given": "J.-Y."
+    },
+    {
+     "family": "Grignon",
+     "given": "C."
+    },
+    {
+     "family": "Menger",
+     "given": "P.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Les temps, les causes et les raisons de l'action",
+   "is_part_of": [
+    "Le modèle et le récit"
+   ],
+   "pages": "103-177",
+   "publisher": "Maison des sciences de l'homme",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 36
+  },
+  {
+   "position": 45,
+   "raw": "OGIEN R. 2001, Philosophie des sciences sociales, in ESS, 521-575.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ogien",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Berthelot",
+     "given": "J.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Philosophie des sciences sociales",
+   "is_part_of": [
+    "Epistémologie des sciences sociales"
+   ],
+   "pages": "521-575",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 4
+  },
+  {
+   "position": 46,
+   "raw": "PASSERON J.-C. 2001, Formalisation, rationalité et histoire, in MR, 215-282.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Passeron",
+     "given": "J.-C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grenier",
+     "given": "J.-Y."
+    },
+    {
+     "family": "Grignon",
+     "given": "C."
+    },
+    {
+     "family": "Menger",
+     "given": "P.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Formalisation, rationalité et histoire",
+   "is_part_of": [
+    "Le modèle et le récit"
+   ],
+   "pages": "215-282",
+   "publisher": "Maison des sciences de l'homme",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 36
+  },
+  {
+   "position": 47,
+   "raw": "PETREQUIN P., PETREQUIN A.-M. 1993, Ecologie d’un outil: la hache de pierre en Irian Jaya (Indonésie), Monographie du Centre de recherches archéologiques CRA 12, Paris, Editions du CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pétrequin",
+     "given": "P."
+    },
+    {
+     "family": "Pétrequin",
+     "given": "A.-M."
+    }
+   ],
+   "date": "1993",
+   "title": "Ecologie d'un outil: la hache de pierre en Irian Jaya (Indonésie)",
+   "series": "Monographie du Centre de recherches archéologiques CRA",
+   "series_number": "12",
+   "publisher": "Editions du CNRS",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 48,
+   "raw": "REVEL J. 2001, Les sciences historiques, in ESS, 21-76.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Revel",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Berthelot",
+     "given": "J.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Les sciences historiques",
+   "is_part_of": [
+    "Epistémologie des sciences sociales"
+   ],
+   "pages": "21-76",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 4
+  },
+  {
+   "position": 49,
+   "raw": "ROBIN J.-M. 2001, Structure et description: forme et fonction de la modélisation en économie, in MR, 197-213.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Robin",
+     "given": "J.-M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grenier",
+     "given": "J.-Y."
+    },
+    {
+     "family": "Grignon",
+     "given": "C."
+    },
+    {
+     "family": "Menger",
+     "given": "P.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "Structure et description: forme et fonction de la modélisation en économie",
+   "is_part_of": [
+    "Le modèle et le récit"
+   ],
+   "pages": "197-213",
+   "publisher": "Maison des sciences de l'homme",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 36
+  },
+  {
+   "position": 50,
+   "raw": "ROUX V. 1985, Le matériel de broyage: étude ethnoarchéologique à Tichitt, Mauritanie, Recherche sur les grandes civilisations, Mémoire 58, Paris.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Roux",
+     "given": "V."
+    }
+   ],
+   "date": "1985",
+   "title": "Le matériel de broyage: étude ethnoarchéologique à Tichitt, Mauritanie",
+   "series": "Recherche sur les grandes civilisations, Mémoire",
+   "series_number": "58",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 51,
+   "raw": "ROUX V. (ed.) 2000, Cornaline de l’Inde: des pratiques techniques de Cambay aux technosystèmes de l’Indus, Paris, Maison des sciences de l’homme.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Roux",
+     "given": "V."
+    }
+   ],
+   "date": "2000",
+   "title": "Cornaline de l'Inde: des pratiques techniques de Cambay aux technosystèmes de l'Indus",
+   "publisher": "Maison des sciences de l'homme",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 52,
+   "raw": "ROUX V., CORBETTA D. et al. 1990, Le tour du potier: spécialisation artisanale et compétences techniques, Monographie du CRA 4, Paris, Editions du CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Roux",
+     "given": "V."
+    },
+    {
+     "family": "Corbetta",
+     "given": "D."
+    }
+   ],
+   "date": "1990",
+   "title": "Le tour du potier: spécialisation artisanale et compétences techniques",
+   "series": "Monographie du CRA",
+   "series_number": "4",
+   "publisher": "Editions du CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "cited with \"et al.\""
+  },
+  {
+   "position": 53,
+   "raw": "ROUX V., PELLEGRIN J. 1989, Taille des perles et spécialisation artisanale: enquête ethnoarchéologique dans le Gujarat, «Techniques et culture», 14, (juillet-décembre), 23-49.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Roux",
+     "given": "V."
+    },
+    {
+     "family": "Pellegrin",
+     "given": "J."
+    }
+   ],
+   "date": "1989",
+   "title": "Taille des perles et spécialisation artisanale: enquête ethnoarchéologique dans le Gujarat",
+   "is_part_of": [
+    "Techniques et culture"
+   ],
+   "volume": "14",
+   "pages": "23-49",
+   "language": "fre"
+  },
+  {
+   "position": 54,
+   "raw": "STASZAK J.-F. 2001, La géographie, in ESS, 77-116.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Staszak",
+     "given": "J.-F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Berthelot",
+     "given": "J.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "La géographie",
+   "is_part_of": [
+    "Epistémologie des sciences sociales"
+   ],
+   "pages": "77-116",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 4
+  },
+  {
+   "position": 55,
+   "raw": "VALADE B. 2001, De l’explication dans les sciences sociales: holisme et individualisme, in ESS, 357-405.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Valade",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Berthelot",
+     "given": "J.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "De l'explication dans les sciences sociales: holisme et individualisme",
+   "is_part_of": [
+    "Epistémologie des sciences sociales"
+   ],
+   "pages": "357-405",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 4
+  },
+  {
+   "position": 56,
+   "raw": "VEYNE P. 1971, Comment on écrit l’histoire, Paris, Editions du Seuil (Univers historique).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Veyne",
+     "given": "P."
+    }
+   ],
+   "date": "1971",
+   "title": "Comment on écrit l'histoire",
+   "series": "Univers historique",
+   "publisher": "Editions du Seuil",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 57,
+   "raw": "WALLISER B. 2001, La science économique, in ESS, 117-147.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Walliser",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Berthelot",
+     "given": "J.-M."
+    }
+   ],
+   "date": "2001",
+   "title": "La science économique",
+   "is_part_of": [
+    "Epistémologie des sciences sociales"
+   ],
+   "pages": "117-147",
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 4
+  }
+ ]
+}

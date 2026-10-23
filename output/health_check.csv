@@ -1,0 +1,839 @@
+﻿level,check,id,details
+warn,person_uppercase,P020179,AA.VV.
+warn,person_same_full_name,P001452|P003315,"giorgi, elisabetta"
+warn,person_same_full_name,P001459|P019375,"delpozzo, eleonora"
+warn,person_same_full_name,P003072|P006800,"arrigoni, p"
+warn,person_same_full_name,P006380|P006824,"demarchi, m"
+warn,person_same_full_name,P006704|P009704|P014806,"rossi, m"
+warn,person_same_full_name,P006828|P007408,"tarantino, e"
+warn,person_same_full_name,P008100|P022741|P022742,", "
+warn,person_same_full_name,P010061|P016257,"williams, d"
+warn,person_same_full_name,P016265|P016739,"rossi, a"
+info,work_no_date,W001669,Elaborazione statistica dei dati sperimentali
+info,work_no_date,W001674,Ricerca in corso
+warn,work_odd_date,W001895,1985-86
+warn,work_odd_date,W001929,1881-1983
+warn,work_odd_date,W001955,1983-1986
+warn,work_odd_date,W001995,1781-1786
+warn,work_no_title,W002006,Apple Soft
+warn,work_no_title,W002012,Apple Soft
+warn,work_no_title,W002013,Apple Soft
+warn,work_no_title,W002014,Apple Soft
+warn,work_odd_date,W002226,1976-77
+warn,work_odd_date,W002367,1977/78
+warn,work_odd_date,W002424,1935-1990
+warn,work_odd_date,W002432,1983-1984
+info,work_no_date,W002731,Les cadastres anciens des villes et leur traitement par l’informatique
+info,work_no_date,W002880,Alterazioni macroscopiche dei materiali lapidei: lessico
+info,work_no_date,W002885,"Draw it, Chart it, Paint it, Show it. Corel Draw! 3.0, Guida utente"
+info,work_no_date,W003073,Foglio 138 - Terni
+info,work_no_date,W003074,Foglio 144 - Palombara Sabina
+info,work_no_date,W003200,The Management of Excavation Data: Problems and Prospects
+info,work_no_date,W003235,"SPSS/PC+, Advanced Statistics V2.0"
+info,work_no_date,W003312,SPSS 5.0. Statistical Package for Social Sciences
+info,work_no_date,W003882,Bildverarbeitung und optische Meßtechnik in der industriellen Praxis. Grundlagen
+info,work_no_date,W003935,La catalogazione architettonica. Metodologie e dizionari del progetto SIRIS
+info,work_no_date,W003983,Geologia generale ed applicata all'ingegneria civile
+info,work_no_date,W004017,Basic HTTP
+info,work_no_date,W004023,HTML 3
+info,work_no_date,W004039,Hypertext IDEAs
+info,work_no_date,W004709,Agent-Based Modelling of Prehistoric Hunting Strategies
+info,work_no_date,W004943,T9 - The Ultimate Text Input Power Tool!
+info,work_no_date,W004944,Beyond The Radio: Developing Complete Wireless System Solutions
+info,work_no_date,W004946,www.unifi.it/project/petra/welcome.html
+info,work_no_date,W004947,www.acme.com
+info,work_no_date,W005009,"Raccomandazioni NORMAL, Doc. 1/88"
+info,work_odd_pages,W005110,1.1.1-1.1.6
+info,work_odd_pages,W005113,10.7.1-10.7.5
+info,work_no_date,W005296,http://www.ucd.ie/~archdata/TAGinIreland.html
+info,work_no_date,W005350,Archaeology Data Service
+info,work_no_date,W005351,Computer Applications and Quantitative Methods in Archaeology Conference
+info,work_no_date,W005352,Cultural Virtual Reality Organization
+info,work_no_date,W005354,Dublin Core Qualifiers
+info,work_no_date,W005356,The MPEG Home Page
+info,work_no_date,W005357,Resource Description Framework (RDF)
+info,work_no_date,W005360,X3D™ - Extensible 3D: New-Generation Open Web3D Standard
+info,work_no_date,W005362,eXtensible Markup Language (XML)
+info,work_no_date,W005363,eXtensible Stylesheet Language (XSL)
+info,work_no_date,W005364,eXtensible Stylesheet Language Transformations (XSLT)
+info,work_no_date,W005624,"Precision Digital Mapping of Kinematic Indicators in the Norumbega Fault Zone, C"
+warn,work_odd_date,W005625,1996-97
+warn,work_odd_date,W005626,1997-98
+warn,work_odd_date,W005627,1998-99
+warn,work_odd_date,W005628,1999-2000
+warn,work_odd_date,W005665,1989-90
+warn,work_odd_date,W005666,1993-94
+warn,work_odd_date,W005667,1994-95
+info,work_no_date,W005697,"The Anglo-Saxon Cemetery in Worthy Park, Kingsworthy, near Winchester"
+info,work_no_date,W005712,"Some early inhabitants of the Oxford neighbourhood, with special reference to Ca"
+info,work_no_date,W006031,Società contemporanea e rapporto con la verità
+warn,work_odd_date,W006046,2001-2002
+warn,work_odd_date,W006056,2001-2002
+warn,work_odd_date,W006074,1827-1830
+info,work_no_date,W006715,Game Studies. The international journal of computer game research
+info,work_no_date,W006727,Playing Games
+warn,work_odd_date,W006783,1870-1916
+warn,work_odd_date,W006784,1893-1902
+warn,work_odd_date,W006857,2000-2004
+warn,work_odd_date,W006865,1996-2004
+warn,work_odd_date,W006868,1998-2000
+warn,work_odd_date,W006875,1998-1999
+warn,work_odd_date,W006876,1998-1999
+warn,work_odd_date,W006877,2003-2004
+warn,work_odd_date,W006879,1997-2003
+warn,work_odd_date,W006880,1998-2000
+warn,work_odd_date,W006882,2002-2004
+warn,work_odd_date,W006907,1998-1999
+info,work_no_date,W006920,Forum Novum – Vescovio
+info,work_no_date,W006937,Roman Towns in the Tiber Valley
+info,work_no_date,W006952,Insediamenti antichi nella bassa valle del fiume Torto
+info,work_no_date,W007014,Callidus Precision Systems GmbH
+info,work_no_date,W007090,Guide base Corso xml
+info,work_no_date,W007101,Guida XSLT
+info,work_no_date,W007117,Guida alla famiglia dei linguaggi XML
+warn,work_odd_date,W007190,1951-1954
+warn,work_odd_date,W007222,1860-1864
+warn,work_odd_date,W007223,1861-1878
+warn,work_odd_date,W007226,1991-1992
+warn,work_odd_date,W007236,"1876-1939, 1965-1977"
+warn,work_odd_date,W007252,1999-2004
+warn,work_odd_date,W007253,1999-2004
+warn,work_odd_date,W007254,1999-2004
+warn,work_odd_date,W007259,2001-2005
+warn,work_odd_date,W007306,1978-1982
+info,work_odd_pages,W007346,"199-245, 301-357; 43-80"
+info,work_no_date,W007400,"Stuttgart Neural Network Simulator User Manual, Version 4.2"
+warn,work_odd_date,W007560,1828-1859
+warn,work_odd_date,W007561,1891-1934
+warn,work_odd_date,W007565,1974-1976
+warn,work_odd_date,W007569,1840-1897
+warn,work_odd_date,W007584,1890-
+warn,work_odd_date,W007713,2005-2006
+warn,work_odd_date,W007739,2005-2006
+warn,work_odd_date,W007812,1997-2001
+warn,work_odd_date,W007913,1963-64
+info,work_no_date,W007925,Année Épigraphique
+info,work_no_date,W007927,Inscriptiones Latinae Liberae Rei Publicae
+info,work_no_date,W007928,Supplementa Italica – Imagines. Roma
+warn,work_odd_date,W007949,1949-50
+warn,work_odd_date,W007969,1988-89
+info,work_no_date,W007997,Temporal Modelling: Conceptualization and Visualization of Temporal Relations fo
+info,work_no_date,W008018,Magyar Régészeti Topográfia (MRT). Series of Monographs published on regional ar
+warn,work_odd_date,W008024,2001-2002
+info,work_no_date,W008026,Térképek a web magyar részén
+warn,work_odd_date,W008030,1866-1897
+info,work_no_date,W008119,Der Neue Pauly
+warn,work_odd_date,W008198,1909-1931
+warn,work_odd_date,W008222,1786-1791
+info,work_odd_pages,W008451,S37-S43
+info,work_odd_pages,W008741,e1-e2
+info,work_no_date,W008803,Yassi Ada 7th century Byzantine Shipwreck. Excavation: 1961-1964
+info,work_no_date,W009180,Microsolutions to miniproblems? Approaches to ancient artefacts by the means of 
+info,work_no_date,W009194,Some interpretation tips for PST maps
+info,work_odd_pages,W009240,T08-35
+info,work_no_date,W009597,http://www.commissario-archeologiaroma.it/ opencms/export/CommissarioAR/sito-Com
+info,work_no_date,W009598,http://archeoroma.beniculturali.it
+info,work_no_date,W009599,https://www.facebook.com/pages/SITAR-Sistema-Informativo-Territoriale-Archeologi
+info,work_no_date,W009600,http://www.garr.it/eventiGARR/conf10/programma.html
+info,work_no_date,W009601,http://www.garr.it/eventiGARR/conf10/docs/detommasi-abs-conf10.pdf
+info,work_no_date,W009602,http://www.garr.it/eventiGARR/conf10/docs/serlorenzi-pres-conf10.pdf
+info,work_no_date,W009603,http://www.stadtarchaeologie.at/?page_id=725
+info,work_no_date,W009604,http://www.stadtarchaeologie.at/?page_id=889
+info,work_no_date,W009605,http://www.stadtarchaeologie.at/?page_id=886
+warn,work_odd_date,W009612,1997-1998
+warn,work_odd_date,W009623,1997-1998
+info,work_no_date,W009646,"Archivio di Stato di Potenza, Fondo Intendenza, fascicolo 991, cartella 413, Can"
+info,work_no_date,W009649,Il Castello di Cancellara. Contributi metodologici allo studio di una emergenza 
+info,work_no_date,W009713,Departures from collinearity and camera calibration
+warn,work_odd_date,W009735,1907-1915
+info,work_no_date,W009773,Workflow Management Coalition: Terminology & Glossary
+warn,work_odd_date,W009817,2010-2012
+warn,work_odd_date,W009836,2001-2002
+warn,work_odd_date,W010000,1993-1994
+warn,work_odd_date,W010024,2010-2011
+warn,work_odd_date,W010065,1985-1986
+info,work_no_date,W010179,"Città Alta. Interventi su monumenti, Tempietto di Santa Croce - 1938-1940"
+warn,work_odd_date,W010195,1865-1882
+warn,work_odd_date,W010200,1999-2000
+warn,work_odd_date,W010212,1784-1799
+warn,work_odd_date,W010318,2004-2005
+warn,work_odd_date,W010442,2003-2004
+warn,work_odd_date,W010445,1996-1997
+warn,work_odd_date,W010460,2012-2013
+info,work_no_date,W010660,http://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1257347181815_Opusc
+info,work_no_date,W010661,http://www.academia.edu/1627870/Codice_sorgente_e_tutela_giuridica_del_software_
+info,work_no_date,W010662,http://iuavlab.iuav.it/download/WP5-Deliverable1.pdf
+info,work_no_date,W010663,http://www.arqueologiavirtual.com/carta/
+warn,work_odd_date,W010843,1884-85
+warn,work_odd_date,W010846,1974-1975
+warn,work_odd_date,W010848,1976-1977
+warn,work_odd_date,W010855,1971-1972
+warn,work_odd_date,W010856,1976-1977
+warn,work_odd_date,W010864,1976-1977
+info,work_odd_pages,W010884,e0134810
+info,work_odd_pages,W010914,e410
+warn,work_odd_date,W011110,1973-1974
+warn,work_odd_date,W011174,1990-1991
+info,work_no_date,W011329,The “Carta Archeologica d’Italia - Forma Italiae” project. Twenty years of surve
+info,work_part_without_container,W011351,chapter: Sulla ceramica a pasta grigia di Metaponto e sulla presenza di alcuni bolli iscr
+info,work_no_date,W011513,The tomb of Mary of Aragon in the Catania Cathedral as a representation of the p
+info,work_no_date,W011516,The Kingdom of Sicily Image Database
+info,work_no_date,W011517,"Duke University, Wired! Lab"
+info,work_no_date,W011518,"British School at Rome, Digital Collections"
+info,work_no_date,W011519,Getty Art & Architecture Thesaurus
+info,work_no_date,W011520,Centro Interdipartimentale di Ricerca sull'iconografia della città europea
+info,work_no_date,W011521,Marburg Photo Archive
+info,work_no_date,W011522,"The Society of Architectural Historians, SAHARA project"
+info,work_no_date,W011786,ANGLE. Programa de Elementos Finitos
+info,work_no_date,W011997,Comporre la trama: la rappresentazione semantica di manufatti archeologici trami
+info,work_odd_pages,W012163,e68153
+info,work_no_date,W012281,Computer vision/structure for motion per la diffusione dei beni culturali
+info,work_no_date,W012313,Trattato delle antichità di Tivoli e della Villa Hadriana fatto da Pyrrho Ligori
+info,work_no_date,W012314,Libro o vero trattato delle antichità XXII di Pyrrho Ligorio Patritio Napolitano
+warn,work_no_title,W012324,Notizie degli Scavi di Antichità
+info,work_odd_pages,W012615,cc. 5-135
+info,work_no_date,W012674,Espaces sacrés et espaces de production: quelles interactions? quelles nouvelles
+info,work_odd_pages,W012803,cc. 5-615
+info,work_no_date,W012846,Laboratory LADIRE Youtube channel: Hypogeum of Torricchi
+info,work_no_date,W012847,"Laboratory LADIRE Youtube channel: Kourotrophos Maffei, Museum Guarnacci"
+info,work_no_date,W012848,Laboratory LADIRE Sketchfab collections: Necropoli di Volterra (Hypogeum of Torr
+info,work_no_date,W012849,Laboratory LADIRE Sketchfab collections: Museo Etrusco Guarnacci di Volterra
+info,work_odd_pages,W013084,article no. 7
+info,work_odd_pages,W013121,295.1-9
+info,work_odd_pages,W013174,B-1.3
+warn,work_odd_date,W013215,1970-1971
+warn,work_odd_date,W013275,2010-2011
+warn,work_odd_date,W013277,1994-1999
+warn,work_odd_date,W013278,2005-2006
+warn,work_odd_date,W013282,2011-2012
+warn,work_odd_date,W013286,2004-2005
+warn,work_odd_date,W013307,1972-1973
+warn,work_odd_date,W013457,1964-2011
+warn,work_odd_date,W013466,1952-1954
+warn,work_odd_date,W013472,2014-2015
+info,work_no_date,W013591,Adriaticum mare
+info,work_no_date,W013592,Ancient World Mapping Center resources
+info,work_no_date,W013593,"ArcheoFI, Sistema informativo della città di Firenze"
+info,work_no_date,W013594,Arches project
+info,work_no_date,W013595,ARIADNE FP7 2013-2017 project
+info,work_no_date,W013596,"CIDOC CRM, Conceptual Reference Model"
+info,work_no_date,W013597,GeoUML methodology
+info,work_no_date,W013599,"Mappa project, Sistema informativo archeologico della città di Pisa"
+info,work_no_date,W013600,Open Geospatial Consortium (OGC)
+info,work_no_date,W013601,Pleiades project
+info,work_no_date,W013602,Simple Knowledge Organization System (SKOS)
+info,work_no_date,W013603,Sistema Informativo del Patrimonio Culturale della Regione Puglia
+info,work_no_date,W013604,SITAVR – Sistema Informativo Territoriale Archeologico di Verona
+info,work_no_date,W013605,"UML, Unified Modeling Language"
+info,work_no_date,W013606,WebGIS del patrimonio culturale dell'Emilia Romagna
+info,work_no_date,W013607,"WFS, Web Feature Service"
+info,work_no_date,W013608,WebGIS for the heritage of Emilia Romagna region
+warn,work_odd_date,W013714,1768-1779
+warn,work_odd_date,W013974,1443
+info,work_odd_pages,W013984,E4.1-E4.20
+info,work_part_without_container,W014001,chapter: Il rilievo dall'architettura concreta al suo modello immateriale. Atti del Conve
+info,work_odd_pages,W014021,e00102
+info,work_odd_pages,W014030,9.1-9.12
+warn,work_odd_date,W014151,1988-1989
+warn,work_odd_date,W014285,1915-1916
+info,work_odd_pages,W014299,7A-111
+warn,work_odd_date,W014363,2002-2003
+warn,work_odd_date,W014397,1975-1976
+info,work_no_date,W014525,Secondo rapporto sullo stato del Capitale Naturale in Italia
+warn,work_odd_date,W014535,1999-2000
+warn,work_odd_date,W014568,2013/2014
+warn,work_odd_date,W014748,2007-2016
+warn,work_odd_date,W014774,1979-1980
+info,work_no_date,W014922,Origini e storia di Canneto-Don Cataldo Nicolai
+warn,work_odd_date,W015179,1999-2000
+info,work_odd_pages,W015215,350-354; 357
+warn,work_odd_date,W015249,2019-2021
+info,work_odd_pages,W015278,e175
+info,work_odd_pages,W015279,e00090
+info,work_odd_pages,W015344,e0116482
+info,work_odd_pages,W015353,e29029
+warn,work_odd_date,W015358,2004-2005
+info,work_odd_pages,W015410,e00087
+info,work_odd_pages,W015414,e0155316
+info,work_odd_pages,W015479,E5450-E5458
+info,work_odd_pages,W015508,e00110
+info,work_odd_pages,W015533,e0170727
+info,work_no_date,W015546,Carta del Rischio Archeologico - Comprensorio Imolese
+info,work_odd_pages,W015558,W056021-W056026
+info,work_odd_pages,W015568,e0200167
+info,work_odd_pages,W015578,29-35; 33-36; 26-33
+warn,work_odd_date,W015649,2004-2005
+warn,work_odd_date,W015659,2008-2009
+warn,work_odd_date,W015662,1972-1973
+warn,work_odd_date,W015664,1851-1853
+info,work_odd_pages,W015757,e023191
+info,work_odd_pages,W015772,153-156; 195-219
+info,work_odd_pages,W016025,EL27-EL33
+info,work_odd_pages,W016041,E7856-E7865
+info,work_odd_pages,W016054,S336-S360
+info,work_odd_pages,W016333,76222K
+info,work_odd_pages,W016349,e0236417
+info,work_odd_pages,W016364,S66-S70
+info,work_odd_pages,W016372,103310A
+info,work_no_date,W016379,Trimesh
+info,work_odd_pages,W016394,Suppl.
+info,work_no_date,W016582,https://www.claris.com/it/filemaker/pro/
+info,work_no_date,W016583,https://www.python.org/
+info,work_no_date,W016584,https://www.postgresql.org/
+info,work_no_date,W016585,https://www.gaia-gis.it/
+info,work_no_date,W016586,https://www.QGIS.org/it/site/
+info,work_no_date,W016587,https://github.com/pyarchinit/pyarchinit
+info,work_no_date,W016588,https://www.archeo3.it/
+info,work_no_date,W016589,https://qfield.org/
+info,work_no_date,W016590,https://pyarchinit.org/
+info,work_odd_pages,W016629,10.1-10.9
+info,work_odd_pages,W016653,5.1-5.12
+info,work_no_date,W016742,http://recap.huma-num.fr
+info,work_no_date,W016743,https://across-project.github.io/
+info,work_odd_pages,W016881,e0179671
+info,work_odd_pages,W017111,e00184
+info,work_odd_pages,W017168,128-133; 334-337
+info,work_odd_pages,W017378,giz053
+info,work_odd_pages,W017379,eaao0185
+info,work_odd_pages,W017386,e0166387
+info,work_odd_pages,W017388,e0127502
+info,work_odd_pages,W017397,e51839
+info,work_odd_pages,W017509,e23320
+info,work_odd_pages,W017808,e0192039
+info,work_odd_pages,W017825,e0253511
+info,work_odd_pages,W018012,e0269796
+info,work_odd_pages,W018295,A249-A
+info,work_no_date,W018511,"Corpus numérique LIMC-icon, site web LIMC-France et thésaurus TheA"
+info,work_odd_pages,W018529,e2105873118
+info,work_odd_pages,W018558,e0227433
+info,work_odd_pages,W018784,e00191
+info,work_odd_pages,W018792,e00106
+info,work_odd_pages,W018821,e00179
+info,work_odd_pages,W018826,e00157
+info,work_odd_pages,W018845,e00172
+warn,work_odd_date,W018868,2009-2010
+info,work_odd_pages,W018930,S8-S17
+warn,work_odd_date,W018932,1926-27
+info,work_odd_pages,W019049,chapter 13
+info,work_odd_pages,W019166,e2109313118
+info,work_odd_pages,W019171,e1006750
+info,work_odd_pages,W019177,e0239424
+info,work_odd_pages,W019342,e0267163
+info,work_odd_pages,W019813,54A
+info,work_odd_pages,W019916,E1520-E1529
+info,work_odd_pages,W019921,eaau0137
+info,work_odd_pages,W019942,e00292
+info,work_odd_pages,W019980,e36
+info,work_odd_pages,W020120,e0267168
+info,work_odd_pages,W020122,e00279
+info,work_odd_pages,W020144,e00078
+info,work_odd_pages,W020146,e00338
+info,work_odd_pages,W020209,e108334
+info,work_odd_pages,W020265,e00238
+info,work_odd_pages,W020266,e00243
+info,work_odd_pages,W020315,e0254937
+info,work_odd_pages,W020336,e0146695
+info,work_part_without_container,W020580,article: Indagini sulle divisioni agrarie degli agri Aeclanensis e Compsinus: considerazi
+info,work_odd_pages,W020619,85381K
+info,work_odd_pages,W021188,e70081
+info,work_odd_pages,W021204,e0268401
+error,cit_duplicate_row,428:5,W004479
+info,cit_same_work_twice,43,W002137 cited 2 times
+info,cit_same_work_twice,43,W002140 cited 2 times
+info,cit_same_work_twice,43,W000012 cited 2 times
+info,cit_same_work_twice,43,W002141 cited 2 times
+info,cit_same_work_twice,43,W002142 cited 2 times
+info,cit_same_work_twice,43,W002143 cited 2 times
+info,cit_same_work_twice,43,W001730 cited 2 times
+info,cit_same_work_twice,43,W002145 cited 2 times
+info,cit_same_work_twice,43,W002147 cited 2 times
+info,cit_same_work_twice,43,W002148 cited 2 times
+info,cit_same_work_twice,178,W003735 cited 2 times
+info,cit_same_work_twice,178,W003738 cited 2 times
+info,cit_same_work_twice,253,W003196 cited 2 times
+info,cit_same_work_twice,325,W005314 cited 2 times
+info,cit_same_work_twice,394,W006729 cited 2 times
+info,cit_same_work_twice,414,W005278 cited 2 times
+info,cit_same_work_twice,428,W004479 cited 2 times
+info,cit_same_work_twice,445,W007826 cited 2 times
+info,cit_same_work_twice,590,W005198 cited 2 times
+info,cit_same_work_twice,790,W000575 cited 2 times
+info,cit_same_work_twice,902,W007453 cited 2 times
+info,cit_same_work_twice,1001,W013472 cited 2 times
+info,cit_same_work_twice,1187,W016543 cited 2 times
+info,cit_same_work_twice,1401,W006855 cited 3 times
+info,cit_same_work_twice,1417,W020516 cited 2 times
+info,md_without_parsed,244,data/journal/9/244.md
+info,md_without_parsed,261,data/journal/9/261.md
+info,md_without_parsed,352,data/journal/14/352.md
+info,md_without_parsed,353,data/journal/14/353.md
+info,md_without_parsed,365,data/journal/14/365.md
+info,md_without_parsed,366,data/journal/14/366.md
+info,md_without_parsed,367,data/journal/14/367.md
+info,md_without_parsed,368,data/journal/15/368.md
+info,md_without_parsed,385,data/journal/15/385.md
+info,md_without_parsed,400,data/journal/15/400.md
+warn,ref_count_differs,1382:11,"1 parsed refs, 3 citations: Ginouvés R., Martin R. (eds.) 1985, 1992, 1998, *Dictionnaire méthodique de l'architecture grecque e"
+warn,ref_count_differs,358:5,"1 parsed refs, 2 citations: Caere 3.1-2 = AA.VV., Lo scarico arcaico della Vigna Parrocchiale, Roma 1992-1993, CNR."
+warn,ref_count_differs,616:29,"1 parsed refs, 2 citations: Suber P. 2004, Promoting Open Access in the Humanities, (http://www.earlham.edu/~peters/writing/apa."
+warn,ref_count_differs,401:4,"1 parsed refs, 3 citations: CIE I-II.2 1975-1986 = Cristofani M. et al. (eds.), Corpus delle urne etrusche di età ellenistica, I"
+warn,ref_count_differs,902:7,"1 parsed refs, 3 citations: Barker G., Mattingly D.J. 1999, *The Archaeology of Mediterranean Landscapes*, Oxford, Oxbow Books."
+warn,ref_count_differs,1234:1,"1 parsed refs, 9 citations: AA.VV. 1992-2008, *Bulletin analytique d'architecture du monde grec*, «Revue archéologique», 1992, 2"
+warn,ref_count_differs,1234:11,"1 parsed refs, 4 citations: Hellmann M.-C. 2009-2015, *Chronique d'architecture grecque*, «Revue archéologique», 2009, 265-282; "
+warn,ref_count_differs,1234:13,"1 parsed refs, 5 citations: Nenna M.-D. 2001-2015, *Verres de l'antiquité gréco-romaine: cinq ans de publication*, «Revue archéo"
+warn,ref_count_differs,503:1,"1 parsed refs, 4 citations: AA.VV. 1995-2004, Carta Archeologica della Provincia di Siena, voll. I-VI, Siena, NIE."
+warn,ref_count_differs,850:17,"1 parsed refs, 5 citations: *Lexicon Topographicum Urbis Romae, Suburbium*, I-V, Roma 2001-2008, Edizioni Quasar."
+warn,ref_count_differs,203:55,"1 parsed refs, 3 citations: RICCI-LUCCHI F. 1980, Sedimentologia, Vol. 1-3, Bologna, C.L.U.E.B."
+warn,ref_count_differs,34:54,"1 parsed refs, 4 citations: « Apple Soft », n. 1/88, 2/88, 3/88, 4/88, Soft publishing s.r.l."
+warn,ref_count_differs,475:7,"1 parsed refs, 2 citations: Drucker J., Nowviskie B. forthcoming, Temporal Modelling: Visualization of Temporal Relations for Hu"
+warn,ref_count_differs,54:40,"1 parsed refs, 2 citations: *Luni* I, II = A. FROVA (ed.), Luni I. Scavi di Luni I. Relazione delle campagne di scavo 1970-71, R"
+info,link_mismatch,284:3,"W004366 | title sim 0.65 | ref: MOSCATI P. (ed.) 1996a, Atti del III Convegno Internazionale di Archeologia e Informatica (Roma 1995), «Archeologia e Calcolatori», 7, 1996. | work: III International Symposium on Computing and Archaeology - Roma 22-25 novembre 1995 (1996)"
+warn,link_mismatch,904:21,"W012310 | year 2002≠2006; authors ['giuliani']≠['cairoligiuliani'] | ref: Giuliani C.F. 2002, *L'edilizia nell'antichità*, Roma, Carocci. | work: L'edilizia nell'antichità (2006)"
+warn,link_mismatch,904:22,"W011765 | authors ['giuliani']≠['cairoligiuliani']; type book≠article | ref: Giuliani C.F. 2012, *Archeologia oggi: la fantasia al potere*, Quaderni di archeologia e di cultura classica 2, Tiburis Artistica. | work: Archeologia oggi, la fantasia al potere (2012)"
+warn,link_mismatch,904:23,"W012311 | authors ['giuliani']≠['cairoligiuliani'] | ref: Giuliani C.F. 2016, *Il quadro fessurativo nello studio dei monumenti antichi*, Quaderni di archeologia e di cultura classica 4, Tiburis Art | work: Il quadro fessurativo nello studio dei monumenti antichi (2016)"
+info,link_mismatch,904:30,"W012317 | year 1849≠1848 | ref: Nibby A. 1849, *Analisi storico-topografico-antiquaria della Carta de' dintorni di Roma*, III, Roma. | work: Analisi storico-topografico-antiquaria della Carta de' dintorni di Roma (1848)"
+info,link_mismatch,1248:7,"W012214 | year 2007≠2006 | ref: KOMPATSCHER K., KOMPATSCHER H.M. 2007, *Dove piantare il campo: modelli insediativi e di mobilità nel Mesolitico in ambiente alpino*, «Preis | work: Dove piantare il campo: modelli insediativi e di mobilità nel Mesolitico in ambiente alpino (2006)"
+info,link_mismatch,504:6,"W004276 | title sim 0.54 | ref: Djindjian F., Ducasse H. (eds.) 1987, Data Processing and Mathematics Applied to Archaeology, Ecole d’été Valbonne-Montpellier, Mathématique | work: Mathématiques et Informatique appliquées à l'archéologie, PACT 16 (1987)"
+info,link_mismatch,504:7,"W007334 | title sim 0.46 | ref: Djindjian F., Moscati P. (eds.) 2002, Proceedings of the Commission 4 Symposia, XIV UISPP Congress (Liège 2001), «Archeologia e Calcolatori» | work: Data Management and Mathematical Methods in Archaeology. Proceedings of Commission IV Symposia, XIV  (2002)"
+info,link_mismatch,504:27,"W001493 | year 1986≠1985 | ref: Voorrips A., Loving S.H. (eds.) 1986, To Pattern the Past, «Pact», 11. | work: To Pattern the Past (1985)"
+info,link_mismatch,441:47,"W007759 | year 1987≠1901 | ref: JANORA M. 1987, *Memorie storiche, critiche e diplomatiche della città di Montepeloso (oggi Irsina)*, Matera. | work: Memorie storiche, critiche e diplomatiche della città di Montepeloso (oggi Irsina) (1901)"
+info,link_mismatch,441:74,"W007785 | title sim 0.47 | ref: SCARDOZZI G. c.s.a, *Ricognizioni archeologiche nell’area urbana e nel territorio di Hierapolis*, in *Hierapolis di Frigia, II. Le attività  | work: Ricognizioni archeologiche nel territorio di Hierapolis: gli acquedotti, le cave di materiali lapide (2012)"
+info,link_mismatch,380:10,"W005139 | type book≠article | ref: Camiz S. 2000 (in press), Exploratory 2- and 3-way Data Analysis and Applications, Lecture Notes of TICMI, Tbilisi International Centre of M | work: Exploratory 2- and 3-way Data Analysis and Applications (2000)"
+info,link_mismatch,380:11,"W000407 | title sim 0.42 | ref: Camiz S., Ferrazza E. (in press), L'immagine di Aiace nell'Italia antica, «Archeologia e Calcolatori», 16. | work: Studio sull’iconografia di Aiace Telamonio con metodi di analisi esplorative dei dati (2006)"
+info,link_mismatch,800:49,"W010285 | year 2009≠2007 | ref: Miller J.H., Page S.E. 2009, Complex Adaptive Systems: An Introduction to Computational Models of Social Life, Princeton, Princeton Universi | work: Complex Adaptive Systems. An Introduction to Computational Models of Social Life (2007)"
+info,link_mismatch,800:70,"W006938 | year 2003≠2004 | ref: Wheatley D. 2003, Making space for an Archaeology of Place, «Internet Archaeology», 15 (http://intarch.ac.uk/journal/issue15/wheatley_index. | work: Making space for an archaeology of place (2004)"
+info,link_mismatch,416:16,"W006855 | year 1999≠2004 | ref: ICOM/CIDOC 1999 = Documentation Standard Group, Revised Definition of the CIDOC Conceptual Reference Model (http://cidoc.ics.forth.gr/). | work: Definition of the CIDOC Conceptual Reference Model (2004)"
+info,link_mismatch,1264:2,"W006007 | title sim 0.69 | ref: Arnold D., Chalmers A., Fellner D. (eds.) 2001, *VAST '01: Proceedings of the 2001 Conference on Virtual Reality, Archeology, and Cultural H | work: VAST2001. The International Symposium on Virtual Reality, Archaeology and Cultural Heritage (Atene,  (2001)"
+info,link_mismatch,1264:45,"W010654 | year 2012≠2011 | ref: Russo M., Remondino F. 2012, *Laser Scanning e fotogrammetria: strumenti e metodi di rilievo tridimensionali per l'archeologia*, in G.P. Bro | work: Laser scanning e fotogrammetria: strumenti e metodi di rilievo tridimensionale per l'archeologia (2011)"
+info,link_mismatch,601:25,"W005855 | year 1994≠1993 | ref: Kosko B. 1994, Fuzzy Thinking, London, Flamingo. | work: Fuzzy Thinking: The New Science of Fuzzy Logic (1993)"
+info,link_mismatch,314:6,"W002206 | year 1990≠1991 | ref: DJINDJIAN F. 1990, Méthodes pour l’archéologie, Paris, Armand Colin. | work: Méthodes pour l'archéologie (1991)"
+warn,link_mismatch,178:47,"W003760 | authors ['isoiec']≠['iso'] | ref: ISO/IEC 10646-1: 1993, Information Technology - Universal Multiple-Octet Coded Character Set (UCS) - Part 1: Architecture and Basic Multilin | work: Information Technology - Universal Multiple-Octet Coded Character Set (UCS) - Part 1: Architecture a (1993)"
+info,link_mismatch,713:8,"W005139 | year 2001≠2000 | ref: Camiz S. 2001, Exploratory 2- and 3-way data analysis and applications, «Lecture Notes of TICMI», vol. 2 (http://www.emis.de/journals/TICMI/ | work: Exploratory 2- and 3-way Data Analysis and Applications (2000)"
+info,link_mismatch,713:15,"W009178 | year 2012≠2011 | ref: Di Ludovico A. 2012, Experimental approaches to glyptic art using Artificial Neural Networks. An investigation into the Ur III iconological  | work: Experimental approaches to glyptic art using Artificial Neural Networks. An investigation into the U (2011)"
+info,link_mismatch,590:5,"W005198 | year 1993≠1992 | ref: Belén M., Escacena J.L. 1993, Las comunidades prerromanas de Andalucía Occidental, in M. Almagro, M. and G. Ruiz (eds.), Paleoetnología de l | work: Las comunidades prerromanas de Andalucía Occidental (1992)"
+info,link_mismatch,1049:16,"W014049 | year 2012≠2014 | ref: Centofanti M., Brusaporci S., Lucchese V. 2012, *Architectural heritage and 3d models*, in P. Giamberardio, D. Iacoviello, R. Natal, R.S. Ta | work: Architectural heritage and 3d models (2014)"
+info,link_mismatch,139:8,"W003179 | title sim 0.19 | ref: WHITTLESEY J.H. 1979, in D.L. CLARK JR. (ed.) *Photogrammetry for Archaeology*, New York. | work: Photogrammetry for the Archaeologist with Calculator Programs for Cartographic Plotting (1979)"
+info,link_mismatch,1272:32,"W014610 | year 2017≠2018 | ref: Sapirstein P. 2017, *Appendices: A high precision photogrammetric recording system for small artifacts*, «Journal of Cultural Heritage», 31, | work: A high-precision photogrammetric recording system for small artifacts (2018)"
+info,link_mismatch,1337:5,"W017891 | year 2017≠2012 | ref: ICOMOS 2017, *The Seville Principles. International Principles of Virtual Archaeology*, International Forum of Virtual Archaeology, New Delh | work: International Principles of Virtual Archaeology (2012)"
+info,link_mismatch,302:7,"W002386 | year 1992≠1993 | ref: FORTE M. 1992, Image processing applications in archaeology: Classification systems of archaeological sites in the landscape, in J. ANDRESEN | work: Image processing applications in archaeology: classification systems of archaeological sites in the  (1993)"
+info,link_mismatch,302:26,"W002392 | year 1990≠1991 | ref: REILLY P. 1990, Towards a virtual archaeology, in K. LOCKYEAR, S. RAHTZ (eds.), Computer Applications and Quantitative Methods in Archaeolog | work: Towards a virtual archaeology (1991)"
+info,link_mismatch,181:14,"W003813 | title sim 0.19 | ref: PONSICH M., Implantation Rurale Antique sur le bas Guadalquivir, I, Madrid 1974; II, Madrid 1979; IV, Paris-Madrid 1991. | work: Implantation Rurale Antique sur le bas Guadalquivir (1979)"
+info,link_mismatch,181:14,"W003814 | title sim 0.19 | ref: PONSICH M., Implantation Rurale Antique sur le bas Guadalquivir, I, Madrid 1974; II, Madrid 1979; IV, Paris-Madrid 1991. | work: Implantation Rurale Antique sur le bas Guadalquivir (1991)"
+info,link_mismatch,119:7,"W002105 | year 1989≠1990 | ref: NIELSEN J. 1989, Hypertext & Hypermedia, San Diego-California, Academic Press. | work: Hypertext and Hypermedia (1990)"
+info,link_mismatch,375:7,"W003857 | year 1993≠1992 | ref: Ruggeri M. (ed.) 1993, *Strutturazione dei dati delle schede di catalogo e precatalogo. Reperti acheologici. Beni mobili. Schede RA-N*, Roma | work: Strutturazione dei dati delle schede di catalogo e precatalogo. Beni archeologici. Reperti mobili. S (1992)"
+info,link_mismatch,660:5,"W004234 | year 1959≠1958 | ref: Centre d'Analyse Documentaire pour l'Archéologie 1959, Paris, CNRS. | work: Le Centre d'Analyse Documentaire pour l'Archéologie (1958)"
+info,link_mismatch,660:21,"W003620 | year 1959≠1958 | ref: Gardin J.-C. 1959a, Four codes for the description of artefacts: An essay in archaeological technique and theory, «American Anthropologist», | work: Four codes for the description of artifacts: An essay in archaeological technique and theory (1958)"
+info,link_mismatch,288:7,"W004952 | year 1999≠2000 | ref: NICCOLUCCI F., CRESCIOLI M. 1999, PETRA 3.0 and the Crusader border: new features of the PETRA archaeological DBMS, in Computer Applications | work: PETRA 3.0 and the Crusader border: new features of the PETRA archaeological DBMS (2000)"
+info,link_mismatch,322:2,"W007153 | title sim 0.71 | ref: AA.VV. 2001, Atti della Giornata di Studio “Nuove forme di intervento per lo studio del sito antico di Cuma” (Napoli 2001), «AION», in corso | work: Cuma. Nuove forme di intervento per lo studio del sito antico. Atti della giornata di studio (Napoli (2002)"
+info,link_mismatch,1497:19,"W017247 | year 2015≠2016 | ref: He K., Zhang X., Ren S., Sun J. 2015, Deep residual learning for image recognition, in 2016 IEEE Conference on Computer Vision and Pattern R | work: Deep residual learning for image recognition (2016)"
+info,link_mismatch,1301:12,"W010092 | year 2003≠2001 | ref: Campana S., Forte M. 2003, *Remote Sensing in Archaeology*, XI ciclo di lezioni sulla ricerca applicata in archeologia (Certosa di Pontignan | work: Remote Sensing in Archaeology. XI Ciclo di Lezioni sulla Ricerca applicata in Archeologia (Certosa d (2001)"
+info,link_mismatch,1301:16,"W008851 | year 2008≠2009 | ref: Desachy B. 2008, *De la formalisation du traitement des données stratigraphiques en archéologie de terrain*, Thèse, Université de Paris 1 Pa | work: Formalisation du traitement des données stratigraphiques en archéologie de terrain (2009)"
+info,link_mismatch,1244:8,"W003099 | year 1992≠1993 | ref: van Leusen M. 1992, *Cartographic modelling in a cell-based GIS*, in J. Andresen, T. Madsen, I. Scollar (eds.), *Computing the Past. Compute | work: Cartographic Modelling in a Cell-based GIS (1993)"
+info,link_mismatch,1356:6,"W017466 | year 2024≠2023 | ref: Bogdani J. 2024, *Moveit: A proof of concept of a road graph for late antique Egypt*, «GROMA: Documenting Archaeology», 7, 14-25. | work: MOvEIT: A proof of concept of a road graph for late antique Egypt (2023)"
+info,link_mismatch,1356:31,"W016755 | year 2010≠2011 | ref: Manacorda D., Santangeli Valenzani R. (eds.) 2010, *Il primo miglio della Via Appia a Roma. Atti della giornata di studio (Roma 2009)*, Roma | work: Il primo miglio della via Appia a Roma (2011)"
+info,link_mismatch,1356:39,"W011646 | year 2003≠2002 | ref: Tarpin M. 2003, *Vici et pagi dans l'Occident romain*, Rome, École française de Rome. | work: Vici et pagi dans l'Occident romain (2002)"
+info,link_mismatch,363:3,"W006005 | year 2002≠2000 | ref: FORTE M. 2002, s.v. Comunicazione e archeologia, in R. FRANCOVICH, D. MANACORDA (eds.), Dizionario di archeologia, Roma-Bari, Laterza, 75-80 | work: Comunicazione e archeologia (2000)"
+info,link_mismatch,1004:4,"W010619 | year 2006≠2005 | ref: Biallo G. 2006, *Introduzione ai Sistemi Informativi Geografici*, Roma, I Quaderni MondoGis. | work: Introduzione ai Sistemi Informativi Geografici (2005)"
+info,link_mismatch,174:9,"W003678 | year 1996≠1997 | ref: BLÁNQUEZ PÉREZ J. 1996b, Caballeros y aristocracia en el s. V a.C., en Iconografía ibérica e iconografía itálica: propuestas de interpretaci | work: Caballeros y aristocracia en el s. V a.C. (1997)"
+warn,link_mismatch,174:23,"W003692 | authors ['olmos']≠['olmosromera'] | ref: OLMOS R. 1992, La sociedad ibérica a través de la imagen, Madrid, Ministerio de Cultura. | work: La sociedad ibérica a través de la imagen (1992)"
+warn,link_mismatch,174:24,"W003693 | year 1996≠1997; authors ['olmos']≠['olmosromera', 'tortosarocamora']; title sim 0.57 | ref: OLMOS R. (ed.) 1996, La dama de Elche, Coloquio, Colección LYNX, 2, c.s. | work: La Dama de Elche. Lecturas desde la diversidad (1997)"
+info,link_mismatch,1141:27,"W001063 | title sim 0.25 | ref: Piergrossi A. 2020, *What is F.A.I.R.?*, «Archeologia e Calcolatori», 31.1, 253-256 (https://doi.org/10.19282/ac.31.1.2020.12). | work: Note e Recensioni (2020)"
+info,link_mismatch,1268:1,"W012728 | year 2008≠1988 | ref: Adam J.-P. 2008, L'arte di costruire presso i Romani. Materiali e tecniche, Milano, Longanesi. | work: L'arte di costruire presso i romani. Materiali e tecniche (1988)"
+warn,link_mismatch,1268:31,"W017981 | authors ['jones']≠['wilsonjones'] | ref: Jones M.W. 2000, Principles of Roman Architecture, New Haven/London, Yale University Press. | work: Principles of Roman Architecture (2000)"
+info,link_mismatch,1287:34,"W015496 | year 2010≠2011 | ref: Pocobelli G.F. 2010-2011, *Vulci ed il suo territorio: area urbana, necropoli e viabilità. Applicazioni di cartografia archeologica e fotogr | work: Vulci e il suo territorio: area urbana, necropoli e viabilità. Applicazioni di cartografia archeolog (2011)"
+info,link_mismatch,1053:57,"W008756 | year 2009≠2008 | ref: Trier Ø., Larsen S., Solberg R. 2009, *Automatic detection of circular structures in high-resolution satellite images of agricultural land*, | work: Automatic detection of circular structures in high-resolution satellite images of agricultural land (2008)"
+info,link_mismatch,1116:38,"W004312 | year 2009≠1990 | ref: Scollar I., Tabbagh A., Hesse A., Herzog I. 2009, *Archaeological Prospecting and Remote Sensing*, Cambridge, Cambridge University Press. | work: Archaeological Prospecting and Remote Sensing (1990)"
+warn,link_mismatch,1395:42,"W020317 | authors ['velaz']≠['velazciaurriz'] | ref: Vélaz D. 2023, La comunicación de la Prehistoria a través de las redes sociales: El caso de Twitter, «Complutum», 34, 2, 561-581 (https://d | work: La comunicación de la Prehistoria a través de las redes sociales: El caso de Twitter (2023)"
+info,link_mismatch,1383:43,"W017283 | year 2023≠2020 | ref: Sala F. 2023, From Vitruvio to ArchaeoBIM. BIM Reconstruction of the Archaeological Context of Massaciuccoli (LU) (https://www.mappalab.eu/e | work: From Vitruvius to ArcaheoBIM. BIM reconstruction of the archaeological context of Massaciuccoli (LU) (2020)"
+warn,link_mismatch,1383:49,"W016626 | authors ['vignola']≠['barroziodavignola'] | ref: Vignola J.B. 1562, *La regola delli cinque ordini d'architettura*, Bologna, Lelio dalla Volpe. | work: La regola delli cinque ordini d'architettura (1562)"
+info,link_mismatch,1229:3,"W016599 | title sim 0.59 | ref: Camporeale S., Dessales H., Tricoche A. (eds.) forthcoming, Atlante delle tecniche della costruzione romana. Manuale, Roma, Quasar. | work: ACoR. Atlas des techniques de la construction romaine: Guide = Atlante delle tecniche della costruzi (2025)"
+warn,link_mismatch,359:1,"W000285 | year 2001≠2000; title sim 0.58 | ref: COLOSI F., COSTANTINI A., GABRIELLI R., PIRO S., SANTORO P. 2001, Studio integrato e multidisciplinare del territorio: il caso della Valle d | work: Lo studio del territorio impiegando diverse metodologie d'indagine: il caso della valle del Tevere (2000)"
+info,link_mismatch,359:3,"W000311 | year 2002≠2001 | ref: COLOSI F., GABRIELLI R., PELOSO D., ROSE D. 2002, Impiego del Differential Global Positioning System (DGPS) per lo studio del paesaggio anti | work: Impiego del Differential Global Positioning System (DGPS) per lo studio del paesaggio antico: alcuni (2001)"
+info,link_mismatch,924:1,"W012728 | year 1984≠1988 | ref: Adam J.P. 1984, *L'arte di costruire presso i Romani*, Milano, Longanesi. | work: L'arte di costruire presso i romani. Materiali e tecniche (1988)"
+warn,link_mismatch,924:15,"W012310 | authors ['giuliani']≠['cairoligiuliani'] | ref: Giuliani C.F. 2006, *L'edilizia nell'antichità*, Roma, Carocci Editore. | work: L'edilizia nell'antichità (2006)"
+info,link_mismatch,1157:25,"W016103 | year 1988≠1995 | ref: Sassatelli G. 1988, Topografia e ""sistemazione monumentale"" delle necropoli felsinee, in LLa formazione della città preromana in Emilia Roma | work: Topografia e ""sistemazione monumentale"" delle necropoli felsinee (1995)"
+info,link_mismatch,1290:16,"W015780 | year 2020≠2019 | ref: Ferdani D., Demetrescu E., Cavalieri M., Pace G., Lenzi S. 2020, *3D modelling and visualization in field archaeology. From survey to interp | work: 3D modelling and visualization in field archaeology. From survey to interpretation of the past using (2019)"
+info,link_mismatch,1506:3,"W017721 | year 2022≠2021 | ref: Caravale A., Miliani C., Moscati P., Sfameni C. 2022, La sfida delle competenze per il patrimonio culturale: complementarità, integrazione,  | work: La sfida delle competenze per il Patrimonio Culturale: complementarità, integrazione, interazione (2021)"
+warn,link_mismatch,163:2,"W003491 | authors ['burillo']≠['burillomozota'] | ref: BURILLO F. (ed.) 1993, Procesos postdeposicionales, «Arqueología Espacial», 16-17. | work: Procesos postdeposicionales (1993)"
+info,link_mismatch,358:5,"W004393 | year 1992≠1993 | ref: Caere 3.1-2 = AA.VV., Lo scarico arcaico della Vigna Parrocchiale, Roma 1992-1993, CNR. | work: Caere 3.2. Lo scarico arcaico della Vigna Parrocchiale (1993)"
+info,link_mismatch,421:3,"W007328 | title sim 0.67 | ref: Atzeni C., Sanna U., Spanu N. c.s., A standardized framework for conservative management of archaeological sites, «Conservation and Manageme | work: A fuzzy knowledge-based model for project selection in conservative management of archaeological sit (2006)"
+info,link_mismatch,421:16,"W005855 | year 1994≠1993 | ref: Kosko B. 1994, Fuzzy Thinking, London, Flamingo. | work: Fuzzy Thinking: The New Science of Fuzzy Logic (1993)"
+info,link_mismatch,1101:25,"W010324 | year 2007≠2008 | ref: Di Ludovico A., Ramazzotti M. 2007, *Reconstructing lexicography in glyptic art: Structural relations between the Akkadian age and the Ur II | work: Reconstructing lexicography in glyptic art: Structural relations between the Akkadian age and the Ur (2008)"
+info,link_mismatch,437:25,"W006658 | title sim 0.71 | ref: GILLINGS M., MATTINGLY D., VAN DALEN J. (eds.) 1999, Geographic Information Systems and Landscape Archaeology. The Archaeology of Mediterran | work: Geographical Information Systems and Landscape Archaeology (1999)"
+info,link_mismatch,1052:17,"W010732 | type book≠article | ref: Frassine M. 2013, *Palus in agro. Aree umide, bonifiche e assetti centuriati in epoca romana*, Roma, Fabrizio Serra Editore. | work: Palus in agro. Aree umide, bonifiche e assetti centuriati in epoca romana (2013)"
+warn,link_mismatch,572:18,"W003450 | authors ['modrzewska']≠['modrzewskapianetti'] | ref: Modrzewska I. 1995, Anfore spagnole nel Veneto. Testimonianze dei contatti commerciali Betica-Venetia, Pisa, CNR. | work: Anfore spagnole nel Veneto. Testimonianze dei contatti commerciali fra Betica e Venetia (1995)"
+warn,link_mismatch,572:19,"W008815 | authors ['modrzewska']≠['modrzewskapianetti'] | ref: Modrzewska I. 1996, Anfore romane e bizantine nella laguna di Venezia. Problemi da risolvere, «Terra incognita. Rivista di antropologia, arc | work: Anfore romane e bizantine nella laguna di Venezia. Problemi da risolvere (1996)"
+warn,link_mismatch,572:20,"W008816 | authors ['modrzewska']≠['modrzewskapianetti'] | ref: Modrzewska I. 1998, Bizantyjskie amfory (wydobyte) z laguny weneckiej, in Studia z dziejów cywilizacji, Warszawa, A. Buko, 267-274. | work: Bizantyjskie amfory (wydobyte) z laguny weneckiej (1998)"
+warn,link_mismatch,572:21,"W008817 | authors ['modrzewska']≠['modrzewskapianetti'] | ref: Modrzewska I. 1999a, Gli scavi polacchi nell’isola di Torcello visti dopo trent’anni, in Centenary of Mediterranean Archaeology at the Jagie | work: Gli scavi polacchi nell’isola di Torcello visti dopo trent’anni (1999)"
+warn,link_mismatch,572:22,"W008818 | authors ['modrzewska']≠['modrzewskapianetti'] | ref: Modrzewska I. 1999b, Alcune importazioni di anfore orientali in Friuli, «Quaderni Friulani di Archeologia», 9, 1, 103-112. | work: Alcune importazioni di anfore orientali in Friuli (1999)"
+warn,link_mismatch,572:23,"W008819 | authors ['modrzewska']≠['modrzewskapianetti'] | ref: Modrzewska I. 2000a, Sulla storia della laguna di Venezia nell’antichità, Varsavia, Instytut Archeologii. | work: Sulla storia della laguna di Venezia nell’antichità (2000)"
+warn,link_mismatch,572:25,"W008821 | authors ['modrzewska']≠['modrzewskapianetti'] | ref: Modrzewska I. 2001, Importy amfor z Galii Cisalpińskiej: dane z obszaru Cisalpiny, «Światowit», 3, fasc. A, 143-155. | work: Importy amfor z Galii Cisalpińskiej: dane z obszaru Cisalpiny (2001)"
+warn,link_mismatch,572:27,"W008823 | authors ['modrzewska']≠['modrzewskapianetti'] | ref: Modrzewska I. 2006, Alcuni problemi di ritrovamenti di anfore tardoantiche nella laguna di Venezia, «Światowit», 6, fasc. A, 43-47. | work: Alcuni problemi di ritrovamenti di anfore tardoantiche nella laguna di Venezia (2006)"
+warn,link_mismatch,572:28,"W008824 | authors ['modrzewska']≠['modrzewskapianetti'] | ref: Modrzewska I. c.s., Un nuovo ritrovamento di un’anfora nel sito lagunare veneziano: Chiese Bruciate, «Novensia», c.s. | work: Un nuovo ritrovamento di anfora nel sito lagunare veneziano: Chiese Bruciate (2009)"
+info,link_mismatch,1117:2,"W011315 | year 2004≠2003 | ref: Amendolea B. 2004, *Un repertorio bibliografico per la Carta Archeologica della Provincia di Roma*, Roma, Bardi. | work: Repertorio bibliografico per la Carta Archeologica della Provincia di Roma (2003)"
+info,link_mismatch,1117:24,"W007987 | year 2005≠2006 | ref: Conolly J., Lake M. 2005, *Geographical Information Systems in Archaeology*, Cambridge, Cambridge University Press. | work: Geographical Information Systems in Archaeology (2006)"
+warn,link_mismatch,319:9,"W005204 | authors ['oria']≠['escobarperez', 'ferreralbelda', 'garciavargas', 'mancebodavalos', 'oriasegura', 'oteromoran', 'perezpaz', 'rodriguezmorales', 'sierraalonso', 'velascocarrillodealbornoz'] | ref: ORIA et al. 1991, El poblamiento antiguo en la Sierra Sur de Sevilla. Zona de Montellano, Sevilla, Excmo, Ayuntamiento de Montellano. | work: El poblamiento antiguo en la Sierra Sur de Sevilla. Zona de Montellano (1991)"
+info,link_mismatch,899:60,"W008299 | year 2003≠2006 | ref: Lock G., Molyneaux B. (eds.) 2003, *Confronting Scale in Archaeology*, New York, Plenum. | work: Confronting Scale in Archaeology: Issues of Theory and Practice (2006)"
+info,link_mismatch,899:67,"W012081 | year 2015≠2016 | ref: Niccolucci F., Hermon S. 2015a, *Representing gazetteers and period thesauri in four dimensional space-time*, «International Journal on Digi | work: Representing gazetteers and period thesauri in four-dimensional space-time (2016)"
+warn,link_mismatch,1357:13,"W019528 | authors ['ordnancesurvey']≠['ordnancesurveyofenglandandwales'] | ref: Ordnance Survey 1920 (and later editions), *A description of the large scale maps of Great Britain produced and published by the Ordnance Su | work: A description of the large scale maps of Great Britain produced and published by the Ordnance Survey (1920)"
+info,link_mismatch,362:37,"W006042 | title sim 0.57 | ref: SANTORO BIANCHI S., SANTOPUOLI N. (eds.), Le coperture di aree e strutture archeologiche, Atti della Giornata di Studi (Bologna 2000), c.s. | work: I Grandi Restauri: Coperture per aree e strutture archeologiche (2000)"
+info,link_mismatch,335:50,"W005528 | title sim 0.36 | ref: TOSI M. in press, Introducción, paper presented at the II Reunión International sobre los origenes de la Civilización en la Europa Mediterrá | work: Primi popoli d'Europa: quasi un'introduzione (2002)"
+info,link_mismatch,1245:24,"W008135 | year 2017≠2007 | ref: R Core Team 2017, *R: A Language and Environment for Statistical Computing*, Wien, R Core Team. | work: R: A language and environment for statistical computing (2007)"
+info,link_mismatch,620:5,"W009304 | year 2009≠2008 | ref: D’Andrea A., Iannone G., Saffiotti L. 2009, Metodologie laser scanning per il rilievo archeologico: metodi operativi e standard di documenta | work: Metodologie laser scanning per il rilievo archeologico: metodi operativi e standard di documentazion (2008)"
+warn,link_mismatch,159:9,"W002360 | authors ['modrzewska']≠['modrzewskapianetti'] | ref: MODRZEWSKA I. 1993, Anfore della laguna veneta, scelta di ritrovamenti, Tech. Rep., 168, Venezia, ISDGM-CNR di Venezia. | work: Anfore della laguna veneta. Scelta di ritrovamenti (1993)"
+warn,link_mismatch,159:10,"W003450 | authors ['modrzewska']≠['modrzewskapianetti'] | ref: MODRZEWSKA I. 1995a, Anfore spagnole nel Veneto. Testimonianze dei contatti commerciali fra Betica e Venetia, Pisa, CNR. | work: Anfore spagnole nel Veneto. Testimonianze dei contatti commerciali fra Betica e Venetia (1995)"
+warn,link_mismatch,159:11,"W003451 | authors ['modrzewska']≠['modrzewskapianetti'] | ref: MODRZEWSKA I. 1995b, Anfore spagnole nella laguna e terraferma veneta (Italia), in Estudis sobre ceramica antiga, Actes de Simposi, Barcelon | work: Anfore spagnole nella laguna e terraferma veneta (Italia) (1995)"
+info,link_mismatch,773:2,"W010832 | year 2015≠2016 | ref: Dell’Unto N., Landeschi G., Ferdani D., Dellepiane M., Callieri M., Lindgren S., Leander Touati A.M. 2015, Experiencing ancient buildings fr | work: Experiencing ancient buildings from a 3D GIS perspective: A case drawn from the Swedish Pompeii Proj (2016)"
+info,link_mismatch,616:24,"W004366 | title sim 0.65 | ref: Moscati P. (ed.) 1996, III Convegno Internazionale di Archeologia e Informatica/III International Symposium on Computing and Archaeology (Ro | work: III International Symposium on Computing and Archaeology - Roma 22-25 novembre 1995 (1996)"
+info,link_mismatch,246:8,"W003094 | title sim 0.55 | ref: LOCK G., STANČIĆ Z. (eds.) 1995, The Impact of GIS on Archaeology: An European Perspective, New York, Taylor and Francis. | work: Archaeology and Geographical Information Systems: A European Perspective (1995)"
+info,link_mismatch,246:9,"W004366 | title sim 0.65 | ref: MOSCATI P. (ed.) 1996, III International Symposium on Computing and Archaeology, «Archeologia e Calcolatori», 7. | work: III International Symposium on Computing and Archaeology - Roma 22-25 novembre 1995 (1996)"
+info,link_mismatch,587:35,"W008563 | year 2006≠2007 | ref: Verga F. 2006, Ager Foronovanus I. IGM 138 IIISO/144 IVNO. v. 44, Forma Italiae, Firenze, Leo Olschki. | work: Ager Foronovanus I (2007)"
+info,link_mismatch,1048:22,"W012310 | year 2018≠2006 | ref: Cairoli Giuliani F. 2018, *L'edilizia nell'antichità*, Roma, Carocci. | work: L'edilizia nell'antichità (2006)"
+info,link_mismatch,1048:32,"W010820 | title sim 0.73 | ref: Curci A., Fiorini A. 2012, *Documentare l'archeologia 2.0. Atti del Workshop (Bologna, 2012)*, «Archeologia e Calcolatori», 23, 209-325. | work: Documentare l'archeologia 2.0, Atti dell'Workshop (Bologna, Alma Mater Studiorum Università di Bolog (2012)"
+info,link_mismatch,1048:34,"W010478 | year 2008≠2009 | ref: D'Agata A.L., Alaura S. 2008, *Quale futuro per l'Archeologia? Atti del Workshop Internazionale (Roma 2008)*, Roma, Gangemi Editore. | work: Quale futuro per l'Archeologia?, Atti del Workshop internazionale (Roma 2008) (2009)"
+info,link_mismatch,1048:66,"W011108 | year 2001≠2002 | ref: Migliari R. 2001, *Frontiere del rilievo, dalla matita alle scansioni 3D*, Roma, Gangemi. | work: Frontiere del rilievo. Dalla matita alle scansioni 3D (2002)"
+info,link_mismatch,568:20,"W008710 | title sim 0.70 | ref: Lasaponara R., Masini N. 2008 (eds.), Advances in Remote Sensing for Archaeology and Cultural Heritage Management. Proceedings of 1st Intern | work: Remote Sensing for Archaeology and Cultural Heritage Management. Proceedings of the 1st Internationa (2008)"
+info,link_mismatch,1224:3,"W017276 | year 2017≠2019 | ref: Cuy S., De Oliveira D., Gerth P., Kleinke T., Schierenbeck J., Watson J. 2017, *iDAI.field 2: A modern approach to distributed fieldwork doc | work: iDAI.field 2: A modern approach to distributed fieldwork documentation (2019)"
+info,link_mismatch,1361:16,"W017695 | year 2009≠2010 | ref: Dall'Aglio P.L. 2009, *Centuriazione e geografia fisica*, in Dall'Aglio, Rosada 2009, 279-198. | work: Centuriazione e geografia fisica (2010)"
+info,link_mismatch,1361:42,"W017457 | year 2011≠2010 | ref: Robert S. (ed.) 2011, *Sources et techniques de l'archéogéographie*, Besançon, Presses universitaires de Franche-Comté. | work: Sources et techniques de l'archéogéographie (2010)"
+info,link_mismatch,591:12,"W008741 | type article≠book | ref: Lasaponara R., Masini N. 2009, Remote Sensing for Cultural Heritage Management and Documentation, «Journal of Cultural Heritage», 10S, e1-e2 | work: Remote Sensing for Cultural Heritage Management and Documentation (2009)"
+info,link_mismatch,1398:1,"W013763 | year 2017≠2018 | ref: BenardouA.,ChampionE.,DallasC.,HughesL.(eds.)2017, CulturalHeritageInfrastructures in Digital Humanities, London, Routledge (https://doi.org | work: Cultural Heritage Infrastructures in Digital Humanities (2018)"
+warn,link_mismatch,1265:17,"W012310 | authors ['giuliani']≠['cairoligiuliani'] | ref: Giuliani C.F. 2006, *L'edilizia nell'antichità*, Roma, Carocci Editore. | work: L'edilizia nell'antichità (2006)"
+info,link_mismatch,600:13,"W005989 | year 2000≠2002 | ref: Fotheringham A.S., Brunsdon C., Charlton M. 2000, Quantitative Geography: Perspectives on Spatial Data Analysis, London, SAGE Publications. | work: Quantitative Geography: Perspectives on Spatial Data Analysis (2002)"
+info,link_mismatch,600:20,"W008989 | year 2010≠2009 | ref: Kamermans H., van Leusen M., Verhagen P. (eds.) 2010, Archaeological Prediction and Risk Management: Alternatives to Current Practice, Leide | work: Archaeological Prediction and Risk Management. Alternatives to Current Practice (2009)"
+info,link_mismatch,801:4,"W011306 | title sim 0.71 | ref: Cavazzuti C., Putzolu C. c.s., Strategie e sistemi insediativi nell’Appennino emiliano durante l’età del Bronzo media e recente, in V. Accon | work: Strategie di occupazione dell’Appennino emiliano durante l’età del bronzo (2015)"
+warn,link_mismatch,944:12,"W013009 | authors ['giuliani']≠['cairoligiuliani'] | ref: Giuliani C.F. 1976, *Note sull'architettura nei Campi Flegrei*, in *I Campi Flegrei nell'archeologia e nella storia. Convegno Internazionale | work: Note sull'architettura nei Campi Flegrei (1976)"
+info,link_mismatch,293:3,"W000121 | year 1994≠1996 | ref: DE MEO A., ESPA G., ESPA S., GABRIELLI R., RICCI U. 1994, Impiego di un Sistema Geografico Informativo per un confronto modellistico prelimi | work: Impiego di un sistema geografico informativo per un confronto modellistico preliminare tra due aree  (1996)"
+info,link_mismatch,1249:3,"W014256 | year 2017≠2018 | ref: BURIGANA L., MAGNINI L. 2017, *Image processing and analysis of radar and lidar data: New discoveries in Verona southern lowland (Italy)*, « | work: Image processing and analysis of radar and Lidar data. New discoveries in Verona southern lowland (I (2018)"
+info,link_mismatch,1249:14,"W008576 | year 2001≠2002 | ref: MINETTI A.E., MOIA C., ROI G.S., SUSTA D., FERRETTI G. 2001, *Energy cost of walking and running at extreme uphill and downhill slopes*, «Jo | work: Energy cost of walking and running at extreme uphill and downhill slopes (2002)"
+warn,link_mismatch,513:5,"W001522 | year 1984≠1985; title sim 0.67 | ref: Corti L. (ed.) 1984, Automatic Processing of Art History Data and Documents, Proceedings and Papers (Pisa 1984), Firenze, Regione Toscana. | work: Second International Conference on Automatic Processing of Art History Data and Documents (Pisa 1984 (1985)"
+info,link_mismatch,1199:26,"W008135 | year 2017≠2007 | ref: R Core Team 2017, *R: A language and environment for statistical computing,* R Foundation for Statistical Computing, Vienna, Austria (https: | work: R: A language and environment for statistical computing (2007)"
+warn,link_mismatch,790:42,"W003567 | authors ['flinderspetrie']≠['petrie'] | ref: Flinders Petrie W.M. 1904, Methods and Aims in Archaeology, London, Macmillan and Co. | work: Methods and Aims in Archaeology (1904)"
+info,link_mismatch,790:46,"W002068 | year 1983≠1982 | ref: Fussell A. 1983, Terrestrial photogrammetry in archaeology, «World Archaeology», 14, 157-172. | work: Terrestrial photogrammetry in archaeology (1982)"
+warn,link_mismatch,790:52,"W011093 | authors ['giuliani']≠['cairoligiuliani'] | ref: Giuliani C.F. 1983, Archeologia. Documentazione grafica, Roma, De Luca. | work: Archeologia. Documentazione grafica (1983)"
+warn,link_mismatch,790:65,"W011105 | authors ['marcos']≠['lopezmarcos'] | ref: Marcos M. 1989, El dibujo al servicio de la arqueología: técnica y método, Madrid, UNED. | work: El dibujo al servicio de la arqueología: técnica y método (1989)"
+info,link_mismatch,790:82,"W000575 | type book≠article | ref: Russo M. 2011, Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico, Firenze, Edizioni All’Insegna del Gigl | work: Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico (2011)"
+info,link_mismatch,790:85,"W002088 | year 1983≠1982 | ref: Scott P.J. 1983, Drawing and measurement of finds: A Reflex action, «World Archaeology», 14, 191-199. | work: Drawing and measurement of finds: A Reflex action (1982)"
+info,link_mismatch,1434:29,"W005468 | year 2001≠2000 | ref: Pacciarelli M. 2001, Dal villaggio alla città. La svolta protourbana del 1000 a.C., Firenze, All’Insegna del Giglio. | work: Dal villaggio alla città. La svolta protourbana del 1000 a.C. nell'Italia tirrenica (2000)"
+info,link_mismatch,401:12,"W006376 | year 1998≠1997 | ref: Moscati P. 1998, Un gruppo di urne volterrane con rappresentazione del “viaggio agli inferi in carpentum”, in Etrusca et Italica. Scritti in | work: Un gruppo di urne volterrane con rappresentazione del “viaggio agli inferi in carpentum” (1997)"
+info,link_mismatch,723:2,"W000667 | year 2012≠2013 | ref: Anichini F., Gattiglia G., Gualandi M.L., Noti V. 2012, MOD (MAPPA Open Data). Conservare, disseminare, collaborare: un archivio open data p | work: MOD (MAPPA Open Data). Conservare, disseminare, collaborare: un archivio open data per l’archeologia (2013)"
+info,link_mismatch,723:13,"W000544 | year 2010≠2009 | ref: Cantone F., Chianese A., Moscato V. 2010, Archeologia virtuale in blended learning. Esperienze, metodologie e strumenti all'Università “Fede | work: Archeologia virtuale in blended learning. Esperienze, metodologie e strumenti all’Università “Federi (2009)"
+info,link_mismatch,1203:43,"W016027 | year 2017≠2018 | ref: Primeau K.E., David E.W. 2017, *Soundscapes in the past: Investigating sound at the landscape level*, «Journal of Archaeological Science: Re | work: Soundscapes in the past: Investigating sound at the landscape level (2018)"
+info,link_mismatch,666:51,"W008756 | year 2009≠2008 | ref: Trier Ø.D., Larsen S.O., Solberg R. 2009, Automatic detection of circular structures in high resolution satellite imagery of agricultural la | work: Automatic detection of circular structures in high-resolution satellite images of agricultural land (2008)"
+info,link_mismatch,518:29,"W005598 | title sim 0.73 | ref: Wescott K.L., Brandon R.J. (eds.) 2000, Practical Application of GIS for Archaeology, Philadelphia, Taylor and Francis. | work: Practical Applications of GIS for Archaeologists: A Predictive Modeling Kit (2000)"
+info,link_mismatch,1038:4,"W000400 | year 2006≠2005 | ref: Barchesi C. 2006, *""Archeologia e Calcolatori"": nuove strategie per la diffusione di contenuti in rete sulla base dell'OAI-PMH*, «Archeologi | work: ""Archeologia e Calcolatori"": nuove strategie per la diffusione di contenuti in rete sulla base dell' (2005)"
+info,link_mismatch,1038:18,"W012578 | year 2015≠2014 | ref: Djindjian F. 2015, *Computers and Mathematics in Archaeology, Anatomy of an Ineluctable Success!*, in Giligny et al. 2015, 1-6. | work: Computers and mathematics in archaeology, anatomy of an ineluctable success! (2014)"
+info,link_mismatch,1192:27,"W012817 | year 2007≠2008 | ref: Hermon S., Nikodem J. 2007, *3D Modelling as a Scientific Research Tool in Archaeology*, in A. Posluschny, K. Lambers, I. Herzog (eds.), Lay | work: 3D modelling as a scientific research tool in archaeology (2008)"
+info,link_mismatch,1491:16,"W014868 | year 2017≠2018 | ref: Mongelli M., de Canio G., Roselli I., Malena M., Nacuzi A., De Felice G. 2017, 3D photogrammetric reconstruction by drone scanning for the a | work: 3D photogrammetric reconstruction by drone scanning for FE analysis and crack pattern mapping of the (2018)"
+info,link_mismatch,1184:12,"W007223 | year 1948≠1861 | ref: GdS 1948, *Giornale degli Scavi di Pompei*, Roma, Accademia Nazionale dei Lincei. | work: Il Giornale degli Scavi di Pompei (1861-1878)"
+info,link_mismatch,1307:38,"W017283 | year 2023≠2020 | ref: Sala F. 2023, *From Vitruvio to ArchaeoBIM. BIM reconstruction of the archaeological context of Massaciuccoli (LU)* (https://www.mappalab.eu | work: From Vitruvius to ArcaheoBIM. BIM reconstruction of the archaeological context of Massaciuccoli (LU) (2020)"
+warn,link_mismatch,1242:8,"W017471 | authors ['giuliani']≠['cairoligiuliani'] | ref: Giuliani C.F. 1964, *Tibur, Pars Altera*, Forma Italiae 1, Rome, De Luca Editore. | work: Tibur, Pars Altera (1964)"
+warn,link_mismatch,109:17,"W002851 | authors ['lerici']≠['fondazionelerici'] | ref: LERICI 1988, Relazione sulla esplorazione geoarcheologica nel Comune di Oppido Mamertina, R07/1988, Archivi della Soprintendenza Archeologic | work: Relazione sulla esplorazione geoarcheologica nel Comune di Oppido Mamertina (1988)"
+warn,link_mismatch,109:18,"W002852 | authors ['lerici']≠['fondazionelerici'] | ref: LERICI 1992, Relazione sulla esplorazione geoarcheologica nel Comune di Oppido Mamertina, R12/92, Archivi della Soprintendenza Archeologica  | work: Relazione sulla esplorazione geoarcheologica nel Comune di Oppido Mamertina (1992)"
+info,link_mismatch,1429:7,"W019603 | title sim 0.53 | ref: Franciosi G. (ed.) 2002, Ager Campanus. Atti del Convegno Internazionale (Real Sito di S. Leucio 2001), Napoli, Jovene. | work: Atti del Convegno internazionale di Studi La storia dell'Ager Campanus, i problemi della limitatio e (2002)"
+info,link_mismatch,1429:11,"W020647 | year 1998≠1997 | ref: Marzocchella A. 1998, Tutela archeologica e preistoria nella pianura campana, in P.G. Guzzo, R. Peroni (eds.), Archeologia e vulcanologia in | work: Tutela archeologica e preistoria nella Pianura Campana (1997)"
+info,link_mismatch,670:2,"W010230 | year 2004≠2008 | ref: Al-Qawasmi J., Chiuni M.A., El-Hakim S. (eds.) 2004, Digital Media and its Applications in Cultural Heritage, Amman, CSAAR Press. | work: Digital Media and its Applications in Cultural Heritage (2008)"
+info,link_mismatch,670:11,"W007988 | year 2008≠2007 | ref: Forte M. (ed.) 2008, La Villa di Livia, un percorso di archeologia virtuale, Roma, L'Erma di Bretschneider. | work: La villa di Livia. Un percorso di ricerca di archeologia virtuale (2007)"
+info,link_mismatch,670:19,"W000520 | title sim 0.46 | ref: Pietroni E. 2009, A virtual environment for archaeological interpretation through multiuser domain in the web, in P. Cignoni, A. Palombini,  | work: Un ambiente di realtà virtuale per l’interpretazione archeologica attraverso sistemi multi-utente on (2009)"
+info,link_mismatch,1055:14,"W013959 | year 2013≠2014 | ref: De Reu J., De Smedt P., Herremans D., Van Meirvenne M., Laloo P., De Clercq W. 2013, *On introducing an image-based 3D reconstruction method | work: On introducing an image-based 3D reconstruction method in archaeological excavation practice (2014)"
+info,link_mismatch,719:9,"W010092 | year 2003≠2001 | ref: Campana S., Forte M. (eds.) 2003, Remote Sensing in Archaeology, XI Ciclo di lezioni sulla ricerca applicata all'archeologia (Certosa di Pon | work: Remote Sensing in Archaeology. XI Ciclo di Lezioni sulla Ricerca applicata in Archeologia (Certosa d (2001)"
+info,link_mismatch,1043:5,"W013859 | title sim 0.66 | ref: Caravale A., Moscati P. c.s., *30 anni di Informatica Archeologica-1. La bibliografia di informatica archeologica. Gli anni Novanta*, in cor | work: La Bibliografia di informatica archeologica nella cultura digitale degli anni Novanta (2021)"
+info,link_mismatch,1043:16,"W004934 | year 1997≠1999 | ref: Wilcock J.D. 1997, *Getting the best fit? 25 years of statistical techniques in archaeology*, in L. Dingwall, S. Exon, V. Gaffney, S. Laflin | work: Getting the best fit? Twenty five years of statistical techniques in archaeology (1999)"
+info,link_mismatch,1413:3,"W006855 | year 2021≠2004 | ref: Bekiari C., Bruseker G., Doerr M., Ore C.-E., Stead S., Velios A. (eds.) 2021, Definition of the CIDOC Conceptual Reference Model, CIDOC CRM | work: Definition of the CIDOC Conceptual Reference Model (2004)"
+info,link_mismatch,563:2,"W000341 | title sim 0.34 | ref: D’Ambrosio I., Drummer A., Pascucci P., Rusca F. 2003, Per una catalogazione informatizzata dei reperti archeologici: il software IDRA e le  | work: La catalogazione promossa dalla Regione Lazio nei musei archeologici: dalle schede di carta alla ban (2003)"
+info,link_mismatch,1385:20,"W012817 | year 2007≠2008 | ref: Hermon S., Nikodem J. 2007, 3D modelling as a scientific research tool in archaeology, in A. Posluschny, K. Lambers, I. Herzog (eds.), *Laye | work: 3D modelling as a scientific research tool in archaeology (2008)"
+info,link_mismatch,164:10,"W003510 | year 1992≠1995 | ref: FRESNEDA E., RODRÍGUEZ-ARIZA Mª O. 1992, El trabajo del esparto en el yacimiento arqueológico del Castellón Alto (Galera, Granada, España),  | work: El trabajo del esparto en el yacimiento arqueológico del Castellón Alto (Galera, Granada, España) (1995)"
+info,link_mismatch,164:29,"W003527 | year 1992≠1997 | ref: RIVAS MARTINEZ S., ASENSI A., MOLERO-MESA J., VALLE F. 1992, Biogeografia de Andalucía, en prensa. | work: Biogeografia de Andalucía (1997)"
+info,link_mismatch,406:29,"W006934 | title sim 0.60 | ref: Patterson H., Di Giuseppe H., Witcher R. (in preparation), The Changing Landscapes of the Middle Tiber Valley, London, The British School at | work: The Changing Landscapes of Rome’s Northern Hinterland. The British School at Rome’s Tiber Valley Pro (2020)"
+info,link_mismatch,1433:33,"W005468 | year 2001≠2000 | ref: Pacciarelli M. 2001, Dal villaggio alla città. La svolta protourbana del 1000 a.C. nell’Italia tirrenica, Firenze, All’Insegna del Giglio. | work: Dal villaggio alla città. La svolta protourbana del 1000 a.C. nell'Italia tirrenica (2000)"
+info,link_mismatch,514:9,"W004366 | title sim 0.49 | ref: Moscati P. (ed.) 1996, Atti del III Convegno internazionale di archeologia e informatica (Roma 1995), «Archeologia e Calcolatori», 7. | work: III International Symposium on Computing and Archaeology - Roma 22-25 novembre 1995 (1996)"
+info,link_mismatch,514:10,"W002392 | year 1990≠1991 | ref: Reilly P. 1990, Towards a virtual archaeology, in K. Lockyear, S. Rahtz (eds.), Computer Applications and Quantitative Methods in Archaeolog | work: Towards a virtual archaeology (1991)"
+warn,link_mismatch,144:7,"W003211 | authors ['contreras', 'esquivel', 'molina']≠['contrerascortes', 'esquivelguerrero', 'molinagonzalez'] | ref: MOLINA F., ESQUIVEL J.A., CONTRERAS F. 1991, Sistema integrado de catalogación y análisis de la información arqueológica, «Complutum», 1, 24 | work: Sistema integrado de catalogación y análisis de la información arqueológica (1991)"
+warn,link_mismatch,144:8,"W003212 | year 1995≠1996; authors ['contreras', 'esquivel', 'molina', 'pena', 'rodriguez']≠['contrerascortes', 'esquivelguerrero', 'molinagonzalez', 'penaruano', 'rodrigueztemino'] | ref: MOLINA F., RODRÍGUEZ I., CONTRERAS F., ESQUIVEL J.A., PEÑA J.A. 1995, Un sistema de información arqueológica para Andalucía, en Jornadas And | work: Un sistema de información arqueológica para Andalucía (1996)"
+warn,link_mismatch,902:7,"W007453 | authors ['barker', 'mattingly']≠['bintliff', 'sbonias']; title sim 0.30 | ref: Barker G., Mattingly D.J. 1999, *The Archaeology of Mediterranean Landscapes*, Oxford, Oxbow Books. | work: Reconstructing Past Population Trends in Mediterranean Europe (3000 BC-AD 1800). The POPULUS Project (1999)"
+info,link_mismatch,902:53,"W011337 | year 2001≠2000 | ref: Sabbatini G. 2001, *Ager Venusinus I. Mezzana del Cantore (IGM 175 II SE)* (Forma Italiae 40), Firenze, Leo S. Olschki. | work: Ager Venusinus I (2000)"
+info,link_mismatch,294:2,"W000139 | title sim 0.55 | ref: BARCELÓ J.A., PALLARÉS M. 1996, From visual seduction to spatial analysis. A critique of GIS in archaeology, in P. MOSCATI (ed.), III Conveg | work: A critique of G.I.S. in archaeology. From visual seduction to spatial analysis (1996)"
+info,link_mismatch,1425:21,"W020583 | year 1987≠1990 | ref: Johannowsky W. 1987, L’abitato tardo-ellenistico a Fioccaglia di Flumeri e la romanizzazione dell’Irpinia, in M. Salvatore (ed.), Basilicata | work: L’abitato tardo-ellenistico a Fioccaglia di Flumeri e la romanizzazione dell’Irpinia (1990)"
+info,link_mismatch,257:4,"W002386 | year 1992≠1993 | ref: FORTE M. 1992b, Image processing applications in archaeology: Classification systems of archaeological sites in the landscape, in J. ANDRESE | work: Image processing applications in archaeology: classification systems of archaeological sites in the  (1993)"
+info,link_mismatch,1262:7,"W009948 | year 2010≠2009 | ref: Drennan R.D. 2010, *Statistics for Archaeologists: A Common Sense Approach*, New York, Springer. | work: Statistics for Archaeologists. A Commonsense Approach (2009)"
+info,link_mismatch,938:13,"W012935 | type chapter≠book | ref: Secci R. in press, *Il Settore II A della necropoli meridionale di Tharros*, Scritti sull'antico Oriente mediterraneo 1. | work: Il Settore A-2 della necropoli meridionale di Tharros (2021)"
+info,link_mismatch,26:5,"W001598 | year 1975≠1974 | ref: FULFORD M., HODDER I. 1975, A regression analisys of some late Roman-British pottery. A case study, «Oxoniensia», 39, 38-64. | work: A regression analysis of some late Romano-British fine pottery: a case study (1974)"
+info,link_mismatch,26:20,"W001920 | title sim 0.43 | ref: Paesaggi d'Etruria, c.s. = AA.VV., Paesaggi d'Etruria tra l'Albegna e ii Fiora II: i materiali (in corso di starnpa). | work: Paesaggi d'Etruria. Valle dell'Albegna, Valle d'Oro, Valle del Chiarone, Valle del Tafone. Progetto  (2002)"
+warn,link_mismatch,26:21,"W001921 | title sim 0.50; type book≠chapter | ref: RICE P. M. 1989, in BERNARD, JONES (edd.), Quantifying Diversity in Archaeology, Cambridge. | work: Ceramic diversity, production, and use (1989)"
+info,link_mismatch,1235:8,"W015830 | title sim 0.51 | ref: Bosman J., Frantsvåg J.E., Kramer B., Langlais P.-C., Proudman V. 2021, *OA Diamond Journals Study. Part 1: Findings* (https://doi.org/10.52 | work: The OA Diamond Journals Study. Exploring Collaborative Community-driven Publishing Models for Open A (2021)"
+info,link_mismatch,596:6,"W002912 | year 1991≠1990 | ref: Burillo Mozota F., Ibañez González E.J. 1991, Configuración de la base de datos y ficha informatizada del Proyecto Carta Arqueológica de Ara | work: Configuración de la Base de Datos y ficha informatizada del Proyecto Carta Arqueológica de Aragón (1990)"
+info,link_mismatch,596:14,"W005108 | year 1988≠1998 | ref: Giestal C.D. 1988, Sistema de Informação Geográfica para a Arqueologia Urbana: o caso de Bracara Augusta, Mestrado em Arqueologia, Universid | work: Sistema de Informação Geográfica para a Arqueologia Urbana: O caso de Bracara Augusta (1998)"
+info,link_mismatch,129:6,"W003072 | year 1986≠1987 | ref: GETIS A., FRANKLIN J. 1986, *Second-Order Neighborhood Analysis of Mapped Point Patterns*, «Ecology», 65(3), 473-477. | work: Second-Order Neighborhood Analysis of Mapped Point Patterns (1987)"
+warn,link_mismatch,129:7,"W003073 | authors ['igm']≠['istitutogeograficomilitare'] | ref: I.G.M. Foglio 138 - *Terni*, Carta Geologica d'Italia, scala 1:100.000. | work: Foglio 138 - Terni ()"
+warn,link_mismatch,129:8,"W003074 | authors ['igm']≠['istitutogeograficomilitare'] | ref: I.G.M. Foglio 144 - *Palombara Sabina*, Carta Geologica d'Italia, scala 1:100.000. | work: Foglio 144 - Palombara Sabina ()"
+warn,link_mismatch,611:4,"W009666 | authors ['dupre']≠['dupreraventos'] | ref: Dupré X. 1987, Forum Provinciae Hispaniae Citerioris, in Los foros romanos de las provincias occidentales, Madrid, Ministerio de Cultura. | work: Forum Provinciae Hispaniae Citerioris (1987)"
+info,link_mismatch,241:22,"W004366 | title sim 0.65 | ref: MOSCATI P. (ed.) 1996, Atti del III Convegno Internazionale di Archeologia e Informatica, (Roma, 22-25 novembre 1995), «Archeologia e Calcol | work: III International Symposium on Computing and Archaeology - Roma 22-25 novembre 1995 (1996)"
+warn,link_mismatch,493:7,"W008135 | authors ['rdevelopmentcoreteam']≠['rcoreteam'] | ref: R Development Core Team 2007, R: A language and environment for statistical computing, R Foundation for Statistical Computing, Vienna (http: | work: R: A language and environment for statistical computing (2007)"
+warn,link_mismatch,31:7,"W001935 | authors ['iccd']≠['istitutocentraleperilcatalogoeladocumentazione'] | ref: *Convegno automazione dati 1986* = I.C.C.D., *Atti del convegno su ""Automazione dei dati di catalogo dei beni culturali""*, Roma, Ministero p | work: Atti del convegno su ""Automazione dei dati di catalogo dei beni culturali"" (1986)"
+warn,link_mismatch,31:13,"W001940 | authors ['cnuce', 'iccd']≠['centronazionaleuniversitariodicalcoloelettronico', 'istitutocentraleperilcatalogoeladocumentazione', 'matteucci', 'papaldo'] | ref: *Relazione avanzamento lavori 1983* = I.C.C.D. — C.N.U.C.E., *Studio di un programma di gestione automatizzata del catalogo dei beni cultura | work: Studio di un programma di gestione automatizzata del catalogo dei beni culturali: prima, seconda e t (1983)"
+warn,link_mismatch,240:2,"W004343 | authors ['doedenschrj']≠['doedens'] | ref: DOEDENS CHR.-J. 1994, Text Databases. One Database Model and Several Retrieval Languages, Amsterdam, Rodopi. | work: Text Databases. One Database Model and Several Retrieval Languages (1994)"
+warn,link_mismatch,305:31,"W005086 | authors ['hivernel']≠['hivernelguerre'] | ref: HIVERNEL F. 1976a, Etude préliminaire du gisement de Wofi III (Melka-Kunture), in L’Ethiopie avant l’Histoire, 1, Paris, 45-49. | work: Etude préliminaire du gisement de Wofi III (Melka-Kunture) (1976)"
+info,link_mismatch,305:44,"W005096 | title sim 0.35 | ref: PIPERNO M., BULGARELLI G.M., CHAVAILLON J., COPPENS Y., CONDEMI S., GALLOTTI R., FIORE I., GERAADS D. 2000, Il sito Olduvaiano evoluto di Ga | work: The Developed Oldowan site of Garba IV (2004)"
+warn,link_mismatch,89:5,"W002324 | authors ['beczecky']≠['bezeczky'] | ref: BEZECZKY T. 1987, Roman Amphorae from the Amber Route in the Western Pannonia, BAR International Series 386, Oxford. | work: Roman amphorae from the Amber Route in Western Pannonia (1987)"
+warn,link_mismatch,89:24,"W002360 | authors ['modrzewska']≠['modrzewskapianetti'] | ref: MODRZEWSKA I. 1993, Anfore della laguna veneta. Scelta di ritrovamenti, TR 168 ISDGM-CNR, Venezia. | work: Anfore della laguna veneta. Scelta di ritrovamenti (1993)"
+info,link_mismatch,89:33,"W002372 | year 1990≠1991 | ref: SERRANO RAMOS E. 1990, Terra sigillata hispanica de los alfares de Singilia Barba, Malaga, Universidad de Malaga. | work: Terra Sigillata Hispánica de los alfares de Singilia Barba (1991)"
+info,link_mismatch,1058:29,"W005048 | year 2002≠1996 | ref: Levy P. 2002, *L'intelligenza collettiva. Per un'antropologia del cyberspazio*, Milano, Feltrinelli. | work: L’intelligenza collettiva. Per un’antropologia del cyberspazio (1996)"
+warn,link_mismatch,597:34,"W009413 | authors ['santoro']≠['santorobianchi'] | ref: Santoro S. (ed.) 2007, Pompei. Insula del Centenario (IX,8) I. Indagini diagnostiche, geofisiche e analisi archeometriche, Bologna, Ante Que | work: Pompei. Insula del Centenario (IX,8) I. Indagini diagnostiche, geofisiche e analisi archeometriche (2007)"
+info,link_mismatch,1234:6,"W015830 | title sim 0.51 | ref: Bosman J., Frantsvåg J.E., Kramer B., Langlais P.-C., Proudman V. 2021, *OA Diamond Journals Study. Part 1: Findings* (https://doi.org/10.52 | work: The OA Diamond Journals Study. Exploring Collaborative Community-driven Publishing Models for Open A (2021)"
+info,link_mismatch,344:5,"W005680 | year 1998≠1997 | ref: SHENNAN S. 1998, Quantifying Archaeology, (Second edition), Iowa City, University of Iowa Press. | work: Quantifying Archaeology (1997)"
+info,link_mismatch,1263:26,"W013702 | year 2005≠2015 | ref: Giannini M. 2005, *I Romani in Versilia: dinamiche di popolamento e organizzazione del territorio*, «Orizzonti», 16, 81-91. | work: I Romani in Versilia: dinamiche di popolamento e organizzazione del territorio (2015)"
+info,link_mismatch,387:39,"W006134 | year 2002≠2000 | ref: HODDER I. (ed.) 2002, Towards Reflexive Methods in Archaeology: the Example of Çatalhöyük, Ankara, British Institute of Archaeology at Ankar | work: Towards Reflexive Method in Archaeology: the Example at Çatalhöyük (2000)"
+info,link_mismatch,387:43,"W006542 | year 1992≠1986 | ref: LEONARDI G. 1992a, Procedure di stratigrafia processuale. La necropoli paleoveneta del Piovego a Padova, in Formation Processes and Excavati | work: Procedure di stratigrafia processuale. La necropoli paleoveneta del Piovego a Padova (1986)"
+info,link_mismatch,503:1,"W004719 | year 1995≠1999 | ref: AA.VV. 1995-2004, Carta Archeologica della Provincia di Siena, voll. I-VI, Siena, NIE. | work: Carta Archeologica della Provincia di Siena. III. La Valdelsa (Comuni di Colle Val d’Elsa e Poggibon (1999)"
+info,link_mismatch,503:20,"W006362 | year 2002≠2001 | ref: Sommella P. 2002, Dopo Lanciani, in M.P. Guermandi (ed.), Rischio archeologico: se lo conosci lo eviti, Atti del congresso Internazionale di | work: Dopo Lanciani (2001)"
+info,link_mismatch,1189:9,"W016599 | title sim 0.59 | ref: Camporeale S., Dessales H., Tricoche A. (eds.) c.s., Atlante delle tecniche della costruzione romana. Manuale, Roma, Quasar, in corso di sta | work: ACoR. Atlas des techniques de la construction romaine: Guide = Atlante delle tecniche della costruzi (2025)"
+info,link_mismatch,295:4,"W000270 | title sim 0.26 | ref: COSTANTINI A. 1999, Esposizione dei dati d’archivio sui lavori eseguiti nel Tevere tra il 1590 e il 1846, in F. COLOSI, A. COSTANTINI, A. DE | work: Il Tevere e il suo antico corso (1999)"
+info,link_mismatch,295:5,"W004856 | type chapter≠book | ref: FILIPPI G. 1979, Regio IV. Sabina et Samnium. Forum Novum, «Supplementa Italica», n.s. 5, Roma, Quasar, 145-234. | work: Regio IV. Sabina et Samnium. Forum Novum (1979)"
+info,link_mismatch,295:12,"W004868 | type article≠book | ref: SANTORO P. 1997, Magliano: origini e sviluppo dell’insediamento, «Quaderni del Museo Archeologico di Magliano Sabina», 2, Roma, 79-85. | work: Magliano: origini e sviluppo dell’insediamento (1997)"
+info,link_mismatch,515:10,"W006855 | year 2009≠2004 | ref: Crofts N., Doerr M., Gill T., Stead S., Stiff M. (eds.) 2009, Definition of the CIDOC Conceptual Reference Model (version 5.0.1), ICOM/CIDOC | work: Definition of the CIDOC Conceptual Reference Model (2004)"
+info,link_mismatch,450:26,"W007785 | title sim 0.47 | ref: SCARDOZZI G. c.s., *Ricognizioni archeologiche nell’area urbana e nel territorio di Hierapolis*, in *Hierapolis di Frigia, II. Le attività d | work: Ricognizioni archeologiche nel territorio di Hierapolis: gli acquedotti, le cave di materiali lapide (2012)"
+warn,link_mismatch,954:23,"W013199 | authors ['thomsonwbaronkelvin']≠['thomson'] | ref: Thomson W. Baron Kelvin 1889, *Popular Lectures and Addresses,* I. *Constitution of Matter*, New York, MacMillan and Co. | work: Popular Lectures and Addresses, I. Constitution of Matter (1889)"
+info,link_mismatch,923:1,"W012710 | year 1891≠1889 | ref: Brizio E. 1891, *Relazione sugli scavi eseguiti a Marzabotto presso Bologna dal novembre 1888 a tutto maggio 1889*, «Monumenti Antichi», 1,  | work: Relazione sugli scavi eseguiti a Marzabotto presso Bologna dal novembre 1888 a tutto maggio 1889 (1889)"
+info,link_mismatch,1:7,"W001493 | year 1986≠1985 | ref: VOORRIPS A., LovING S. H. (edd.) 1986, To Pattern the Past, « PACT », 11-85, Council of Europe. | work: To Pattern the Past (1985)"
+info,link_mismatch,1042:24,"W000641 | year 2014≠2013 | ref: Moscati P. 2014, *Jean-Claude Gardin (Parigi 1925-2013). Dalla meccanografia all'informatica archeologica*, «Archeologia e Calcolatori», 23, | work: Jean-Claude Gardin (Parigi 1925-2013). Dalla meccanografia all'informatica archeologica (2013)"
+info,link_mismatch,427:8,"W007453 | year 2000≠1999 | ref: Bintliff J., Sbonias K. (eds.) 2000, Reconstructing Past Population Trends in Mediterranean Europe (3000 BC-AD 1800). The POPULUS Project, O | work: Reconstructing Past Population Trends in Mediterranean Europe (3000 BC-AD 1800). The POPULUS Project (1999)"
+info,link_mismatch,427:38,"W006658 | year 2000≠1999 | ref: Gillings J., Mattingly D., Van Dalen J. (eds.) 2000, Geographical Information System and Landscape Archaeology. The POPULUS Project, Oxford, | work: Geographical Information Systems and Landscape Archaeology (1999)"
+info,link_mismatch,427:51,"W007488 | year 2000≠1999 | ref: Leveau P., Trement F., Walsh K., Barker G. 2000, Environmental Reconstruction in Mediterranean Landscape Archaeology. The POPULUS Project, O | work: Environmental Reconstruction in Mediterranean Landscape Archaeology. The POPULUS Project (1999)"
+info,link_mismatch,427:82,"W002304 | year 1973≠1975 | ref: Tinè Bertocchi F. 1973, Formazione della civiltà dauna dal IX al VI sec. a.C. Atti del Colloquio Internazionale di Preistoria e Protostoria  | work: Formazione della civiltà dauna dal X al VI sec. (1975)"
+info,link_mismatch,1054:53,"W011027 | year 2007≠2006 | ref: Spanedda L. 2007, *La edad del Bronce en el Golfo de Dorgali (Cerdeña, Italia)*, Tesi di Dottorato, Granada, Universidad de Granada. | work: La Edad del Bronce en el Golfo de Orosei (Cerdeña, Italia) (2006)"
+info,link_mismatch,1003:12,"W008617 | year 1986≠1985 | ref: Di Fraia G., Lombardo N., Scognamiglio E. 1986, *Contributi alla topografia di Baia sommersa*, «Puteoli. Studi di storia antica», 9-10, 211- | work: Contributi alla topografia di Baia sommersa (1985)"
+info,link_mismatch,1003:33,"W006665 | year 2005≠2002 | ref: Wheatley D., Gillings M. 2005, *Spatial Technology and Archaeology. The Archaeological Application of GIS*, London, Taylor & Francis (digita | work: Spatial Technology and Archaeology. The Archaeological Applications of GIS (2002)"
+info,link_mismatch,1003:34,"W005195 | year 2000≠1999 | ref: Witcher R.E. 2000, *GIS and landscapes of perception*, in M. Gillings, D. Mattingly, J. Van Dalen (eds.), Geographical Information Systems a | work: GIS and landscapes of perception (1999)"
+info,link_mismatch,364:23,"W004808 | year 1883≠1836 | ref: MAROCCO G. 1883, Monumenti dello Stato Pontificio e relazione topografica, Roma. | work: Monumenti dello stato Pontificio e relazione topografica di ogni paese (1836)"
+info,link_mismatch,1097:12,"W013758 | type book≠article | ref: Djindjian F., Moscati P. (eds.) 2016, *Dossier: Jean-Claude Gardin (1925-2015)*, «Les nouvelles de l'archéologie», 144 (https://journals.ope | work: Dossier: Jean-Claude Gardin (1925-2015) (2016)"
+info,link_mismatch,1078:5,"W010972 | title sim 0.73 | ref: Serlorenzi M. (ed.) 2013, Atti del VII Workshop Open Source, Free Software e Open Format nei processi di ricerca archeologica (Roma 2012), « | work: ARCHEOFOSS Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica.  (2013)"
+info,link_mismatch,1428:30,"W020657 | year 2020≠2021 | ref: Saccoccio F., Marzocchella A., Vanzetti A. 2020, I campi fossili di Gricignano d’Aversa U.S. Navy: sfruttamento e impatto umano in Pianura C | work: I campi fossili di Gricignano d’Aversa U.S. Navy. Sfruttamento e impatto umano in Pianura Campana ne (2021)"
+info,link_mismatch,276:8,"W002706 | year 1991≠1992 | ref: CREMASCHI M. (ed.) 1991-1992, Ambiente, insediamento, economia durante la media età del Bronzo. L’Italia settentrionale, «Rassegna di Archeo | work: Ambiente, insediamento, economia durante la media età del Bronzo - 1. L’Italia settentrionale (1992)"
+info,link_mismatch,325:21,"W005278 | title sim 0.72 | ref: NICCOLUCCI F. (ed.) (forthcoming), Virtual Archaeology between Scientific Research and Territorial Marketing. Proceedings of the VAST EuroCo | work: Virtual Archaeology. Proceedings of the VAST Euroconference (Arezzo, November 2000) (2002)"
+warn,link_mismatch,149:22,"W003312 | authors ['spss']≠['spssinc'] | ref: SPSS 5.0 1992, Statistical Package for Social Sciences. | work: SPSS 5.0. Statistical Package for Social Sciences ()"
+info,link_mismatch,11:44,"W001729 | year 1986≠1985 | ref: LAUBERNHEIMER F. 1986, La production des amphores en Gaul Narbonnaise sous le Haut-Empire, Centre dc recherches d'histoire ancienne 66 = Ann | work: La production des amphores en Gaule Narbonnaise sous le Haut-Empire (1985)"
+info,link_mismatch,11:45,"W001730 | year 1987≠1989 | ref: LEONARDI G., PRACCHIA S., VIDALE M. 1987, L'indicatore ceramico nei percorsi archeologici, in XXVII Riunione Scientifica dell'Istituto Itali | work: L'indicatore ceramico nei percorsi archeologici (1989)"
+info,link_mismatch,11:46,"W001731 | year 1988≠1989 | ref: LOBBERT U., KAMPFFMEYER U. 1988, Forschungsproiekt ""ARCOS"". Ein Recbner· und Programmsystem für die Archiiologie, « Archaologie in Deutschla | work: Forschungsprojekt ""ARCOS"". Ein Rechner- und Programmsystem für die Archäologie (1989)"
+info,link_mismatch,1193:10,"W012342 | year 2010≠2012 | ref: Brogiolo G.P., Faccio P. 2010, *Stratigrafia e prevenzione*, «Archeologia dell'Architettura», 15, 55-63. | work: Stratigrafia e prevenzione (2012)"
+info,link_mismatch,722:2,"W006007 | title sim 0.63 | ref: Arnold D., Chalmers A., Fellner D. (eds.) 2001, VAST01 - Virtual Reality, Archaeology, and Cultural Heritage International Symposium (Athens | work: VAST2001. The International Symposium on Virtual Reality, Archaeology and Cultural Heritage (Atene,  (2001)"
+info,link_mismatch,722:12,"W006029 | year 2001≠2002 | ref: Gleue T., Daehne P. 2001, Design and implementation of a mobile device for outdoor Augmented Reality in the ARCHEOGUIDE Project, in Arnold,  | work: Design and Implementation of a Mobile Device for Outdoor Augmented Reality in the ARCHEOGUIDE Projec (2002)"
+info,link_mismatch,667:19,"W009527 | year 2008≠2009 | ref: Gelichi S., Negrelli C. (eds.) 2008, A misura d'uomo. Archeologia del territorio cesenate e valutazione dei depositi, Firenze, All'Insegna d | work: A misura d’uomo. Archeologia del territorio cesenate e valutazione dei depositi (2009)"
+info,link_mismatch,166:8,"W001489 | year 1988≠1987 | ref: CAA 1987 = RUGGLES C.L.N., RAHTZ S.P.Q. (edd.), Computer and Quantitative Methods in Archaeology 1987, BAR International Series, 393, Oxford | work: Computer and Quantitative Methods in Archaeology (1987)"
+info,link_mismatch,166:29,"W003595 | year 1996≠1997 | ref: GARDIN J.-CL. 1996, Le raisonnement traditionel en archéologie et sa mise en forme dans les milieu informatique, in T. ORLANDI (ed.), Discip | work: Le raisonnement traditionel en archéologie et sa mise en forme dans les milieu informatique (1997)"
+info,link_mismatch,166:47,"W003604 | year 1996≠1997 | ref: MOSCATI P. 1996b, Metodologie archeologiche fra tradizione e informatizzazione: la classificazione dei materiali, in T. ORLANDI (ed.), Disci | work: Metodologie archeologiche fra tradizione e informatizzazione: la classificazione dei materiali (1997)"
+info,link_mismatch,166:48,"W003605 | year 1996≠1997 | ref: MOSCATI P. 1996c, Ricerche informatiche sulle urne volterrane, in Atti del XIX Convegno di Studi Etruschi e Italici (Volterra, ottobre 1995) | work: Ricerche informatiche sulle urne volterrane (1997)"
+info,link_mismatch,166:51,"W003607 | year 1994≠1995 | ref: PETRIE L., JOHNSON I. 1994, GIS in Archaeology: An Annotated Bibliography, Sydney University Archaeological Methods Series 1, Sydney. | work: GIS in Archaeology: An Annotated Bibliography (1995)"
+warn,link_mismatch,1387:23,"W017322 | authors ['giuliani']≠['cairoligiuliani'] | ref: Giuliani C.F. 1990, *L'edilizia nell'antichità*, Roma, Carrocci Editore. | work: L'edilizia nell'antichità (1990)"
+warn,link_mismatch,424:19,"W005220 | authors ['macchi']≠['macchijanica'] | ref: Macchi G. 2000a, Il problema della misurazione delle distanze nella ricerca archeologica, «Archeologia Medievale», 27, 7-19. | work: Il problema della misurazione delle distanze fra insediamenti umani nella ricerca archeologica (2000)"
+warn,link_mismatch,424:20,"W000309 | authors ['macchi']≠['macchijanica'] | ref: Macchi G. 2001b, Modelli matematici per la ricostruzione del paesaggio medievale, «Archeologia e Calcolatori», 12, 143-165. | work: Modelli matematici per la ricostruzione dei paesaggi storici (2001)"
+warn,link_mismatch,424:21,"W007395 | authors ['macchi']≠['macchijanica'] | ref: Macchi G. 2001c, Sulla misurazione delle forme d’occupazione sociale dello spazio medievale, «Archeologia Medievale», 28, 61-82. | work: Sulla misurazione delle forme d’occupazione sociale dello spazio medievale (2001)"
+info,link_mismatch,1391:15,"W016012 | year 2013≠2015 | ref: Hamilakis Y. 2013, Archaeology and the Senses: Human Experience, Memory, and Affect, Cambridge, University Press. | work: Archaeology and the Senses (2015)"
+info,link_mismatch,1112:35,"W001602 | year 1983≠1984 | ref: Greenacre M.J. 1983, *Theory and Application of Correspondence Analysis*, London, Academic Press. | work: Theory and Applications of Correspondence Analysis (1984)"
+info,link_mismatch,1112:53,"W008135 | year 2019≠2007 | ref: R Core Team 2019, *R: A language and environment for statistical computing*, Vienna, R Foundation for Statistical Computing (https://www.R-p | work: R: A language and environment for statistical computing (2007)"
+info,link_mismatch,1283:38,"W012751 | year 2010≠2004 | ref: Iacotucci F., Pellegrino C. 2010, *An user-friendly approach to GIS-application: An utility for the study of Etruscan cemetery of Pontecagna | work: An user-friendly approach to GIS-application: an utility for the study of Etruscan cemetery of Ponte (2004)"
+info,link_mismatch,1329:13,"W008135 | year 2024≠2007 | ref: R Core Team 2024, R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Wien (https://www.R-proje | work: R: A language and environment for statistical computing (2007)"
+info,link_mismatch,609:10,"W002862 | year 1988≠1987 | ref: Francovich R., Parenti R. (eds.) 1988, Archeologia e restauro dei monumenti. I Ciclo di Lezioni sulla Ricerca applicata in Archeologia (Cert | work: Archeologia e restauro dei monumenti. I ciclo di lezioni sulla ricerca applicata in archeologia. Cer (1987)"
+warn,link_mismatch,259:21,"W003450 | authors ['modrzewska']≠['modrzewskapianetti'] | ref: MODRZEWSKA I. 1995, Anfore spagnole nel Veneto. Testimonianze dei contatti commerciali tra Betica e Venetia, ed. CNR, Pisa. | work: Anfore spagnole nel Veneto. Testimonianze dei contatti commerciali fra Betica e Venetia (1995)"
+info,link_mismatch,259:24,"W002364 | year 1975≠1974 | ref: PEACOCK D.P.S. 1975, Amphorae and Baetican fish industry, «The Antiquaries Journal», 54 (2), 232-243. | work: Amphorae and the Baetican fish industry (1974)"
+info,link_mismatch,388:13,"W004590 | year 1995≠1997 | ref: GOTTARELLI A. (ed.) 1995, Sistemi informativi e reti geografiche in archeologia: GIS-Internet, VII Ciclo di Lezioni sulla Ricerca applicata  | work: Sistemi informativi e reti geografiche in archeologia: GIS - INTERNET. Atti del VII ciclo di lezioni (1997)"
+info,link_mismatch,388:24,"W000280 | title sim 0.69 | ref: VALENTI M. 2000, La piattaforma GIS dello scavo nella sperimentazione dell’Insegnamento di Archeologia Medievale dell’Università di Siena. F | work: La piattaforma GIS dello scavo. Filosofia di lavoro e provocazioni, modello dei dati e ""soluzione GI (2000)"
+info,link_mismatch,672:1,"W008307 | year 2009≠2008 | ref: Barceló J.A. 2009, Computational Intelligence in Archaeology, Hershey, New York, The IGI Group. | work: Computational Intelligence in Archaeology (2008)"
+info,link_mismatch,222:16,"W004144 | year 1994≠1996 | ref: ROSS S. 1994, Archaeology's new language: Multimedia, Paper presented at Imaging the Past (British Museum London, 3-5 November 1994). | work: Archaeology's new language: Multimedia (1996)"
+info,link_mismatch,449:8,"W007883 | title sim 0.65 | ref: PECERE B. c.s., *Applicazione GIS sul Santuario di Tas Silg a Malta: uno strumento per gestire i vecchi dati di scavo*, in *Un luogo di cult | work: Applicazione GIS ai dati di scavo: uno strumento per la gestione delle ricerche a Tas Silġ (2005)"
+info,link_mismatch,263:15,"W002222 | type book≠article | ref: LEROI-GOURHAN A., BREZILLON M. 1972, Fouilles de Pincevent. Essai d’analyse d’un habitat magdalénien: la section 36, «Gallia Préhistoire», S | work: Fouilles de Pincevent, essai d'analyse ethnographique d'un habitat magdalénien (la section 36) (1972)"
+info,link_mismatch,1190:17,"W015780 | year 2020≠2019 | ref: Ferdani D., Demetrescu E., Cavalieri M., Pace G., Lenzi S. 2020, 3D modelling and visualization in field archaeology. From survey to interpr | work: 3D modelling and visualization in field archaeology. From survey to interpretation of the past using (2019)"
+info,link_mismatch,849:5,"W011666 | year 2013≠2012 | ref: Augenti A., Ficara M., Ravaioli E. 2013, *Atlante dei beni archeologici della provincia di Ravenna. 1. Il paesaggio monumentale del Medioevo | work: Atlante dei beni archeologici della provincia di Ravenna. 1. Il paesaggio monumentale del Medioevo (2012)"
+info,link_mismatch,849:40,"W000280 | title sim 0.69 | ref: Valenti M. 2000, *La piattaforma GIS dello scavo nella sperimentazione dell'Insegnamento di Archeologia Medievale dell'Università di Siena.  | work: La piattaforma GIS dello scavo. Filosofia di lavoro e provocazioni, modello dei dati e ""soluzione GI (2000)"
+info,link_mismatch,1485:4,"W020704 | year 2025≠2024 | ref: Brancato R., Kay S. 2025, Legacy GIS data integration and non-invasive survey for the study of the archaeological landscape of Atella (Caser | work: Legacy GIS data integration and non-invasive survey for the study of the archaeological landscape of (2024)"
+info,link_mismatch,1485:8,"W007777 | year 2005≠2000 | ref: Piccarreta F., Ceraudo G. 2005, Manuale di aerofotografia archeologica. Metodologia, tecniche e applicazioni, Bari, Edipuglia. | work: Manuale di aerofotografia archeologica. Metodologia, tecniche e applicazioni (2000)"
+info,link_mismatch,371:8,"W005584 | year 1898≠1992 | ref: Peirce C.S. 1898 (texte réédité en 1992), *Reasoning and the Logic of Things*, The Cambridge Conferences, Lectures of 1898, Cambridge, Harva | work: Reasoning and the Logic of Things, The Cambridge Conferences. Lectures of 1898 (1992)"
+info,link_mismatch,721:19,"W010654 | year 2012≠2011 | ref: Russo M., Remondino F. 2012, Laser Scanning e fotogrammetria: strumenti e metodi di rilievo tridimensionali per l'archeologia, in G.P. Brogi | work: Laser scanning e fotogrammetria: strumenti e metodi di rilievo tridimensionale per l'archeologia (2011)"
+info,link_mismatch,306:6,"W003094 | title sim 0.74 | ref: LOCK G., STANČIČ Z. (eds.) 1995, Archaeology and GIS: A European Perspective, London, Taylor & Francis. | work: Archaeology and Geographical Information Systems: A European Perspective (1995)"
+info,link_mismatch,428:5,"W004479 | year 1991≠1995 | ref: Valdés L. (ed.) 1991, 1993, Aplicaciones informáticas en Arqueología, Voll. 1-2, Bilbao, Demboraren Argia. | work: Aplicaciones informáticas en arqueología. Teorías y Sistemas (1995)"
+info,link_mismatch,428:5,"W004479 | year 1993≠1995 | ref: Valdés L. (ed.) 1991, 1993, Aplicaciones informáticas en Arqueología, Voll. 1-2, Bilbao, Demboraren Argia. | work: Aplicaciones informáticas en arqueología. Teorías y Sistemas (1995)"
+info,link_mismatch,351:43,"W005823 | year 1967≠1976 | ref: SHACKLETON N.J. 1967, Oxygen isotopes and Paleomagnetic stratigraphy of Pacific core V 28-239 late Pliocene to latest Pleistocene, «Geologic | work: Oxygen isotopes and Paleomagnetic stratigraphy of Pacific core V 28-239 late Pliocene to latest Plei (1976)"
+info,link_mismatch,24:39,"W001842 | year 1981≠1982 | ref: DORAN J. 1981, A computational model of sociocultural systems and their dynamics, in C. RENFREW, M. J. ROWLANDS, B. A. SEGRAVES (edd.), Theo | work: A computational model of sociocultural systems and their dynamics (1982)"
+info,link_mismatch,24:48,"W001546 | year 1989≠1988 | ref: GUIDI A . 1989, Storia delta Paletnologia, Roma-Bari, Laterza. | work: Storia della paletnologia (1988)"
+info,link_mismatch,1098:7,"W012382 | year 2016≠2015 | ref: Caravale A. 2016b, *The automated cataloguing of archaeological heritage in Italy*, in Virtual Museum of Archaeological Computing – Itinerar | work: The automated cataloguing of archaeological heritage in Italy (2015)"
+info,link_mismatch,1132:16,"W011778 | year 2015≠2016 | ref: Sordini M., Brogi F., Campana S. 2015, *3D recording of archaeological excavation: The case of study of Santa Marta, Tuscany, Italy*, in S.  | work: 3D recording of archaeological excavation: The case study of Santa Marta (2016)"
+info,link_mismatch,916:4,"W000400 | year 2006≠2005 | ref: Barchesi C. 2006, *«Archeologia e Calcolatori»: nuove strategie per la diffusione dei contenuti in rete sulla base dell'OAI-PMH*, «Archeolog | work: ""Archeologia e Calcolatori"": nuove strategie per la diffusione di contenuti in rete sulla base dell' (2005)"
+info,link_mismatch,916:13,"W010820 | title sim 0.73 | ref: Curci A., Fiorini A. (eds.) 2012, *Documentare l'archeologia 2.0*. Atti del Workshop (Bologna 2012), «Archeologia e Calcolatori», 23, 209-32 | work: Documentare l'archeologia 2.0, Atti dell'Workshop (Bologna, Alma Mater Studiorum Università di Bolog (2012)"
+info,link_mismatch,150:3,"W003072 | year 1986≠1987 | ref: GETIS A., FRANKLIN J. 1986, Second-Order Neighborhood Analysis of Mapped Point Patterns, «Ecology», 65 (3), 473-477. | work: Second-Order Neighborhood Analysis of Mapped Point Patterns (1987)"
+info,link_mismatch,783:4,"W002394 | title sim 0.56 | ref: Andresen J., Madsen T., Scollar I. 1993 (eds.), Computing the Past: CAA 1992. Computer Applications in Archaeology, Proceedings of the 20th  | work: CAA92. Computing the Past: Computer Applications and Quantitative Methods in Archaeology (1993)"
+info,link_mismatch,1309:36,"W017891 | year 2011≠2012 | ref: Seville Charter 2011, *The Seville Principles: International Principles of Virtual Archaeology* (http://sevilleprinciples.com/). | work: International Principles of Virtual Archaeology (2012)"
+info,link_mismatch,516:2,"W008446 | title sim 0.30 | ref: Antonello E. (ed.) in press, Atti del 7° Convegno annuale della Società italiana di Archeoastronomia Il Cielo e l’Uomo: problemi e metodi di | work: Il cielo e l'uomo: problemi e metodi di astronomia culturale. Atti del VII Convegno Nazionale della  (2010)"
+warn,link_mismatch,516:17,"W008461 | authors ['flinderspetrie']≠['petrie'] | ref: Flinders Petrie W.M. 1880, Stonehenge, Plans, Description and Theories, London, Edward Stanford. | work: Stonehenge, Plans, Description and Theories (1880)"
+warn,link_mismatch,392:12,"W000308 | authors ['gonzalez']≠['gonzalezacuna'] | ref: GONZÁLEZ D. 2001, Análisis de visibilidad y patrones de asentamiento protohistóricos. Los yacimientos de bronce final y período orientalizan | work: Análisis de visibilidad y patrones de asentamiento protohistóricos. Los yacimientos del Bronce Final (2001)"
+info,link_mismatch,405:6,"W006853 | year 2004≠2000 | ref: Barrington Atlas of the Greek and Roman World 2004, Princeton, Princeton University Press (http://pup.princeton.edu/titles/6773.html). | work: Barrington Atlas of the Greek and Roman World (2000)"
+info,link_mismatch,405:16,"W005838 | year 2000≠1998 | ref: Getty Thesaurus of Geographic names 2000, Los Angeles, The J. Paul Getty Trust (http://www.getty.edu/research/conducting_research/vocabulari | work: Thesaurus of Geographic Names (1998)"
+info,link_mismatch,405:41,"W006274 | year 1998≠1997 | ref: MDA Archaeological Objects Thesaurus 1998, Cambridge, MDA, English Heritage & Royal Commission on the Historical Monuments of England (http: | work: Archaeological Objects Thesaurus (1997)"
+info,link_mismatch,405:45,"W006287 | year 2003≠1998 | ref: MIDAS. A manual and data standard for monument inventories 2003, Swindon, English Heritage (http://www.english-heritage.org.uk/filestore/nmr | work: MIDAS. A Manual and Data Standard for Monument Inventories (1998)"
+info,link_mismatch,956:24,"W006694 | year 1996≠1995 | ref: Lévy P. 1996, *Qu'est-ce que le virtuel?*, Paris, La Découverte. | work: Qu’est-ce que le virtuel? (1995)"
+info,link_mismatch,1037:9,"W012578 | year 2015≠2014 | ref: Djindjian F. 2015, *Computer and mathematics in archaeology. Anatomy of an ineluctable success!*, in F. Giligny, F. Djindjian, L. Costa, P.  | work: Computers and mathematics in archaeology, anatomy of an ineluctable success! (2014)"
+info,link_mismatch,517:8,"W006857 | year 2004≠2000 | ref: Dictionary of Computing Terms (HTML) 2004, Needham, TechTarget (http://whatis.techtarget.com/definition/0,,sid9_gci211948,00.html; accessed  | work: Dictionary of Computing Terms (HTML) (2000-2004)"
+info,link_mismatch,147:4,"W003242 | year 1995≠2002 | ref: BARCELÓ J.A. 1995 (in press), Podemos determinar arqueológicament la interacción social?, in II Jornadas de Arqueología a la Carta, Carratra | work: ¿Podemos determinar arqueológicamente la interacción social? (2002)"
+info,link_mismatch,147:37,"W003273 | year 1993≠1995 | ref: PALLARÉS M. 1993 (in press), Cuestiones teórico-metodológicas sobre el estudio de la organización espacial de los asentamientos de comunidad | work: Cuestiones teórico-metodológicas sobre el estudio de la organización espacial de los asentamientos d (1995)"
+info,link_mismatch,782:6,"W001906 | year 1980≠1982 | ref: Bietti A. 1980, Tecniche matematiche nell’analisi dei dati archeologici, Roma, Accademia Nazionale dei Lincei. | work: Tecniche matematiche nell'analisi dei dati archeologici (1982)"
+info,link_mismatch,278:2,"W004797 | year 1995≠1994 | ref: CAMBI F., TERRENATO N. 1995, Introduzione all’archeologia dei paesaggi, Roma, NIS La Nuova Italia Scientifica. | work: Introduzione all’archeologia dei paesaggi (1994)"
+info,link_mismatch,1308:3,"W002809 | year 1989≠1990 | ref: Anselin L. 1989, *What is special about spatial data? Alternative perspectives on spatial data analysis*, in Symposium on Spatial Statistics | work: What is special about spatial data? Alternative perspectives on spatial data analysis (1990)"
+info,link_mismatch,444:11,"W007820 | title sim 0.44 | ref: RIDI C. c.s., *Strumenti, musici e contesti musicali nella ceramica attica di Tarquinia*, Collana *Tarchna*, in corso di stampa. | work: Musica e musici nei vasi attici di Tarquinia: immaginario greco e percezione etrusca (2015)"
+warn,link_mismatch,852:17,"W011765 | authors ['giuliani']≠['cairoligiuliani'] | ref: Giuliani C.F. 2012, *Archeologia oggi, la fantasia al potere*, «Quaderni di Archeologia e Cultura classica», 2, 5-48. | work: Archeologia oggi, la fantasia al potere (2012)"
+info,link_mismatch,1164:4,"W009356 | year 2009≠2008 | ref: Bianchini M. 2009, Manuale di rilievo digitale in Archeologia, Roma, Aracne. | work: Manuale di rilievo e di documentazione digitale in archeologia (2008)"
+info,link_mismatch,1164:7,"W015700 | year 2020≠2019 | ref: Gabellone F. 2020, Archeologia virtuale. Teoria, tecniche e casi di studio, Bari, Edizioni del Grifo. | work: Archeologia Virtuale. Teoria, tecniche e casi di studio (2019)"
+info,link_mismatch,1164:13,"W011108 | year 2001≠2002 | ref: Migliari R. (ed.) 2001, Frontiere del rilievo. Dalla matita alle scansioni 3D, Roma, Gangemi. | work: Frontiere del rilievo. Dalla matita alle scansioni 3D (2002)"
+info,link_mismatch,151:7,"W003252 | year 1992≠1991 | ref: CRESSIE N. 1992, Statistics for Spatial Data, New York, John Wiley and Sons. | work: Statistics for Spatial Data (1991)"
+info,link_mismatch,501:10,"W006226 | year 1992≠1993 | ref: Hansen H.J. 1992, European archaeological databases: problems and prospects, in J. Andresen, T. Madsen, I. Scollar (eds.), Computing the Pas | work: European archaeological databases: problems and prospects (1993)"
+info,link_mismatch,940:14,"W012970 | year 2007≠2008 | ref: Silvestrini M., Sabbatini T. (eds.) 2007, *Potere e Splendore: gli antichi Piceni a Matelica*, Roma, L'Erma di Bretschneider. | work: Potere e Splendore: gli antichi Piceni a Matelica (2008)"
+info,link_mismatch,1324:3,"W019852 | year 2023≠2022 | ref: CALANDRA E. 2023, *Il Geoportale Nazionale per l'Archeologia (GNA). Un'introduzione* (https://doi.org/10.60974/GNA_01). | work: Il Geoportale Nazionale per l’Archeologia (2022)"
+info,link_mismatch,1261:16,"W009948 | year 2010≠2009 | ref: Drennan R.D. 2010, Statistics for Archaeologists: A Commonsense Approach, New York, Springer. | work: Statistics for Archaeologists. A Commonsense Approach (2009)"
+info,link_mismatch,1261:23,"W005468 | year 2001≠2000 | ref: Pacciarelli M. 2001, Dal villaggio alla città: la svolta protourbana del 1000 a.C. nell'Italia tirrenica, Firenze, All'Insegna del Giglio. | work: Dal villaggio alla città. La svolta protourbana del 1000 a.C. nell'Italia tirrenica (2000)"
+warn,link_mismatch,1148:22,"W016014 | authors ['internationalorganizationforstandardization']≠['iso'] | ref: ISO 2018, *International Organization for Standardization 2018, ISO 12913-2:2018 - Acoustics - Soundscape Part 2, Data Collection and Report | work: ISO 12913-2:2018 - Acoustics - Soundscape Part 2, Data Collection and Reporting Requirements (2018)"
+info,link_mismatch,716:22,"W006711 | year 2002≠2003 | ref: Doerr M., Sarris A. 2002, The Digital Heritage of Archaeology, CAA 2002. Computer Applications and Quantitative Methods in Archaeology, Proc | work: The Digital Heritage of Archaeology. Computer Applications and Quantitative Methods in Archaeology.  (2003)"
+info,link_mismatch,1365:4,"W017967 | year 2020≠2019 | ref: Brancato R. 2020, *How to access ancient landscapes? Field survey and legacy data integration for research on Greek and Roman settlement pat | work: How to access ancient landscapes? Field survey and legacy data integration for research on Greek and (2019)"
+info,link_mismatch,1129:40,"W015526 | year 2009≠2014 | ref: Simeone D., Cursi S., Toldo I., Carrara G. 2009, *B(H)IM - Built Heritage Information Modelling. Extending BIM approach to historical and ar | work: B(H)IM - Built Heritage Information Modelling. Extending BIM approach to historical and archaeologic (2014)"
+warn,link_mismatch,44:1,"W002114 | title sim 0.21; type proceedings≠chapter | ref: ANCESCHI G. 1990, in Il Museo parla al pubblico, Atti del Convegno (Bologna 1989), Roma, Editoriale Test, 237-242. | work: Intervento (1990)"
+warn,link_mismatch,44:14,"W002127 | title sim 0.21; type proceedings≠chapter | ref: PAGLIANI M.L. 1991 , in Seminario interregionale sui musei locali, Atti (Gaeta 1990), Gaeta, Regione Lazio, 322-326. | work: Intervento (1991)"
+warn,link_mismatch,370:4,"W004779 | authors ['cek']≠['malina', 'vasicek'] | ref: Cek Z. 1990, *Archaeology Yesterday and Today. The Development of Archaeology in the Sciences and Humanities*, Cambridge, Cambridge Universi | work: Archaeology Yesterday and Today. The Development of Archaeology in the Sciences and Humanities (1990)"
+warn,link_mismatch,848:8,"W011655 | authors ['nardibrunetti']≠['brunettinardi'] | ref: Nardi Brunetti G. 1972, *Repertorio degli scavi e delle scoperte archeologiche nell'Etruria Meridionale, II (1966-1970)*, Roma, CNR. | work: Repertorio degli scavi e delle scoperte archeologiche nell'Etruria Meridionale, II (1966-1970) (1972)"
+warn,link_mismatch,848:9,"W011656 | authors ['nardibrunetti']≠['brunettinardi'] | ref: Nardi Brunetti G. 1981, *Repertorio degli scavi e delle scoperte archeologiche nell'Etruria Meridionale, III (1971-1975)*, Roma, CNR, 97-101 | work: Repertorio degli scavi e delle scoperte archeologiche nell'Etruria Meridionale, III (1971-1975) (1981)"
+info,link_mismatch,1484:1,"W012958 | year 1982≠1991 | ref: Baldelli G. 1982, Numana-Sirolo (AN), in G. Baldelli, M. Landolfi, D.G. Lollini (eds.), La ceramica attica figurata nelle Marche, Castelferr | work: Numana-Sirolo (AN) (1991)"
+info,link_mismatch,1484:12,"W001058 | year 2022≠2020 | ref: Boschi F. 2022a, Archeologia preventiva e ricerca nella valle del Nevola (Marche, Italia). La scoperta “programmata” di una necropoli a Cori | work: Archeologia preventiva e ricerca nella valle del Nevola (Marche, Italia). La scoperta “programmata”  (2020)"
+info,link_mismatch,1484:18,"W012960 | year 2016≠2015 | ref: Delpino C., Finocchi S., Postrioti G. 2016, Necropoli del Piceno. Dati acquisiti e prospettive di ricerca, in G. Baldini, P. Giroldini (eds. | work: Necropoli del Piceno. Dati acquisiti e prospettive di ricerca (2015)"
+info,link_mismatch,1312:17,"W001300 | year 2025≠2024 | ref: Iacopini E. in press, Zotero2map: sviluppo di un nuovo strumento ITC per la condivisione e la pubblicazione dei dati bibliografici per la ri | work: Zotero2Map: sviluppo di un nuovo strumento ITC per la condivisione e la pubblicazione dei dati bibli (2024)"
+info,link_mismatch,1492:17,"W017903 | year 2016≠2010 | ref: Ferrari I., Scardozzi G. 2016, Contributo alla Carta Archeologica di Alezio, Bari, Scirocco Editore. | work: Contributo alla Carta Archeologica di Alezio (2010)"
+info,link_mismatch,673:45,"W007334 | title sim 0.35 | ref: Djindjian F., Moscati P. (eds.) 2002, XIV UISPP Congress (Liège-Belgium 2001). Proceedings of Commission IV Symposia. Data Management and Ma | work: Data Management and Mathematical Methods in Archaeology. Proceedings of Commission IV Symposia, XIV  (2002)"
+info,link_mismatch,673:96,"W010365 | year 1993≠1943 | ref: McCulloch W.S., Pitts W.H.A. 1993, A logical calculus of the ideas immanent in nervous activity, «Bulletin of Mathematical Biophysics», 5, 1 | work: A logical calculus of the ideas immanent in nervous activity (1943)"
+info,link_mismatch,223:1,"W001942 | year 1989≠1982 | ref: BARKER P. 1989, Techniques of Archaeological Excavation, London, B.T. Batsford Ltd. | work: Techniques of Archaeological Excavation (1982)"
+info,link_mismatch,223:2,"W004150 | year 1996≠1997 | ref: BAXEVANI E. 1996 (forthcoming), The ideology of death in the early Bronze Age societies of Cyprus and Crete, in Acts of the International Ar | work: The ideology of death in the early Bronze Age societies of Cyprus and Crete (1997)"
+info,link_mismatch,608:1,"W006991 | year 1995≠2001 | ref: AA.VV. 1995-2008, Carta archeologica della Provincia di Siena, voll. I-IX, Siena, Nuova Immagine Editrice. | work: Carta Archeologica della Provincia di Siena. Murlo (2001)"
+info,link_mismatch,258:13,"W003206 | type book≠article | ref: VON DEN DRIESCH A. 1976, A Guide to Measurement of Animal Bones from Archaeological Sites, Peabody Museum Bulletin, n. 1, Harvard University | work: A Guide to the measurement of animal bones from archaeological sites (1976)"
+info,link_mismatch,576:19,"W004276 | title sim 0.64 | ref: Djindjian F., Ducasse H. (eds.) 1987, Data Processing and Mathematics Applied to Archaeology/ Mathématiques et Informatique appliquées à l’A | work: Mathématiques et Informatique appliquées à l'archéologie, PACT 16 (1987)"
+info,link_mismatch,576:20,"W007334 | title sim 0.46 | ref: Djindjian F., Moscati P. (eds.), Proceedings of the Commission 4 Symposia, XIV UISPP Congress (Liège 2001), «Archeologia e Calcolatori», 13. | work: Data Management and Mathematical Methods in Archaeology. Proceedings of Commission IV Symposia, XIV  (2002)"
+info,link_mismatch,576:21,"W000255 | year 2000≠1999 | ref: Doran J.E. 2000, Prospects for agent-based modelling in Archaeology, «Archeologia e Calcolatori», 10, 33-44. | work: Prospects for agent-based modelling in archaeology (1999)"
+info,link_mismatch,1056:31,"W006665 | year 2003≠2002 | ref: Gillings M., Wheatley D. 2003, *Spatial Technology and Archaeology. The Archaeological Applications of GIS*, London, Taylor&Francis. | work: Spatial Technology and Archaeology. The Archaeological Applications of GIS (2002)"
+info,link_mismatch,599:13,"W006558 | year 2002≠2001 | ref: Tosi M., Cattani M., Curci A., Marcucci L.G., Usai D. 2002, Missione archeologica nel Sultanato di Oman (Joint Hhadd Project). Campagna di r | work: Missione archeologica nel Sultanato di Oman “Joint hadd Project”. Campagna di ricerca 2000-2001 (2001)"
+info,link_mismatch,1390:17,"W019293 | title sim 0.61 | ref: Demetrescu E., Fanini B., Cocca E. 2023, Un flusso di lavoro di disseminazione online per il processo scientifico in CH attraverso Semantic  | work: An online dissemination workflow for the scientific process in CH through semantic 3D: EMtools and E (2023)"
+info,link_mismatch,130:8,"W000051 | year 1995≠1993 | ref: D'ANDRIA F., SEMERARO G. 1995, *Un sistema integrato per la cartografia e i dati di scavo*, «Archeologia e Calcolatori», 6, 159-180. | work: Un sistema integrato per la gestione della cartografia e dei dati di scavo (1993)"
+info,link_mismatch,1502:3,"W020494 | year 2018≠2016 | ref: Apollonio F.I. 2018, Classification schemes for visualization of uncertainty in digital hypothetical reconstruction, in S. Münster et al. (e | work: Classification schemes for visualization of uncertainty in digital hypothetical reconstruction (2016)"
+info,link_mismatch,921:17,"W011778 | year 2015≠2016 | ref: Sordini M., Brogi F., Campana S. 2015, *3D recording of archaeological excavation: The case of study of Santa Marta, Tuscany, Italy*, in S.  | work: 3D recording of archaeological excavation: The case study of Santa Marta (2016)"
+info,link_mismatch,496:7,"W000311 | year 2002≠2001 | ref: Colosi F., Gabrielli R., Peloso D., Rose D. 2002, Impiego del Differential Global Positioning System (DGPS) per lo studio del paesaggio anti | work: Impiego del Differential Global Positioning System (DGPS) per lo studio del paesaggio antico: alcuni (2001)"
+info,link_mismatch,300:20,"W002373 | title sim 0.66 | ref: RICCI A. 1985, Settefinestre. Una villa schiavistica nell’Etruria romana, 2, Modena. | work: Una villa schiavistica nell'Etruria romana II: la villa e i suoi reperti (1985)"
+info,link_mismatch,615:23,"W005372 | year 1943≠1964 | ref: Leroi-Gourhan A. 1943-1945, Le Geste et la Parole, vol. 1: Technique et Langage; vol. 2: La Mémoire et les Rythmes, Paris, Albin Michel. | work: Le geste et la parole. Technique et Langage (1964)"
+info,link_mismatch,1362:4,"W007781 | year 1974≠1973 | ref: Deering D.W., Rouse J.W., Haas R.H., Schell J.A. 1974, *Monitoring vegetation systems in the Great Plains with ERTS*, in *NASA. Goddard Spac | work: Monitoring vegetation systems in the great plains with ERTS (1973)"
+warn,link_mismatch,1118:21,"W012961 | authors ['colonna']≠['franchidellorto'] | ref: Colonna G. (ed.) 2001, *Eroi e Regine. Piceni popolo d'Europa*, Catalogo della mostra, Roma, De Luca Editori d'Arte. | work: Eroi e Regine. Piceni popolo d'Europa. Catalogo della Mostra (Roma 2001) (2001)"
+info,link_mismatch,1374:16,"W009899 | year 1958≠1959 | ref: Gardin J.-C. 1958a, On the coding of geometrical shapes and other representations, with reference to archaeological documents, Papers of the | work: On the coding of geometrical shapes and other representations, with reference to archaeological docu (1959)"
+info,link_mismatch,1374:35,"W015326 | type article≠book | ref: Moscati P. 2019, 30 anni di Archeologia e Calcolatori. Tra memoria e progettualità, «Archeologia e Calcolatori», 30, 9-138 (https://www.arch | work: 30 anni di «Archeologia e Calcolatori». Tra memoria e progettualità (2019)"
+info,link_mismatch,1289:51,"W016103 | year 1988≠1995 | ref: Sassatelli G. 1988, *Topografia e ""sistemazione monumentale"" delle necropoli felsinee*, in *La formazione della città preromana in Emilia-Ro | work: Topografia e ""sistemazione monumentale"" delle necropoli felsinee (1995)"
+info,link_mismatch,1289:54,"W014847 | year 2017≠2018 | ref: Verhagen P. 2017, *Spatial analysis in archaeology: Moving into new territories*, in C. Siart, M. Forbriger, O. Bubenzer (eds.), *Geoarchaeo | work: Spatial analysis in archaeology: Moving into new territories (2018)"
+info,link_mismatch,1266:3,"W007462 | year 1991≠1990 | ref: D'Andria F. 1991, *Insediamenti e territorio: l'età storica*, in Atti del Convegno di Studi sulla Magna Grecia, XXX, Taranto, ISAMG, 393-478 | work: Insediamenti e territorio: l’età storica (1990)"
+info,link_mismatch,1266:13,"W017903 | year 2016≠2010 | ref: Ferrari I., Scardozzi G. 2016, *Contributo alla Carta Archeologica di Alezio*, Monografie dell'Istituto per i Beni Archeologici e Monumental | work: Contributo alla Carta Archeologica di Alezio (2010)"
+info,link_mismatch,253:30,"W004366 | title sim 0.65 | ref: MOSCATI P. (ed.) 1996, Proceedings of the III International Symposium on Computing and Archaeology (Rome 1995), «Archeologia e Calcolatori», | work: III International Symposium on Computing and Archaeology - Roma 22-25 novembre 1995 (1996)"
+info,link_mismatch,603:13,"W009518 | year 1998≠1988 | ref: Carta archeologica del Veneto I 1998 = Capuis L., Leonardi G., Pesavento Mattioli S., Rosada G. (eds.), Carta archeologica del Veneto I, Mod | work: Carta archeologica del Veneto I (1988)"
+info,link_mismatch,414:21,"W005279 | year 2003≠2002 | ref: Cantone F., Niccolucci F. 2003, Legend and virtual reconstruction: Porsenna’s mausoleum in X3D, in M. Doerr, A. Sarris (eds.), The Digital H | work: Legend and virtual reconstruction: Porsenna’s mausoleum in X3D (2002)"
+warn,link_mismatch,414:58,"W007171 | authors ['munsell']≠['munsellcolor'] | ref: Munsell 1994, Munsell Soil Color Charts, Baltimore, MacBeth Division of Kollmorgen Instruments Corp. | work: Munsell Soil Color Charts (1994)"
+info,link_mismatch,414:66,"W002392 | year 1990≠1991 | ref: Reilly P. 1990, Towards a Virtual Archaeology, in K. Lockyear, S. Rahtz S. (eds.), Computer Applications and Quantitative Methods in Archaeo | work: Towards a virtual archaeology (1991)"
+info,link_mismatch,414:74,"W005164 | title sim 0.57 | ref: Stančič Z., Veljanovski T. (eds.) 2001, Computing Archaeology for Understanding the Past, CAA 2000 (Ljubljana), BAR International Series 931 | work: Computing Archaeology for Understanding the Past. CAA 2000 - Computer Applications and Quantitative  (2001)"
+info,link_mismatch,1134:3,"W008307 | year 2009≠2008 | ref: Barceló J.A. 2009, *Computational Intelligence in Archaeology*, Hershey, IGI Global. | work: Computational Intelligence in Archaeology (2008)"
+info,link_mismatch,1134:14,"W014078 | type book≠chapter | ref: Guerra F., Pilot L., Vernier P. 2004, *Fotogrammetria e laser scanning: alternativa?*, Venezia, Università IUAV, CIRCE. | work: Fotogrammetria e laser scanning: alternativa? (2004)"
+info,link_mismatch,1134:21,"W011108 | year 2001≠2002 | ref: Migliari R. 2001, *Frontiere del rilievo, dalla matita alle scansioni 3D*, Roma, Gangemi. | work: Frontiere del rilievo. Dalla matita alle scansioni 3D (2002)"
+info,link_mismatch,1134:23,"W002392 | year 1990≠1991 | ref: Reilly P. 1990, *Towards a virtual archaeology*, in K. Lockyear, S. Rahtz (eds.), *Computer Applications and Quantitative Methods in Archaeo | work: Towards a virtual archaeology (1991)"
+warn,link_mismatch,382:15,"W006435 | authors ['esquivel']≠['esquivelguerrero'] | ref: Esquivel J.A. 1988, Una aplicación de la entropía al análisis cluster mediante variables cualitativas multiestado: afinidad, similaridad y a | work: Una aplicación de la entropía al análisis cluster mediante variables cualitativas multiestado: afini (1988)"
+warn,link_mismatch,1358:10,"W012148 | year 2012≠2005; type article≠book | ref: Killebrew A.E. 2012, *Biblical peoples and ethnicity. An archaeological study of Egyptians, Canaanite, Philistines, and Early Israel 1300-11 | work: Biblical Peoples and Ethnicity: An Archaeological Study of Egyptians, Canaanites, Philistines, and E (2005)"
+info,link_mismatch,1499:13,"W019960 | year 2014≠2015 | ref: Fernandez-Hernandez J., González-Aguilera D., Rodríguez-Gonzálvez P., Mancera-Taboada J. 2014, Image-based modelling from Unmanned Aerial Ve | work: Image-based modelling from Unmanned Aerial Vehicle (UAV) photogrammetry: An effective, low-cost tool (2015)"
+info,link_mismatch,785:38,"W008149 | title sim 0.63 | ref: Ioannides M., Arnold D., Niccolucci F., Mania K. (eds.) 2006, The E-volution of Information Communication Technology in Cultural Heritage, W | work: The E-volution of Information Communication Technology in Cultural Heritage, Project Papers from the (2006)"
+info,link_mismatch,906:20,"W000596 | year 2010≠2012 | ref: Garcia-Lázaro F.J., Sala-Ballester P., Farjas-Abadía M. 2010, *Morphometric analysis of engravings from photogrammetric point cloud data*, « | work: Morphometric analysis of engravings from photogrammetric point cloud data (2012)"
+info,link_mismatch,510:11,"W004276 | title sim 0.64 | ref: Djindjian F., Ducasse H. (eds.) 1987, Data Processing and Mathematics Applied to Archaeology/Mathématiques et Informatique appliquées à l’ar | work: Mathématiques et Informatique appliquées à l'archéologie, PACT 16 (1987)"
+info,link_mismatch,510:12,"W007334 | title sim 0.36 | ref: Djindjian F., Moscati P. (eds.) 2002, XIV UISPP Congress (Liège 2001). Proceedings of Commission IV Symposia. Data Management and Mathematic | work: Data Management and Mathematical Methods in Archaeology. Proceedings of Commission IV Symposia, XIV  (2002)"
+info,link_mismatch,1088:15,"W008418 | year 2005≠2006 | ref: Daly P., Evans T.L. 2005, *Digital Archaeology: Bridging Method and Theory*, London, Routledge. | work: Digital Archaeology: Bridging Method and Theory (2006)"
+info,link_mismatch,394:7,"W003922 | year 1986≠1984 | ref: Corpus Topographicum Pompeianum 1986, Ricca Maps, Roma, H. Van der Poel. | work: Corpus Topographicum Pompeianum. The RICA Maps of Pompeii (1984)"
+info,link_mismatch,394:19,"W006720 | year 1998≠1999 | ref: MCCULLOUGH B.D., WILSON B. 1998, On the accuracy of statistical distributions in Microsoft Excel 97, «Computational Statistics & Data Analys | work: On the accuracy of statistical procedures in Microsoft Excel 97 (1999)"
+info,link_mismatch,38:11,"W002051 | year 1987≠1986 | ref: BURROUGH P.A. 1987, Principles of Geographical Information Systems for Land Resources, Oxford. | work: Principles of Geographical Information Systems for Land Resources (1986)"
+info,link_mismatch,38:28,"W002064 | title sim 0.56 | ref: FORTE M., GUIDAZZOLI A. 1991a, Considerazioni preliminari sul bucchero di Marzabotto: qualche esempio di classificazione di immagini digital | work: Qualche esempio di classificazione di immagini digitalizzate a proposito del bucchero di Marzabotto (1993)"
+warn,link_mismatch,1102:2,"W009293 | authors ['azkarate']≠['azkarategaraiolaun'] | ref: Azkarate A. 2002, *Interese cognoscitivos y praxis social en la arqueología de la arquitectura*, «Arqueología de la Arquitectura», 1, 55-71. | work: Intereses cognoscitivos y praxis social en Arqueología de la Arquitectura (2002)"
+info,link_mismatch,1102:12,"W011742 | year 2011≠2013 | ref: Murphy M., McGovern E., Pavia S. 2011, *Historic Building Information Modelling. Adding intelligence to laser and image based surveys*, «ISP | work: Historic Building Information Modelling - Adding intelligence to laser and image based surveys of Eu (2013)"
+info,link_mismatch,1378:4,"W019059 | year 2024≠2023 | ref: Boi V. 2024, Il Geoportale Nazionale per l’Archeologia (GNA). Standardizzazione e apertura dei dati (https://doi.org/10.60974/GNA_02). | work: Il Geoportale Nazionale per l'Archeologia (GNA). Standardizzazione e apertura dei dati (2023)"
+info,link_mismatch,1378:25,"W012217 | year 2008≠2013 | ref: Netler M., Mitasova H. 2008, Open Source GIS: A Grass GIS approach, III, New York, Springer. | work: Open Source GIS: A GRASS GIS approach (2013)"
+info,link_mismatch,1401:4,"W006855 | year 2024≠2004 | ref: Bekiari C., Bruseker G., Canning E., Doerr M., Michon P., Ore C.-E., Stead S., Velios A. 2024, Definition of the CIDOC Conceptual Reference  | work: Definition of the CIDOC Conceptual Reference Model (2004)"
+info,link_mismatch,1401:5,"W006855 | year 2021≠2004 | ref: Bekiari C., Bruseker G., Doerr M., Ore C.-E., Stead S., Velios A. 2021, Definition of the CIDOC Conceptual Reference Model v.7.1. (https://c | work: Definition of the CIDOC Conceptual Reference Model (2004)"
+info,link_mismatch,1285:5,"W012748 | type book≠article | ref: D'Agostino B. 1977, *Tombe principesche dell'Orientalizzante antico da Pontecagnano*, Monumenti Antichi, 49, serie misc. 2,1, Roma, Accademi | work: Tombe principesche dell'orientalizzante antico da Pontecagnano (1977)"
+info,link_mismatch,1285:8,"W012751 | year 2010≠2004 | ref: Iacotucci F., Pellegrino C. 2010, *An user-friendly approach to GIS-application: an utility for the study of Etruscan cemetery of Pontecagna | work: An user-friendly approach to GIS-application: an utility for the study of Etruscan cemetery of Ponte (2004)"
+warn,link_mismatch,1006:5,"W013613 | authors ['chi']≠['culturalheritageimagingchi'] | ref: CHI 2011, *Reflectance Transformation Imaging: Guide to Highlight Image Processing v1.4*, Cultural Heritage Imaging (http://culturalheritage | work: Reflectance Transformation Imaging: Guide to Highlight Image Processing v1.4 (2011)"
+warn,link_mismatch,1006:6,"W013614 | authors ['chi']≠['culturalheritageimagingchi'] | ref: CHI 2013a, *Guide to RTIViewer v 1.1*, Cultural Heritage Imaging (http://culturalheritageimaging.org/What_We_Offer/Downloads/rtiviewer/RTIVi | work: Guide to RTIViewer v 1.1 (2013)"
+warn,link_mismatch,1006:7,"W013615 | authors ['chi']≠['culturalheritageimagingchi'] | ref: CHI 2013b, *Reflectance Transformation Imaging: Guide to Highlight Image Capture v 2.0*, Cultural Heritage Imaging (http://culturalheritagei | work: Reflectance Transformation Imaging: Guide to Highlight Image Capture v 2.0 (2013)"
+info,link_mismatch,55:9,"W002070 | year 1987≠1988 | ref: HARRIS T. 1987, Digital terrain modelling in archaeology and regional planning, in C.L.N. RUGGLES, S.P.Q . RAHTZ (edd.), Computer and Quanti | work: Digital terrain modelling in archaeology and regional planning (1988)"
+info,link_mismatch,1246:14,"W008135 | year 2022≠2007 | ref: R Core Team 2022, *R: A Language and Environment for Statistical Computing*, Wien, R Foundation for Statistical Computing. | work: R: A language and environment for statistical computing (2007)"
+info,link_mismatch,1303:3,"W010727 | year 2011≠2010 | ref: Bezzi A., Bezzi L., Benjamin D. 2011, *Computer vision e Structure from Motion, nuove metodologie per la documentazione archeologica tridime | work: Computer Vision e Structure From Motion, nuove metodologie per la documentazione archeologica tridim (2010)"
+info,link_mismatch,1180:8,"W016431 | year 2013≠2020 | ref: Goodman D. 2013, GPR Slice Version 7.0 Manual (http://www.gpr-survey.com; accessed June 2013). | work: GPR-Slice 7.0, Manual (2020)"
+info,link_mismatch,1250:11,"W005512 | year 2002≠1992 | ref: McGUIRE R.H. 2002, *A Marxist Archaeology*, New York, Percheron Press. | work: A Marxist Archaeology (1992)"
+warn,link_mismatch,320:18,"W005219 | authors ['macchi']≠['macchijanica'] | ref: MACCHI G. 1999, Las bases de datos en la investigaciòn arqueologica, Barranquilla, Ediciones Uninorte. | work: Las bases de datos en la investigación arqueológica (1999)"
+info,link_mismatch,14:7,"W001558 | year 1987≠1988 | ref: KAMPFFMEYER U. et al. 1987, Untersuchungen zur rechnergestiif: ten Klassifikation der Form von Keramik, Frankfurt (Main), 79-104. | work: Untersuchungen zur rechnergestützten Klassifikation der Form von Keramik (1988)"
+info,link_mismatch,1207:9,"W011649 | year 2012≠2013 | ref: De Lucia Brolli M.A., Biella M.C., Suaria L. 2012, *Civita Castellana e il suo territorio. Ricognizioni archeologiche e archivistiche*, Roma | work: Civita Castellana e il suo territorio. Ricognizioni archeologiche e archivistiche (2013)"
+info,link_mismatch,232:3,"W003072 | year 1986≠1987 | ref: GETIS A., FRANKLIN J. 1986, Second-order neighborhood analysis of mapped point patterns, «Ecology», 65, 3, 473-477. | work: Second-Order Neighborhood Analysis of Mapped Point Patterns (1987)"
+info,link_mismatch,398:15,"W006576 | year 2001≠2002 | ref: VALENTI M. 2001, Dai contesti ai reperti: un sistema informatico per la gestione della memoria storica, in A. RICCI (ed.), Archeologia e urb | work: Dai contesti ai reperti: un sistema informatico per la gestione della memoria storica (2002)"
+warn,link_mismatch,377:14,"W006257 | authors ['coe']≠['councilofeurope'] | ref: Coe 1992, European Convention on the Protection of the Archaeological Heritage (Valetta 1992), European Treaty Series 143, Strasbourg, Europ | work: European Convention on the Protection of the Archaeological Heritage (Valetta 1992) (1992)"
+warn,link_mismatch,377:15,"W006258 | authors ['coe']≠['barber', 'brandt', 'regterenaltena'] | ref: Coe 1995, European Bronze Age Monuments. A Multilingual Glossary of Archaeological Terminology, Amersfoot, Council of Europe Glossary SS7. | work: European Bronze Age Monuments. A Multilingual Glossary of Archaeological Terminology (1995)"
+warn,link_mismatch,377:43,"W006284 | authors ['rchme']≠['royalcommissiononthehistoricalmonumentsofenglandrchme'] | ref: RCHME 1986, Thesaurus of Archaeological Terms, London, Royal Commission on the Historical Monuments of England. | work: Thesaurus of Archaeological Terms (1986)"
+warn,link_mismatch,377:44,"W006285 | authors ['rchme']≠['royalcommissiononthehistoricalmonumentsofenglandrchme'] | ref: RCHME 1989, Revised Thesaurus of Architectural Terms, London, Royal Commission on the Historical Monuments of England. | work: Revised Thesaurus of Architectural Terms (1989)"
+warn,link_mismatch,377:45,"W006286 | authors ['rchme']≠['royalcommissiononthehistoricalmonumentsofenglandrchme'] | ref: RCHME 1993, Recording England's Past. A Data Standard for the Extended National Archaeological Record, Swindon, Royal Commission on the Hist | work: Recording England’s Past. A Data Standard for the Extended National Archaeological Record (1993)"
+warn,link_mismatch,377:46,"W006287 | authors ['rchme']≠['royalcommissiononthehistoricalmonumentsofenglandrchme'] | ref: RCHME 1998, MIDAS. A Manual and Data Standard for Monument Inventories, Swindon, Royal Commission on the Historical Monuments of England. | work: MIDAS. A Manual and Data Standard for Monument Inventories (1998)"
+warn,link_mismatch,377:47,"W002643 | authors ['rchmeeh']≠['englishheritage', 'royalcommissiononthehistoricalmonumentsofenglandrchme'] | ref: RCHME-EH 1992, Thesaurus of Archaeological Site Types, London, Royal Commission on the Historical Monuments of England. | work: Thesaurus of Archaeological Site Types (1992)"
+warn,link_mismatch,377:48,"W006289 | authors ['rchmeeh']≠['royalcommissiononthehistoricalmonumentsofenglandrchme'] | ref: RCHME-EH 1995, Thesaurus of Monument Types. A Standard for Use in Archaeological and Architectural Records, Swindon, Royal Commission on the | work: Thesaurus of Monument Types. A Standard for Use in Archaeological and Architectural Records (1995)"
+warn,link_mismatch,377:49,"W006290 | authors ['rchmeeh']≠['royalcommissiononthehistoricalmonumentsofenglandrchme'] | ref: RCHME-EH 1996, Thesaurus of Building Materials, Swindon, Royal Commission on the Historical Monuments of England. | work: Thesaurus of Building Materials (1996)"
+info,link_mismatch,1342:1,"W010727 | year 2011≠2010 | ref: Bezzi A., Bezzi L., Ducke B. 2011, *Computer Vision e Structure from Motion, nuove metodologie per la documentazione archeologica tridimensi | work: Computer Vision e Structure From Motion, nuove metodologie per la documentazione archeologica tridim (2010)"
+info,link_mismatch,42:7,"W002103 | year 1980≠1990 | ref: GOODMAN D. 1980, The complete HyperCard 2.0 Handbook, 3 ed., Toronto-New York, Bantam Books. | work: The complete HyperCard 2.0 Handbook (1990)"
+warn,link_mismatch,376:7,"W006223 | authors ['ec']≠['europeancommission'] | ref: EC 2000, Towards a European Research Area, Communication from the Commission to the Council, the Parliament, the Economic and Social Committ | work: Towards a European Research Area, Communication from the Commission to the Council, the Parliament,  (2000)"
+warn,link_mismatch,376:8,"W006224 | authors ['ec']≠['europeancommission'] | ref: EC 2003, The Role of E-government for Europe's Future, Communication from the Commission to the Council, the Parliament, the Economic and So | work: The Role of E-government for Europe’s Future, Communication from the Commission to the Council, the  (2003)"
+warn,link_mismatch,1197:21,"W016815 | authors ['modona']≠['neppimodona'] | ref: Modona A.N. 1961, *Gli edifici teatrali greci e romani*, Firenze, L. Olschki Editore. | work: Gli edifici teatrali greci e romani (1961)"
+warn,link_mismatch,15:12,"W001522 | year 1984≠1985; title sim 0.75 | ref: CORTI L., SCHMlTT M. (edd.} 1984, Automatic Processing of Art History Data and Documents Proceedings, Pisa, Regione Toscana. | work: Second International Conference on Automatic Processing of Art History Data and Documents (Pisa 1984 (1985)"
+info,link_mismatch,15:42,"W001794 | year 1979≠1975 | ref: MuELLER J. W. (cd.) 1979, Samp/ing in Archaeology, Tucson, Arizona, The University of Arizona Press. | work: Sampling in Archaeology (1975)"
+info,link_mismatch,264:13,"W002071 | year 1977≠1978 | ref: HODDER I. (ed.) 1977, Simulation Studies in Archaeology, Cambridge, Cambridge University Press. | work: Simulation Studies in Archaeology (1978)"
+info,link_mismatch,321:12,"W005195 | year 2000≠1999 | ref: WITCHER R.E. 2000, GIS and landscapes of perception, in M. GILLINGS, D. MATTINGLY, J. VAN DALEN (eds.), Geographical Information Systems and | work: GIS and landscapes of perception (1999)"
+warn,link_mismatch,788:13,"W001894 | authors ['nocete']≠['nocetecalvo'] | ref: Nocete F. 1989, El espacio de la coerción. La transición al Estado en las Campiñas del Alto Guadalquivir (España). 3000-1500 a.C., Oxford, B | work: El Espacio de la Coerción. La Transición al Estado en las Campiñas del Alto Guadalquivir (España). 3 (1989)"
+info,link_mismatch,622:36,"W008604 | year 2007≠2006 | ref: Macchi Jánica G., Bagnara R. (eds.) 2007, Open source, free software e open format nei processi di ricerca archeologici. Atti del I Workshop | work: Open Source, Free Software e Open Format nei processi di ricerca archeologici. Atti del I Workshop ( (2006)"
+warn,link_mismatch,54:47,"W002360 | year 1992≠1993; authors ['modrzewska']≠['modrzewskapianetti'] | ref: MODRZEWSKA I. 1992, Anfore della laguna veneta. Scelta di ritrovamenti, ISDGM CNR TR n. 168. | work: Anfore della laguna veneta. Scelta di ritrovamenti (1993)"
+info,link_mismatch,54:52,"W002364 | year 1975≠1974 | ref: PEACOCK D.P.S. 1975, Amphorae and the Baetican fish industry, «The Antiquaries Journal», 54, part II, 232-243. | work: Amphorae and the Baetican fish industry (1974)"
+info,link_mismatch,1210:34,"W015700 | year 2020≠2019 | ref: Gabellone F. 2020, *Archeologia Virtuale. Teoria, tecniche e casi di studio*, Lecce, Edizioni Del Grifo. | work: Archeologia Virtuale. Teoria, tecniche e casi di studio (2019)"
+info,link_mismatch,1355:2,"W007846 | year 1988≠1994 | ref: Capuis L., Leonardi G., Mattioli S., Rosada G. (eds.) 1988, *Carta archeologica del Veneto*, IV, Modena, Edizioni Panini, 127-135. | work: Carta Archeologica del Veneto (1994)"
+info,link_mismatch,931:10,"W010241 | year 2013≠2012 | ref: Pescarin S., Hupperetz W., Pagano A., Ray C., Wallergård M. 2013, *Evaluating Virtual Museums: Archaeovirtual test-case*, in E. Graeme, T. S | work: Evaluating Virtual Museums: Archeovirtual Case Study (2012)"
+info,link_mismatch,1284:9,"W008572 | year 2001≠2000 | ref: De Guio A. 2001, *Power to the people? ""Paesaggi di potere"" di fine millennio…*, in G. Camassa, A. De Guio, F. Veronese (eds.), *Paesaggi di | work: Power to the people? ""Paesaggi di potere"" di fine millennio… (2000)"
+info,link_mismatch,78:2,"W001522 | year 1984≠1985 | ref: CORTI L. (ed.) 1984, Automatic Processing of Art History Data and Documents. | work: Second International Conference on Automatic Processing of Art History Data and Documents (Pisa 1984 (1985)"
+info,link_mismatch,435:1,"W004792 | year 1985≠1984 | ref: AA.VV. 1985, I Primi abitanti d'Europa, Catalogo della Mostra, Roma, De Luca. | work: I primi abitanti d’Europa, Catalogo della mostra (1984)"
+info,link_mismatch,435:6,"W004800 | year 1993≠1994 | ref: COCCHI GENICK D. 1993, Manuale di Preistoria. Paleolitico e Mesolitico, Firenze, Octavo Franco Cantini Editore. | work: Manuale di Preistoria, I, Paleolitico e Mesolitico (1994)"
+info,link_mismatch,1050:6,"W010727 | year 2011≠2010 | ref: Bezzi A., Bezzi L., Benjamin D. 2011, Computer Vision e Structure from Motion. Nuove metodologie per la documentazione archeologica tridimen | work: Computer Vision e Structure From Motion, nuove metodologie per la documentazione archeologica tridim (2010)"
+info,link_mismatch,1050:34,"W000594 | year 2013≠2012 | ref: Vinci M.S. 2013, La documentazione dell'edilizia storica in ambito urbano: applicazioni del raddrizzamento fotografico al caso del ""Foro Pro | work: La documentazione dell’edilizia storica in ambito urbano: applicazioni del raddrizzamento fotografic (2012)"
+info,link_mismatch,1046:32,"W002392 | year 1990≠1991 | ref: Reilly P. 1990, *Towards a Virtual Archaeology*, in S. Rahtz, K. Lockyear (eds.), *CAA90. Computer Applications and Quantitative Methods in  | work: Towards a virtual archaeology (1991)"
+info,link_mismatch,1380:12,"W014256 | year 2017≠2018 | ref: Burigana L., Magnini L. 2017, *Image processing and analysis of radar and lidar data: New discoveries in Verona southern lowland (Italy)*, « | work: Image processing and analysis of radar and Lidar data. New discoveries in Verona southern lowland (I (2018)"
+info,link_mismatch,1380:36,"W018058 | year 2020≠2021 | ref: Masini N., Lasaponara R. 2020, *On the reuse of multiscale LiDAR data to investigate the resilience in the late medieval time: The case stud | work: On the reuse of multiscale LiDAR data to investigate the resilience in the late medieval time: The c (2021)"
+info,link_mismatch,1380:42,"W019893 | year 2023≠2024 | ref: Poggi G., Dallai L., Volpi V. 2023, *Mining under the canopy: Unveiling the archaeo-mining record in the Colline Metallifere with LiDAR anal | work: Mining under the canopy: Unveiling the archaeo-mining record in the Colline Metallifere with LiDAR a (2024)"
+warn,link_mismatch,1380:48,"W018851 | authors ['sanchez']≠['garciasanchez'] | ref: Sánchez J.G. 2018, *Archaeological LiDAR in Italy: Enhancing research with publicly accessible data*, «Antiquity», 92.364, e4 (https://doi.o | work: Archaeological LiDAR in Italy: Enhancing research with publicly accessible data (2018)"
+info,link_mismatch,161:2,"W003468 | year 1995≠1997 | ref: BROGIOLO G. P., GELICHI S. 1995, Ceramiche, tecnologie ed organizzazione delle produzioni nell'Italia padana tra VI e X secolo, VIe Congrès  | work: Ceramiche, tecnologie ed organizzazione delle produzioni nell'Italia padana tra VI e X secolo (1997)"
+info,link_mismatch,161:4,"W003469 | year 1995≠1998 | ref: CIAMPOLTRINI G. 1995, Ceramiche ""comuni"" nella Toscana centro-settentrionale fra VI e VII secolo, in Colloquio in onore di J. Hayes, Ceramic | work: Ceramiche ""comuni"" nella Toscana centro-settentrionale fra VI e VII secolo (1998)"
+info,link_mismatch,161:13,"W003474 | year 1995≠1999 | ref: MILLETT M. 1995, The comparison of surface and stratified artefact assemblages, in Pisa Populus Colloquium (Pisa dicembre 1995) (in corso di | work: The comparison of surface and stratified artefact assemblages (1999)"
+info,link_mismatch,161:19,"W003479 | year 1995≠1998 | ref: PASQUINUCCI M., DEL RIO A., MENCHELLI S. 1995, I vespai sottopavimentali negli Horrea di Vada Volaterrana, in Seminario di Studi Bonifiche e | work: I vespai sottopavimentali negli Horrea di Vada Volaterrana (1998)"
+info,link_mismatch,161:20,"W003464 | year 1995≠1998 | ref: PASQUINUCCI M. et al. 1995, La ceramica di VI-VII sec. da Vada Volaterrana, in Colloquio in onore di J. Hayes, Ceramica in Italia: VI-VII se | work: La ceramica di VI-VII sec. da Vada Volaterrana (horrea in loc. S. Gaetano di Vada) (1998)"
+info,link_mismatch,474:6,"W007988 | year 2008≠2007 | ref: Forte M. (ed.) 2008, Villa di Livia: un percorso di ricerca di archeologia virtuale, Roma, L’Erma di Bretschneider. | work: La villa di Livia. Un percorso di ricerca di archeologia virtuale (2007)"
+info,link_mismatch,248:8,"W000139 | title sim 0.55 | ref: BARCELÓ J.A., PALLARÉS M. 1996, From visual seduction to spatial analysis. A critique of GIS in archaeology, in P. MOSCATI (ed.), III Conveg | work: A critique of G.I.S. in archaeology. From visual seduction to spatial analysis (1996)"
+info,link_mismatch,248:57,"W004450 | year 1990≠1991 | ref: LOCK G., HARRIS T. 1990, Integrating spatial information in computerised SMRs, in K. LOCKYEAR, S. RAHTZ (eds.), Computer Applications and Qu | work: Integrating spatial information in computerised SMRs: Meeting archaeological requirements in the 199 (1991)"
+info,link_mismatch,248:92,"W003280 | year 1991≠1990 | ref: TOMLIN C.D. 1991, Geographic Information Systems and Cartographic Modelling, Englewood Cliffs, Prentice Hall. | work: Geographic Information Systems and Cartographic Modelling (1990)"
+info,link_mismatch,395:1,"W003243 | type article≠book | ref: BARCELÓ J.A. 1996, Arqueología automática. Inteligencia artificial en Arqueología, «Cuadernos de Arqueología Mediterránea», 2, AUSA, Sabadel | work: Arqueología Automática. La utilización de las técnicas de Inteligencia Artificial en Arqueología (1996)"
+info,link_mismatch,1066:1,"W008199 | year 1994≠1998 | ref: Kraus K. 1994, Fotogrammetria, Torino, Ed. Levrotto & Bella. | work: Fotogrammetria (1998)"
+warn,link_mismatch,116:2,"W002912 | authors ['burillo', 'ibanez']≠['burillomozota', 'ibanezgonzalez'] | ref: BURILLO F., IBAÑEZ J. 1990, Configuración de la Base de Datos y ficha informatizada del Proyecto Carta Arqueológica de Aragón, Cuadernos del | work: Configuración de la Base de Datos y ficha informatizada del Proyecto Carta Arqueológica de Aragón (1990)"
+info,link_mismatch,511:14,"W004366 | title sim 0.49 | ref: Moscati P. (ed.) 1996, Atti del III Convegno internazionale di Archeologia e Informatica (Roma 1995), «Archeologia e Calcolatori», 7. | work: III International Symposium on Computing and Archaeology - Roma 22-25 novembre 1995 (1996)"
+info,link_mismatch,157:49,"W003899 | year 1988≠1990 | ref: STECKNER C. 1988, SAMOS: Dokumentation, Vermessung, Bestimmung und Rekonstruktion von Keramik, in Akten des 13. internationalen Kongresses f | work: Dokumentation, Vermessung, Bestimmung und Rekonstruktion von Keramik (1990)"
+info,link_mismatch,507:27,"W003961 | year 1986≠1985 | ref: Hugget J., Baker K. 1986, The computerized archaeologist: the development of Expert Systems, «Science and Archaeology», 27, 3-12. | work: The computerised archaeologist: The development of Expert System (1985)"
+info,link_mismatch,507:40,"W004253 | year 1989≠1990 | ref: Shennan S.J., Stutt A. 1989, The nature of archaeological arguments, «Antiquity», 64 (245), 766-777. | work: The nature of archaeological arguments (1990)"
+warn,link_mismatch,679:8,"W009322 | year 2009≠2008; title sim 0.60 | ref: De Felice G. (ed.) 2009, Digitalizzare la pesantezza. L'informatica e il metodo della stratigrafia, Bari, Edipuglia. | work: L’informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008) (2008)"
+info,link_mismatch,679:10,"W009308 | year 2009≠2008 | ref: Fiorini A. 2009, Esperienze di fotogrammetria e stereofotogrammetria archeologica, in De Felice 2009, 175-186. | work: Esperienze di fotomodellazione e stereofotogrammetria archeologica (2008)"
+info,link_mismatch,679:15,"W010453 | title sim 0.24 | ref: Lee S., Ditko 1962, Amazing Fantasy, 15, 11. | work: Spider-Man! (1962)"
+info,link_mismatch,1359:17,"W008135 | year 2020≠2007 | ref: R Core Team 2020, *R: A language and environment for statistical computing*, Vienna, R Foundation for Statistical Computing (https://www.R-p | work: R: A language and environment for statistical computing (2007)"
+info,link_mismatch,1135:10,"W007988 | year 2008≠2007 | ref: Forte M. (ed.) 2008, *La villa di Livia: un percorso di ricerca di archeologia virtuale*, Roma, L'Erma di Bretschneider. | work: La villa di Livia. Un percorso di ricerca di archeologia virtuale (2007)"
+info,link_mismatch,602:12,"W003083 | year 1988≠1994 | ref: Furnari E. (ed.) 1988-1994, Neapolis: progetto sistema per la valorizzazione integrale delle risorse ambientali e artistiche dell’area vesuv | work: Neapolis. Progetto sistema per la valorizzazione integrale delle risorse ambientali e artistiche del (1994)"
+info,link_mismatch,602:17,"W003109 | year 1996≠1994 | ref: Laurence R. 1996, Roman Pompeii: Space and Society, London-New York, Routledge. | work: Roman Pompeii, Space and Society (1994)"
+info,link_mismatch,897:12,"W001680 | year 1982≠1980 | ref: Orton C. 1982, *Mathematics in Archaeology*, Cambridge, Cambridge University Press. | work: Mathematics in Archaeology (1980)"
+info,link_mismatch,1119:19,"W005049 | year 1994≠1997 | ref: Levy P. 1994, *Il virtuale*, Milano, Raffaello Cortina Editore. | work: Il virtuale (1997)"
+info,link_mismatch,439:3,"W000311 | year 2002≠2001 | ref: COLOSI F., GABRIELLI R., PELOSO D., ROSE D. 2002, Impiego del Differential Global Positioning System (DGPS) per lo studio del paesaggio anti | work: Impiego del Differential Global Positioning System (DGPS) per lo studio del paesaggio antico: alcuni (2001)"
+warn,link_mismatch,1363:2,"W019635 | authors ['apple']≠['applecomputerinc'] | ref: Apple 2020, *Apple Unveils New iPad Pro with Breakthrough LiDAR Scanner and Brings Trackpad Support to iPadOS* (https://www.apple.com/newsro | work: Apple Unveils New iPad Pro with Breakthrough LiDAR Scanner and Brings Trackpad Support to iPadOS (2020)"
+warn,link_mismatch,9:15,"W001639 | authors ['dejuliis']≠['ciancio'] | ref: DE JULIIS et al. 1989, Monte Sannace. Gli scavi dell'acropoli (1978-1983), Galatina, Congedo, 1989. | work: Monte Sannace. Gli scavi dell'acropoli (1978-1983) (1989)"
+info,link_mismatch,614:2,"W009111 | year 1891≠1892 | ref: Campi L. 1891-1892, Scoperte archeologiche fatte a Vervò nella Naunia, «Annuario Società degli Alpinisti Tridentini», 16, 19-39. | work: Scoperte archeologiche fatte a Vervò nell’Annaunia (1892)"
+info,link_mismatch,182:22,"W003833 | year 1996≠1997 | ref: SARTORI A. 1996b c.s., Le forme della comunicazione epigrafica, in XXVI Settimana di Studi Aquileiesi 1995 (in corso di stampa). | work: Le forme della comunicazione epigrafica (1997)"
+info,link_mismatch,478:17,"W008025 | title sim 0.46 | ref: Tóth J.A. in press, HERMA; The Cultural Heritage Information System in Hungary, in On the Road to Reconstructing the Past. 36<sup>th</sup> C | work: The HERMA and the Argonauts programs: Practices and problems of heritage mapping in river environmen (2011)"

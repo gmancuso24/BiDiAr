@@ -1,0 +1,932 @@
+{
+ "citing_aec_id": 852,
+ "source_file": "data/journal/27/852.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Adamesteanu D. 1963, *Nuovi documenti paleocristiani nella Sicilia centro-meridionale*, «Bollettino d'Arte», n.s. III, 259-274.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Adamesteanu",
+     "given": "D."
+    }
+   ],
+   "date": "1963",
+   "title": "Nuovi documenti paleocristiani nella Sicilia centro-meridionale",
+   "is_part_of": [
+    "Bollettino d'Arte"
+   ],
+   "volume": "n.s. III",
+   "pages": "259-274",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Amico V. 1855, *Dizionario topografico della Sicilia*, I, Palermo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Amico",
+     "given": "V."
+    }
+   ],
+   "date": "1855",
+   "title": "Dizionario topografico della Sicilia, I",
+   "place": "Palermo",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Andrews D. (ed.) 2009, *Metric Survey Specification for Cultural Heritage*, Swindon, English Heritage.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Andrews",
+     "given": "D."
+    }
+   ],
+   "date": "2009",
+   "title": "Metric Survey Specification for Cultural Heritage",
+   "publisher": "English Heritage",
+   "place": "Swindon",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Arrighetti A. 2012, *Tecnologie fotogrammetriche e registrazione 3D della struttura materiale: dal rilievo alla gestione dei dati*, «Archeologia e Calcolatori», 23, 283-298.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Tecnologie fotogrammetriche e registrazione 3D della struttura materiale: dal rilievo alla gestione dei dati",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "283-298",
+   "language": "ita",
+   "cited_aec_id": 623,
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Arrighetti A., Cavalieri M. 2012, *Il rilievo fotogrammetrico per nuvole di punti RGB della \"sala triabsidata\" del sito archeologico di Aiano-Torraccia di Chiusi (SI)*, «Archeologia e Calcolatori», 23, 121-134.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    },
+    {
+     "family": "Cavalieri",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Il rilievo fotogrammetrico per nuvole di punti RGB della \"sala triabsidata\" del sito archeologico di Aiano-Torraccia di Chiusi (SI)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "121-134",
+   "language": "ita",
+   "cited_aec_id": 612,
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Bianchini M. 2008, *Manuale di rilievo e di documentazione digitale in archeologia*, Roma, Aracne.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bianchini",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "Manuale di rilievo e di documentazione digitale in archeologia",
+   "publisher": "Aracne",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Bogdani J., Fiorini A., Silani M., Zanfini M. 2007, *Esperienze di stereofotogrammetria archeologica*, «Ocnus», 15, 27-44.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Silani",
+     "given": "M."
+    },
+    {
+     "family": "Zanfini",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Esperienze di stereofotogrammetria archeologica",
+   "is_part_of": [
+    "Ocnus"
+   ],
+   "volume": "15",
+   "pages": "27-44",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Bonacasa Carra R.M., Panvini R. 2002, *La Sicilia meridionale tra II e VI sec. d.C.*, Catalogo della mostra, Caltanissetta, S. Sciascia.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bonacasa Carra",
+     "given": "R.M."
+    },
+    {
+     "family": "Panvini",
+     "given": "R."
+    }
+   ],
+   "date": "2002",
+   "title": "La Sicilia meridionale tra II e VI sec. d.C., Catalogo della mostra",
+   "publisher": "S. Sciascia",
+   "place": "Caltanissetta",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Bowes K., Ghisleni M., La Torre G.F., Vaccaro E. 2011, *Preliminary report on Sofiana/Mansio Philosophiana in the hinterland of Piazza Armerina*, «Journal of Roman Archaeology», 24, 423-449.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bowes",
+     "given": "K."
+    },
+    {
+     "family": "Ghisleni",
+     "given": "M."
+    },
+    {
+     "family": "La Torre",
+     "given": "G.F."
+    },
+    {
+     "family": "Vaccaro",
+     "given": "E."
+    }
+   ],
+   "date": "2011",
+   "title": "Preliminary report on Sofiana/Mansio Philosophiana in the hinterland of Piazza Armerina",
+   "is_part_of": [
+    "Journal of Roman Archaeology"
+   ],
+   "volume": "24",
+   "pages": "423-449",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Buscemi F., Militello P., D'Agostino G., Sammito A.M. 2014, *Tecniche di fotomodellazione digitale per la documentazione e la comunicazione in archeologia: il sito di Calicantone (RG)*, «Archeologia e Calcolatori», 25, 131-156.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Buscemi",
+     "given": "F."
+    },
+    {
+     "family": "Militello",
+     "given": "P."
+    },
+    {
+     "family": "D'Agostino",
+     "given": "G."
+    },
+    {
+     "family": "Sammito",
+     "given": "A.M."
+    }
+   ],
+   "date": "2014",
+   "title": "Tecniche di fotomodellazione digitale per la documentazione e la comunicazione in archeologia: il sito di Calicantone (RG)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "25",
+   "pages": "131-156",
+   "language": "ita",
+   "cited_aec_id": 719,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Calderone S. 1984, *Contesto storico, committenza e cronologia*, in *La villa romana del Casale di Piazza Armerina. Atti della IV riunione scientifica della scuola di Perfezionamento in Archeologia Classica dell'Università di Catania (Piazza Armerina 1983)*, «Critica d'Arte», 23, 13-57.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Calderone",
+     "given": "S."
+    }
+   ],
+   "date": "1984",
+   "title": "Contesto storico, committenza e cronologia",
+   "is_part_of": [
+    "La villa romana del Casale di Piazza Armerina. Atti della IV riunione scientifica della scuola di Perfezionamento in Archeologia Classica dell'Università di Catania (Piazza Armerina 1983)",
+    "Critica d'Arte"
+   ],
+   "volume": "23",
+   "pages": "13-57",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Campana S., Remondino F. 2014, *3D Recording and Modelling in Archaeology and Cultural Heritage. Theory and Best Practices*, BAR International Series 2598, Oxford.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2014",
+   "title": "3D Recording and Modelling in Archaeology and Cultural Heritage. Theory and Best Practices",
+   "series": "BAR International Series",
+   "series_number": "2598",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Doneus M., Verhoeven G., Fera M., Briese C., Kucera M., Neubauer W. 2011, *From point to point cloud. A study of archaeological excavation*, in *23rd International CIPA Symposium, Prague*, 81-88 (http://geoinformatics.fsv.cvut.cz/gdf/geoinformatics-fce-ctu-2011-06.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Doneus",
+     "given": "M."
+    },
+    {
+     "family": "Verhoeven",
+     "given": "G."
+    },
+    {
+     "family": "Fera",
+     "given": "M."
+    },
+    {
+     "family": "Briese",
+     "given": "C."
+    },
+    {
+     "family": "Kucera",
+     "given": "M."
+    },
+    {
+     "family": "Neubauer",
+     "given": "W."
+    }
+   ],
+   "date": "2011",
+   "title": "From point to point cloud. A study of archaeological excavation",
+   "is_part_of": [
+    "23rd International CIPA Symposium, Prague"
+   ],
+   "pages": "81-88",
+   "uri": "http://geoinformatics.fsv.cvut.cz/gdf/geoinformatics-fce-ctu-2011-06.pdf",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Driggers R.G. (ed.) 2003, *Encyclopedia of Optical Engineering*, Dekker, Marcel Inc.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Driggers",
+     "given": "R.G."
+    }
+   ],
+   "date": "2003",
+   "title": "Encyclopedia of Optical Engineering",
+   "publisher": "Marcel Dekker Inc.",
+   "language": "eng",
+   "notes": "publisher cited as 'Dekker, Marcel Inc.' (name inverted)",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Fangi G., Malinverni E.S., d'Annibale E., Tassetti A.N., Bozzi C.A. 2011, *Metodi innovativi per la documentazione e valorizzazione di siti archeologici*, in *Atti 15ª Conferenza Nazionale ASITA (Reggia di Colorno 2011)*, 981-992 (http://atti.asita.it/ASITA2011/Pdf/350.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fangi",
+     "given": "G."
+    },
+    {
+     "family": "Malinverni",
+     "given": "E.S."
+    },
+    {
+     "family": "d'Annibale",
+     "given": "E."
+    },
+    {
+     "family": "Tassetti",
+     "given": "A.N."
+    },
+    {
+     "family": "Bozzi",
+     "given": "C.A."
+    }
+   ],
+   "date": "2011",
+   "title": "Metodi innovativi per la documentazione e valorizzazione di siti archeologici",
+   "is_part_of": [
+    "Atti 15ª Conferenza Nazionale ASITA (Reggia di Colorno 2011)"
+   ],
+   "pages": "981-992",
+   "uri": "http://atti.asita.it/ASITA2011/Pdf/350.pdf",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Forte M., Dell'Unto N., Issavia J., Onsureza L., Lercaria N. 2012, *3D Archaeology at Çatalhöyük*, «International Journal of Heritage in the Digital Era», 1, 3, 352-378.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Dell'Unto",
+     "given": "N."
+    },
+    {
+     "family": "Issavia",
+     "given": "J."
+    },
+    {
+     "family": "Onsureza",
+     "given": "L."
+    },
+    {
+     "family": "Lercaria",
+     "given": "N."
+    }
+   ],
+   "date": "2012",
+   "title": "3D Archaeology at Çatalhöyük",
+   "is_part_of": [
+    "International Journal of Heritage in the Digital Era"
+   ],
+   "volume": "1",
+   "issue": "3",
+   "pages": "352-378",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Giuliani C.F. 2012, *Archeologia oggi, la fantasia al potere*, «Quaderni di Archeologia e Cultura classica», 2, 5-48.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Giuliani",
+     "given": "C.F."
+    }
+   ],
+   "date": "2012",
+   "title": "Archeologia oggi, la fantasia al potere",
+   "is_part_of": [
+    "Quaderni di Archeologia e Cultura classica"
+   ],
+   "volume": "2",
+   "pages": "5-48",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Harris E.C. 1979, *Principi di stratigrafia archeologica* (con introduzione di D. Manacorda), Roma, Nuova Italia Scientifica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "E.C."
+    }
+   ],
+   "date": "1979",
+   "title": "Principi di stratigrafia archeologica",
+   "publisher": "Nuova Italia Scientifica",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "con introduzione di D. Manacorda",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Kersten T.P., Lindstaedt M. 2012, *Image-based low-cost systems for automatic 3D recording and modelling of archaeological finds and objects*, in M. Ioannides, D. Fritsch, J. Leissner, R. Davies, F. Remondino, R. Caffo (eds.), *Progress in Cultural Heritage Preservation, Proceedings of the 4th International Conference, EuroMed (Limassol, Cyprus 2012)*, New York, Springer-Verlag, 1-10.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kersten",
+     "given": "T.P."
+    },
+    {
+     "family": "Lindstaedt",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Fritsch",
+     "given": "D."
+    },
+    {
+     "family": "Leissner",
+     "given": "J."
+    },
+    {
+     "family": "Davies",
+     "given": "R."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Caffo",
+     "given": "R."
+    }
+   ],
+   "date": "2012",
+   "title": "Image-based low-cost systems for automatic 3D recording and modelling of archaeological finds and objects",
+   "is_part_of": [
+    "Progress in Cultural Heritage Preservation, Proceedings of the 4th International Conference, EuroMed (Limassol, Cyprus 2012)"
+   ],
+   "pages": "1-10",
+   "publisher": "Springer-Verlag",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "La Torre G.F. 1993-1994, *Mazzarino (CL) – Contrada Sofiana. Scavi 1988-1990*, «Kokalos», 39-40, II, 1, 765-770.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "La Torre",
+     "given": "G.F."
+    }
+   ],
+   "date": "1993",
+   "title": "Mazzarino (CL) – Contrada Sofiana. Scavi 1988-1990",
+   "is_part_of": [
+    "Kokalos"
+   ],
+   "volume": "39-40",
+   "issue": "II, 1",
+   "pages": "765-770",
+   "language": "ita",
+   "notes": "cited as 1993-1994; first year kept",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "La Torre G.F. 1994, *Gela sive Philosophianis (It. Antonini, 88,2): Contributo per la storia di un centro interno della Sicilia romana*, «Quaderni dell'Istituto di Archeologia dell'Università di Messina», 9, 9-139.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "La Torre",
+     "given": "G.F."
+    }
+   ],
+   "date": "1994",
+   "title": "Gela sive Philosophianis (It. Antonini, 88,2): Contributo per la storia di un centro interno della Sicilia romana",
+   "is_part_of": [
+    "Quaderni dell'Istituto di Archeologia dell'Università di Messina"
+   ],
+   "volume": "9",
+   "pages": "9-139",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Lo Brutto M., Meli P. 2012, *Computer vision tools for 3D modelling in archaeology*, «International Journal of Heritage in the Digital Era», 1, Suppl. 1, 1-6.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lo Brutto",
+     "given": "M."
+    },
+    {
+     "family": "Meli",
+     "given": "P."
+    }
+   ],
+   "date": "2012",
+   "title": "Computer vision tools for 3D modelling in archaeology",
+   "is_part_of": [
+    "International Journal of Heritage in the Digital Era"
+   ],
+   "volume": "1",
+   "issue": "Suppl. 1",
+   "pages": "1-6",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Lo Brutto M., Spera M.G. 2011, *Sperimentazione di procedure automatiche in fotogrammetria close-range per il rilievo di Beni Culturali*, in *Atti 15ª Conferenza Nazionale ASITA (Reggia di Colorno 2011)*, 1427-1428.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lo Brutto",
+     "given": "M."
+    },
+    {
+     "family": "Spera",
+     "given": "M.G."
+    }
+   ],
+   "date": "2011",
+   "title": "Sperimentazione di procedure automatiche in fotogrammetria close-range per il rilievo di Beni Culturali",
+   "is_part_of": [
+    "Atti 15ª Conferenza Nazionale ASITA (Reggia di Colorno 2011)"
+   ],
+   "pages": "1427-1428",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Lowe D.G. 1999, *Object recognition from local scale-invariant features*, in *Proceedings of the Seventh IEEE International Conference on Computer Vision (Kerkyra 1999)*, 2, IEEE, 1150-1157.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lowe",
+     "given": "D.G."
+    }
+   ],
+   "date": "1999",
+   "title": "Object recognition from local scale-invariant features",
+   "is_part_of": [
+    "Proceedings of the Seventh IEEE International Conference on Computer Vision (Kerkyra 1999)"
+   ],
+   "volume": "2",
+   "pages": "1150-1157",
+   "publisher": "IEEE",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Matthews N.A. 2008, *Aerial and Close-Range Photogrammetry Technology: Providing Resource Documentation, Interpretation, and Preservation. Technical Note 428*, U.S. Department of the Interior, Bureau of Land Management, National Operations Center, Denver, Colorado.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Matthews",
+     "given": "N.A."
+    }
+   ],
+   "date": "2008",
+   "title": "Aerial and Close-Range Photogrammetry Technology: Providing Resource Documentation, Interpretation, and Preservation. Technical Note 428",
+   "publisher": "U.S. Department of the Interior, Bureau of Land Management, National Operations Center",
+   "place": "Denver, Colorado",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Medri M. 2006, *Manuale di rilievo archeologico*, Bari-Roma, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Manuale di rilievo archeologico",
+   "publisher": "Laterza",
+   "place": "Bari-Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Olivito R., Taccola E. 2014, *3D modelling in the agora of Segesta: Techniques and data interpretation*, «Archeologia e Calcolatori», 25, 175-188.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Olivito",
+     "given": "R."
+    },
+    {
+     "family": "Taccola",
+     "given": "E."
+    }
+   ],
+   "date": "2014",
+   "title": "3D modelling in the agora of Segesta: Techniques and data interpretation",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "25",
+   "pages": "175-188",
+   "language": "eng",
+   "cited_aec_id": 721,
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Paolini P. 2010, *Per una storia del rilievo architettonico*, «Ikhnos. Annale di Analisi grafica e Storia e della Rappresentazione», 69-92.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Paolini",
+     "given": "P."
+    }
+   ],
+   "date": "2010",
+   "title": "Per una storia del rilievo architettonico",
+   "is_part_of": [
+    "Ikhnos. Annale di Analisi grafica e Storia e della Rappresentazione"
+   ],
+   "pages": "69-92",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Paris L. 2012, *Fotogrammetria e/o fotomodellazione*, in A. Casale (ed.), *Geometria descrittiva e rappresentazione digitale. Memoria e innovazione*, II, Roma, Edizioni Kappa, 55-62.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Paris",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Casale",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Fotogrammetria e/o fotomodellazione",
+   "is_part_of": [
+    "Geometria descrittiva e rappresentazione digitale. Memoria e innovazione"
+   ],
+   "volume": "II",
+   "pages": "55-62",
+   "publisher": "Edizioni Kappa",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Poser J. 2012, *Comparative imagery analysis of non-metric cameras from unmanned aerial survey aircraft*, «Papers in Resource Analysis», 14, Winona, MN, Saint Mary's University of Minnesota Central Services Press (http://www.gis.smumn.edu/GradProjects/PoserJ.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Poser",
+     "given": "J."
+    }
+   ],
+   "date": "2012",
+   "title": "Comparative imagery analysis of non-metric cameras from unmanned aerial survey aircraft",
+   "is_part_of": [
+    "Papers in Resource Analysis"
+   ],
+   "volume": "14",
+   "publisher": "Saint Mary's University of Minnesota Central Services Press",
+   "place": "Winona, MN",
+   "uri": "http://www.gis.smumn.edu/GradProjects/PoserJ.pdf",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Roncella R. 2006, *Sviluppo e applicazioni di tecniche di automazione in fotogrammetria dei vicini*, Tesi di Dottorato in Ingegneria Civile, dell'Ambiente e del Territorio Architettura, Università degli Studi di Parma.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Roncella",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Sviluppo e applicazioni di tecniche di automazione in fotogrammetria dei vicini",
+   "publisher": "Università degli Studi di Parma",
+   "language": "ita",
+   "notes": "Tesi di Dottorato in Ingegneria Civile, dell'Ambiente e del Territorio Architettura",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Russo M., Remondino F., Guidi G. 2011, *Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico*, «Archeologia e Calcolatori», 22, 169-198.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Russo",
+     "given": "M."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Guidi",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "169-198",
+   "language": "ita",
+   "cited_aec_id": 592,
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Sordini M. 2014, *Località Castiglioncello: Metodologie e tecniche di rilievo 3D*, «Notiziario della Soprintendenza per i Beni Archeologici della Toscana», 10, 300-302.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sordini",
+     "given": "M."
+    }
+   ],
+   "date": "2014",
+   "title": "Località Castiglioncello: Metodologie e tecniche di rilievo 3D",
+   "is_part_of": [
+    "Notiziario della Soprintendenza per i Beni Archeologici della Toscana"
+   ],
+   "volume": "10",
+   "pages": "300-302",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Sordini M., Brogi F., Campana S. 2016, *3D recording of archaeological excavation: The case study of Santa Marta*, in S. Campana, R. Scopigno, G. Carpentiero, M. Cirillo (eds.), *Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology*, I, Oxford, Archaeopress, 383-392.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sordini",
+     "given": "M."
+    },
+    {
+     "family": "Brogi",
+     "given": "F."
+    },
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Scopigno",
+     "given": "R."
+    },
+    {
+     "family": "Carpentiero",
+     "given": "G."
+    },
+    {
+     "family": "Cirillo",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "3D recording of archaeological excavation: The case study of Santa Marta",
+   "is_part_of": [
+    "Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology"
+   ],
+   "volume": "I",
+   "pages": "383-392",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Vaccaro E. 2012, *Re-evaluating a forgotten town using intra-site surveys and the GIS analysis of surface ceramics: Philosophiana-Sofiana (Sicily) in the longue durée*, in P. Johnson, M. Millett (eds.), *Archaeological Survey and the City*, Oxford, Oxbow Books, 107-145.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vaccaro",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Johnson",
+     "given": "P."
+    },
+    {
+     "family": "Millett",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Re-evaluating a forgotten town using intra-site surveys and the GIS analysis of surface ceramics: Philosophiana-Sofiana (Sicily) in the longue durée",
+   "is_part_of": [
+    "Archaeological Survey and the City"
+   ],
+   "pages": "107-145",
+   "publisher": "Oxbow Books",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Vaccaro E. 2013, *Sicily in the Eighth and Ninth centuries AD: A case of persisting economic complexity?*, «Al-Masaq: Islam and the Medieval Mediterranean», 25, 1, 34-69.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vaccaro",
+     "given": "E."
+    }
+   ],
+   "date": "2013",
+   "title": "Sicily in the Eighth and Ninth centuries AD: A case of persisting economic complexity?",
+   "is_part_of": [
+    "Al-Masaq: Islam and the Medieval Mediterranean"
+   ],
+   "volume": "25",
+   "issue": "1",
+   "pages": "34-69",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Vaccaro E., La Torre G.F. 2015, con contributi di C. Capelli, M. Ghisleni, A.M. Mercuri, G. Lazzeri, M. MacKinnon, A. Pecci, E. Rattighieri, S. Ricchi, E. Rizzo, M. Sfacteria, *La produzione di ceramica a Philosophiana (Sicilia centrale) nella tarda età bizantina: metodi di indagine ed implicazioni economiche*, «Archeologia Medievale», 42, 55-93.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vaccaro",
+     "given": "E."
+    },
+    {
+     "family": "La Torre",
+     "given": "G.F."
+    }
+   ],
+   "date": "2015",
+   "title": "La produzione di ceramica a Philosophiana (Sicilia centrale) nella tarda età bizantina: metodi di indagine ed implicazioni economiche",
+   "is_part_of": [
+    "Archeologia Medievale"
+   ],
+   "volume": "42",
+   "pages": "55-93",
+   "language": "ita",
+   "notes": "'con contributi di C. Capelli, M. Ghisleni, A.M. Mercuri, G. Lazzeri, M. MacKinnon, A. Pecci, E. Rattighieri, S. Ricchi, E. Rizzo, M. Sfacteria' not recorded as authors",
+   "confidence": "high"
+  }
+ ]
+}

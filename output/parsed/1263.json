@@ -1,0 +1,1268 @@
+{
+ "citing_aec_id": 1263,
+ "source_file": "data/journal/34/1263.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Alberti G., Grima R., Vella N.C. 2018, *The use of Geographic Information System and 1860s cadastral data to model agricultural suitability before heavy mechanisation. A case study from Malta*, «PLOS ONE», 13, 2, e0192039 (https://doi.org/10.1371/journal.pone.0192039).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Alberti",
+     "given": "G."
+    },
+    {
+     "family": "Grima",
+     "given": "R."
+    },
+    {
+     "family": "Vella",
+     "given": "N.C."
+    }
+   ],
+   "date": "2018",
+   "title": "The use of Geographic Information System and 1860s cadastral data to model agricultural suitability before heavy mechanisation. A case study from Malta",
+   "is_part_of": [
+    "PLOS ONE"
+   ],
+   "volume": "13",
+   "issue": "2",
+   "pages": "e0192039",
+   "doi": "10.1371/journal.pone.0192039",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Anichini F., Fabiani F., Gattiglia G., Gualandi M.L. (eds.) 2012, *Mappa. Metodologie Applicate alla Predittività del Potenziale Archeologico*, Roma, Edizioni Nuova Cultura (https://doi.org/10.4458/0917).",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Fabiani",
+     "given": "F."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    },
+    {
+     "family": "Gualandi",
+     "given": "M.L."
+    }
+   ],
+   "date": "2012",
+   "title": "Mappa. Metodologie Applicate alla Predittività del Potenziale Archeologico",
+   "publisher": "Edizioni Nuova Cultura",
+   "place": "Roma",
+   "doi": "10.4458/0917",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Anichini F., Gattiglia G. 2012, *Urban Archaeological Information System. Riflessioni e criticità*, in Anichini et al. 2012, 31-41.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Fabiani",
+     "given": "F."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    },
+    {
+     "family": "Gualandi",
+     "given": "M.L."
+    }
+   ],
+   "date": "2012",
+   "title": "Urban Archaeological Information System. Riflessioni e criticità",
+   "is_part_of": [
+    "Mappa. Metodologie Applicate alla Predittività del Potenziale Archeologico"
+   ],
+   "pages": "31-41",
+   "publisher": "Edizioni Nuova Cultura",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 2,
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Arnaez J., Lasanta T., Errea M.P., Ortigosa L. 2011, *Land abandonment, landscape evolution, and soil erosion in a Spanish Mediterranean mountain region: The case of Camero Viejo*, «Land Degradation & Development», 22, 6, 537-550 (https://doi.org/10.1002/ldr.1032).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arnaez",
+     "given": "J."
+    },
+    {
+     "family": "Lasanta",
+     "given": "T."
+    },
+    {
+     "family": "Errea",
+     "given": "M.P."
+    },
+    {
+     "family": "Ortigosa",
+     "given": "L."
+    }
+   ],
+   "date": "2011",
+   "title": "Land abandonment, landscape evolution, and soil erosion in a Spanish Mediterranean mountain region: The case of Camero Viejo",
+   "is_part_of": [
+    "Land Degradation & Development"
+   ],
+   "volume": "22",
+   "issue": "6",
+   "pages": "537-550",
+   "doi": "10.1002/ldr.1032",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Baddeley A., Turner R., Rubak E. 2021, *Spatstat: Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests*, «R Foundation for Statistical Computing», Vienna (https://cran.r-project.org/web/packages/spatstat/spatstat.pdf).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Baddeley",
+     "given": "A."
+    },
+    {
+     "family": "Turner",
+     "given": "R."
+    },
+    {
+     "family": "Rubak",
+     "given": "E."
+    }
+   ],
+   "date": "2021",
+   "title": "Spatstat: Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests",
+   "publisher": "R Foundation for Statistical Computing",
+   "place": "Vienna",
+   "uri": "https://cran.r-project.org/web/packages/spatstat/spatstat.pdf",
+   "language": "eng",
+   "notes": "R package manual",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Basile S. 2022a, *Lucca e l'ager Lucensis dall'età tardo repubblicana al tardoantico: le trasformazioni di una città e del suo territorio*, unpublished Doctoral Thesis, Università di Pisa (https://etd.adm.unipi.it/t/etd-06272022-165434/).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Basile",
+     "given": "S."
+    }
+   ],
+   "date": "2022",
+   "title": "Lucca e l'ager Lucensis dall'età tardo repubblicana al tardoantico: le trasformazioni di una città e del suo territorio",
+   "publisher": "Università di Pisa",
+   "uri": "https://etd.adm.unipi.it/t/etd-06272022-165434/",
+   "language": "ita",
+   "notes": "unpublished doctoral thesis",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Basile S. 2022b, *The funerary landscape of late antique and early medieval Lucca through Point Pattern Analysis*, «European Journal of Post-Classical Archaeologies», 12, 87-106.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Basile",
+     "given": "S."
+    }
+   ],
+   "date": "2022",
+   "title": "The funerary landscape of late antique and early medieval Lucca through Point Pattern Analysis",
+   "is_part_of": [
+    "European Journal of Post-Classical Archaeologies"
+   ],
+   "volume": "12",
+   "pages": "87-106",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Basile S., Carrer F. 2022, *A computational modelling approach to reconstruct the fluvial system of the floodplain of Lucca in the Roman period*, «ArcheoLogica Data», 2, 63-80 (https://doi.org/10.13131/unipi/2785-0668/k5sw-3e98).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Basile",
+     "given": "S."
+    },
+    {
+     "family": "Carrer",
+     "given": "F."
+    }
+   ],
+   "date": "2022",
+   "title": "A computational modelling approach to reconstruct the fluvial system of the floodplain of Lucca in the Roman period",
+   "is_part_of": [
+    "ArcheoLogica Data"
+   ],
+   "volume": "2",
+   "pages": "63-80",
+   "doi": "10.13131/unipi/2785-0668/k5sw-3e98",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Bevan A. 2020, *Spatial point patterns and processes*, in M. Gillings, P. Hacigüzeller, G. Lock (eds.), *Archaeological Spatial Analysis: A Methodological Guide*, Oxon, Routledge, 60-76.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bevan",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    },
+    {
+     "family": "Hacigüzeller",
+     "given": "P."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2020",
+   "title": "Spatial point patterns and processes",
+   "is_part_of": [
+    "Archaeological Spatial Analysis: A Methodological Guide"
+   ],
+   "pages": "60-76",
+   "publisher": "Routledge",
+   "place": "Oxon",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Bini M., Zanchetta G., Regattieri E., Isola I., Drysdale R.N., Fabiani F., Genovesi S., Hellstrom J.C. 2020, *Hydrological changes during the Roman climatic optimum in northern Tuscany (Central Italy) as evidenced by speleothem records and archaeological data*, «Journal of Quaternary Science», 35, 6 (https://doi.org/10.1002/jqs.3224).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bini",
+     "given": "M."
+    },
+    {
+     "family": "Zanchetta",
+     "given": "G."
+    },
+    {
+     "family": "Regattieri",
+     "given": "E."
+    },
+    {
+     "family": "Isola",
+     "given": "I."
+    },
+    {
+     "family": "Drysdale",
+     "given": "R.N."
+    },
+    {
+     "family": "Fabiani",
+     "given": "F."
+    },
+    {
+     "family": "Genovesi",
+     "given": "S."
+    },
+    {
+     "family": "Hellstrom",
+     "given": "J.C."
+    }
+   ],
+   "date": "2020",
+   "title": "Hydrological changes during the Roman climatic optimum in northern Tuscany (Central Italy) as evidenced by speleothem records and archaeological data",
+   "is_part_of": [
+    "Journal of Quaternary Science"
+   ],
+   "volume": "35",
+   "issue": "6",
+   "doi": "10.1002/jqs.3224",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Brandolini F., Carrer F. 2020, *Terra, Silva et Paludes. Assessing the role of alluvial geomorphology for Late-Holocene settlement strategies (Po Plain – N Italy) through Point Pattern Analysis*, «Environmental Archaeology», 7, 5, 511-525 (https://doi.org/10.1080/14614103.2020.1740866).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brandolini",
+     "given": "F."
+    },
+    {
+     "family": "Carrer",
+     "given": "F."
+    }
+   ],
+   "date": "2020",
+   "title": "Terra, Silva et Paludes. Assessing the role of alluvial geomorphology for Late-Holocene settlement strategies (Po Plain – N Italy) through Point Pattern Analysis",
+   "is_part_of": [
+    "Environmental Archaeology"
+   ],
+   "volume": "7",
+   "issue": "5",
+   "pages": "511-525",
+   "doi": "10.1080/14614103.2020.1740866",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Boccaletti M., Coli M., Decandia F.A., Giannini E., Lazzarotto A. 1980, *Evoluzione dell'Appennino settentrionale secondo un nuovo modello strutturale*, «Memorie della Società geologica italiana», 21, 359-373.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Boccaletti",
+     "given": "M."
+    },
+    {
+     "family": "Coli",
+     "given": "M."
+    },
+    {
+     "family": "Decandia",
+     "given": "F.A."
+    },
+    {
+     "family": "Giannini",
+     "given": "E."
+    },
+    {
+     "family": "Lazzarotto",
+     "given": "A."
+    }
+   ],
+   "date": "1980",
+   "title": "Evoluzione dell'Appennino settentrionale secondo un nuovo modello strutturale",
+   "is_part_of": [
+    "Memorie della Società geologica italiana"
+   ],
+   "volume": "21",
+   "pages": "359-373",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Carlson D.L. 2017, *Quantitative Methods in Archaeology Using R*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carlson",
+     "given": "D.L."
+    }
+   ],
+   "date": "2017",
+   "title": "Quantitative Methods in Archaeology Using R",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Campus A. 2022, *L'ager Pisanus tra romanizzazione e tardoantico: continuità, discontinuità e trasformazioni*, unpublished Doctoral Thesis, Università di Pisa (https://etd.adm.unipi.it/theses/available/etd-09262022-155452/).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Campus",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "L'ager Pisanus tra romanizzazione e tardoantico: continuità, discontinuità e trasformazioni",
+   "publisher": "Università di Pisa",
+   "uri": "https://etd.adm.unipi.it/theses/available/etd-09262022-155452/",
+   "language": "ita",
+   "notes": "unpublished doctoral thesis",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Carmignani L., Giglia G., Kligfield R. 1978, *Structural evolution of the Apuane Alps: An example of continental margin deformation in the Northern Apennines, Italy*, «The Journal of Geology», 86, 4, 487-504.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carmignani",
+     "given": "L."
+    },
+    {
+     "family": "Giglia",
+     "given": "G."
+    },
+    {
+     "family": "Kligfield",
+     "given": "R."
+    }
+   ],
+   "date": "1978",
+   "title": "Structural evolution of the Apuane Alps: An example of continental margin deformation in the Northern Apennines, Italy",
+   "is_part_of": [
+    "The Journal of Geology"
+   ],
+   "volume": "86",
+   "issue": "4",
+   "pages": "487-504",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Carrer F. 2013, *An ethnoarchaeological inductive model for predicting archaeological site location: A case-study of pastoral settlement patterns in the Val di Fiemme and Val di Sole (Trentino, Italian Alps)*, «Journal of Anthropological Archaeology», 32, 54-62.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carrer",
+     "given": "F."
+    }
+   ],
+   "date": "2013",
+   "title": "An ethnoarchaeological inductive model for predicting archaeological site location: A case-study of pastoral settlement patterns in the Val di Fiemme and Val di Sole (Trentino, Italian Alps)",
+   "is_part_of": [
+    "Journal of Anthropological Archaeology"
+   ],
+   "volume": "32",
+   "pages": "54-62",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Castaldini D., Genevois R., Panizza M., Puccinelli A., Berti M., Simoni A. 1998, *An integrated approach for analysing earthquake-induced surface effects: A case study from the Northern Apennines, Italy*, «Journal of Geodynamics», 26, 2-4, 413-431.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Castaldini",
+     "given": "D."
+    },
+    {
+     "family": "Genevois",
+     "given": "R."
+    },
+    {
+     "family": "Panizza",
+     "given": "M."
+    },
+    {
+     "family": "Puccinelli",
+     "given": "A."
+    },
+    {
+     "family": "Berti",
+     "given": "M."
+    },
+    {
+     "family": "Simoni",
+     "given": "A."
+    }
+   ],
+   "date": "1998",
+   "title": "An integrated approach for analysing earthquake-induced surface effects: A case study from the Northern Apennines, Italy",
+   "is_part_of": [
+    "Journal of Geodynamics"
+   ],
+   "volume": "26",
+   "issue": "2-4",
+   "pages": "413-431",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Ciampoltrini G. 2003, *La valle del Serchio fra I e VI secolo d.C. Aspetti della dinamica dell'insediamento*, in G. Roncaglia, A. Donati, P. Giuliano (eds.), *Appennino tra antichità e Medioevo*, Città di Castello, Petruzzi Editore, 209-223.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ciampoltrini",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Roncaglia",
+     "given": "G."
+    },
+    {
+     "family": "Donati",
+     "given": "A."
+    },
+    {
+     "family": "Giuliano",
+     "given": "P."
+    }
+   ],
+   "date": "2003",
+   "title": "La valle del Serchio fra I e VI secolo d.C. Aspetti della dinamica dell'insediamento",
+   "is_part_of": [
+    "Appennino tra antichità e Medioevo"
+   ],
+   "pages": "209-223",
+   "publisher": "Petruzzi Editore",
+   "place": "Città di Castello",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Ciampoltrini G. 2006, *La colonia e la montagna. Archeologia d'età augustea a Lucca e nella Valle del Serchio*, San Miniato, Tipografia Toscana.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ciampoltrini",
+     "given": "G."
+    }
+   ],
+   "date": "2006",
+   "title": "La colonia e la montagna. Archeologia d'età augustea a Lucca e nella Valle del Serchio",
+   "publisher": "Tipografia Toscana",
+   "place": "San Miniato",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Conolly J., Lake M. 2006, *Geographical Information Systems in Archaeology*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Conolly",
+     "given": "J."
+    },
+    {
+     "family": "Lake",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Geographical Information Systems in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Costanzo S., Brandolini F., Idriss Ahmed H., Zerboni A., Manzo A. 2021, *Creating the funerary landscape of Eastern Sudan*, «PLOS ONE», 16, 7, e0253511 (https://doi.org/10.1371/journal.pone.0253511).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Costanzo",
+     "given": "S."
+    },
+    {
+     "family": "Brandolini",
+     "given": "F."
+    },
+    {
+     "family": "Idriss Ahmed",
+     "given": "H."
+    },
+    {
+     "family": "Zerboni",
+     "given": "A."
+    },
+    {
+     "family": "Manzo",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "Creating the funerary landscape of Eastern Sudan",
+   "is_part_of": [
+    "PLOS ONE"
+   ],
+   "volume": "16",
+   "issue": "7",
+   "pages": "e0253511",
+   "doi": "10.1371/journal.pone.0253511",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Crema E.R. 2020, *Non-stationarity and local spatial analysis*, in M. Gillings, P. Hacigüzeller, G. Lock (eds.), *Archaeological Spatial Analysis. A Methodological Guide*, Oxon, Routledge, 155-168.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Crema",
+     "given": "E.R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    },
+    {
+     "family": "Hacigüzeller",
+     "given": "P."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2020",
+   "title": "Non-stationarity and local spatial analysis",
+   "is_part_of": [
+    "Archaeological Spatial Analysis: A Methodological Guide"
+   ],
+   "pages": "155-168",
+   "publisher": "Routledge",
+   "place": "Oxon",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Della Casa P. 2010, *Recherche interdisciplinaire en archéologie et écologie humaine dans la vallée centre-alpine de la Léventine, Tessin (Suisse)*, in Tzortzis, Delestre, Greck 2010a, 23-32.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Della Casa",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Tzortzis",
+     "given": "S."
+    },
+    {
+     "family": "Delestre",
+     "given": "X."
+    },
+    {
+     "family": "Greck",
+     "given": "J."
+    }
+   ],
+   "date": "2010",
+   "title": "Recherche interdisciplinaire en archéologie et écologie humaine dans la vallée centre-alpine de la Léventine, Tessin (Suisse)",
+   "is_part_of": [
+    "Archéologie de la montagne européenne, Actes de la table ronde internationale de Gap (2008)"
+   ],
+   "pages": "23-32",
+   "publisher": "Édition Errance",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 38,
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Devoti S., Nisi M.F., Silenzi S. 2003, *Caratteri geologici ed evoluzione paleogeografica della pianura versiliese*, «Studi Costieri», 6, 73-89.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Devoti",
+     "given": "S."
+    },
+    {
+     "family": "Nisi",
+     "given": "M.F."
+    },
+    {
+     "family": "Silenzi",
+     "given": "S."
+    }
+   ],
+   "date": "2003",
+   "title": "Caratteri geologici ed evoluzione paleogeografica della pianura versiliese",
+   "is_part_of": [
+    "Studi Costieri"
+   ],
+   "volume": "6",
+   "pages": "73-89",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Eve S.J., Crema E.R. 2014, *A house with a view? Multi-model inference, visibility fields, and Point Process Analysis of a Bronze Age Settlement on Leskernick Hill (Cornwall, UK)*, «Journal of Archaeological Science», 43, 267-277 (https://doi.org/10.1016/j.jas.2013.12.019).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Eve",
+     "given": "S.J."
+    },
+    {
+     "family": "Crema",
+     "given": "E.R."
+    }
+   ],
+   "date": "2014",
+   "title": "A house with a view? Multi-model inference, visibility fields, and Point Process Analysis of a Bronze Age Settlement on Leskernick Hill (Cornwall, UK)",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "43",
+   "pages": "267-277",
+   "doi": "10.1016/j.jas.2013.12.019",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Giannini M. 2005, *I Romani in Versilia: dinamiche di popolamento e organizzazione del territorio*, «Orizzonti», 16, 81-91.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Giannini",
+     "given": "M."
+    }
+   ],
+   "date": "2005",
+   "title": "I Romani in Versilia: dinamiche di popolamento e organizzazione del territorio",
+   "is_part_of": [
+    "Orizzonti"
+   ],
+   "volume": "16",
+   "pages": "81-91",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Gillings M., Hacigüzeller P., Lock G. 2020, *Archaeology and spatial analysis*, in M. Gillings, P. Hacigüzeller, G. Lock (eds.), *Archaeological Spatial Analysis. A Methodological Guide*, Oxon, Routledge, 1-16.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    },
+    {
+     "family": "Hacigüzeller",
+     "given": "P."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    },
+    {
+     "family": "Hacigüzeller",
+     "given": "P."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2020",
+   "title": "Archaeology and spatial analysis",
+   "is_part_of": [
+    "Archaeological Spatial Analysis: A Methodological Guide"
+   ],
+   "pages": "1-16",
+   "publisher": "Routledge",
+   "place": "Oxon",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Fabiani F. 2006, *\"… stratam antiquam que est per paludes et boscos…\". Viabilità romana tra Pisa e Luni*, Pisa, Edizioni plus.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fabiani",
+     "given": "F."
+    }
+   ],
+   "date": "2006",
+   "title": "\"… stratam antiquam que est per paludes et boscos…\". Viabilità romana tra Pisa e Luni",
+   "publisher": "Edizioni plus",
+   "place": "Pisa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Kempf M., Weaverdyck E.J.S. 2023, *Modelling bias and environmental preferences in archaeological spatial analysis*, «Vegueta. Anuario de la Facultad de Geografía e Historia», 23, 1 (https://doi.org/10.51349/veg.2023.1.03).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kempf",
+     "given": "M."
+    },
+    {
+     "family": "Weaverdyck",
+     "given": "E.J.S."
+    }
+   ],
+   "date": "2023",
+   "title": "Modelling bias and environmental preferences in archaeological spatial analysis",
+   "is_part_of": [
+    "Vegueta. Anuario de la Facultad de Geografía e Historia"
+   ],
+   "volume": "23",
+   "issue": "1",
+   "doi": "10.51349/veg.2023.1.03",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "King G., Zeng L. 2001, *Logistic regression in rare events data*, «Polytical Analysis», 9, 2, 137-163 (https://doi.org/10.1093/oxfordjournals.pan.a004868).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "King",
+     "given": "G."
+    },
+    {
+     "family": "Zeng",
+     "given": "L."
+    }
+   ],
+   "date": "2001",
+   "title": "Logistic regression in rare events data",
+   "is_part_of": [
+    "Polytical Analysis"
+   ],
+   "volume": "9",
+   "issue": "2",
+   "pages": "137-163",
+   "doi": "10.1093/oxfordjournals.pan.a004868",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Kvamme K.L. 2006, *There and back again: Revisiting archaeological locational modeling*, in M.W. Mehrer, K.L. Wescott (eds.), *GIS and Archaeological Site Location Modeling*, New York, CRC Press, 23-55.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Mehrer",
+     "given": "M.W."
+    },
+    {
+     "family": "Wescott",
+     "given": "K.L."
+    }
+   ],
+   "date": "2006",
+   "title": "There and back again: Revisiting archaeological locational modeling",
+   "is_part_of": [
+    "GIS and Archaeological Site Location Modeling"
+   ],
+   "pages": "23-55",
+   "publisher": "CRC Press",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Li L., Li Y., Chen X., Sun D. 2022, *A prediction study on archaeological sites based on geographical variables and logistic regression. A case study of the Neolithic era and the Bronze age of Xiangyang*, «Sustainability», 14, 15675 (https://doi.org/10.3390/su142315675).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Li",
+     "given": "L."
+    },
+    {
+     "family": "Li",
+     "given": "Y."
+    },
+    {
+     "family": "Chen",
+     "given": "X."
+    },
+    {
+     "family": "Sun",
+     "given": "D."
+    }
+   ],
+   "date": "2022",
+   "title": "A prediction study on archaeological sites based on geographical variables and logistic regression. A case study of the Neolithic era and the Bronze age of Xiangyang",
+   "is_part_of": [
+    "Sustainability"
+   ],
+   "volume": "14",
+   "pages": "15675",
+   "doi": "10.3390/su142315675",
+   "language": "eng",
+   "notes": "cited '14, 15675': article number",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Menchelli S. 1991, *Materiali per la storia della Versilia in età romana*, «Studi Classici e Orientali», 40, 387-429.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Menchelli",
+     "given": "S."
+    }
+   ],
+   "date": "1991",
+   "title": "Materiali per la storia della Versilia in età romana",
+   "is_part_of": [
+    "Studi Classici e Orientali"
+   ],
+   "volume": "40",
+   "pages": "387-429",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Migliavacca M., Bandera S., Bezzi J., Casarotto A., Pisoni L. 2021, *Archeologia delle alte quote sulla montagna veneta: la campagna di ricognizione di superficie 2019 a Recoaro Terme (Vicenza)*, «Fasti On Line Documents & Research», 14, 1-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Migliavacca",
+     "given": "M."
+    },
+    {
+     "family": "Bandera",
+     "given": "S."
+    },
+    {
+     "family": "Bezzi",
+     "given": "J."
+    },
+    {
+     "family": "Casarotto",
+     "given": "A."
+    },
+    {
+     "family": "Pisoni",
+     "given": "L."
+    }
+   ],
+   "date": "2021",
+   "title": "Archeologia delle alte quote sulla montagna veneta: la campagna di ricognizione di superficie 2019 a Recoaro Terme (Vicenza)",
+   "is_part_of": [
+    "Fasti On Line Documents & Research"
+   ],
+   "volume": "14",
+   "pages": "1-30",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Mocci F., Segard M., Walsh K. 2010, *Données récentes sur l'occupation humaine dans les Alpes méridionales durant l'Antiquité*, in Tzortzis, Delestre, Greck 2010a, 309-324.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mocci",
+     "given": "F."
+    },
+    {
+     "family": "Segard",
+     "given": "M."
+    },
+    {
+     "family": "Walsh",
+     "given": "K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Tzortzis",
+     "given": "S."
+    },
+    {
+     "family": "Delestre",
+     "given": "X."
+    },
+    {
+     "family": "Greck",
+     "given": "J."
+    }
+   ],
+   "date": "2010",
+   "title": "Données récentes sur l'occupation humaine dans les Alpes méridionales durant l'Antiquité",
+   "is_part_of": [
+    "Archéologie de la montagne européenne, Actes de la table ronde internationale de Gap (2008)"
+   ],
+   "pages": "309-324",
+   "publisher": "Édition Errance",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 38,
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Modica G., Praticò S., Di Fazio S. 2017, *Abandonment of traditional terraced landscape: A change detection approach (a case study in Costa Viola, Calabria, Italy)*, «Land Degradation & Development», 28, 8, 2608-2622 (https://doi.org/10.1002/ldr.2824).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Modica",
+     "given": "G."
+    },
+    {
+     "family": "Praticò",
+     "given": "S."
+    },
+    {
+     "family": "Di Fazio",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Abandonment of traditional terraced landscape: A change detection approach (a case study in Costa Viola, Calabria, Italy)",
+   "is_part_of": [
+    "Land Degradation & Development"
+   ],
+   "volume": "28",
+   "issue": "8",
+   "pages": "2608-2622",
+   "doi": "10.1002/ldr.2824",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Nakoinz O., Knitter D. 2018, *Modelling Human Behaviour in Landscapes: Basic Concepts and Modelling Elements*, Switzerland, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nakoinz",
+     "given": "O."
+    },
+    {
+     "family": "Knitter",
+     "given": "D."
+    }
+   ],
+   "date": "2018",
+   "title": "Modelling Human Behaviour in Landscapes: Basic Concepts and Modelling Elements",
+   "publisher": "Springer",
+   "place": "Switzerland",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Tzortzis S., Delestre X., Greck J. (eds.) 2010a, *Archéologie de la montagne européenne, Actes de la table ronde internationale de Gap (2008)*, Paris, Édition Errance.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Tzortzis",
+     "given": "S."
+    },
+    {
+     "family": "Delestre",
+     "given": "X."
+    },
+    {
+     "family": "Greck",
+     "given": "J."
+    }
+   ],
+   "date": "2010",
+   "title": "Archéologie de la montagne européenne, Actes de la table ronde internationale de Gap (2008)",
+   "publisher": "Édition Errance",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Tzortzis S., Delestre X., Greck J. 2010b, *Avant-propos*, in Tzortzis, Delestre, Greck 2010a, 9-10.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tzortzis",
+     "given": "S."
+    },
+    {
+     "family": "Delestre",
+     "given": "X."
+    },
+    {
+     "family": "Greck",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Tzortzis",
+     "given": "S."
+    },
+    {
+     "family": "Delestre",
+     "given": "X."
+    },
+    {
+     "family": "Greck",
+     "given": "J."
+    }
+   ],
+   "date": "2010",
+   "title": "Avant-propos",
+   "is_part_of": [
+    "Archéologie de la montagne européenne, Actes de la table ronde internationale de Gap (2008)"
+   ],
+   "pages": "9-10",
+   "publisher": "Édition Errance",
+   "place": "Paris",
+   "language": "fre",
+   "xref": 38,
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Visentin D., Carrer F. 2017, *Evaluating Mesolithic settlement patterns in mountain environments (Dolomites, Eastern Italian Alps): The role of research biases and locational strategies*, «Archeologia e Calcolatori», 28, 1, 129-145 (https://doi.org/10.19282/AC.28.1.2017.08).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Visentin",
+     "given": "D."
+    },
+    {
+     "family": "Carrer",
+     "given": "F."
+    }
+   ],
+   "date": "2017",
+   "title": "Evaluating Mesolithic settlement patterns in mountain environments (Dolomites, Eastern Italian Alps): The role of research biases and locational strategies",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "1",
+   "pages": "129-145",
+   "doi": "10.19282/AC.28.1.2017.08",
+   "language": "eng",
+   "cited_aec_id": 901,
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Wachtel I., Shelach-Lavi G., Garti S. 2018, *Predictive modelling for archaeological site locations: Comparing logistic regression and maximal entropy in North Israel and North-East China*, «Journal of Archaeological Science», 98, 28-36 (https://doi.org/10.1016/j.jas.2018.02.001).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wachtel",
+     "given": "I."
+    },
+    {
+     "family": "Shelach-Lavi",
+     "given": "G."
+    },
+    {
+     "family": "Garti",
+     "given": "S."
+    }
+   ],
+   "date": "2018",
+   "title": "Predictive modelling for archaeological site locations: Comparing logistic regression and maximal entropy in North Israel and North-East China",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "98",
+   "pages": "28-36",
+   "doi": "10.1016/j.jas.2018.02.001",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Warren R.E., Asch D.L. 2000, *A predictive model of archaeological site location in the Eastern Prairie Peninsula*, in K.L. Westcott, R.J. Brandon (eds.), *Practical Applications of GIS for Archaeologists: A Predictive Modelling Kit*, London, Taylor&Francis, 5-32.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Warren",
+     "given": "R.E."
+    },
+    {
+     "family": "Asch",
+     "given": "D.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Westcott",
+     "given": "K.L."
+    },
+    {
+     "family": "Brandon",
+     "given": "R.J."
+    }
+   ],
+   "date": "2000",
+   "title": "A predictive model of archaeological site location in the Eastern Prairie Peninsula",
+   "is_part_of": [
+    "Practical Applications of GIS for Archaeologists: A Predictive Modelling Kit"
+   ],
+   "pages": "5-32",
+   "publisher": "Taylor&Francis",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Wheatley D., Gillings M. 2002, *Spatial Technology and Archaeology. The Archaeological Applications of GIS*, London, Taylor & Francis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    },
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Spatial Technology and Archaeology. The Archaeological Applications of GIS",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

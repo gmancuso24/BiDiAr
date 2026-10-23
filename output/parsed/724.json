@@ -1,0 +1,973 @@
+{
+ "citing_aec_id": 724,
+ "source_file": "data/journal/25/724.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Conolly J., Lake M. 2006, Geographical Information Systems in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Conolly",
+     "given": "J."
+    },
+    {
+     "family": "Lake",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Geographical Information Systems in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Earl G., Sly T., Chrysanthi A., Murrieta-Flores P., Papadopoulos C., Romanowska I., Wheatley D. (eds.) 2013, Archaeology in the Digital Era. Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA) (Southampton 2012), Amsterdam, Amsterdam University Press.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Earl",
+     "given": "G."
+    },
+    {
+     "family": "Sly",
+     "given": "T."
+    },
+    {
+     "family": "Chrysanthi",
+     "given": "A."
+    },
+    {
+     "family": "Murrieta-Flores",
+     "given": "P."
+    },
+    {
+     "family": "Papadopoulos",
+     "given": "C."
+    },
+    {
+     "family": "Romanowska",
+     "given": "I."
+    },
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "date": "2013",
+   "title": "Archaeology in the Digital Era. Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA) (Southampton 2012)",
+   "publisher": "Amsterdam University Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Earl G., Sly T., Chrysanthi A., Murrieta-Flores P., Papadopoulos C., Romanowska I., Wheatley D. (eds.) 2014, Archaeology in the Digital Era, Vol. II. e-Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA) (Southampton 2012), Amsterdam, Amsterdam University Press.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Earl",
+     "given": "G."
+    },
+    {
+     "family": "Sly",
+     "given": "T."
+    },
+    {
+     "family": "Chrysanthi",
+     "given": "A."
+    },
+    {
+     "family": "Murrieta-Flores",
+     "given": "P."
+    },
+    {
+     "family": "Papadopoulos",
+     "given": "C."
+    },
+    {
+     "family": "Romanowska",
+     "given": "I."
+    },
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "date": "2014",
+   "title": "Archaeology in the Digital Era, Vol. II. e-Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA) (Southampton 2012)",
+   "publisher": "Amsterdam University Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Fábrega Álvarez P., Parcero Oubiña C. 2007, Proposals for an archaeological analysis of pathways and movement, «Archeologia e Calcolatori», 18, 121-140.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fábrega Álvarez",
+     "given": "P."
+    },
+    {
+     "family": "Parcero Oubiña",
+     "given": "C."
+    }
+   ],
+   "date": "2007",
+   "title": "Proposals for an archaeological analysis of pathways and movement",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "18",
+   "pages": "121-140",
+   "language": "eng",
+   "cited_aec_id": 438,
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Gaffney V., Stančič Z. 1992, Diodorus Siculus and the island of Hvar, Dalmatia: Testing the text with GIS, in G. Lock, J. Moffett (eds.), Computer Applications and Quantitative Methods in Archaeology 1991, BAR International Series 577, Oxford, Tempus Reparatum, 113-125.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "date": "1992",
+   "title": "Diodorus Siculus and the island of Hvar, Dalmatia: Testing the text with GIS",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1991"
+   ],
+   "pages": "113-125",
+   "series": "BAR International Series",
+   "series_number": "577",
+   "publisher": "Tempus Reparatum",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Hare T.S. 2004, Using measures of cost distance in the estimation of polity boundaries in the postclassic Yautepec Valley, Mexico, «Journal of Archaeological Science», 31, 799-814.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hare",
+     "given": "T.S."
+    }
+   ],
+   "date": "2004",
+   "title": "Using measures of cost distance in the estimation of polity boundaries in the postclassic Yautepec Valley, Mexico",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "31",
+   "pages": "799-814",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Herzog I. 2013a, Theory and practice of cost functions, in F. Contreras, M. Farjas, F.J. Melero (eds.), Fusion of Cultures. Proceedings of the 38th Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Granada, Spain 2010), BAR International Series 2494, Oxford, Archaeopress, 375-382.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Contreras",
+     "given": "F."
+    },
+    {
+     "family": "Farjas",
+     "given": "M."
+    },
+    {
+     "family": "Melero",
+     "given": "F.J."
+    }
+   ],
+   "date": "2013",
+   "title": "Theory and practice of cost functions",
+   "is_part_of": [
+    "Fusion of Cultures. Proceedings of the 38th Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Granada, Spain 2010)"
+   ],
+   "pages": "375-382",
+   "series": "BAR International Series",
+   "series_number": "2494",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Herzog I. 2013b, The potential and limits of optimal path analysis, in A. Bevan, M. Lake (eds.), Computational Approaches to Archaeological Spaces, Walnut Creek, Left Coast Press, 179-211.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bevan",
+     "given": "A."
+    },
+    {
+     "family": "Lake",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "The potential and limits of optimal path analysis",
+   "is_part_of": [
+    "Computational Approaches to Archaeological Spaces"
+   ],
+   "pages": "179-211",
+   "publisher": "Left Coast Press",
+   "place": "Walnut Creek",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Herzog I. 2013c, Least-cost networks, in Earl *et al.* 2013, 240-251.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Earl",
+     "given": "G."
+    },
+    {
+     "family": "Sly",
+     "given": "T."
+    },
+    {
+     "family": "Chrysanthi",
+     "given": "A."
+    },
+    {
+     "family": "Murrieta-Flores",
+     "given": "P."
+    },
+    {
+     "family": "Papadopoulos",
+     "given": "C."
+    },
+    {
+     "family": "Romanowska",
+     "given": "I."
+    },
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "date": "2013",
+   "title": "Least-cost networks",
+   "is_part_of": [
+    "Archaeology in the Digital Era. Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA) (Southampton 2012)"
+   ],
+   "pages": "240-251",
+   "publisher": "Amsterdam University Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "xref": 2,
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Herzog I. 2014a, Least-cost Paths. Some Methodological Issues, «Internet Archaeology», 36 (http://dx.doi.org/10.11141/ia.36.5).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "date": "2014",
+   "title": "Least-cost Paths. Some Methodological Issues",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "36",
+   "doi": "10.11141/ia.36.5",
+   "language": "eng",
+   "notes": "doi cited as http://dx.doi.org/10.11141/ia.36.5",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Herzog I. 2014b, Calculating accessibility, in Earl *et al.* 2014 (online version), 720-734.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Earl",
+     "given": "G."
+    },
+    {
+     "family": "Sly",
+     "given": "T."
+    },
+    {
+     "family": "Chrysanthi",
+     "given": "A."
+    },
+    {
+     "family": "Murrieta-Flores",
+     "given": "P."
+    },
+    {
+     "family": "Papadopoulos",
+     "given": "C."
+    },
+    {
+     "family": "Romanowska",
+     "given": "I."
+    },
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "date": "2014",
+   "title": "Calculating accessibility",
+   "is_part_of": [
+    "Archaeology in the Digital Era, Vol. II. e-Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA) (Southampton 2012)"
+   ],
+   "pages": "720-734",
+   "publisher": "Amsterdam University Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "xref": 3,
+   "notes": "cited '(online version)'",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Hudson E.J. 2012, Walking and watching, in White, Surface-Evans 2012, 97-108.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hudson",
+     "given": "E.J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "White",
+     "given": "D.A."
+    },
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Walking and watching",
+   "is_part_of": [
+    "Least Cost Analysis of Social Landscapes. Archaeological Case Studies"
+   ],
+   "pages": "97-108",
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng",
+   "xref": 29,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Kantner J. 2012, Realism, reality, and routes, in White, Surface-Evans 2012, 225-238.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kantner",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "White",
+     "given": "D.A."
+    },
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Realism, reality, and routes",
+   "is_part_of": [
+    "Least Cost Analysis of Social Landscapes. Archaeological Case Studies"
+   ],
+   "pages": "225-238",
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng",
+   "xref": 29,
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Kerig T. 2008, Towards an econometrically informed archaeology: The Cologne Tableau (KöTa), in A. Posluschny, K. Lambers, I. Herzog (eds.), Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA) (Berlin 2007), Kolloquien zur Vor- und Frühgeschichte 10, 372 (full paper on CD).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kerig",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Posluschny",
+     "given": "A."
+    },
+    {
+     "family": "Lambers",
+     "given": "K."
+    },
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "date": "2008",
+   "title": "Towards an econometrically informed archaeology: The Cologne Tableau (KöTa)",
+   "is_part_of": [
+    "Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA) (Berlin 2007)"
+   ],
+   "pages": "372",
+   "series": "Kolloquien zur Vor- und Frühgeschichte",
+   "series_number": "10",
+   "language": "eng",
+   "notes": "cited '372 (full paper on CD)'",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Kienlin T.L., Cappenberg K., Korczynska M.M. 2012, Überlegungen zu den spätbronze- und früheisenzeitlichen Landnutzungsstrategien im mittleren Dunajectal, Kleinpolen, Festschrift für Hans Lohmann zugeeignet von seinen Schülern, Freunden und Kollegen zu seinem 65. Geburtstag (Paderborn 2012).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kienlin",
+     "given": "T.L."
+    },
+    {
+     "family": "Cappenberg",
+     "given": "K."
+    },
+    {
+     "family": "Korczynska",
+     "given": "M.M."
+    }
+   ],
+   "date": "2012",
+   "title": "Überlegungen zu den spätbronze- und früheisenzeitlichen Landnutzungsstrategien im mittleren Dunajectal, Kleinpolen",
+   "is_part_of": [
+    "Festschrift für Hans Lohmann zugeeignet von seinen Schülern, Freunden und Kollegen zu seinem 65. Geburtstag"
+   ],
+   "place": "Paderborn",
+   "language": "ger",
+   "notes": "no pages in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Livingood P. 2012, No crows made mounds, in White, Surface-Evans 2012, 174-187.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Livingood",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "White",
+     "given": "D.A."
+    },
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "No crows made mounds",
+   "is_part_of": [
+    "Least Cost Analysis of Social Landscapes. Archaeological Case Studies"
+   ],
+   "pages": "174-187",
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng",
+   "xref": 29,
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Murrieta-Flores P. 2012, Understanding human movement through spatial technologies. The role of natural areas of transit in the Late Prehistory of South-western Iberia, «Trabajos de Prehistoria», 69, 1, 103-122.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Murrieta-Flores",
+     "given": "P."
+    }
+   ],
+   "date": "2012",
+   "title": "Understanding human movement through spatial technologies. The role of natural areas of transit in the Late Prehistory of South-western Iberia",
+   "is_part_of": [
+    "Trabajos de Prehistoria"
+   ],
+   "volume": "69",
+   "issue": "1",
+   "pages": "103-122",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Nolan K.C., Cook R.A. 2012, A method for multiple cost surface evaluation of a model of inter-regional interaction, in White, Surface-Evans 2012, 67-93.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nolan",
+     "given": "K.C."
+    },
+    {
+     "family": "Cook",
+     "given": "R.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "White",
+     "given": "D.A."
+    },
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "A method for multiple cost surface evaluation of a model of inter-regional interaction",
+   "is_part_of": [
+    "Least Cost Analysis of Social Landscapes. Archaeological Case Studies"
+   ],
+   "pages": "67-93",
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng",
+   "xref": 29,
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Phillips S.M., Leckman P.O. 2012, Wandering the desert, in White, Surface-Evans 2012, 46-66.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Phillips",
+     "given": "S.M."
+    },
+    {
+     "family": "Leckman",
+     "given": "P.O."
+    }
+   ],
+   "editors": [
+    {
+     "family": "White",
+     "given": "D.A."
+    },
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Wandering the desert",
+   "is_part_of": [
+    "Least Cost Analysis of Social Landscapes. Archaeological Case Studies"
+   ],
+   "pages": "46-66",
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng",
+   "xref": 29,
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Posluschny A. 2012, Von Nah und Fern? Methodische Aspekte zur Wegeforschung, in O. Dally, F. Fless, R. Haensch, F. Pirson, S. Sievers (eds.), Politische Räume in vormodernen Gesellschaften. Gestaltung - Wahrnehmung - Funktion. Internationale Tagung des DAI und des DFG-Exzellenzclusters TOPOI (Berlin 2009), Rahden/Westf., Verlag Marie Leidorf, 113-124.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Posluschny",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dally",
+     "given": "O."
+    },
+    {
+     "family": "Fless",
+     "given": "F."
+    },
+    {
+     "family": "Haensch",
+     "given": "R."
+    },
+    {
+     "family": "Pirson",
+     "given": "F."
+    },
+    {
+     "family": "Sievers",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Von Nah und Fern? Methodische Aspekte zur Wegeforschung",
+   "is_part_of": [
+    "Politische Räume in vormodernen Gesellschaften. Gestaltung - Wahrnehmung - Funktion. Internationale Tagung des DAI und des DFG-Exzellenzclusters TOPOI (Berlin 2009)"
+   ],
+   "pages": "113-124",
+   "publisher": "Verlag Marie Leidorf",
+   "place": "Rahden/Westf.",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Rademaker K., Reid D.A., Bromley G.R.M. 2012, Connecting the dots, in White, Surface-Evans 2012, 32-45.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rademaker",
+     "given": "K."
+    },
+    {
+     "family": "Reid",
+     "given": "D.A."
+    },
+    {
+     "family": "Bromley",
+     "given": "G.R.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "White",
+     "given": "D.A."
+    },
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Connecting the dots",
+   "is_part_of": [
+    "Least Cost Analysis of Social Landscapes. Archaeological Case Studies"
+   ],
+   "pages": "32-45",
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng",
+   "xref": 29,
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Richards-Rissetto H. 2012, Social interaction at the Maya site of Copán, Honduras, in White, Surface-Evans 2012, 109-127.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Richards-Rissetto",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "White",
+     "given": "D.A."
+    },
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Social interaction at the Maya site of Copán, Honduras",
+   "is_part_of": [
+    "Least Cost Analysis of Social Landscapes. Archaeological Case Studies"
+   ],
+   "pages": "109-127",
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng",
+   "xref": 29,
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Rissetto J.D. 2012, Using Least Cost Path Analysis to reinterpret later Upper Paleolithic hunter-gatherer procurement zones in Northern Spain, in White, Surface-Evans 2012, 11-31.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rissetto",
+     "given": "J.D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "White",
+     "given": "D.A."
+    },
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Using Least Cost Path Analysis to reinterpret later Upper Paleolithic hunter-gatherer procurement zones in Northern Spain",
+   "is_part_of": [
+    "Least Cost Analysis of Social Landscapes. Archaeological Case Studies"
+   ],
+   "pages": "11-31",
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng",
+   "xref": 29,
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Smith M.J. de, Goodchild M.F., Longley P.A. 2007, Geospatial Analysis. A Comprehensive Guide to Principles, Techniques and Software Tools, Leicester, Matador.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "de Smith",
+     "given": "M.J."
+    },
+    {
+     "family": "Goodchild",
+     "given": "M.F."
+    },
+    {
+     "family": "Longley",
+     "given": "P.A."
+    }
+   ],
+   "date": "2007",
+   "title": "Geospatial Analysis. A Comprehensive Guide to Principles, Techniques and Software Tools",
+   "publisher": "Matador",
+   "place": "Leicester",
+   "language": "eng",
+   "notes": "first author cited 'Smith M.J. de'",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Surface-Evans S. 2012, Cost catchments, in White, Surface-Evans 2012, 128-151.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "White",
+     "given": "D.A."
+    },
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Cost catchments",
+   "is_part_of": [
+    "Least Cost Analysis of Social Landscapes. Archaeological Case Studies"
+   ],
+   "pages": "128-151",
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng",
+   "xref": 29,
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Ullah I.I., Bergin S.M. 2012, Modeling the consequences of village site location, in White, Surface-Evans 2012, 155-173.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ullah",
+     "given": "I.I."
+    },
+    {
+     "family": "Bergin",
+     "given": "S.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "White",
+     "given": "D.A."
+    },
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Modeling the consequences of village site location",
+   "is_part_of": [
+    "Least Cost Analysis of Social Landscapes. Archaeological Case Studies"
+   ],
+   "pages": "155-173",
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng",
+   "xref": 29,
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Verhagen P., Jeneson K. 2012, A Roman puzzle. Trying to find the Via Belgica with GIS, in A. Chrysanthi, P. Murrieta-Flores, C. Papadopoulos (eds.), Thinking Beyond the Tool, BAR International Series 2344, Oxford, Archaeopress, 123-130.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Verhagen",
+     "given": "P."
+    },
+    {
+     "family": "Jeneson",
+     "given": "K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Chrysanthi",
+     "given": "A."
+    },
+    {
+     "family": "Murrieta-Flores",
+     "given": "P."
+    },
+    {
+     "family": "Papadopoulos",
+     "given": "C."
+    }
+   ],
+   "date": "2012",
+   "title": "A Roman puzzle. Trying to find the Via Belgica with GIS",
+   "is_part_of": [
+    "Thinking Beyond the Tool"
+   ],
+   "pages": "123-130",
+   "series": "BAR International Series",
+   "series_number": "2344",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "White D.A. 2012, Prehistoric trail networks of the Western Papaguería, in White, Surface-Evans 2012, 188-206.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "White",
+     "given": "D.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "White",
+     "given": "D.A."
+    },
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Prehistoric trail networks of the Western Papaguería",
+   "is_part_of": [
+    "Least Cost Analysis of Social Landscapes. Archaeological Case Studies"
+   ],
+   "pages": "188-206",
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng",
+   "xref": 29,
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "White D.A., Surface-Evans S. (eds.) 2012, Least Cost Analysis of Social Landscapes. Archaeological Case Studies, Salt Lake City, The University of Utah Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "White",
+     "given": "D.A."
+    },
+    {
+     "family": "Surface-Evans",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Least Cost Analysis of Social Landscapes. Archaeological Case Studies",
+   "publisher": "The University of Utah Press",
+   "place": "Salt Lake City",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

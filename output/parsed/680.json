@@ -1,0 +1,317 @@
+{
+ "citing_aec_id": 680,
+ "source_file": "data/journal/24/680.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Arrighetti A. 2012, Tecnologie fotogrammetriche e registrazione 3D della struttura materiale: dal rilievo alla gestione dei dati, in A. Curci, A. Fiorini (eds.), Documentare l'archeologia 2.0, Atti del Workshop (Bologna 2012), «Archeologia e Calcolatori», 23, 283-296.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Tecnologie fotogrammetriche e registrazione 3D della struttura materiale: dal rilievo alla gestione dei dati",
+   "editors": [
+    {
+     "family": "Curci",
+     "given": "A."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Documentare l'archeologia 2.0, Atti del Workshop (Bologna 2012)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "283-296",
+   "cited_aec_id": 623,
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Bertacchini E., Capra A., Castagnetti C., Rivola R., Toschi I. 2012, Tecniche laser scanner per la rappresentazione dei beni culturali: il rilievo dell'apparato scultoreo della Torre Ghirlandina di Modena, Atti 16<sup>a</sup> Conferenza Nazionale ASITA (Fiera di Vicenza 2012), 211-212 (http://www.attiasita.it/ASITA2012/Pdf/077.pdf; ultimo accesso 30/06/2013).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bertacchini",
+     "given": "E."
+    },
+    {
+     "family": "Capra",
+     "given": "A."
+    },
+    {
+     "family": "Castagnetti",
+     "given": "C."
+    },
+    {
+     "family": "Rivola",
+     "given": "R."
+    },
+    {
+     "family": "Toschi",
+     "given": "I."
+    }
+   ],
+   "date": "2012",
+   "title": "Tecniche laser scanner per la rappresentazione dei beni culturali: il rilievo dell'apparato scultoreo della Torre Ghirlandina di Modena",
+   "is_part_of": [
+    "Atti 16a Conferenza Nazionale ASITA (Fiera di Vicenza 2012)"
+   ],
+   "pages": "211-212",
+   "uri": "http://www.attiasita.it/ASITA2012/Pdf/077.pdf",
+   "notes": "ultimo accesso 30/06/2013",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Bourke P. 2012, Automatic 3D reconstruction: An exploration of the state of the art, «GSTF Journal of Computing», 2, 3, 71-75.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bourke",
+     "given": "P."
+    }
+   ],
+   "date": "2012",
+   "title": "Automatic 3D reconstruction: An exploration of the state of the art",
+   "is_part_of": [
+    "GSTF Journal of Computing"
+   ],
+   "volume": "2",
+   "issue": "3",
+   "pages": "71-75",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Crema L. 1958, S. Giovanni Evangelista di Ravenna alla luce delle ultime indagini, «Corsi di Cultura sull'Arte Ravennate e Bizantina», I, 55-58.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Crema",
+     "given": "L."
+    }
+   ],
+   "date": "1958",
+   "title": "S. Giovanni Evangelista di Ravenna alla luce delle ultime indagini",
+   "is_part_of": [
+    "Corsi di Cultura sull'Arte Ravennate e Bizantina"
+   ],
+   "volume": "I",
+   "pages": "55-58",
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "Farioli Campanati R. 1992, Ravenna, Costantinopoli: aspetti topografico-monumentali e iconografici, in A. Carile (ed.), Storia di Ravenna, II, 2, Venezia, Marsilio, 127-157.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Farioli Campanati",
+     "given": "R."
+    }
+   ],
+   "date": "1992",
+   "title": "Ravenna, Costantinopoli: aspetti topografico-monumentali e iconografici",
+   "editors": [
+    {
+     "family": "Carile",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Storia di Ravenna"
+   ],
+   "volume": "II",
+   "issue": "2",
+   "place": "Venezia",
+   "publisher": "Marsilio",
+   "pages": "127-157",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Farioli Campanati R. 1995, I mosaici pavimentali della chiesa di S. Giovanni Evangelista in Ravenna, Ravenna, Edizioni del Girasole.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Farioli Campanati",
+     "given": "R."
+    }
+   ],
+   "date": "1995",
+   "title": "I mosaici pavimentali della chiesa di S. Giovanni Evangelista in Ravenna",
+   "place": "Ravenna",
+   "publisher": "Edizioni del Girasole",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Grossmann P. 1964, Zum Narthex von San Giovanni Evangelista in Ravenna, «Römische Mitteilungen», 71, 202-228.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Grossmann",
+     "given": "P."
+    }
+   ],
+   "date": "1964",
+   "title": "Zum Narthex von San Giovanni Evangelista in Ravenna",
+   "is_part_of": [
+    "Römische Mitteilungen"
+   ],
+   "volume": "71",
+   "pages": "202-228",
+   "language": "ger"
+  },
+  {
+   "position": 8,
+   "raw": "Kersten T.P., Lindstaedt M. 2012, Image-based low-cost systems for automatic 3D recording and modelling of archaeological finds and objects, in M. Ioannides, D. Fritsch, J. Leissner, R. Davies, F. Remondino, R. Caffo (eds.), Progress in Cultural Heritage Preservation, Proceedings of the 4<sup>th</sup> International Conference, EuroMed 2012 (Limassol, Cyprus 2012), LNCS 7616, 1-10, Berlin, Springer.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kersten",
+     "given": "T.P."
+    },
+    {
+     "family": "Lindstaedt",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Image-based low-cost systems for automatic 3D recording and modelling of archaeological finds and objects",
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Fritsch",
+     "given": "D."
+    },
+    {
+     "family": "Leissner",
+     "given": "J."
+    },
+    {
+     "family": "Davies",
+     "given": "R."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Caffo",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Progress in Cultural Heritage Preservation, Proceedings of the 4th International Conference, EuroMed 2012 (Limassol, Cyprus 2012)"
+   ],
+   "series": "LNCS",
+   "series_number": "7616",
+   "place": "Berlin",
+   "publisher": "Springer",
+   "pages": "1-10",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Mesini G. 1963, Lavori nella basilica di S. Giovanni Evangelista, «Felix Ravenna», XXXVI, 167-168.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mesini",
+     "given": "G."
+    }
+   ],
+   "date": "1963",
+   "title": "Lavori nella basilica di S. Giovanni Evangelista",
+   "is_part_of": [
+    "Felix Ravenna"
+   ],
+   "volume": "XXXVI",
+   "pages": "167-168",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Nguyen H.M., Wunsche B., Delmas P., Lutteroth C. 2012, 3D models from the black box: Investigating the current state of image-based modeling, in V. Skala (ed.), WSCG 2012. 20<sup>th</sup> International Conference on Computer Graphics, Visualization and Computer Vision 2012 (Plzen, Czech Republic 2012), 249-258 (http://wscg.zcu.cz/WSCG2012/!_WSCG2012-Communications-2.pdf; ultimo accesso 30/06/2013).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nguyen",
+     "given": "H.M."
+    },
+    {
+     "family": "Wünsche",
+     "given": "B."
+    },
+    {
+     "family": "Delmas",
+     "given": "P."
+    },
+    {
+     "family": "Lutteroth",
+     "given": "C."
+    }
+   ],
+   "date": "2012",
+   "title": "3D models from the black box: Investigating the current state of image-based modeling",
+   "editors": [
+    {
+     "family": "Skala",
+     "given": "V."
+    }
+   ],
+   "is_part_of": [
+    "WSCG 2012. 20th International Conference on Computer Graphics, Visualization and Computer Vision 2012 (Plzen, Czech Republic 2012)"
+   ],
+   "pages": "249-258",
+   "uri": "http://wscg.zcu.cz/WSCG2012/!_WSCG2012-Communications-2.pdf",
+   "language": "eng",
+   "notes": "ultimo accesso 30/06/2013"
+  },
+  {
+   "position": 11,
+   "raw": "Russo E. 2003, L'architettura di Ravenna paleocristiana, Venezia, Istituto Veneto di Scienze, Lettere ed Arti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Russo",
+     "given": "E."
+    }
+   ],
+   "date": "2003",
+   "title": "L'architettura di Ravenna paleocristiana",
+   "place": "Venezia",
+   "publisher": "Istituto Veneto di Scienze, Lettere ed Arti",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "Savini G. 1907, Ravenna. Piante panoramiche. Volumi I-V (1905-1907). Edifici pubblici e privati. Luoghi e cose notevoli urbani, Ripr. facs. del ms. conservato presso la Biblioteca Classense, stampa 1996, Ravenna, Libreria antiquaria Tonini.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Savini",
+     "given": "G."
+    }
+   ],
+   "date": "1907",
+   "title": "Ravenna. Piante panoramiche. Volumi I-V (1905-1907). Edifici pubblici e privati. Luoghi e cose notevoli urbani",
+   "place": "Ravenna",
+   "publisher": "Libreria antiquaria Tonini",
+   "notes": "facsimile of the manuscript in the Biblioteca Classense, printed 1996",
+   "language": "ita"
+  }
+ ]
+}

@@ -1,0 +1,881 @@
+{
+ "citing_aec_id": 1499,
+ "source_file": "data/journal/37/1499.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Anichini F., Gattiglia G., Gualandi M. 2022, Classificare in modo automatico i frammenti ceramici: ArchAIDE, un’utopia realizzata, «Agoghè», 275-294 (https://doi.org/10.12871/978883339612518).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    },
+    {
+     "family": "Gualandi",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "Classificare in modo automatico i frammenti ceramici: ArchAIDE, un’utopia realizzata",
+   "is_part_of": [
+    "Agoghè"
+   ],
+   "pages": "275-294",
+   "language": "ita",
+   "doi": "10.12871/978883339612518"
+  },
+  {
+   "position": 2,
+   "raw": "Anichini F., Gualandi M.L. 2019, Una ”rete neurale” per il riconoscimento automatico della ceramica. Il Progetto ArchAIDE, in Atti del LI Convegno internazionale della ceramica (Savona 2018), Firenze, All’Insegna del Giglio, 73-81.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Gualandi",
+     "given": "M.L."
+    }
+   ],
+   "date": "2019",
+   "title": "Una “rete neurale” per il riconoscimento automatico della ceramica. Il Progetto ArchAIDE",
+   "is_part_of": [
+    "Atti del LI Convegno internazionale della ceramica (Savona 2018)"
+   ],
+   "pages": "73-81",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Assael Y., Sommerschield T., Shillingford B., Bordbar M., Pavlopoulos J., Chatzipanagiotou M., Androutsopoulos I., Prag J., Freitas N. 2022, Restoring and attributing ancient texts using deep neural networks, «Nature», 603, 280-283 (https://doi.org/10.1038/s41586-022-04448-z).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Assael",
+     "given": "Y."
+    },
+    {
+     "family": "Sommerschield",
+     "given": "T."
+    },
+    {
+     "family": "Shillingford",
+     "given": "B."
+    },
+    {
+     "family": "Bordbar",
+     "given": "M."
+    },
+    {
+     "family": "Pavlopoulos",
+     "given": "J."
+    },
+    {
+     "family": "Chatzipanagiotou",
+     "given": "M."
+    },
+    {
+     "family": "Androutsopoulos",
+     "given": "I."
+    },
+    {
+     "family": "Prag",
+     "given": "J."
+    },
+    {
+     "family": "Freitas",
+     "given": "N."
+    }
+   ],
+   "date": "2022",
+   "title": "Restoring and attributing ancient texts using deep neural networks",
+   "is_part_of": [
+    "Nature"
+   ],
+   "volume": "603",
+   "pages": "280-283",
+   "language": "eng",
+   "doi": "10.1038/s41586-022-04448-z"
+  },
+  {
+   "position": 4,
+   "raw": "AUTOMATA 2024, AUTOMATA: Automated enriched digitisation of archaeological lithics and ceramics (https://cordis.europa.eu/project/id/101158046).",
+   "type": "other",
+   "date": "2024",
+   "title": "AUTOMATA: Automated enriched digitisation of archaeological lithics and ceramics",
+   "language": "eng",
+   "uri": "https://cordis.europa.eu/project/id/101158046",
+   "notes": "cited as AUTOMATA 2024 (project web page)"
+  },
+  {
+   "position": 5,
+   "raw": "Barazzetti L., Remondino F., Scaioni M., Brumana R. 2012, Fully automatic UAV image-based sensor orientation, in International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, XXXVIII5/W16, 277-284 (https://doi.org/10.5194/isprsarchives-XXXVIII-5-W16-277-2011).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barazzetti",
+     "given": "L."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Scaioni",
+     "given": "M."
+    },
+    {
+     "family": "Brumana",
+     "given": "R."
+    }
+   ],
+   "date": "2012",
+   "title": "Fully automatic UAV image-based sensor orientation",
+   "is_part_of": [
+    "International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XXXVIII-5/W16",
+   "pages": "277-284",
+   "language": "eng",
+   "doi": "10.5194/isprsarchives-XXXVIII-5-W16-277-2011",
+   "notes": "DOI of 2011; volume cited as XXXVIII5/W16 (missing hyphen)"
+  },
+  {
+   "position": 6,
+   "raw": "Bingham B., Foley B., Singh H., Camilli R., Delaporta K., Eustice R., Mallios A., Mindell D., Roman C., Sakellariou D. 2010, Robotic tools for deep water archaeology: Surveying an ancient shipwreck with an autonomous underwater vehicle, «Journal of Field Robotics», 27, 702-717 (https://doi.org/10.1002/rob.20350).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bingham",
+     "given": "B."
+    },
+    {
+     "family": "Foley",
+     "given": "B."
+    },
+    {
+     "family": "Singh",
+     "given": "H."
+    },
+    {
+     "family": "Camilli",
+     "given": "R."
+    },
+    {
+     "family": "Delaporta",
+     "given": "K."
+    },
+    {
+     "family": "Eustice",
+     "given": "R."
+    },
+    {
+     "family": "Mallios",
+     "given": "A."
+    },
+    {
+     "family": "Mindell",
+     "given": "D."
+    },
+    {
+     "family": "Roman",
+     "given": "C."
+    },
+    {
+     "family": "Sakellariou",
+     "given": "D."
+    }
+   ],
+   "date": "2010",
+   "title": "Robotic tools for deep water archaeology: Surveying an ancient shipwreck with an autonomous underwater vehicle",
+   "is_part_of": [
+    "Journal of Field Robotics"
+   ],
+   "volume": "27",
+   "pages": "702-717",
+   "language": "eng",
+   "doi": "10.1002/rob.20350"
+  },
+  {
+   "position": 7,
+   "raw": "Bogdani J. 2019, Archeologia e tecnologie di rete: metodi, strumenti e risorse digitali, Roma, BraDypUS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    }
+   ],
+   "date": "2019",
+   "title": "Archeologia e tecnologie di rete: metodi, strumenti e risorse digitali",
+   "publisher": "BraDypUS",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "Campana S. 2017, Drones in archaeology. State-of-the-art and future perspectives, «Archaeological Prospection», 24, 4, 275-296 (https://doi.org/10.1002/arp.1569).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Drones in archaeology. State-of-the-art and future perspectives",
+   "is_part_of": [
+    "Archaeological Prospection"
+   ],
+   "volume": "24",
+   "issue": "4",
+   "pages": "275-296",
+   "language": "eng",
+   "doi": "10.1002/arp.1569"
+  },
+  {
+   "position": 9,
+   "raw": "Cassanelli C., Corretti A., Taccola E. 2016, Rilevamento aerofotogrammetrico da UAV e restituzione 3D dell’edificio fortificato medievale di Entella, «Annali della Scuola Normale Superiore di Pisa. Classe di Lettere e Filosofia», 8, 2, 104-168.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cassanelli",
+     "given": "C."
+    },
+    {
+     "family": "Corretti",
+     "given": "A."
+    },
+    {
+     "family": "Taccola",
+     "given": "E."
+    }
+   ],
+   "date": "2016",
+   "title": "Rilevamento aerofotogrammetrico da UAV e restituzione 3D dell’edificio fortificato medievale di Entella",
+   "is_part_of": [
+    "Annali della Scuola Normale Superiore di Pisa. Classe di Lettere e Filosofia"
+   ],
+   "volume": "8",
+   "issue": "2",
+   "pages": "104-168",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Coleman D., Șucan I.A., Chitta S., Correll N. 2014, Reducing the barrier to entry of complex robotic software: A MoveIt! case study, «Journal of Software Engineering for Robotics», 5, 1, 3-16 (https://doi.org/10.6092/JOSER_2014_05_01_p3).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Coleman",
+     "given": "D."
+    },
+    {
+     "family": "Șucan",
+     "given": "I.A."
+    },
+    {
+     "family": "Chitta",
+     "given": "S."
+    },
+    {
+     "family": "Correll",
+     "given": "N."
+    }
+   ],
+   "date": "2014",
+   "title": "Reducing the barrier to entry of complex robotic software: A MoveIt! case study",
+   "is_part_of": [
+    "Journal of Software Engineering for Robotics"
+   ],
+   "volume": "5",
+   "issue": "1",
+   "pages": "3-16",
+   "language": "eng",
+   "doi": "10.6092/JOSER_2014_05_01_p3"
+  },
+  {
+   "position": 11,
+   "raw": "Conte G., Zanoli S.M., Scaradozzi D., Gambella L. 2010, Robotics tools for underwater archaeology, in Science for Cultural Heritage. Technological Innovation and Case Studies in Marine and Land Archaeology in the Adriatic Region and Inland. Proceedings of the VII International Conference on Science, Arts and Culture (Veli Lošinj 2007), Singapore, World Scientific Publishing, 187-194 (https://doi.org/10.1142/9789814307079_0016).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Conte",
+     "given": "G."
+    },
+    {
+     "family": "Zanoli",
+     "given": "S.M."
+    },
+    {
+     "family": "Scaradozzi",
+     "given": "D."
+    },
+    {
+     "family": "Gambella",
+     "given": "L."
+    }
+   ],
+   "date": "2010",
+   "title": "Robotics tools for underwater archaeology",
+   "is_part_of": [
+    "Science for Cultural Heritage. Technological Innovation and Case Studies in Marine and Land Archaeology in the Adriatic Region and Inland. Proceedings of the VII International Conference on Science, Arts and Culture (Veli Lošinj 2007)"
+   ],
+   "pages": "187-194",
+   "publisher": "World Scientific Publishing",
+   "place": "Singapore",
+   "language": "eng",
+   "doi": "10.1142/9789814307079_0016"
+  },
+  {
+   "position": 12,
+   "raw": "Eisenbeiss H. et al. 2008, The autonomous mini helicopter: a powerful platform for mobile mapping, in International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XXXVII, Part B1, ISPRS Congress, Beijing, China, Gotha, Copernicus GmbH, 977-983.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Eisenbeiss",
+     "given": "H."
+    }
+   ],
+   "date": "2008",
+   "title": "The autonomous mini helicopter: a powerful platform for mobile mapping",
+   "is_part_of": [
+    "International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XXXVII",
+   "issue": "Part B1",
+   "pages": "977-983",
+   "publisher": "Copernicus GmbH",
+   "place": "Gotha",
+   "language": "eng",
+   "notes": "cited \"et al.\"; ISPRS Congress, Beijing, China"
+  },
+  {
+   "position": 13,
+   "raw": "Fernandez-Hernandez J., González-Aguilera D., Rodríguez-Gonzálvez P., Mancera-Taboada J. 2014, Image-based modelling from Unmanned Aerial Vehicle (UAV) photogrammetry: An effective, low-cost tool for archaeological applications, «Archaeometry», 57, 128-145 (https://doi.org/10.1111/arcm.12078).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fernandez-Hernandez",
+     "given": "J."
+    },
+    {
+     "family": "González-Aguilera",
+     "given": "D."
+    },
+    {
+     "family": "Rodríguez-Gonzálvez",
+     "given": "P."
+    },
+    {
+     "family": "Mancera-Taboada",
+     "given": "J."
+    }
+   ],
+   "date": "2014",
+   "title": "Image-based modelling from Unmanned Aerial Vehicle (UAV) photogrammetry: An effective, low-cost tool for archaeological applications",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "57",
+   "pages": "128-145",
+   "language": "eng",
+   "doi": "10.1111/arcm.12078"
+  },
+  {
+   "position": 14,
+   "raw": "Fiorucci M., Khoroshiltseva M., Pontil M., Traviglia A., Del Bue A., James S. 2020, Machine Learning for Cultural Heritage: A survey, «Pattern Recognition Letters», 133 (https://doi.org/10.1016/j.patrec.2020.02.017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiorucci",
+     "given": "M."
+    },
+    {
+     "family": "Khoroshiltseva",
+     "given": "M."
+    },
+    {
+     "family": "Pontil",
+     "given": "M."
+    },
+    {
+     "family": "Traviglia",
+     "given": "A."
+    },
+    {
+     "family": "Del Bue",
+     "given": "A."
+    },
+    {
+     "family": "James",
+     "given": "S."
+    }
+   ],
+   "date": "2020",
+   "title": "Machine Learning for Cultural Heritage: A survey",
+   "is_part_of": [
+    "Pattern Recognition Letters"
+   ],
+   "volume": "133",
+   "language": "eng",
+   "doi": "10.1016/j.patrec.2020.02.017"
+  },
+  {
+   "position": 15,
+   "raw": "Gattiglia G. 2018, Classificare le ceramiche: dai metodi tradizionali all’intelligenza artificiale. L’esperienza del progetto ArchAIDE, in D. Malfitana (ed.), Archeologia, Quo vadis? Riflessioni metodologiche sul futuro di una disciplina. Atti del Workshop internazionale (Catania 2018), Monografie dell’istituto per i Beni Archeologici e Monumentali IBAM, Catania, CNR, 285-298.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Malfitana",
+     "given": "D."
+    }
+   ],
+   "date": "2018",
+   "title": "Classificare le ceramiche: dai metodi tradizionali all’intelligenza artificiale. L’esperienza del progetto ArchAIDE",
+   "is_part_of": [
+    "Archeologia, Quo vadis? Riflessioni metodologiche sul futuro di una disciplina. Atti del Workshop internazionale (Catania 2018)"
+   ],
+   "pages": "285-298",
+   "publisher": "CNR",
+   "place": "Catania",
+   "language": "ita",
+   "series": "Monografie dell’istituto per i Beni Archeologici e Monumentali IBAM"
+  },
+  {
+   "position": 16,
+   "raw": "Gualandi M., Gattiglia G., Anichini F. 2021, An open system for collection and automatic recognition of pottery through neural network algorithms, «Heritage», 4, 140-159 (https://doi.org/10.3390/heritage4010008).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gualandi",
+     "given": "M."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    },
+    {
+     "family": "Anichini",
+     "given": "F."
+    }
+   ],
+   "date": "2021",
+   "title": "An open system for collection and automatic recognition of pottery through neural network algorithms",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "4",
+   "pages": "140-159",
+   "language": "eng",
+   "doi": "10.3390/heritage4010008"
+  },
+  {
+   "position": 17,
+   "raw": "Jeansoulin R., Papini O. 2007, Underwater archaeological knowledge analysis and representation in the VENUS project, in AntiCIPAting the Future of the Cultural Past. Proceedings of the XXI International CIPA Symposium (Athens 2007), Athens, CIPA. The ICOMOS/ISPRS Committee for Documentation of Cultural Heritage, 388-394.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Jeansoulin",
+     "given": "R."
+    },
+    {
+     "family": "Papini",
+     "given": "O."
+    }
+   ],
+   "date": "2007",
+   "title": "Underwater archaeological knowledge analysis and representation in the VENUS project",
+   "is_part_of": [
+    "AntiCIPAting the Future of the Cultural Past. Proceedings of the XXI International CIPA Symposium (Athens 2007)"
+   ],
+   "pages": "388-394",
+   "publisher": "CIPA. The ICOMOS/ISPRS Committee for Documentation of Cultural Heritage",
+   "place": "Athens",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Kam H.R., Lee S.-H., Park T., Kim C.-H. 2015, RViz: A toolkit for real domain data visualization, «Telecommunication Systems», 60, 2, 337-345 (https://doi.org/10.1007/s11235-015-0034-5).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kam",
+     "given": "H.R."
+    },
+    {
+     "family": "Lee",
+     "given": "S.-H."
+    },
+    {
+     "family": "Park",
+     "given": "T."
+    },
+    {
+     "family": "Kim",
+     "given": "C.-H."
+    }
+   ],
+   "date": "2015",
+   "title": "RViz: A toolkit for real domain data visualization",
+   "is_part_of": [
+    "Telecommunication Systems"
+   ],
+   "volume": "60",
+   "issue": "2",
+   "pages": "337-345",
+   "language": "eng",
+   "doi": "10.1007/s11235-015-0034-5"
+  },
+  {
+   "position": 19,
+   "raw": "Koenig N., Howard A. 2004, Design and use paradigms for Gazebo, an open-source multirobot simulator, in 2004 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Sendai 2004), Piscataway, NJ, IEEE, 2149-2154 (https://doi.org/10.1109/IROS.2004.1389727).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Koenig",
+     "given": "N."
+    },
+    {
+     "family": "Howard",
+     "given": "A."
+    }
+   ],
+   "date": "2004",
+   "title": "Design and use paradigms for Gazebo, an open-source multirobot simulator",
+   "is_part_of": [
+    "2004 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Sendai 2004)"
+   ],
+   "pages": "2149-2154",
+   "publisher": "IEEE",
+   "place": "Piscataway",
+   "language": "eng",
+   "doi": "10.1109/IROS.2004.1389727"
+  },
+  {
+   "position": 20,
+   "raw": "Kuhn V., Drews-Jr P., Gomes S., Cunha M., Botelho S. 2014, Automatic control of a ROV for inspection of underwater structures using a low-cost sensing, «Journal of the Brazilian Society of Mechanical Sciences and Engineering», 37, 1, 361-374.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kuhn",
+     "given": "V."
+    },
+    {
+     "family": "Drews-Jr",
+     "given": "P."
+    },
+    {
+     "family": "Gomes",
+     "given": "S."
+    },
+    {
+     "family": "Cunha",
+     "given": "M."
+    },
+    {
+     "family": "Botelho",
+     "given": "S."
+    }
+   ],
+   "date": "2014",
+   "title": "Automatic control of a ROV for inspection of underwater structures using a low-cost sensing",
+   "is_part_of": [
+    "Journal of the Brazilian Society of Mechanical Sciences and Engineering"
+   ],
+   "volume": "37",
+   "issue": "1",
+   "pages": "361-374",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "Olivito R., Emanuele T. 2016, Tecniche fotogrammetriche e applicazioni di Digital-, Virtual-e Cyber-Archaeology: le Digital Technologies e gli scavi del laboratorio LSA/SAET, «Annali della Scuola Normale Superiore di Pisa. Classe di Lettere e Filosofia», 8, 97-103.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Olivito",
+     "given": "R."
+    },
+    {
+     "family": "Emanuele",
+     "given": "T."
+    }
+   ],
+   "date": "2016",
+   "title": "Tecniche fotogrammetriche e applicazioni di Digital-, Virtual-e Cyber-Archaeology: le Digital Technologies e gli scavi del laboratorio LSA/SAET",
+   "is_part_of": [
+    "Annali della Scuola Normale Superiore di Pisa. Classe di Lettere e Filosofia"
+   ],
+   "volume": "8",
+   "pages": "97-103",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "Olivito R., Taccola E. 2014, 3D Modelling in the agora of Segesta: Techniques and data interpretation, «Archeologia e Calcolatori», 25, 175-188 (https://doi.org/10.19282/ac.25.2014.09).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Olivito",
+     "given": "R."
+    },
+    {
+     "family": "Taccola",
+     "given": "E."
+    }
+   ],
+   "date": "2014",
+   "title": "3D Modelling in the agora of Segesta: Techniques and data interpretation",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "25",
+   "pages": "175-188",
+   "language": "eng",
+   "doi": "10.19282/ac.25.2014.09",
+   "cited_aec_id": 721
+  },
+  {
+   "position": 23,
+   "raw": "Paszke A., Gross S., Massa F., Lerer A., Bradbury J., Chanan G., Killeen T., Lin Z., Gimelshein N., Antiga L., Desmaison A., Köpf A., Yang E., DeVito Z., Raison M., Tejani A., Chilamkurthy S., Steiner B., Fang L., Bai J., Chintala S. 2019, PyTorch: An imperative style, high-performance deep learning library, «ArXiv», abs/1912.01703 (https://api.semanticscholar.org/CorpusID:202786778).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Paszke",
+     "given": "A."
+    },
+    {
+     "family": "Gross",
+     "given": "S."
+    },
+    {
+     "family": "Massa",
+     "given": "F."
+    },
+    {
+     "family": "Lerer",
+     "given": "A."
+    },
+    {
+     "family": "Bradbury",
+     "given": "J."
+    },
+    {
+     "family": "Chanan",
+     "given": "G."
+    },
+    {
+     "family": "Killeen",
+     "given": "T."
+    },
+    {
+     "family": "Lin",
+     "given": "Z."
+    },
+    {
+     "family": "Gimelshein",
+     "given": "N."
+    },
+    {
+     "family": "Antiga",
+     "given": "L."
+    },
+    {
+     "family": "Desmaison",
+     "given": "A."
+    },
+    {
+     "family": "Köpf",
+     "given": "A."
+    },
+    {
+     "family": "Yang",
+     "given": "E."
+    },
+    {
+     "family": "DeVito",
+     "given": "Z."
+    },
+    {
+     "family": "Raison",
+     "given": "M."
+    },
+    {
+     "family": "Tejani",
+     "given": "A."
+    },
+    {
+     "family": "Chilamkurthy",
+     "given": "S."
+    },
+    {
+     "family": "Steiner",
+     "given": "B."
+    },
+    {
+     "family": "Fang",
+     "given": "L."
+    },
+    {
+     "family": "Bai",
+     "given": "J."
+    },
+    {
+     "family": "Chintala",
+     "given": "S."
+    }
+   ],
+   "date": "2019",
+   "title": "PyTorch: An imperative style, high-performance deep learning library",
+   "is_part_of": [
+    "ArXiv"
+   ],
+   "volume": "abs/1912.01703",
+   "language": "eng",
+   "uri": "https://api.semanticscholar.org/CorpusID:202786778"
+  },
+  {
+   "position": 24,
+   "raw": "RePAIR 2021, RePAIR: Reconstructing the Past. Artificial Intelligence and Robotics meet Cultural Heritage (https://www.repairproject.eu/).",
+   "type": "other",
+   "date": "2021",
+   "title": "RePAIR: Reconstructing the Past. Artificial Intelligence and Robotics meet Cultural Heritage",
+   "language": "eng",
+   "uri": "https://www.repairproject.eu/",
+   "notes": "cited as RePAIR 2021 (project web page)"
+  },
+  {
+   "position": 25,
+   "raw": "Roosevelt C., Cobb P., Moss E., Olson B., Ünlüsoy S. 2015, Excavation is destructiondigitization: Advances in archaeological practice, «Journal of Field Archaeology», 40, 325-346 (https://doi.org/10.1179/2042458215Y.0000000004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Roosevelt",
+     "given": "C."
+    },
+    {
+     "family": "Cobb",
+     "given": "P."
+    },
+    {
+     "family": "Moss",
+     "given": "E."
+    },
+    {
+     "family": "Olson",
+     "given": "B."
+    },
+    {
+     "family": "Ünlüsoy",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "Excavation is destruction digitization: Advances in archaeological practice",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "volume": "40",
+   "pages": "325-346",
+   "language": "eng",
+   "doi": "10.1179/2042458215Y.0000000004"
+  },
+  {
+   "position": 26,
+   "raw": "Wang D., Lutz B., Cobb P.J., Dames P. 2021, RASCAL: Robotic Arm for Sherds and Ceramics Automated Locomotion, in 2021 IEEE International Conference on Robotics and Automation (ICRA) (Xi’an 2021), Piscataway, NJ, IEEE, 6378-6384 (https://doi.org/10.1109/ICRA48506.2021.9561057).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wang",
+     "given": "D."
+    },
+    {
+     "family": "Lutz",
+     "given": "B."
+    },
+    {
+     "family": "Cobb",
+     "given": "P.J."
+    },
+    {
+     "family": "Dames",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "RASCAL: Robotic Arm for Sherds and Ceramics Automated Locomotion",
+   "is_part_of": [
+    "2021 IEEE International Conference on Robotics and Automation (ICRA) (Xi’an 2021)"
+   ],
+   "pages": "6378-6384",
+   "publisher": "IEEE",
+   "place": "Piscataway",
+   "language": "eng",
+   "doi": "10.1109/ICRA48506.2021.9561057"
+  },
+  {
+   "position": 27,
+   "raw": "Warren D.J., Church R.A., Eslinger K.L. et al. 2007, Deepwater archaeology with autonomous underwater vehicle technology, in Offshore Technology Conference (Houston 2007), Houston, TX, Offshore Technology Conference, 1329-1339.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Warren",
+     "given": "D.J."
+    },
+    {
+     "family": "Church",
+     "given": "R.A."
+    },
+    {
+     "family": "Eslinger",
+     "given": "K.L."
+    }
+   ],
+   "date": "2007",
+   "title": "Deepwater archaeology with autonomous underwater vehicle technology",
+   "is_part_of": [
+    "Offshore Technology Conference (Houston 2007)"
+   ],
+   "pages": "1329-1339",
+   "publisher": "Offshore Technology Conference",
+   "place": "Houston",
+   "language": "eng",
+   "notes": "cited \"et al.\""
+  },
+  {
+   "position": 28,
+   "raw": "Wright H. et al. 2019, Developing the ArchAIDE application: A digital workflow for identifying, organising and sharing archaeological pottery using automated image recognition, «Internet Archaeology», 52 (https://doi.org/10.11141/ia.52.7).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wright",
+     "given": "H."
+    }
+   ],
+   "date": "2019",
+   "title": "Developing the ArchAIDE application: A digital workflow for identifying, organising and sharing archaeological pottery using automated image recognition",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "52",
+   "language": "eng",
+   "doi": "10.11141/ia.52.7",
+   "notes": "cited \"et al.\""
+  }
+ ]
+}

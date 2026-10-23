@@ -1,0 +1,1760 @@
+{
+ "citing_aec_id": 1054,
+ "source_file": "data/journal/30/1054.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Alba E. 2003, *Il territorio di Porto Torres prima dei Romani*, in P. Melis (ed.), *Studi in onore di Ercole Contu*, Sassari, Editrice Democratica Sarda, 147-171.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Alba",
+     "given": "E."
+    }
+   ],
+   "date": "2003",
+   "title": "Il territorio di Porto Torres prima dei Romani",
+   "is_part_of": [
+    "Studi in onore di Ercole Contu"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Melis",
+     "given": "P."
+    }
+   ],
+   "pages": "147-171",
+   "publisher": "Editrice Democratica Sarda",
+   "place": "Sassari"
+  },
+  {
+   "position": 2,
+   "raw": "Alba E. 2009, *Métodos de análisis territorial aplicados a la ocupación de la zona de Alghero (Cerdena, Italia) durante la Edad del Bronce*, Tesi di Dottorato, Granada, Universidad de Granada.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Alba",
+     "given": "E."
+    }
+   ],
+   "date": "2009",
+   "title": "Métodos de análisis territorial aplicados a la ocupación de la zona de Alghero (Cerdena, Italia) durante la Edad del Bronce",
+   "publisher": "Universidad de Granada",
+   "place": "Granada",
+   "language": "spa",
+   "notes": "Tesi di Dottorato"
+  },
+  {
+   "position": 3,
+   "raw": "Angius V. 2014, *Analisi spaziale e modelli matematici applicati al territorio del nuraghe Santu Antine (LOSA e CSA)*, in L. Foddai (ed.), *Il nuraghe Santu Antine e le dinamiche insediative della piana del Riu Mannu*, Sassari, Carlo Delfino Editore, 263-280.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Angius",
+     "given": "V."
+    }
+   ],
+   "date": "2014",
+   "title": "Analisi spaziale e modelli matematici applicati al territorio del nuraghe Santu Antine (LOSA e CSA)",
+   "is_part_of": [
+    "Il nuraghe Santu Antine e le dinamiche insediative della piana del Riu Mannu"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Foddai",
+     "given": "L."
+    }
+   ],
+   "pages": "263-280",
+   "publisher": "Carlo Delfino Editore",
+   "place": "Sassari"
+  },
+  {
+   "position": 4,
+   "raw": "Angius V., Antona A., Cadeddu F., Puggioni S. 2012, *Territorio e popolamento nella Gallura nuragica. Un'ipotesi metodologica*, in Luglié 2012, 1215-1221.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Angius",
+     "given": "V."
+    },
+    {
+     "family": "Antona",
+     "given": "A."
+    },
+    {
+     "family": "Cadeddu",
+     "given": "F."
+    },
+    {
+     "family": "Puggioni",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Territorio e popolamento nella Gallura nuragica. Un'ipotesi metodologica",
+   "is_part_of": [
+    "La Preistoria e la Protostoria della Sardegna. Atti della XLIV Riunione Scientifica dell'Istituto Italiano di Preistoria e Protostoria (Cagliari, Barumini, Sassari 2009)"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Lugliè",
+     "given": "C."
+    }
+   ],
+   "pages": "1215-1221",
+   "publisher": "Istituto Italiano di Preistoria e Protostoria",
+   "place": "Firenze",
+   "xref": 33,
+   "volume": "III"
+  },
+  {
+   "position": 5,
+   "raw": "Angius V., Antona A., Puggioni S., Spanedda L. 2010, *Demografia e popolamento della Sardegna dell'età del Bronzo: un confronto tra la regione della Gallura e l'area di Dorgali attraverso analisi GIS*, «Arqueología Espacial», 28, 189-207.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Angius",
+     "given": "V."
+    },
+    {
+     "family": "Antona",
+     "given": "A."
+    },
+    {
+     "family": "Puggioni",
+     "given": "S."
+    },
+    {
+     "family": "Spanedda",
+     "given": "L."
+    }
+   ],
+   "date": "2010",
+   "title": "Demografia e popolamento della Sardegna dell'età del Bronzo: un confronto tra la regione della Gallura e l'area di Dorgali attraverso analisi GIS",
+   "is_part_of": [
+    "Arqueología Espacial"
+   ],
+   "language": "ita",
+   "volume": "28",
+   "pages": "189-207"
+  },
+  {
+   "position": 6,
+   "raw": "Anselin L. 1996, *The Moran Scatterplot as an ESDA tool to assess local instability in spatial association*, in M. Fischer, H. Scholten, D. Unwin (eds.), *Spatial Analytical Perspectives on GIS*, London, Taylor&Francis, 111-125.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Anselin",
+     "given": "L."
+    }
+   ],
+   "date": "1996",
+   "title": "The Moran Scatterplot as an ESDA tool to assess local instability in spatial association",
+   "is_part_of": [
+    "Spatial Analytical Perspectives on GIS"
+   ],
+   "language": "eng",
+   "editors": [
+    {
+     "family": "Fischer",
+     "given": "M."
+    },
+    {
+     "family": "Scholten",
+     "given": "H."
+    },
+    {
+     "family": "Unwin",
+     "given": "D."
+    }
+   ],
+   "pages": "111-125",
+   "publisher": "Taylor & Francis",
+   "place": "London"
+  },
+  {
+   "position": 7,
+   "raw": "Arangino F., Baldaccini P., Vacca S. 1986, *I suoli delle aree irrigabili della Sardegna*, Cagliari, Regione Autonoma della Sardegna.",
+   "type": "book",
+   "date": "1986",
+   "title": "I suoli delle aree irrigabili della Sardegna",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Arangino",
+     "given": "F."
+    },
+    {
+     "family": "Baldaccini",
+     "given": "P."
+    },
+    {
+     "family": "Vacca",
+     "given": "S."
+    }
+   ],
+   "publisher": "Regione Autonoma della Sardegna",
+   "place": "Cagliari"
+  },
+  {
+   "position": 8,
+   "raw": "Atzeni S., Dettori B., Usai S. 2004, *L'econometria per le indagini territoriali: appunti metodologici e un'applicazione alla Sardegna*, Cagliari, CRENoS-CUEC, 2-70.",
+   "type": "book",
+   "date": "2004",
+   "title": "L'econometria per le indagini territoriali: appunti metodologici e un'applicazione alla Sardegna",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Atzeni",
+     "given": "S."
+    },
+    {
+     "family": "Dettori",
+     "given": "B."
+    },
+    {
+     "family": "Usai",
+     "given": "S."
+    }
+   ],
+   "publisher": "CRENoS-CUEC",
+   "place": "Cagliari",
+   "notes": "cited with pages 2-70"
+  },
+  {
+   "position": 9,
+   "raw": "Cabras M. 2015, *I nuraghi del territorio: analisi spaziale in ambiente GIS*, in R. Cicilloni (ed.), *Ricerche archeologiche a Cuccurada-Mogoro (Sardegna centro-occidentale)*, I, Perugia, Morlacchi Editore, 77-94.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cabras",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "I nuraghi del territorio: analisi spaziale in ambiente GIS",
+   "is_part_of": [
+    "Ricerche archeologiche a Cuccurada-Mogoro (Sardegna centro-occidentale)"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Cicilloni",
+     "given": "R."
+    }
+   ],
+   "pages": "77-94",
+   "publisher": "Morlacchi Editore",
+   "place": "Perugia",
+   "volume": "I"
+  },
+  {
+   "position": 10,
+   "raw": "Cabras M. 2018, *Patrones de asentamiento de la Edad del Bronce en el Monte Arci y alta Marmilla, Cerdeña centro occidental*, Tesi di Dottorato, Granada, Universidad de Granada.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Cabras",
+     "given": "M."
+    }
+   ],
+   "date": "2018",
+   "title": "Patrones de asentamiento de la Edad del Bronce en el Monte Arci y alta Marmilla, Cerdeña centro occidental",
+   "publisher": "Universidad de Granada",
+   "place": "Granada",
+   "language": "spa",
+   "notes": "Tesi di Dottorato"
+  },
+  {
+   "position": 11,
+   "raw": "Cámara Serrano J.A., Contreras Cortes F., Lizcano Prestel R., Pérez Bareas C., Spanedda L. 2007, *Patrón de asentamiento y control de los recursos en el valle del Rumblar durante la Prehistoria Reciente*, in J. Morin, D. Urbina, N.F. Bicho (eds.), *Actas de IV Congresso de Arqueologia Peninsular (Faro 2004)*, Braga, Candeias Artes Graficas, 273-287.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cámara Serrano",
+     "given": "J.A."
+    },
+    {
+     "family": "Contreras Cortes",
+     "given": "F."
+    },
+    {
+     "family": "Lizcano Prestel",
+     "given": "R."
+    },
+    {
+     "family": "Pérez Bareas",
+     "given": "C."
+    },
+    {
+     "family": "Spanedda",
+     "given": "L."
+    }
+   ],
+   "date": "2007",
+   "title": "Patrón de asentamiento y control de los recursos en el valle del Rumblar durante la Prehistoria Reciente",
+   "is_part_of": [
+    "Actas de IV Congresso de Arqueologia Peninsular (Faro 2004)"
+   ],
+   "language": "spa",
+   "editors": [
+    {
+     "family": "Morin",
+     "given": "J."
+    },
+    {
+     "family": "Urbina",
+     "given": "D."
+    },
+    {
+     "family": "Bicho",
+     "given": "N.F."
+    }
+   ],
+   "pages": "273-287",
+   "publisher": "Candeias Artes Graficas",
+   "place": "Braga",
+   "notes": "author 'Pérez Bareas' as cited (Pérez Barea elsewhere)"
+  },
+  {
+   "position": 12,
+   "raw": "Campus F., Cossu T., Leonelli V., Lo Schiavo F., Perra M., Sanges M. (eds.) 2008, *Il paesaggio nuragico sull'altopiano di Pran'u Muru, Orroli*, Comune di Orroli.",
+   "type": "book",
+   "date": "2008",
+   "title": "Il paesaggio nuragico sull'altopiano di Pran'u Muru, Orroli",
+   "language": "ita",
+   "publisher": "Comune di Orroli",
+   "editors": [
+    {
+     "family": "Campus",
+     "given": "F."
+    },
+    {
+     "family": "Cossu",
+     "given": "T."
+    },
+    {
+     "family": "Leonelli",
+     "given": "V."
+    },
+    {
+     "family": "Lo Schiavo",
+     "given": "F."
+    },
+    {
+     "family": "Perra",
+     "given": "M."
+    },
+    {
+     "family": "Sanges",
+     "given": "M."
+    }
+   ]
+  },
+  {
+   "position": 13,
+   "raw": "Campus F., Leonelli V. 2008, *Dallo studio territoriale alle interpretazioni economico-sociali*, in Campus et al. 2008, 114-117.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Campus",
+     "given": "F."
+    },
+    {
+     "family": "Leonelli",
+     "given": "V."
+    }
+   ],
+   "date": "2008",
+   "title": "Dallo studio territoriale alle interpretazioni economico-sociali",
+   "is_part_of": [
+    "Il paesaggio nuragico sull'altopiano di Pran'u Muru, Orroli"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Campus",
+     "given": "F."
+    },
+    {
+     "family": "Cossu",
+     "given": "T."
+    },
+    {
+     "family": "Leonelli",
+     "given": "V."
+    },
+    {
+     "family": "Lo Schiavo",
+     "given": "F."
+    },
+    {
+     "family": "Perra",
+     "given": "M."
+    },
+    {
+     "family": "Sanges",
+     "given": "M."
+    }
+   ],
+   "pages": "114-117",
+   "publisher": "Comune di Orroli",
+   "xref": 12
+  },
+  {
+   "position": 14,
+   "raw": "Carneiro R.L. 1970, *A theory of origin of the State*, «Science», 169, 733-738.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carneiro",
+     "given": "R.L."
+    }
+   ],
+   "date": "1970",
+   "title": "A theory of origin of the State",
+   "is_part_of": [
+    "Science"
+   ],
+   "language": "eng",
+   "volume": "169",
+   "pages": "733-738"
+  },
+  {
+   "position": 15,
+   "raw": "Carneiro R.L. 1981, *The Chiefdom: Precursor of the State*, in G.D. Jones, R.R. Kautz (eds.), *The Transition to Statehood in the New World*, New York, Cambridge University Press, 37-79.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Carneiro",
+     "given": "R.L."
+    }
+   ],
+   "date": "1981",
+   "title": "The Chiefdom: Precursor of the State",
+   "is_part_of": [
+    "The Transition to Statehood in the New World"
+   ],
+   "language": "eng",
+   "editors": [
+    {
+     "family": "Jones",
+     "given": "G.D."
+    },
+    {
+     "family": "Kautz",
+     "given": "R.R."
+    }
+   ],
+   "pages": "37-79",
+   "publisher": "Cambridge University Press",
+   "place": "New York"
+  },
+  {
+   "position": 16,
+   "raw": "Carneiro R.L. 1987, *Further reflections on resources concentration and its role in the rise of the State*, in L. Manzanilla (ed.), *Studies in the Neolithic and Urban Revolutions, the V.G. Childe Colloquium*, BAR International Series 349, Oxford, Archaeopress, 245-260.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Carneiro",
+     "given": "R.L."
+    }
+   ],
+   "date": "1987",
+   "title": "Further reflections on resources concentration and its role in the rise of the State",
+   "is_part_of": [
+    "Studies in the Neolithic and Urban Revolutions, the V.G. Childe Colloquium"
+   ],
+   "language": "eng",
+   "editors": [
+    {
+     "family": "Manzanilla",
+     "given": "L."
+    }
+   ],
+   "pages": "245-260",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "series": "BAR International Series",
+   "series_number": "349"
+  },
+  {
+   "position": 17,
+   "raw": "Carneiro R.L. 1988, *The circumscription theory. Challenge and response*, «American Behavioral Scientist», 31, 4, 497-511.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carneiro",
+     "given": "R.L."
+    }
+   ],
+   "date": "1988",
+   "title": "The circumscription theory. Challenge and response",
+   "is_part_of": [
+    "American Behavioral Scientist"
+   ],
+   "language": "eng",
+   "volume": "31",
+   "issue": "4",
+   "pages": "497-511"
+  },
+  {
+   "position": 18,
+   "raw": "Cicilloni R. 2009, *L'archeologia del paesaggio pre-protostorico in Sardegna*, in C. Lugliè, R. Cicilloni (eds.), *La Preistoria e la Protostoria della Sardegna. Atti della XLIV Riunione Scientifica dell'Istituto Italiano di Preistoria e Protostoria (Cagliari, Barumini 2009)*, I, Relazioni generali, Firenze, Istituto Italiano di Preistoria e Protostoria, 293-303.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cicilloni",
+     "given": "R."
+    }
+   ],
+   "date": "2009",
+   "title": "L'archeologia del paesaggio pre-protostorico in Sardegna",
+   "is_part_of": [
+    "La Preistoria e la Protostoria della Sardegna. Atti della XLIV Riunione Scientifica dell'Istituto Italiano di Preistoria e Protostoria (Cagliari, Barumini 2009)"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Lugliè",
+     "given": "C."
+    },
+    {
+     "family": "Cicilloni",
+     "given": "R."
+    }
+   ],
+   "pages": "293-303",
+   "publisher": "Istituto Italiano di Preistoria e Protostoria",
+   "place": "Firenze",
+   "volume": "I, Relazioni generali"
+  },
+  {
+   "position": 19,
+   "raw": "Cicilloni R., Cabras M. 2014, *Aspetti insediativi nel versante orientale del Monte Arci (Oristano-Sardegna) tra il Bronzo medio e la prima età del Ferro*, «Quaderni della Soprintendenza per i Beni Culturali per le province di Cagliari e Oristano», 25, 81-107.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cicilloni",
+     "given": "R."
+    },
+    {
+     "family": "Cabras",
+     "given": "M."
+    }
+   ],
+   "date": "2014",
+   "title": "Aspetti insediativi nel versante orientale del Monte Arci (Oristano-Sardegna) tra il Bronzo medio e la prima età del Ferro",
+   "is_part_of": [
+    "Quaderni della Soprintendenza per i Beni Culturali per le province di Cagliari e Oristano"
+   ],
+   "language": "ita",
+   "volume": "25",
+   "pages": "81-107"
+  },
+  {
+   "position": 20,
+   "raw": "Cicilloni R., Porcedda F., Cabras M. 2015, *I monumenti protostorici nel territorio di Serri. I primi dati*, in N. Canu, R. Cicilloni (eds.), *Il santuario di S. Vittoria di Serri*, Roma, Edizioni Quasar, 219-228.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cicilloni",
+     "given": "R."
+    },
+    {
+     "family": "Porcedda",
+     "given": "F."
+    },
+    {
+     "family": "Cabras",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "I monumenti protostorici nel territorio di Serri. I primi dati",
+   "is_part_of": [
+    "Il santuario di S. Vittoria di Serri"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Canu",
+     "given": "N."
+    },
+    {
+     "family": "Cicilloni",
+     "given": "R."
+    }
+   ],
+   "pages": "219-228",
+   "publisher": "Edizioni Quasar",
+   "place": "Roma"
+  },
+  {
+   "position": 21,
+   "raw": "Cicilloni R., Cabras M., Mossa A. 2015, *Studio dell'insediamento protostorico in un'area della Sardegna centro-occidentale tramite strumenti GIS ed analisi multivariate*, «Archeologia e Calcolatori», 26, 149-168.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cicilloni",
+     "given": "R."
+    },
+    {
+     "family": "Cabras",
+     "given": "M."
+    },
+    {
+     "family": "Mossa",
+     "given": "A."
+    }
+   ],
+   "date": "2015",
+   "title": "Studio dell'insediamento protostorico in un'area della Sardegna centro-occidentale tramite strumenti GIS ed analisi multivariate",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "26",
+   "pages": "149-168",
+   "language": "ita",
+   "cited_aec_id": 788,
+   "notes": "authors in order Cicilloni, Cabras, Mossa as cited"
+  },
+  {
+   "position": 22,
+   "raw": "Cicilloni R., Porcedda F., Paglietti G., Spanedda L., Cámara Serrano J.A. 2017, *Il santuario di Santa Vittoria di Serri all'interno del sistema insediativo del Bronzo Finale/I Ferro: un approccio al concetto di visibilità*, in G. Paglietti, F. Porcedda, L. Doro (eds.), *Notizie e scavi della Sardegna Nuragica*, 1° Convegno regionale (Serri 2017), Abstract Book Poster, «Layers. Archeologia Territorio Contesti», Suppl. 2, 133-135.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cicilloni",
+     "given": "R."
+    },
+    {
+     "family": "Porcedda",
+     "given": "F."
+    },
+    {
+     "family": "Paglietti",
+     "given": "G."
+    },
+    {
+     "family": "Spanedda",
+     "given": "L."
+    },
+    {
+     "family": "Cámara Serrano",
+     "given": "J.A."
+    }
+   ],
+   "date": "2017",
+   "title": "Il santuario di Santa Vittoria di Serri all'interno del sistema insediativo del Bronzo Finale/I Ferro: un approccio al concetto di visibilità",
+   "is_part_of": [
+    "Notizie e scavi della Sardegna Nuragica, 1° Convegno regionale (Serri 2017), Abstract Book Poster",
+    "Layers. Archeologia Territorio Contesti"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Paglietti",
+     "given": "G."
+    },
+    {
+     "family": "Porcedda",
+     "given": "F."
+    },
+    {
+     "family": "Doro",
+     "given": "L."
+    }
+   ],
+   "pages": "133-135",
+   "volume": "Suppl. 2"
+  },
+  {
+   "position": 23,
+   "raw": "Cicilloni R., Porcedda F., Cabras M., Spanedda L., Cámara Serrano J.A. 2018, *Primeros resultados del análisis de la presencia humana durante la Edad del Bronce en el Sarcidano (Sudeste de Cerdeña, Italia)*, «Bollettino di Archeologia online», 8, 1-2, 1-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cicilloni",
+     "given": "R."
+    },
+    {
+     "family": "Porcedda",
+     "given": "F."
+    },
+    {
+     "family": "Cabras",
+     "given": "M."
+    },
+    {
+     "family": "Spanedda",
+     "given": "L."
+    },
+    {
+     "family": "Cámara Serrano",
+     "given": "J.A."
+    }
+   ],
+   "date": "2018",
+   "title": "Primeros resultados del análisis de la presencia humana durante la Edad del Bronce en el Sarcidano (Sudeste de Cerdeña, Italia)",
+   "is_part_of": [
+    "Bollettino di Archeologia online"
+   ],
+   "language": "spa",
+   "volume": "8",
+   "issue": "1-2",
+   "pages": "1-30"
+  },
+  {
+   "position": 24,
+   "raw": "Della Marmora A. 1860, *Itinéraire de l'ile de Sardaigne pour faire suite en cette contrée*, Torino, Libraires Bocca.",
+   "type": "book",
+   "date": "1860",
+   "title": "Itinéraire de l'ile de Sardaigne pour faire suite en cette contrée",
+   "language": "fre",
+   "creators": [
+    {
+     "family": "Della Marmora",
+     "given": "A."
+    }
+   ],
+   "publisher": "Libraires Bocca",
+   "place": "Torino"
+  },
+  {
+   "position": 25,
+   "raw": "De Montis A., Caschili S. 2012, *Nuraghes and landscape planning: Coupling complex network analysis*, «Landscape and Urban Planning», 105, 315-324.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Montis",
+     "given": "A."
+    },
+    {
+     "family": "Caschili",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Nuraghes and landscape planning: Coupling complex network analysis",
+   "is_part_of": [
+    "Landscape and Urban Planning"
+   ],
+   "language": "eng",
+   "volume": "105",
+   "pages": "315-324"
+  },
+  {
+   "position": 26,
+   "raw": "Depalmas A. 2015, *I Nuraghi. Le torri dell'isola*, in M. Minoja, G. Salis, L. Usai (eds.), *L'isola delle torri. Giovanni Lilliu e la civiltà nuragica*, Sassari, Carlo Delfino Editore, 76-83.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Depalmas",
+     "given": "A."
+    }
+   ],
+   "date": "2015",
+   "title": "I Nuraghi. Le torri dell'isola",
+   "is_part_of": [
+    "L'isola delle torri. Giovanni Lilliu e la civiltà nuragica"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Minoja",
+     "given": "M."
+    },
+    {
+     "family": "Salis",
+     "given": "G."
+    },
+    {
+     "family": "Usai",
+     "given": "L."
+    }
+   ],
+   "pages": "76-83",
+   "publisher": "Carlo Delfino Editore",
+   "place": "Sassari"
+  },
+  {
+   "position": 27,
+   "raw": "Fadda A.F. 1990, *L'evoluzione del paesaggio in Sardegna: geomorfologia e idrografia*, Cagliari, CO.EDI.SAR.",
+   "type": "book",
+   "date": "1990",
+   "title": "L'evoluzione del paesaggio in Sardegna: geomorfologia e idrografia",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Fadda",
+     "given": "A.F."
+    }
+   ],
+   "publisher": "CO.EDI.SAR.",
+   "place": "Cagliari"
+  },
+  {
+   "position": 28,
+   "raw": "Fenu P., Pizziolo G., Sanna R. 2012, *Adozioni di metodologie analitiche in ambiente GIS per la ricostruzione del paesaggio pre e protostorico in Anglona*, in Lugliè 2012, 1189-1193.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fenu",
+     "given": "P."
+    },
+    {
+     "family": "Pizziolo",
+     "given": "G."
+    },
+    {
+     "family": "Sanna",
+     "given": "R."
+    }
+   ],
+   "date": "2012",
+   "title": "Adozioni di metodologie analitiche in ambiente GIS per la ricostruzione del paesaggio pre e protostorico in Anglona",
+   "is_part_of": [
+    "La Preistoria e la Protostoria della Sardegna. Atti della XLIV Riunione Scientifica dell'Istituto Italiano di Preistoria e Protostoria (Cagliari, Barumini, Sassari 2009)"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Lugliè",
+     "given": "C."
+    }
+   ],
+   "pages": "1189-1193",
+   "publisher": "Istituto Italiano di Preistoria e Protostoria",
+   "place": "Firenze",
+   "xref": 33,
+   "volume": "III"
+  },
+  {
+   "position": 29,
+   "raw": "Goodchild M.F. 1986, *Spatial Autocorrelation*, Catmog – Concepts and Techniques in Modern Geography 47, Norwich, Geo Books.",
+   "type": "book",
+   "date": "1986",
+   "title": "Spatial Autocorrelation",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Goodchild",
+     "given": "M.F."
+    }
+   ],
+   "publisher": "Geo Books",
+   "place": "Norwich",
+   "series": "Catmog – Concepts and Techniques in Modern Geography",
+   "series_number": "47"
+  },
+  {
+   "position": 30,
+   "raw": "Lai G.M. 2010, *Il GIS in archeologia. Un'applicazione nel territorio di Usini*, in M.G. Melis (ed.), *Usini. Ricostruire il passato: una ricerca internazionale a S'Elighe Entosu*, Sassari, Carlo Delfino Editore, 47-53.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lai",
+     "given": "G.M."
+    }
+   ],
+   "date": "2010",
+   "title": "Il GIS in archeologia. Un'applicazione nel territorio di Usini",
+   "is_part_of": [
+    "Usini. Ricostruire il passato: una ricerca internazionale a S'Elighe Entosu"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Melis",
+     "given": "M.G."
+    }
+   ],
+   "pages": "47-53",
+   "publisher": "Carlo Delfino Editore",
+   "place": "Sassari"
+  },
+  {
+   "position": 31,
+   "raw": "Lilliu G. 1947, *Per la topografia di Biora (Serri-Nuoro)*, «Studi Sardi», 7, 1-77.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lilliu",
+     "given": "G."
+    }
+   ],
+   "date": "1947",
+   "title": "Per la topografia di Biora (Serri-Nuoro)",
+   "is_part_of": [
+    "Studi Sardi"
+   ],
+   "language": "ita",
+   "volume": "7",
+   "pages": "1-77"
+  },
+  {
+   "position": 32,
+   "raw": "Lizcano Prestel R., Pérez Barea C., Nocete Calvo F., Cámara Serrano J.A., Contreras Cortés F., Casado Millán P.J., Moya García S. 1996, *La organización del territorio en el Alto Gualdalquivir entre el IV y el III milenios (3300-2800 a.C.)*, in J. Bosch, M. Molist (eds.), *Formació i implantació de les comunitats agricoles neolitic a la Península Ibérica (Gavá-Bellaterra, 1995)*, «Rubricatum», 1, 1, 305-312.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lizcano Prestel",
+     "given": "R."
+    },
+    {
+     "family": "Pérez Barea",
+     "given": "C."
+    },
+    {
+     "family": "Nocete Calvo",
+     "given": "F."
+    },
+    {
+     "family": "Cámara Serrano",
+     "given": "J.A."
+    },
+    {
+     "family": "Contreras Cortés",
+     "given": "F."
+    },
+    {
+     "family": "Casado Millán",
+     "given": "P.J."
+    },
+    {
+     "family": "Moya García",
+     "given": "S."
+    }
+   ],
+   "date": "1996",
+   "title": "La organización del territorio en el Alto Gualdalquivir entre el IV y el III milenios (3300-2800 a.C.)",
+   "is_part_of": [
+    "Formació i implantació de les comunitats agricoles neolitic a la Península Ibérica (Gavá-Bellaterra, 1995)",
+    "Rubricatum"
+   ],
+   "language": "spa",
+   "editors": [
+    {
+     "family": "Bosch",
+     "given": "J."
+    },
+    {
+     "family": "Molist",
+     "given": "M."
+    }
+   ],
+   "pages": "305-312",
+   "volume": "1",
+   "issue": "1"
+  },
+  {
+   "position": 33,
+   "raw": "Lugliè C. (ed.) 2012, *La Preistoria e la Protostoria della Sardegna. Atti della XLIV Riunione Scientifica dell'Istituto Italiano di Preistoria e Protostoria (Cagliari, Barumini, Sassari 2009)*, III, Firenze, Istituto Italiano di Preistoria e Protostoria.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Lugliè",
+     "given": "C."
+    }
+   ],
+   "date": "2012",
+   "title": "La Preistoria e la Protostoria della Sardegna. Atti della XLIV Riunione Scientifica dell'Istituto Italiano di Preistoria e Protostoria (Cagliari, Barumini, Sassari 2009)",
+   "volume": "III",
+   "publisher": "Istituto Italiano di Preistoria e Protostoria",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 34,
+   "raw": "Marcialis P. 2015, *Principi di telerilevamento, GIS e 3D Laser scanner applicati alla ricognizione archeologica nell'altopiano di Tacuara-Nurri ed in alcune aree campione della Sardegna, finalizzati all'individuazione di circoli megalitici preistorici*, Tesi di laurea magistrale, Cagliari, Università di Cagliari.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Marcialis",
+     "given": "P."
+    }
+   ],
+   "date": "2015",
+   "title": "Principi di telerilevamento, GIS e 3D Laser scanner applicati alla ricognizione archeologica nell'altopiano di Tacuara-Nurri ed in alcune aree campione della Sardegna, finalizzati all'individuazione di circoli megalitici preistorici",
+   "publisher": "Università di Cagliari",
+   "place": "Cagliari",
+   "language": "ita",
+   "notes": "Tesi di laurea magistrale"
+  },
+  {
+   "position": 35,
+   "raw": "Navarra L. 1999, *Chiefdoms nella Sardegna Nuragica? Un'applicazione della Circoscription theory di Robert L. Carneiro*, «Origini. Preistoria e Protostoria delle civiltà antiche», 21, 307-353.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Navarra",
+     "given": "L."
+    }
+   ],
+   "date": "1999",
+   "title": "Chiefdoms nella Sardegna Nuragica? Un'applicazione della Circoscription theory di Robert L. Carneiro",
+   "is_part_of": [
+    "Origini. Preistoria e Protostoria delle civiltà antiche"
+   ],
+   "language": "ita",
+   "volume": "21",
+   "pages": "307-353"
+  },
+  {
+   "position": 36,
+   "raw": "Nocete Calvo F. 1989, *El espacio de la coerción. La transición al estado en las Campiñas del Alto Gualdalquivir (España). 3000-1500 a.C.*, BAR International Series 492, Oxford, Archaeopress.",
+   "type": "book",
+   "date": "1989",
+   "title": "El espacio de la coerción. La transición al estado en las Campiñas del Alto Gualdalquivir (España). 3000-1500 a.C.",
+   "language": "spa",
+   "creators": [
+    {
+     "family": "Nocete Calvo",
+     "given": "F."
+    }
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "series": "BAR International Series",
+   "series_number": "492"
+  },
+  {
+   "position": 37,
+   "raw": "Nocete Calvo F. 1994, *La formación del Estado en las Campinas del Alto Gualdaquivir*, Monográfica Arte y Arqueología 23, Granada, Universidad de Granada.",
+   "type": "book",
+   "date": "1994",
+   "title": "La formación del Estado en las Campinas del Alto Gualdaquivir",
+   "language": "spa",
+   "creators": [
+    {
+     "family": "Nocete Calvo",
+     "given": "F."
+    }
+   ],
+   "publisher": "Universidad de Granada",
+   "place": "Granada",
+   "series": "Monográfica Arte y Arqueología",
+   "series_number": "23"
+  },
+  {
+   "position": 38,
+   "raw": "Nocete Calvo F. 1996, *Un modelo de aplicación de análisis multivariante a la prospección arqueológica: la definición de la Unidad Geomorfológica donde se establece el asentamiento*, «Arqueología Espacial. Revista del Seminario de Arqueología y Etnología Turolense», 15, 7-35.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nocete Calvo",
+     "given": "F."
+    }
+   ],
+   "date": "1996",
+   "title": "Un modelo de aplicación de análisis multivariante a la prospección arqueológica: la definición de la Unidad Geomorfológica donde se establece el asentamiento",
+   "is_part_of": [
+    "Arqueología Espacial"
+   ],
+   "language": "spa",
+   "volume": "15",
+   "pages": "7-35",
+   "notes": "journal cited 'Arqueología Espacial. Revista del Seminario de Arqueología y Etnología Turolense'"
+  },
+  {
+   "position": 39,
+   "raw": "Perra M. 2001, *I monumenti preistorici e protostorici del territorio di Isili*, in Sanges 2001a, 36-38.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Perra",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "I monumenti preistorici e protostorici del territorio di Isili",
+   "is_part_of": [
+    "L'eredità del Sarcidano e della Barbagia di Seulo. Patrimonio di conoscenza e vita"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Sanges",
+     "given": "M."
+    }
+   ],
+   "pages": "36-38",
+   "publisher": "B&P",
+   "place": "Muros",
+   "xref": 48
+  },
+  {
+   "position": 40,
+   "raw": "Perra M. 2013, *La tomba preistorica di Murisddi a Isili*, in L. Usai (ed.), *Memorie dal sottosuolo. Scoperte archeologiche nella Sardegna centro-settentrionale*, Catalogo della Mostra, Quartuccciu, Scuola Editrice Sarda, 47-52.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Perra",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "La tomba preistorica di Murisddi a Isili",
+   "is_part_of": [
+    "Memorie dal sottosuolo. Scoperte archeologiche nella Sardegna centro-settentrionale, Catalogo della Mostra"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Usai",
+     "given": "L."
+    }
+   ],
+   "pages": "47-52",
+   "publisher": "Scuola Editrice Sarda",
+   "place": "Quartucciu"
+  },
+  {
+   "position": 41,
+   "raw": "Pitzalis G. 1989, *La Grotta preistorica di Baraci (Nurri-Nuoro)*, «Studi Sardi», 28, 161-201.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pitzalis",
+     "given": "G."
+    }
+   ],
+   "date": "1989",
+   "title": "La Grotta preistorica di Baraci (Nurri-Nuoro)",
+   "is_part_of": [
+    "Studi Sardi"
+   ],
+   "language": "ita",
+   "volume": "28",
+   "pages": "161-201"
+  },
+  {
+   "position": 42,
+   "raw": "Porcedda F. 2019, *Patrones de asentamiento de la prehistoria y protohistoria del territorio del Sarcidano y Marmilla Oriental (Cerdeña, Italia)*, Tesi di Dottorato, Granada, Universidad de Granada.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Porcedda",
+     "given": "F."
+    }
+   ],
+   "date": "2019",
+   "title": "Patrones de asentamiento de la prehistoria y protohistoria del territorio del Sarcidano y Marmilla Oriental (Cerdeña, Italia)",
+   "publisher": "Universidad de Granada",
+   "place": "Granada",
+   "language": "spa",
+   "notes": "Tesi di Dottorato"
+  },
+  {
+   "position": 43,
+   "raw": "Puddu M.G. 2001a, *Documenti Archeologici del territorio di Serri*, in Sanges 2001a, 91-93.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Puddu",
+     "given": "M.G."
+    }
+   ],
+   "date": "2001",
+   "title": "Documenti Archeologici del territorio di Serri",
+   "is_part_of": [
+    "L'eredità del Sarcidano e della Barbagia di Seulo. Patrimonio di conoscenza e vita"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Sanges",
+     "given": "M."
+    }
+   ],
+   "pages": "91-93",
+   "publisher": "B&P",
+   "place": "Muros",
+   "xref": 48,
+   "notes": "cited as 2001a"
+  },
+  {
+   "position": 44,
+   "raw": "Puddu M.G. 2001b, *Documenti archeologici nel territorio di Gergei*, in Sanges 2001a, 94-96.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Puddu",
+     "given": "M.G."
+    }
+   ],
+   "date": "2001",
+   "title": "Documenti archeologici nel territorio di Gergei",
+   "is_part_of": [
+    "L'eredità del Sarcidano e della Barbagia di Seulo. Patrimonio di conoscenza e vita"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Sanges",
+     "given": "M."
+    }
+   ],
+   "pages": "94-96",
+   "publisher": "B&P",
+   "place": "Muros",
+   "xref": 48,
+   "notes": "cited as 2001b"
+  },
+  {
+   "position": 45,
+   "raw": "Puddu M.G. 2001c, *Documenti archeologici del territorio di Escolca*, in Sanges 2001a, 139-141.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Puddu",
+     "given": "M.G."
+    }
+   ],
+   "date": "2001",
+   "title": "Documenti archeologici del territorio di Escolca",
+   "is_part_of": [
+    "L'eredità del Sarcidano e della Barbagia di Seulo. Patrimonio di conoscenza e vita"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Sanges",
+     "given": "M."
+    }
+   ],
+   "pages": "139-141",
+   "publisher": "B&P",
+   "place": "Muros",
+   "xref": 48,
+   "notes": "cited as 2001c"
+  },
+  {
+   "position": 46,
+   "raw": "Puggioni S. 2009, *Patrones de asentamiento de la edad del Bronce en el territorio costero e interior de la Cerdeña Nororiental*, Tesi di Dottorato, Granada, Universidad de Granada.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Puggioni",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "Patrones de asentamiento de la edad del Bronce en el territorio costero e interior de la Cerdeña Nororiental",
+   "publisher": "Universidad de Granada",
+   "place": "Granada",
+   "language": "spa",
+   "notes": "Tesi di Dottorato"
+  },
+  {
+   "position": 47,
+   "raw": "Saba A. 2005, *La giara di Pranu 'e Ollas (Isili Nu) dal Neolitico all'età del Bronzo*, in *Scritti in onore di Francesco Amadu*, Sassari, Isola Editrice, 239-250.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Saba",
+     "given": "A."
+    }
+   ],
+   "date": "2005",
+   "title": "La giara di Pranu 'e Ollas (Isili Nu) dal Neolitico all'età del Bronzo",
+   "is_part_of": [
+    "Scritti in onore di Francesco Amadu"
+   ],
+   "language": "ita",
+   "pages": "239-250",
+   "publisher": "Isola Editrice",
+   "place": "Sassari"
+  },
+  {
+   "position": 48,
+   "raw": "Sanges M. (ed.) 2001a, *L'eredità del Sarcidano e della Barbagia di Seulo. Patrimonio di conoscenza e vita*, Muros, B&P.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Sanges",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "L'eredità del Sarcidano e della Barbagia di Seulo. Patrimonio di conoscenza e vita",
+   "publisher": "B&P",
+   "place": "Muros",
+   "language": "ita",
+   "notes": "cited as 2001a"
+  },
+  {
+   "position": 49,
+   "raw": "Sanges M. 2001b, *Documenti archeologici nel territorio di Nurri*, in Sanges 2001a, 143-144.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sanges",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Documenti archeologici nel territorio di Nurri",
+   "is_part_of": [
+    "L'eredità del Sarcidano e della Barbagia di Seulo. Patrimonio di conoscenza e vita"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Sanges",
+     "given": "M."
+    }
+   ],
+   "pages": "143-144",
+   "publisher": "B&P",
+   "place": "Muros",
+   "xref": 48,
+   "notes": "cited as 2001b"
+  },
+  {
+   "position": 50,
+   "raw": "Sanna V. 2012, *Analisi spaziale in ambiente GIS: un caso di studio*, in Lugliè 2012, 1195-1200.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sanna",
+     "given": "V."
+    }
+   ],
+   "date": "2012",
+   "title": "Analisi spaziale in ambiente GIS: un caso di studio",
+   "is_part_of": [
+    "La Preistoria e la Protostoria della Sardegna. Atti della XLIV Riunione Scientifica dell'Istituto Italiano di Preistoria e Protostoria (Cagliari, Barumini, Sassari 2009)"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Lugliè",
+     "given": "C."
+    }
+   ],
+   "pages": "1195-1200",
+   "publisher": "Istituto Italiano di Preistoria e Protostoria",
+   "place": "Firenze",
+   "xref": 33,
+   "volume": "III"
+  },
+  {
+   "position": 51,
+   "raw": "Schirru D. 2017, *Nuraghi with a view: Understanding visualscapes in Nuragic Marmilla (South-Central Sardinia, Italy)*, «Journal of Archaeological Science: Reports», 11, 106-114.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schirru",
+     "given": "D."
+    }
+   ],
+   "date": "2017",
+   "title": "Nuraghi with a view: Understanding visualscapes in Nuragic Marmilla (South-Central Sardinia, Italy)",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "language": "eng",
+   "volume": "11",
+   "pages": "106-114"
+  },
+  {
+   "position": 52,
+   "raw": "Spanedda L. 2002, *La edad del Bronce en el municipio de Dorgali (Nuoro, Cerdeña)*, «Saguntum. Papeles del laboratorio de Arqueología de Valencia», 34, 75-90.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Spanedda",
+     "given": "L."
+    }
+   ],
+   "date": "2002",
+   "title": "La edad del Bronce en el municipio de Dorgali (Nuoro, Cerdeña)",
+   "is_part_of": [
+    "Saguntum. Papeles del laboratorio de Arqueología de Valencia"
+   ],
+   "language": "spa",
+   "volume": "34",
+   "pages": "75-90"
+  },
+  {
+   "position": 53,
+   "raw": "Spanedda L. 2007, *La edad del Bronce en el Golfo de Dorgali (Cerdeña, Italia)*, Tesi di Dottorato, Granada, Universidad de Granada.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Spanedda",
+     "given": "L."
+    }
+   ],
+   "date": "2007",
+   "title": "La edad del Bronce en el Golfo de Dorgali (Cerdeña, Italia)",
+   "publisher": "Universidad de Granada",
+   "place": "Granada",
+   "language": "spa",
+   "notes": "Tesi di Dottorato"
+  },
+  {
+   "position": 54,
+   "raw": "Spanedda L. 2011, *La Prehistoria reciente en el Golfo de Orosei (Cerdeña, Italia). Perspectivas desde el análisis territorial*, Saarbrücken, Editorial Académica Española.",
+   "type": "book",
+   "date": "2011",
+   "title": "La Prehistoria reciente en el Golfo de Orosei (Cerdeña, Italia). Perspectivas desde el análisis territorial",
+   "language": "spa",
+   "creators": [
+    {
+     "family": "Spanedda",
+     "given": "L."
+    }
+   ],
+   "publisher": "Editorial Académica Española",
+   "place": "Saarbrücken"
+  },
+  {
+   "position": 55,
+   "raw": "Spanedda L., Cámara Serrano J.A. 2009a, *Control territorial a partir de monumentos rituales en el Golfo de Orosei (Cerdeña, Italia) durante la Prehistoria reciente*, «Sardinia, Corsica et Baleares Antique», 7, 153-170.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Spanedda",
+     "given": "L."
+    },
+    {
+     "family": "Cámara Serrano",
+     "given": "J.A."
+    }
+   ],
+   "date": "2009",
+   "title": "Control territorial a partir de monumentos rituales en el Golfo de Orosei (Cerdeña, Italia) durante la Prehistoria reciente",
+   "is_part_of": [
+    "Sardinia, Corsica et Baleares Antiquae"
+   ],
+   "language": "spa",
+   "volume": "7",
+   "pages": "153-170",
+   "notes": "cited as 2009a; journal cited 'Antique'"
+  },
+  {
+   "position": 56,
+   "raw": "Spanedda L., Cámara Serrano J.A. 2009b, *Il controllo del territorio nel comune di Lodè durante l'età del Bronzo*, in P. Melis (ed.), *Lodè, testimonianze archeologiche*, Sassari, Comune di Lodè/Università degli Studi di Sassari, 31-50.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Spanedda",
+     "given": "L."
+    },
+    {
+     "family": "Cámara Serrano",
+     "given": "J.A."
+    }
+   ],
+   "date": "2009",
+   "title": "Il controllo del territorio nel comune di Lodè durante l'età del Bronzo",
+   "is_part_of": [
+    "Lodè, testimonianze archeologiche"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Melis",
+     "given": "P."
+    }
+   ],
+   "pages": "31-50",
+   "publisher": "Comune di Lodè/Università degli Studi di Sassari",
+   "place": "Sassari",
+   "notes": "cited as 2009b"
+  },
+  {
+   "position": 57,
+   "raw": "Spanedda L., Cámara Serrano J.A. 2014, *Analisi dei dati ambientali in funzione della valutazione delle modalità insediative nell'area circostante il nuraghe Santu Antine*, in L. Foddai (ed.), *Il nuraghe Santu Antine e le dinamiche insediative della piana del Riu Mannu*, Sassari, Carlo Delfino Editore, 249-262.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Spanedda",
+     "given": "L."
+    },
+    {
+     "family": "Cámara Serrano",
+     "given": "J.A."
+    }
+   ],
+   "date": "2014",
+   "title": "Analisi dei dati ambientali in funzione della valutazione delle modalità insediative nell'area circostante il nuraghe Santu Antine",
+   "is_part_of": [
+    "Il nuraghe Santu Antine e le dinamiche insediative della piana del Riu Mannu"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Foddai",
+     "given": "L."
+    }
+   ],
+   "pages": "249-262",
+   "publisher": "Carlo Delfino Editore",
+   "place": "Sassari"
+  },
+  {
+   "position": 58,
+   "raw": "Spanedda L., Cámara Serrano J.A., Nájera T., Turatti R. 2004, *Introducción al patrón de asentamiento de las comunidades nurágicas del municipio de Dorgali (Nuoro, Cerdeña, Italia)*, «Arqueología Espacial», 24-25, 81-103.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Spanedda",
+     "given": "L."
+    },
+    {
+     "family": "Cámara Serrano",
+     "given": "J.A."
+    },
+    {
+     "family": "Nájera",
+     "given": "T."
+    },
+    {
+     "family": "Turatti",
+     "given": "R."
+    }
+   ],
+   "date": "2004",
+   "title": "Introducción al patrón de asentamiento de las comunidades nurágicas del municipio de Dorgali (Nuoro, Cerdeña, Italia)",
+   "is_part_of": [
+    "Arqueología Espacial"
+   ],
+   "language": "spa",
+   "volume": "24-25",
+   "pages": "81-103"
+  },
+  {
+   "position": 59,
+   "raw": "Spanedda L., Cámara Serrano J.A., Puertas García M.E. 2007, *Poder y control de la costa del Golfo de Orosei durante la Edad del Bronce*, «Origini», 29, 119-144.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Spanedda",
+     "given": "L."
+    },
+    {
+     "family": "Cámara Serrano",
+     "given": "J.A."
+    },
+    {
+     "family": "Puertas García",
+     "given": "M.E."
+    }
+   ],
+   "date": "2007",
+   "title": "Poder y control de la costa del Golfo de Orosei durante la Edad del Bronce",
+   "is_part_of": [
+    "Origini"
+   ],
+   "language": "spa",
+   "volume": "29",
+   "pages": "119-144"
+  },
+  {
+   "position": 60,
+   "raw": "Spano G. 1867, *Memoria sopra i nuraghi di Sardegna*, Cagliari, Tipografia arcivescovile.",
+   "type": "book",
+   "date": "1867",
+   "title": "Memoria sopra i nuraghi di Sardegna",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Spano",
+     "given": "G."
+    }
+   ],
+   "publisher": "Tipografia arcivescovile",
+   "place": "Cagliari"
+  },
+  {
+   "position": 61,
+   "raw": "Taramelli A. 1909, *Serri-Scavi nella città pre-romana sull'altipiano di S. Vittoria*, «Notizie degli Scavi di Antichità», 412-423.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Taramelli",
+     "given": "A."
+    }
+   ],
+   "date": "1909",
+   "title": "Serri-Scavi nella città pre-romana sull'altipiano di S. Vittoria",
+   "is_part_of": [
+    "Notizie degli Scavi di Antichità"
+   ],
+   "language": "ita",
+   "pages": "412-423"
+  },
+  {
+   "position": 62,
+   "raw": "Taramelli A. 1911, *Serri. Ricerche nell'acropoli di Santa Vittoria e nel recinto sacro*, «Notizie degli Scavi di Antichità», 291-312.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Taramelli",
+     "given": "A."
+    }
+   ],
+   "date": "1911",
+   "title": "Serri. Ricerche nell'acropoli di Santa Vittoria e nel recinto sacro",
+   "is_part_of": [
+    "Notizie degli Scavi di Antichità"
+   ],
+   "language": "ita",
+   "pages": "291-312"
+  },
+  {
+   "position": 63,
+   "raw": "Taramelli A. 1914, *Il tempio nuragico ed i monumenti primitivi di Santa Vittoria di Serri (Cagliari)*, «Monumenti Antichi dei Lincei», 23, 313-436.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Taramelli",
+     "given": "A."
+    }
+   ],
+   "date": "1914",
+   "title": "Il tempio nuragico ed i monumenti primitivi di Santa Vittoria di Serri (Cagliari)",
+   "is_part_of": [
+    "Monumenti Antichi dei Lincei"
+   ],
+   "language": "ita",
+   "volume": "23",
+   "pages": "313-436"
+  },
+  {
+   "position": 64,
+   "raw": "Taramelli A. 1922, *Serri. Nuovi scavi nel Santuario nuragico presso la Chiesa di S. Maria della Vittoria sull'altipiano della Giara*, «Notizie degli Scavi di Antichità», 296-334.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Taramelli",
+     "given": "A."
+    }
+   ],
+   "date": "1922",
+   "title": "Serri. Nuovi scavi nel Santuario nuragico presso la Chiesa di S. Maria della Vittoria sull'altipiano della Giara",
+   "is_part_of": [
+    "Notizie degli Scavi di Antichità"
+   ],
+   "language": "ita",
+   "pages": "296-334"
+  },
+  {
+   "position": 65,
+   "raw": "Taramelli A. 1931, *Nuove ricerche nel santuario nuragico di Santa Vittoria di Serri*, «Monumenti Antichi dei Lincei», 34, 5-122.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Taramelli",
+     "given": "A."
+    }
+   ],
+   "date": "1931",
+   "title": "Nuove ricerche nel santuario nuragico di Santa Vittoria di Serri",
+   "is_part_of": [
+    "Monumenti Antichi dei Lincei"
+   ],
+   "language": "ita",
+   "volume": "34",
+   "pages": "5-122"
+  },
+  {
+   "position": 66,
+   "raw": "Vanzetti A., Castangia G., Depalmas A., Ialongo N., Leonelli V., Perra M., Usai A. 2013, *Complessi fortificati della Sardegna e delle isole del Mediterraneo occidentale nella protostoria*, in G. Bartoloni, L.M. Michetti (eds.), *Mura di legno, mura di terra, mura di pietra: fortificazioni nel Mediterraneo antico, Atti del Convegno Internazionale (Roma 2012)*, «Scienze dell'Antichità», 19, 2/3, 83-123.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vanzetti",
+     "given": "A."
+    },
+    {
+     "family": "Castangia",
+     "given": "G."
+    },
+    {
+     "family": "Depalmas",
+     "given": "A."
+    },
+    {
+     "family": "Ialongo",
+     "given": "N."
+    },
+    {
+     "family": "Leonelli",
+     "given": "V."
+    },
+    {
+     "family": "Perra",
+     "given": "M."
+    },
+    {
+     "family": "Usai",
+     "given": "A."
+    }
+   ],
+   "date": "2013",
+   "title": "Complessi fortificati della Sardegna e delle isole del Mediterraneo occidentale nella protostoria",
+   "is_part_of": [
+    "Mura di legno, mura di terra, mura di pietra: fortificazioni nel Mediterraneo antico, Atti del Convegno Internazionale (Roma 2012)",
+    "Scienze dell'Antichità"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Bartoloni",
+     "given": "G."
+    },
+    {
+     "family": "Michetti",
+     "given": "L.M."
+    }
+   ],
+   "pages": "83-123",
+   "volume": "19",
+   "issue": "2/3"
+  },
+  {
+   "position": 67,
+   "raw": "Weiss A. 2001, *Topographic position and landforms analysis*, in *Poster presentation, ESRI User Conference*, San Diego, CA, 9-13.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Weiss",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Topographic position and landforms analysis",
+   "is_part_of": [
+    "Poster presentation, ESRI User Conference"
+   ],
+   "place": "San Diego, CA",
+   "language": "eng",
+   "notes": "cited with '9-13' (probably the days of the conference), not recorded as pages"
+  },
+  {
+   "position": 68,
+   "raw": "Zucca R. 1988, *Il santuario nuragico di S. Vittoria di Serri*, Sassari, Carlo Delfino Editore.",
+   "type": "book",
+   "date": "1988",
+   "title": "Il santuario nuragico di S. Vittoria di Serri",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Zucca",
+     "given": "R."
+    }
+   ],
+   "publisher": "Carlo Delfino Editore",
+   "place": "Sassari"
+  }
+ ]
+}

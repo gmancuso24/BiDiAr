@@ -1,0 +1,792 @@
+{
+ "citing_aec_id": 904,
+ "source_file": "data/journal/28/904.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Adembri B., Di Tondo S., Fantini F. 2015, *Architecture with concave and convex rhythms and its decoration in Hadrian age. The Maritime Theatre and the southern pavilion of Piazza d'Oro in Hadrian's Villa*, in P. Pensabene, E. Gasparini, *Proceedings of the Tenth International Conference Interdisciplinary Studies on Ancient Stone, ASMOSIA*, 10, Roma, L'Erma di Bretschneider, 3-12.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Adembri",
+     "given": "B."
+    },
+    {
+     "family": "Di Tondo",
+     "given": "S."
+    },
+    {
+     "family": "Fantini",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pensabene",
+     "given": "P."
+    },
+    {
+     "family": "Gasparini",
+     "given": "E."
+    }
+   ],
+   "date": "2015",
+   "title": "Architecture with concave and convex rhythms and its decoration in Hadrian age. The Maritime Theatre and the southern pavilion of Piazza d'Oro in Hadrian's Villa",
+   "is_part_of": [
+    "Proceedings of the Tenth International Conference Interdisciplinary Studies on Ancient Stone, ASMOSIA"
+   ],
+   "volume": "10",
+   "pages": "3-12",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "eng",
+   "notes": "editors not marked (eds.) in the citation"
+  },
+  {
+   "position": 2,
+   "raw": "Adembri B., Di Tondo S., Fantini F., Ristori F. 2014, *Nuove prospettive di ricerca su Piazza d'Oro e gli ambienti mistilinei a pianta centrale: confronti tipologici e ipotesi ricostruttive*, in E. Calandra, B. Adembri (eds.), *Adriano e la Grecia. Studi e ricerche*, Milano, Electa, 81-97.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Adembri",
+     "given": "B."
+    },
+    {
+     "family": "Di Tondo",
+     "given": "S."
+    },
+    {
+     "family": "Fantini",
+     "given": "F."
+    },
+    {
+     "family": "Ristori",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Calandra",
+     "given": "E."
+    },
+    {
+     "family": "Adembri",
+     "given": "B."
+    }
+   ],
+   "date": "2014",
+   "title": "Nuove prospettive di ricerca su Piazza d'Oro e gli ambienti mistilinei a pianta centrale: confronti tipologici e ipotesi ricostruttive",
+   "is_part_of": [
+    "Adriano e la Grecia. Studi e ricerche"
+   ],
+   "pages": "81-97",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Bulgarini F. 1848, *Notizie storiche antiquarie e agronomiche intorno all'antichissima città di Tivoli*, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bulgarini",
+     "given": "F."
+    }
+   ],
+   "date": "1848",
+   "title": "Notizie storiche antiquarie e agronomiche intorno all'antichissima città di Tivoli",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Cabral S., Del Re F. 1779, *Delle ville e de' più notabili monumenti antichi della città, e del territorio di Tivoli*, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cabral",
+     "given": "S."
+    },
+    {
+     "family": "Del Re",
+     "given": "F."
+    }
+   ],
+   "date": "1779",
+   "title": "Delle ville e de' più notabili monumenti antichi della città, e del territorio di Tivoli",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "Cinque E.G. 2017, *Le rappresentazioni planimetriche di Villa Adriana tra XVI e XVIII secolo: Ligorio, Contini, Kircher, Gondoin, Piranesi*, Collection de l'École française de Rome 525, Roma, École française de Rome.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cinque",
+     "given": "E.G."
+    }
+   ],
+   "date": "2017",
+   "title": "Le rappresentazioni planimetriche di Villa Adriana tra XVI e XVIII secolo: Ligorio, Contini, Kircher, Gondoin, Piranesi",
+   "series": "Collection de l'École française de Rome",
+   "series_number": "525",
+   "publisher": "École française de Rome",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Conti Bardi G. 1825, *Della Imp. Villa Adriana e di altre suntuosissime già adiacenti della città di Tivoli descrizione di Giovanni de' Conti Bardi antico accademico della Crusca*, Firenze.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Conti Bardi",
+     "given": "G."
+    }
+   ],
+   "date": "1825",
+   "title": "Della Imp. Villa Adriana e di altre suntuosissime già adiacenti della città di Tivoli descrizione di Giovanni de' Conti Bardi antico accademico della Crusca",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Contini F. 1668, *Adriani Caesaris immanem in Turbyntino villam …*, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Contini",
+     "given": "F."
+    }
+   ],
+   "date": "1668",
+   "title": "Adriani Caesaris immanem in Turbyntino villam …",
+   "place": "Roma",
+   "language": "lat"
+  },
+  {
+   "position": 8,
+   "raw": "Contini F. 1751, *Ichnographia Villae Tiburtine Hadriani Caesariolim a Pyrrho Ligorio delineata et descripta, postea a Fr. Continio architecto summa cura recognita… nunc denuo affabre aere incisa*, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Contini",
+     "given": "F."
+    }
+   ],
+   "date": "1751",
+   "title": "Ichnographia Villae Tiburtine Hadriani Caesariolim a Pyrrho Ligorio delineata et descripta, postea a Fr. Continio architecto summa cura recognita… nunc denuo affabre aere incisa",
+   "place": "Roma",
+   "language": "lat"
+  },
+  {
+   "position": 9,
+   "raw": "De Franceschini M. 1991, *Villa Adriana. Mosaici – pavimenti – edifici*, Roma, L'Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "De Franceschini",
+     "given": "M."
+    }
+   ],
+   "date": "1991",
+   "title": "Villa Adriana. Mosaici – pavimenti – edifici",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "De Franceschini M. 2011, *Villa Adriana e architettura celeste*, Roma, L'Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "De Franceschini",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "Villa Adriana e architettura celeste",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "De Franceschini M. 2012, *Nuove scoperte nell'Accademia della Villa Adriana di Tivoli. L'importanza del confronto fra i dati delle fonti antiquarie e dei rilievi sul terreno*, Amoenitas II, Roma, Istituto Poligrafico dello Stato, 3-20.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Franceschini",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Nuove scoperte nell'Accademia della Villa Adriana di Tivoli. L'importanza del confronto fra i dati delle fonti antiquarie e dei rilievi sul terreno",
+   "is_part_of": [
+    "Amoenitas"
+   ],
+   "volume": "II",
+   "pages": "3-20",
+   "publisher": "Istituto Poligrafico dello Stato",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "De Franceschini M. 2013, *Uno straordinario puzzle musivo nell'Accademia della Villa Adriana di Tivoli*, in Atti del XVIII Colloquio dell'Associazione Italiana per lo Studio e la Conservazione del Mosaico (AISCOM), Roma, Arbor Sapientiae, 739-748.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Franceschini",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Uno straordinario puzzle musivo nell'Accademia della Villa Adriana di Tivoli",
+   "is_part_of": [
+    "Atti del XVIII Colloquio dell'Associazione Italiana per lo Studio e la Conservazione del Mosaico (AISCOM)"
+   ],
+   "pages": "739-748",
+   "publisher": "Arbor Sapientiae",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "De Franceschini M. 2014a, *Villa Adriana. Accademia. I mosaici di monsignor Furietti*, in Atti del XX Colloquio dell'Associazione Italiana per lo Studio e la Conservazione del Mosaico (AISCOM), Roma, Arbor Sapientiae, 215-226.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Franceschini",
+     "given": "M."
+    }
+   ],
+   "date": "2014",
+   "title": "Villa Adriana. Accademia. I mosaici di monsignor Furietti",
+   "is_part_of": [
+    "Atti del XX Colloquio dell'Associazione Italiana per lo Studio e la Conservazione del Mosaico (AISCOM)"
+   ],
+   "pages": "215-226",
+   "publisher": "Arbor Sapientiae",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "De Franceschini M. 2014b, *Villa Adriana. Accademia. I mosaici di cardinal Furietti*, Amoenitas III, Istituto Poligrafico dello Stato, 95-121.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Franceschini",
+     "given": "M."
+    }
+   ],
+   "date": "2014",
+   "title": "Villa Adriana. Accademia. I mosaici di cardinal Furietti",
+   "is_part_of": [
+    "Amoenitas"
+   ],
+   "volume": "III",
+   "pages": "95-121",
+   "publisher": "Istituto Poligrafico dello Stato",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "De Franceschini M. 2016, *Villa Adriana. Accademia. Hadrian's Secret Garden. I. History of Excavations, Ancient Sources and Antiquarian Studies from the XVth to the XVIIth Centuries*, Pisa-Roma, Fabrizio Serra Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "De Franceschini",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "Villa Adriana. Accademia. Hadrian's Secret Garden. I. History of Excavations, Ancient Sources and Antiquarian Studies from the XVth to the XVIIth Centuries",
+   "publisher": "Fabrizio Serra Editore",
+   "place": "Pisa-Roma",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "De Franceschini M., Marras A.M. 2009, *Progetto AcCADemia nella Villa Adriana e moderne indagini geoelettriche*, «Fasti Online Documents and Research» (http://www.fastionline.org/docs/FOLDER-it-2009-155.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Franceschini",
+     "given": "M."
+    },
+    {
+     "family": "Marras",
+     "given": "A.M."
+    }
+   ],
+   "date": "2009",
+   "title": "Progetto AcCADemia nella Villa Adriana e moderne indagini geoelettriche",
+   "is_part_of": [
+    "Fasti Online Documents and Research"
+   ],
+   "language": "ita",
+   "uri": "http://www.fastionline.org/docs/FOLDER-it-2009-155.pdf"
+  },
+  {
+   "position": 17,
+   "raw": "De Franceschini M., Marras A.M. 2010, *La riscoperta dei percorsi sotterranei dell'Accademia mediante indagini geofisiche*, in M. Sapelli Ragni (ed.), *Villa Adriana. Una storia mai finita. Novità e prospettive della ricerca*, Catalogo della Mostra, Roma, Electa Mondadori, 105-112.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Franceschini",
+     "given": "M."
+    },
+    {
+     "family": "Marras",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Sapelli Ragni",
+     "given": "M."
+    }
+   ],
+   "date": "2010",
+   "title": "La riscoperta dei percorsi sotterranei dell'Accademia mediante indagini geofisiche",
+   "is_part_of": [
+    "Villa Adriana. Una storia mai finita. Novità e prospettive della ricerca"
+   ],
+   "pages": "105-112",
+   "publisher": "Electa Mondadori",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "Catalogo della Mostra"
+  },
+  {
+   "position": 18,
+   "raw": "Del Re A. 1833, *Le Antichità Tiburtine*, in *Cod. Vat. Barb. 3084*, Cap. V, Roma, 1611, fino al cap. VIII (a cura di R. Del Re).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Del Re",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Del Re",
+     "given": "R."
+    }
+   ],
+   "date": "1833",
+   "title": "Le Antichità Tiburtine",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited \"in Cod. Vat. Barb. 3084, Cap. V, Roma, 1611, fino al cap. VIII (a cura di R. Del Re)\""
+  },
+  {
+   "position": 19,
+   "raw": "Ericsson H. 1980, *Roman Architecture Expressed in Sketches by Francesco di Giorgio Martini. Studies in Imperial Roman and Early Christian Architecture*, Helsinki, Societas Scientiarum Fennica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ericsson",
+     "given": "H."
+    }
+   ],
+   "date": "1980",
+   "title": "Roman Architecture Expressed in Sketches by Francesco di Giorgio Martini. Studies in Imperial Roman and Early Christian Architecture",
+   "publisher": "Societas Scientiarum Fennica",
+   "place": "Helsinki",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "Furietti J.A. 1752, *De Musivis*, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Furietti",
+     "given": "J.A."
+    }
+   ],
+   "date": "1752",
+   "title": "De Musivis",
+   "place": "Roma",
+   "language": "lat"
+  },
+  {
+   "position": 21,
+   "raw": "Giuliani C.F. 2002, *L'edilizia nell'antichità*, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Giuliani",
+     "given": "C.F."
+    }
+   ],
+   "date": "2002",
+   "title": "L'edilizia nell'antichità",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "Giuliani C.F. 2012, *Archeologia oggi: la fantasia al potere*, Quaderni di archeologia e di cultura classica 2, Tiburis Artistica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Giuliani",
+     "given": "C.F."
+    }
+   ],
+   "date": "2012",
+   "title": "Archeologia oggi: la fantasia al potere",
+   "series": "Quaderni di archeologia e di cultura classica",
+   "series_number": "2",
+   "publisher": "Tiburis Artistica",
+   "language": "ita"
+  },
+  {
+   "position": 23,
+   "raw": "Giuliani C.F. 2016, *Il quadro fessurativo nello studio dei monumenti antichi*, Quaderni di archeologia e di cultura classica 4, Tiburis Artistica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Giuliani",
+     "given": "C.F."
+    }
+   ],
+   "date": "2016",
+   "title": "Il quadro fessurativo nello studio dei monumenti antichi",
+   "series": "Quaderni di archeologia e di cultura classica",
+   "series_number": "4",
+   "publisher": "Tiburis Artistica",
+   "language": "ita"
+  },
+  {
+   "position": 24,
+   "raw": "Kähler H. 1950, *Hadrian und seine Villa bei Tivoli*, Berlin, Gebr. Mann.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kähler",
+     "given": "H."
+    }
+   ],
+   "date": "1950",
+   "title": "Hadrian und seine Villa bei Tivoli",
+   "publisher": "Gebr. Mann",
+   "place": "Berlin",
+   "language": "ger"
+  },
+  {
+   "position": 25,
+   "raw": "Ligorio P., *Trattato delle antichità di Tivoli e della Villa Hadriana fatto da Pyrrho Ligorio Patritio Napolitano et dedicato all'ill.mo cardinal di Ferrara*, Biblioteca Apostolica Vaticana, Cod. Vat. Lat. 5295, foll 1r-32 v.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Ligorio",
+     "given": "P."
+    }
+   ],
+   "title": "Trattato delle antichità di Tivoli e della Villa Hadriana fatto da Pyrrho Ligorio Patritio Napolitano et dedicato all'ill.mo cardinal di Ferrara",
+   "publisher": "Biblioteca Apostolica Vaticana",
+   "language": "ita",
+   "notes": "Cod. Vat. Lat. 5295, foll 1r-32 v; manuscript, no year in the citation"
+  },
+  {
+   "position": 26,
+   "raw": "Ligorio P., *Libro o vero trattato delle antichità XXII di Pyrrho Ligorio Patritio Napolitano et Cittadino Romano nel quale si dichiarano alcune famose Ville et particolarmente della antica Città di Tibure et di alcuni documenti*, Archivio di Stato di Torino I7, J20.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Ligorio",
+     "given": "P."
+    }
+   ],
+   "title": "Libro o vero trattato delle antichità XXII di Pyrrho Ligorio Patritio Napolitano et Cittadino Romano nel quale si dichiarano alcune famose Ville et particolarmente della antica Città di Tibure et di alcuni documenti",
+   "publisher": "Archivio di Stato di Torino",
+   "language": "ita",
+   "notes": "I7, J20; manuscript, no year in the citation"
+  },
+  {
+   "position": 27,
+   "raw": "Nesselrath A. 1986, *I libri di disegni di antichità. Tentativo di una tipologia*, in S. Settis (ed.), *Memorie dell'antico nell'arte italiana*, III, Torino, Einaudi, 87-147.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nesselrath",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Settis",
+     "given": "S."
+    }
+   ],
+   "date": "1986",
+   "title": "I libri di disegni di antichità. Tentativo di una tipologia",
+   "is_part_of": [
+    "Memorie dell'antico nell'arte italiana"
+   ],
+   "volume": "III",
+   "pages": "87-147",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita"
+  },
+  {
+   "position": 28,
+   "raw": "Nibby A. 1819, *Viaggio antiquario ne' contorni di Roma*, I, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nibby",
+     "given": "A."
+    }
+   ],
+   "date": "1819",
+   "title": "Viaggio antiquario ne' contorni di Roma",
+   "volume": "I",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 29,
+   "raw": "Nibby A. 1827, *Descrizione della Villa Adriana*, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nibby",
+     "given": "A."
+    }
+   ],
+   "date": "1827",
+   "title": "Descrizione della Villa Adriana",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 30,
+   "raw": "Nibby A. 1849, *Analisi storico-topografico-antiquaria della Carta de' dintorni di Roma*, III, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nibby",
+     "given": "A."
+    }
+   ],
+   "date": "1849",
+   "title": "Analisi storico-topografico-antiquaria della Carta de' dintorni di Roma",
+   "volume": "III",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 31,
+   "raw": "Nielsen J., Asserbo J., Jespersen T. 2011, *Investigazioni statiche sull'edificio romano della \"Piazza d'oro\" di Villa Adriana*, «Analecta Romana Instituti Danici», 25-26, 101-117.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nielsen",
+     "given": "J."
+    },
+    {
+     "family": "Asserbo",
+     "given": "J."
+    },
+    {
+     "family": "Jespersen",
+     "given": "T."
+    }
+   ],
+   "date": "2011",
+   "title": "Investigazioni statiche sull'edificio romano della \"Piazza d'oro\" di Villa Adriana",
+   "is_part_of": [
+    "Analecta Romana Instituti Danici"
+   ],
+   "volume": "25-26",
+   "pages": "101-117",
+   "language": "ita"
+  },
+  {
+   "position": 32,
+   "raw": "Ottati A. 2014, *La cd. Accademia di Villa Adriana. Spazi, ambienti e funzioni del cd. Piccolo Palazzo. Primi risultati*, in J.M. Álvarez, T. Nogale, I. Rodà (eds.), *CIAC. Actas XVIII Congreso Internacional de Arqueología Clásica de Mérida*, I, Mérida, 673-676.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ottati",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Álvarez",
+     "given": "J.M."
+    },
+    {
+     "family": "Nogale",
+     "given": "T."
+    },
+    {
+     "family": "Rodà",
+     "given": "I."
+    }
+   ],
+   "date": "2014",
+   "title": "La cd. Accademia di Villa Adriana. Spazi, ambienti e funzioni del cd. Piccolo Palazzo. Primi risultati",
+   "is_part_of": [
+    "CIAC. Actas XVIII Congreso Internacional de Arqueología Clásica de Mérida"
+   ],
+   "volume": "I",
+   "pages": "673-676",
+   "place": "Mérida",
+   "language": "ita"
+  },
+  {
+   "position": 33,
+   "raw": "Paribeni A. 1994, *Cenno storico e storia degli scavi*, in F. Guidobaldi (ed.), *Sectilia pavimenta di Villa Adriana*, Mosaici Antichi in Italia Studi monografici, Roma, Istituto Poligrafico dello Stato, 3-43.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Paribeni",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Guidobaldi",
+     "given": "F."
+    }
+   ],
+   "date": "1994",
+   "title": "Cenno storico e storia degli scavi",
+   "is_part_of": [
+    "Sectilia pavimenta di Villa Adriana"
+   ],
+   "pages": "3-43",
+   "series": "Mosaici Antichi in Italia Studi monografici",
+   "publisher": "Istituto Poligrafico dello Stato",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 34,
+   "raw": "Penna A. 1831, *Viaggio pittorico nella Villa Adriana composto di vedute disegnate dal vero ed incise da Agostino Penna con una breve descrizione di ciascun monumento*, tomo I, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Penna",
+     "given": "A."
+    }
+   ],
+   "date": "1831",
+   "title": "Viaggio pittorico nella Villa Adriana composto di vedute disegnate dal vero ed incise da Agostino Penna con una breve descrizione di ciascun monumento",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "tomo I"
+  },
+  {
+   "position": 35,
+   "raw": "Penna A. 1833, *Viaggio pittorico della Villa Adriana composto di vedute disegnate dal vero ed incise da Agostino Penna con una breve descrizione di ciascun monumento*, tomo II, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Penna",
+     "given": "A."
+    }
+   ],
+   "date": "1833",
+   "title": "Viaggio pittorico della Villa Adriana composto di vedute disegnate dal vero ed incise da Agostino Penna con una breve descrizione di ciascun monumento",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "tomo II"
+  },
+  {
+   "position": 36,
+   "raw": "Penna A. 1826-44, *Viaggio pittorico della Villa Adriana composto dei musaici, pitture, statue ed altri oggetti rinvenuti nelle varie escavazioni condotto da Agostino Penna con una breve descrizione di ciascun monumento*, tomi I-IV, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Penna",
+     "given": "A."
+    }
+   ],
+   "date": "1826",
+   "title": "Viaggio pittorico della Villa Adriana composto dei musaici, pitture, statue ed altri oggetti rinvenuti nelle varie escavazioni condotto da Agostino Penna con una breve descrizione di ciascun monumento",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited 1826-44, tomi I-IV"
+  },
+  {
+   "position": 37,
+   "raw": "Reina V. 1906, «Notizie degli Scavi di Antichità», 313-317.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Reina",
+     "given": "V."
+    }
+   ],
+   "date": "1906",
+   "is_part_of": [
+    "Notizie degli Scavi di Antichità"
+   ],
+   "pages": "313-317",
+   "language": "ita",
+   "notes": "title missing in the citation",
+   "confidence": "low"
+  },
+  {
+   "position": 38,
+   "raw": "Sebastiani A. 1828, *Viaggio a Tivoli, antichissima città latino sabina*, Foligno.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sebastiani",
+     "given": "A."
+    }
+   ],
+   "date": "1828",
+   "title": "Viaggio a Tivoli, antichissima città latino sabina",
+   "place": "Foligno",
+   "language": "ita"
+  },
+  {
+   "position": 39,
+   "raw": "Ten A. (ed.) 2005, *P. Ligorio, Libro dell'antica città di Tivoli e di alcune famose ville*, Roma, De Luca.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Ten",
+     "given": "A."
+    }
+   ],
+   "date": "2005",
+   "title": "P. Ligorio, Libro dell'antica città di Tivoli e di alcune famose ville",
+   "publisher": "De Luca",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 40,
+   "raw": "Winnefeld H. 1895, *Die Villa des Hadrian bei Tivoli*, in *Jahrbuch des Deutschen Archäologischen Instituts*, Erganzungshefte 5.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Winnefeld",
+     "given": "H."
+    }
+   ],
+   "date": "1895",
+   "title": "Die Villa des Hadrian bei Tivoli",
+   "series": "Jahrbuch des Deutschen Archäologischen Instituts, Ergänzungshefte",
+   "series_number": "5",
+   "language": "ger"
+  }
+ ]
+}

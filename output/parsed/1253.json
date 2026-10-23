@@ -1,0 +1,834 @@
+{
+ "citing_aec_id": 1253,
+ "source_file": "data/journal/34/1253.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Barbero A. 2007, *Barbari. Immigrati, profughi, deportati nell'impero romano*, Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barbero",
+     "given": "A."
+    }
+   ],
+   "date": "2007",
+   "title": "Barbari. Immigrati, profughi, deportati nell'impero romano",
+   "publisher": "Laterza",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bejor G., Grassi M., Maggi S., Slavazzi F. 2011, *Arte e archeologia delle province romane*, Milano, Mondadori.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bejor",
+     "given": "G."
+    },
+    {
+     "family": "Grassi",
+     "given": "M."
+    },
+    {
+     "family": "Maggi",
+     "given": "S."
+    },
+    {
+     "family": "Slavazzi",
+     "given": "F."
+    }
+   ],
+   "date": "2011",
+   "title": "Arte e archeologia delle province romane",
+   "publisher": "Mondadori",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bhattacharya A., Arora M.K., Sharma M.L. 2012, *Improved digital elevation model creation using SAR interferometry in plane and undulating terrains*, «Himalayan Geology», 33, 1, 29-44 (http://repository.iitr.ac.in/handle/123456789/6658).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bhattacharya",
+     "given": "A."
+    },
+    {
+     "family": "Arora",
+     "given": "M.K."
+    },
+    {
+     "family": "Sharma",
+     "given": "M.L."
+    }
+   ],
+   "date": "2012",
+   "title": "Improved digital elevation model creation using SAR interferometry in plane and undulating terrains",
+   "is_part_of": [
+    "Himalayan Geology"
+   ],
+   "volume": "33",
+   "issue": "1",
+   "pages": "29-44",
+   "uri": "http://repository.iitr.ac.in/handle/123456789/6658",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bosman A.V.A.J., De Weerd M.D. 2004, *Velsen: The 1997 excavations in the early Roman base and a reappraisal of the post-Kalkriese Velsen/Vechten dating evidence*, in F. Vermeulen, K. Sas, W. Dhaeze (eds.), *Archaeology in Confrontation: Aspects of Roman Military Presence in the Northwest. Studies in Honour of Hugo Thoen*, Ghent, Ghent University, 31-62.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bosman",
+     "given": "A.V.A.J."
+    },
+    {
+     "family": "De Weerd",
+     "given": "M.D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Vermeulen",
+     "given": "F."
+    },
+    {
+     "family": "Sas",
+     "given": "K."
+    },
+    {
+     "family": "Dhaeze",
+     "given": "W."
+    }
+   ],
+   "date": "2004",
+   "title": "Velsen: The 1997 excavations in the early Roman base and a reappraisal of the post-Kalkriese Velsen/Vechten dating evidence",
+   "is_part_of": [
+    "Archaeology in Confrontation: Aspects of Roman Military Presence in the Northwest. Studies in Honour of Hugo Thoen"
+   ],
+   "pages": "31-62",
+   "publisher": "Ghent University",
+   "place": "Ghent",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bradley R. 2002, *The Past in Prehistoric Societies*, London, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bradley",
+     "given": "R."
+    }
+   ],
+   "date": "2002",
+   "title": "The Past in Prehistoric Societies",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Braun A. 2021, *TOPS Interferometry Tutorial. Sentinel-1, Toolbox* (https://step.esa.int/docs/tutorials/S1TBX%20TOPSAR%20Interferometry%20with%20Sentinel-1%20Tutorial_v2.pdf).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Braun",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "TOPS Interferometry Tutorial. Sentinel-1, Toolbox",
+   "uri": "https://step.esa.int/docs/tutorials/S1TBX%20TOPSAR%20Interferometry%20with%20Sentinel-1%20Tutorial_v2.pdf",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Chisholm M.D.I. 1962, *Rural Settlement and Land Use: An Essay in Location*, London, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chisholm",
+     "given": "M.D.I."
+    }
+   ],
+   "date": "1962",
+   "title": "Rural Settlement and Land Use: An Essay in Location",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Citter C., Arnoldus-Huyzendveld A. 2011, *Uso del suolo e sfruttamento delle risorse nella pianura grossetana nel Medioevo*, Roma, Artemide.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Citter",
+     "given": "C."
+    },
+    {
+     "family": "Arnoldus-Huyzendveld",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "Uso del suolo e sfruttamento delle risorse nella pianura grossetana nel Medioevo",
+   "publisher": "Artemide",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Colenbrander B. 2005, *Limes Atlas*, Rotterdam, Uitgeverij.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Colenbrander",
+     "given": "B."
+    }
+   ],
+   "date": "2005",
+   "title": "Limes Atlas",
+   "place": "Rotterdam",
+   "language": "dut",
+   "notes": "publisher cited only as 'Uitgeverij'",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "De Silva M., Pizziolo G. 2001, *Setting up a \"human calibrated\" anisotropic cost surface for archaeological landscape investigation*, in Z. Stančič, T. Veljanovski (eds.), *Computing Archaeology for Understanding the Past. CAA 2000. Computer Applications and Quantitative Methods in Archaeology, Proceedings of the 28th Conference (Ljubljana 2000)*, BAR International Series 931, Oxford, Archaeopress, 279-286 (https://proceedings.caaconference.org/files/2000/39_DeSilva_Pizziolo_CAA_2000.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Silva",
+     "given": "M."
+    },
+    {
+     "family": "Pizziolo",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "Setting up a \"human calibrated\" anisotropic cost surface for archaeological landscape investigation",
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. CAA 2000. Computer Applications and Quantitative Methods in Archaeology, Proceedings of the 28th Conference (Ljubljana 2000)"
+   ],
+   "pages": "279-286",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "uri": "https://proceedings.caaconference.org/files/2000/39_DeSilva_Pizziolo_CAA_2000.pdf",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Forte M. 2002, *I Sistemi Informativi Geografici in archeologia*, Roma, MondoGIS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "I Sistemi Informativi Geografici in archeologia",
+   "publisher": "MondoGIS",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Grassi G. 2011, *Castra e limes*, in Bejor et al. 2011, 78-79.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Grassi",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "Castra e limes",
+   "is_part_of": [
+    "Arte e archeologia delle province romane"
+   ],
+   "pages": "78-79",
+   "language": "ita",
+   "xref": 2,
+   "notes": "contribution within Bejor et al. 2011 (authored book, no editors)",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Haalebos J.K., Willems W.J.H. 1999, *Recent research on the limes in the Netherlands*, «Journal of Roman Archaeology», 12, 248-252 (https://doi:10.1017/S1047759400018018).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Haalebos",
+     "given": "J.K."
+    },
+    {
+     "family": "Willems",
+     "given": "W.J.H."
+    }
+   ],
+   "date": "1999",
+   "title": "Recent research on the limes in the Netherlands",
+   "is_part_of": [
+    "Journal of Roman Archaeology"
+   ],
+   "volume": "12",
+   "pages": "248-252",
+   "doi": "10.1017/S1047759400018018",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Heimberg U. 1999, *Colonia Ulpia Traiana (Xanten). Struttura urbana e sociale*, in G.A. Popescu (ed.), *Traiano. Ai confini dell'impero*, Ancona, Electa, 41-48.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Heimberg",
+     "given": "U."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Popescu",
+     "given": "G.A."
+    }
+   ],
+   "date": "1999",
+   "title": "Colonia Ulpia Traiana (Xanten). Struttura urbana e sociale",
+   "is_part_of": [
+    "Traiano. Ai confini dell'impero"
+   ],
+   "pages": "41-48",
+   "publisher": "Electa",
+   "place": "Ancona",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Lendering J., Bosman A. 2012, *Edge of Empire. Rome's Frontier on the Lower Rhine*, Rotterdam, Karwansaray Publishers.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lendering",
+     "given": "J."
+    },
+    {
+     "family": "Bosman",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Edge of Empire. Rome's Frontier on the Lower Rhine",
+   "publisher": "Karwansaray Publishers",
+   "place": "Rotterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Llobera M. 2000, *Understanding movement: A pilot model towards the sociology of movement*, in G. Lock (ed.), *Beyond the Map. Archaeology and Spatial Technologies, Proceedings of the NATO Advanced Research Workshop (Ravello 2000)*, Amsterdam, IOS Press, 65-84 (https://www.researchgate.net/publication/259011528_Understanding_movement_a_pilot_model_towards_the_sociology_of_movement).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Llobera",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Understanding movement: A pilot model towards the sociology of movement",
+   "is_part_of": [
+    "Beyond the Map. Archaeology and Spatial Technologies, Proceedings of the NATO Advanced Research Workshop (Ravello 2000)"
+   ],
+   "pages": "65-84",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "uri": "https://www.researchgate.net/publication/259011528_Understanding_movement_a_pilot_model_towards_the_sociology_of_movement",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Maggi S. 2011, *Germaniae*, in Bejor et al. 2011, 77-78, 101-111.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Maggi",
+     "given": "S."
+    }
+   ],
+   "date": "2011",
+   "title": "Germaniae",
+   "is_part_of": [
+    "Arte e archeologia delle province romane"
+   ],
+   "pages": "77-78, 101-111",
+   "language": "ita",
+   "xref": 2,
+   "notes": "contribution within Bejor et al. 2011 (authored book, no editors)",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Minetti A.E. 1995, *Optimum gradient of mountain paths*, «Journal of Applied Physiology», 79, 5, 1698-1703.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Minetti",
+     "given": "A.E."
+    }
+   ],
+   "date": "1995",
+   "title": "Optimum gradient of mountain paths",
+   "is_part_of": [
+    "Journal of Applied Physiology"
+   ],
+   "volume": "79",
+   "issue": "5",
+   "pages": "1698-1703",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Pecere B. 2006, *Viewshed e cost surface analyses per uno studio dei sistemi insediativi antichi: il caso della Daunia tra X e VI sec. a.C.*, «Archeologia e Calcolatori», 17, 177-213 (http://www.archcalc.cnr.it/indice/PDF17/11_Pecere.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pecere",
+     "given": "B."
+    }
+   ],
+   "date": "2006",
+   "title": "Viewshed e cost surface analyses per uno studio dei sistemi insediativi antichi: il caso della Daunia tra X e VI sec. a.C.",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "17",
+   "pages": "177-213",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF17/11_Pecere.pdf",
+   "language": "ita",
+   "cited_aec_id": 427,
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Polak M. 2009, *The Roman military presence in the Rhine delta in the period c. AD 40-140*, in A. Morillo, N. Hanel, E. Martín (eds.), *Limes XX, 20th International Congress of Roman Frontiers Studies (Leon 2006)*, Madrid, Kalamo Libros, 945-953.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Polak",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Morillo",
+     "given": "A."
+    },
+    {
+     "family": "Hanel",
+     "given": "N."
+    },
+    {
+     "family": "Martín",
+     "given": "E."
+    }
+   ],
+   "date": "2009",
+   "title": "The Roman military presence in the Rhine delta in the period c. AD 40-140",
+   "is_part_of": [
+    "Limes XX, 20th International Congress of Roman Frontiers Studies (Leon 2006)"
+   ],
+   "pages": "945-953",
+   "publisher": "Kalamo Libros",
+   "place": "Madrid",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Polak M. 2014, *An early Roman naval base at Vechten (prov. Utrecht/Nl): Facts and fiction*, in AA.VV., *Honesta Missione. Festschrift für Barbara Pferdehirt*, Mainz, Schnell&Steiner, 69-95.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Polak",
+     "given": "M."
+    }
+   ],
+   "date": "2014",
+   "title": "An early Roman naval base at Vechten (prov. Utrecht/Nl): Facts and fiction",
+   "is_part_of": [
+    "Honesta Missione. Festschrift für Barbara Pferdehirt"
+   ],
+   "pages": "69-95",
+   "publisher": "Schnell&Steiner",
+   "place": "Mainz",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Polak M., Kloosterman R.P.J., Niemeijer R.A.J. (eds.) 2004, *Alphen aan den Rijn-Albaniana 2001-2002, Opgravingen tussen de Castellumstraat, het Omloopkanaal en de Oude Rijn*, Libelli Noviomagenses 7, Nijmegen, Radboud Universiteit, Provinciaal-Romeinse Archeologie (https://hdl.handle.net/2066/60846).",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Polak",
+     "given": "M."
+    },
+    {
+     "family": "Kloosterman",
+     "given": "R.P.J."
+    },
+    {
+     "family": "Niemeijer",
+     "given": "R.A.J."
+    }
+   ],
+   "date": "2004",
+   "title": "Alphen aan den Rijn-Albaniana 2001-2002, Opgravingen tussen de Castellumstraat, het Omloopkanaal en de Oude Rijn",
+   "series": "Libelli Noviomagenses",
+   "series_number": "7",
+   "publisher": "Radboud Universiteit, Provinciaal-Romeinse Archeologie",
+   "place": "Nijmegen",
+   "uri": "https://hdl.handle.net/2066/60846",
+   "language": "dut",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Semeraro G. 2009, *Strumenti per l'analisi dei paesaggi archeologici. Il caso della Messapia ellenistica*, in M. Osanna (ed.), *Verso la città. Forme insediative in Lucania e nel mondo italico fra IV e III sec. a.C., Atti delle Giornate di Studio (Venosa 2006)*, Venosa, Osanna Edizioni, 289-306.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Osanna",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Strumenti per l'analisi dei paesaggi archeologici. Il caso della Messapia ellenistica",
+   "is_part_of": [
+    "Verso la città. Forme insediative in Lucania e nel mondo italico fra IV e III sec. a.C., Atti delle Giornate di Studio (Venosa 2006)"
+   ],
+   "pages": "289-306",
+   "publisher": "Osanna Edizioni",
+   "place": "Venosa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Van Dinter M. 2013, *The Roman limes in the Netherlands: How a delta landscape determined the location of the military structures*, «Netherlands Journal of Geosciences. Geologie en Mijnbouw», 92-1, 11-32.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Van Dinter",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "The Roman limes in the Netherlands: How a delta landscape determined the location of the military structures",
+   "is_part_of": [
+    "Netherlands Journal of Geosciences. Geologie en Mijnbouw"
+   ],
+   "volume": "92",
+   "issue": "1",
+   "pages": "11-32",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Van Luesen M. 1993, *Cartographic modelling in a cell-based GIS*, in J. Andresen, T. Madsen, Scollar I. (eds.), *Computing the Past. Computer Application and Quantitative Methods in Archaeology*, CAA92, Aarhus, Aarhus University Press, 105-123 (https://proceedings.caaconference.org/files/1992/11_Leusen_CAA_1992.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Van Luesen",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "date": "1993",
+   "title": "Cartographic modelling in a cell-based GIS",
+   "is_part_of": [
+    "Computing the Past. Computer Application and Quantitative Methods in Archaeology, CAA92"
+   ],
+   "pages": "105-123",
+   "publisher": "Aarhus University Press",
+   "place": "Aarhus",
+   "uri": "https://proceedings.caaconference.org/files/1992/11_Leusen_CAA_1992.pdf",
+   "language": "eng",
+   "notes": "author cited as 'Van Luesen' (typo for van Leusen), year 1993 (CAA92)",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Velthuis I.M.J. 2007, *Ontwerpen met onzichtbaar erfgoed. Het behoud van archeologie in een stedelijk ontwerp*, Leiden, 21-75.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Velthuis",
+     "given": "I.M.J."
+    }
+   ],
+   "date": "2007",
+   "title": "Ontwerpen met onzichtbaar erfgoed. Het behoud van archeologie in een stedelijk ontwerp",
+   "pages": "21-75",
+   "place": "Leiden",
+   "language": "dut",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Verhagen P., Jamie J., Groenhuijzen M.R. 2019, *Finding the limits of the limes: Setting the scene*, in P. Verhagen, J. Jamie, M.R. Groenhuijzen (eds.), *Finding the Limits of the Limes. Computational Social Sciences*, Springer, Cham (https://doi.org/10.1007/978-3-030-04576-0_1).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Verhagen",
+     "given": "P."
+    },
+    {
+     "family": "Jamie",
+     "given": "J."
+    },
+    {
+     "family": "Groenhuijzen",
+     "given": "M.R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Verhagen",
+     "given": "P."
+    },
+    {
+     "family": "Jamie",
+     "given": "J."
+    },
+    {
+     "family": "Groenhuijzen",
+     "given": "M.R."
+    }
+   ],
+   "date": "2019",
+   "title": "Finding the limits of the limes: Setting the scene",
+   "is_part_of": [
+    "Finding the Limits of the Limes. Computational Social Sciences"
+   ],
+   "publisher": "Springer",
+   "place": "Cham",
+   "doi": "10.1007/978-3-030-04576-0_1",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Visser R.M. 2015, *Imperial timber? Dendrochronological evidence for large-scale road building along the Roman limes in the Netherlands*, «Journal of Archaeological Science», 53, 234-254 (https://doi.org/10.1016/j.jas.2014.10.017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Visser",
+     "given": "R.M."
+    }
+   ],
+   "date": "2015",
+   "title": "Imperial timber? Dendrochronological evidence for large-scale road building along the Roman limes in the Netherlands",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "53",
+   "pages": "234-254",
+   "doi": "10.1016/j.jas.2014.10.017",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Vita Finzi C., Higgs E.S. 1970, *Prehistoric economy in the Mt. Carmel area of Palestine: Site catchment analysis*, «Proceedings of the Prehistoric Society», 36, 11-37.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vita Finzi",
+     "given": "C."
+    },
+    {
+     "family": "Higgs",
+     "given": "E.S."
+    }
+   ],
+   "date": "1970",
+   "title": "Prehistoric economy in the Mt. Carmel area of Palestine: Site catchment analysis",
+   "is_part_of": [
+    "Proceedings of the Prehistoric Society"
+   ],
+   "volume": "36",
+   "pages": "11-37",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Wheatley D. 1995, *Cumulative viewshed analysis: A GIS-based method for investigating intervisibility and its archaeological application*, in G. Lock, Z. Stančič (eds.), *Archaeology and Geographic Information Systems: A European Perspective*, London, Taylor&Francis, 171-185.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Cumulative viewshed analysis: A GIS-based method for investigating intervisibility and its archaeological application",
+   "is_part_of": [
+    "Archaeology and Geographic Information Systems: A European Perspective"
+   ],
+   "pages": "171-185",
+   "publisher": "Taylor&Francis",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Wheatley D., Gillings M. 2002, *Spatial Technology and Archaeology. The Archaeological Applications of GIS*, London-New York, Taylor&Francis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    },
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Spatial Technology and Archaeology. The Archaeological Applications of GIS",
+   "publisher": "Taylor&Francis",
+   "place": "London-New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Willems W.J.H. 1990, *Romeinse Nijmegen, Vier eeuwen stad en centrum aan de Waal Utrecht*, Utrecht, Stichting Matrijs.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Willems",
+     "given": "W.J.H."
+    }
+   ],
+   "date": "1990",
+   "title": "Romeinse Nijmegen, Vier eeuwen stad en centrum aan de Waal",
+   "publisher": "Stichting Matrijs",
+   "place": "Utrecht",
+   "language": "dut",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Willems W.J.H. 1992, *Roman face masks from the Kops Plateau, Nijmegen, The Netherlands*, «Journal of Roman Military Equipment Studies», 3, 57-66.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Willems",
+     "given": "W.J.H."
+    }
+   ],
+   "date": "1992",
+   "title": "Roman face masks from the Kops Plateau, Nijmegen, The Netherlands",
+   "is_part_of": [
+    "Journal of Roman Military Equipment Studies"
+   ],
+   "volume": "3",
+   "pages": "57-66",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Zandstra M.J.M., Polak M. 2012, *De Romeinse versterkingen in Vechten-Fectio. Het archeologisch onderzoek in 1946-1947*, Nijmegen, Auxilia.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Zandstra",
+     "given": "M.J.M."
+    },
+    {
+     "family": "Polak",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "De Romeinse versterkingen in Vechten-Fectio. Het archeologisch onderzoek in 1946-1947",
+   "publisher": "Auxilia",
+   "place": "Nijmegen",
+   "language": "dut",
+   "confidence": "high"
+  }
+ ]
+}

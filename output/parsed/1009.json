@@ -1,0 +1,610 @@
+{
+ "citing_aec_id": 1009,
+ "source_file": "data/journal/29/1009.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Addison A.C., De Luca L., Guidi G., Pescarin S. (eds.) 2013, *Proceedings of the 2013 Digital Heritage International Congress (Digital Heritage) (Marseille 2013)*, IEEE Conference Publications (http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6743693; ultimo accesso 15/2/2018).",
+   "type": "proceedings",
+   "date": "2013",
+   "title": "Proceedings of the 2013 Digital Heritage International Congress (Digital Heritage) (Marseille 2013)",
+   "editors": [
+    {
+     "family": "Addison",
+     "given": "A.C."
+    },
+    {
+     "family": "De Luca",
+     "given": "L."
+    },
+    {
+     "family": "Guidi",
+     "given": "G."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    }
+   ],
+   "publisher": "IEEE Conference Publications",
+   "language": "eng",
+   "uri": "http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6743693",
+   "notes": "last accessed 15/2/2018",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Adembri B., Alonso-Durà A., Juan-Vidal F., Bertacchi G., Bertacchi S., Cipriani L., Fantini F., Soriano-Estevalis B. 2016, *Modelli digitali 3D per documentare, conoscere ed analizzare l'architettura e la costruzione nel mondo antico: l'esempio della sala ottagonale delle piccole terme di Villa Adriana*, «Archeologia e Calcolatori», 27, 291-316.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Adembri",
+     "given": "B."
+    },
+    {
+     "family": "Alonso-Durà",
+     "given": "A."
+    },
+    {
+     "family": "Juan-Vidal",
+     "given": "F."
+    },
+    {
+     "family": "Bertacchi",
+     "given": "G."
+    },
+    {
+     "family": "Bertacchi",
+     "given": "S."
+    },
+    {
+     "family": "Cipriani",
+     "given": "L."
+    },
+    {
+     "family": "Fantini",
+     "given": "F."
+    },
+    {
+     "family": "Soriano-Estevalis",
+     "given": "B."
+    }
+   ],
+   "date": "2016",
+   "title": "Modelli digitali 3D per documentare, conoscere ed analizzare l'architettura e la costruzione nel mondo antico: l'esempio della sala ottagonale delle piccole terme di Villa Adriana",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "27",
+   "pages": "291-316",
+   "language": "ita",
+   "cited_aec_id": 853,
+   "notes": "cited 'Alonso-Durà' (AeC metadata: Alonso-Durá)",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Brusaporci S., Trizio I. 2013, *La \"Carta di Londra\" e il Patrimonio Architettonico: riflessioni circa una possibile implementazione*, «SCIRES-IT», 3, 2, 55-68.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brusaporci",
+     "given": "S."
+    },
+    {
+     "family": "Trizio",
+     "given": "I."
+    }
+   ],
+   "date": "2013",
+   "title": "La \"Carta di Londra\" e il Patrimonio Architettonico: riflessioni circa una possibile implementazione",
+   "is_part_of": [
+    "SCIRES-IT"
+   ],
+   "volume": "3",
+   "issue": "2",
+   "pages": "55-68",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Caraceni S. 2012, *Musei virtuali / augmented heritage. Evoluzione e classificazione delle tipologie di virtualità in alcuni case histories*, Rimini, Guaraldi.",
+   "type": "book",
+   "date": "2012",
+   "title": "Musei virtuali / augmented heritage. Evoluzione e classificazione delle tipologie di virtualità in alcuni case histories",
+   "creators": [
+    {
+     "family": "Caraceni",
+     "given": "S."
+    }
+   ],
+   "publisher": "Guaraldi",
+   "place": "Rimini",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "De Angelis d'Ossat G. 1962, *Studi ravennati: problemi di architettura paleocristiana*, Ravenna, Edizioni Dante.",
+   "type": "book",
+   "date": "1962",
+   "title": "Studi ravennati: problemi di architettura paleocristiana",
+   "creators": [
+    {
+     "family": "De Angelis d'Ossat",
+     "given": "G."
+    }
+   ],
+   "publisher": "Edizioni Dante",
+   "place": "Ravenna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Gaiani M. 2012, *Creare Sistemi informativi per studiare, conservare, gestire e comunicare sistemi architettonici e archeologici complessi*, «DisegnareCon», 5, 10, 9-20.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gaiani",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Creare Sistemi informativi per studiare, conservare, gestire e comunicare sistemi architettonici e archeologici complessi",
+   "is_part_of": [
+    "DisegnareCon"
+   ],
+   "volume": "5",
+   "issue": "10",
+   "pages": "9-20",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Heidenreich R., Heinz J. 1971, *Das Grabmal Theoderichs zu Ravenna*, Wiesbaden, F. Steiner.",
+   "type": "book",
+   "date": "1971",
+   "title": "Das Grabmal Theoderichs zu Ravenna",
+   "creators": [
+    {
+     "family": "Heidenreich",
+     "given": "R."
+    },
+    {
+     "family": "Heinz",
+     "given": "J."
+    }
+   ],
+   "publisher": "F. Steiner",
+   "place": "Wiesbaden",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Iannucci A.M. 1995, *Per una storiografia dei restauri ravennati: il mausoleo di Galla Placidia*, Corso di cultura sull'arte ravennate e bizantina, 41, Ravenna, 63-76.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Iannucci",
+     "given": "A.M."
+    }
+   ],
+   "date": "1995",
+   "title": "Per una storiografia dei restauri ravennati: il mausoleo di Galla Placidia",
+   "is_part_of": [
+    "Corso di cultura sull'arte ravennate e bizantina"
+   ],
+   "pages": "63-76",
+   "place": "Ravenna",
+   "language": "ita",
+   "volume": "41",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Incerti M., Iurilli S. 2014, *From survey data to virtual environment. Two case studies*, «SCIRES-IT», 4, 2, 87-108.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Incerti",
+     "given": "M."
+    },
+    {
+     "family": "Iurilli",
+     "given": "S."
+    }
+   ],
+   "date": "2014",
+   "title": "From survey data to virtual environment. Two case studies",
+   "is_part_of": [
+    "SCIRES-IT"
+   ],
+   "volume": "4",
+   "issue": "2",
+   "pages": "87-108",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Incerti M., Iurilli S. 2015, *Schifanoia Palace in Ferrara. A virtual storytelling for its knowledge and dissemination*, in Torres et al. 2015, 41-48.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Incerti",
+     "given": "M."
+    },
+    {
+     "family": "Iurilli",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Torres",
+     "given": "J.C."
+    },
+    {
+     "family": "Graf",
+     "given": "H."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Barceló",
+     "given": "J."
+    },
+    {
+     "family": "Brunet",
+     "given": "P."
+    },
+    {
+     "family": "Susan",
+     "given": "H."
+    },
+    {
+     "family": "Duranti",
+     "given": "L."
+    }
+   ],
+   "date": "2015",
+   "title": "Schifanoia Palace in Ferrara. A virtual storytelling for its knowledge and dissemination",
+   "is_part_of": [
+    "2nd International Congress on Digital Heritage 2015 (Granada 2015)"
+   ],
+   "pages": "41-48",
+   "language": "eng",
+   "xref": 21,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Incerti M., Iurilli S. 2016, *Virtuality and multimedia for digital heritage: Schifanoia Palace and its Hall of Months*, in A. Ippolito, M. Cigola (eds.), *Handbook of Research on Emerging Technologies for Digital Preservation and Information Modeling*, Hershey, PA, IGI Global, 288-315.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Incerti",
+     "given": "M."
+    },
+    {
+     "family": "Iurilli",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ippolito",
+     "given": "A."
+    },
+    {
+     "family": "Cigola",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "Virtuality and multimedia for digital heritage: Schifanoia Palace and its Hall of Months",
+   "is_part_of": [
+    "Handbook of Research on Emerging Technologies for Digital Preservation and Information Modeling"
+   ],
+   "pages": "288-315",
+   "publisher": "IGI Global",
+   "place": "Hershey, PA",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Incerti M., Lavoratti G. 2016, *All'origine della forma: misura e numero nel Mausoleo di Teodorico / The origins of form: Measurement and numbers in Theodoric's Mausoleum*, in M. Bini, S. Bertocci (eds.), *Le ragioni del disegno. Pensiero, forma e modello nella gestione della complessità / The Reasons of Drawing. Thought, Shape and Model in the Complexity Management*, Roma, Gangemi Editore, 389-394.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Incerti",
+     "given": "M."
+    },
+    {
+     "family": "Lavoratti",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bini",
+     "given": "M."
+    },
+    {
+     "family": "Bertocci",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "All'origine della forma: misura e numero nel Mausoleo di Teodorico / The origins of form: Measurement and numbers in Theodoric's Mausoleum",
+   "is_part_of": [
+    "Le ragioni del disegno. Pensiero, forma e modello nella gestione della complessità / The Reasons of Drawing. Thought, Shape and Model in the Complexity Management"
+   ],
+   "pages": "389-394",
+   "publisher": "Gangemi Editore",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Incerti M., Lavoratti G., Iurilli S. 2016, *Survey, archaeoastronomy and communication: The Mausoleum of Theodoric in Ravenna (Italy)*, «Mediterranean Archaeology and Archaeometry», 4, 437-446.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Incerti",
+     "given": "M."
+    },
+    {
+     "family": "Lavoratti",
+     "given": "G."
+    },
+    {
+     "family": "Iurilli",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "Survey, archaeoastronomy and communication: The Mausoleum of Theodoric in Ravenna (Italy)",
+   "is_part_of": [
+    "Mediterranean Archaeology and Archaeometry"
+   ],
+   "volume": "4",
+   "pages": "437-446",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Incerti M., Lavoratti G., Iurilli S. 2017, *Il mausoleo di Teodorico: rilievo, analisi e comunicazione*, in O. Niglio, C. Visenti (eds.), *Conoscere, conservare, valorizzare il patrimonio culturale religioso*, 3, *Archivi, musei, biblioteche*, Roma, Aracne, 70-78.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Incerti",
+     "given": "M."
+    },
+    {
+     "family": "Lavoratti",
+     "given": "G."
+    },
+    {
+     "family": "Iurilli",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Niglio",
+     "given": "O."
+    },
+    {
+     "family": "Visenti",
+     "given": "C."
+    }
+   ],
+   "date": "2017",
+   "title": "Il mausoleo di Teodorico: rilievo, analisi e comunicazione",
+   "is_part_of": [
+    "Conoscere, conservare, valorizzare il patrimonio culturale religioso. Archivi, musei, biblioteche"
+   ],
+   "pages": "70-78",
+   "publisher": "Aracne",
+   "place": "Roma",
+   "language": "ita",
+   "volume": "3",
+   "notes": "volume number 3 cited between the title and the subtitle",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Incerti M., Lavoratti G., D'Amico S., Giannetti S. 2018, *The Mausoleum of Galla Placidia in Ravenna: Archaeoastronomy, numbers, geometry and communication*, in SEAC 2018 (in corso di stampa).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Incerti",
+     "given": "M."
+    },
+    {
+     "family": "Lavoratti",
+     "given": "G."
+    },
+    {
+     "family": "D'Amico",
+     "given": "S."
+    },
+    {
+     "family": "Giannetti",
+     "given": "S."
+    }
+   ],
+   "date": "c.s.",
+   "title": "The Mausoleum of Galla Placidia in Ravenna: Archaeoastronomy, numbers, geometry and communication",
+   "is_part_of": [
+    "SEAC 2018"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "c.s. 'in SEAC 2018'. Web search found a publication with the same title and authors, but in another container: Springer 2018 (print 2019), in 'Graphic Imprints', pp. 492-505, DOI 10.1007/978-3-319-93749-6_40 (Crossref; also iris.unife.it/handle/11392/2395184). Not applied: container differs from the cited one (SEAC 2018) -> to be decided",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Migliari R. (ed.) 2004, *Disegno come modello, riflessioni sul disegno nell'era informatica*, Roma, Aracne.",
+   "type": "book",
+   "date": "2004",
+   "title": "Disegno come modello, riflessioni sul disegno nell'era informatica",
+   "editors": [
+    {
+     "family": "Migliari",
+     "given": "R."
+    }
+   ],
+   "publisher": "Aracne",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Novara P. 2013, *Mausoleo di Teodorico*, in A. Ranaldi, P. Novara (eds.), *Restauri dei monumenti paleocristiani e bizantini di Ravenna patrimonio dell'umanità*, Parte I, *Architetture*, Ravenna, Comune di Ravenna, Archidiocesi di Ravenna-Cervia, MiBAC, 114-116.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Novara",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ranaldi",
+     "given": "A."
+    },
+    {
+     "family": "Novara",
+     "given": "P."
+    }
+   ],
+   "date": "2013",
+   "title": "Mausoleo di Teodorico",
+   "is_part_of": [
+    "Restauri dei monumenti paleocristiani e bizantini di Ravenna patrimonio dell'umanità, Parte I, Architetture"
+   ],
+   "pages": "114-116",
+   "publisher": "Comune di Ravenna, Archidiocesi di Ravenna-Cervia, MiBAC",
+   "place": "Ravenna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Ranaldi A. 2011, *Dalla realtà sensibile all'astrazione. La volta stellata del mausoleo di Galla Placidia*, in L. Kniffitz (ed.), *Architettura e mosaico. Atti della Giornata di studi (Ravenna 2010)*, Ravenna, MAR - Museo d'Arte Ravenna, 20-42.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ranaldi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Kniffitz",
+     "given": "L."
+    }
+   ],
+   "date": "2011",
+   "title": "Dalla realtà sensibile all'astrazione. La volta stellata del mausoleo di Galla Placidia",
+   "is_part_of": [
+    "Architettura e mosaico. Atti della Giornata di studi (Ravenna 2010)"
+   ],
+   "pages": "20-42",
+   "publisher": "MAR - Museo d'Arte Ravenna",
+   "place": "Ravenna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Ricci C. 1914, *Il mausoleo di Galla Placidia in Ravenna*, Roma, Calzone.",
+   "type": "book",
+   "date": "1914",
+   "title": "Il mausoleo di Galla Placidia in Ravenna",
+   "creators": [
+    {
+     "family": "Ricci",
+     "given": "C."
+    }
+   ],
+   "publisher": "Calzone",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Romano G. 1995, *Orientamenti ad sidera. Astronomia, riti e calendari per la fondazione di templi e città. Un esempio a Ravenna*, Ravenna, Edizioni Essegi.",
+   "type": "book",
+   "date": "1995",
+   "title": "Orientamenti ad sidera. Astronomia, riti e calendari per la fondazione di templi e città. Un esempio a Ravenna",
+   "creators": [
+    {
+     "family": "Romano",
+     "given": "G."
+    }
+   ],
+   "publisher": "Edizioni Essegi",
+   "place": "Ravenna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Torres J.C., Graf H., Remondino F., Barceló J., Brunet P., Susan H., Duranti L. (eds.) 2015, *2nd International Congress on Digital Heritage 2015 (Granada 2015)*, Granada, IEEE Conference Publications.",
+   "type": "proceedings",
+   "date": "2015",
+   "title": "2nd International Congress on Digital Heritage 2015 (Granada 2015)",
+   "editors": [
+    {
+     "family": "Torres",
+     "given": "J.C."
+    },
+    {
+     "family": "Graf",
+     "given": "H."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Barceló",
+     "given": "J."
+    },
+    {
+     "family": "Brunet",
+     "given": "P."
+    },
+    {
+     "family": "Susan",
+     "given": "H."
+    },
+    {
+     "family": "Duranti",
+     "given": "L."
+    }
+   ],
+   "publisher": "IEEE Conference Publications",
+   "place": "Granada",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

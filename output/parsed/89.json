@@ -1,0 +1,842 @@
+{
+ "citing_aec_id": 89,
+ "source_file": "data/journal/5/89.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ARANEGUI GASCO C. 1978, Anotaciones sobre las anforas del nivel relleno de Grau Vell (Sagunto, Valencia), « Saguntum », 13, 307-326.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Aranegui Gasco",
+     "given": "C."
+    }
+   ],
+   "date": "1978",
+   "title": "Anotaciones sobre las anforas del nivel relleno de Grau Vell (Sagunto, Valencia)",
+   "is_part_of": [
+    "Saguntum"
+   ],
+   "volume": "13",
+   "pages": "307-326",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "BELTRAN LLORIS M. 1970, Las anforas romanas en España, Zaragoza, Excma Diputacion Provincial.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Beltran Lloris",
+     "given": "M."
+    }
+   ],
+   "date": "1970",
+   "title": "Las anforas romanas en España",
+   "place": "Zaragoza",
+   "publisher": "Excma Diputacion Provincial",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BELTRAN LLORIS M. 1977, Problemas de la morfologia y del concepto historico-geografico que recube la notion tipo. Aportaciones a la tipologia de las anforas Beticas, in Méthodes classiques et méthodes formelles dans l'étude des amphores, Rome, Ecole Française de Rome, 32, 97-131.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Beltran Lloris",
+     "given": "M."
+    }
+   ],
+   "date": "1977",
+   "title": "Problemas de la morfologia y del concepto historico-geografico que recube la notion tipo. Aportaciones a la tipologia de las anforas Beticas",
+   "is_part_of": [
+    "Méthodes classiques et méthodes formelles dans l'étude des amphores"
+   ],
+   "volume": "32",
+   "pages": "97-131",
+   "place": "Rome",
+   "publisher": "Ecole Française de Rome",
+   "language": "spa",
+   "notes": "\"32\" after the publisher taken as volume number",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "BELTRAN LLORIS M. 1983, Las anforas romanas de salazones de forma I variante b de la Betica, in AA.VV., Homenaje al prof Martin Almagro Basch, IV, Madrid, 43-52.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Beltran Lloris",
+     "given": "M."
+    }
+   ],
+   "date": "1983",
+   "title": "Las anforas romanas de salazones de forma I variante b de la Betica",
+   "is_part_of": [
+    "Homenaje al prof Martin Almagro Basch"
+   ],
+   "volume": "IV",
+   "pages": "43-52",
+   "place": "Madrid",
+   "language": "spa",
+   "notes": "cited \"in AA.VV.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BEZECZKY T. 1987, Roman Amphorae from the Amber Route in the Western Pannonia, BAR International Series 386, Oxford.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Beczecky",
+     "given": "T."
+    }
+   ],
+   "date": "1987",
+   "title": "Roman Amphorae from the Amber Route in the Western Pannonia",
+   "series": "BAR International Series",
+   "series_number": "386",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "BUCHI E. 1973, Banchi di anfore a Verona. Note sui commerci cisalpini, in Il territorio veronese in età romana. Atti del convegno Verona (22-24 ottobre 1971), Verona, 531-637.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buchi",
+     "given": "E."
+    }
+   ],
+   "date": "1973",
+   "title": "Banchi di anfore a Verona. Note sui commerci cisalpini",
+   "is_part_of": [
+    "Il territorio veronese in età romana. Atti del convegno Verona (22-24 ottobre 1971)"
+   ],
+   "pages": "531-637",
+   "place": "Verona",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "CIPRIANO M.T., CARRE M.B. 1987, Note sulle anfore conservate nel Museo di Aquileia, « Antichità Alto Adriatiche », 29, 479-494.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cipriano",
+     "given": "M.T."
+    },
+    {
+     "family": "Carre",
+     "given": "M.B."
+    }
+   ],
+   "date": "1987",
+   "title": "Note sulle anfore conservate nel Museo di Aquileia",
+   "is_part_of": [
+    "Antichità Alto Adriatiche"
+   ],
+   "volume": "29",
+   "pages": "479-494",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "CUOMO DI CAPRIO N. 1985, La ceramica in archeologia. Antiche tecniche di lavorazione e moderni metodi d'indagine, Roma, \"L'Erma\" di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cuomo di Caprio",
+     "given": "N."
+    }
+   ],
+   "date": "1985",
+   "title": "La ceramica in archeologia. Antiche tecniche di lavorazione e moderni metodi d'indagine",
+   "place": "Roma",
+   "publisher": "\"L'Erma\" di Bretschneider",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "ECHALLIER J.C. 1984, Elements de technologie céramique et d'analyse des terres cuites archéologiques,Documents d'archéologie méridiona]e, série Méthodes et Techniques, 3 ed., Amigon, Salon.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Echallier",
+     "given": "J.C."
+    }
+   ],
+   "date": "1984",
+   "title": "Elements de technologie céramique et d'analyse des terres cuites archéologiques",
+   "series": "Documents d'archéologie méridionale, série Méthodes et Techniques",
+   "series_number": "3",
+   "publisher": "Amigon",
+   "place": "Salon",
+   "language": "fre",
+   "confidence": "low",
+   "notes": "cited \"3 ed., Amigon, Salon\": \"3\" read as series number (not edition), \"ed.\" as publisher"
+  },
+  {
+   "position": 10,
+   "raw": "FAILLA A., MODRZEWSKA I., PIANETTI F., TARONI G. 1993, Applicazione di metodi statistici per lo studio delle anfore del deposito della Tomba di Giulietta di Verona, ISDGMCNR TR 176.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Failla",
+     "given": "A."
+    },
+    {
+     "family": "Modrzewska",
+     "given": "I."
+    },
+    {
+     "family": "Pianetti",
+     "given": "F."
+    },
+    {
+     "family": "Taroni",
+     "given": "G."
+    }
+   ],
+   "date": "1993",
+   "title": "Applicazione di metodi statistici per lo studio delle anfore del deposito della Tomba di Giulietta di Verona",
+   "series": "ISDGM-CNR TR",
+   "series_number": "176",
+   "language": "ita",
+   "notes": "technical report",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "FRANZONI L. 1975, Edizione archeologica della carta d'Italia al 100000. Foglio 49 Verona, ed. Istituto Geografico Militare, 74-75.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Franzoni",
+     "given": "L."
+    }
+   ],
+   "date": "1975",
+   "title": "Edizione archeologica della carta d'Italia al 100000. Foglio 49 Verona",
+   "publisher": "Istituto Geografico Militare",
+   "pages": "74-75",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "HESNARD A. 1980, Un dépôt augustéen d'amphores à la Longarina, Ostie, « Memoirs of the American Academy in Rome », 36, 141-156.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hesnard",
+     "given": "A."
+    }
+   ],
+   "date": "1980",
+   "title": "Un dépôt augustéen d'amphores à la Longarina, Ostie",
+   "is_part_of": [
+    "Memoirs of the American Academy in Rome"
+   ],
+   "volume": "36",
+   "pages": "141-156",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "HESNARD A., LEMOINE CH. 1981, Les amphores du Cécube et du Falerne: prospections, typologie, analyses, « Mélanges de l'Ecole Française de Rome », 93, 1, 243-295.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hesnard",
+     "given": "A."
+    },
+    {
+     "family": "Lemoine",
+     "given": "Ch."
+    }
+   ],
+   "date": "1981",
+   "title": "Les amphores du Cécube et du Falerne: prospections, typologie, analyses",
+   "is_part_of": [
+    "Mélanges de l'Ecole Française de Rome"
+   ],
+   "volume": "93",
+   "pages": "243-295",
+   "language": "fre",
+   "issue": "1",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "LAUBENHEIMER F., FONTES P. et al. 1987, Analyse par activation neutronique d'amphores galloromaines mise en evidence d'exportations auxfrontières de l'empire, « Revue d' Archéometrie », 11, suppl. III, 155-175.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Laubenheimer",
+     "given": "F."
+    },
+    {
+     "family": "Fontes",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Analyse par activation neutronique d'amphores galloromaines mise en evidence d'exportations aux frontières de l'empire",
+   "is_part_of": [
+    "Revue d'Archéometrie"
+   ],
+   "volume": "11",
+   "pages": "155-175",
+   "language": "fre",
+   "issue": "suppl. III",
+   "notes": "et al. in citation",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "LACHENBRUCH P.A. 1975, Discriminant Analysis, New York, Hafner Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lachenbruch",
+     "given": "P.A."
+    }
+   ],
+   "date": "1975",
+   "title": "Discriminant Analysis",
+   "place": "New York",
+   "publisher": "Hafner Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "LE RIBAULT L. 1977, Exoscopie des quartz, Paris, Masson.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Le Ribault",
+     "given": "L."
+    }
+   ],
+   "date": "1977",
+   "title": "Exoscopie des quartz",
+   "place": "Paris",
+   "publisher": "Masson",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "LEVI S.T. 1991, Bibliografia selezionata di studi sulla ceramica: classificazione e variabilità, in Il disegno archeologico della ceramica e altri problemi. Salutarie del laboratorio del Piovego 2, Laboratorio di ricerca e restauro di Padova, Torino, E.D.T., 87-139.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Levi",
+     "given": "S.T."
+    }
+   ],
+   "date": "1991",
+   "title": "Bibliografia selezionata di studi sulla ceramica: classificazione e variabilità",
+   "is_part_of": [
+    "Il disegno archeologico della ceramica e altri problemi"
+   ],
+   "series": "Salutarie del laboratorio del Piovego",
+   "series_number": "2",
+   "pages": "87-139",
+   "place": "Torino",
+   "publisher": "E.D.T.",
+   "language": "ita",
+   "confidence": "low",
+   "notes": "series title \"Salutarie\" possibly OCR noise; \"Laboratorio di ricerca e restauro di Padova\" in citation"
+  },
+  {
+   "position": 18,
+   "raw": "MANACORDA D. 1977, Anfore spagnole a Pompei, in L'instrumentum domesticum di Ercolano e Pompei nella prima età imperiale , Quaderni di cultura materiale, 1, Roma, 121-133.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "1977",
+   "title": "Anfore spagnole a Pompei",
+   "is_part_of": [
+    "L'instrumentum domesticum di Ercolano e Pompei nella prima età imperiale"
+   ],
+   "series": "Quaderni di cultura materiale",
+   "series_number": "1",
+   "pages": "121-133",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "MELLO F., LUSUARDI A., MELONI G., ODDONE M. 1982, Provenances studies of Roman amphorae by Instrumental Neutron Activation Analysis, « Journal of Radioanalytical Chemistry », 69, 259-270",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mello",
+     "given": "F."
+    },
+    {
+     "family": "Lusuardi",
+     "given": "A."
+    },
+    {
+     "family": "Meloni",
+     "given": "G."
+    },
+    {
+     "family": "Oddone",
+     "given": "M."
+    }
+   ],
+   "date": "1982",
+   "title": "Provenances studies of Roman amphorae by Instrumental Neutron Activation Analysis",
+   "is_part_of": [
+    "Journal of Radioanalytical Chemistry"
+   ],
+   "volume": "69",
+   "pages": "259-270",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "MICHEL B., WEISS J. et al. 1987, Analyses minéralogique, chimique et technologique d'engobes argileux, « Revue d'Archéometrie », 11, 63-75.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Michel",
+     "given": "B."
+    },
+    {
+     "family": "Weiss",
+     "given": "J."
+    }
+   ],
+   "date": "1987",
+   "title": "Analyses minéralogique, chimique et technologique d'engobes argileux",
+   "is_part_of": [
+    "Revue d'Archéometrie"
+   ],
+   "volume": "11",
+   "pages": "63-75",
+   "language": "fre",
+   "notes": "et al. in citation",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "MIDDLETON A.P., FREESTONE I. C. et al. 1985, Textural analysis of ceramic thin section: evaluation of grain sampling procedures, « Archaeometry », 27, 1, 64-74.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Middleton",
+     "given": "A.P."
+    },
+    {
+     "family": "Freestone",
+     "given": "I.C."
+    }
+   ],
+   "date": "1985",
+   "title": "Textural analysis of ceramic thin section: evaluation of grain sampling procedures",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "27",
+   "pages": "64-74",
+   "language": "eng",
+   "issue": "1",
+   "notes": "et al. in citation",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "MILLOT G. 1964, Géologie des argiles, Paris, Masson.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Millot",
+     "given": "G."
+    }
+   ],
+   "date": "1964",
+   "title": "Géologie des argiles",
+   "place": "Paris",
+   "publisher": "Masson",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "MODRZEWSKA I., TARONI G. 1992, Analisi quantitativa di forme di alcune lucerne tardoromane, « Archeologia e Calcolatori », 3, 19-36.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Modrzewska",
+     "given": "I."
+    },
+    {
+     "family": "Taroni",
+     "given": "G."
+    }
+   ],
+   "date": "1992",
+   "title": "Analisi quantitativa di forme di alcune lucerne tardoromane",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "3",
+   "pages": "19-36",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "MODRZEWSKA I. 1993, Anfore della laguna veneta. Scelta di ritrovamenti, TR 168 ISDGM-CNR, Venezia.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Modrzewska",
+     "given": "I."
+    }
+   ],
+   "date": "1993",
+   "title": "Anfore della laguna veneta. Scelta di ritrovamenti",
+   "series": "ISDGM-CNR TR",
+   "series_number": "168",
+   "place": "Venezia",
+   "language": "ita",
+   "notes": "technical report; line 25 \"Venezia.\" joined to previous reference",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "MODRZEWSKA I., ODDONE M., PIANETTI F., TARONI G. 1993, Anfore spagnole nel Veneto. Progetto di ricerca e primi prodotti, « Archeologia e Calcolatori », 4, 127-135.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Modrzewska",
+     "given": "I."
+    },
+    {
+     "family": "Oddone",
+     "given": "M."
+    },
+    {
+     "family": "Pianetti",
+     "given": "F."
+    },
+    {
+     "family": "Taroni",
+     "given": "G."
+    }
+   ],
+   "date": "1993",
+   "title": "Anfore spagnole nel Veneto. Progetto di ricerca e primi prodotti",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "127-135",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "ORTON C.R., TYERS P.A. 1990, Statistical analysis of ceramic assemblages, « Archeologia e Calcolatori », 1, 81-110.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C.R."
+    },
+    {
+     "family": "Tyers",
+     "given": "P.A."
+    }
+   ],
+   "date": "1990",
+   "title": "Statistical analysis of ceramic assemblages",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "81-110",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "PEACOCK D.P.S. 1974, Amphorae and the baetican fish industry, « The Antiquaries Journal », 54, 2, 234-241.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peacock",
+     "given": "D.P.S."
+    }
+   ],
+   "date": "1974",
+   "title": "Amphorae and the baetican fish industry",
+   "is_part_of": [
+    "The Antiquaries Journal"
+   ],
+   "volume": "54",
+   "pages": "234-241",
+   "language": "eng",
+   "issue": "2",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "PEACOCK D.P.S. 1982, Pottery in the Roman World: An Etnoarchaeological Approach, London New York, Longman.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Peacock",
+     "given": "D.P.S."
+    }
+   ],
+   "date": "1982",
+   "title": "Pottery in the Roman World: An Ethnoarchaeological Approach",
+   "place": "London New York",
+   "publisher": "Longman",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "PICON M. 1991, L'analyse par activation neutronique estelle la meilleure méthode que l'on puisse employer pour determiner l'origine de céramique?, « Revue d'Archéometrie », 15, 95-101.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Picon",
+     "given": "M."
+    }
+   ],
+   "date": "1991",
+   "title": "L'analyse par activation neutronique est-elle la meilleure méthode que l'on puisse employer pour determiner l'origine de céramique?",
+   "is_part_of": [
+    "Revue d'Archéometrie"
+   ],
+   "volume": "15",
+   "pages": "95-101",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "PINTO COELHO A. V., CARDOSO J.I. 1990, Estudios sobre pastas de anforas de fornos do Vale do Tejo e do Vale do Sado: analises macro e microscopicas, in A. ALARCAO, F. MAYET (eds.), Les amphores lusitaniennes. Typologie, production, commerce. Actes des journées d'études (Conimbriga 13-14 octobre 1988), Conimbriga, 267-271.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pinto Coelho",
+     "given": "A.V."
+    },
+    {
+     "family": "Cardoso",
+     "given": "J.I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Alarcao",
+     "given": "A."
+    },
+    {
+     "family": "Mayet",
+     "given": "F."
+    }
+   ],
+   "date": "1990",
+   "title": "Estudios sobre pastas de anforas de fornos do Vale do Tejo e do Vale do Sado: analises macro e microscopicas",
+   "is_part_of": [
+    "Les amphores lusitaniennes. Typologie, production, commerce. Actes des journées d'études (Conimbriga 13-14 octobre 1988)"
+   ],
+   "pages": "267-271",
+   "place": "Conimbriga",
+   "language": "por",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "SCIAU P., WERWERFT M. et al. 1992, Recherche sur les temperatures de cuisson et la nature des engobes des céramiques sigillées de la Graufesenque, « Revue d' Archéometrie », 16, 89-97.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sciau",
+     "given": "P."
+    },
+    {
+     "family": "Werwerft",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Recherche sur les temperatures de cuisson et la nature des engobes des céramiques sigillées de la Graufesenque",
+   "is_part_of": [
+    "Revue d'Archéometrie"
+   ],
+   "volume": "16",
+   "pages": "89-97",
+   "language": "fre",
+   "notes": "et al. in citation",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "SERRANO RAMOS E. et al. 1984, Un nuevo taller de sigillata en la Baetica: Alameda (Malaga), « Baetica », 7, 171-180.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Serrano Ramos",
+     "given": "E."
+    }
+   ],
+   "date": "1984",
+   "title": "Un nuevo taller de sigillata en la Baetica: Alameda (Malaga)",
+   "is_part_of": [
+    "Baetica"
+   ],
+   "volume": "7",
+   "pages": "171-180",
+   "language": "spa",
+   "notes": "et al. in citation",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "SERRANO RAMOS E. 1990, Terra sigillata hispanica de los alfares de Singilia Barba, Malaga, Universidad de Malaga.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Serrano Ramos",
+     "given": "E."
+    }
+   ],
+   "date": "1990",
+   "title": "Terra sigillata hispanica de los alfares de Singilia Barba",
+   "place": "Malaga",
+   "publisher": "Universidad de Malaga",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "TAVARES A.F. 1990, Composiçao mineralogica de anforas do Vale do Sado, in A. ALARCAO, F. MAYET (eds.), Les amphores lusitaniennes. Typologie, production, commerce. Actes des joumées d'études (Conimbriga 13-14 octobre 1988), Conimbriga, 259-266.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tavares",
+     "given": "A.F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Alarcao",
+     "given": "A."
+    },
+    {
+     "family": "Mayet",
+     "given": "F."
+    }
+   ],
+   "date": "1990",
+   "title": "Composiçao mineralogica de anforas do Vale do Sado",
+   "is_part_of": [
+    "Les amphores lusitaniennes. Typologie, production, commerce. Actes des journées d'études (Conimbriga 13-14 octobre 1988)"
+   ],
+   "pages": "259-266",
+   "place": "Conimbriga",
+   "language": "por",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "TRICART J. 1965, Principes et méthodes de la géomorphologie, Paris, Masson.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tricart",
+     "given": "J."
+    }
+   ],
+   "date": "1965",
+   "title": "Principes et méthodes de la géomorphologie",
+   "place": "Paris",
+   "publisher": "Masson",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "WIDEMANN F., LAUBENHEIMER F. et al. 1978, Analytical and typological study of Gallo-Roman workshops producing amphorae in the area of Narbonne, « Archaeophysica », 10, 317-341.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Widemann",
+     "given": "F."
+    },
+    {
+     "family": "Laubenheimer",
+     "given": "F."
+    }
+   ],
+   "date": "1978",
+   "title": "Analytical and typological study of Gallo-Roman workshops producing amphorae in the area of Narbonne",
+   "is_part_of": [
+    "Archaeophysica"
+   ],
+   "volume": "10",
+   "pages": "317-341",
+   "language": "eng",
+   "notes": "et al. in citation",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "WILLIAMS D. 1990, The study of ancient ceramics: the contribution of the petrographic method, in T. MANNONI, A. MOLINARI (eds.), Scienze in archeologia. II ciclo di lezioni sulla ricerca applicata in archeologia, Certosa di Pontignano (Siena 7-19 novembre 1988), Firenze, All'Insegna del Giglio, 43-62.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Williams",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Mannoni",
+     "given": "T."
+    },
+    {
+     "family": "Molinari",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "The study of ancient ceramics: the contribution of the petrographic method",
+   "is_part_of": [
+    "Scienze in archeologia. II ciclo di lezioni sulla ricerca applicata in archeologia, Certosa di Pontignano (Siena 7-19 novembre 1988)"
+   ],
+   "pages": "43-62",
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

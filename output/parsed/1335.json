@@ -1,0 +1,165 @@
+{
+ "citing_aec_id": 1335,
+ "source_file": "data/journal/35/1335.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Aldenderfer M. 1991, *The analytical engine: Computer simulation and archaeological research*, «Archaeological Method and Theory», 3, 195-247.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Aldenderfer",
+     "given": "M."
+    }
+   ],
+   "date": "1991",
+   "title": "The analytical engine: Computer simulation and archaeological research",
+   "is_part_of": [
+    "Archaeological Method and Theory"
+   ],
+   "volume": "3",
+   "pages": "195-247",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Costa D.M. 2012, *Virtual worlds: A theoretical proposal about the practice of computer simulations in archaeology*, «Revista de História da Arte e da Cultura», 18, 29-46.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Costa",
+     "given": "D.M."
+    }
+   ],
+   "date": "2012",
+   "title": "Virtual worlds: A theoretical proposal about the practice of computer simulations in archaeology",
+   "is_part_of": [
+    "Revista de História da Arte e da Cultura"
+   ],
+   "volume": "18",
+   "pages": "29-46",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Costa D. 2022, *Digital archaeologies: Debugging three personal experiments*, in A. da Silva Martire, V. Carvalheiro Porto (eds.), *Desconstruindo Arqueologias Digitais*, São Paulo, Museu de Arqueologia e Etnologia da Universidade de São Paulo, 15-31.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Costa",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "da Silva Martire",
+     "given": "A."
+    },
+    {
+     "family": "Carvalheiro Porto",
+     "given": "V."
+    }
+   ],
+   "date": "2022",
+   "title": "Digital archaeologies: Debugging three personal experiments",
+   "is_part_of": [
+    "Desconstruindo Arqueologias Digitais"
+   ],
+   "pages": "15-31",
+   "publisher": "Museu de Arqueologia e Etnologia da Universidade de São Paulo",
+   "place": "São Paulo",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Lake M.W. 2014, *Trends in archaeological simulation*, «Journal of Archaeological Method and Theory», 21, 2, 258-287.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lake",
+     "given": "M.W."
+    }
+   ],
+   "date": "2014",
+   "title": "Trends in archaeological simulation",
+   "is_part_of": [
+    "Journal of Archaeological Method and Theory"
+   ],
+   "volume": "21",
+   "issue": "2",
+   "pages": "258-287",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Lieto A., Striani M., Gena C., Dolza E., Marras A.M., Pozzato G., Damiano R. 2023, *A sensemaking system for grouping and suggesting stories from multiple affective viewpoints in museums,* Human-Computer Interaction.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lieto",
+     "given": "A."
+    },
+    {
+     "family": "Striani",
+     "given": "M."
+    },
+    {
+     "family": "Gena",
+     "given": "C."
+    },
+    {
+     "family": "Dolza",
+     "given": "E."
+    },
+    {
+     "family": "Marras",
+     "given": "A.M."
+    },
+    {
+     "family": "Pozzato",
+     "given": "G."
+    },
+    {
+     "family": "Damiano",
+     "given": "R."
+    }
+   ],
+   "date": "2023",
+   "title": "A sensemaking system for grouping and suggesting stories from multiple affective viewpoints in museums",
+   "is_part_of": [
+    "Human-Computer Interaction"
+   ],
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Marras A.M., Díaz-Kommonen L., Stoneman A., Svinhufvud L. 2023, *Digital technologies for citizen curation in museums: Two case studies from the SPICE project*, ICOM Voices (https://icom.museum/en/news/spice-project-digital-technologies/).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Marras",
+     "given": "A.M."
+    },
+    {
+     "family": "Díaz-Kommonen",
+     "given": "L."
+    },
+    {
+     "family": "Stoneman",
+     "given": "A."
+    },
+    {
+     "family": "Svinhufvud",
+     "given": "L."
+    }
+   ],
+   "date": "2023",
+   "title": "Digital technologies for citizen curation in museums: Two case studies from the SPICE project",
+   "is_part_of": [
+    "ICOM Voices"
+   ],
+   "language": "eng",
+   "uri": "https://icom.museum/en/news/spice-project-digital-technologies/"
+  }
+ ]
+}

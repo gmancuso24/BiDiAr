@@ -1,0 +1,137 @@
+{
+ "citing_aec_id": 204,
+ "source_file": "data/journal/7/204.md",
+ "references": [
+  {
+   "raw": "BUZZANCA G., MEUCCI C. 1993, Le navi virtuali, in Atti Convegno Aicographics '93, Milano, Mondadori informatica, 77-83.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Buzzanca",
+     "given": "G."
+    },
+    {
+     "family": "Meucci",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Le navi virtuali",
+   "pages": "77-83",
+   "is_part_of": [
+    "Atti Convegno Aicographics '93"
+   ],
+   "place": "Milano",
+   "publisher": "Mondadori informatica",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "GOTTARELLI A. 1995, La modellazione tridimensionale del documento archeologico: livelli descrittivi e processamento digitale, «Archeologia e Calcolatori», 5, 75-103.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "La modellazione tridimensionale del documento archeologico: livelli descrittivi e processamento digitale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "75-103",
+   "volume": "5",
+   "language": "ita",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "MANTYLA M. 1990, Introduzione alla modellazione di solidi, Milano, Franco Angeli.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Mantyla",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Introduzione alla modellazione di solidi",
+   "place": "Milano",
+   "publisher": "Franco Angeli",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "MEUCCI C. 1993, Relitti subacquei e conservazione. Dallo scavo al progetto di restauro, in L. MASELLI BITETTI (ed.), Archeologia. Recupero e Conservazione, Firenze, 51-73.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Meucci",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Relitti subacquei e conservazione. Dallo scavo al progetto di restauro",
+   "editors": [
+    {
+     "family": "Maselli Bitetti",
+     "given": "L."
+    }
+   ],
+   "pages": "51-73",
+   "is_part_of": [
+    "Archeologia. Recupero e Conservazione"
+   ],
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "REQUICHA A.A.G., VOELCKER H.B. 1977, Constructive Solid Geometry, «Tech. Memo», 25, Production Automation Project, University of Rochester.",
+   "date": "1977",
+   "creators": [
+    {
+     "family": "Requicha",
+     "given": "A.A.G."
+    },
+    {
+     "family": "Voelcker",
+     "given": "H.B."
+    }
+   ],
+   "type": "other",
+   "title": "Constructive Solid Geometry",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5,
+   "series": "Tech. Memo",
+   "series_number": "25",
+   "publisher": "Production Automation Project, University of Rochester"
+  },
+  {
+   "raw": "SARTOR A. 1989, Un esempio di anastilosi con l'uso di strumenti informatici. La ricostruzione dei finestroni del Portale Vignolesco al Foro Romano, Quaderni del Dipartimento di Rappresentazione e Rilievo, 4, 21-28.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Sartor",
+     "given": "A."
+    }
+   ],
+   "pages": "21-28",
+   "type": "article",
+   "title": "Un esempio di anastilosi con l'uso di strumenti informatici. La ricostruzione dei finestroni del Portale Vignolesco al Foro Romano",
+   "series_number": "4",
+   "language": "ita",
+   "confidence": "high",
+   "position": 6,
+   "is_part_of": [
+    "Quaderni del Dipartimento di Rappresentazione e Rilievo"
+   ],
+   "volume": "4"
+  }
+ ]
+}

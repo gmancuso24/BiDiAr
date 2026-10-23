@@ -1,0 +1,487 @@
+{
+ "citing_aec_id": 1193,
+ "source_file": "data/journal/33/1193.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Arrighetti A. 2015, *L'archeosismologia in architettura. Per un manuale*, Firenze, Firenze University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    }
+   ],
+   "date": "2015",
+   "title": "L'archeosismologia in architettura. Per un manuale",
+   "language": "ita",
+   "publisher": "Firenze University Press",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Arrighetti A. 2016, *Materiali e tecniche costruttive del Mugello tra Basso Medioevo e prima età moderna*, «Arqueologia de la Arquitectura», 13 (http://dx.doi.org/10.3989/arq.arqt.2016.001).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Materiali e tecniche costruttive del Mugello tra Basso Medioevo e prima età moderna",
+   "is_part_of": [
+    "Arqueología de la Arquitectura"
+   ],
+   "language": "ita",
+   "volume": "13",
+   "doi": "10.3989/arq.arqt.2016.001",
+   "notes": "journal cited as 'Arqueologia de la Arquitectura'",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Arrighetti A. 2018, *Archeosismologia in architettura. Nuove prospettive di un dialogo multidisciplinare*, «Archeologia dell'Architettura», 23, 11-17.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Archeosismologia in architettura. Nuove prospettive di un dialogo multidisciplinare",
+   "is_part_of": [
+    "Archeologia dell'Architettura"
+   ],
+   "language": "ita",
+   "volume": "23",
+   "pages": "11-17",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Arrighetti A. 2019, *Registering and documenting the stratification of disruptions and restorations in historical edifices. The contribution of archaeoseismology to architecture*, «Journal of Archaeological Science: Reports», 23, 243-251 (https://doi.org/10.1016/j.jasrep.2018.10.028).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "title": "Registering and documenting the stratification of disruptions and restorations in historical edifices. The contribution of archaeoseismology to architecture",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "language": "eng",
+   "volume": "23",
+   "pages": "243-251",
+   "doi": "10.1016/j.jasrep.2018.10.028",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Arrighetti A., Cantisani E., Fratini F., Leporini R. 2022a, *Nuovi dati dall'analisi archeosismologica delle architetture della pieve di Sant'Agata del Mugello*, «Archeologia dell'Architettura», 27.1, in corso di stampa.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    },
+    {
+     "family": "Cantisani",
+     "given": "E."
+    },
+    {
+     "family": "Fratini",
+     "given": "F."
+    },
+    {
+     "family": "Leporini",
+     "given": "R."
+    }
+   ],
+   "date": "2022",
+   "title": "Nuovi dati dall'analisi archeosismologica delle architetture della pieve di Sant'Agata del Mugello",
+   "is_part_of": [
+    "Archeologia dell'Architettura"
+   ],
+   "language": "ita",
+   "volume": "27",
+   "issue": "1",
+   "pages": "171-188",
+   "doi": "10.36153/aa27.1.2022.10",
+   "cs": {
+    "status": "resolved",
+    "source": "https://www.archeo.ens.fr/IMG/pdf/bibliographie_arrighetti_dec2023.pdf"
+   },
+   "notes": "cited c.s.; found published: Archeologia dell'Architettura XXVII (2022), pp. 171-188",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Arrighetti A., Fratini F., Minutoli G., Pancani G. 2022b, *Historical seismic events and their traces on Medieval religious buildings*, in S. D'Amico, V. Venuti (eds.), Handbook of Cultural Heritage Analysis, Springer International Publishing (https://doi.org/10.1007/978-3-030-60016-7_76).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    },
+    {
+     "family": "Fratini",
+     "given": "F."
+    },
+    {
+     "family": "Minutoli",
+     "given": "G."
+    },
+    {
+     "family": "Pancani",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Amico",
+     "given": "S."
+    },
+    {
+     "family": "Venuti",
+     "given": "V."
+    }
+   ],
+   "date": "2022",
+   "title": "Historical seismic events and their traces on Medieval religious buildings",
+   "is_part_of": [
+    "Handbook of Cultural Heritage Analysis"
+   ],
+   "language": "eng",
+   "publisher": "Springer International Publishing",
+   "doi": "10.1007/978-3-030-60016-7_76",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Arrighetti A., Minutoli G. 2019, *A multidisciplinary approach to document and analyze seismic protection techniques in Mugello from the Middle Ages to Early Modern Time*, «Annals of Geophysics», 62,3 (https://doi.org/10.4401/ag-7991).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    },
+    {
+     "family": "Minutoli",
+     "given": "G."
+    }
+   ],
+   "date": "2019",
+   "title": "A multidisciplinary approach to document and analyze seismic protection techniques in Mugello from the Middle Ages to Early Modern Time",
+   "is_part_of": [
+    "Annals of Geophysics"
+   ],
+   "language": "eng",
+   "volume": "62",
+   "issue": "3",
+   "doi": "10.4401/ag-7991",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Ballardini R. 1998, *Il programma di attuazione delle ricerche universitarie. Obiettivi e aree tecnico-scientifiche di integrazione. Le proposte normative. Relazione generale*, in R. Ballardini, M. Guccione (eds.), La protezione del patrimonio culturale. La questione sismica, Roma, Gangemi, 71-79.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ballardini",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ballardini",
+     "given": "R."
+    },
+    {
+     "family": "Guccione",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Il programma di attuazione delle ricerche universitarie. Obiettivi e aree tecnico-scientifiche di integrazione. Le proposte normative. Relazione generale",
+   "is_part_of": [
+    "La protezione del patrimonio culturale. La questione sismica"
+   ],
+   "language": "ita",
+   "pages": "71-79",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Bertocci S., Bini M. 2012, *Manuale di rilievo architettonico e urbano*, Novara, CittàStudi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bertocci",
+     "given": "S."
+    },
+    {
+     "family": "Bini",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Manuale di rilievo architettonico e urbano",
+   "language": "ita",
+   "publisher": "CittàStudi",
+   "place": "Novara",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Brogiolo G.P., Faccio P. 2010, *Stratigrafia e prevenzione*, «Archeologia dell'Architettura», 15, 55-63.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    },
+    {
+     "family": "Faccio",
+     "given": "P."
+    }
+   ],
+   "date": "2010",
+   "title": "Stratigrafia e prevenzione",
+   "is_part_of": [
+    "Archeologia dell'Architettura"
+   ],
+   "language": "ita",
+   "volume": "15",
+   "pages": "55-63",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Brogiolo G.P., Cagnana A. (eds.) 2012, *Archeologia dell'Architettura: metodi ed interpretazioni*, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    },
+    {
+     "family": "Cagnana",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Archeologia dell'Architettura: metodi ed interpretazioni",
+   "language": "ita",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Mannoni T., Cicirello C. 1998, *Atlante dei tipi costruttivi murari dell'Italia settentrionale*, in R. Ballardini, M. Guccione (eds.), La protezione del patrimonio culturale. La questione sismica, Roma, Gangemi, 87-99.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mannoni",
+     "given": "T."
+    },
+    {
+     "family": "Cicirello",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ballardini",
+     "given": "R."
+    },
+    {
+     "family": "Guccione",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Atlante dei tipi costruttivi murari dell'Italia settentrionale",
+   "is_part_of": [
+    "La protezione del patrimonio culturale. La questione sismica"
+   ],
+   "language": "ita",
+   "pages": "87-99",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Minutoli G. 2012, *Il rilievo strutturale*, in S. Bertocci, M. Bini (eds.), Manuale di rilievo architettonico e urbano, Novara, CittàStudi, 317-338.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Minutoli",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bertocci",
+     "given": "S."
+    },
+    {
+     "family": "Bini",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Il rilievo strutturale",
+   "is_part_of": [
+    "Manuale di rilievo architettonico e urbano"
+   ],
+   "language": "ita",
+   "pages": "317-338",
+   "publisher": "CittàStudi",
+   "place": "Novara",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Montabert A., Dessales H., Arrighetti A., Clement J., Lancieri M., Lyon-Caen H. 2020, *Tracing the seismic history of Sant'Agata del Mugello (Italy, Tuscany) through a cross-disciplinary approach*, «Journal of Archaeological Science: Reports», 33 (https://doi.org/10.1016/j.jasrep.2020.102440).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Montabert",
+     "given": "A."
+    },
+    {
+     "family": "Dessales",
+     "given": "H."
+    },
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    },
+    {
+     "family": "Clement",
+     "given": "J."
+    },
+    {
+     "family": "Lancieri",
+     "given": "M."
+    },
+    {
+     "family": "Lyon-Caen",
+     "given": "H."
+    }
+   ],
+   "date": "2020",
+   "title": "Tracing the seismic history of Sant'Agata del Mugello (Italy, Tuscany) through a cross-disciplinary approach",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "language": "eng",
+   "volume": "33",
+   "doi": "10.1016/j.jasrep.2020.102440",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Peduto P., Saccone T. 1998, *Atlante dei tipi costruttivi murari nell'Italia meridionale*, in R. Ballardini, M. Guccione (eds.), La protezione del patrimonio culturale. La questione sismica, Roma, Gangemi, 101-111.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Peduto",
+     "given": "P."
+    },
+    {
+     "family": "Saccone",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ballardini",
+     "given": "R."
+    },
+    {
+     "family": "Guccione",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Atlante dei tipi costruttivi murari nell'Italia meridionale",
+   "is_part_of": [
+    "La protezione del patrimonio culturale. La questione sismica"
+   ],
+   "language": "ita",
+   "pages": "101-111",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Redi F., Forgione A., Romiti E. 2012, *Rilevamento dell'edilizia storica e valutazione del danno sismico all'Aquila e territorio prima e dopo il 6 aprile 2009*, in F. Redi, A. Forgione (eds.), Atti del VI Congresso degli Archeologi Medievisti Italiani, Firenze, All'Insegna del Giglio, 763-768.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Redi",
+     "given": "F."
+    },
+    {
+     "family": "Forgione",
+     "given": "A."
+    },
+    {
+     "family": "Romiti",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Redi",
+     "given": "F."
+    },
+    {
+     "family": "Forgione",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Rilevamento dell'edilizia storica e valutazione del danno sismico all'Aquila e territorio prima e dopo il 6 aprile 2009",
+   "is_part_of": [
+    "Atti del VI Congresso degli Archeologi Medievisti Italiani"
+   ],
+   "language": "ita",
+   "pages": "763-768",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "http://recap.huma-num.fr",
+   "type": "other",
+   "title": "http://recap.huma-num.fr",
+   "uri": "http://recap.huma-num.fr",
+   "notes": "web resource, no other data in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "https://across-project.github.io/",
+   "type": "other",
+   "title": "https://across-project.github.io/",
+   "uri": "https://across-project.github.io/",
+   "notes": "web resource, no other data in the citation",
+   "confidence": "high"
+  }
+ ]
+}

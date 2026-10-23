@@ -1,0 +1,511 @@
+{
+ "citing_aec_id": 1503,
+ "source_file": "data/journal/37/1503.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bello S.M., Soligo C. 2008, A new method for the quantitative analysis of cutmark micromorphology, «Journal of Archaeological Science», 35, 6, 1542-52 (https://doi.org/10.1016/j.jas.2007.10.018).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bello",
+     "given": "S.M."
+    },
+    {
+     "family": "Soligo",
+     "given": "C."
+    }
+   ],
+   "date": "2008",
+   "title": "A new method for the quantitative analysis of cutmark micromorphology",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "35",
+   "issue": "6",
+   "pages": "1542-1552",
+   "language": "eng",
+   "doi": "10.1016/j.jas.2007.10.018"
+  },
+  {
+   "position": 2,
+   "raw": "Empler T. 2018, 3D modeling of an archeological area: The imperial fora in Rome, in M. Rossi, G. Buratti (eds.), Computational Morphologies: Design Rules Between Organic Models and Responsive Architecture, Cham, Springer, 185-195.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Empler",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rossi",
+     "given": "M."
+    },
+    {
+     "family": "Buratti",
+     "given": "G."
+    }
+   ],
+   "date": "2018",
+   "title": "3D modeling of an archeological area: The imperial fora in Rome",
+   "is_part_of": [
+    "Computational Morphologies: Design Rules Between Organic Models and Responsive Architecture"
+   ],
+   "pages": "185-195",
+   "publisher": "Springer",
+   "place": "Cham",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Freyberger K.S. 1990, Stadtrömische Kapitelle aus der Zeit von Domitian bis Alexander Severus: zur Arbeitsweise und Organisation Stadtrömischer Werkstätten der Kaiserzeit, Mainz am Rhein, von Zabern.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Freyberger",
+     "given": "K.S."
+    }
+   ],
+   "date": "1990",
+   "title": "Stadtrömische Kapitelle aus der Zeit von Domitian bis Alexander Severus: zur Arbeitsweise und Organisation Stadtrömischer Werkstätten der Kaiserzeit",
+   "publisher": "von Zabern",
+   "place": "Mainz am Rhein",
+   "language": "ger"
+  },
+  {
+   "position": 4,
+   "raw": "Ghosh S., Das N., Das I., Maulik I. 2020, Understanding deep learning techniques for image segmentation, «ACM Computing Surveys (CSUR)», 52, 4, 1-35 (https://doi.org/10.1145/33297).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ghosh",
+     "given": "S."
+    },
+    {
+     "family": "Das",
+     "given": "N."
+    },
+    {
+     "family": "Das",
+     "given": "I."
+    },
+    {
+     "family": "Maulik",
+     "given": "I."
+    }
+   ],
+   "date": "2020",
+   "title": "Understanding deep learning techniques for image segmentation",
+   "is_part_of": [
+    "ACM Computing Surveys (CSUR)"
+   ],
+   "volume": "52",
+   "issue": "4",
+   "pages": "1-35",
+   "language": "eng",
+   "doi": "10.1145/33297",
+   "notes": "DOI as cited (looks truncated)"
+  },
+  {
+   "position": 5,
+   "raw": "Grosman L. 2016, Reaching the point of no return: The computational revolution in archaeology, «Annual Review of Anthropology», 45, 1, 129-145 (https://doi.org/10.1146/annurev-anthro-102215-095946).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Grosman",
+     "given": "L."
+    }
+   ],
+   "date": "2016",
+   "title": "Reaching the point of no return: The computational revolution in archaeology",
+   "is_part_of": [
+    "Annual Review of Anthropology"
+   ],
+   "volume": "45",
+   "issue": "1",
+   "pages": "129-145",
+   "language": "eng",
+   "doi": "10.1146/annurev-anthro-102215-095946"
+  },
+  {
+   "position": 6,
+   "raw": "Grosman L., Muller A., Dag I., Goldgeier H., Harush O., Herzlinger G., Nebenhaus K., Valetta F., Yashuv T., Dick N. 2022, Artifact3-d: New software for accurate, objective and efficient 3d analysis and documentation of archaeological artifacts, «PLoS One», 17, 6, e0268401 (https://doi.org/10.1371/journal.pone.0268401).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Grosman",
+     "given": "L."
+    },
+    {
+     "family": "Muller",
+     "given": "A."
+    },
+    {
+     "family": "Dag",
+     "given": "I."
+    },
+    {
+     "family": "Goldgeier",
+     "given": "H."
+    },
+    {
+     "family": "Harush",
+     "given": "O."
+    },
+    {
+     "family": "Herzlinger",
+     "given": "G."
+    },
+    {
+     "family": "Nebenhaus",
+     "given": "K."
+    },
+    {
+     "family": "Valetta",
+     "given": "F."
+    },
+    {
+     "family": "Yashuv",
+     "given": "T."
+    },
+    {
+     "family": "Dick",
+     "given": "N."
+    }
+   ],
+   "date": "2022",
+   "title": "Artifact3-d: New software for accurate, objective and efficient 3d analysis and documentation of archaeological artifacts",
+   "is_part_of": [
+    "PLoS One"
+   ],
+   "volume": "17",
+   "issue": "6",
+   "pages": "e0268401",
+   "language": "eng",
+   "doi": "10.1371/journal.pone.0268401"
+  },
+  {
+   "position": 7,
+   "raw": "Heijmans H. 1995, Mathematical morphology: A modern approach in image processing based on algebra and geometry, «SIAM Review», 37, 1, 1-36 (https://doi.org/10.1137/1037001).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Heijmans",
+     "given": "H."
+    }
+   ],
+   "date": "1995",
+   "title": "Mathematical morphology: A modern approach in image processing based on algebra and geometry",
+   "is_part_of": [
+    "SIAM Review"
+   ],
+   "volume": "37",
+   "issue": "1",
+   "pages": "1-36",
+   "language": "eng",
+   "doi": "10.1137/1037001"
+  },
+  {
+   "position": 8,
+   "raw": "Heilmeyer W.-D. 1970, Korinthische Normalkapitelle: Studien zur Geschichte der römischen Architekturdekoration, Heidelberg, Kerle.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Heilmeyer",
+     "given": "W.-D."
+    }
+   ],
+   "date": "1970",
+   "title": "Korinthische Normalkapitelle: Studien zur Geschichte der römischen Architekturdekoration",
+   "publisher": "Kerle",
+   "place": "Heidelberg",
+   "language": "ger"
+  },
+  {
+   "position": 9,
+   "raw": "Herzlinger G., Goren-Inbar N., Grosman L. 2017, A new method for 3d geometric morphometric shape analysis: The case study of handaxe knapping skill, «Journal of Archaeological Science: Reports», 14, 163-173 (https://doi.org/10.1016/j.jasrep.2017.05.013).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Herzlinger",
+     "given": "G."
+    },
+    {
+     "family": "Goren-Inbar",
+     "given": "N."
+    },
+    {
+     "family": "Grosman",
+     "given": "L."
+    }
+   ],
+   "date": "2017",
+   "title": "A new method for 3d geometric morphometric shape analysis: The case study of handaxe knapping skill",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "volume": "14",
+   "pages": "163-173",
+   "language": "eng",
+   "doi": "10.1016/j.jasrep.2017.05.013"
+  },
+  {
+   "position": 10,
+   "raw": "Hossain M.D., Chen D. 2019, Segmentation for Object-Based Image Analysis (OBIA): A review of algorithms and challenges from remote sensing perspective, «ISPRS Journal of Photogrammetry and Remote Sensing», 150, 115-134 (https://doi.org/10.1016/j.isprsjprs.2019.02.009).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hossain",
+     "given": "M.D."
+    },
+    {
+     "family": "Chen",
+     "given": "D."
+    }
+   ],
+   "date": "2019",
+   "title": "Segmentation for Object-Based Image Analysis (OBIA): A review of algorithms and challenges from remote sensing perspective",
+   "is_part_of": [
+    "ISPRS Journal of Photogrammetry and Remote Sensing"
+   ],
+   "volume": "150",
+   "pages": "115-134",
+   "language": "eng",
+   "doi": "10.1016/j.isprsjprs.2019.02.009"
+  },
+  {
+   "position": 11,
+   "raw": "Hÿtch M., Hawkes P.W. 2020, Morphological Image Operators, Boston, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hÿtch",
+     "given": "M."
+    },
+    {
+     "family": "Hawkes",
+     "given": "P.W."
+    }
+   ],
+   "date": "2020",
+   "title": "Morphological Image Operators",
+   "publisher": "Academic Press",
+   "place": "Boston",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Karatzas I., Shreve S. 1991, Brownian Motion and Stochastic Calculus, New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Karatzas",
+     "given": "I."
+    },
+    {
+     "family": "Shreve",
+     "given": "S."
+    }
+   ],
+   "date": "1991",
+   "title": "Brownian Motion and Stochastic Calculus",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Kautzsch R. 1936, Kapitellstudien. Beiträge zu einer Geschichte des Spätantiken Kapitells im Osten vom Vierten bis ins Siebente Jahrhundert, Berlin, De Gruyter.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kautzsch",
+     "given": "R."
+    }
+   ],
+   "date": "1936",
+   "title": "Kapitellstudien. Beiträge zu einer Geschichte des Spätantiken Kapitells im Osten vom Vierten bis ins Siebente Jahrhundert",
+   "publisher": "De Gruyter",
+   "place": "Berlin",
+   "language": "ger"
+  },
+  {
+   "position": 14,
+   "raw": "Kramer J. 1997, Spätantike Korinthische Säulenkapitelle in Rom: bei s. Paolo Fuori Le Mura, s. Maria in Domnica und Andere, Wiesbaden, Reichert.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kramer",
+     "given": "J."
+    }
+   ],
+   "date": "1997",
+   "title": "Spätantike Korinthische Säulenkapitelle in Rom: bei s. Paolo Fuori Le Mura, s. Maria in Domnica und Andere",
+   "publisher": "Reichert",
+   "place": "Wiesbaden",
+   "language": "ger"
+  },
+  {
+   "position": 15,
+   "raw": "Leymarie F., Levine M.D. 1989, Shape Features using curvature morphology, in W.A. Pearlman (ed.), Visual Communications and Image Processing IV, 1199, 390-401 (https://doi.org/10.1117/12.970050).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Leymarie",
+     "given": "F."
+    },
+    {
+     "family": "Levine",
+     "given": "M.D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pearlman",
+     "given": "W.A."
+    }
+   ],
+   "date": "1989",
+   "title": "Shape Features using curvature morphology",
+   "is_part_of": [
+    "Visual Communications and Image Processing IV"
+   ],
+   "volume": "1199",
+   "pages": "390-401",
+   "language": "eng",
+   "doi": "10.1117/12.970050"
+  },
+  {
+   "position": 16,
+   "raw": "Leymarie F., Levine M.D. 1993, Tracking deformable objects in the plane using an active contour model, «IEEE Transactions on Pattern Analysis and Machine Intelligence», 15, 6, 617-634 (https://doi.org/10.1109/34.216733).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Leymarie",
+     "given": "F."
+    },
+    {
+     "family": "Levine",
+     "given": "M.D."
+    }
+   ],
+   "date": "1993",
+   "title": "Tracking deformable objects in the plane using an active contour model",
+   "is_part_of": [
+    "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+   ],
+   "volume": "15",
+   "issue": "6",
+   "pages": "617-634",
+   "language": "eng",
+   "doi": "10.1109/34.216733"
+  },
+  {
+   "position": 17,
+   "raw": "Morgan C. 2022, Current digital archaeology, «Annual Review of Anthropology», 51, 1, 213-31 (https://doi.org/10.1146/annurev-anthro-041320-114101).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Morgan",
+     "given": "C."
+    }
+   ],
+   "date": "2022",
+   "title": "Current digital archaeology",
+   "is_part_of": [
+    "Annual Review of Anthropology"
+   ],
+   "volume": "51",
+   "issue": "1",
+   "pages": "213-231",
+   "language": "eng",
+   "doi": "10.1146/annurev-anthro-041320-114101"
+  },
+  {
+   "position": 18,
+   "raw": "Pensabene P. 1973, Scavi di Ostia: I Capitelli. VII, Roma, Istituto poligrafico dello Stato.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pensabene",
+     "given": "P."
+    }
+   ],
+   "date": "1973",
+   "title": "Scavi di Ostia: I Capitelli",
+   "volume": "7",
+   "publisher": "Istituto poligrafico dello Stato",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Pensabene P. 1986, La decorazione architettonica, l’impiego del marmo e l’importazione di manufatti orientali a Roma, in Italia e in Africa (II-VI d.C.), Roma-Bari, Laterza.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pensabene",
+     "given": "P."
+    }
+   ],
+   "date": "1986",
+   "title": "La decorazione architettonica, l’impiego del marmo e l’importazione di manufatti orientali a Roma, in Italia e in Africa (II-VI d.C.)",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "confidence": "low",
+   "notes": "no container (volume) cited: probably a chapter of a collective volume, treated as chapter without container"
+  },
+  {
+   "position": 20,
+   "raw": "Pralong A. 2000, La typologie des chapiteaux corinthiens tardifs en marbre de Proconnèse et la production d’Alexandrie, «Revue Archéologique», 81-101.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pralong",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "La typologie des chapiteaux corinthiens tardifs en marbre de Proconnèse et la production d’Alexandrie",
+   "is_part_of": [
+    "Revue Archéologique"
+   ],
+   "pages": "81-101",
+   "language": "fre"
+  },
+  {
+   "position": 21,
+   "raw": "Risken H. 1996, The Fokker-Planck Equation, New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Risken",
+     "given": "H."
+    }
+   ],
+   "date": "1996",
+   "title": "The Fokker-Planck Equation",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "Zollt T. 1994, Kapitellplastik Konstantinopels vom 4. bis 6. Jahrhundert n. Chr.: mit einem Beitrag zur Untersuchung des Ionischen Kämpferkapitells, Bonn, Habeln.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Zollt",
+     "given": "T."
+    }
+   ],
+   "date": "1994",
+   "title": "Kapitellplastik Konstantinopels vom 4. bis 6. Jahrhundert n. Chr.: mit einem Beitrag zur Untersuchung des Ionischen Kämpferkapitells",
+   "publisher": "Habeln",
+   "place": "Bonn",
+   "language": "ger"
+  }
+ ]
+}

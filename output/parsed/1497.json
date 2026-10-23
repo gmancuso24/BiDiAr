@@ -1,0 +1,1223 @@
+{
+ "citing_aec_id": 1497,
+ "source_file": "data/journal/37/1497.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV. 1922, Elenco degli edifizi monumentali LXIX Provincia di Sassari (p. 150), Ministero della Pubblica Istruzione (https://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=2049#page/12/mode/2up).",
+   "type": "other",
+   "date": "1922",
+   "title": "Elenco degli edifizi monumentali LXIX Provincia di Sassari",
+   "publisher": "Ministero della Pubblica Istruzione",
+   "language": "ita",
+   "uri": "https://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=2049#page/12/mode/2up",
+   "notes": "cited as AA.VV.; (p. 150)"
+  },
+  {
+   "position": 2,
+   "raw": "Antona A. 2013, Il complesso nuragico La Prisgjona in regione Capichera (Arzachena), in L. Usai (ed.), Memorie dal sottosuolo. Scoperte archeologiche nella Sardegna centrosettentrionale, Quartucciu, Scuola Sarda Editrice, 56-65.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Antona",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Usai",
+     "given": "L."
+    }
+   ],
+   "date": "2013",
+   "title": "Il complesso nuragico La Prisgjona in regione Capichera (Arzachena)",
+   "is_part_of": [
+    "Memorie dal sottosuolo. Scoperte archeologiche nella Sardegna centrosettentrionale"
+   ],
+   "pages": "56-65",
+   "publisher": "Scuola Sarda Editrice",
+   "place": "Quartucciu",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Bai Y., Mei J., Yuille A.L., Xie C. 2021, Are transformers more robust than CNNs?, «Advances in Neural Information Processing Systems», 34, 26831-26843.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bai",
+     "given": "Y."
+    },
+    {
+     "family": "Mei",
+     "given": "J."
+    },
+    {
+     "family": "Yuille",
+     "given": "A.L."
+    },
+    {
+     "family": "Xie",
+     "given": "C."
+    }
+   ],
+   "date": "2021",
+   "title": "Are transformers more robust than CNNs?",
+   "is_part_of": [
+    "Advances in Neural Information Processing Systems"
+   ],
+   "volume": "34",
+   "pages": "26831-26843",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Barber M. 2011, A History of Aerial Photography and Archaeology: Mata Hari’s Glass Eye and Other Stories, London, English Heritage.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barber",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "A History of Aerial Photography and Archaeology: Mata Hari’s Glass Eye and Other Stories",
+   "publisher": "English Heritage",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Bartoloni P. 2000, La necropoli di Monte Sirai, Roma, CNR.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bartoloni",
+     "given": "P."
+    }
+   ],
+   "date": "2000",
+   "title": "La necropoli di Monte Sirai",
+   "publisher": "CNR",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Bengio Y., Grandvalet Y. 2004, No unbiased estimator of the variance of k-fold cross-validation, «Journal of Machine Learning Research», 5, 1089-1105.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bengio",
+     "given": "Y."
+    },
+    {
+     "family": "Grandvalet",
+     "given": "Y."
+    }
+   ],
+   "date": "2004",
+   "title": "No unbiased estimator of the variance of k-fold cross-validation",
+   "is_part_of": [
+    "Journal of Machine Learning Research"
+   ],
+   "volume": "5",
+   "pages": "1089-1105",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Caruso M., Leopardi L., Malatesta S.G. 2023, AI and custom marketing for cultural initiatives in regional projects: Perspectives on the territorial integration of communities with tourism, in Proceeding of the Una Quantum 2022 Conference: Open Source Technologies for Cultural Heritage, Cultural Activities and Tourism (Rome 2022) (https://doi.org/10.3390/proceedings2024096008).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Caruso",
+     "given": "M."
+    },
+    {
+     "family": "Leopardi",
+     "given": "L."
+    },
+    {
+     "family": "Malatesta",
+     "given": "S.G."
+    }
+   ],
+   "date": "2023",
+   "title": "AI and custom marketing for cultural initiatives in regional projects: Perspectives on the territorial integration of communities with tourism",
+   "is_part_of": [
+    "Proceeding of the Una Quantum 2022 Conference: Open Source Technologies for Cultural Heritage, Cultural Activities and Tourism (Rome 2022)"
+   ],
+   "language": "eng",
+   "doi": "10.3390/proceedings2024096008"
+  },
+  {
+   "position": 8,
+   "raw": "Centurione A.M. 1886, Studi recenti sopra nuraghi e loro importanza, Cagliari, Tip. Giachetti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Centurione",
+     "given": "A.M."
+    }
+   ],
+   "date": "1886",
+   "title": "Studi recenti sopra nuraghi e loro importanza",
+   "publisher": "Tip. Giachetti",
+   "place": "Cagliari",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "Cicilloni R., Mossa A., Cabras M. 2015, Studio dell’insediamento protostorico in un’area della Sardegna centro-occidentale tramite strumenti GIS ed analisi multivariate, «Archeologia e Calcolatori», 26, 149-168 (https://doi.org/10.19282/ac.26.2015.23).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cicilloni",
+     "given": "R."
+    },
+    {
+     "family": "Mossa",
+     "given": "A."
+    },
+    {
+     "family": "Cabras",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "Studio dell’insediamento protostorico in un’area della Sardegna centro-occidentale tramite strumenti GIS ed analisi multivariate",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "26",
+   "pages": "149-168",
+   "language": "ita",
+   "doi": "10.19282/ac.26.2015.23",
+   "cited_aec_id": 788
+  },
+  {
+   "position": 10,
+   "raw": "Cicilloni R., Migaleddu M. 2008, Monumenti nuragici in territorio di Teulada (Cagliari): note preliminari, in La civilità nuragica. Nuove acquisizioni, in Atti del Convegno (Senorbì 2000), Quartu Sant’Elena, Soprintendenza per i beni archeologici delle province di Cagliari e Oristano, 433-448.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cicilloni",
+     "given": "R."
+    },
+    {
+     "family": "Migaleddu",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "Monumenti nuragici in territorio di Teulada (Cagliari): note preliminari",
+   "is_part_of": [
+    "La civiltà nuragica. Nuove acquisizioni. Atti del Convegno (Senorbì 2000)"
+   ],
+   "pages": "433-448",
+   "publisher": "Soprintendenza per i beni archeologici delle province di Cagliari e Oristano",
+   "place": "Quartu Sant’Elena",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "Cossu T., Perra M., Usai A. 2018, Il tempo dei nuraghi, Nuoro, Ilisso.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cossu",
+     "given": "T."
+    },
+    {
+     "family": "Perra",
+     "given": "M."
+    },
+    {
+     "family": "Usai",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Il tempo dei nuraghi",
+   "publisher": "Ilisso",
+   "place": "Nuoro",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "Depalmas A. 1998, Organizzazione ed assetto territoriale nella regione di Sedilo durante i tempi preistorici, «Antichità Sarde», 3, 3, 33-76.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Depalmas",
+     "given": "A."
+    }
+   ],
+   "date": "1998",
+   "title": "Organizzazione ed assetto territoriale nella regione di Sedilo durante i tempi preistorici",
+   "is_part_of": [
+    "Antichità Sarde"
+   ],
+   "volume": "3",
+   "issue": "3",
+   "pages": "33-76",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "Dietterich T.G. 1998, Approximate statistical tests for comparing supervised classification learning algorithms, «Neural Computation», 10, 7, 1895-1923 (https://doi.org/10.11 62/089976698300017197).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dietterich",
+     "given": "T.G."
+    }
+   ],
+   "date": "1998",
+   "title": "Approximate statistical tests for comparing supervised classification learning algorithms",
+   "is_part_of": [
+    "Neural Computation"
+   ],
+   "volume": "10",
+   "issue": "7",
+   "pages": "1895-1923",
+   "language": "eng",
+   "doi": "10.1162/089976698300017197"
+  },
+  {
+   "position": 14,
+   "raw": "Dosovitskiy A., Beyer L., Kolesnikov A., Weissenborn D., Zhai X., Unterthiner T., Dehghani M., Minderer M., Heigold G., Gelly S., Uszkoreit J., Houlsby N. 2021, An image is worth 16x16 words: Transformers for image recognition at scale, «arXiv», 2010.11929v2 (https://doi.org/10.48550/arXiv.2010.11929).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dosovitskiy",
+     "given": "A."
+    },
+    {
+     "family": "Beyer",
+     "given": "L."
+    },
+    {
+     "family": "Kolesnikov",
+     "given": "A."
+    },
+    {
+     "family": "Weissenborn",
+     "given": "D."
+    },
+    {
+     "family": "Zhai",
+     "given": "X."
+    },
+    {
+     "family": "Unterthiner",
+     "given": "T."
+    },
+    {
+     "family": "Dehghani",
+     "given": "M."
+    },
+    {
+     "family": "Minderer",
+     "given": "M."
+    },
+    {
+     "family": "Heigold",
+     "given": "G."
+    },
+    {
+     "family": "Gelly",
+     "given": "S."
+    },
+    {
+     "family": "Uszkoreit",
+     "given": "J."
+    },
+    {
+     "family": "Houlsby",
+     "given": "N."
+    }
+   ],
+   "date": "2021",
+   "title": "An image is worth 16x16 words: Transformers for image recognition at scale",
+   "is_part_of": [
+    "arXiv"
+   ],
+   "volume": "2010.11929v2",
+   "language": "eng",
+   "doi": "10.48550/arXiv.2010.11929"
+  },
+  {
+   "position": 15,
+   "raw": "Fadda N. 2016, Il nuraghe Ola e i sistemi di organizzazione socio-territoriale nel Nuorese, Sassari, Università di Sassari, 53-57.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fadda",
+     "given": "N."
+    }
+   ],
+   "date": "2016",
+   "title": "Il nuraghe Ola e i sistemi di organizzazione socio-territoriale nel Nuorese",
+   "publisher": "Università di Sassari",
+   "place": "Sassari",
+   "language": "ita",
+   "notes": "pages 53-57 in the citation are the cited passage"
+  },
+  {
+   "position": 16,
+   "raw": "Finocchi S. 2005, Ricognizione nel territorio di Monte Sirai, «Rivista di Studi Fenici», 33, 225-259 (https://doi.org/10.1400/88655).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Finocchi",
+     "given": "S."
+    }
+   ],
+   "date": "2005",
+   "title": "Ricognizione nel territorio di Monte Sirai",
+   "is_part_of": [
+    "Rivista di Studi Fenici"
+   ],
+   "volume": "33",
+   "pages": "225-259",
+   "language": "ita",
+   "doi": "10.1400/88655"
+  },
+  {
+   "position": 17,
+   "raw": "Fiorucci M., Khoroshiltseva M., Pontil M., Traviglia A., Del Bue A., James S. 2020, Machine Learning for Cultural Heritage: A survey, «Pattern Recognition Letters», 133, 102-108 (https://doi.org/10.1016/j.patrec.2020.02.017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiorucci",
+     "given": "M."
+    },
+    {
+     "family": "Khoroshiltseva",
+     "given": "M."
+    },
+    {
+     "family": "Pontil",
+     "given": "M."
+    },
+    {
+     "family": "Traviglia",
+     "given": "A."
+    },
+    {
+     "family": "Del Bue",
+     "given": "A."
+    },
+    {
+     "family": "James",
+     "given": "S."
+    }
+   ],
+   "date": "2020",
+   "title": "Machine Learning for Cultural Heritage: A survey",
+   "is_part_of": [
+    "Pattern Recognition Letters"
+   ],
+   "volume": "133",
+   "pages": "102-108",
+   "language": "eng",
+   "doi": "10.1016/j.patrec.2020.02.017"
+  },
+  {
+   "position": 18,
+   "raw": "Fredriksson T., Issa Mattos D., Bosch J., Olsson H. 2020, Data labeling: An empirical investigation into industrial challenges and mitigation strategies, «Lecture Notes in Computer Science», 12562, 202-216 (https://doi.org/10.1007/978-3-030-64148-1_13).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fredriksson",
+     "given": "T."
+    },
+    {
+     "family": "Issa Mattos",
+     "given": "D."
+    },
+    {
+     "family": "Bosch",
+     "given": "J."
+    },
+    {
+     "family": "Olsson",
+     "given": "H."
+    }
+   ],
+   "date": "2020",
+   "title": "Data labeling: An empirical investigation into industrial challenges and mitigation strategies",
+   "is_part_of": [
+    "Lecture Notes in Computer Science"
+   ],
+   "volume": "12562",
+   "pages": "202-216",
+   "language": "eng",
+   "doi": "10.1007/978-3-030-64148-1_13"
+  },
+  {
+   "position": 19,
+   "raw": "He K., Zhang X., Ren S., Sun J. 2015, Deep residual learning for image recognition, in 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (Las Vegas 2016), 770-778 (https://doi.org/10.1109/CVPR.2016.90).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "He",
+     "given": "K."
+    },
+    {
+     "family": "Zhang",
+     "given": "X."
+    },
+    {
+     "family": "Ren",
+     "given": "S."
+    },
+    {
+     "family": "Sun",
+     "given": "J."
+    }
+   ],
+   "date": "2015",
+   "title": "Deep residual learning for image recognition",
+   "is_part_of": [
+    "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (Las Vegas 2016)"
+   ],
+   "pages": "770-778",
+   "language": "eng",
+   "doi": "10.1109/CVPR.2016.90",
+   "notes": "cited with year 2015 and proceedings of 2016"
+  },
+  {
+   "position": 20,
+   "raw": "Hodder I., Orton C. 1976, Spatial Analysis in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    },
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "date": "1976",
+   "title": "Spatial Analysis in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "Howard A., Sandler M., Chu G., Chen L.-C., Chen B., Tan M., Wang W., Zhu Y., Pang R., Vasudevan V., Le Q.V., Adam H. 2019, Searching for MobileNetV3, in Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2019), Piscataway, IEEE, 1314-1324 (https://doi.org/10.1109/ICCV.2019.00140).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Howard",
+     "given": "A."
+    },
+    {
+     "family": "Sandler",
+     "given": "M."
+    },
+    {
+     "family": "Chu",
+     "given": "G."
+    },
+    {
+     "family": "Chen",
+     "given": "L.-C."
+    },
+    {
+     "family": "Chen",
+     "given": "B."
+    },
+    {
+     "family": "Tan",
+     "given": "M."
+    },
+    {
+     "family": "Wang",
+     "given": "W."
+    },
+    {
+     "family": "Zhu",
+     "given": "Y."
+    },
+    {
+     "family": "Pang",
+     "given": "R."
+    },
+    {
+     "family": "Vasudevan",
+     "given": "V."
+    },
+    {
+     "family": "Le",
+     "given": "Q.V."
+    },
+    {
+     "family": "Adam",
+     "given": "H."
+    }
+   ],
+   "date": "2019",
+   "title": "Searching for MobileNetV3",
+   "is_part_of": [
+    "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2019)"
+   ],
+   "pages": "1314-1324",
+   "publisher": "IEEE",
+   "place": "Piscataway",
+   "language": "eng",
+   "doi": "10.1109/ICCV.2019.00140"
+  },
+  {
+   "position": 22,
+   "raw": "Iandola F.N., Han S., Moskewicz M.W., Ashraf K., Dally W.J., Keutzer K. 2016, SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size, «arXiv», 1602.07360 (https://doi.org/10.48550/arXiv.1602.07360).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Iandola",
+     "given": "F.N."
+    },
+    {
+     "family": "Han",
+     "given": "S."
+    },
+    {
+     "family": "Moskewicz",
+     "given": "M.W."
+    },
+    {
+     "family": "Ashraf",
+     "given": "K."
+    },
+    {
+     "family": "Dally",
+     "given": "W.J."
+    },
+    {
+     "family": "Keutzer",
+     "given": "K."
+    }
+   ],
+   "date": "2016",
+   "title": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size",
+   "is_part_of": [
+    "arXiv"
+   ],
+   "volume": "1602.07360",
+   "language": "eng",
+   "doi": "10.48550/arXiv.1602.07360"
+  },
+  {
+   "position": 23,
+   "raw": "Jamil A.H., Yakub F., Azizan A., Roslan S.A., Zaki S.A., Ahmad S.A. 2022, A review on Deep Learning application for detection of archaeological structures, «Journal of Advanced Research in Applied Sciences and Engineering Technology», 26, 7-14 (https://doi.org/10.37934/araset.26.1.714).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jamil",
+     "given": "A.H."
+    },
+    {
+     "family": "Yakub",
+     "given": "F."
+    },
+    {
+     "family": "Azizan",
+     "given": "A."
+    },
+    {
+     "family": "Roslan",
+     "given": "S.A."
+    },
+    {
+     "family": "Zaki",
+     "given": "S.A."
+    },
+    {
+     "family": "Ahmad",
+     "given": "S.A."
+    }
+   ],
+   "date": "2022",
+   "title": "A review on Deep Learning application for detection of archaeological structures",
+   "is_part_of": [
+    "Journal of Advanced Research in Applied Sciences and Engineering Technology"
+   ],
+   "volume": "26",
+   "pages": "7-14",
+   "language": "eng",
+   "doi": "10.37934/araset.26.1.714"
+  },
+  {
+   "position": 24,
+   "raw": "Kohavi R. 1995, A study of cross-validation and bootstrap for accuracy estimation and model selection, in Proceedings of the 14th International Joint Conference on Artificial Intelligence, vol. 2, Montréal, Morgan Kaufmann Publishers, 1137-1143.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kohavi",
+     "given": "R."
+    }
+   ],
+   "date": "1995",
+   "title": "A study of cross-validation and bootstrap for accuracy estimation and model selection",
+   "is_part_of": [
+    "Proceedings of the 14th International Joint Conference on Artificial Intelligence"
+   ],
+   "volume": "2",
+   "pages": "1137-1143",
+   "publisher": "Morgan Kaufmann Publishers",
+   "place": "Montréal",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "Lambers K., Traviglia A. 2016, Automated detection in remote sensing archaeology: A reading list, «AARGNews», 53, 25-29.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lambers",
+     "given": "K."
+    },
+    {
+     "family": "Traviglia",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Automated detection in remote sensing archaeology: A reading list",
+   "is_part_of": [
+    "AARGNews"
+   ],
+   "volume": "53",
+   "pages": "25-29",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "Lilliu G. 1982a, La civiltà nuragica, Sassari, Delfino Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lilliu",
+     "given": "G."
+    }
+   ],
+   "date": "1982",
+   "title": "La civiltà nuragica",
+   "publisher": "Delfino Editore",
+   "place": "Sassari",
+   "language": "ita"
+  },
+  {
+   "position": 27,
+   "raw": "Lilliu G. 1982b, Sardegna nuragica, Nuoro, Il Maestrale.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lilliu",
+     "given": "G."
+    }
+   ],
+   "date": "1982",
+   "title": "Sardegna nuragica",
+   "publisher": "Il Maestrale",
+   "place": "Nuoro",
+   "language": "ita"
+  },
+  {
+   "position": 28,
+   "raw": "Loshchilov I., Hutter F. 2019, Decoupled weight decay regularization, in Proceedings of the 7th International Conference on Learning Representations, ICLR 2019 (https://openreview.net/forum?id=Bkg6RiCqY7).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Loshchilov",
+     "given": "I."
+    },
+    {
+     "family": "Hutter",
+     "given": "F."
+    }
+   ],
+   "date": "2019",
+   "title": "Decoupled weight decay regularization",
+   "is_part_of": [
+    "Proceedings of the 7th International Conference on Learning Representations, ICLR 2019"
+   ],
+   "language": "eng",
+   "uri": "https://openreview.net/forum?id=Bkg6RiCqY7"
+  },
+  {
+   "position": 29,
+   "raw": "Lu Z. 2010, The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Oxford, Oxford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lu",
+     "given": "Z."
+    }
+   ],
+   "date": "2010",
+   "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 30,
+   "raw": "Malavasi M., Bazzichetto M., Bagella S., Barták V., Depalmas A., Gregorini A., Sperandii M.G., Acosta A.T.R., Bagella S. 2023, Ecology meets archaeology: Past, present and future vegetation-derived ecosystems services from the Nuragic Sardinia (1700-580 BCE), «People and Nature», 5, 3, 938-949.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Malavasi",
+     "given": "M."
+    },
+    {
+     "family": "Bazzichetto",
+     "given": "M."
+    },
+    {
+     "family": "Bagella",
+     "given": "S."
+    },
+    {
+     "family": "Barták",
+     "given": "V."
+    },
+    {
+     "family": "Depalmas",
+     "given": "A."
+    },
+    {
+     "family": "Gregorini",
+     "given": "A."
+    },
+    {
+     "family": "Sperandii",
+     "given": "M.G."
+    },
+    {
+     "family": "Acosta",
+     "given": "A.T.R."
+    }
+   ],
+   "date": "2023",
+   "title": "Ecology meets archaeology: Past, present and future vegetation-derived ecosystems services from the Nuragic Sardinia (1700-580 BCE)",
+   "is_part_of": [
+    "People and Nature"
+   ],
+   "volume": "5",
+   "issue": "3",
+   "pages": "938-949",
+   "language": "eng",
+   "notes": "\"Bagella S.\" appears twice in the citation; recorded once"
+  },
+  {
+   "position": 31,
+   "raw": "Mariani G.S., Brandolini F., Melis P. 2021, Landscape and geology as controls on Bronze Age human dispersal: A case study from Sardinia (Italy), «Journal of Maps», 18, 4, 598-609 (https://doi.org/10.1080/17445647.2021.1999339).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mariani",
+     "given": "G.S."
+    },
+    {
+     "family": "Brandolini",
+     "given": "F."
+    },
+    {
+     "family": "Melis",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "Landscape and geology as controls on Bronze Age human dispersal: A case study from Sardinia (Italy)",
+   "is_part_of": [
+    "Journal of Maps"
+   ],
+   "volume": "18",
+   "issue": "4",
+   "pages": "598-609",
+   "language": "eng",
+   "doi": "10.1080/17445647.2021.1999339"
+  },
+  {
+   "position": 32,
+   "raw": "Maxia M. 2020, I nomi di 8000 nuraghi, Cagliari, NOR Edizioni.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Maxia",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "I nomi di 8000 nuraghi",
+   "publisher": "NOR Edizioni",
+   "place": "Cagliari",
+   "language": "ita"
+  },
+  {
+   "position": 33,
+   "raw": "Melis P. 2007, Preistoria e protostoria nel territorio di Castelsardo, in A. Mattone, A. Soddu (eds.), Castelsardo. 900 anni di storia, Roma, Carocci, 15-61.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Melis",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Mattone",
+     "given": "A."
+    },
+    {
+     "family": "Soddu",
+     "given": "A."
+    }
+   ],
+   "date": "2007",
+   "title": "Preistoria e protostoria nel territorio di Castelsardo",
+   "is_part_of": [
+    "Castelsardo. 900 anni di storia"
+   ],
+   "pages": "15-61",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 34,
+   "raw": "Minchilli M., Tedeschi L.F. 2017, The geographical distribution of nuraghi in northwestern Sardinia: Analysis and evaluation of the influence of anthropic and natural factors, in O. Gervasi, B. Murgante, S. Misra, G. Borruso, C.M. Torre, A.M.A.C. Rocha, D. Taniar, B.O. Apduhan, E. Stankova, A. Cuzzocrea (eds.), Computational Science and Its Applications, ICCSA 2017, Cham, Springer International Publishing, 95-108.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Minchilli",
+     "given": "M."
+    },
+    {
+     "family": "Tedeschi",
+     "given": "L.F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gervasi",
+     "given": "O."
+    },
+    {
+     "family": "Murgante",
+     "given": "B."
+    },
+    {
+     "family": "Misra",
+     "given": "S."
+    },
+    {
+     "family": "Borruso",
+     "given": "G."
+    },
+    {
+     "family": "Torre",
+     "given": "C.M."
+    },
+    {
+     "family": "Rocha",
+     "given": "A.M.A.C."
+    },
+    {
+     "family": "Taniar",
+     "given": "D."
+    },
+    {
+     "family": "Apduhan",
+     "given": "B.O."
+    },
+    {
+     "family": "Stankova",
+     "given": "E."
+    },
+    {
+     "family": "Cuzzocrea",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "The geographical distribution of nuraghi in northwestern Sardinia: Analysis and evaluation of the influence of anthropic and natural factors",
+   "is_part_of": [
+    "Computational Science and Its Applications, ICCSA 2017"
+   ],
+   "pages": "95-108",
+   "publisher": "Springer International Publishing",
+   "place": "Cham",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "Moravetti A. 2000, Ricerche archeologiche nel Marghine-Planargia, Sassari, Carlo Delfino Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moravetti",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "Ricerche archeologiche nel Marghine-Planargia",
+   "publisher": "Carlo Delfino Editore",
+   "place": "Sassari",
+   "language": "ita"
+  },
+  {
+   "position": 36,
+   "raw": "Müller S.G., Hutter F. 2021, TrivialAugment: Tuning-free yet state-of-the-art data augmentation, in Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), Los Alamitos, IEEE/CVF, 774-782 (https://doi.org/10.1109/ICCV48922.2021.00081).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Müller",
+     "given": "S.G."
+    },
+    {
+     "family": "Hutter",
+     "given": "F."
+    }
+   ],
+   "date": "2021",
+   "title": "TrivialAugment: Tuning-free yet state-of-the-art data augmentation",
+   "is_part_of": [
+    "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)"
+   ],
+   "pages": "774-782",
+   "publisher": "IEEE/CVF",
+   "place": "Los Alamitos",
+   "language": "eng",
+   "doi": "10.1109/ICCV48922.2021.00081"
+  },
+  {
+   "position": 37,
+   "raw": "Palombini A. 2001, Miti e pregiudizi nell’uso dei sistemi di classificazione in archeologia, «Rassegna di Archeologia Preistorica e Protostorica», 10, 45-68.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Palombini",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Miti e pregiudizi nell’uso dei sistemi di classificazione in archeologia",
+   "is_part_of": [
+    "Rassegna di Archeologia Preistorica e Protostorica"
+   ],
+   "volume": "10",
+   "pages": "45-68",
+   "language": "ita"
+  },
+  {
+   "position": 38,
+   "raw": "Parcak S. 2009, Satellite Remote Sensing for Archaeology, London, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Parcak",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "Satellite Remote Sensing for Archaeology",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 39,
+   "raw": "Sherman G. 2014, The PyQGIS Programmer’s Guide, Extending QGIS 2.x with Python, Locate press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sherman",
+     "given": "G."
+    }
+   ],
+   "date": "2014",
+   "title": "The PyQGIS Programmer’s Guide, Extending QGIS 2.x with Python",
+   "publisher": "Locate press",
+   "language": "eng"
+  },
+  {
+   "position": 40,
+   "raw": "Simonyan K., Zisserman A. 2015, Very deep convolutional networks for large-scale image recognition, «arXiv», 1409.1556v6 (https://doi.org/10.48550/arXiv.1409.1556).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Simonyan",
+     "given": "K."
+    },
+    {
+     "family": "Zisserman",
+     "given": "A."
+    }
+   ],
+   "date": "2015",
+   "title": "Very deep convolutional networks for large-scale image recognition",
+   "is_part_of": [
+    "arXiv"
+   ],
+   "volume": "1409.1556v6",
+   "language": "eng",
+   "doi": "10.48550/arXiv.1409.1556"
+  },
+  {
+   "position": 41,
+   "raw": "Vacca S., Aru A., Baldaccini G. 1998, Rapporti tra suoli e insediamenti nuragici nella regione del Marghine-Planargia (Sardegna centro-occidentale), in C. Albore Livadie, F. Ortolani (eds.), Il sistema uomo-ambiente tra passato e presente, Bari, Edipuglia, 27-36.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vacca",
+     "given": "S."
+    },
+    {
+     "family": "Aru",
+     "given": "A."
+    },
+    {
+     "family": "Baldaccini",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Albore Livadie",
+     "given": "C."
+    },
+    {
+     "family": "Ortolani",
+     "given": "F."
+    }
+   ],
+   "date": "1998",
+   "title": "Rapporti tra suoli e insediamenti nuragici nella regione del Marghine-Planargia (Sardegna centro-occidentale)",
+   "is_part_of": [
+    "Il sistema uomo-ambiente tra passato e presente"
+   ],
+   "pages": "27-36",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 42,
+   "raw": "Van Dommelen P. 1998, On Colonial Grounds. A Comparative Study of Colonialism and Rural Settlement in First Millennium BC West Central Sardinia, Leiden, University of Leiden.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Van Dommelen",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "On Colonial Grounds. A Comparative Study of Colonialism and Rural Settlement in First Millennium BC West Central Sardinia",
+   "publisher": "University of Leiden",
+   "place": "Leiden",
+   "language": "eng"
+  },
+  {
+   "position": 43,
+   "raw": "Vaswani A., Shazeer N., Parmar N., Uszkoreit J., Jones L., Gomez A.N., Kaiser Ł., Polosukhin I. 2017, Attention is all you need, in I. Guyon, U.V. Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, R. Garnett (eds.), Advances in Neural Information Processing Systems, 30, Red Hook, Curran Associates, Inc.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vaswani",
+     "given": "A."
+    },
+    {
+     "family": "Shazeer",
+     "given": "N."
+    },
+    {
+     "family": "Parmar",
+     "given": "N."
+    },
+    {
+     "family": "Uszkoreit",
+     "given": "J."
+    },
+    {
+     "family": "Jones",
+     "given": "L."
+    },
+    {
+     "family": "Gomez",
+     "given": "A.N."
+    },
+    {
+     "family": "Kaiser",
+     "given": "Ł."
+    },
+    {
+     "family": "Polosukhin",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Guyon",
+     "given": "I."
+    },
+    {
+     "family": "Luxburg",
+     "given": "U.V."
+    },
+    {
+     "family": "Bengio",
+     "given": "S."
+    },
+    {
+     "family": "Wallach",
+     "given": "H."
+    },
+    {
+     "family": "Fergus",
+     "given": "R."
+    },
+    {
+     "family": "Vishwanathan",
+     "given": "S."
+    },
+    {
+     "family": "Garnett",
+     "given": "R."
+    }
+   ],
+   "date": "2017",
+   "title": "Attention is all you need",
+   "is_part_of": [
+    "Advances in Neural Information Processing Systems"
+   ],
+   "volume": "30",
+   "publisher": "Curran Associates, Inc.",
+   "place": "Red Hook",
+   "language": "eng"
+  },
+  {
+   "position": 44,
+   "raw": "Velli A. 2020, Dinamica y variaciones en la ocupacion territorial y relacion hombre-ambiente desde el Neolitico hasta la Edad del Bronce en el Bajo Sulcis Costero (Provincia de Carbonia-Iglesias, Cerdena), Granada, Universidad de Granada.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Velli",
+     "given": "A."
+    }
+   ],
+   "date": "2020",
+   "title": "Dinamica y variaciones en la ocupacion territorial y relacion hombre-ambiente desde el Neolitico hasta la Edad del Bronce en el Bajo Sulcis Costero (Provincia de Carbonia-Iglesias, Cerdena)",
+   "publisher": "Universidad de Granada",
+   "place": "Granada",
+   "language": "spa"
+  }
+ ]
+}

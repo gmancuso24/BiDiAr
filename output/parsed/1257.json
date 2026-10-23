@@ -1,0 +1,212 @@
+{
+ "citing_aec_id": 1257,
+ "source_file": "data/journal/34/1257.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Citter C. 2019, *From roads to mobility. A theoretical framework and a case study to investigate the medieval connections network*, «PCA. European Journal of Postclassical Archaeology», 9, 325-342.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Citter",
+     "given": "C."
+    }
+   ],
+   "date": "2019",
+   "title": "From roads to mobility. A theoretical framework and a case study to investigate the medieval connections network",
+   "is_part_of": [
+    "PCA. European Journal of Postclassical Archaeology"
+   ],
+   "volume": "9",
+   "pages": "325-342",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "De Silva M., Pizziolo G. 2001, *Setting up a \"human calibrated\" anisotropic cost surface for archaeological landscape investigation*, in Z. Stančič, T. Veljanovski (eds.), *Computing Archaeology for Understanding the Past. Computer Applications and Quantitative Methods in Archaeology 2000*, BAR International Series 931, Oxford, Archaeopress, 279-286.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Silva",
+     "given": "M."
+    },
+    {
+     "family": "Pizziolo",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "Setting up a \"human calibrated\" anisotropic cost surface for archaeological landscape investigation",
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. Computer Applications and Quantitative Methods in Archaeology 2000"
+   ],
+   "pages": "279-286",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Fàbrega Alvarez P. 2006, *Moving without destination. A theoretical, GIS-based determination of routes (optimal accumulation model of movement from a given origin)*, «Archaeological Computing Newsletter», 64, 7-11.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fàbrega Alvarez",
+     "given": "P."
+    }
+   ],
+   "date": "2006",
+   "title": "Moving without destination. A theoretical, GIS-based determination of routes (optimal accumulation model of movement from a given origin)",
+   "is_part_of": [
+    "Archaeological Computing Newsletter"
+   ],
+   "volume": "64",
+   "pages": "7-11",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Fàbrega Alvarez P., Parcero Oubiňa C. 2007, *Proposal for an archaeological analysis of pathways and movement*, «Archeologia e Calcolatori», 18, 121-140 (http://www.archcalc.cnr.it/indice/PDF18/7_Fabrega.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fàbrega Alvarez",
+     "given": "P."
+    },
+    {
+     "family": "Parcero Oubiña",
+     "given": "C."
+    }
+   ],
+   "date": "2007",
+   "title": "Proposal for an archaeological analysis of pathways and movement",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "18",
+   "pages": "121-140",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF18/7_Fabrega.pdf",
+   "language": "eng",
+   "cited_aec_id": 438,
+   "notes": "'Oubiňa' corrected to 'Oubiña' (OCR); title cited 'Proposal', metadata 'Proposals'",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Langmuir E. 1984, *Mountaincraft and Leadership: A Handbook for Mountaineers and Hillwalking Leaders in the British Isles*, Edimburg, Scottish Sports Council.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Langmuir",
+     "given": "E."
+    }
+   ],
+   "date": "1984",
+   "title": "Mountaincraft and Leadership: A Handbook for Mountaineers and Hillwalking Leaders in the British Isles",
+   "publisher": "Scottish Sports Council",
+   "place": "Edimburg",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Llobera M. 2000, *Understanding movement: A pilot model towards the sociology of movement*, in G.R. Lock (ed.), *Beyond the Map: Archaeology and Spatial Technologies*, Amsterdam, IOS Press, 65-84.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Llobera",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G.R."
+    }
+   ],
+   "date": "2000",
+   "title": "Understanding movement: A pilot model towards the sociology of movement",
+   "is_part_of": [
+    "Beyond the Map: Archaeology and Spatial Technologies"
+   ],
+   "pages": "65-84",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Mascarello C. 2021, *Studio della connettività in area alpina nella lunga durata. Il caso di Sovramonte (BL)*, Master Degree Thesis in Archaeology, University of Siena, a.a. 2019/2020.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Mascarello",
+     "given": "C."
+    }
+   ],
+   "date": "2021",
+   "title": "Studio della connettività in area alpina nella lunga durata. Il caso di Sovramonte (BL)",
+   "publisher": "University of Siena",
+   "language": "ita",
+   "notes": "Master degree thesis in Archaeology, a.a. 2019/2020",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Minetti A.E. 1995, *Optimum gradient for mountain paths*, «Journal of Applied Physiology», 79, 1698-1703.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Minetti",
+     "given": "A.E."
+    }
+   ],
+   "date": "1995",
+   "title": "Optimum gradient for mountain paths",
+   "is_part_of": [
+    "Journal of Applied Physiology"
+   ],
+   "volume": "79",
+   "pages": "1698-1703",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Murrieta-Flores P. 2012, *Understanding human movement through spatial technologies. The role of natural areas of transit in the Late Prehistory of South-western Iberia*, «Trabajos de Prehistoria», 69, 1, 103-122.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Murrieta-Flores",
+     "given": "P."
+    }
+   ],
+   "date": "2012",
+   "title": "Understanding human movement through spatial technologies. The role of natural areas of transit in the Late Prehistory of South-western Iberia",
+   "is_part_of": [
+    "Trabajos de Prehistoria"
+   ],
+   "volume": "69",
+   "issue": "1",
+   "pages": "103-122",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

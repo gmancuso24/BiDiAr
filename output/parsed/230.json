@@ -1,0 +1,161 @@
+{
+ "citing_aec_id": 230,
+ "source_file": "data/journal/7/230.md",
+ "references": [
+  {
+   "raw": "DJINDJIAN F. 1991, Méthodes pour l'Archéologie, Paris, Armand Colin.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "type": "book",
+   "title": "Méthodes pour l'Archéologie",
+   "place": "Paris",
+   "publisher": "Armand Colin",
+   "language": "fre",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "DJINDJIAN F. 1993, L'Archéologie cognitive, une réponse au problème de l'intégration des technologies de l'information en Archéologie, in T. ORLANDI (ed.), Discipline Umanistiche e informatica, Contributo del Centro linceo interdisciplinare \"Beniamino Segre\" n° 87, Rome, Accademia Nazionale dei Lincei.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'Archéologie cognitive, une réponse au problème de l'intégration des technologies de l'information en Archéologie",
+   "editors": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Discipline Umanistiche e informatica"
+   ],
+   "place": "Rome",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "language": "fre",
+   "confidence": "high",
+   "position": 2,
+   "series": "Contributo del Centro linceo interdisciplinare \"Beniamino Segre\"",
+   "series_number": "87"
+  },
+  {
+   "raw": "DJINDJIAN F., DUCASSE H. (edd.) 1987, Mathématiques et Informatique appliquées à l'archéologie, PACT 16.",
+   "date": "1987",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Ducasse",
+     "given": "H."
+    }
+   ],
+   "type": "proceedings",
+   "title": "Mathématiques et Informatique appliquées à l'archéologie, PACT 16",
+   "language": "fre",
+   "confidence": "high",
+   "position": 3,
+   "series": "PACT",
+   "series_number": "16"
+  },
+  {
+   "raw": "GARDIN J.Cl. (ed.) 1970, Archéologie et calculateurs: Problèmes sémiologiques et mathématiques, Paris, CNRS.",
+   "date": "1970",
+   "editors": [
+    {
+     "family": "Gardin",
+     "given": "J.Cl."
+    }
+   ],
+   "type": "book",
+   "title": "Archéologie et calculateurs: Problèmes sémiologiques et mathématiques",
+   "place": "Paris",
+   "publisher": "CNRS",
+   "language": "fre",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "GARDIN J.Cl. 1979, Une Archéologie théorique, Paris, Hachette.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.Cl."
+    }
+   ],
+   "type": "book",
+   "title": "Une Archéologie théorique",
+   "place": "Paris",
+   "publisher": "Hachette",
+   "language": "fre",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "GARDIN J.Cl. et al. 1987, Systèmes experts et Sciences humaines: le cas de l'Archéologie, Paris, Eyrolles.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.Cl."
+    }
+   ],
+   "notes": "et al. in citation",
+   "type": "book",
+   "title": "Systèmes experts et Sciences humaines: le cas de l'Archéologie",
+   "place": "Paris",
+   "publisher": "Eyrolles",
+   "language": "fre",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "GUIMIER-SORBETS A.M. 1990, Les bases de données en Archéologie: Conception et mise en oeuvre, Paris, CNRS.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.M."
+    }
+   ],
+   "type": "book",
+   "title": "Les bases de données en Archéologie: Conception et mise en oeuvre",
+   "place": "Paris",
+   "publisher": "CNRS",
+   "language": "fre",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "JOHNSON I. 1994, Methods in the Mountains. Proceedings of UISPP Commission IV Meeting. (Mount Victoria, Australia, August 1993) Sydney, Sydney University, Archaeological Methods, Series n° 2.",
+   "date": "1994",
+   "type": "proceedings",
+   "title": "Methods in the Mountains. Proceedings of UISPP Commission IV Meeting (Mount Victoria, Australia, August 1993)",
+   "place": "Sydney",
+   "publisher": "Sydney University",
+   "series": "Sydney University Archaeological Methods Series",
+   "series_number": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8,
+   "editors": [
+    {
+     "family": "Johnson",
+     "given": "I."
+    }
+   ],
+   "notes": "editor not marked \"(ed.)\" in the citation"
+  }
+ ]
+}

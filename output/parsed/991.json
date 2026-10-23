@@ -1,0 +1,166 @@
+{
+ "citing_aec_id": 991,
+ "source_file": "data/journal/29/991.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Brogiolo G.P. 2009, La tutela dei paesaggi storici tra archeologia preventiva e archeologia di emergenza, in G. Volpe, P. Favia (eds.), V Congresso Nazionale di Archeologia Medievale (Foggia 2009), Firenze, All’Insegna del Giglio, 3-6.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "Favia",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "La tutela dei paesaggi storici tra archeologia preventiva e archeologia di emergenza",
+   "is_part_of": [
+    "V Congresso Nazionale di Archeologia Medievale (Foggia 2009)"
+   ],
+   "pages": "3-6",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Florjanowicz P. (ed.) 2016, When Valletta meets Faro. The Reality of European Archaeology in the 21st Century. Proceedings of the International Conference (Lisbon 2015), EAC Occasional Paper No. 11, Budapest, Archaeolingua.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Florjanowicz",
+     "given": "P."
+    }
+   ],
+   "date": "2016",
+   "title": "When Valletta meets Faro. The Reality of European Archaeology in the 21st Century. Proceedings of the International Conference (Lisbon 2015)",
+   "series": "EAC Occasional Paper",
+   "series_number": "11",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Kristiansen K. 2016, Trajectories towards a knowledge-producing contract archaeology, in Florjanowicz 2016, 9-12.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kristiansen",
+     "given": "K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Florjanowicz",
+     "given": "P."
+    }
+   ],
+   "date": "2016",
+   "title": "Trajectories towards a knowledge-producing contract archaeology",
+   "is_part_of": [
+    "When Valletta meets Faro. The Reality of European Archaeology in the 21st Century. Proceedings of the International Conference (Lisbon 2015)"
+   ],
+   "pages": "9-12",
+   "language": "eng",
+   "xref": 2,
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Palombini A., Schiappelli A. 2012, Trasparenza, circolazione e diritto intellettuale per il dato archeologico: un possibile modello dalle licenze Open Source, in L. Bezzi, D. Francisci, P. Grossi, D. Lotto (eds.), Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del III Workshop ArcheoFOSS (Padova 2008), Roma, Quasar, 101-106.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Palombini",
+     "given": "A."
+    },
+    {
+     "family": "Schiappelli",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bezzi",
+     "given": "L."
+    },
+    {
+     "family": "Francisci",
+     "given": "D."
+    },
+    {
+     "family": "Grossi",
+     "given": "P."
+    },
+    {
+     "family": "Lotto",
+     "given": "D."
+    }
+   ],
+   "date": "2012",
+   "title": "Trasparenza, circolazione e diritto intellettuale per il dato archeologico: un possibile modello dalle licenze Open Source",
+   "is_part_of": [
+    "Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del III Workshop ArcheoFOSS (Padova 2008)"
+   ],
+   "pages": "101-106",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Serlorenzi M., Iovine I., Boi V., Stacca M. 2013, Archeologia e Open Data. Stato dell’arte e proposte sulla pubblicazione dei dati archeologici, in M. Serlorenzi (ed.), ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012), «Archeologia e Calcolatori», Suppl. 4, 60-78.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Iovine",
+     "given": "I."
+    },
+    {
+     "family": "Boi",
+     "given": "V."
+    },
+    {
+     "family": "Stacca",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Archeologia e Open Data. Stato dell'arte e proposte sulla pubblicazione dei dati archeologici",
+   "is_part_of": [
+    "ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 4",
+   "pages": "60-78",
+   "language": "ita",
+   "cited_aec_id": 690,
+   "notes": "cited 'Iovine I.' (typo for Jovine I., as in the AeC metadata and in the other citations of the same article)",
+   "confidence": "high"
+  }
+ ]
+}

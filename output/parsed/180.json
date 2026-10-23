@@ -1,0 +1,648 @@
+{
+ "citing_aec_id": 180,
+ "source_file": "data/journal/7/180.md",
+ "references": [
+  {
+   "raw": "ARIÈS PH., DUBY G. (edd.) 1986, La vita privata dall'impero romano all'anno Mille, Roma-Bari.",
+   "date": "1986",
+   "editors": [
+    {
+     "family": "Ariès Ph.",
+     "given": ""
+    },
+    {
+     "family": "Duby",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "La vita privata dall'impero romano all'anno Mille",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1,
+   "place": "Roma-Bari"
+  },
+  {
+   "raw": "CALDERINI A. 1930, Aquileia romana, Milano.",
+   "date": "1930",
+   "creators": [
+    {
+     "family": "Calderini",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Aquileia romana",
+   "place": "Milano",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "DALLA D. 1995, Le fonti giuridiche, in MATTIOLI 1995, 287-321.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Dalla",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "Le fonti giuridiche",
+   "pages": "287-321",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3,
+   "xref": 19,
+   "is_part_of": [
+    "Senectus. La vecchiaia nel mondo classico, vol. II"
+   ],
+   "editors": [
+    {
+     "family": "Mattioli",
+     "given": "U."
+    }
+   ],
+   "place": "Roma, Bologna"
+  },
+  {
+   "raw": "DI VITA-EVRARD G. 1993, Prosopographie et population. L'exemple d'une ville africaine, Leptis Magna, in ECK 1993, 293-314.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Di Vita-Evrard",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Prosopographie et population. L'exemple d'une ville africaine, Leptis Magna",
+   "pages": "293-314",
+   "language": "fre",
+   "confidence": "high",
+   "position": 4,
+   "xref": 9,
+   "is_part_of": [
+    "Prosopographie und Sozialgeschichte"
+   ],
+   "editors": [
+    {
+     "family": "Eck",
+     "given": "W."
+    }
+   ],
+   "place": "Köln-Wien-Weimar"
+  },
+  {
+   "raw": "DIXON S. 1992, The Roman Family, Baltimore.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Dixon",
+     "given": "S."
+    }
+   ],
+   "type": "book",
+   "title": "The Roman Family",
+   "place": "Baltimore",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "DONATI GIACOMINI P. 1990, Le banche dati dell'epigrafia, «Archeologia e Calcolatori», 1, 295-303.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Donati Giacomini",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "Le banche dati dell'epigrafia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "295-303",
+   "volume": "1",
+   "language": "ita",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "DONATI GIACOMINI P. 1995, La documentazione epigrafica, in MATTIOLI 1995, 323-337.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Donati Giacomini",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "La documentazione epigrafica",
+   "pages": "323-337",
+   "language": "ita",
+   "confidence": "high",
+   "position": 7,
+   "xref": 19,
+   "is_part_of": [
+    "Senectus. La vecchiaia nel mondo classico, vol. II"
+   ],
+   "editors": [
+    {
+     "family": "Mattioli",
+     "given": "U."
+    }
+   ],
+   "place": "Roma, Bologna"
+  },
+  {
+   "raw": "DUPONT F. 1990, La vita quotidiana nella Roma repubblicana, Roma-Bari.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Dupont",
+     "given": "F."
+    }
+   ],
+   "type": "book",
+   "title": "La vita quotidiana nella Roma repubblicana",
+   "language": "ita",
+   "confidence": "high",
+   "position": 8,
+   "place": "Roma-Bari"
+  },
+  {
+   "raw": "ECK W. (ed.) 1993, Prosopographie und Sozialgeschichte, Köln-Wien-Weimar.",
+   "date": "1993",
+   "editors": [
+    {
+     "family": "Eck",
+     "given": "W."
+    }
+   ],
+   "type": "book",
+   "title": "Prosopographie und Sozialgeschichte",
+   "language": "ger",
+   "confidence": "high",
+   "position": 9,
+   "place": "Köln-Wien-Weimar"
+  },
+  {
+   "raw": "ETIENNE R. 1959, Démographie et épigraphie, in Atti del III congresso internazionale di epigrafia greca e latina, Roma, 414-424.",
+   "date": "1959",
+   "creators": [
+    {
+     "family": "Etienne",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Démographie et épigraphie",
+   "pages": "414-424",
+   "is_part_of": [
+    "Atti del III congresso internazionale di epigrafia greca e latina"
+   ],
+   "place": "Roma",
+   "language": "fre",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "FRIER B. 1982, Roman life expectancy: Ulpian's evidence, «Annales ESC», 28, 1066-1076.",
+   "date": "1982",
+   "creators": [
+    {
+     "family": "Frier",
+     "given": "B."
+    }
+   ],
+   "type": "article",
+   "title": "Roman life expectancy: Ulpian's evidence",
+   "is_part_of": [
+    "Annales ESC"
+   ],
+   "pages": "1066-1076",
+   "volume": "28",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "GOODY J. 1976, Production and Reproduction, Cambridge.",
+   "date": "1976",
+   "creators": [
+    {
+     "family": "Goody",
+     "given": "J."
+    }
+   ],
+   "type": "book",
+   "title": "Production and Reproduction",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "GOODY J. 1983, The Development of the Family and Marriage in Europe, Cambridge.",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Goody",
+     "given": "J."
+    }
+   ],
+   "type": "book",
+   "title": "The Development of the Family and Marriage in Europe",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "HINARD F. (ed.) 1987, La mort, les morts et l'au-delà dans le monde romain. Actes du colloque de Caen, Caen.",
+   "date": "1987",
+   "editors": [
+    {
+     "family": "Hinard",
+     "given": "F."
+    }
+   ],
+   "type": "book",
+   "title": "La mort, les morts et l'au-delà dans le monde romain. Actes du colloque de Caen",
+   "place": "Caen",
+   "language": "fre",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "HOPKINS K. 1964-65, The age of Roman girls at marriage, «Population Studies», 20, 309-327.",
+   "date": "1964",
+   "creators": [
+    {
+     "family": "Hopkins",
+     "given": "K."
+    }
+   ],
+   "type": "article",
+   "title": "The age of Roman girls at marriage",
+   "is_part_of": [
+    "Population Studies"
+   ],
+   "pages": "309-327",
+   "volume": "20",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "HOPKINS K. 1966, The probable age structure of the Roman population, «Population Studies», 20.2, 245-264.",
+   "date": "1966",
+   "creators": [
+    {
+     "family": "Hopkins",
+     "given": "K."
+    }
+   ],
+   "type": "article",
+   "title": "The probable age structure of the Roman population",
+   "is_part_of": [
+    "Population Studies"
+   ],
+   "pages": "245-264",
+   "issue": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 16,
+   "volume": "20"
+  },
+  {
+   "raw": "JACQUES F., SCHEID J. 1992, Roma e il suo impero, Roma-Bari.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Jacques",
+     "given": "F."
+    },
+    {
+     "family": "Scheid",
+     "given": "J."
+    }
+   ],
+   "type": "book",
+   "title": "Roma e il suo impero",
+   "language": "ita",
+   "confidence": "high",
+   "position": 17,
+   "place": "Roma-Bari"
+  },
+  {
+   "raw": "KAJAVA M. 1993, Roman upper-class children and prosopography, in ECK 1993, 165-190.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Kajava",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Roman upper-class children and prosopography",
+   "pages": "165-190",
+   "language": "eng",
+   "confidence": "high",
+   "position": 18,
+   "xref": 9,
+   "is_part_of": [
+    "Prosopographie und Sozialgeschichte"
+   ],
+   "editors": [
+    {
+     "family": "Eck",
+     "given": "W."
+    }
+   ],
+   "place": "Köln-Wien-Weimar"
+  },
+  {
+   "raw": "MATTIOLI U. (ed.) 1995, Senectus. La vecchiaia nel mondo classico, vol. II, Roma, Bologna.",
+   "date": "1995",
+   "editors": [
+    {
+     "family": "Mattioli",
+     "given": "U."
+    }
+   ],
+   "type": "book",
+   "title": "Senectus. La vecchiaia nel mondo classico, vol. II",
+   "place": "Roma, Bologna",
+   "language": "ita",
+   "confidence": "high",
+   "position": 19
+  },
+  {
+   "raw": "MEIGGS R. 1960, Roman Ostia, Oxford.",
+   "date": "1960",
+   "creators": [
+    {
+     "family": "Meiggs",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Roman Ostia",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high",
+   "position": 20
+  },
+  {
+   "raw": "NICOLET CL. 1984, Strutture dell'Italia romana (sec. III-I a.C.), Roma.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Nicolet Cl.",
+     "given": ""
+    }
+   ],
+   "type": "book",
+   "title": "Strutture dell'Italia romana (sec. III-I a.C.)",
+   "place": "Roma",
+   "language": "eng",
+   "confidence": "high",
+   "position": 21
+  },
+  {
+   "raw": "PARKIN T.G. 1992, Demography and Roman Society, Baltimore.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Parkin",
+     "given": "T.G."
+    }
+   ],
+   "type": "book",
+   "title": "Demography and Roman Society",
+   "place": "Baltimore",
+   "language": "eng",
+   "confidence": "high",
+   "position": 22
+  },
+  {
+   "raw": "RAEPSAET-CHARLIER M.TH. 1993, Les femmes sénatoriales du IIIe siècle, in ECK 1993, 147-163.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Raepsaet-Charlier M.th.",
+     "given": ""
+    }
+   ],
+   "type": "chapter",
+   "title": "Les femmes sénatoriales du IIIe siècle",
+   "pages": "147-163",
+   "language": "fre",
+   "confidence": "high",
+   "position": 23,
+   "xref": 9,
+   "is_part_of": [
+    "Prosopographie und Sozialgeschichte"
+   ],
+   "editors": [
+    {
+     "family": "Eck",
+     "given": "W."
+    }
+   ],
+   "place": "Köln-Wien-Weimar"
+  },
+  {
+   "raw": "SALLER R.P. 1989, I rapporti di parentela e l'organizzazione familiare, in Storia di Roma. IV. Caratteri e morfologie, Torino, 515-555.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Saller",
+     "given": "R.P."
+    }
+   ],
+   "type": "chapter",
+   "title": "I rapporti di parentela e l'organizzazione familiare",
+   "pages": "515-555",
+   "is_part_of": [
+    "Storia di Roma. IV. Caratteri e morfologie"
+   ],
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high",
+   "position": 24
+  },
+  {
+   "raw": "SALLER R.P. 1987a, Men's age at marriage and its consequences in the Roman family, «Classical Philology», 82, 21-34.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Saller",
+     "given": "R.P."
+    }
+   ],
+   "type": "article",
+   "title": "Men's age at marriage and its consequences in the Roman family",
+   "is_part_of": [
+    "Classical Philology"
+   ],
+   "pages": "21-34",
+   "volume": "82",
+   "language": "eng",
+   "confidence": "high",
+   "position": 25
+  },
+  {
+   "raw": "SALLER R.P. 1987b, The age of Roman girls at marriage: some reconsiderations, «The Journal of Roman Studies», 77, 30-46.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Saller",
+     "given": "R.P."
+    }
+   ],
+   "type": "article",
+   "title": "The age of Roman girls at marriage: some reconsiderations",
+   "is_part_of": [
+    "The Journal of Roman Studies"
+   ],
+   "pages": "30-46",
+   "volume": "77",
+   "language": "eng",
+   "confidence": "high",
+   "position": 26
+  },
+  {
+   "raw": "SALLER R.P. 1994, Patriarchy, Property and Death in the Roman Family, Cambridge.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Saller",
+     "given": "R.P."
+    }
+   ],
+   "type": "book",
+   "title": "Patriarchy, Property and Death in the Roman Family",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 27
+  },
+  {
+   "raw": "SALLER R.P., SHAW B.D. 1984, Tombstones and Roman family relations in the Principate: civilians, soldiers and slaves, «The Journal of Roman Studies», 74, 124-156.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Saller",
+     "given": "R.P."
+    },
+    {
+     "family": "Shaw",
+     "given": "B.D."
+    }
+   ],
+   "type": "article",
+   "title": "Tombstones and Roman family relations in the Principate: civilians, soldiers and slaves",
+   "is_part_of": [
+    "The Journal of Roman Studies"
+   ],
+   "pages": "124-156",
+   "volume": "74",
+   "language": "eng",
+   "confidence": "high",
+   "position": 28
+  },
+  {
+   "raw": "SALMON P. 1974, Population et dépopulation dans l'Empire romain, Bruxelles.",
+   "date": "1974",
+   "creators": [
+    {
+     "family": "Salmon",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "Population et dépopulation dans l'Empire romain",
+   "place": "Bruxelles",
+   "language": "fre",
+   "confidence": "high",
+   "position": 29
+  },
+  {
+   "raw": "SALMON P. 1987, Les insuffisances du matériel épigraphique sur la mortalité dans l'antiquité romaine, in HINARD 1987, 99-112.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Salmon",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "Les insuffisances du matériel épigraphique sur la mortalité dans l'antiquité romaine",
+   "pages": "99-112",
+   "language": "fre",
+   "confidence": "high",
+   "position": 30,
+   "xref": 14,
+   "is_part_of": [
+    "La mort, les morts et l'au-delà dans le monde romain. Actes du colloque de Caen"
+   ],
+   "editors": [
+    {
+     "family": "Hinard",
+     "given": "F."
+    }
+   ],
+   "place": "Caen"
+  },
+  {
+   "raw": "SUSINI G. 1982, Epigrafia romana, Roma.",
+   "date": "1982",
+   "creators": [
+    {
+     "family": "Susini",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Epigrafia romana",
+   "place": "Roma",
+   "language": "eng",
+   "confidence": "high",
+   "position": 31
+  },
+  {
+   "raw": "VEYNE P. 1986, L'impero romano, in ARIÈS, DUBY 1986, 3-172.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Veyne",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'impero romano",
+   "pages": "3-172",
+   "language": "eng",
+   "confidence": "high",
+   "position": 32,
+   "is_part_of": [
+    "La vita privata dall'impero romano all'anno Mille"
+   ],
+   "editors": [
+    {
+     "family": "Ariès",
+     "given": "Ph."
+    },
+    {
+     "family": "Duby",
+     "given": "G."
+    }
+   ],
+   "place": "Roma-Bari",
+   "xref": 1
+  }
+ ]
+}

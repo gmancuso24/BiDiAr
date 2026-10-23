@@ -1,0 +1,202 @@
+{
+ "citing_aec_id": 1231,
+ "source_file": "data/journal/34/1231.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Cuy S., Oliveira D.M., Gerth P., Kleinke T., Schierenbeck J., Watson J. 2019, iDAI.field 2: A modern approach to distributed fieldwork documentation, in W. Börner, S. Uhlirz (eds.), Proceedings of the 22nd International Conference on Cultural Heritage and New Technologies (Wien 2017), 1-8 (https://archiv.chnt.at/wp-content/uploads/eBook_CHNT22_Cuy_etal.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cuy",
+     "given": "S."
+    },
+    {
+     "family": "Oliveira",
+     "given": "D.M."
+    },
+    {
+     "family": "Gerth",
+     "given": "P."
+    },
+    {
+     "family": "Kleinke",
+     "given": "T."
+    },
+    {
+     "family": "Schierenbeck",
+     "given": "J."
+    },
+    {
+     "family": "Watson",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Uhlirz",
+     "given": "S."
+    }
+   ],
+   "date": "2019",
+   "title": "iDAI.field 2: A modern approach to distributed fieldwork documentation",
+   "is_part_of": [
+    "Proceedings of the 22nd International Conference on Cultural Heritage and New Technologies (Wien 2017)"
+   ],
+   "pages": "1-8",
+   "uri": "https://archiv.chnt.at/wp-content/uploads/eBook_CHNT22_Cuy_etal.pdf",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Henze F., Magdalinski N., Schwarzbach F., Schulze A., Gerth Ph., Schäfer F. 2013, Concepts and technologies for a comprehensive information system for historical research and heritage documentation, «International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», XL-5/W2, 325-330 (https://doi.org/10.5194/isprsarchives-XL-5-W2-325-2013).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Henze",
+     "given": "F."
+    },
+    {
+     "family": "Magdalinski",
+     "given": "N."
+    },
+    {
+     "family": "Schwarzbach",
+     "given": "F."
+    },
+    {
+     "family": "Schulze",
+     "given": "A."
+    },
+    {
+     "family": "Gerth",
+     "given": "Ph."
+    },
+    {
+     "family": "Schäfer",
+     "given": "F."
+    }
+   ],
+   "date": "2013",
+   "title": "Concepts and technologies for a comprehensive information system for historical research and heritage documentation",
+   "is_part_of": [
+    "International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XL-5/W2",
+   "pages": "325-330",
+   "doi": "10.5194/isprsarchives-XL-5-W2-325-2013",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Martin R.C. 2009, Clean Code. A Handbook of Agile Software Craftsmanship, Upper Saddle River, Prentice Hall.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Martin",
+     "given": "R.C."
+    }
+   ],
+   "date": "2009",
+   "title": "Clean Code. A Handbook of Agile Software Craftsmanship",
+   "publisher": "Prentice Hall",
+   "place": "Upper Saddle River",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Schäfer F. 2011, iDAI.field. Ein modulares Dokumentationssystem für archäologische Feldforschungsprojekte, «Kölner und Bonner Archaeologica», 1, 193-200.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schäfer",
+     "given": "F."
+    }
+   ],
+   "date": "2011",
+   "title": "iDAI.field. Ein modulares Dokumentationssystem für archäologische Feldforschungsprojekte",
+   "is_part_of": [
+    "Kölner und Bonner Archaeologica"
+   ],
+   "volume": "1",
+   "pages": "193-200",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Schäfer F., Schulze A., Schwarzbach F., Gerth Ph., Henze F. 2013, OpenInfRA. Storing and retrieving information in a heterogeneous documentation system, in G. Earl, T. Sly, A. Chrysanthi, P. Murrieta-Flores, C. Papadopoulos, I. Romanowska, D. Wheatly (eds.), Archaeology in the Digital Era. Volume II. Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA) (Southampton 2012), Amsterdam, University Press, 422-431.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Schäfer",
+     "given": "F."
+    },
+    {
+     "family": "Schulze",
+     "given": "A."
+    },
+    {
+     "family": "Schwarzbach",
+     "given": "F."
+    },
+    {
+     "family": "Gerth",
+     "given": "Ph."
+    },
+    {
+     "family": "Henze",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Earl",
+     "given": "G."
+    },
+    {
+     "family": "Sly",
+     "given": "T."
+    },
+    {
+     "family": "Chrysanthi",
+     "given": "A."
+    },
+    {
+     "family": "Murrieta-Flores",
+     "given": "P."
+    },
+    {
+     "family": "Papadopoulos",
+     "given": "C."
+    },
+    {
+     "family": "Romanowska",
+     "given": "I."
+    },
+    {
+     "family": "Wheatly",
+     "given": "D."
+    }
+   ],
+   "date": "2013",
+   "title": "OpenInfRA. Storing and retrieving information in a heterogeneous documentation system",
+   "is_part_of": [
+    "Archaeology in the Digital Era. Volume II. Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA) (Southampton 2012)"
+   ],
+   "pages": "422-431",
+   "publisher": "Amsterdam University Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "notes": "cited 'Amsterdam, University Press'",
+   "confidence": "high"
+  }
+ ]
+}

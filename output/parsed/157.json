@@ -1,0 +1,1413 @@
+{
+ "citing_aec_id": 157,
+ "source_file": "data/journal/7/157.md",
+ "references": [
+  {
+   "raw": "ALBERTZ J., JESCHKE W., KOENIG G., STÖRL J., WEWEL F. 1991, Transputer-Netzwerke und ihr Einsatz in Digitalen Photogrammetrischen Systemen, «Zeitschrift für Photogrammetrie und Fernerkundung», 2, 65-73.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Albertz",
+     "given": "J."
+    },
+    {
+     "family": "Jeschke",
+     "given": "W."
+    },
+    {
+     "family": "Koenig",
+     "given": "G."
+    },
+    {
+     "family": "Störl",
+     "given": "J."
+    },
+    {
+     "family": "Wewel",
+     "given": "F."
+    }
+   ],
+   "type": "article",
+   "title": "Transputer-Netzwerke und ihr Einsatz in Digitalen Photogrammetrischen Systemen",
+   "is_part_of": [
+    "Zeitschrift für Photogrammetrie und Fernerkundung"
+   ],
+   "pages": "65-73",
+   "volume": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "ALTSCHULER M., ALTSCHULER B., TABOADA J. 1979, Measuring surfaces space-coded by a laser-projected dot matrix, «Imaging Applications for Automated Industrial Inspection», SPIE, 182.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Altschuler",
+     "given": "M."
+    },
+    {
+     "family": "Altschuler",
+     "given": "B."
+    },
+    {
+     "family": "Taboada",
+     "given": "J."
+    }
+   ],
+   "type": "article",
+   "title": "Measuring surfaces space-coded by a laser-projected dot matrix",
+   "is_part_of": [
+    "Imaging Applications for Automated Industrial Inspection"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 2,
+   "volume": "182",
+   "publisher": "SPIE"
+  },
+  {
+   "raw": "BICHSEL M., PENTLAND A.P. 1992, A simple algorithm for shape from shading, in Proc. of International Conference on Computer Vision and Pattern Recognition '92, Champaign, Illinois, 459-463.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Bichsel",
+     "given": "M."
+    },
+    {
+     "family": "Pentland",
+     "given": "A.P."
+    }
+   ],
+   "type": "chapter",
+   "title": "A simple algorithm for shape from shading",
+   "pages": "459-463",
+   "is_part_of": [
+    "Proc. of International Conference on Computer Vision and Pattern Recognition '92"
+   ],
+   "place": "Champaign, Illinois",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "BOYER K., KAK A. 1987, Color-encoded structured light for rapid active ranging, «IEEE Transaction on Pattern Analysis and Machine Intelligence», 9, 14-28.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Boyer",
+     "given": "K."
+    },
+    {
+     "family": "Kak",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Color-encoded structured light for rapid active ranging",
+   "is_part_of": [
+    "IEEE Transaction on Pattern Analysis and Machine Intelligence"
+   ],
+   "pages": "14-28",
+   "volume": "9",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "CASELITZ P. 1988, Formanalyse und Keramikklassifikation, «Schriften des Deutschen Archäologen-Verbandes», 10, 71-89, Freiburg.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Caselitz",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "Formanalyse und Keramikklassifikation",
+   "is_part_of": [
+    "Schriften des Deutschen Archäologen-Verbandes"
+   ],
+   "volume": "10",
+   "language": "ger",
+   "confidence": "high",
+   "position": 5,
+   "pages": "71-89",
+   "place": "Freiburg"
+  },
+  {
+   "raw": "COCHRAN S.D., MEDIONI G. 1992, 3-D Surface Description from Binocular Stereo, «IEEE Transaction on Pattern Analysis and Machine Intelligence», 14, 10, 981-994.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Cochran",
+     "given": "S.D."
+    },
+    {
+     "family": "Medioni",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "3-D Surface Description from Binocular Stereo",
+   "is_part_of": [
+    "IEEE Transaction on Pattern Analysis and Machine Intelligence"
+   ],
+   "pages": "981-994",
+   "volume": "14",
+   "issue": "10",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "FAUGERAS O. 1993, Three-Dimensional Computer Vision: A Geometric Viewpoint, Cambridge, MA MIT Press.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Faugeras",
+     "given": "O."
+    }
+   ],
+   "type": "book",
+   "title": "Three-Dimensional Computer Vision: A Geometric Viewpoint",
+   "place": "Cambridge, MA",
+   "publisher": "MIT Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "FURGER-GIUNTI A., THOMMEN P. 1977, Archäologie und EDV am Beispiel der spätkeltisch-frührömischen Funde von Basel, «Archäologische Korrespondenz Blätter», 7, 131-139.",
+   "date": "1977",
+   "creators": [
+    {
+     "family": "Furger-Giunti",
+     "given": "A."
+    },
+    {
+     "family": "Thommen",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "Archäologie und EDV am Beispiel der spätkeltisch-frührömischen Funde von Basel",
+   "is_part_of": [
+    "Archäologische Korrespondenz Blätter"
+   ],
+   "pages": "131-139",
+   "volume": "7",
+   "language": "ger",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "GATHMANN I., KAMPFFMEYER U., LUEBBERT U., PARTMANN T. 1984, ARCOS, ein Gerät zur automatischen bildhaften Erfassung der Form von Keramik, «FhG Berichte» 2, 30-33.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Gathmann",
+     "given": "I."
+    },
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    },
+    {
+     "family": "Luebbert",
+     "given": "U."
+    },
+    {
+     "family": "Partmann",
+     "given": "T."
+    }
+   ],
+   "type": "article",
+   "title": "ARCOS, ein Gerät zur automatischen bildhaften Erfassung der Form von Keramik",
+   "is_part_of": [
+    "FhG Berichte"
+   ],
+   "pages": "30-33",
+   "volume": "2",
+   "language": "ger",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "GRIMSON W.E.L. 1981, From Images to Surfaces. A Computational Study of the Human Early Visual System, Cambridge, MA MIT Press.",
+   "date": "1981",
+   "creators": [
+    {
+     "family": "Grimson",
+     "given": "W.E.L."
+    }
+   ],
+   "type": "book",
+   "title": "From Images to Surfaces. A Computational Study of the Human Early Visual System",
+   "place": "Cambridge, MA",
+   "publisher": "MIT Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "GRIMSON W.E.L. 1985, Computational Experiments with a Feature Based Stereo Algorithm, «IEEE Transaction on Pattern Analysis and Machine Intelligence», 7, 1, 17-34.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Grimson",
+     "given": "W.E.L."
+    }
+   ],
+   "type": "article",
+   "title": "Computational Experiments with a Feature Based Stereo Algorithm",
+   "is_part_of": [
+    "IEEE Transaction on Pattern Analysis and Machine Intelligence"
+   ],
+   "pages": "17-34",
+   "volume": "7",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "GRUBER M., SCHINDLER-KAUDELKA E. 1986, Stempelidentifikation norditalischer Modelkeramik mit photogrammetrischen Methoden, in H. VETTERS, G. PICCOTTINI (edd.), Die Ausgrabungen auf dem Magdalensberg 1975-1979, Verlag des Geschichtsvereines für Kärnten, Klagenfurt, 451-455.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Gruber",
+     "given": "M."
+    },
+    {
+     "family": "Schindler-Kaudelka",
+     "given": "E."
+    }
+   ],
+   "type": "chapter",
+   "title": "Stempelidentifikation norditalischer Modelkeramik mit photogrammetrischen Methoden",
+   "editors": [
+    {
+     "family": "Vetters",
+     "given": "H."
+    },
+    {
+     "family": "Piccottini",
+     "given": "G."
+    }
+   ],
+   "pages": "451-455",
+   "is_part_of": [
+    "Die Ausgrabungen auf dem Magdalensberg 1975-1979"
+   ],
+   "place": "Klagenfurt",
+   "publisher": "Verlag des Geschichtsvereines für Kärnten",
+   "language": "ger",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "HOFF W., AHUJA N. 1989, Surfaces from Stereo: Integrating Feature Matching, Disparity Estimation and Contour Detection, «IEEE Transaction on Pattern Analysis and Machine Intelligence», 11, 2, 121-136.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Hoff",
+     "given": "W."
+    },
+    {
+     "family": "Ahuja",
+     "given": "N."
+    }
+   ],
+   "type": "article",
+   "title": "Surfaces from Stereo: Integrating Feature Matching, Disparity Estimation and Contour Detection",
+   "is_part_of": [
+    "IEEE Transaction on Pattern Analysis and Machine Intelligence"
+   ],
+   "pages": "121-136",
+   "volume": "11",
+   "issue": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "HORN B.K.P. 1990, Height and Gradient from Shading, «International Journal of Computer Vision», 5(1), 37-76.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Horn",
+     "given": "B.K.P."
+    }
+   ],
+   "type": "article",
+   "title": "Height and Gradient from Shading",
+   "is_part_of": [
+    "International Journal of Computer Vision"
+   ],
+   "pages": "37-76",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14,
+   "volume": "5"
+  },
+  {
+   "raw": "IKEUCHI K. 1984, Shape from Regular Patterns, «Artificial Intelligence», 22, 1, 49-75.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Ikeuchi",
+     "given": "K."
+    }
+   ],
+   "type": "article",
+   "title": "Shape from Regular Patterns",
+   "is_part_of": [
+    "Artificial Intelligence"
+   ],
+   "pages": "49-75",
+   "volume": "22",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "INOKUCHI S., SATO K., MATSUDA F. 1984, Range-imaging system for 3-d object recognition, in Proceeding of International Conference on Pattern Recognition, Montreal, Canada, 806-808.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Inokuchi",
+     "given": "S."
+    },
+    {
+     "family": "Sato",
+     "given": "K."
+    },
+    {
+     "family": "Matsuda",
+     "given": "F."
+    }
+   ],
+   "type": "chapter",
+   "title": "Range-imaging system for 3-d object recognition",
+   "pages": "806-808",
+   "is_part_of": [
+    "Proceeding of International Conference on Pattern Recognition"
+   ],
+   "place": "Montreal, Canada",
+   "language": "eng",
+   "confidence": "high",
+   "position": 16
+  },
+  {
+   "raw": "ISHII M., NAGATA T. 1976, Feature Extraction of Three-dimensional Objects and Visual Processing in a Hand-Eye System Using Laser Tracker, «Pattern Recognition», 8, 4, 229-237.",
+   "date": "1976",
+   "creators": [
+    {
+     "family": "Ishii",
+     "given": "M."
+    },
+    {
+     "family": "Nagata",
+     "given": "T."
+    }
+   ],
+   "type": "article",
+   "title": "Feature Extraction of Three-dimensional Objects and Visual Processing in a Hand-Eye System Using Laser Tracker",
+   "is_part_of": [
+    "Pattern Recognition"
+   ],
+   "pages": "229-237",
+   "volume": "8",
+   "issue": "4",
+   "language": "eng",
+   "confidence": "high",
+   "position": 17
+  },
+  {
+   "raw": "JARVIS R.A. 1983, A Perspective on Range Finder Techniques for Computer Vision, «IEEE Transaction on Pattern Analysis and Machine Intelligence», 5, 2, 122-139.",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Jarvis",
+     "given": "R.A."
+    }
+   ],
+   "type": "article",
+   "title": "A Perspective on Range Finder Techniques for Computer Vision",
+   "is_part_of": [
+    "IEEE Transaction on Pattern Analysis and Machine Intelligence"
+   ],
+   "pages": "122-139",
+   "volume": "5",
+   "issue": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "JENKIN M.R.M., JEPSON A.D., TSOTSOS J.K. 1991, Techniques for Disparity Measurements, «Computer Graphics and Image Processing», 53, 1, 14-30.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Jenkin",
+     "given": "M.R.M."
+    },
+    {
+     "family": "Jepson",
+     "given": "A.D."
+    },
+    {
+     "family": "Tsotsos",
+     "given": "J.K."
+    }
+   ],
+   "type": "article",
+   "title": "Techniques for Disparity Measurements",
+   "is_part_of": [
+    "Computer Graphics and Image Processing"
+   ],
+   "pages": "14-30",
+   "volume": "53",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 19
+  },
+  {
+   "raw": "KANDLER M., SCHLOEGELHOFER F., TSCHANNERL J., WALDHAEUSL P. 1985, Die photogrammetrische Dokumentation von Ziegelstempeln, in M. KANDLER (ed.) Lebendige Altertumswissenschaft: Festgabe zur Vollendung des 70. Lebensjahres von Hermann Vetters dargebracht von Freunden, Schülern und Kollegen, Holzhausen, Wien, 428-430.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Kandler",
+     "given": "M."
+    },
+    {
+     "family": "Schloegelhofer",
+     "given": "F."
+    },
+    {
+     "family": "Tschannerl",
+     "given": "J."
+    },
+    {
+     "family": "Waldhaeusl",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "Die photogrammetrische Dokumentation von Ziegelstempeln",
+   "editors": [
+    {
+     "family": "Kandler",
+     "given": "M."
+    }
+   ],
+   "pages": "428-430",
+   "is_part_of": [
+    "Lebendige Altertumswissenschaft: Festgabe zur Vollendung des 70. Lebensjahres von Hermann Vetters dargebracht von Freunden, Schülern und Kollegen"
+   ],
+   "place": "Wien",
+   "publisher": "Holzhausen",
+   "language": "ger",
+   "confidence": "high",
+   "position": 20
+  },
+  {
+   "raw": "KAMPFFMEYER U. 1985, ARCOS: Eine Testuntersuchung auf der Saalburg, «Saalburg Jahrbuch», 40-41, 121-133.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "type": "article",
+   "title": "ARCOS: Eine Testuntersuchung auf der Saalburg",
+   "is_part_of": [
+    "Saalburg Jahrbuch"
+   ],
+   "pages": "121-133",
+   "language": "ger",
+   "confidence": "high",
+   "position": 21,
+   "volume": "40-41"
+  },
+  {
+   "raw": "KAMPFFMEYER U., TEEGEN W.R. 1986, Untersuchungen zur rechnergestützten Klassifikation von Gefäßformen am Beispiel der eisenzeitlichen Keramik des Gräberfeldes von Veio, Quattro Fontanili, «Die Kunde N.F.», 37, 1-83.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    },
+    {
+     "family": "Teegen",
+     "given": "W.R."
+    }
+   ],
+   "type": "article",
+   "title": "Untersuchungen zur rechnergestützten Klassifikation von Gefäßformen am Beispiel der eisenzeitlichen Keramik des Gräberfeldes von Veio, Quattro Fontanili",
+   "is_part_of": [
+    "Die Kunde N.F."
+   ],
+   "pages": "1-83",
+   "volume": "37",
+   "language": "ger",
+   "confidence": "high",
+   "position": 22
+  },
+  {
+   "raw": "KAMPFFMEYER U., RUPPRECHT G., WITTEYER M. 1986, ARCOS: Ein Computer zeichnet römische Keramik, «Mainzer Zeitschrift», 81, 191-200.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    },
+    {
+     "family": "Rupprecht",
+     "given": "G."
+    },
+    {
+     "family": "Witteyer",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "ARCOS: Ein Computer zeichnet römische Keramik",
+   "is_part_of": [
+    "Mainzer Zeitschrift"
+   ],
+   "pages": "191-200",
+   "volume": "81",
+   "language": "ger",
+   "confidence": "high",
+   "position": 23
+  },
+  {
+   "raw": "KAMPFFMEYER U., ZAMPERONI P., TEEGEN W.R., GARCIA L. 1988, Untersuchungen zur rechnergestützten Klassifikation der Form von Keramik, «Arbeiten zur Urgeschichte des Menschen», 11, Frankfurt/Main.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    },
+    {
+     "family": "Zamperoni",
+     "given": "P."
+    },
+    {
+     "family": "Teegen",
+     "given": "W.R."
+    },
+    {
+     "family": "Garcia",
+     "given": "L."
+    }
+   ],
+   "type": "book",
+   "title": "Untersuchungen zur rechnergestützten Klassifikation der Form von Keramik",
+   "language": "ger",
+   "confidence": "high",
+   "position": 24,
+   "series": "Arbeiten zur Urgeschichte des Menschen",
+   "series_number": "11",
+   "place": "Frankfurt/Main"
+  },
+  {
+   "raw": "KENDER J.R. 1979, Shape from Texture, in Proceedings of 6th International Joint Conference on Artificial Intelligence, Tokyo, 475-480.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Kender",
+     "given": "J.R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Shape from Texture",
+   "pages": "475-480",
+   "is_part_of": [
+    "Proceedings of 6th International Joint Conference on Artificial Intelligence"
+   ],
+   "place": "Tokyo",
+   "language": "eng",
+   "confidence": "high",
+   "position": 25
+  },
+  {
+   "raw": "KLADENSKY J. 1981, Konstruktion und Erprobung einer Makro-Photogrammetrie-Meßeinrichtung, Diplomarbeit, TU Wien, Institut für Photogrammetrie und Fernerkundung.",
+   "date": "1981",
+   "creators": [
+    {
+     "family": "Kladensky",
+     "given": "J."
+    }
+   ],
+   "type": "thesis",
+   "title": "Konstruktion und Erprobung einer Makro-Photogrammetrie-Meßeinrichtung, Diplomarbeit",
+   "publisher": "TU Wien, Institut für Photogrammetrie und Fernerkundung",
+   "language": "ger",
+   "confidence": "high",
+   "position": 26,
+   "notes": "Diplomarbeit"
+  },
+  {
+   "raw": "KRINZINGER F., SCHICK M., TEEGEN W.R. 1990, Un calcolatore disegna e registra ceramica antica: il sistema ARCOS-1 sullo scavo a Velia, Com. di Marina di Ascea, Prov. di Salerno, «Archeologia e Calcolatori», 1, 179-209.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Krinzinger",
+     "given": "F."
+    },
+    {
+     "family": "Schick",
+     "given": "M."
+    },
+    {
+     "family": "Teegen",
+     "given": "W.R."
+    }
+   ],
+   "type": "article",
+   "title": "Un calcolatore disegna e registra ceramica antica: il sistema ARCOS-1 sullo scavo a Velia, Com. di Marina di Ascea, Prov. di Salerno",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "179-209",
+   "volume": "1",
+   "language": "ita",
+   "confidence": "high",
+   "position": 27
+  },
+  {
+   "raw": "KROPATSCH W.G. 1991, Image Pyramids and Curves - An Overview, Technical Report PRIP-TR02, Dept. of Pattern Recognition and Image Processing, Technical University Vienna.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Kropatsch",
+     "given": "W.G."
+    }
+   ],
+   "type": "other",
+   "title": "Image Pyramids and Curves - An Overview",
+   "series": "Technical Report",
+   "language": "eng",
+   "confidence": "high",
+   "position": 28,
+   "series_number": "PRIP-TR02",
+   "publisher": "Dept. of Pattern Recognition and Image Processing, Technical University Vienna"
+  },
+  {
+   "raw": "LEBERL F.W. 1991a, Digitale Bildanalyse für großräumige Erdvermessung, «Österreichische Zeitschrift für Vermessung und Photogrammetrie», 79, Jahrgang, 3, 224-234.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Leberl",
+     "given": "F.W."
+    }
+   ],
+   "type": "article",
+   "title": "Digitale Bildanalyse für großräumige Erdvermessung",
+   "is_part_of": [
+    "Österreichische Zeitschrift für Vermessung und Photogrammetrie"
+   ],
+   "pages": "224-234",
+   "volume": "79",
+   "issue": "3",
+   "language": "ger",
+   "confidence": "high",
+   "position": 29
+  },
+  {
+   "raw": "LEBERL F.W. 1991b, The Promise of Softcopy Photogrammetry, in H. EBNER (ed.), Digital Photogrammetric Systems, Wichmann Verlag, Karlsruhe, 3-14.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Leberl",
+     "given": "F.W."
+    }
+   ],
+   "type": "chapter",
+   "title": "The Promise of Softcopy Photogrammetry",
+   "editors": [
+    {
+     "family": "Ebner",
+     "given": "H."
+    }
+   ],
+   "pages": "3-14",
+   "is_part_of": [
+    "Digital Photogrammetric Systems"
+   ],
+   "place": "Karlsruhe",
+   "publisher": "Wichmann Verlag",
+   "language": "eng",
+   "confidence": "high",
+   "position": 30
+  },
+  {
+   "raw": "LIN W.C., CHEN S.Y., CHEN C.T. 1989, A New Surface Interpolation Technique for Reconstructing 3D-Objects from Serial Cross Sections, «Computer Vision, Graphics, and Image Processing», 48, 124-143.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Lin",
+     "given": "W.C."
+    },
+    {
+     "family": "Chen",
+     "given": "S.Y."
+    },
+    {
+     "family": "Chen",
+     "given": "C.T."
+    }
+   ],
+   "type": "article",
+   "title": "A New Surface Interpolation Technique for Reconstructing 3D-Objects from Serial Cross Sections",
+   "is_part_of": [
+    "Computer Vision, Graphics, and Image Processing"
+   ],
+   "pages": "124-143",
+   "volume": "48",
+   "language": "eng",
+   "confidence": "high",
+   "position": 31
+  },
+  {
+   "raw": "LUEBBERT U., KAMPFFMEYER U. 1989, Forschungsprojekt ARCOS: Ein Rechner und Programmsystem für die Archäologie, «Archäologie in Deutschland», 1/89, 36-40.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Luebbert",
+     "given": "U."
+    },
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "type": "article",
+   "title": "Forschungsprojekt ARCOS: Ein Rechner und Programmsystem für die Archäologie",
+   "is_part_of": [
+    "Archäologie in Deutschland"
+   ],
+   "pages": "36-40",
+   "language": "ger",
+   "confidence": "high",
+   "position": 32,
+   "issue": "1/89"
+  },
+  {
+   "raw": "LUO W., MAITRE H. 1990, Using Surface Model to Correct and fit Disparity Data in Stereo Vision, in Proceedings IEEE International Conf. on Pattern Recognition, 1, 60-64.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Luo",
+     "given": "W."
+    },
+    {
+     "family": "Maitre",
+     "given": "H."
+    }
+   ],
+   "type": "chapter",
+   "title": "Using Surface Model to Correct and fit Disparity Data in Stereo Vision",
+   "pages": "60-64",
+   "is_part_of": [
+    "Proceedings IEEE International Conf. on Pattern Recognition"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 33,
+   "volume": "1"
+  },
+  {
+   "raw": "MARR D., POGGIO D. 1979, A Computational Theory of Human Stereo Vision, «Proc. Roy. Soc.», B 204, 301-328.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Marr",
+     "given": "D."
+    },
+    {
+     "family": "Poggio",
+     "given": "D."
+    }
+   ],
+   "type": "article",
+   "title": "A Computational Theory of Human Stereo Vision",
+   "is_part_of": [
+    "Proc. Roy. Soc."
+   ],
+   "pages": "301-328",
+   "volume": "B 204",
+   "language": "eng",
+   "confidence": "high",
+   "position": 34
+  },
+  {
+   "raw": "MENARD C. 1991, Das Stereoverfahren, ein Verfahren zur bildhaften Erfassung archäologischer Fundgegenstände, Diplomarbeit, TU Wien, Institut für Automation.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Menard",
+     "given": "C."
+    }
+   ],
+   "type": "thesis",
+   "title": "Das Stereoverfahren, ein Verfahren zur bildhaften Erfassung archäologischer Fundgegenstände, Diplomarbeit",
+   "publisher": "TU Wien, Institut für Automation",
+   "language": "ger",
+   "confidence": "high",
+   "position": 35,
+   "notes": "Diplomarbeit"
+  },
+  {
+   "raw": "MENARD C., SABLATNIG R. 1991, Methoden zur Digitalisierung urgeschichtlicher Gefäße, Institut für Automation, Abteilung für Bildverarbeitung und Mustererkennung, TU Wien.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Menard",
+     "given": "C."
+    },
+    {
+     "family": "Sablatnig",
+     "given": "R."
+    }
+   ],
+   "type": "other",
+   "title": "Methoden zur Digitalisierung urgeschichtlicher Gefäße",
+   "language": "ger",
+   "confidence": "high",
+   "position": 36,
+   "publisher": "Institut für Automation, Abteilung für Bildverarbeitung und Mustererkennung, TU Wien"
+  },
+  {
+   "raw": "MENARD C., SABLATNIG R. 1992, Two Different Methods for the 3D-Acquisition of Archaeological Finds: Stereo and Structured Light, in H. BISCHOF (ed.), Pattern Recognition 1992, Proceedings of the 16. OAGM-Meeting, Vienna, München, Oldenbourg Verlag Wien, 150-160.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Menard",
+     "given": "C."
+    },
+    {
+     "family": "Sablatnig",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Two Different Methods for the 3D-Acquisition of Archaeological Finds: Stereo and Structured Light",
+   "editors": [
+    {
+     "family": "Bischof",
+     "given": "H."
+    }
+   ],
+   "pages": "150-160",
+   "is_part_of": [
+    "Pattern Recognition 1992, Proceedings of the 16. OAGM-Meeting, Vienna"
+   ],
+   "place": "München",
+   "publisher": "Oldenbourg Verlag Wien",
+   "language": "eng",
+   "confidence": "high",
+   "position": 37
+  },
+  {
+   "raw": "MENARD C., BRÄNDLE N. 1995, Hierarchical Area-Based Stereo Algorithm for 3D Acquisition, in Proceedings of International Workshop on Stereoscopic and Three-Dimensional Imaging, Santorini, Greece, 195-201.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Menard",
+     "given": "C."
+    },
+    {
+     "family": "Brändle",
+     "given": "N."
+    }
+   ],
+   "type": "chapter",
+   "title": "Hierarchical Area-Based Stereo Algorithm for 3D Acquisition",
+   "pages": "195-201",
+   "is_part_of": [
+    "Proceedings of International Workshop on Stereoscopic and Three-Dimensional Imaging"
+   ],
+   "place": "Santorini, Greece",
+   "language": "eng",
+   "confidence": "high",
+   "position": 38
+  },
+  {
+   "raw": "OHTA Y., MAENOBO K., SAKAI T. 1981, Obtaining Surface Orientation from Texels under Perspective Projection, in Proceedings of 7th International Joint Conference on Artificial Intelligence, Vancouver, 746-751.",
+   "date": "1981",
+   "creators": [
+    {
+     "family": "Ohta",
+     "given": "Y."
+    },
+    {
+     "family": "Maenobo",
+     "given": "K."
+    },
+    {
+     "family": "Sakai",
+     "given": "T."
+    }
+   ],
+   "type": "chapter",
+   "title": "Obtaining Surface Orientation from Texels under Perspective Projection",
+   "pages": "746-751",
+   "is_part_of": [
+    "Proceedings of 7th International Joint Conference on Artificial Intelligence"
+   ],
+   "place": "Vancouver",
+   "language": "eng",
+   "confidence": "high",
+   "position": 39
+  },
+  {
+   "raw": "OUENSIS J. 1991, Uniqueness in Shape from Shading, «International Journal of Computer Vision», 6(2), 75-104.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Ouensis",
+     "given": "J."
+    }
+   ],
+   "type": "article",
+   "title": "Uniqueness in Shape from Shading",
+   "is_part_of": [
+    "International Journal of Computer Vision"
+   ],
+   "pages": "75-104",
+   "issue": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 40,
+   "volume": "6"
+  },
+  {
+   "raw": "PENTLAND A.P. 1990, Linear Shape from Shading, «International Journal of Computer Vision», 4(2), 153-162.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Pentland",
+     "given": "A.P."
+    }
+   ],
+   "type": "article",
+   "title": "Linear Shape from Shading",
+   "is_part_of": [
+    "International Journal of Computer Vision"
+   ],
+   "pages": "153-162",
+   "issue": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 41,
+   "volume": "4"
+  },
+  {
+   "raw": "ROSENFELD A., KAK A. 1982, Digital Picture Processing, 2nd Edition, Academic Press, New York.",
+   "date": "1982",
+   "creators": [
+    {
+     "family": "Rosenfeld",
+     "given": "A."
+    },
+    {
+     "family": "Kak",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Digital Picture Processing",
+   "place": "New York",
+   "publisher": "Academic Press",
+   "edition": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 42
+  },
+  {
+   "raw": "SABLATNIG R. 1991, Das Lichtschnittverfahren, ein Verfahren zur Erfassung archäologischer Fundgegenstände, Diplomarbeit, TU Wien, Institut für Automation.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Sablatnig",
+     "given": "R."
+    }
+   ],
+   "type": "thesis",
+   "title": "Das Lichtschnittverfahren, ein Verfahren zur Erfassung archäologischer Fundgegenstände, Diplomarbeit",
+   "publisher": "TU Wien, Institut für Automation",
+   "language": "ger",
+   "confidence": "high",
+   "position": 43,
+   "notes": "Diplomarbeit"
+  },
+  {
+   "raw": "SABLATNIG R., MENARD C., DINTSIS P. 1993, A Preliminary Study on Methods for a Pictorial Acquisition of Archaeological Finds, in P.M. FISCHER (ed.), Archaeology and Natural Science (ANS), 1, Paul Gothenburg, Åströms Förlag, 143-151.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Sablatnig",
+     "given": "R."
+    },
+    {
+     "family": "Menard",
+     "given": "C."
+    },
+    {
+     "family": "Dintsis",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "A Preliminary Study on Methods for a Pictorial Acquisition of Archaeological Finds",
+   "editors": [
+    {
+     "family": "Fischer",
+     "given": "P.M."
+    }
+   ],
+   "pages": "143-151",
+   "is_part_of": [
+    "Archaeology and Natural Science (ANS), 1"
+   ],
+   "place": "Gothenburg",
+   "publisher": "Paul Åströms Förlag",
+   "language": "eng",
+   "confidence": "low",
+   "position": 44,
+   "volume": "1",
+   "notes": "cited \"Paul Gothenburg, Åströms Förlag\" (reordered)"
+  },
+  {
+   "raw": "SABLATNIG R., MENARD C., DINTSIS P. 1994, Bildhafte, dreidimensionale Erfassung von archäologischen Fundgegenständen als Grundlage für die automatisierte Klassifikation, in O. STOLL (ed.), Computer und Archäologie, Computer und Antike 3, Scripta Mercaturae Verlag, St. Katharinen, 59-84.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Sablatnig",
+     "given": "R."
+    },
+    {
+     "family": "Menard",
+     "given": "C."
+    },
+    {
+     "family": "Dintsis",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "Bildhafte, dreidimensionale Erfassung von archäologischen Fundgegenständen als Grundlage für die automatisierte Klassifikation",
+   "editors": [
+    {
+     "family": "Stoll",
+     "given": "O."
+    }
+   ],
+   "pages": "59-84",
+   "is_part_of": [
+    "Computer und Archäologie"
+   ],
+   "place": "St. Katharinen",
+   "publisher": "Scripta Mercaturae Verlag",
+   "language": "ger",
+   "confidence": "high",
+   "position": 45,
+   "series": "Computer und Antike",
+   "series_number": "3"
+  },
+  {
+   "raw": "SCHNEIDER G., et al. 1989, Naturwissenschaftliche Kriterien und Verfahren zur Beschreibung von Keramik, «Acta Praehistorica et Archaeologica» 21, 7-39.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Schneider",
+     "given": "G."
+    }
+   ],
+   "notes": "et al. in citation",
+   "type": "article",
+   "title": "Naturwissenschaftliche Kriterien und Verfahren zur Beschreibung von Keramik",
+   "is_part_of": [
+    "Acta Praehistorica et Archaeologica"
+   ],
+   "pages": "7-39",
+   "volume": "21",
+   "language": "ger",
+   "confidence": "high",
+   "position": 46
+  },
+  {
+   "raw": "STECKNER C., STECKNER C. 1987, SAMOS. Statistical Analysis of Mathematical object Structure, «Bollettino d'informazioni», 8, 1, 79-99.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Steckner",
+     "given": "C."
+    }
+   ],
+   "type": "article",
+   "title": "SAMOS. Statistical Analysis of Mathematical object Structure",
+   "is_part_of": [
+    "Bollettino d'informazioni"
+   ],
+   "pages": "79-99",
+   "volume": "8",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 47,
+   "notes": "author cited twice (STECKNER C., STECKNER C.)"
+  },
+  {
+   "raw": "STECKNER C., STECKNER C. 1988, Das SAMOS Projekt, Schriften des deutschen Archäologen Verbandes E.V., «Archäologie und neue Technologien», 10, Freiburg, 140-160.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Steckner",
+     "given": "C."
+    }
+   ],
+   "type": "article",
+   "title": "Das SAMOS Projekt, Schriften des deutschen Archäologen Verbandes E.V",
+   "is_part_of": [
+    "Archäologie und neue Technologien"
+   ],
+   "pages": "140-160",
+   "volume": "10",
+   "language": "fre",
+   "confidence": "high",
+   "position": 48,
+   "series": "Schriften des deutschen Archäologen Verbandes E.V.",
+   "place": "Freiburg",
+   "notes": "author cited twice (STECKNER C., STECKNER C.)"
+  },
+  {
+   "raw": "STECKNER C. 1988, SAMOS: Dokumentation, Vermessung, Bestimmung und Rekonstruktion von Keramik, in Akten des 13. internationalen Kongresses für klassische Archäologie Berlin, 631-635.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Steckner",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "SAMOS: Dokumentation, Vermessung, Bestimmung und Rekonstruktion von Keramik",
+   "pages": "631-635",
+   "is_part_of": [
+    "Akten des 13. internationalen Kongresses für klassische Archäologie Berlin"
+   ],
+   "language": "ger",
+   "confidence": "high",
+   "position": 49,
+   "place": "Berlin"
+  },
+  {
+   "raw": "STECKNER C. 1989, Das SAMOS Projekt, «Archäologie in Deutschland», 1/89, 16-21.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Steckner",
+     "given": "C."
+    }
+   ],
+   "type": "article",
+   "title": "Das SAMOS Projekt",
+   "is_part_of": [
+    "Archäologie in Deutschland"
+   ],
+   "pages": "16-21",
+   "language": "ger",
+   "confidence": "high",
+   "position": 50,
+   "issue": "1/89"
+  },
+  {
+   "raw": "SUBRAHMONIA J., HUNG Y.P., COOPER D.B. 1990, Model-Based Segmentation and Estimation of 3D Surfaces from Two or More Intensity Images Using Markov Random Fields, in Proceedings IEEE Int. Conf. on Pattern Recognition, 1, 390-397.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Subrahmonia",
+     "given": "J."
+    },
+    {
+     "family": "Hung",
+     "given": "Y.P."
+    },
+    {
+     "family": "Cooper",
+     "given": "D.B."
+    }
+   ],
+   "type": "chapter",
+   "title": "Model-Based Segmentation and Estimation of 3D Surfaces from Two or More Intensity Images Using Markov Random Fields",
+   "pages": "390-397",
+   "is_part_of": [
+    "Proceedings IEEE Int. Conf. on Pattern Recognition"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 51,
+   "volume": "1"
+  },
+  {
+   "raw": "TROBINA M. 1995, Error Model of a Coded-Light Range Sensor, Technical Report BIWI-TR-164, Communication Technology Laboratory, ETH Zuerich, Switzerland.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Trobina",
+     "given": "M."
+    }
+   ],
+   "type": "other",
+   "title": "Error Model of a Coded-Light Range Sensor",
+   "place": "Switzerland",
+   "publisher": "Communication Technology Laboratory, ETH Zuerich",
+   "language": "eng",
+   "confidence": "high",
+   "position": 52,
+   "series": "Technical Report",
+   "series_number": "BIWI-TR-164"
+  },
+  {
+   "raw": "WAHL F. 1984, A Coded Light Approach for 3-Dimensional (3D) Vision, Research Report RZ 1452, IBM.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Wahl",
+     "given": "F."
+    }
+   ],
+   "type": "other",
+   "title": "A Coded Light Approach for 3-Dimensional (3D) Vision",
+   "language": "eng",
+   "confidence": "high",
+   "position": 53,
+   "series": "Research Report",
+   "series_number": "RZ 1452",
+   "publisher": "IBM"
+  },
+  {
+   "raw": "WALDHAEUSL P., KRAUS K. 1985, Photogrammetrie für die Archäologie, in M. KANDLER (ed.), Lebendige Altertumswissenschaft: Festgabe zur Vollendung des 70. Lebensjahres von Hermann Vetters dargebracht von Freunden, Schülern und Kollegen, Wien, Holzhausen, 423-427.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Waldhaeusl",
+     "given": "P."
+    },
+    {
+     "family": "Kraus",
+     "given": "K."
+    }
+   ],
+   "type": "chapter",
+   "title": "Photogrammetrie für die Archäologie",
+   "editors": [
+    {
+     "family": "Kandler",
+     "given": "M."
+    }
+   ],
+   "pages": "423-427",
+   "is_part_of": [
+    "Lebendige Altertumswissenschaft: Festgabe zur Vollendung des 70. Lebensjahres von Hermann Vetters dargebracht von Freunden, Schülern und Kollegen"
+   ],
+   "place": "Wien",
+   "publisher": "Holzhausen",
+   "language": "ger",
+   "confidence": "high",
+   "position": 54
+  },
+  {
+   "raw": "WEI J. 1989, Modellgesteuerte Szenen-Interpretation durch Fusion von Intensitäts- und Abstandsbildern, Dissertation, Universität Karlsruhe, Fakultät für Informatik.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Wei",
+     "given": "J."
+    }
+   ],
+   "type": "thesis",
+   "title": "Modellgesteuerte Szenen-Interpretation durch Fusion von Intensitäts- und Abstandsbildern, Dissertation, Universität Karlsruhe, Fakultät für Informatik",
+   "language": "ger",
+   "confidence": "high",
+   "position": 55,
+   "publisher": "Universität Karlsruhe, Fakultät für Informatik",
+   "notes": "Dissertation"
+  },
+  {
+   "raw": "WENG J. 1992, Camera Calibration with Distortion Models and Accuracy Evaluation, «IEEE Transaction on Pattern Analysis and Machine Intelligence», 14, 965-980.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Weng",
+     "given": "J."
+    }
+   ],
+   "type": "article",
+   "title": "Camera Calibration with Distortion Models and Accuracy Evaluation",
+   "is_part_of": [
+    "IEEE Transaction on Pattern Analysis and Machine Intelligence"
+   ],
+   "pages": "965-980",
+   "volume": "14",
+   "language": "eng",
+   "confidence": "high",
+   "position": 56
+  },
+  {
+   "raw": "WOODHAM R.J. 1972, Photometric Stereo: A Reflectance Map Technique for Determining Surface Orientation from Image Intensity, in Proceedings SPIE, 22nd Technical Symposium, 155, San Diego, 136-143.",
+   "date": "1972",
+   "creators": [
+    {
+     "family": "Woodham",
+     "given": "R.J."
+    }
+   ],
+   "type": "chapter",
+   "title": "Photometric Stereo: A Reflectance Map Technique for Determining Surface Orientation from Image Intensity",
+   "pages": "136-143",
+   "is_part_of": [
+    "Proceedings SPIE, 22nd Technical Symposium"
+   ],
+   "place": "San Diego",
+   "series_number": "155",
+   "language": "eng",
+   "confidence": "high",
+   "position": 57,
+   "volume": "155"
+  },
+  {
+   "raw": "WUST C., CAPSON D.W. 1991, Surface Profile Measurement Using Color Fringe Projection, «Machine Vision and Applications», 4, 3, 193-204.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Wust",
+     "given": "C."
+    },
+    {
+     "family": "Capson",
+     "given": "D.W."
+    }
+   ],
+   "type": "article",
+   "title": "Surface Profile Measurement Using Color Fringe Projection",
+   "is_part_of": [
+    "Machine Vision and Applications"
+   ],
+   "pages": "193-204",
+   "volume": "4",
+   "issue": "3",
+   "language": "eng",
+   "confidence": "high",
+   "position": 58
+  }
+ ]
+}

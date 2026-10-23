@@ -1,0 +1,193 @@
+{
+ "citing_aec_id": 1346,
+ "source_file": "data/journal/35/1346.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Ahmed K.K.M., Al Dhubaib B.E. 2011, *Zotero: A bibliographic assistant to researcher*, «Journal of Pharmacology & Pharmacotherapeutics», 2, 4, 303-305 (https://doi.org/10.4103/0976-500X.85940).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ahmed",
+     "given": "K.K.M."
+    },
+    {
+     "family": "Al Dhubaib",
+     "given": "B.E."
+    }
+   ],
+   "date": "2011",
+   "title": "Zotero: A bibliographic assistant to researcher",
+   "is_part_of": [
+    "Journal of Pharmacology & Pharmacotherapeutics"
+   ],
+   "volume": "2",
+   "issue": "4",
+   "pages": "303-305",
+   "language": "eng",
+   "doi": "10.4103/0976-500X.85940"
+  },
+  {
+   "position": 2,
+   "raw": "Caravale A. 2022, *Le banche dati archeologiche. Articolazione e formalizzazione delle conoscenze*, Firenze, Edizioni All'Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "Le banche dati archeologiche. Articolazione e formalizzazione delle conoscenze",
+   "publisher": "Edizioni All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Caravale A., Piergrossi A. 2012, *Archeologia in rete. Le riviste open access: risorse e prospettive*, «Archeologia e Calcolatori», 23, 187-207 (https://www.archcalc.cnr.it/indice/PDF23/11_Caravale_Piergrossi.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Piergrossi",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "language": "ita",
+   "cited_aec_id": 616
+  },
+  {
+   "position": 4,
+   "raw": "Caravale A., Piergrossi A. 2015, *Archaeological open access journals: The case of «Archeologia e Calcolatori»*, in F. Giligny, F. Djinjian, L. Costa, P. Moscati, S. Robert (eds.), *Concepts, Methods and Tools. Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Paris 2014)*, Oxford, Archaeopress, 257-263.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Piergrossi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giligny",
+     "given": "F."
+    },
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Robert",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "Archaeological open access journals: The case of «Archeologia e Calcolatori»",
+   "is_part_of": [
+    "Concepts, Methods and Tools. Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Paris 2014)"
+   ],
+   "pages": "257-263",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "editor cited \"Djinjian\""
+  },
+  {
+   "position": 5,
+   "raw": "Caravale A., Piergrossi A., Rossi I. 2021, *Open Data, Open Knowledge, Open Science: The New OpenLab of the Institute for Heritage Science (CNR)*, in J. Bogdani, R. Montalbano, P. Rosati (eds.), *ArcheoFOSS XIV 2020, Open Software, Hardware, Processes, Data and Formats in Archaeological Research, Proceedings of the 14th International Conference*, Oxford, Archaeopress (https://www.archaeopress.com/Archaeopress/download/9781803271248).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Piergrossi",
+     "given": "A."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    },
+    {
+     "family": "Montalbano",
+     "given": "R."
+    },
+    {
+     "family": "Rosati",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "Open Data, Open Knowledge, Open Science: The New OpenLab of the Institute for Heritage Science (CNR)",
+   "is_part_of": [
+    "ArcheoFOSS XIV 2020, Open Software, Hardware, Processes, Data and Formats in Archaeological Research, Proceedings of the 14th International Conference"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "uri": "https://www.archaeopress.com/Archaeopress/download/9781803271248"
+  },
+  {
+   "position": 6,
+   "raw": "Puckett J. 2011, *Zotero: A Guide for Librarians, Researchers, and Educators*, Chicago, Association of College and Research Libraries.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Puckett",
+     "given": "J."
+    }
+   ],
+   "date": "2011",
+   "title": "Zotero: A Guide for Librarians, Researchers, and Educators",
+   "publisher": "Association of College and Research Libraries",
+   "place": "Chicago",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Tobias M., Mandel A. 2021, *Literature mapper: A QGIS plugin for georeferencing citations in Zotero*, «Air, Soil and Water Research», 14 (https://doi.org/10.1177/11786221211009209).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tobias",
+     "given": "M."
+    },
+    {
+     "family": "Mandel",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "Literature mapper: A QGIS plugin for georeferencing citations in Zotero",
+   "is_part_of": [
+    "Air, Soil and Water Research"
+   ],
+   "volume": "14",
+   "language": "eng",
+   "doi": "10.1177/11786221211009209"
+  }
+ ]
+}

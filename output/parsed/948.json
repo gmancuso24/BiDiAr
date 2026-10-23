@@ -1,0 +1,375 @@
+{
+ "citing_aec_id": 948,
+ "source_file": "data/journal/28/948.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Allroggen-Bedel A. 2008, *L'Augusteum*, in M.P. Guidobaldi (ed.), *Ercolano. Tre secoli di scoperte. Catalogo della Mostra (Napoli 2009)*, Milano, Electa, 35-45.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Allroggen-Bedel",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Guidobaldi",
+     "given": "M.P."
+    }
+   ],
+   "date": "2008",
+   "title": "L'Augusteum",
+   "is_part_of": [
+    "Ercolano. Tre secoli di scoperte. Catalogo della Mostra (Napoli 2009)"
+   ],
+   "pages": "35-45",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Allroggen-Bedel A. 2010, *A proposito dei Balbi: note archivistiche alla topografia d'Ercolano*, in C. Gasparri, G. Greco, R. Pierobon Benoit (eds.), *Dall'immagine alla storia. Studi per ricordare Stefania Adamo Muscettola*, Quaderni del Centro Studi Magna Grecia 10, Napoli, Naus, 355-373.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Allroggen-Bedel",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gasparri",
+     "given": "C."
+    },
+    {
+     "family": "Greco",
+     "given": "G."
+    },
+    {
+     "family": "Pierobon Benoit",
+     "given": "R."
+    }
+   ],
+   "date": "2010",
+   "title": "A proposito dei Balbi: note archivistiche alla topografia d'Ercolano",
+   "is_part_of": [
+    "Dall'immagine alla storia. Studi per ricordare Stefania Adamo Muscettola"
+   ],
+   "pages": "355-373",
+   "series": "Quaderni del Centro Studi Magna Grecia",
+   "series_number": "10",
+   "publisher": "Naus",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "*CIL*, *Corpus Inscriptionum Latinarum*.",
+   "type": "other",
+   "title": "Corpus Inscriptionum Latinarum",
+   "language": "lat",
+   "notes": "cited as \"CIL\" without date"
+  },
+  {
+   "position": 4,
+   "raw": "D'Andrea A., Fernie K. 2013, *3D-ICONS Metadata schema for 3D objects*, «Newsletter di Archelogia CISA», 4, 159-181 (http://www.unior.it/userfiles/workarea_231/file/nl4/articoli/03_dandrea-fernie.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Fernie",
+     "given": "K."
+    }
+   ],
+   "date": "2013",
+   "title": "3D-ICONS Metadata schema for 3D objects",
+   "is_part_of": [
+    "Newsletter di Archeologia CISA"
+   ],
+   "volume": "4",
+   "pages": "159-181",
+   "language": "eng",
+   "uri": "http://www.unior.it/userfiles/workarea_231/file/nl4/articoli/03_dandrea-fernie.pdf",
+   "notes": "journal cited as \"Newsletter di Archelogia CISA\" (typo)"
+  },
+  {
+   "position": 5,
+   "raw": "Forte M. 2014, *3D archaeology: New perspectives and challenges – The example of Çatalhöyük*, «Journal of Eastern Mediterranean Archaeology and Heritage Studies», 2, 1, 1-29.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2014",
+   "title": "3D archaeology: New perspectives and challenges – The example of Çatalhöyük",
+   "is_part_of": [
+    "Journal of Eastern Mediterranean Archaeology and Heritage Studies"
+   ],
+   "volume": "2",
+   "issue": "1",
+   "pages": "1-29",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Koller D., Frischer B., Humphreys G. 2009, *Research challenges for digital archives of 3D cultural heritage models*, «Journal on Computing and Cultural Heritage», 2, 3, article no. 7.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Koller",
+     "given": "D."
+    },
+    {
+     "family": "Frischer",
+     "given": "B."
+    },
+    {
+     "family": "Humphreys",
+     "given": "G."
+    }
+   ],
+   "date": "2009",
+   "title": "Research challenges for digital archives of 3D cultural heritage models",
+   "is_part_of": [
+    "Journal on Computing and Cultural Heritage"
+   ],
+   "volume": "2",
+   "issue": "3",
+   "pages": "article no. 7",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Guidobaldi M.P. 2012, *Un edificio del culto imperiale a Ercolano*, in S. De Caro (ed.), *Antichità da Ercolano. Catalogo della Mostra (St. Petersburg 2011-2012)*, San Pietroburgo, MondoMostre, 31-42.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guidobaldi",
+     "given": "M.P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Caro",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Un edificio del culto imperiale a Ercolano",
+   "is_part_of": [
+    "Antichità da Ercolano. Catalogo della Mostra (St. Petersburg 2011-2012)"
+   ],
+   "pages": "31-42",
+   "publisher": "MondoMostre",
+   "place": "San Pietroburgo",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "Mastursi L. 2008, *Modello ricostruttivo della cd. Basilica di Ercolano*, in R. Porzio (eds.), *Herculanense Museum. Laboratorio sull'antico nella Reggia di Portici*, Napoli, Electa, 314-319.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mastursi",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Porzio",
+     "given": "R."
+    }
+   ],
+   "date": "2008",
+   "title": "Modello ricostruttivo della cd. Basilica di Ercolano",
+   "is_part_of": [
+    "Herculanense Museum. Laboratorio sull'antico nella Reggia di Portici"
+   ],
+   "pages": "314-319",
+   "publisher": "Electa",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "Najbjerg T. 2002, *A reconstruction and reconsideration of the so-called basilica*, in T. McGinn, P. Carafa, N. de Grummond, B. Bergmann, T. Najbjerg (eds.), *Pompeian Brothels, Pompeii's Ancient History, Mirrors and Mysteries, Art and Nature at Oplontis, and the Herculaneum \"Basilica\"*, «Journal of Roman Archaeology», Supplementary Series 47, 122-165.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Najbjerg",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "McGinn",
+     "given": "T."
+    },
+    {
+     "family": "Carafa",
+     "given": "P."
+    },
+    {
+     "family": "de Grummond",
+     "given": "N."
+    },
+    {
+     "family": "Bergmann",
+     "given": "B."
+    },
+    {
+     "family": "Najbjerg",
+     "given": "T."
+    }
+   ],
+   "date": "2002",
+   "title": "A reconstruction and reconsideration of the so-called basilica",
+   "is_part_of": [
+    "Pompeian Brothels, Pompeii's Ancient History, Mirrors and Mysteries, Art and Nature at Oplontis, and the Herculaneum \"Basilica\""
+   ],
+   "pages": "122-165",
+   "series": "Journal of Roman Archaeology Supplementary Series",
+   "series_number": "47",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Pagano M. 1996, *La nuova pianta della città e di alcuni edifici pubblici di Ercolano*, «Cronache Ercolanesi», 26, 229-257.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pagano",
+     "given": "M."
+    }
+   ],
+   "date": "1996",
+   "title": "La nuova pianta della città e di alcuni edifici pubblici di Ercolano",
+   "is_part_of": [
+    "Cronache Ercolanesi"
+   ],
+   "volume": "26",
+   "pages": "229-257",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "Potenziani M., Callieri M., Dellepiane M., Corsini M., Ponchio F., Scopigno R. 2015, *3DHOP: 3D Heritage Online Presenter*, «Computers & Graphics», 52 (November), 129-141.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Potenziani",
+     "given": "M."
+    },
+    {
+     "family": "Callieri",
+     "given": "M."
+    },
+    {
+     "family": "Dellepiane",
+     "given": "M."
+    },
+    {
+     "family": "Corsini",
+     "given": "M."
+    },
+    {
+     "family": "Ponchio",
+     "given": "F."
+    },
+    {
+     "family": "Scopigno",
+     "given": "R."
+    }
+   ],
+   "date": "2015",
+   "title": "3DHOP: 3D Heritage Online Presenter",
+   "is_part_of": [
+    "Computers & Graphics"
+   ],
+   "volume": "52",
+   "pages": "129-141",
+   "language": "eng",
+   "notes": "November 2015"
+  },
+  {
+   "position": 12,
+   "raw": "Reilly P. 1991, *Towards a Virtual Archaeology*, in S. Rahtz, K. Lockyear (eds.), *CAA90. Computer Applications and Quantitative Methods in Archaeology 1990*, Oxford, BAR International Series 565, Tempus Reparatum, 132-139.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Reilly",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S."
+    },
+    {
+     "family": "Lockyear",
+     "given": "K."
+    }
+   ],
+   "date": "1991",
+   "title": "Towards a Virtual Archaeology",
+   "is_part_of": [
+    "CAA90. Computer Applications and Quantitative Methods in Archaeology 1990"
+   ],
+   "pages": "132-139",
+   "series": "BAR International Series",
+   "series_number": "565",
+   "publisher": "Tempus Reparatum",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Remondino F., Campana S. (eds.) 2014, *3D Recording and Modeling in Archaeology and Cultural Heritage: Theory and Practices*, BAR International Series 2598, Oxford, Archaeopress.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "date": "2014",
+   "title": "3D Recording and Modeling in Archaeology and Cultural Heritage: Theory and Practices",
+   "series": "BAR International Series",
+   "series_number": "2598",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Torelli M. 2004, *La basilica di Ercolano. Una proposta di lettura*, «Eidola», 1, 117-149.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Torelli",
+     "given": "M."
+    }
+   ],
+   "date": "2004",
+   "title": "La basilica di Ercolano. Una proposta di lettura",
+   "is_part_of": [
+    "Eidola"
+   ],
+   "volume": "1",
+   "pages": "117-149",
+   "language": "ita"
+  }
+ ]
+}

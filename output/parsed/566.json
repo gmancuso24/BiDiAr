@@ -1,0 +1,488 @@
+{
+ "citing_aec_id": 566,
+ "source_file": "data/journal/21/566.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Buora M., Santoro S. (eds.) 2004, Progetto Dürres. Strumenti della salvaguardia del patrimonio culturale: carta del rischio archeologico e catalogazione informatizzata. Esempi italiani e applicabilità in Albania (Villa Manin di Passariano-Udine-Parma 2003). Alte tecnologie applicate all’archeologia di Dürres (Dürres 2004). Atti del secondo e del terzo Incontro scientifico, Trieste, Editreg.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Buora",
+     "given": "M."
+    },
+    {
+     "family": "Santoro",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Progetto Dürres. Strumenti della salvaguardia del patrimonio culturale: carta del rischio archeologico e catalogazione informatizzata. Esempi italiani e applicabilità in Albania (Villa Manin di Passariano-Udine-Parma 2003). Alte tecnologie applicate all’archeologia di Dürres (Dürres 2004). Atti del secondo e del terzo Incontro scientifico",
+   "publisher": "Editreg",
+   "place": "Trieste",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Cambi F., Terrenato N. 1994, Introduzione all’archeologia dei paesaggi, Roma, Nuova Italia Scientifica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cambi",
+     "given": "F."
+    },
+    {
+     "family": "Terrenato",
+     "given": "N."
+    }
+   ],
+   "date": "1994",
+   "title": "Introduzione all’archeologia dei paesaggi",
+   "publisher": "Nuova Italia Scientifica",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Carta M. 2003, Pianificare nel dominio culturale. Strutture e strategie per l’armatura culturale in Sicilia, Palermo, Dct.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carta",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Pianificare nel dominio culturale. Strutture e strategie per l’armatura culturale in Sicilia",
+   "publisher": "Dct",
+   "place": "Palermo",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Carta M. 2004, Strutture territoriali e strategie culturali per lo sviluppo locale, «Economia della cultura», 1, 39-56.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carta",
+     "given": "M."
+    }
+   ],
+   "date": "2004",
+   "title": "Strutture territoriali e strategie culturali per lo sviluppo locale",
+   "is_part_of": [
+    "Economia della cultura"
+   ],
+   "volume": "1",
+   "pages": "39-56",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Carta M. 2005, Indicatori e strategie per la formazione di distretti culturali, «Economia della cultura», 2, 195-207.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carta",
+     "given": "M."
+    }
+   ],
+   "date": "2005",
+   "title": "Indicatori e strategie per la formazione di distretti culturali",
+   "is_part_of": [
+    "Economia della cultura"
+   ],
+   "volume": "2",
+   "pages": "195-207",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "DSR 2007-2013, Documento Strategico Regionale 2007-2013 della Regione Puglia, approvato con Delibera di Giunta Regionale n. 1139 del 1 agosto 2006 (Bollettino Ufficiale della Regione Puglia, n. 102 del 9 agosto 2006).",
+   "type": "other",
+   "date": "2006",
+   "title": "Documento Strategico Regionale 2007-2013 della Regione Puglia, approvato con Delibera di Giunta Regionale n. 1139 del 1 agosto 2006",
+   "is_part_of": [
+    "Bollettino Ufficiale della Regione Puglia"
+   ],
+   "issue": "102",
+   "language": "ita",
+   "confidence": "low",
+   "notes": "cited as DSR 2007-2013; no year in the citation key, 2006 = approval/publication date written in the citation (BURP n. 102 del 9 agosto 2006)"
+  },
+  {
+   "position": 7,
+   "raw": "Forte M. 2002, I Sistemi Informativi Geografici in archeologia, Roma, MondoGIS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "I Sistemi Informativi Geografici in archeologia",
+   "publisher": "MondoGIS",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Gelichi S. 2001 (ed.), Dalla carta del rischio archeologico di Cesena alla tutela preventiva urbana in Europa, Firenze, Edizioni All’Insegna del Giglio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Gelichi",
+     "given": "S."
+    }
+   ],
+   "date": "2001",
+   "title": "Dalla carta del rischio archeologico di Cesena alla tutela preventiva urbana in Europa",
+   "publisher": "Edizioni All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Goffredo R., Volpe G. 2007, Fotografia aerea, archeologia globale e paesaggi antichi della Daunia. Esempi dalle valli dell’Ofanto e del Carapelle, «Archeologia aerea. Studi di aerotopografia archeologica», 2, 219-246.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Goffredo",
+     "given": "R."
+    },
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "Fotografia aerea, archeologia globale e paesaggi antichi della Daunia. Esempi dalle valli dell’Ofanto e del Carapelle",
+   "is_part_of": [
+    "Archeologia aerea. Studi di aerotopografia archeologica"
+   ],
+   "volume": "2",
+   "pages": "219-246",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Linee guida Area Vasta 2007 = Regione Puglia, Assessorato alla Programmazione, Nucleo di Valutazione e Verifica degli Investimenti Pubblici, Linee guida per la pianificazione strategica territoriale di Area Vasta, Atto NVVIP, n. 151 del 15.5.2007.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Regione Puglia, Assessorato alla Programmazione, Nucleo di Valutazione e Verifica degli Investimenti Pubblici",
+     "given": ""
+    }
+   ],
+   "date": "2007",
+   "title": "Linee guida per la pianificazione strategica territoriale di Area Vasta, Atto NVVIP, n. 151 del 15.5.2007",
+   "language": "ita",
+   "notes": "cited as Linee guida Area Vasta 2007; date from the citation key",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Lucchesi F., Carta M., Di Zanni A. 2008, La storia, lo spazio, il paesaggio. Una ipotesi di rappresentazione multi temporale del patrimonio culturale stratificato per la tutela e la valorizzazione dei beni culturali pugliesi, in P. Persi (ed.), Territori contesi: campi del sapere, identità locali, istituzioni, progettualità. Atti del IV Convegno Internazionale sui Beni Culturali Territoriali (Pollenza 2008), Pollenza, Grafiche Ciocca, 101-110.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lucchesi",
+     "given": "F."
+    },
+    {
+     "family": "Carta",
+     "given": "M."
+    },
+    {
+     "family": "Di Zanni",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Persi",
+     "given": "P."
+    }
+   ],
+   "date": "2008",
+   "title": "La storia, lo spazio, il paesaggio. Una ipotesi di rappresentazione multi temporale del patrimonio culturale stratificato per la tutela e la valorizzazione dei beni culturali pugliesi",
+   "is_part_of": [
+    "Territori contesi: campi del sapere, identità locali, istituzioni, progettualità. Atti del IV Convegno Internazionale sui Beni Culturali Territoriali (Pollenza 2008)"
+   ],
+   "pages": "101-110",
+   "publisher": "Grafiche Ciocca",
+   "place": "Pollenza",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Magnaghi A. 2000, Lo sviluppo locale, Torino, Bollati Boringhieri.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Magnaghi",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "Lo sviluppo locale",
+   "publisher": "Bollati Boringhieri",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Magnaghi A. 2008, Nota sulla proposta di scheda per i centri storici per la Carta dei Beni Culturali, Documento interno al progetto del PPTR, 10 gennaio.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Magnaghi",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "Nota sulla proposta di scheda per i centri storici per la Carta dei Beni Culturali",
+   "language": "ita",
+   "notes": "internal document of the PPTR project, 10 January",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Malnati L. 2005, La verifica preventiva dell’interesse archeologico, «Aedon. Rivista di arti e diritto on line», 3.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Malnati",
+     "given": "L."
+    }
+   ],
+   "date": "2005",
+   "title": "La verifica preventiva dell’interesse archeologico",
+   "is_part_of": [
+    "Aedon. Rivista di arti e diritto on line"
+   ],
+   "volume": "3",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Manacorda D. 2004, Prima lezione di archeologia, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2004",
+   "title": "Prima lezione di archeologia",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Manacorda D. 2007, Il sito archeologico fra ricerca e valorizzazione, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2007",
+   "title": "Il sito archeologico fra ricerca e valorizzazione",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Mannoni T. 1997, Archeologia globale e archeologia postmedievale, «Archeologia postmedievale», 1, 21-25.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mannoni",
+     "given": "T."
+    }
+   ],
+   "date": "1997",
+   "title": "Archeologia globale e archeologia postmedievale",
+   "is_part_of": [
+    "Archeologia postmedievale"
+   ],
+   "volume": "1",
+   "pages": "21-25",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Settis S. 2002, Italia S.p.A. L’assalto al patrimonio culturale, Torino, Einaudi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Settis",
+     "given": "S."
+    }
+   ],
+   "date": "2002",
+   "title": "Italia S.p.A. L’assalto al patrimonio culturale",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Volpe G. 2007, L’archeologia “globale” per ascoltare la “storia totale” del paesaggio, «Sudest», 20, 20-32.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "L’archeologia “globale” per ascoltare la “storia totale” del paesaggio",
+   "is_part_of": [
+    "Sudest"
+   ],
+   "volume": "20",
+   "pages": "20-32",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Volpe G. 2008, Per una “archeologia globale dei paesaggi” della Daunia. Tra archeologia, metodologia e politica dei beni culturali, in G. Volpe, M.J. Strazzulla, D. Leone (eds.), Storia e archeologia della Daunia. In ricordo di Marina Mazzei. Atti delle Giornate di Studio (Foggia 2005), Bari, Edipuglia, 447-462.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "Strazzulla",
+     "given": "M.J."
+    },
+    {
+     "family": "Leone",
+     "given": "D."
+    }
+   ],
+   "date": "2008",
+   "title": "Per una “archeologia globale dei paesaggi” della Daunia. Tra archeologia, metodologia e politica dei beni culturali",
+   "is_part_of": [
+    "Storia e archeologia della Daunia. In ricordo di Marina Mazzei. Atti delle Giornate di Studio (Foggia 2005)"
+   ],
+   "pages": "447-462",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Volpe G., Di Zanni A., Laurenza S. 2008, La Carta dei Beni Culturali della Regione Puglia: dalla lettura del paesaggio alla progettazione dell’infrastruttura informatica, in G. Volpe, G. De Felice, M.G. Sibilano (eds.), L’informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008), Bari, Edipuglia, 75-90.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "Di Zanni",
+     "given": "A."
+    },
+    {
+     "family": "Laurenza",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2008",
+   "title": "La Carta dei Beni Culturali della Regione Puglia: dalla lettura del paesaggio alla progettazione dell’infrastruttura informatica",
+   "is_part_of": [
+    "L’informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008)"
+   ],
+   "pages": "75-90",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Volpe G., Goffredo R., Di Zanni A. 2007, Herdonia e l’archeologia dei paesaggi della Valle del Carapelle. Per un museo archeologico diffuso, in L. Longo, V. Vecchione (eds.), Sistemi locali e sviluppo. Lineamenti per un piano strategico, Foggia, Claudio Grenzi Editore, 109-124.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "Goffredo",
+     "given": "R."
+    },
+    {
+     "family": "Di Zanni",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Longo",
+     "given": "L."
+    },
+    {
+     "family": "Vecchione",
+     "given": "V."
+    }
+   ],
+   "date": "2007",
+   "title": "Herdonia e l’archeologia dei paesaggi della Valle del Carapelle. Per un museo archeologico diffuso",
+   "is_part_of": [
+    "Sistemi locali e sviluppo. Lineamenti per un piano strategico"
+   ],
+   "pages": "109-124",
+   "publisher": "Claudio Grenzi Editore",
+   "place": "Foggia",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

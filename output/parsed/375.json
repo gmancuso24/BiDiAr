@@ -1,0 +1,323 @@
+{
+ "citing_aec_id": 375,
+ "source_file": "data/journal/15/375.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Corti L. 2003, *I beni culturali e la loro catalogazione*, Milano, Mondadori.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Corti",
+     "given": "L."
+    }
+   ],
+   "date": "2003",
+   "title": "I beni culturali e la loro catalogazione",
+   "publisher": "Mondadori",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Lattanzi M. 2002, *Il Sistema Informativo Generale del Catalogo*, in *Geomatica per l’ambiente, il territorio e il patrimonio culturale. Atti della 6a Conferenza Nazionale Asita (Perugia 2002)*, I, CXLIII-CXLVI, Varese.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lattanzi",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Il Sistema Informativo Generale del Catalogo",
+   "is_part_of": [
+    "Geomatica per l’ambiente, il territorio e il patrimonio culturale. Atti della 6a Conferenza Nazionale Asita (Perugia 2002)"
+   ],
+   "volume": "I",
+   "pages": "CXLIII-CXLVI",
+   "place": "Varese",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "*Lo spazio il tempo le opere* 2001 = A. Stanzani, O. Orsi, C. Giudici (eds.), *Il catalogo del patrimonio culturale*, Milano, Silvana Editoriale.",
+   "type": "book",
+   "date": "2001",
+   "title": "Il catalogo del patrimonio culturale",
+   "editors": [
+    {
+     "family": "Stanzani",
+     "given": "A."
+    },
+    {
+     "family": "Orsi",
+     "given": "O."
+    },
+    {
+     "family": "Giudici",
+     "given": "C."
+    }
+   ],
+   "publisher": "Silvana Editoriale",
+   "place": "Milano",
+   "language": "ita",
+   "notes": "cited in short form as \"Lo spazio il tempo le opere 2001\"",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Mancinelli M.L. 2001, *L’informazione geografica nella catalogazione dei beni culturali: metodi e strumenti*, in *Lo spazio il tempo le opere* 2001, 93-95.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mancinelli",
+     "given": "M.L."
+    }
+   ],
+   "date": "2001",
+   "title": "L’informazione geografica nella catalogazione dei beni culturali: metodi e strumenti",
+   "editors": [
+    {
+     "family": "Stanzani",
+     "given": "A."
+    },
+    {
+     "family": "Orsi",
+     "given": "O."
+    },
+    {
+     "family": "Giudici",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Il catalogo del patrimonio culturale"
+   ],
+   "pages": "93-95",
+   "publisher": "Silvana Editoriale",
+   "place": "Milano",
+   "language": "ita",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Papaldo S. (ed.) 1993, *Strutturazione dei dati delle schede di catalogo e precatalogo. Beni Artistici e Storici. Schede OA-D-N*, Roma, ICCD.",
+   "type": "book",
+   "date": "1993",
+   "title": "Strutturazione dei dati delle schede di catalogo e precatalogo. Beni Artistici e Storici. Schede OA-D-N",
+   "editors": [
+    {
+     "family": "Papaldo",
+     "given": "S."
+    }
+   ],
+   "publisher": "ICCD",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Parise Badoni F., Ruggeri M. 1988, *Strutturazione dei dati delle schede di catalogo. Beni archeologici immobili e territoriali*, Roma, ICCD-CNUCE Istituto CNR Pisa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Parise Badoni",
+     "given": "F."
+    },
+    {
+     "family": "Ruggeri",
+     "given": "M."
+    }
+   ],
+   "date": "1988",
+   "title": "Strutturazione dei dati delle schede di catalogo. Beni archeologici immobili e territoriali",
+   "publisher": "ICCD-CNUCE Istituto CNR Pisa",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Ruggeri M. (ed.) 1993, *Strutturazione dei dati delle schede di catalogo e precatalogo. Reperti acheologici. Beni mobili. Schede RA-N*, Roma, ICCD.",
+   "type": "book",
+   "date": "1993",
+   "title": "Strutturazione dei dati delle schede di catalogo e precatalogo. Reperti archeologici. Beni mobili. Schede RA-N",
+   "editors": [
+    {
+     "family": "Ruggeri",
+     "given": "M."
+    }
+   ],
+   "publisher": "ICCD",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "OCR \"acheologici\" corrected",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Sciacchitano E. 2001, *Accesso ai dati del patrimonion culturale*, in *Lo spazio il tempo le opere* 2001, 52-54.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sciacchitano",
+     "given": "E."
+    }
+   ],
+   "date": "2001",
+   "title": "Accesso ai dati del patrimonio culturale",
+   "editors": [
+    {
+     "family": "Stanzani",
+     "given": "A."
+    },
+    {
+     "family": "Orsi",
+     "given": "O."
+    },
+    {
+     "family": "Giudici",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Il catalogo del patrimonio culturale"
+   ],
+   "pages": "52-54",
+   "publisher": "Silvana Editoriale",
+   "place": "Milano",
+   "language": "ita",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Stanzani A. 2001, *Cose e parole: mostrare la catalogazione del patrimonio culturale*, in *Lo spazio il tempo le opere* 2001, 76-84.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Stanzani",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Cose e parole: mostrare la catalogazione del patrimonio culturale",
+   "editors": [
+    {
+     "family": "Stanzani",
+     "given": "A."
+    },
+    {
+     "family": "Orsi",
+     "given": "O."
+    },
+    {
+     "family": "Giudici",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Il catalogo del patrimonio culturale"
+   ],
+   "pages": "76-84",
+   "publisher": "Silvana Editoriale",
+   "place": "Milano",
+   "language": "ita",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Stasolla F.R. 2001, *La catalogazione dei beni mobili archeologici*, in *Lo spazio il tempo le opere* 2001, 585.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Stasolla",
+     "given": "F.R."
+    }
+   ],
+   "date": "2001",
+   "title": "La catalogazione dei beni mobili archeologici",
+   "editors": [
+    {
+     "family": "Stanzani",
+     "given": "A."
+    },
+    {
+     "family": "Orsi",
+     "given": "O."
+    },
+    {
+     "family": "Giudici",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Il catalogo del patrimonio culturale"
+   ],
+   "pages": "585",
+   "publisher": "Silvana Editoriale",
+   "place": "Milano",
+   "language": "ita",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Stasolla F.R. 2001a, *La catalogazione dei beni numismatici*, in *Lo spazio il tempo le opere* 2001, 555-556.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Stasolla",
+     "given": "F.R."
+    }
+   ],
+   "date": "2001",
+   "title": "La catalogazione dei beni numismatici",
+   "editors": [
+    {
+     "family": "Stanzani",
+     "given": "A."
+    },
+    {
+     "family": "Orsi",
+     "given": "O."
+    },
+    {
+     "family": "Giudici",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Il catalogo del patrimonio culturale"
+   ],
+   "pages": "555-556",
+   "publisher": "Silvana Editoriale",
+   "place": "Milano",
+   "language": "ita",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Vasco Rocca S. 2002, *Beni culturali e catalogazione. Principi teorici e percorsi di analisi*, Roma, Gangemi Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Vasco Rocca",
+     "given": "S."
+    }
+   ],
+   "date": "2002",
+   "title": "Beni culturali e catalogazione. Principi teorici e percorsi di analisi",
+   "publisher": "Gangemi Editore",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

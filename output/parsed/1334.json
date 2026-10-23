@@ -1,0 +1,278 @@
+{
+ "citing_aec_id": 1334,
+ "source_file": "data/journal/35/1334.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Antinucci F. 2011, *Parola e immagine*, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Antinucci",
+     "given": "F."
+    }
+   ],
+   "date": "2011",
+   "title": "Parola e immagine",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Ambaglio J. 2022, *Meta Effect: la prima mostra d'arte interamente progettata nel metaverso, tra opere di artisti reali e create dall'AI*, «Il Fatto Quotidiano», 23 dicembre 2022.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ambaglio",
+     "given": "J."
+    }
+   ],
+   "date": "2022",
+   "title": "Meta Effect: la prima mostra d'arte interamente progettata nel metaverso, tra opere di artisti reali e create dall'AI",
+   "is_part_of": [
+    "Il Fatto Quotidiano"
+   ],
+   "language": "ita",
+   "notes": "23 dicembre 2022"
+  },
+  {
+   "position": 3,
+   "raw": "Fanini B., Ferdani D., Demetrescu E., Berto S., d'Annibale E. 2021, *ATON: An open-source framework for creating immersive, collaborative and liquid web-apps for Cultural Heritage*, «Applied Sciences», 11, 22, 11062.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fanini",
+     "given": "B."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Berto",
+     "given": "S."
+    },
+    {
+     "family": "d'Annibale",
+     "given": "E."
+    }
+   ],
+   "date": "2021",
+   "title": "ATON: An open-source framework for creating immersive, collaborative and liquid web-apps for Cultural Heritage",
+   "is_part_of": [
+    "Applied Sciences"
+   ],
+   "volume": "11",
+   "issue": "22",
+   "pages": "11062",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Fanini B., Pescarin S., Palombini A. 2019, *A cloud-based architecture for processing and dissemination of 3D landscapes online*, in L. Pezzati, E. degli Innocenti, S. Pescarin (eds.), *Digital Heritage Sciences and Infrastructures*, «DAACH. Digital Applications in Archaeology and Digital Heritage», 14.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fanini",
+     "given": "B."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    },
+    {
+     "family": "Palombini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pezzati",
+     "given": "L."
+    },
+    {
+     "family": "degli Innocenti",
+     "given": "E."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    }
+   ],
+   "date": "2019",
+   "title": "A cloud-based architecture for processing and dissemination of 3D landscapes online",
+   "is_part_of": [
+    "Digital Heritage Sciences and Infrastructures",
+    "DAACH. Digital Applications in Archaeology and Digital Heritage"
+   ],
+   "volume": "14",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Maccaferri A. 2022, *Cantieri archeologici aperti per costruire e abitare i metaversi*, «Il Sole 24 ore», 27 ottobre 2022 (https://www.ilsole24ore.com/art/cantieri-archeologici-aperti-costruire-e-abitare-metaversi-AE2jdd9B).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Maccaferri",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "Cantieri archeologici aperti per costruire e abitare i metaversi",
+   "is_part_of": [
+    "Il Sole 24 ore"
+   ],
+   "language": "ita",
+   "uri": "https://www.ilsole24ore.com/art/cantieri-archeologici-aperti-costruire-e-abitare-metaversi-AE2jdd9B",
+   "notes": "27 ottobre 2022"
+  },
+  {
+   "position": 6,
+   "raw": "Malatesta S.G., Leopardi L., Marini M.R., Rosati P. 2023, *ArcheoVerso: A cultural metaverse for enhancement, technologies, communities, services*, in *IMEKO TC4 International Conference on Metrology for Archaeology and Cultural Heritage (Rome 2023)*, Red Hook (NY), Curran Associates (https://www.imeko.org/publications/tc4-Archaeo-2023/IMEKO-MetroArchaeo-2023-001.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Malatesta",
+     "given": "S.G."
+    },
+    {
+     "family": "Leopardi",
+     "given": "L."
+    },
+    {
+     "family": "Marini",
+     "given": "M.R."
+    },
+    {
+     "family": "Rosati",
+     "given": "P."
+    }
+   ],
+   "date": "2023",
+   "title": "ArcheoVerso: A cultural metaverse for enhancement, technologies, communities, services",
+   "is_part_of": [
+    "IMEKO TC4 International Conference on Metrology for Archaeology and Cultural Heritage (Rome 2023)"
+   ],
+   "publisher": "Curran Associates",
+   "place": "Red Hook (NY)",
+   "language": "eng",
+   "uri": "https://www.imeko.org/publications/tc4-Archaeo-2023/IMEKO-MetroArchaeo-2023-001.pdf"
+  },
+  {
+   "position": 7,
+   "raw": "Palombini A. 2017, *The rights of reproducing Cultural Heritage in the digital era. An Italian perspective*, «ExNovo. Journal of Archaeology», 2, 49-62 (https://doi.org/10.32028/exnovo.v2i0.389).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Palombini",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "The rights of reproducing Cultural Heritage in the digital era. An Italian perspective",
+   "is_part_of": [
+    "ExNovo. Journal of Archaeology"
+   ],
+   "volume": "2",
+   "pages": "49-62",
+   "language": "eng",
+   "doi": "10.32028/exnovo.v2i0.389"
+  },
+  {
+   "position": 8,
+   "raw": "Palombini A. 2018, *Riproducibilità a vario titolo del patrimonio: situazione e prospettive*, in M. Arizza, V. Boi, A. Caravale, A. Palombini, A. Piergrossi (eds.), *I dati archeologici. Accessibilità, proprietà, disseminazione, Atti del Convegno (Roma 2017)*, «Archeologia e Calcolatori», 29, 87-92 (https://doi.org/10.19282/ac.29.2018.10).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Palombini",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "language": "ita",
+   "cited_aec_id": 996
+  },
+  {
+   "position": 9,
+   "raw": "Palombini A. 2020, *Digitale, patrimonio culturale e legislazione*, in S. Pescarin (ed.), *Videogames, ricerca e patrimonio culturale*, Milano, Franco Angeli, 35-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Palombini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pescarin",
+     "given": "S."
+    }
+   ],
+   "date": "2020",
+   "title": "Digitale, patrimonio culturale e legislazione",
+   "is_part_of": [
+    "Videogames, ricerca e patrimonio culturale"
+   ],
+   "pages": "35-40",
+   "publisher": "Franco Angeli",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Pizzolla G. 2023, *Il \"Realverso\" lucano: luogo innovativo e visionario*, «Il Metapontino.it», 5 gennaio 2023 (https://www.ilmetapontino.it/economia/2023/01/05/lintervista-il-realverso-lucano-luogo-innovativo-e-visionario/).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pizzolla",
+     "given": "G."
+    }
+   ],
+   "date": "2023",
+   "title": "Il \"Realverso\" lucano: luogo innovativo e visionario",
+   "is_part_of": [
+    "Il Metapontino.it"
+   ],
+   "language": "ita",
+   "uri": "https://www.ilmetapontino.it/economia/2023/01/05/lintervista-il-realverso-lucano-luogo-innovativo-e-visionario/",
+   "notes": "5 gennaio 2023"
+  },
+  {
+   "position": 11,
+   "raw": "Taglioretti R., Carraro D., Taglioretti V., Mazzucchi A. 2021, *MAPOD 4D: primo esempio di musealizzazione digitale di sepolture utilizzando un multiverso di metaversi*, «Sibrium», 35, 303-327.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Taglioretti",
+     "given": "R."
+    },
+    {
+     "family": "Carraro",
+     "given": "D."
+    },
+    {
+     "family": "Taglioretti",
+     "given": "V."
+    },
+    {
+     "family": "Mazzucchi",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "MAPOD 4D: primo esempio di musealizzazione digitale di sepolture utilizzando un multiverso di metaversi",
+   "is_part_of": [
+    "Sibrium"
+   ],
+   "volume": "35",
+   "pages": "303-327",
+   "language": "ita"
+  }
+ ]
+}

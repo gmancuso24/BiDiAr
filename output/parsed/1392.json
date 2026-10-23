@@ -1,0 +1,405 @@
+{
+ "citing_aec_id": 1392,
+ "source_file": "data/journal/36/1392.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Adamesteanu D. (ed.) 1971, Popoli anellenici in Basilicata, Catalogo della mostra, Napoli, La Buona Stampa Editore.",
+   "type": "book",
+   "date": "1971",
+   "title": "Popoli anellenici in Basilicata, Catalogo della mostra",
+   "editors": [
+    {
+     "family": "Adamesteanu",
+     "given": "D."
+    }
+   ],
+   "publisher": "La Buona Stampa Editore",
+   "place": "Napoli",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Cambi F. (ed.) 2011, Manuale di archeologia dei paesaggi. Metodologie, fonti, contesti, Roma, Carocci Editore.",
+   "type": "book",
+   "date": "2011",
+   "title": "Manuale di archeologia dei paesaggi. Metodologie, fonti, contesti",
+   "editors": [
+    {
+     "family": "Cambi",
+     "given": "F."
+    }
+   ],
+   "publisher": "Carocci Editore",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Dal Maso C. (ed.) 2018, Racconti da museo. Storytelling d'autore per il museo 4.0, Bari, Edipuglia.",
+   "type": "book",
+   "date": "2018",
+   "title": "Racconti da museo. Storytelling d’autore per il museo 4.0",
+   "editors": [
+    {
+     "family": "Dal Maso",
+     "given": "C."
+    }
+   ],
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Dal Maso C., Ripanti F. (eds.) 2015, Archeostorie. Manuale non convenzionale di archeologia vissuta, Milano, Cisalpino Editore.",
+   "type": "book",
+   "date": "2015",
+   "title": "Archeostorie. Manuale non convenzionale di archeologia vissuta",
+   "editors": [
+    {
+     "family": "Dal Maso",
+     "given": "C."
+    },
+    {
+     "family": "Ripanti",
+     "given": "F."
+    }
+   ],
+   "publisher": "Cisalpino Editore",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "De Felice G., Sibilano M.G. (eds.) 2011, Archeofoss. Open Source, Free Software e Open Format nei processi di ricerca archeologica, Atti del V Workshop (Foggia 2010), Bari, Edipuglia.",
+   "type": "proceedings",
+   "date": "2011",
+   "title": "Archeofoss. Open Source, Free Software e Open Format nei processi di ricerca archeologica, Atti del V Workshop (Foggia 2010)",
+   "editors": [
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "De Siena A., Giammatteo T. (eds.) 2016, Palazzo San Gervasio. Modalità insediative e pratiche funerarie dal territorio, Venosa, Osanna Editore.",
+   "type": "book",
+   "date": "2016",
+   "title": "Palazzo San Gervasio. Modalità insediative e pratiche funerarie dal territorio",
+   "editors": [
+    {
+     "family": "De Siena",
+     "given": "A."
+    },
+    {
+     "family": "Giammatteo",
+     "given": "T."
+    }
+   ],
+   "publisher": "Osanna Editore",
+   "place": "Venosa",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Gabellone F. 2019, Archeologia virtuale. Teoria, tecniche e casi di studio, Copertino (Lecce), Grifo Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gabellone",
+     "given": "F."
+    }
+   ],
+   "date": "2019",
+   "title": "Archeologia virtuale. Teoria, tecniche e casi di studio",
+   "publisher": "Grifo Editore",
+   "place": "Copertino (Lecce)",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "Le Pera Buranelli S., Turchetti R. (eds.) 2003, Sulla Via Appia da Roma a Brindisi. Le fotografie di Thomas Ashby 1891-1925, in Monografie della Carta dell'agro romano, 1, Catalogo della mostra, Roma, L'Erma di Bretschneider.",
+   "type": "book",
+   "date": "2003",
+   "title": "Sulla Via Appia da Roma a Brindisi. Le fotografie di Thomas Ashby 1891-1925, Catalogo della mostra",
+   "editors": [
+    {
+     "family": "Le Pera Buranelli",
+     "given": "S."
+    },
+    {
+     "family": "Turchetti",
+     "given": "R."
+    }
+   ],
+   "series": "Monografie della Carta dell’agro romano",
+   "series_number": "1",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "Manacorda D. 2020, A proposito di archeologia preventiva: una riflessione di cornice, «A&RT. Atti e Rassegna Tecnica della Società degli Ingegneri e degli Architetti in Torino», 153, 2-3, 13-19.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2020",
+   "title": "A proposito di archeologia preventiva: una riflessione di cornice",
+   "is_part_of": [
+    "A&RT. Atti e Rassegna Tecnica della Società degli Ingegneri e degli Architetti in Torino"
+   ],
+   "volume": "153",
+   "issue": "2-3",
+   "pages": "13-19",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Mutino S. 2018, Discovering Cancellara (Potenza, Basilicata, Italy). From Passion to Emergency. History of a Change, presentazione della mostra, Potenza (https://www.academia.edu/37222720/Discovering_Cancellara_Potenza_Basilicata_Italy_From_passion_to_emergency_History_of_a_change_Sabrina_Mutino.PDF).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Mutino",
+     "given": "S."
+    }
+   ],
+   "date": "2018",
+   "title": "Discovering Cancellara (Potenza, Basilicata, Italy). From Passion to Emergency. History of a Change, presentazione della mostra",
+   "place": "Potenza",
+   "uri": "https://www.academia.edu/37222720/Discovering_Cancellara_Potenza_Basilicata_Italy_From_passion_to_emergency_History_of_a_change_Sabrina_Mutino.PDF",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Mutino S. (ed.) 2021, Archeologia preventiva in Basilicata. Nuove ricerche a Palazzo San Gervasio, Banzi e Genzano di Lucania, Venosa, Osanna Editore.",
+   "type": "book",
+   "date": "2021",
+   "title": "Archeologia preventiva in Basilicata. Nuove ricerche a Palazzo San Gervasio, Banzi e Genzano di Lucania",
+   "editors": [
+    {
+     "family": "Mutino",
+     "given": "S."
+    }
+   ],
+   "publisher": "Osanna Editore",
+   "place": "Venosa",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "Mutino S., Capozzoli V., Colangelo A., Duplouy A., Henning A., Poccetti P., Tulumello G. 2021, San Chirico Nuovo: messaggi dalla Lucania antica, «Archeologia Viva», 209, 5 (https://www.archeologiaviva.it/17782/san-chirico-nuovo.PDF).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mutino",
+     "given": "S."
+    },
+    {
+     "family": "Capozzoli",
+     "given": "V."
+    },
+    {
+     "family": "Colangelo",
+     "given": "A."
+    },
+    {
+     "family": "Duplouy",
+     "given": "A."
+    },
+    {
+     "family": "Henning",
+     "given": "A."
+    },
+    {
+     "family": "Poccetti",
+     "given": "P."
+    },
+    {
+     "family": "Tulumello",
+     "given": "G."
+    }
+   ],
+   "date": "2021",
+   "title": "San Chirico Nuovo: messaggi dalla Lucania antica",
+   "is_part_of": [
+    "Archeologia Viva"
+   ],
+   "issue": "209",
+   "pages": "5",
+   "uri": "https://www.archeologiaviva.it/17782/san-chirico-nuovo.PDF",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "Mutino S., Colangelo L. 2018, San Chirico Nuovo (PZ). Un insediamento tardo-arcaico nel territorio bradanico, «Dialoghi sull'Archeologia della Magna Grecia e del Mediterraneo», 3, 2, 397-404.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mutino",
+     "given": "S."
+    },
+    {
+     "family": "Colangelo",
+     "given": "L."
+    }
+   ],
+   "date": "2018",
+   "title": "San Chirico Nuovo (PZ). Un insediamento tardo-arcaico nel territorio bradanico",
+   "is_part_of": [
+    "Dialoghi sull’Archeologia della Magna Grecia e del Mediterraneo"
+   ],
+   "volume": "3",
+   "issue": "2",
+   "pages": "397-404",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "Mutino S., Colangelo L., Scioscia M. 2022, Hold the Hut. Il progetto di tutela e valorizzazione della capanna arcaica di San Chirico Nuovo (Potenza, Basilicata), in S. Bertoldi, S. Mariotti (eds.), The Past as a Digital Playground: Archaeology, Virtual Reality and Video Games (Poggibonsi 2021), Oxford, Archaeopress, 73-90 (www.archaeopress.com).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mutino",
+     "given": "S."
+    },
+    {
+     "family": "Colangelo",
+     "given": "L."
+    },
+    {
+     "family": "Scioscia",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "Hold the Hut. Il progetto di tutela e valorizzazione della capanna arcaica di San Chirico Nuovo (Potenza, Basilicata)",
+   "editors": [
+    {
+     "family": "Bertoldi",
+     "given": "S."
+    },
+    {
+     "family": "Mariotti",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "The Past as a Digital Playground: Archaeology, Virtual Reality and Video Games (Poggibonsi 2021)"
+   ],
+   "pages": "73-90",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "uri": "www.archaeopress.com",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Nanetti R.Y., Holguin C. 2015, Social Capital in Development Planning: Linking the Actors, London, Palgrave Macmillan.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nanetti",
+     "given": "R.Y."
+    },
+    {
+     "family": "Holguin",
+     "given": "C."
+    }
+   ],
+   "date": "2015",
+   "title": "Social Capital in Development Planning: Linking the Actors",
+   "publisher": "Palgrave Macmillan",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Petrizzi C. (ed.) 2008, Buone pratiche per la lettura del paesaggio: l'alto-Bradano, Potenza, MIBAC Editore.",
+   "type": "book",
+   "date": "2008",
+   "title": "Buone pratiche per la lettura del paesaggio: l’alto-Bradano",
+   "editors": [
+    {
+     "family": "Petrizzi",
+     "given": "C."
+    }
+   ],
+   "publisher": "MIBAC Editore",
+   "place": "Potenza",
+   "language": "ita"
+  },
+  {
+   "position": 17,
+   "raw": "Small A.M. 2019, Il percorso della via Appia tra Palazzo San Gervasio e Gravina, in M.L. Marchi (ed.), Via Appia, Regina Viarum. Ricerche, Contesti, Valorizzazione, Atti del Convegno (Melfi-Venosa 2017), Venosa, Osanna Editore, 223-243.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Small",
+     "given": "A.M."
+    }
+   ],
+   "date": "2019",
+   "title": "Il percorso della via Appia tra Palazzo San Gervasio e Gravina",
+   "editors": [
+    {
+     "family": "Marchi",
+     "given": "M.L."
+    }
+   ],
+   "is_part_of": [
+    "Via Appia, Regina Viarum. Ricerche, Contesti, Valorizzazione, Atti del Convegno (Melfi-Venosa 2017)"
+   ],
+   "pages": "223-243",
+   "publisher": "Osanna Editore",
+   "place": "Venosa",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "Tarasco A.L. 2019, Diritto e gestione del patrimonio culturale, Bari-Roma, Laterza Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tarasco",
+     "given": "A.L."
+    }
+   ],
+   "date": "2019",
+   "title": "Diritto e gestione del patrimonio culturale",
+   "publisher": "Laterza Editore",
+   "place": "Bari-Roma",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Volpe G. 2020, Archeologia pubblica. Metodi, tecniche, esperienze, Roma, Carocci Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "date": "2020",
+   "title": "Archeologia pubblica. Metodi, tecniche, esperienze",
+   "publisher": "Carocci Editore",
+   "place": "Roma",
+   "language": "ita"
+  }
+ ]
+}

@@ -1,0 +1,318 @@
+{
+ "citing_aec_id": 1344,
+ "source_file": "data/journal/35/1344.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Cohen J.D., Duncan D.D., Snyder D., Cooper J., Kumar S., Hahn D.V., Chen Y., Purnomo B., Graettinger J. 2004, *iClay: Digitizing cuneiform*, in *Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST)* (https://doi.org/10.2312/VAST/VAST04/135-143).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cohen",
+     "given": "J.D."
+    },
+    {
+     "family": "Duncan",
+     "given": "D.D."
+    },
+    {
+     "family": "Snyder",
+     "given": "D."
+    },
+    {
+     "family": "Cooper",
+     "given": "J."
+    },
+    {
+     "family": "Kumar",
+     "given": "S."
+    },
+    {
+     "family": "Hahn",
+     "given": "D.V."
+    },
+    {
+     "family": "Chen",
+     "given": "Y."
+    },
+    {
+     "family": "Purnomo",
+     "given": "B."
+    },
+    {
+     "family": "Graettinger",
+     "given": "J."
+    }
+   ],
+   "date": "2004",
+   "title": "iClay: Digitizing cuneiform",
+   "is_part_of": [
+    "Proceedings of the IEEE Conference on Visual Analytics Science and Technology (VAST)"
+   ],
+   "language": "eng",
+   "doi": "10.2312/VAST/VAST04/135-143"
+  },
+  {
+   "position": 2,
+   "raw": "Diara F. 2023, *Structured-light scanning and metrological analysis for archaeology: Quality assessment of Artec 3D solutions for cuneiform Tablets*, «Heritage», 6, 9, 6016-6034 (https://doi.org/10.3390/heritage6090317).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Diara",
+     "given": "F."
+    }
+   ],
+   "date": "2023",
+   "title": "Structured-light scanning and metrological analysis for archaeology: Quality assessment of Artec 3D solutions for cuneiform Tablets",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "6",
+   "issue": "9",
+   "pages": "6016-6034",
+   "language": "eng",
+   "doi": "10.3390/heritage6090317"
+  },
+  {
+   "position": 3,
+   "raw": "Diara F. 2024a, *ITSERR - dataset_1*, Zenodo (https://doi.org/10.5281/zenodo.10908664).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Diara",
+     "given": "F."
+    }
+   ],
+   "date": "2024",
+   "title": "ITSERR - dataset_1, Zenodo",
+   "language": "eng",
+   "doi": "10.5281/zenodo.10908664",
+   "notes": "cited as 2024a"
+  },
+  {
+   "position": 4,
+   "raw": "Diara F. 2024b, *ITSERR - CDE*, Zenodo (https://doi.org/10.5281/zenodo.10837436).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Diara",
+     "given": "F."
+    }
+   ],
+   "date": "2024",
+   "title": "ITSERR - CDE, Zenodo",
+   "language": "eng",
+   "doi": "10.5281/zenodo.10837436",
+   "notes": "cited as 2024b"
+  },
+  {
+   "position": 5,
+   "raw": "Fisseler D., Müller G.G.W., Weichert F. 2017, *Web-based scientific exploration and analysis of 3D scanned cuneiform datasets for collaborative research*, «Informatics», 4, 44 (https://doi.org/10.3390/informatics4040044).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fisseler",
+     "given": "D."
+    },
+    {
+     "family": "Müller",
+     "given": "G.G.W."
+    },
+    {
+     "family": "Weichert",
+     "given": "F."
+    }
+   ],
+   "date": "2017",
+   "title": "Web-based scientific exploration and analysis of 3D scanned cuneiform datasets for collaborative research",
+   "is_part_of": [
+    "Informatics"
+   ],
+   "volume": "4",
+   "pages": "44",
+   "language": "eng",
+   "doi": "10.3390/informatics4040044"
+  },
+  {
+   "position": 6,
+   "raw": "Göldner D., Karakostis F.A., Falcucci A. 2022, *Practical and technical aspects for the 3D scanning of lithic artefacts using micro-computed tomography techniques and laser light scanners for subsequent geometric morphometric analysis. Introducing the StyroStone protocol*, «PLOS ONE», 17, e0267163 (https://doi.org/10.1371/journal.pone.0267163).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Göldner",
+     "given": "D."
+    },
+    {
+     "family": "Karakostis",
+     "given": "F.A."
+    },
+    {
+     "family": "Falcucci",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "Practical and technical aspects for the 3D scanning of lithic artefacts using micro-computed tomography techniques and laser light scanners for subsequent geometric morphometric analysis. Introducing the StyroStone protocol",
+   "is_part_of": [
+    "PLOS ONE"
+   ],
+   "volume": "17",
+   "pages": "e0267163",
+   "language": "eng",
+   "doi": "10.1371/journal.pone.0267163"
+  },
+  {
+   "position": 7,
+   "raw": "Homburg T., Zwick R., Mara H., Bruhn K.-C. 2022, *Annotated 3D-models of cuneiform tablets*, «Journal of Open Archaeological Data», 10, 1-8 (https://doi.org/10.5334/joad.92).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Homburg",
+     "given": "T."
+    },
+    {
+     "family": "Zwick",
+     "given": "R."
+    },
+    {
+     "family": "Mara",
+     "given": "H."
+    },
+    {
+     "family": "Bruhn",
+     "given": "K.-C."
+    }
+   ],
+   "date": "2022",
+   "title": "Annotated 3D-models of cuneiform tablets",
+   "is_part_of": [
+    "Journal of Open Archaeology Data"
+   ],
+   "volume": "10",
+   "pages": "1-8",
+   "language": "eng",
+   "doi": "10.5334/joad.92",
+   "notes": "journal cited \"Journal of Open Archaeological Data\""
+  },
+  {
+   "position": 8,
+   "raw": "Kotoula E., Akoglu K.G., Frahm E., Simon S. 2017, *QR coded 3D prints of cuneiform tablets*, «International Journal of Art, Culture, Design and Technologies», 6, 1-11 (https://doi.org/10.4018/ijacdt.2017070101).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kotoula",
+     "given": "E."
+    },
+    {
+     "family": "Akoglu",
+     "given": "K.G."
+    },
+    {
+     "family": "Frahm",
+     "given": "E."
+    },
+    {
+     "family": "Simon",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "QR coded 3D prints of cuneiform tablets",
+   "is_part_of": [
+    "International Journal of Art, Culture, Design and Technologies"
+   ],
+   "volume": "6",
+   "pages": "1-11",
+   "language": "eng",
+   "doi": "10.4018/ijacdt.2017070101"
+  },
+  {
+   "position": 9,
+   "raw": "Mara S.H., Krömker S., Breuckmann J.-B. 2010, *GigaMesh & Gilgamesh: 3D multiscale integral invariant cuneiform character extraction*, in *Proceedings of the VAST: International Symposium on Virtual Reality, Archaeology and Intelligent Cultural Heritage, The Eurographics Association (Paris 2010)* (https://doi.org/10.2312/VAST/VAST10/131-138).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mara",
+     "given": "S.H."
+    },
+    {
+     "family": "Krömker",
+     "given": "S."
+    },
+    {
+     "family": "Breuckmann",
+     "given": "J.-B."
+    }
+   ],
+   "date": "2010",
+   "title": "GigaMesh & Gilgamesh: 3D multiscale integral invariant cuneiform character extraction",
+   "is_part_of": [
+    "Proceedings of the VAST: International Symposium on Virtual Reality, Archaeology and Intelligent Cultural Heritage, The Eurographics Association (Paris 2010)"
+   ],
+   "language": "eng",
+   "doi": "10.2312/VAST/VAST10/131-138",
+   "notes": "first author cited \"Mara S.H.\" (Hubert Mara)"
+  },
+  {
+   "position": 10,
+   "raw": "Marić I., Šiljeg A., Domazetović F. 2022, *Precision assessment of Artec Space Spider 3D handheld scanner for quantifying tufa formation dynamics on small Limestone Plates (PLs)*, in *Proceedings of the 8th International Conference on Geographical Information Systems Theory, Applications and Management GISTAM 2022*, Wien, SciTePress, 67-74 (https://doi.org/10.5220/0010886900003185).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Marić",
+     "given": "I."
+    },
+    {
+     "family": "Šiljeg",
+     "given": "A."
+    },
+    {
+     "family": "Domazetović",
+     "given": "F."
+    }
+   ],
+   "date": "2022",
+   "title": "Precision assessment of Artec Space Spider 3D handheld scanner for quantifying tufa formation dynamics on small Limestone Plates (PLs)",
+   "is_part_of": [
+    "Proceedings of the 8th International Conference on Geographical Information Systems Theory, Applications and Management GISTAM 2022"
+   ],
+   "pages": "67-74",
+   "publisher": "SciTePress",
+   "place": "Wien",
+   "language": "eng",
+   "doi": "10.5220/0010886900003185"
+  },
+  {
+   "position": 11,
+   "raw": "Schild L., Sasse F., Kaiser J.-P., Lanza G. 2022, *Assessing the optical configuration of a structured light scanner in metrological use*, «Measurement Science and Technology», 33, 085018 (https://doi.org/10.1088/1361-6501/ac6e2f).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schild",
+     "given": "L."
+    },
+    {
+     "family": "Sasse",
+     "given": "F."
+    },
+    {
+     "family": "Kaiser",
+     "given": "J.-P."
+    },
+    {
+     "family": "Lanza",
+     "given": "G."
+    }
+   ],
+   "date": "2022",
+   "title": "Assessing the optical configuration of a structured light scanner in metrological use",
+   "is_part_of": [
+    "Measurement Science and Technology"
+   ],
+   "volume": "33",
+   "pages": "085018",
+   "language": "eng",
+   "doi": "10.1088/1361-6501/ac6e2f"
+  }
+ ]
+}

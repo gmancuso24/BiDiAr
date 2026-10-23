@@ -1,0 +1,613 @@
+{
+ "citing_aec_id": 934,
+ "source_file": "data/journal/28/934.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Boschi F. 2011, *Geophysical survey of the Burnum archaeological site, Croatia*, «Archaeological Prospection», 18, 117-128.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Boschi",
+     "given": "F."
+    }
+   ],
+   "date": "2011",
+   "title": "Geophysical survey of the Burnum archaeological site, Croatia",
+   "is_part_of": [
+    "Archaeological Prospection"
+   ],
+   "volume": "18",
+   "pages": "117-128",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Boschi F., Campedelli A. 2008, *Archaeological diagnostic experiences at Burnum*, in N. Marchetti, I. Thuesen (eds.), *ARCHAIA. Cases Studies on Research Planning, Characterisation, Conservation and Management of Archaeological Sites*, BAR Intenational Series 1877, Oxford, Archaeopress, 409-416.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Boschi",
+     "given": "F."
+    },
+    {
+     "family": "Campedelli",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Marchetti",
+     "given": "N."
+    },
+    {
+     "family": "Thuesen",
+     "given": "I."
+    }
+   ],
+   "date": "2008",
+   "title": "Archaeological diagnostic experiences at Burnum",
+   "is_part_of": [
+    "ARCHAIA. Cases Studies on Research Planning, Characterisation, Conservation and Management of Archaeological Sites"
+   ],
+   "pages": "409-416",
+   "series": "BAR International Series",
+   "series_number": "1877",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Bruzzone L., Roli F., Serpico S.B. 1995, *An extension to multiclass cases of the Jeffreys – Matusita distance*, «Transactions on Geoscience and Remote Sensing», 33, 1318-1321.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bruzzone",
+     "given": "L."
+    },
+    {
+     "family": "Roli",
+     "given": "F."
+    },
+    {
+     "family": "Serpico",
+     "given": "S.B."
+    }
+   ],
+   "date": "1995",
+   "title": "An extension to multiclass cases of the Jeffreys – Matusita distance",
+   "is_part_of": [
+    "Transactions on Geoscience and Remote Sensing"
+   ],
+   "volume": "33",
+   "pages": "1318-1321",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Campedelli A. 2012, *The castrum of Burnum: Between old excavations and new researches*, «Archeologia Adriatica», 5, 33-64.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Campedelli",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "The castrum of Burnum: Between old excavations and new researches",
+   "is_part_of": [
+    "Archeologia Adriatica"
+   ],
+   "volume": "5",
+   "pages": "33-64",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Campedelli A., Vecchietti E. 2009, *Archeologia sostenibile tra ricerca conservazione e formazione. Il progetto Burnum. Le ragioni di un'esperienza riuscita*, in E. Giorgi (ed.), *GROMA 2. In profondità senza scavare*, Bologna, Bradypus Edizioni, 519-528.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Campedelli",
+     "given": "A."
+    },
+    {
+     "family": "Vecchietti",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giorgi",
+     "given": "E."
+    }
+   ],
+   "date": "2009",
+   "title": "Archeologia sostenibile tra ricerca conservazione e formazione. Il progetto Burnum. Le ragioni di un'esperienza riuscita",
+   "is_part_of": [
+    "GROMA 2. In profondità senza scavare"
+   ],
+   "pages": "519-528",
+   "publisher": "Bradypus Edizioni",
+   "place": "Bologna",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Doneus M., Gugl C., Doneus N. 2013, *Die Canabae von Carnuntum – eine Modellstudie der Erforschung römischer Lagervorstädte*, Wien, Verlag der Österreichischen Akademie der Wissenschaften.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Doneus",
+     "given": "M."
+    },
+    {
+     "family": "Gugl",
+     "given": "C."
+    },
+    {
+     "family": "Doneus",
+     "given": "N."
+    }
+   ],
+   "date": "2013",
+   "title": "Die Canabae von Carnuntum – eine Modellstudie der Erforschung römischer Lagervorstädte",
+   "publisher": "Verlag der Österreichischen Akademie der Wissenschaften",
+   "place": "Wien",
+   "language": "ger"
+  },
+  {
+   "position": 7,
+   "raw": "Dubbini M., Curzio L.I., Campedelli A. 2016, *Digital elevation models from unmanned aerial vehicle surveys for archaeological interpretation of terrain anomalies: Case study of the Roman castrum of Burnum (Croatia)*, «Journal of Archaeological Science: Reports», 8, 121-134.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dubbini",
+     "given": "M."
+    },
+    {
+     "family": "Curzio",
+     "given": "L.I."
+    },
+    {
+     "family": "Campedelli",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Digital elevation models from unmanned aerial vehicle surveys for archaeological interpretation of terrain anomalies: Case study of the Roman castrum of Burnum (Croatia)",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "volume": "8",
+   "pages": "121-134",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Giorgi E. 2012, *Dalla diagnostica all'archeologia. Ricerche nel sito romano di Burnum in Dalmatia (Croazia)*, in M. Cavalieri (ed.), *INDVSTRIA APIVM. L'archéologie: une démarche singulière, des pratiques multiples*, Louvain, Presses Universitaires de Louvain, 109-122.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giorgi",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cavalieri",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Dalla diagnostica all'archeologia. Ricerche nel sito romano di Burnum in Dalmatia (Croazia)",
+   "is_part_of": [
+    "INDVSTRIA APIVM. L'archéologie: une démarche singulière, des pratiques multiples"
+   ],
+   "pages": "109-122",
+   "publisher": "Presses Universitaires de Louvain",
+   "place": "Louvain",
+   "language": "fre"
+  },
+  {
+   "position": 9,
+   "raw": "Giorgi E. 2016, *City archaeology in the Adriatic area: The cases of Burnum in Dalmatia and Suasa and Ascoli in the Marche region*, in F. Boschi (ed.), *Looking to the Future, Caring for the Past*, Bologna, Bononia University Press, 109-115.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giorgi",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Boschi",
+     "given": "F."
+    }
+   ],
+   "date": "2016",
+   "title": "City archaeology in the Adriatic area: The cases of Burnum in Dalmatia and Suasa and Ascoli in the Marche region",
+   "is_part_of": [
+    "Looking to the Future, Caring for the Past"
+   ],
+   "pages": "109-115",
+   "publisher": "Bononia University Press",
+   "place": "Bologna",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Giorgi E., Boschi F. 2012, *The Burnum Project. An integrated approach to the study of a Roman castrum in Croatia*, in *Urban Landscape Survey in Italy and the Mediterranean*, Oxford, Oxbow Books, 170-179.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giorgi",
+     "given": "E."
+    },
+    {
+     "family": "Boschi",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Vermeulen",
+     "given": "F."
+    },
+    {
+     "family": "Burgers",
+     "given": "G.-J."
+    },
+    {
+     "family": "Keay",
+     "given": "S."
+    },
+    {
+     "family": "Corsi",
+     "given": "C."
+    }
+   ],
+   "date": "2012",
+   "title": "The Burnum Project. An integrated approach to the study of a Roman castrum in Croatia",
+   "is_part_of": [
+    "Urban Landscape Survey in Italy and the Mediterranean"
+   ],
+   "pages": "170-179",
+   "publisher": "Oxbow Books",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Giorgi E., Boschi F., Silani M., Bogdani J. 2012, *Documentare l'archeologia da Burnum (Sebenico, Croazia) a Suasa (Ancona): una tradizione rinnovata*, «Archeologia e Calcolatori», 23, 261-282.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Giorgi",
+     "given": "E."
+    },
+    {
+     "family": "Boschi",
+     "given": "F."
+    },
+    {
+     "family": "Silani",
+     "given": "M."
+    },
+    {
+     "family": "Bogdani",
+     "given": "J."
+    }
+   ],
+   "date": "2012",
+   "title": "Documentare l'archeologia da Burnum (Sebenico, Croazia) a Suasa (Ancona): una tradizione rinnovata",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "261-282",
+   "language": "ita",
+   "cited_aec_id": 622
+  },
+  {
+   "position": 12,
+   "raw": "Gomarasca M.A. 1997, *Introduzione a telerilevamento e GIS per la gestione delle risorse agricole e ambientali*, Cagliari, Associazione italiana di telerilevamento.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gomarasca",
+     "given": "M.A."
+    }
+   ],
+   "date": "1997",
+   "title": "Introduzione a telerilevamento e GIS per la gestione delle risorse agricole e ambientali",
+   "publisher": "Associazione italiana di telerilevamento",
+   "place": "Cagliari",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "Gomarasca M.A. 2004, *Introduzione a telerilevamento e GIS per la gestione delle risorse agricole e ambientali*, Milano, CNR – Istituto di Ricerca sul Rischio Sismico, Reparto Telerilevamento.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gomarasca",
+     "given": "M.A."
+    }
+   ],
+   "date": "2004",
+   "title": "Introduzione a telerilevamento e GIS per la gestione delle risorse agricole e ambientali",
+   "publisher": "CNR – Istituto di Ricerca sul Rischio Sismico, Reparto Telerilevamento",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "Leprince S., Barbot S., Ayout F., Avouac J.-P. 2007, *Automatic and precise orthorectification, coregistration, and subpixel correlation of satellite images, application to ground deformation measurements*, «Transactions on Geoscience and Remote Sensing», 45, 6, 1529-1558.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Leprince",
+     "given": "S."
+    },
+    {
+     "family": "Barbot",
+     "given": "S."
+    },
+    {
+     "family": "Ayout",
+     "given": "F."
+    },
+    {
+     "family": "Avouac",
+     "given": "J.-P."
+    }
+   ],
+   "date": "2007",
+   "title": "Automatic and precise orthorectification, coregistration, and subpixel correlation of satellite images, application to ground deformation measurements",
+   "is_part_of": [
+    "Transactions on Geoscience and Remote Sensing"
+   ],
+   "volume": "45",
+   "issue": "6",
+   "pages": "1529-1558",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Lillesand T.M., Kiefer R.W. 1986, *Remote Sensing and Image Interpretation*, 2nd Edition, New York, Wiley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lillesand",
+     "given": "T.M."
+    },
+    {
+     "family": "Kiefer",
+     "given": "R.W."
+    }
+   ],
+   "date": "1986",
+   "title": "Remote Sensing and Image Interpretation",
+   "edition": "2",
+   "publisher": "Wiley",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Lillesand T.M., Kiefer R.W., Chipman J.W. 2015, *Remote Sensing and Image Interpretation*, 7th Edition, New York, Wiley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lillesand",
+     "given": "T.M."
+    },
+    {
+     "family": "Kiefer",
+     "given": "R.W."
+    },
+    {
+     "family": "Chipman",
+     "given": "J.W."
+    }
+   ],
+   "date": "2015",
+   "title": "Remote Sensing and Image Interpretation",
+   "edition": "7",
+   "publisher": "Wiley",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Miletić Ž. 2010, *Burnum – vojničko središte provinije Dalmacije*, in I. Radman-Livaja (ed.), *Nalazi rimske vojne opreme u Hrvatskoj*, Zagreb, Arheološki Muzej u Zagrebu, 117-141.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Miletić",
+     "given": "Ž."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Radman-Livaja",
+     "given": "I."
+    }
+   ],
+   "date": "2010",
+   "title": "Burnum – vojničko središte provinije Dalmacije",
+   "is_part_of": [
+    "Nalazi rimske vojne opreme u Hrvatskoj"
+   ],
+   "pages": "117-141",
+   "publisher": "Arheološki Muzej u Zagrebu",
+   "place": "Zagreb",
+   "language": "hrv"
+  },
+  {
+   "position": 18,
+   "raw": "Perica D., Orešik D., Trajbar S. 2007, *Geomorfološka obilježja doline rijeke Krke s posebnim osvrtom na klisuru od Knina do Bilušića buka*, in *Rijeka Krka i Nacionalni Park \"Krka\", prirodna I kulturna baština, zaštita I održivi razvitak, Narodne Novine d.d. Zagreb. Simpozij (Šibenik 2005)*, Šibenik, Nacionalni park Krka, 109-125.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Perica",
+     "given": "D."
+    },
+    {
+     "family": "Orešik",
+     "given": "D."
+    },
+    {
+     "family": "Trajbar",
+     "given": "S."
+    }
+   ],
+   "date": "2007",
+   "title": "Geomorfološka obilježja doline rijeke Krke s posebnim osvrtom na klisuru od Knina do Bilušića buka",
+   "is_part_of": [
+    "Rijeka Krka i Nacionalni Park \"Krka\", prirodna i kulturna baština, zaštita i održivi razvitak, Narodne Novine d.d. Zagreb. Simpozij (Šibenik 2005)"
+   ],
+   "pages": "109-125",
+   "publisher": "Nacionalni park Krka",
+   "place": "Šibenik",
+   "language": "hrv"
+  },
+  {
+   "position": 19,
+   "raw": "Piso I. 1991, *Die inschriften von Pfaffenberg und der bereich der canabae legionis*, «Tyche», 6, 131-169.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Piso",
+     "given": "I."
+    }
+   ],
+   "date": "1991",
+   "title": "Die inschriften von Pfaffenberg und der bereich der canabae legionis",
+   "is_part_of": [
+    "Tyche"
+   ],
+   "volume": "6",
+   "pages": "131-169",
+   "language": "ger"
+  },
+  {
+   "position": 20,
+   "raw": "Thenkabail P.S. 2015, *Remote Sensing Handbook*, Boca Raton (Florida), CRC Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Thenkabail",
+     "given": "P.S."
+    }
+   ],
+   "date": "2015",
+   "title": "Remote Sensing Handbook",
+   "publisher": "CRC Press",
+   "place": "Boca Raton (Florida)",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "Tucker C., Sellers P. 1986, *Satellite remote sensing of primary production*, «International Journal of Remote Sensing», 7, 11, 1395-1416.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tucker",
+     "given": "C."
+    },
+    {
+     "family": "Sellers",
+     "given": "P."
+    }
+   ],
+   "date": "1986",
+   "title": "Satellite remote sensing of primary production",
+   "is_part_of": [
+    "International Journal of Remote Sensing"
+   ],
+   "volume": "7",
+   "issue": "11",
+   "pages": "1395-1416",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "Vishnu S., Nidamanuri R.R., Bremananth R. 2013, *Spectral material mapping using hyperspectral imagery: A review of spectral matching search methods*, «Geocarto International», 28, 2, 175-190.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vishnu",
+     "given": "S."
+    },
+    {
+     "family": "Nidamanuri",
+     "given": "R.R."
+    },
+    {
+     "family": "Bremananth",
+     "given": "R."
+    }
+   ],
+   "date": "2013",
+   "title": "Spectral material mapping using hyperspectral imagery: A review of spectral matching search methods",
+   "is_part_of": [
+    "Geocarto International"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "175-190",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Vrbek B., Pilaš I. 2007, *Tla nacionalnog Parka \"Krka\"*, in *Rijeka Krka i Nacionalni Park \"Krka\", prirodna I kulturna baština, zaštita I održivi razvitak, Narodne Novine d.d. Zagreb. Simpozij (Šibenik 2005)*, Šibenik, Nacionalni park Krka, 949-977.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vrbek",
+     "given": "B."
+    },
+    {
+     "family": "Pilaš",
+     "given": "I."
+    }
+   ],
+   "date": "2007",
+   "title": "Tla nacionalnog Parka \"Krka\"",
+   "is_part_of": [
+    "Rijeka Krka i Nacionalni Park \"Krka\", prirodna i kulturna baština, zaštita i održivi razvitak, Narodne Novine d.d. Zagreb. Simpozij (Šibenik 2005)"
+   ],
+   "pages": "949-977",
+   "publisher": "Nacionalni park Krka",
+   "place": "Šibenik",
+   "language": "hrv"
+  },
+  {
+   "position": 24,
+   "raw": "Zhilin L., Qiming Z., Wolfgang K. (eds.) 2004, *Advances in Spatial Analysis and Decision Making. Proceedings of the ISPRS Workshop on Spatial Analysis and Decision Making (Hong Kong 2003)*, Lisse-Abingdon-Exton (PA)-Tokyo, A.A. Balkema.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Zhilin",
+     "given": "L."
+    },
+    {
+     "family": "Qiming",
+     "given": "Z."
+    },
+    {
+     "family": "Wolfgang",
+     "given": "K."
+    }
+   ],
+   "date": "2004",
+   "title": "Advances in Spatial Analysis and Decision Making. Proceedings of the ISPRS Workshop on Spatial Analysis and Decision Making (Hong Kong 2003)",
+   "publisher": "A.A. Balkema",
+   "place": "Lisse-Abingdon-Exton (PA)-Tokyo",
+   "language": "eng"
+  }
+ ]
+}

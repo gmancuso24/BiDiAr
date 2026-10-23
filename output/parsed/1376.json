@@ -1,0 +1,565 @@
+{
+ "citing_aec_id": 1376,
+ "source_file": "data/journal/36/1376.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Acconcia V., Boi V., Falcone A., Di Cocco I., Serlorenzi M. 2024, Dati aperti in archeologia: una riflessione sullo stato dell’arte nell’ambito del Ministero della cultura, in A. Marras, A. Palmisano, R. Leone, V. Messina (eds.), ArcheoFOSS 2023. Proceedings of the 17th International Conference on Open Software, Hardware, Processes, Data and Formats in Archaeological Research (Turin 2023), «Archeologia e Calcolatori», 35.2, 29-38 (https://doi.org/10.19282/ac.35.2.2024.04).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Acconcia",
+     "given": "V."
+    },
+    {
+     "family": "Boi",
+     "given": "V."
+    },
+    {
+     "family": "Falcone",
+     "given": "A."
+    },
+    {
+     "family": "Di Cocco",
+     "given": "I."
+    },
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2024",
+   "title": "Dati aperti in archeologia: una riflessione sullo stato dell’arte nell’ambito del Ministero della cultura",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "29-38",
+   "doi": "10.19282/ac.35.2.2024.04",
+   "language": "ita",
+   "cited_aec_id": 1324
+  },
+  {
+   "position": 2,
+   "raw": "Ambrosini L. 2016, Norchia II (Le necropoli rupestri dell’Etruria meridionale 3), Roma, CNR Edizioni.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ambrosini",
+     "given": "L."
+    }
+   ],
+   "date": "2016",
+   "title": "Norchia II",
+   "series": "Le necropoli rupestri dell’Etruria meridionale",
+   "series_number": "3",
+   "publisher": "CNR Edizioni",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Ambrosini L. 2018, Norchia III. Le Tombe a Tempio con un’appendice sulla Tomba Lattanzi (Le necropoli rupestri dell’Etruria meridionale 4), Roma, CNR Edizioni.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ambrosini",
+     "given": "L."
+    }
+   ],
+   "date": "2018",
+   "title": "Norchia III. Le Tombe a Tempio con un’appendice sulla Tomba Lattanzi",
+   "series": "Le necropoli rupestri dell’Etruria meridionale",
+   "series_number": "4",
+   "publisher": "CNR Edizioni",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Ambrosini L. 2019, Norchia. La topografia del settore monumentale della necropoli (Pile B), in L’Etruria delle necropoli rupestri. Atti del XXIX Convegno di Studi Etruschi ed Italici (Tuscania -Viterbo 2017), Roma, Giorgio Bretschneider Editore, 163-182.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ambrosini",
+     "given": "L."
+    }
+   ],
+   "date": "2019",
+   "title": "Norchia. La topografia del settore monumentale della necropoli (Pile B)",
+   "is_part_of": [
+    "L’Etruria delle necropoli rupestri. Atti del XXIX Convegno di Studi Etruschi ed Italici (Tuscania-Viterbo 2017)"
+   ],
+   "pages": "163-182",
+   "publisher": "Giorgio Bretschneider Editore",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "Ambrosini L. 2021, Norchia IV (Le necropoli rupestri dell’Etruria meridionale 5), Roma, CNR Edizioni.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ambrosini",
+     "given": "L."
+    }
+   ],
+   "date": "2021",
+   "title": "Norchia IV",
+   "series": "Le necropoli rupestri dell’Etruria meridionale",
+   "series_number": "5",
+   "publisher": "CNR Edizioni",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Caravale A. 2009, La catalogazione informatica del patrimonio archeologico, in P. Moscati (ed.), La nascita dell’informatica archeologica. Atti del Convegno Internazionale (Roma 2008), «Archeologia e Calcolatori», 20, 179-187 (http://www.archcalc.cnr.it/journal/ idyear.php?IDyear=2009-01-01).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "La catalogazione informatica del patrimonio archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "pages": "179-187",
+   "uri": "http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2009-01-01",
+   "language": "ita",
+   "cited_aec_id": 513
+  },
+  {
+   "position": 7,
+   "raw": "Caravale A. 2022, Le banche dati archeologiche. Articolazione e formalizzazione delle conoscenze, Sesto Fiorentino, All’Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "Le banche dati archeologiche. Articolazione e formalizzazione delle conoscenze",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Sesto Fiorentino",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "Colonna Di Paolo E. 1978, Necropoli rupestri del Viterbese, Novara, De Agostini.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Colonna Di Paolo",
+     "given": "E."
+    }
+   ],
+   "date": "1978",
+   "title": "Necropoli rupestri del Viterbese",
+   "publisher": "De Agostini",
+   "place": "Novara",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "Colonna Di Paolo E., Colonna G. 1978, Norchia I (Le necropoli rupestri dell’Etruria meridionale 2), Roma, CNR Edizioni.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Colonna Di Paolo",
+     "given": "E."
+    },
+    {
+     "family": "Colonna",
+     "given": "G."
+    }
+   ],
+   "date": "1978",
+   "title": "Norchia I",
+   "series": "Le necropoli rupestri dell’Etruria meridionale",
+   "series_number": "2",
+   "publisher": "CNR Edizioni",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "D’Andrea A. 2006, Documentazione archeologica, standard e trattamento informatico (Strumenti 2), Budapest, Archaeolingua-Epoch.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    }
+   ],
+   "date": "2006",
+   "title": "Documentazione archeologica, standard e trattamento informatico",
+   "series": "Strumenti",
+   "series_number": "2",
+   "publisher": "Archaeolingua-Epoch",
+   "place": "Budapest",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "Evans A.R., Wilson G.P., Fortelius M., Jernvall J. 2007, High-level Similarity of Dentitions in Carnivorans and Rodents, «Nature», 445, 78-81.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Evans",
+     "given": "A.R."
+    },
+    {
+     "family": "Wilson",
+     "given": "G.P."
+    },
+    {
+     "family": "Fortelius",
+     "given": "M."
+    },
+    {
+     "family": "Jernvall",
+     "given": "J."
+    }
+   ],
+   "date": "2007",
+   "title": "High-level Similarity of Dentitions in Carnivorans and Rodents",
+   "is_part_of": [
+    "Nature"
+   ],
+   "volume": "445",
+   "pages": "78-81",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Figuera M. 2018, Database management e dati archeologici: standardizzazione e applicazione della logica fuzzy alla gestione delle fonti e delle attribuzioni tipologiche, «Archeologia e Calcolatori», 29, 143-160 (https://doi.org/10.19282/ac.29.2018.15).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Figuera",
+     "given": "M."
+    }
+   ],
+   "date": "2018",
+   "title": "Database management e dati archeologici: standardizzazione e applicazione della logica fuzzy alla gestione delle fonti e delle attribuzioni tipologiche",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "29",
+   "pages": "143-160",
+   "doi": "10.19282/ac.29.2018.15",
+   "language": "ita",
+   "cited_aec_id": 1001
+  },
+  {
+   "position": 13,
+   "raw": "Forte M., Biancifiori E., Conti A. 2022, Il progetto “Vulci 3000”: ricerche e scavi in area urbana, in S. Carosi, C. Casi, C. Regoli (eds.), Vulci work in progress. Atti del I Incontro Internazionale (Vulci 2021), «Quaderni vulcenti», 2, 149-161.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Biancifiori",
+     "given": "E."
+    },
+    {
+     "family": "Conti",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "Il progetto “Vulci 3000”: ricerche e scavi in area urbana",
+   "editors": [
+    {
+     "family": "Carosi",
+     "given": "S."
+    },
+    {
+     "family": "Casi",
+     "given": "C."
+    },
+    {
+     "family": "Regoli",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Vulci work in progress. Atti del I Incontro Internazionale (Vulci 2021)"
+   ],
+   "series": "Quaderni vulcenti",
+   "series_number": "2",
+   "pages": "149-161",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "Francisci D., Segata M. 2013, La scheda UG (Scheda di Unità Georcheologica). Proposta di un nuovo strumento per la descrizione standardizzata del deposito archeologico, in S. Costa, G.L. Pesce (eds.), Open Source Free Software e Open Format nei processi di ricerca archeologica (Genova 2007), Ubiquity Press, 81-99 (https://library.oapen.org/ bitstream/handle/20.500.12657/33211/533883.pdf?sequence=1&isAllowed=y).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Francisci",
+     "given": "D."
+    },
+    {
+     "family": "Segata",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "La scheda UG (Scheda di Unità Georcheologica). Proposta di un nuovo strumento per la descrizione standardizzata del deposito archeologico",
+   "editors": [
+    {
+     "family": "Costa",
+     "given": "S."
+    },
+    {
+     "family": "Pesce",
+     "given": "G.L."
+    }
+   ],
+   "is_part_of": [
+    "Open Source Free Software e Open Format nei processi di ricerca archeologica (Genova 2007)"
+   ],
+   "pages": "81-99",
+   "publisher": "Ubiquity Press",
+   "uri": "https://library.oapen.org/bitstream/handle/20.500.12657/33211/533883.pdf?sequence=1&isAllowed=y",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Fronza V. 2003, Principi di database management in archeologia: l’esperienza senese, in Atti del III Congresso Nazionale di Archeologia Medievale (Salerno 2003), Firenze, All’Insegna del Giglio, 629-632.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    }
+   ],
+   "date": "2003",
+   "title": "Principi di database management in archeologia: l’esperienza senese",
+   "is_part_of": [
+    "Atti del III Congresso Nazionale di Archeologia Medievale (Salerno 2003)"
+   ],
+   "pages": "629-632",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Fronza V. 2009, L’archiviazione del dato in archeologia, in V. Fronza, A. Nardini, M. Valenti (eds.), Informatica e Archeologia Medievale. L’esperienza senese (Metodi e temi dell’archeologia medievale 2), Firenze, All’Insegna del Giglio, 29-43.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    }
+   ],
+   "date": "2009",
+   "title": "L’archiviazione del dato in archeologia",
+   "editors": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    },
+    {
+     "family": "Nardini",
+     "given": "A."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Informatica e Archeologia Medievale. L’esperienza senese"
+   ],
+   "series": "Metodi e temi dell’archeologia medievale",
+   "series_number": "2",
+   "pages": "29-43",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 17,
+   "raw": "Jernvall J., Fortelius M., Evans G., Evans A.E., Pljusnin I., Kauhanen J. 2016, Morpho- Browser: A new database for surfing the dental morphospace, «Journal of Verterbrate Paleontology», 25, 3, suppl., 54A.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jernvall",
+     "given": "J."
+    },
+    {
+     "family": "Fortelius",
+     "given": "M."
+    },
+    {
+     "family": "Evans",
+     "given": "G."
+    },
+    {
+     "family": "Evans",
+     "given": "A.E."
+    },
+    {
+     "family": "Pljusnin",
+     "given": "I."
+    },
+    {
+     "family": "Kauhanen",
+     "given": "J."
+    }
+   ],
+   "date": "2016",
+   "title": "MorphoBrowser: A new database for surfing the dental morphospace",
+   "is_part_of": [
+    "Journal of Vertebrate Paleontology"
+   ],
+   "volume": "25",
+   "issue": "3 suppl.",
+   "pages": "54A",
+   "language": "eng",
+   "notes": "OCR \"Verterbrate\" and \"Morpho- Browser\" corrected; year as cited"
+  },
+  {
+   "position": 18,
+   "raw": "Manacorda D. 2004, Prima lezione di archeologia, Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2004",
+   "title": "Prima lezione di archeologia",
+   "publisher": "Laterza",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Mancinelli M.L. 2015, Nota introduttiva alle normative per la catalogazione dei beni archeologici, Roma, Istituto Centrale per il Catalogo e la Documentazione – Servizio Beni Archeologici, MiBACT.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mancinelli",
+     "given": "M.L."
+    }
+   ],
+   "date": "2015",
+   "title": "Nota introduttiva alle normative per la catalogazione dei beni archeologici",
+   "publisher": "Istituto Centrale per il Catalogo e la Documentazione – Servizio Beni Archeologici, MiBACT",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 20,
+   "raw": "Moscati P. 2024, Funerary archaeology and digital technologies: History and development of a successful cross-disciplinary approach, in F. Bortolami, G. Gambacurta (eds.), Necropoli Etrusco-Italiche: archeologia digitale e paesaggio funerario, Atti del Workshop (Venezia 2023), «Archeologia e Calcolatori», 35.1, 15-30 (https://doi.org/10.19282/ ac.35.1.2024.02).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2024",
+   "title": "Funerary archaeology and digital technologies: History and development of a successful cross-disciplinary approach",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "1",
+   "pages": "15-30",
+   "doi": "10.19282/ac.35.1.2024.02",
+   "language": "eng",
+   "cited_aec_id": 1283
+  },
+  {
+   "position": 21,
+   "raw": "Parise Badoni F. (ed.) 2000, Ceramiche d’impasto dell’età orientalizzante in Italia. Dizionario terminologico, Roma, Fratelli Palombi (https://iccd.beniculturali.it/siti_tematici/ pubblicazioni/ceramica2.pdf).",
+   "type": "book",
+   "date": "2000",
+   "title": "Ceramiche d’impasto dell’età orientalizzante in Italia. Dizionario terminologico",
+   "editors": [
+    {
+     "family": "Parise Badoni",
+     "given": "F."
+    }
+   ],
+   "publisher": "Fratelli Palombi",
+   "place": "Roma",
+   "uri": "https://iccd.beniculturali.it/siti_tematici/pubblicazioni/ceramica2.pdf",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "Parise Badoni F., Ruggeri Giove M. 1984, Norme per la redazione della scheda del saggio stratigrafico, Roma, Multigrafica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Parise Badoni",
+     "given": "F."
+    },
+    {
+     "family": "Ruggeri Giove",
+     "given": "M."
+    }
+   ],
+   "date": "1984",
+   "title": "Norme per la redazione della scheda del saggio stratigrafico",
+   "publisher": "Multigrafica",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 23,
+   "raw": "Piergrossi A. 2022, La necropoli di Poggio Montano: un sito di frontiera nell’Etruria interna, «Mediterranea», Suppl. 3, Roma, CNR Edizioni.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Piergrossi",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "La necropoli di Poggio Montano: un sito di frontiera nell’Etruria interna",
+   "series": "Mediterranea",
+   "series_number": "Suppl. 3",
+   "publisher": "CNR Edizioni",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 24,
+   "raw": "Pulcinelli L. 2012, Qualche fenomeno di normalizzazione nelle necropoli dell’Etruria rupestre, «MEFRA», 124.2, 413-420.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pulcinelli",
+     "given": "L."
+    }
+   ],
+   "date": "2012",
+   "title": "Qualche fenomeno di normalizzazione nelle necropoli dell’Etruria rupestre",
+   "is_part_of": [
+    "MEFRA"
+   ],
+   "volume": "124",
+   "issue": "2",
+   "pages": "413-420",
+   "language": "ita"
+  }
+ ]
+}

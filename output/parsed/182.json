@@ -1,0 +1,552 @@
+{
+ "citing_aec_id": 182,
+ "source_file": "data/journal/7/182.md",
+ "references": [
+  {
+   "raw": "ACHARD G. 1991, La communication à Rome, Paris, L.B.L.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Achard",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "La communication à Rome",
+   "place": "Paris",
+   "publisher": "L.B.L",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "BAXES G.A. 1984, Digital Image Processing, A practical Primer, Denver, Cascade Press.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Baxes",
+     "given": "G.A."
+    }
+   ],
+   "type": "book",
+   "title": "Digital Image Processing, A practical Primer",
+   "place": "Denver",
+   "publisher": "Cascade Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "CAPPELLINI V. 1985, Elaborazione numerica delle immagini, Torino, Boringhieri.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Cappellini",
+     "given": "V."
+    }
+   ],
+   "type": "book",
+   "title": "Elaborazione numerica delle immagini",
+   "place": "Torino",
+   "publisher": "Boringhieri",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "CONTE S. 1984, Il rettangolo aureo, in Raffaello e la sezione aurea, Roma, Palazzo Barberini 1984, Bologna, Bora, 53-58.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Conte",
+     "given": "S."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il rettangolo aureo",
+   "pages": "53-58",
+   "is_part_of": [
+    "Raffaello e la sezione aurea"
+   ],
+   "place": "Bologna",
+   "publisher": "Bora",
+   "language": "ita",
+   "confidence": "high",
+   "position": 4,
+   "notes": "Roma, Palazzo Barberini 1984"
+  },
+  {
+   "raw": "CORBIER M. 1987, L'écriture dans l'espace public romain, in L'Urbs. Espace urbain et histoire, Roma, Ec. Franç. Rome, 27-60.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Corbier",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'écriture dans l'espace public romain",
+   "pages": "27-60",
+   "is_part_of": [
+    "L'Urbs. Espace urbain et histoire"
+   ],
+   "place": "Roma",
+   "publisher": "Ec. Franç. Rome",
+   "language": "fre",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "ECO U. 1972, Estetica e teoria dell'informazione, Milano, Bompiani.",
+   "date": "1972",
+   "creators": [
+    {
+     "family": "Eco",
+     "given": "U."
+    }
+   ],
+   "type": "book",
+   "title": "Estetica e teoria dell'informazione",
+   "place": "Milano",
+   "publisher": "Bompiani",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "HAMBIDGE J. 1932, Practical Applications of Dynamic Symmetry, New Haven, Yale University.",
+   "date": "1932",
+   "creators": [
+    {
+     "family": "Hambidge",
+     "given": "J."
+    }
+   ],
+   "type": "book",
+   "title": "Practical Applications of Dynamic Symmetry",
+   "place": "New Haven",
+   "publisher": "Yale University",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "ILLUMINATO M.T. 1984, Il numero aureo e la sezione aurea in geometria (et alia), in Raffaello e la sezione aurea, Roma, Palazzo Barberini, Bologna, Bora, pp. 12-51.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Illuminato",
+     "given": "M.T."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il numero aureo e la sezione aurea in geometria (et alia)",
+   "pages": "12-51",
+   "is_part_of": [
+    "Raffaello e la sezione aurea"
+   ],
+   "place": "Bologna",
+   "publisher": "Bora",
+   "language": "ita",
+   "confidence": "high",
+   "position": 8,
+   "notes": "Roma, Palazzo Barberini"
+  },
+  {
+   "raw": "PACIOLI LUCA 1509, De divina proportione, Venetiis (ms. Ambr. S.P.6, ed. A. Marinoni 1982, Milano, Silvana).",
+   "date": "1509",
+   "creators": [
+    {
+     "family": "Pacioli",
+     "given": "Luca"
+    }
+   ],
+   "type": "book",
+   "title": "De divina proportione",
+   "place": "Venetiis",
+   "language": "lat",
+   "confidence": "high",
+   "position": 9,
+   "notes": "ms. Ambr. S.P.6, ed. A. Marinoni 1982, Milano, Silvana"
+  },
+  {
+   "raw": "PANCIERA S. 1985, La produzione epigrafica di Roma in età repubblicana. Le officine lapidarie, in Acta Colloquii epigraphici latini Helsingiae 1991 habiti, Helsinki, Finnish Soc. of Sciences and Letters, 319-342.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Panciera",
+     "given": "S."
+    }
+   ],
+   "type": "chapter",
+   "title": "La produzione epigrafica di Roma in età repubblicana. Le officine lapidarie",
+   "pages": "319-342",
+   "is_part_of": [
+    "Acta Colloquii epigraphici latini Helsingiae 1991 habiti"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 10,
+   "place": "Helsinki",
+   "publisher": "Finnish Soc. of Sciences and Letters"
+  },
+  {
+   "raw": "PANI G.G. 1986, Segno e immagine di scrittura: la tabula ansata e il suo significato simbolico, in Misc. greca e rom. dell'Ist. Ital. per la Storia antica, X, Roma, I.I.S.A., 429-441.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Pani",
+     "given": "G.G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Segno e immagine di scrittura: la tabula ansata e il suo significato simbolico",
+   "pages": "429-441",
+   "is_part_of": [
+    "Misc. greca e rom. dell'Ist. Ital. per la Storia antica"
+   ],
+   "place": "Roma",
+   "publisher": "I.I.S.A",
+   "language": "ita",
+   "confidence": "high",
+   "position": 11,
+   "volume": "X"
+  },
+  {
+   "raw": "PANI G.G. 1988, Forma, linguaggio e contenuti delle dediche epigrafiche nei tituli ansati (IV-IX sec. d.C.), in La terza età dell'epigrafia. Coll. AIEGL Borghesi 86, Faenza, F.lli Lega, 169-194.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Pani",
+     "given": "G.G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Forma, linguaggio e contenuti delle dediche epigrafiche nei tituli ansati (IV-IX sec. d.C.)",
+   "pages": "169-194",
+   "is_part_of": [
+    "La terza età dell'epigrafia"
+   ],
+   "place": "Faenza",
+   "publisher": "F.lli Lega",
+   "language": "ita",
+   "confidence": "high",
+   "position": 12,
+   "series": "Coll. AIEGL Borghesi",
+   "series_number": "86"
+  },
+  {
+   "raw": "PANOFSKY E. 1955, Meaning in the Visual Arts, New York (tr. it. = Il significato delle arti visive, Torino, Einaudi 1962).",
+   "date": "1955",
+   "creators": [
+    {
+     "family": "Panofsky",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "Meaning in the Visual Arts",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13,
+   "notes": "tr. it. = Il significato delle arti visive, Torino, Einaudi 1962"
+  },
+  {
+   "raw": "PORTOGHESI P. 1984, Luca Pacioli e la «Divina Proportione», in Raffaello e la sezione aurea, Roma, Palazzo Barberini, Bologna, Bora, 59-64.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Portoghesi",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "Luca Pacioli e la Divina Proportione",
+   "is_part_of": [
+    "Raffaello e la sezione aurea"
+   ],
+   "pages": "59-64",
+   "language": "ita",
+   "confidence": "high",
+   "position": 14,
+   "place": "Bologna",
+   "publisher": "Bora"
+  },
+  {
+   "raw": "ROSENFELD A., AVINASH C.K. 1982, Digital Picture Processing, London-New York, Academic Press.",
+   "date": "1982",
+   "creators": [
+    {
+     "family": "Rosenfeld",
+     "given": "A."
+    },
+    {
+     "family": "Avinash",
+     "given": "C.K."
+    }
+   ],
+   "type": "book",
+   "title": "Digital Picture Processing",
+   "place": "London-New York",
+   "publisher": "Academic Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "SARTORI A. 1991, Effetti immediati ed effetti indotti della comunicazione epigrafica, «Cursos de Estudios Universitarios Benassai-Castellò 1989», «Boletín de la Sociedad Castellonense de Cultura», 66, 3 (1990), 415-446.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Sartori",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Effetti immediati ed effetti indotti della comunicazione epigrafica",
+   "is_part_of": [
+    "Cursos de Estudios Universitarios Benassai-Castellò 1989",
+    "Boletín de la Sociedad Castellonense de Cultura"
+   ],
+   "pages": "415-446",
+   "issue": "3",
+   "language": "ita",
+   "confidence": "high",
+   "position": 16,
+   "volume": "66",
+   "notes": "(1990)"
+  },
+  {
+   "raw": "SARTORI A. 1992, L'epigrafia del villaggio, il villaggio dell'epigrafia, in L'epigrafia del villaggio, Coll. AIEGL Borghesi '90, Faenza, F.lli Lega, 21-32.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Sartori",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'epigrafia del villaggio, il villaggio dell'epigrafia",
+   "pages": "21-32",
+   "is_part_of": [
+    "L'epigrafia del villaggio"
+   ],
+   "place": "Faenza",
+   "publisher": "F.lli Lega",
+   "series": "Coll. AIEGL Borghesi '90",
+   "language": "ita",
+   "confidence": "high",
+   "position": 17
+  },
+  {
+   "raw": "SARTORI A. 1994a, Le iscrizioni romane. Guida all'esposizione, Como, Comune di Como.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Sartori",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Le iscrizioni romane. Guida all'esposizione",
+   "place": "Como",
+   "publisher": "Comune di Como",
+   "language": "ita",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "SARTORI A. 1994b, Guida al Lapidario epigrafico delle Civiche Raccolte Archeologiche di Milano, Milano, Comune di Milano.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Sartori",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Guida al Lapidario epigrafico delle Civiche Raccolte Archeologiche di Milano",
+   "place": "Milano",
+   "publisher": "Comune di Milano",
+   "language": "ita",
+   "confidence": "high",
+   "position": 19
+  },
+  {
+   "raw": "SARTORI A. 1995, L'impaginazione delle iscrizioni, in Acta Colloquii epigraphici latini Helsingiae 1991 habiti, Helsinki, Finnish Soc. of Sciences and Letters, 183-200.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Sartori",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'impaginazione delle iscrizioni",
+   "pages": "183-200",
+   "is_part_of": [
+    "Acta Colloquii epigraphici latini Helsingiae 1991 habiti"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 20,
+   "place": "Helsinki",
+   "publisher": "Finnish Soc. of Sciences and Letters"
+  },
+  {
+   "raw": "SARTORI A. 1996a c.s., La composizione delle epigrafi latine: un'accorta tecnica spontanea, in Atti dell'XI Convegno Int. \"L'Africa romana\", Cartagine, 15-18 dic. 1994 (in corso di stampa).",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Sartori",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "La composizione delle epigrafi latine: un'accorta tecnica spontanea",
+   "is_part_of": [
+    "Atti dell'XI Convegno Int. \"L'Africa romana\", Cartagine, 15-18 dic. 1994"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 21,
+   "notes": "cited \"1996a c.s.\" (in corso di stampa); volume published (Ozieri, Il Torchietto, ed. Khanoussi, Ruggeri, Vismara) but contribution not confirmed",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "SARTORI A. 1996b c.s., Le forme della comunicazione epigrafica, in XXVI Settimana di Studi Aquileiesi 1995 (in corso di stampa).",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Sartori",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Le forme della comunicazione epigrafica",
+   "is_part_of": [
+    "XXVI Settimana di Studi Aquileiesi 1995"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 22,
+   "notes": "cited \"1996b c.s.\" (in corso di stampa); online search: no publication found",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "SUSINI G.C. 1966, Il Lapicida romano, Bologna, s.i.e.",
+   "date": "1966",
+   "creators": [
+    {
+     "family": "Susini",
+     "given": "G.C."
+    }
+   ],
+   "type": "book",
+   "title": "Il Lapicida romano, Bologna, s.i.e",
+   "language": "ita",
+   "confidence": "high",
+   "position": 23,
+   "place": "Bologna",
+   "publisher": "s.i.e."
+  },
+  {
+   "raw": "SUSINI G.C. 1982, Epigrafia Romana, Roma, Jouvence.",
+   "date": "1982",
+   "creators": [
+    {
+     "family": "Susini",
+     "given": "G.C."
+    }
+   ],
+   "type": "book",
+   "title": "Epigrafia Romana",
+   "place": "Roma",
+   "publisher": "Jouvence",
+   "language": "eng",
+   "confidence": "high",
+   "position": 24
+  },
+  {
+   "raw": "SUSINI G.C. 1988, Compitare per via: antropologia del lettore antico: meglio, del lettore romano, «Alma Mater studiorum», 1, 105-124.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Susini",
+     "given": "G.C."
+    }
+   ],
+   "type": "article",
+   "title": "Compitare per via: antropologia del lettore antico: meglio, del lettore romano",
+   "is_part_of": [
+    "Alma Mater studiorum"
+   ],
+   "pages": "105-124",
+   "volume": "1",
+   "language": "ita",
+   "confidence": "high",
+   "position": 25
+  },
+  {
+   "raw": "SUSINI G.C. 1989, Le scritture esposte, in Lo spazio letterario di Roma antica, 2, Roma, Salerno, 271-305.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Susini",
+     "given": "G.C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Le scritture esposte",
+   "pages": "271-305",
+   "is_part_of": [
+    "Lo spazio letterario di Roma antica"
+   ],
+   "place": "Roma",
+   "publisher": "Salerno",
+   "language": "ita",
+   "confidence": "high",
+   "position": 26,
+   "volume": "2"
+  },
+  {
+   "raw": "WOLF M. 1985, Teoria delle comunicazioni di massa, Milano, Bompiani.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Wolf",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Teoria delle comunicazioni di massa",
+   "place": "Milano",
+   "publisher": "Bompiani",
+   "language": "ita",
+   "confidence": "high",
+   "position": 27
+  },
+  {
+   "raw": "ZAMPERONI P. 1990, Metodi dell'elaborazione digitale di immagini, Milano, Masson.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Zamperoni",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "Metodi dell'elaborazione digitale di immagini",
+   "place": "Milano",
+   "publisher": "Masson",
+   "language": "ita",
+   "confidence": "high",
+   "position": 28
+  }
+ ]
+}

@@ -1,0 +1,911 @@
+{
+ "citing_aec_id": 1399,
+ "source_file": "data/journal/36/1399.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Arbia G., Espa G. 1996, Forecasting statistical models of archaeological site location, in P. Moscati (ed.), III International Symposium on Computing and Archaeology (Roma 1995), «Archeologia e Calcolatori», 7, 365-372 (https://www.archcalc.cnr.it/journal/articles/151).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arbia",
+     "given": "G."
+    },
+    {
+     "family": "Espa",
+     "given": "G."
+    }
+   ],
+   "date": "1996",
+   "title": "Forecasting statistical models of archaeological site location",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "III International Symposium on Computing and Archaeology (Roma 1995)"
+   ],
+   "pages": "365-372",
+   "uri": "https://www.archcalc.cnr.it/journal/articles/151",
+   "language": "eng",
+   "cited_aec_id": 151
+  },
+  {
+   "position": 2,
+   "raw": "Arnoldus Huyzendveld A., Di Ioia M., Ferdani D., Palombini A., Sanna V., Zanni S., Pietroni E. 2012, The Virtual Museum of the Tiber Valley Project, «Virtual Archaeology Review», 3, 7, 97-101 (https://doi.org/10.4995/var.2012.4396).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arnoldus Huyzendveld",
+     "given": "A."
+    },
+    {
+     "family": "Di Ioia",
+     "given": "M."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Palombini",
+     "given": "A."
+    },
+    {
+     "family": "Sanna",
+     "given": "V."
+    },
+    {
+     "family": "Zanni",
+     "given": "S."
+    },
+    {
+     "family": "Pietroni",
+     "given": "E."
+    }
+   ],
+   "date": "2012",
+   "title": "The Virtual Museum of the Tiber Valley Project",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "volume": "3",
+   "issue": "7",
+   "pages": "97-101",
+   "doi": "10.4995/var.2012.4396",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Barchesi C. 2005, “Archeologia e Calcolatori”: nuove strategie per la diffusione di contenuti in rete sulla base dell’OAI-PMH, «Archeologia e Calcolatori», 16, 225-241 (https://www. archcalc.cnr.it/journal/articles/412).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barchesi",
+     "given": "C."
+    }
+   ],
+   "date": "2005",
+   "title": "“Archeologia e Calcolatori”: nuove strategie per la diffusione di contenuti in rete sulla base dell’OAI-PMH",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "225-241",
+   "uri": "https://www.archcalc.cnr.it/journal/articles/412",
+   "language": "ita",
+   "cited_aec_id": 412
+  },
+  {
+   "position": 4,
+   "raw": "Branco A., Eskevich M., Frontini F., Hajič J., Hinrichs E., Jong F. d., Kamocki P., König A., Lindén K., Navarretta C., Piasecki M., Piperidis S., Pitkänen O., Simov K., Skadiņa I., Trippel T., Witt A., Zinn C. 2023, The CLARIN infrastructure as an interoperable language technology platform for SSH and beyond, «Language Resources and Evaluation» (https://doi.org/10.1007/s10579-023-09658-z).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Branco",
+     "given": "A."
+    },
+    {
+     "family": "Eskevich",
+     "given": "M."
+    },
+    {
+     "family": "Frontini",
+     "given": "F."
+    },
+    {
+     "family": "Hajič",
+     "given": "J."
+    },
+    {
+     "family": "Hinrichs",
+     "given": "E."
+    },
+    {
+     "family": "de Jong",
+     "given": "F."
+    },
+    {
+     "family": "Kamocki",
+     "given": "P."
+    },
+    {
+     "family": "König",
+     "given": "A."
+    },
+    {
+     "family": "Lindén",
+     "given": "K."
+    },
+    {
+     "family": "Navarretta",
+     "given": "C."
+    },
+    {
+     "family": "Piasecki",
+     "given": "M."
+    },
+    {
+     "family": "Piperidis",
+     "given": "S."
+    },
+    {
+     "family": "Pitkänen",
+     "given": "O."
+    },
+    {
+     "family": "Simov",
+     "given": "K."
+    },
+    {
+     "family": "Skadiņa",
+     "given": "I."
+    },
+    {
+     "family": "Trippel",
+     "given": "T."
+    },
+    {
+     "family": "Witt",
+     "given": "A."
+    },
+    {
+     "family": "Zinn",
+     "given": "C."
+    }
+   ],
+   "date": "2023",
+   "title": "The CLARIN infrastructure as an interoperable language technology platform for SSH and beyond",
+   "is_part_of": [
+    "Language Resources and Evaluation"
+   ],
+   "doi": "10.1007/s10579-023-09658-z",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Bucciero A., Chirivì A., Anglada G., Demetrescu E., Fanini B., Paraciani N. 2023, Data- Space-ISPC:AsemanticplatformforHeritageScience,inA.Bucciero,B.Fanini,H.Graf, S. Pescarin, S. Rizvic (eds.), EUROGRAPHICS Workshop on Graphics and Cultural Heritage (2023), Eurographics Digital Library (https://doi.org/10.2312/gch.20231166).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bucciero",
+     "given": "A."
+    },
+    {
+     "family": "Chirivì",
+     "given": "A."
+    },
+    {
+     "family": "Anglada",
+     "given": "G."
+    },
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Fanini",
+     "given": "B."
+    },
+    {
+     "family": "Paraciani",
+     "given": "N."
+    }
+   ],
+   "date": "2023",
+   "title": "DataSpace-ISPC: A semantic platform for Heritage Science",
+   "editors": [
+    {
+     "family": "Bucciero",
+     "given": "A."
+    },
+    {
+     "family": "Fanini",
+     "given": "B."
+    },
+    {
+     "family": "Graf",
+     "given": "H."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    },
+    {
+     "family": "Rizvic",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "EUROGRAPHICS Workshop on Graphics and Cultural Heritage (2023)"
+   ],
+   "publisher": "Eurographics Digital Library",
+   "doi": "10.2312/gch.20231166",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Buscemi F., Fazio L. 2024, Verso la costituzione di linee guida per l’esposizione di risorse visuali negli aggregatori europei, «Archeologia e Calcolatori», 35.2, 483-502 (https://doi. org/10.19282/ac.35.2.2024.50).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Buscemi",
+     "given": "F."
+    },
+    {
+     "family": "Fazio",
+     "given": "L."
+    }
+   ],
+   "date": "2024",
+   "title": "Verso la costituzione di linee guida per l’esposizione di risorse visuali negli aggregatori europei",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "483-502",
+   "doi": "10.19282/ac.35.2.2024.50",
+   "language": "ita",
+   "cited_aec_id": 1370
+  },
+  {
+   "position": 7,
+   "raw": "Cantone F., Caravale A. 2019, Archeologia e Calcolatori. Classificazione geografica e tematica per la condivisione della conoscenza, in Moscati 2019, 93-107 (https://doi.org/10.19282/ ac.30.2019.07).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "title": "Archeologia e Calcolatori. Classificazione geografica e tematica per la condivisione della conoscenza",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "30",
+   "pages": "93-107",
+   "doi": "10.19282/ac.30.2019.07",
+   "language": "ita",
+   "cited_aec_id": 1042,
+   "xref": 25
+  },
+  {
+   "position": 8,
+   "raw": "Caravale A., Duran-Silva N., Grimau B., Moscati P., Rondelli B. 2023, Developing a digital archaeology classification system using natural Language Processing and Machine Learning techniques, «Archeologia e Calcolatori», 34.2, 9-32 (https://doi.org/10.19282/ ac.34.2.2023.01).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Duran-Silva",
+     "given": "N."
+    },
+    {
+     "family": "Grimau",
+     "given": "B."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Rondelli",
+     "given": "B."
+    }
+   ],
+   "date": "2023",
+   "title": "Developing a digital archaeology classification system using natural Language Processing and Machine Learning techniques",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "34",
+   "issue": "2",
+   "pages": "9-32",
+   "doi": "10.19282/ac.34.2.2023.01",
+   "language": "eng",
+   "cited_aec_id": 1259
+  },
+  {
+   "position": 9,
+   "raw": "Caravale A., Moscati P. 2021, La bibliografia di informatica archeologica nella cultura digitale degli anni Novanta, Firenze, All’Insegna del Giglio (https://doi.org/10.19282/FA.4.2021).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "La bibliografia di informatica archeologica nella cultura digitale degli anni Novanta",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "doi": "10.19282/FA.4.2021",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Colosi F., Espa G., Espa S., Gabrielli R., Ricci U., Verga F. 1999, Sabina Tiberina. Modellizzazione della distribuzione delle presenze archeologiche, «Archeologia e Calcolatori», 10, 275-287 (https://www.archcalc.cnr.it/journal/articles/280).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Espa",
+     "given": "G."
+    },
+    {
+     "family": "Espa",
+     "given": "S."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Ricci",
+     "given": "U."
+    },
+    {
+     "family": "Verga",
+     "given": "F."
+    }
+   ],
+   "date": "1999",
+   "title": "Sabina Tiberina. Modellizzazione della distribuzione delle presenze archeologiche",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "275-287",
+   "uri": "https://www.archcalc.cnr.it/journal/articles/280",
+   "language": "ita",
+   "cited_aec_id": 280
+  },
+  {
+   "position": 11,
+   "raw": "Costa L. 2023, Construire un outil d’association de données à l’heure de l’open data: la Fabrique Numérique du Passé (FNP), «Les Cahiers de l’École du Louvre. Recherches en histoire de l’art, histoire des civilisations, archéologie, anthropologie et muséologie», 21 (https:// doi.org/10.4000/cel.28479).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Costa",
+     "given": "L."
+    }
+   ],
+   "date": "2023",
+   "title": "Construire un outil d’association de données à l’heure de l’open data: la Fabrique Numérique du Passé (FNP)",
+   "is_part_of": [
+    "Les Cahiers de l’École du Louvre. Recherches en histoire de l’art, histoire des civilisations, archéologie, anthropologie et muséologie"
+   ],
+   "volume": "21",
+   "doi": "10.4000/cel.28479",
+   "language": "fre"
+  },
+  {
+   "position": 12,
+   "raw": "Costantini A., De Meo A., Colosi F., Gabrielli R. 1999, Il Tevere e il suo antico corso, «ArcheologiaeCalcolatori»,10,249-273(https://www.archcalc.cnr.it/journal/articles/279).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Costantini",
+     "given": "A."
+    },
+    {
+     "family": "De Meo",
+     "given": "A."
+    },
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    }
+   ],
+   "date": "1999",
+   "title": "Il Tevere e il suo antico corso",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "249-273",
+   "uri": "https://www.archcalc.cnr.it/journal/articles/279",
+   "language": "ita",
+   "cited_aec_id": 279
+  },
+  {
+   "position": 13,
+   "raw": "Cristofani M. (ed.) 1992, Caere 3.1. Lo scarico arcaico della Vigna Parrocchiale, Roma, CNR.",
+   "type": "book",
+   "date": "1992",
+   "title": "Caere 3.1. Lo scarico arcaico della Vigna Parrocchiale",
+   "editors": [
+    {
+     "family": "Cristofani",
+     "given": "M."
+    }
+   ],
+   "publisher": "CNR",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "Cristofani M. (ed.) 1993, Caere 3.2. Lo scarico arcaico della Vigna Parrocchiale, Roma, CNR.",
+   "type": "book",
+   "date": "1993",
+   "title": "Caere 3.2. Lo scarico arcaico della Vigna Parrocchiale",
+   "editors": [
+    {
+     "family": "Cristofani",
+     "given": "M."
+    }
+   ],
+   "publisher": "CNR",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Cristofani M. 2003, Caere 4. Vigna Parrocchiale: scavi 1983-1989. Il santuario, la “residenza” e l’edificio ellittico, Roma, CNR.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cristofani",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Caere 4. Vigna Parrocchiale: scavi 1983-1989. Il santuario, la “residenza” e l’edificio ellittico",
+   "publisher": "CNR",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Etruschi e Cerveteri 1980, Gli Etruschi e Cerveteri. Nuove acquisizioni delle Civiche Raccolte Archeologiche, Catalogo della mostra, Milano, Electa.",
+   "type": "book",
+   "date": "1980",
+   "title": "Gli Etruschi e Cerveteri. Nuove acquisizioni delle Civiche Raccolte Archeologiche, Catalogo della mostra",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita",
+   "notes": "cited as “Etruschi e Cerveteri 1980”, no personal author"
+  },
+  {
+   "position": 17,
+   "raw": "Gilotta F., Carafa V., Morpurgo G. et al. 2022, Researches at the Monte Abatone necropolis (Cerveteri), «Archeologia e Calcolatori», 33.2, 135-152 (https://doi.org/10.19282/ ac.33.2.2022.08).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gilotta",
+     "given": "F."
+    },
+    {
+     "family": "Carafa",
+     "given": "V."
+    },
+    {
+     "family": "Morpurgo",
+     "given": "G."
+    }
+   ],
+   "date": "2022",
+   "title": "Researches at the Monte Abatone necropolis (Cerveteri)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "33",
+   "issue": "2",
+   "pages": "135-152",
+   "doi": "10.19282/ac.33.2.2022.08",
+   "language": "eng",
+   "cited_aec_id": 1205,
+   "notes": "cited as et al."
+  },
+  {
+   "position": 18,
+   "raw": "Kintigh K. 2006, The promise and challenge of archaeological data integration, «American Antiquity», 71, 3, 567-578 (https://doi.org/10.2307/40035365).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kintigh",
+     "given": "K."
+    }
+   ],
+   "date": "2006",
+   "title": "The promise and challenge of archaeological data integration",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "71",
+   "issue": "3",
+   "pages": "567-578",
+   "doi": "10.2307/40035365",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Larsson Å.M., Bornsäter B., Hacke M. 2025, Developing practices for FAIR and linked data in Heritage Science, «npj Heritage Science», 13, 1, 53 (https://doi.org/10.1038/s40494025-01598-x).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Larsson",
+     "given": "Å.M."
+    },
+    {
+     "family": "Bornsäter",
+     "given": "B."
+    },
+    {
+     "family": "Hacke",
+     "given": "M."
+    }
+   ],
+   "date": "2025",
+   "title": "Developing practices for FAIR and linked data in Heritage Science",
+   "is_part_of": [
+    "npj Heritage Science"
+   ],
+   "volume": "13",
+   "issue": "1",
+   "pages": "53",
+   "doi": "10.1038/s40494-025-01598-x",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "Lerici C.M. 1957, Campagna di prospezioni archeologiche nella necropoli etrusca di Monte Abatone, Milano, Lerici.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lerici",
+     "given": "C.M."
+    }
+   ],
+   "date": "1957",
+   "title": "Campagna di prospezioni archeologiche nella necropoli etrusca di Monte Abatone",
+   "publisher": "Lerici",
+   "place": "Milano",
+   "language": "ita"
+  },
+  {
+   "position": 21,
+   "raw": "Mancuso G., D’Eredità A. 2024, DHeLO and BiDiAr: New digital resources within the H2IOSC Project, «Archeologia e Calcolatori», 35.1, 521-542 (https://doi,org/10.19282/ ac.35.1.2024.31).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mancuso",
+     "given": "G."
+    },
+    {
+     "family": "D’Eredità",
+     "given": "A."
+    }
+   ],
+   "date": "2024",
+   "title": "DHeLO and BiDiAr: New digital resources within the H2IOSC Project",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "1",
+   "pages": "521-542",
+   "doi": "10.19282/ac.35.1.2024.31",
+   "language": "eng",
+   "cited_aec_id": 1312
+  },
+  {
+   "position": 22,
+   "raw": "McManamonF.P.,KintighK.W.,EllisonL.A.,BrinA.2017, tDAR:Aculturalheritagearchive for twenty-first-century public outreach, research, and resource management, «Advances in Archaeological Practice», 5, 3, 238-249 (https://doi.org/10.1017/aap.2017.18).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "McManamon",
+     "given": "F.P."
+    },
+    {
+     "family": "Kintigh",
+     "given": "K.W."
+    },
+    {
+     "family": "Ellison",
+     "given": "L.A."
+    },
+    {
+     "family": "Brin",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "tDAR: A cultural heritage archive for twenty-first-century public outreach, research, and resource management",
+   "is_part_of": [
+    "Advances in Archaeological Practice"
+   ],
+   "volume": "5",
+   "issue": "3",
+   "pages": "238-249",
+   "doi": "10.1017/aap.2017.18",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Moscati P. (ed.) 1998, Methodological problems and future perspectives in the application of GIS in archaeology, «Archeologia e Calcolatori», 9 (https://www.archcalc.cnr.it/journal/ volumes/9).",
+   "type": "proceedings",
+   "date": "1998",
+   "title": "Methodological problems and future perspectives in the application of GIS in archaeology",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "uri": "https://www.archcalc.cnr.it/journal/volumes/9",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "Moscati P.1999, “ArcheologiaeCalcolatori”:dieciannidicontributiall’informaticaarcheologica, «ArcheologiaeCalcolatori»,10,343-352(https://www.archcalc.cnr.it/journal/articles/284).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1999",
+   "title": "“Archeologia e Calcolatori”: dieci anni di contributi all’informatica archeologica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "343-352",
+   "uri": "https://www.archcalc.cnr.it/journal/articles/284",
+   "language": "ita",
+   "cited_aec_id": 284
+  },
+  {
+   "position": 25,
+   "raw": "Moscati P. (ed.) 2019, 30 anni di Archeologia e Calcolatori. Tra memoria e progettualità, «Archeologia e Calcolatori», 30, 9-138 (https://www.archcalc.cnr.it/journal/volumes/30).",
+   "type": "proceedings",
+   "date": "2019",
+   "title": "30 anni di Archeologia e Calcolatori. Tra memoria e progettualità",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "30",
+   "pages": "9-138",
+   "uri": "https://www.archcalc.cnr.it/journal/volumes/30",
+   "language": "ita"
+  },
+  {
+   "position": 26,
+   "raw": "Moscati P., Mariotti S., Limata B. 1999, Il “Progetto Caere”: un esempio di informatizzazione dei diari di scavo, «Archeologia e Calcolatori», 10, 165-188 (https://www.archcalc. cnr.it/journal/articles/274).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Mariotti",
+     "given": "S."
+    },
+    {
+     "family": "Limata",
+     "given": "B."
+    }
+   ],
+   "date": "1999",
+   "title": "Il “Progetto Caere”: un esempio di informatizzazione dei diari di scavo",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "165-188",
+   "uri": "https://www.archcalc.cnr.it/journal/articles/274",
+   "language": "ita",
+   "cited_aec_id": 274
+  },
+  {
+   "position": 27,
+   "raw": "Paraciani N. 2024, A new website for the journal «Archeologia e Calcolatori», «Archeologia e Calcolatori», 35.2, 471-482 (https://doi.org/10.19282/ac.35.2.2024.49).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Paraciani",
+     "given": "N."
+    }
+   ],
+   "date": "2024",
+   "title": "A new website for the journal «Archeologia e Calcolatori»",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "471-482",
+   "doi": "10.19282/ac.35.2.2024.49",
+   "language": "eng",
+   "cited_aec_id": 1369
+  },
+  {
+   "position": 28,
+   "raw": "Paraciani N., Rossi I. 2023, IADI: An open Interactive Atlas of Digital Images for the journal «Archeologia e Calcolatori», «Archeologia e Calcolatori», 34.1, 135-144 (https://doi. org/10.19282/ac.34.1.2023.15).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Paraciani",
+     "given": "N."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2023",
+   "title": "IADI: An open Interactive Atlas of Digital Images for the journal «Archeologia e Calcolatori»",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "34",
+   "issue": "1",
+   "pages": "135-144",
+   "doi": "10.19282/ac.34.1.2023.15",
+   "language": "eng",
+   "cited_aec_id": 1236
+  },
+  {
+   "position": 29,
+   "raw": "Patterson H., di Gennaro F., Di Giuseppe H., Fontana S., Gaffney V., Harrison A., Keay S.J., Millett M., Rendeli M., Roberts P., Stoddart S., Witcher R. 2000, The Tiber Valley Project: The Tiber and Rome through two millennia, «Antiquity», 74, 395-403 (https://doi.org/10.1017/S0003598X00059482).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Patterson",
+     "given": "H."
+    },
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    },
+    {
+     "family": "Di Giuseppe",
+     "given": "H."
+    },
+    {
+     "family": "Fontana",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Harrison",
+     "given": "A."
+    },
+    {
+     "family": "Keay",
+     "given": "S.J."
+    },
+    {
+     "family": "Millett",
+     "given": "M."
+    },
+    {
+     "family": "Rendeli",
+     "given": "M."
+    },
+    {
+     "family": "Roberts",
+     "given": "P."
+    },
+    {
+     "family": "Stoddart",
+     "given": "S."
+    },
+    {
+     "family": "Witcher",
+     "given": "R."
+    }
+   ],
+   "date": "2000",
+   "title": "The Tiber Valley Project: The Tiber and Rome through two millennia",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "74",
+   "pages": "395-403",
+   "doi": "10.1017/S0003598X00059482",
+   "language": "eng"
+  },
+  {
+   "position": 30,
+   "raw": "Puckett J. 2011, Zotero: A Guide for Librarians, Researchers, and Educators, Chicago, Association of College and Research Libraries.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Puckett",
+     "given": "J."
+    }
+   ],
+   "date": "2011",
+   "title": "Zotero: A Guide for Librarians, Researchers, and Educators",
+   "publisher": "Association of College and Research Libraries",
+   "place": "Chicago",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "Rossi I., Salvador C. 2024, An observatory of epigraphic resources on the web: The Open Digital Epigraphy Hub, «Archeologia e Calcolatori», 35.2, 503-523 (https://doi.org/10.19282/ ac.35.2.2024.51).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rossi",
+     "given": "I."
+    },
+    {
+     "family": "Salvador",
+     "given": "C."
+    }
+   ],
+   "date": "2024",
+   "title": "An observatory of epigraphic resources on the web: The Open Digital Epigraphy Hub",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "503-523",
+   "doi": "10.19282/ac.35.2.2024.51",
+   "language": "eng",
+   "cited_aec_id": 1371
+  }
+ ]
+}

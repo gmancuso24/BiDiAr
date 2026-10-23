@@ -1,0 +1,842 @@
+{
+ "citing_aec_id": 505,
+ "source_file": "data/journal/20/505.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Baena J., Blasco C., Recuero V. 1995, The spatial analysis of Bell Beaker sites in the Madrid region of Spain, in Lock, Stančič 1995, 101-116.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Baena",
+     "given": "J."
+    },
+    {
+     "family": "Blasco",
+     "given": "C."
+    },
+    {
+     "family": "Recuero",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "The spatial analysis of Bell Beaker sites in the Madrid region of Spain",
+   "is_part_of": [
+    "Archaeology and Geographic Information Systems: A European Perspective"
+   ],
+   "pages": "101-116",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "xref": 24,
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bell T., Lock G. 2000, Topographic and cultural influences on walking the Ridgeway in later prehistoric times, in Lock 2000, 85-100.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bell",
+     "given": "T."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Topographic and cultural influences on walking the Ridgeway in later prehistoric times",
+   "is_part_of": [
+    "Beyond the Map: Archaeology and Spatial Technologies"
+   ],
+   "pages": "85-100",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "xref": 18,
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Binford L. 1964, A consideration of archaeological research design, «American Antiquity», 29, 425-41.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Binford",
+     "given": "L."
+    }
+   ],
+   "date": "1964",
+   "title": "A consideration of archaeological research design",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "29",
+   "pages": "425-441",
+   "language": "eng",
+   "notes": "pages cited as 425-41",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Childe V.G. 1925, The Dawn of European Civilization, London, Kegan Paul.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Childe",
+     "given": "V.G."
+    }
+   ],
+   "date": "1925",
+   "title": "The Dawn of European Civilization",
+   "publisher": "Kegan Paul",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Clarke D.L. (ed.) 1972, Models in Archaeology, London, Methuen.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1972",
+   "title": "Models in Archaeology",
+   "publisher": "Methuen",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Daly P., Lock G. 2004, Time, space and archaeological landscapes: establishing connections in the First Millennium BC, in M.F. Goodchild, D.G. Janelle (eds.), Spatially Integrated Social Science, Oxford, Oxford University Press, 349-365.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Daly",
+     "given": "P."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Goodchild",
+     "given": "M.F."
+    },
+    {
+     "family": "Janelle",
+     "given": "D.G."
+    }
+   ],
+   "date": "2004",
+   "title": "Time, space and archaeological landscapes: establishing connections in the First Millennium BC",
+   "is_part_of": [
+    "Spatially Integrated Social Science"
+   ],
+   "pages": "349-365",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Doran J.E. 1970, Systems theory, computer simulations and archaeology, «World Archaeology», 1, 289-298.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "date": "1970",
+   "title": "Systems theory, computer simulations and archaeology",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "1",
+   "pages": "289-298",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Doran J.E., Hodson F.R. 1975, Mathematics and Computers in Archaeology, Edinburgh, Edinburgh University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    },
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    }
+   ],
+   "date": "1975",
+   "title": "Mathematics and Computers in Archaeology",
+   "publisher": "Edinburgh University Press",
+   "place": "Edinburgh",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Ellison A., Harriss J. 1972, Settlement and land use in the prehistory and early history of southern England: a study based on locational models, in Clarke 1972, 911-962.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ellison",
+     "given": "A."
+    },
+    {
+     "family": "Harriss",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1972",
+   "title": "Settlement and land use in the prehistory and early history of southern England: a study based on locational models",
+   "is_part_of": [
+    "Models in Archaeology"
+   ],
+   "pages": "911-962",
+   "publisher": "Methuen",
+   "place": "London",
+   "language": "eng",
+   "xref": 5,
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Gaffney V., van Leusen P.M. 1995, GIS, environmental determinism and archaeology, in Lock, Stančič 1995, 367-382.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "van Leusen",
+     "given": "P.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "GIS, environmental determinism and archaeology",
+   "is_part_of": [
+    "Archaeology and Geographic Information Systems: A European Perspective"
+   ],
+   "pages": "367-382",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "xref": 24,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Gosden C., Lock G. 2007, The aesthetics of landscape on the Berkshire Downs, in C. Haselgrove, R. Pope (eds.), The Earlier Iron Age in Britain and the Near Continent, Oxford, Oxbow Books, 279-292.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gosden",
+     "given": "C."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Haselgrove",
+     "given": "C."
+    },
+    {
+     "family": "Pope",
+     "given": "R."
+    }
+   ],
+   "date": "2007",
+   "title": "The aesthetics of landscape on the Berkshire Downs",
+   "is_part_of": [
+    "The Earlier Iron Age in Britain and the Near Continent"
+   ],
+   "pages": "279-292",
+   "publisher": "Oxbow Books",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Grant E. (ed.) 1986, Central Places, Archaeology and History, Sheffield, Department of Archaeology and Prehistory, University of Sheffield.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Grant",
+     "given": "E."
+    }
+   ],
+   "date": "1986",
+   "title": "Central Places, Archaeology and History",
+   "publisher": "Department of Archaeology and Prehistory, University of Sheffield",
+   "place": "Sheffield",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Hodder I., Hutson S. 2003, Reading the Past. Current Approaches to Interpretation in Archaeology, Cambridge, Cambridge University Press (3<sup>rd</sup> edition).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    },
+    {
+     "family": "Hutson",
+     "given": "S."
+    }
+   ],
+   "date": "2003",
+   "title": "Reading the Past. Current Approaches to Interpretation in Archaeology",
+   "edition": "3",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Ingold T. 1993, The temporality of landscape, «World Archaeology», 25, 152-171.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ingold",
+     "given": "T."
+    }
+   ],
+   "date": "1993",
+   "title": "The temporality of landscape",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "25",
+   "pages": "152-171",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Ingold T. 2000, The Perception of the Environment: Essays on Livelihood, Dwelling and Skill, London, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ingold",
+     "given": "T."
+    }
+   ],
+   "date": "2000",
+   "title": "The Perception of the Environment: Essays on Livelihood, Dwelling and Skill",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Llobera M. 2000, Understanding movement: a pilot model towards the sociology of movement, in Lock 2000, 65-84.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Llobera",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Understanding movement: a pilot model towards the sociology of movement",
+   "is_part_of": [
+    "Beyond the Map: Archaeology and Spatial Technologies"
+   ],
+   "pages": "65-84",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "xref": 18,
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Lock G. 1995, Archaeological computing, archaeological theory and moves towards contextualism, in J. Huggett, N. Ryan (eds.), Computer Applications and Quantitative Methods in Archaeology 1994, BAR International Series 600, Oxford, 13-18.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    },
+    {
+     "family": "Ryan",
+     "given": "N."
+    }
+   ],
+   "date": "1995",
+   "title": "Archaeological computing, archaeological theory and moves towards contextualism",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1994"
+   ],
+   "pages": "13-18",
+   "series": "BAR International Series",
+   "series_number": "600",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Lock G. (ed.) 2000, Beyond the Map: Archaeology and Spatial Technologies, Amsterdam, IOS Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Beyond the Map: Archaeology and Spatial Technologies",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Lock G. 2001, Theorising the practice or practicing the theory: archaeology and GIS, «Archaeologia Polona», 39, 153-164.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2001",
+   "title": "Theorising the practice or practicing the theory: archaeology and GIS",
+   "is_part_of": [
+    "Archaeologia Polona"
+   ],
+   "volume": "39",
+   "pages": "153-164",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Lock G. 2003, Using Computers in Archaeology. Towards Virtual Pasts, London, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Using Computers in Archaeology. Towards Virtual Pasts",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Lock G. 2007, Wessex hillforts after Danebury: exploring boundaries, in C. Gosden, H. Hamerow, P. De Jersey, G. Lock (eds.), Communities and Connections. Essays in Honour of Barry Cunliffe, Oxford, Oxford University Press, 341-356.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gosden",
+     "given": "C."
+    },
+    {
+     "family": "Hamerow",
+     "given": "H."
+    },
+    {
+     "family": "De Jersey",
+     "given": "P."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "Wessex hillforts after Danebury: exploring boundaries",
+   "is_part_of": [
+    "Communities and Connections. Essays in Honour of Barry Cunliffe"
+   ],
+   "pages": "341-356",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Lock G., Harris T.M. 1996, Danebury revisited: an English Iron age hillfort in a digital landscape, in M. Aldenderfer, H.D.G. Maschner (eds.), Anthropology, Space and Geographic Information Systems, New York, Oxford University Press, 214-240.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Harris",
+     "given": "T.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Aldenderfer",
+     "given": "M."
+    },
+    {
+     "family": "Maschner",
+     "given": "H.D.G."
+    }
+   ],
+   "date": "1996",
+   "title": "Danebury revisited: an English Iron age hillfort in a digital landscape",
+   "is_part_of": [
+    "Anthropology, Space and Geographic Information Systems"
+   ],
+   "pages": "214-240",
+   "publisher": "Oxford University Press",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Lock G., Molyneaux B. (eds.) 2006, Confronting Scale in Archaeology: Issues of Theory and Practice, New York, Springer.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Molyneaux",
+     "given": "B."
+    }
+   ],
+   "date": "2006",
+   "title": "Confronting Scale in Archaeology: Issues of Theory and Practice",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Lock G., Stančič Z. (eds.) 1995, Archaeology and Geographic Information Systems: A European Perspective, London, Taylor & Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Archaeology and Geographic Information Systems: A European Perspective",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Miles D., Palmer S., Lock G., Gosden C., Cromarty A.M. 2003, Uffington White Horse Hill and its landscape: Investigations at White Horse Hill, Uffington, 1989-95 and Tower Hill, Ashbury, 1993-4, Oxfordshire, Oxford Archaeology, Thames Valley Landscapes Monograph 18, Oxford.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Miles",
+     "given": "D."
+    },
+    {
+     "family": "Palmer",
+     "given": "S."
+    },
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Gosden",
+     "given": "C."
+    },
+    {
+     "family": "Cromarty",
+     "given": "A.M."
+    }
+   ],
+   "date": "2003",
+   "title": "Uffington White Horse Hill and its landscape: Investigations at White Horse Hill, Uffington, 1989-95 and Tower Hill, Ashbury, 1993-4, Oxfordshire",
+   "series": "Thames Valley Landscapes Monograph",
+   "series_number": "18",
+   "publisher": "Oxford Archaeology",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Shanks M., Tilley C. 1987, Re-Constructing Archaeology. Theory and Practice, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Shanks",
+     "given": "M."
+    },
+    {
+     "family": "Tilley",
+     "given": "C."
+    }
+   ],
+   "date": "1987",
+   "title": "Re-Constructing Archaeology. Theory and Practice",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Thomas J. (ed.) 2000, Interpretive Archaeology. A Reader, London, Leicester University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Thomas",
+     "given": "J."
+    }
+   ],
+   "date": "2000",
+   "title": "Interpretive Archaeology. A Reader",
+   "publisher": "Leicester University Press",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Tilley C. 1994, A Phenomenology of Landscape. Places, Paths and Monuments, Oxford, Berg.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tilley",
+     "given": "C."
+    }
+   ],
+   "date": "1994",
+   "title": "A Phenomenology of Landscape. Places, Paths and Monuments",
+   "publisher": "Berg",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Trifković V. 2005, The Construction of Space in Early Holocene Iron Gates, Oxford, Unpublished DPhil Thesis, University of Oxford.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Trifković",
+     "given": "V."
+    }
+   ],
+   "date": "2005",
+   "title": "The Construction of Space in Early Holocene Iron Gates",
+   "publisher": "University of Oxford",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "Unpublished DPhil thesis",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Trifković V. 2006, Persons and landscapes: shifting scales of landscape archaeology, in Lock, Molyneaux 2006, 257-271.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Trifković",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Molyneaux",
+     "given": "B."
+    }
+   ],
+   "date": "2006",
+   "title": "Persons and landscapes: shifting scales of landscape archaeology",
+   "is_part_of": [
+    "Confronting Scale in Archaeology: Issues of Theory and Practice"
+   ],
+   "pages": "257-271",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "xref": 23,
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Trigger B. 1989, A History of Archaeological Thought, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Trigger",
+     "given": "B."
+    }
+   ],
+   "date": "1989",
+   "title": "A History of Archaeological Thought",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Wheatley D.W. 1993, Going over old ground: GIS, archaeological theory and the act of perception, in J. Andresen, T. Madsen, I. Scollar (eds.), Computing the Past. Computer Applications and Quantitative Methods in Archaeology 1992, Aarhus, Aarhus University Press, 133-138.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D.W."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "date": "1993",
+   "title": "Going over old ground: GIS, archaeological theory and the act of perception",
+   "is_part_of": [
+    "Computing the Past. Computer Applications and Quantitative Methods in Archaeology 1992"
+   ],
+   "pages": "133-138",
+   "publisher": "Aarhus University Press",
+   "place": "Aarhus",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Wheatley D.W., Gillings M. 2000, Vision, perception and GIS: developing enriched approaches to the study of archaeological visibility, in Lock 2000, 1-27.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D.W."
+    },
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Vision, perception and GIS: developing enriched approaches to the study of archaeological visibility",
+   "is_part_of": [
+    "Beyond the Map: Archaeology and Spatial Technologies"
+   ],
+   "pages": "1-27",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "xref": 18,
+   "confidence": "high"
+  }
+ ]
+}

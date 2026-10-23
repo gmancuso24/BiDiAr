@@ -1,0 +1,864 @@
+{
+ "citing_aec_id": 782,
+ "source_file": "data/journal/26/782.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Arthur P., Ricci A. 1981, Sistemi di quantificazione della ceramica da scavi di complessi di epoca romana, «Dialoghi di Archeologia», 3, 125-128.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arthur",
+     "given": "P."
+    },
+    {
+     "family": "Ricci",
+     "given": "A."
+    }
+   ],
+   "date": "1981",
+   "title": "Sistemi di quantificazione della ceramica da scavi di complessi di epoca romana",
+   "is_part_of": [
+    "Dialoghi di Archeologia"
+   ],
+   "volume": "3",
+   "pages": "125-128",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Azzena G. 1992, Tecnologie cartografiche avanzate applicate alla topografia antica, in M. Bernardi (ed.), Archeologia del paesaggio, Firenze, All’Insegna del Giglio, 754-765.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bernardi",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Tecnologie cartografiche avanzate applicate alla topografia antica",
+   "is_part_of": [
+    "Archeologia del paesaggio"
+   ],
+   "pages": "754-765",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Azzena G. 1997, Questioni terminologiche - e di merito - sui GIS in archeologia, in A. Gottarelli (ed.), Sistemi informativi e reti geografiche in archeologia – GIS-Internet, Firenze, All’Insegna del Giglio, 33-43.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "date": "1997",
+   "title": "Questioni terminologiche - e di merito - sui GIS in archeologia",
+   "is_part_of": [
+    "Sistemi informativi e reti geografiche in archeologia – GIS-Internet"
+   ],
+   "pages": "33-43",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Biancofiore F. 1960, Lo scavo di Altamura (Bari) e l’epoca di transizione nell’Italia protostorica, in Civiltà del ferro, Studi pubblicati nella ricorrenza centenaria della scoperta di Villanova, Bologna, Arnaldo Forni Editore, 165-250.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Biancofiore",
+     "given": "F."
+    }
+   ],
+   "date": "1960",
+   "title": "Lo scavo di Altamura (Bari) e l’epoca di transizione nell’Italia protostorica",
+   "is_part_of": [
+    "Civiltà del ferro, Studi pubblicati nella ricorrenza centenaria della scoperta di Villanova"
+   ],
+   "pages": "165-250",
+   "publisher": "Arnaldo Forni Editore",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bietti A. 1974-1975, Attribute analysis from a “traditionalist” point of view: An example from an Italian Upper Palaeolithic industrial assemblage, «Quaternaria», 4, 45-65.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    }
+   ],
+   "date": "1974-1975",
+   "title": "Attribute analysis from a “traditionalist” point of view: An example from an Italian Upper Palaeolithic industrial assemblage",
+   "is_part_of": [
+    "Quaternaria"
+   ],
+   "volume": "4",
+   "pages": "45-65",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Bietti A. 1980, Tecniche matematiche nell’analisi dei dati archeologici, Roma, Accademia Nazionale dei Lincei.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    }
+   ],
+   "date": "1980",
+   "title": "Tecniche matematiche nell’analisi dei dati archeologici",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Bietti A., Cazzella A. 1976-1977, Uso e limiti di metodi quantitativi e statistici in Archeologia, «Dialoghi di Archeologia», 9-10, 41-74.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    },
+    {
+     "family": "Cazzella",
+     "given": "A."
+    }
+   ],
+   "date": "1976-1977",
+   "title": "Uso e limiti di metodi quantitativi e statistici in Archeologia",
+   "is_part_of": [
+    "Dialoghi di Archeologia"
+   ],
+   "volume": "9-10",
+   "pages": "41-74",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Bietti A., Rambaldi A., Zanello L. 1978, DENDR - Un programma FORTRAN di “cluster analysis” per applicazioni archeologiche, paletnologiche e paleoecologiche, «Quaternaria», 20, 49-85.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    },
+    {
+     "family": "Rambaldi",
+     "given": "A."
+    },
+    {
+     "family": "Zanello",
+     "given": "L."
+    }
+   ],
+   "date": "1978",
+   "title": "DENDR - Un programma FORTRAN di “cluster analysis” per applicazioni archeologiche, paletnologiche e paleoecologiche",
+   "is_part_of": [
+    "Quaternaria"
+   ],
+   "volume": "20",
+   "pages": "49-85",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Broglio A. 1961, Ricerche statistiche e nuovi orientamenti sulle origini e sull’evoluzione delle industrie del Paleolitico superiore dell’Europa occidentale, «Annali dell’Università di Ferrara», sez. XV, I, 5, 89-132.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Broglio",
+     "given": "A."
+    }
+   ],
+   "date": "1961",
+   "title": "Ricerche statistiche e nuovi orientamenti sulle origini e sull’evoluzione delle industrie del Paleolitico superiore dell’Europa occidentale",
+   "is_part_of": [
+    "Annali dell’Università di Ferrara"
+   ],
+   "volume": "sez. XV, I",
+   "issue": "5",
+   "pages": "89-132",
+   "language": "ita",
+   "notes": "cited as \"sez. XV, I, 5\": read as series/volume \"sez. XV, I\", issue 5",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Candelato F., Cardarelli A., Cattani M., Labate M., Pellacani F. 2002, Il sistema informativo dello scavo della Terramara di Montale (Castelnuovo Rangone, MO), in C. Peretto (ed.), Analisi informatizzata e trattamento dati delle strutture di abitato di età preistorica e protostorica, Firenze, Istituto Italiano di Preistoria, 257-270.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Candelato",
+     "given": "F."
+    },
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    },
+    {
+     "family": "Cattani",
+     "given": "M."
+    },
+    {
+     "family": "Labate",
+     "given": "M."
+    },
+    {
+     "family": "Pellacani",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Peretto",
+     "given": "C."
+    }
+   ],
+   "date": "2002",
+   "title": "Il sistema informativo dello scavo della Terramara di Montale (Castelnuovo Rangone, MO)",
+   "is_part_of": [
+    "Analisi informatizzata e trattamento dati delle strutture di abitato di età preistorica e protostorica"
+   ],
+   "pages": "257-270",
+   "publisher": "Istituto Italiano di Preistoria",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Cannarella D., Cremonesi G. 1967, Gli scavi nella grotta Azzurra di Samatorza, «Rivista di Scienze Preistoriche», 22, 280-330.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cannarella",
+     "given": "D."
+    },
+    {
+     "family": "Cremonesi",
+     "given": "G."
+    }
+   ],
+   "date": "1967",
+   "title": "Gli scavi nella grotta Azzurra di Samatorza",
+   "is_part_of": [
+    "Rivista di Scienze Preistoriche"
+   ],
+   "volume": "22",
+   "pages": "280-330",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Carandini A., Settis S. 1979, Schiavi e padroni nell’Etruria romana. La Villa di Settefinestre dallo scavo alla mostra, Bari, De Donato.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    },
+    {
+     "family": "Settis",
+     "given": "S."
+    }
+   ],
+   "date": "1979",
+   "title": "Schiavi e padroni nell’Etruria romana. La Villa di Settefinestre dallo scavo alla mostra",
+   "publisher": "De Donato",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Cazzella A. 1972, Considerazioni su alcuni aspetti eneolitici dell’Italia meridionale e della Sicilia, «Origini», 6, 171-299.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cazzella",
+     "given": "A."
+    }
+   ],
+   "date": "1972",
+   "title": "Considerazioni su alcuni aspetti eneolitici dell’Italia meridionale e della Sicilia",
+   "is_part_of": [
+    "Origini"
+   ],
+   "volume": "6",
+   "pages": "171-299",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "De Simone C. 1964, Die Messapischen Inschriften, in H. Krahe (ed.), Die Sprache der Illyrier, II, Wiesbaden, Harrassowitz, 1-151.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Simone",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Krahe",
+     "given": "H."
+    }
+   ],
+   "date": "1964",
+   "title": "Die Messapischen Inschriften",
+   "is_part_of": [
+    "Die Sprache der Illyrier, II"
+   ],
+   "pages": "1-151",
+   "publisher": "Harrassowitz",
+   "place": "Wiesbaden",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Fossati S., Mannoni T. 1975, Lo scavo della vetreria medievale di Monte Lecco, «Archeologia Medievale», 2, 31-98.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fossati",
+     "given": "S."
+    },
+    {
+     "family": "Mannoni",
+     "given": "T."
+    }
+   ],
+   "date": "1975",
+   "title": "Lo scavo della vetreria medievale di Monte Lecco",
+   "is_part_of": [
+    "Archeologia Medievale"
+   ],
+   "volume": "2",
+   "pages": "31-98",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Gardin J.-C. 1967, Methods for the descriptive analysis of archaeological material, «American Anthropologist», 32, 13-31.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1967",
+   "title": "Methods for the descriptive analysis of archaeological material",
+   "is_part_of": [
+    "American Anthropologist"
+   ],
+   "volume": "32",
+   "pages": "13-31",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Guerreschi G. 1971-1972, Note per una classificazione delle ceramiche preistoriche, «Sibrium», 11, 215-238.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guerreschi",
+     "given": "G."
+    }
+   ],
+   "date": "1971-1972",
+   "title": "Note per una classificazione delle ceramiche preistoriche",
+   "is_part_of": [
+    "Sibrium"
+   ],
+   "volume": "11",
+   "pages": "215-238",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Guerreschi G. 1976-1977, La stratigrafia dell’Isolino di Varese dedotta dall’analisi della ceramica, «Sibrium», 13, 29-522.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guerreschi",
+     "given": "G."
+    }
+   ],
+   "date": "1976-1977",
+   "title": "La stratigrafia dell’Isolino di Varese dedotta dall’analisi della ceramica",
+   "is_part_of": [
+    "Sibrium"
+   ],
+   "volume": "13",
+   "pages": "29-522",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Guidi A. 1994, I metodi della ricerca archeologica, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Guidi",
+     "given": "A."
+    }
+   ],
+   "date": "1994",
+   "title": "I metodi della ricerca archeologica",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Guidi A. 1996, Processual and post-processual trends in Italian archaeology, in A. Bietti (ed.), Theoretical and Methodological Problems, Colloquium I, XIII International Congress of Prehistoric and Protohistoric Sciences (Forlì 1996), Forlì, ABACO, 29-36.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guidi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    }
+   ],
+   "date": "1996",
+   "title": "Processual and post-processual trends in Italian archaeology",
+   "is_part_of": [
+    "Theoretical and Methodological Problems, Colloquium I, XIII International Congress of Prehistoric and Protohistoric Sciences (Forlì 1996)"
+   ],
+   "pages": "29-36",
+   "publisher": "ABACO",
+   "place": "Forlì",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Izcovitch O. 1975, Archeologia e calcolatori: un futuro da costruire, «Archeologia Medievale», 2, 411-412.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Izcovitch",
+     "given": "O."
+    }
+   ],
+   "date": "1975",
+   "title": "Archeologia e calcolatori: un futuro da costruire",
+   "is_part_of": [
+    "Archeologia Medievale"
+   ],
+   "volume": "2",
+   "pages": "411-412",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Laplace G. 1957, Typologie analytique. Application d’une nouvelle méthode d’étude des formes et des structures aux industries à lames et lamelles, «Quaternaria», 4, 133-164.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Laplace",
+     "given": "G."
+    }
+   ],
+   "date": "1957",
+   "title": "Typologie analytique. Application d’une nouvelle méthode d’étude des formes et des structures aux industries à lames et lamelles",
+   "is_part_of": [
+    "Quaternaria"
+   ],
+   "volume": "4",
+   "pages": "133-164",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Moscati P. 1987, Archeologia e calcolatori, Firenze, Giunti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Archeologia e calcolatori",
+   "publisher": "Giunti",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Moscati P. (ed.) 1998, Methodological Trends and Future Perspectives in the Application of GIS in Archaeology, «Archeologia e Calcolatori», 9.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+   "is_part_of": [
+    "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Palma di Cesnola A. 1962, Contributi alla conoscenza delle industrie epigravettiane nell’Italia centro-meridionale, «Rivista di Scienze Preistoriche», 17, 1-75.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Palma di Cesnola",
+     "given": "A."
+    }
+   ],
+   "date": "1962",
+   "title": "Contributi alla conoscenza delle industrie epigravettiane nell’Italia centro-meridionale",
+   "is_part_of": [
+    "Rivista di Scienze Preistoriche"
+   ],
+   "volume": "17",
+   "pages": "1-75",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Panella C. 1973, Dibattito sull’edizione italiana della Storia economica del mondo antico di F. Heichelheim, «Dialoghi di Archeologia», 7, 342-353.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Panella",
+     "given": "C."
+    }
+   ],
+   "date": "1973",
+   "title": "Dibattito sull’edizione italiana della Storia economica del mondo antico di F. Heichelheim",
+   "is_part_of": [
+    "Dialoghi di Archeologia"
+   ],
+   "volume": "7",
+   "pages": "342-353",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Parise N. 1971, Per uno studio del sistema ponderale ugaritico, «Dialoghi di Archeologia», 4-5, 3-36.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Parise",
+     "given": "N."
+    }
+   ],
+   "date": "1971",
+   "title": "Per uno studio del sistema ponderale ugaritico",
+   "is_part_of": [
+    "Dialoghi di Archeologia"
+   ],
+   "volume": "4-5",
+   "pages": "3-36",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Peroni R. 1959, Per una definizione dell’aspetto culturale “subappenninico” come fase cronologica a sé stante, Roma, Accademia Nazionale dei Lincei.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Peroni",
+     "given": "R."
+    }
+   ],
+   "date": "1959",
+   "title": "Per una definizione dell’aspetto culturale “subappenninico” come fase cronologica a sé stante",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Peroni R. 1971, Studi di cronologia hallstattiana, Roma, De Luca.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Peroni",
+     "given": "R."
+    }
+   ],
+   "date": "1971",
+   "title": "Studi di cronologia hallstattiana",
+   "publisher": "De Luca",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Pezzoli G. 1976-1977, La gestione di grandi masse di dati nello studio dell’archeologia preistorica, «Sibrium», 13, 29-522.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pezzoli",
+     "given": "G."
+    }
+   ],
+   "date": "1976-1977",
+   "title": "La gestione di grandi masse di dati nello studio dell’archeologia preistorica",
+   "is_part_of": [
+    "Sibrium"
+   ],
+   "volume": "13",
+   "pages": "29-522",
+   "language": "ita",
+   "notes": "pages as cited (identical to the previous entry)",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Poppi L. 1971, Saggio stratigrafico nel centro urbano di Marzabotto, «Rivista di Scienze Preistoriche», 26, 431-446.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Poppi",
+     "given": "L."
+    }
+   ],
+   "date": "1971",
+   "title": "Saggio stratigrafico nel centro urbano di Marzabotto",
+   "is_part_of": [
+    "Rivista di Scienze Preistoriche"
+   ],
+   "volume": "26",
+   "pages": "431-446",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Puglisi S.M. 1955, Industria microlitica nei livelli a ceramica impressa di Coppa Nevigata, «Rivista di Scienze Preistoriche», 10, 19-37.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Puglisi",
+     "given": "S.M."
+    }
+   ],
+   "date": "1955",
+   "title": "Industria microlitica nei livelli a ceramica impressa di Coppa Nevigata",
+   "is_part_of": [
+    "Rivista di Scienze Preistoriche"
+   ],
+   "volume": "10",
+   "pages": "19-37",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Randsborg K. 1974, Social stratification in early Bronze Age Denmark: A study in the regulation of cultural systems, «Praehistorische Zeitschrift», 49, 38-61.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Randsborg",
+     "given": "K."
+    }
+   ],
+   "date": "1974",
+   "title": "Social stratification in early Bronze Age Denmark: A study in the regulation of cultural systems",
+   "is_part_of": [
+    "Praehistorische Zeitschrift"
+   ],
+   "volume": "49",
+   "pages": "38-61",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Robinson W.S. 1951, A method for chronologically ordering archaeological deposits, «American Antiquity», 16, 295-301.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Robinson",
+     "given": "W.S."
+    }
+   ],
+   "date": "1951",
+   "title": "A method for chronologically ordering archaeological deposits",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "16",
+   "pages": "295-301",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Sarti L. 1980, L’insediamento dell’età del bronzo di Dicomano, «Rivista di Scienze Preistoriche», 33, 183-247.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sarti",
+     "given": "L."
+    }
+   ],
+   "date": "1980",
+   "title": "L’insediamento dell’età del bronzo di Dicomano",
+   "is_part_of": [
+    "Rivista di Scienze Preistoriche"
+   ],
+   "volume": "33",
+   "pages": "183-247",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Sommella P., Azzena G., Tascio M. 1990, Informatica e topografia storica: cinque anni di esperienza su un secolo di tradizione, «Archeologia e Calcolatori», 1, 211-236.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    },
+    {
+     "family": "Azzena",
+     "given": "G."
+    },
+    {
+     "family": "Tascio",
+     "given": "M."
+    }
+   ],
+   "date": "1990",
+   "title": "Informatica e topografia storica: cinque anni di esperienza su un secolo di tradizione",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "211-236",
+   "language": "ita",
+   "cited_aec_id": 12,
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Tarantini M. 2005, Georges Laplace in Italia tra tipologismo e antitipologismo. Appunti per una riflessione storica, in F. Martini (ed.), Askategi. Miscellanea in memoria di Georges Laplace, «Rivista di Scienze Preistoriche», Suppl. 1, 31-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tarantini",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Martini",
+     "given": "F."
+    }
+   ],
+   "date": "2005",
+   "title": "Georges Laplace in Italia tra tipologismo e antitipologismo. Appunti per una riflessione storica",
+   "is_part_of": [
+    "Askategi. Miscellanea in memoria di Georges Laplace",
+    "Rivista di Scienze Preistoriche"
+   ],
+   "volume": "Suppl. 1",
+   "pages": "31-40",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Tosi M. 1977, La città bruciata nel deserto salato, Venezia, Erizzo Editrice.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "date": "1977",
+   "title": "La città bruciata nel deserto salato",
+   "publisher": "Erizzo Editrice",
+   "place": "Venezia",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Tronchetti C. 1973, Contributo al problema delle rotte commerciali arcaiche, «Dialoghi di Archeologia», 7, 5-16.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tronchetti",
+     "given": "C."
+    }
+   ],
+   "date": "1973",
+   "title": "Contributo al problema delle rotte commerciali arcaiche",
+   "is_part_of": [
+    "Dialoghi di Archeologia"
+   ],
+   "volume": "7",
+   "pages": "5-16",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

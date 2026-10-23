@@ -1,0 +1,1756 @@
+{
+ "citing_aec_id": 11,
+ "source_file": "data/journal/1/11.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AHMED F. A. 1983, A laser scanning plotter for measurements of archaeological obiects, «Journal of Field Archacology », 10, 236-238.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ahmed",
+     "given": "F.A."
+    }
+   ],
+   "date": "1983",
+   "title": "A laser scanning plotter for measurements of archaeological objects",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "volume": "10",
+   "pages": "236-238",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "ANDRASCHKO F. M., TEEGEN W. -R. (cdd.) c.s., Gedenkschrift für Jiirgen Driehaus, Mainz (in corso di stampa).",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Andraschko",
+     "given": "F.M."
+    },
+    {
+     "family": "Teegen",
+     "given": "W.-R."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Gedenkschrift für Jürgen Driehaus",
+   "place": "Mainz",
+   "language": "ger",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched title + editors: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "ANER E. 1975, Ein Gerät für die Umrißprojektion, « DFG Mitteilungcn », 2, 42-44.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Aner",
+     "given": "E."
+    }
+   ],
+   "date": "1975",
+   "title": "Ein Gerät für die Umrißprojektion",
+   "is_part_of": [
+    "DFG Mitteilungen"
+   ],
+   "volume": "2",
+   "pages": "42-44",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "ASPINALL A., W ARREN S. E. (edd.) 1982, Proceedings of the micro-computer jamboree. XXII International Symposium in Archaeometry, Bradford.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Aspinall",
+     "given": "A."
+    },
+    {
+     "family": "Warren",
+     "given": "S.E."
+    }
+   ],
+   "date": "1982",
+   "title": "Proceedings of the micro-computer jamboree. XXII International Symposium in Archaeometry",
+   "place": "Bradford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BAUER I., ENDRES W., KERKHOFF-HADER B., KocH R., STEPHAN H. -G. 1986, Leitfaden wr Keramikbeschereibung (Mitte/alter-Neuzeit), Kataloge der Pràhistorischen Staatssammlung Miinchen Beiheft, 2, Munchcn.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bauer",
+     "given": "I."
+    },
+    {
+     "family": "Endres",
+     "given": "W."
+    },
+    {
+     "family": "Kerkhoff-Hader",
+     "given": "B."
+    },
+    {
+     "family": "Koch",
+     "given": "R."
+    },
+    {
+     "family": "Stephan",
+     "given": "H.-G."
+    }
+   ],
+   "date": "1986",
+   "title": "Leitfaden zur Keramikbeschreibung (Mittelalter-Neuzeit)",
+   "series": "Kataloge der Prähistorischen Staatssammlung München Beiheft",
+   "series_number": "2",
+   "place": "München",
+   "language": "ger",
+   "notes": "OCR: wr -> zur",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "BEHRENS H., FANSA M., KAMPFFMEYER U., TEEGEN W. -R. c.s., Die rechnergestiitzte Erforschung der mittetdeutschen Schnurkeramischen Kultur. Ein Arbeitsbericht, in ANDRASCHKO, TEEGEN c.s.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Behrens",
+     "given": "H."
+    },
+    {
+     "family": "Fansa",
+     "given": "M."
+    },
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    },
+    {
+     "family": "Teegen",
+     "given": "W.-R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Andraschko",
+     "given": "F.M."
+    },
+    {
+     "family": "Teegen",
+     "given": "W.-R."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Die rechnergestützte Erforschung der mitteldeutschen Schnurkeramischen Kultur. Ein Arbeitsbericht",
+   "is_part_of": [
+    "Gedenkschrift für Jürgen Driehaus"
+   ],
+   "place": "Mainz",
+   "language": "ger",
+   "xref": 2,
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "BIEK L. 1974, Progress with LERNIE, in Computer Applications in Archaeology, 1974, 59-63.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Biek",
+     "given": "L."
+    }
+   ],
+   "date": "1974",
+   "title": "Progress with LERNIE",
+   "is_part_of": [
+    "Computer Applications in Archaeology 1974"
+   ],
+   "pages": "59-63",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "BIEK L. 1976, LERNIE - Phase III, in Computer Applications in Archaeology, 1976, 65-72.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Biek",
+     "given": "L."
+    }
+   ],
+   "date": "1976",
+   "title": "LERNIE - Phase III",
+   "is_part_of": [
+    "Computer Applications in Archaeology 1976"
+   ],
+   "pages": "65-72",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "CLARKE D. L. (ed.) 1977, Spatial Analysis, London ecc.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1977",
+   "title": "Spatial Analysis",
+   "place": "London",
+   "language": "eng",
+   "notes": "cited 'London ecc.'",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "D'ANDRIA F. (ed.) 1987, Informatica e archeologia classica. Atti del Convegno Internazionale promosso da Università di Lecce, Scuola Archeologica Italiana di Atene, Istituto per la Storia e per l'Archeologia della Magna Grecia. Lecce 12-13 Maggio 1986, Archeologia e storia, 2, Galatina.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "date": "1987",
+   "title": "Informatica e archeologia classica. Atti del Convegno Internazionale. Lecce 12-13 Maggio 1986",
+   "series": "Archeologia e storia",
+   "series_number": "2",
+   "place": "Galatina",
+   "language": "ita",
+   "notes": "full title as cited: 'Informatica e archeologia classica. Atti del Convegno Internazionale promosso da Università di Lecce, Scuola Archeologica Italiana di Atene, Istituto per la Storia e per l'Archeologia della Magna Grecia. Lecce 12-13 Maggio 1986'; title aligned with the form already used",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "DIBBLE H. L., CHASE P. G. 1981, A new method for describing and analyzing artifact shape, « American Antiquity », 46, 178-187.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dibble",
+     "given": "H.L."
+    },
+    {
+     "family": "Chase",
+     "given": "P.G."
+    }
+   ],
+   "date": "1981",
+   "title": "A new method for describing and analyzing artifact shape",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "46",
+   "pages": "178-187",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "DORAN J. E., HODSON F. R. 1975, Mathematics and Computers in Archaeology, Edinburgh.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    },
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    }
+   ],
+   "date": "1975",
+   "title": "Mathematics and Computers in Archaeology",
+   "place": "Edinburgh",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "DRAGENOORFF H. 1895, Terra sigillata. Ein Beitrag zur Geschichte der griechischen und romischen Keramik, « Bonner Jahrbiicher », 96, 18-155, Taf. I-VI.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dragendorff",
+     "given": "H."
+    }
+   ],
+   "date": "1895",
+   "title": "Terra sigillata. Ein Beitrag zur Geschichte der griechischen und römischen Keramik",
+   "is_part_of": [
+    "Bonner Jahrbücher"
+   ],
+   "volume": "96",
+   "pages": "18-155",
+   "language": "ger",
+   "notes": "OCR: DRAGENOORFF; 'Taf. I-VI'",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "DRESSEL H. 1899, Inscriptiones urbis Romae latinae. Instrumentum domesticum 2.1, CIL, XV (2.1), Berlin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Dressel",
+     "given": "H."
+    }
+   ],
+   "date": "1899",
+   "title": "Inscriptiones urbis Romae latinae. Instrumentum domesticum 2.1",
+   "series": "CIL",
+   "series_number": "XV (2.1)",
+   "place": "Berlin",
+   "language": "lat",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "EICHSTAEDT P. A. 1978, Ein neues Geriit zum Umzeichnen archdologischer Funde, « Archiiologisches Korrespondenzblatt », 8, 153-154.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Eichstaedt",
+     "given": "P.A."
+    }
+   ],
+   "date": "1978",
+   "title": "Ein neues Gerät zum Umzeichnen archäologischer Funde",
+   "is_part_of": [
+    "Archäologisches Korrespondenzblatt"
+   ],
+   "volume": "8",
+   "pages": "153-154",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "ERDMANN W., KOHN H. J., LODTKE H., RING W. 1984, Rahmenterminologie zur mittelalterlichen Keramik in Norddeutschland, « Archaologisches Korrespondenzblatt », 14, 417-436.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Erdmann",
+     "given": "W."
+    },
+    {
+     "family": "Kohn",
+     "given": "H.J."
+    },
+    {
+     "family": "Lodtke",
+     "given": "H."
+    },
+    {
+     "family": "Ring",
+     "given": "W."
+    }
+   ],
+   "date": "1984",
+   "title": "Rahmenterminologie zur mittelalterlichen Keramik in Norddeutschland",
+   "is_part_of": [
+    "Archäologisches Korrespondenzblatt"
+   ],
+   "volume": "14",
+   "pages": "417-436",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "FILTZINGER Ph. 1972, Die romische Keramik aus dem Militiirbereich von Novaesium (etwa 25 bis 50 n. Chr.), Novaesium V. Limesforschungen, 11, Berlin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Filtzinger",
+     "given": "Ph."
+    }
+   ],
+   "date": "1972",
+   "title": "Die römische Keramik aus dem Militärbereich von Novaesium (etwa 25 bis 50 n. Chr.), Novaesium V",
+   "series": "Limesforschungen",
+   "series_number": "11",
+   "place": "Berlin",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "FURGER-GUNTI A., BERGER L. 1980, Katalog und Tafeln der Funde aus der spätkeltischen Siedlung Basef-Gasfabrik, Basler Beitrlige zur Ur- und Fruhgeschichte, 7, Basel.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Furger-Gunti",
+     "given": "A."
+    },
+    {
+     "family": "Berger",
+     "given": "L."
+    }
+   ],
+   "date": "1980",
+   "title": "Katalog und Tafeln der Funde aus der spätkeltischen Siedlung Basel-Gasfabrik",
+   "series": "Basler Beiträge zur Ur- und Frühgeschichte",
+   "series_number": "7",
+   "place": "Basel",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "GÖDECKEN K. B. 1984, Zur naturwissenschaftlichen Untersuchung der Fundkeramik aus Didyma. Ein Vorbericht, in TUCHELT 1984, 260-275.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gödecken",
+     "given": "K.B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Tuchelt",
+     "given": "K."
+    }
+   ],
+   "date": "1984",
+   "title": "Zur naturwissenschaftlichen Untersuchung der Fundkeramik aus Didyma. Ein Vorbericht",
+   "is_part_of": [
+    "Didyma, Bericht über die Arbeiten der Jahre 1980-1983",
+    "Istanbuler Mitteilungen"
+   ],
+   "volume": "34",
+   "pages": "260-275",
+   "language": "ger",
+   "xref": 68,
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "GOTTARELLI A. 1987, Tecniche di documentazione dello scavo archeologico: introduzione alla videometria digitalizzata, in D'ANDRIA 1987, 63-90.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "date": "1987",
+   "title": "Tecniche di documentazione dello scavo archeologico: introduzione alla videometria digitalizzata",
+   "is_part_of": [
+    "Informatica e archeologia classica. Atti del Convegno Internazionale. Lecce 12-13 Maggio 1986"
+   ],
+   "place": "Galatina",
+   "pages": "63-90",
+   "language": "ita",
+   "xref": 10,
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "HAYES J. W. 1972, Late Roman Pottery, London.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hayes",
+     "given": "J.W."
+    }
+   ],
+   "date": "1972",
+   "title": "Late Roman Pottery",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "HIETALA J. (ed.) 1984, Intrasite Spatial Analysis in Archaeology, New Directions in Archaelogy, Cambridge.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Hietala",
+     "given": "J."
+    }
+   ],
+   "date": "1984",
+   "title": "Intrasite Spatial Analysis in Archaeology",
+   "series": "New Directions in Archaeology",
+   "place": "Cambridge",
+   "language": "eng",
+   "notes": "initial J. as cited (elsewhere H. Hietala); OCR: Archaelogy",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "HODDER I. R., ORTON C. R. 1976, Spatial Analysis in Archaeology, Cambridge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I.R."
+    },
+    {
+     "family": "Orton",
+     "given": "C.R."
+    }
+   ],
+   "date": "1976",
+   "title": "Spatial Analysis in Archaeology",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "HOWARD P. 1982, Camera interface fora microcomputer,« Wireless World », 2, February, 30-36.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Howard",
+     "given": "P."
+    }
+   ],
+   "date": "1982",
+   "title": "Camera interface for a microcomputer",
+   "is_part_of": [
+    "Wireless World"
+   ],
+   "issue": "2",
+   "pages": "30-36",
+   "language": "eng",
+   "notes": "February",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "KALHOFF B., KAMPFFMEYER U. 1985, Die Auswertung von archiiologischen Datem mit graphischen Computer-Darstellungen, «Acta Prachistorica et Archaeologica », 16/17, 23 7-267.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kalhoff",
+     "given": "B."
+    },
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "date": "1985",
+   "title": "Die Auswertung von archäologischen Daten mit graphischen Computer-Darstellungen",
+   "is_part_of": [
+    "Acta Praehistorica et Archaeologica"
+   ],
+   "volume": "16/17",
+   "pages": "237-267",
+   "language": "ger",
+   "notes": "OCR: '23 7-267'",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "KAMPFFMEYER U. 1984, ARCOS - Ein Video-Computer-System far die Archäologie, Karlsruhc (ciclostilato).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "date": "1984",
+   "title": "ARCOS - Ein Video-Computer-System für die Archäologie",
+   "place": "Karlsruhe",
+   "language": "ger",
+   "notes": "ciclostilato (cyclostyled)",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "KAMPFFMEYER U. 1985a, ARCOS: Eine Testuntersuchung auf der Saalburg, « Saalburg-Jahrbuch », 40/41, 121-133.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "date": "1985",
+   "title": "ARCOS: Eine Testuntersuchung auf der Saalburg",
+   "is_part_of": [
+    "Saalburg-Jahrbuch"
+   ],
+   "volume": "40/41",
+   "pages": "121-133",
+   "language": "ger",
+   "notes": "1985a",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "KAMPFFMEYER U. 1985b, ARCOS - A video computer-system for archaeological documentation, in VOORRIPS, LoVING 1985, 238-241.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    },
+    {
+     "family": "Loving",
+     "given": "S."
+    }
+   ],
+   "date": "1985",
+   "title": "ARCOS - A video computer-system for archaeological documentation",
+   "is_part_of": [
+    "To Pattern the Past"
+   ],
+   "series": "PACT",
+   "series_number": "11",
+   "pages": "238-241",
+   "language": "eng",
+   "xref": 69,
+   "notes": "1985b",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "KAMPFFMEYER U. 1986a, ARCOS-1. Eine Dokumentation zum 'Geriit zur automatischen bildhaften Erfassung der Form von Keramik', Karlsruhe 1986.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "date": "1986",
+   "title": "ARCOS-1. Eine Dokumentation zum 'Gerät zur automatischen bildhaften Erfassung der Form von Keramik'",
+   "place": "Karlsruhe",
+   "language": "ger",
+   "notes": "1986a",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "KAMPFFMEYER U. l 986b, ARCOS et la classifìcation de ceramique assistée par ordinateur. Un système video-ordinateur destiné à l'archéologique, « Archéologues et ordinateurs », 8, 3-23.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "date": "1986",
+   "title": "ARCOS et la classification de ceramique assistée par ordinateur. Un système video-ordinateur destiné à l'archéologique",
+   "is_part_of": [
+    "Archéologues et ordinateurs"
+   ],
+   "volume": "8",
+   "pages": "3-23",
+   "language": "fre",
+   "notes": "1986b",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "KAMPFFMEYER U. 1986c, ARCOS - A video-computer-documentation system for the use in archaeology and historic sciences, in Computer Applications in Archaeology, 1986. Conference Proceedings, Birmingham, 91-147.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "date": "1986",
+   "title": "ARCOS - A video-computer-documentation system for the use in archaeology and historic sciences",
+   "is_part_of": [
+    "Computer Applications in Archaeology 1986. Conference Proceedings"
+   ],
+   "place": "Birmingham",
+   "pages": "91-147",
+   "language": "eng",
+   "notes": "1986c",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "KAMPFFMEYER U. 1986d, ARCOS ·A documentation and database system for the use in archaeology, « Advances in Computer Archaeology », 3, 1-40.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "date": "1986",
+   "title": "ARCOS - A documentation and database system for the use in archaeology",
+   "is_part_of": [
+    "Advances in Computer Archaeology"
+   ],
+   "volume": "3",
+   "pages": "1-40",
+   "language": "eng",
+   "notes": "1986d",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "KAMPFFMEYER U. 1986e, Dokumentations - und Datenba11ksysteme in der Archiiologie, in Archiiologie in Peru. Archaometrie. Ergebnisse des 1. Fachsysmposiums der Deutsch-Peruanischen Archäologischen Gesellscha/t 1985 in Miinchen, « Archaeologia Peruana », 1, Stuttgart, 143-166.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "date": "1986",
+   "title": "Dokumentations- und Datenbanksysteme in der Archäologie",
+   "is_part_of": [
+    "Archäologie in Peru. Archäometrie. Ergebnisse des 1. Fachsymposiums der Deutsch-Peruanischen Archäologischen Gesellschaft 1985 in München"
+   ],
+   "series": "Archaeologia Peruana",
+   "series_number": "1",
+   "place": "Stuttgart",
+   "pages": "143-166",
+   "language": "ger",
+   "notes": "1986e",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "KAMPFFMEYER U. 1988, Die Keramik der Siedlung Hiide I am Diimmer, Phil-diss. Univ. Géittingen. Géittingen.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "date": "1988",
+   "title": "Die Keramik der Siedlung Hude I am Dümmer",
+   "publisher": "Universität Göttingen",
+   "place": "Göttingen",
+   "language": "ger",
+   "notes": "Phil-diss.; OCR: Hiide, Diimmer",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "KAMPFFMEYER U., PJETSCH M. 1985, Archa'ologie und Computer· Das ARCOS zur Keramikerfassung auf der Ausgrabung in der riimischen Stadt von Bad Wimp/en im Tal, « Denkmalpflege in Baden-Wurttemberg », 14, 178-181.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    },
+    {
+     "family": "Pietsch",
+     "given": "M."
+    }
+   ],
+   "date": "1985",
+   "title": "Archäologie und Computer: Das ARCOS zur Keramikerfassung auf der Ausgrabung in der römischen Stadt von Bad Wimpfen im Tal",
+   "is_part_of": [
+    "Denkmalpflege in Baden-Württemberg"
+   ],
+   "volume": "14",
+   "pages": "178-181",
+   "language": "ger",
+   "notes": "OCR: PJETSCH",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "KAMPFFMEYER U., RUPPRECHT G., WITTEYER M. 1986, ARCOS: Ein Computer zeichnet römische Keramik, « Mainzer Zeitschrift », 81, 191-200.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    },
+    {
+     "family": "Rupprecht",
+     "given": "G."
+    },
+    {
+     "family": "Witteyer",
+     "given": "M."
+    }
+   ],
+   "date": "1986",
+   "title": "ARCOS: Ein Computer zeichnet römische Keramik",
+   "is_part_of": [
+    "Mainzer Zeitschrift"
+   ],
+   "volume": "81",
+   "pages": "191-200",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "KAMPFFMEYER U., ZAMPERONI P., TE.EGEN W. -R., GRACA L. 1988, Vntersuchungen zur rechnergestiikten Klassifikation der Form von Keramik, Arbeiten zur Urgeschichte des Menschen, 11, Frankfurt.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    },
+    {
+     "family": "Zamperoni",
+     "given": "P."
+    },
+    {
+     "family": "Teegen",
+     "given": "W.-R."
+    },
+    {
+     "family": "Graca",
+     "given": "L."
+    }
+   ],
+   "date": "1988",
+   "title": "Untersuchungen zur rechnergestützten Klassifikation der Form von Keramik",
+   "series": "Arbeiten zur Urgeschichte des Menschen",
+   "series_number": "11",
+   "place": "Frankfurt",
+   "language": "ger",
+   "notes": "OCR garbled title",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "KORBEL G. 1978, Ein System zum Zeichnen von Keramik, « Archiiologisches Korrcspondenzblatt », 8, 149-151.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Korbel",
+     "given": "G."
+    }
+   ],
+   "date": "1978",
+   "title": "Ein System zum Zeichnen von Keramik",
+   "is_part_of": [
+    "Archäologisches Korrespondenzblatt"
+   ],
+   "volume": "8",
+   "pages": "149-151",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "KRINZJNGER F. 1979, Die Stadtmauem von Elea. Eine archiiologisch-topographische Vntersuchung, Habilitationsschrift Univcrsitiit lnnsbruck, Innsbruck.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Krinzinger",
+     "given": "F."
+    }
+   ],
+   "date": "1979",
+   "title": "Die Stadtmauern von Elea. Eine archäologisch-topographische Untersuchung",
+   "publisher": "Universität Innsbruck",
+   "place": "Innsbruck",
+   "language": "ger",
+   "notes": "Habilitationsschrift",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "KRINZINGER F. 1980, Untersuchungen an den Stadtmauern von Elea, in Atti XIX Convegno Studi Magna Graecia 1980 (in corso di stampa).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Krinzinger",
+     "given": "F."
+    }
+   ],
+   "date": "1980",
+   "title": "Untersuchungen an den Stadtmauern von Elea",
+   "is_part_of": [
+    "Atti XIX Convegno Studi Magna Graecia 1980"
+   ],
+   "language": "ger",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "cited 'in corso di stampa' with year 1980; searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "KRINZINGER F. 1986, Velia. Grabungsbericht 1983-1986, « Réimischc Historische Mittcilungen », 28, 31-56.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Krinzinger",
+     "given": "F."
+    }
+   ],
+   "date": "1986",
+   "title": "Velia. Grabungsbericht 1983-1986",
+   "is_part_of": [
+    "Römische Historische Mitteilungen"
+   ],
+   "volume": "28",
+   "pages": "31-56",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "KRINZINGER F. 1987, Velia. Grabungsbericht 1987, « Romische Historische Mitteilungen », 29, 19-43.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Krinzinger",
+     "given": "F."
+    }
+   ],
+   "date": "1987",
+   "title": "Velia. Grabungsbericht 1987",
+   "is_part_of": [
+    "Römische Historische Mitteilungen"
+   ],
+   "volume": "29",
+   "pages": "19-43",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "KUNOW J., GJESLER J., GECHTER M., GAITZSCH w., FOLLMANN-SCHULZ A. B., V. BRANDT D. 1986, Vorschliige zur systematischen Beschreibung von Keramik (Deutsch, English, Française), Kunst und Altertum am Rhein, 124, Koln, Bonn 1986.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kunow",
+     "given": "J."
+    },
+    {
+     "family": "Giesler",
+     "given": "J."
+    },
+    {
+     "family": "Gechter",
+     "given": "M."
+    },
+    {
+     "family": "Gaitzsch",
+     "given": "W."
+    },
+    {
+     "family": "Follmann-Schulz",
+     "given": "A.B."
+    },
+    {
+     "family": "v. Brandt",
+     "given": "D."
+    }
+   ],
+   "date": "1986",
+   "title": "Vorschläge zur systematischen Beschreibung von Keramik (Deutsch, English, Française)",
+   "series": "Kunst und Altertum am Rhein",
+   "series_number": "124",
+   "place": "Köln, Bonn",
+   "language": "ger",
+   "notes": "OCR: GJESLER read as Giesler",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "LAUBERNHEIMER F. 1986, La production des amphores en Gaul Narbonnaise sous le Haut-Empire, Centre dc recherches d'histoire ancienne 66 = Annales Littéraires de l'Université de Besanon, 327, Paris.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Laubenheimer",
+     "given": "F."
+    }
+   ],
+   "date": "1986",
+   "title": "La production des amphores en Gaule Narbonnaise sous le Haut-Empire",
+   "series": "Centre de recherches d'histoire ancienne",
+   "series_number": "66",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "also Annales Littéraires de l'Université de Besançon, 327; OCR: LAUBERNHEIMER, Gaul",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "LEONARDI G., PRACCHIA S., VIDALE M. 1987, L'indicatore ceramico nei percorsi archeologici, in XXVII Riunione Scientifica dell'Istituto Italiano di Preistoria e Protostoria, Ferrara 1987: Dottrina e metodologia della ricerca preistorica. Edizione preliminare delk rekJzioni, Ferrara, 53-78.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Leonardi",
+     "given": "G."
+    },
+    {
+     "family": "Pracchia",
+     "given": "S."
+    },
+    {
+     "family": "Vidale",
+     "given": "M."
+    }
+   ],
+   "date": "1987",
+   "title": "L'indicatore ceramico nei percorsi archeologici",
+   "is_part_of": [
+    "XXVII Riunione Scientifica dell'Istituto Italiano di Preistoria e Protostoria, Ferrara 1987: Dottrina e metodologia della ricerca preistorica. Edizione preliminare delle relazioni"
+   ],
+   "place": "Ferrara",
+   "pages": "53-78",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "LOBBERT U., KAMPFFMEYER U. 1988, Forschungsproiekt \"ARCOS\". Ein Recbner· und Programmsystem für die Archiiologie, « Archaologie in Deutschland », 1, 36-40.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lobbert",
+     "given": "U."
+    },
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "date": "1988",
+   "title": "Forschungsprojekt \"ARCOS\". Ein Rechner- und Programmsystem für die Archäologie",
+   "is_part_of": [
+    "Archäologie in Deutschland"
+   ],
+   "volume": "1",
+   "pages": "36-40",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "LODTKE H. 1985, Die mittelalterlìche Keramik von Schleswig. Ausgrabung Schild 1971-1975, Ausgrabungen in Schleswig. Berichte und Studien, 4, Neumunster.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lodtke",
+     "given": "H."
+    }
+   ],
+   "date": "1985",
+   "title": "Die mittelalterliche Keramik von Schleswig. Ausgrabung Schild 1971-1975",
+   "series": "Ausgrabungen in Schleswig. Berichte und Studien",
+   "series_number": "4",
+   "place": "Neumünster",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "MAIN P. L. 1981, A method /or the computer storage and comparison o/ the outline shapes of archaeological artifacts, Unpublished PhD-thesis, North Staffordshire Polytechnic and University of Keele, Stafford, Keele.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Main",
+     "given": "P.L."
+    }
+   ],
+   "date": "1981",
+   "title": "A method for the computer storage and comparison of the outline shapes of archaeological artifacts",
+   "publisher": "North Staffordshire Polytechnic and University of Keele",
+   "place": "Stafford, Keele",
+   "language": "eng",
+   "notes": "unpublished PhD thesis",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "MAIN P. L. 1986, Accessing ouline shape information efficiently within a large database, in Computer Applications in Archaeology, 1986, 73-82.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Main",
+     "given": "P.L."
+    }
+   ],
+   "date": "1986",
+   "title": "Accessing outline shape information efficiently within a large database",
+   "is_part_of": [
+    "Computer Applications in Archaeology 1986. Conference Proceedings"
+   ],
+   "pages": "73-82",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "MOREL. P. 1981, La céramique campanienne. Les formes, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Morel",
+     "given": "P."
+    }
+   ],
+   "date": "1981",
+   "title": "La céramique campanienne. Les formes",
+   "place": "Roma",
+   "language": "fre",
+   "notes": "cited 'MOREL. P.' (initial uncertain; probably J.-P. Morel)",
+   "confidence": "low"
+  },
+  {
+   "position": 51,
+   "raw": "MOSCATI P. 1987, Archaeologia e calcol.atori, Firenze.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Archeologia e Calcolatori",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "cited 'Archaeologia e calcol.atori' (OCR)",
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "NEUTSCH B. 1979, Elea. Ionisches und Attisches aus dem archaischen Stadtgehiet, « Romische Mitteilungen », 86, 141-180.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Neutsch",
+     "given": "B."
+    }
+   ],
+   "date": "1979",
+   "title": "Elea. Ionisches und Attisches aus dem archaischen Stadtgebiet",
+   "is_part_of": [
+    "Römische Mitteilungen"
+   ],
+   "volume": "86",
+   "pages": "141-180",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 53,
+   "raw": "Orro B. 1986, Keramik aus den romischen Thermen von Velia, « Romische Historische Mitteilungen », 28, 57-68.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Otto",
+     "given": "B."
+    }
+   ],
+   "date": "1986",
+   "title": "Keramik aus den römischen Thermen von Velia",
+   "is_part_of": [
+    "Römische Historische Mitteilungen"
+   ],
+   "volume": "28",
+   "pages": "57-68",
+   "language": "ger",
+   "notes": "OCR: Orro",
+   "confidence": "high"
+  },
+  {
+   "position": 54,
+   "raw": "v. PETRIKOVITS H. 1972, Grundsiitzliches wr Benchreihung romischer Gefii/1keramik, in FILTZINGER 1972, 117-144.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "v. Petrikovits",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Filtzinger",
+     "given": "Ph."
+    }
+   ],
+   "date": "1972",
+   "title": "Grundsätzliches zur Beschreibung römischer Gefäßkeramik",
+   "is_part_of": [
+    "Die römische Keramik aus dem Militärbereich von Novaesium (etwa 25 bis 50 n. Chr.), Novaesium V"
+   ],
+   "series": "Limesforschungen",
+   "series_number": "11",
+   "place": "Berlin",
+   "pages": "117-144",
+   "language": "ger",
+   "xref": 17,
+   "confidence": "high"
+  },
+  {
+   "position": 55,
+   "raw": "PRAGA. J.N. W., ScHWEIZER F., WILLIAMS J. L. W., ScHUBIGER P. A. 1974, Hellenistic glazed wares from Athens and southem Italy: analytical techniques and implications, « Archaeometry », 16, 153-187.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Praga",
+     "given": "J.N.W."
+    },
+    {
+     "family": "Schweizer",
+     "given": "F."
+    },
+    {
+     "family": "Williams",
+     "given": "J.L.W."
+    },
+    {
+     "family": "Schubiger",
+     "given": "P.A."
+    }
+   ],
+   "date": "1974",
+   "title": "Hellenistic glazed wares from Athens and southern Italy: analytical techniques and implications",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "volume": "16",
+   "pages": "153-187",
+   "language": "eng",
+   "notes": "first author's surname garbled by OCR ('PRAGA. J.N. W.')",
+   "confidence": "low"
+  },
+  {
+   "position": 56,
+   "raw": "RICHARDSJ. D., RYAN N. S. (edd.) 1985, Data Processing in Archaeology, Cambridge Manuals in Archaeology, Cambridge.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Richards",
+     "given": "J.D."
+    },
+    {
+     "family": "Ryan",
+     "given": "N.S."
+    }
+   ],
+   "date": "1985",
+   "title": "Data Processing in Archaeology",
+   "series": "Cambridge Manuals in Archaeology",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 57,
+   "raw": "SASSE B. 1986, Aufnahme und Auswertung des merowingeneitlichen Friedhofs von Eichstetten/Kaismtuhl mit einem P.C., als Beispie/: Die Perlen, « Archiiologische Informationen », 9 (1), 26-32.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sasse",
+     "given": "B."
+    }
+   ],
+   "date": "1986",
+   "title": "Aufnahme und Auswertung des merowingerzeitlichen Friedhofs von Eichstetten/Kaiserstuhl mit einem P.C., als Beispiel: Die Perlen",
+   "is_part_of": [
+    "Archäologische Informationen"
+   ],
+   "volume": "9",
+   "issue": "1",
+   "pages": "26-32",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 58,
+   "raw": "SCOLLAR I., HUANG T. S., WEIDNER B., TANG G. 1977, An install.ation for the interactive transfer of information oblique aerial photos to maps, in Computer Applications in Archaeology, 1977, 105-118.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scollar",
+     "given": "I."
+    },
+    {
+     "family": "Huang",
+     "given": "T.S."
+    },
+    {
+     "family": "Weidner",
+     "given": "B."
+    },
+    {
+     "family": "Tang",
+     "given": "G."
+    }
+   ],
+   "date": "1977",
+   "title": "An installation for the interactive transfer of information oblique aerial photos to maps",
+   "is_part_of": [
+    "Computer Applications in Archaeology 1977"
+   ],
+   "pages": "105-118",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 59,
+   "raw": "SCOLLAR I., ANIOL R. W ., HERZOG I. 1986, Gro/Sma/Sstihliche, digitale, archiiologische Kartographie auf der Basis von Lufthildem, geophysikalischen Messungen und einer Datenbank, « Bonner Jahrbiicher », 186, 535-556.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scollar",
+     "given": "I."
+    },
+    {
+     "family": "Aniol",
+     "given": "R.W."
+    },
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "date": "1986",
+   "title": "Großmaßstäbliche, digitale, archäologische Kartographie auf der Basis von Luftbildern, geophysikalischen Messungen und einer Datenbank",
+   "is_part_of": [
+    "Bonner Jahrbücher"
+   ],
+   "volume": "186",
+   "pages": "535-556",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 60,
+   "raw": "STECKNER Cl., STECKNER Co. 1986, SAMOS - Statistische Anaiyse Mathematischer Ohjekt-Strukturen, Mitgliederversammlung des Deutschen Archiiologenverbandes, Mannheim (ciclostilato).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Steckner",
+     "given": "Cl."
+    },
+    {
+     "family": "Steckner",
+     "given": "Co."
+    }
+   ],
+   "date": "1986",
+   "title": "SAMOS - Statistische Analyse Mathematischer Objekt-Strukturen",
+   "place": "Mannheim",
+   "language": "ger",
+   "notes": "Mitgliederversammlung des Deutschen Archäologenverbandes; ciclostilato",
+   "confidence": "high"
+  },
+  {
+   "position": 61,
+   "raw": "STECKNER Co. 1987, Echner zeichnet und inventarisiert Keramik, « Mitteilungen des Deutschen Archiiologenverbandes », 17, (2), 45-4 7.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Steckner",
+     "given": "Co."
+    }
+   ],
+   "date": "1987",
+   "title": "Rechner zeichnet und inventarisiert Keramik",
+   "is_part_of": [
+    "Mitteilungen des Deutschen Archäologenverbandes"
+   ],
+   "volume": "17",
+   "issue": "2",
+   "pages": "45-47",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 62,
+   "raw": "STECKNER Co. (ed.) 1988, Archäologie und neue Technologien, Schriften des Deutschen Archli.o-logenverbandes V., X, Freiburg.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Steckner",
+     "given": "Co."
+    }
+   ],
+   "date": "1988",
+   "title": "Archäologie und neue Technologien",
+   "series": "Schriften des Deutschen Archäologenverbandes e.V.",
+   "series_number": "X",
+   "place": "Freiburg",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 63,
+   "raw": "STEHLI P., ZIMMERMANN A. 1980, Zur Analyse neoiithischer Gefäßofrmen, « Archaeo-Physika », 7, 147-177.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Stehli",
+     "given": "P."
+    },
+    {
+     "family": "Zimmermann",
+     "given": "A."
+    }
+   ],
+   "date": "1980",
+   "title": "Zur Analyse neolithischer Gefäßformen",
+   "is_part_of": [
+    "Archaeo-Physika"
+   ],
+   "volume": "7",
+   "pages": "147-177",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 64,
+   "raw": "TEEGEN W. -R. 1985, Datenbanken und Computer Aided Publishing (CAP) in der Archäologie. Vortrag auf der Tagung des Nordwestdeutschen Verhandes fiir Altertumsforschung, Arbeitsgemeinschaft \"Quantitative Methoden\", Detmold (ciclostilato).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Teegen",
+     "given": "W.-R."
+    }
+   ],
+   "date": "1985",
+   "title": "Datenbanken und Computer Aided Publishing (CAP) in der Archäologie. Vortrag auf der Tagung des Nordwestdeutschen Verbandes für Altertumsforschung, Arbeitsgemeinschaft \"Quantitative Methoden\"",
+   "place": "Detmold",
+   "language": "ger",
+   "notes": "ciclostilato",
+   "confidence": "high"
+  },
+  {
+   "position": 65,
+   "raw": "TEEGEN W. -R., DAIM F., 0RTMANN W., WAGNER P. 1988, Microcomputer und Satzhmtellung in der Archiio/ogie, in STECKNER 1988, 11-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Teegen",
+     "given": "W.-R."
+    },
+    {
+     "family": "Daim",
+     "given": "F."
+    },
+    {
+     "family": "Ortmann",
+     "given": "W."
+    },
+    {
+     "family": "Wagner",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Steckner",
+     "given": "Co."
+    }
+   ],
+   "date": "1988",
+   "title": "Microcomputer und Satzherstellung in der Archäologie",
+   "is_part_of": [
+    "Archäologie und neue Technologien"
+   ],
+   "series": "Schriften des Deutschen Archäologenverbandes e.V.",
+   "series_number": "X",
+   "place": "Freiburg",
+   "pages": "11-40",
+   "language": "ger",
+   "xref": 62,
+   "confidence": "high"
+  },
+  {
+   "position": 66,
+   "raw": "TEEGEN W.-R., KAMPFFMEYER U. c.s., Computer-aided classifrcation o/ ceramics - new results, in Proceedings of the 1 lth UISPP-Congress, Mainz 1987 (in corso di stampa).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Teegen",
+     "given": "W.-R."
+    },
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Computer-aided classification of ceramics - new results",
+   "is_part_of": [
+    "Proceedings of the 11th UISPP-Congress, Mainz 1987"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 67,
+   "raw": "TUCHELT K. 1980, Didyma. Bericht iiber die Arheiten der Jahre 1975-1979, « Instanbuler Mitteilungen », 30, 99-189.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tuchelt",
+     "given": "K."
+    }
+   ],
+   "date": "1980",
+   "title": "Didyma. Bericht über die Arbeiten der Jahre 1975-1979",
+   "is_part_of": [
+    "Istanbuler Mitteilungen"
+   ],
+   "volume": "30",
+   "pages": "99-189",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 68,
+   "raw": "TUCHELT K. 1984, Didyma, Bericht iiber die Arbeiten der Jahre 1980-1983, « Instanbuler Mitteilungen », 34, 193-344.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tuchelt",
+     "given": "K."
+    }
+   ],
+   "date": "1984",
+   "title": "Didyma, Bericht über die Arbeiten der Jahre 1980-1983",
+   "is_part_of": [
+    "Istanbuler Mitteilungen"
+   ],
+   "volume": "34",
+   "pages": "193-344",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 69,
+   "raw": "VOORRlPS A., LOVING S. (edd.) 1985, To Pattern the Past, « PACT », 11, Strasbourg.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    },
+    {
+     "family": "Loving",
+     "given": "S."
+    }
+   ],
+   "date": "1985",
+   "title": "To Pattern the Past",
+   "series": "PACT",
+   "series_number": "11",
+   "place": "Strasbourg",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 70,
+   "raw": "WILCOCK J. D., CooMBES T. 1982, A television camera interface for the automatic capture of artefact shapes by microcomputer, in ASPINALL, WARREN 1982, 27-33.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wilcock",
+     "given": "J.D."
+    },
+    {
+     "family": "Coombes",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Aspinall",
+     "given": "A."
+    },
+    {
+     "family": "Warren",
+     "given": "S.E."
+    }
+   ],
+   "date": "1982",
+   "title": "A television camera interface for the automatic capture of artefact shapes by microcomputer",
+   "is_part_of": [
+    "Proceedings of the micro-computer jamboree. XXII International Symposium in Archaeometry"
+   ],
+   "place": "Bradford",
+   "pages": "27-33",
+   "language": "eng",
+   "xref": 4,
+   "confidence": "high"
+  },
+  {
+   "position": 71,
+   "raw": "WrLCOCK J. D., CooMBES T. 1986, Some further deveiopments in hardware and software /or the automatic capture o/ artefact shapes hy television camera, in Computer Applications in Archaeology 1985, London, 145-151.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wilcock",
+     "given": "J.D."
+    },
+    {
+     "family": "Coombes",
+     "given": "T."
+    }
+   ],
+   "date": "1986",
+   "title": "Some further developments in hardware and software for the automatic capture of artefact shapes by television camera",
+   "is_part_of": [
+    "Computer Applications in Archaeology 1985"
+   ],
+   "place": "London",
+   "pages": "145-151",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 72,
+   "raw": "WINTERMEYER U. 1980, Katalog ausgewà\"hlter Keramik und Kleinftmde, in TucHELT 1980, 122- 160, TAP. 50-68.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wintermeyer",
+     "given": "U."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Tuchelt",
+     "given": "K."
+    }
+   ],
+   "date": "1980",
+   "title": "Katalog ausgewählter Keramik und Kleinfunde",
+   "is_part_of": [
+    "Didyma. Bericht über die Arbeiten der Jahre 1975-1979",
+    "Istanbuler Mitteilungen"
+   ],
+   "volume": "30",
+   "pages": "122-160",
+   "language": "ger",
+   "xref": 67,
+   "notes": "Taf. 50-68",
+   "confidence": "high"
+  },
+  {
+   "position": 73,
+   "raw": "WINTERMEYER U. 1984, Bemerkungen zur Typologie and Chronologie der hellenistisch· kaiserizeitlichen Gebrauchskeramik, in TUCHELT 1984, 241-259, Taf. 47-48.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wintermeyer",
+     "given": "U."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Tuchelt",
+     "given": "K."
+    }
+   ],
+   "date": "1984",
+   "title": "Bemerkungen zur Typologie und Chronologie der hellenistisch-kaiserzeitlichen Gebrauchskeramik",
+   "is_part_of": [
+    "Didyma, Bericht über die Arbeiten der Jahre 1980-1983",
+    "Istanbuler Mitteilungen"
+   ],
+   "volume": "34",
+   "pages": "241-259",
+   "language": "ger",
+   "xref": 68,
+   "notes": "Taf. 47-48",
+   "confidence": "high"
+  },
+  {
+   "position": 74,
+   "raw": "WITTEYER M. 1986, Erfahrungen mii dem Zeichencomputer ARCOS-1, « Archaologische Informationen », 9 (1), 1986, 19-26.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Witteyer",
+     "given": "M."
+    }
+   ],
+   "date": "1986",
+   "title": "Erfahrungen mit dem Zeichencomputer ARCOS-1",
+   "is_part_of": [
+    "Archäologische Informationen"
+   ],
+   "volume": "9",
+   "issue": "1",
+   "pages": "19-26",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 75,
+   "raw": "ZAMPERONI P., TEEGEN w. -R., KAMPFFMEYER u., LAUDAN K-H. 1988, Nuove esperiene sulla classificai.ione computerii.zata delle forme ceramiche, condotta sui materiali sepolcrali della necropoli di Veio, Quattro Fontanili, in Archeologia ed Informatica, Quaderni dei Dialoghi di Archeologia 4, Roma, 157-170.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zamperoni",
+     "given": "P."
+    },
+    {
+     "family": "Teegen",
+     "given": "W.-R."
+    },
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    },
+    {
+     "family": "Laudan",
+     "given": "K.-H."
+    }
+   ],
+   "date": "1988",
+   "title": "Nuove esperienze sulla classificazione computerizzata delle forme ceramiche, condotta sui materiali sepolcrali della necropoli di Veio, Quattro Fontanili",
+   "is_part_of": [
+    "Archeologia ed Informatica"
+   ],
+   "series": "Quaderni dei Dialoghi di Archeologia",
+   "series_number": "4",
+   "place": "Roma",
+   "pages": "157-170",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,829 @@
+{
+ "citing_aec_id": 1008,
+ "source_file": "data/journal/29/1008.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Adembri B., Alonso-Durá A., Juan-Vidal F., Bertacchi G., Bertacchi S., Cipriani L., Fantini F., Soriano-Estevalis B. 2016, *Modelli digitali 3D per documentare, conoscere ed analizzare l'architettura e la costruzione nel mondo antico: l'esempio della Sala Ottagonale delle Piccole Terme di Villa Adriana*, «Archeologia e Calcolatori», 27, 291-316.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Adembri",
+     "given": "B."
+    },
+    {
+     "family": "Alonso-Durá",
+     "given": "A."
+    },
+    {
+     "family": "Juan-Vidal",
+     "given": "F."
+    },
+    {
+     "family": "Bertacchi",
+     "given": "G."
+    },
+    {
+     "family": "Bertacchi",
+     "given": "S."
+    },
+    {
+     "family": "Cipriani",
+     "given": "L."
+    },
+    {
+     "family": "Fantini",
+     "given": "F."
+    },
+    {
+     "family": "Soriano-Estevalis",
+     "given": "B."
+    }
+   ],
+   "date": "2016",
+   "title": "Modelli digitali 3D per documentare, conoscere ed analizzare l'architettura e la costruzione nel mondo antico: l'esempio della Sala Ottagonale delle Piccole Terme di Villa Adriana",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "27",
+   "pages": "291-316",
+   "language": "ita",
+   "cited_aec_id": 853,
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Anichini F., Bertelli E., Ghizzani Marcìa F., Giannotti S., Menchini M., Paribeni E., Parodi L. 2012 (eds.), *Chiedilo all'archeologo. Massaciuccoli romana. Visita guidata a fine scavo*, Roma, Edizioni Nuova Cultura.",
+   "type": "book",
+   "date": "2012",
+   "title": "Chiedilo all'archeologo. Massaciuccoli romana. Visita guidata a fine scavo",
+   "editors": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Bertelli",
+     "given": "E."
+    },
+    {
+     "family": "Ghizzani Marcìa",
+     "given": "F."
+    },
+    {
+     "family": "Giannotti",
+     "given": "S."
+    },
+    {
+     "family": "Menchini",
+     "given": "M."
+    },
+    {
+     "family": "Paribeni",
+     "given": "E."
+    },
+    {
+     "family": "Parodi",
+     "given": "L."
+    }
+   ],
+   "publisher": "Edizioni Nuova Cultura",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Arrighi L. 1963, *Le terme romane di Massaciuccoli*, «Giornale Storico della Lunigiana», 14, 43-46.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighi",
+     "given": "L."
+    }
+   ],
+   "date": "1963",
+   "title": "Le terme romane di Massaciuccoli",
+   "is_part_of": [
+    "Giornale Storico della Lunigiana"
+   ],
+   "volume": "14",
+   "pages": "43-46",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Böhler W., Hein G., Marbs A. 2001, *The potential of non-contact close range laser scanners for cultural heritage recording*, «The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences», XXXIV-5/C7.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Böhler",
+     "given": "W."
+    },
+    {
+     "family": "Hein",
+     "given": "G."
+    },
+    {
+     "family": "Marbs",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "The potential of non-contact close range laser scanners for cultural heritage recording",
+   "is_part_of": [
+    "The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XXXIV-5/C7",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Campus A. 2015, *Le 'Terme di Nerone' a Pisa: restituzione volumetrica e ricostruzione tridimensionale*, «Ricerche di Storia dell'Arte», 116-117, 120-130.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Campus",
+     "given": "A."
+    }
+   ],
+   "date": "2015",
+   "title": "Le 'Terme di Nerone' a Pisa: restituzione volumetrica e ricostruzione tridimensionale",
+   "is_part_of": [
+    "Ricerche di Storia dell'Arte"
+   ],
+   "volume": "116-117",
+   "pages": "120-130",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Campus A. 2016, *Il complesso delle terme di 'Nerone' a Pisa*, «Studi Classici e Orientali», 62, 205-235.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Campus",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Il complesso delle terme di 'Nerone' a Pisa",
+   "is_part_of": [
+    "Studi Classici e Orientali"
+   ],
+   "volume": "62",
+   "pages": "205-235",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Canciani M., Conigliaro E., Grasso M.D., Papalini P., Saccone M. 2016, *3D survey and augmented reality for cultural heritage. The case study of Aurelian wall at castra praetorian in Rome*, «The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», XLI/B5, 931-937.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Canciani",
+     "given": "M."
+    },
+    {
+     "family": "Conigliaro",
+     "given": "E."
+    },
+    {
+     "family": "Grasso",
+     "given": "M.D."
+    },
+    {
+     "family": "Papalini",
+     "given": "P."
+    },
+    {
+     "family": "Saccone",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "3D survey and augmented reality for cultural heritage. The case study of Aurelian wall at castra praetorian in Rome",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XLI/B5",
+   "pages": "931-937",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Capra A., Bertacchini E., Castagnetti C., Rivola R., Dubbini M. 2015, *Recent approaches in geodesy and geomatics for structures monitoring*, «Rendiconti dell'Accademia Nazionale dei Lincei», 26, 1, 53-61.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Capra",
+     "given": "A."
+    },
+    {
+     "family": "Bertacchini",
+     "given": "E."
+    },
+    {
+     "family": "Castagnetti",
+     "given": "C."
+    },
+    {
+     "family": "Rivola",
+     "given": "R."
+    },
+    {
+     "family": "Dubbini",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "Recent approaches in geodesy and geomatics for structures monitoring",
+   "is_part_of": [
+    "Rendiconti dell'Accademia Nazionale dei Lincei"
+   ],
+   "volume": "26",
+   "issue": "1",
+   "pages": "53-61",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Castagnetti C., Dubbini M., Ricci P.C., Rivola R., Giannini M., Capra A. 2017, *Critical issues and key points from the survey to the creation of the historical building information model: The case of Santo Stefano Basilica*, «The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences», XLII-5/W1, 467-474.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Castagnetti",
+     "given": "C."
+    },
+    {
+     "family": "Dubbini",
+     "given": "M."
+    },
+    {
+     "family": "Ricci",
+     "given": "P.C."
+    },
+    {
+     "family": "Rivola",
+     "given": "R."
+    },
+    {
+     "family": "Giannini",
+     "given": "M."
+    },
+    {
+     "family": "Capra",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Critical issues and key points from the survey to the creation of the historical building information model: The case of Santo Stefano Basilica",
+   "is_part_of": [
+    "The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XLII-5/W1",
+   "pages": "467-474",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Castagnetti C., Giannini M., Rivola R. 2017, *Image-based virtual tours and 3D modeling of past and current ages for the enhancement of archaeological parks: The VisualVersilia 3D project*, «The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences», XLII-5/W1, 639-645.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Castagnetti",
+     "given": "C."
+    },
+    {
+     "family": "Giannini",
+     "given": "M."
+    },
+    {
+     "family": "Rivola",
+     "given": "R."
+    }
+   ],
+   "date": "2017",
+   "title": "Image-based virtual tours and 3D modeling of past and current ages for the enhancement of archaeological parks: The VisualVersilia 3D project",
+   "is_part_of": [
+    "The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XLII-5/W1",
+   "pages": "639-645",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Ciampoltrini G. 1994, *Gli ozi dei Venulei. Considerazioni sulle terme di Massaciuccoli*, «Prospettiva», 73-74, 119-130.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ciampoltrini",
+     "given": "G."
+    }
+   ],
+   "date": "1994",
+   "title": "Gli ozi dei Venulei. Considerazioni sulle terme di Massaciuccoli",
+   "is_part_of": [
+    "Prospettiva"
+   ],
+   "volume": "73-74",
+   "pages": "119-130",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Ciampoltrini G. 2009, *The villa: The Venulei's uncomfortable idleness's*, in F. Anichini, M. Paribeni (eds.), *Massaciuccoli romana*, Ghezzano (PI), Felici Editore, 16-23.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ciampoltrini",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Paribeni",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "The villa: The Venulei's uncomfortable idleness's",
+   "is_part_of": [
+    "Massaciuccoli romana"
+   ],
+   "pages": "16-23",
+   "publisher": "Felici Editore",
+   "place": "Ghezzano (PI)",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Dubbini M., Giannini M., Picone S. 2016, *La cartografia storica della Versilia come strumento di ricostruzione del passato*, in M. Giannini, V. Greco (eds.), *Visualizzare il paesaggio. Nuove forme di narrazione e rappresentazione dello spazio geografico*, Bologna, BraDypUS, 117-154.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dubbini",
+     "given": "M."
+    },
+    {
+     "family": "Giannini",
+     "given": "M."
+    },
+    {
+     "family": "Picone",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giannini",
+     "given": "M."
+    },
+    {
+     "family": "Greco",
+     "given": "V."
+    }
+   ],
+   "date": "2016",
+   "title": "La cartografia storica della Versilia come strumento di ricostruzione del passato",
+   "is_part_of": [
+    "Visualizzare il paesaggio. Nuove forme di narrazione e rappresentazione dello spazio geografico"
+   ],
+   "pages": "117-154",
+   "publisher": "BraDypUS",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Fabiani F. 2006, \"...stratam antiquam quae est per paludes et boscos ...\". *Viabilità romana tra Pisa e Luni*, Pisa, Edizioni Plus - Pisa University Press.",
+   "type": "book",
+   "date": "2006",
+   "title": "\"...stratam antiquam quae est per paludes et boscos ...\". Viabilità romana tra Pisa e Luni",
+   "creators": [
+    {
+     "family": "Fabiani",
+     "given": "F."
+    }
+   ],
+   "publisher": "Edizioni Plus - Pisa University Press",
+   "place": "Pisa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Giannini M. 2013, *Versilia: genesi di un territorio. Dall'età preistorica all'arrivo dei Romani*, «Journal of Ancient Topography», 23, 155-178.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Giannini",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Versilia: genesi di un territorio. Dall'età preistorica all'arrivo dei Romani",
+   "is_part_of": [
+    "Journal of Ancient Topography"
+   ],
+   "volume": "23",
+   "pages": "155-178",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Giannini M. 2015, *I Romani in Versilia: dinamiche di popolamento e organizzazione del territorio*, «Orizzonti», 16, 81-91.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Giannini",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "I Romani in Versilia: dinamiche di popolamento e organizzazione del territorio",
+   "is_part_of": [
+    "Orizzonti"
+   ],
+   "volume": "16",
+   "pages": "81-91",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Giannini M. 2016, *Visualizzare un territorio: il progetto VisualVersilia*, in M. Giannini, V. Greco (eds.), *Visualizzare il paesaggio. Nuove forme di narrazione e rappresentazione dello spazio geografico*, Bologna, BraDypUS Communicating Cultural Heritage, 55-81.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giannini",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giannini",
+     "given": "M."
+    },
+    {
+     "family": "Greco",
+     "given": "V."
+    }
+   ],
+   "date": "2016",
+   "title": "Visualizzare un territorio: il progetto VisualVersilia",
+   "is_part_of": [
+    "Visualizzare il paesaggio. Nuove forme di narrazione e rappresentazione dello spazio geografico"
+   ],
+   "pages": "55-81",
+   "publisher": "BraDypUS Communicating Cultural Heritage",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Giannini M., Castagnetti C., Rivola R. 2017, *WebGIS, 3D modeling and virtual tours to map, record and visualize the cultural, archaeological and landscape heritage: The VisualVersilia project*, in *Proceedings of 3rd IMEKO International Conference on Metrology for Archaeology and Cultural Heritage (Lecce 2017)*, Lecce, Imeko, 166-171.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giannini",
+     "given": "M."
+    },
+    {
+     "family": "Castagnetti",
+     "given": "C."
+    },
+    {
+     "family": "Rivola",
+     "given": "R."
+    }
+   ],
+   "date": "2017",
+   "title": "WebGIS, 3D modeling and virtual tours to map, record and visualize the cultural, archaeological and landscape heritage: The VisualVersilia project",
+   "is_part_of": [
+    "Proceedings of 3rd IMEKO International Conference on Metrology for Archaeology and Cultural Heritage (Lecce 2017)"
+   ],
+   "pages": "166-171",
+   "publisher": "Imeko",
+   "place": "Lecce",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Jacopi G. 1936, *Sabaudia. Scavi nella villa di Domiziano in località Palazzo sul lago di Paola*, «Notizie degli Scavi di Antichità», 21-50.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jacopi",
+     "given": "G."
+    }
+   ],
+   "date": "1936",
+   "title": "Sabaudia. Scavi nella villa di Domiziano in località Palazzo sul lago di Paola",
+   "is_part_of": [
+    "Notizie degli Scavi di Antichità"
+   ],
+   "pages": "21-50",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Magnenat-Thalmann N., Foni A.E., Papagiannakis G., Cadi-Yazli N. 2007, *Real Time Animation and Illumination in Ancient Roman Sites*, «International Journal of Virtual Reality», 6, 1, 11-24.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Magnenat-Thalmann",
+     "given": "N."
+    },
+    {
+     "family": "Foni",
+     "given": "A.E."
+    },
+    {
+     "family": "Papagiannakis",
+     "given": "G."
+    },
+    {
+     "family": "Cadi-Yazli",
+     "given": "N."
+    }
+   ],
+   "date": "2007",
+   "title": "Real Time Animation and Illumination in Ancient Roman Sites",
+   "is_part_of": [
+    "International Journal of Virtual Reality"
+   ],
+   "volume": "6",
+   "issue": "1",
+   "pages": "11-24",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Menozzi B.I., Fichera A., Guido M.A., Mariotti Lippi M., Montanari C., Zanchetta G., Bonadonna F.P., Garbari F. 2002, *Lineamenti paleoambientali del bacino del lago di Massaciuccoli (Toscana nord-occidentale Italia)*, «Atti Società Toscana Scienze Naturali», 109, 177-187.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Menozzi",
+     "given": "B.I."
+    },
+    {
+     "family": "Fichera",
+     "given": "A."
+    },
+    {
+     "family": "Guido",
+     "given": "M.A."
+    },
+    {
+     "family": "Mariotti Lippi",
+     "given": "M."
+    },
+    {
+     "family": "Montanari",
+     "given": "C."
+    },
+    {
+     "family": "Zanchetta",
+     "given": "G."
+    },
+    {
+     "family": "Bonadonna",
+     "given": "F.P."
+    },
+    {
+     "family": "Garbari",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "Lineamenti paleoambientali del bacino del lago di Massaciuccoli (Toscana nord-occidentale Italia)",
+   "is_part_of": [
+    "Atti Società Toscana Scienze Naturali"
+   ],
+   "volume": "109",
+   "pages": "177-187",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Minto A. 1921, *Le terme romane di Massaciuccoli*, «Monumenti antichi dell'Accademia dei Lincei», 27, 405-448.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Minto",
+     "given": "A."
+    }
+   ],
+   "date": "1921",
+   "title": "Le terme romane di Massaciuccoli",
+   "is_part_of": [
+    "Monumenti antichi dell'Accademia dei Lincei"
+   ],
+   "volume": "27",
+   "pages": "405-448",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Muller P., Vereenooghe T., Ulmer A., Van Gool L. 2005, *Automatic reconstruction of Roman housing architecture*, in *Proceedings of the International Workshop on Recording, Modeling and Visualization of Cultural Heritage (Ascona 2005)*, London, Taylor & Francis/Balkema, 287-297.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Muller",
+     "given": "P."
+    },
+    {
+     "family": "Vereenooghe",
+     "given": "T."
+    },
+    {
+     "family": "Ulmer",
+     "given": "A."
+    },
+    {
+     "family": "Van Gool",
+     "given": "L."
+    }
+   ],
+   "date": "2005",
+   "title": "Automatic reconstruction of Roman housing architecture",
+   "is_part_of": [
+    "Proceedings of the International Workshop on Recording, Modeling and Visualization of Cultural Heritage (Ascona 2005)"
+   ],
+   "pages": "287-297",
+   "publisher": "Taylor & Francis/Balkema",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Paribeni E. 2012, *Il sito di Massaciuccoli*, in Anichini et al. 2012, 11-15.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Paribeni",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Bertelli",
+     "given": "E."
+    },
+    {
+     "family": "Ghizzani Marcìa",
+     "given": "F."
+    },
+    {
+     "family": "Giannotti",
+     "given": "S."
+    },
+    {
+     "family": "Menchini",
+     "given": "M."
+    },
+    {
+     "family": "Paribeni",
+     "given": "E."
+    },
+    {
+     "family": "Parodi",
+     "given": "L."
+    }
+   ],
+   "date": "2012",
+   "title": "Il sito di Massaciuccoli",
+   "is_part_of": [
+    "Chiedilo all'archeologo. Massaciuccoli romana. Visita guidata a fine scavo"
+   ],
+   "pages": "11-15",
+   "language": "ita",
+   "xref": 2,
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Repetti E. 1839, *Dizionario Geografico Fisico Storico della Toscana*, 3, Firenze, Allegrini e Mazzoni Editori.",
+   "type": "book",
+   "date": "1839",
+   "title": "Dizionario Geografico Fisico Storico della Toscana",
+   "creators": [
+    {
+     "family": "Repetti",
+     "given": "E."
+    }
+   ],
+   "publisher": "Allegrini e Mazzoni Editori",
+   "place": "Firenze",
+   "language": "ita",
+   "volume": "3",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Ridolfi E. 1878, *Lucca*, «Notizie degli Scavi di Antichità», 227-230.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ridolfi",
+     "given": "E."
+    }
+   ],
+   "date": "1878",
+   "title": "Lucca",
+   "is_part_of": [
+    "Notizie degli Scavi di Antichità"
+   ],
+   "pages": "227-230",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Romano G. 2004, *Le terme del Foro di Ostia Antica*, «Forma Urbis», 9, 18-25.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Romano",
+     "given": "G."
+    }
+   ],
+   "date": "2004",
+   "title": "Le terme del Foro di Ostia Antica",
+   "is_part_of": [
+    "Forma Urbis"
+   ],
+   "volume": "9",
+   "pages": "18-25",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Targioni Tozzetti G. 1768-1779, *Relazioni di diversi viaggi fatti in diverse parti della Toscana*, I, Firenze, Stamperia Granducale per Gaetano Cambiagi.",
+   "type": "book",
+   "date": "1768-1779",
+   "title": "Relazioni di diversi viaggi fatti in diverse parti della Toscana",
+   "creators": [
+    {
+     "family": "Targioni Tozzetti",
+     "given": "G."
+    }
+   ],
+   "publisher": "Stamperia Granducale per Gaetano Cambiagi",
+   "place": "Firenze",
+   "language": "ita",
+   "volume": "I",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Verduchi P. 1975, *Le terme con cosiddetto Heliocaminus*, «Quaderni dell'Istituto di Topografia Antica», 8, 55-95.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Verduchi",
+     "given": "P."
+    }
+   ],
+   "date": "1975",
+   "title": "Le terme con cosiddetto Heliocaminus",
+   "is_part_of": [
+    "Quaderni dell'Istituto di Topografia Antica"
+   ],
+   "volume": "8",
+   "pages": "55-95",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

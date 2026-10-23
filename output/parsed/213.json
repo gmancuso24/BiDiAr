@@ -1,0 +1,351 @@
+{
+ "citing_aec_id": 213,
+ "source_file": "data/journal/7/213.md",
+ "references": [
+  {
+   "raw": "CALAMANDREI M. 1995, Così la preistoria cavalca il futuro, «Il Sole-24 Ore», 28 maggio, 34.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Calamandrei",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Così la preistoria cavalca il futuro",
+   "is_part_of": [
+    "Il Sole-24 Ore"
+   ],
+   "pages": "34",
+   "issue": "28 maggio",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "ECO U. 1994a, Sarà la filosofia a insegnarci come usare l'informazione, «L'Espresso», 22 luglio, 170.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Eco",
+     "given": "U."
+    }
+   ],
+   "type": "article",
+   "title": "Sarà la filosofia a insegnarci come usare l'informazione",
+   "is_part_of": [
+    "L'Espresso"
+   ],
+   "pages": "170",
+   "issue": "22 luglio",
+   "language": "ita",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "ECO U. 1994b, Lunga vita al libro: è un capolavoro di alta tecnologia, «L'Espresso», 7 ottobre, 218.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Eco",
+     "given": "U."
+    }
+   ],
+   "type": "article",
+   "title": "Lunga vita al libro: è un capolavoro di alta tecnologia",
+   "is_part_of": [
+    "L'Espresso"
+   ],
+   "pages": "218",
+   "issue": "7 ottobre",
+   "language": "spa",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "EMILIANI A. 1989, Il Politecnico delle Arti, Bologna, Nuova Alfa Editoriale.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Emiliani",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Il Politecnico delle Arti",
+   "place": "Bologna",
+   "publisher": "Nuova Alfa Editoriale",
+   "language": "ita",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "GAMMON R. 1992 (ed.), Best Science in Writing: Readings and Insights, Phoenix, Onyx Press.",
+   "date": "1992",
+   "editors": [
+    {
+     "family": "Gammon",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Best Science in Writing: Readings and Insights",
+   "place": "Phoenix",
+   "publisher": "Onyx Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "GIUSBERG J. 1983, L'ultimo museo. Musei freddi e caldi, vecchi e nuovi, immaginari e integrati, Palermo, Sellerio.",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Giusberg",
+     "given": "J."
+    }
+   ],
+   "type": "book",
+   "title": "L'ultimo museo. Musei freddi e caldi, vecchi e nuovi, immaginari e integrati",
+   "place": "Palermo",
+   "publisher": "Sellerio",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "GOTTARELLI A. 1995, La modellazione tridimensionale del documento archeologico: livelli descrittivi e procedimenti digitali, «Archeologia e Calcolatori», 6, 75-103 (tavv. Ib-II).",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "La modellazione tridimensionale del documento archeologico: livelli descrittivi e procedimenti digitali",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "6",
+   "language": "ita",
+   "confidence": "high",
+   "position": 7,
+   "pages": "75-103",
+   "notes": "tavv. Ib-II"
+  },
+  {
+   "raw": "ISTAT 1995, Indagine statistica sui musei e le istituzioni similari, Istituto Nazionale di Statistica, Roma.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Istat",
+     "given": ""
+    }
+   ],
+   "type": "book",
+   "title": "Indagine statistica sui musei e le istituzioni similari",
+   "place": "Roma",
+   "publisher": "Istituto Nazionale di Statistica",
+   "language": "ita",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "LEVENSTEIN B.V. 1992 (ed.), When Science Meets the Public, American Association for the Advancement of Science, Washington.",
+   "date": "1992",
+   "editors": [
+    {
+     "family": "Levenstein",
+     "given": "B.V."
+    }
+   ],
+   "type": "book",
+   "title": "When Science Meets the Public, American Association for the Advancement of Science",
+   "place": "Washington",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9,
+   "publisher": "American Association for the Advancement of Science"
+  },
+  {
+   "raw": "MARTLEW R. 1993, Multi-media museums: potential applications of interactive technology, in E. SOUTHWORTH (ed.), Ready for the New Millenium?, Features for Museum Archaeology, «Museum Archaeology», 17, 1990 (1993), 44-51.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Martlew",
+     "given": "R."
+    }
+   ],
+   "type": "article",
+   "title": "Multi-media museums: potential applications of interactive technology",
+   "editors": [
+    {
+     "family": "Southworth",
+     "given": "E."
+    }
+   ],
+   "pages": "44-51",
+   "is_part_of": [
+    "Ready for the New Millenium? Features for Museum Archaeology",
+    "Museum Archaeology"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 10,
+   "volume": "17",
+   "notes": "1990 (1993)"
+  },
+  {
+   "raw": "NEGROPONTE N. 1995, Essere digitali, Milano, Sperling Kupfer.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Negroponte",
+     "given": "N."
+    }
+   ],
+   "type": "book",
+   "title": "Essere digitali",
+   "place": "Milano",
+   "publisher": "Sperling Kupfer",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "PAGLIANI M.L. 1992, Beni culturali: didattica al computer, «Archeologia e Calcolatori», 3, 199-206.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Pagliani",
+     "given": "M.L."
+    }
+   ],
+   "type": "article",
+   "title": "Beni culturali: didattica al computer",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "199-206",
+   "volume": "3",
+   "language": "spa",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "PAGLIANI M.L. 1993, s.v. Museo, in Enciclopedia Italiana, V Appendice, Istituto dell'Enciclopedia Italiana, Roma.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Pagliani",
+     "given": "M.L."
+    }
+   ],
+   "type": "chapter",
+   "title": "Museo",
+   "is_part_of": [
+    "Enciclopedia Italiana"
+   ],
+   "place": "Roma",
+   "publisher": "Istituto dell'Enciclopedia Italiana",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13,
+   "volume": "V Appendice",
+   "notes": "s.v. Museo"
+  },
+  {
+   "raw": "PRIMICERIO D. 1991, L'Italia dei musei. Indagine su un patrimonio sommerso, Milano, Electa.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Primicerio",
+     "given": "D."
+    }
+   ],
+   "type": "book",
+   "title": "L'Italia dei musei. Indagine su un patrimonio sommerso",
+   "place": "Milano",
+   "publisher": "Electa",
+   "language": "ita",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "RUVO C. 1995, La comunicazione multimediale nelle attività scientifiche e divulgative dei beni culturali, «Archeologia e Calcolatori», 6, 243-258.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Ruvo",
+     "given": "C."
+    }
+   ],
+   "type": "article",
+   "title": "La comunicazione multimediale nelle attività scientifiche e divulgative dei beni culturali",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "243-258",
+   "volume": "6",
+   "language": "ita",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "SERIO M. 1995, L'Italia leader del progetto pilota su musei e gallerie informatizzate, «Il Giornale dell'arte», aprile.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Serio",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "L'Italia leader del progetto pilota su musei e gallerie informatizzate",
+   "is_part_of": [
+    "Il Giornale dell'arte"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 16,
+   "issue": "aprile"
+  },
+  {
+   "raw": "Touring 1995, I musei in Italia: punti critici, responsabilità, proposte, I libri bianchi del Touring Club Italiano, Centro Studi TCI, 3, Milano.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Touring",
+     "given": ""
+    }
+   ],
+   "type": "book",
+   "title": "I musei in Italia: punti critici, responsabilità, proposte, I libri bianchi del Touring Club Italiano, Centro Studi TCI, 3",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high",
+   "position": 17,
+   "series": "I libri bianchi del Touring Club Italiano",
+   "series_number": "3",
+   "publisher": "Centro Studi TCI"
+  },
+  {
+   "raw": "VAMOS T. 1993, Epistemologia del computer, Milano, Sperling Kupfer.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Vamos",
+     "given": "T."
+    }
+   ],
+   "type": "book",
+   "title": "Epistemologia del computer",
+   "place": "Milano",
+   "publisher": "Sperling Kupfer",
+   "language": "ita",
+   "confidence": "high",
+   "position": 18
+  }
+ ]
+}

@@ -1,0 +1,418 @@
+{
+ "citing_aec_id": 374,
+ "source_file": "data/journal/15/374.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Barceló J., Forte M., Sanders D. (eds.) 2000, *Virtual Reality in Archaeology*, BAR International Series 843, Oxford, Archaeopress.",
+   "type": "book",
+   "date": "2000",
+   "title": "Virtual Reality in Archaeology",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D."
+    }
+   ],
+   "series": "BAR International Series",
+   "series_number": "843",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Barceló J. 2000, *Visualizing what might be: An introduction to virtual reality techniques in archaeology*, in Barceló, Forte, Sanders 2000, 9-35.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J."
+    }
+   ],
+   "date": "2000",
+   "title": "Visualizing what might be: An introduction to virtual reality techniques in archaeology",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "series": "BAR International Series",
+   "series_number": "843",
+   "pages": "9-35",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 1,
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Barchesi C., Moscati P., Santoro P., Scarpati D. 2003, *Ricerche archeologiche sul campo e archivi digitali: il manoscritto di Ercole Nardi*, «Archeologia e Calcolatori», 14, 245-273.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barchesi",
+     "given": "C."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Santoro",
+     "given": "P."
+    },
+    {
+     "family": "Scarpati",
+     "given": "D."
+    }
+   ],
+   "date": "2003",
+   "title": "Ricerche archeologiche sul campo e archivi digitali: il manoscritto di Ercole Nardi",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "14",
+   "pages": "245-273",
+   "language": "ita",
+   "cited_aec_id": 364,
+   "notes": "cited pages 245-273; in the AeC metadata the article is at pp. 295-325",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Colazzo D., Sartiani C., Albano A., Ghelli G., Manghi P., Lini L., Paoli M. 2002, *Atyped text retrieval query language for XML documents*, «Journal of American Society for Information Science and Technology», Special Topic Issue on XML and Information Retrieval, 53, 6, 467-488.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Colazzo",
+     "given": "D."
+    },
+    {
+     "family": "Sartiani",
+     "given": "C."
+    },
+    {
+     "family": "Albano",
+     "given": "A."
+    },
+    {
+     "family": "Ghelli",
+     "given": "G."
+    },
+    {
+     "family": "Manghi",
+     "given": "P."
+    },
+    {
+     "family": "Lini",
+     "given": "L."
+    },
+    {
+     "family": "Paoli",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "A typed text retrieval query language for XML documents",
+   "is_part_of": [
+    "Journal of American Society for Information Science and Technology"
+   ],
+   "volume": "53",
+   "issue": "6",
+   "pages": "467-488",
+   "language": "eng",
+   "notes": "OCR \"Atyped\" corrected; \"Special Topic Issue on XML and Information Retrieval\"",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Corti F., Paoli M., Sprugnoli R. 1998, *TReSy un motore di ricerca testuale per documenti strutturati*, «Bollettino d’Informazioni – Centro di Ricerche Informatiche per i Beni Culturali», 8, 1, 49-71.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Corti",
+     "given": "F."
+    },
+    {
+     "family": "Paoli",
+     "given": "M."
+    },
+    {
+     "family": "Sprugnoli",
+     "given": "R."
+    }
+   ],
+   "date": "1998",
+   "title": "TReSy un motore di ricerca testuale per documenti strutturati",
+   "is_part_of": [
+    "Bollettino d’Informazioni – Centro di Ricerche Informatiche per i Beni Culturali"
+   ],
+   "volume": "8",
+   "issue": "1",
+   "pages": "49-71",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Fernie K., Richards J. 2003, *Creating and Using Virtual Reality: A Guide for the Arts and Humanities*, Oxford, Oxbow Books.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fernie",
+     "given": "K."
+    },
+    {
+     "family": "Richards",
+     "given": "J."
+    }
+   ],
+   "date": "2003",
+   "title": "Creating and Using Virtual Reality: A Guide for the Arts and Humanities",
+   "publisher": "Oxbow Books",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Frischer B., Niccolucci F., Ryan N., Barcelò J. 2002, *From CVR to CVRO. The past, present, and future of cultural virtual reality*, in F. Niccolucci (ed.), *Proceedings of the VAST Euroconference (Arezzo 2000)*, BAR International Series 834, Oxford, Archaeopress, 7-18.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Frischer",
+     "given": "B."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Ryan",
+     "given": "N."
+    },
+    {
+     "family": "Barceló",
+     "given": "J."
+    }
+   ],
+   "date": "2002",
+   "title": "From CVR to CVRO. The past, present, and future of cultural virtual reality",
+   "editors": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the VAST Euroconference (Arezzo 2000)"
+   ],
+   "series": "BAR International Series",
+   "series_number": "834",
+   "pages": "7-18",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Frischer B. c.s., *Mission and recent projects of the UCLA Cultural Virtual Reality Laboratory*, in *Acts of Virtual Retrospect 2003 (Biarritz, France, 2003)* (http://www.cvrlab.org/research/images/FrischerVirtRetro2003.pdf), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Frischer",
+     "given": "B."
+    }
+   ],
+   "date": "2004",
+   "title": "Mission and recent projects of the UCLA Cultural Virtual Reality Laboratory",
+   "editors": [
+    {
+     "family": "Vergnieux",
+     "given": "R."
+    },
+    {
+     "family": "Delevoie",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "Actes du Colloque Virtual Retrospect 2003"
+   ],
+   "series": "Archéovision",
+   "series_number": "1",
+   "publisher": "Ausonius",
+   "place": "Bordeaux",
+   "uri": "http://www.cvrlab.org/research/images/FrischerVirtRetro2003.pdf",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://archaeologicalcomputing.cnr.it/itineraries/?p=1392"
+   },
+   "notes": "cited c.s. (Acts of Virtual Retrospect 2003, Biarritz); published Bordeaux 2004; pages not found",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Gardin J.C. 2003, *Archaeological discourse, conceptual modelling and digitalisation: an interim report of the logicist program*, in M. Doerr, A. Sarris (eds.) 2003, *CAA. The Digital Heritage of Archaeology, Heraklion*, Hellenic Ministry of Culture, 5-12.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.C."
+    }
+   ],
+   "date": "2003",
+   "title": "Archaeological discourse, conceptual modelling and digitalisation: an interim report of the logicist program",
+   "editors": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "CAA. The Digital Heritage of Archaeology, Heraklion"
+   ],
+   "pages": "5-12",
+   "publisher": "Hellenic Ministry of Culture",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Goodrick G., Earl G. 2004, *A manufactured past: virtual reality in archaeology*, «Internet Archaeology», 15 (http://intarch.ac.uk/journal/issue15/earl_toc.html).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Goodrick",
+     "given": "G."
+    },
+    {
+     "family": "Earl",
+     "given": "G."
+    }
+   ],
+   "date": "2004",
+   "title": "A manufactured past: virtual reality in archaeology",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "15",
+   "uri": "http://intarch.ac.uk/journal/issue15/earl_toc.html",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "McLuhan M. 1967, *The Medium is the Massage: An Inventory of Effects*, New York, Simon & Schuster.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "McLuhan",
+     "given": "M."
+    }
+   ],
+   "date": "1967",
+   "title": "The Medium is the Massage: An Inventory of Effects",
+   "publisher": "Simon & Schuster",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Moscati P. c.s., *Linguaggi di marcatura per la conservazione e la valorizzazione dell’informazione archeologica*, in *Atti del Convegno Internazionale Archivi informatici per il patrimonio culturale (Roma, Accademia Nazionale dei Lincei, 2003)*, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2006",
+   "title": "Linguaggi di marcatura per la conservazione e la valorizzazione dell’informazione archeologica",
+   "is_part_of": [
+    "Archivi informatici per il patrimonio culturale"
+   ],
+   "series": "Contributi del Centro Linceo Interdisciplinare Beniamino Segre",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "language": "ita",
+   "cs": {
+    "status": "resolved",
+    "source": "https://iris.cnr.it/handle/20.500.14243/13787"
+   },
+   "notes": "cited c.s. (Atti del Convegno Internazionale, Roma 2003); published 2006; editors and pages not found",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Ryan N. 2001, *Documenting and validating virtual archaeology*, «Archeologia e Calcolatori», 12, 245-273.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ryan",
+     "given": "N."
+    }
+   ],
+   "date": "2001",
+   "title": "Documenting and validating virtual archaeology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "245-273",
+   "language": "eng",
+   "cited_aec_id": 325,
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Sperberg-McQueen C.M., Burnard L. (eds.) 2002, *TEI P4: Guidelines for Electronic Text Encoding and Interchange, Text Encoding Initiative Consortium. XML Version*, Oxford, Providence, Charlottesville, Bergen.",
+   "type": "book",
+   "date": "2002",
+   "title": "TEI P4: Guidelines for Electronic Text Encoding and Interchange, Text Encoding Initiative Consortium. XML Version",
+   "editors": [
+    {
+     "family": "Sperberg-McQueen",
+     "given": "C.M."
+    },
+    {
+     "family": "Burnard",
+     "given": "L."
+    }
+   ],
+   "place": "Oxford, Providence, Charlottesville, Bergen",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

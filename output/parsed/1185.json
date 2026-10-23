@@ -1,0 +1,1039 @@
+{
+ "citing_aec_id": 1185,
+ "source_file": "data/journal/33/1185.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Adam J.P. 1988, *L'arte di costruire presso i romani. Materiali e tecniche*, Milano, Longanesi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Adam",
+     "given": "J.P."
+    }
+   ],
+   "date": "1988",
+   "title": "L'arte di costruire presso i romani. Materiali e tecniche",
+   "language": "ita",
+   "publisher": "Longanesi",
+   "place": "Milano",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Amaldi U. 2014, *Dalla mela di Newton al bosone di Higgs*, 5, *Induzione e onde elettromagnetiche. Relatività e quanti*, Bologna, Zanichelli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Amaldi",
+     "given": "U."
+    }
+   ],
+   "date": "2014",
+   "title": "Dalla mela di Newton al bosone di Higgs. Induzione e onde elettromagnetiche. Relatività e quanti",
+   "language": "ita",
+   "volume": "5",
+   "publisher": "Zanichelli",
+   "place": "Bologna",
+   "notes": "cited 'Dalla mela di Newton al bosone di Higgs, 5, Induzione e onde elettromagnetiche. Relatività e quanti': vol. 5 of the work",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Barceló J.A. 2001, *Virtual reality for archaeological explanation. Beyond \"picturesque\" reconstruction*, «Archeologia e Calcolatori», 12, 221-244 (http://www.archcalc.cnr.it/indice/PDF12/12Barcelo.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "2001",
+   "title": "Virtual reality for archaeological explanation. Beyond \"picturesque\" reconstruction",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "volume": "12",
+   "pages": "221-244",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF12/12Barcelo.pdf",
+   "cited_aec_id": 324,
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Boato A. 2008, *L'archeologia in architettura. Misurazioni, stratigrafie, datazioni, restauro*, Venezia, Marsilio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Boato",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "L'archeologia in architettura. Misurazioni, stratigrafie, datazioni, restauro",
+   "language": "ita",
+   "publisher": "Marsilio",
+   "place": "Venezia",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bogdani J., Fiorini A., Silani M., Zanfini M. 2007, *Esperienze di stereofotogrammetria archeologica*, «Ocnus», 15, 27-44.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Silani",
+     "given": "M."
+    },
+    {
+     "family": "Zanfini",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Esperienze di stereofotogrammetria archeologica",
+   "is_part_of": [
+    "Ocnus"
+   ],
+   "language": "ita",
+   "volume": "15",
+   "pages": "27-44",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Brogiolo G.P., Cagnana A. 2012, *Archeologia dell'architettura. Metodi e interpretazioni*, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    },
+    {
+     "family": "Cagnana",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Archeologia dell'architettura. Metodi e interpretazioni",
+   "language": "ita",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Cattani M., Fiorini A., Rondelli B. 2004, *Computer applications for a reconstruction of archaeological stratigraphy as a predictive model in urban and territorial contexts*, in K.F. Ausserer, W. Börner, M. Goriany, L. Karlhuber-Vöckl (eds.), *Enter the Past: The E-way into the Four Dimensions of Cultural Heritage. CAA 03 Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 31st Conference (Wien 2003)*, Oxford, BAR International Series 1227, Archaeopress, 299-303 (http://dx.doi.org/10.15496/publikation-3548).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Rondelli",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ausserer",
+     "given": "K.F."
+    },
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Goriany",
+     "given": "M."
+    },
+    {
+     "family": "Karlhuber-Vöckl",
+     "given": "L."
+    }
+   ],
+   "date": "2004",
+   "title": "Computer applications for a reconstruction of archaeological stratigraphy as a predictive model in urban and territorial contexts",
+   "is_part_of": [
+    "Enter the Past: The E-way into the Four Dimensions of Cultural Heritage. CAA 03 Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 31st Conference (Wien 2003)"
+   ],
+   "language": "eng",
+   "pages": "299-303",
+   "series": "BAR International Series",
+   "series_number": "1227",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "doi": "10.15496/publikation-3548",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Di Stefano F., Chiappini S., Gorreja A., Balestra M., Pierdicca R. 2021, *Mobile 3D scan LiDAR: A literature review*, «Geomatics, Natural Hazards and Risk», 12.1, 2387-2429 (https://www.tandfonline.com/doi/full/10.1080/19475705.2021.1964617).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Stefano",
+     "given": "F."
+    },
+    {
+     "family": "Chiappini",
+     "given": "S."
+    },
+    {
+     "family": "Gorreja",
+     "given": "A."
+    },
+    {
+     "family": "Balestra",
+     "given": "M."
+    },
+    {
+     "family": "Pierdicca",
+     "given": "R."
+    }
+   ],
+   "date": "2021",
+   "title": "Mobile 3D scan LiDAR: A literature review",
+   "is_part_of": [
+    "Geomatics, Natural Hazards and Risk"
+   ],
+   "language": "eng",
+   "volume": "12",
+   "issue": "1",
+   "pages": "2387-2429",
+   "uri": "https://www.tandfonline.com/doi/full/10.1080/19475705.2021.1964617",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Fiorini A. 2004, *Il trattamento informatico del dato tridimensionale in archeologia: dallo scanner 3D alla modellazione vettoriale*, in M. Cattani, A. Fiorini, N. Viggiani (eds.), *Nuove frontiere dell'archeologia: il trattamento del dato tridimensionale. Atti del Seminario (Ravenna 2004)*, Ravenna, Università degli Studi di Bologna, Dipartimento di Archeologia (CD-ROM).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Viggiani",
+     "given": "N."
+    }
+   ],
+   "date": "2004",
+   "title": "Il trattamento informatico del dato tridimensionale in archeologia: dallo scanner 3D alla modellazione vettoriale",
+   "is_part_of": [
+    "Nuove frontiere dell'archeologia: il trattamento del dato tridimensionale. Atti del Seminario (Ravenna 2004)"
+   ],
+   "language": "ita",
+   "publisher": "Università degli Studi di Bologna, Dipartimento di Archeologia",
+   "place": "Ravenna",
+   "notes": "CD-ROM",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Fiorini A. 2008, *Esperienze di fotomodellazione e stereofotogrammetria archeologica*, in Volpe, De Felice, Sibilano 2008, 175-186.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2008",
+   "title": "Esperienze di fotomodellazione e stereofotogrammetria archeologica",
+   "is_part_of": [
+    "L'informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008)"
+   ],
+   "language": "ita",
+   "pages": "175-186",
+   "xref": 34,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Fiorini A. 2009, *Rilievo archeologico mediante dispositivo scanner laser 3D. Verso una registrazione tridimensionale delle evidenze stratigrafiche: l'edificio 2 – magazzino – nel sito archeologico di Classe*, in D. Bartolucci, *Principi di laser scanning 3D. Hardware, metodologie applicative, esempi*, Palermo, Flaccovio, 100-105.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bartolucci",
+     "given": "D."
+    }
+   ],
+   "date": "2009",
+   "title": "Rilievo archeologico mediante dispositivo scanner laser 3D. Verso una registrazione tridimensionale delle evidenze stratigrafiche: l'edificio 2 – magazzino – nel sito archeologico di Classe",
+   "is_part_of": [
+    "Principi di laser scanning 3D. Hardware, metodologie applicative, esempi"
+   ],
+   "language": "ita",
+   "pages": "100-105",
+   "publisher": "Flaccovio",
+   "place": "Palermo",
+   "notes": "Bartolucci cited without '(ed.)': author of the volume, entered as editor of the container",
+   "confidence": "low"
+  },
+  {
+   "position": 12,
+   "raw": "Fiorini A. 2010, *La documentazione tridimensionale dello scavo archeologico nell'abitato dell'Età del Bronzo di Mursia, Pantelleria (TP)*, «IpoTESI di Preistoria», 3,2, 1-14 (https://doi.org/10.6092/issn.1974-7985/2135).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "La documentazione tridimensionale dello scavo archeologico nell'abitato dell'Età del Bronzo di Mursia, Pantelleria (TP)",
+   "is_part_of": [
+    "IpoTESI di Preistoria"
+   ],
+   "language": "ita",
+   "volume": "3",
+   "issue": "2",
+   "pages": "1-14",
+   "doi": "10.6092/issn.1974-7985/2135",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Fiorini A. (ed.) 2011, *Il castello di Sorrivoli (Roncofreddo, Forlì-Cesena). Storia e archeologia dell'architettura*, Bologna, Ante Quem.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "Il castello di Sorrivoli (Roncofreddo, Forlì-Cesena). Storia e archeologia dell'architettura",
+   "language": "ita",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Fiorini A. 2012, *Tablet PC, fotogrammetria e PDF 3D: strumenti per documentare l'archeologia*, in A. Curci, A. Fiorini (eds.), *Documentare l'archeologia 2.0. Atti del Workshop (Bologna 2012)*, «Archeologia e Calcolatori», 23, 213-227 (http://www.archcalc.cnr.it/indice/PDF23/13_Fiorini.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Curci",
+     "given": "A."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Tablet PC, fotogrammetria e PDF 3D: strumenti per documentare l'archeologia",
+   "is_part_of": [
+    "Documentare l'archeologia 2.0. Atti del Workshop (Bologna 2012)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "23",
+   "pages": "213-227",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF23/13_Fiorini.pdf",
+   "cited_aec_id": 619,
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Fiorini A. 2013, *Nuove possibilità della fotogrammetria. La documentazione archeologica del nuraghe di Tanca Manna (Nuoro)*, in A. Curci, A. Fiorini (eds.), *Documentare l'Archeologia 3.0. Atti del Workshop (Bologna 2013)*, «Archeologia e Calcolatori», 24, 341-354 (http://www.archcalc.cnr.it/indice/PDF24/18_Fiorini.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Curci",
+     "given": "A."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2013",
+   "title": "Nuove possibilità della fotogrammetria. La documentazione archeologica del nuraghe di Tanca Manna (Nuoro)",
+   "is_part_of": [
+    "Documentare l'Archeologia 3.0. Atti del Workshop (Bologna 2013)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "24",
+   "pages": "341-354",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF24/18_Fiorini.pdf",
+   "cited_aec_id": 678,
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Fiorini A. 2018, *Il metodo fotografico RTI (Reflectance Transformation Imaging) per la documentazione delle superfici archeologiche. L'applicazione ai materiali di età protostorica*, «Archeologia e Calcolatori», 29, 241-258 (https://doi.org/10.19282/ac.29.2018.20).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Il metodo fotografico RTI (Reflectance Transformation Imaging) per la documentazione delle superfici archeologiche. L'applicazione ai materiali di età protostorica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "29",
+   "pages": "241-258",
+   "doi": "10.19282/ac.29.2018.20",
+   "cited_aec_id": 1006,
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Fiorini A. 2019, *I castelli della Romagna. Indagini di Archeologia dell'architettura*, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "title": "I castelli della Romagna. Indagini di Archeologia dell'architettura",
+   "language": "ita",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Fiorini A., Archetti V. 2011, *Fotomodellazione e stereofotogrammetria per la creazione di modelli stratigrafici in archeologia dell'architettura*, «Archeologia e Calcolatori», 22, 199-216 (http://www.archcalc.cnr.it/indice/PDF22/AC_22_Fiorini_Archetti.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Archetti",
+     "given": "V."
+    }
+   ],
+   "date": "2011",
+   "title": "Fotomodellazione e stereofotogrammetria per la creazione di modelli stratigrafici in archeologia dell'architettura",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "22",
+   "pages": "199-216",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF22/AC_22_Fiorini_Archetti.pdf",
+   "cited_aec_id": 593,
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Fiorini A., Urcia A., Archetti V. 2011, *The digital 3D survey as standard documentation of the archaeological stratigraphy*, in M. Dellepiane, F. Niccolucci, S. Pena Serna, H. Rushmeier, L. Van Gool (eds.), *VAST 2011. The 12th International Symposium on Virtual Reality, Archaeology and Cultural Heritage (Prato 2011)*, Goslar (Germany), Eurographics Association, 145-152 (http://dx.doi.org/10.2312/VAST/VAST11/145-152).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Urcia",
+     "given": "A."
+    },
+    {
+     "family": "Archetti",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dellepiane",
+     "given": "M."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Pena Serna",
+     "given": "S."
+    },
+    {
+     "family": "Rushmeier",
+     "given": "H."
+    },
+    {
+     "family": "Van Gool",
+     "given": "L."
+    }
+   ],
+   "date": "2011",
+   "title": "The digital 3D survey as standard documentation of the archaeological stratigraphy",
+   "is_part_of": [
+    "VAST 2011. The 12th International Symposium on Virtual Reality, Archaeology and Cultural Heritage (Prato 2011)"
+   ],
+   "language": "eng",
+   "pages": "145-152",
+   "publisher": "Eurographics Association",
+   "place": "Goslar",
+   "doi": "10.2312/VAST/VAST11/145-152",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Gomarasca M.A. 2004, *Elementi di geomatica*, Firenze, AIT.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gomarasca",
+     "given": "M.A."
+    }
+   ],
+   "date": "2004",
+   "title": "Elementi di geomatica",
+   "language": "ita",
+   "publisher": "AIT",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Guerra L. 2010, *Sant'Antonio a Rimini: le chiese*, in S. De Carolis, L. Guerra, R. Menghi, *Sant'Antonio «da Rimino detto». Il Santo di Padova a Rimini: fede, miracoli e devozione*, Rimini, Guaraldi, 33-46.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guerra",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Carolis",
+     "given": "S."
+    },
+    {
+     "family": "Guerra",
+     "given": "L."
+    },
+    {
+     "family": "Menghi",
+     "given": "R."
+    }
+   ],
+   "date": "2010",
+   "title": "Sant'Antonio a Rimini: le chiese",
+   "is_part_of": [
+    "Sant'Antonio «da Rimino detto». Il Santo di Padova a Rimini: fede, miracoli e devozione"
+   ],
+   "language": "ita",
+   "pages": "33-46",
+   "publisher": "Guaraldi",
+   "place": "Rimini",
+   "notes": "S. De Carolis, L. Guerra, R. Menghi cited without '(eds.)': authors of the volume, entered as editors of the container",
+   "confidence": "low"
+  },
+  {
+   "position": 22,
+   "raw": "James M.R., Quinton J.N. 2014, *Ultra-rapid topographic surveying for complex environments: The hand-held mobile laser scanner (HMLS)*, «Earth Surface Processes and Landforms», 39,1, 138-142 (https://doi.org/10.1002/esp.3489).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "James",
+     "given": "M.R."
+    },
+    {
+     "family": "Quinton",
+     "given": "J.N."
+    }
+   ],
+   "date": "2014",
+   "title": "Ultra-rapid topographic surveying for complex environments: The hand-held mobile laser scanner (HMLS)",
+   "is_part_of": [
+    "Earth Surface Processes and Landforms"
+   ],
+   "language": "eng",
+   "volume": "39",
+   "issue": "1",
+   "pages": "138-142",
+   "doi": "10.1002/esp.3489",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Leonardi C. 2005, *Guida per le chiese di Urbania e Museo arcidiocesano*, Urbania, Fondazione Istituto Culturale e Sociale Arcidiocesano.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Leonardi",
+     "given": "C."
+    }
+   ],
+   "date": "2005",
+   "title": "Guida per le chiese di Urbania e Museo arcidiocesano",
+   "language": "ita",
+   "publisher": "Fondazione Istituto Culturale e Sociale Arcidiocesano",
+   "place": "Urbania",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Luetzenburg G., Kroon A., Bjørk A.A. 2021, *Evaluation of the Apple iPhone 12 Pro LiDAR for an Application in Geosciences*, «Scientific Reports», 11,1, 15.11.2021 (https://doi.org/10.1038/s41598-021-01763-9).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Luetzenburg",
+     "given": "G."
+    },
+    {
+     "family": "Kroon",
+     "given": "A."
+    },
+    {
+     "family": "Bjørk",
+     "given": "A.A."
+    }
+   ],
+   "date": "2021",
+   "title": "Evaluation of the Apple iPhone 12 Pro LiDAR for an Application in Geosciences",
+   "is_part_of": [
+    "Scientific Reports"
+   ],
+   "language": "eng",
+   "volume": "11",
+   "issue": "1",
+   "doi": "10.1038/s41598-021-01763-9",
+   "notes": "cited '15.11.2021' instead of pages (article date)",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Mannoni T. 2000, *I problemi dei laterizi altomedievali*, in S. Gelichi, P. Novara (eds.), *I laterizi nell'Alto Medioevo italiano*, Ravenna, Società di Studi ravennati, 213-221.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mannoni",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gelichi",
+     "given": "S."
+    },
+    {
+     "family": "Novara",
+     "given": "P."
+    }
+   ],
+   "date": "2000",
+   "title": "I problemi dei laterizi altomedievali",
+   "is_part_of": [
+    "I laterizi nell'Alto Medioevo italiano"
+   ],
+   "language": "ita",
+   "pages": "213-221",
+   "publisher": "Società di Studi ravennati",
+   "place": "Ravenna",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Mannoni T., Milanese M. 1988, *Mensiocronologia*, in R. Francovich, R. Parenti (eds.), *Archeologia e restauro dei monumenti*, Firenze, All'insegna del Giglio, 383-402.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mannoni",
+     "given": "T."
+    },
+    {
+     "family": "Milanese",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Parenti",
+     "given": "R."
+    }
+   ],
+   "date": "1988",
+   "title": "Mensiocronologia",
+   "is_part_of": [
+    "Archeologia e restauro dei monumenti"
+   ],
+   "language": "ita",
+   "pages": "383-402",
+   "publisher": "All'insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Maroni E. 2011, *Fasi edilizie*, in Fiorini 2011, 29-37.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Maroni",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "Fasi edilizie",
+   "is_part_of": [
+    "Il castello di Sorrivoli (Roncofreddo, Forlì-Cesena). Storia e archeologia dell'architettura"
+   ],
+   "language": "ita",
+   "pages": "29-37",
+   "xref": 13,
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Mazzini F. 1982, *I mattoni e le pietre di Urbino*, Urbino, Argalia.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mazzini",
+     "given": "F."
+    }
+   ],
+   "date": "1982",
+   "title": "I mattoni e le pietre di Urbino",
+   "language": "ita",
+   "publisher": "Argalia",
+   "place": "Urbino",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Medri M. 2003, *Manuale di rilievo archeologico*, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Manuale di rilievo archeologico",
+   "language": "ita",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Murtiyoso A., Grussenmeyer P., Landes T., Macher H. 2021, *First assessments into the use of commercial-grade solid state lidar for low cost heritage documentation*, in N. Paparoditis, C. Mallet, F. Lafarge, M.Y. Yang, A. Yilmaz, J.D. Wegner, F. Remondino, T. Fuse, I. Toschi (eds.), *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, Vol. XLIII-B2-2021, 599-604 (https://doi.org/10.5194/isprs-archives-XLIII-B2-2021-599-2021).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Murtiyoso",
+     "given": "A."
+    },
+    {
+     "family": "Grussenmeyer",
+     "given": "P."
+    },
+    {
+     "family": "Landes",
+     "given": "T."
+    },
+    {
+     "family": "Macher",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Paparoditis",
+     "given": "N."
+    },
+    {
+     "family": "Mallet",
+     "given": "C."
+    },
+    {
+     "family": "Lafarge",
+     "given": "F."
+    },
+    {
+     "family": "Yang",
+     "given": "M.Y."
+    },
+    {
+     "family": "Yilmaz",
+     "given": "A."
+    },
+    {
+     "family": "Wegner",
+     "given": "J.D."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Fuse",
+     "given": "T."
+    },
+    {
+     "family": "Toschi",
+     "given": "I."
+    }
+   ],
+   "date": "2021",
+   "title": "First assessments into the use of commercial-grade solid state lidar for low cost heritage documentation",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "language": "eng",
+   "volume": "XLIII-B2-2021",
+   "pages": "599-604",
+   "doi": "10.5194/isprs-archives-XLIII-B2-2021-599-2021",
+   "notes": "cited with the editors of the ISPRS volume",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Parenti R. 2000, s.v. *Architettura, archeologia della*, in R. Francovich, D. Manacorda (eds.), *Dizionario di archeologia. Temi, concetti e metodi*, Roma-Bari, Laterza, 39-43.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Parenti",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2000",
+   "title": "Architettura, archeologia della",
+   "is_part_of": [
+    "Dizionario di archeologia. Temi, concetti e metodi"
+   ],
+   "language": "ita",
+   "pages": "39-43",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "notes": "cited as 's.v.'",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Spreafico A., Chiabrando F., Giulio Tonolo F., Teppati Losè L. 2021a, *Apple iPad Pro: test e valutazioni metriche sul sensore LiDAR integrato*, in #AsitaAccademy2021 (evento online, 1-2-9-16-23 luglio 2021), 421-424 (http://atti.asita.it/ASITA2021/Pdf/067.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Spreafico",
+     "given": "A."
+    },
+    {
+     "family": "Chiabrando",
+     "given": "F."
+    },
+    {
+     "family": "Giulio Tonolo",
+     "given": "F."
+    },
+    {
+     "family": "Teppati Losè",
+     "given": "L."
+    }
+   ],
+   "date": "2021",
+   "title": "Apple iPad Pro: test e valutazioni metriche sul sensore LiDAR integrato",
+   "is_part_of": [
+    "#AsitaAccademy2021 (evento online, 1-2-9-16-23 luglio 2021)"
+   ],
+   "language": "ita",
+   "pages": "421-424",
+   "uri": "http://atti.asita.it/ASITA2021/Pdf/067.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Spreafico A., Chiabrando F., Giulio Tonolo F., Teppati Losè L. 2021b, *The iPad Pro built-in LiDAR sensor: 3D rapid mapping tests and quality assessment*, in N. Paparoditis, C. Mallet, F. Lafarge, M.Y. Yang, S. Hinz, R.Q. Feitosa, M. Weinmann, B. Jutzi (eds.), *The International Archives of the Photogrammetry. Remote Sensing and Spatial Information Sciences*, Vol. XLIII-B1-2021, 63-69 (https://doi.org/10.5194/isprs-archives-XLIII-B1-2021-63-2021).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Spreafico",
+     "given": "A."
+    },
+    {
+     "family": "Chiabrando",
+     "given": "F."
+    },
+    {
+     "family": "Giulio Tonolo",
+     "given": "F."
+    },
+    {
+     "family": "Teppati Losè",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Paparoditis",
+     "given": "N."
+    },
+    {
+     "family": "Mallet",
+     "given": "C."
+    },
+    {
+     "family": "Lafarge",
+     "given": "F."
+    },
+    {
+     "family": "Yang",
+     "given": "M.Y."
+    },
+    {
+     "family": "Hinz",
+     "given": "S."
+    },
+    {
+     "family": "Feitosa",
+     "given": "R.Q."
+    },
+    {
+     "family": "Weinmann",
+     "given": "M."
+    },
+    {
+     "family": "Jutzi",
+     "given": "B."
+    }
+   ],
+   "date": "2021",
+   "title": "The iPad Pro built-in LiDAR sensor: 3D rapid mapping tests and quality assessment",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "language": "eng",
+   "volume": "XLIII-B1-2021",
+   "pages": "63-69",
+   "doi": "10.5194/isprs-archives-XLIII-B1-2021-63-2021",
+   "notes": "cited with the editors of the ISPRS volume",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Volpe G., De Felice G., Sibilano M.G. (eds.) 2008, *L'informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008)*, Bari, Edipuglia.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2008",
+   "title": "L'informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008)",
+   "language": "ita",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Young J. 2011, *LiDAR For Dummies*, Hoboken, Wiley Publishing.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Young",
+     "given": "J."
+    }
+   ],
+   "date": "2011",
+   "title": "LiDAR For Dummies",
+   "language": "eng",
+   "publisher": "Wiley Publishing",
+   "place": "Hoboken",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,1099 @@
+{
+ "citing_aec_id": 411,
+ "source_file": "data/journal/16/411.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV. 1985, Archeologia e antiquaria a Chiusi nell’Ottocento, Milano, Electa.",
+   "type": "book",
+   "date": "1985",
+   "title": "Archeologia e antiquaria a Chiusi nell’Ottocento",
+   "language": "ita",
+   "publisher": "Electa",
+   "place": "Milano"
+  },
+  {
+   "position": 2,
+   "raw": "Barchesi C., Ceccarelli L. 2004, Linguaggi descrittivi per la ricerca archeologica, in P. Moscati (ed.), New Frontiers of Archaeological Research. Languages, Communication, Information Technology, «Archeologia e Calcolatori», 15, 95-113.",
+   "type": "article",
+   "date": "2004",
+   "title": "Linguaggi descrittivi per la ricerca archeologica",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Barchesi",
+     "given": "C."
+    },
+    {
+     "family": "Ceccarelli",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "15",
+   "pages": "95-113",
+   "cited_aec_id": 374,
+   "notes": "metadata title: \"Linguaggi dichiarativi per la ricerca archeologica\""
+  },
+  {
+   "position": 3,
+   "raw": "Baribeau R., Rioux M., Godin G. 1992, Recent advances in the use of a laser scanner in the examination of paintings, in V. Todd et al. (eds.), Proceedings of Restoration ’92 Conference (Amsterdam 1992), London, United Kingdom Institute for Conservation, 69-73.",
+   "type": "chapter",
+   "date": "1992",
+   "title": "Recent advances in the use of a laser scanner in the examination of paintings",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Baribeau",
+     "given": "R."
+    },
+    {
+     "family": "Rioux",
+     "given": "M."
+    },
+    {
+     "family": "Godin",
+     "given": "G."
+    }
+   ],
+   "publisher": "United Kingdom Institute for Conservation",
+   "place": "London",
+   "editors": [
+    {
+     "family": "Todd",
+     "given": "V."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of Restoration ’92 Conference (Amsterdam 1992)"
+   ],
+   "pages": "69-73",
+   "notes": "other editors (\"et al.\") not listed"
+  },
+  {
+   "position": 4,
+   "raw": "Beraldin J., Rioux M., Livingstone F.R., King L. 1993, Development of a real time laser scanning system for object recognition, inspection, and robot control, in Proceedings SPIE, Telemanipulator Technology and Space Telerobotics, Boston, 2057, 451-461.",
+   "type": "chapter",
+   "date": "1993",
+   "title": "Development of a real time laser scanning system for object recognition, inspection, and robot control",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Beraldin",
+     "given": "J."
+    },
+    {
+     "family": "Rioux",
+     "given": "M."
+    },
+    {
+     "family": "Livingstone",
+     "given": "F.R."
+    },
+    {
+     "family": "King",
+     "given": "L."
+    }
+   ],
+   "place": "Boston",
+   "is_part_of": [
+    "Proceedings SPIE, Telemanipulator Technology and Space Telerobotics"
+   ],
+   "pages": "451-461",
+   "volume": "2057"
+  },
+  {
+   "position": 5,
+   "raw": "Beraldin J.-A., Blais F., Cournoyer L., Godin G., Rioux M. 1998, Unione di ambienti virtuali con il nostro mondo reale attraverso immagini 3D digitali ad alta risoluzione di oggetti e strutture, Supplemento a «Paesaggio urbano», 4, 14-19.",
+   "type": "article",
+   "date": "1998",
+   "title": "Unione di ambienti virtuali con il nostro mondo reale attraverso immagini 3D digitali ad alta risoluzione di oggetti e strutture",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Beraldin",
+     "given": "J.-A."
+    },
+    {
+     "family": "Blais",
+     "given": "F."
+    },
+    {
+     "family": "Cournoyer",
+     "given": "L."
+    },
+    {
+     "family": "Godin",
+     "given": "G."
+    },
+    {
+     "family": "Rioux",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Paesaggio urbano"
+   ],
+   "volume": "4",
+   "pages": "14-19",
+   "notes": "Supplemento a «Paesaggio urbano»"
+  },
+  {
+   "position": 6,
+   "raw": "Bernardini F., Rushmeier H. 2002, The 3D model acquisition pipeline, «Computer Graphics Forum», 21.",
+   "type": "article",
+   "date": "2002",
+   "title": "The 3D model acquisition pipeline",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Bernardini",
+     "given": "F."
+    },
+    {
+     "family": "Rushmeier",
+     "given": "H."
+    }
+   ],
+   "is_part_of": [
+    "Computer Graphics Forum"
+   ],
+   "volume": "21"
+  },
+  {
+   "position": 7,
+   "raw": "Bertani D., Cetica M., Melozzi M., Pezzati L. 1994, Topografia ottica ad alta risoluzione di superfici di dipinti, in Atti del 3° Convegno Nazionale “Strumentazione e metodi di misura elettroottici” (Pavia 1994), Pavia, 269-273.",
+   "type": "chapter",
+   "date": "1994",
+   "title": "Topografia ottica ad alta risoluzione di superfici di dipinti",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Bertani",
+     "given": "D."
+    },
+    {
+     "family": "Cetica",
+     "given": "M."
+    },
+    {
+     "family": "Melozzi",
+     "given": "M."
+    },
+    {
+     "family": "Pezzati",
+     "given": "L."
+    }
+   ],
+   "place": "Pavia",
+   "is_part_of": [
+    "Atti del 3° Convegno Nazionale “Strumentazione e metodi di misura elettroottici” (Pavia 1994)"
+   ],
+   "pages": "269-273"
+  },
+  {
+   "position": 8,
+   "raw": "Biagi Maino D., Bruni S., Ciancabilla L., Ferriani S., Gandolfi G., Maino G., Visparelli D. 1999, Advances in digital image processing and archiving for works of art, in L. Bordoni (ed.), Proceedings of Workshop on Artificial Intelligence for the Cultural Heritage (Bologna 1999), Bologna, 109-119.",
+   "type": "chapter",
+   "date": "1999",
+   "title": "Advances in digital image processing and archiving for works of art",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Biagi Maino",
+     "given": "D."
+    },
+    {
+     "family": "Bruni",
+     "given": "S."
+    },
+    {
+     "family": "Ciancabilla",
+     "given": "L."
+    },
+    {
+     "family": "Ferriani",
+     "given": "S."
+    },
+    {
+     "family": "Gandolfi",
+     "given": "G."
+    },
+    {
+     "family": "Maino",
+     "given": "G."
+    },
+    {
+     "family": "Visparelli",
+     "given": "D."
+    }
+   ],
+   "place": "Bologna",
+   "editors": [
+    {
+     "family": "Bordoni",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of Workshop on Artificial Intelligence for the Cultural Heritage (Bologna 1999)"
+   ],
+   "pages": "109-119"
+  },
+  {
+   "position": 9,
+   "raw": "Bianchi Bandinelli R. 1925, Clusium, «Monumenti Antichi dei Lincei», 30, 223-374.",
+   "type": "article",
+   "date": "1925",
+   "title": "Clusium",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Bianchi Bandinelli",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Monumenti Antichi dei Lincei"
+   ],
+   "volume": "30",
+   "pages": "223-374"
+  },
+  {
+   "position": 10,
+   "raw": "Bitelli G. 2002, Moderne tecniche e strumentazioni per il rilievo dei beni culturali, in Geomatica e l’ambiente, il territorio e il patrimonio culturale. Atti della VI Conferenza Nazionale ASITA (Perugia 2002), Perugia, Maggioli, vol. 1, IX-XXIV.",
+   "type": "chapter",
+   "date": "2002",
+   "title": "Moderne tecniche e strumentazioni per il rilievo dei beni culturali",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Bitelli",
+     "given": "G."
+    }
+   ],
+   "publisher": "Maggioli",
+   "place": "Perugia",
+   "is_part_of": [
+    "Geomatica e l’ambiente, il territorio e il patrimonio culturale. Atti della VI Conferenza Nazionale ASITA (Perugia 2002)"
+   ],
+   "pages": "IX-XXIV",
+   "volume": "1"
+  },
+  {
+   "position": 11,
+   "raw": "Bitelli G., Capra A., Zanutta A. 2002, Digital photogrammetry and laser scanning in surveying the “Nymphaea” in Pompeii, in W. Boehler (ed.), Proceedings of the CIPA WG 6 International Workshop on Scanning for Cultural Heritage Recording (Corfù 2002), Thessaloniki, Publishing Ziti, 115-120.",
+   "type": "chapter",
+   "date": "2002",
+   "title": "Digital photogrammetry and laser scanning in surveying the “Nymphaea” in Pompeii",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Bitelli",
+     "given": "G."
+    },
+    {
+     "family": "Capra",
+     "given": "A."
+    },
+    {
+     "family": "Zanutta",
+     "given": "A."
+    }
+   ],
+   "publisher": "Publishing Ziti",
+   "place": "Thessaloniki",
+   "editors": [
+    {
+     "family": "Boehler",
+     "given": "W."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the CIPA WG 6 International Workshop on Scanning for Cultural Heritage Recording (Corfù 2002)"
+   ],
+   "pages": "115-120"
+  },
+  {
+   "position": 12,
+   "raw": "Boehler W., Marbs A. 2002, 3D scanning instruments, in Proceedings of the CIPA WG 6 International Workshop on Scanning for Cultural Heritage Recording (Corfù 2002), Thessaloniki, Publishing Ziti, 9-12.",
+   "type": "chapter",
+   "date": "2002",
+   "title": "3D scanning instruments",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Boehler",
+     "given": "W."
+    },
+    {
+     "family": "Marbs",
+     "given": "A."
+    }
+   ],
+   "publisher": "Publishing Ziti",
+   "place": "Thessaloniki",
+   "is_part_of": [
+    "Proceedings of the CIPA WG 6 International Workshop on Scanning for Cultural Heritage Recording (Corfù 2002)"
+   ],
+   "pages": "9-12"
+  },
+  {
+   "position": 13,
+   "raw": "Bornaz L., Lingua A., Rinaudo F. 2002, Il trattamento dei dati laser scanner nelle applicazioni terrestri, in Geomatica e l’ambiente, il territorio e il patrimonio culturale. Atti della VI Conferenza Nazionale ASITA (Perugia 2002), Perugia, Maggioli, 483-498.",
+   "type": "chapter",
+   "date": "2002",
+   "title": "Il trattamento dei dati laser scanner nelle applicazioni terrestri",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Bornaz",
+     "given": "L."
+    },
+    {
+     "family": "Lingua",
+     "given": "A."
+    },
+    {
+     "family": "Rinaudo",
+     "given": "F."
+    }
+   ],
+   "publisher": "Maggioli",
+   "place": "Perugia",
+   "is_part_of": [
+    "Geomatica e l’ambiente, il territorio e il patrimonio culturale. Atti della VI Conferenza Nazionale ASITA (Perugia 2002)"
+   ],
+   "pages": "483-498"
+  },
+  {
+   "position": 14,
+   "raw": "Callidus Precision Systems GmbH: http://www.callidus.de/.",
+   "type": "other",
+   "title": "Callidus Precision Systems GmbH",
+   "uri": "http://www.callidus.de/",
+   "language": "eng",
+   "notes": "web site; no date"
+  },
+  {
+   "position": 15,
+   "raw": "Callieri M., Cignoni P., Ganovelli F. et al. 2004, Visualization and 3D data processing in David’s restoration, in IEEE Computer Graphics & Applications, IEEE Comp. Soc., 24, 2, 16-21.",
+   "type": "article",
+   "date": "2004",
+   "title": "Visualization and 3D data processing in David’s restoration",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Callieri",
+     "given": "M."
+    },
+    {
+     "family": "Cignoni",
+     "given": "P."
+    },
+    {
+     "family": "Ganovelli",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "IEEE Computer Graphics & Applications"
+   ],
+   "volume": "24",
+   "issue": "2",
+   "pages": "16-21",
+   "publisher": "IEEE Comp. Soc.",
+   "notes": "other authors (\"et al.\") not listed"
+  },
+  {
+   "position": 16,
+   "raw": "Chang S., Roth G. 2003, Free-form surface reconstruction from multiple images, in 4th International Conference on 3-D Digital Imaging and Modelling, Banff, Alberta, Canada, 163-170.",
+   "type": "chapter",
+   "date": "2003",
+   "title": "Free-form surface reconstruction from multiple images",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Chang",
+     "given": "S."
+    },
+    {
+     "family": "Roth",
+     "given": "G."
+    }
+   ],
+   "place": "Banff, Alberta, Canada",
+   "is_part_of": [
+    "4th International Conference on 3-D Digital Imaging and Modelling"
+   ],
+   "pages": "163-170"
+  },
+  {
+   "position": 17,
+   "raw": "Cignoni P., Montani C., Scopigno R. 1998, A comparison of mesh simplification algorithms, «Computer&Graphics», 22, 1, 37-54.",
+   "type": "article",
+   "date": "1998",
+   "title": "A comparison of mesh simplification algorithms",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Cignoni",
+     "given": "P."
+    },
+    {
+     "family": "Montani",
+     "given": "C."
+    },
+    {
+     "family": "Scopigno",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Computers & Graphics"
+   ],
+   "volume": "22",
+   "issue": "1",
+   "pages": "37-54",
+   "notes": "cited as «Computer&Graphics»"
+  },
+  {
+   "position": 18,
+   "raw": "Colosi F., Gabrielli R., Mauriello P., Peloso D. 2003, Cerveteri: topografia della Vigna Parrocchiale II. Metodologie integrate per lo studio di un’area archeologica, «Archeologia e Calcolatori», 14, 177-197.",
+   "type": "article",
+   "date": "2003",
+   "title": "Cerveteri: topografia della Vigna Parrocchiale II. Metodologie integrate per lo studio di un’area archeologica",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Mauriello",
+     "given": "P."
+    },
+    {
+     "family": "Peloso",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "14",
+   "pages": "177-197",
+   "cited_aec_id": 359
+  },
+  {
+   "position": 19,
+   "raw": "Cripps P. 2004, Moving into the third dimension: Three-dimensional data capture and manipulation, «Archaeological Computing Newsletter», 61, 24-26.",
+   "type": "article",
+   "date": "2004",
+   "title": "Moving into the third dimension: Three-dimensional data capture and manipulation",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Cripps",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Archaeological Computing Newsletter"
+   ],
+   "volume": "61",
+   "pages": "24-26"
+  },
+  {
+   "position": 20,
+   "raw": "Curless B., Levoy M. 1996, A volumetric method for building complex models from range images, in Proceedings SIGGRAPH ’96, ACM SIGGRAPH, 303-312.",
+   "type": "chapter",
+   "date": "1996",
+   "title": "A volumetric method for building complex models from range images",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Curless",
+     "given": "B."
+    },
+    {
+     "family": "Levoy",
+     "given": "M."
+    }
+   ],
+   "publisher": "ACM SIGGRAPH",
+   "is_part_of": [
+    "Proceedings SIGGRAPH ’96"
+   ],
+   "pages": "303-312"
+  },
+  {
+   "position": 21,
+   "raw": "Drap P., Grussenmeyer B., Gaillard G. 2001, Simple photogrammetric methods with Arpenteur. 3-D plotting and orthoimage generation, in XVIII CIPA International Symposium (Potsdam 2001), CIPA Heritage Documentation, 34, Part 5/c7, 47-54.",
+   "type": "chapter",
+   "date": "2001",
+   "title": "Simple photogrammetric methods with Arpenteur. 3-D plotting and orthoimage generation",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Drap",
+     "given": "P."
+    },
+    {
+     "family": "Grussenmeyer",
+     "given": "B."
+    },
+    {
+     "family": "Gaillard",
+     "given": "G."
+    }
+   ],
+   "publisher": "CIPA Heritage Documentation",
+   "is_part_of": [
+    "XVIII CIPA International Symposium (Potsdam 2001)"
+   ],
+   "pages": "47-54",
+   "volume": "34",
+   "issue": "Part 5/c7"
+  },
+  {
+   "position": 22,
+   "raw": "Drap P., Grussenmeyer B., Curtinot P.Y., Seinturier J., Gaillard G. 2004, Presentation of the Web based Arpenteur tools: Towards a photogrammetry based heritage information system, in XXth ISPRS Congress (Istanbul 2004), Istanbul, IAPRS, 35, 123-128.",
+   "type": "chapter",
+   "date": "2004",
+   "title": "Presentation of the Web based Arpenteur tools: Towards a photogrammetry based heritage information system",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Drap",
+     "given": "P."
+    },
+    {
+     "family": "Grussenmeyer",
+     "given": "B."
+    },
+    {
+     "family": "Curtinot",
+     "given": "P.Y."
+    },
+    {
+     "family": "Seinturier",
+     "given": "J."
+    },
+    {
+     "family": "Gaillard",
+     "given": "G."
+    }
+   ],
+   "publisher": "IAPRS",
+   "place": "Istanbul",
+   "is_part_of": [
+    "XXth ISPRS Congress (Istanbul 2004)"
+   ],
+   "pages": "123-128",
+   "volume": "35"
+  },
+  {
+   "position": 23,
+   "raw": "Gabrielli R., Peloso D. 2004, Tecniche laser scanner per il rilievo dei Beni Culturali, «GEOmedia-Rivista italiana di Geomatica», 03, 28-32.",
+   "type": "article",
+   "date": "2004",
+   "title": "Tecniche laser scanner per il rilievo dei Beni Culturali",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Peloso",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "GEOmedia-Rivista italiana di Geomatica"
+   ],
+   "volume": "03",
+   "pages": "28-32"
+  },
+  {
+   "position": 24,
+   "raw": "Godin G., Cournoyer L., Domey J., Taylor J. 2000, Three-dimensional recording of objects and sites using laser range imaging, «Quaderni del Centro di Ricerche Informatiche per i Beni Culturali della Scuola Normale Superiore di Pisa», 10, 139-150.",
+   "type": "article",
+   "date": "2000",
+   "title": "Three-dimensional recording of objects and sites using laser range imaging",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Godin",
+     "given": "G."
+    },
+    {
+     "family": "Cournoyer",
+     "given": "L."
+    },
+    {
+     "family": "Domey",
+     "given": "J."
+    },
+    {
+     "family": "Taylor",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "Quaderni del Centro di Ricerche Informatiche per i Beni Culturali della Scuola Normale Superiore di Pisa"
+   ],
+   "volume": "10",
+   "pages": "139-150"
+  },
+  {
+   "position": 25,
+   "raw": "Greco E. 1981, Magna Grecia, Roma-Bari, Laterza, 104-110.",
+   "type": "book",
+   "date": "1981",
+   "title": "Magna Grecia",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Greco",
+     "given": "E."
+    }
+   ],
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "pages": "104-110"
+  },
+  {
+   "position": 26,
+   "raw": "Greco E. 1992, Archeologia della Magna Grecia, Roma-Bari, Laterza, 46-47, 272.",
+   "type": "book",
+   "date": "1992",
+   "title": "Archeologia della Magna Grecia",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Greco",
+     "given": "E."
+    }
+   ],
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "pages": "46-47, 272"
+  },
+  {
+   "position": 27,
+   "raw": "Inokuchi S., Sato K., Matsuda F. 1984, Range-imaging system for 3D object recognition, in Proceedings of the 7th International Conference on Pattern Recognition (Montreal 1984), 806-808.",
+   "type": "chapter",
+   "date": "1984",
+   "title": "Range-imaging system for 3D object recognition",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Inokuchi",
+     "given": "S."
+    },
+    {
+     "family": "Sato",
+     "given": "K."
+    },
+    {
+     "family": "Matsuda",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the 7th International Conference on Pattern Recognition (Montreal 1984)"
+   ],
+   "pages": "806-808"
+  },
+  {
+   "position": 28,
+   "raw": "Levoy M., Pulli K., Curless B., Rusinkiewicz S. et.al. 2000, The Digital Michelangelo Project: 3D scanning of large statues, in Proceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques (Ottawa 2000), New York, ACM Press, 131-144.",
+   "type": "chapter",
+   "date": "2000",
+   "title": "The Digital Michelangelo Project: 3D scanning of large statues",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Levoy",
+     "given": "M."
+    },
+    {
+     "family": "Pulli",
+     "given": "K."
+    },
+    {
+     "family": "Curless",
+     "given": "B."
+    },
+    {
+     "family": "Rusinkiewicz",
+     "given": "S."
+    }
+   ],
+   "publisher": "ACM Press",
+   "place": "New York",
+   "is_part_of": [
+    "Proceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques (Ottawa 2000)"
+   ],
+   "pages": "131-144",
+   "notes": "\"et al.\" authors not listed"
+  },
+  {
+   "position": 29,
+   "raw": "Lingua A., Rinaudo F. 2001, Valutazione della qualità metrica dei dati acquisiti mediante laser scanner terrestre, in Atti della V Conferenza Nazionale ASITA (Rimini 2001), 2, 291-292.",
+   "type": "chapter",
+   "date": "2001",
+   "title": "Valutazione della qualità metrica dei dati acquisiti mediante laser scanner terrestre",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Lingua",
+     "given": "A."
+    },
+    {
+     "family": "Rinaudo",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Atti della V Conferenza Nazionale ASITA (Rimini 2001)"
+   ],
+   "pages": "291-292",
+   "volume": "2"
+  },
+  {
+   "position": 30,
+   "raw": "Lohr U. 1996, Surveying single objects with a laser scanner, «GIM-Geomatics Info Magazine», 10, 9, 6-7.",
+   "type": "article",
+   "date": "1996",
+   "title": "Surveying single objects with a laser scanner",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Lohr",
+     "given": "U."
+    }
+   ],
+   "is_part_of": [
+    "GIM-Geomatics Info Magazine"
+   ],
+   "volume": "10",
+   "issue": "9",
+   "pages": "6-7"
+  },
+  {
+   "position": 31,
+   "raw": "Martin R. 1965, Manuel d’architecture grecque, I, Materiaux et tecniques, Paris, 297-306.",
+   "type": "book",
+   "date": "1965",
+   "title": "Manuel d’architecture grecque. Matériaux et techniques",
+   "language": "fre",
+   "creators": [
+    {
+     "family": "Martin",
+     "given": "R."
+    }
+   ],
+   "place": "Paris",
+   "volume": "I",
+   "pages": "297-306",
+   "notes": "cited \"Manuel d’architecture grecque, I, Materiaux et tecniques\""
+  },
+  {
+   "position": 32,
+   "raw": "Mertens D. 1996, L’architettura del mondo greco in Occidente, in G. Pugliese Carratelli (ed.), I Greci in Occidente, Catalogo della Mostra, Milano, 315-346.",
+   "type": "chapter",
+   "date": "1996",
+   "title": "L’architettura del mondo greco in Occidente",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Mertens",
+     "given": "D."
+    }
+   ],
+   "place": "Milano",
+   "editors": [
+    {
+     "family": "Pugliese Carratelli",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "I Greci in Occidente, Catalogo della Mostra"
+   ],
+   "pages": "315-346"
+  },
+  {
+   "position": 33,
+   "raw": "Ng K.C., Sequeira V., Butterfield S., Hogg D.C., Gonçalves J.G.M. 1998, An integrated multisensory system for photo-realistic 3D scene reconstruction, in Proceedings of the ISPRS (Int. Society for Photogrammetry and Remote Sensing), International Symposium on Real-Time Imaging and Dynamic Analysis (Hakodate 1998), 356-363.",
+   "type": "chapter",
+   "date": "1998",
+   "title": "An integrated multisensory system for photo-realistic 3D scene reconstruction",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Ng",
+     "given": "K.C."
+    },
+    {
+     "family": "Sequeira",
+     "given": "V."
+    },
+    {
+     "family": "Butterfield",
+     "given": "S."
+    },
+    {
+     "family": "Hogg",
+     "given": "D.C."
+    },
+    {
+     "family": "Gonçalves",
+     "given": "J.G.M."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the ISPRS (Int. Society for Photogrammetry and Remote Sensing), International Symposium on Real-Time Imaging and Dynamic Analysis (Hakodate 1998)"
+   ],
+   "pages": "356-363"
+  },
+  {
+   "position": 34,
+   "raw": "Ravelli M. 2003, Tecniche integrate laser scanner e fotogrammetriche per il rilevamento e la rappresentazione di architetture storiche, Tesi di Laurea, Università degli Studi di Brescia, Facoltà di Ingegneria Corso di Laurea in Ingegneria Civile.",
+   "type": "thesis",
+   "date": "2003",
+   "title": "Tecniche integrate laser scanner e fotogrammetriche per il rilevamento e la rappresentazione di architetture storiche",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Ravelli",
+     "given": "M."
+    }
+   ],
+   "publisher": "Università degli Studi di Brescia, Facoltà di Ingegneria Corso di Laurea in Ingegneria Civile",
+   "place": "Brescia",
+   "notes": "Tesi di Laurea; place inferred from the university"
+  },
+  {
+   "position": 35,
+   "raw": "Rioux M., Beraldin J.-A., Blais F., Godin G., Cournoyer L. 1997, High resolution digital 3-D imaging of large structures, in Three-Dimensional Image Capture. SPIE Proceedings (San Jose 1997), 3023, 109-118.",
+   "type": "chapter",
+   "date": "1997",
+   "title": "High resolution digital 3-D imaging of large structures",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Rioux",
+     "given": "M."
+    },
+    {
+     "family": "Beraldin",
+     "given": "J.-A."
+    },
+    {
+     "family": "Blais",
+     "given": "F."
+    },
+    {
+     "family": "Godin",
+     "given": "G."
+    },
+    {
+     "family": "Cournoyer",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Three-Dimensional Image Capture. SPIE Proceedings (San Jose 1997)"
+   ],
+   "pages": "109-118",
+   "volume": "3023"
+  },
+  {
+   "position": 36,
+   "raw": "Rocchini C., Cignoni P., Montani C., Scopigno R. 1999, Multiple textures stitching and blending on 3D objects, in G. Ward, D. Lischinsky (eds.), 10th Eurographic Workshop on Rendering (Granada 1999), Granada, 127-138.",
+   "type": "chapter",
+   "date": "1999",
+   "title": "Multiple textures stitching and blending on 3D objects",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Rocchini",
+     "given": "C."
+    },
+    {
+     "family": "Cignoni",
+     "given": "P."
+    },
+    {
+     "family": "Montani",
+     "given": "C."
+    },
+    {
+     "family": "Scopigno",
+     "given": "R."
+    }
+   ],
+   "place": "Granada",
+   "editors": [
+    {
+     "family": "Ward",
+     "given": "G."
+    },
+    {
+     "family": "Lischinsky",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "10th Eurographic Workshop on Rendering (Granada 1999)"
+   ],
+   "pages": "127-138"
+  },
+  {
+   "position": 37,
+   "raw": "Sgrenzaroli M., Wolfart E. 2002, Accurate texture-mapped 3D models for documentation survey and presentation representation purposes, in Proceeding of the CIPA WG 6 on Scanning of Cultural Heritage Recording (Corfù 2002), 148-155.",
+   "type": "chapter",
+   "date": "2002",
+   "title": "Accurate texture-mapped 3D models for documentation survey and presentation representation purposes",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Sgrenzaroli",
+     "given": "M."
+    },
+    {
+     "family": "Wolfart",
+     "given": "E."
+    }
+   ],
+   "is_part_of": [
+    "Proceeding of the CIPA WG 6 on Scanning of Cultural Heritage Recording (Corfù 2002)"
+   ],
+   "pages": "148-155"
+  },
+  {
+   "position": 38,
+   "raw": "Soucy M., Godin G., Baribeau R., Blais F., Rioux M. 1996a, Sensors and algorithms for the construction of digital 3-D colour models of real objects, in Proceedings of the IEEE ICIP (Lausanne 1996), 2, 409-412.",
+   "type": "chapter",
+   "date": "1996",
+   "title": "Sensors and algorithms for the construction of digital 3-D colour models of real objects",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Soucy",
+     "given": "M."
+    },
+    {
+     "family": "Godin",
+     "given": "G."
+    },
+    {
+     "family": "Baribeau",
+     "given": "R."
+    },
+    {
+     "family": "Blais",
+     "given": "F."
+    },
+    {
+     "family": "Rioux",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the IEEE ICIP (Lausanne 1996)"
+   ],
+   "pages": "409-412",
+   "volume": "2"
+  },
+  {
+   "position": 39,
+   "raw": "Soucy M., Godin G., Rioux M. 1996b, A texture-mapping approach for the compression of colored 3D triangulations, «The Visual Computer», 12, 503-514.",
+   "type": "article",
+   "date": "1996",
+   "title": "A texture-mapping approach for the compression of colored 3D triangulations",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Soucy",
+     "given": "M."
+    },
+    {
+     "family": "Godin",
+     "given": "G."
+    },
+    {
+     "family": "Rioux",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "The Visual Computer"
+   ],
+   "volume": "12",
+   "pages": "503-514"
+  },
+  {
+   "position": 40,
+   "raw": "Van den Heuvel F.A. 1998, 3D reconstruction from a single image using geometric constraints, «ISPRS Journal of Photogrammetry and Remote Sensing», 53, 6, 354-368.",
+   "type": "article",
+   "date": "1998",
+   "title": "3D reconstruction from a single image using geometric constraints",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Van den Heuvel",
+     "given": "F.A."
+    }
+   ],
+   "is_part_of": [
+    "ISPRS Journal of Photogrammetry and Remote Sensing"
+   ],
+   "volume": "53",
+   "issue": "6",
+   "pages": "354-368"
+  },
+  {
+   "position": 41,
+   "raw": "Velios A., Harrison J.P. 2002, Laser scanning and digital close range photogrammetry for capturing 3-D archaeological objects: A comparison of quality and practicality, in G. Burenhult (ed.), Archaeological Informatics: Pushing the Envelope, CAA 2001, BAR International Series 1016, Oxford, Archaeopress, 205-211.",
+   "type": "chapter",
+   "date": "2002",
+   "title": "Laser scanning and digital close range photogrammetry for capturing 3-D archaeological objects: A comparison of quality and practicality",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Velios",
+     "given": "A."
+    },
+    {
+     "family": "Harrison",
+     "given": "J.P."
+    }
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Archaeological Informatics: Pushing the Envelope, CAA 2001"
+   ],
+   "pages": "205-211",
+   "series": "BAR International Series",
+   "series_number": "1016"
+  }
+ ]
+}

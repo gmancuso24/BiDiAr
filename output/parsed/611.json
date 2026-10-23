@@ -1,0 +1,648 @@
+{
+ "citing_aec_id": 611,
+ "source_file": "data/journal/23/611.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Alföldy G. 1973, Flamines Provinciae Hispaniae Citerioris, «Anejos de Archivo Español de Arqueología», 6.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Alföldy",
+     "given": "G."
+    }
+   ],
+   "date": "1973",
+   "title": "Flamines Provinciae Hispaniae Citerioris",
+   "series": "Anejos de Archivo Español de Arqueología",
+   "series_number": "6"
+  },
+  {
+   "position": 2,
+   "raw": "Bessac J.C. 1986, L’outillage traditionnel du tailleur de pierre de l’Antiquité à nos jours, in «Revue archéologique de Narbonnaise», Suppl. 14.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bessac",
+     "given": "J.C."
+    }
+   ],
+   "date": "1986",
+   "title": "L'outillage traditionnel du tailleur de pierre de l'Antiquité à nos jours",
+   "series": "Revue archéologique de Narbonnaise",
+   "series_number": "Suppl. 14",
+   "language": "fre",
+   "notes": "cited 'in «Revue archéologique de Narbonnaise», Suppl. 14': a supplement monograph, recorded as a book in series"
+  },
+  {
+   "position": 3,
+   "raw": "Burnett A., Amandry M., Pau P. 1992, Roman Provincial Coinage I. From the Death of Caesar to the Death of Vitellius (44 BC - AD 69), London, British Museum.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Burnett",
+     "given": "A."
+    },
+    {
+     "family": "Amandry",
+     "given": "M."
+    },
+    {
+     "family": "Pau",
+     "given": "P."
+    }
+   ],
+   "date": "1992",
+   "title": "Roman Provincial Coinage I. From the Death of Caesar to the Death of Vitellius (44 BC - AD 69)",
+   "place": "London",
+   "publisher": "British Museum",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Dupré X. 1987, Forum Provinciae Hispaniae Citerioris, in Los foros romanos de las provincias occidentales, Madrid, Ministerio de Cultura.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dupré",
+     "given": "X."
+    }
+   ],
+   "date": "1987",
+   "title": "Forum Provinciae Hispaniae Citerioris",
+   "is_part_of": [
+    "Los foros romanos de las provincias occidentales"
+   ],
+   "place": "Madrid",
+   "publisher": "Ministerio de Cultura",
+   "language": "spa",
+   "notes": "no editors, no pages in the citation"
+  },
+  {
+   "position": 5,
+   "raw": "Dupré X., Subias E. 1993, Els precedents de l’anomenat Pretori de Tarragona, in J. Padró, M. Prevosti, M. Roca, J. Sanmartí (eds.), Estudis Universitaris Catalans. Homenatge a Miquel Tarradell, Barcelona, Curial Edicions Catalanes, 603-609.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dupré",
+     "given": "X."
+    },
+    {
+     "family": "Subias",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Padró",
+     "given": "J."
+    },
+    {
+     "family": "Prevosti",
+     "given": "M."
+    },
+    {
+     "family": "Roca",
+     "given": "M."
+    },
+    {
+     "family": "Sanmartí",
+     "given": "J."
+    }
+   ],
+   "date": "1993",
+   "title": "Els precedents de l'anomenat Pretori de Tarragona",
+   "is_part_of": [
+    "Estudis Universitaris Catalans. Homenatge a Miquel Tarradell"
+   ],
+   "pages": "603-609",
+   "place": "Barcelona",
+   "publisher": "Curial Edicions Catalanes",
+   "language": "cat"
+  },
+  {
+   "position": 6,
+   "raw": "Florez E. 1769, España Sagrada: Antigüedades tarraconenses, preliminar a las memorias eclesiásticas de la santa Iglesia de Tarragona, Madrid.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Florez",
+     "given": "E."
+    }
+   ],
+   "date": "1769",
+   "title": "España Sagrada: Antigüedades tarraconenses, preliminar a las memorias eclesiásticas de la santa Iglesia de Tarragona",
+   "place": "Madrid",
+   "language": "spa"
+  },
+  {
+   "position": 7,
+   "raw": "Gutiérrez A. 2009, Roman Quarries in the Northeast of Hispania (Modern Catalonia), Tarragona, Institut Català d’Arqueologia Clàssica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gutiérrez",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "Roman Quarries in the Northeast of Hispania (Modern Catalonia)",
+   "place": "Tarragona",
+   "publisher": "Institut Català d'Arqueologia Clàssica",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Hernández Sanahuja B. 1892, Historia de Tarragona: desde los más remotos tiempos hasta la época de la restauración cristiana, Tarragona, Est. Tip. de Adolfo Alegret.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hernández Sanahuja",
+     "given": "B."
+    }
+   ],
+   "date": "1892",
+   "title": "Historia de Tarragona: desde los más remotos tiempos hasta la época de la restauración cristiana",
+   "place": "Tarragona",
+   "publisher": "Est. Tip. de Adolfo Alegret",
+   "language": "spa"
+  },
+  {
+   "position": 9,
+   "raw": "Hauschild Th. 1983, Arquitectura romana de Tarragona, Tarragona.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hauschild",
+     "given": "Th."
+    }
+   ],
+   "date": "1983",
+   "title": "Arquitectura romana de Tarragona",
+   "place": "Tarragona",
+   "language": "spa"
+  },
+  {
+   "position": 10,
+   "raw": "Koppel E. 1990, Relieves arquitectónicos de Tarragona, in W. Trillmich, P. Zanker (eds.), Stadtbild und Ideologie: Die Monumentalisierung hispanischer Städte zwischen Republik und Kaiserzeit. Kolloquium in Madrid 1987, München, Bayerischen Akademie der Wissenschaften, 327-340.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Koppel",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Trillmich",
+     "given": "W."
+    },
+    {
+     "family": "Zanker",
+     "given": "P."
+    }
+   ],
+   "date": "1990",
+   "title": "Relieves arquitectónicos de Tarragona",
+   "is_part_of": [
+    "Stadtbild und Ideologie: Die Monumentalisierung hispanischer Städte zwischen Republik und Kaiserzeit. Kolloquium in Madrid 1987"
+   ],
+   "pages": "327-340",
+   "place": "München",
+   "publisher": "Bayerischen Akademie der Wissenschaften",
+   "language": "spa"
+  },
+  {
+   "position": 11,
+   "raw": "Macias J.M., Fiz I., Piñol Ll., Miró M.T., Guitart J. (eds.) 2007, Planimetria arqueologica de Tarraco, Tarragona, Institut Català d’Arqueologia Clàssica.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Macias",
+     "given": "J.M."
+    },
+    {
+     "family": "Fiz",
+     "given": "I."
+    },
+    {
+     "family": "Piñol",
+     "given": "Ll."
+    },
+    {
+     "family": "Miró",
+     "given": "M.T."
+    },
+    {
+     "family": "Guitart",
+     "given": "J."
+    }
+   ],
+   "date": "2007",
+   "title": "Planimetria arqueologica de Tarraco",
+   "place": "Tarragona",
+   "publisher": "Institut Català d'Arqueologia Clàssica"
+  },
+  {
+   "position": 12,
+   "raw": "Macias J.M., Muñoz A., Teixell I., Menchon 2011, Nuevos elementos escultóricos del recinto de culto del Concilium Provinciae Hispaniae Citerioris (Tarraco, Hispania Citerior), in T. Nogales, I. Rodà (eds.), XI Coloquio Internacional de Arte Romano Provincial. Roma y las provincias: modelo y difusión, Roma, L’Erma di Bretschneider, 877-886.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Macias",
+     "given": "J.M."
+    },
+    {
+     "family": "Muñoz",
+     "given": "A."
+    },
+    {
+     "family": "Teixell",
+     "given": "I."
+    },
+    {
+     "family": "Menchon",
+     "given": ""
+    }
+   ],
+   "editors": [
+    {
+     "family": "Nogales",
+     "given": "T."
+    },
+    {
+     "family": "Rodà",
+     "given": "I."
+    }
+   ],
+   "date": "2011",
+   "title": "Nuevos elementos escultóricos del recinto de culto del Concilium Provinciae Hispaniae Citerioris (Tarraco, Hispania Citerior)",
+   "is_part_of": [
+    "XI Coloquio Internacional de Arte Romano Provincial. Roma y las provincias: modelo y difusión"
+   ],
+   "pages": "877-886",
+   "place": "Roma",
+   "publisher": "L'Erma di Bretschneider",
+   "language": "spa",
+   "notes": "fourth author cited as 'Menchon' without initial"
+  },
+  {
+   "position": 13,
+   "raw": "Mannoni T., Boato A. 2002, Archeologia e storia del cantiere di costruzione, in «Arqueología de la Arquitectura», 1, 39-53.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mannoni",
+     "given": "T."
+    },
+    {
+     "family": "Boato",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Archeologia e storia del cantiere di costruzione",
+   "is_part_of": [
+    "Arqueología de la Arquitectura"
+   ],
+   "volume": "1",
+   "pages": "39-53",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "Pensabene P. 1993, La decorazione architettonica dei monumenti provinciali di Tarraco, in R. Mar (ed.), Els monuments provincials de Tarraco. Noves aportacions al seu coneixement, Tarragona, Universitat Rovira i Virgili, 33-105.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pensabene",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Mar",
+     "given": "R."
+    }
+   ],
+   "date": "1993",
+   "title": "La decorazione architettonica dei monumenti provinciali di Tarraco",
+   "is_part_of": [
+    "Els monuments provincials de Tarraco. Noves aportacions al seu coneixement"
+   ],
+   "pages": "33-105",
+   "place": "Tarragona",
+   "publisher": "Universitat Rovira i Virgili",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Pensabene P., Mar R. 2004, Dos frisos marmóreos en la Acrópolis de Tarraco. El templo de Augusto y el complejo provincial de culto imperial, in Simulacra Romae: Roma y las capitales provinciales del Occidente Europeo, Tarragona, Consorcio Urbium Hispaniae Romanae, 73-86.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pensabene",
+     "given": "P."
+    },
+    {
+     "family": "Mar",
+     "given": "R."
+    }
+   ],
+   "date": "2004",
+   "title": "Dos frisos marmóreos en la Acrópolis de Tarraco. El templo de Augusto y el complejo provincial de culto imperial",
+   "is_part_of": [
+    "Simulacra Romae: Roma y las capitales provinciales del Occidente Europeo"
+   ],
+   "pages": "73-86",
+   "place": "Tarragona",
+   "publisher": "Consorcio Urbium Hispaniae Romanae",
+   "language": "spa",
+   "notes": "no editors in the citation"
+  },
+  {
+   "position": 16,
+   "raw": "Pensabene P., Mar R. 2010, Il tempio di Augusto a Tarraco. Gigantismo e marmo lunense nei luoghi di culto imperiale in Hispania e Gallia, «Archeologia Classica», 61, 11, 243-308.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pensabene",
+     "given": "P."
+    },
+    {
+     "family": "Mar",
+     "given": "R."
+    }
+   ],
+   "date": "2010",
+   "title": "Il tempio di Augusto a Tarraco. Gigantismo e marmo lunense nei luoghi di culto imperiale in Hispania e Gallia",
+   "is_part_of": [
+    "Archeologia Classica"
+   ],
+   "volume": "61",
+   "issue": "11",
+   "pages": "243-308",
+   "language": "ita",
+   "notes": "cited '61, 11'"
+  },
+  {
+   "position": 17,
+   "raw": "Piñol Ll. 2000, Voltes del Pretori (c. Enrajolat i Casa dels Militars), in R. Cortés, O. Curulla (eds.), Intervencions arqueològiques a Tarragona i entorn (1993-1999), Tarragona, Universitat Rovira i Virgili, 89-107.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Piñol",
+     "given": "Ll."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cortés",
+     "given": "R."
+    },
+    {
+     "family": "Curulla",
+     "given": "O."
+    }
+   ],
+   "date": "2000",
+   "title": "Voltes del Pretori (c. Enrajolat i Casa dels Militars)",
+   "is_part_of": [
+    "Intervencions arqueològiques a Tarragona i entorn (1993-1999)"
+   ],
+   "pages": "89-107",
+   "place": "Tarragona",
+   "publisher": "Universitat Rovira i Virgili",
+   "language": "cat"
+  },
+  {
+   "position": 18,
+   "raw": "Pizzo A. 2009, La arqueología de la construcción. Un laboratorio para el análisis de la arquitectura de época romana, «Arqueología de la Arquitectura», 6, 31-45.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pizzo",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "La arqueología de la construcción. Un laboratorio para el análisis de la arquitectura de época romana",
+   "is_part_of": [
+    "Arqueología de la Arquitectura"
+   ],
+   "volume": "6",
+   "pages": "31-45",
+   "language": "spa"
+  },
+  {
+   "position": 19,
+   "raw": "Pizzo A. 2010, Propuesta para la documentación y clasificación de las técnicas constructivas romanas, «Arqueología de la Arquitectura», 7, 277-286.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pizzo",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Propuesta para la documentación y clasificación de las técnicas constructivas romanas",
+   "is_part_of": [
+    "Arqueología de la Arquitectura"
+   ],
+   "volume": "7",
+   "pages": "277-286",
+   "language": "spa"
+  },
+  {
+   "position": 20,
+   "raw": "Pons D’Icard Ll. 1572, Libro de grandezas y cosas memorables de la metropolitana insigne y famosa ciudad de Tarragona, Lerida.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pons D'Icard",
+     "given": "Ll."
+    }
+   ],
+   "date": "1572",
+   "title": "Libro de grandezas y cosas memorables de la metropolitana insigne y famosa ciudad de Tarragona",
+   "place": "Lerida",
+   "language": "spa"
+  },
+  {
+   "position": 21,
+   "raw": "Puche J.M., Macias J.M., Fiz I. 2007, Projeccions urbanístiques, in Macias *et al*. 2007, 40-46.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Puche",
+     "given": "J.M."
+    },
+    {
+     "family": "Macias",
+     "given": "J.M."
+    },
+    {
+     "family": "Fiz",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Macias",
+     "given": "J.M."
+    },
+    {
+     "family": "Fiz",
+     "given": "I."
+    },
+    {
+     "family": "Piñol",
+     "given": "Ll."
+    },
+    {
+     "family": "Miró",
+     "given": "M.T."
+    },
+    {
+     "family": "Guitart",
+     "given": "J."
+    }
+   ],
+   "date": "2007",
+   "title": "Projeccions urbanístiques",
+   "is_part_of": [
+    "Planimetria arqueologica de Tarraco"
+   ],
+   "pages": "40-46",
+   "language": "cat",
+   "xref": 11
+  },
+  {
+   "position": 22,
+   "raw": "Ruiz de Arbulo J. 1998, Tarraco. Escenografía del poder, administración y justicia en una capital provincial romana (s. II aC – II dC), «Empúries», 51, 31-61.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ruiz de Arbulo",
+     "given": "J."
+    }
+   ],
+   "date": "1998",
+   "title": "Tarraco. Escenografía del poder, administración y justicia en una capital provincial romana (s. II aC – II dC)",
+   "is_part_of": [
+    "Empúries"
+   ],
+   "volume": "51",
+   "pages": "31-61",
+   "language": "spa"
+  },
+  {
+   "position": 23,
+   "raw": "Ruiz de Arbulo J. 2007, Nuevas cuestiones en torno al Foro Provincial de Tarraco, «Butlletí Arqueològic», 5, 29, 5-67.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ruiz de Arbulo",
+     "given": "J."
+    }
+   ],
+   "date": "2007",
+   "title": "Nuevas cuestiones en torno al Foro Provincial de Tarraco",
+   "is_part_of": [
+    "Butlletí Arqueològic"
+   ],
+   "volume": "5",
+   "issue": "29",
+   "pages": "5-67",
+   "language": "spa",
+   "notes": "cited '5, 29'"
+  },
+  {
+   "position": 24,
+   "raw": "Sánchez Real J. 1969, Exploración arqueológica en el jardín de la Catedral de Tarragona, «Madrider Mitteilungen», 10, 276-295.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sánchez Real",
+     "given": "J."
+    }
+   ],
+   "date": "1969",
+   "title": "Exploración arqueológica en el jardín de la Catedral de Tarragona",
+   "is_part_of": [
+    "Madrider Mitteilungen"
+   ],
+   "volume": "10",
+   "pages": "276-295",
+   "language": "spa"
+  },
+  {
+   "position": 25,
+   "raw": "Serra J. 1960, Santa Tecla la Vieja: la primitiva catedral de Tarragona, Tarragona, Sugrañes.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Serra",
+     "given": "J."
+    }
+   ],
+   "date": "1960",
+   "title": "Santa Tecla la Vieja: la primitiva catedral de Tarragona",
+   "place": "Tarragona",
+   "publisher": "Sugrañes",
+   "language": "spa"
+  },
+  {
+   "position": 26,
+   "raw": "Taller Escola d’Arqueologia 1989, El Foro Provincial: un complejo provincial de época Flavia, «Archivo Español de Arqueología», 62, 141-191.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Taller Escola d'Arqueologia",
+     "given": ""
+    }
+   ],
+   "date": "1989",
+   "title": "El Foro Provincial: un complejo provincial de época Flavia",
+   "is_part_of": [
+    "Archivo Español de Arqueología"
+   ],
+   "volume": "62",
+   "pages": "141-191",
+   "language": "spa",
+   "notes": "institution as author"
+  },
+  {
+   "position": 27,
+   "raw": "Vinci M.S. 2009, Studio e contestualizzazione storico-archeologica della denominata Volta Llarga, Tesi inedita del Master Interuniversitario in Archeologia Clàssica (Universitat Rovira i Virgili, Universitat Autonoma de Barcelona, Institut Català d’Arqueologia Clàssica).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Vinci",
+     "given": "M.S."
+    }
+   ],
+   "date": "2009",
+   "title": "Studio e contestualizzazione storico-archeologica della denominata Volta Llarga",
+   "publisher": "Master Interuniversitario in Archeologia Clàssica (Universitat Rovira i Virgili, Universitat Autonoma de Barcelona, Institut Català d'Arqueologia Clàssica)",
+   "language": "ita",
+   "notes": "Tesi inedita"
+  },
+  {
+   "position": 28,
+   "raw": "Vives A. 1926, La moneda hispánica, Madrid, Real Academia de Historia.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Vives",
+     "given": "A."
+    }
+   ],
+   "date": "1926",
+   "title": "La moneda hispánica",
+   "place": "Madrid",
+   "publisher": "Real Academia de Historia",
+   "language": "spa"
+  }
+ ]
+}

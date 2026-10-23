@@ -1,0 +1,1621 @@
+{
+ "citing_aec_id": 588,
+ "source_file": "data/journal/22/588.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Aitken R. 1977, Wilderness Areas in Scotland, Unpublished Thesis, Aberdeen.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Aitken",
+     "given": "R."
+    }
+   ],
+   "date": "1977",
+   "title": "Wilderness Areas in Scotland",
+   "place": "Aberdeen",
+   "language": "eng",
+   "notes": "Unpublished Thesis",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Alpago Novello A. 1972, Da Altino a Maia sulla via Claudia Augusta: quam Drusus pater Alpibus bello patefactis derexerat, Feltre (BL) (rist. anast. 1997, con appendici).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Alpago Novello",
+     "given": "A."
+    }
+   ],
+   "date": "1972",
+   "title": "Da Altino a Maia sulla via Claudia Augusta: quam Drusus pater Alpibus bello patefactis derexerat",
+   "place": "Feltre (BL)",
+   "language": "ita",
+   "notes": "cited \"rist. anast. 1997, con appendici\"",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Andreotti Giovannini G. 1990, Geografia delle peregrinationes maiores medievali nella regione trentino-tirolese, Trento, Dipartimento di storia della Civiltà europea.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Andreotti Giovannini",
+     "given": "G."
+    }
+   ],
+   "date": "1990",
+   "title": "Geografia delle peregrinationes maiores medievali nella regione trentino-tirolese",
+   "publisher": "Dipartimento di storia della Civiltà europea",
+   "place": "Trento",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Attraverso le Alpi 2002, Attraverso le Alpi: uomini, vie e scambi nell’antichità, Stoccarda.",
+   "type": "book",
+   "date": "2002",
+   "title": "Attraverso le Alpi: uomini, vie e scambi nell’antichità",
+   "place": "Stoccarda",
+   "language": "ita",
+   "notes": "cited as 'Attraverso le Alpi 2002'; no editor given",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bassi C. 1993, I trasporti fluviali in Trentino-Alto Adige durante l’età romana, in Strade romane, percorsi e infrastrutture, «Atlante Tematico di Topografia Antica», 2, 237-248.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bassi",
+     "given": "C."
+    }
+   ],
+   "date": "1993",
+   "title": "I trasporti fluviali in Trentino-Alto Adige durante l’età romana",
+   "is_part_of": [
+    "Strade romane, percorsi e infrastrutture",
+    "Atlante Tematico di Topografia Antica"
+   ],
+   "volume": "2",
+   "pages": "237-248",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Bassi C. 1994, I materiali da costruzione: tegole e coppi, in Cavada 1994a, 181-189.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bassi",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cavada",
+     "given": "E."
+    }
+   ],
+   "date": "1994",
+   "title": "I materiali da costruzione: tegole e coppi",
+   "is_part_of": [
+    "Archeologia a Mezzocorona. Documenti per la storia del popolamento rustico di età romana nell’area atesina"
+   ],
+   "pages": "181-189",
+   "publisher": "PSAT",
+   "place": "Trento",
+   "language": "ita",
+   "xref": 21,
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Bassi C. 1998, Il problema della continuità dell’insediamento umano tra età tardoantica e altomedievale in Val di Non (Trentino), in P. Gatti, L. De Finis (eds.), Dalla tarda latinità agli albori dell’Umanesimo: alla radice della storia europea, Trento, Dipartimento di Scienze Filologiche e Storiche, 307-344.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bassi",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gatti",
+     "given": "P."
+    },
+    {
+     "family": "De Finis",
+     "given": "L."
+    }
+   ],
+   "date": "1998",
+   "title": "Il problema della continuità dell’insediamento umano tra età tardoantica e altomedievale in Val di Non (Trentino)",
+   "is_part_of": [
+    "Dalla tarda latinità agli albori dell’Umanesimo: alla radice della storia europea"
+   ],
+   "pages": "307-344",
+   "publisher": "Dipartimento di Scienze Filologiche e Storiche",
+   "place": "Trento",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Bassi C. 2002, La via fluviale dell’Adige nel tratto Pons Drusi-Verona, in Attraverso le Alpi, 83-91.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bassi",
+     "given": "C."
+    }
+   ],
+   "date": "2002",
+   "title": "La via fluviale dell’Adige nel tratto Pons Drusi-Verona",
+   "is_part_of": [
+    "Attraverso le Alpi: uomini, vie e scambi nell’antichità"
+   ],
+   "pages": "83-91",
+   "place": "Stoccarda",
+   "language": "ita",
+   "xref": 4,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Bell T., Wilson A., Wickham A. 2002, Tracking the Samnites: Landscape and communication routes in the Sangro Valley, Italy, «American Journal of Archaeology», 106(2), 174-176.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bell",
+     "given": "T."
+    },
+    {
+     "family": "Wilson",
+     "given": "A."
+    },
+    {
+     "family": "Wickham",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Tracking the Samnites: Landscape and communication routes in the Sangro Valley, Italy",
+   "is_part_of": [
+    "American Journal of Archaeology"
+   ],
+   "volume": "106",
+   "issue": "2",
+   "pages": "174-176",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Bezzi A. 2005-2006, Realizzazione di un sistema informativo per la gestione delle evidenze archeologiche. Un prototipo sperimentale per la Valle di Non (TN), Tesi di Laurea, Università degli Studi di Padova.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Bezzi",
+     "given": "A."
+    }
+   ],
+   "date": "2005",
+   "title": "Realizzazione di un sistema informativo per la gestione delle evidenze archeologiche. Un prototipo sperimentale per la Valle di Non (TN)",
+   "publisher": "Università degli Studi di Padova",
+   "language": "ita",
+   "notes": "Tesi di Laurea; cited 2005-2006, first year kept",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Bonetto J. 1997, Le vie armentarie tra Patavium e la montagna, Dosson (TV), Coppelli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bonetto",
+     "given": "J."
+    }
+   ],
+   "date": "1997",
+   "title": "Le vie armentarie tra Patavium e la montagna",
+   "publisher": "Coppelli",
+   "place": "Dosson (TV)",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Bonora Mazzoli G. 1992, Tecnica stradale nella Regio XI: la via Regina, in Tecnica stradale romana, «Atlante Tematico di Topografia Antica», 1, 51-55.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bonora Mazzoli",
+     "given": "G."
+    }
+   ],
+   "date": "1992",
+   "title": "Tecnica stradale nella Regio XI: la via Regina",
+   "is_part_of": [
+    "Tecnica stradale romana",
+    "Atlante Tematico di Topografia Antica"
+   ],
+   "volume": "1",
+   "pages": "51-55",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Bosio L. 1983, La Tabula Peutingeriana: una descrizione pittorica del mondo antico, Rimini, Maggioli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bosio",
+     "given": "L."
+    }
+   ],
+   "date": "1983",
+   "title": "La Tabula Peutingeriana: una descrizione pittorica del mondo antico",
+   "publisher": "Maggioli",
+   "place": "Rimini",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Bosio L. 1991, Le strade romane della Venetia e dell’Histria, Padova, Programma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bosio",
+     "given": "L."
+    }
+   ],
+   "date": "1991",
+   "title": "Le strade romane della Venetia e dell’Histria",
+   "publisher": "Programma",
+   "place": "Padova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Buchi E. (ed.) 2000, Storia del Trentino II. L’età romana, Bologna, Il Mulino.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Buchi",
+     "given": "E."
+    }
+   ],
+   "date": "2000",
+   "title": "Storia del Trentino II. L’età romana",
+   "publisher": "Il Mulino",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Buonopane A. 2000, Società, economia, religione, in Buchi 2000, 133-239.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buonopane",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Buchi",
+     "given": "E."
+    }
+   ],
+   "date": "2000",
+   "title": "Società, economia, religione",
+   "is_part_of": [
+    "Storia del Trentino II. L’età romana"
+   ],
+   "pages": "133-239",
+   "publisher": "Il Mulino",
+   "place": "Bologna",
+   "language": "ita",
+   "xref": 15,
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Busana M.S. (ed.) 1997, Via per montes excisa. Strade in galleria e passaggi sotterranei nell’Italia romana, Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Busana",
+     "given": "M.S."
+    }
+   ],
+   "date": "1997",
+   "title": "Via per montes excisa. Strade in galleria e passaggi sotterranei nell’Italia romana",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Calzolari M. 1996, Introduzione allo studio della rete stradale dell’Italia romana: l’Itinerarium Antonini, «Atti dell’Accademia Nazionale dei Lincei. Memorie. Classe di scienze morali, storiche e filologiche», 7, 369-520.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Calzolari",
+     "given": "M."
+    }
+   ],
+   "date": "1996",
+   "title": "Introduzione allo studio della rete stradale dell’Italia romana: l’Itinerarium Antonini",
+   "is_part_of": [
+    "Atti dell’Accademia Nazionale dei Lincei. Memorie. Classe di scienze morali, storiche e filologiche"
+   ],
+   "volume": "7",
+   "pages": "369-520",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Campi L. 1892, Scoperte archeologiche fatte a Vervò nell’Annaunia, «Annuario della Società degli Alpinisti Tridentini», 16, 29-39.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Campi",
+     "given": "L."
+    }
+   ],
+   "date": "1892",
+   "title": "Scoperte archeologiche fatte a Vervò nell’Annaunia",
+   "is_part_of": [
+    "Annuario della Società degli Alpinisti Tridentini"
+   ],
+   "volume": "16",
+   "pages": "29-39",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Cason E. (ed.) 2001, Uso dei valichi alpini orientali dalla preistoria ai pellegrinaggi medievali, Udine, Forum.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Cason",
+     "given": "E."
+    }
+   ],
+   "date": "2001",
+   "title": "Uso dei valichi alpini orientali dalla preistoria ai pellegrinaggi medievali",
+   "publisher": "Forum",
+   "place": "Udine",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Cavada E. (ed.) 1994a, Archeologia a Mezzocorona. Documenti per la storia del popolamento rustico di età romana nell’area atesina, Trento, PSAT.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Cavada",
+     "given": "E."
+    }
+   ],
+   "date": "1994",
+   "title": "Archeologia a Mezzocorona. Documenti per la storia del popolamento rustico di età romana nell’area atesina",
+   "publisher": "PSAT",
+   "place": "Trento",
+   "language": "ita",
+   "notes": "cited as 1994a",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Cavada E. 1994b, La piana di Mezzocorona: fonti storiche e fonti archeologiche, in Cavada 1994a, 15-21.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cavada",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cavada",
+     "given": "E."
+    }
+   ],
+   "date": "1994",
+   "title": "La piana di Mezzocorona: fonti storiche e fonti archeologiche",
+   "is_part_of": [
+    "Archeologia a Mezzocorona. Documenti per la storia del popolamento rustico di età romana nell’area atesina"
+   ],
+   "pages": "15-21",
+   "publisher": "PSAT",
+   "place": "Trento",
+   "language": "ita",
+   "xref": 21,
+   "notes": "cited as 1994b",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Ciurletti G. 2005, Vie di comunicazione e itinerari attraverso le Alpi nella regione atesina fra antichità e medioevo, in L. De Finis (ed.), Itinerari e itineranti attraverso le Alpi dall’Antichità all’Alto Medioevo, Trento, Società di Studi Trentini di Scienze storiche, 17-33.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ciurletti",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Finis",
+     "given": "L."
+    }
+   ],
+   "date": "2005",
+   "title": "Vie di comunicazione e itinerari attraverso le Alpi nella regione atesina fra antichità e medioevo",
+   "is_part_of": [
+    "Itinerari e itineranti attraverso le Alpi dall’Antichità all’Alto Medioevo"
+   ],
+   "pages": "17-33",
+   "publisher": "Società di Studi Trentini di Scienze storiche",
+   "place": "Trento",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Ciurletti G., Pisu N. 1993, Per una tutela archeologica preventiva, «ArcheoAlp. Archeologia delle Alpi», 1, 193-211.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ciurletti",
+     "given": "G."
+    },
+    {
+     "family": "Pisu",
+     "given": "N."
+    }
+   ],
+   "date": "1993",
+   "title": "Per una tutela archeologica preventiva",
+   "is_part_of": [
+    "ArcheoAlp. Archeologia delle Alpi"
+   ],
+   "volume": "1",
+   "pages": "193-211",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Ciurletti G., Pisu N. (eds.) 2005, I territori della Via Claudia Augusta: incontri di archeologia/Leben an der Via Claudia Augusta: archäologische Beiträge, Trento, Temi.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Ciurletti",
+     "given": "G."
+    },
+    {
+     "family": "Pisu",
+     "given": "N."
+    }
+   ],
+   "date": "2005",
+   "title": "I territori della Via Claudia Augusta: incontri di archeologia/Leben an der Via Claudia Augusta: archäologische Beiträge",
+   "publisher": "Temi",
+   "place": "Trento",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Conolly J., Lake M. 2006, Geographic Information Systems in Archaeology, Cambridge, Cambridge University Press, 215-220.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Conolly",
+     "given": "J."
+    },
+    {
+     "family": "Lake",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Geographic Information Systems in Archaeology",
+   "pages": "215-220",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Conta G. 1990, Romanizzazione e viabilità nella regione altoatesina, in Pavan, Rosada 1990, 223-251.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Conta",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pavan",
+     "given": "M."
+    },
+    {
+     "family": "Rosada",
+     "given": "G."
+    }
+   ],
+   "date": "1990",
+   "title": "Romanizzazione e viabilità nella regione altoatesina",
+   "is_part_of": [
+    "La Venetia nell’area padano-danubiana. Le vie di comunicazione"
+   ],
+   "pages": "223-251",
+   "publisher": "CEDAM",
+   "place": "Padova",
+   "language": "ita",
+   "xref": 59,
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Coralini A. 1997, Conplanatis montibus et caesis rupis…Vie in galleria, in tagliata e in trincea nel mondo romano al di fuori dell’Italia peninsulare, in Busana 1997, 280-355.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Coralini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Busana",
+     "given": "M.S."
+    }
+   ],
+   "date": "1997",
+   "title": "Conplanatis montibus et caesis rupis… Vie in galleria, in tagliata e in trincea nel mondo romano al di fuori dell’Italia peninsulare",
+   "is_part_of": [
+    "Via per montes excisa. Strade in galleria e passaggi sotterranei nell’Italia romana"
+   ],
+   "pages": "280-355",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 17,
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Cuntz O. 1929, Itineraria romana, I, Itineraria Antonini Augusti et Burdigalense, Lipsiae.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cuntz",
+     "given": "O."
+    }
+   ],
+   "date": "1929",
+   "title": "Itineraria romana, I, Itineraria Antonini Augusti et Burdigalense",
+   "place": "Lipsiae",
+   "language": "lat",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Dal Ri L. 1990, Tracce di manufatti stradali in epoca romana in provincia di Bolzano, in Pavan, Rosada 1990, 611-625.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dal Ri",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pavan",
+     "given": "M."
+    },
+    {
+     "family": "Rosada",
+     "given": "G."
+    }
+   ],
+   "date": "1990",
+   "title": "Tracce di manufatti stradali in epoca romana in provincia di Bolzano",
+   "is_part_of": [
+    "La Venetia nell’area padano-danubiana. Le vie di comunicazione"
+   ],
+   "pages": "611-625",
+   "publisher": "CEDAM",
+   "place": "Padova",
+   "language": "ita",
+   "xref": 59,
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Dal Ri L. 1994, Gli antichi sarcofagi cristiani di Mezzocorona: la necropoli di via IV novembre, in Cavada 1994a, 275-292.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dal Ri",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cavada",
+     "given": "E."
+    }
+   ],
+   "date": "1994",
+   "title": "Gli antichi sarcofagi cristiani di Mezzocorona: la necropoli di via IV novembre",
+   "is_part_of": [
+    "Archeologia a Mezzocorona. Documenti per la storia del popolamento rustico di età romana nell’area atesina"
+   ],
+   "pages": "275-292",
+   "publisher": "PSAT",
+   "place": "Trento",
+   "language": "ita",
+   "xref": 21,
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Dalmeri G., Bassetti M., Cusinato A., Kompatscher K., Kompatscher Hrozny M., Avanzini M., Lauro C. 2002, Laghetto della Regola di Castelfondo (Trento). Primi risultati delle ricerche paletnologiche e paleoambientali, «Preistoria Alpina», 38, 35-65.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dalmeri",
+     "given": "G."
+    },
+    {
+     "family": "Bassetti",
+     "given": "M."
+    },
+    {
+     "family": "Cusinato",
+     "given": "A."
+    },
+    {
+     "family": "Kompatscher",
+     "given": "K."
+    },
+    {
+     "family": "Kompatscher Hrozny",
+     "given": "M."
+    },
+    {
+     "family": "Avanzini",
+     "given": "M."
+    },
+    {
+     "family": "Lauro",
+     "given": "C."
+    }
+   ],
+   "date": "2002",
+   "title": "Laghetto della Regola di Castelfondo (Trento). Primi risultati delle ricerche paletnologiche e paleoambientali",
+   "is_part_of": [
+    "Preistoria Alpina"
+   ],
+   "volume": "38",
+   "pages": "35-65",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "De Virgili G. 1887, Il passo della Rocchetta nella Naunia, «Archivio Trentino», 6, 244-251.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Virgili",
+     "given": "G."
+    }
+   ],
+   "date": "1887",
+   "title": "Il passo della Rocchetta nella Naunia",
+   "is_part_of": [
+    "Archivio Trentino"
+   ],
+   "volume": "6",
+   "pages": "244-251",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Di Stefano S., Ianeselli G. 2005, La viabilità romana in Alto Adige: tracciati viari e infrastrutture. Il punto della situazione sulla base delle fonti, in Ciurletti, Pisu 2005, 115-124.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Stefano",
+     "given": "S."
+    },
+    {
+     "family": "Ianeselli",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ciurletti",
+     "given": "G."
+    },
+    {
+     "family": "Pisu",
+     "given": "N."
+    }
+   ],
+   "date": "2005",
+   "title": "La viabilità romana in Alto Adige: tracciati viari e infrastrutture. Il punto della situazione sulla base delle fonti",
+   "is_part_of": [
+    "I territori della Via Claudia Augusta: incontri di archeologia/Leben an der Via Claudia Augusta: archäologische Beiträge"
+   ],
+   "pages": "115-124",
+   "publisher": "Temi",
+   "place": "Trento",
+   "language": "ita",
+   "xref": 25,
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Endrizzi L., Frassine M., Gietl R., Naponiello G., Pisu N. 2011, Progetto Castellum Vervassium. Lettura integrata di un territorio tra topografia classica e software FLOSS, in G. De Felice, M.G. Sibilano (eds.), Archeofoss. Open Source, Free Software e Open Format nei processi di ricerca archeologica, Atti del V Workshop (Foggia 2010), Bari, Edipuglia, 35-45.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Endrizzi",
+     "given": "L."
+    },
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "Gietl",
+     "given": "R."
+    },
+    {
+     "family": "Naponiello",
+     "given": "G."
+    },
+    {
+     "family": "Pisu",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2011",
+   "title": "Progetto Castellum Vervassium. Lettura integrata di un territorio tra topografia classica e software FLOSS",
+   "is_part_of": [
+    "Archeofoss. Open Source, Free Software e Open Format nei processi di ricerca archeologica, Atti del V Workshop (Foggia 2010)"
+   ],
+   "pages": "35-45",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Faleschini M. 1997, Ipotesi ricostruttiva del tracciato viario romano da Timau al passo di Monte Croce Carnico (Iter ab Aquileia per compendium Veldidena), «Quaderni di Archeologia del Veneto», 13, 190-195.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Faleschini",
+     "given": "M."
+    }
+   ],
+   "date": "1997",
+   "title": "Ipotesi ricostruttiva del tracciato viario romano da Timau al passo di Monte Croce Carnico (Iter ab Aquileia per compendium Veldidena)",
+   "is_part_of": [
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "volume": "13",
+   "pages": "190-195",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Flöss L. 2001, I nomi locali dei comuni di Taio, Ton, Tres, Vervò, in Dizionario Toponomastico Trentino, Ricerca geografica, 7, Trento, PAT.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Flöss",
+     "given": "L."
+    }
+   ],
+   "date": "2001",
+   "title": "I nomi locali dei comuni di Taio, Ton, Tres, Vervò",
+   "series": "Dizionario Toponomastico Trentino, Ricerca geografica",
+   "series_number": "7",
+   "publisher": "PAT",
+   "place": "Trento",
+   "language": "ita",
+   "notes": "cited 'in Dizionario Toponomastico Trentino, Ricerca geografica, 7': treated as a volume of a series",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Francisci D. 2007-2009, Le necropoli rurali di prima e media età imperiale in Trentino-Alto Adige/Südtirol. Le evidenze funerarie come indicatore culturale, insediativo e territoriale, Tesi di Dottorato di Ricerca in Studio e Conservazione dei Beni archeologici e architettonici, Università degli Studi di Padova.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Francisci",
+     "given": "D."
+    }
+   ],
+   "date": "2007",
+   "title": "Le necropoli rurali di prima e media età imperiale in Trentino-Alto Adige/Südtirol. Le evidenze funerarie come indicatore culturale, insediativo e territoriale",
+   "publisher": "Università degli Studi di Padova",
+   "language": "ita",
+   "notes": "Tesi di Dottorato di Ricerca in Studio e Conservazione dei Beni archeologici e architettonici; cited 2007-2009, first year kept",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Frassine M. 2011, Sulle tracce di antiche vie nella bassa e media Anaunia: linee di metodo e strumenti di ricerca, in Endrizzi et al. 2011, 36-39.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2011",
+   "title": "Sulle tracce di antiche vie nella bassa e media Anaunia: linee di metodo e strumenti di ricerca",
+   "is_part_of": [
+    "Archeofoss. Open Source, Free Software e Open Format nei processi di ricerca archeologica, Atti del V Workshop (Foggia 2010)"
+   ],
+   "pages": "36-39",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "xref": 35,
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Gasca Queirazza G., Marcato C., Pellegrini G.B., Petracco Sicardi G., Rossebastiano A. 1990, Dizionario di toponomastica. Storia e significato dei nomi geografici italiani, Torino, UTET.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gasca Queirazza",
+     "given": "G."
+    },
+    {
+     "family": "Marcato",
+     "given": "C."
+    },
+    {
+     "family": "Pellegrini",
+     "given": "G.B."
+    },
+    {
+     "family": "Petracco Sicardi",
+     "given": "G."
+    },
+    {
+     "family": "Rossebastiano",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "Dizionario di toponomastica. Storia e significato dei nomi geografici italiani",
+   "publisher": "UTET",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Gietl R., Doneus M., Fera M. 2008, Cost Distance Analysis in an Alpine environment: Comparison of different cost surface modules, in Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA), (Berlin 2007), Bonn, 342-350.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gietl",
+     "given": "R."
+    },
+    {
+     "family": "Doneus",
+     "given": "M."
+    },
+    {
+     "family": "Fera",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "Cost Distance Analysis in an Alpine environment: Comparison of different cost surface modules",
+   "is_part_of": [
+    "Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA) (Berlin 2007)"
+   ],
+   "pages": "342-350",
+   "place": "Bonn",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Gobbi D. 1994, Il romano Vervassium. Storia e civiltà, Comune di Vervò (TN).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gobbi",
+     "given": "D."
+    }
+   ],
+   "date": "1994",
+   "title": "Il romano Vervassium. Storia e civiltà",
+   "publisher": "Comune di Vervò (TN)",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Gorfer A. 1965, Guida dei castelli del Trentino, Trento, Saturnia (II ed. 1967).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gorfer",
+     "given": "A."
+    }
+   ],
+   "date": "1965",
+   "title": "Guida dei castelli del Trentino",
+   "publisher": "Saturnia",
+   "place": "Trento",
+   "language": "ita",
+   "notes": "cited '(II ed. 1967)'",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Gottardi F. 1963, Il castello di S. Martino (ciastel) presso Vervò, «Studi Trentini di Scienze Storiche», 42, 2, 145-150.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gottardi",
+     "given": "F."
+    }
+   ],
+   "date": "1963",
+   "title": "Il castello di S. Martino (ciastel) presso Vervò",
+   "is_part_of": [
+    "Studi Trentini di Scienze Storiche"
+   ],
+   "volume": "42",
+   "issue": "2",
+   "pages": "145-150",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Inama V. 1891, Antichi castelli romani nella Val di Non, «Archivio Trentino», 10, 1-37.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Inama",
+     "given": "V."
+    }
+   ],
+   "date": "1891",
+   "title": "Antichi castelli romani nella Val di Non",
+   "is_part_of": [
+    "Archivio Trentino"
+   ],
+   "volume": "10",
+   "pages": "1-37",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Inama V. 1905, Storia delle valli di Non e di Sole nel Trentino dalle origini fino al secolo XVI, Trento, Zippel (rist. anastatica 1988).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Inama",
+     "given": "V."
+    }
+   ],
+   "date": "1905",
+   "title": "Storia delle valli di Non e di Sole nel Trentino dalle origini fino al secolo XVI",
+   "publisher": "Zippel",
+   "place": "Trento",
+   "language": "ita",
+   "notes": "cited '(rist. anastatica 1988)'",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "Langmuir E. 1984, Mountaincraft and Leadership, Edinburgh, The Scottish Sports Council.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Langmuir",
+     "given": "E."
+    }
+   ],
+   "date": "1984",
+   "title": "Mountaincraft and Leadership",
+   "publisher": "The Scottish Sports Council",
+   "place": "Edinburgh",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "Leonardi E. 1985, Anaunia. Storia della Valle di Non, Trento, Temi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Leonardi",
+     "given": "E."
+    }
+   ],
+   "date": "1985",
+   "title": "Anaunia. Storia della Valle di Non",
+   "publisher": "Temi",
+   "place": "Trento",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "Mannoni T. 1994, Archeologia dell’urbanistica. Venticinque anni di archeologia globale, 1, Genova, Escum.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mannoni",
+     "given": "T."
+    }
+   ],
+   "date": "1994",
+   "title": "Archeologia dell’urbanistica. Venticinque anni di archeologia globale",
+   "volume": "1",
+   "publisher": "Escum",
+   "place": "Genova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "Mastrelli Anzilotti G. 1976, I nomi locali della Val di Non, II, Firenze, Olschki.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mastrelli Anzilotti",
+     "given": "G."
+    }
+   ],
+   "date": "1976",
+   "title": "I nomi locali della Val di Non",
+   "volume": "2",
+   "publisher": "Olschki",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "cited 'II'",
+   "confidence": "high"
+  },
+  {
+   "position": 51,
+   "raw": "Mastrelli Anzilotti G. 1978, Romanità in Val di Non, in A. Rigotti (ed.), Romanità in Val di Non e di zone limitrofe, «Atti dell’Accademia Roveretana degli Agiati», 1-2, 81-89.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mastrelli Anzilotti",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rigotti",
+     "given": "A."
+    }
+   ],
+   "date": "1978",
+   "title": "Romanità in Val di Non",
+   "is_part_of": [
+    "Romanità in Val di Non e di zone limitrofe",
+    "Atti dell’Accademia Roveretana degli Agiati"
+   ],
+   "volume": "1-2",
+   "pages": "81-89",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "Mastrelli Anzilotti G. 1981, I nomi locali della Val di Non, Firenze, Olschki.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mastrelli Anzilotti",
+     "given": "G."
+    }
+   ],
+   "date": "1981",
+   "title": "I nomi locali della Val di Non",
+   "publisher": "Olschki",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 53,
+   "raw": "Mastrelli Anzilotti G. 2003, Toponomastica trentina. I nomi delle località abitate, Trento, PAT.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mastrelli Anzilotti",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Toponomastica trentina. I nomi delle località abitate",
+   "publisher": "PAT",
+   "place": "Trento",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 54,
+   "raw": "Menis G.C. (ed.) 1991, Italia longobarda, Padova, Marsilio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Menis",
+     "given": "G.C."
+    }
+   ],
+   "date": "1991",
+   "title": "Italia longobarda",
+   "publisher": "Marsilio",
+   "place": "Padova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 55,
+   "raw": "Mollo Mezzena R. 1992, La strada romana in Valle d’Aosta: procedimenti tecnici e costruttivi, in Tecnica stradale romana, «Atlante Tematico di Topografia Antica», 1, 57-72.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mollo Mezzena",
+     "given": "R."
+    }
+   ],
+   "date": "1992",
+   "title": "La strada romana in Valle d’Aosta: procedimenti tecnici e costruttivi",
+   "is_part_of": [
+    "Tecnica stradale romana",
+    "Atlante Tematico di Topografia Antica"
+   ],
+   "volume": "1",
+   "pages": "57-72",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 56,
+   "raw": "Mosca A. 2004, Direttrici viarie antiche nel Trentino Alto Adige: problematicità di una ricerca, in M. De Vos (ed.), Archeologia del territorio. Metodi Materiali Prospettive, Dipartimento di Scienze Filologiche e Storiche, Trento.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mosca",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Vos",
+     "given": "M."
+    }
+   ],
+   "date": "2004",
+   "title": "Direttrici viarie antiche nel Trentino Alto Adige: problematicità di una ricerca",
+   "is_part_of": [
+    "Archeologia del territorio. Metodi Materiali Prospettive"
+   ],
+   "publisher": "Dipartimento di Scienze Filologiche e Storiche",
+   "place": "Trento",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 57,
+   "raw": "Naponiello G. 2011, WebGIS per il “Patto Territoriale Predaia”, in Endrizzi et al. 2011, 42-44.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Naponiello",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2011",
+   "title": "WebGIS per il “Patto Territoriale Predaia”",
+   "is_part_of": [
+    "Archeofoss. Open Source, Free Software e Open Format nei processi di ricerca archeologica, Atti del V Workshop (Foggia 2010)"
+   ],
+   "pages": "42-44",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "xref": 35,
+   "confidence": "high"
+  },
+  {
+   "position": 58,
+   "raw": "Orsi P. 1880, Topografia del Trentino in età romana, Rovereto (TN), Sottochiesa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Orsi",
+     "given": "P."
+    }
+   ],
+   "date": "1880",
+   "title": "Topografia del Trentino in età romana",
+   "publisher": "Sottochiesa",
+   "place": "Rovereto (TN)",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 59,
+   "raw": "Pavan M., Rosada G. (eds.) 1990, La Venetia nell’area padano-danubiana. Le vie di comunicazione, Padova, CEDAM.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Pavan",
+     "given": "M."
+    },
+    {
+     "family": "Rosada",
+     "given": "G."
+    }
+   ],
+   "date": "1990",
+   "title": "La Venetia nell’area padano-danubiana. Le vie di comunicazione",
+   "publisher": "CEDAM",
+   "place": "Padova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 60,
+   "raw": "Persi P. 1987, Dall’ambiente naturale allo spazio organizzato: la viabilità delle Marche nel tempo, in Le strade delle Marche. Il problema nel tempo, «Atti e Memorie della Deputazione di Storia Patria delle Marche», 9-47.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Persi",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Dall’ambiente naturale allo spazio organizzato: la viabilità delle Marche nel tempo",
+   "is_part_of": [
+    "Le strade delle Marche. Il problema nel tempo",
+    "Atti e Memorie della Deputazione di Storia Patria delle Marche"
+   ],
+   "pages": "9-47",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 61,
+   "raw": "Pesavento Mattioli S. 2000, Il sistema stradale nel quadro della viabilità dell’Italia nord-orientale, in Buchi 2000, 11-46.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pesavento Mattioli",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Buchi",
+     "given": "E."
+    }
+   ],
+   "date": "2000",
+   "title": "Il sistema stradale nel quadro della viabilità dell’Italia nord-orientale",
+   "is_part_of": [
+    "Storia del Trentino II. L’età romana"
+   ],
+   "pages": "11-46",
+   "publisher": "Il Mulino",
+   "place": "Bologna",
+   "language": "ita",
+   "xref": 15,
+   "confidence": "high"
+  },
+  {
+   "position": 62,
+   "raw": "Rageth J. 2002, Resti di strade e vie romane nell’area alpina dei Grigioni, in Attraverso le Alpi, 59-66.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rageth",
+     "given": "J."
+    }
+   ],
+   "date": "2002",
+   "title": "Resti di strade e vie romane nell’area alpina dei Grigioni",
+   "is_part_of": [
+    "Attraverso le Alpi: uomini, vie e scambi nell’antichità"
+   ],
+   "pages": "59-66",
+   "place": "Stoccarda",
+   "language": "ita",
+   "xref": 4,
+   "confidence": "high"
+  },
+  {
+   "position": 63,
+   "raw": "Roberti G. 1952, Edizione archeologica della Carta d’Italia al 100.000. Foglio 21 (Trento), Firenze, IGM.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Roberti",
+     "given": "G."
+    }
+   ],
+   "date": "1952",
+   "title": "Edizione archeologica della Carta d’Italia al 100.000. Foglio 21 (Trento)",
+   "publisher": "IGM",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 64,
+   "raw": "Rosada G. 1992, Tecnica stradale e paesaggio nella Decima Regio, in Tecnica stradale romana, «Atlante Tematico di Topografia Antica», 1, 39-50.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rosada",
+     "given": "G."
+    }
+   ],
+   "date": "1992",
+   "title": "Tecnica stradale e paesaggio nella Decima Regio",
+   "is_part_of": [
+    "Tecnica stradale romana",
+    "Atlante Tematico di Topografia Antica"
+   ],
+   "volume": "1",
+   "pages": "39-50",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 65,
+   "raw": "Rosada G. 2001, Sessant’anni dopo. Per capire una strada, in La Via Claudia Augusta Altinate (rist. anastatica 1938, con postfazione di G. Rosada), Venezia, Istituto Veneto di Scienze Lettere ed Arti, XI-XXXI.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rosada",
+     "given": "G."
+    }
+   ],
+   "date": "2001",
+   "title": "Sessant’anni dopo. Per capire una strada",
+   "is_part_of": [
+    "La Via Claudia Augusta Altinate"
+   ],
+   "pages": "XI-XXXI",
+   "publisher": "Istituto Veneto di Scienze Lettere ed Arti",
+   "place": "Venezia",
+   "language": "ita",
+   "notes": "cited 'in La Via Claudia Augusta Altinate (rist. anastatica 1938, con postfazione di G. Rosada)'",
+   "confidence": "high"
+  },
+  {
+   "position": 66,
+   "raw": "Tabarelli G.M. 1994, Strade romane nel Trentino e nell’Alto Adige, Trento, Temi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tabarelli",
+     "given": "G.M."
+    }
+   ],
+   "date": "1994",
+   "title": "Strade romane nel Trentino e nell’Alto Adige",
+   "publisher": "Temi",
+   "place": "Trento",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 67,
+   "raw": "Uggeri G. 1994, Metodologia della ricostruzione della viabilità romana, «Journal of Ancient Topography», 4, 91-100.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Uggeri",
+     "given": "G."
+    }
+   ],
+   "date": "1994",
+   "title": "Metodologia della ricostruzione della viabilità romana",
+   "is_part_of": [
+    "Journal of Ancient Topography"
+   ],
+   "volume": "4",
+   "pages": "91-100",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 68,
+   "raw": "Varanini G.M. 2000, L’economia. Aspetti e problemi (XIII-XV secolo), in A. Castagnetti, G.M. Varanini (eds.), Storia del Trentino III. L’età medievale, Bologna, Il Mulino, 461-515.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Varanini",
+     "given": "G.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Castagnetti",
+     "given": "A."
+    },
+    {
+     "family": "Varanini",
+     "given": "G.M."
+    }
+   ],
+   "date": "2000",
+   "title": "L’economia. Aspetti e problemi (XIII-XV secolo)",
+   "is_part_of": [
+    "Storia del Trentino III. L’età medievale"
+   ],
+   "pages": "461-515",
+   "publisher": "Il Mulino",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 69,
+   "raw": "Wedenig R. 2000, Collegamenti stradali tra Austria e Italia in età imperiale, in S. Blason Scarel (ed.), Cammina, Cammina... Dalla via dell’ambra alla via della fede, Marano Lagunare (Udine), Ergon, 99-101.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wedenig",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Blason Scarel",
+     "given": "S."
+    }
+   ],
+   "date": "2000",
+   "title": "Collegamenti stradali tra Austria e Italia in età imperiale",
+   "is_part_of": [
+    "Cammina, Cammina... Dalla via dell’ambra alla via della fede"
+   ],
+   "pages": "99-101",
+   "publisher": "Ergon",
+   "place": "Marano Lagunare (Udine)",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 70,
+   "raw": "Wheatley D., Gillings M. 2002, Spatial Technology and Archaeology: Archaeological Applications of GIS, London, Taylor and Francis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    },
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Spatial Technology and Archaeology: Archaeological Applications of GIS",
+   "publisher": "Taylor and Francis",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 71,
+   "raw": "Zadra P. 1931, Claudia Augusta via, «Studi Trentini di Scienze Storiche», 12, 295-323.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zadra",
+     "given": "P."
+    }
+   ],
+   "date": "1931",
+   "title": "Claudia Augusta via",
+   "is_part_of": [
+    "Studi Trentini di Scienze Storiche"
+   ],
+   "volume": "12",
+   "pages": "295-323",
+   "language": "lat",
+   "confidence": "high"
+  },
+  {
+   "position": 72,
+   "raw": "Zentile L. 1968-1969, Carta Archeologica (tavolette: NE, Fondo; SE, Cavareno; SO, Cles; NO, Rumo Foglio, 10 Quadrante III), Tesi di Laurea, Università degli Studi di Padova.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Zentile",
+     "given": "L."
+    }
+   ],
+   "date": "1968",
+   "title": "Carta Archeologica (tavolette: NE, Fondo; SE, Cavareno; SO, Cles; NO, Rumo Foglio, 10 Quadrante III)",
+   "publisher": "Università degli Studi di Padova",
+   "language": "ita",
+   "notes": "Tesi di Laurea; cited 1968-1969, first year kept",
+   "confidence": "high"
+  }
+ ]
+}

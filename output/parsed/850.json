@@ -1,0 +1,940 @@
+{
+ "citing_aec_id": 850,
+ "source_file": "data/journal/27/850.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bats M., De Reu J., De Smedt P., Antrop M., Bourgeois J., Court-Picon M., De Maeyer P., Finke P., Van Meirvenne M., Verniers J., Werbrouck I., Zwertvaegher A., Crombé P. 2009, *Geoarchaeological research of the large palaeolake of the Moervaart from late Glacial to early Holocene*, «Notae Praehistoricae», 29, 105-112.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bats",
+     "given": "M."
+    },
+    {
+     "family": "De Reu",
+     "given": "J."
+    },
+    {
+     "family": "De Smedt",
+     "given": "P."
+    },
+    {
+     "family": "Antrop",
+     "given": "M."
+    },
+    {
+     "family": "Bourgeois",
+     "given": "J."
+    },
+    {
+     "family": "Court-Picon",
+     "given": "M."
+    },
+    {
+     "family": "De Maeyer",
+     "given": "P."
+    },
+    {
+     "family": "Finke",
+     "given": "P."
+    },
+    {
+     "family": "Van Meirvenne",
+     "given": "M."
+    },
+    {
+     "family": "Verniers",
+     "given": "J."
+    },
+    {
+     "family": "Werbrouck",
+     "given": "I."
+    },
+    {
+     "family": "Zwertvaegher",
+     "given": "A."
+    },
+    {
+     "family": "Crombé",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Geoarchaeological research of the large palaeolake of the Moervaart from late Glacial to early Holocene",
+   "is_part_of": [
+    "Notae Praehistoricae"
+   ],
+   "volume": "29",
+   "pages": "105-112",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Campana S. 2012, *Geofisica estensiva e continua. Verso un nuovo livello analitico per l'archeologia?*, «Archeologia Aerea», 4/5, 239-249.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Geofisica estensiva e continua. Verso un nuovo livello analitico per l'archeologia?",
+   "is_part_of": [
+    "Archeologia Aerea"
+   ],
+   "volume": "4/5",
+   "pages": "239-249",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Campana S., Francovich R., Felici C. 2005, *Large scale magnetic survey and archaeological mapping. The Grosseto and Siena projects*, in S. Piro (ed.), *Proceedings of the 6th International Conference on Archaeological Prospection (Roma 2005)*, Roma, Institute of Technologies Applied to Cultural Heritage, 25-30.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Felici",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Piro",
+     "given": "S."
+    }
+   ],
+   "date": "2005",
+   "title": "Large scale magnetic survey and archaeological mapping. The Grosseto and Siena projects",
+   "is_part_of": [
+    "Proceedings of the 6th International Conference on Archaeological Prospection (Roma 2005)"
+   ],
+   "pages": "25-30",
+   "publisher": "Institute of Technologies Applied to Cultural Heritage",
+   "place": "Roma",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Campana S., Piro S. 2009, *Seeing the Unseen. Geophysics and Landscape Archaeology*, London, CRC Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Piro",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "Seeing the Unseen. Geophysics and Landscape Archaeology",
+   "publisher": "CRC Press",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Campana S., Piro S. 2012, *GPR investigation in different archaeological sites in Tuscany. Analysis and comparison of the obtained results*, «International Journal Near Surface Geophysics (EAGE)», 12, 47-56.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Piro",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "GPR investigation in different archaeological sites in Tuscany. Analysis and comparison of the obtained results",
+   "is_part_of": [
+    "International Journal Near Surface Geophysics (EAGE)"
+   ],
+   "volume": "12",
+   "pages": "47-56",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Campana S., Piro R., Felici C. 2005, *Integration between magnetic surveys and archaeological excavations: The case study Pava (Siena, Central Italy)*, in S. Piro (ed.), *Proceedings of the 6th International Conference on Archaeological Prospection (Roma 2005)*, Roma, Institute of Technologies Applied to Cultural Heritage, 226-227.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Piro",
+     "given": "R."
+    },
+    {
+     "family": "Felici",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Piro",
+     "given": "S."
+    }
+   ],
+   "date": "2005",
+   "title": "Integration between magnetic surveys and archaeological excavations: The case study Pava (Siena, Central Italy)",
+   "is_part_of": [
+    "Proceedings of the 6th International Conference on Archaeological Prospection (Roma 2005)"
+   ],
+   "pages": "226-227",
+   "publisher": "Institute of Technologies Applied to Cultural Heritage",
+   "place": "Roma",
+   "language": "eng",
+   "notes": "second author cited as 'Piro R.' (the other entry has 'Piro S.'), kept as cited",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Fiocchi Nicolai V. 1995, *Una nuova basilica a deambulatorio nel comprensorio della catacomba di S. Callisto a Roma*, in E. Dassmann, J. Engemann (eds.), *Akten des XII. Internationalen Kongresses für Christliche Archäologie (Bonn 1991)*, Münster, 776-786.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiocchi Nicolai",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dassmann",
+     "given": "E."
+    },
+    {
+     "family": "Engemann",
+     "given": "J."
+    }
+   ],
+   "date": "1995",
+   "title": "Una nuova basilica a deambulatorio nel comprensorio della catacomba di S. Callisto a Roma",
+   "is_part_of": [
+    "Akten des XII. Internationalen Kongresses für Christliche Archäologie (Bonn 1991)"
+   ],
+   "pages": "776-786",
+   "place": "Münster",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Fiocchi Nicolai V. 1995-1996, *La nuova basilica circiforme della via Ardeatina (con appendice di M.P. Del Moro, D. Nuzzo e L. Spera)*, «Rendiconti della Pontificia Accademia romana di Archeologia», 48, 69-233.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiocchi Nicolai",
+     "given": "V."
+    }
+   ],
+   "date": "1995",
+   "title": "La nuova basilica circiforme della via Ardeatina (con appendice di M.P. Del Moro, D. Nuzzo e L. Spera)",
+   "is_part_of": [
+    "Rendiconti della Pontificia Accademia romana di Archeologia"
+   ],
+   "volume": "48",
+   "pages": "69-233",
+   "language": "ita",
+   "notes": "cited as 1995-1996; first year kept",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Fiocchi Nicolai V. 1997, *La nuova basilica paleocristiana \"circiforme\" della via Ardeatina*, in *Via Appia. Sulle rovine della magnificenza antica, Catalogo della mostra*, Milano, Leonardo Arte, 78-83.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiocchi Nicolai",
+     "given": "V."
+    }
+   ],
+   "date": "1997",
+   "title": "La nuova basilica paleocristiana \"circiforme\" della via Ardeatina",
+   "is_part_of": [
+    "Via Appia. Sulle rovine della magnificenza antica, Catalogo della mostra"
+   ],
+   "pages": "78-83",
+   "publisher": "Leonardo Arte",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Fiocchi Nicolai V. 2000, *Plastico della nuova basilica pagana alla città cristiana*, in *Aurea Roma. Dalla città pagana alla città cristiana, Catalogo della mostra*, L'Erma di Bretschneider, 138-139.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiocchi Nicolai",
+     "given": "V."
+    }
+   ],
+   "date": "2000",
+   "title": "Plastico della nuova basilica pagana alla città cristiana",
+   "is_part_of": [
+    "Aurea Roma. Dalla città pagana alla città cristiana, Catalogo della mostra"
+   ],
+   "pages": "138-139",
+   "publisher": "L'Erma di Bretschneider",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Fiocchi Nicolai V. 2001, *Strutture funerarie ed edifici di culto paleocristiani di Roma dal IV al VI secolo*, Città del Vaticano, Pontificia Commissione di Archeologia Sacra.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fiocchi Nicolai",
+     "given": "V."
+    }
+   ],
+   "date": "2001",
+   "title": "Strutture funerarie ed edifici di culto paleocristiani di Roma dal IV al VI secolo",
+   "publisher": "Pontificia Commissione di Archeologia Sacra",
+   "place": "Città del Vaticano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Fiocchi Nicolai V. 2002, *Basilica Marci, coemeterium Marci, basilica coemeterii Balbinae. A proposito della nuova basilica circiforme della via Ardeatina e della funzione funeraria delle chiese a deambulatorio*, in F. Guidobaldi, A. Guiglia Guidobaldi (eds.), *Ecclesiae urbis. Atti del Congresso internazionale di studi sulle chiese di Roma, IV-X secolo (Roma 2000)*, Città del Vaticano, Pontificio Istituto di Archeologia Cristiana, 1175-1201.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiocchi Nicolai",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Guidobaldi",
+     "given": "F."
+    },
+    {
+     "family": "Guiglia Guidobaldi",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Basilica Marci, coemeterium Marci, basilica coemeterii Balbinae. A proposito della nuova basilica circiforme della via Ardeatina e della funzione funeraria delle chiese a deambulatorio",
+   "is_part_of": [
+    "Ecclesiae urbis. Atti del Congresso internazionale di studi sulle chiese di Roma, IV-X secolo (Roma 2000)"
+   ],
+   "pages": "1175-1201",
+   "publisher": "Pontificio Istituto di Archeologia Cristiana",
+   "place": "Città del Vaticano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Fiocchi Nicolai V. 2006, *S. Marci basilica, ecclesia, coemeterium*, in *Lexicon Topographicum Urbis Romae, Suburbium*, IV, 25-28.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiocchi Nicolai",
+     "given": "V."
+    }
+   ],
+   "date": "2006",
+   "title": "S. Marci basilica, ecclesia, coemeterium",
+   "is_part_of": [
+    "Lexicon Topographicum Urbis Romae, Suburbium"
+   ],
+   "volume": "IV",
+   "pages": "25-28",
+   "language": "lat",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Fiocchi Nicolai V. 2103, *Corredi aurei da una tomba della basilica di papa Marco sulla via Ardeatina*, in M. Barbera (ed.), *Costantino 313 d.C., Catalogo della mostra*, Milano, Electa, 60-66.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiocchi Nicolai",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barbera",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Corredi aurei da una tomba della basilica di papa Marco sulla via Ardeatina",
+   "is_part_of": [
+    "Costantino 313 d.C., Catalogo della mostra"
+   ],
+   "pages": "60-66",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita",
+   "notes": "year cited as '2103', corrected to 2013 (Costantino 313 d.C. exhibition catalogue)",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Fiocchi Nicolai V., Granino Cecere M.G., Mari Z. 2001, *Presentazione*, in *Lexicon Topographicum Urbis Romae, Suburbium*, I, 1-5.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiocchi Nicolai",
+     "given": "V."
+    },
+    {
+     "family": "Granino Cecere",
+     "given": "M.G."
+    },
+    {
+     "family": "Mari",
+     "given": "Z."
+    }
+   ],
+   "date": "2001",
+   "title": "Presentazione",
+   "is_part_of": [
+    "Lexicon Topographicum Urbis Romae, Suburbium"
+   ],
+   "volume": "I",
+   "pages": "1-5",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Fiocchi Nicolai V., Mastrorilli D., Vella A. c.s., *Le campagne di scavo 2007-2012 nella basilica a deambulatorio della via Ardeatina (S. MARCO). Note preliminari*, in *Atti del XV Congresso Internazionale di Archeologia Cristiana*, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiocchi Nicolai",
+     "given": "V."
+    },
+    {
+     "family": "Mastrorilli",
+     "given": "D."
+    },
+    {
+     "family": "Vella",
+     "given": "A."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Le campagne di scavo 2007-2012 nella basilica a deambulatorio della via Ardeatina (S. Marco). Note preliminari",
+   "is_part_of": [
+    "Atti del XV Congresso Internazionale di Archeologia Cristiana"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched authors + title (3 queries): no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "*Lexicon Topographicum Urbis Romae, Suburbium*, I-V, Roma 2001-2008, Edizioni Quasar.",
+   "type": "book",
+   "date": "2001",
+   "title": "Lexicon Topographicum Urbis Romae, Suburbium",
+   "publisher": "Edizioni Quasar",
+   "place": "Roma",
+   "language": "lat",
+   "notes": "whole series cited, vols. I-V, 2001-2008",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Morelli G. 2011, *A virtual excavation: Combining 3D immersive virtual reality and geo-physical surveying*, «Lecture Notes in Computer Science», 6939, 229-238.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Morelli",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "A virtual excavation: Combining 3D immersive virtual reality and geo-physical surveying",
+   "is_part_of": [
+    "Lecture Notes in Computer Science"
+   ],
+   "volume": "6939",
+   "pages": "229-238",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Nieddu A.M. 2003, *L'utilizzazione funeraria del suburbio nei secoli V e VI*, in P. Pergola, R. Santangeli Valenzano, R. Volpe (eds.), *Suburbium. Il suburbio di Roma dalla crisi del sistema delle ville a Gregorio Magno. Atti delle Giornate di Studio (Roma 2000)*, Rome, École française de Rome, 545-606.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nieddu",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pergola",
+     "given": "P."
+    },
+    {
+     "family": "Santangeli Valenzano",
+     "given": "R."
+    },
+    {
+     "family": "Volpe",
+     "given": "R."
+    }
+   ],
+   "date": "2003",
+   "title": "L'utilizzazione funeraria del suburbio nei secoli V e VI",
+   "is_part_of": [
+    "Suburbium. Il suburbio di Roma dalla crisi del sistema delle ville a Gregorio Magno. Atti delle Giornate di Studio (Roma 2000)"
+   ],
+   "pages": "545-606",
+   "publisher": "École française de Rome",
+   "place": "Rome",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Novo A. 2013, *Ground-Penetrating Radar (GPR)*, in C. Corsi, B. Slapšak, F. Vermeulen (eds.), *Good Practice in Archaeological Diagnostics*, Springer International Publishing, 165-176.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Novo",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Corsi",
+     "given": "C."
+    },
+    {
+     "family": "Slapšak",
+     "given": "B."
+    },
+    {
+     "family": "Vermeulen",
+     "given": "F."
+    }
+   ],
+   "date": "2013",
+   "title": "Ground-Penetrating Radar (GPR)",
+   "is_part_of": [
+    "Good Practice in Archaeological Diagnostics"
+   ],
+   "pages": "165-176",
+   "publisher": "Springer International Publishing",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Novo A., Dabas M., Morelli G. 2012, *The STREAM X multichannel GPR system: First test at Vieil-Evreux (France) and comparison with other geophysical data*, «Archaeological Prospection», 19.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Novo",
+     "given": "A."
+    },
+    {
+     "family": "Dabas",
+     "given": "M."
+    },
+    {
+     "family": "Morelli",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "The STREAM X multichannel GPR system: First test at Vieil-Evreux (France) and comparison with other geophysical data",
+   "is_part_of": [
+    "Archaeological Prospection"
+   ],
+   "volume": "19",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Novo A., Sala R., Morelli G., Leckebusch J., Tremoleda Trilla J. 2011, *Full wave-field recording: STREAM X at Empuries (Girona, Spain)*, in M.G. Drahor, M.A. Berge (eds.), *Archaeological Prospection, 9th International Conference (Izmir 2011)*, Istanbul, Archaeology and Art Publications, 213-217.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Novo",
+     "given": "A."
+    },
+    {
+     "family": "Sala",
+     "given": "R."
+    },
+    {
+     "family": "Morelli",
+     "given": "G."
+    },
+    {
+     "family": "Leckebusch",
+     "given": "J."
+    },
+    {
+     "family": "Tremoleda Trilla",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Drahor",
+     "given": "M.G."
+    },
+    {
+     "family": "Berge",
+     "given": "M.A."
+    }
+   ],
+   "date": "2011",
+   "title": "Full wave-field recording: STREAM X at Empuries (Girona, Spain)",
+   "is_part_of": [
+    "Archaeological Prospection, 9th International Conference (Izmir 2011)"
+   ],
+   "pages": "213-217",
+   "publisher": "Archaeology and Art Publications",
+   "place": "Istanbul",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Paris R. et al. 2001, *Appia via*, in *Lexicon Topographicum Urbis Romae, Suburbium*, I.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Paris",
+     "given": "R."
+    }
+   ],
+   "date": "2001",
+   "title": "Appia via",
+   "is_part_of": [
+    "Lexicon Topographicum Urbis Romae, Suburbium"
+   ],
+   "volume": "I",
+   "language": "lat",
+   "notes": "cited 'Paris R. et al.': only the first author is named",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Saey T., De Smedt P., Meerschman E., Islam M., Meeuws F., Van De Vijver E., Lehouck A., Van Meirvenne M. 2012, *Electrical conductivity depth modelling with a multireceiver EMI sensor for prospecting archaeological features*, «Archaeological Prospection», 19, 21-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Saey",
+     "given": "T."
+    },
+    {
+     "family": "De Smedt",
+     "given": "P."
+    },
+    {
+     "family": "Meerschman",
+     "given": "E."
+    },
+    {
+     "family": "Islam",
+     "given": "M."
+    },
+    {
+     "family": "Meeuws",
+     "given": "F."
+    },
+    {
+     "family": "Van De Vijver",
+     "given": "E."
+    },
+    {
+     "family": "Lehouck",
+     "given": "A."
+    },
+    {
+     "family": "Van Meirvenne",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Electrical conductivity depth modelling with a multireceiver EMI sensor for prospecting archaeological features",
+   "is_part_of": [
+    "Archaeological Prospection"
+   ],
+   "volume": "19",
+   "pages": "21-30",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Saint-Roch P. 2001, *Basilei coemeterium*, in *Lexicon Topographicum Urbis Romae, Suburbium*, I, 207-211.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Saint-Roch",
+     "given": "P."
+    }
+   ],
+   "date": "2001",
+   "title": "Basilei coemeterium",
+   "is_part_of": [
+    "Lexicon Topographicum Urbis Romae, Suburbium"
+   ],
+   "volume": "I",
+   "pages": "207-211",
+   "language": "lat",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Simpson D. 2009, *Georachaeological Prospection with Multi-coil Electromagnetic Induction Sensors*, PhD Thesis, Ghent University.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Simpson",
+     "given": "D."
+    }
+   ],
+   "date": "2009",
+   "title": "Geoarchaeological Prospection with Multi-coil Electromagnetic Induction Sensors",
+   "publisher": "Ghent University",
+   "language": "eng",
+   "notes": "PhD thesis; 'Georachaeological' corrected to 'Geoarchaeological'",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Simpson D., Van Meirvenne M., Lück E., Bourgeois J., Rühlmann J. 2010, *Prospection of two circular Bronze Age ditches with multi-receiver electrical conductivity sensors (North Belgium)*, «Journal of Archaeological Science», 37, 2198-2306.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Simpson",
+     "given": "D."
+    },
+    {
+     "family": "Van Meirvenne",
+     "given": "M."
+    },
+    {
+     "family": "Lück",
+     "given": "E."
+    },
+    {
+     "family": "Bourgeois",
+     "given": "J."
+    },
+    {
+     "family": "Rühlmann",
+     "given": "J."
+    }
+   ],
+   "date": "2010",
+   "title": "Prospection of two circular Bronze Age ditches with multi-receiver electrical conductivity sensors (North Belgium)",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "37",
+   "pages": "2198-2306",
+   "language": "eng",
+   "notes": "pages kept as cited",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Spera L. 1999, *Il paesaggio suburbano di Roma dall'antichità al Medioevo. Il comprensorio tra le vie Latina ed Ardeatina dalle mura aureliane al terzo miglio*, Roma, L'Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Spera",
+     "given": "L."
+    }
+   ],
+   "date": "1999",
+   "title": "Il paesaggio suburbano di Roma dall'antichità al Medioevo. Il comprensorio tra le vie Latina ed Ardeatina dalle mura aureliane al terzo miglio",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Spera L. 2003a, *Il territorio della via Appia: forme trasformative del paesaggio nei secoli della tarda antichità*, in P. Pergola, R. Santangeli Valenzano, R. Volpe (eds.), *Suburbium. Il suburbio di Roma dalla crisi del sistema delle ville a Gregorio Magno. Atti delle Giornate di Studio (Roma 2000)*, Rome, École française de Rome, 267-330.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Spera",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pergola",
+     "given": "P."
+    },
+    {
+     "family": "Santangeli Valenzano",
+     "given": "R."
+    },
+    {
+     "family": "Volpe",
+     "given": "R."
+    }
+   ],
+   "date": "2003",
+   "title": "Il territorio della via Appia: forme trasformative del paesaggio nei secoli della tarda antichità",
+   "is_part_of": [
+    "Suburbium. Il suburbio di Roma dalla crisi del sistema delle ville a Gregorio Magno. Atti delle Giornate di Studio (Roma 2000)"
+   ],
+   "pages": "267-330",
+   "publisher": "École française de Rome",
+   "place": "Rome",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Spera L. 2003b, *The Christianization of space along the Via Appia: Changing landscape in the Suburbs of Rome*, «American Journal of Archaeology», 107, 1, 23-43.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Spera",
+     "given": "L."
+    }
+   ],
+   "date": "2003",
+   "title": "The Christianization of space along the Via Appia: Changing landscape in the Suburbs of Rome",
+   "is_part_of": [
+    "American Journal of Archaeology"
+   ],
+   "volume": "107",
+   "issue": "1",
+   "pages": "23-43",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Spera L. 2004a, *Cal(l)isti coemeterium via Appia*, in *Lexicon Topographicum Urbis Romae, Suburbium*, II, 32-44.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Spera",
+     "given": "L."
+    }
+   ],
+   "date": "2004",
+   "title": "Cal(l)isti coemeterium via Appia",
+   "is_part_of": [
+    "Lexicon Topographicum Urbis Romae, Suburbium"
+   ],
+   "volume": "II",
+   "pages": "32-44",
+   "language": "lat",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Spera L. 2004b, *Balbinae coemeterium*, in *Lexicon Topographicum Urbis Romae, Suburbium*, II, 201-205.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Spera",
+     "given": "L."
+    }
+   ],
+   "date": "2004",
+   "title": "Balbinae coemeterium",
+   "is_part_of": [
+    "Lexicon Topographicum Urbis Romae, Suburbium"
+   ],
+   "volume": "II",
+   "pages": "201-205",
+   "language": "lat",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Spera L. 2006, *Marci et Marcelliani Basilica, ecclesia*, in *Lexicon Topographicum Urbis Romae, Suburbium*, IV, 28-31.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Spera",
+     "given": "L."
+    }
+   ],
+   "date": "2006",
+   "title": "Marci et Marcelliani Basilica, ecclesia",
+   "is_part_of": [
+    "Lexicon Topographicum Urbis Romae, Suburbium"
+   ],
+   "volume": "IV",
+   "pages": "28-31",
+   "language": "lat",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Spera L. 2004, *Antiche strade. Lazio: Via Appia. I* (in collaborazione con S. Mineo), Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Spera",
+     "given": "L."
+    }
+   ],
+   "date": "2004",
+   "title": "Antiche strade. Lazio: Via Appia. I",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "'in collaborazione con S. Mineo' not recorded as author",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Ventriglia U. 1971, *La geologia della città di Roma*, Roma, Provincia di Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ventriglia",
+     "given": "U."
+    }
+   ],
+   "date": "1971",
+   "title": "La geologia della città di Roma",
+   "publisher": "Provincia di Roma",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

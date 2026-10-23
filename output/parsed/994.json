@@ -1,0 +1,91 @@
+{
+ "citing_aec_id": 994,
+ "source_file": "data/journal/29/994.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Casini L. 2017, Valorizzazione e gestione, in C. Barbati, M. Cammelli, L. Casini, G. Piperata, G. Sciullo, Diritto del patrimonio culturale, Bologna Il Mulino, 191-241.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Casini",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barbati",
+     "given": "C."
+    },
+    {
+     "family": "Cammelli",
+     "given": "M."
+    },
+    {
+     "family": "Casini",
+     "given": "L."
+    },
+    {
+     "family": "Piperata",
+     "given": "G."
+    },
+    {
+     "family": "Sciullo",
+     "given": "G."
+    }
+   ],
+   "date": "2017",
+   "title": "Valorizzazione e gestione",
+   "is_part_of": [
+    "Diritto del patrimonio culturale"
+   ],
+   "pages": "191-241",
+   "publisher": "Il Mulino",
+   "place": "Bologna",
+   "language": "ita",
+   "notes": "authors of the volume cited without (eds.)",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Ferretti A. 2007, Diritto dei Beni Culturali e del Paesaggio, Napoli², Edizioni Giuridiche Simone.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ferretti",
+     "given": "A."
+    }
+   ],
+   "date": "2007",
+   "title": "Diritto dei Beni Culturali e del Paesaggio",
+   "edition": "2",
+   "publisher": "Edizioni Giuridiche Simone",
+   "place": "Napoli",
+   "language": "ita",
+   "notes": "cited as 'Napoli²'",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Paolucci A. 2010, Una politica per i beni culturali, in XXI Secolo, Roma, Istituto della Enciclopedia Italiana Treccani (http://www.treccani.it/enciclopedia/una-politica-per-i-beni-culturali_%28XXI-Secolo%29/; ultimo accesso: 10/02/2018).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Paolucci",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Una politica per i beni culturali",
+   "is_part_of": [
+    "XXI Secolo"
+   ],
+   "publisher": "Istituto della Enciclopedia Italiana Treccani",
+   "place": "Roma",
+   "uri": "http://www.treccani.it/enciclopedia/una-politica-per-i-beni-culturali_%28XXI-Secolo%29/",
+   "language": "ita",
+   "notes": "last access 10/02/2018",
+   "confidence": "high"
+  }
+ ]
+}

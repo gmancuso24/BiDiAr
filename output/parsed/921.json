@@ -1,0 +1,486 @@
+{
+ "citing_aec_id": 921,
+ "source_file": "data/journal/28/921.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Agugiaro G. 2014, *2D & 3D GIS and web-based visualization*, in Campana, Remondino 2014, 103-114.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Agugiaro",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2014",
+   "title": "2D & 3D GIS and web-based visualization",
+   "is_part_of": [
+    "3D Recording and Modelling in Archaeology and Cultural Heritage. Theory and Best Practices"
+   ],
+   "pages": "103-114",
+   "series": "BAR International Series",
+   "series_number": "2598",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 7
+  },
+  {
+   "position": 2,
+   "raw": "Bianchini M. 2008, *Manuale di rilievo e di documentazione digitale in archeologia*, Roma, Aracne.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bianchini",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "Manuale di rilievo e di documentazione digitale in archeologia",
+   "publisher": "Aracne",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Bogdani J. 2009, *Banche dati archeologiche*, in E. Giorgi (ed.), *Groma 2. In profondità senza scavare*, Bologna, BraDypUS, 439-449.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giorgi",
+     "given": "E."
+    }
+   ],
+   "date": "2009",
+   "title": "Banche dati archeologiche",
+   "is_part_of": [
+    "Groma 2. In profondità senza scavare"
+   ],
+   "pages": "439-449",
+   "publisher": "BraDypUS",
+   "place": "Bologna",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Bogdani J., Fiorini A., Silani M., Zanfini M. 2007, *Esperienze di stereofotogrammetria archeologica*, «Ocnus», 15, 27-44.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Silani",
+     "given": "M."
+    },
+    {
+     "family": "Zanfini",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Esperienze di stereofotogrammetria archeologica",
+   "is_part_of": [
+    "Ocnus"
+   ],
+   "volume": "15",
+   "pages": "27-44",
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "Böhler W., Marbs A. 2004, *3D scanning and photogrammetry for heritage recording: A comparison*, in *Geoinformatics 2004. Geospatial Information Research: Bridging the Pacific and Atlantic. Proceedings of 12th International Conference on Geoinformatics (Gävle 2004)*, Gävle, Gävle University Press, 291-298.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Böhler",
+     "given": "W."
+    },
+    {
+     "family": "Marbs",
+     "given": "A."
+    }
+   ],
+   "date": "2004",
+   "title": "3D scanning and photogrammetry for heritage recording: A comparison",
+   "is_part_of": [
+    "Geoinformatics 2004. Geospatial Information Research: Bridging the Pacific and Atlantic. Proceedings of 12th International Conference on Geoinformatics (Gävle 2004)"
+   ],
+   "pages": "291-298",
+   "publisher": "Gävle University Press",
+   "place": "Gävle",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Buscemi F., Militello P., D'Agostino G., Sammito A.M. 2014, *Tecniche di fotomodellazione per la documentazione e la comunicazione in archeologia: il sito di Calicantone (RG)*, «Archeologia e Calcolatori», 25, 131-156.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Buscemi",
+     "given": "F."
+    },
+    {
+     "family": "Militello",
+     "given": "P."
+    },
+    {
+     "family": "D'Agostino",
+     "given": "G."
+    },
+    {
+     "family": "Sammito",
+     "given": "A.M."
+    }
+   ],
+   "date": "2014",
+   "title": "Tecniche di fotomodellazione per la documentazione e la comunicazione in archeologia: il sito di Calicantone (RG)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "25",
+   "pages": "131-156",
+   "language": "ita",
+   "cited_aec_id": 719
+  },
+  {
+   "position": 7,
+   "raw": "Campana S., Remondino F. (eds.) 2014, *3D Recording and Modelling in Archaeology and Cultural Heritage. Theory and Best Practices*, BAR International Series 2598, Oxford, Archaeopress.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2014",
+   "title": "3D Recording and Modelling in Archaeology and Cultural Heritage. Theory and Best Practices",
+   "series": "BAR International Series",
+   "series_number": "2598",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "De Donatis M., Lepore G., Susini S., Silani M., Boschi E., Favelli D. 2012, *Sistemi Informativi Geografici e modellazione tridimensionale per la geo-archeologia a Senigallia: nuove scoperte e nuove ipotesi*, «Rendiconti Online della Società Geologica Italiana», 19, 16-19.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Donatis",
+     "given": "M."
+    },
+    {
+     "family": "Lepore",
+     "given": "G."
+    },
+    {
+     "family": "Susini",
+     "given": "S."
+    },
+    {
+     "family": "Silani",
+     "given": "M."
+    },
+    {
+     "family": "Boschi",
+     "given": "E."
+    },
+    {
+     "family": "Favelli",
+     "given": "D."
+    }
+   ],
+   "date": "2012",
+   "title": "Sistemi Informativi Geografici e modellazione tridimensionale per la geo-archeologia a Senigallia: nuove scoperte e nuove ipotesi",
+   "is_part_of": [
+    "Rendiconti Online della Società Geologica Italiana"
+   ],
+   "volume": "19",
+   "pages": "16-19",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "Hartley R.I., Zissermann A. 2004, *Multiple View Geometry in Computer Vision*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hartley",
+     "given": "R.I."
+    },
+    {
+     "family": "Zisserman",
+     "given": "A."
+    }
+   ],
+   "date": "2004",
+   "title": "Multiple View Geometry in Computer Vision",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "notes": "\"Zissermann\" as cited"
+  },
+  {
+   "position": 10,
+   "raw": "Kersten T.P., Lindstaedt M. 2012, *Image-based low-cost systems for automatic 3D recording and modelling of archaeological finds and objects*, in M. Ioannides, D. Fritsch, J. Leissner, R. Davies, R. Remondino, R. Caffo (eds.), *Progress in Cultural Heritage Preservation. Proceedings of the 4th International Conference EuroMed (Limassol 2012)*, New York, Springer, 1-10.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kersten",
+     "given": "T.P."
+    },
+    {
+     "family": "Lindstaedt",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Fritsch",
+     "given": "D."
+    },
+    {
+     "family": "Leissner",
+     "given": "J."
+    },
+    {
+     "family": "Davies",
+     "given": "R."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Caffo",
+     "given": "R."
+    }
+   ],
+   "date": "2012",
+   "title": "Image-based low-cost systems for automatic 3D recording and modelling of archaeological finds and objects",
+   "is_part_of": [
+    "Progress in Cultural Heritage Preservation. Proceedings of the 4th International Conference EuroMed (Limassol 2012)"
+   ],
+   "pages": "1-10",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Mandolesi L., Cocca E. 2013, *PyArchInit: gli sviluppi dopo ArcheoFOSS 2009*, «Archeologia e Calcolatori», 24, 128-138.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    },
+    {
+     "family": "Cocca",
+     "given": "E."
+    }
+   ],
+   "date": "2013",
+   "title": "PyArchInit: gli sviluppi dopo ArcheoFOSS 2009",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "24",
+   "pages": "128-138",
+   "language": "ita",
+   "cited_aec_id": 697,
+   "notes": "cited as AeC 24; metadata: AeC Suppl. 4 (2013)",
+   "confidence": "low"
+  },
+  {
+   "position": 12,
+   "raw": "Paris L. 2012, *Fotogrammetria e/o fotomodellazione. Memoria e innovazione*, Roma, Kappa, 55-62.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Paris",
+     "given": "L."
+    }
+   ],
+   "date": "2012",
+   "title": "Fotogrammetria e/o fotomodellazione. Memoria e innovazione",
+   "pages": "55-62",
+   "publisher": "Kappa",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "container missing in the citation (title ends with \"Roma, Kappa, 55-62\")",
+   "confidence": "low"
+  },
+  {
+   "position": 13,
+   "raw": "Remondino F., El-Hakim S. 2006, *Image-based 3D modelling: A review*, «The Photogrammetric Record», 21, 115, 269-291.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "El-Hakim",
+     "given": "S."
+    }
+   ],
+   "date": "2006",
+   "title": "Image-based 3D modelling: A review",
+   "is_part_of": [
+    "The Photogrammetric Record"
+   ],
+   "volume": "21",
+   "issue": "115",
+   "pages": "269-291",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Sacchetti F. 2005, *I nuovi scavi del Dipartimento di Archeologia nella città etrusca di Marzabotto (Regio I, insula 5): le tecniche del rilievo*, in Sassatelli, Govi 2005, 63-72.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sacchetti",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "date": "2005",
+   "title": "I nuovi scavi del Dipartimento di Archeologia nella città etrusca di Marzabotto (Regio I, insula 5): le tecniche del rilievo",
+   "is_part_of": [
+    "Culti, forma urbana e artigianato a Marzabotto. Nuove prospettive di ricerca. Atti del Convegno di Studi (Bologna 2003)"
+   ],
+   "pages": "63-72",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "language": "ita",
+   "xref": 15
+  },
+  {
+   "position": 15,
+   "raw": "Sassatelli G., Govi E. (eds.) 2005, *Culti, forma urbana e artigianato a Marzabotto. Nuove prospettive di ricerca. Atti del Convegno di Studi (Bologna 2003)*, Bologna, Ante Quem.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "date": "2005",
+   "title": "Culti, forma urbana e artigianato a Marzabotto. Nuove prospettive di ricerca. Atti del Convegno di Studi (Bologna 2003)",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Sfacteria M. 2016, *Fotomodellazione 3D e rilievo speditivo del Philosophiana Project*, «Archeologia e Calcolatori», 27, 271-289.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sfacteria",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "Fotomodellazione 3D e rilievo speditivo del Philosophiana Project",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "27",
+   "pages": "271-289",
+   "language": "ita",
+   "cited_aec_id": 852
+  },
+  {
+   "position": 17,
+   "raw": "Sordini M., Brogi F., Campana S. 2015, *3D recording of archaeological excavation: The case of study of Santa Marta, Tuscany, Italy*, in S. Campana, R. Scopigno, G. Carpentiero, M. Cirillo (eds.), *CAA2015. Keep the Revolution Going. Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology*, Oxford, Archaeopress, 383-392.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sordini",
+     "given": "M."
+    },
+    {
+     "family": "Brogi",
+     "given": "F."
+    },
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Scopigno",
+     "given": "R."
+    },
+    {
+     "family": "Carpentiero",
+     "given": "G."
+    },
+    {
+     "family": "Cirillo",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "3D recording of archaeological excavation: The case of study of Santa Marta, Tuscany, Italy",
+   "is_part_of": [
+    "CAA2015. Keep the Revolution Going. Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Siena 2015)"
+   ],
+   "pages": "383-392",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  }
+ ]
+}

@@ -1,0 +1,743 @@
+{
+ "citing_aec_id": 1000,
+ "source_file": "data/journal/29/1000.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Albano A., Ghelli G., Orsini R. 2007, *Fondamenti di basi di dati*, Bologna, Zanichelli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Albano",
+     "given": "A."
+    },
+    {
+     "family": "Ghelli",
+     "given": "G."
+    },
+    {
+     "family": "Orsini",
+     "given": "R."
+    }
+   ],
+   "date": "2007",
+   "title": "Fondamenti di basi di dati",
+   "publisher": "Zanichelli",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Archi A. 1986, *The archives of Ebla*, in K.R. Veenhof (ed.), *Cuneiform Archives and Libraries*, PIHANS 57, Leiden, Nederlands Historisch-Archaeologisch Instituut te Istanbul, 73-86.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Archi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Veenhof",
+     "given": "K.R."
+    }
+   ],
+   "date": "1986",
+   "title": "The archives of Ebla",
+   "is_part_of": [
+    "Cuneiform Archives and Libraries"
+   ],
+   "series": "PIHANS",
+   "series_number": "57",
+   "pages": "73-86",
+   "publisher": "Nederlands Historisch-Archaeologisch Instituut te Istanbul",
+   "place": "Leiden",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Archi A. 2003, *Archival Record-Keeping at Ebla*, in M. Brosius (ed.), *Ancient Archives and Archival Traditions: Concepts of Record-Keeping in the Ancient World*, Oxford, Oxford University Press, 17-36.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Archi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brosius",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Archival Record-Keeping at Ebla",
+   "is_part_of": [
+    "Ancient Archives and Archival Traditions: Concepts of Record-Keeping in the Ancient World"
+   ],
+   "pages": "17-36",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Boschetti F., Grosso A.M.D. 2014, *TeiCoPhiLib: A library of components for the domain of collaborative philology*, «Journal of the Text Encoding Initiative», 8 (http://journals.openedition.org/jtei/1285; last accessed: 05/03/2018).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Boschetti",
+     "given": "F."
+    },
+    {
+     "family": "Grosso",
+     "given": "A.M.D."
+    }
+   ],
+   "date": "2014",
+   "title": "TeiCoPhiLib: A library of components for the domain of collaborative philology",
+   "is_part_of": [
+    "Journal of the Text Encoding Initiative"
+   ],
+   "volume": "8",
+   "uri": "http://journals.openedition.org/jtei/1285",
+   "language": "eng",
+   "notes": "last accessed 05/03/2018",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bray T., Paoli J., Sperberg-McQueen C.M., Maler M., Yergeau F., Cowan J. 2006, *Extensible Markup Language (XML) 1.1*, World Wide Web Consortium Recommendation (https://www.w3.org/TR/2006/REC-xml11-20060816/; last accessed: 05/03/2018).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Bray",
+     "given": "T."
+    },
+    {
+     "family": "Paoli",
+     "given": "J."
+    },
+    {
+     "family": "Sperberg-McQueen",
+     "given": "C.M."
+    },
+    {
+     "family": "Maler",
+     "given": "M."
+    },
+    {
+     "family": "Yergeau",
+     "given": "F."
+    },
+    {
+     "family": "Cowan",
+     "given": "J."
+    }
+   ],
+   "date": "2006",
+   "title": "Extensible Markup Language (XML) 1.1",
+   "publisher": "World Wide Web Consortium",
+   "uri": "https://www.w3.org/TR/2006/REC-xml11-20060816/",
+   "language": "eng",
+   "notes": "W3C Recommendation; last accessed 05/03/2018",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Buccellati G. 2011, *Digital edition and graphemic analysis of the Ebla texts*, in L. Milano (ed.), *Archivi Reali di Ebla*, Edizione Digitale, 1, Cybernetica Mesopotamica, CD 4, Malibu, Undena Publications.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buccellati",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Milano",
+     "given": "L."
+    }
+   ],
+   "date": "2011",
+   "title": "Digital edition and graphemic analysis of the Ebla texts",
+   "is_part_of": [
+    "Archivi Reali di Ebla, Edizione Digitale, 1"
+   ],
+   "series": "Cybernetica Mesopotamica",
+   "series_number": "CD 4",
+   "publisher": "Undena Publications",
+   "place": "Malibu",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Catagnoti A. 2012, *La grammatica della lingua di Ebla*, Firenze, Dipartimento di Scienze dell'Antichità.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Catagnoti",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "La grammatica della lingua di Ebla",
+   "publisher": "Dipartimento di Scienze dell'Antichità",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Del Freo M., Di Filippo F. 2014, *LiBER: un progetto di digitalizzazione dei testi in scrittura Lineare B*, «Archeologia e Calcolatori», 25, 33-50.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Del Freo",
+     "given": "M."
+    },
+    {
+     "family": "Di Filippo",
+     "given": "F."
+    }
+   ],
+   "date": "2014",
+   "title": "LiBER: un progetto di digitalizzazione dei testi in scrittura Lineare B",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "25",
+   "pages": "33-50",
+   "language": "ita",
+   "cited_aec_id": 714,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Di Filippo F. 2018, *Sinleqiunnini: Designing an annotated text collection for logo-syllabic writing systems*, in A. De Santis, I. Rossi (eds.), *Crossing Experiences in Digital Epigraphy: From Practice to Discipline*, Berlin/Boston, De Gruyter, in print.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Filippo",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Santis",
+     "given": "A."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2018",
+   "title": "Sinleqiunnini: Designing an annotated text collection for logo-syllabic writing systems",
+   "is_part_of": [
+    "Crossing Experiences in Digital Epigraphy: From Practice to Discipline"
+   ],
+   "pages": "49-64",
+   "publisher": "De Gruyter",
+   "place": "Berlin/Boston",
+   "doi": "10.1515/9783110607208-005",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://iris.cnr.it/handle/20.500.14243/356638 (CNR IRIS record: same title, author, container, 2018, pp. 49-64, DOI 10.1515/9783110607208-005)"
+   },
+   "notes": "cited 'in print'; resolved from the CNR IRIS record; the volume is De Gruyter 2018, DOI 10.1515/9783110607208 (DOAB)",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Elmasri R., Navathe S.B. 2015, *Fundamentals of database systems*, Boston, Pearson.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Elmasri",
+     "given": "R."
+    },
+    {
+     "family": "Navathe",
+     "given": "S.B."
+    }
+   ],
+   "date": "2015",
+   "title": "Fundamentals of database systems",
+   "publisher": "Pearson",
+   "place": "Boston",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Goldfarb C. 1990, *The SGML Handbook*, Oxford, Oxford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Goldfarb",
+     "given": "C."
+    }
+   ],
+   "date": "1990",
+   "title": "The SGML Handbook",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Huehnergard J., Woods C. 2004, *Akkadian and Eblaite*, in R.D. Woodard (ed.), *The Cambridge Encyclopedia of the World's Ancient Languages*, Cambridge, Cambridge University Press, 218-280.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Huehnergard",
+     "given": "J."
+    },
+    {
+     "family": "Woods",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Woodard",
+     "given": "R.D."
+    }
+   ],
+   "date": "2004",
+   "title": "Akkadian and Eblaite",
+   "is_part_of": [
+    "The Cambridge Encyclopedia of the World's Ancient Languages"
+   ],
+   "pages": "218-280",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Krebernik M. 1982, *Zu Syllabar und Orthographie der lexikalischen Texte aus Ebla. Teil 1*, «Zeitschrift für Assyriologie und Vorderasiatische Archäologie», 72, 178-236.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Krebernik",
+     "given": "M."
+    }
+   ],
+   "date": "1982",
+   "title": "Zu Syllabar und Orthographie der lexikalischen Texte aus Ebla. Teil 1",
+   "is_part_of": [
+    "Zeitschrift für Assyriologie und Vorderasiatische Archäologie"
+   ],
+   "volume": "72",
+   "pages": "178-236",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Krebernik M. 1996, *The Linguistic Classification of Eblaite, Methods, Problems, Results*, in J. Cooper, G. Schwartz (eds.), *The Study of the Ancient Near East in the Twenty-First Century: The William Foxwell Albright Centennial Conference*, Winona Lake, Eisenbrauns, 233-250.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Krebernik",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cooper",
+     "given": "J."
+    },
+    {
+     "family": "Schwartz",
+     "given": "G."
+    }
+   ],
+   "date": "1996",
+   "title": "The Linguistic Classification of Eblaite, Methods, Problems, Results",
+   "is_part_of": [
+    "The Study of the Ancient Near East in the Twenty-First Century: The William Foxwell Albright Centennial Conference"
+   ],
+   "pages": "233-250",
+   "publisher": "Eisenbrauns",
+   "place": "Winona Lake",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Macks A. 2002, *Parsing Akkadian Verbs with Prolog*, in M. Rosner, S. Wintner (eds.), *Proceedings of the ACL-02 Workshop on Computational Approaches to Semitic Language*, Philadelphia, Association for Computational Linguistics, 3-8.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Macks",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rosner",
+     "given": "M."
+    },
+    {
+     "family": "Wintner",
+     "given": "S."
+    }
+   ],
+   "date": "2002",
+   "title": "Parsing Akkadian Verbs with Prolog",
+   "is_part_of": [
+    "Proceedings of the ACL-02 Workshop on Computational Approaches to Semitic Language"
+   ],
+   "pages": "3-8",
+   "publisher": "Association for Computational Linguistics",
+   "place": "Philadelphia",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Maurizio M., Orsini R. 2010a, *A model and a language for large textual databases*, in S. Bergamaschi, S. Lodi, R. Martoglia, C. Sartori (eds.), *SEBD 2010. Proceedings of the 8th Italian Symposium on Advanced Database Systems* (Rimini 2010), Bologna, Esculapio Editore, 254-265.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Maurizio",
+     "given": "M."
+    },
+    {
+     "family": "Orsini",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bergamaschi",
+     "given": "S."
+    },
+    {
+     "family": "Lodi",
+     "given": "S."
+    },
+    {
+     "family": "Martoglia",
+     "given": "R."
+    },
+    {
+     "family": "Sartori",
+     "given": "C."
+    }
+   ],
+   "date": "2010",
+   "title": "A model and a language for large textual databases",
+   "is_part_of": [
+    "SEBD 2010. Proceedings of the 8th Italian Symposium on Advanced Database Systems (Rimini 2010)"
+   ],
+   "pages": "254-265",
+   "publisher": "Esculapio Editore",
+   "place": "Bologna",
+   "language": "eng",
+   "notes": "cited as 2010a",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Maurizio M., Orsini R. 2010b, *Manuzio: a model for digital annotated text and its query/programming language*, in M. Lalmas, J. Jose, A. Rauber, F. Sebastiani, I. Frommholz (eds.), *Proceedings of the 14th European Conference on Research and advanced technology for digital libraries*, Berlin, Springer-Verlag, 478-481.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Maurizio",
+     "given": "M."
+    },
+    {
+     "family": "Orsini",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lalmas",
+     "given": "M."
+    },
+    {
+     "family": "Jose",
+     "given": "J."
+    },
+    {
+     "family": "Rauber",
+     "given": "A."
+    },
+    {
+     "family": "Sebastiani",
+     "given": "F."
+    },
+    {
+     "family": "Frommholz",
+     "given": "I."
+    }
+   ],
+   "date": "2010",
+   "title": "Manuzio: a model for digital annotated text and its query/programming language",
+   "is_part_of": [
+    "Proceedings of the 14th European Conference on Research and advanced technology for digital libraries"
+   ],
+   "pages": "478-481",
+   "publisher": "Springer-Verlag",
+   "place": "Berlin",
+   "language": "eng",
+   "notes": "cited as 2010b",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Renear A.H., Mylonas E., Durand D. 1993, *Refining our Notion of What Text Really Is: The Problem of Overlapping Hierarchies* (https://www.ideals.illinois.edu/handle/2142/9407; last accessed: 05/03/2018).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Renear",
+     "given": "A.H."
+    },
+    {
+     "family": "Mylonas",
+     "given": "E."
+    },
+    {
+     "family": "Durand",
+     "given": "D."
+    }
+   ],
+   "date": "1993",
+   "title": "Refining our Notion of What Text Really Is: The Problem of Overlapping Hierarchies",
+   "uri": "https://www.ideals.illinois.edu/handle/2142/9407",
+   "language": "eng",
+   "notes": "last accessed 05/03/2018",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Rubio G. 2006, *Eblaite, Akkadian, and East Semitic*, in G. Deutscher, N.J. Kouwenberg (eds.), *The Akkadian Language in its Semitic Context: Studies in the Akkadian of the Third and Second Millennium BC* (PIHANS 106), Istanbul, Nederlands Historisch-Archaeologisch Instituut te Istanbul, 110-139.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rubio",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Deutscher",
+     "given": "G."
+    },
+    {
+     "family": "Kouwenberg",
+     "given": "N.J."
+    }
+   ],
+   "date": "2006",
+   "title": "Eblaite, Akkadian, and East Semitic",
+   "is_part_of": [
+    "The Akkadian Language in its Semitic Context: Studies in the Akkadian of the Third and Second Millennium BC"
+   ],
+   "series": "PIHANS",
+   "series_number": "106",
+   "pages": "110-139",
+   "publisher": "Nederlands Historisch-Archaeologisch Instituut te Istanbul",
+   "place": "Istanbul",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Rubio G. 2007, *Writing in another tongue: Alloglottography in the Ancient Near East*, in S. Sanders (ed.), *Margins of Writing, Origins of Cultures*, Oriental Institute Seminars 2, Chicago, Oriental Institute, 33-70.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rubio",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Sanders",
+     "given": "S."
+    }
+   ],
+   "date": "2007",
+   "title": "Writing in another tongue: Alloglottography in the Ancient Near East",
+   "is_part_of": [
+    "Margins of Writing, Origins of Cultures"
+   ],
+   "series": "Oriental Institute Seminars",
+   "series_number": "2",
+   "pages": "33-70",
+   "publisher": "Oriental Institute",
+   "place": "Chicago",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Rumbaugh J., Jacobson I., Booch G. 1999, *The Unified Modeling Language Reference Manual*, Reading (MA), Addison Wesley Longman Inc.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rumbaugh",
+     "given": "J."
+    },
+    {
+     "family": "Jacobson",
+     "given": "I."
+    },
+    {
+     "family": "Booch",
+     "given": "G."
+    }
+   ],
+   "date": "1999",
+   "title": "The Unified Modeling Language Reference Manual",
+   "publisher": "Addison Wesley Longman Inc.",
+   "place": "Reading (MA)",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Sallaberger W. 2001, *Die Entwicklung der Keilschrift in Ebla*, in W. Meyer, M. Nowak, A. Pruss (eds.), *Beiträge zur Vorderasiatischen Archäologie Winfried Orthmann gewidmet*, Frankfurt am Main, Johann Wolfgang Goethe-Universität, Archäologisches Institut, 436-445.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sallaberger",
+     "given": "W."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Meyer",
+     "given": "W."
+    },
+    {
+     "family": "Nowak",
+     "given": "M."
+    },
+    {
+     "family": "Pruss",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Die Entwicklung der Keilschrift in Ebla",
+   "is_part_of": [
+    "Beiträge zur Vorderasiatischen Archäologie Winfried Orthmann gewidmet"
+   ],
+   "pages": "436-445",
+   "publisher": "Johann Wolfgang Goethe-Universität, Archäologisches Institut",
+   "place": "Frankfurt am Main",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Sallaberger W., Pruss A. 2015, *Home and work in Early Bronze Age Mesopotamia: \"ration lists\" and \"private houses\" at Tell Beydar/Nabada*, in P. Steinkeller, M. Hudson (eds.), *Labor in the Ancient World* (International Scholars Conference on Ancient Near Eastern Economics 5), Dresden, Islet Verlag, 69-136.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sallaberger",
+     "given": "W."
+    },
+    {
+     "family": "Pruss",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Steinkeller",
+     "given": "P."
+    },
+    {
+     "family": "Hudson",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "Home and work in Early Bronze Age Mesopotamia: \"ration lists\" and \"private houses\" at Tell Beydar/Nabada",
+   "is_part_of": [
+    "Labor in the Ancient World"
+   ],
+   "series": "International Scholars Conference on Ancient Near Eastern Economics",
+   "series_number": "5",
+   "pages": "69-136",
+   "publisher": "Islet Verlag",
+   "place": "Dresden",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Schmidt D. 2012, *The role of markup in the digital humanities*, «Historical Social Research», 37(3), 125-146.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schmidt",
+     "given": "D."
+    }
+   ],
+   "date": "2012",
+   "title": "The role of markup in the digital humanities",
+   "is_part_of": [
+    "Historical Social Research"
+   ],
+   "volume": "37",
+   "issue": "3",
+   "pages": "125-146",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "TEI Consortium (eds.), 2007, *TEI P5: Guidelines for Electronic Text Encoding and Interchange*, V. 5, TEI Consortium (http://www.tei-c.org/Guidelines/P5/; last accessed: 05/03/2018).",
+   "type": "other",
+   "editors": [
+    {
+     "family": "TEI Consortium",
+     "given": ""
+    }
+   ],
+   "date": "2007",
+   "title": "TEI P5: Guidelines for Electronic Text Encoding and Interchange",
+   "publisher": "TEI Consortium",
+   "uri": "http://www.tei-c.org/Guidelines/P5/",
+   "language": "eng",
+   "notes": "cited 'V. 5' (version 5); last accessed 05/03/2018",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Wellisch H.H. 1981, *Ebla: The world's oldest library*, «Journal of Library History», 16, 488-500.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wellisch",
+     "given": "H.H."
+    }
+   ],
+   "date": "1981",
+   "title": "Ebla: The world's oldest library",
+   "is_part_of": [
+    "Journal of Library History"
+   ],
+   "volume": "16",
+   "pages": "488-500",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

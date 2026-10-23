@@ -1,0 +1,153 @@
+{
+ "citing_aec_id": 390,
+ "source_file": "data/journal/15/390.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ARNESE A. 2000, Un SIT per Entella (comune di Contessa Entellina, Palermo), «Archeologia e Calcolatori», 11, 339-346.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arnese",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "Un SIT per Entella (comune di Contessa Entellina, Palermo)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "339-346",
+   "language": "ita",
+   "cited_aec_id": 306,
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "ARNESE A. 2003, Il sistema informativo territoriale di Entella, in A. CORRETTI (ed.), Quarte Giornate Internazionali di Studi sull’area elima (Erice, 2000), Pisa, Pacini Editore, 61-70.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arnese",
+     "given": "A."
+    }
+   ],
+   "date": "2003",
+   "title": "Il sistema informativo territoriale di Entella",
+   "editors": [
+    {
+     "family": "Corretti",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Quarte Giornate Internazionali di Studi sull’area elima (Erice, 2000)"
+   ],
+   "pages": "61-70",
+   "publisher": "Pacini Editore",
+   "place": "Pisa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "ARNESE A. 2004, GIS for archaeological survey in Kaulonia, in K.F. AUSSERER, W. BÖRNER, M. GORIANY, L. KARLHUBER-VÖCKL (eds.), Enter the past – The E-Way for the Fourth Dimension. Proceedings of the 31st CAA Conference (Wien 2003), BAR International Series 1227, Oxford, Archeopress, CD-Rom.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arnese",
+     "given": "A."
+    }
+   ],
+   "date": "2004",
+   "title": "GIS for archaeological survey in Kaulonia",
+   "editors": [
+    {
+     "family": "Ausserer",
+     "given": "K.F."
+    },
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Goriany",
+     "given": "M."
+    },
+    {
+     "family": "Karlhuber-Vöckl",
+     "given": "L."
+    }
+   ],
+   "is_part_of": [
+    "Enter the past – The E-Way for the Fourth Dimension. Proceedings of the 31st CAA Conference (Wien 2003)"
+   ],
+   "series": "BAR International Series",
+   "series_number": "1227",
+   "publisher": "Archeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "CD-ROM",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "HODDER I., MALONE C. 1984, Intensive survey of prehistoric sites in the Stilo region, Calabria, «Proceedings of the Prehistoric Society», 50, 121-150.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    },
+    {
+     "family": "Malone",
+     "given": "C."
+    }
+   ],
+   "date": "1984",
+   "title": "Intensive survey of prehistoric sites in the Stilo region, Calabria",
+   "is_part_of": [
+    "Proceedings of the Prehistoric Society"
+   ],
+   "volume": "50",
+   "pages": "121-150",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "LINEE GUIDA 1996, Linee guida del piano paesistico regionale, Assessorato ai beni culturali e ambientali e alla pubblica istruzione, Palermo, Regione Sicilia.",
+   "type": "other",
+   "date": "1996",
+   "title": "Linee guida del piano paesistico regionale",
+   "publisher": "Regione Sicilia",
+   "place": "Palermo",
+   "language": "ita",
+   "notes": "cited in short form \"Linee guida 1996\"; Assessorato ai beni culturali e ambientali e alla pubblica istruzione",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "PARRA M.C. 1999, Modelli di carte archeologiche per un GIS di pianificazione paesistica (un caso siciliano), «Archeologia e Calcolatori», 10, 159-164.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Parra",
+     "given": "M.C."
+    }
+   ],
+   "date": "1999",
+   "title": "Modelli di carte archeologiche per un GIS di pianificazione paesistica (un caso siciliano)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "159-164",
+   "language": "ita",
+   "cited_aec_id": 273,
+   "notes": "cited pp. 159-164; AeC metadata 159-163",
+   "confidence": "high"
+  }
+ ]
+}

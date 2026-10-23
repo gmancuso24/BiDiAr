@@ -1,0 +1,480 @@
+{
+ "citing_aec_id": 57,
+ "source_file": "data/journal/4/57.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ANDRESEN J., MADSEN T., SCOLLAR I. (edd.) c.s., Computer Applications and Quantitative Methods in Archaeology 1992, in corso di stampa.",
+   "type": "proceedings",
+   "date": "1993",
+   "title": "CAA92. Computing the Past: Computer Applications and Quantitative Methods in Archaeology",
+   "editors": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "publisher": "Aarhus University Press",
+   "place": "Aarhus",
+   "cs": {
+    "status": "resolved",
+    "source": "https://archaeologicalcomputing.lincei.it/node/2120"
+   },
+   "notes": "cited 'c.s.' as Computer Applications and Quantitative Methods in Archaeology 1992; published as CAA92, Aarhus 1993",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "ARTHUR P., POLESE W., MEDRI M., GASPERETTI G. 1989, Sistema di schedatura del progetto \"Eubea\". Le schede archeologiche, Napoli (documento inedito).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Arthur",
+     "given": "P."
+    },
+    {
+     "family": "Polese",
+     "given": "W."
+    },
+    {
+     "family": "Medri",
+     "given": "M."
+    },
+    {
+     "family": "Gasperetti",
+     "given": "G."
+    }
+   ],
+   "date": "1989",
+   "title": "Sistema di schedatura del progetto \"Eubea\". Le schede archeologiche",
+   "place": "Napoli",
+   "notes": "documento inedito",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "AZZENA G., MATTARELLI P. 1987, Informatica e centri storici, in G. AZZENA, Atri. Forma e Urbanistica, Città antiche in Italia, Roma, \"L'Erma\" di Bretschneider, 106-107.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    },
+    {
+     "family": "Mattarelli",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Informatica e centri storici",
+   "editors": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Atri. Forma e Urbanistica"
+   ],
+   "pages": "106-107",
+   "series": "Città antiche in Italia",
+   "notes": "container is an authored book by G. Azzena, recorded with Azzena as editor",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "AZZENA G. 1990, Verso un modello della realtà archeologico, in P. MOSCATI (ed.), Trattamento di dati negli studi archeologici e storici, Roma, Bulzoni Editore, 57-73.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    }
+   ],
+   "date": "1990",
+   "title": "Verso un modello della realtà archeologico",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Trattamento di dati negli studi archeologici e storici"
+   ],
+   "pages": "57-73",
+   "publisher": "Bulzoni Editore",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BIANCHIMANI A., PARRA M.C. 1991, NIKE: progetto di una base di dati archeologica,« Archeologia e Calcolatori », 2, 179-203.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bianchimani",
+     "given": "A."
+    },
+    {
+     "family": "Parra",
+     "given": "M.C."
+    }
+   ],
+   "date": "1991",
+   "title": "NIKE: progetto di una base di dati archeologica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "2",
+   "pages": "179-203",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "D'ANDRIA F. (ed.) 1987, Informatica e Archeologia classica. Atti del Convegno Internazionale (Lecce 1986), Galatina, Congedo Editore.",
+   "type": "proceedings",
+   "date": "1987",
+   "title": "Informatica e archeologia classica. Atti del Convegno Internazionale. Lecce 12-13 Maggio 1986",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "publisher": "Congedo Editore",
+   "place": "Galatina",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "DATE C.J. 1990, An Introduction to Database Systems, vol. I, Addison-Wesley Publishing Company.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Date",
+     "given": "C.J."
+    }
+   ],
+   "date": "1990",
+   "title": "An Introduction to Database Systems",
+   "publisher": "Addison-Wesley Publishing Company",
+   "volume": "I",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "GAFFNEY V., STANCIC Z. 1991, GIS. Approaches to Regional Analysis: a Case Study of the Island of Hvar, Ljubljana, Research Institute of the Faculty of Arts and Science, University of Ljubljana.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1991",
+   "title": "GIS Approaches to Regional Analysis: a Case Study of the Island of Hvar",
+   "place": "Ljubljana",
+   "publisher": "Research Institute of the Faculty of Arts and Science, University of Ljubljana",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "GUERMANDI M.P. 1990, ALADINO: ver:ro un sistema computerizzato per lo studio e l'analisi dei dati archeologici, «Archeologia e Calcolatori», 1, 263-294.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "1990",
+   "title": "ALADINO: verso un sistema computerizzato per lo studio e l'analisi dei dati archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "263-294",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "MEDRI M., POLESE W. 1990, Una applicazione del programma SAXA: l'esperienza del Progetto EUBEA, in R. FRANCOVICH, D. MANACORDA (edd.), Lo scavo archeologico dalla diagnosi all'edizione, Firenze, Edizioni All'Insegna del Giglio, 315-349.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    },
+    {
+     "family": "Polese",
+     "given": "W."
+    }
+   ],
+   "date": "1990",
+   "title": "Una applicazione del programma SAXA: l'esperienza del Progetto EUBEA",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Lo scavo archeologico dalla diagnosi all'edizione"
+   ],
+   "pages": "315-349",
+   "publisher": "Edizioni All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "MOSCATI P. 1987, Archeologia e Calcolatori, Firenze, Giunti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Archeologia e Calcolatori",
+   "place": "Firenze",
+   "publisher": "Giunti",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "PAPALDO S. et al. 1988, Strutturazione dei dati delle schede di catalogo. Beni mobili archeologici e storico-artistici, Istituto Centrale per il Catalogo e la Documentazione, Roma -Istituto CNU-CE, Pisa.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Papaldo",
+     "given": "S."
+    }
+   ],
+   "date": "1988",
+   "title": "Strutturazione dei dati delle schede di catalogo. Beni mobili archeologici e storico-artistici",
+   "publisher": "Istituto Centrale per il Catalogo e la Documentazione, Roma; Istituto CNUCE, Pisa",
+   "notes": "'et al.' co-authors not listed",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "PARISE BADONI F., RUGGERI G 1ovE M. 1984, Norme per la redazione della scheda di saggio stratigrafico, Roma, Multigrafica Editrice.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Parise Badoni",
+     "given": "F."
+    },
+    {
+     "family": "Ruggeri Giove",
+     "given": "M."
+    }
+   ],
+   "date": "1984",
+   "title": "Norme per la redazione della scheda di saggio stratigrafico",
+   "place": "Roma",
+   "publisher": "Multigrafica Editrice",
+   "notes": "'RUGGERI G 1ovE M.' read as Ruggeri Giove M.",
+   "confidence": "low",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "PARISE BADONI F., RUGGERI M. 1988, Strutturazione dei dati delle schede di Catalogo. Beni archeologici immobili e territoriali, Istituto Centrale per il Catalogo e la Documentazione, Roma, Istituto CNUCE, Pisa.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Parise Badoni",
+     "given": "F."
+    },
+    {
+     "family": "Ruggeri",
+     "given": "M."
+    }
+   ],
+   "date": "1988",
+   "title": "Strutturazione dei dati delle schede di Catalogo. Beni archeologici immobili e territoriali",
+   "publisher": "Istituto Centrale per il Catalogo e la Documentazione, Roma; Istituto CNUCE, Pisa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Repertorio 1984 = Repertorio delle schede di Catalogo dei Beni Culturali, Istituto Centrale per il Catalogo e la Documentazione, Roma, Multigrafica Editrice.",
+   "type": "other",
+   "date": "1984",
+   "title": "Repertorio delle schede di Catalogo dei Beni Culturali",
+   "place": "Roma",
+   "publisher": "Multigrafica Editrice",
+   "notes": "cited as 'Repertorio 1984'; Istituto Centrale per il Catalogo e la Documentazione",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "SEMERARO G. 1990, Note sulla distribuzione delle ceramiche di importazione greca nel Salento (600-480 a.C.). Aspetti metodologici e statistici, « Archeologia e Calcolatori », 1, 111-163.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "date": "1990",
+   "title": "Note sulla distribuzione delle ceramiche di importazione greca nel Salento (600-480 a.C.). Aspetti metodologici e statistici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "111-163",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "SEMERARO G., MANGIA C. 1987, Progetto BDAR: gestione di una base di dati archeologici ed elaborazioni statistiche. L'esperienza di Otranto, in D'ANDRIA 1987, 239-261.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    },
+    {
+     "family": "Mangia",
+     "given": "C."
+    }
+   ],
+   "date": "1987",
+   "title": "Progetto BDAR: gestione di una base di dati archeologici ed elaborazioni statistiche. L'esperienza di Otranto",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Informatica e archeologia classica. Atti del Convegno Internazionale. Lecce 12-13 Maggio 1986"
+   ],
+   "pages": "239-261",
+   "xref": 6,
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "SOMMELLA P. 1987, Cartografia archeologica computerizzata, in D'ANDRIA 1987, 17-30.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Cartografia archeologica computerizzata",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Informatica e archeologia classica. Atti del Convegno Internazionale. Lecce 12-13 Maggio 1986"
+   ],
+   "pages": "17-30",
+   "xref": 6,
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "SOMMELLA P., AZZENA G., TASCIO M. 1990, Informatica e topografia storica: cinque anni di esperienza su un secolo di tradizione, «Archeologia e Calcolatori», 1, 211-236.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    },
+    {
+     "family": "Azzena",
+     "given": "G."
+    },
+    {
+     "family": "Tascio",
+     "given": "M."
+    }
+   ],
+   "date": "1990",
+   "title": "Informatica e topografia storica: cinque anni di esperienza su un secolo di tradizione",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "211-236",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "TASCIO M. 1989, Progetto per la realizzazione di cartografia numerica archeologica: avanzamento delle ricerche, in M. TASCIO, Todi. Forma e Urbanistica, Città antiche in Italia, Roma, \"L'Erma\" di Bretschneider, 125-127.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tascio",
+     "given": "M."
+    }
+   ],
+   "date": "1989",
+   "title": "Progetto per la realizzazione di cartografia numerica archeologica: avanzamento delle ricerche",
+   "editors": [
+    {
+     "family": "Tascio",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Todi. Forma e Urbanistica"
+   ],
+   "pages": "125-127",
+   "series": "Città antiche in Italia",
+   "notes": "container is an authored book by M. Tascio, recorded with Tascio as editor",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

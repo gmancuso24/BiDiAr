@@ -1,0 +1,1060 @@
+{
+ "citing_aec_id": 1214,
+ "source_file": "data/journal/33/1214.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Anichini F., Dershowitz N., Dubbini N., Gattiglia G., Itkin B., Wolf L. 2021, *The automatic recognition of ceramics from only one photo: The ArchAIDE App*, «Journal of Archaeological Science: Report», 36, 102788 (https://doi.org/10.1016/j.jasrep.2020.102788).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Dershowitz",
+     "given": "N."
+    },
+    {
+     "family": "Dubbini",
+     "given": "N."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    },
+    {
+     "family": "Itkin",
+     "given": "B."
+    },
+    {
+     "family": "Wolf",
+     "given": "L."
+    }
+   ],
+   "date": "2021",
+   "title": "The automatic recognition of ceramics from only one photo: The ArchAIDE App",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "language": "eng",
+   "volume": "35",
+   "pages": "102788",
+   "doi": "10.1016/j.jasrep.2020.102788",
+   "notes": "journal cited 'Report'; volume cited 36, corrected to 35 (same article as cited by 1209, DOI 102788)",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Anichini F., Gattiglia G. 2018, *Big archaeological data. The ArchAIDE project approach*, in *Conferenza GARR_17 Selected papers* (https://doi.org/10.26314/GARR-Conf17-proceedings-03).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    }
+   ],
+   "date": "2018",
+   "title": "Big archaeological data. The ArchAIDE project approach",
+   "is_part_of": [
+    "Conferenza GARR_17 Selected papers"
+   ],
+   "language": "eng",
+   "doi": "10.26314/GARR-Conf17-proceedings-03",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Barredo Arrieta A., Díaz-Rodríguez N., Del Ser J., Bennetot A., Tabik S., Barbado A., Garcia S., Gil-Lopez S., Molina D., Benjamins R., Chatila R., Herrera F. 2020, *Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI*, «Information Fusion», 58, 82-115 (https://doi.org/10.1016/j.inffus.2019.12.012).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barredo Arrieta",
+     "given": "A."
+    },
+    {
+     "family": "Díaz-Rodríguez",
+     "given": "N."
+    },
+    {
+     "family": "Del Ser",
+     "given": "J."
+    },
+    {
+     "family": "Bennetot",
+     "given": "A."
+    },
+    {
+     "family": "Tabik",
+     "given": "S."
+    },
+    {
+     "family": "Barbado",
+     "given": "A."
+    },
+    {
+     "family": "Garcia",
+     "given": "S."
+    },
+    {
+     "family": "Gil-Lopez",
+     "given": "S."
+    },
+    {
+     "family": "Molina",
+     "given": "D."
+    },
+    {
+     "family": "Benjamins",
+     "given": "R."
+    },
+    {
+     "family": "Chatila",
+     "given": "R."
+    },
+    {
+     "family": "Herrera",
+     "given": "F."
+    }
+   ],
+   "date": "2020",
+   "title": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
+   "is_part_of": [
+    "Information Fusion"
+   ],
+   "language": "eng",
+   "volume": "58",
+   "pages": "82-115",
+   "doi": "10.1016/j.inffus.2019.12.012",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bucher T. 2016, *Neither black nor box: Ways of knowing algorithms*, in S. Kubitschko, A. Kaun (eds.), *Innovative Methods in Media and Communication Research*, Cambridge, Palgrave Macmillan, 81-98 (https://doi.org/10.1007/978-3-319-40700-5_5).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bucher",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Kubitschko",
+     "given": "S."
+    },
+    {
+     "family": "Kaun",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Neither black nor box: Ways of knowing algorithms",
+   "is_part_of": [
+    "Innovative Methods in Media and Communication Research"
+   ],
+   "language": "eng",
+   "pages": "81-98",
+   "place": "Cambridge",
+   "publisher": "Palgrave Macmillan",
+   "doi": "10.1007/978-3-319-40700-5_5",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Burrell J. 2016, *How the machine 'thinks': Understanding opacity in Machine Learning algorithms*, «Big Data & Society», 3, 1, 1-12 (https://doi.org/10.1177/2053951715622512).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Burrell",
+     "given": "J."
+    }
+   ],
+   "date": "2016",
+   "title": "How the machine 'thinks': Understanding opacity in Machine Learning algorithms",
+   "is_part_of": [
+    "Big Data & Society"
+   ],
+   "language": "eng",
+   "volume": "3",
+   "issue": "1",
+   "pages": "1-12",
+   "doi": "10.1177/2053951715622512",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Chapman R., Wylie A. 2015, *Material Evidence. Learning from Archaeological Practice*, New York, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chapman",
+     "given": "R."
+    },
+    {
+     "family": "Wylie",
+     "given": "A."
+    }
+   ],
+   "date": "2015",
+   "title": "Material Evidence. Learning from Archaeological Practice",
+   "language": "eng",
+   "publisher": "Routledge",
+   "place": "New York",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Christin A. 2020, *The ethnographer and the algorithm: Beyond the black box*, «Theory and Society», 49, 897-918 (https://doi.org/10.1007/s11186-020-09411-3).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Christin",
+     "given": "A."
+    }
+   ],
+   "date": "2020",
+   "title": "The ethnographer and the algorithm: Beyond the black box",
+   "is_part_of": [
+    "Theory and Society"
+   ],
+   "language": "eng",
+   "volume": "49",
+   "pages": "897-918",
+   "doi": "10.1007/s11186-020-09411-3",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "de Boer B., Te Molder H., Verbeek P-P. 2018, *The perspective of the instruments: Mediating collectivity*, «Foundations of Science», 23, 4, 739-755.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "de Boer",
+     "given": "B."
+    },
+    {
+     "family": "Te Molder",
+     "given": "H."
+    },
+    {
+     "family": "Verbeek",
+     "given": "P-P."
+    }
+   ],
+   "date": "2018",
+   "title": "The perspective of the instruments: Mediating collectivity",
+   "is_part_of": [
+    "Foundations of Science"
+   ],
+   "language": "eng",
+   "volume": "23",
+   "issue": "4",
+   "pages": "739-755",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Demetis D., Lee A. S. 2018, *When humans using the IT artifact becomes IT using the human artifact*, «Journal of the Association for Information Systems», 19, 10, 929-952 (https://doi.org/10.17705/1jais.00514).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetis",
+     "given": "D."
+    },
+    {
+     "family": "Lee",
+     "given": "A.S."
+    }
+   ],
+   "date": "2018",
+   "title": "When humans using the IT artifact becomes IT using the human artifact",
+   "is_part_of": [
+    "Journal of the Association for Information Systems"
+   ],
+   "language": "eng",
+   "volume": "19",
+   "issue": "10",
+   "pages": "929-952",
+   "doi": "10.17705/1jais.00514",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Devereux B. J., Amable G. S., Crow P., Cliff A. D. 2005, *The potential of airborne lidar for detection of archaeological features under woodland canopies*, «Antiquity», 79, 305, 648-660.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Devereux",
+     "given": "B.J."
+    },
+    {
+     "family": "Amable",
+     "given": "G.S."
+    },
+    {
+     "family": "Crow",
+     "given": "P."
+    },
+    {
+     "family": "Cliff",
+     "given": "A.D."
+    }
+   ],
+   "date": "2005",
+   "title": "The potential of airborne lidar for detection of archaeological features under woodland canopies",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "language": "eng",
+   "volume": "79",
+   "issue": "305",
+   "pages": "648-660",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Eve S. 2012, *Augmenting phenomenology: Using augmented reality to aid archaeological phenomenology in the landscape*, «Journal of Archaeological Method and Theory», 19, 4, 582-600.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Eve",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Augmenting phenomenology: Using augmented reality to aid archaeological phenomenology in the landscape",
+   "is_part_of": [
+    "Journal of Archaeological Method and Theory"
+   ],
+   "language": "eng",
+   "volume": "19",
+   "issue": "4",
+   "pages": "582-600",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Eve S. 2017, *The embodied GIS. Using Mixed Reality to explore multi-sensory archaeological landscapes*, «Internet Archaeology», 44 (https://doi.org/10.11141/ia.44.3).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Eve",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "The embodied GIS. Using Mixed Reality to explore multi-sensory archaeological landscapes",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "language": "eng",
+   "volume": "44",
+   "doi": "10.11141/ia.44.3",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Friedrich A.B., Mason J., Malone J.R. 2022, *Rethinking explainability: Toward a postphenomenology of black-box artificial intelligence in medicine*, «Ethics and Information Technology», 24, 8 (https://doi.org/10.1007/s10676-022-09631-4).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Friedrich",
+     "given": "A.B."
+    },
+    {
+     "family": "Mason",
+     "given": "J."
+    },
+    {
+     "family": "Malone",
+     "given": "J.R."
+    }
+   ],
+   "date": "2022",
+   "title": "Rethinking explainability: Toward a postphenomenology of black-box artificial intelligence in medicine",
+   "is_part_of": [
+    "Ethics and Information Technology"
+   ],
+   "language": "eng",
+   "volume": "24",
+   "pages": "8",
+   "doi": "10.1007/s10676-022-09631-4",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Gattiglia G. 2015, *Think big about data: Archaeology and the Big Data challenge*, «Archäologische Informationen», 38, 113-124.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    }
+   ],
+   "date": "2015",
+   "title": "Think big about data: Archaeology and the Big Data challenge",
+   "is_part_of": [
+    "Archäologische Informationen"
+   ],
+   "language": "eng",
+   "volume": "38",
+   "pages": "113-124",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Gertz N. 2018, *Nihilism and Technology*, Lanham, Rowman & Littlefield.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gertz",
+     "given": "N."
+    }
+   ],
+   "date": "2018",
+   "title": "Nihilism and Technology",
+   "language": "eng",
+   "publisher": "Rowman & Littlefield",
+   "place": "Lanham",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Gillings M., Hacigüzeller P., Lock G.R. (eds.) 2020, *Archaeological Spatial Analysis: A Methodological Guide*, New York, Routledge.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    },
+    {
+     "family": "Hacigüzeller",
+     "given": "P."
+    },
+    {
+     "family": "Lock",
+     "given": "G.R."
+    }
+   ],
+   "date": "2020",
+   "title": "Archaeological Spatial Analysis: A Methodological Guide",
+   "language": "eng",
+   "publisher": "Routledge",
+   "place": "New York",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Gualandi M.L., Gattiglia G., Anichini F. 2021, *An open system for collection and automatic recognition of pottery through neural network algorithms*, «Heritage», 4, 1, 140-159 (https://doi.org/10.3390/heritage4010009).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gualandi",
+     "given": "M.L."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    },
+    {
+     "family": "Anichini",
+     "given": "F."
+    }
+   ],
+   "date": "2021",
+   "title": "An open system for collection and automatic recognition of pottery through neural network algorithms",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "language": "eng",
+   "volume": "4",
+   "issue": "1",
+   "pages": "140-159",
+   "doi": "10.3390/heritage4010009",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Hacigüzeller P. 2012, *GIS, critique, representation and beyond*, «Journal of Social Archaeology», 12, 2, 245-263.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hacigüzeller",
+     "given": "P."
+    }
+   ],
+   "date": "2012",
+   "title": "GIS, critique, representation and beyond",
+   "is_part_of": [
+    "Journal of Social Archaeology"
+   ],
+   "language": "eng",
+   "volume": "12",
+   "issue": "2",
+   "pages": "245-263",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Hayles N. K. 2017, *Unthought: The Power of the Cognitive Nonconscious*, Chicago, University of Chicago Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hayles",
+     "given": "N.K."
+    }
+   ],
+   "date": "2017",
+   "title": "Unthought: The Power of the Cognitive Nonconscious",
+   "language": "eng",
+   "publisher": "University of Chicago Press",
+   "place": "Chicago",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "He K., Zhang X., Ren S., Sun J. 2016, *Deep residual learning for image recognition*, in *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*, 770-778.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "He",
+     "given": "K."
+    },
+    {
+     "family": "Zhang",
+     "given": "X."
+    },
+    {
+     "family": "Ren",
+     "given": "S."
+    },
+    {
+     "family": "Sun",
+     "given": "J."
+    }
+   ],
+   "date": "2016",
+   "title": "Deep residual learning for image recognition",
+   "is_part_of": [
+    "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition"
+   ],
+   "language": "eng",
+   "pages": "770-778",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Huggett J. 2017, *The apparatus of Digital Archaeology*, «Internet Archaeology», 44 (https://doi.org/10.11141/ia.44.7).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    }
+   ],
+   "date": "2017",
+   "title": "The apparatus of Digital Archaeology",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "language": "eng",
+   "volume": "44",
+   "doi": "10.11141/ia.44.7",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Huggett J. 2021, *Algorithmic agency and autonomy in archaeological practice*, «Open Archaeology», 7, 1, 417-434 (https://doi.org/10.1515/opar-2020-0136).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    }
+   ],
+   "date": "2021",
+   "title": "Algorithmic agency and autonomy in archaeological practice",
+   "is_part_of": [
+    "Open Archaeology"
+   ],
+   "language": "eng",
+   "volume": "7",
+   "issue": "1",
+   "pages": "417-434",
+   "doi": "10.1515/opar-2020-0136",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Ihde D. 1990, *Technology and the Lifeworld: From Garden to Earth*, Indianapolis, Indiana University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ihde",
+     "given": "D."
+    }
+   ],
+   "date": "1990",
+   "title": "Technology and the Lifeworld: From Garden to Earth",
+   "language": "eng",
+   "publisher": "Indiana University Press",
+   "place": "Indianapolis",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Ihde D. 2005, *More material hermeneutics*, in *Yearbook 2005 of the Institute for Advanced Studies on Science. Technology and Society*, Profil, Technology and Society, 341-350.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ihde",
+     "given": "D."
+    }
+   ],
+   "date": "2005",
+   "title": "More material hermeneutics",
+   "is_part_of": [
+    "Yearbook 2005 of the Institute for Advanced Studies on Science. Technology and Society"
+   ],
+   "language": "eng",
+   "pages": "341-350",
+   "publisher": "Profil",
+   "notes": "publisher cited 'Profil, Technology and Society'",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Ihde D. 2009, *Postphenomenology and Technoscience: the Peking University Lectures*, Albany, Suny Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ihde",
+     "given": "D."
+    }
+   ],
+   "date": "2009",
+   "title": "Postphenomenology and Technoscience: the Peking University Lectures",
+   "language": "eng",
+   "publisher": "Suny Press",
+   "place": "Albany",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Ihde D. 2012, *Technics and Praxis: A Philosophy of Technology*, New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ihde",
+     "given": "D."
+    }
+   ],
+   "date": "2012",
+   "title": "Technics and Praxis: A Philosophy of Technology",
+   "language": "eng",
+   "publisher": "Springer",
+   "place": "New York",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Kiran A.H. 2015, *Four dimensions of technological mediation*, in R. Rosenberger, P.-P. Verbeek (eds.), *Postphenomenological Investigations: Essays on Human-Technology Relations*, Lanham, Lexington Books, 123-140.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kiran",
+     "given": "A.H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rosenberger",
+     "given": "R."
+    },
+    {
+     "family": "Verbeek",
+     "given": "P.-P."
+    }
+   ],
+   "date": "2015",
+   "title": "Four dimensions of technological mediation",
+   "is_part_of": [
+    "Postphenomenological Investigations: Essays on Human-Technology Relations"
+   ],
+   "language": "eng",
+   "pages": "123-140",
+   "place": "Lanham",
+   "publisher": "Lexington Books",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Latour B., Woolgar S. 1986, *Laboratory Life: The Construction of Scientific Facts*, Princeton, Princeton University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Latour",
+     "given": "B."
+    },
+    {
+     "family": "Woolgar",
+     "given": "S."
+    }
+   ],
+   "date": "1986",
+   "title": "Laboratory Life: The Construction of Scientific Facts",
+   "language": "eng",
+   "publisher": "Princeton University Press",
+   "place": "Princeton",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Lercari N. 2017, *3D visualization and reflexive archaeology: A virtual reconstruction of Çatalhöyük history houses*, «Digital Applications in Archaeology and Cultural Heritage», 6, 10-17 (http://doi.org/10.1016/j.daach.2017.03.001).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lercari",
+     "given": "N."
+    }
+   ],
+   "date": "2017",
+   "title": "3D visualization and reflexive archaeology: A virtual reconstruction of Çatalhöyük history houses",
+   "is_part_of": [
+    "Digital Applications in Archaeology and Cultural Heritage"
+   ],
+   "language": "eng",
+   "volume": "6",
+   "pages": "10-17",
+   "doi": "10.1016/j.daach.2017.03.001",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Liberati N. 2016, *Augmented Reality and ubiquitous computing: The hidden potentialities of Augmented Reality*, «AI & SOCIETY», 31, 1, 17-28 (https://doi.org/10.1007/s00146-014-0543-x).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Liberati",
+     "given": "N."
+    }
+   ],
+   "date": "2016",
+   "title": "Augmented Reality and ubiquitous computing: The hidden potentialities of Augmented Reality",
+   "is_part_of": [
+    "AI & SOCIETY"
+   ],
+   "language": "eng",
+   "volume": "31",
+   "issue": "1",
+   "pages": "17-28",
+   "doi": "10.1007/s00146-014-0543-x",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Manovich L. 2013, *Software Takes Command*, New York, Bloomsbury Academic.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Manovich",
+     "given": "L."
+    }
+   ],
+   "date": "2013",
+   "title": "Software Takes Command",
+   "language": "eng",
+   "publisher": "Bloomsbury Academic",
+   "place": "New York",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Merleau-Ponty M. 1962, *The Phenomenology of Perception*, New York, Humanities Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Merleau-Ponty",
+     "given": "M."
+    }
+   ],
+   "date": "1962",
+   "title": "The Phenomenology of Perception",
+   "language": "eng",
+   "publisher": "Humanities Press",
+   "place": "New York",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Morgan C. 2019, *Avatars, monsters, and machines: A cyborg archaeology*, «European Journal of Archaeology», 22, 3, 324-337 (https://doi.org/10.1017/eaa.2019.22).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Morgan",
+     "given": "C."
+    }
+   ],
+   "date": "2019",
+   "title": "Avatars, monsters, and machines: A cyborg archaeology",
+   "is_part_of": [
+    "European Journal of Archaeology"
+   ],
+   "language": "eng",
+   "volume": "22",
+   "issue": "3",
+   "pages": "324-337",
+   "doi": "10.1017/eaa.2019.22",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Museo Archeologico di Napoli 2021, *La tecnologia per il restauro del Mosaico di Alessandro* (Facebook post: https://www.facebook.com/watch/?v=861676827956572) Last accessed: 12 March 2021.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Museo Archeologico di Napoli",
+     "given": ""
+    }
+   ],
+   "date": "2021",
+   "title": "La tecnologia per il restauro del Mosaico di Alessandro",
+   "language": "ita",
+   "uri": "https://www.facebook.com/watch/?v=861676827956572",
+   "notes": "Facebook post; last accessed 12 March 2021; corporate author entered as family name only",
+   "confidence": "medium"
+  },
+  {
+   "position": 35,
+   "raw": "O'Neil C. 2016, *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, London, Allen Lane.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "O'Neil",
+     "given": "C."
+    }
+   ],
+   "date": "2016",
+   "title": "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy",
+   "language": "eng",
+   "publisher": "Allen Lane",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Rosenberger R., Verbeek P.-P. 2015, *A field guide to postphenomenology*, in R. Rosenberger, P.-P. Verbeek (eds.), *Postphenomenological Investigations: Essays on Human-Technology Relations*, Lanham, Lexington Books, 9-41.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rosenberger",
+     "given": "R."
+    },
+    {
+     "family": "Verbeek",
+     "given": "P.-P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rosenberger",
+     "given": "R."
+    },
+    {
+     "family": "Verbeek",
+     "given": "P.-P."
+    }
+   ],
+   "date": "2015",
+   "title": "A field guide to postphenomenology",
+   "is_part_of": [
+    "Postphenomenological Investigations: Essays on Human-Technology Relations"
+   ],
+   "language": "eng",
+   "pages": "9-41",
+   "place": "Lanham",
+   "publisher": "Lexington Books",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Striphas T. 2015, *Algorithmic culture*, «European Journal of Cultural Studies», 18, 4-5, 395-412 (https://doi.org/10.1177/1367549415577392).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Striphas",
+     "given": "T."
+    }
+   ],
+   "date": "2015",
+   "title": "Algorithmic culture",
+   "is_part_of": [
+    "European Journal of Cultural Studies"
+   ],
+   "language": "eng",
+   "volume": "18",
+   "issue": "4-5",
+   "pages": "395-412",
+   "doi": "10.1177/1367549415577392",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Štular B., Lozić E. 2020, *Comparison of filters for archaeology-specific ground extraction from airborne LiDAR point clouds*, «Remote Sensing», 12, 18, 3025 (https://doi.org/10.3390/rs12183025).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Štular",
+     "given": "B."
+    },
+    {
+     "family": "Lozić",
+     "given": "E."
+    }
+   ],
+   "date": "2020",
+   "title": "Comparison of filters for archaeology-specific ground extraction from airborne LiDAR point clouds",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "language": "eng",
+   "volume": "12",
+   "issue": "18",
+   "pages": "3025",
+   "doi": "10.3390/rs12183025",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "The Artefact Kit 2017, *The Heritage Jam* (https://heritagejam.hosted.york.ac.uk/). Last accessed: 22 December 2021.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "The Artefact Kit",
+     "given": ""
+    }
+   ],
+   "date": "2017",
+   "title": "The Heritage Jam",
+   "language": "eng",
+   "uri": "https://heritagejam.hosted.york.ac.uk/",
+   "notes": "web resource; last accessed 22 December 2021; corporate author entered as family name only",
+   "confidence": "medium"
+  },
+  {
+   "position": 40,
+   "raw": "Verbeek P.-P. 2005, *What Things Do: Philosophical Reflections on Technology, Agency, and Design*, University Park, Pennsylvania State University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Verbeek",
+     "given": "P.-P."
+    }
+   ],
+   "date": "2005",
+   "title": "What Things Do: Philosophical Reflections on Technology, Agency, and Design",
+   "language": "eng",
+   "publisher": "Pennsylvania State University Press",
+   "place": "University Park",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Verbeek P.-P. 2008, *Cyborg intentionality: Rethinking the phenomenology of human-technology relations*, «Phenomenology and the Cognitive Sciences», 7, 3, 387-395 (https://doi.org/10.1007/s11097-008-9099-x).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Verbeek",
+     "given": "P.-P."
+    }
+   ],
+   "date": "2008",
+   "title": "Cyborg intentionality: Rethinking the phenomenology of human-technology relations",
+   "is_part_of": [
+    "Phenomenology and the Cognitive Sciences"
+   ],
+   "language": "eng",
+   "volume": "7",
+   "issue": "3",
+   "pages": "387-395",
+   "doi": "10.1007/s11097-008-9099-x",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Wellner G. 2018, *From cellphones to machine learning. A shift in the role of the user in algorithmic writing*, in A. Romele, E. Terrone (eds.), *Towards a Philosophy of Digital Media*, Berlin-New York, Springer, 205-224.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wellner",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Romele",
+     "given": "A."
+    },
+    {
+     "family": "Terrone",
+     "given": "E."
+    }
+   ],
+   "date": "2018",
+   "title": "From cellphones to machine learning. A shift in the role of the user in algorithmic writing",
+   "is_part_of": [
+    "Towards a Philosophy of Digital Media"
+   ],
+   "language": "eng",
+   "pages": "205-224",
+   "place": "Berlin-New York",
+   "publisher": "Springer",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Wellner G. 2020, *Material hermeneutic of digital technologies in the age of AI*, «AI & SOCIETY» (https://doi.org/10.1007/s00146-020-00952-w).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wellner",
+     "given": "G."
+    }
+   ],
+   "date": "2020",
+   "title": "Material hermeneutic of digital technologies in the age of AI",
+   "is_part_of": [
+    "AI & SOCIETY"
+   ],
+   "language": "eng",
+   "doi": "10.1007/s00146-020-00952-w",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Wiltse H. 2014, *Unpacking digital material mediation*, «Techné: Research in Philosophy and Technology», 18, 3, 154-182.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wiltse",
+     "given": "H."
+    }
+   ],
+   "date": "2014",
+   "title": "Unpacking digital material mediation",
+   "is_part_of": [
+    "Techné: Research in Philosophy and Technology"
+   ],
+   "language": "eng",
+   "volume": "18",
+   "issue": "3",
+   "pages": "154-182",
+   "confidence": "high"
+  }
+ ]
+}

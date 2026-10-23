@@ -1,0 +1,517 @@
+{
+ "citing_aec_id": 116,
+ "source_file": "data/journal/6/116.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ADROHER A., BARTUREN J., BORREDA R., LLAVANERAS N., PONS E., TABERNERO E., CONTRERAS F., MARTIN A. 1992, La campanya de 1991 a Mas Castellar-Pontós: un exemple de prospecció arqueològica, in Primeres Jornades d’Arqueologia de les Comarques de Girona, Sant Feliu de Guíxols, 44-50.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Adroher",
+     "given": "A."
+    },
+    {
+     "family": "Barturen",
+     "given": "J."
+    },
+    {
+     "family": "Borreda",
+     "given": "R."
+    },
+    {
+     "family": "Llavaneras",
+     "given": "N."
+    },
+    {
+     "family": "Pons",
+     "given": "E."
+    },
+    {
+     "family": "Tabernero",
+     "given": "E."
+    },
+    {
+     "family": "Contreras",
+     "given": "F."
+    },
+    {
+     "family": "Martin",
+     "given": "A."
+    }
+   ],
+   "date": "1992",
+   "title": "La campanya de 1991 a Mas Castellar-Pontós: un exemple de prospecció arqueològica",
+   "is_part_of": [
+    "Primeres Jornades d’Arqueologia de les Comarques de Girona"
+   ],
+   "place": "Sant Feliu de Guíxols",
+   "pages": "44-50",
+   "language": "cat",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "BURILLO F., IBAÑEZ J. 1990, Configuración de la Base de Datos y ficha informatizada del Proyecto Carta Arqueológica de Aragón, Cuadernos del Instituto Aragonés de Arqueología, I, Teruel.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Burillo",
+     "given": "F."
+    },
+    {
+     "family": "Ibañez",
+     "given": "J."
+    }
+   ],
+   "date": "1990",
+   "title": "Configuración de la Base de Datos y ficha informatizada del Proyecto Carta Arqueológica de Aragón",
+   "series": "Cuadernos del Instituto Aragonés de Arqueología",
+   "series_number": "I",
+   "place": "Teruel",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BUXÓ R., COLOMER X., LÓPEZ J.B., LLORENS J.M., MARTÍN A., MATARÓ M., PONS E., TOLEDO A. 1992, L’Illa d’en Reixac (Ullastret): mètode d’excavació i sistema informàtic de registre, in Harris Matrix (Sistemes de Registre en Arqueologia), vol. 2, Pagès editors, Estudi General de Lleida, 133-184.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buxó",
+     "given": "R."
+    },
+    {
+     "family": "Colomer",
+     "given": "X."
+    },
+    {
+     "family": "López",
+     "given": "J.B."
+    },
+    {
+     "family": "Llorens",
+     "given": "J.M."
+    },
+    {
+     "family": "Martín",
+     "given": "A."
+    },
+    {
+     "family": "Mataró",
+     "given": "M."
+    },
+    {
+     "family": "Pons",
+     "given": "E."
+    },
+    {
+     "family": "Toledo",
+     "given": "A."
+    }
+   ],
+   "date": "1992",
+   "title": "L’Illa d’en Reixac (Ullastret): mètode d’excavació i sistema informàtic de registre",
+   "is_part_of": [
+    "Harris Matrix (Sistemes de Registre en Arqueologia)"
+   ],
+   "volume": "2",
+   "publisher": "Pagès editors, Estudi General de Lleida",
+   "pages": "133-184",
+   "language": "cat",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "CARBÓ A., BERGAMÍN J.F., MATEOS M.T., RIBERA Y., SIMÓN M.J., MINGARRO F., LÓPEZ DE AZCONA M.C. 1986, Prospección geofísica en la Villa romana de Carranque (Toledo), in Jornadas sobre Teledetección y Geofísica aplicadas a la arqueología, Madrid, 71-83.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Carbó",
+     "given": "A."
+    },
+    {
+     "family": "Bergamín",
+     "given": "J.F."
+    },
+    {
+     "family": "Mateos",
+     "given": "M.T."
+    },
+    {
+     "family": "Ribera",
+     "given": "Y."
+    },
+    {
+     "family": "Simón",
+     "given": "M.J."
+    },
+    {
+     "family": "Mingarro",
+     "given": "F."
+    },
+    {
+     "family": "López de Azcona",
+     "given": "M.C."
+    }
+   ],
+   "date": "1986",
+   "title": "Prospección geofísica en la Villa romana de Carranque (Toledo)",
+   "is_part_of": [
+    "Jornadas sobre Teledetección y Geofísica aplicadas a la arqueología"
+   ],
+   "place": "Madrid",
+   "pages": "71-83",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "CONTRERAS RODRIGO F. 1993, B.O.I.R.A. Base Organizativa de Información del Registro Arqueológico, Trabajo de investigación. Departamento de Historia de Sociedades Pre-capitalistas y Antropología Social. Facultad de Letras. Universidad Autónoma de Barcelona.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Contreras Rodrigo",
+     "given": "F."
+    }
+   ],
+   "date": "1993",
+   "title": "B.O.I.R.A. Base Organizativa de Información del Registro Arqueológico",
+   "publisher": "Departamento de Historia de Sociedades Pre-capitalistas y Antropología Social, Facultad de Letras, Universidad Autónoma de Barcelona",
+   "notes": "Trabajo de investigación",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "EVERGREEN CASE TOOLS, INC. 1991, EasyCase Plus version 3.0, Redmond, WA 98052 USA, Junio 1991.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Evergreen Case Tools",
+     "given": "Inc.,"
+    }
+   ],
+   "date": "1991",
+   "title": "EasyCase Plus version 3.0",
+   "place": "Redmond, WA 98052 USA",
+   "notes": "software; Junio 1991; institutional author",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "FAIRLEY R. 1989, Ingeniería del software, Ed. McGraw-Hill.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fairley",
+     "given": "R."
+    }
+   ],
+   "date": "1989",
+   "title": "Ingeniería del software",
+   "publisher": "Ed. McGraw-Hill",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "GARCÉS I., JUNYENT E., LAFUENTE A., LÓPEZ J.B. 1991, Sistema de registro y tratamiento automático de la información en el yacimiento protohistórico de Els Vilars (Arbeca, Lleida), in V.M. FERNANDEZ MARTINEZ et al., Aplicaciones Informáticas en Arqueología, Complutum, 1, Madrid, 189-210.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garcés",
+     "given": "I."
+    },
+    {
+     "family": "Junyent",
+     "given": "E."
+    },
+    {
+     "family": "Lafuente",
+     "given": "A."
+    },
+    {
+     "family": "López",
+     "given": "J.B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Fernandez Martinez",
+     "given": "V.M."
+    }
+   ],
+   "date": "1991",
+   "title": "Sistema de registro y tratamiento automático de la información en el yacimiento protohistórico de Els Vilars (Arbeca, Lleida)",
+   "is_part_of": [
+    "Aplicaciones Informáticas en Arqueología",
+    "Complutum"
+   ],
+   "volume": "1",
+   "place": "Madrid",
+   "pages": "189-210",
+   "notes": "editors \"et al.\" in citation",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "GONZALEZ DE DURANA J.M., LLANOS ACEBO H., LLANOS A., ULIVARRI V. 1986, Estudio geofísico preliminar del yacimiento arqueológico de La Hoya, Laguardia (Alava), in Jornadas sobre Teledetección y Geofísica aplicadas a la arqueología, Madrid, 99-104.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gonzalez de Durana",
+     "given": "J.M."
+    },
+    {
+     "family": "Llanos Acebo",
+     "given": "H."
+    },
+    {
+     "family": "Llanos",
+     "given": "A."
+    },
+    {
+     "family": "Ulivarri",
+     "given": "V."
+    }
+   ],
+   "date": "1986",
+   "title": "Estudio geofísico preliminar del yacimiento arqueológico de La Hoya, Laguardia (Alava)",
+   "is_part_of": [
+    "Jornadas sobre Teledetección y Geofísica aplicadas a la arqueología"
+   ],
+   "place": "Madrid",
+   "pages": "99-104",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "HOWE D.R. 1983, Data Analysis for Data Base Design, Edward Arnold, Australia.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Howe",
+     "given": "D.R."
+    }
+   ],
+   "date": "1983",
+   "title": "Data Analysis for Data Base Design",
+   "publisher": "Edward Arnold",
+   "place": "Australia",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "KERMOVANT A., PRAT F., ROMERO S., MARTINEZ L., VALDES L. 1988, Détection et exploration de gisements archéologiques par des techniques de prospection électrique et magnétique: Intérêts et limites. Un exemple d’application en Pays Basque, Munibe, Supl. 6, San Sebastian, 17-24.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kermovant",
+     "given": "A."
+    },
+    {
+     "family": "Prat",
+     "given": "F."
+    },
+    {
+     "family": "Romero",
+     "given": "S."
+    },
+    {
+     "family": "Martinez",
+     "given": "L."
+    },
+    {
+     "family": "Valdes",
+     "given": "L."
+    }
+   ],
+   "date": "1988",
+   "title": "Détection et exploration de gisements archéologiques par des techniques de prospection électrique et magnétique: Intérêts et limites. Un exemple d’application en Pays Basque",
+   "is_part_of": [
+    "Munibe"
+   ],
+   "volume": "Supl. 6",
+   "place": "San Sebastian",
+   "pages": "17-24",
+   "confidence": "low",
+   "notes": "first author cited \"KERMOVANT\" (Kermoryant in article 103); same paper cited with other co-authors",
+   "language": "fre"
+  },
+  {
+   "position": 12,
+   "raw": "KEY S., REMESAL J., CREIGHTON J., JORDAN D. 1988, Prospecciones sistemáticas en la antigua Celti (Peñaflor, La Viña) en 1987 y 1988, Anuario Arqueológico de Andalucía, 327-334.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Key",
+     "given": "S."
+    },
+    {
+     "family": "Remesal",
+     "given": "J."
+    },
+    {
+     "family": "Creighton",
+     "given": "J."
+    },
+    {
+     "family": "Jordan",
+     "given": "D."
+    }
+   ],
+   "date": "1988",
+   "title": "Prospecciones sistemáticas en la antigua Celti (Peñaflor, La Viña) en 1987 y 1988",
+   "is_part_of": [
+    "Anuario Arqueológico de Andalucía"
+   ],
+   "pages": "327-334",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "LÓPEZ J.B. 1991, Principes généraux de l’enregistrement, Unité de Fouilles et de Recherches Archeólogiques de Lattes, Lattara, 4, 11-32.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "López",
+     "given": "J.B."
+    }
+   ],
+   "date": "1991",
+   "title": "Principes généraux de l’enregistrement",
+   "is_part_of": [
+    "Lattara"
+   ],
+   "volume": "4",
+   "publisher": "Unité de Fouilles et de Recherches Archéologiques de Lattes",
+   "pages": "11-32",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "MARTIN M.P. 1991, Analysis and Design of Business Information Systems, Macmillan Publishing Company.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Martin",
+     "given": "M.P."
+    }
+   ],
+   "date": "1991",
+   "title": "Analysis and Design of Business Information Systems",
+   "publisher": "Macmillan Publishing Company",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "MARTÍNEZ BARREDA B. 1986, Prospección geofísica en la ciudad romana de Julióbriga (Cantabria), in Jornadas sobre Teledetección y Geofísica aplicadas a la arqueología, Madrid, 105-111.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Martínez Barreda",
+     "given": "B."
+    }
+   ],
+   "date": "1986",
+   "title": "Prospección geofísica en la ciudad romana de Julióbriga (Cantabria)",
+   "is_part_of": [
+    "Jornadas sobre Teledetección y Geofísica aplicadas a la arqueología"
+   ],
+   "place": "Madrid",
+   "pages": "105-111",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "PRESSMAN R.S. 1990, Ingeniería del Software. Un enfoque práctico, 2ª edición, Ed. McGraw-Hill, Madrid.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pressman",
+     "given": "R.S."
+    }
+   ],
+   "date": "1990",
+   "title": "Ingeniería del Software. Un enfoque práctico",
+   "edition": "2",
+   "place": "Madrid",
+   "publisher": "Ed. McGraw-Hill",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "TED’A 1988, Registro informático y Arqueología en Tarragona, in Archeologia e Informatica (Atti del Convegno Roma 1988), Casa Editrice Quasar, Roma, 177-191.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "TED’A",
+     "given": ""
+    }
+   ],
+   "date": "1988",
+   "title": "Registro informático y Arqueología en Tarragona",
+   "is_part_of": [
+    "Archeologia e Informatica (Atti del Convegno Roma 1988)"
+   ],
+   "place": "Roma",
+   "publisher": "Casa Editrice Quasar",
+   "pages": "177-191",
+   "notes": "institutional author",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "GARCIA D., WEIDELT P. 1991, Prospection géophysique et fouilles en extension, Unité de Fouilles et de Recherches Archeólogiques de Lattes, Lattara, 4, 71-82.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "García",
+     "given": "D."
+    },
+    {
+     "family": "Weidelt",
+     "given": "P."
+    }
+   ],
+   "date": "1991",
+   "title": "Prospection géophysique et fouilles en extension",
+   "is_part_of": [
+    "Lattara"
+   ],
+   "volume": "4",
+   "publisher": "Unité de Fouilles et de Recherches Archéologiques de Lattes",
+   "pages": "71-82",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "YOURDON E. 1989, Modern Structured Analysis, Yourdon Press Computing Series, New Jersey.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Yourdon",
+     "given": "E."
+    }
+   ],
+   "date": "1989",
+   "title": "Modern Structured Analysis",
+   "series": "Yourdon Press Computing Series",
+   "place": "New Jersey",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

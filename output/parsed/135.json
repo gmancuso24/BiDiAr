@@ -1,0 +1,163 @@
+{
+ "citing_aec_id": 135,
+ "source_file": "data/journal/7/135.md",
+ "references": [
+  {
+   "raw": "CREMASCHI M., FERRETTI A., FORTE M. 1994, *Tecniche digitali e di visualizzazione in geo-archeologia: il caso di studio della terramara S. Rosa di Poviglio (RE)*, «Archeologia e Calcolatori», 5, 305-316.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    },
+    {
+     "family": "Ferretti",
+     "given": "A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Tecniche digitali e di visualizzazione in geo-archeologia: il caso di studio della terramara S. Rosa di Poviglio (RE)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "305-316",
+   "volume": "5",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "FORTE M. 1992, *Archeologia e tecniche di eidologia informatica*, «Archeologia e Calcolatori», 3, 1992, 37-76.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Archeologia e tecniche di eidologia informatica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "37-76",
+   "volume": "3",
+   "language": "ita",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "FORTE M. 1993, *Un esperimento di visualizzazione scientifica per l'archeologia del paesaggio: la navigazione nel paesaggio virtuale*, «Archeologia e Calcolatori», 4, 137-152.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Un esperimento di visualizzazione scientifica per l'archeologia del paesaggio: la navigazione nel paesaggio virtuale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "137-152",
+   "volume": "4",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "FORTE M. 1993a, *Image processing applications in archaeology: classification systems of archaeological sites in the landscape*, in T. MADSEN, I. SCOLLAR (eds.) 1993, *Computer Applications and Quantitative Methods in Archaeology*, Aarhus, 53-61.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Image processing applications in archaeology: classification systems of archaeological sites in the landscape",
+   "editors": [
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "pages": "53-61",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology"
+   ],
+   "place": "Aarhus",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "FORTE M. 1993b, *Il paesaggio archeologico al calcolatore*, «Le Scienze», June, 46-54.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Il paesaggio archeologico al calcolatore",
+   "is_part_of": [
+    "Le Scienze"
+   ],
+   "pages": "46-54",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5,
+   "issue": "June"
+  },
+  {
+   "raw": "FORTE M. 1995, *Archaeology and scientific visualization: the case study of a terramara*, in *Interpreting Space: GIS and Archaeology*, International Conference \"The impact of Geographic Information System on Archaeology: a European perspective\", European University Centre for Cultural Heritage, Ravello, 1-2 october 1993, Taylor & Francis.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Archaeology and scientific visualization: the case study of a terramara",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6,
+   "notes": "container as cited; International Conference \"The impact of Geographic Information System on Archaeology: a European perspective\", Ravello, 1-2 october 1993"
+  },
+  {
+   "raw": "GENNUSA I. 1988, *Lineamenti geomorfologici e geologici della Rocca di Entella e delle aree limitrofe*, «Annali della Scuola Normale Superiore di Pisa», Pisa.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Gennusa",
+     "given": "I."
+    }
+   ],
+   "type": "article",
+   "title": "Lineamenti geomorfologici e geologici della Rocca di Entella e delle aree limitrofe",
+   "is_part_of": [
+    "Annali della Scuola Normale Superiore di Pisa"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 7,
+   "place": "Pisa"
+  }
+ ]
+}

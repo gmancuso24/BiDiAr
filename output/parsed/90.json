@@ -1,0 +1,739 @@
+{
+ "citing_aec_id": 90,
+ "source_file": "data/journal/5/90.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BARNETT V. 1982, Comparative Statistical In/erence, Wiley, 2nd edition, New York (NY).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barnett",
+     "given": "V."
+    }
+   ],
+   "date": "1982",
+   "title": "Comparative Statistical Inference",
+   "place": "New York (NY)",
+   "publisher": "Wiley",
+   "language": "eng",
+   "edition": "2",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "BAYES T.R. 1763, An essay towards solving a problem in the doctrine of chances, « Philosophical Transactions of the Royal Society », 53, 370-418.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bayes",
+     "given": "T.R."
+    }
+   ],
+   "date": "1763",
+   "title": "An essay towards solving a problem in the doctrine of chances",
+   "is_part_of": [
+    "Philosophical Transactions of the Royal Society"
+   ],
+   "volume": "53",
+   "pages": "370-418",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BOX G.E.P., TIAO G.C. 1973, Bayesian Inference in Statistical Analysis, Addison-Wesley, Reading (MA).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Box",
+     "given": "G.E.P."
+    },
+    {
+     "family": "Tiao",
+     "given": "G.C."
+    }
+   ],
+   "date": "1973",
+   "title": "Bayesian Inference in Statistical Analysis",
+   "place": "Reading (MA)",
+   "publisher": "Addison-Wesley",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "BUCK C.E., CAVANAGH W.G., LITTON C.D. 1988, The spatial analysis of site phosphate data, in S.P.Q. RAHTZ (ed.), Computer Applications and Quantitative Methods in Archaeology, 1988, British Archaeological Reports. International Series, Oxford, 446(i), 151-160.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buck",
+     "given": "C.E."
+    },
+    {
+     "family": "Cavanagh",
+     "given": "W.G."
+    },
+    {
+     "family": "Litton",
+     "given": "C.D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S.P.Q."
+    }
+   ],
+   "date": "1988",
+   "title": "The spatial analysis of site phosphate data",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology, 1988"
+   ],
+   "series": "British Archaeological Reports. International Series",
+   "series_number": "446(i)",
+   "pages": "151-160",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BUCK C.E., KENWORTHY J.B., LITTON C.D., SMITH A.F.M. 1991, Combining archaeological and radiocarbon information: a Bayesian approach to calibration, « Antiquity », 65, 808-821.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Buck",
+     "given": "C.E."
+    },
+    {
+     "family": "Kenworthy",
+     "given": "J.B."
+    },
+    {
+     "family": "Litton",
+     "given": "C.D."
+    },
+    {
+     "family": "Smith",
+     "given": "A.F.M."
+    }
+   ],
+   "date": "1991",
+   "title": "Combining archaeological and radiocarbon information: a Bayesian approach to calibration",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "65",
+   "pages": "808-821",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "BUCK C.E., LITTON C.D. 1989, Image segmentation for archaeological geochemical data, in S.P.Q. RAHTZ (ed.), Computer Applications and Quantitative Methods in Archaeology, 1989, British Archaeological Reports. International Series, Oxford, 548, 133-144.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buck",
+     "given": "C.E."
+    },
+    {
+     "family": "Litton",
+     "given": "C.D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S.P.Q."
+    }
+   ],
+   "date": "1989",
+   "title": "Image segmentation for archaeological geochemical data",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology, 1989"
+   ],
+   "series": "British Archaeological Reports. International Series",
+   "series_number": "548",
+   "pages": "133-144",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "BUCK C.E., LITTON C.D. 1991, A computational Bayes approach to some common archaeological problems, in K. LOCKYEAR, S. RAHTZ (eds.), Computer Applications and Quantitative Methods in Archaeology, 1990, British Archaeological Reports. International Series 565, Oxford, 93-99.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buck",
+     "given": "C.E."
+    },
+    {
+     "family": "Litton",
+     "given": "C.D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lockyear",
+     "given": "K."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "date": "1991",
+   "title": "A computational Bayes approach to some common archaeological problems",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology, 1990"
+   ],
+   "series": "British Archaeological Reports. International Series",
+   "series_number": "565",
+   "pages": "93-99",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "BUCK C.E., LITTON C.D., SMITH A.F.M. 1992, Calibration of radiocarbon results pertaining to related archaeological events, « Journal of Archaeological Science », 19, 497-512.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Buck",
+     "given": "C.E."
+    },
+    {
+     "family": "Litton",
+     "given": "C.D."
+    },
+    {
+     "family": "Smith",
+     "given": "A.F.M."
+    }
+   ],
+   "date": "1992",
+   "title": "Calibration of radiocarbon results pertaining to related archaeological events",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "19",
+   "pages": "497-512",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "BUCK C.E., LITTON C.D., STEPHENS D.A. 1993, Detecting a change in the shape of a prehistoric corbelled tomb, « The Statistician », 42, 483-490.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Buck",
+     "given": "C.E."
+    },
+    {
+     "family": "Litton",
+     "given": "C.D."
+    },
+    {
+     "family": "Stephens",
+     "given": "D.A."
+    }
+   ],
+   "date": "1993",
+   "title": "Detecting a change in the shape of a prehistoric corbelled tomb",
+   "is_part_of": [
+    "The Statistician"
+   ],
+   "volume": "42",
+   "pages": "483-490",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "CAVANAGH W.G., HIRST S., LITTON C.D. 1988, Soil phosphate, site boundaries and change-point analysis, « Journal of Field Archaeology », 15(1), 67-83.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cavanagh",
+     "given": "W.G."
+    },
+    {
+     "family": "Hirst",
+     "given": "S."
+    },
+    {
+     "family": "Litton",
+     "given": "C.D."
+    }
+   ],
+   "date": "1988",
+   "title": "Soil phosphate, site boundaries and change-point analysis",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "volume": "15",
+   "pages": "67-83",
+   "language": "eng",
+   "issue": "1",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "CAVANAGH W.G., LAXTON R.R. 1981, The structural mechanics of the Mycenaean tholos tomb, « Annual of the British School at Athens », 76, 109-140.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cavanagh",
+     "given": "W.G."
+    },
+    {
+     "family": "Laxton",
+     "given": "R.R."
+    }
+   ],
+   "date": "1981",
+   "title": "The structural mechanics of the Mycenaean tholos tomb",
+   "is_part_of": [
+    "Annual of the British School at Athens"
+   ],
+   "volume": "76",
+   "pages": "109-140",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "CAVANAGH W.G., LAXTON R.R. 1987, An investigation into the construction of Sardinian Nuraghi, « Papers of the British School at Rome », 55, 1-74.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cavanagh",
+     "given": "W.G."
+    },
+    {
+     "family": "Laxton",
+     "given": "R.R."
+    }
+   ],
+   "date": "1987",
+   "title": "An investigation into the construction of Sardinian Nuraghi",
+   "is_part_of": [
+    "Papers of the British School at Rome"
+   ],
+   "volume": "55",
+   "pages": "1-74",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "CAVANAGH W.G., LAXTON R.R., LITTON C.D. 1985, An application of change-point analysis to the shape of prehistoric domes. I. The maximum likelihood method, « PACT », 11(III.4), 191-203.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cavanagh",
+     "given": "W.G."
+    },
+    {
+     "family": "Laxton",
+     "given": "R.R."
+    },
+    {
+     "family": "Litton",
+     "given": "C.D."
+    }
+   ],
+   "date": "1985",
+   "title": "An application of change-point analysis to the shape of prehistoric domes. I. The maximum likelihood method",
+   "is_part_of": [
+    "PACT"
+   ],
+   "volume": "11",
+   "pages": "191-203",
+   "language": "eng",
+   "issue": "III.4",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "COWGILL G.L. 1989, Formal approaches in archaeology, in C.C. LAMBERG-KARLOVSKY (ed.), Archaeological Thought in America, Cambridge University Press, Cambridge, 74-88.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cowgill",
+     "given": "G.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lamberg-Karlovsky",
+     "given": "C.C."
+    }
+   ],
+   "date": "1989",
+   "title": "Formal approaches in archaeology",
+   "is_part_of": [
+    "Archaeological Thought in America"
+   ],
+   "pages": "74-88",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "DEGROOT M.H. 1970, Optimal Statistical Decisions, McGraw-Hill, New York (NY).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "DeGroot",
+     "given": "M.H."
+    }
+   ],
+   "date": "1970",
+   "title": "Optimal Statistical Decisions",
+   "place": "New York (NY)",
+   "publisher": "McGraw-Hill",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "DORAN J.E., HODSON F.R. 1975, Mathematics and Computers in Archaeology, Edinburgh University Press, Edinburgh.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    },
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    }
+   ],
+   "date": "1975",
+   "title": "Mathematics and Computers in Archaeology",
+   "place": "Edinburgh",
+   "publisher": "Edinburgh University Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "de FINETTI B. 1974-5, Theory of Probability: A Critical Introductory Treatment, Wiley, New York (NY).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "De Finetti",
+     "given": "B."
+    }
+   ],
+   "date": "1974",
+   "title": "Theory of Probability: A Critical Introductory Treatment",
+   "place": "New York (NY)",
+   "publisher": "Wiley",
+   "language": "eng",
+   "notes": "cited as 1974-5 (two volumes); date set to first year",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "FREEMAN P.R. 1976, A Bayesian approach to the megalithic yard, « Journal of the Royal Statistical Society A», 139, 20-55.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Freeman",
+     "given": "P.R."
+    }
+   ],
+   "date": "1976",
+   "title": "A Bayesian approach to the megalithic yard",
+   "is_part_of": [
+    "Journal of the Royal Statistical Society A"
+   ],
+   "volume": "139",
+   "pages": "20-55",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "HELSKOG K., SCHWEDER T. 1989, Estimating the number of contemporaneous houses from 14C dates, « Antiquity », 63, 166-172.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Helskog",
+     "given": "K."
+    },
+    {
+     "family": "Schweder",
+     "given": "T."
+    }
+   ],
+   "date": "1989",
+   "title": "Estimating the number of contemporaneous houses from 14C dates",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "63",
+   "pages": "166-172",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "HEYMAN J. 1966, The stone skeleton, « International Journal of Solids Structures », 2, 249-279.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Heyman",
+     "given": "J."
+    }
+   ],
+   "date": "1966",
+   "title": "The stone skeleton",
+   "is_part_of": [
+    "International Journal of Solids Structures"
+   ],
+   "volume": "2",
+   "pages": "249-279",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "HEYMAN J. 1982, The Masonry Arch, Ellis and Horwood, Chichester.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Heyman",
+     "given": "J."
+    }
+   ],
+   "date": "1982",
+   "title": "The Masonry Arch",
+   "place": "Chichester",
+   "publisher": "Ellis and Horwood",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "JEFFREYS H.S. 1961, Theory of Probability, Oxford University Press, 3rd edition, Oxford.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jeffreys",
+     "given": "H.S."
+    }
+   ],
+   "date": "1961",
+   "title": "Theory of Probability",
+   "place": "Oxford",
+   "publisher": "Oxford University Press",
+   "language": "eng",
+   "edition": "3",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "KADANE J.B., HASTORF C.A. 1988, Bayesian Paleoethnobotany, in J.M. BERNARDO, M.H. DEGROOT, D.V. LINDLEY, A.F.M. SMITH (eds.), Bayesian Statistics 3, Oxford University Press, Oxford, 243-259.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kadane",
+     "given": "J.B."
+    },
+    {
+     "family": "Hastorf",
+     "given": "C.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bernardo",
+     "given": "J.M."
+    },
+    {
+     "family": "DeGroot",
+     "given": "M.H."
+    },
+    {
+     "family": "Lindley",
+     "given": "D.V."
+    },
+    {
+     "family": "Smith",
+     "given": "A.F.M."
+    }
+   ],
+   "date": "1988",
+   "title": "Bayesian Paleoethnobotany",
+   "is_part_of": [
+    "Bayesian Statistics 3"
+   ],
+   "pages": "243-259",
+   "place": "Oxford",
+   "publisher": "Oxford University Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "LINDLEY D. V. 1965, Introduction to Probability and Statistics from a Bayesian Viewpoint, Cambridge University Press, Cambridge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lindley",
+     "given": "D.V."
+    }
+   ],
+   "date": "1965",
+   "title": "Introduction to Probability and Statistics from a Bayesian Viewpoint",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "LINDLEY D.V. 1985, Making Decisions, Wiley, 2nd edition, London.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lindley",
+     "given": "D.V."
+    }
+   ],
+   "date": "1985",
+   "title": "Making Decisions",
+   "place": "London",
+   "publisher": "Wiley",
+   "language": "eng",
+   "edition": "2",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "LINDLEY D.V. 1990, The 1988 Wald memorial lectures: the present position in Bayesian statistics, « Statistical Science », 5(1), 44-89.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lindley",
+     "given": "D.V."
+    }
+   ],
+   "date": "1990",
+   "title": "The 1988 Wald memorial lectures: the present position in Bayesian statistics",
+   "is_part_of": [
+    "Statistical Science"
+   ],
+   "volume": "5",
+   "pages": "44-89",
+   "language": "eng",
+   "issue": "1",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "LITTON C.D., LEESE M.N. 1991, Some statistical problems arising in radiocarbon calibration, in K. LOCKYEAR, RAHTZ S. (eds.), Computer Applications and Quantitative Methods in Archaeology, 1990, British Archaeological Reports. International Series 565, Oxford, 101-109.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Litton",
+     "given": "C.D."
+    },
+    {
+     "family": "Leese",
+     "given": "M.N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lockyear",
+     "given": "K."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "date": "1991",
+   "title": "Some statistical problems arising in radiocarbon calibration",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology, 1990"
+   ],
+   "series": "British Archaeological Reports. International Series",
+   "series_number": "565",
+   "pages": "101-109",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "NAYLOR J.C., SMITH A.F.M. 1988, An archaeological inference problem, « Journal of the American Statistical Association », 83(403), 588-595.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Naylor",
+     "given": "J.C."
+    },
+    {
+     "family": "Smith",
+     "given": "A.F.M."
+    }
+   ],
+   "date": "1988",
+   "title": "An archaeological inference problem",
+   "is_part_of": [
+    "Journal of the American Statistical Association"
+   ],
+   "volume": "83",
+   "pages": "588-595",
+   "language": "eng",
+   "issue": "403",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "ORTON C. 1980, Mathematics in Archaeology, William Collins, Glasgow.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "date": "1980",
+   "title": "Mathematics in Archaeology",
+   "place": "Glasgow",
+   "publisher": "William Collins",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "PRESS S.J. 1989, Bayesian Statistics, Wiley, New York (NY).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Press",
+     "given": "S.J."
+    }
+   ],
+   "date": "1989",
+   "title": "Bayesian Statistics",
+   "place": "New York (NY)",
+   "publisher": "Wiley",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

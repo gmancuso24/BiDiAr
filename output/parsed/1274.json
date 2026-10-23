@@ -1,0 +1,1271 @@
+{
+ "citing_aec_id": 1274,
+ "source_file": "data/journal/34/1274.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bejor G. 1991, *Le Statue*, Hierapolis. Scavi e Ricerche, III, Roma, Giorgio Bretschneider Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bejor",
+     "given": "G."
+    }
+   ],
+   "date": "1991",
+   "title": "Le Statue",
+   "series": "Hierapolis. Scavi e Ricerche",
+   "series_number": "III",
+   "publisher": "Giorgio Bretschneider Editore",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bianchini M. 2008, *Manuale di rilievo e di documentazione digitale in archeologia*, Roma, Aracne.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bianchini",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "Manuale di rilievo e di documentazione digitale in archeologia",
+   "publisher": "Aracne",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Capaldi C. 2009, *Statua di Atena*, in C. Gasparri, C. Capaldi, S. Pafumi (eds.), *Le sculture Farnese*, 1, *Le sculture ideali*, Napoli, Electa, 33-34.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Capaldi",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gasparri",
+     "given": "C."
+    },
+    {
+     "family": "Capaldi",
+     "given": "C."
+    },
+    {
+     "family": "Pafumi",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "Statua di Atena",
+   "is_part_of": [
+    "Le sculture Farnese. Le sculture ideali"
+   ],
+   "volume": "1",
+   "pages": "33-34",
+   "publisher": "Electa",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Carettoni G. 1965, *Scavo del tempio di Apollo a Hierapolis (rapporto preliminare)*, «Annuario della Scuola Archeologica di Atene e delle Missioni Italiane in Oriente», 41-42, n.s. XXV-XXVI, 411-433.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carettoni",
+     "given": "G."
+    }
+   ],
+   "date": "1965",
+   "title": "Scavo del tempio di Apollo a Hierapolis (rapporto preliminare)",
+   "is_part_of": [
+    "Annuario della Scuola Archeologica di Atene e delle Missioni Italiane in Oriente"
+   ],
+   "volume": "41-42, n.s. XXV-XXVI",
+   "pages": "411-433",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "D'Andria F. 2001, *Hierapolis of Phrygia: Its evolution in Hellenistic and Roman times*, in D. Parrish (ed.), *Urbanism in Western Asia Minor: New Studies on Aphrodisias, Ephesos, Hierapolis, Pergamon, Perge and Xanthos*, «Journal of Roman Archaeology», Supplementary Series, 45, 96-115.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Parrish",
+     "given": "D."
+    }
+   ],
+   "date": "2001",
+   "title": "Hierapolis of Phrygia: Its evolution in Hellenistic and Roman times",
+   "is_part_of": [
+    "Urbanism in Western Asia Minor: New Studies on Aphrodisias, Ephesos, Hierapolis, Pergamon, Perge and Xanthos"
+   ],
+   "pages": "96-115",
+   "series": "Journal of Roman Archaeology Supplementary Series",
+   "series_number": "45",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "D'Andria F. 2013, *Il Ploutonion a Hierapolis di Frigia*, «Istanbuler Mitteilungen», 63, 157-217.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "date": "2013",
+   "title": "Il Ploutonion a Hierapolis di Frigia",
+   "is_part_of": [
+    "Istanbuler Mitteilungen"
+   ],
+   "volume": "63",
+   "pages": "157-217",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "D'Andria F. 2017a, \"*Hierapolis alma Philippum*\". *Nuovi scavi, ricerche e restauri nel Santuario dell'Apostolo*, «Atti della Pontificia Accademia di Archeologia. Rendiconti», 89, 129-177.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "date": "2017",
+   "title": "\"Hierapolis alma Philippum\". Nuovi scavi, ricerche e restauri nel Santuario dell'Apostolo",
+   "is_part_of": [
+    "Atti della Pontificia Accademia di Archeologia. Rendiconti"
+   ],
+   "volume": "89",
+   "pages": "129-177",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "D'Andria F. 2017b, *The Sanctuary of St Philip in Hierapolis and the tombs of saints in Anatolian cities*, in J.R. Brandt, E. Hagelberg, G. Biørnstad, S. Ahrens (eds.), *Life and Death in Asia Minor in Hellenistic, Roman and Byzantine Times. Studies in Archaeology and Bioarchaeology*, Oxford-Philadelphia, Oxbow Books, 3-18.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brandt",
+     "given": "J.R."
+    },
+    {
+     "family": "Hagelberg",
+     "given": "E."
+    },
+    {
+     "family": "Biørnstad",
+     "given": "G."
+    },
+    {
+     "family": "Ahrens",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "The Sanctuary of St Philip in Hierapolis and the tombs of saints in Anatolian cities",
+   "is_part_of": [
+    "Life and Death in Asia Minor in Hellenistic, Roman and Byzantine Times. Studies in Archaeology and Bioarchaeology"
+   ],
+   "pages": "3-18",
+   "publisher": "Oxbow Books",
+   "place": "Oxford-Philadelphia",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "D'Andria F. 2019, *Il racconto di Hierapolis: tra innovazione e tecnologie digitali*, in A. Polosa, H.H.A. Kizilarslanoğlu, M. Oral (eds.), *SEBASTE. Studies in honour of Eugenia Equini Schneider*, Istanbul, Ege Yayınları, 193-203.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Polosa",
+     "given": "A."
+    },
+    {
+     "family": "Kizilarslanoğlu",
+     "given": "H.H.A."
+    },
+    {
+     "family": "Oral",
+     "given": "M."
+    }
+   ],
+   "date": "2019",
+   "title": "Il racconto di Hierapolis: tra innovazione e tecnologie digitali",
+   "is_part_of": [
+    "SEBASTE. Studies in honour of Eugenia Equini Schneider"
+   ],
+   "pages": "193-203",
+   "publisher": "Ege Yayınları",
+   "place": "Istanbul",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "D'Andria F., Caggia M.P., Ismaelli T. (eds.) 2012, *Hierapolis di Frigia V. Le attività delle campagne di scavo e restauro 2004-2006*, Istanbul, Ege Yayınları.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Caggia",
+     "given": "M.P."
+    },
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "date": "2012",
+   "title": "Hierapolis di Frigia V. Le attività delle campagne di scavo e restauro 2004-2006",
+   "publisher": "Ege Yayınları",
+   "place": "Istanbul",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "D'Andria F., Mannino K. 2007, *Socrate a Hierapolis di Frigia*, in E. Öztepe, M. Kadıoğlu (eds.), *PATRONUS. Festschrift für C. Özgünel zum 65. Geburtstag*, Istanbul, Betül Avunç, Homer Kitabevi, 133-140.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Mannino",
+     "given": "K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Öztepe",
+     "given": "E."
+    },
+    {
+     "family": "Kadıoğlu",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Socrate a Hierapolis di Frigia",
+   "is_part_of": [
+    "PATRONUS. Festschrift für C. Özgünel zum 65. Geburtstag"
+   ],
+   "pages": "133-140",
+   "publisher": "Betül Avunç, Homer Kitabevi",
+   "place": "Istanbul",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Davison C.C. 2009, *Pheidias: The sculptures and ancient sources*, 1-3, «Bulletin of the Institute of Classical Studies», Suppl. 105.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Davison",
+     "given": "C.C."
+    }
+   ],
+   "date": "2009",
+   "title": "Pheidias: The sculptures and ancient sources",
+   "volume": "1-3",
+   "series": "Bulletin of the Institute of Classical Studies Supplement",
+   "series_number": "105",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Deacy S., Villing A. (eds.) 2001, *Athena in the Classical World*, Leiden-Boston, Brill.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Deacy",
+     "given": "S."
+    },
+    {
+     "family": "Villing",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Athena in the Classical World",
+   "publisher": "Brill",
+   "place": "Leiden-Boston",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Demargne P. 1984, s.v. *Athena*, in *Lexicon Iconographicum Mythologiae Classicae*, II, 1, 955-1044.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Demargne",
+     "given": "P."
+    }
+   ],
+   "date": "1984",
+   "title": "Athena",
+   "is_part_of": [
+    "Lexicon Iconographicum Mythologiae Classicae"
+   ],
+   "volume": "II, 1",
+   "pages": "955-1044",
+   "language": "eng",
+   "notes": "s.v. entry",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Galli M. 2017, *I ritrovamenti scultorei dagli scavi Carettoni-Fabbrini nel Santuario di Apollo*, in Ismaelli 2017, 510-524.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Galli",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "date": "2017",
+   "title": "I ritrovamenti scultorei dagli scavi Carettoni-Fabbrini nel Santuario di Apollo",
+   "is_part_of": [
+    "Hierapolis di Frigia X. Il Tempio A nel Santuario di Apollo. Architettura, decorazione e contesto"
+   ],
+   "pages": "510-524",
+   "publisher": "Ege Yayınları",
+   "place": "Istanbul",
+   "language": "ita",
+   "xref": 17,
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "İnan J. 1975, *Roman Sculpture in Side,* Ankara, Türk Tarih Kurumu Basımevi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "İnan",
+     "given": "J."
+    }
+   ],
+   "date": "1975",
+   "title": "Roman Sculpture in Side",
+   "publisher": "Türk Tarih Kurumu Basımevi",
+   "place": "Ankara",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Ismaelli T. 2017, *Hierapolis di Frigia X. Il Tempio A nel Santuario di Apollo. Architettura, decorazione e contesto*, Istanbul, Ege Yayınları.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "date": "2017",
+   "title": "Hierapolis di Frigia X. Il Tempio A nel Santuario di Apollo. Architettura, decorazione e contesto",
+   "publisher": "Ege Yayınları",
+   "place": "Istanbul",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Kafle A., Luis E., Silwal R., Pan H.M., Shrestha P.L., Bastola A.K. 2021, *3D/4D printing of polymers: Fused Deposition Modelling (FDM), Selective Laser Sintering (SLS), and Stereolithography (SLA)*, «Polymers», 13, 3101 (https://doi.org/10.3390/polym13183101).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kafle",
+     "given": "A."
+    },
+    {
+     "family": "Luis",
+     "given": "E."
+    },
+    {
+     "family": "Silwal",
+     "given": "R."
+    },
+    {
+     "family": "Pan",
+     "given": "H.M."
+    },
+    {
+     "family": "Shrestha",
+     "given": "P.L."
+    },
+    {
+     "family": "Bastola",
+     "given": "A.K."
+    }
+   ],
+   "date": "2021",
+   "title": "3D/4D printing of polymers: Fused Deposition Modelling (FDM), Selective Laser Sintering (SLS), and Stereolithography (SLA)",
+   "is_part_of": [
+    "Polymers"
+   ],
+   "volume": "13",
+   "doi": "10.3390/polym13183101",
+   "language": "eng",
+   "notes": "3101 is the article number",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Karanastassis P. 1987, *Untersuchungen zur kaiserzeitlichen Plastik in Griechenland. II: Kopien, Varianten und Umbildungen nach Athena-Typen des 5. Jhs. v.Chr.*, «Mitteilungen des Deutschen Archäologischen Instituts, Athenische Abteilung», 102, 323-428.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Karanastassis",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Untersuchungen zur kaiserzeitlichen Plastik in Griechenland. II: Kopien, Varianten und Umbildungen nach Athena-Typen des 5. Jhs. v.Chr.",
+   "is_part_of": [
+    "Mitteilungen des Deutschen Archäologischen Instituts, Athenische Abteilung"
+   ],
+   "volume": "102",
+   "pages": "323-428",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Karoglou K. 2016, *Trends in Hellenistic sculpture*, in Picón, Hemingway 2016, 62-69.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Karoglou",
+     "given": "K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Picón",
+     "given": "C.A."
+    },
+    {
+     "family": "Hemingway",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "Trends in Hellenistic sculpture",
+   "is_part_of": [
+    "Pergamon and the Hellenistic Kingdoms of the Ancient World"
+   ],
+   "pages": "62-69",
+   "language": "eng",
+   "xref": 31,
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Kästner V. 2018, *Das Heiligtum der Athena*, in Scholl, Schwarzmaier 2018, 82-91.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kästner",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Scholl",
+     "given": "A."
+    },
+    {
+     "family": "Schwarzmaier",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Das Heiligtum der Athena",
+   "is_part_of": [
+    "Pergamon: Meisterwerke der antiken Metropole und 360° Panorama von Yadegar Asisi"
+   ],
+   "pages": "82-91",
+   "language": "ger",
+   "xref": 37,
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Limoncelli M. 2012, *Il restauro virtuale in archeologia*, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Limoncelli",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Il restauro virtuale in archeologia",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Massmann W., Will A., Wegel N. 2018, *Restaurierungsmassnahmen an pergamenischen Marmorstatuen: Drei Fallbeispiele für Ergänzungen und Rekonstruktionen*, in Scholl, Schwarzmaier 2018, 172-179.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Massmann",
+     "given": "W."
+    },
+    {
+     "family": "Will",
+     "given": "A."
+    },
+    {
+     "family": "Wegel",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Scholl",
+     "given": "A."
+    },
+    {
+     "family": "Schwarzmaier",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Restaurierungsmassnahmen an pergamenischen Marmorstatuen: Drei Fallbeispiele für Ergänzungen und Rekonstruktionen",
+   "is_part_of": [
+    "Pergamon: Meisterwerke der antiken Metropole und 360° Panorama von Yadegar Asisi"
+   ],
+   "pages": "172-179",
+   "language": "ger",
+   "xref": 37,
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Melchels F.P.W., Feijen J., Grijpma D.W. 2010, *A review on stereolithography and its applications in biomedical engineering*, «Biomaterials», 31, 6121-6130 (https://doi.org/10.1016/j.biomaterials.2010.04.050).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Melchels",
+     "given": "F.P.W."
+    },
+    {
+     "family": "Feijen",
+     "given": "J."
+    },
+    {
+     "family": "Grijpma",
+     "given": "D.W."
+    }
+   ],
+   "date": "2010",
+   "title": "A review on stereolithography and its applications in biomedical engineering",
+   "is_part_of": [
+    "Biomaterials"
+   ],
+   "volume": "31",
+   "pages": "6121-6130",
+   "doi": "10.1016/j.biomaterials.2010.04.050",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Niemeier J.-P. 2016, *Statue of Athena Parthenos*, in Picón, Hemingway 2016, 132-133.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Niemeier",
+     "given": "J.-P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Picón",
+     "given": "C.A."
+    },
+    {
+     "family": "Hemingway",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "Statue of Athena Parthenos",
+   "is_part_of": [
+    "Pergamon and the Hellenistic Kingdoms of the Ancient World"
+   ],
+   "pages": "132-133",
+   "language": "eng",
+   "xref": 31,
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Niemeier J.-P. 2018, *Pergamon und der hellenistische Klassizismus*, in Scholl, Schwarzmaier 2018, 143-149.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Niemeier",
+     "given": "J.-P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Scholl",
+     "given": "A."
+    },
+    {
+     "family": "Schwarzmaier",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Pergamon und der hellenistische Klassizismus",
+   "is_part_of": [
+    "Pergamon: Meisterwerke der antiken Metropole und 360° Panorama von Yadegar Asisi"
+   ],
+   "pages": "143-149",
+   "language": "ger",
+   "xref": 37,
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Nocita M. 2017, *Le iscrizioni dagli scavi Carettoni-Fabbrini nel Santuario di Apollo*, in Ismaelli 2017, 457-484, 485-508.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nocita",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "date": "2017",
+   "title": "Le iscrizioni dagli scavi Carettoni-Fabbrini nel Santuario di Apollo",
+   "is_part_of": [
+    "Hierapolis di Frigia X. Il Tempio A nel Santuario di Apollo. Architettura, decorazione e contesto"
+   ],
+   "pages": "457-508",
+   "publisher": "Ege Yayınları",
+   "place": "Istanbul",
+   "language": "ita",
+   "xref": 17,
+   "notes": "cited as 457-484, 485-508 (two sections); pages merged",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Panella C., Gabrielli R., Giorgi C. 2011, *Le \"Terme di Elagabalo\" sul Palatino: sperimentazione di un metodo fotogrammetrico 3D applicato allo scavo archeologico*, «Archeologia e Calcolatori», 22, 243-260 (http://www.archcalc.cnr.it/indice/PDF22/AC_22_Panella_et_al.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Panella",
+     "given": "C."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Giorgi",
+     "given": "C."
+    }
+   ],
+   "date": "2011",
+   "title": "Le \"Terme di Elagabalo\" sul Palatino: sperimentazione di un metodo fotogrammetrico 3D applicato allo scavo archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "243-260",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF22/AC_22_Panella_et_al.pdf",
+   "language": "ita",
+   "cited_aec_id": 595,
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Pellino G. 2012a, *Eros in area Apollinis. Una copia dell'Eros tipo Tespie e l'arredo scultoreo del Santuario di Apollo*, in D'Andria, Caggia, Ismaelli 2012, 359-372.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pellino",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Caggia",
+     "given": "M.P."
+    },
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "date": "2012",
+   "title": "Eros in area Apollinis. Una copia dell'Eros tipo Tespie e l'arredo scultoreo del Santuario di Apollo",
+   "is_part_of": [
+    "Hierapolis di Frigia V. Le attività delle campagne di scavo e restauro 2004-2006"
+   ],
+   "pages": "359-372",
+   "publisher": "Ege Yayınları",
+   "place": "Istanbul",
+   "language": "ita",
+   "xref": 10,
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Pellino G. 2012b, *Un ritratto virile d'età augustea dal Santuario di Apollo: l'immagine di un evergete ierapolitano di I sec. a.C.?*, in D'Andria, Caggia, Ismaelli 2012, 373-385.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pellino",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Caggia",
+     "given": "M.P."
+    },
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "date": "2012",
+   "title": "Un ritratto virile d'età augustea dal Santuario di Apollo: l'immagine di un evergete ierapolitano di I sec. a.C.?",
+   "is_part_of": [
+    "Hierapolis di Frigia V. Le attività delle campagne di scavo e restauro 2004-2006"
+   ],
+   "pages": "373-385",
+   "publisher": "Ege Yayınları",
+   "place": "Istanbul",
+   "language": "ita",
+   "xref": 10,
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Picón C.A., Hemingway S. (eds.) 2016, *Pergamon and the Hellenistic Kingdoms of the Ancient World*, Catalogo della mostra, New York, Metropolitan Museum of Art.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Picón",
+     "given": "C.A."
+    },
+    {
+     "family": "Hemingway",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "Pergamon and the Hellenistic Kingdoms of the Ancient World",
+   "publisher": "Metropolitan Museum of Art",
+   "place": "New York",
+   "language": "eng",
+   "notes": "exhibition catalogue",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Ria V. 2022, *Il Santuario di Apollo a Hierapolis di Frigia: analisi delle sculture e ricostruzione del programma figurativo dell'area sacra*, Tesi di Dottorato di Ricerca in Scienze del Patrimonio Culturale, XXXIV Ciclo, Università del Salento.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Ria",
+     "given": "V."
+    }
+   ],
+   "date": "2022",
+   "title": "Il Santuario di Apollo a Hierapolis di Frigia: analisi delle sculture e ricostruzione del programma figurativo dell'area sacra",
+   "publisher": "Università del Salento",
+   "language": "ita",
+   "notes": "Tesi di Dottorato di Ricerca in Scienze del Patrimonio Culturale, XXXIV Ciclo",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Ritti T. 2017, *Hierapolis di Frigia IX. Storia e istituzioni di Hierapolis*, Istanbul, Ege Yayınları.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ritti",
+     "given": "T."
+    }
+   ],
+   "date": "2017",
+   "title": "Hierapolis di Frigia IX. Storia e istituzioni di Hierapolis",
+   "publisher": "Ege Yayınları",
+   "place": "Istanbul",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Robertson N. 2001, *Athena as a weather goddess: The aigis in myth and ritual*, in Deacy, Villing 2001, 29-55.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Robertson",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Deacy",
+     "given": "S."
+    },
+    {
+     "family": "Villing",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Athena as a weather goddess: The aigis in myth and ritual",
+   "is_part_of": [
+    "Athena in the Classical World"
+   ],
+   "pages": "29-55",
+   "language": "eng",
+   "xref": 13,
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Romeo I., Panariti D., Ungaro R. 2014, *La Tomba Bella: un heroon giulio-claudio e il suo sarcofago*, Istanbul, Ege Yayınları.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Romeo",
+     "given": "I."
+    },
+    {
+     "family": "Panariti",
+     "given": "D."
+    },
+    {
+     "family": "Ungaro",
+     "given": "R."
+    }
+   ],
+   "date": "2014",
+   "title": "La Tomba Bella: un heroon giulio-claudio e il suo sarcofago",
+   "publisher": "Ege Yayınları",
+   "place": "Istanbul",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Sacchi F., Bonzano F. 2012, *L'ordine del Tempio di Apollo a Hierapolis: prime acquisizioni*, in D'Andria, Caggia, Ismaelli 2012, 325-357.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sacchi",
+     "given": "F."
+    },
+    {
+     "family": "Bonzano",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Caggia",
+     "given": "M.P."
+    },
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "date": "2012",
+   "title": "L'ordine del Tempio di Apollo a Hierapolis: prime acquisizioni",
+   "is_part_of": [
+    "Hierapolis di Frigia V. Le attività delle campagne di scavo e restauro 2004-2006"
+   ],
+   "pages": "325-357",
+   "publisher": "Ege Yayınları",
+   "place": "Istanbul",
+   "language": "ita",
+   "xref": 10,
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Scholl A., Schwarzmaier A. (eds.) 2018, *Pergamon: Meisterwerke der antiken Metropole und 360° Panorama von Yadegar Asisi*, Begleitbuch zur Ausstellung, Berlin, Michael Imhof Verlag, Antikensammlung der Staatlichen Museen zu Berlin.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Scholl",
+     "given": "A."
+    },
+    {
+     "family": "Schwarzmaier",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Pergamon: Meisterwerke der antiken Metropole und 360° Panorama von Yadegar Asisi",
+   "publisher": "Michael Imhof Verlag",
+   "place": "Berlin",
+   "language": "ger",
+   "notes": "Begleitbuch zur Ausstellung; Antikensammlung der Staatlichen Museen zu Berlin",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Semeraro G. 2007, *Ricerche archeologiche nel Santuario di Apollo (Regio VII), 2001-2003*, in F. D'Andria, M.P. Caggia (eds.), *Hierapolis di Frigia, I. Le attività delle campagne di scavo e restauro 2000-2003*, Istanbul, Ege Yayınları, 169-209.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Caggia",
+     "given": "M.P."
+    }
+   ],
+   "date": "2007",
+   "title": "Ricerche archeologiche nel Santuario di Apollo (Regio VII), 2001-2003",
+   "is_part_of": [
+    "Hierapolis di Frigia I. Le attività delle campagne di scavo e restauro 2000-2003"
+   ],
+   "pages": "169-209",
+   "publisher": "Ege Yayınları",
+   "place": "Istanbul",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Semeraro G. 2008, *The Sanctuary of Apollo in Hierapolis. A stratigraphical approach to a cult context,* in *Uluslararası Antik Dönemde Kehanet ve Apollon'un Anadolu Kültleri Sempozyum Bildirileri (İzmir 2005)*, Arkeoloji dergisi, 2, İzmir, Ege Üniversitesi, 179-190.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "date": "2008",
+   "title": "The Sanctuary of Apollo in Hierapolis. A stratigraphical approach to a cult context",
+   "is_part_of": [
+    "Uluslararası Antik Dönemde Kehanet ve Apollon'un Anadolu Kültleri Sempozyum Bildirileri (İzmir 2005)",
+    "Arkeoloji dergisi"
+   ],
+   "volume": "2",
+   "pages": "179-190",
+   "publisher": "Ege Üniversitesi",
+   "place": "İzmir",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Semeraro G. 2014, *Archaeology of the cult in the Sanctuary of Apollo in Hierapolis*, «Scienze dell'Antichità», 20, 2, 11-29.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "date": "2014",
+   "title": "Archaeology of the cult in the Sanctuary of Apollo in Hierapolis",
+   "is_part_of": [
+    "Scienze dell'Antichità"
+   ],
+   "volume": "20",
+   "issue": "2",
+   "pages": "11-29",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Semeraro G. 2016a, *Ricerche nel Santuario di Apollo (2007-2011)*, in F. D'Andria, M.P. Caggia, T. Ismaelli (eds.), *Hierapolis di Frigia VIII,1. Le attività delle campagne di scavo e restauro 2007-2011*, Istanbul, Ege Yayınları, 191-222.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Caggia",
+     "given": "M.P."
+    },
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "date": "2016",
+   "title": "Ricerche nel Santuario di Apollo (2007-2011)",
+   "is_part_of": [
+    "Hierapolis di Frigia VIII,1. Le attività delle campagne di scavo e restauro 2007-2011"
+   ],
+   "pages": "191-222",
+   "publisher": "Ege Yayınları",
+   "place": "Istanbul",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Semeraro G. 2016b, *The Sanctuary of Apollo in Hierapolis: Building activities and ritual paths*, in T. Ismaelli, G. Scardozzi (eds.), *Ancient Quarries and Building Sites in Asia Minor. Research on Hierapolis in Phrygia and Other Cities in South-Western Anatolia: Archaeology, Archaeometry, Conservation*, Bari, Edipuglia, 777-785.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2016",
+   "title": "The Sanctuary of Apollo in Hierapolis: Building activities and ritual paths",
+   "is_part_of": [
+    "Ancient Quarries and Building Sites in Asia Minor. Research on Hierapolis in Phrygia and Other Cities in South-Western Anatolia: Archaeology, Archaeometry, Conservation"
+   ],
+   "pages": "777-785",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Semeraro G. 2021, *Hierapolis of Phrygia 2018-2020: Recent work and new perspectives*, in S.R. Steadman, G. McMahon (eds.), *The Archaeology of Anatolia, Volume IV: Recent Discoveries (2018-2020)*, Newcastle upon Tyne, Cambridge Scholars Publishing, 210-228.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Steadman",
+     "given": "S.R."
+    },
+    {
+     "family": "McMahon",
+     "given": "G."
+    }
+   ],
+   "date": "2021",
+   "title": "Hierapolis of Phrygia 2018-2020: Recent work and new perspectives",
+   "is_part_of": [
+    "The Archaeology of Anatolia, Volume IV: Recent Discoveries (2018-2020)"
+   ],
+   "pages": "210-228",
+   "publisher": "Cambridge Scholars Publishing",
+   "place": "Newcastle upon Tyne",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Smith R.R.R. 2011, *Marble workshops at Aphrodisias*, in F. D'Andria, I. Romeo (eds.), *Roman Sculpture in Asia Minor, Proceedings of the International Conference to Celebrate the 50th Anniversary of the Italian Excavations at Hierapolis in Phrygia (Cavallino-LE 2007)*, «Journal of Roman Archaeology», Supplementary Series, 80, 62-76.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Smith",
+     "given": "R.R.R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Romeo",
+     "given": "I."
+    }
+   ],
+   "date": "2011",
+   "title": "Marble workshops at Aphrodisias",
+   "is_part_of": [
+    "Roman Sculpture in Asia Minor, Proceedings of the International Conference to Celebrate the 50th Anniversary of the Italian Excavations at Hierapolis in Phrygia (Cavallino-LE 2007)"
+   ],
+   "pages": "62-76",
+   "series": "Journal of Roman Archaeology Supplementary Series",
+   "series_number": "80",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Smith R.R.R. 2013, *The Marble Reliefs from the Julio-Claudian Sebasteion, Aphrodisias VI: Results of the Excavations at Aphrodisias in Caria Conducted by New York University*, Darmstadt, Verlag Philipp von Zabern.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Smith",
+     "given": "R.R.R."
+    }
+   ],
+   "date": "2013",
+   "title": "The Marble Reliefs from the Julio-Claudian Sebasteion, Aphrodisias VI: Results of the Excavations at Aphrodisias in Caria Conducted by New York University",
+   "publisher": "Verlag Philipp von Zabern",
+   "place": "Darmstadt",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Van Voorhis J. 2018, *The Sculptor's Workshop*, Aphrodisias X, Wiesbaden, Reichert Verlag.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Van Voorhis",
+     "given": "J."
+    }
+   ],
+   "date": "2018",
+   "title": "The Sculptor's Workshop",
+   "series": "Aphrodisias",
+   "series_number": "X",
+   "publisher": "Reichert Verlag",
+   "place": "Wiesbaden",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "Vierck S. 1997, s.v. *Aigis*, in *Lexicon Iconographicum Mythologiae Classicae*, VIII, 1, 510-515.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vierck",
+     "given": "S."
+    }
+   ],
+   "date": "1997",
+   "title": "Aigis",
+   "is_part_of": [
+    "Lexicon Iconographicum Mythologiae Classicae"
+   ],
+   "volume": "VIII, 1",
+   "pages": "510-515",
+   "language": "eng",
+   "notes": "s.v. entry",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "Villing A. 2009, s.v. *Athena*, in *Lexicon Iconographicum Mythologiae Classicae*, Suppl., 107-123.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Villing",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "Athena",
+   "is_part_of": [
+    "Lexicon Iconographicum Mythologiae Classicae"
+   ],
+   "volume": "Suppl.",
+   "pages": "107-123",
+   "language": "eng",
+   "notes": "s.v. entry",
+   "confidence": "high"
+  }
+ ]
+}

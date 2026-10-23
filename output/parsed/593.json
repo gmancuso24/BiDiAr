@@ -1,0 +1,946 @@
+{
+ "citing_aec_id": 593,
+ "source_file": "data/journal/22/593.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Ardissone P., Rinaudo F. 2004, Il castello di Graines: metodologie a confronto per il rilievo delle murature, «Bollettino della Società Italiana di Fotogrammetria e Topografia», 3, 37-45.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ardissone",
+     "given": "P."
+    },
+    {
+     "family": "Rinaudo",
+     "given": "F."
+    }
+   ],
+   "date": "2004",
+   "title": "Il castello di Graines: metodologie a confronto per il rilievo delle murature",
+   "is_part_of": [
+    "Bollettino della Società Italiana di Fotogrammetria e Topografia"
+   ],
+   "volume": "3",
+   "pages": "37-45",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Augenti A., Fiorini A., Montanari M., Sericola M., Urcia A., Zaffagnini F. 2009, Archeologia dell’architettura in Emilia-Romagna: primi passi verso un progetto organico, «Ocnus», 17, 65-76.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Augenti",
+     "given": "A."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Montanari",
+     "given": "M."
+    },
+    {
+     "family": "Sericola",
+     "given": "M."
+    },
+    {
+     "family": "Urcia",
+     "given": "A."
+    },
+    {
+     "family": "Zaffagnini",
+     "given": "F."
+    }
+   ],
+   "date": "2009",
+   "title": "Archeologia dell’architettura in Emilia-Romagna: primi passi verso un progetto organico",
+   "is_part_of": [
+    "Ocnus"
+   ],
+   "volume": "17",
+   "pages": "65-76",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Azkarate Garai-Olaun A. 2002, Intereses cognoscitivos y praxis social en Arqueología de la Arquitectura, «Arqueología de la Arquitectura», 1, 55-71.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Azkarate Garai-Olaun",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Intereses cognoscitivos y praxis social en Arqueología de la Arquitectura",
+   "is_part_of": [
+    "Arqueología de la Arquitectura"
+   ],
+   "volume": "1",
+   "pages": "55-71",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bateson G. 1987, Verso un’ecologia della mente, Milano, Adelphi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bateson",
+     "given": "G."
+    }
+   ],
+   "date": "1987",
+   "title": "Verso un’ecologia della mente",
+   "publisher": "Adelphi",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bianchini C. 2001, Nuove applicazioni fotogrammetriche al rilievo e rappresentazione delle superfici architettoniche: il Modello Digitale Continuo, in R. Migliari (ed.), Frontiere del rilievo. Dalla matita alle scansioni 3D, Roma, Gangemi, 127-140.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bianchini",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Migliari",
+     "given": "R."
+    }
+   ],
+   "date": "2001",
+   "title": "Nuove applicazioni fotogrammetriche al rilievo e rappresentazione delle superfici architettoniche: il Modello Digitale Continuo",
+   "is_part_of": [
+    "Frontiere del rilievo. Dalla matita alle scansioni 3D"
+   ],
+   "pages": "127-140",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Bini M., Verdiani G. 2006, Il rilievo delle archeologie monumentali: esperienze del laboratorio della Sezione Architettura e Disegno di Firenze, in S. Campana, R. Francovich (eds.), Laser scanner e GPS. Paesaggi archeologici e tecnologie digitali, Firenze, All’insegna del Giglio, 107-115.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bini",
+     "given": "M."
+    },
+    {
+     "family": "Verdiani",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Il rilievo delle archeologie monumentali: esperienze del laboratorio della Sezione Architettura e Disegno di Firenze",
+   "is_part_of": [
+    "Laser scanner e GPS. Paesaggi archeologici e tecnologie digitali"
+   ],
+   "pages": "107-115",
+   "publisher": "All’insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Boato A. 2008, L’archeologia in architettura. Misurazioni, stratigrafie, datazioni, restauro, Venezia, Marsilio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Boato",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "L’archeologia in architettura. Misurazioni, stratigrafie, datazioni, restauro",
+   "publisher": "Marsilio",
+   "place": "Venezia",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Bogdani J., Fiorini A., Silani M., Zanfini M. 2007, Esperienze di stereofotogrammetria archeologica, «Ocnus», 15, 27-44.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Silani",
+     "given": "M."
+    },
+    {
+     "family": "Zanfini",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Esperienze di stereofotogrammetria archeologica",
+   "is_part_of": [
+    "Ocnus"
+   ],
+   "volume": "15",
+   "pages": "27-44",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Borra D. 2000, La modellazione virtuale per l’architettura antica. Un metodo verso l’isomorfismo percettivo, «Archeologia e Calcolatori», 11, 259-272.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Borra",
+     "given": "D."
+    }
+   ],
+   "date": "2000",
+   "title": "La modellazione virtuale per l’architettura antica. Un metodo verso l’isomorfismo percettivo",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "259-272",
+   "language": "ita",
+   "cited_aec_id": 301,
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Brogiolo G.P. 2002a, L’archeologia dell’architettura in Italia nell’ultimo quinquennio (1997-2001), «Arqueología de la Arquitectura», 1, 19-26.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "date": "2002",
+   "title": "L’archeologia dell’architettura in Italia nell’ultimo quinquennio (1997-2001)",
+   "is_part_of": [
+    "Arqueología de la Arquitectura"
+   ],
+   "volume": "1",
+   "pages": "19-26",
+   "language": "ita",
+   "notes": "cited as 2002a",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Brogiolo G.P. 2002b, Lo studio degli elevati, in Treccani 2000. Il mondo dell’archeologia, I, Roma, Istituto della Enciclopedia Italiana Treccani, 199-201.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "date": "2002",
+   "title": "Lo studio degli elevati",
+   "is_part_of": [
+    "Treccani 2000. Il mondo dell’archeologia"
+   ],
+   "pages": "199-201",
+   "publisher": "Istituto della Enciclopedia Italiana Treccani",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited as 2002b; container cited with 'I' (vol. 1)",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Burchi P. 1944, Nuova ecclesiografia cesenate, dattiloscritto, Biblioteca Comunale Cesena.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Burchi",
+     "given": "P."
+    }
+   ],
+   "date": "1944",
+   "title": "Nuova ecclesiografia cesenate",
+   "publisher": "Biblioteca Comunale Cesena",
+   "language": "ita",
+   "notes": "dattiloscritto (typescript)",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Burchi P. 1962, Tre antichi manoscritti della valle del Savio, Faenza, Fratelli Lega.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Burchi",
+     "given": "P."
+    }
+   ],
+   "date": "1962",
+   "title": "Tre antichi manoscritti della valle del Savio",
+   "publisher": "Fratelli Lega",
+   "place": "Faenza",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Caballero L., Arce F., Utrero M.ª 2003, Santa Comba de Bande (Orense). Arquitectura y documentación escrita, «Arqueología de la Arquitectura», 2, 69-73.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caballero",
+     "given": "L."
+    },
+    {
+     "family": "Arce",
+     "given": "F."
+    },
+    {
+     "family": "Utrero",
+     "given": "M.ª"
+    }
+   ],
+   "date": "2003",
+   "title": "Santa Comba de Bande (Orense). Arquitectura y documentación escrita",
+   "is_part_of": [
+    "Arqueología de la Arquitectura"
+   ],
+   "volume": "2",
+   "pages": "69-73",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Cattani M., Fiorini A., Rondelli B. 2004, Computer applications for a reconstruction of archaeological stratigraphy as a predictive model in urban and territorial contexts, in K.F. Ausserer, W. Börner, M. Goriany, L. Karlhuber-Vöckl (eds.), Enter the Past: The E-way into the Four Dimensions of Cultural Heritage. CAA 03 Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 31st Conference (Vienna 2003), Oxford, Archaeopress, 299-303 (http://www2.unibo.it/Archeologia/ArcMed/testi/129.pdf; ultimo accesso 20/11/2009).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Rondelli",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ausserer",
+     "given": "K.F."
+    },
+    {
+     "family": "Börner",
+     "given": "W."
+    },
+    {
+     "family": "Goriany",
+     "given": "M."
+    },
+    {
+     "family": "Karlhuber-Vöckl",
+     "given": "L."
+    }
+   ],
+   "date": "2004",
+   "title": "Computer applications for a reconstruction of archaeological stratigraphy as a predictive model in urban and territorial contexts",
+   "is_part_of": [
+    "Enter the Past: The E-way into the Four Dimensions of Cultural Heritage. CAA 03 Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 31st Conference (Vienna 2003)"
+   ],
+   "pages": "299-303",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "uri": "http://www2.unibo.it/Archeologia/ArcMed/testi/129.pdf",
+   "notes": "cited with access date 20/11/2009",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "D’Andrea A., Iannone G., Saffiotti L. 2008, Metodologie laser scanning per il rilievo archeologico: metodi operativi e standard di documentazione, in Volpe, De Felice, Sibilano 2008, 123-134.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Iannone",
+     "given": "G."
+    },
+    {
+     "family": "Saffiotti",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2008",
+   "title": "Metodologie laser scanning per il rilievo archeologico: metodi operativi e standard di documentazione",
+   "is_part_of": [
+    "L’informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008)"
+   ],
+   "pages": "123-134",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "xref": 35,
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Drap P., Durand A., Nedir M., Seinturier J., Papini O., Gabrielli R., Peloso D., Kadobayashi R., Gaillard G., Chapman P., Viant W., Vannini G., Nucciotti M. 2007, Photogrammetry and archaeological knowledge: Toward a 3D information system dedicated to Medieval Archaeology: a case study from the Shawbak Castle in Jordan, in F. Remondino, S. Al-Hakim (eds.), 3D Virtual Reconstruction and Visualization of Complex Architectures. Proceedings of the 2nd ISPRS International Workshop 3D-ARCH 2007 (ETH Zurich 2007).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Drap",
+     "given": "P."
+    },
+    {
+     "family": "Durand",
+     "given": "A."
+    },
+    {
+     "family": "Nedir",
+     "given": "M."
+    },
+    {
+     "family": "Seinturier",
+     "given": "J."
+    },
+    {
+     "family": "Papini",
+     "given": "O."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Peloso",
+     "given": "D."
+    },
+    {
+     "family": "Kadobayashi",
+     "given": "R."
+    },
+    {
+     "family": "Gaillard",
+     "given": "G."
+    },
+    {
+     "family": "Chapman",
+     "given": "P."
+    },
+    {
+     "family": "Viant",
+     "given": "W."
+    },
+    {
+     "family": "Vannini",
+     "given": "G."
+    },
+    {
+     "family": "Nucciotti",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Al-Hakim",
+     "given": "S."
+    }
+   ],
+   "date": "2007",
+   "title": "Photogrammetry and archaeological knowledge: Toward a 3D information system dedicated to Medieval Archaeology: a case study from the Shawbak Castle in Jordan",
+   "is_part_of": [
+    "3D Virtual Reconstruction and Visualization of Complex Architectures. Proceedings of the 2nd ISPRS International Workshop 3D-ARCH 2007 (ETH Zurich 2007)"
+   ],
+   "language": "eng",
+   "notes": "editor cited as 'S. Al-Hakim'",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Fiorini A. 2004, Il castello di Roccella: analisi archeologica di un sito fortificato medievale, «Archeologia dell’Architettura», 9, 69-87.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2004",
+   "title": "Il castello di Roccella: analisi archeologica di un sito fortificato medievale",
+   "is_part_of": [
+    "Archeologia dell’Architettura"
+   ],
+   "volume": "9",
+   "pages": "69-87",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Fiorini A. 2006, Il campanile, in A. Augenti (ed.), La basilica e il monastero di San Severo a Classe. La storia, gli scavi, Ravenna, RavennAntica, 32-34.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Augenti",
+     "given": "A."
+    }
+   ],
+   "date": "2006",
+   "title": "Il campanile",
+   "is_part_of": [
+    "La basilica e il monastero di San Severo a Classe. La storia, gli scavi"
+   ],
+   "pages": "32-34",
+   "publisher": "RavennAntica",
+   "place": "Ravenna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Fiorini A. 2008, Esperienze di fotomodellazione e stereofotogrammetria archeologica, in Volpe, De Felice, Sibilano 2008, 175-186.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2008",
+   "title": "Esperienze di fotomodellazione e stereofotogrammetria archeologica",
+   "is_part_of": [
+    "L’informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008)"
+   ],
+   "pages": "175-186",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "xref": 35,
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Fiorini A. 2009a, Rilievo archeologico mediante dispositivo scanner laser 3D. Verso una registrazione tridimensionale delle evidenze stratigrafiche: l’edificio 2 – magazzino – nel sito archeologico di Classe, in D. Bartolucci, Principi di laser scanning 3D. Hardware, metodologie applicative, esempi, Palermo, Flaccovio, 100-105.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bartolucci",
+     "given": "D."
+    }
+   ],
+   "date": "2009",
+   "title": "Rilievo archeologico mediante dispositivo scanner laser 3D. Verso una registrazione tridimensionale delle evidenze stratigrafiche: l’edificio 2 – magazzino – nel sito archeologico di Classe",
+   "is_part_of": [
+    "Principi di laser scanning 3D. Hardware, metodologie applicative, esempi"
+   ],
+   "pages": "100-105",
+   "publisher": "Flaccovio",
+   "place": "Palermo",
+   "language": "ita",
+   "notes": "cited as 2009a; 'in D. Bartolucci, ...' without (ed.): treated as editor",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Fiorini A. 2009b, La torre di Monte Erno (FC): il rilievo tridimensionale e l’analisi archeologica dell’elevato, in Augenti *et al*. 2009, 73-75.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "La torre di Monte Erno (FC): il rilievo tridimensionale e l’analisi archeologica dell’elevato",
+   "is_part_of": [
+    "Ocnus"
+   ],
+   "volume": "17",
+   "pages": "73-75",
+   "language": "ita",
+   "xref": 2,
+   "notes": "cited as 2009b, 'in Augenti et al. 2009, 73-75': section of ref. 2 (Ocnus 17, 65-76)",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Fiorini A. 2010, Archeologia dell’architettura in Romagna: progetto per la realizzazione di un atlante delle tecniche costruttive di età medievale, Università di Bologna, Tesi di Dottorato di Ricerca in Archeologia, XXII ciclo.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Archeologia dell’architettura in Romagna: progetto per la realizzazione di un atlante delle tecniche costruttive di età medievale",
+   "publisher": "Università di Bologna",
+   "language": "ita",
+   "notes": "Tesi di Dottorato di Ricerca in Archeologia, XXII ciclo",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Ms. 1834 = Anonimo, III Visita pastorale di A.M. Cadolini, 1832-35, II, Archivio Diocesano Cesena, cc.nn., 23 nov. 1834.",
+   "type": "other",
+   "date": "1834",
+   "title": "III Visita pastorale di A.M. Cadolini, 1832-35, II",
+   "publisher": "Archivio Diocesano Cesena",
+   "language": "ita",
+   "notes": "cited 'Ms. 1834 = Anonimo, ..., cc.nn., 23 nov. 1834'; manuscript, anonymous",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Ms. 1843 = Inventario di tutte le piante costituenti il […] di tre fondi […] della Chiesa di Tipano posti nella stessa Parrocchia, Territorio, e Diocesi di Cesena, Archivio Diocesano Cesena, cc.nn., 27 sett. 1843.",
+   "type": "other",
+   "date": "1843",
+   "title": "Inventario di tutte le piante costituenti il […] di tre fondi […] della Chiesa di Tipano posti nella stessa Parrocchia, Territorio, e Diocesi di Cesena",
+   "publisher": "Archivio Diocesano Cesena",
+   "language": "ita",
+   "notes": "cited 'Ms. 1843 = ..., cc.nn., 27 sett. 1843'; manuscript",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Ms. 1890 = Risposte date da Antonio Calandrini […], Archivio Diocesano Cesena, Parrocchia Tipano, 1890.",
+   "type": "other",
+   "date": "1890",
+   "title": "Risposte date da Antonio Calandrini […]",
+   "publisher": "Archivio Diocesano Cesena",
+   "language": "ita",
+   "notes": "cited 'Ms. 1890 = ..., Parrocchia Tipano, 1890'; manuscript",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Parenti R. 1988, Le tecniche di documentazione per una lettura stratigrafica dell’elevato, in R. Francovich, R. Parenti (eds.) 1988, Archeologia e restauro dei monumenti, Firenze, All’Insegna del Giglio, 249-279.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Parenti",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Parenti",
+     "given": "R."
+    }
+   ],
+   "date": "1988",
+   "title": "Le tecniche di documentazione per una lettura stratigrafica dell’elevato",
+   "is_part_of": [
+    "Archeologia e restauro dei monumenti"
+   ],
+   "pages": "249-279",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Parenti R. 2000, s.v. Architettura, archeologia della, in R. Francovich, D. Manacorda (eds.), Dizionario di archeologia. Temi, concetti e metodi, Roma-Bari, Laterza, 39-43.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Parenti",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2000",
+   "title": "Architettura, archeologia della",
+   "is_part_of": [
+    "Dizionario di archeologia. Temi, concetti e metodi"
+   ],
+   "pages": "39-43",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "notes": "cited 's.v.'",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Parenti R. 2004, La registrazione delle caratteristiche archeologiche delle strutture edilizie, in M. Cattani, A. Fiorini, N. Viggiani (eds.), Nuove frontiere dell’archeologia: il trattamento del dato tridimensionale. Atti del Seminario (Ravenna 2004), CD-ROM (http://www3.unibo.it/Archeologia/homepage/Documenti/Nuove_frontiere/R_Parenti.pdf; ultimo accesso 12/08/2008).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Parenti",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Viggiani",
+     "given": "N."
+    }
+   ],
+   "date": "2004",
+   "title": "La registrazione delle caratteristiche archeologiche delle strutture edilizie",
+   "is_part_of": [
+    "Nuove frontiere dell’archeologia: il trattamento del dato tridimensionale. Atti del Seminario (Ravenna 2004)"
+   ],
+   "language": "ita",
+   "uri": "http://www3.unibo.it/Archeologia/homepage/Documenti/Nuove_frontiere/R_Parenti.pdf",
+   "notes": "CD-ROM; cited with access date 12/08/2008",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Peripimeno M. 2009, Rilievo di monumenti e stratigrafie: l’uso del laser scanner, in V. Fronza, A. Nardini, M. Valenti (eds.), Informatica e archeologia medievale. L’esperienza senese, Firenze, All’Insegna del Giglio, 111-129.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Peripimeno",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    },
+    {
+     "family": "Nardini",
+     "given": "A."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Rilievo di monumenti e stratigrafie: l’uso del laser scanner",
+   "is_part_of": [
+    "Informatica e archeologia medievale. L’esperienza senese"
+   ],
+   "pages": "111-129",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Severi A. 1996, Il restauro degli affreschi di Tipano, Cesena, Italia Nostra, 1996.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Severi",
+     "given": "A."
+    }
+   ],
+   "date": "1996",
+   "title": "Il restauro degli affreschi di Tipano",
+   "publisher": "Italia Nostra",
+   "place": "Cesena",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Sibilano M.G. 2008, Documentare lo scavo archeologico: nuove forme di comunicazione del metodo stratigrafico, in Volpe, De Felice, Sibilano 2008, 149-164.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2008",
+   "title": "Documentare lo scavo archeologico: nuove forme di comunicazione del metodo stratigrafico",
+   "is_part_of": [
+    "L’informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008)"
+   ],
+   "pages": "149-164",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "xref": 35,
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Turci P. (ed.) 2008, Memorie della Diocesi e della città di Cesena del Canonico Giovanni Urtoller, Cesena, Ufficio per l’Arte Sacra ed i Beni Culturali, Diocesi di Cesena-Sarsina.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Turci",
+     "given": "P."
+    }
+   ],
+   "date": "2008",
+   "title": "Memorie della Diocesi e della città di Cesena del Canonico Giovanni Urtoller",
+   "publisher": "Ufficio per l’Arte Sacra ed i Beni Culturali, Diocesi di Cesena-Sarsina",
+   "place": "Cesena",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Urcia A. 2009, Rilievo tridimensionale, in Augenti *et al*. 2009, 66.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Urcia",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "Rilievo tridimensionale",
+   "is_part_of": [
+    "Ocnus"
+   ],
+   "volume": "17",
+   "pages": "66",
+   "language": "ita",
+   "xref": 2,
+   "notes": "cited 'in Augenti et al. 2009, 66': section of ref. 2 (Ocnus 17, 65-76)",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Volpe G., De Felice G., Sibilano M.G. (eds.) 2008, L’informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008), Bari, Edipuglia.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2008",
+   "title": "L’informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008)",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,602 @@
+{
+ "citing_aec_id": 1366,
+ "source_file": "data/journal/35/1366.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Allison P. 2008, *Dealing with legacy data. An introduction*, «Internet Archaeology», 24 (https://doi.org/10.11141/ia.24.8).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Allison",
+     "given": "P."
+    }
+   ],
+   "date": "2008",
+   "title": "Dealing with legacy data. An introduction",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "24",
+   "language": "eng",
+   "doi": "10.11141/ia.24.8"
+  },
+  {
+   "position": 2,
+   "raw": "Aspöck E. 2020, *Old excavation data. What can we do?. An introduction*, in E. Aspöck, S. Stuehec, K. Kopetzky, M. Kucera (eds.), *Old Excavation Data. What Can We Do? Proceedings of the Workshop held at 10th ICAANE (Wien 2016)*, Wien, Austrian Academy of Sciences Press, 11-23.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Aspöck",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Aspöck",
+     "given": "E."
+    },
+    {
+     "family": "Stuehec",
+     "given": "S."
+    },
+    {
+     "family": "Kopetzky",
+     "given": "K."
+    },
+    {
+     "family": "Kucera",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "Old excavation data. What can we do?. An introduction",
+   "is_part_of": [
+    "Old Excavation Data. What Can We Do? Proceedings of the Workshop held at 10th ICAANE (Wien 2016)"
+   ],
+   "pages": "11-23",
+   "publisher": "Austrian Academy of Sciences Press",
+   "place": "Wien",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Baldini I., Sfameni C., De Giorgi L., Ferrari I., Giuri F., Torre C., Leucci G. 2023, *Geophysical investigation at \"Villa del Casale\" Piazza Armerina (EN)*, in *IMEKO TC-4 International Conference on Metrology for Archaeology and Cultural Heritage (Rome 2023)*, Red Hook (NY), Curran Associates, 64-68.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Baldini",
+     "given": "I."
+    },
+    {
+     "family": "Sfameni",
+     "given": "C."
+    },
+    {
+     "family": "De Giorgi",
+     "given": "L."
+    },
+    {
+     "family": "Ferrari",
+     "given": "I."
+    },
+    {
+     "family": "Giuri",
+     "given": "F."
+    },
+    {
+     "family": "Torre",
+     "given": "C."
+    },
+    {
+     "family": "Leucci",
+     "given": "G."
+    }
+   ],
+   "date": "2023",
+   "title": "Geophysical investigation at \"Villa del Casale\" Piazza Armerina (EN)",
+   "is_part_of": [
+    "IMEKO TC-4 International Conference on Metrology for Archaeology and Cultural Heritage (Rome 2023)"
+   ],
+   "pages": "64-68",
+   "publisher": "Curran Associates",
+   "place": "Red Hook (NY)",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Balzani R. *et al.* 2024, *Saving temporary exhibitions in virtual environments: The digital renaissance of Ulisse Aldrovandi. Acquisition and digitisation of cultural heritage objects*, «Digital Applications in Archaeology and Cultural Heritage», 32 (https://doi.org/10.1016/j.daach.2023.e00309).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Balzani",
+     "given": "R. et al."
+    }
+   ],
+   "date": "2024",
+   "title": "Saving temporary exhibitions in virtual environments: The digital renaissance of Ulisse Aldrovandi. Acquisition and digitisation of cultural heritage objects",
+   "is_part_of": [
+    "Digital Applications in Archaeology and Cultural Heritage"
+   ],
+   "volume": "32",
+   "language": "eng",
+   "doi": "10.1016/j.daach.2023.e00309"
+  },
+  {
+   "position": 5,
+   "raw": "Barone Z., Nuccio G. 2017, *For a conscious fruition of the cultural heritage of ancient Noto (Sicily). Efian project as opportunity for valorisation*, «International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences», 42, 5, 89-97 (https://doi.org/10.5194/isprs-archives-XLII-5-W1-89-2017).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barone",
+     "given": "Z."
+    },
+    {
+     "family": "Nuccio",
+     "given": "G."
+    }
+   ],
+   "date": "2017",
+   "title": "For a conscious fruition of the cultural heritage of ancient Noto (Sicily). Efian project as opportunity for valorisation",
+   "is_part_of": [
+    "International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences"
+   ],
+   "volume": "42",
+   "issue": "5",
+   "pages": "89-97",
+   "language": "eng",
+   "doi": "10.5194/isprs-archives-XLII-5-W1-89-2017"
+  },
+  {
+   "position": 6,
+   "raw": "Barzaghi S., Bordignon A., Gualandi B., Heibi I., Massari A., Moretti A., Peroni S., Renda G. 2024, *A Proposal for a FAIR Management of 3D Data in Cultural Heritage: The Aldrovandi Digital Twin Case*, arXiv, 2407.02018 (https://doi.org/10.48550/arXiv.2407.02018).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Barzaghi",
+     "given": "S."
+    },
+    {
+     "family": "Bordignon",
+     "given": "A."
+    },
+    {
+     "family": "Gualandi",
+     "given": "B."
+    },
+    {
+     "family": "Heibi",
+     "given": "I."
+    },
+    {
+     "family": "Massari",
+     "given": "A."
+    },
+    {
+     "family": "Moretti",
+     "given": "A."
+    },
+    {
+     "family": "Peroni",
+     "given": "S."
+    },
+    {
+     "family": "Renda",
+     "given": "G."
+    }
+   ],
+   "date": "2024",
+   "title": "A Proposal for a FAIR Management of 3D Data in Cultural Heritage: The Aldrovandi Digital Twin Case",
+   "is_part_of": [
+    "arXiv"
+   ],
+   "volume": "2407.02018",
+   "language": "eng",
+   "doi": "10.48550/arXiv.2407.02018"
+  },
+  {
+   "position": 7,
+   "raw": "Bonacini E. 2012, *La visibilità sul web del patrimonio culturale siciliano. Criticità e prospettive attraverso un survey on-line*, Catania, Giuseppe Maimone Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bonacini",
+     "given": "E."
+    }
+   ],
+   "date": "2012",
+   "title": "La visibilità sul web del patrimonio culturale siciliano. Criticità e prospettive attraverso un survey on-line",
+   "publisher": "Giuseppe Maimone Editore",
+   "place": "Catania",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "Bonacini E., Tanasi D., Trapani P. 2019, *Participatory storytelling, 3D digital imaging and museum studies: A case study from Sicily*, in A.C. Addison, H. Thwaites (eds.), *2018 3rd Digital Heritage International Congress (DigitalHERITAGE) (San Francisco 2018)*, New York, IEEE, 1-4 (https://doi.org/10.1109/DigitalHeritage.2018.8810058).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bonacini",
+     "given": "E."
+    },
+    {
+     "family": "Tanasi",
+     "given": "D."
+    },
+    {
+     "family": "Trapani",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Addison",
+     "given": "A.C."
+    },
+    {
+     "family": "Thwaites",
+     "given": "H."
+    }
+   ],
+   "date": "2019",
+   "title": "Participatory storytelling, 3D digital imaging and museum studies: A case study from Sicily",
+   "is_part_of": [
+    "2018 3rd Digital Heritage International Congress (DigitalHERITAGE) (San Francisco 2018)"
+   ],
+   "pages": "1-4",
+   "publisher": "IEEE",
+   "place": "New York",
+   "language": "eng",
+   "doi": "10.1109/DigitalHeritage.2018.8810058"
+  },
+  {
+   "position": 9,
+   "raw": "Bonanno C. (ed.) 2020, *Piazza Armerina. L'area nord dell'insediamento medievale presso la Villa del Casale. Indagini archeologiche 2013-2014*, Oxford, Archaeopress.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Bonanno",
+     "given": "C."
+    }
+   ],
+   "date": "2020",
+   "title": "Piazza Armerina. L'area nord dell'insediamento medievale presso la Villa del Casale. Indagini archeologiche 2013-2014",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Cardaci A., Versaci A. 2019, *Research and technological innovation for the knowledge, conservation and valorization of cultural heritage in Sicily*, «International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», 42, 247-254 (https://doi.org/10.5194/isprs-archives-XLII-2-W15-247-2019).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cardaci",
+     "given": "A."
+    },
+    {
+     "family": "Versaci",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "title": "Research and technological innovation for the knowledge, conservation and valorization of cultural heritage in Sicily",
+   "is_part_of": [
+    "International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "42",
+   "pages": "247-254",
+   "language": "eng",
+   "doi": "10.5194/isprs-archives-XLII-2-W15-247-2019"
+  },
+  {
+   "position": 11,
+   "raw": "Cultrera G. 1936, *Scavi, scoperte e restauri di monumenti antichi in Sicilia nel quinquennio 1931-1935*, Siracusa, Società tipografica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cultrera",
+     "given": "G."
+    }
+   ],
+   "date": "1936",
+   "title": "Scavi, scoperte e restauri di monumenti antichi in Sicilia nel quinquennio 1931-1935",
+   "publisher": "Società tipografica",
+   "place": "Siracusa",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "Fanini B., Ferdani D., Demetrescu E., Berto S., d'Annibale E. 2021, *ATON: An open-source framework for creating immersive, collaborative and liquid web-apps for Cultural Heritage*, «Applied Science», 11, 22, 11062 (https://doi.org/10.3390/app112211062).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fanini",
+     "given": "B."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Berto",
+     "given": "S."
+    },
+    {
+     "family": "Annibale",
+     "given": "E. d'"
+    }
+   ],
+   "date": "2021",
+   "title": "ATON: An open-source framework for creating immersive, collaborative and liquid web-apps for Cultural Heritage",
+   "is_part_of": [
+    "Applied Science"
+   ],
+   "volume": "11",
+   "issue": "22",
+   "pages": "11062",
+   "language": "eng",
+   "doi": "10.3390/app112211062"
+  },
+  {
+   "position": 13,
+   "raw": "Gabellone F., Chiffi M., Tanasi D., Decker M. 2020, *Integrated technologies for indirect documentation, conservation and engagement of the Roman mosaics of Piazza Armerina (Enna, Italy)*, in E. Cicalò (ed.), *Proceedings of the 2nd International and Interdisciplinary Conference on Image and Imagination*, Cham, Springer, 1016-1028.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gabellone",
+     "given": "F."
+    },
+    {
+     "family": "Chiffi",
+     "given": "M."
+    },
+    {
+     "family": "Tanasi",
+     "given": "D."
+    },
+    {
+     "family": "Decker",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cicalò",
+     "given": "E."
+    }
+   ],
+   "date": "2020",
+   "title": "Integrated technologies for indirect documentation, conservation and engagement of the Roman mosaics of Piazza Armerina (Enna, Italy)",
+   "is_part_of": [
+    "Proceedings of the 2nd International and Interdisciplinary Conference on Image and Imagination"
+   ],
+   "pages": "1016-1028",
+   "publisher": "Springer",
+   "place": "Cham",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Gentili G.V. 1999, *La Villa Romana di Piazza Armerina Palazzo Erculio*, Osimo, Fondazione don Carlo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gentili",
+     "given": "G.V."
+    }
+   ],
+   "date": "1999",
+   "title": "La Villa Romana di Piazza Armerina Palazzo Erculio",
+   "publisher": "Fondazione don Carlo",
+   "place": "Osimo",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Katsianis M., Kalayci T., Sarris A. 2022, *Bridging digital approaches and legacy in archaeology*, «Digital», 2, 4, 538-545 (https://doi.org/10.3390/digital2040029).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Katsianis",
+     "given": "M."
+    },
+    {
+     "family": "Kalayci",
+     "given": "T."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "Bridging digital approaches and legacy in archaeology",
+   "is_part_of": [
+    "Digital"
+   ],
+   "volume": "2",
+   "issue": "4",
+   "pages": "538-545",
+   "language": "eng",
+   "doi": "10.3390/digital2040029"
+  },
+  {
+   "position": 16,
+   "raw": "Kingsland K. 2023, *Archaeogaming and the re-use of digital archaeological materials: Generating serious games for the villas of Roman Sicily*, PhD Diss., University of South Florida.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Kingsland",
+     "given": "K."
+    }
+   ],
+   "date": "2023",
+   "title": "Archaeogaming and the re-use of digital archaeological materials: Generating serious games for the villas of Roman Sicily",
+   "publisher": "University of South Florida",
+   "language": "eng",
+   "notes": "PhD Diss."
+  },
+  {
+   "position": 17,
+   "raw": "Nigrelli F.C., Vitale M.R. 2010, *Piazza Armerina dalla Villa al Parco. Studi e ricerche sulla Villa romana del Casale e il fiume Gela*, Reggio Calabria, Biblioteca del Cenide.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nigrelli",
+     "given": "F.C."
+    },
+    {
+     "family": "Vitale",
+     "given": "M.R."
+    }
+   ],
+   "date": "2010",
+   "title": "Piazza Armerina dalla Villa al Parco. Studi e ricerche sulla Villa romana del Casale e il fiume Gela",
+   "publisher": "Biblioteca del Cenide",
+   "place": "Reggio Calabria",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "Pensabene P., Barresi P. 2019, *Piazza Armerina. Villa del Casale: scavi e studi nel decennio 2004-2014*, Roma, L'Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pensabene",
+     "given": "P."
+    },
+    {
+     "family": "Barresi",
+     "given": "P."
+    }
+   ],
+   "date": "2019",
+   "title": "Piazza Armerina. Villa del Casale: scavi e studi nel decennio 2004-2014",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Pizzi M. 2023, *Legacy Data e Sistemi Informativi Geografici: proposta di progetto GIS sui dati d'archivio degli scavi Gentili nella Villa del Casale di Piazza Armerina (EN)*, Tesi di Specializzazione, Università di Bologna.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Pizzi",
+     "given": "M."
+    }
+   ],
+   "date": "2023",
+   "title": "Legacy Data e Sistemi Informativi Geografici: proposta di progetto GIS sui dati d'archivio degli scavi Gentili nella Villa del Casale di Piazza Armerina (EN)",
+   "publisher": "Università di Bologna",
+   "language": "ita",
+   "notes": "Tesi di Specializzazione"
+  },
+  {
+   "position": 20,
+   "raw": "Sfameni C. 2006, *L'insediamento medievale: la documentazione degli scavi precedenti*, in P. Pensabene, C. Sfameni (eds.), *Iblatasah Placea Piazza. L'insediamento medievale sulla Villa del Casale: nuovi e vecchi scavi*, Catalogo della mostra, Piazza Armerina, Istituto per gli Studi del Mediterraneo Antico, 81-90.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sfameni",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pensabene",
+     "given": "P."
+    },
+    {
+     "family": "Sfameni",
+     "given": "C."
+    }
+   ],
+   "date": "2006",
+   "title": "L'insediamento medievale: la documentazione degli scavi precedenti",
+   "is_part_of": [
+    "Iblatasah Placea Piazza. L'insediamento medievale sulla Villa del Casale: nuovi e vecchi scavi. Catalogo della mostra"
+   ],
+   "pages": "81-90",
+   "publisher": "Istituto per gli Studi del Mediterraneo Antico",
+   "place": "Piazza Armerina",
+   "language": "ita"
+  },
+  {
+   "position": 21,
+   "raw": "Vennarucci R., Fredrick D., Tanasi D., Reynolds N., Kingsland K., Jenkins B., Hassam S. 2021, *In Ersilia's footsteps: Toward an interactive webGL application for exploring the villa romana del Casale at Piazza Armerina, Sicily*, in F. Ganovelli, C. Mc Donald, F. Banterle, M. Potenziani, M. Callieri, Y. Jung (eds.), *Web3D '21: Proceedings of the 26th International Conference on 3D Web Technology (Pisa 2021)*, New York, Association for Computing Technology, 1-7 (https://doi.org/10.1145/3485444.3487646).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vennarucci",
+     "given": "R."
+    },
+    {
+     "family": "Fredrick",
+     "given": "D."
+    },
+    {
+     "family": "Tanasi",
+     "given": "D."
+    },
+    {
+     "family": "Reynolds",
+     "given": "N."
+    },
+    {
+     "family": "Kingsland",
+     "given": "K."
+    },
+    {
+     "family": "Jenkins",
+     "given": "B."
+    },
+    {
+     "family": "Hassam",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ganovelli",
+     "given": "F."
+    },
+    {
+     "family": "Mc Donald",
+     "given": "C."
+    },
+    {
+     "family": "Banterle",
+     "given": "F."
+    },
+    {
+     "family": "Potenziani",
+     "given": "M."
+    },
+    {
+     "family": "Callieri",
+     "given": "M."
+    },
+    {
+     "family": "Jung",
+     "given": "Y."
+    }
+   ],
+   "date": "2021",
+   "title": "In Ersilia's footsteps: Toward an interactive webGL application for exploring the villa romana del Casale at Piazza Armerina, Sicily",
+   "is_part_of": [
+    "Web3D '21: Proceedings of the 26th International Conference on 3D Web Technology (Pisa 2021)"
+   ],
+   "pages": "1-7",
+   "publisher": "Association for Computing Technology",
+   "place": "New York",
+   "language": "eng",
+   "doi": "10.1145/3485444.3487646"
+  }
+ ]
+}

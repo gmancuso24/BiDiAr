@@ -1,0 +1,493 @@
+{
+ "citing_aec_id": 231,
+ "source_file": "data/journal/8/231.md",
+ "references": [
+  {
+   "raw": "ALLEN K.M.S., GREEN S.W., ZUBROW E.B.W. (eds.) 1990, Interpreting Space: GIS and Archaeology, London, New York, Philadelphia, Taylor & Francis.",
+   "date": "1990",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "type": "book",
+   "title": "Interpreting Space: GIS and Archaeology",
+   "place": "London, New York, Philadelphia",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "BAMPTON M., HAMILTON N.D. 1996, GIS, education and stewardship in Casco Bay Estuary, Maine, Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems, Forlì, U.I.S.P.P., 59-66.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Bampton",
+     "given": "M."
+    },
+    {
+     "family": "Hamilton",
+     "given": "N.D."
+    }
+   ],
+   "pages": "59-66",
+   "type": "chapter",
+   "title": "GIS, education and stewardship in Casco Bay Estuary, Maine",
+   "place": "Forlì",
+   "publisher": "U.I.S.P.P.",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2,
+   "is_part_of": [
+    "Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems"
+   ]
+  },
+  {
+   "raw": "BLAUT J. 1971, Space, structure and maps, «Tijdschrift voor Economische en Sociale Geografie», January-February, 18-21.",
+   "date": "1971",
+   "creators": [
+    {
+     "family": "Blaut",
+     "given": "J."
+    }
+   ],
+   "type": "article",
+   "title": "Space, structure and maps",
+   "is_part_of": [
+    "Tijdschrift voor Economische en Sociale Geografie"
+   ],
+   "pages": "18-21",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "EASTMAN R. 1995, Idrisi for Windows: User's Guide Version 1.0, Worcester, Clark Labs for Cartographic Technology and Geographic Analysis, Clark University.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Eastman",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Idrisi for Windows: User's Guide Version 1.0",
+   "publisher": "Clark Labs for Cartographic Technology and Geographic Analysis, Clark University",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4,
+   "place": "Worcester"
+  },
+  {
+   "raw": "FEYERABEND P. 1975, Against Method, London, Verso.",
+   "date": "1975",
+   "creators": [
+    {
+     "family": "Feyerabend",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "Against Method",
+   "place": "London",
+   "publisher": "Verso",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "FEYNAMAN R.P. 1985, \"Surely You're joking Mr Feynaman!\": Adventures of a Curious Character, New York, Norton.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Feynaman",
+     "given": "R.P."
+    }
+   ],
+   "type": "book",
+   "title": "\"Surely You're joking Mr Feynaman!\": Adventures of a Curious Character",
+   "place": "New York",
+   "publisher": "Norton",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "HAGGETT P. 1990, The Geographer's Art, Oxford, Blackwell.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Haggett",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "The Geographer's Art",
+   "place": "Oxford",
+   "publisher": "Blackwell",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "HARLEY J.B. 1994, New England Cartography and the Native Americans, in E.W. BAKER, E.A. CHURCHILL, R.S. D'ABATE, K.L. JONES, V.A. KONRAD, H.A. PRINS (eds.), American Beginnings: Exploration, Culture and Cartography in the Land of Norumbega, Lincoln, University of Nebraska Press.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Harley",
+     "given": "J.B."
+    }
+   ],
+   "type": "chapter",
+   "title": "New England Cartography and the Native Americans",
+   "editors": [
+    {
+     "family": "Baker",
+     "given": "E.W."
+    },
+    {
+     "family": "Churchill",
+     "given": "E.A."
+    },
+    {
+     "family": "D'Abate",
+     "given": "R.S."
+    },
+    {
+     "family": "Jones",
+     "given": "K.L."
+    },
+    {
+     "family": "Konrad",
+     "given": "V.A."
+    },
+    {
+     "family": "Prins",
+     "given": "H.A."
+    }
+   ],
+   "is_part_of": [
+    "American Beginnings: Exploration, Culture and Cartography in the Land of Norumbega"
+   ],
+   "place": "Lincoln",
+   "publisher": "University of Nebraska Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "HODDER I., ORTON C. 1976, Spatial Analysis in Archaeology, Cambridge, Cambridge University Press.",
+   "date": "1976",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    },
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "type": "book",
+   "title": "Spatial Analysis in Archaeology",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "HOLDAWAY S. 1996, GIS and open site archeology in New South Whales, Australia, Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems, Forlì, U.I.S.P.P., 218 ss.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Holdaway",
+     "given": "S."
+    }
+   ],
+   "type": "chapter",
+   "title": "GIS and open site archeology in New South Whales, Australia",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10,
+   "is_part_of": [
+    "Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems"
+   ],
+   "place": "Forlì",
+   "publisher": "U.I.S.P.P."
+  },
+  {
+   "raw": "JOHNSON I. 1996, Desktop mapping and raster GIS: best of both worlds?, Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems, Forlì, U.I.S.P.P., 89-92.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Johnson",
+     "given": "I."
+    }
+   ],
+   "pages": "89-92",
+   "type": "chapter",
+   "title": "Desktop mapping and raster GIS: best of both worlds?",
+   "place": "Forlì",
+   "publisher": "U.I.S.P.P.",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11,
+   "is_part_of": [
+    "Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems"
+   ]
+  },
+  {
+   "raw": "KOHLER T.A., GUMERMAN G.J. 1996, Beyond GIS: populating worlds with agents, Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems, Forlì, U.I.S.P.P., 101-111.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Kohler",
+     "given": "T.A."
+    },
+    {
+     "family": "Gumerman",
+     "given": "G.J."
+    }
+   ],
+   "pages": "101-111",
+   "type": "chapter",
+   "title": "Beyond GIS: populating worlds with agents",
+   "place": "Forlì",
+   "publisher": "U.I.S.P.P.",
+   "language": "eng",
+   "confidence": "high",
+   "position": 12,
+   "is_part_of": [
+    "Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems"
+   ]
+  },
+  {
+   "raw": "KUHN T. 1970, Reflections on my critics, in I. LAKATOS, A. MUSGRAVE (eds.), Criticism and the Growth of Knowledge, Cambridge, Cambridge University Press.",
+   "date": "1970",
+   "creators": [
+    {
+     "family": "Kuhn",
+     "given": "T."
+    }
+   ],
+   "type": "chapter",
+   "title": "Reflections on my critics",
+   "editors": [
+    {
+     "family": "Lakatos",
+     "given": "I."
+    },
+    {
+     "family": "Musgrave",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Criticism and the Growth of Knowledge"
+   ],
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "KVAMME K.L. 1989, Geographic information systems in regional archaeological research and data management, in M.B. SCHIFFER (ed.), Method and Theory in Archaeology, Tucson, University of Arizona Press.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "type": "chapter",
+   "title": "Geographic information systems in regional archaeological research and data management",
+   "editors": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "is_part_of": [
+    "Method and Theory in Archaeology"
+   ],
+   "place": "Tucson",
+   "publisher": "University of Arizona Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "KVAMME K.L. 1996, Randomization methods for statistical inference in raster GIS context, Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems, Forlì, U.I.S.P.P., 107-125.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "pages": "107-125",
+   "type": "chapter",
+   "title": "Randomization methods for statistical inference in raster GIS context",
+   "place": "Forlì",
+   "publisher": "U.I.S.P.P.",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15,
+   "is_part_of": [
+    "Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems"
+   ]
+  },
+  {
+   "raw": "LIMP W.F. 1996, Developing methodologies in the analysis of spatially referenced data and their impacts on archaeological method and theory, Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems, Forlì, U.I.S.P.P., 115-125.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Limp",
+     "given": "W.F."
+    }
+   ],
+   "pages": "115-125",
+   "type": "chapter",
+   "title": "Developing methodologies in the analysis of spatially referenced data and their impacts on archaeological method and theory",
+   "place": "Forlì",
+   "publisher": "U.I.S.P.P.",
+   "language": "eng",
+   "confidence": "high",
+   "position": 16,
+   "is_part_of": [
+    "Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems"
+   ]
+  },
+  {
+   "raw": "MADSEN T. 1996, GIS and Scandinavian archaeology. A tale from the real world, Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems, Forlì, U.I.S.P.P., 127-135.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Madsen",
+     "given": "T."
+    }
+   ],
+   "pages": "127-135",
+   "type": "chapter",
+   "title": "GIS and Scandinavian archaeology. A tale from the real world",
+   "place": "Forlì",
+   "publisher": "U.I.S.P.P.",
+   "language": "eng",
+   "confidence": "high",
+   "position": 17,
+   "is_part_of": [
+    "Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems"
+   ]
+  },
+  {
+   "raw": "MARTIN D. 1991, Geographic Information Systems and their Socio-Economic Applications, London, Routledge.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Martin",
+     "given": "D."
+    }
+   ],
+   "type": "book",
+   "title": "Geographic Information Systems and their Socio-Economic Applications",
+   "place": "London",
+   "publisher": "Routledge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "MONMONIER M. 1991, How to Lie with Maps, Chicago, University of Chicago Press.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Monmonier",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "How to Lie with Maps",
+   "place": "Chicago",
+   "publisher": "University of Chicago Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 19
+  },
+  {
+   "raw": "OPENSHAW S. 1984, The Modifiable Areal Unit Problem, Concepts and Techniques in Modern Geography 38, Norwich, Geo Books.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Openshaw",
+     "given": "S."
+    }
+   ],
+   "type": "book",
+   "title": "The Modifiable Areal Unit Problem",
+   "place": "Norwich",
+   "publisher": "Geo Books",
+   "language": "eng",
+   "confidence": "high",
+   "position": 20,
+   "series": "Concepts and Techniques in Modern Geography",
+   "series_number": "38"
+  },
+  {
+   "raw": "SCHUMM S.A., LICHTEY R.W. 1965, Space, time and causality in geomorphology, «American Journal of Science», 263, 110-119.",
+   "date": "1965",
+   "creators": [
+    {
+     "family": "Schumm",
+     "given": "S.A."
+    },
+    {
+     "family": "Lichtey",
+     "given": "R.W."
+    }
+   ],
+   "type": "article",
+   "title": "Space, time and causality in geomorphology",
+   "is_part_of": [
+    "American Journal of Science"
+   ],
+   "pages": "110-119",
+   "volume": "263",
+   "language": "eng",
+   "confidence": "high",
+   "position": 21
+  },
+  {
+   "raw": "VOORRIPS A. 1996, Archaeological theory and GIS, any relations?, Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems, Forlì, U.I.S.P.P., 209-214.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    }
+   ],
+   "pages": "209-214",
+   "type": "chapter",
+   "title": "Archaeological theory and GIS, any relations?",
+   "place": "Forlì",
+   "publisher": "U.I.S.P.P.",
+   "language": "eng",
+   "confidence": "high",
+   "position": 22,
+   "is_part_of": [
+    "Proceedings XIII International Congress of Prehistoric and Protohistoric Sciences, Forlì, vol. 1, Theoretical and Methodological Problems"
+   ]
+  }
+ ]
+}

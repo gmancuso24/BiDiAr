@@ -1,0 +1,837 @@
+{
+ "citing_aec_id": 8,
+ "source_file": "data/journal/1/8.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BEDWIN O., 0RTON C. R. 1984, The excavation o/ the eastem terminal o/ the Devil's Ditch (Chichester Dykes), Boxgrove, West Sussex, « Sussex Archaeological Collections », 122, 63-74.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bedwin",
+     "given": "O."
+    },
+    {
+     "family": "Orton",
+     "given": "C.R."
+    }
+   ],
+   "date": "1984",
+   "title": "The excavation of the eastern terminal of the Devil's Ditch (Chichester Dykes), Boxgrove, West Sussex",
+   "is_part_of": [
+    "Sussex Archaeological Collections"
+   ],
+   "volume": "122",
+   "pages": "63-74",
+   "language": "eng",
+   "notes": "OCR: 0RTON, eastem",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "BISHOP Y. M. M., FIENBERG S. E., HOLLAND P. W. 1975, Discrete Multivariate Analysis, Cambridge, Massachusetts, MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bishop",
+     "given": "Y.M.M."
+    },
+    {
+     "family": "Fienberg",
+     "given": "S.E."
+    },
+    {
+     "family": "Holland",
+     "given": "P.W."
+    }
+   ],
+   "date": "1975",
+   "title": "Discrete Multivariate Analysis",
+   "publisher": "MIT Press",
+   "place": "Cambridge, Massachusetts",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BLOICE B. J. 1971, Note, in G.]. DAWSON, Montague Close Part 2, « London Archaeologist » , 1,250-251.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bloice",
+     "given": "B.J."
+    }
+   ],
+   "date": "1971",
+   "title": "Note",
+   "is_part_of": [
+    "London Archaeologist"
+   ],
+   "volume": "1",
+   "pages": "250-251",
+   "language": "eng",
+   "notes": "note in G.J. Dawson, Montague Close Part 2",
+   "confidence": "low"
+  },
+  {
+   "position": 4,
+   "raw": "BRADLEY R., FULFORD M. G. 1980, Sherd in the ana/ysis o/ occupation debris, « Bulletin of the Institute of Archaeology », 17, 85·94.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bradley",
+     "given": "R."
+    },
+    {
+     "family": "Fulford",
+     "given": "M.G."
+    }
+   ],
+   "date": "1980",
+   "title": "Sherd in the analysis of occupation debris",
+   "is_part_of": [
+    "Bulletin of the Institute of Archaeology"
+   ],
+   "volume": "17",
+   "pages": "85-94",
+   "language": "eng",
+   "notes": "title as cited (possibly 'Sherd size')",
+   "confidence": "low"
+  },
+  {
+   "position": 5,
+   "raw": "CARVER M. O. H. 1985, Theory and practice in urban pottery seriation, «Journal of Archaeological Science», 12, 353·366.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carver",
+     "given": "M.O.H."
+    }
+   ],
+   "date": "1985",
+   "title": "Theory and practice in urban pottery seriation",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "12",
+   "pages": "353-366",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "COCHRAN W . G. 1954, Some methods /or strengthening the common chi·squared tests, «Biometrics», 10, 417.451.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cochran",
+     "given": "W.G."
+    }
+   ],
+   "date": "1954",
+   "title": "Some methods for strengthening the common chi-squared tests",
+   "is_part_of": [
+    "Biometrics"
+   ],
+   "volume": "10",
+   "pages": "417-451",
+   "language": "eng",
+   "notes": "OCR: '417.451'",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "COCHRAN W . G . 1963, Samp/ing Techniques, (2nd edition), New York, Wiley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cochran",
+     "given": "W.G."
+    }
+   ],
+   "date": "1963",
+   "title": "Sampling Techniques",
+   "publisher": "Wiley",
+   "place": "New York",
+   "language": "eng",
+   "notes": "2nd edition",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "CRADDOCK J. M., FLOoD C. R. 1970, The distribution o/ the chi·squared statistic in small contingency tables, « Applied Statistics», 19, 173-181.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Craddock",
+     "given": "J.M."
+    },
+    {
+     "family": "Flood",
+     "given": "C.R."
+    }
+   ],
+   "date": "1970",
+   "title": "The distribution of the chi-squared statistic in small contingency tables",
+   "is_part_of": [
+    "Applied Statistics"
+   ],
+   "volume": "19",
+   "pages": "173-181",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "DUNCAN R. J., HODSON F. R., 0RTON C. R., TYERS P. A., VEKARIA A. 1988, Data analysis for archaeologists: the Institute o/ Archaeology programs, London, lnstitute of Archaeology.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Duncan",
+     "given": "R.J."
+    },
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    },
+    {
+     "family": "Orton",
+     "given": "C.R."
+    },
+    {
+     "family": "Tyers",
+     "given": "P.A."
+    },
+    {
+     "family": "Vekaria",
+     "given": "A."
+    }
+   ],
+   "date": "1988",
+   "title": "Data analysis for archaeologists: the Institute of Archaeology programs",
+   "publisher": "Institute of Archaeology",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "ECLOFF B. J. 1973, A method /or counting ceramic rim sherds, « American Antiquity », 38(3), 351·353.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ecloff",
+     "given": "B.J."
+    }
+   ],
+   "date": "1973",
+   "title": "A method for counting ceramic rim sherds",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "38",
+   "issue": "3",
+   "pages": "351-353",
+   "language": "eng",
+   "notes": "surname as cited (OCR?)",
+   "confidence": "low"
+  },
+  {
+   "position": 11,
+   "raw": "FIENBERG S. E . 1977, The Analysis o/ Cross·classi/ìed Categorica! Data, Cambridge, Massachusetts, MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fienberg",
+     "given": "S.E."
+    }
+   ],
+   "date": "1977",
+   "title": "The Analysis of Cross-classified Categorical Data",
+   "publisher": "MIT Press",
+   "place": "Cambridge, Massachusetts",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "FULFORD M. G ., HoDDER I. R. 1974, A regression ana/ysis o/ some late Romano-British fine pottery: a case study, « Oxoniensia », 39, 26-33.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fulford",
+     "given": "M.G."
+    },
+    {
+     "family": "Hodder",
+     "given": "I.R."
+    }
+   ],
+   "date": "1974",
+   "title": "A regression analysis of some late Romano-British fine pottery: a case study",
+   "is_part_of": [
+    "Oxoniensia"
+   ],
+   "volume": "39",
+   "pages": "26-33",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "GLOVER I. C. 1972, Excavation in Timor, PhD thesis, Austrialian National University.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Glover",
+     "given": "I.C."
+    }
+   ],
+   "date": "1972",
+   "title": "Excavation in Timor",
+   "publisher": "Australian National University",
+   "language": "eng",
+   "notes": "PhD thesis",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "GRAYSON D. K. 1984, Quantitative Zooarchaeo/ogy, London, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Grayson",
+     "given": "D.K."
+    }
+   ],
+   "date": "1984",
+   "title": "Quantitative Zooarchaeology",
+   "publisher": "Academic Press",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "GREEN C. 1980, Roman Pottery, in D. M. JON ES, Excavations at Billingsgate Buildings 'Triangle' Lower Thames Street, 1974, London and Middlesex Archaeological Sodety, Special Paper n. 4.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Green",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Jones",
+     "given": "D.M."
+    }
+   ],
+   "date": "1980",
+   "title": "Roman Pottery",
+   "is_part_of": [
+    "Excavations at Billingsgate Buildings 'Triangle' Lower Thames Street, 1974"
+   ],
+   "series": "London and Middlesex Archaeological Society Special Paper",
+   "series_number": "4",
+   "language": "eng",
+   "notes": "'D. M. JONES' is the author/editor of the volume",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "GREENACRE M. J. 1984, Theory and Applications o/f Correspondence Analysis, London, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Greenacre",
+     "given": "M.J."
+    }
+   ],
+   "date": "1984",
+   "title": "Theory and Applications of Correspondence Analysis",
+   "publisher": "Academic Press",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "H!NTON D . A. 1977, 'Rudely made earthen vessels' of the twelfth to fifteenth centuries AD, in D. P. S. PEACOCK (cd.), Ceramics and Ear/y Commerce, 221-238, London, Academic Press.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hinton",
+     "given": "D.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Peacock",
+     "given": "D.P.S."
+    }
+   ],
+   "date": "1977",
+   "title": "'Rudely made earthen vessels' of the twelfth to fifteenth centuries AD",
+   "is_part_of": [
+    "Ceramics and Early Commerce"
+   ],
+   "publisher": "Academic Press",
+   "place": "London",
+   "pages": "221-238",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "HOCHBERG Y., TAMHANE A. C. 1987, Multiple Comparison Procedures, New York, Wiley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hochberg",
+     "given": "Y."
+    },
+    {
+     "family": "Tamhane",
+     "given": "A.C."
+    }
+   ],
+   "date": "1987",
+   "title": "Multiple Comparison Procedures",
+   "publisher": "Wiley",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "HULTHÉN B. 1974, On choice o/ e/ement /or determination o/ quantity o/ pottery, « Norwegian Archacological Rcview », 7(1), 1·5.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hulthén",
+     "given": "B."
+    }
+   ],
+   "date": "1974",
+   "title": "On choice of element for determination of quantity of pottery",
+   "is_part_of": [
+    "Norwegian Archaeological Review"
+   ],
+   "volume": "7",
+   "issue": "1",
+   "pages": "1-5",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "KENDALL M. G ., STUART A. 1973, The Advanced Theory of Statistics, Voi. 2 ()rd edition), London, Griffin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kendall",
+     "given": "M.G."
+    },
+    {
+     "family": "Stuart",
+     "given": "A."
+    }
+   ],
+   "date": "1973",
+   "title": "The Advanced Theory of Statistics",
+   "volume": "2",
+   "publisher": "Griffin",
+   "place": "London",
+   "language": "eng",
+   "notes": "edition garbled in OCR '()rd edition'",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "MADSEN T . (ed.) 1988, Multivariate Archaeology, Numerica/ Approaches to Scandinavian Archaeology, Jutland Archaeological Society Publications, 21, Arbus, Arhus Univcrsity Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Madsen",
+     "given": "T."
+    }
+   ],
+   "date": "1988",
+   "title": "Multivariate Archaeology. Numerical Approaches to Scandinavian Archaeology",
+   "series": "Jutland Archaeological Society Publications",
+   "series_number": "21",
+   "publisher": "Arhus University Press",
+   "place": "Arhus",
+   "language": "eng",
+   "notes": "OCR: Arbus",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "MARQUARDT W. 1978, Advances in archaeologica/ seriation, in M. ScHIFFER (ed.), Advances in Archaeologica/ Method and Theory, 1, 257·314, New York, Academic Press.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Marquardt",
+     "given": "W."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Schiffer",
+     "given": "M."
+    }
+   ],
+   "date": "1978",
+   "title": "Advances in archaeological seriation",
+   "is_part_of": [
+    "Advances in Archaeological Method and Theory"
+   ],
+   "volume": "1",
+   "place": "New York",
+   "pages": "257-314",
+   "language": "eng",
+   "notes": "publisher Academic Press",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "MILLER R. G. 1981, Simultaneous Statistica/ Inference (2nd edition), New York, Springcr-Verlag.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Miller",
+     "given": "R.G."
+    }
+   ],
+   "date": "1981",
+   "title": "Simultaneous Statistical Inference",
+   "publisher": "Springer-Verlag",
+   "place": "New York",
+   "language": "eng",
+   "notes": "2nd edition",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "MILLETT M. 1979a, The dating o/ Famham (Alice Ho/t) pottery, « Britannia », 10, 121·77.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Millett",
+     "given": "M."
+    }
+   ],
+   "date": "1979",
+   "title": "The dating of Farnham (Alice Holt) pottery",
+   "is_part_of": [
+    "Britannia"
+   ],
+   "volume": "10",
+   "pages": "121-177",
+   "language": "eng",
+   "notes": "cited '121·77' (121-177); 1979a",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "MrLLETT M. 1979b, An approach to the /unctional interpretation o/ pottery, Institute of Archacology, Occasiona! Papers 4, 35·48.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Millett",
+     "given": "M."
+    }
+   ],
+   "date": "1979",
+   "title": "An approach to the functional interpretation of pottery",
+   "is_part_of": [
+    "Institute of Archaeology, Occasional Papers 4"
+   ],
+   "pages": "35-48",
+   "language": "eng",
+   "notes": "1979b",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "MILLETT M. 1979c, How much pottery?, Institute of Archaeology, Occasionai Papers 4, 77·80.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Millett",
+     "given": "M."
+    }
+   ],
+   "date": "1979",
+   "title": "How much pottery?",
+   "is_part_of": [
+    "Institute of Archaeology, Occasional Papers 4"
+   ],
+   "pages": "77-80",
+   "language": "eng",
+   "notes": "1979c",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "MOORHOUSE S. 1986, Non-dating uses o/ medieval pottery, « Medieval Ceramics », 10, 85-124.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moorhouse",
+     "given": "S."
+    }
+   ],
+   "date": "1986",
+   "title": "Non-dating uses of medieval pottery",
+   "is_part_of": [
+    "Medieval Ceramics"
+   ],
+   "volume": "10",
+   "pages": "85-124",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "0RTON C. R. 1975, Quantitative pottery studies: some progress, problems and prospects, « Science and Archaeology », 16, 30·35.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C.R."
+    }
+   ],
+   "date": "1975",
+   "title": "Quantitative pottery studies: some progress, problems and prospects",
+   "is_part_of": [
+    "Science and Archaeology"
+   ],
+   "volume": "16",
+   "pages": "30-35",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "ORTON C. R. l 982a, Computer simulation experiments to assess the performance of measures of quantity o/ pottery, « World Archaeology », 14, n. 1, 1-20.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C.R."
+    }
+   ],
+   "date": "1982",
+   "title": "Computer simulation experiments to assess the performance of measures of quantity of pottery",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "14",
+   "issue": "1",
+   "pages": "1-20",
+   "language": "eng",
+   "notes": "1982a",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "ORTON C. R. 1982b, Pottery evidence /or the dating o/ the revetments, in G. MILNE, C. MILNE, Medieval Waterfront Development at Trig Lane, London, London and Middlessex Archaeological Society, Special Paper n. 5, 92-99.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C.R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Milne",
+     "given": "G."
+    },
+    {
+     "family": "Milne",
+     "given": "C."
+    }
+   ],
+   "date": "1982",
+   "title": "Pottery evidence for the dating of the revetments",
+   "is_part_of": [
+    "Medieval Waterfront Development at Trig Lane, London"
+   ],
+   "series": "London and Middlesex Archaeological Society Special Paper",
+   "series_number": "5",
+   "publisher": "London and Middlesex Archaeological Society",
+   "place": "London",
+   "pages": "92-99",
+   "language": "eng",
+   "notes": "1982b; OCR: Middlessex",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "0RTON C. R. 1985, Two useful parameters /or pottery research, in E. WEBB (ed.), Computer Applications in Archaeo/,ogy 1985, London, Institute of Archaeology, 114-120.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C.R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Webb",
+     "given": "E."
+    }
+   ],
+   "date": "1985",
+   "title": "Two useful parameters for pottery research",
+   "is_part_of": [
+    "Computer Applications in Archaeology 1985"
+   ],
+   "publisher": "Institute of Archaeology",
+   "place": "London",
+   "pages": "114-120",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "0RTON C. R., TYERS P. A. 1990, A technique for reducing the size o/ sparse contingency tables, submitted to Computer and Quantitative Methods in Archaeology 1990.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C.R."
+    },
+    {
+     "family": "Tyers",
+     "given": "P.A."
+    }
+   ],
+   "date": "1990",
+   "title": "A technique for reducing the size of sparse contingency tables",
+   "is_part_of": [
+    "Computer and Quantitative Methods in Archaeology 1990"
+   ],
+   "language": "eng",
+   "notes": "submitted to CQMA 1990 (not yet published when cited)",
+   "confidence": "low"
+  },
+  {
+   "position": 33,
+   "raw": "REDMAN C. L. 1979, Description and inference with the late medieval pottery from Qsar es-Seghir, Morocco, « Medieval Ceramics », 3, 63-79.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Redman",
+     "given": "C.L."
+    }
+   ],
+   "date": "1979",
+   "title": "Description and inference with the late medieval pottery from Qsar es-Seghir, Morocco",
+   "is_part_of": [
+    "Medieval Ceramics"
+   ],
+   "volume": "3",
+   "pages": "63-79",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "SCHIFFER M. B. 1987, Formation Processes of the Archaeological Record, Albuquerque, University of New Mexico Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "date": "1987",
+   "title": "Formation Processes of the Archaeological Record",
+   "publisher": "University of New Mexico Press",
+   "place": "Albuquerque",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "SMITH M. F. 1983, The study of ceramic function from artifact size and shape, Unpublished doctoral thesis, University of Oregon.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Smith",
+     "given": "M.F."
+    }
+   ],
+   "date": "1983",
+   "title": "The study of ceramic function from artifact size and shape",
+   "publisher": "University of Oregon",
+   "language": "eng",
+   "notes": "unpublished doctoral thesis",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "SOLHEIM W. G. 1960, The use o/ sherd weights and counts in the handling o/ archaeological data, «Current Anthropology », 1, 325-329.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Solheim",
+     "given": "W.G."
+    }
+   ],
+   "date": "1960",
+   "title": "The use of sherd weights and counts in the handling of archaeological data",
+   "is_part_of": [
+    "Current Anthropology"
+   ],
+   "volume": "1",
+   "pages": "325-329",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "VINCE A. G. 1977, Some aspects o/ pottery quantification, « Medieval Ceramks », I, 63-74.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vince",
+     "given": "A.G."
+    }
+   ],
+   "date": "1977",
+   "title": "Some aspects of pottery quantification",
+   "is_part_of": [
+    "Medieval Ceramics"
+   ],
+   "volume": "1",
+   "pages": "63-74",
+   "language": "eng",
+   "notes": "OCR: Ceramks, I",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "YOUN C. J. (ed.) 1980, Guidelines /or the processing and publication of Roman Pottery /rom excavations, Directorate of Ancient Monumcnts and Historical Buildings, Occasionai Paper n. 4.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Youn",
+     "given": "C.J."
+    }
+   ],
+   "date": "1980",
+   "title": "Guidelines for the processing and publication of Roman Pottery from excavations",
+   "series": "Directorate of Ancient Monuments and Historical Buildings Occasional Paper",
+   "series_number": "4",
+   "language": "eng",
+   "notes": "surname as cited (probably Young)",
+   "confidence": "low"
+  }
+ ]
+}

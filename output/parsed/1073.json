@@ -1,0 +1,114 @@
+{
+ "citing_aec_id": 1073,
+ "source_file": "data/journal/30/1073.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Germoni P., Olivanti P. 2012, Dalle tavolette micenee alle banche dati informatizzate: l'esperienza ostiense con i sistemi AIDA e Rileva, in A.M. Jaia, P. Olivanti, G. Canzoneri (eds.), Giornate di studio e di approfondimento sui problemi legati all'organizzazione di esposizione temporanee. Ambito archeologico (Anzio 2012), Roma, 69-70.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Germoni",
+     "given": "P."
+    },
+    {
+     "family": "Olivanti",
+     "given": "P."
+    }
+   ],
+   "date": "2012",
+   "title": "Dalle tavolette micenee alle banche dati informatizzate: l'esperienza ostiense con i sistemi AIDA e Rileva",
+   "is_part_of": [
+    "Giornate di studio e di approfondimento sui problemi legati all'organizzazione di esposizione temporanee. Ambito archeologico (Anzio 2012)"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Jaia",
+     "given": "A.M."
+    },
+    {
+     "family": "Olivanti",
+     "given": "P."
+    },
+    {
+     "family": "Canzoneri",
+     "given": "G."
+    }
+   ],
+   "pages": "69-70",
+   "place": "Roma"
+  },
+  {
+   "position": 2,
+   "raw": "Muttillo B. 2017, Le risorse invisibili. Indagine sulla gestione dei depositi museali e sulla movimentazione dei beni archeologici in Italia, Canterano (RM), Aracne.",
+   "type": "book",
+   "date": "2017",
+   "title": "Le risorse invisibili. Indagine sulla gestione dei depositi museali e sulla movimentazione dei beni archeologici in Italia",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Muttillo",
+     "given": "B."
+    }
+   ],
+   "publisher": "Aracne",
+   "place": "Canterano (RM)"
+  },
+  {
+   "position": 3,
+   "raw": "Paris R., De Stefanis C., Gallo C. 2015, L'interazione tra il SITAR e la banca dati NIOBE, in M. Serlorenzi (ed.), Il SITAR nella rete della ricerca italiana. Verso la conoscenza archeologica condivisa. Atti del III Convegno (Roma 2013), «Archeologia e Calcolatori», Suppl. 7, 235-240.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Paris",
+     "given": "R."
+    },
+    {
+     "family": "De Stefanis",
+     "given": "C."
+    },
+    {
+     "family": "Gallo",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "L'interazione tra il SITAR e la banca dati NIOBE",
+   "is_part_of": [
+    "Il SITAR nella rete della ricerca italiana. Verso la conoscenza archeologica condivisa. Atti del III Convegno (Roma 2013)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 7",
+   "pages": "235-240",
+   "language": "ita",
+   "cited_aec_id": 828
+  },
+  {
+   "position": 4,
+   "raw": "Serlorenzi M. 2018, Accessibilità e diffusione del dato archeologico: l'esperienza del SITAR, in M. Arizza, V. Boi, A. Caravale, A. Palombini, A. Piergrossi (eds.), I dati archeologici. Accessibilità, proprietà, disseminazione (Roma 2017), «Archeologia e Calcolatori», 29, 31-40.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2018",
+   "title": "Accessibilità e diffusione del dato archeologico: l'esperienza del SITAR",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "29",
+   "pages": "31-40",
+   "language": "ita",
+   "cited_aec_id": 990
+  }
+ ]
+}

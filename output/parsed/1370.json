@@ -1,0 +1,256 @@
+{
+ "citing_aec_id": 1370,
+ "source_file": "data/journal/35/1370.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Cantone F., Caravale A. 2019, *Archeologia e Calcolatori. Classificazione geografica e tematica per la condivisione della conoscenza*, in P. Moscati (ed.), *30 anni di Archeologia e Calcolatori. Tra memoria e progettualità*, «Archeologia e Calcolatori», 30, 93-107 (https://doi.org/10.19282/ac.30.2019.07).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cantone",
+     "given": "F."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "title": "Archeologia e Calcolatori. Classificazione geografica e tematica per la condivisione della conoscenza",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "30",
+   "pages": "93-107",
+   "language": "ita",
+   "doi": "10.19282/ac.30.2019.07",
+   "cited_aec_id": 1042
+  },
+  {
+   "position": 2,
+   "raw": "Caravale A., Duran-Silva N., Grimau B., Moscati P., Rondelli B. 2023, *Developing a digital archaeology classification system using Natural Language Processing and Machine Learning techniques*, «Archeologia e Calcolatori», 34.2, 9-32 (https://doi.org/10.19282/ac.34.2.2023.01).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Duran-Silva",
+     "given": "N."
+    },
+    {
+     "family": "Grimau",
+     "given": "B."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Rondelli",
+     "given": "B."
+    }
+   ],
+   "date": "2023",
+   "title": "Developing a digital archaeology classification system using Natural Language Processing and Machine Learning techniques",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "34",
+   "issue": "2",
+   "pages": "9-32",
+   "language": "eng",
+   "doi": "10.19282/ac.34.2.2023.01",
+   "cited_aec_id": 1259
+  },
+  {
+   "position": 3,
+   "raw": "Descamps S. 1993, *Le vidéodisque 'Parthénon'. Musée du Louvre Département des Antiquités grecques, étrusques et romaines*, in J. Boardman, D. Kurtz (eds.), *International Conference on Data and Image Processing in Classical Archaeology (Ravello 1992)*, «Archeologia e Calcolatori», 4, 253-255.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Descamps",
+     "given": "S."
+    }
+   ],
+   "date": "1993",
+   "title": "Le vidéodisque 'Parthénon'. Musée du Louvre Département des Antiquités grecques, étrusques et romaines",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "253-255",
+   "language": "fre",
+   "cited_aec_id": 71
+  },
+  {
+   "position": 4,
+   "raw": "Ginouvès R. 1986, *«Images de l'archéologie». Un premier vidéodisque pour l'archéologie classique*, «Revue Archéologique», 2, 227-234.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1986",
+   "title": "«Images de l'archéologie». Un premier vidéodisque pour l'archéologie classique",
+   "is_part_of": [
+    "Revue Archéologique"
+   ],
+   "issue": "2",
+   "pages": "227-234",
+   "language": "fre"
+  },
+  {
+   "position": 5,
+   "raw": "Guimier-Sorbets A.-M. 1993, *Ouvrir à un large public l'accès à une information spécialisée*, in J. Boardman, D. Kurtz (eds.), *International Conference on Data and Image Processing in Classical Archaeology (Ravello 1992)*, «Archeologia e Calcolatori», 4, 281-286.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "date": "1993",
+   "title": "Ouvrir à un large public l'accès à une information spécialisée",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "281-286",
+   "language": "fre",
+   "cited_aec_id": 77
+  },
+  {
+   "position": 6,
+   "raw": "Guimier-Sorbets 2017, *Le Centre TAAC et l'informatique en l'archeologie classique*, in *Virtual Museum of Archaeological Computing*, Cultural Itineraries (http://archaeologicalcomputing.cnr.it/itineraries/institutions/le-centre-taac-et-linformatique-en-larcheologie-classique/).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "date": "2017",
+   "title": "Le Centre TAAC et l'informatique en l'archeologie classique",
+   "is_part_of": [
+    "Virtual Museum of Archaeological Computing",
+    "Cultural Itineraries"
+   ],
+   "language": "fre",
+   "uri": "http://archaeologicalcomputing.cnr.it/itineraries/institutions/le-centre-taac-et-linformatique-en-larcheologie-classique/",
+   "notes": "cited without initial"
+  },
+  {
+   "position": 7,
+   "raw": "Mazzocchi F. 2018, *Knowledge Organization System (KOS)*, «Knowledge Organization», 45, 1, 54-78.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mazzocchi",
+     "given": "F."
+    }
+   ],
+   "date": "2018",
+   "title": "Knowledge Organization System (KOS)",
+   "is_part_of": [
+    "Knowledge Organization"
+   ],
+   "volume": "45",
+   "issue": "1",
+   "pages": "54-78",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Moscati P. 1999, *\"Archeologia e Calcolatori\": dieci anni di contributi all'informatica archeologica*, «Archeologia e Calcolatori», 10, 343-352 (https://www.archcalc.cnr.it/journal/id.php?id=284).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1999",
+   "title": "\"Archeologia e Calcolatori\": dieci anni di contributi all'informatica archeologica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "343-352",
+   "language": "ita",
+   "cited_aec_id": 284
+  },
+  {
+   "position": 9,
+   "raw": "Moscati P. (ed.) 2019, *30 anni di Archeologia e Calcolatori. Tra memoria e progettualità*, «Archeologia e Calcolatori», 30, 1-138 (http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2019-01-01).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2019",
+   "title": "30 anni di Archeologia e Calcolatori. Tra memoria e progettualità",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "30",
+   "language": "ita",
+   "uri": "http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2019-01-01",
+   "notes": "pages cited 1-138"
+  },
+  {
+   "position": 10,
+   "raw": "Paraciani N., Rossi I. 2023, *IADI: An open Interactive Atlas of Digital Images for the journal «Archeologia e Calcolatori»*, in J. Bogdani, S. Costa (eds.), *ArcheoFOSS 2022. Proceedings of the 16th International Conference on Open Software, Hardware, Processes, Data and Formats in Archaeological Research (Rome 2022)*, «Archeologia e Calcolatori», 34.1, 135-144 (https://doi.org/10.19282/ac.34.1.2023.15).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Paraciani",
+     "given": "N."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2023",
+   "title": "IADI: An open Interactive Atlas of Digital Images for the journal «Archeologia e Calcolatori»",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "34",
+   "issue": "1",
+   "pages": "135-144",
+   "language": "eng",
+   "doi": "10.19282/ac.34.1.2023.15",
+   "cited_aec_id": 1236
+  },
+  {
+   "position": 11,
+   "raw": "Szabados A.-V. 2024, *Le TAL pour les appellations d'œuvres figurées de l'antiquité classique: évolution des ressources numériques du projet MonumenTAL*, in V. Fromageot-Laniepce, A.-V. Szabados (eds.), *Images antiques et humanités numériques: section spéciale éditée par le programme ArcheoNum*, «Archeologia e Calcolatori», 35.1, 193-214 (https://doi.org/10.19282/ac.35.1.2024.14).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Szabados",
+     "given": "A.-V."
+    }
+   ],
+   "date": "2024",
+   "title": "Le TAL pour les appellations d'œuvres figurées de l'antiquité classique: évolution des ressources numériques du projet MonumenTAL",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "1",
+   "pages": "193-214",
+   "language": "fre",
+   "doi": "10.19282/ac.35.1.2024.14",
+   "cited_aec_id": 1295
+  }
+ ]
+}

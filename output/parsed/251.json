@@ -1,0 +1,1712 @@
+{
+ "citing_aec_id": 251,
+ "source_file": "data/journal/9/251.md",
+ "references": [
+  {
+   "raw": "BATCHELOR D., BURTON N., HITCHEN M. 1997, Virtual Stonehenge, paper presented at Archaeology in the Age of the Internet, Computer Applications and Quantitative Methods in Archaeology Conference (CAA97), Birmingham, UK, April 1997.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Batchelor",
+     "given": "D."
+    },
+    {
+     "family": "Burton",
+     "given": "N."
+    },
+    {
+     "family": "Hitchen",
+     "given": "M."
+    }
+   ],
+   "type": "other",
+   "title": "Virtual Stonehenge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1,
+   "notes": "paper presented at Archaeology in the Age of the Internet, Computer Applications and Quantitative Methods in Archaeology Conference (CAA97), Birmingham, UK, April 1997"
+  },
+  {
+   "raw": "BISWELL S., CROPPER L., EVANS J., GAFFNEY V., LEACH P. 1995, GIS and excavation: A cautionary tale from Shepton Mallett, Somerset, England, in G. LOCK, Z. STANČIĆ (eds.), Archaeology and Geographical Information Systems: A European Perspective, London, Taylor and Francis, 269-285.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Biswell",
+     "given": "S."
+    },
+    {
+     "family": "Cropper",
+     "given": "L."
+    },
+    {
+     "family": "Evans",
+     "given": "J."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Leach",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "GIS and excavation: A cautionary tale from Shepton Mallett, Somerset, England",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "269-285",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems: A European Perspective"
+   ],
+   "place": "London",
+   "publisher": "Taylor and Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "BURROUGH P.A. 1986, Principles of Geographic Information Systems for Land Resource Assessment, Oxford, Clarendon.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Burrough",
+     "given": "P.A."
+    }
+   ],
+   "type": "book",
+   "title": "Principles of Geographic Information Systems for Land Resource Assessment",
+   "place": "Oxford",
+   "publisher": "Clarendon",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "CASTLEFORD J. 1992, Archaeology, GIS and the time dimension: An overview, in G. LOCK, J. MOFFETT (eds.), Computer Applications and Quantitative Methods in Archaeology 1991, BAR International Series, n. 577, Oxford, Tempus Reparatum, 95-106.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Castleford",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "Archaeology, GIS and the time dimension: An overview",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "pages": "95-106",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1991"
+   ],
+   "place": "Oxford",
+   "publisher": "Tempus Reparatum",
+   "series": "BAR International Series",
+   "series_number": "577",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "CLARIS P. 1995, The National Trust Sites and Monuments Record - From the Old Stone Age to the New Information Age, The National Trust Annual Archaeological Review n.4. pp. 40",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Claris",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "The National Trust Sites and Monuments Record - From the Old Stone Age to the New Information Age",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5,
+   "is_part_of": [
+    "The National Trust Annual Archaeological Review"
+   ],
+   "issue": "4",
+   "pages": "40"
+  },
+  {
+   "raw": "CLUBB N. 1988, Computer mapping and the SAM record, in S. RAHTZ (ed.), Computer Applications and Quantitative Methods in Archaeology 1988, BAR International Series, n. 446, Oxford, 399-408.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Clubb",
+     "given": "N."
+    }
+   ],
+   "type": "chapter",
+   "title": "Computer mapping and the SAM record",
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "pages": "399-408",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1988"
+   ],
+   "place": "Oxford",
+   "series": "BAR International Series",
+   "series_number": "446",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "CLUBB N.D., LANG N.A.R. 1996, A strategic appraisal of information systems for archaeology and architecture in England - Past, present and future, in H. KAMERMANS, K. FENNEMA (eds.), Interfacing the Past, CAA95, Analecta Praehistorica Leidensia, n. 28, Leiden, University of Leiden, 51-72.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Clubb",
+     "given": "N.D."
+    },
+    {
+     "family": "Lang",
+     "given": "N.A.R."
+    }
+   ],
+   "type": "chapter",
+   "title": "A strategic appraisal of information systems for archaeology and architecture in England - Past, present and future",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "pages": "51-72",
+   "is_part_of": [
+    "Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995"
+   ],
+   "place": "Leiden",
+   "publisher": "University of Leiden",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7,
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28"
+  },
+  {
+   "raw": "DALLAS R.W.A., PARKER D., HILDER D.W. 1995, GIS principles applied to an English country house: The Brodsworth Hall Project, in J. WILCOCK, K. LOCKYEAR (eds.), CAA93. Computer Applications and Quantitative Methods in Archaeology 1993, BAR International Series, n. 598, Oxford, Tempus Reparatum, 259-262.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "R.W.A."
+    },
+    {
+     "family": "Parker",
+     "given": "D."
+    },
+    {
+     "family": "Hilder",
+     "given": "D.W."
+    }
+   ],
+   "type": "chapter",
+   "title": "GIS principles applied to an English country house: The Brodsworth Hall Project",
+   "editors": [
+    {
+     "family": "Wilcock",
+     "given": "J."
+    },
+    {
+     "family": "Lockyear",
+     "given": "K."
+    }
+   ],
+   "pages": "259-262",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1993"
+   ],
+   "place": "Oxford",
+   "publisher": "Tempus Reparatum",
+   "series": "BAR International Series",
+   "series_number": "598",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "DIXON P. 1996, RE: A little stirring.....RCAHMS and GIS, posting to GISArch mailbase list, 12th July 1996, (http://www.mailbase.ac.uk/lists-f-j/gisarch/) [accessed 5th October 1997].",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Dixon",
+     "given": "P."
+    }
+   ],
+   "type": "other",
+   "title": "RE: A little stirring.....RCAHMS and GIS",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9,
+   "notes": "posting to GISArch mailbase list, 12th July 1996 [accessed 5th October 1997]",
+   "uri": "http://www.mailbase.ac.uk/lists-f-j/gisarch/"
+  },
+  {
+   "raw": "DOE 1987, Handling Geographic Information, Report to the Secretary of State for the Environment of the Committee of Enquiry into the Handling of Geographic Information, chaired by Lord Chorley, London, H.M.S.O.",
+   "date": "1987",
+   "type": "book",
+   "title": "Handling Geographic Information",
+   "place": "London",
+   "publisher": "H.M.S.O.",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10,
+   "notes": "DOE 1987. Report to the Secretary of State for the Environment of the Committee of Enquiry into the Handling of Geographic Information, chaired by Lord Chorley"
+  },
+  {
+   "raw": "DRIVER T. 1996, The RCAHMW FastCAD system, paper presented at Second Meeting of the Archaeological GIS Forum, Swindon, UK, November 1996.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Driver",
+     "given": "T."
+    }
+   ],
+   "type": "other",
+   "title": "The RCAHMW FastCAD system",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11,
+   "notes": "paper presented at Second Meeting of the Archaeological GIS Forum, Swindon, UK, November 1996"
+  },
+  {
+   "raw": "FOARD G. 1996, GIS and the Northamptonshire SMR, paper presented at Second Meeting of the Archaeological GIS Forum, Swindon, UK, November 1996.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Foard",
+     "given": "G."
+    }
+   ],
+   "type": "other",
+   "title": "GIS and the Northamptonshire SMR",
+   "language": "eng",
+   "confidence": "high",
+   "position": 12,
+   "notes": "paper presented at Second Meeting of the Archaeological GIS Forum, Swindon, UK, November 1996"
+  },
+  {
+   "raw": "FRASER D. 1993, The British archaeological database, in J. HUNTER, I. RALSTON (eds.), Archaeological Resource Management in the UK. An Introduction, Stroud, Allan Sutton Publishing Ltd., 19-29.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Fraser",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "The British archaeological database",
+   "editors": [
+    {
+     "family": "Hunter",
+     "given": "J."
+    },
+    {
+     "family": "Ralston",
+     "given": "I."
+    }
+   ],
+   "pages": "19-29",
+   "is_part_of": [
+    "Archaeological Resource Management in the UK. An Introduction"
+   ],
+   "place": "Stroud",
+   "publisher": "Allan Sutton Publishing Ltd",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "GAFFNEY V., VAN LEUSEN P.M. 1995, Postscript - GIS, environmental determinism and archaeology, in G. Lock, Z. STANČIĆ (eds.), Archaeology and Geographical Information Systems: A European Perspective, London, Taylor and Francis, 367-382.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "P.M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Postscript - GIS, environmental determinism and archaeology",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "367-382",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems: A European Perspective"
+   ],
+   "place": "London",
+   "publisher": "Taylor and Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "GAFFNEY V., STANČIĆ Z., WATSON H. 1995, The impact of GIS on archaeology: A personal perspective, in G. LOCK, Z. STANČIĆ (eds.), Archaeology and Geographical Information Systems: A European Perspective, London, Taylor and Francis, 211-230.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    },
+    {
+     "family": "Watson",
+     "given": "H."
+    }
+   ],
+   "type": "chapter",
+   "title": "The impact of GIS on archaeology: A personal perspective",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "211-230",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems: A European Perspective"
+   ],
+   "place": "London",
+   "publisher": "Taylor and Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "GAFFNEY V., VAN LEUSEN M., WHITE R. 1996, Mapping the Past: Wroxeter and Romanisation, in T. HIGGINS, P. MAIN, J. LANG, (eds.), Imaging The Past. Electronic Imaging and Computer Graphics in Museums and Archaeology, British Museum Occasional Paper, n. 114, London, 259-270.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    },
+    {
+     "family": "White",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Mapping the Past: Wroxeter and Romanisation",
+   "editors": [
+    {
+     "family": "Higgins",
+     "given": "T."
+    },
+    {
+     "family": "Main",
+     "given": "P."
+    },
+    {
+     "family": "Lang",
+     "given": "J."
+    }
+   ],
+   "pages": "259-270",
+   "is_part_of": [
+    "Imaging The Past. Electronic Imaging and Computer Graphics in Museums and Archaeology"
+   ],
+   "place": "London",
+   "language": "eng",
+   "confidence": "high",
+   "position": 16,
+   "series": "British Museum Occasional Paper",
+   "series_number": "114"
+  },
+  {
+   "raw": "GILLINGS M. 1997, Engaging place: Exploring the potential of GIS and VRML in experiential landscape study, paper presented at Archaeology in the Age of the Internet, Computer Applications and Quantitative Methods in Archaeology Conference (CAA97), Birmingham, UK, April 1997.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "type": "other",
+   "title": "Engaging place: Exploring the potential of GIS and VRML in experiential landscape study",
+   "language": "eng",
+   "confidence": "high",
+   "position": 17,
+   "notes": "paper presented at Archaeology in the Age of the Internet, Computer Applications and Quantitative Methods in Archaeology Conference (CAA97), Birmingham, UK, April 1997"
+  },
+  {
+   "raw": "GILLINGS M., GOODRICK G.T. 1996, Sensuous and reflexive GIS: Exploring visualisation and VRML, «Internet Archaeology», 1 [online], available from http://intarch.ac.uk/ journal/issue1/gillings_index.html [accessed 5th October 1997].",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    },
+    {
+     "family": "Goodrick",
+     "given": "G.T."
+    }
+   ],
+   "type": "article",
+   "title": "Sensuous and reflexive GIS: Exploring visualisation and VRML",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 18,
+   "volume": "1",
+   "uri": "http://intarch.ac.uk/journal/issue1/gillings_index.html",
+   "notes": "online, accessed 5th October 1997"
+  },
+  {
+   "raw": "GILMOUR S., BURGESS C., HENDERSON J.C. 1996, Recording archaeological sites using GIS, «Archaeological Computing Newsletter», 46, 2-9.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Gilmour",
+     "given": "S."
+    },
+    {
+     "family": "Burgess",
+     "given": "C."
+    },
+    {
+     "family": "Henderson",
+     "given": "J.C."
+    }
+   ],
+   "type": "article",
+   "title": "Recording archaeological sites using GIS",
+   "is_part_of": [
+    "Archaeological Computing Newsletter"
+   ],
+   "pages": "2-9",
+   "volume": "46",
+   "language": "eng",
+   "confidence": "high",
+   "position": 19
+  },
+  {
+   "raw": "GLASS C., STEELE J., WHEATLEY D. 1997, Modelling human range expansion across a heterogeneous cost surface: An optimization technique for finding the habitat-specific frictions which best predict observed earliest colonization dates, paper presented at Archaeology in the Age of the Internet, Computer Applications and Quantitative Methods in Archaeology Conference (CAA97), Birmingham, UK, April 1997.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Glass",
+     "given": "C."
+    },
+    {
+     "family": "Steele",
+     "given": "J."
+    },
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "type": "other",
+   "title": "Modelling human range expansion across a heterogeneous cost surface: An optimization technique for finding the habitat-specific frictions which best predict observed earliest colonization dates",
+   "language": "eng",
+   "confidence": "high",
+   "position": 20,
+   "notes": "paper presented at Archaeology in the Age of the Internet, Computer Applications and Quantitative Methods in Archaeology Conference (CAA97), Birmingham, UK, April 1997"
+  },
+  {
+   "raw": "GOODCHILD M.F. 1992, Geographical Information Science, «International Journal of GIS», 6 (1), 31-45.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Goodchild",
+     "given": "M.F."
+    }
+   ],
+   "type": "article",
+   "title": "Geographical Information Science",
+   "is_part_of": [
+    "International Journal of GIS"
+   ],
+   "pages": "31-45",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 21,
+   "volume": "6"
+  },
+  {
+   "raw": "GOODCHILD M.F. 1995, GIS and geographic research, in J. PICKLES (ed.), Ground Truth. The Social Implications of Geographic Information Systems, London, The Guilford Press, 31-50.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Goodchild",
+     "given": "M.F."
+    }
+   ],
+   "type": "chapter",
+   "title": "GIS and geographic research",
+   "editors": [
+    {
+     "family": "Pickles",
+     "given": "J."
+    }
+   ],
+   "pages": "31-50",
+   "is_part_of": [
+    "Ground Truth. The Social Implications of Geographic Information Systems"
+   ],
+   "place": "London",
+   "publisher": "The Guilford Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 22
+  },
+  {
+   "raw": "HARRIS T.M., LOCK G.R. 1990, The diffusion of a new technology: A perspective on the adoption of Geographic Information Systems within UK archaeology, in K.M.S. ALLEN, S.W. GREEN, E.B.W. ZUBROW (eds.), Interpreting Space: GIS and Archaeology, London, Taylor and Francis, pp. 33-53.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "T.M."
+    },
+    {
+     "family": "Lock",
+     "given": "G.R."
+    }
+   ],
+   "type": "chapter",
+   "title": "The diffusion of a new technology: A perspective on the adoption of Geographic Information Systems within UK archaeology",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "pages": "33-53",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "place": "London",
+   "publisher": "Taylor and Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 23
+  },
+  {
+   "raw": "HARRIS T.M., LOCK, G.R. 1992, Toward a regional GIS site information retrieval system: the Oxfordshire Sites and Monuments Record (SMR) prototype, in C. LARSEN (ed.), Sites and Monuments: National Archaeological Records, Copenhagen, The National Museum of Denmark, 185-199.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "T.M."
+    },
+    {
+     "family": "Lock",
+     "given": "G.R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Toward a regional GIS site information retrieval system: the Oxfordshire Sites and Monuments Record (SMR) prototype",
+   "editors": [
+    {
+     "family": "Larsen",
+     "given": "C.U."
+    }
+   ],
+   "pages": "185-199",
+   "is_part_of": [
+    "Sites and Monuments: National Archaeological Records"
+   ],
+   "place": "Copenhagen",
+   "publisher": "The National Museum of Denmark",
+   "language": "eng",
+   "confidence": "high",
+   "position": 24
+  },
+  {
+   "raw": "HARRIS T.M., LOCK, G.R. 1996, Multi-dimensional GIS: Exploratory approaches to spatial and temporal relationships within archaeological stratigraphy, in H. KAMERMANS, K. FENNEMA (eds.), Interfacing the Past: CAA95. Computer Applications and Quantitative Methods in Archaeology 1995, Analecta Praehistorica Leidensia, n. 28, Leiden, University of Leiden, 307-316.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "T.M."
+    },
+    {
+     "family": "Lock",
+     "given": "G.R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Multi-dimensional GIS: Exploratory approaches to spatial and temporal relationships within archaeological stratigraphy",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "pages": "307-316",
+   "is_part_of": [
+    "Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995"
+   ],
+   "place": "Leiden",
+   "publisher": "University of Leiden",
+   "language": "eng",
+   "confidence": "high",
+   "position": 25,
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28"
+  },
+  {
+   "raw": "HUNTER J., RALSTON I. (eds.) 1993a, Archaeological Resource Management in the UK. An Introduction, Stroud, Alan Sutton Publishing Ltd.",
+   "date": "1993",
+   "editors": [
+    {
+     "family": "Hunter",
+     "given": "J."
+    },
+    {
+     "family": "Ralston",
+     "given": "I."
+    }
+   ],
+   "type": "book",
+   "title": "Archaeological Resource Management in the UK. An Introduction",
+   "place": "Stroud",
+   "publisher": "Alan Sutton Publishing Ltd",
+   "language": "eng",
+   "confidence": "high",
+   "position": 26
+  },
+  {
+   "raw": "HUNTER J., RALSTON I. (with contributions by A. HAMLIN) 1993b, The structure of British archaeology, in J. HUNTER, I. RALSTON (eds.), Archaeological Resource Management in the UK. An Introduction, Stroud, Alan Sutton Publishing Ltd.,30-43.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Hunter",
+     "given": "J."
+    },
+    {
+     "family": "Ralston",
+     "given": "I."
+    }
+   ],
+   "type": "chapter",
+   "title": "The structure of British archaeology",
+   "editors": [
+    {
+     "family": "Hunter",
+     "given": "J."
+    },
+    {
+     "family": "Ralston",
+     "given": "I."
+    }
+   ],
+   "pages": "30-43",
+   "is_part_of": [
+    "Archaeological Resource Management in the UK. An Introduction"
+   ],
+   "place": "Stroud",
+   "publisher": "Alan Sutton Publishing Ltd",
+   "language": "eng",
+   "confidence": "high",
+   "position": 27,
+   "notes": "with contributions by A. Hamlin"
+  },
+  {
+   "raw": "JAMES T. 1996, RE: A little stirring.......GIS at RCAHMW, posting to GISArch mailbase list, 10th July 1996, (http://www.mailbase.ac.uk/lists-f-j/gisarch/) [accessed 5th October 1997].",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "James",
+     "given": "T."
+    }
+   ],
+   "type": "other",
+   "title": "RE: A little stirring.......GIS at RCAHMW",
+   "language": "eng",
+   "confidence": "high",
+   "position": 28,
+   "notes": "posting to GISArch mailbase list, 10th July 1996 [accessed 5th October 1997]",
+   "uri": "http://www.mailbase.ac.uk/lists-f-j/gisarch/"
+  },
+  {
+   "raw": "LANG N.A.R. 1992, Sites and monuments records in Great Britain, in C.U. LARSEN (ed.), Sites and Monuments: National Archaeological Records, Copenhagen, The National Museum of Denmark, 171-183.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Lang",
+     "given": "N.A.R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Sites and monuments records in Great Britain",
+   "editors": [
+    {
+     "family": "Larsen",
+     "given": "C.U."
+    }
+   ],
+   "pages": "171-183",
+   "is_part_of": [
+    "Sites and Monuments: National Archaeological Records"
+   ],
+   "place": "Copenhagen",
+   "publisher": "The National Museum of Denmark",
+   "language": "eng",
+   "confidence": "high",
+   "position": 29
+  },
+  {
+   "raw": "LANG N.A.R. 1997, England’s archaeological resource revisited, paper presented at Archaeology in the Age of the Internet, Computer Applications and Quantitative Methods in Archaeology Conference (CAA97), Birmingham, UK, April 1997.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Lang",
+     "given": "N.A.R."
+    }
+   ],
+   "type": "other",
+   "title": "England’s archaeological resource revisited",
+   "language": "eng",
+   "confidence": "high",
+   "position": 30,
+   "notes": "paper presented at Archaeology in the Age of the Internet, Computer Applications and Quantitative Methods in Archaeology Conference (CAA97), Birmingham, UK, April 1997"
+  },
+  {
+   "raw": "LANG N., STEAD S. 1992, Sites and monuments records in England - Theory and practice, in G. LOCK, J. MOFFETT (eds.), Computer Applications and Quantitative Methods in Archaeology 1991, BAR International Series, n. 577, Oxford, Tempus Reparatum, 69-76.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Lang",
+     "given": "N."
+    },
+    {
+     "family": "Stead",
+     "given": "S."
+    }
+   ],
+   "type": "chapter",
+   "title": "Sites and monuments records in England - Theory and practice",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "pages": "69-76",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1991"
+   ],
+   "place": "Oxford",
+   "publisher": "Tempus Reparatum",
+   "series": "BAR International Series",
+   "series_number": "577",
+   "language": "eng",
+   "confidence": "high",
+   "position": 31
+  },
+  {
+   "raw": "LLOBERA M. 1996, Exploring the topography of mind: GIS, social space and archaeology, «Antiquity», 70 (269), 612-622.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Llobera",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Exploring the topography of mind: GIS, social space and archaeology",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "pages": "612-622",
+   "issue": "269",
+   "language": "eng",
+   "confidence": "high",
+   "position": 32,
+   "volume": "70"
+  },
+  {
+   "raw": "LOCK, G.R., HARRIS T.M. 1991, Integrating spatial information in computerised SMRs: Meeting archaeological requirements in the 1990s, in K. LOCKYEAR, S. RAHTZ (eds.), Computers and Quantitative Methods in Archaeology 1990, BAR International Series, n. 565, Oxford, 165-173.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G.R."
+    },
+    {
+     "family": "Harris",
+     "given": "T.M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Integrating spatial information in computerised SMRs: Meeting archaeological requirements in the 1990s",
+   "editors": [
+    {
+     "family": "Lockyear",
+     "given": "K."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "pages": "165-173",
+   "is_part_of": [
+    "Computers and Quantitative Methods in Archaeology 1990"
+   ],
+   "place": "Oxford",
+   "series": "BAR International Series",
+   "series_number": "565",
+   "language": "eng",
+   "confidence": "high",
+   "position": 33
+  },
+  {
+   "raw": "LOCK G.R., HARRIS T.M. 1996, Danebury revisited: An English Iron Age hillfort in a digital landscape, in M. ALDENDERFER, H.D.G. MASCHNER (eds.), Anthropology, Space, and Geographic Information Systems, New York-Oxford, Oxford University Press, 214-240.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G.R."
+    },
+    {
+     "family": "Harris",
+     "given": "T.M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Danebury revisited: An English Iron Age hillfort in a digital landscape",
+   "editors": [
+    {
+     "family": "Aldenderfer",
+     "given": "M."
+    },
+    {
+     "family": "Maschner",
+     "given": "H.D.G."
+    }
+   ],
+   "pages": "214-240",
+   "is_part_of": [
+    "Anthropology, Space, and Geographic Information Systems"
+   ],
+   "place": "New York-Oxford",
+   "publisher": "Oxford University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 34
+  },
+  {
+   "raw": "LOCK G.R., HARRIS T.M. (forthcoming), Analyzing change through time within a cultural landscape: Conceptual and functional limitations of a GIS approach, in P. SINCLAIR (ed.), Urban Origins in Eastern Africa, One World Archaeology Series, London, Routledge.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G.R."
+    },
+    {
+     "family": "Harris",
+     "given": "T.M."
+    }
+   ],
+   "type": "chapter",
+   "title": "), Analyzing change through time within a cultural landscape: Conceptual and functional limitations of a GIS approach",
+   "editors": [
+    {
+     "family": "Sinclair",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Urban Origins in Eastern Africa"
+   ],
+   "place": "London",
+   "publisher": "Routledge",
+   "series": "One World Archaeology Series",
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "eng",
+   "confidence": "high",
+   "position": 35
+  },
+  {
+   "raw": "LOCK G.R., BELL T., LLOYD J. (in press), Towards a methodology for modelling surface survey data: The Sangro Valley Project, in D.J. MATTINGLEY, M. GILLINGS (eds.), GIS and Survey Archaeology, Oxford, Oxbow Books.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G.R."
+    },
+    {
+     "family": "Bell",
+     "given": "T."
+    },
+    {
+     "family": "Lloyd",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "), Towards a methodology for modelling surface survey data: The Sangro Valley Project",
+   "editors": [
+    {
+     "family": "Mattingley",
+     "given": "D.J."
+    },
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "GIS and Survey Archaeology"
+   ],
+   "place": "Oxford",
+   "publisher": "Oxbow Books",
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "eng",
+   "confidence": "high",
+   "position": 36
+  },
+  {
+   "raw": "LYALL J., POWLESLAND D. 1996, The application of high resolution fluxgate gradiometry as an aid to excavation planning and strategy formulation, «Internet Archaeology», 1 [online], available from http://intarch.ac.uk/journal/issue1/ lyall_index.html [accessed 5th October 1997].",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Lyall",
+     "given": "J."
+    },
+    {
+     "family": "Powlesland",
+     "given": "D."
+    }
+   ],
+   "type": "article",
+   "title": "The application of high resolution fluxgate gradiometry as an aid to excavation planning and strategy formulation",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 37,
+   "volume": "1",
+   "uri": "http://intarch.ac.uk/journal/issue1/lyall_index.html",
+   "notes": "online, accessed 5th October 1997"
+  },
+  {
+   "raw": "MAGUIRE D.J. 1991, An overview and definition of GIS, in D.J. MAGUIRE, M.F. GOODCHILD, D.W. RHIND (eds.), Geographical Information Systems: Principles and Applications, Harlow, Longman.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Maguire",
+     "given": "D.J."
+    }
+   ],
+   "type": "chapter",
+   "title": "An overview and definition of GIS",
+   "editors": [
+    {
+     "family": "Maguire",
+     "given": "D.J."
+    },
+    {
+     "family": "Goodchild",
+     "given": "M.F."
+    },
+    {
+     "family": "Rhind",
+     "given": "D.W."
+    }
+   ],
+   "is_part_of": [
+    "Geographical Information Systems: Principles and Applications"
+   ],
+   "place": "Harlow",
+   "publisher": "Longman",
+   "language": "eng",
+   "confidence": "high",
+   "position": 38
+  },
+  {
+   "raw": "MARTIN D. 1996, Geographic Information Systems. Socioeconomic applications, London, Routledge (2nd ed.).",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Martin",
+     "given": "D."
+    }
+   ],
+   "type": "book",
+   "title": "Geographic Information Systems. Socioeconomic applications",
+   "place": "London",
+   "publisher": "Routledge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 39,
+   "edition": "2"
+  },
+  {
+   "raw": "MIDDLETON R., WINSTANLEY D. 1993, GIS in a landscape archaeology context, in J. ANDRESEN, T. MADSEN, I. SCOLLAR (eds.) 1993, Computing the Past. Computer Applications and Quantitative Methods in Archaeology, CAA92, Aarhus, Aarhus University Press, 151-158.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Middleton",
+     "given": "R."
+    },
+    {
+     "family": "Winstanley",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "GIS in a landscape archaeology context",
+   "editors": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "pages": "151-158",
+   "is_part_of": [
+    "Computing the Past. Computer Applications and Quantitative Methods in Archaeology, CAA92"
+   ],
+   "place": "Aarhus",
+   "publisher": "Aarhus University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 40
+  },
+  {
+   "raw": "MILLER A.P. 1996, Digging deep: GIS in the city, in H. KAMERMANS, K. FENNEMA (eds.), Interfacing the Past, CAA95, Analecta Praehistorica Leidensia, n. 28, Leiden, University of Leiden, 369-376.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Miller",
+     "given": "A.P."
+    }
+   ],
+   "type": "chapter",
+   "title": "Digging deep: GIS in the city",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "pages": "369-376",
+   "is_part_of": [
+    "Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995"
+   ],
+   "place": "Leiden",
+   "publisher": "University of Leiden",
+   "language": "eng",
+   "confidence": "high",
+   "position": 41,
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28"
+  },
+  {
+   "raw": "MURRAY D.M. 1995, The management of archaeological information - A strategy, in J. WILCOCK, K. LOCKYEAR (eds.), CAA93. Computer Applications and Quantitative Methods in Archaeology 1993, BAR International Series, n. 598, Oxford, Tempus Reparatum, 83-87.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Murray",
+     "given": "D.M."
+    }
+   ],
+   "type": "chapter",
+   "title": "The management of archaeological information - A strategy",
+   "editors": [
+    {
+     "family": "Wilcock",
+     "given": "J."
+    },
+    {
+     "family": "Lockyear",
+     "given": "K."
+    }
+   ],
+   "pages": "83-87",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1993"
+   ],
+   "place": "Oxford",
+   "publisher": "Tempus Reparatum",
+   "series": "BAR International Series",
+   "series_number": "598",
+   "language": "eng",
+   "confidence": "high",
+   "position": 42
+  },
+  {
+   "raw": "MURRAY D., DIXON P. 1995, Geographic Information System for RCAHMS, «Monuments on Record», Annual Review of the Royal Commission on the Ancient and Historical Monuments of Scotland, 32-34.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Murray",
+     "given": "D."
+    },
+    {
+     "family": "Dixon",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "Geographic Information System for RCAHMS",
+   "is_part_of": [
+    "Monuments on Record"
+   ],
+   "pages": "32-34",
+   "language": "eng",
+   "confidence": "high",
+   "position": 43,
+   "notes": "Annual Review of the Royal Commission on the Ancient and Historical Monuments of Scotland"
+  },
+  {
+   "raw": "POWLESLAND D. 1997, Been there, done that, what next? Where would we like to go tomorrow?, paper presented at Archaeology in the Age of the Internet, Computer Applications and Quantitative Methods in Archaeology Conference (CAA97), Birmingham, UK, April 1997.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Powlesland",
+     "given": "D."
+    }
+   ],
+   "type": "other",
+   "title": "Been there, done that, what next? Where would we like to go tomorrow?",
+   "language": "eng",
+   "confidence": "high",
+   "position": 44,
+   "notes": "paper presented at Archaeology in the Age of the Internet, Computer Applications and Quantitative Methods in Archaeology Conference (CAA97), Birmingham, UK, April 1997"
+  },
+  {
+   "raw": "QUINE G. 1997, Digital information access and exchange, paper presented at Archaeology in the Age of the Internet, Computer Applications and Quantitative Methods in Archaeology Conference (CAA97), Birmingham, UK, April 1997.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Quine",
+     "given": "G."
+    }
+   ],
+   "type": "other",
+   "title": "Digital information access and exchange",
+   "language": "eng",
+   "confidence": "high",
+   "position": 45,
+   "notes": "paper presented at Archaeology in the Age of the Internet, Computer Applications and Quantitative Methods in Archaeology Conference (CAA97), Birmingham, UK, April 1997"
+  },
+  {
+   "raw": "RICHARDS J.D. 1996, From site to landscape: Multi-level GIS applications in archaeology, in H. KAMERMANS, K. FENNEMA (eds.), Interfacing the Past, CAA95, Analecta Praehistorica Leidensia, n. 28, Leiden, University of Leiden, 361-362.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Richards",
+     "given": "J.D."
+    }
+   ],
+   "type": "chapter",
+   "title": "From site to landscape: Multi-level GIS applications in archaeology",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "pages": "361-362",
+   "is_part_of": [
+    "Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995"
+   ],
+   "place": "Leiden",
+   "publisher": "University of Leiden",
+   "language": "eng",
+   "confidence": "high",
+   "position": 46,
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28"
+  },
+  {
+   "raw": "RICHARDS J., WISE A. 1997, The Archaeology Data Service, paper presented at Archaeology in the Age of the Internet, Computer Applications and Quantitative Methods in Archaeology Conference (CAA97), Birmingham, UK, April 1997.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Richards",
+     "given": "J."
+    },
+    {
+     "family": "Wise",
+     "given": "A."
+    }
+   ],
+   "type": "other",
+   "title": "The Archaeology Data Service",
+   "language": "eng",
+   "confidence": "high",
+   "position": 47,
+   "notes": "paper presented at Archaeology in the Age of the Internet, Computer Applications and Quantitative Methods in Archaeology Conference (CAA97), Birmingham, UK, April 1997"
+  },
+  {
+   "raw": "ROBINSON H. 1993, The archaeological implications of a computerised integrated National Heritage Information System, in J. ANDRESEN, T. MADSEN, I. SCOLLAR (eds.), Computing the Past. Computer Applications and Quantitative Methods in Archaeology, CAA92, Aarhus, Aarhus University Press, 139-150.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Robinson",
+     "given": "H."
+    }
+   ],
+   "type": "chapter",
+   "title": "The archaeological implications of a computerised integrated National Heritage Information System",
+   "editors": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "pages": "139-150",
+   "is_part_of": [
+    "Computing the Past. Computer Applications and Quantitative Methods in Archaeology, CAA92"
+   ],
+   "place": "Aarhus",
+   "publisher": "Aarhus University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 48
+  },
+  {
+   "raw": "RUGGLES C. 1992, Abstract data structures for GIS applications in archaeology, in G. LOCK, J. MOFFETT (eds.), Computer Applications and Quantitative Methods in Archaeology 1991, BAR International Series, n. 577, Oxford, Tempus Reparatum, 107-112.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Ruggles",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Abstract data structures for GIS applications in archaeology",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "pages": "107-112",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1991"
+   ],
+   "place": "Oxford",
+   "publisher": "Tempus Reparatum",
+   "series": "BAR International Series",
+   "series_number": "577",
+   "language": "eng",
+   "confidence": "high",
+   "position": 49
+  },
+  {
+   "raw": "STEAD S. 1995, Humans and PETS in space, in G. Lock, Z. STANČIĆ (eds.), Archaeology and Geographical Information Systems: A European Perspective, London, Taylor & Francis, 313-318.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Stead",
+     "given": "S."
+    }
+   ],
+   "type": "chapter",
+   "title": "Humans and PETS in space",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "313-318",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems: A European Perspective"
+   ],
+   "place": "London",
+   "publisher": "Taylor & Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 50
+  },
+  {
+   "raw": "STEELE J., SLUCKIN T.J., DENHOLM D.R., GAMBLE C.S. 1996, Simulating hunter-gatherer colonization of the Americas, in H. KAMERMANS, K. FENNEMA (eds.), Interfacing the Past, CAA95, Analecta Praehistorica Leidensia, n. 28, Leiden, University of Leiden, 223-227.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Steele",
+     "given": "J."
+    },
+    {
+     "family": "Sluckin",
+     "given": "T.J."
+    },
+    {
+     "family": "Denholm",
+     "given": "D.R."
+    },
+    {
+     "family": "Gamble",
+     "given": "C.S."
+    }
+   ],
+   "type": "chapter",
+   "title": "Simulating hunter-gatherer colonization of the Americas",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "pages": "223-227",
+   "is_part_of": [
+    "Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995"
+   ],
+   "place": "Leiden",
+   "publisher": "University of Leiden",
+   "language": "eng",
+   "confidence": "high",
+   "position": 51,
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28"
+  },
+  {
+   "raw": "TAYLOR P.J., JOHNSTON R.J. 1995, GIS and Geography, in J. PICKLES (ed.), Ground Truth. The Social Implications of Geographic Information Systems, London, The Guilford Press, 51-67.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Taylor",
+     "given": "P.J."
+    },
+    {
+     "family": "Johnston",
+     "given": "R.J."
+    }
+   ],
+   "type": "chapter",
+   "title": "GIS and Geography",
+   "editors": [
+    {
+     "family": "Pickles",
+     "given": "J."
+    }
+   ],
+   "pages": "51-67",
+   "is_part_of": [
+    "Ground Truth. The Social Implications of Geographic Information Systems"
+   ],
+   "place": "London",
+   "publisher": "The Guilford Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 52
+  },
+  {
+   "raw": "TILLEY C. 1994, A Phenomenology of Landscape. Places, Paths and Monuments, Oxford, Berg.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Tilley",
+     "given": "C."
+    }
+   ],
+   "type": "book",
+   "title": "A Phenomenology of Landscape. Places, Paths and Monuments",
+   "place": "Oxford",
+   "publisher": "Berg",
+   "language": "eng",
+   "confidence": "high",
+   "position": 53
+  },
+  {
+   "raw": "TOMLIN C.D. 1990, Geographic Information Systems and Car tographic Modelling, Englewood Cliffs, NJ, Prentice-Hall.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Tomlin",
+     "given": "C.D."
+    }
+   ],
+   "type": "book",
+   "title": "Geographic Information Systems and Cartographic Modelling",
+   "place": "Englewood Cliffs, NJ",
+   "publisher": "Prentice-Hall",
+   "language": "eng",
+   "confidence": "high",
+   "position": 54
+  },
+  {
+   "raw": "WHEATLEY D. W. 1993, Going over old ground: GIS, archaeological theory and the act of perception, in J. ANDRESEN, T. MADSEN, I. SCOLLAR (eds.), Computing the Past: Computer Applications and Quantitative Methods in Archaeology, CAA92, Aarhus, Aarhus University Press, 133-138.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D.W."
+    }
+   ],
+   "type": "chapter",
+   "title": "Going over old ground: GIS, archaeological theory and the act of perception",
+   "editors": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "pages": "133-138",
+   "is_part_of": [
+    "Computing the Past: Computer Applications and Quantitative Methods in Archaeology, CAA92"
+   ],
+   "place": "Aarhus",
+   "publisher": "Aarhus University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 55
+  },
+  {
+   "raw": "WHEATLEY D.W. 1995, Cumulative Viewshed Analysis: A GIS-based method for investigating intervisibility, and its archaeological application, in G. LOCK, Z. STANČIĆ (eds.), Archaeology and Geographical Information Systems: A European Perspective, London, Taylor and Francis, 171-186.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D.W."
+    }
+   ],
+   "type": "chapter",
+   "title": "Cumulative Viewshed Analysis: A GIS-based method for investigating intervisibility, and its archaeological application",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančić",
+     "given": "Z."
+    }
+   ],
+   "pages": "171-186",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems: A European Perspective"
+   ],
+   "place": "London",
+   "publisher": "Taylor and Francis",
+   "language": "eng",
+   "confidence": "high",
+   "position": 56
+  },
+  {
+   "raw": "WHEATLEY D.W. 1996, Between the lines: the role of GIS-based predictive modelling in the interpretation of extensive survey data, in H. KAMERMANS, K. FENNEMA (eds.), Interfacing the Past, CAA95, Analecta Praehistorica Leidensia, n. 28, Leiden, University of Leiden, 275-292.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D.W."
+    }
+   ],
+   "type": "chapter",
+   "title": "Between the lines: the role of GIS-based predictive modelling in the interpretation of extensive survey data",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "pages": "275-292",
+   "is_part_of": [
+    "Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995"
+   ],
+   "place": "Leiden",
+   "publisher": "University of Leiden",
+   "language": "eng",
+   "confidence": "high",
+   "position": 57,
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28"
+  },
+  {
+   "raw": "WHEATLEY D.W., WISE A. (session organisers) 1996, Spatial Technologies and Archaeological Reasoning, Session at the Theoretical Archaeology Group Conference, Liverpool, December 1996.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D.W."
+    },
+    {
+     "family": "Wise",
+     "given": "A."
+    }
+   ],
+   "type": "other",
+   "title": "Spatial Technologies and Archaeological Reasoning",
+   "language": "eng",
+   "confidence": "high",
+   "position": 58,
+   "notes": "Session at the Theoretical Archaeology Group Conference, Liverpool, December 1996 (session organisers)"
+  },
+  {
+   "raw": "WILKINSON K.N. 1996, Of sheep and men: GIS and the development of medieval settlement in the Cotswolds, in T. HIGGINS, P. MAIN, J. LANG, (eds.), Imaging The Past. Electronic Imaging and Computer Graphics in Museums and Archaeology, British Museum Occasional Paper, n. 114, London, 271-282.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Wilkinson",
+     "given": "K.N."
+    }
+   ],
+   "type": "chapter",
+   "title": "Of sheep and men: GIS and the development of medieval settlement in the Cotswolds",
+   "editors": [
+    {
+     "family": "Higgins",
+     "given": "T."
+    },
+    {
+     "family": "Main",
+     "given": "P."
+    },
+    {
+     "family": "Lang",
+     "given": "J."
+    }
+   ],
+   "pages": "271-282",
+   "is_part_of": [
+    "Imaging The Past. Electronic Imaging and Computer Graphics in Museums and Archaeology"
+   ],
+   "place": "London",
+   "language": "eng",
+   "confidence": "high",
+   "position": 59,
+   "series": "British Museum Occasional Paper",
+   "series_number": "114"
+  },
+  {
+   "raw": "WISE A., MILLER P. 1997, Why Metadata Matters in Archaeology, «Internet Archaeology», 2 [online], available from http://intarch.ac.uk/journal/issue2/ wise_index.html [accessed 5th October 1997].",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Wise",
+     "given": "A."
+    },
+    {
+     "family": "Miller",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "Why Metadata Matters in Archaeology",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 60,
+   "volume": "2",
+   "uri": "http://intarch.ac.uk/journal/issue2/wise_index.html",
+   "notes": "online, accessed 5th October 1997"
+  }
+ ]
+}

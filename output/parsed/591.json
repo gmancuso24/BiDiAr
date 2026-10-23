@@ -1,0 +1,767 @@
+{
+ "citing_aec_id": 591,
+ "source_file": "data/journal/22/591.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bitelli G., Girelli V.A., Tini M.A., Vittuari L. 2004, Low-height aerial imagery and digital photogrammetrical processing for archaeological mapping, «International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences», 35, B5, 498-503.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bitelli",
+     "given": "G."
+    },
+    {
+     "family": "Girelli",
+     "given": "V.A."
+    },
+    {
+     "family": "Tini",
+     "given": "M.A."
+    },
+    {
+     "family": "Vittuari",
+     "given": "L."
+    }
+   ],
+   "date": "2004",
+   "title": "Low-height aerial imagery and digital photogrammetrical processing for archaeological mapping",
+   "is_part_of": [
+    "International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "35",
+   "issue": "B5",
+   "pages": "498-503",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Campbell J.B. 2006, Introduction to Remote Sensing, London, 4th ed., Taylor & Francis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Campbell",
+     "given": "J.B."
+    }
+   ],
+   "date": "2006",
+   "title": "Introduction to Remote Sensing",
+   "edition": "4",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "notes": "cited '4th ed.'",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Comer D., Blom R. 2007, Detection and identification of archaeological sites and features using Synthetic Aperture Radar (SAR) data collected from airborne platform, in J. Wiseman, F. El-Baz (eds.), Remote Sensing in Archaeology, New York, Springer, 103-109.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Comer",
+     "given": "D."
+    },
+    {
+     "family": "Blom",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Wiseman",
+     "given": "J."
+    },
+    {
+     "family": "El-Baz",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "Detection and identification of archaeological sites and features using Synthetic Aperture Radar (SAR) data collected from airborne platform",
+   "is_part_of": [
+    "Remote Sensing in Archaeology"
+   ],
+   "pages": "103-109",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Dabas M., Tabbagh A. 2000, Thermal Prospecting, Archaeological Method and Theory: An Encyclopedia, New York, Garland Publishing, 626-638.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dabas",
+     "given": "M."
+    },
+    {
+     "family": "Tabbagh",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "Thermal Prospecting",
+   "is_part_of": [
+    "Archaeological Method and Theory: An Encyclopedia"
+   ],
+   "pages": "626-638",
+   "publisher": "Garland Publishing",
+   "place": "New York",
+   "language": "eng",
+   "notes": "no editor cited",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Eisenbeiss H. 2006, Applications of photogrammetric processing using an autonomous model helicopter, «International Society for Photogrammetric and Remote Sensing», 36, 1, T08-35.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Eisenbeiss",
+     "given": "H."
+    }
+   ],
+   "date": "2006",
+   "title": "Applications of photogrammetric processing using an autonomous model helicopter",
+   "is_part_of": [
+    "International Society for Photogrammetric and Remote Sensing"
+   ],
+   "volume": "36",
+   "issue": "1",
+   "pages": "T08-35",
+   "language": "eng",
+   "notes": "pages cited 'T08-35' (looks like a paper code)",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Eisenbeiss H., Lambers K., Sauerbier M., Zhang L. 2005, Photogrammetric documentation of an archaeological site (Palpa, Peru) using an autonomous model helicopter, «International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences», 34, 5/C34, 238-243.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Eisenbeiss",
+     "given": "H."
+    },
+    {
+     "family": "Lambers",
+     "given": "K."
+    },
+    {
+     "family": "Sauerbier",
+     "given": "M."
+    },
+    {
+     "family": "Zhang",
+     "given": "L."
+    }
+   ],
+   "date": "2005",
+   "title": "Photogrammetric documentation of an archaeological site (Palpa, Peru) using an autonomous model helicopter",
+   "is_part_of": [
+    "International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "34",
+   "issue": "5/C34",
+   "pages": "238-243",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Emmolo D., Franco V., Lo Brutto M., Orlando P., Villa B. 2004, Hyperspectral techniques and GIS for archaeological investigation, «International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences», 35, B7, 492-497.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Emmolo",
+     "given": "D."
+    },
+    {
+     "family": "Franco",
+     "given": "V."
+    },
+    {
+     "family": "Lo Brutto",
+     "given": "M."
+    },
+    {
+     "family": "Orlando",
+     "given": "P."
+    },
+    {
+     "family": "Villa",
+     "given": "B."
+    }
+   ],
+   "date": "2004",
+   "title": "Hyperspectral techniques and GIS for archaeological investigation",
+   "is_part_of": [
+    "International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "35",
+   "issue": "B7",
+   "pages": "492-497",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Equini Schneider E. 1988, Elaiussa Sebaste I, Roma, L’Erma di Bretshneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Equini Schneider",
+     "given": "E."
+    }
+   ],
+   "date": "1988",
+   "title": "Elaiussa Sebaste I",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited 'Bretshneider' (typo corrected)",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Forte M., Campana S., Lizza C. (eds.) 2010, Space, Time, Place. Third International Conference on Remote Sensing in Archaeology (Tiruchirappalli, Tamil Nadu, India 2009), BAR International Series 2118, Oxford, Archaeopress.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Lizza",
+     "given": "C."
+    }
+   ],
+   "date": "2010",
+   "title": "Space, Time, Place. Third International Conference on Remote Sensing in Archaeology (Tiruchirappalli, Tamil Nadu, India 2009)",
+   "series": "BAR International Series",
+   "series_number": "2118",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Grøn O., Christensen F., Orlando P., Baarstad I., Macphail R. 2006, Hyperspectral and multispectral perspectives on the prehistoric cultural landscape; the ground-truthed chemical character of prehistoric settlement and infrastructure as identified from space, in S. Campana, M. Forte (eds.), From Space to Place. Proceedings of the 2nd International Conference on Remote Sensing in Archaeology (Rome 2006), BAR International Series 1568, Oxford, Archaeopress, 143-147.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Grøn",
+     "given": "O."
+    },
+    {
+     "family": "Christensen",
+     "given": "F."
+    },
+    {
+     "family": "Orlando",
+     "given": "P."
+    },
+    {
+     "family": "Baarstad",
+     "given": "I."
+    },
+    {
+     "family": "Macphail",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Hyperspectral and multispectral perspectives on the prehistoric cultural landscape; the ground-truthed chemical character of prehistoric settlement and infrastructure as identified from space",
+   "is_part_of": [
+    "From Space to Place. Proceedings of the 2nd International Conference on Remote Sensing in Archaeology (Rome 2006)"
+   ],
+   "pages": "143-147",
+   "series": "BAR International Series",
+   "series_number": "1568",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Kelong T., Yuqing W., Lin Y., Riping Z., Wei C., Yaobao M. 2008, A new archaeological Remote Sensing technology, «International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences», 37, B7, 221-224.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kelong",
+     "given": "T."
+    },
+    {
+     "family": "Yuqing",
+     "given": "W."
+    },
+    {
+     "family": "Lin",
+     "given": "Y."
+    },
+    {
+     "family": "Riping",
+     "given": "Z."
+    },
+    {
+     "family": "Wei",
+     "given": "C."
+    },
+    {
+     "family": "Yaobao",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "A new archaeological Remote Sensing technology",
+   "is_part_of": [
+    "International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "37",
+   "issue": "B7",
+   "pages": "221-224",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Lasaponara R., Masini N. 2009, Remote Sensing for Cultural Heritage Management and Documentation, «Journal of Cultural Heritage», 10S, e1-e2, Paris, Elsevier.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lasaponara",
+     "given": "R."
+    },
+    {
+     "family": "Masini",
+     "given": "N."
+    }
+   ],
+   "date": "2009",
+   "title": "Remote Sensing for Cultural Heritage Management and Documentation",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "10S",
+   "pages": "e1-e2",
+   "language": "eng",
+   "notes": "cited with 'Paris, Elsevier'",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Lee D., Farr T.G. 2007, The use of Interferometric Synthetic Aperture RADAR (InSar). Archaeological investigation and cultural heritage preservation, in J. Wiseman, F. El-Baz (eds.), Remote Sensing in Archaeology, New York, Springer, 89-94.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lee",
+     "given": "D."
+    },
+    {
+     "family": "Farr",
+     "given": "T.G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Wiseman",
+     "given": "J."
+    },
+    {
+     "family": "El-Baz",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "The use of Interferometric Synthetic Aperture RADAR (InSar). Archaeological investigation and cultural heritage preservation",
+   "is_part_of": [
+    "Remote Sensing in Archaeology"
+   ],
+   "pages": "89-94",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Lillesand T.M., Kiefer R.W. 2000, Remote Sensing and Image Interpretation, New York 3rd ed., John Wiley & Sons.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lillesand",
+     "given": "T.M."
+    },
+    {
+     "family": "Kiefer",
+     "given": "R.W."
+    }
+   ],
+   "date": "2000",
+   "title": "Remote Sensing and Image Interpretation",
+   "edition": "3",
+   "publisher": "John Wiley & Sons",
+   "place": "New York",
+   "language": "eng",
+   "notes": "cited '3rd ed.'",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "McCauley J.F., Schaber G.G., Breed C.S., Grolier M.J., Haynes C.V., Issawi B., Elachi C., Blom R. 1982, Subsurface valley and geo-archaeology of eastern Sahara by shuttle radar, «Science», 218, 1004-1020.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "McCauley",
+     "given": "J.F."
+    },
+    {
+     "family": "Schaber",
+     "given": "G.G."
+    },
+    {
+     "family": "Breed",
+     "given": "C.S."
+    },
+    {
+     "family": "Grolier",
+     "given": "M.J."
+    },
+    {
+     "family": "Haynes",
+     "given": "C.V."
+    },
+    {
+     "family": "Issawi",
+     "given": "B."
+    },
+    {
+     "family": "Elachi",
+     "given": "C."
+    },
+    {
+     "family": "Blom",
+     "given": "R."
+    }
+   ],
+   "date": "1982",
+   "title": "Subsurface valley and geo-archaeology of eastern Sahara by shuttle radar",
+   "is_part_of": [
+    "Science"
+   ],
+   "volume": "218",
+   "pages": "1004-1020",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Mueller J.W. 1974, The use of sampling in archaeological survey, «Memoir of the Society for American Archaeology», 28, 28-36.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mueller",
+     "given": "J.W."
+    }
+   ],
+   "date": "1974",
+   "title": "The use of sampling in archaeological survey",
+   "is_part_of": [
+    "Memoir of the Society for American Archaeology"
+   ],
+   "volume": "28",
+   "pages": "28-36",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Parcak S.H. 2009, Satellite Remote Sensing for Archaeology, London, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Parcak",
+     "given": "S.H."
+    }
+   ],
+   "date": "2009",
+   "title": "Satellite Remote Sensing for Archaeology",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Richards J.A., Jia X. 1986, Remote Sensing Digital Image Analysis: An Introduction, Berlin, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Richards",
+     "given": "J.A."
+    },
+    {
+     "family": "Jia",
+     "given": "X."
+    }
+   ],
+   "date": "1986",
+   "title": "Remote Sensing Digital Image Analysis: An Introduction",
+   "publisher": "Springer",
+   "place": "Berlin",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Scollar I., Tabbagh A., Hesse A., Herzog I. 1990, Archaeological Prospection and Remote Sensing, New York, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Scollar",
+     "given": "I."
+    },
+    {
+     "family": "Tabbagh",
+     "given": "A."
+    },
+    {
+     "family": "Hesse",
+     "given": "A."
+    },
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "date": "1990",
+   "title": "Archaeological Prospection and Remote Sensing",
+   "publisher": "Cambridge University Press",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Shennan I., Donoghue D.N.M. 1992, Remote sensing in archaeological research, «Proceedings of the British Academy», 77, 223-232.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Shennan",
+     "given": "I."
+    },
+    {
+     "family": "Donoghue",
+     "given": "D.N.M."
+    }
+   ],
+   "date": "1992",
+   "title": "Remote sensing in archaeological research",
+   "is_part_of": [
+    "Proceedings of the British Academy"
+   ],
+   "volume": "77",
+   "pages": "223-232",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Star J.L., Estes J.E., McGwire K.C. (eds.) 2010, Integration of Geographic Information Systems and Remote Sensing, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Star",
+     "given": "J.L."
+    },
+    {
+     "family": "Estes",
+     "given": "J.E."
+    },
+    {
+     "family": "McGwire",
+     "given": "K.C."
+    }
+   ],
+   "date": "2010",
+   "title": "Integration of Geographic Information Systems and Remote Sensing",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Syed A., Drummond J., Hanson S. 2008, Discovering archaeological cropmarks: A hyperspectral approach, «International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences», 37, B7, 361-366.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Syed",
+     "given": "A."
+    },
+    {
+     "family": "Drummond",
+     "given": "J."
+    },
+    {
+     "family": "Hanson",
+     "given": "S."
+    }
+   ],
+   "date": "2008",
+   "title": "Discovering archaeological cropmarks: A hyperspectral approach",
+   "is_part_of": [
+    "International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "37",
+   "issue": "B7",
+   "pages": "361-366",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Tan K.L., Wan Y., Zhou X., Song D., Duan Q. 2006, Application of Remote Sensing technology in the archaeological study, «International Journal of Remote Sensing», 27, 3347-3363.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tan",
+     "given": "K.L."
+    },
+    {
+     "family": "Wan",
+     "given": "Y."
+    },
+    {
+     "family": "Zhou",
+     "given": "X."
+    },
+    {
+     "family": "Song",
+     "given": "D."
+    },
+    {
+     "family": "Duan",
+     "given": "Q."
+    }
+   ],
+   "date": "2006",
+   "title": "Application of Remote Sensing technology in the archaeological study",
+   "is_part_of": [
+    "International Journal of Remote Sensing"
+   ],
+   "volume": "27",
+   "pages": "3347-3363",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Tan K.L., Wan Y.Q., Yang Y.D. 2005, Archaeological exploration research of hyperspectral Remote Sensing, «Journal of Infrared and Millimeter Waves», 24, 437-442.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tan",
+     "given": "K.L."
+    },
+    {
+     "family": "Wan",
+     "given": "Y.Q."
+    },
+    {
+     "family": "Yang",
+     "given": "Y.D."
+    }
+   ],
+   "date": "2005",
+   "title": "Archaeological exploration research of hyperspectral Remote Sensing",
+   "is_part_of": [
+    "Journal of Infrared and Millimeter Waves"
+   ],
+   "volume": "24",
+   "pages": "437-442",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Ur J. 2003, CORONA satellite photography and ancient road networks: A Northern Mesopotamian case study, «Antiquity», 77, 102-105.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ur",
+     "given": "J."
+    }
+   ],
+   "date": "2003",
+   "title": "CORONA satellite photography and ancient road networks: A Northern Mesopotamian case study",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "77",
+   "pages": "102-105",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Wilson D.R. 2000, Air Photo Interpretation for Archaeologists, Stroud, Tempus.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wilson",
+     "given": "D.R."
+    }
+   ],
+   "date": "2000",
+   "title": "Air Photo Interpretation for Archaeologists",
+   "publisher": "Tempus",
+   "place": "Stroud",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Winterbottom S.J., Dawson T. 2005, Airborne multi-spectral prospection for buried archaeology in mobile sand dominated systems, «Archaeological Prospection», 12, 205-219.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Winterbottom",
+     "given": "S.J."
+    },
+    {
+     "family": "Dawson",
+     "given": "T."
+    }
+   ],
+   "date": "2005",
+   "title": "Airborne multi-spectral prospection for buried archaeology in mobile sand dominated systems",
+   "is_part_of": [
+    "Archaeological Prospection"
+   ],
+   "volume": "12",
+   "pages": "205-219",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

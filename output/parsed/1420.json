@@ -1,0 +1,76 @@
+{
+ "citing_aec_id": 1420,
+ "source_file": "data/journal/36/1420.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Brughmans T., Mills B., Munson J., Peeples M.A. (eds.) 2024, The Oxford Handbook of Archaeological Network Research, Oxford Handbooks, Oxford, Oxford University Press.",
+   "type": "book",
+   "date": "2024",
+   "title": "The Oxford Handbook of Archaeological Network Research",
+   "editors": [
+    {
+     "family": "Brughmans",
+     "given": "T."
+    },
+    {
+     "family": "Mills",
+     "given": "B."
+    },
+    {
+     "family": "Munson",
+     "given": "J."
+    },
+    {
+     "family": "Peeples",
+     "given": "M.A."
+    }
+   ],
+   "series": "Oxford Handbooks",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Brughmans T., Peeples M. (eds.) 2023, Network Science in Archaeology, Cambridge Manuals in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Brughmans",
+     "given": "T."
+    },
+    {
+     "family": "Peeples",
+     "given": "M.A."
+    }
+   ],
+   "date": "2023",
+   "title": "Network Science in Archaeology",
+   "series": "Cambridge Manuals in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "notes": "cited as (eds.), but a monograph: authors"
+  },
+  {
+   "position": 3,
+   "raw": "Sánchez de Oro P. 2023, Review of: Brughmans, T. & Peeples, M. A. (2023). Network Science in Archaeology (Cambridge Manuals in Archaeology), Cambridge: Cambridge University Press, 362 pages, «Archäologische Informationen», 46, 387-389.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sánchez de Oro",
+     "given": "P."
+    }
+   ],
+   "date": "2023",
+   "title": "Review of: Brughmans, T. & Peeples, M. A. (2023). Network Science in Archaeology (Cambridge Manuals in Archaeology), Cambridge: Cambridge University Press, 362 pages",
+   "is_part_of": [
+    "Archäologische Informationen"
+   ],
+   "volume": "46",
+   "pages": "387-389",
+   "language": "eng"
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+{
+ "citing_aec_id": 95,
+ "source_file": "data/journal/5/95.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BAGCHI P., CHAUDHRI V.K. 1989, Interactive Relational Database Design, Springer-Verlag, Berlin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bagchi",
+     "given": "P."
+    },
+    {
+     "family": "Chaudhri",
+     "given": "V.K."
+    }
+   ],
+   "date": "1989",
+   "title": "Interactive Relational Database Design",
+   "place": "Berlin",
+   "publisher": "Springer-Verlag",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "BONINCONTRO I., CALABRIA P. c.s., Un'applicazione del modello relazionale ad una banca dati per la Numismatica, in Proceedings of the XIth International Numismatic Congress, Brussel, Set. 1991 (in corso di stampa).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bonincontro",
+     "given": "I."
+    },
+    {
+     "family": "Calabria",
+     "given": "P."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Un'applicazione del modello relazionale ad una banca dati per la Numismatica",
+   "is_part_of": [
+    "Proceedings of the XIth International Numismatic Congress, Brussel, Set. 1991"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found (proceedings of the XI Congress appeared in 1993, but the paper was not confirmed)",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BONINCONTRO I., CALABRIA P., FABRIANI L. 1992, Giunone: Sistema Informativo Numismatico, Nota Interna del Dip. di Scienze St., Arch., Antr. dell'Antichità, Università « La Sapienza », Roma.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Bonincontro",
+     "given": "I."
+    },
+    {
+     "family": "Calabria",
+     "given": "P."
+    },
+    {
+     "family": "Fabriani",
+     "given": "L."
+    }
+   ],
+   "date": "1992",
+   "title": "Giunone: Sistema Informativo Numismatico",
+   "series": "Nota Interna",
+   "publisher": "Dip. di Scienze St., Arch., Antr. dell'Antichità, Università « La Sapienza »",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "internal note",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "BONINCONTRO I. c.s., Eine Datenbank für die Numismatik, in Proceedings of the VIth International Monetary History and Computing Conference, Brussel, Ott. 1992 (in corso di stampa).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bonincontro",
+     "given": "I."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Eine Datenbank für die Numismatik",
+   "is_part_of": [
+    "Proceedings of the VIth International Monetary History and Computing Conference, Brussel, Ott. 1992"
+   ],
+   "language": "ger",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "DATE C.J. 1975, An Introduction to Database Systems, Addison-Wesley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Date",
+     "given": "C.J."
+    }
+   ],
+   "date": "1975",
+   "title": "An Introduction to Database Systems",
+   "publisher": "Addison-Wesley",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "HARVEY C., PRESS J. 1991, The business elite of Bristol: a case study in database design, « History and Computing », 3, n. 1, 1-11.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Harvey",
+     "given": "C."
+    },
+    {
+     "family": "Press",
+     "given": "J."
+    }
+   ],
+   "date": "1991",
+   "title": "The business elite of Bristol: a case study in database design",
+   "is_part_of": [
+    "History and Computing"
+   ],
+   "volume": "3",
+   "issue": "1",
+   "pages": "1-11",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "FIDECARO F., TOSI A. 1989, Le notti Coritane. Applicazione del modello relazionale, « Bollettino d'Informazione (Centro di Elaborazione Automatica di Dati e Documenti Storico Artistici, Pisa) », 10, fasc. 2, 196, 13-66.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fidecaro",
+     "given": "F."
+    },
+    {
+     "family": "Tosi",
+     "given": "A."
+    }
+   ],
+   "date": "1989",
+   "title": "Le notti Coritane. Applicazione del modello relazionale",
+   "is_part_of": [
+    "Bollettino d'Informazione (Centro di Elaborazione Automatica di Dati e Documenti Storico Artistici, Pisa)"
+   ],
+   "volume": "10",
+   "issue": "2",
+   "pages": "13-66",
+   "language": "ita",
+   "notes": "citation: \"10, fasc. 2, 196, 13-66\"; 196 not recorded",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "MOSCATI P. 1987, Archeologia e Calcolatori, Firenze.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Archeologia e Calcolatori",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "ORLANDI T. 1990, L'ambiente Unix e le applicazioni Umanistiche, « Archeologia e Calcolatori », 1, 237-251.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "1990",
+   "title": "L'ambiente Unix e le applicazioni Umanistiche",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "237-251",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

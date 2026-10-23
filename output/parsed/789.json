@@ -1,0 +1,791 @@
+{
+ "citing_aec_id": 789,
+ "source_file": "data/journal/26/789.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Amoroso A. 2000, Crustumerium, da città antica a suburbium di Roma, «Bullettino della Commissione Archeologica Comunale di Roma», 101, 263-282.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Amoroso",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "Crustumerium, da città antica a suburbium di Roma",
+   "is_part_of": [
+    "Bullettino della Commissione Archeologica Comunale di Roma"
+   ],
+   "volume": "101",
+   "pages": "263-282",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Amoroso A. 2002, Nuovi dati per la conoscenza dell’antico centro di Crustumerium, «Archeologia Classica», 53, 3, 287-329.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Amoroso",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Nuovi dati per la conoscenza dell’antico centro di Crustumerium",
+   "is_part_of": [
+    "Archeologia Classica"
+   ],
+   "volume": "53",
+   "issue": "3",
+   "pages": "287-329",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Attema P.A.J., di Gennaro F., Jarva E. (eds.) 2013, Crustumerium. Ricerche internazionali in un centro latino. Archaeology and Identity of a Latin Settlement near Rome, Groningen, Groningen Institute of Archaeology & Barkhuis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Attema",
+     "given": "P.A.J."
+    },
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    },
+    {
+     "family": "Jarva",
+     "given": "E."
+    }
+   ],
+   "date": "2013",
+   "title": "Crustumerium. Ricerche internazionali in un centro latino. Archaeology and Identity of a Latin Settlement near Rome",
+   "publisher": "Groningen Institute of Archaeology & Barkhuis",
+   "place": "Groningen",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Attema P.A.J., Nijboer A.J., Willemsen S.L., Seubers J.F. (eds.) 2014, Current Research into Pre-Roman Burial Grounds in Italy, «Caeculus», 8.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Attema",
+     "given": "P.A.J."
+    },
+    {
+     "family": "Nijboer",
+     "given": "A.J."
+    },
+    {
+     "family": "Willemsen",
+     "given": "S.L."
+    },
+    {
+     "family": "Seubers",
+     "given": "J.F."
+    }
+   ],
+   "date": "2014",
+   "title": "Current Research into Pre-Roman Burial Grounds in Italy",
+   "is_part_of": [
+    "Caeculus"
+   ],
+   "volume": "8",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Barbaro B., Barbina P., Borzetti M.R. 2013, L’abitato di Crustumerium: acquisizioni del 2007, in Attema, di Gennaro, Jarva 2013, 21-34.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barbaro",
+     "given": "B."
+    },
+    {
+     "family": "Barbina",
+     "given": "P."
+    },
+    {
+     "family": "Borzetti",
+     "given": "M.R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Attema",
+     "given": "P.A.J."
+    },
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    },
+    {
+     "family": "Jarva",
+     "given": "E."
+    }
+   ],
+   "date": "2013",
+   "title": "L’abitato di Crustumerium: acquisizioni del 2007",
+   "is_part_of": [
+    "Crustumerium. Ricerche internazionali in un centro latino. Archaeology and Identity of a Latin Settlement near Rome"
+   ],
+   "pages": "21-34",
+   "publisher": "Groningen Institute of Archaeology & Barkhuis",
+   "place": "Groningen",
+   "language": "ita",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Becchetti P. 1983, Immagini della campagna romana, 1853-1915, Roma, Quasar.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Becchetti",
+     "given": "P."
+    }
+   ],
+   "date": "1983",
+   "title": "Immagini della campagna romana, 1853-1915",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Bell M., Boardman J. 1992, Past and Present Soil Erosion: Archaeological and Geographical Perspectives, Oxford, Oxbow.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bell",
+     "given": "M."
+    },
+    {
+     "family": "Boardman",
+     "given": "J."
+    }
+   ],
+   "date": "1992",
+   "title": "Past and Present Soil Erosion: Archaeological and Geographical Perspectives",
+   "publisher": "Oxbow",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Boismier W.A. 1997, Modelling the Effects of Tillage Processes on Artefact Distributions in the Ploughzone: A Simulation Study of Tillage-induced Pattern Formation, Oxford, Archaeopress.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Boismier",
+     "given": "W.A."
+    }
+   ],
+   "date": "1997",
+   "title": "Modelling the Effects of Tillage Processes on Artefact Distributions in the Ploughzone: A Simulation Study of Tillage-induced Pattern Formation",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Casalí J., Loizu J., Campo M.A., De Santisteban L.M., Álvarez-Mozos J. 2006, Accuracy of methods for field assessment of rill and ephemeral gully erosion, «Catena», 67, 2, 128-138.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Casalí",
+     "given": "J."
+    },
+    {
+     "family": "Loizu",
+     "given": "J."
+    },
+    {
+     "family": "Campo",
+     "given": "M.A."
+    },
+    {
+     "family": "De Santisteban",
+     "given": "L.M."
+    },
+    {
+     "family": "Álvarez-Mozos",
+     "given": "J."
+    }
+   ],
+   "date": "2006",
+   "title": "Accuracy of methods for field assessment of rill and ephemeral gully erosion",
+   "is_part_of": [
+    "Catena"
+   ],
+   "volume": "67",
+   "issue": "2",
+   "pages": "128-138",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Casalí J., López J.J., Giráldez J.V. 1999, Ephemeral gully erosion in southern Navarra (Spain), «Catena», 36, 1-2, 65-84.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Casalí",
+     "given": "J."
+    },
+    {
+     "family": "López",
+     "given": "J.J."
+    },
+    {
+     "family": "Giráldez",
+     "given": "J.V."
+    }
+   ],
+   "date": "1999",
+   "title": "Ephemeral gully erosion in southern Navarra (Spain)",
+   "is_part_of": [
+    "Catena"
+   ],
+   "volume": "36",
+   "issue": "1-2",
+   "pages": "65-84",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Corazza A., Giordano G., de Rita D. 2006, Hydrogeology of the city of Rome, in G. Heiken (ed.), Tuffs: Their Properties, Uses, Hydrology, and Resources, Geological Society of America, Special Paper 408, 113.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Corazza",
+     "given": "A."
+    },
+    {
+     "family": "Giordano",
+     "given": "G."
+    },
+    {
+     "family": "de Rita",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Heiken",
+     "given": "G."
+    }
+   ],
+   "date": "2006",
+   "title": "Hydrogeology of the city of Rome",
+   "is_part_of": [
+    "Tuffs: Their Properties, Uses, Hydrology, and Resources"
+   ],
+   "pages": "113",
+   "series": "Special Paper",
+   "series_number": "408",
+   "publisher": "Geological Society of America",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "de Haas T.C.A. 2011, Fields, Farms and Colonists: Intensive Field Survey and Early Roman Colonization in the Pontine Region, Central Italy, Groningen, Barkhuis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "de Haas",
+     "given": "T.C.A."
+    }
+   ],
+   "date": "2011",
+   "title": "Fields, Farms and Colonists: Intensive Field Survey and Early Roman Colonization in the Pontine Region, Central Italy",
+   "publisher": "Barkhuis",
+   "place": "Groningen",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "di Gennaro F. 1990, Crustumerium (circ. IV) I. Ricerche del 1982, «Relazioni su scavi, trovamenti, restauri in Roma e Suburbio», 467-468.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    }
+   ],
+   "date": "1990",
+   "title": "Crustumerium (circ. IV) I. Ricerche del 1982",
+   "is_part_of": [
+    "Relazioni su scavi, trovamenti, restauri in Roma e Suburbio"
+   ],
+   "pages": "467-468",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "di Gennaro F. 1993, 11. Crustumerium (Com. di Roma), «Studi Etruschi», 58, 512-514.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    }
+   ],
+   "date": "1993",
+   "title": "Crustumerium (Com. di Roma)",
+   "is_part_of": [
+    "Studi Etruschi"
+   ],
+   "volume": "58",
+   "pages": "512-514",
+   "language": "ita",
+   "notes": "title cited as \"11. Crustumerium (Com. di Roma)\"",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "di Gennero F. 2003, Una raffigurazione schematica a tutto tondo di edificio protostorico da Crustumerium, in I. von Kampen (ed.), Dalla capanna alla casa. I primi abitanti di Veio. Catalogo della mostra, Formello, 33-37.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "von Kampen",
+     "given": "I."
+    }
+   ],
+   "date": "2003",
+   "title": "Una raffigurazione schematica a tutto tondo di edificio protostorico da Crustumerium",
+   "is_part_of": [
+    "Dalla capanna alla casa. I primi abitanti di Veio. Catalogo della mostra"
+   ],
+   "pages": "33-37",
+   "place": "Formello",
+   "language": "ita",
+   "notes": "author cited as \"di Gennero\" (typo for di Gennaro)",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "di Gennaro F. 2010, Introduzione, in B. Barbaro, Insediamenti, aree funerarie ed entità territoriali in Etruria meridionale nel Bronzo finale, Firenze, All’Insegna del Giglio, 13-16.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    }
+   ],
+   "date": "2010",
+   "title": "Introduzione",
+   "is_part_of": [
+    "Insediamenti, aree funerarie ed entità territoriali in Etruria meridionale nel Bronzo finale"
+   ],
+   "pages": "13-16",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "introduction to the book by B. Barbaro (author of the container, not an editor)",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "di Gennaro F. 2013, Alla ricerca dell’identità di Crustumerium, in Attema, di Gennaro, Jarva 2013, 3-20.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Attema",
+     "given": "P.A.J."
+    },
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    },
+    {
+     "family": "Jarva",
+     "given": "E."
+    }
+   ],
+   "date": "2013",
+   "title": "Alla ricerca dell’identità di Crustumerium",
+   "is_part_of": [
+    "Crustumerium. Ricerche internazionali in un centro latino. Archaeology and Identity of a Latin Settlement near Rome"
+   ],
+   "pages": "3-20",
+   "publisher": "Groningen Institute of Archaeology & Barkhuis",
+   "place": "Groningen",
+   "language": "ita",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "di Gennaro F., Schiappelli A., Amoroso A. 2004, Un confronto tra gli organismi protostatali delle due sponde del Tevere: le prime fasi di Veio e Crustumerio, in H. Patterson (ed.), Bridging the Tiber: Approaches to Regional Archaeology in the Middle Tiber Valley, London, The British School at Rome, 147-177.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    },
+    {
+     "family": "Schiappelli",
+     "given": "A."
+    },
+    {
+     "family": "Amoroso",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Patterson",
+     "given": "H."
+    }
+   ],
+   "date": "2004",
+   "title": "Un confronto tra gli organismi protostatali delle due sponde del Tevere: le prime fasi di Veio e Crustumerio",
+   "is_part_of": [
+    "Bridging the Tiber: Approaches to Regional Archaeology in the Middle Tiber Valley"
+   ],
+   "pages": "147-177",
+   "publisher": "The British School at Rome",
+   "place": "London",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Eramo N. (ed.) 2008, Mutui per la bonifica agraria dell’agro romano e pontino (1905-1975), Roma, Ministero per i Beni e le Attività Culturali, Pubblicazioni degli archivi di Stato.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Eramo",
+     "given": "N."
+    }
+   ],
+   "date": "2008",
+   "title": "Mutui per la bonifica agraria dell’agro romano e pontino (1905-1975)",
+   "series": "Pubblicazioni degli archivi di Stato",
+   "publisher": "Ministero per i Beni e le Attività Culturali",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Francovich R., Patterson H., Barker G. 2000, Extracting Meaning from Ploughsoil Assemblages, Oxford, Oxbow Books.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Patterson",
+     "given": "H."
+    },
+    {
+     "family": "Barker",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Extracting Meaning from Ploughsoil Assemblages",
+   "publisher": "Oxbow Books",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Jarva E., Kuusisto A., Lipponen S., Suuronen M., Tuppi J. 2013, Excavations in the Road Trench area of Crustumerium and research prospects in the future, in Attema, di Gennaro, Jarva 2013, 35-44.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Jarva",
+     "given": "E."
+    },
+    {
+     "family": "Kuusisto",
+     "given": "A."
+    },
+    {
+     "family": "Lipponen",
+     "given": "S."
+    },
+    {
+     "family": "Suuronen",
+     "given": "M."
+    },
+    {
+     "family": "Tuppi",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Attema",
+     "given": "P.A.J."
+    },
+    {
+     "family": "di Gennaro",
+     "given": "F."
+    },
+    {
+     "family": "Jarva",
+     "given": "E."
+    }
+   ],
+   "date": "2013",
+   "title": "Excavations in the Road Trench area of Crustumerium and research prospects in the future",
+   "is_part_of": [
+    "Crustumerium. Ricerche internazionali in un centro latino. Archaeology and Identity of a Latin Settlement near Rome"
+   ],
+   "pages": "35-44",
+   "publisher": "Groningen Institute of Archaeology & Barkhuis",
+   "place": "Groningen",
+   "language": "eng",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Lechterbeck J. 2008, The potential of ancient maps for quantifying slope processes – Comparison of historical and modern elevation models, in B. Frischer, A. Dakouri-Hild (eds.), Beyond Illustration: 2D and 3D Digital Technologies as Tools for Discovery in Archaeology, Oxford, Archaeopress, 208-219.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lechterbeck",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Frischer",
+     "given": "B."
+    },
+    {
+     "family": "Dakouri-Hild",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "The potential of ancient maps for quantifying slope processes – Comparison of historical and modern elevation models",
+   "is_part_of": [
+    "Beyond Illustration: 2D and 3D Digital Technologies as Tools for Discovery in Archaeology"
+   ],
+   "pages": "208-219",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Marcone A. 1997, Storia dell’agricoltura romana: dal mondo arcaico all’età imperiale, Roma, Nuova Italia Scientifica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Marcone",
+     "given": "A."
+    }
+   ],
+   "date": "1997",
+   "title": "Storia dell’agricoltura romana: dal mondo arcaico all’età imperiale",
+   "publisher": "Nuova Italia Scientifica",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Passigli S. 2004, L’insediamento e l’ambiente nei possessi di San Ciriaco in Via Lata in San Silvestro in Capite presso le anse del Tevere (secoli XII-XIII), in H. Patterson (ed.), Bridging the Tiber: Approaches to Regional Archaeology in the Middle Tiber Valley, London, The British School at Rome, 125-141.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Passigli",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Patterson",
+     "given": "H."
+    }
+   ],
+   "date": "2004",
+   "title": "L’insediamento e l’ambiente nei possessi di San Ciriaco in Via Lata in San Silvestro in Capite presso le anse del Tevere (secoli XII-XIII)",
+   "is_part_of": [
+    "Bridging the Tiber: Approaches to Regional Archaeology in the Middle Tiber Valley"
+   ],
+   "pages": "125-141",
+   "publisher": "The British School at Rome",
+   "place": "London",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Quilici L., Quilici Gigli S. 1980, Crustumerium, Latium Vetus III, Roma, Consiglio Nazionale delle Ricerche.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Quilici",
+     "given": "L."
+    },
+    {
+     "family": "Quilici Gigli",
+     "given": "S."
+    }
+   ],
+   "date": "1980",
+   "title": "Crustumerium",
+   "series": "Latium Vetus",
+   "series_number": "III",
+   "publisher": "Consiglio Nazionale delle Ricerche",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Taylor J. 2000, Cultural depositional processes and post-depositional problems, in R. Francovich, H. Patterson (eds.), Extracting Meaning from Ploughsoil Assemblages, Oxford, Oxbow Books, 16-29.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Taylor",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Patterson",
+     "given": "H."
+    }
+   ],
+   "date": "2000",
+   "title": "Cultural depositional processes and post-depositional problems",
+   "is_part_of": [
+    "Extracting Meaning from Ploughsoil Assemblages"
+   ],
+   "pages": "16-29",
+   "publisher": "Oxbow Books",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 20,
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Terrenato N. 2004, Sample size matters! The paradox of global trends and local surveys, in S. Alcock, J. Cherry (eds.), Side-by-Side Survey: Comparative Regional Studies in the Mediterranean World, Oxford, Oxbow, 36-48.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Terrenato",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Alcock",
+     "given": "S."
+    },
+    {
+     "family": "Cherry",
+     "given": "J."
+    }
+   ],
+   "date": "2004",
+   "title": "Sample size matters! The paradox of global trends and local surveys",
+   "is_part_of": [
+    "Side-by-Side Survey: Comparative Regional Studies in the Mediterranean World"
+   ],
+   "pages": "36-48",
+   "publisher": "Oxbow",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "van Leusen P.M. 2002, Pattern to Process: Methodological Investigations into the Formation and Interpretation of Spatial Patterns in Archaeological Landscapes, Groningen, Groningen Institute of Archaeology.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "van Leusen",
+     "given": "P.M."
+    }
+   ],
+   "date": "2002",
+   "title": "Pattern to Process: Methodological Investigations into the Formation and Interpretation of Spatial Patterns in Archaeological Landscapes",
+   "publisher": "Groningen Institute of Archaeology",
+   "place": "Groningen",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Willemsen S.L. 2014, Into the Light: A Study of the Changing Burial Customs at Crustumerium in the 7th and 6th Centuries BC, Groningen, Groningen Institute of Archaeology.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Willemsen",
+     "given": "S.L."
+    }
+   ],
+   "date": "2014",
+   "title": "Into the Light: A Study of the Changing Burial Customs at Crustumerium in the 7th and 6th Centuries BC",
+   "publisher": "Groningen Institute of Archaeology",
+   "place": "Groningen",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Witcher R. 2006, Broken pots and meaningless dots? Surveying the rural landscapes of Roman Italy, «Papers of the British School at Rome», 74, 39-72.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Witcher",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Broken pots and meaningless dots? Surveying the rural landscapes of Roman Italy",
+   "is_part_of": [
+    "Papers of the British School at Rome"
+   ],
+   "volume": "74",
+   "pages": "39-72",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

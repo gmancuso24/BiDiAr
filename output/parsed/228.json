@@ -1,0 +1,601 @@
+{
+ "citing_aec_id": 228,
+ "source_file": "data/journal/7/228.md",
+ "references": [
+  {
+   "raw": "BATES J., LOYALL A.B., REILLY W.S. 1992, An Architecture for Action, Emotion and Social Behavior, in A. CESTA, R. CONTE, M. MICELI (eds.), Pre-Proceedings of MAAMAW'92 Conference, S. Martino al Cimino (Viterbo), Italy, July 1992.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Bates",
+     "given": "J."
+    },
+    {
+     "family": "Loyall",
+     "given": "A.B."
+    },
+    {
+     "family": "Reilly",
+     "given": "W.S."
+    }
+   ],
+   "type": "chapter",
+   "title": "An Architecture for Action, Emotion and Social Behavior",
+   "editors": [
+    {
+     "family": "Cesta",
+     "given": "A."
+    },
+    {
+     "family": "Conte",
+     "given": "R."
+    },
+    {
+     "family": "Miceli",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Pre-Proceedings of MAAMAW'92 Conference, S. Martino al Cimino (Viterbo), Italy, July 1992"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "BERGSON H. 1935, The Two Sources of Morality and Religion, (tr. R. Ashley Audra and Cloudesley Brereton) New York, Henry Holt.",
+   "date": "1935",
+   "creators": [
+    {
+     "family": "Bergson",
+     "given": "H."
+    }
+   ],
+   "type": "book",
+   "title": "The Two Sources of Morality and Religion",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2,
+   "publisher": "Henry Holt",
+   "notes": "tr. R. Ashley Audra and Cloudesley Brereton"
+  },
+  {
+   "raw": "CONTE R., CASTELFRANCHI C. 1995, Understanding the Functions of Norms in Social Groups through Simulation, in N. GILBERT, R. CONTE (eds.), Artificial Societies: the Computer Simulation of Social Life, London, UCL Press, 252-267.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Conte",
+     "given": "R."
+    },
+    {
+     "family": "Castelfranchi",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Understanding the Functions of Norms in Social Groups through Simulation",
+   "editors": [
+    {
+     "family": "Gilbert",
+     "given": "N."
+    },
+    {
+     "family": "Conte",
+     "given": "R."
+    }
+   ],
+   "pages": "252-267",
+   "is_part_of": [
+    "Artificial Societies: the Computer Simulation of Social Life"
+   ],
+   "place": "London",
+   "publisher": "UCL Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "CONTE R., GILBERT N. 1995, Introduction: Computer Simulation for Social Theory, in N. GILBERT, R. CONTE (eds.), Artificial Societies: the Computer Simulation of Social Life, London, UCL Press, 1-15.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Conte",
+     "given": "R."
+    },
+    {
+     "family": "Gilbert",
+     "given": "N."
+    }
+   ],
+   "type": "chapter",
+   "title": "Introduction: Computer Simulation for Social Theory",
+   "editors": [
+    {
+     "family": "Gilbert",
+     "given": "N."
+    },
+    {
+     "family": "Conte",
+     "given": "R."
+    }
+   ],
+   "pages": "1-15",
+   "is_part_of": [
+    "Artificial Societies: the Computer Simulation of Social Life"
+   ],
+   "place": "London",
+   "publisher": "UCL Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "DAWKINS R. 1989, The Selfish Gene, Oxford University Press (new edition).",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Dawkins",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "The Selfish Gene",
+   "publisher": "Oxford University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5,
+   "notes": "new edition"
+  },
+  {
+   "raw": "DORAN J., PALMER M., GILBERT N., MELLARS P. 1994, The EOS Project: modelling Upper Palaeolithic social change, in N. GILBERT, J. DORAN (eds.), Simulating Societies: the Computer Simulation of Social Phenomena, London, UCL Press, 195-221.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J."
+    },
+    {
+     "family": "Palmer",
+     "given": "M."
+    },
+    {
+     "family": "Gilbert",
+     "given": "N."
+    },
+    {
+     "family": "Mellars",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "The EOS Project: modelling Upper Palaeolithic social change",
+   "editors": [
+    {
+     "family": "Gilbert",
+     "given": "N."
+    },
+    {
+     "family": "Doran",
+     "given": "J."
+    }
+   ],
+   "pages": "195-221",
+   "is_part_of": [
+    "Simulating Societies: the Computer Simulation of Social Phenomena"
+   ],
+   "place": "London",
+   "publisher": "UCL Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "DORAN J. 1994, Modelling Collective Belief and Misbelief, in M. KEANE et al. (eds.), AI and Cognitive Science '94, Dublin, Dublin University Press, 89-102.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "Modelling Collective Belief and Misbelief",
+   "editors": [
+    {
+     "family": "Keane",
+     "given": "M."
+    }
+   ],
+   "pages": "89-102",
+   "is_part_of": [
+    "AI and Cognitive Science '94"
+   ],
+   "place": "Dublin",
+   "publisher": "Dublin University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "DORAN J. 1995, Simulating Collective Misbelief, in Pre-Proceedings of Simulating Societies '95 Symposium, Boca Raton, Florida, USA, 15-17th, September 1995.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "Simulating Collective Misbelief",
+   "is_part_of": [
+    "Pre-Proceedings of Simulating Societies '95 Symposium"
+   ],
+   "place": "Boca Raton, Florida, USA",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8,
+   "notes": "15-17 September 1995"
+  },
+  {
+   "raw": "DORAN J., PALMER M. 1995, The EOS project: integrating two models of Palaeolithic social change, in N. GILBERT, R. CONTE (eds.), Artificial Societies, 103-125, London, UCL Press, 103-125.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J."
+    },
+    {
+     "family": "Palmer",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "The EOS project: integrating two models of Palaeolithic social change",
+   "editors": [
+    {
+     "family": "Gilbert",
+     "given": "N."
+    },
+    {
+     "family": "Conte",
+     "given": "R."
+    }
+   ],
+   "pages": "103-125",
+   "is_part_of": [
+    "Artificial Societies"
+   ],
+   "place": "London",
+   "publisher": "UCL Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "EPSTEIN J.M., AXTELL R.L. 1996, Growing Artificial Societies: Social Science from the Bottom Up, Brookings Institution.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Epstein",
+     "given": "J.M."
+    },
+    {
+     "family": "Axtell",
+     "given": "R.L."
+    }
+   ],
+   "type": "book",
+   "title": "Growing Artificial Societies: Social Science from the Bottom Up",
+   "publisher": "Brookings Institution",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "GILBERT N., CONTE R. (eds.) 1995, Artificial Societies: the Computer Simulation of Social Life, London, UCL Press.",
+   "date": "1995",
+   "editors": [
+    {
+     "family": "Gilbert",
+     "given": "N."
+    },
+    {
+     "family": "Conte",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Artificial Societies: the Computer Simulation of Social Life",
+   "place": "London",
+   "publisher": "UCL Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "JOHNSON A.W., EARLE T. 1987, The Evolution of Human Societies, Stanford, California, Stanford University Press.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Johnson",
+     "given": "A.W."
+    },
+    {
+     "family": "Earle",
+     "given": "T."
+    }
+   ],
+   "type": "book",
+   "title": "The Evolution of Human Societies, Stanford",
+   "place": "Stanford, California",
+   "publisher": "Stanford University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "MAYERS S.D. 1995, Modelling the Emergence of Social Complexity using Distributed AI, Masters dissertation, Department of Computer Science, University of Essex, UK.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Mayers",
+     "given": "S.D."
+    }
+   ],
+   "type": "thesis",
+   "title": "Modelling the Emergence of Social Complexity using Distributed AI, Masters dissertation, Department of Computer Science",
+   "publisher": "Department of Computer Science, University of Essex, UK",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13,
+   "notes": "Masters dissertation"
+  },
+  {
+   "raw": "MARCUS J., FLANNERY K.V. 1994, Ancient Zapotec Ritual and Religion: an Application of the Direct Historical Approach, in C. RENFREW, E. ZUBROW (eds.), The Ancient Mind: Elements of Cognitive Archaeology, Cambridge, Cambridge University Press, 55-74.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Marcus",
+     "given": "J."
+    },
+    {
+     "family": "Flannery",
+     "given": "K.V."
+    }
+   ],
+   "type": "chapter",
+   "title": "Ancient Zapotec Ritual and Religion: an Application of the Direct Historical Approach",
+   "editors": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E."
+    }
+   ],
+   "pages": "55-74",
+   "is_part_of": [
+    "The Ancient Mind: Elements of Cognitive Archaeology"
+   ],
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "MELLARS P.A. 1985, The Ecological Basis of Social Complexity in the Upper Palaeolithic of Southwestern France, in T.J. PRICE, J.A. BROWN (eds.), Prehistoric Hunter-Gatherers: The Emergence of Cultural Complexity, New York, Academic, 271-297.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Mellars",
+     "given": "P.A."
+    }
+   ],
+   "type": "chapter",
+   "title": "The Ecological Basis of Social Complexity in the Upper Palaeolithic of Southwestern France",
+   "editors": [
+    {
+     "family": "Price",
+     "given": "T.J."
+    },
+    {
+     "family": "Brown",
+     "given": "J.A."
+    }
+   ],
+   "pages": "271-297",
+   "is_part_of": [
+    "Prehistoric Hunter-Gatherers: The Emergence of Cultural Complexity"
+   ],
+   "place": "New York",
+   "publisher": "Academic",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "MOSES Y., TENNENHOLTZ M. 1991, On Formal Aspects of Artificial Social Systems, Technical Report CS91-01, January 1991, Weizmann Institute of Science, Israel.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Moses",
+     "given": "Y."
+    },
+    {
+     "family": "Tennenholtz",
+     "given": "M."
+    }
+   ],
+   "type": "other",
+   "title": "On Formal Aspects of Artificial Social Systems, Technical Report CS91-01, January 1991",
+   "place": "Israel",
+   "publisher": "Weizmann Institute of Science",
+   "language": "eng",
+   "confidence": "high",
+   "position": 16,
+   "series": "Technical Report",
+   "series_number": "CS91-01",
+   "notes": "January 1991"
+  },
+  {
+   "raw": "RAPPAPORT R.A. 1971, The Sacred in Human Evolution, «Annual Review of Ecology and Systematics», 2, 23-44.",
+   "date": "1971",
+   "creators": [
+    {
+     "family": "Rappaport",
+     "given": "R.A."
+    }
+   ],
+   "type": "article",
+   "title": "The Sacred in Human Evolution",
+   "is_part_of": [
+    "Annual Review of Ecology and Systematics"
+   ],
+   "pages": "23-44",
+   "volume": "2",
+   "language": "eng",
+   "confidence": "high",
+   "position": 17
+  },
+  {
+   "raw": "RAPPAPORT R.A. 1984, Pigs for the Ancestors, (2nd edition), New Haven and London, Yale University Press.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Rappaport",
+     "given": "R.A."
+    }
+   ],
+   "type": "book",
+   "title": "Pigs for the Ancestors",
+   "place": "New Haven and London",
+   "publisher": "Yale University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 18,
+   "edition": "2"
+  },
+  {
+   "raw": "READ D.W. 1995, Kinship Based Demographic Simulation of Societal Processes, in Pre-Proceedings of Simulating Societies '95 Symposium, Boca Raton, Florida, USA, 15-17th September 1995.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Read",
+     "given": "D.W."
+    }
+   ],
+   "type": "chapter",
+   "title": "Kinship Based Demographic Simulation of Societal Processes",
+   "is_part_of": [
+    "Pre-Proceedings of Simulating Societies '95 Symposium"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 19,
+   "place": "Boca Raton, Florida, USA",
+   "notes": "15-17 September 1995"
+  },
+  {
+   "raw": "RENFREW C. 1982, Towards an Archaeology of Mind, Cambridge, Cambridge University Press (Inaugural Lecture).",
+   "date": "1982",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    }
+   ],
+   "type": "book",
+   "title": "Towards an Archaeology of Mind",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 20,
+   "notes": "Inaugural Lecture"
+  },
+  {
+   "raw": "RENFREW C. 1994a, Towards a Cognitive Archaeology, in C. RENFREW, E. ZUBROW (eds.), The Ancient Mind: Elements of Cognitive Archaeology, Cambridge, Cambridge University Press, 3-12.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Towards a Cognitive Archaeology",
+   "editors": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E."
+    }
+   ],
+   "pages": "3-12",
+   "is_part_of": [
+    "The Ancient Mind: Elements of Cognitive Archaeology"
+   ],
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 21
+  },
+  {
+   "raw": "RENFREW C. 1994b, The Archaeology of Religion, in C. RENFREW, E. ZUBROW (eds.), The Ancient Mind: Elements of Cognitive Archaeology, Cambridge, Cambridge University Press, 47-54.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "The Archaeology of Religion",
+   "editors": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E."
+    }
+   ],
+   "pages": "47-54",
+   "is_part_of": [
+    "The Ancient Mind: Elements of Cognitive Archaeology"
+   ],
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 22
+  },
+  {
+   "raw": "TODD E. 1985, The Explanation of Ideology: Family Structures and Social Systems (translated by David Garrioch), Oxford, Blackwell.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Todd",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "The Explanation of Ideology: Family Structures and Social Systems",
+   "place": "Oxford",
+   "publisher": "Blackwell",
+   "language": "eng",
+   "confidence": "high",
+   "position": 23,
+   "notes": "translated by David Garrioch"
+  }
+ ]
+}

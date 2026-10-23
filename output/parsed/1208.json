@@ -1,0 +1,535 @@
+{
+ "citing_aec_id": 1208,
+ "source_file": "data/journal/33/1208.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Barceló J. 2000, *Visualizing what might be. An introduction to Virtual Reality in archaeology*, in J.A. Barcelo, M. Forte, D. Sanders (eds.), *Virtual Reality in Archaeology*, British Archaeological Reports 843, Oxford, Archaeopress, 9-36.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D."
+    }
+   ],
+   "date": "2000",
+   "title": "Visualizing what might be. An introduction to Virtual Reality in archaeology",
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "language": "eng",
+   "pages": "9-36",
+   "place": "Oxford",
+   "publisher": "Archaeopress",
+   "series": "British Archaeological Reports",
+   "series_number": "843",
+   "notes": "series: BAR International Series 843",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Berggren Å., Dell'Unto N., Forte M., Haddow S., Hodder I., Issavi J., Taylor J.S. 2015, *Revisiting reflexive archaeology at Çatalhöyük: Integrating digital and 3D technologies at the trowel's edge*, «Antiquity», 89, 344, 433-448 (https://doi.org/10.15184/aqy.2014.43).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Berggren",
+     "given": "Å."
+    },
+    {
+     "family": "Dell'Unto",
+     "given": "N."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Haddow",
+     "given": "S."
+    },
+    {
+     "family": "Hodder",
+     "given": "I."
+    },
+    {
+     "family": "Issavi",
+     "given": "J."
+    },
+    {
+     "family": "Taylor",
+     "given": "J.S."
+    }
+   ],
+   "date": "2015",
+   "title": "Revisiting reflexive archaeology at Çatalhöyük: Integrating digital and 3D technologies at the trowel's edge",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "language": "eng",
+   "volume": "89",
+   "issue": "344",
+   "pages": "433-448",
+   "doi": "10.15184/aqy.2014.43",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bianchi G., Hodges R. 2020, *The nEU-Med Project: Vetricella, an Early Medieval Royal Property on Tuscany's Mediterranean*, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bianchi",
+     "given": "G."
+    },
+    {
+     "family": "Hodges",
+     "given": "R."
+    }
+   ],
+   "date": "2020",
+   "title": "The nEU-Med Project: Vetricella, an Early Medieval Royal Property on Tuscany's Mediterranean",
+   "language": "eng",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Campanaro D.M., Landeschi G., Dell'Unto N., Leander Touati A.M. 2016, *3D GIS for cultural heritage restoration: A 'white box' workflow*, «Journal of Cultural Heritage», 18, 321-332 (https://doi.org/10.1016/j.culher.2015.09.006).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Campanaro",
+     "given": "D.M."
+    },
+    {
+     "family": "Landeschi",
+     "given": "G."
+    },
+    {
+     "family": "Dell'Unto",
+     "given": "N."
+    },
+    {
+     "family": "Leander Touati",
+     "given": "A.M."
+    }
+   ],
+   "date": "2016",
+   "title": "3D GIS for cultural heritage restoration: A 'white box' workflow",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "language": "eng",
+   "volume": "18",
+   "pages": "321-332",
+   "doi": "10.1016/j.culher.2015.09.006",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Ceci M., Santangeli Valenzani R. 2016, *La ceramica nello scavo archeologico. Analisi, quantificazione e interpretazione*, Roma, Carocci Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ceci",
+     "given": "M."
+    },
+    {
+     "family": "Santangeli Valenzani",
+     "given": "R."
+    }
+   ],
+   "date": "2016",
+   "title": "La ceramica nello scavo archeologico. Analisi, quantificazione e interpretazione",
+   "language": "ita",
+   "publisher": "Carocci Editore",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Dell'Unto N., Landeschi G., Apel J., Poggi G. 2017, *4D recording at the trowel's edge: Using three-dimensional simulation platforms to support field interpretation*, «Journal of Archaeological Science: Reports», 12 (https://doi.org/10.1016/j.jasrep.2017.03.011).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dell'Unto",
+     "given": "N."
+    },
+    {
+     "family": "Landeschi",
+     "given": "G."
+    },
+    {
+     "family": "Apel",
+     "given": "J."
+    },
+    {
+     "family": "Poggi",
+     "given": "G."
+    }
+   ],
+   "date": "2017",
+   "title": "4D recording at the trowel's edge: Using three-dimensional simulation platforms to support field interpretation",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "language": "eng",
+   "volume": "12",
+   "doi": "10.1016/j.jasrep.2017.03.011",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "De Reu J., De Smedt P., Herremans D., Van Meirvenne M., Laloo P., De Clercq W. 2014, *On introducing an image-based 3D reconstruction method in archaeological excavation practice*, «Journal of Archaeological Science», 41, 251-262 (https://doi.org/10.1016/j.jas.2013.08.020).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Reu",
+     "given": "J."
+    },
+    {
+     "family": "De Smedt",
+     "given": "P."
+    },
+    {
+     "family": "Herremans",
+     "given": "D."
+    },
+    {
+     "family": "Van Meirvenne",
+     "given": "M."
+    },
+    {
+     "family": "Laloo",
+     "given": "P."
+    },
+    {
+     "family": "De Clercq",
+     "given": "W."
+    }
+   ],
+   "date": "2014",
+   "title": "On introducing an image-based 3D reconstruction method in archaeological excavation practice",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "language": "eng",
+   "volume": "41",
+   "pages": "251-262",
+   "doi": "10.1016/j.jas.2013.08.020",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Forte M., Dell'Unto N., Issavi J., Onsurez L., Lercari N. 2012, *3D Archaeology at Çatalhöyük*, «International Journal of Heritage in the Digital Era», 1, 3, 351-378 (https://doi.org/10.1260/2047-4970.1.3.351).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Dell'Unto",
+     "given": "N."
+    },
+    {
+     "family": "Issavi",
+     "given": "J."
+    },
+    {
+     "family": "Onsurez",
+     "given": "L."
+    },
+    {
+     "family": "Lercari",
+     "given": "N."
+    }
+   ],
+   "date": "2012",
+   "title": "3D Archaeology at Çatalhöyük",
+   "is_part_of": [
+    "International Journal of Heritage in the Digital Era"
+   ],
+   "language": "eng",
+   "volume": "1",
+   "issue": "3",
+   "pages": "351-378",
+   "doi": "10.1260/2047-4970.1.3.351",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Gavryushkina M. 2021, *The potential and problems of volumetric 3D modeling in archaeological stratigraphic analysis: A case study from Chlorakas-Palloures, Cyprus*, «Digital Applications in Archaeology and Cultural Heritage», 21, March, e00184 (https://doi.org/10.1016/j.daach.2021.e00184).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gavryushkina",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "The potential and problems of volumetric 3D modeling in archaeological stratigraphic analysis: A case study from Chlorakas-Palloures, Cyprus",
+   "is_part_of": [
+    "Digital Applications in Archaeology and Cultural Heritage"
+   ],
+   "language": "eng",
+   "volume": "21",
+   "pages": "e00184",
+   "doi": "10.1016/j.daach.2021.e00184",
+   "notes": "cited 'March' (month) dropped",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Katsianis M., Kotsakis K., Stefanou F. 2021, *Reconfiguring the 3D excavation archive. Technological shift and data remix in the archaeological project of Paliambela Kolindros, Greece*, «Journal of Archaeological Science: Reports», 36, March, 102857 (https://doi.org/10.1016/j.jasrep.2021.102857).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Katsianis",
+     "given": "M."
+    },
+    {
+     "family": "Kotsakis",
+     "given": "K."
+    },
+    {
+     "family": "Stefanou",
+     "given": "F."
+    }
+   ],
+   "date": "2021",
+   "title": "Reconfiguring the 3D excavation archive. Technological shift and data remix in the archaeological project of Paliambela Kolindros, Greece",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "language": "eng",
+   "volume": "36",
+   "pages": "102857",
+   "doi": "10.1016/j.jasrep.2021.102857",
+   "notes": "cited 'March' (month) dropped",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Katsianis M., Tsipidis S., Kotsakis K., Koussoulakou A. 2008, *A 3D digital workflow for archaeological intra-site research using GIS*, «Journal of Archaeological Science», 35, 3, 655-667 (https://doi.org/10.1016/j.jas.2007.06.002).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Katsianis",
+     "given": "M."
+    },
+    {
+     "family": "Tsipidis",
+     "given": "S."
+    },
+    {
+     "family": "Kotsakis",
+     "given": "K."
+    },
+    {
+     "family": "Koussoulakou",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "A 3D digital workflow for archaeological intra-site research using GIS",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "language": "eng",
+   "volume": "35",
+   "issue": "3",
+   "pages": "655-667",
+   "doi": "10.1016/j.jas.2007.06.002",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Marasco L., Briano A. 2020, *The stratigraphic sequence at the site of Vetricella (Scarlino, Grosseto). A revised interpretation (8th-13th centuries)*, in Bianchi, Hodges 2020, 9-22.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Marasco",
+     "given": "L."
+    },
+    {
+     "family": "Briano",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bianchi",
+     "given": "G."
+    },
+    {
+     "family": "Hodges",
+     "given": "R."
+    }
+   ],
+   "date": "2020",
+   "title": "The stratigraphic sequence at the site of Vetricella (Scarlino, Grosseto). A revised interpretation (8th-13th centuries)",
+   "is_part_of": [
+    "The nEU-Med Project: Vetricella, an Early Medieval Royal Property on Tuscany's Mediterranean"
+   ],
+   "language": "eng",
+   "pages": "9-22",
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Nobles G.R., Roosevelt C.H. 2021, *Filling the void in archaeological excavations: 2D point clouds to 3D volumes*, «Open Archaeology», 7, 1, 589-614 (https://doi.org/10.1515/opar-2020-0149).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nobles",
+     "given": "G.R."
+    },
+    {
+     "family": "Roosevelt",
+     "given": "C.H."
+    }
+   ],
+   "date": "2021",
+   "title": "Filling the void in archaeological excavations: 2D point clouds to 3D volumes",
+   "is_part_of": [
+    "Open Archaeology"
+   ],
+   "language": "eng",
+   "volume": "7",
+   "issue": "1",
+   "pages": "589-614",
+   "doi": "10.1515/opar-2020-0149",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Orengo H.A. 2013, *Combining terrestrial stereophotogrammetry, DGPS and GIS-based 3D voxel modelling in the volumetric recording of archaeological features*, «ISPRS Journal of Photogrammetry and Remote Sensing», 76, 49-55 (https://doi.org/10.1016/j.isprsjprs.2012.07.005).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orengo",
+     "given": "H.A."
+    }
+   ],
+   "date": "2013",
+   "title": "Combining terrestrial stereophotogrammetry, DGPS and GIS-based 3D voxel modelling in the volumetric recording of archaeological features",
+   "is_part_of": [
+    "ISPRS Journal of Photogrammetry and Remote Sensing"
+   ],
+   "language": "eng",
+   "volume": "76",
+   "pages": "49-55",
+   "doi": "10.1016/j.isprsjprs.2012.07.005",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Roosevelt C.H., Cobb P., Moss E., Olson B.R., Ünlüsoy S. 2015, *Excavation is destruction digitization: Advances in archaeological practice*, «Journal of Field Archaeology», 40, 3, 325-346 (https://doi.org/10.1179/2042458215Y.0000000004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Roosevelt",
+     "given": "C.H."
+    },
+    {
+     "family": "Cobb",
+     "given": "P."
+    },
+    {
+     "family": "Moss",
+     "given": "E."
+    },
+    {
+     "family": "Olson",
+     "given": "B.R."
+    },
+    {
+     "family": "Ünlüsoy",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "Excavation is destruction digitization: Advances in archaeological practice",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "language": "eng",
+   "volume": "40",
+   "issue": "3",
+   "pages": "325-346",
+   "doi": "10.1179/2042458215Y.0000000004",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Sapirstein P., Murray S. 2017, *Establishing best practices for photogrammetric recording during archaeological fieldwork*, «Journal of Field Archaeology», 42, 4, 337-350 (https://doi.org/10.1080/00934690.2017.1338513).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sapirstein",
+     "given": "P."
+    },
+    {
+     "family": "Murray",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Establishing best practices for photogrammetric recording during archaeological fieldwork",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "language": "eng",
+   "volume": "42",
+   "issue": "4",
+   "pages": "337-350",
+   "doi": "10.1080/00934690.2017.1338513",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Taylor J., Dell'Unto N. 2021, *Skeuomorphism in digital archeological practice: A barrier to progress, or a vital cog in the wheels of change?*, «Open Archaeology», 7, 1, 482-498 (https://doi.org/10.1515/opar-2020-0145).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Taylor",
+     "given": "J."
+    },
+    {
+     "family": "Dell'Unto",
+     "given": "N."
+    }
+   ],
+   "date": "2021",
+   "title": "Skeuomorphism in digital archeological practice: A barrier to progress, or a vital cog in the wheels of change?",
+   "is_part_of": [
+    "Open Archaeology"
+   ],
+   "language": "eng",
+   "volume": "7",
+   "issue": "1",
+   "pages": "482-498",
+   "doi": "10.1515/opar-2020-0145",
+   "confidence": "high"
+  }
+ ]
+}

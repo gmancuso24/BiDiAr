@@ -1,0 +1,490 @@
+{
+ "citing_aec_id": 1164,
+ "source_file": "data/journal/32/1164.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bartolucci D. 2009, Principi di Laser scanning 3D, Palermo, Dario Flaccovio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bartolucci",
+     "given": "D."
+    }
+   ],
+   "date": "2009",
+   "title": "Principi di Laser scanning 3D",
+   "publisher": "Dario Flaccovio",
+   "place": "Palermo",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bennardi D., Furferi R. 2007, Restauro virtuale, Tra ideologia e metodologia, Firenze, Artedata.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bennardi",
+     "given": "D."
+    },
+    {
+     "family": "Furferi",
+     "given": "R."
+    }
+   ],
+   "date": "2007",
+   "title": "Restauro virtuale, Tra ideologia e metodologia",
+   "publisher": "Artedata",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bernardini F., Rushmeier H.E. 2000, 3D Model acquisition, in Eurographics 2000. State of the Art Reports Proceedings (Interlaken 2000), Interlaken (Switzerland), Eurographics Association.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bernardini",
+     "given": "F."
+    },
+    {
+     "family": "Rushmeier",
+     "given": "H.E."
+    }
+   ],
+   "date": "2000",
+   "title": "3D Model acquisition",
+   "is_part_of": [
+    "Eurographics 2000. State of the Art Reports Proceedings (Interlaken 2000)"
+   ],
+   "publisher": "Eurographics Association",
+   "place": "Interlaken (Switzerland)",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bianchini M. 2009, Manuale di rilievo digitale in Archeologia, Roma, Aracne.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bianchini",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Manuale di rilievo digitale in Archeologia",
+   "publisher": "Aracne",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Cuomo di Caprio N. 2007, Ceramiche in Archeologia 2. Antiche tecniche di lavorazione e moderni metodi di indagine, Roma, L'Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cuomo di Caprio",
+     "given": "N."
+    }
+   ],
+   "date": "2007",
+   "title": "Ceramiche in Archeologia 2. Antiche tecniche di lavorazione e moderni metodi di indagine",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Gabellone F. 2010, Metodologie integrate per la conoscenza dello stato attuale e lo studio ricostruttivo dei Beni Culturali, in F. D'Andria, D. Malfitana, N. Masini, G. Scardozzi (eds.), Il dialogo dei saperi, metodologie integrate per i Beni Culturali, Napoli, Edizioni Scientifiche Italiane, 496-497.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gabellone",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Malfitana",
+     "given": "D."
+    },
+    {
+     "family": "Masini",
+     "given": "N."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "Metodologie integrate per la conoscenza dello stato attuale e lo studio ricostruttivo dei Beni Culturali",
+   "is_part_of": [
+    "Il dialogo dei saperi, metodologie integrate per i Beni Culturali"
+   ],
+   "pages": "496-497",
+   "publisher": "Edizioni Scientifiche Italiane",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Gabellone F. 2020, Archeologia virtuale. Teoria, tecniche e casi di studio, Bari, Edizioni del Grifo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gabellone",
+     "given": "F."
+    }
+   ],
+   "date": "2020",
+   "title": "Archeologia virtuale. Teoria, tecniche e casi di studio",
+   "publisher": "Edizioni del Grifo",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Johannowsky W. 1989, Capua antica, Napoli, Banco di Napoli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Johannowsky",
+     "given": "W."
+    }
+   ],
+   "date": "1989",
+   "title": "Capua antica",
+   "publisher": "Banco di Napoli",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Kästner V. 1984, Archaische Frauenkopfantefixe aus Capua, «Forschungen und Berichte», 24, 66-74.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kästner",
+     "given": "V."
+    }
+   ],
+   "date": "1984",
+   "title": "Archaische Frauenkopfantefixe aus Capua",
+   "is_part_of": [
+    "Forschungen und Berichte"
+   ],
+   "volume": "24",
+   "pages": "66-74",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Koch H. 1912, Dachterrakotten aus Campanien mit Ausschluss von Pompeii, Berlin, Druck und Verlag von Georg Reimer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Koch",
+     "given": "H."
+    }
+   ],
+   "date": "1912",
+   "title": "Dachterrakotten aus Campanien mit Ausschluss von Pompeii",
+   "publisher": "Druck und Verlag von Georg Reimer",
+   "place": "Berlin",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Limoncelli M. 2011, Applicazioni digitali per l'Archeologia: il restauro virtuale, «Digitalia», 6, 1, 42-59.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Limoncelli",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "Applicazioni digitali per l'Archeologia: il restauro virtuale",
+   "is_part_of": [
+    "Digitalia"
+   ],
+   "volume": "6",
+   "issue": "1",
+   "pages": "42-59",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Limoncelli M. 2012, Il restauro virtuale in archeologia, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Limoncelli",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Il restauro virtuale in archeologia",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Migliari R. (ed.) 2001, Frontiere del rilievo. Dalla matita alle scansioni 3D, Roma, Gangemi.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Migliari",
+     "given": "R."
+    }
+   ],
+   "date": "2001",
+   "title": "Frontiere del rilievo. Dalla matita alle scansioni 3D",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Minervini G. 1880, Terrecotte del Museo Campano, I, II. Terrecotte di arcaico lavoro greco, Napoli, Tipografia Rondinella.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Minervini",
+     "given": "G."
+    }
+   ],
+   "date": "1880",
+   "title": "Terrecotte del Museo Campano, I, II. Terrecotte di arcaico lavoro greco",
+   "publisher": "Tipografia Rondinella",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Mingazzini P. 1938, Il santuario della dea Marica alle foci del Garigliano, «Monumenti Antichi. Accademia Nazionale dei Lincei», 37, col. 693-984.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mingazzini",
+     "given": "P."
+    }
+   ],
+   "date": "1938",
+   "title": "Il santuario della dea Marica alle foci del Garigliano",
+   "is_part_of": [
+    "Monumenti Antichi. Accademia Nazionale dei Lincei"
+   ],
+   "volume": "37",
+   "pages": "693-984",
+   "language": "ita",
+   "notes": "pages cited as \"col. 693-984\"",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Peloso D. 2005, Tecniche laser scanning per il rilievo dei Beni Culturali, «Archeologia e Calcolatori», 16, 199-224 (http://www.archcalc.cnr.it/indice/PDF16/PELOSO199-224.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peloso",
+     "given": "D."
+    }
+   ],
+   "date": "2005",
+   "title": "Tecniche laser scanning per il rilievo dei Beni Culturali",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "199-224",
+   "language": "ita",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF16/PELOSO199-224.pdf",
+   "cited_aec_id": 411,
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Rescigno C. 1998, Tetti campani. Età arcaica: Cuma, Pitecusa e gli altri contesti, Roma, Giorgio Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rescigno",
+     "given": "C."
+    }
+   ],
+   "date": "1998",
+   "title": "Tetti campani. Età arcaica: Cuma, Pitecusa e gli altri contesti",
+   "publisher": "Giorgio Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Rescigno C. 2009, Un bosco di madri. Capua, il santuario di fondo Patturelli tra documenti e contesti, in M.L. Chirico, R. Cioffi, S. Quilici Gigli, G. Spinazzola Pignatelli (eds.), Lungo l'Appia. Scritti su Capua antica e dintorni, Napoli, Giannini Editore, 29-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rescigno",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Chirico",
+     "given": "M.L."
+    },
+    {
+     "family": "Cioffi",
+     "given": "R."
+    },
+    {
+     "family": "Quilici Gigli",
+     "given": "S."
+    },
+    {
+     "family": "Spinazzola Pignatelli",
+     "given": "G."
+    }
+   ],
+   "date": "2009",
+   "title": "Un bosco di madri. Capua, il santuario di fondo Patturelli tra documenti e contesti",
+   "is_part_of": [
+    "Lungo l'Appia. Scritti su Capua antica e dintorni"
+   ],
+   "pages": "29-40",
+   "publisher": "Giannini Editore",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Rocchini C., Cignoni P., Montani C., Pingi P., Scopigno R. 2001, A suite of tools for the management of 3D scanned data, in Italy-Canada Workshop on 3D Digital Imaging and Modeling (Padua 2001), Quebec city, IEEE Press.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rocchini",
+     "given": "C."
+    },
+    {
+     "family": "Cignoni",
+     "given": "P."
+    },
+    {
+     "family": "Montani",
+     "given": "C."
+    },
+    {
+     "family": "Pingi",
+     "given": "P."
+    },
+    {
+     "family": "Scopigno",
+     "given": "R."
+    }
+   ],
+   "date": "2001",
+   "title": "A suite of tools for the management of 3D scanned data",
+   "is_part_of": [
+    "Italy-Canada Workshop on 3D Digital Imaging and Modeling (Padua 2001)"
+   ],
+   "publisher": "IEEE Press",
+   "place": "Quebec city",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Strassoldo R. 2007, Le carte del restauro. I criteri per gli interventi di recupero dei beni architettonici, Udine, Forum Edizioni.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Strassoldo",
+     "given": "R."
+    }
+   ],
+   "date": "2007",
+   "title": "Le carte del restauro. I criteri per gli interventi di recupero dei beni architettonici",
+   "publisher": "Forum Edizioni",
+   "place": "Udine",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Vaccari M.G. (ed.) 1996, La scultura in terracotta: tecniche e conservazione, Firenze, Centro Di Edizioni.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Vaccari",
+     "given": "M.G."
+    }
+   ],
+   "date": "1996",
+   "title": "La scultura in terracotta: tecniche e conservazione",
+   "publisher": "Centro Di Edizioni",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Winter N.A. 1978, Archaic architectural terracottas decorated with human heads, «Römische Mitteilungen», 85, 27-58.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Winter",
+     "given": "N.A."
+    }
+   ],
+   "date": "1978",
+   "title": "Archaic architectural terracottas decorated with human heads",
+   "is_part_of": [
+    "Römische Mitteilungen"
+   ],
+   "volume": "85",
+   "pages": "27-58",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Winter N.A. 1993, Greek Architectural Terracottas, from the Prehistoric to the End of the Archaic Period, Oxford, Clarendon Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Winter",
+     "given": "N.A."
+    }
+   ],
+   "date": "1993",
+   "title": "Greek Architectural Terracottas, from the Prehistoric to the End of the Archaic Period",
+   "publisher": "Clarendon Press",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

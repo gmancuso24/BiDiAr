@@ -1,0 +1,417 @@
+{
+ "citing_aec_id": 796,
+ "source_file": "data/journal/26/796.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Aldrovandi M., Bogdani J. 2009, WebGIS, in E. Giorgi (ed.), Groma 2. In profondità senza scavare. Metodologie di indagine non invasiva e diagnostica per l’archeologia, Bologna, BraDypUS, 477-480.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Aldrovandi",
+     "given": "M."
+    },
+    {
+     "family": "Bogdani",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giorgi",
+     "given": "E."
+    }
+   ],
+   "date": "2009",
+   "title": "WebGIS",
+   "is_part_of": [
+    "Groma 2. In profondità senza scavare. Metodologie di indagine non invasiva e diagnostica per l’archeologia"
+   ],
+   "pages": "477-480",
+   "publisher": "BraDypUS",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bogdani J. 2009, Banche dati archeologiche, in E. Giorgi (ed.), Groma 2. In profondità senza scavare. Metodologie di indagine non invasiva e diagnostica per l’archeologia, Bologna, BraDypUS, 439-452.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giorgi",
+     "given": "E."
+    }
+   ],
+   "date": "2009",
+   "title": "Banche dati archeologiche",
+   "is_part_of": [
+    "Groma 2. In profondità senza scavare. Metodologie di indagine non invasiva e diagnostica per l’archeologia"
+   ],
+   "pages": "439-452",
+   "publisher": "BraDypUS",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Cattani M. 2011, Contributo alla definizione della fase iniziale della media età del Bronzo in Italia centro-settentrionale: le impugnature con appendice ad ascia, «IpoTESI di Preistoria», 4, 2, 63-87.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "Contributo alla definizione della fase iniziale della media età del Bronzo in Italia centro-settentrionale: le impugnature con appendice ad ascia",
+   "is_part_of": [
+    "IpoTESI di Preistoria"
+   ],
+   "volume": "4",
+   "issue": "2",
+   "pages": "63-87",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Cattani M. c.s. a, Aspetti culturali e identità sfumate nell’età del Bronzo dell’Emilia Romagna, in Atti della XLV Riunione Scientifica IIPP “Preistoria e Protostoria dell’Emilia Romagna” (Modena 2010), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Aspetti culturali e identità sfumate nell’età del Bronzo dell’Emilia Romagna",
+   "is_part_of": [
+    "Atti della XLV Riunione Scientifica IIPP “Preistoria e Protostoria dell’Emilia Romagna” (Modena 2010)"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title (also on the author's publication list): no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Cattani M. c.s. b, Experimental Archaeology at the University of Bologna, widening and opening the archaeological research, in Groma 3, Bologna, BraDypUS, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Experimental Archaeology at the University of Bologna, widening and opening the archaeological research",
+   "is_part_of": [
+    "Groma 3"
+   ],
+   "publisher": "BraDypUS",
+   "place": "Bologna",
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched: M. Cattani, \"Experimental Archaeology at the University of Bologna, widening and opening archaeological research\", Groma: Documenting Archaeology, vol. 1 (Archaeopress, 28 March 2016), DOI 10.12977/groma1 (pages not found); container differs from the citation (Groma 3, BraDypUS): not applied",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Cattani M., De Marinis R.C., Mantegari G., Vizzari G. 2007, Towards a web-based environment for Italian Prehistory and Protohistory, in J.T. Clark, E.M. Hagemeister (eds.), Digital Discovery. Exploring New Frontiers in Human Heritage. CAA 2006, Computer Applications and Quantitative Methods in Archaeology, Budapest, Archaeolingua, 18-21.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    },
+    {
+     "family": "De Marinis",
+     "given": "R.C."
+    },
+    {
+     "family": "Mantegari",
+     "given": "G."
+    },
+    {
+     "family": "Vizzari",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Clark",
+     "given": "J.T."
+    },
+    {
+     "family": "Hagemeister",
+     "given": "E.M."
+    }
+   ],
+   "date": "2007",
+   "title": "Towards a web-based environment for Italian Prehistory and Protohistory",
+   "is_part_of": [
+    "Digital Discovery. Exploring New Frontiers in Human Heritage. CAA 2006, Computer Applications and Quantitative Methods in Archaeology"
+   ],
+   "pages": "18-21",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Cavani V., Mosca A., Rondelli B. 2009, Rappresentazione della conoscenza e classificazione ceramica, «IpoTESI di Preistoria», 2, 1, 147-165.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cavani",
+     "given": "V."
+    },
+    {
+     "family": "Mosca",
+     "given": "A."
+    },
+    {
+     "family": "Rondelli",
+     "given": "B."
+    }
+   ],
+   "date": "2009",
+   "title": "Rappresentazione della conoscenza e classificazione ceramica",
+   "is_part_of": [
+    "IpoTESI di Preistoria"
+   ],
+   "volume": "2",
+   "issue": "1",
+   "pages": "147-165",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Cocchi Genick D. 2001, Classificazione tipologica e processi storici. Le ceramiche della facies di Grotta Nuova, Viareggio (LU), Baroni.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cocchi Genick",
+     "given": "D."
+    }
+   ],
+   "date": "2001",
+   "title": "Classificazione tipologica e processi storici. Le ceramiche della facies di Grotta Nuova",
+   "publisher": "Baroni",
+   "place": "Viareggio (LU)",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "D’Andrea A. 2006, Documentazione archeologica, standard e trattamento informatico, Budapest, Archaeolingua (http://docenti2.unior.it/doc_db/doc_obj_18122_25-03-2011_4d8c69c14d60e.pdf; ultimo accesso 13/03/2015).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    }
+   ],
+   "date": "2006",
+   "title": "Documentazione archeologica, standard e trattamento informatico",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "ita",
+   "uri": "http://docenti2.unior.it/doc_db/doc_obj_18122_25-03-2011_4d8c69c14d60e.pdf",
+   "notes": "last access 13/03/2015",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Debandi F. 2009, Il manico a nastro non distinta o con estremità a rotolo come indicatore delle prime fasi dell’età del Bronzo medio, in Atti della Giornata di studi “La Romagna nell’età del Bronzo” (Ravenna, Solarolo 2008), «IpoTESI di Preistoria», 1, 197-216.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Debandi",
+     "given": "F."
+    }
+   ],
+   "date": "2009",
+   "title": "Il manico a nastro non distinta o con estremità a rotolo come indicatore delle prime fasi dell’età del Bronzo medio",
+   "is_part_of": [
+    "Atti della Giornata di studi “La Romagna nell’età del Bronzo” (Ravenna, Solarolo 2008)",
+    "IpoTESI di Preistoria"
+   ],
+   "volume": "1",
+   "pages": "197-216",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Macchi Janica G. 1999, Las bases de datos en la investigación arqueológica, Barranquilla (Colombia), Uninorte.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Macchi Janica",
+     "given": "G."
+    }
+   ],
+   "date": "1999",
+   "title": "Las bases de datos en la investigación arqueológica",
+   "publisher": "Uninorte",
+   "place": "Barranquilla (Colombia)",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Mantegari G., Quirino T. 2005, Un database relazionale per la gestione dei dati di scavo. Analisi, programmazione e sperimentazione nell’ambito delle ricerche della Cattedra di Preistoria e Protostoria dell’Università di Milano, «Notizie Archeologiche Bergomensi», 11, 313-331.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mantegari",
+     "given": "G."
+    },
+    {
+     "family": "Quirino",
+     "given": "T."
+    }
+   ],
+   "date": "2005",
+   "title": "Un database relazionale per la gestione dei dati di scavo. Analisi, programmazione e sperimentazione nell’ambito delle ricerche della Cattedra di Preistoria e Protostoria dell’Università di Milano",
+   "is_part_of": [
+    "Notizie Archeologiche Bergomensi"
+   ],
+   "volume": "11",
+   "pages": "313-331",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Peroni R. 1998, Classificazione tipologica, seriazione cronologica, distribuzione geografica, «Aquileia Nostra», 69, 10-27.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peroni",
+     "given": "R."
+    }
+   ],
+   "date": "1998",
+   "title": "Classificazione tipologica, seriazione cronologica, distribuzione geografica",
+   "is_part_of": [
+    "Aquileia Nostra"
+   ],
+   "volume": "69",
+   "pages": "10-27",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Roberts B.W., Vander Linden M. (eds.) 2011, Investigating Archaeological Cultures. Material Culture, Variability, and Transmission, New York, Springer.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Roberts",
+     "given": "B.W."
+    },
+    {
+     "family": "Vander Linden",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "Investigating Archaeological Cultures. Material Culture, Variability, and Transmission",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Schiffer M.B., Skibo J.M. 1997, The explanation of artifact variability, «American Antiquity», 62, 1, 27-50.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    },
+    {
+     "family": "Skibo",
+     "given": "J.M."
+    }
+   ],
+   "date": "1997",
+   "title": "The explanation of artifact variability",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "62",
+   "issue": "1",
+   "pages": "27-50",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Semeraro G. 2004, Forma e funzione: osservazioni sul rapporto fra nuovi sviluppi dell’archeologia e il linguaggio descrittivo, in P. Moscati (ed.), New Frontiers of Archaeological Research. Languages, Communication, Information Technology, «Archeologia e Calcolatori», 15, 161-183.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2004",
+   "title": "Forma e funzione: osservazioni sul rapporto fra nuovi sviluppi dell’archeologia e il linguaggio descrittivo",
+   "is_part_of": [
+    "New Frontiers of Archaeological Research. Languages, Communication, Information Technology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "15",
+   "pages": "161-183",
+   "language": "ita",
+   "cited_aec_id": 378,
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Semeraro G. 2011, Banche dati, GIS e webGIS: breve storia delle tecnologie applicate ai beni archeologici nel laboratorio di informatica per l’archeologia dell’Università del Salento, «SCIRES-IT», 1, 1, 125-144 (http://caspur-ciberpublishing.it/index.php/scires-it/article/view/9560/8929).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "Banche dati, GIS e webGIS: breve storia delle tecnologie applicate ai beni archeologici nel laboratorio di informatica per l’archeologia dell’Università del Salento",
+   "is_part_of": [
+    "SCIRES-IT"
+   ],
+   "volume": "1",
+   "issue": "1",
+   "pages": "125-144",
+   "language": "ita",
+   "uri": "http://caspur-ciberpublishing.it/index.php/scires-it/article/view/9560/8929",
+   "confidence": "high"
+  }
+ ]
+}

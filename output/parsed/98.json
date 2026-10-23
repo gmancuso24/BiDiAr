@@ -1,0 +1,304 @@
+{
+ "citing_aec_id": 98,
+ "source_file": "data/journal/5/98.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ADDYMAN P.V. 1984, York in its archaeological setting, in P.V. ADDYMAN, V.E. BLACK (eds.), Archaeological Papers from York: Papers presented to M. W. Barley, York, York Archaeological Trust.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Addyman",
+     "given": "P.V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Addyman",
+     "given": "P.V."
+    },
+    {
+     "family": "Black",
+     "given": "V.E."
+    }
+   ],
+   "date": "1984",
+   "title": "York in its archaeological setting",
+   "is_part_of": [
+    "Archaeological Papers from York: Papers presented to M. W. Barley"
+   ],
+   "place": "York",
+   "publisher": "York Archaeological Trust",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "ANDREWS G. 1984, Archaeology in York: An assessment. A survey prepared for the Ancient Monuments Inspectorate of the Department of the Environment, in P.V. ADDYMAN, V.E. BLACK (eds.), Archaeological Papers from York: Papers presented to M. W. Barley, York, York Archaeological Trust.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Andrews",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Addyman",
+     "given": "P.V."
+    },
+    {
+     "family": "Black",
+     "given": "V.E."
+    }
+   ],
+   "date": "1984",
+   "title": "Archaeology in York: An assessment. A survey prepared for the Ancient Monuments Inspectorate of the Department of the Environment",
+   "is_part_of": [
+    "Archaeological Papers from York: Papers presented to M. W. Barley"
+   ],
+   "place": "York",
+   "publisher": "York Archaeological Trust",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "FOLEY R. 1981, Off Site Archaeology and Human Adaptation in Eastern Kenya, Cambridge Monographs in African Archaeology 3, Oxford, British Archaeological Reports, International Series S97.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Foley",
+     "given": "R."
+    }
+   ],
+   "date": "1981",
+   "title": "Off Site Archaeology and Human Adaptation in Eastern Kenya",
+   "series": "BAR International Series",
+   "series_number": "S97",
+   "place": "Oxford",
+   "publisher": "British Archaeological Reports",
+   "language": "eng",
+   "notes": "also cited as Cambridge Monographs in African Archaeology 3",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "GAFFNEY V., STANCIC Z. 1991, GIS Approaches to Regional Analysis: A Case Study of the Island of Hvar, Ljubljana, Znanstveni institut Filozofske fakultete.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Stancic",
+     "given": "Z."
+    }
+   ],
+   "date": "1991",
+   "title": "GIS Approaches to Regional Analysis: A Case Study of the Island of Hvar",
+   "place": "Ljubljana",
+   "publisher": "Znanstveni institut Filozofske fakultete",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "GAFFNEY V., TINGLE M. 1985, The Maddle Farm (Berks.) project and micro-regional analysis, in S. MACREADY, F.H. THOMPSON (eds.) Archaeological Field Suroey in Britain and Abroad, London, The Society of Antiquaries of London.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Tingle",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Macready",
+     "given": "S."
+    },
+    {
+     "family": "Thompson",
+     "given": "F.H."
+    }
+   ],
+   "date": "1985",
+   "title": "The Maddle Farm (Berks.) project and micro-regional analysis",
+   "is_part_of": [
+    "Archaeological Field Survey in Britain and Abroad"
+   ],
+   "place": "London",
+   "publisher": "The Society of Antiquaries of London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "LANG N. 1993, Managing the National Heritage, paper presented at Computer Applications in Archaeology 1993, Stoke on Trent.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Lang",
+     "given": "N."
+    }
+   ],
+   "date": "1993",
+   "title": "Managing the National Heritage",
+   "is_part_of": [
+    "Computer Applications in Archaeology 1993"
+   ],
+   "place": "Stoke on Trent",
+   "language": "eng",
+   "notes": "paper presented at the conference",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "MEDYCKYJ-SCOTT D., NEWMAN I., RUGGLES C., WALKER D. 1991, Metadata in the Geosciences, Loughborough, Group D Publications Ltd.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Medyckyj-Scott",
+     "given": "D."
+    },
+    {
+     "family": "Newman",
+     "given": "I."
+    },
+    {
+     "family": "Ruggles",
+     "given": "C."
+    },
+    {
+     "family": "Walker",
+     "given": "D."
+    }
+   ],
+   "date": "1991",
+   "title": "Metadata in the Geosciences",
+   "place": "Loughborough",
+   "publisher": "Group D Publications Ltd",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "MILLER A.P. forthcoming, The York Archaeological Assessment: Computer modelling of urban deposits in the City of York, paper presented at Computer Applications in Archaeology 1993, Stoke on Trent (in press).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Miller",
+     "given": "A.P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Wilcock",
+     "given": "J."
+    },
+    {
+     "family": "Lockyear",
+     "given": "K."
+    }
+   ],
+   "date": "1995",
+   "title": "The York Archaeological Assessment: Computer modelling of urban deposits in the City of York",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1993"
+   ],
+   "series": "BAR International Series",
+   "series_number": "598",
+   "pages": "149-154",
+   "place": "Oxford",
+   "publisher": "Tempus Reparatum",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://publikationen.uni-tuebingen.de/xmlui/handle/10900/62082"
+   },
+   "notes": "cited as \"forthcoming\", paper presented at CAA 1993; published in CAA 1993 proceedings; year 1994 or 1995 depending on source (1995 used)",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "OVE ARUP 1991, York Development & Archaeology Study, Prepared by Ove Arup & Partners, Dept. of Archaeology, University of York, and Bernard Thorpe.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Ove Arup",
+     "given": ""
+    }
+   ],
+   "date": "1991",
+   "title": "York Development & Archaeology Study",
+   "language": "eng",
+   "notes": "report prepared by Ove Arup & Partners, Dept. of Archaeology, University of York, and Bernard Thorpe",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "RICHARDS J. D. 1990, Terrain modelling, deposit survival and urban archaeology, « Science and Archaeology », 32, 32-38.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Richards",
+     "given": "J.D."
+    }
+   ],
+   "date": "1990",
+   "title": "Terrain modelling, deposit survival and urban archaeology",
+   "is_part_of": [
+    "Science and Archaeology"
+   ],
+   "volume": "32",
+   "pages": "32-38",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "ROYAL COMMISSION ON THE HISTORICAL MONUMENTS OF ENGLAND (RCHME) and ENGLISH HERITAGE 1992, Thesaurus of Archaeological Site Types, London, RCHME and English Heritage.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Royal Commission on the Historical Monuments of England (RCHME)",
+     "given": ""
+    },
+    {
+     "family": "English Heritage",
+     "given": ""
+    }
+   ],
+   "date": "1992",
+   "title": "Thesaurus of Archaeological Site Types",
+   "place": "London",
+   "publisher": "RCHME and English Heritage",
+   "language": "eng",
+   "notes": "institutional authors",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "YEP 1991, York Environs Project: Inception Document, York, Dept. of Archaeology, University of York.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "York Environs Project (YEP)",
+     "given": ""
+    }
+   ],
+   "date": "1991",
+   "title": "York Environs Project: Inception Document",
+   "place": "York",
+   "publisher": "Dept. of Archaeology, University of York",
+   "language": "eng",
+   "notes": "cited as YEP; line 13 joined to previous reference",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,813 @@
+{
+ "citing_aec_id": 1049,
+ "source_file": "data/journal/30/1049.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Ammermann A.J. 1990, *On the origins of the Forum Romanum*, «American Journal of Archaeology», 94, 627-645.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ammermann",
+     "given": "A.J."
+    }
+   ],
+   "date": "1990",
+   "title": "On the origins of the Forum Romanum",
+   "is_part_of": [
+    "American Journal of Archaeology"
+   ],
+   "language": "eng",
+   "volume": "94",
+   "pages": "627-645"
+  },
+  {
+   "position": 2,
+   "raw": "Ammermann A.J., Filippi D. 2004, *Dal Tevere all'Argileto: nuove osservazioni*, «Bullettino della Commissione Archeologica Comunale di Roma», 105, 7-28.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ammermann",
+     "given": "A.J."
+    },
+    {
+     "family": "Filippi",
+     "given": "D."
+    }
+   ],
+   "date": "2004",
+   "title": "Dal Tevere all'Argileto: nuove osservazioni",
+   "is_part_of": [
+    "Bullettino della Commissione Archeologica Comunale di Roma"
+   ],
+   "language": "ita",
+   "volume": "105",
+   "pages": "7-28"
+  },
+  {
+   "position": 3,
+   "raw": "Baglioni L., Inglese C. 2015, *Il rilievo integrato come metodo di studio: il caso di San Bernardino ad Urbino*, «Disegnare. Idee, immagini», 51, 34-45.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baglioni",
+     "given": "L."
+    },
+    {
+     "family": "Inglese",
+     "given": "C."
+    }
+   ],
+   "date": "2015",
+   "title": "Il rilievo integrato come metodo di studio: il caso di San Bernardino ad Urbino",
+   "is_part_of": [
+    "Disegnare. Idee, immagini"
+   ],
+   "language": "ita",
+   "volume": "51",
+   "pages": "34-45"
+  },
+  {
+   "position": 4,
+   "raw": "Benedetti B., Gaiani M., Remondino F. (eds.) 2010, *Modelli digitali 3D in archeologia: il caso di Pompei*, Pisa, SNS.",
+   "type": "book",
+   "date": "2010",
+   "title": "Modelli digitali 3D in archeologia: il caso di Pompei",
+   "language": "ita",
+   "publisher": "SNS",
+   "place": "Pisa",
+   "editors": [
+    {
+     "family": "Benedetti",
+     "given": "B."
+    },
+    {
+     "family": "Gaiani",
+     "given": "M."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "raw": "Bianchi E. 2010, *Foro Romano. L'intervento dei Tarquini prima della Cloaca Maxima*, «Studi Romani», 58, 3-26.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bianchi",
+     "given": "E."
+    }
+   ],
+   "date": "2010",
+   "title": "Foro Romano. L'intervento dei Tarquini prima della Cloaca Maxima",
+   "is_part_of": [
+    "Studi Romani"
+   ],
+   "language": "ita",
+   "volume": "58",
+   "pages": "3-26"
+  },
+  {
+   "position": 6,
+   "raw": "Bianchi E., Antognoli L. 2014, *La Cloaca Massima dal Foro Romano al Velabro dagli studi di Heinrich Bauer alle nuove indagini*, in E. Bianchi (ed.), *La Cloaca Massima e i sistemi fognari di Roma dall'antichità ad oggi*, Roma, Palombi Editori, 109-155.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bianchi",
+     "given": "E."
+    },
+    {
+     "family": "Antognoli",
+     "given": "L."
+    }
+   ],
+   "date": "2014",
+   "title": "La Cloaca Massima dal Foro Romano al Velabro dagli studi di Heinrich Bauer alle nuove indagini",
+   "is_part_of": [
+    "La Cloaca Massima e i sistemi fognari di Roma dall'antichità ad oggi"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Bianchi",
+     "given": "E."
+    }
+   ],
+   "pages": "109-155",
+   "publisher": "Palombi Editori",
+   "place": "Roma"
+  },
+  {
+   "position": 7,
+   "raw": "Bianchini C. 2007, *Dal reale al virtuale (e ritorno): il modello ligneo di Antonio da Sangallo per il nuovo San Pietro in Vaticano*, «Disegnare. Idee, immagini», 34, 36-49.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bianchini",
+     "given": "C."
+    }
+   ],
+   "date": "2007",
+   "title": "Dal reale al virtuale (e ritorno): il modello ligneo di Antonio da Sangallo per il nuovo San Pietro in Vaticano",
+   "is_part_of": [
+    "Disegnare. Idee, immagini"
+   ],
+   "language": "ita",
+   "volume": "34",
+   "pages": "36-49"
+  },
+  {
+   "position": 8,
+   "raw": "Bianchini C., Borgogni F., Ippolito A., Senatore L.J., Capiato E., Capocefalo C., Cosentino F. 2012, *From surveying to representation. Theoretical background, practical issues, possible guidelines*, in *18th International Conference on Virtual Systems and Multimedia, Milano*, IEEE, 507-513.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bianchini",
+     "given": "C."
+    },
+    {
+     "family": "Borgogni",
+     "given": "F."
+    },
+    {
+     "family": "Ippolito",
+     "given": "A."
+    },
+    {
+     "family": "Senatore",
+     "given": "L.J."
+    },
+    {
+     "family": "Capiato",
+     "given": "E."
+    },
+    {
+     "family": "Capocefalo",
+     "given": "C."
+    },
+    {
+     "family": "Cosentino",
+     "given": "F."
+    }
+   ],
+   "date": "2012",
+   "title": "From surveying to representation. Theoretical background, practical issues, possible guidelines",
+   "is_part_of": [
+    "18th International Conference on Virtual Systems and Multimedia, Milano"
+   ],
+   "language": "eng",
+   "pages": "507-513",
+   "publisher": "IEEE"
+  },
+  {
+   "position": 9,
+   "raw": "Bianchini C., Inglese C., Ippolito A. 2017, *I teatri del Mediterraneo come esperienza di rilevamento integrato*, Roma, Sapienza Università Editrice.",
+   "type": "book",
+   "date": "2017",
+   "title": "I teatri del Mediterraneo come esperienza di rilevamento integrato",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Bianchini",
+     "given": "C."
+    },
+    {
+     "family": "Inglese",
+     "given": "C."
+    },
+    {
+     "family": "Ippolito",
+     "given": "A."
+    }
+   ],
+   "publisher": "Sapienza Università Editrice",
+   "place": "Roma"
+  },
+  {
+   "position": 10,
+   "raw": "Carandini A. 2006, *Remo e Romolo. Dai rioni dei Quiriti alla città dei Romani (775/750-700/675 a.C.)*, Roma, Einaudi.",
+   "type": "book",
+   "date": "2006",
+   "title": "Remo e Romolo. Dai rioni dei Quiriti alla città dei Romani (775/750-700/675 a.C.)",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    }
+   ],
+   "publisher": "Einaudi",
+   "place": "Roma"
+  },
+  {
+   "position": 11,
+   "raw": "Carandini A. (ed.) 2012, *Atlante di Roma antica: biografia e ritratti della città*, Roma, Electa.",
+   "type": "book",
+   "date": "2012",
+   "title": "Atlante di Roma antica: biografia e ritratti della città",
+   "language": "ita",
+   "publisher": "Electa",
+   "place": "Roma",
+   "editors": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    }
+   ]
+  },
+  {
+   "position": 12,
+   "raw": "Carandini A., Carafa P. (ed.) 2000, *Palatium e Sacra Via I. Prima delle mura, l'età delle mura e l'età delle case arcaiche*, Roma, Istituto Poligrafico e Zecca dello Stato.",
+   "type": "book",
+   "date": "2000",
+   "title": "Palatium e Sacra Via I. Prima delle mura, l'età delle mura e l'età delle case arcaiche",
+   "language": "ita",
+   "publisher": "Istituto Poligrafico e Zecca dello Stato",
+   "place": "Roma",
+   "editors": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    },
+    {
+     "family": "Carafa",
+     "given": "P."
+    }
+   ]
+  },
+  {
+   "position": 13,
+   "raw": "Carettoni G., Fabbrini L. 1961, *Esplorazione sotto la Basilica Giulia al Foro Romano*, «Rendiconti dell'Accademia Nazionale dei Lincei», 16, 51-60.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carettoni",
+     "given": "G."
+    },
+    {
+     "family": "Fabbrini",
+     "given": "L."
+    }
+   ],
+   "date": "1961",
+   "title": "Esplorazione sotto la Basilica Giulia al Foro Romano",
+   "is_part_of": [
+    "Rendiconti dell'Accademia Nazionale dei Lincei"
+   ],
+   "language": "ita",
+   "volume": "16",
+   "pages": "51-60"
+  },
+  {
+   "position": 14,
+   "raw": "Carnabuci E. 1991, *L'angolo sud-orientale del foro romano nel manoscritto inedito di Giacomo Boni*, «Memorie dell'Accademia Nazionale dei Lincei. Classe di scienze morali, storiche e filologiche», Ser. 9, V.1, fasc. 4, 249-365.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carnabuci",
+     "given": "E."
+    }
+   ],
+   "date": "1991",
+   "title": "L'angolo sud-orientale del foro romano nel manoscritto inedito di Giacomo Boni",
+   "is_part_of": [
+    "Memorie dell'Accademia Nazionale dei Lincei. Classe di scienze morali, storiche e filologiche"
+   ],
+   "language": "ita",
+   "volume": "Ser. 9, V.1",
+   "issue": "fasc. 4",
+   "pages": "249-365"
+  },
+  {
+   "position": 15,
+   "raw": "Coarelli F. 1985, *Il Foro Romano. Periodo repubblicano e augusteo*, Roma, Quasar.",
+   "type": "book",
+   "date": "1985",
+   "title": "Il Foro Romano. Periodo repubblicano e augusteo",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Coarelli",
+     "given": "F."
+    }
+   ],
+   "publisher": "Quasar",
+   "place": "Roma"
+  },
+  {
+   "position": 16,
+   "raw": "Centofanti M., Brusaporci S., Lucchese V. 2012, *Architectural heritage and 3d models*, in P. Giamberardio, D. Iacoviello, R. Natal, R.S. Tavares (eds.), *CompIMAGE 2012 Computational Modeling of Objects Presented in Images: Fundamentals, Methods and Applications, 3rd International Conference (Rome 2012)*, London, Springer, 31-49.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Centofanti",
+     "given": "M."
+    },
+    {
+     "family": "Brusaporci",
+     "given": "S."
+    },
+    {
+     "family": "Lucchese",
+     "given": "V."
+    }
+   ],
+   "date": "2012",
+   "title": "Architectural heritage and 3d models",
+   "is_part_of": [
+    "CompIMAGE 2012 Computational Modeling of Objects Presented in Images: Fundamentals, Methods and Applications, 3rd International Conference (Rome 2012)"
+   ],
+   "language": "eng",
+   "editors": [
+    {
+     "family": "Giamberardio",
+     "given": "P."
+    },
+    {
+     "family": "Iacoviello",
+     "given": "D."
+    },
+    {
+     "family": "Natal",
+     "given": "R."
+    },
+    {
+     "family": "Tavares",
+     "given": "R.S."
+    }
+   ],
+   "pages": "31-49",
+   "publisher": "Springer",
+   "place": "London"
+  },
+  {
+   "position": 17,
+   "raw": "Della Fina G.M. (ed.) 2016, *Dalla capanna al palazzo. Edilizia abitativa nell'Italia preromana, Atti del XXIII Convegno Internazionale di Studi sulla Storia e l'Archeologia dell'Etruria*, «Annali della Fondazione per il Museo Claudio Faina» XXIII.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Della Fina",
+     "given": "G.M."
+    }
+   ],
+   "date": "2016",
+   "title": "Dalla capanna al palazzo. Edilizia abitativa nell'Italia preromana, Atti del XXIII Convegno Internazionale di Studi sulla Storia e l'Archeologia dell'Etruria",
+   "is_part_of": [
+    "Annali della Fondazione per il Museo Claudio Faina"
+   ],
+   "volume": "XXIII",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "Filippi D. 2012, *Regione VIII. Forum Romanum Magnum*, in Carandini 2012, 143-206.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Filippi",
+     "given": "D."
+    }
+   ],
+   "date": "2012",
+   "title": "Regione VIII. Forum Romanum Magnum",
+   "is_part_of": [
+    "Atlante di Roma antica: biografia e ritratti della città"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    }
+   ],
+   "pages": "143-206",
+   "xref": 11
+  },
+  {
+   "position": 19,
+   "raw": "Fortini P., Taviani D. 2014, *La Sacra Via. Giacomo Boni al Foro Romano: gli scavi non documenti della Soprintendenza*, Roma, Electa.",
+   "type": "book",
+   "date": "2014",
+   "title": "La Sacra Via. Giacomo Boni al Foro Romano: gli scavi non documenti della Soprintendenza",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Fortini",
+     "given": "P."
+    },
+    {
+     "family": "Taviani",
+     "given": "D."
+    }
+   ],
+   "publisher": "Electa",
+   "place": "Roma"
+  },
+  {
+   "position": 20,
+   "raw": "Gjerstad E. 1953, *Early Rome I. Stratigraphical Researches in the Forum Romanum and along the Sacra via*, Lund, C.W.K. Gleerup.",
+   "type": "book",
+   "date": "1953",
+   "title": "Early Rome I. Stratigraphical Researches in the Forum Romanum and along the Sacra via",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Gjerstad",
+     "given": "E."
+    }
+   ],
+   "publisher": "C.W.K. Gleerup",
+   "place": "Lund"
+  },
+  {
+   "position": 21,
+   "raw": "Giuliani C.F., Verduchi P. 1993, *Basilica Iulia*, in E.M. Steinby (ed.), *Lexicon Topographicum Urbis Romae*, I, Roma, Quasar, 177-179.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giuliani",
+     "given": "C.F."
+    },
+    {
+     "family": "Verduchi",
+     "given": "P."
+    }
+   ],
+   "date": "1993",
+   "title": "Basilica Iulia",
+   "is_part_of": [
+    "Lexicon Topographicum Urbis Romae"
+   ],
+   "language": "lat",
+   "editors": [
+    {
+     "family": "Steinby",
+     "given": "E.M."
+    }
+   ],
+   "pages": "177-179",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "volume": "I"
+  },
+  {
+   "position": 22,
+   "raw": "Gonizzi Barsanti S., Remondino F., Visintini D. 2013, *3D surveying and modelling of archaeological sites: Some critical issues*, in ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XXIV International CIPA Symposium (Strasbourg 2013), II-5/W1, 145-150.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gonizzi Barsanti",
+     "given": "S."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Visintini",
+     "given": "D."
+    }
+   ],
+   "date": "2013",
+   "title": "3D surveying and modelling of archaeological sites: Some critical issues",
+   "is_part_of": [
+    "XXIV International CIPA Symposium (Strasbourg 2013)",
+    "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "II-5/W1",
+   "pages": "145-150",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Iacopi I. 1993, *Basilica Sempronia*, in E.M. Steinby (ed.), *Lexicon Topographicum Urbis Romae*, I, Roma, Quasar, 187-188.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Iacopi",
+     "given": "I."
+    }
+   ],
+   "date": "1993",
+   "title": "Basilica Sempronia",
+   "is_part_of": [
+    "Lexicon Topographicum Urbis Romae"
+   ],
+   "language": "lat",
+   "editors": [
+    {
+     "family": "Steinby",
+     "given": "E.M."
+    }
+   ],
+   "pages": "187-188",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "volume": "I"
+  },
+  {
+   "position": 24,
+   "raw": "Ippolito A., Attenni M., Bartolomei C. 2017, *Digital acquisition: Reflections on data quality*, in S. Garagnani, A. Gaucci (eds.), *Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)*, «Archeologia e Calcolatori», 28.2, 507-519.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ippolito",
+     "given": "A."
+    },
+    {
+     "family": "Attenni",
+     "given": "M."
+    },
+    {
+     "family": "Bartolomei",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Digital acquisition: Reflections on data quality",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "507-519",
+   "language": "eng",
+   "cited_aec_id": 954
+  },
+  {
+   "position": 25,
+   "raw": "Ismaelli T. 2016, *Le ricerche di Gianfilippo Carettoni e Laura Fabbrini a Hierapolis di Frigia attraverso la documentazione fotografica d'archivio, in Archeologia e documentazione fotografica d'archivio. Dal dagherrotipo all'avvento della fotografia digitale (Aquileia 2016)*, «Quaderni Friulani di Archeologia», 26, 1, 247-261.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "date": "2016",
+   "title": "Le ricerche di Gianfilippo Carettoni e Laura Fabbrini a Hierapolis di Frigia attraverso la documentazione fotografica d'archivio",
+   "is_part_of": [
+    "Quaderni Friulani di Archeologia"
+   ],
+   "language": "ita",
+   "volume": "26",
+   "issue": "1",
+   "pages": "247-261",
+   "notes": "cited with the proceedings 'Archeologia e documentazione fotografica d'archivio. Dal dagherrotipo all'avvento della fotografia digitale (Aquileia 2016)' inside the title; journal Quaderni Friulani di Archeologia, 26, 1"
+  },
+  {
+   "position": 26,
+   "raw": "Ismaelli T. 2017, *Il Tempio A nel Santuario di Apollo. Architettura, decorazione e contesto*, Hierapolis X, Istanbul, Ege Yayinlari.",
+   "type": "book",
+   "date": "2017",
+   "title": "Il Tempio A nel Santuario di Apollo. Architettura, decorazione e contesto",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "publisher": "Ege Yayinlari",
+   "place": "Istanbul",
+   "series": "Hierapolis",
+   "series_number": "X"
+  },
+  {
+   "position": 27,
+   "raw": "Lanciani R. 2000, *Storia degli scavi di Roma e notizie intorno le collezioni romane di Antichità* VI, Roma, Quasar.",
+   "type": "book",
+   "date": "2000",
+   "title": "Storia degli scavi di Roma e notizie intorno le collezioni romane di Antichità VI",
+   "language": "ita",
+   "creators": [
+    {
+     "family": "Lanciani",
+     "given": "R."
+    }
+   ],
+   "publisher": "Quasar",
+   "place": "Roma",
+   "notes": "cited with 'VI' (volume)"
+  },
+  {
+   "position": 28,
+   "raw": "Manferdini A.M., Russo M. 2013, *Multi-scalar 3D digitization of Cultural Heritage using a low-cost integrated approach*, in *2013 Digital Heritage International Congress (Marseille 2013)*, IEEE, 153-160.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Manferdini",
+     "given": "A.M."
+    },
+    {
+     "family": "Russo",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Multi-scalar 3D digitization of Cultural Heritage using a low-cost integrated approach",
+   "is_part_of": [
+    "2013 Digital Heritage International Congress (Marseille 2013)"
+   ],
+   "language": "eng",
+   "pages": "153-160",
+   "publisher": "IEEE"
+  },
+  {
+   "position": 29,
+   "raw": "Nielsen I., Poulsen P. 1992, *The Temple of Castor and Pollux 1. The Pre-Augustan Temple Phases with Related Decorative Elements*, Roma, De Luca.",
+   "type": "book",
+   "date": "1992",
+   "title": "The Temple of Castor and Pollux 1. The Pre-Augustan Temple Phases with Related Decorative Elements",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Nielsen",
+     "given": "I."
+    },
+    {
+     "family": "Poulsen",
+     "given": "P."
+    }
+   ],
+   "publisher": "De Luca",
+   "place": "Roma"
+  },
+  {
+   "position": 30,
+   "raw": "Saygi G., Remondino F. 2013, *Management of architectural heritage information in BIM and GIS: State-of-the-art and future perspectives*, «International Journal of Heritage in the Digital Era», 2.4, 695-713.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Saygi",
+     "given": "G."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2013",
+   "title": "Management of architectural heritage information in BIM and GIS: State-of-the-art and future perspectives",
+   "is_part_of": [
+    "International Journal of Heritage in the Digital Era"
+   ],
+   "language": "eng",
+   "volume": "2",
+   "issue": "4",
+   "pages": "695-713",
+   "notes": "cited '2.4'"
+  },
+  {
+   "position": 31,
+   "raw": "Sisani S. 2004, *Il Foro Romano*, in F. Coarelli (ed.), *Gli scavi di Roma 1878-1921* (LTVR Suppl. I.1), Roma, Quasar, 59-68.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sisani",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Il Foro Romano",
+   "is_part_of": [
+    "Gli scavi di Roma 1878-1921 (LTVR Suppl. I.1)"
+   ],
+   "language": "ita",
+   "editors": [
+    {
+     "family": "Coarelli",
+     "given": "F."
+    }
+   ],
+   "pages": "59-68",
+   "publisher": "Quasar",
+   "place": "Roma"
+  },
+  {
+   "position": 32,
+   "raw": "Slej K., Cuhllhed M. 2008, *The Temple of Castor and Pollux II.2, Rome*, L'Erma di Bretschneider.",
+   "type": "book",
+   "date": "2008",
+   "title": "The Temple of Castor and Pollux II.2, Rome",
+   "language": "eng",
+   "creators": [
+    {
+     "family": "Slej",
+     "given": "K."
+    },
+    {
+     "family": "Cuhllhed",
+     "given": "M."
+    }
+   ],
+   "publisher": "L'Erma di Bretschneider"
+  },
+  {
+   "position": 33,
+   "raw": "Steinby E.M. (ed.) 1989, *Lacus Iuturnae 1*, Roma, De Luca.",
+   "type": "book",
+   "date": "1989",
+   "title": "Lacus Iuturnae 1",
+   "language": "ita",
+   "publisher": "De Luca",
+   "place": "Roma",
+   "editors": [
+    {
+     "family": "Steinby",
+     "given": "E.M."
+    }
+   ]
+  },
+  {
+   "position": 34,
+   "raw": "Steinby E.M. (ed.) 2012, *Lacus Iuturnae 2. Saggi degli anni 1982-1985*, Roma, Quasar.",
+   "type": "book",
+   "date": "2012",
+   "title": "Lacus Iuturnae 2. Saggi degli anni 1982-1985",
+   "language": "ita",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "editors": [
+    {
+     "family": "Steinby",
+     "given": "E.M."
+    }
+   ]
+  },
+  {
+   "position": 35,
+   "raw": "Turchetti R. 1989, *Basilica Giulia*, in *Archeologia a Roma nelle fotografie di Thomas Ashby, 1891-1930*, Napoli, Electa, 45-46.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Turchetti",
+     "given": "R."
+    }
+   ],
+   "date": "1989",
+   "title": "Basilica Giulia",
+   "is_part_of": [
+    "Archeologia a Roma nelle fotografie di Thomas Ashby, 1891-1930"
+   ],
+   "language": "ita",
+   "pages": "45-46",
+   "publisher": "Electa",
+   "place": "Napoli"
+  }
+ ]
+}

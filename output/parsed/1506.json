@@ -1,0 +1,672 @@
+{
+ "citing_aec_id": 1506,
+ "source_file": "data/journal/37/1506.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Buscemi F., Fazio L. 2024, Verso la costituzione di linee guida per l’esposizione di risorse visuali negli aggregatori europei, in Caravale, Moscati, Rossi 2024b, 483-502 (https://doi.org/10.19282/ac.35.2.2024.50).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Buscemi",
+     "given": "F."
+    },
+    {
+     "family": "Fazio",
+     "given": "L."
+    }
+   ],
+   "date": "2024",
+   "title": "Verso la costituzione di linee guida per l’esposizione di risorse visuali negli aggregatori europei",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "483-502",
+   "language": "ita",
+   "doi": "10.19282/ac.35.2.2024.50",
+   "cited_aec_id": 1370,
+   "xref": 5
+  },
+  {
+   "position": 2,
+   "raw": "Caravale A., Duran-Silva N., Grimau B., Moscati P., Rondelli B. 2023, Developing a digital archaeology classification system using Natural Language Processing and Machine Learning techniques, «Archeologia e Calcolatori», 34.2, 9-32 (https://doi.org/10.19282/ac.34.2.2023.01).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Duran-Silva",
+     "given": "N."
+    },
+    {
+     "family": "Grimau",
+     "given": "B."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Rondelli",
+     "given": "B."
+    }
+   ],
+   "date": "2023",
+   "title": "Developing a digital archaeology classification system using Natural Language Processing and Machine Learning techniques",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "34",
+   "issue": "2",
+   "pages": "9-32",
+   "language": "eng",
+   "doi": "10.19282/ac.34.2.2023.01",
+   "cited_aec_id": 1259
+  },
+  {
+   "position": 3,
+   "raw": "Caravale A., Miliani C., Moscati P., Sfameni C. 2022, La sfida delle competenze per il patrimonio culturale: complementarità, integrazione, interazione, in A. Filippetti (ed.), Le Scienze Umane, Sociali e del Patrimonio Culturale nell’era delle grandi transizioni, Roma, CNR Edizioni, 65-86.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Miliani",
+     "given": "C."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Sfameni",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Filippetti",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "La sfida delle competenze per il patrimonio culturale: complementarità, integrazione, interazione",
+   "is_part_of": [
+    "Le Scienze Umane, Sociali e del Patrimonio Culturale nell’era delle grandi transizioni"
+   ],
+   "pages": "65-86",
+   "publisher": "CNR Edizioni",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Caravale A., Moscati P., Rossi I. (eds.) 2024a, The H2IOSC project and its impact on digital antiquity within the E-RIHS infrastructure – I, «Archeologia e Calcolatori», 35.1, 515-562.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2024",
+   "title": "The H2IOSC project and its impact on digital antiquity within the E-RIHS infrastructure – I",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "1",
+   "pages": "515-562",
+   "language": "eng",
+   "notes": "section of the issue AeC 35.1 cited with its page range as a whole (eds.); not the introductory article 1311 (pp. 515-520)"
+  },
+  {
+   "position": 5,
+   "raw": "Caravale A., Moscati P., Rossi I. (eds.) 2024b, The H2IOSC project and its impact on digital antiquity within the E-RIHS infrastructure – II, «Archeologia e Calcolatori», 35.2, 463-523.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2024",
+   "title": "The H2IOSC project and its impact on digital antiquity within the E-RIHS infrastructure – II",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "463-523",
+   "language": "eng",
+   "notes": "section of the issue AeC 35.2 cited with its page range as a whole (eds.); not the introductory article 1368 (pp. 463-470)"
+  },
+  {
+   "position": 6,
+   "raw": "Caravale A., Moscati P., Rossi I. (eds.) 2025, The H2IOSC project and its impact on digital antiquity within the E-RIHS infrastructure – III, «Archeologia e Calcolatori», 36.1, 431-504.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2025",
+   "title": "The H2IOSC project and its impact on digital antiquity within the E-RIHS infrastructure – III",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "36",
+   "issue": "1",
+   "pages": "431-504",
+   "language": "eng",
+   "notes": "section of the issue AeC 36.1 cited with its page range as a whole (eds.); not the introductory article 1396 (pp. 431-434)"
+  },
+  {
+   "position": 7,
+   "raw": "Caravale A., Moscati P., Rossi I. (eds.) 2026, The H2IOSC Project and its Impact on Digital Antiquity within the E-RIHS Infrastructure, Firenze, Edizioni All’Insegna del Giglio (https://doi.org/10.19282/h2iosc.2026).",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2026",
+   "title": "The H2IOSC Project and its Impact on Digital Antiquity within the E-RIHS Infrastructure",
+   "publisher": "Edizioni All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "eng",
+   "doi": "10.19282/h2iosc.2026"
+  },
+  {
+   "position": 8,
+   "raw": "Ciotti F., Baldi A. 2022, Macchine per leggere: promuovere la lettura con il distant reading, in S. Ballerio, M. Tognini (eds.), La letteratura e la rete. Alleanze, antagonismi, strategie, «Enthymema», 30, 173-192 (https://doi.org/10.54103/2037-2426/19557).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ciotti",
+     "given": "F."
+    },
+    {
+     "family": "Baldi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ballerio",
+     "given": "S."
+    },
+    {
+     "family": "Tognini",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "Macchine per leggere: promuovere la lettura con il distant reading",
+   "is_part_of": [
+    "La letteratura e la rete. Alleanze, antagonismi, strategie",
+    "Enthymema"
+   ],
+   "volume": "30",
+   "pages": "173-192",
+   "language": "ita",
+   "doi": "10.54103/2037-2426/19557"
+  },
+  {
+   "position": 9,
+   "raw": "Mancuso G., Caravale A., D’Eredità A., Moscati P. 2025, Merging knowledge and tools in Heritage Science and Digital Archaeology. Practices from H2IOSC WP2, in S. Campana, D. Ferdani, H. Graf, G. Guidi, Z. Hegarty, S. Pescarin, F. Remondino (eds.), Digital Heritage 2025 (Siena 2025), Goslar, The Eurographic Association (https://doi.org/10.2312/dh.20253320).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mancuso",
+     "given": "G."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "D’Eredità",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Graf",
+     "given": "H."
+    },
+    {
+     "family": "Guidi",
+     "given": "G."
+    },
+    {
+     "family": "Hegarty",
+     "given": "Z."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2025",
+   "title": "Merging knowledge and tools in Heritage Science and Digital Archaeology. Practices from H2IOSC WP2",
+   "is_part_of": [
+    "Digital Heritage 2025 (Siena 2025)"
+   ],
+   "publisher": "The Eurographic Association",
+   "place": "Goslar",
+   "language": "eng",
+   "doi": "10.2312/dh.20253320"
+  },
+  {
+   "position": 10,
+   "raw": "Moscati P. 2026, Tracciare il passato, aprire il futuro: archeologia, open data e open science, in L. Cappuccini, A. Gaucci, C. Trevisanello (eds.), L’Appennino tra passato e presente: risorse, ambiente, Open Data. Atti del Workshop (Bologna 2025), Insediamenti d’Altura 3, Firenze, All’Insegna del Giglio.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cappuccini",
+     "given": "L."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Trevisanello",
+     "given": "C."
+    }
+   ],
+   "date": "2026",
+   "title": "Tracciare il passato, aprire il futuro: archeologia, open data e open science",
+   "is_part_of": [
+    "L’Appennino tra passato e presente: risorse, ambiente, Open Data. Atti del Workshop (Bologna 2025)"
+   ],
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "series": "Insediamenti d’Altura",
+   "series_number": "3"
+  },
+  {
+   "position": 11,
+   "raw": "Moscati P. in press, Archeologia digitale, letteratura scientifica e scienza aperta: il percorso di un’idea, in Dati archeologici nell’era digitale: gestione, comunicazione, sostenibilità. Atti del Convegno internazionale (Lecce 2026), «Studi di Antichità».",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Archeologia digitale, letteratura scientifica e scienza aperta: il percorso di un’idea",
+   "is_part_of": [
+    "Dati archeologici nell’era digitale: gestione, comunicazione, sostenibilità. Atti del Convegno internazionale (Lecce 2026)"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "cited \"in press\", «Studi di Antichità»; searched author + title: no publication found"
+  },
+  {
+   "position": 12,
+   "raw": "Paraciani N. 2026, Archivi e repository visuali di «Archeologia e Calcolatori», in A. Caravale (ed.), Una storia per immagini. L’archeologia digitale attraverso IADI, l’Interactive Atlas of Digital Images, Firenze, All’Insegna del Giglio, 25-38 (https://doi.org/10.19282/FA.8.2026).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Paraciani",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Caravale",
+     "given": "A."
+    }
+   ],
+   "date": "2026",
+   "title": "Archivi e repository visuali di «Archeologia e Calcolatori»",
+   "is_part_of": [
+    "Una storia per immagini. L’archeologia digitale attraverso IADI, l’Interactive Atlas of Digital Images"
+   ],
+   "pages": "25-38",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "doi": "10.19282/FA.8.2026"
+  },
+  {
+   "position": 13,
+   "raw": "Rossi I. 2025, Building an ecosystem of digital resources on the written heritage of ancient Arabia, in Caravale, Moscati, Rossi 2025, 469-480 (https://doi.org/10.19282/ac.36.1.2025.26).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "date": "2025",
+   "title": "Building an ecosystem of digital resources on the written heritage of ancient Arabia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "36",
+   "issue": "1",
+   "pages": "469-480",
+   "language": "eng",
+   "doi": "10.19282/ac.36.1.2025.26",
+   "cited_aec_id": 1400,
+   "xref": 6
+  },
+  {
+   "position": 14,
+   "raw": "Rossi I., Salvador C. 2024, An observatory of epigraphic resources on the web: The Open Digital Epigraphy Hub, in Caravale, Moscati, Rossi 2024b, 503-523 (https://doi.org/10.19282/ac.35.2.2024.51).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rossi",
+     "given": "I."
+    },
+    {
+     "family": "Salvador",
+     "given": "C."
+    }
+   ],
+   "date": "2024",
+   "title": "An observatory of epigraphic resources on the web: The Open Digital Epigraphy Hub",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "503-523",
+   "language": "eng",
+   "doi": "10.19282/ac.35.2.2024.51",
+   "cited_aec_id": 1371,
+   "xref": 5
+  },
+  {
+   "position": 15,
+   "raw": "Sansonetti A., Conti C., Botteon A., Colombo C. 2025, Characterization in Heritage Science, in Heritage Science Ontology RoundTable (‹H/SORT›) (https://hsort-ec1af2.gitlab.io/posts/heritage-characterization/; https://doi.org/10.5281/zenodo.15877897).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Sansonetti",
+     "given": "A."
+    },
+    {
+     "family": "Conti",
+     "given": "C."
+    },
+    {
+     "family": "Botteon",
+     "given": "A."
+    },
+    {
+     "family": "Colombo",
+     "given": "C."
+    }
+   ],
+   "date": "2025",
+   "title": "Characterization in Heritage Science",
+   "is_part_of": [
+    "Heritage Science Ontology RoundTable (‹H/SORT›)"
+   ],
+   "language": "eng",
+   "uri": "https://hsort-ec1af2.gitlab.io/posts/heritage-characterization/",
+   "doi": "10.5281/zenodo.15877897"
+  },
+  {
+   "position": 16,
+   "raw": "Scarpa E. 2025, Provenance and provenience, in Heritage Science Ontology RoundTable (‹H/SORT›) (https://hsort-ec1af2.gitlab.io/posts/provenance/; https://doi.org/10.5281/zenodo.15166678).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Scarpa",
+     "given": "E."
+    }
+   ],
+   "date": "2025",
+   "title": "Provenance and provenience",
+   "is_part_of": [
+    "Heritage Science Ontology RoundTable (‹H/SORT›)"
+   ],
+   "language": "eng",
+   "uri": "https://hsort-ec1af2.gitlab.io/posts/provenance/",
+   "doi": "10.5281/zenodo.15166678"
+  },
+  {
+   "position": 17,
+   "raw": "Scarpa E., Valente R. 2024, A resource hub for interoperability and data integration in Heritage Research: The H-SeTIS database, in Caravale, Moscati, Rossi 2024a, 543-562 (https://doi.org/10.19282/ac.35.1.2024.32).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scarpa",
+     "given": "E."
+    },
+    {
+     "family": "Valente",
+     "given": "R."
+    }
+   ],
+   "date": "2024",
+   "title": "A resource hub for interoperability and data integration in Heritage Research: The H-SeTIS database",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "1",
+   "pages": "543-562",
+   "language": "eng",
+   "doi": "10.19282/ac.35.1.2024.32",
+   "cited_aec_id": 1313,
+   "xref": 4
+  },
+  {
+   "position": 18,
+   "raw": "Scarpa E., Valente R. 2025, Case study #2: What is an epigraph?, in Heritage Science Ontology RoundTable (‹H/SORT›) (https://doi.org/10.5281/zenodo.15167879).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Scarpa",
+     "given": "E."
+    },
+    {
+     "family": "Valente",
+     "given": "R."
+    }
+   ],
+   "date": "2025",
+   "title": "Case study #2: What is an epigraph?",
+   "is_part_of": [
+    "Heritage Science Ontology RoundTable (‹H/SORT›)"
+   ],
+   "language": "eng",
+   "doi": "10.5281/zenodo.15167879"
+  },
+  {
+   "position": 19,
+   "raw": "Scarpa E., Valente R., Rossi I. 2025a, Modeling an ontology for Heritage Science: Challenges and key strategies, in S. Rebora, M. Rospocher, S. Bazzaco (eds.), Diversità, equità e inclusione: sfide e opportunità per l’Informatica Umanistica nell’era dell’Intelligenza Artificiale, Proceedings del XIV Convegno Annuale AIUCD2025, Quaderni di Umanistica Digitale, Verona, AIUCD, 499-504 (https://doi.org/10.5281/zenodo.18505398; https://doi.org/10.6092/unibo/amsacta/8380).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scarpa",
+     "given": "E."
+    },
+    {
+     "family": "Valente",
+     "given": "R."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rebora",
+     "given": "S."
+    },
+    {
+     "family": "Rospocher",
+     "given": "M."
+    },
+    {
+     "family": "Bazzaco",
+     "given": "S."
+    }
+   ],
+   "date": "2025",
+   "title": "Modeling an ontology for Heritage Science: Challenges and key strategies",
+   "is_part_of": [
+    "Diversità, equità e inclusione: sfide e opportunità per l’Informatica Umanistica nell’era dell’Intelligenza Artificiale, Proceedings del XIV Convegno Annuale AIUCD2025"
+   ],
+   "pages": "499-504",
+   "publisher": "AIUCD",
+   "place": "Verona",
+   "language": "eng",
+   "series": "Quaderni di Umanistica Digitale",
+   "doi": "10.5281/zenodo.18505398",
+   "uri": "https://doi.org/10.6092/unibo/amsacta/8380"
+  },
+  {
+   "position": 20,
+   "raw": "Scarpa E., Valente R., Rossi I. 2025b, ‹H/RADIOSA›: Recommended Approaches for the Development of Interoperable Open Semantic Artefacts in the Heritage Domain, in S. Campana, D. Ferdani, H. Graf, G. Guidi, Z. Hegarty, S. Pescarin, F. Remondino (eds), Digital Heritage 2025 (Siena 2025), Goslar, The Eurographics Association (https://doi.org/10.2312/dh.20253041).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scarpa",
+     "given": "E."
+    },
+    {
+     "family": "Valente",
+     "given": "R."
+    },
+    {
+     "family": "Rossi",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Graf",
+     "given": "H."
+    },
+    {
+     "family": "Guidi",
+     "given": "G."
+    },
+    {
+     "family": "Hegarty",
+     "given": "Z."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2025",
+   "title": "H/RADIOSA: Recommended Approaches for the Development of Interoperable Open Semantic Artefacts in the Heritage Domain",
+   "is_part_of": [
+    "Digital Heritage 2025 (Siena 2025)"
+   ],
+   "publisher": "The Eurographic Association",
+   "place": "Goslar",
+   "language": "eng",
+   "doi": "10.2312/dh.20253041"
+  },
+  {
+   "position": 21,
+   "raw": "Valente R. 2025, Nature and culture, in Heritage Science Ontology RoundTable (‹H/ SORT›) (https://hsort-ec1af2.gitlab.io/posts/nature-culture/; https://doi.org/10.5281/zenodo.15167149).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Valente",
+     "given": "R."
+    }
+   ],
+   "date": "2025",
+   "title": "Nature and culture",
+   "is_part_of": [
+    "Heritage Science Ontology RoundTable (‹H/SORT›)"
+   ],
+   "language": "eng",
+   "uri": "https://hsort-ec1af2.gitlab.io/posts/nature-culture/",
+   "doi": "10.5281/zenodo.15167149"
+  }
+ ]
+}

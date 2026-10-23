@@ -1,0 +1,211 @@
+{
+ "citing_aec_id": 491,
+ "source_file": "data/journal/19/491.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Clarke D.L. 1977, Spatial Analysis, New York, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1977",
+   "title": "Spatial Analysis",
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng",
+   "notes": "title as cited; likely 'Spatial Archaeology' (not corrected)",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Deplanche Y. 1991, Mémo Formulaire, Paris, Éditions Casteilla.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Deplanche",
+     "given": "Y."
+    }
+   ],
+   "date": "1991",
+   "title": "Mémo Formulaire",
+   "publisher": "Éditions Casteilla",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Djindjian F. 1991, Méthodes pour l’archéologie, Paris, Armand Colin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Méthodes pour l'archéologie",
+   "publisher": "Armand Colin",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Dupouey J.-L., Sciama D., Laffite J.-D., Georges-Leroy M., Dambrine E. 2006, Impact des usages agricoles antiques sur la végétation en forêt de Saint-Amond: interaction avec le traitement sylvicole actuel, in La mémoire des forêts. Actes du colloque Forêt, Archéologie et Environnement (https://www2.nancy.inra.fr/collectif/sylva2004/textes/actes/pdf_final/Dupouey_181_189.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dupouey",
+     "given": "J.-L."
+    },
+    {
+     "family": "Sciama",
+     "given": "D."
+    },
+    {
+     "family": "Laffite",
+     "given": "J.-D."
+    },
+    {
+     "family": "Georges-Leroy",
+     "given": "M."
+    },
+    {
+     "family": "Dambrine",
+     "given": "E."
+    }
+   ],
+   "date": "2006",
+   "title": "Impact des usages agricoles antiques sur la végétation en forêt de Saint-Amond: interaction avec le traitement sylvicole actuel",
+   "is_part_of": [
+    "La mémoire des forêts. Actes du colloque Forêt, Archéologie et Environnement"
+   ],
+   "uri": "https://www2.nancy.inra.fr/collectif/sylva2004/textes/actes/pdf_final/Dupouey_181_189.pdf",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Georges-Leroy M., Heckenbenner D., Laffite J.-D., Meyer N. 2006, Les parcellaires anciens fossilisés dans les forêts lorraines, in La mémoire des forêts. Actes du colloque Forêt, Archéologie et Environnement (https://www2.nancy.inra.fr/collectif/sylva2004/textes/actes/pdf_final/Georges_Leroy_121_131.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Georges-Leroy",
+     "given": "M."
+    },
+    {
+     "family": "Heckenbenner",
+     "given": "D."
+    },
+    {
+     "family": "Laffite",
+     "given": "J.-D."
+    },
+    {
+     "family": "Meyer",
+     "given": "N."
+    }
+   ],
+   "date": "2006",
+   "title": "Les parcellaires anciens fossilisés dans les forêts lorraines",
+   "is_part_of": [
+    "La mémoire des forêts. Actes du colloque Forêt, Archéologie et Environnement"
+   ],
+   "uri": "https://www2.nancy.inra.fr/collectif/sylva2004/textes/actes/pdf_final/Georges_Leroy_121_131.pdf",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Kuchler P. 2004, Du redressement d’image au dessin archéologique: l’exemple du site de la rue du Docteur Joyeux à Mirecourt (Vosges), «Revue archéologique de l’Est», 53, 269-293.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kuchler",
+     "given": "P."
+    }
+   ],
+   "date": "2004",
+   "title": "Du redressement d'image au dessin archéologique: l'exemple du site de la rue du Docteur Joyeux à Mirecourt (Vosges)",
+   "is_part_of": [
+    "Revue archéologique de l'Est"
+   ],
+   "volume": "53",
+   "pages": "269-293",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Laruaz J.-M. 2005, Amboise «Les Châtelliers» (Indre-et Loire). Rapport de prospection thématique sur l’oppidum, Laboratoire Archéologie et Territoires (UMR 6173 CITERES, Université François Rabelais, Tours).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Laruaz",
+     "given": "J.-M."
+    }
+   ],
+   "date": "2005",
+   "title": "Amboise «Les Châtelliers» (Indre-et Loire). Rapport de prospection thématique sur l'oppidum",
+   "publisher": "Laboratoire Archéologie et Territoires (UMR 6173 CITERES, Université François Rabelais, Tours)",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Michler M. 2007, Relevés microtopographiques sur le site protohistorique du Hohlandsberg (Haut-Rhin), «Association pour la promotion des recherches sur l’Age du Bronze», 4, 69-71.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Michler",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Relevés microtopographiques sur le site protohistorique du Hohlandsberg (Haut-Rhin)",
+   "is_part_of": [
+    "Association pour la promotion des recherches sur l'Age du Bronze"
+   ],
+   "volume": "4",
+   "pages": "69-71",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Rassat S. 2005, Sondages archéologiques sur le site de la Chartreuse du Mont Sainte Marie-«Château des Dame» (Pas de Calais).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Rassat",
+     "given": "S."
+    }
+   ],
+   "date": "2005",
+   "title": "Sondages archéologiques sur le site de la Chartreuse du Mont Sainte Marie-«Château des Dame» (Pas de Calais)",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Raymond P. 2007, Notices sur la modélisation topographique de terrain et structures archéologiques, INRAP.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Raymond",
+     "given": "P."
+    }
+   ],
+   "date": "2007",
+   "title": "Notices sur la modélisation topographique de terrain et structures archéologiques",
+   "publisher": "INRAP",
+   "language": "fre",
+   "confidence": "high"
+  }
+ ]
+}

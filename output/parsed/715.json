@@ -1,0 +1,291 @@
+{
+ "citing_aec_id": 715,
+ "source_file": "data/journal/25/715.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Cappelletti E., Mirto G. 2004, L'oro dell'Elba Operazione Polluce, Milano, Magenes.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cappelletti",
+     "given": "E."
+    },
+    {
+     "family": "Mirto",
+     "given": "G."
+    }
+   ],
+   "date": "2004",
+   "title": "L'oro dell'Elba Operazione Polluce",
+   "publisher": "Magenes",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Corsi L. 1998, Isola di Montecristo, in Poggesi, Rendini 1998, 136-141.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Corsi",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Poggesi",
+     "given": "G."
+    },
+    {
+     "family": "Rendini",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "Isola di Montecristo",
+   "is_part_of": [
+    "Memorie Sommerse. Archeologia subacquea in Toscana"
+   ],
+   "pages": "136-141",
+   "language": "ita",
+   "xref": 8,
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Drap P. 2012, Archéologie sous-marine: relevé et réalité virtuelle pour l'étude de sites inaccessibles, in F. Giligny, L. Costa, F. Djindjian, P. Ciezar, B. Desachy (eds.), Actes des 2èmes Journées d'Informatique et Archéologie de Paris - JIAP 2010 (Paris 2010), «Archeologia e Calcolatori», Suppl. 3, 427-439.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Drap",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giligny",
+     "given": "F."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Ciezar",
+     "given": "P."
+    },
+    {
+     "family": "Desachy",
+     "given": "B."
+    }
+   ],
+   "date": "2012",
+   "title": "Archéologie sous-marine: relevé et réalité virtuelle pour l'étude de sites inaccessibles",
+   "is_part_of": [
+    "Actes des 2èmes Journées d'Informatique et Archéologie de Paris - JIAP 2010 (Paris 2010)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 3",
+   "pages": "427-439",
+   "language": "fre",
+   "cited_aec_id": 659,
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Firmati M. 1998, Il relitto di Capo Enfola all'Elba, in Poggesi, Rendini 1998, 148-156.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Firmati",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Poggesi",
+     "given": "G."
+    },
+    {
+     "family": "Rendini",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "Il relitto di Capo Enfola all'Elba",
+   "is_part_of": [
+    "Memorie Sommerse. Archeologia subacquea in Toscana"
+   ],
+   "pages": "148-156",
+   "language": "ita",
+   "xref": 8,
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "La Monica D. et al. 2013, Thesaurus: un sistema per la conoscenza del patrimonio sommerso, «Scires», 3, 1, 57-66.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "La Monica",
+     "given": "D."
+    }
+   ],
+   "date": "2013",
+   "title": "Thesaurus: un sistema per la conoscenza del patrimonio sommerso",
+   "is_part_of": [
+    "Scires"
+   ],
+   "volume": "3",
+   "issue": "1",
+   "pages": "57-66",
+   "language": "ita",
+   "notes": "cited with 'et al.': only the first author",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Massa M. 1999, Precisazioni in margine al relitto di Chiessi, «Rassegna di Archeologia», 16, 259-290.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Massa",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Precisazioni in margine al relitto di Chiessi",
+   "is_part_of": [
+    "Rassegna di Archeologia"
+   ],
+   "volume": "16",
+   "pages": "259-290",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Pferdehirt B. 2000, Die Bilddatenbank NAVIS 1 im Internet http://www.waterland.net/navis, «Skyllis», 3, 1, 54-57.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pferdehirt",
+     "given": "B."
+    }
+   ],
+   "date": "2000",
+   "title": "Die Bilddatenbank NAVIS 1 im Internet",
+   "is_part_of": [
+    "Skyllis"
+   ],
+   "volume": "3",
+   "issue": "1",
+   "pages": "54-57",
+   "uri": "http://www.waterland.net/navis",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Poggesi G., Rendini P. (eds.) 1998, Memorie Sommerse. Archeologia subacquea in Toscana, catalogo della mostra, Grosseto, Amministrazione provinciale di Grosseto.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Poggesi",
+     "given": "G."
+    },
+    {
+     "family": "Rendini",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "Memorie Sommerse. Archeologia subacquea in Toscana, catalogo della mostra",
+   "publisher": "Amministrazione provinciale di Grosseto",
+   "place": "Grosseto",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Romualdi A. et al. 1990, Relitto del Pozzino (B del Golfo di Baratti), catalogo della mostra, Firenze, Edizioni Zeta.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Romualdi",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "Relitto del Pozzino (B del Golfo di Baratti), catalogo della mostra",
+   "publisher": "Edizioni Zeta",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "cited with 'et al.': only the first author",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Romualdi A. 2007, Populonia nella rete dei traffici del Mediterraneo nel II sec. a.C.: il relitto del Pozzino nel golfo di Baratti, in M. Firmati (ed.), Coste e Mari della Toscana. Archeologia e storia di una regione nel Mediterraneo. Atti del Convegno (Livorno 2007), Ospedaletto (PI), Pacini Editore, 29-33.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Romualdi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Firmati",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Populonia nella rete dei traffici del Mediterraneo nel II sec. a.C.: il relitto del Pozzino nel golfo di Baratti",
+   "is_part_of": [
+    "Coste e Mari della Toscana. Archeologia e storia di una regione nel Mediterraneo. Atti del Convegno (Livorno 2007)"
+   ],
+   "pages": "29-33",
+   "publisher": "Pacini Editore",
+   "place": "Ospedaletto (PI)",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Tondo L. 1998, Le monete della Meloria, in Poggesi, Rendini 1998, 38-45.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tondo",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Poggesi",
+     "given": "G."
+    },
+    {
+     "family": "Rendini",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "Le monete della Meloria",
+   "is_part_of": [
+    "Memorie Sommerse. Archeologia subacquea in Toscana"
+   ],
+   "pages": "38-45",
+   "language": "ita",
+   "xref": 8,
+   "confidence": "high"
+  }
+ ]
+}

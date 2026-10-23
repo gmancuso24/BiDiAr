@@ -1,0 +1,101 @@
+{
+ "citing_aec_id": 110,
+ "source_file": "data/journal/6/110.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "DJINDJIAN F. 1991, Méthodes pour l’archéologie, Paris, Colin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Méthodes pour l’archéologie",
+   "place": "Paris",
+   "publisher": "Colin",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "FRANCOVICH R., PARENTI R. 1987 (edd.), Archeologia e restauro dei monumenti. I ciclo di lezioni sulla ricerca applicata in archeologia. Certosa di Pontignano (Siena 1987), Firenze, All’Insegna del Giglio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Parenti",
+     "given": "R."
+    }
+   ],
+   "date": "1987",
+   "title": "Archeologia e restauro dei monumenti. I ciclo di lezioni sulla ricerca applicata in archeologia. Certosa di Pontignano (Siena 1987)",
+   "place": "Firenze",
+   "publisher": "All’Insegna del Giglio",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "GARDIN J.-Cl. 1980, Archaeological Constructs, Cambridge-Paris, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-Cl."
+    }
+   ],
+   "date": "1980",
+   "title": "Archaeological Constructs",
+   "place": "Cambridge-Paris",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "GOTTARELLI A. 1992, La Video-documentazione elettronica dello scavo archeologico. Studi ed esperienze per il progetto di una periferica dedicata, «Archeologia e Calcolatori», 3, 77-99.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "date": "1992",
+   "title": "La Video-documentazione elettronica dello scavo archeologico. Studi ed esperienze per il progetto di una periferica dedicata",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "3",
+   "pages": "77-99",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "ORLANDI T. 1993, Sulla codifica delle fonti archeologiche, «Archeologia e Calcolatori», 4, 27-37.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "1993",
+   "title": "Sulla codifica delle fonti archeologiche",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "27-37",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

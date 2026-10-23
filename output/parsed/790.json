@@ -1,0 +1,2037 @@
+{
+ "citing_aec_id": 790,
+ "source_file": "data/journal/26/790.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Ackerman J. 2003, Architettura e disegno, Milà, Electa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ackerman",
+     "given": "J."
+    }
+   ],
+   "date": "2003",
+   "title": "Architettura e disegno",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita",
+   "notes": "place cited as \"Milà\"",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Alegre E., Campos D. 2004, Realidad virtual y reconstrucción 3-D: ¿arqueología o ciéncia ficción?. Actas del I Encuentro Internacional de Informática Aplicada a la Investigación y Gestión Arqueológicas (Córdoba 2003), Córdoba, Universidad de Córdoba, 419-422.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Alegre",
+     "given": "E."
+    },
+    {
+     "family": "Campos",
+     "given": "D."
+    }
+   ],
+   "date": "2004",
+   "title": "Realidad virtual y reconstrucción 3-D: ¿arqueología o ciéncia ficción?",
+   "is_part_of": [
+    "Actas del I Encuentro Internacional de Informática Aplicada a la Investigación y Gestión Arqueológicas (Córdoba 2003)"
+   ],
+   "pages": "419-422",
+   "publisher": "Universidad de Córdoba",
+   "place": "Córdoba",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Almagro Gorbea A. 1991, Un sistema informático de documentación arqueológica en la Escuela de Estudios Árabes (CSIC) de Granada, «Complutum», 1, 271-280.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Almagro Gorbea",
+     "given": "A."
+    }
+   ],
+   "date": "1991",
+   "title": "Un sistema informático de documentación arqueológica en la Escuela de Estudios Árabes (CSIC) de Granada",
+   "is_part_of": [
+    "Complutum"
+   ],
+   "volume": "1",
+   "pages": "271-280",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Almagro Gorbea A. 2004, Levantamiento arquitectónico, Granada, Universidad de Granada.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Almagro Gorbea",
+     "given": "A."
+    }
+   ],
+   "date": "2004",
+   "title": "Levantamiento arquitectónico",
+   "publisher": "Universidad de Granada",
+   "place": "Granada",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Almagro Gorbea A. 2010, Veintidós años de experiencia de fotogrametría arquitectónica en la Escuela de Estudios Árabes, in Jornadas sobre Documentación Gráfica del Patrimonio Histórico. Presente y Futuro, Madrid, CSIC, 26-45.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Almagro Gorbea",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Veintidós años de experiencia de fotogrametría arquitectónica en la Escuela de Estudios Árabes",
+   "is_part_of": [
+    "Jornadas sobre Documentación Gráfica del Patrimonio Histórico. Presente y Futuro"
+   ],
+   "pages": "26-45",
+   "publisher": "CSIC",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Álvarez I. et al. 2003, Diferentes propuestas para la representación geométrica de edificios históricos, «Arqueología de la Arquitectura», 2, 9-12.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Álvarez",
+     "given": "I."
+    }
+   ],
+   "date": "2003",
+   "title": "Diferentes propuestas para la representación geométrica de edificios históricos",
+   "is_part_of": [
+    "Arqueología de la Arquitectura"
+   ],
+   "volume": "2",
+   "pages": "9-12",
+   "language": "spa",
+   "notes": "further authors cited as \"et al.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Anderson R. 1983, Photogrammetry: The pros and cons for archaeology, «World Archaeology», 14, 200-205.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Anderson",
+     "given": "R."
+    }
+   ],
+   "date": "1983",
+   "title": "Photogrammetry: The pros and cons for archaeology",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "14",
+   "pages": "200-205",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Angelini A. et al. 2007, Tecniche speditive per la ricostruzione tridimensionale dell’area archeologica di Villa Magna, «Archeologia e Calcolatori», 18, 141-158.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Angelini",
+     "given": "A."
+    }
+   ],
+   "date": "2007",
+   "title": "Tecniche speditive per la ricostruzione tridimensionale dell’area archeologica di Villa Magna",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "18",
+   "pages": "141-158",
+   "language": "ita",
+   "cited_aec_id": 439,
+   "notes": "further authors cited as \"et al.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Arrighetti A. 2012, Tecnologie fotogrammetriche e registrazione 3D della struttura materiale: dal rilievo alla gestione dei dati, «Archeologia e Calcolatori», 23, 283-298.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Tecnologie fotogrammetriche e registrazione 3D della struttura materiale: dal rilievo alla gestione dei dati",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "283-298",
+   "language": "ita",
+   "cited_aec_id": 623,
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Arrighetti A., Cavalieri M. 2012, Il rilievo fotogrammetrico per nuvole di punti RGB della ‘sala triabsidata’ del sito archeologico di Aiano-Torraccia di Chiusi (SI), «Archeologia e Calcolatori», 23, 121-134.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    },
+    {
+     "family": "Cavalieri",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Il rilievo fotogrammetrico per nuvole di punti RGB della ‘sala triabsidata’ del sito archeologico di Aiano-Torraccia di Chiusi (SI)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "121-134",
+   "language": "ita",
+   "cited_aec_id": 612,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Asens E., García C. 2011, Aixecament fotogramètric de la garderia de l’amfiteatre romà de Tarragona (https://www.youtube.com/watch?v=hpIheMHkFu).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Asens",
+     "given": "E."
+    },
+    {
+     "family": "García",
+     "given": "C."
+    }
+   ],
+   "date": "2011",
+   "title": "Aixecament fotogramètric de la garderia de l’amfiteatre romà de Tarragona",
+   "language": "cat",
+   "uri": "https://www.youtube.com/watch?v=hpIheMHkFu",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Bacigalupo C., Cessari L., Fangi G. 2000, Rilievo, monitoraggio geometrico e rappresentazione di strutture a cupola, «Archeologia e Calcolatori», 11, 191-197.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bacigalupo",
+     "given": "C."
+    },
+    {
+     "family": "Cessari",
+     "given": "L."
+    },
+    {
+     "family": "Fangi",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Rilievo, monitoraggio geometrico e rappresentazione di strutture a cupola",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "191-197",
+   "language": "ita",
+   "cited_aec_id": 296,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Bagnolo V. 2005, Interpretazione di elementi architettonici: il disegno per modelli applicato al rilievo archeologico, Cagliari, Università di Cagliari.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bagnolo",
+     "given": "V."
+    }
+   ],
+   "date": "2005",
+   "title": "Interpretazione di elementi architettonici: il disegno per modelli applicato al rilievo archeologico",
+   "publisher": "Università di Cagliari",
+   "place": "Cagliari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Beraldin J.A. et al. 2002, Virtualizing a Byzantine crypt by combining high-resolution textures with laser scanner 3D data, in Vsmm 2002. Proceedings of the 8th International Conference on Virtual Systems and Multimedia, Creative and Digital Culture, Gyeonggju, Korea, Kiwisoft Company Ltd, 3-14.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Beraldin",
+     "given": "J.A."
+    }
+   ],
+   "date": "2002",
+   "title": "Virtualizing a Byzantine crypt by combining high-resolution textures with laser scanner 3D data",
+   "is_part_of": [
+    "Vsmm 2002. Proceedings of the 8th International Conference on Virtual Systems and Multimedia, Creative and Digital Culture"
+   ],
+   "pages": "3-14",
+   "publisher": "Kiwisoft Company Ltd",
+   "place": "Gyeonggju, Korea",
+   "language": "eng",
+   "notes": "further authors cited as \"et al.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Bianchini M. 2008, Manuale di rilievo e di documentazione digitale in archeologia, Roma, Aracne Editrice.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bianchini",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "Manuale di rilievo e di documentazione digitale in archeologia",
+   "publisher": "Aracne Editrice",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Blersch D. 2011, Il rilievo digitale con laser scanner dell’Ipogeo dei Volumni, in L. Cenciaioli (ed.), L’Ipogeo dei Volumni, Perugia, Soprintendenza per i Beni Archeologici, 315-328.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Blersch",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cenciaioli",
+     "given": "L."
+    }
+   ],
+   "date": "2011",
+   "title": "Il rilievo digitale con laser scanner dell’Ipogeo dei Volumni",
+   "is_part_of": [
+    "L’Ipogeo dei Volumni"
+   ],
+   "pages": "315-328",
+   "publisher": "Soprintendenza per i Beni Archeologici",
+   "place": "Perugia",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Bonara V. 2000, Studio per una metodologia di rilievo in campo archeologico con utilizzo di pallone frenato e fotogrammetria digitale, in Atti delle IV giornate internazionali di studi sull’area elima (Erice 2000), Pisa, Scuola Normale Superiore, 71-76.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bonara",
+     "given": "V."
+    }
+   ],
+   "date": "2000",
+   "title": "Studio per una metodologia di rilievo in campo archeologico con utilizzo di pallone frenato e fotogrammetria digitale",
+   "is_part_of": [
+    "Atti delle IV giornate internazionali di studi sull’area elima (Erice 2000)"
+   ],
+   "pages": "71-76",
+   "publisher": "Scuola Normale Superiore",
+   "place": "Pisa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Caballero L. 2006, El dibujo arqueológico: notas sobre el registro gráfico en arqueología, «Papeles del Parpal», 3, 75-95.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caballero",
+     "given": "L."
+    }
+   ],
+   "date": "2006",
+   "title": "El dibujo arqueológico: notas sobre el registro gráfico en arqueología",
+   "is_part_of": [
+    "Papeles del Parpal"
+   ],
+   "volume": "3",
+   "pages": "75-95",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Caballero L., Arce F., Feijoo S. 1996, Fotogrametría y análisis arqueológico, «Revista de Arqueología», 186, 14-25.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caballero",
+     "given": "L."
+    },
+    {
+     "family": "Arce",
+     "given": "F."
+    },
+    {
+     "family": "Feijoo",
+     "given": "S."
+    }
+   ],
+   "date": "1996",
+   "title": "Fotogrametría y análisis arqueológico",
+   "is_part_of": [
+    "Revista de Arqueología"
+   ],
+   "volume": "186",
+   "pages": "14-25",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Capra A., Dubbini M., Giorgi E. 2009, Laser scanner terrestre, in E. Giorgi (ed.), Groma 2. In profondità senza scavare, Bologna, BraDypUS, 253-256.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Capra",
+     "given": "A."
+    },
+    {
+     "family": "Dubbini",
+     "given": "M."
+    },
+    {
+     "family": "Giorgi",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giorgi",
+     "given": "E."
+    }
+   ],
+   "date": "2009",
+   "title": "Laser scanner terrestre",
+   "is_part_of": [
+    "Groma 2. In profondità senza scavare"
+   ],
+   "pages": "253-256",
+   "publisher": "BraDypUS",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Carandini A. 1981, Storie dalla terra. Manuale di scavo archeologico, Bari, De Donato.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    }
+   ],
+   "date": "1981",
+   "title": "Storie dalla terra. Manuale di scavo archeologico",
+   "publisher": "De Donato",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Carrero E. 2007, Teoría y método en la Arquitectura Medieval. Algunas reflexiones, Seminari d’estudis històrics 2007. Arqueología de la Arquitectura, Barcelona, 5-28.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Carrero",
+     "given": "E."
+    }
+   ],
+   "date": "2007",
+   "title": "Teoría y método en la Arquitectura Medieval. Algunas reflexiones",
+   "is_part_of": [
+    "Seminari d’estudis històrics 2007. Arqueología de la Arquitectura"
+   ],
+   "pages": "5-28",
+   "place": "Barcelona",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Cattani M. 2004, Il dato tridimensionale nei contesti archeologici: l’esperienza di alcune ricerche, in M. Cattani, A. Fiorini, N. Viggiani (eds.), Nuove frontiere dell’archeologia: il trattamento del dato tridimensionale. Atti del Seminario (Ravenna 2004), Bologna, Università degli Studi di Bologna, 1-12.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Viggiani",
+     "given": "N."
+    }
+   ],
+   "date": "2004",
+   "title": "Il dato tridimensionale nei contesti archeologici: l’esperienza di alcune ricerche",
+   "is_part_of": [
+    "Nuove frontiere dell’archeologia: il trattamento del dato tridimensionale. Atti del Seminario (Ravenna 2004)"
+   ],
+   "pages": "1-12",
+   "publisher": "Università degli Studi di Bologna",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Collett I. 2003, Graphic Archaeology 2003, Whiteknights, Graphics Archaeology Group.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Collett",
+     "given": "I."
+    }
+   ],
+   "date": "2003",
+   "title": "Graphic Archaeology 2003",
+   "publisher": "Graphics Archaeology Group",
+   "place": "Whiteknights",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Cundari C., Carnevali L. 2000, Il rilievo dei beni architettonici per la conservazione, Roma, Kappa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cundari",
+     "given": "C."
+    },
+    {
+     "family": "Carnevali",
+     "given": "L."
+    }
+   ],
+   "date": "2000",
+   "title": "Il rilievo dei beni architettonici per la conservazione",
+   "publisher": "Kappa",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Dallas R. 1981, Surveying whith a Camera, Photogrametry, Bristol, Association of Archaeological Illustrators and Surveyors, Technical papers 6.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "R."
+    }
+   ],
+   "date": "1981",
+   "title": "Surveying whith a Camera, Photogrametry",
+   "series": "Technical papers",
+   "series_number": "6",
+   "publisher": "Association of Archaeological Illustrators and Surveyors",
+   "place": "Bristol",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "D’Andrea A. 2008, Metodologie laser scanning per il rilievo archeologico: metodi operativi e standard di documentazione, in G. Volpe, G. De Felice, M.G. Sibilano (eds.), L’informatica e il metodo della stratigrafia, Bari, Edipuglia, 123-134.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2008",
+   "title": "Metodologie laser scanning per il rilievo archeologico: metodi operativi e standard di documentazione",
+   "is_part_of": [
+    "L’informatica e il metodo della stratigrafia"
+   ],
+   "pages": "123-134",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "de Luis I., Merrony C. 2010, Dibujo de campo y topografía para arqueólogos, Barcelona, Colección Estudios EDAR.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "de Luis",
+     "given": "I."
+    },
+    {
+     "family": "Merrony",
+     "given": "C."
+    }
+   ],
+   "date": "2010",
+   "title": "Dibujo de campo y topografía para arqueólogos",
+   "series": "Colección Estudios EDAR",
+   "place": "Barcelona",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Deonna W. 1922, L’archéologue et le photographe, «Revue Archéologique», 85-110.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Deonna",
+     "given": "W."
+    }
+   ],
+   "date": "1922",
+   "title": "L’archéologue et le photographe",
+   "is_part_of": [
+    "Revue Archéologique"
+   ],
+   "pages": "85-110",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Docci M. 2000, Strumenti didattici per il rilievo. Corso di strumenti e metodi per il rilevamento dell’architettura. Roma, Gangemi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Docci",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "Strumenti didattici per il rilievo. Corso di strumenti e metodi per il rilevamento dell’architettura",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Docci M. 2005, Metodologie innovative integrate per il rilevamento dell’architettura e dell’ambiente, Roma, Gangemi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Docci",
+     "given": "M."
+    }
+   ],
+   "date": "2005",
+   "title": "Metodologie innovative integrate per il rilevamento dell’architettura e dell’ambiente",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Docci M., Maestri D. 1984, Il rilevamento architettonico. Storia, metodi e disegno, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Docci",
+     "given": "M."
+    },
+    {
+     "family": "Maestri",
+     "given": "D."
+    }
+   ],
+   "date": "1984",
+   "title": "Il rilevamento architettonico. Storia, metodi e disegno",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Docci M., Maestri D. 1993, Storia del rilevamento architettonico e urbano, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Docci",
+     "given": "M."
+    },
+    {
+     "family": "Maestri",
+     "given": "D."
+    }
+   ],
+   "date": "1993",
+   "title": "Storia del rilevamento architettonico e urbano",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Drap P. et al. 2012, An information system for Medieval archaeology based on photogrammetry and archaeological database: The Shawbak Castle Project, in Progress in Cultural Heritage Preservation. Lecture Notes in Computer Science, 7616, 119-128.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Drap",
+     "given": "P."
+    }
+   ],
+   "date": "2012",
+   "title": "An information system for Medieval archaeology based on photogrammetry and archaeological database: The Shawbak Castle Project",
+   "is_part_of": [
+    "Progress in Cultural Heritage Preservation"
+   ],
+   "pages": "119-128",
+   "series": "Lecture Notes in Computer Science",
+   "series_number": "7616",
+   "language": "eng",
+   "notes": "further authors cited as \"et al.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Elli G. 2004, Il rilievo: le tecniche e i metodi di rilevamento, Prato, Saonara.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Elli",
+     "given": "G."
+    }
+   ],
+   "date": "2004",
+   "title": "Il rilievo: le tecniche e i metodi di rilevamento",
+   "publisher": "Saonara",
+   "place": "Prato",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Estravís L. 2007, El dibujo arqueológico, «Revista electrónica Mundo Antiguo», 5 (http://www.mundoantiguo.org/index.php?option=com_content&view=article&id=143&Itemid=60).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Estravís",
+     "given": "L."
+    }
+   ],
+   "date": "2007",
+   "title": "El dibujo arqueológico",
+   "is_part_of": [
+    "Revista electrónica Mundo Antiguo"
+   ],
+   "volume": "5",
+   "language": "spa",
+   "uri": "http://www.mundoantiguo.org/index.php?option=com_content&view=article&id=143&Itemid=60",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Fattal D. et al. 2013, A multi-directional backlight for a wide-angle, glasses-free three-dimensional display, «Nature», 495, 348-351.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fattal",
+     "given": "D."
+    }
+   ],
+   "date": "2013",
+   "title": "A multi-directional backlight for a wide-angle, glasses-free three-dimensional display",
+   "is_part_of": [
+    "Nature"
+   ],
+   "volume": "495",
+   "pages": "348-351",
+   "language": "eng",
+   "notes": "further authors cited as \"et al.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Fatuzzo G. 2002, Il disegno tecnico nelle applicazioni archeologiche, Roma, Bonanno.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fatuzzo",
+     "given": "G."
+    }
+   ],
+   "date": "2002",
+   "title": "Il disegno tecnico nelle applicazioni archeologiche",
+   "publisher": "Bonanno",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Fiorini A. 2008, Esperienze di fotomodellazione e stereofotogrammetria archeologica, in G. Volpe, G. De Felice, M.G. Sibilano (eds.), L’informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008), Bari, Edipuglia, 175-186.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    },
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2008",
+   "title": "Esperienze di fotomodellazione e stereofotogrammetria archeologica",
+   "is_part_of": [
+    "L’informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008)"
+   ],
+   "pages": "175-186",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Fiorini A. 2012, Tablet PC, fotogrammetria e pdf 3D: strumenti per documentare l’archeologia, «Archeologia e Calcolatori», 23, 213-228.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Tablet PC, fotogrammetria e pdf 3D: strumenti per documentare l’archeologia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "213-228",
+   "language": "ita",
+   "cited_aec_id": 619,
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Fiorini A., Urcia A., Archetti V. 2011, The digital 3D survey as standard documentation of the archaeological stratigraphy, in M. Dellepiane et al. (eds.), VAST 2011. The 12th International Symposium on Virtual Reality, Archaeology and Cultural Heritage (Prato 2011), Goslar, Eurographics Association, 145-152.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Urcia",
+     "given": "A."
+    },
+    {
+     "family": "Archetti",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dellepiane",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "The digital 3D survey as standard documentation of the archaeological stratigraphy",
+   "is_part_of": [
+    "VAST 2011. The 12th International Symposium on Virtual Reality, Archaeology and Cultural Heritage (Prato 2011)"
+   ],
+   "pages": "145-152",
+   "publisher": "Eurographics Association",
+   "place": "Goslar",
+   "language": "eng",
+   "notes": "editors cited as \"M. Dellepiane et al.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Flinders Petrie W.M. 1904, Methods and Aims in Archaeology, London, Macmillan and Co.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Flinders Petrie",
+     "given": "W.M."
+    }
+   ],
+   "date": "1904",
+   "title": "Methods and Aims in Archaeology",
+   "publisher": "Macmillan and Co.",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Frassine M., Bezzi A., Fabris M., Achilli V. 2009, “Mura Bastia”. Dati archeologici, informatizzazione e rilievi 3D laser scanning del Castello degli Onigo (Pederobba, Treviso), «Archeologia e Calcolatori», 20, 351-372.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "Bezzi",
+     "given": "A."
+    },
+    {
+     "family": "Fabris",
+     "given": "M."
+    },
+    {
+     "family": "Achilli",
+     "given": "V."
+    }
+   ],
+   "date": "2009",
+   "title": "“Mura Bastia”. Dati archeologici, informatizzazione e rilievi 3D laser scanning del Castello degli Onigo (Pederobba, Treviso)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "pages": "351-372",
+   "language": "ita",
+   "cited_aec_id": 523,
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Frassine M., Rosada G., Fabris M., Achilli V., Bragagnolo D., Bezzi A. 2008, “Mura della Bastia” – Onigo di Pederobba (Treviso). Ricerche archeologiche, rilievo 3D laser scanning e anastilosi virtuale in un castello medievale del piemonte trevigiano, «Archeologia e Calcolatori», 19, 293-321.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "Rosada",
+     "given": "G."
+    },
+    {
+     "family": "Fabris",
+     "given": "M."
+    },
+    {
+     "family": "Achilli",
+     "given": "V."
+    },
+    {
+     "family": "Bragagnolo",
+     "given": "D."
+    },
+    {
+     "family": "Bezzi",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "“Mura della Bastia” – Onigo di Pederobba (Treviso). Ricerche archeologiche, rilievo 3D laser scanning e anastilosi virtuale in un castello medievale del piemonte trevigiano",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "19",
+   "pages": "293-321",
+   "language": "ita",
+   "cited_aec_id": 495,
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Frignani F. 2002, Applicazione di nuove tecnologie di rilievo e restituzione grafica in campo archeologico, «Rivista di Studi e Ricerche sull’Idraulica storica e la Storia della Tecnica», 1, 241-251.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frignani",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "Applicazione di nuove tecnologie di rilievo e restituzione grafica in campo archeologico",
+   "is_part_of": [
+    "Rivista di Studi e Ricerche sull’Idraulica storica e la Storia della Tecnica"
+   ],
+   "volume": "1",
+   "pages": "241-251",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Fussell A. 1983, Terrestrial photogrammetry in archaeology, «World Archaeology», 14, 157-172.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fussell",
+     "given": "A."
+    }
+   ],
+   "date": "1983",
+   "title": "Terrestrial photogrammetry in archaeology",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "14",
+   "pages": "157-172",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "Gaiani M. 2002, Traduzioni dal reale al virtuale in architettura, in R. Migliari (ed.), Frontiere del rilievo. Dalla matita alle scansioni 3D, Roma, Gangemi, 11-58.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaiani",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Migliari",
+     "given": "R."
+    }
+   ],
+   "date": "2002",
+   "title": "Traduzioni dal reale al virtuale in architettura",
+   "is_part_of": [
+    "Frontiere del rilievo. Dalla matita alle scansioni 3D"
+   ],
+   "pages": "11-58",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "Garcia Blázquez L. 1996, Sistema electrónico de dibujo arqueológico. Un nuevo método de representación gráfica, «Verdolay», 8, 77-88.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garcia Blázquez",
+     "given": "L."
+    }
+   ],
+   "date": "1996",
+   "title": "Sistema electrónico de dibujo arqueológico. Un nuevo método de representación gráfica",
+   "is_part_of": [
+    "Verdolay"
+   ],
+   "volume": "8",
+   "pages": "77-88",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "Garcia-Gómez I., Fernández de Gorostiza M., Mesanza A. 2011, Láser escáner y nubes de puntos. Un horizonte aplicado al análisis arqueológico de edificios, «Arqueología de la Arquitectura», 8, 25-44.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garcia-Gómez",
+     "given": "I."
+    },
+    {
+     "family": "Fernández de Gorostiza",
+     "given": "M."
+    },
+    {
+     "family": "Mesanza",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "Láser escáner y nubes de puntos. Un horizonte aplicado al análisis arqueológico de edificios",
+   "is_part_of": [
+    "Arqueología de la Arquitectura"
+   ],
+   "volume": "8",
+   "pages": "25-44",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "Giorgi E. 2003, Riflessioni sul valore del rilievo nella documentazione dei siti archeologici, «Ocnus», 11, 107-134.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Giorgi",
+     "given": "E."
+    }
+   ],
+   "date": "2003",
+   "title": "Riflessioni sul valore del rilievo nella documentazione dei siti archeologici",
+   "is_part_of": [
+    "Ocnus"
+   ],
+   "volume": "11",
+   "pages": "107-134",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 51,
+   "raw": "Gismondi I., 1953, Materiali, tecniche e sistemi costruttivi dell’edilizia ostiense, in Scavi di Ostia, I. Topografia generale, Roma, Istituto Poligrafico dello Stato, 181-208.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gismondi",
+     "given": "I."
+    }
+   ],
+   "date": "1953",
+   "title": "Materiali, tecniche e sistemi costruttivi dell’edilizia ostiense",
+   "is_part_of": [
+    "Scavi di Ostia, I. Topografia generale"
+   ],
+   "pages": "181-208",
+   "publisher": "Istituto Poligrafico dello Stato",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "Giuliani C.F. 1983, Archeologia. Documentazione grafica, Roma, De Luca.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Giuliani",
+     "given": "C.F."
+    }
+   ],
+   "date": "1983",
+   "title": "Archeologia. Documentazione grafica",
+   "publisher": "De Luca",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 53,
+   "raw": "Giuliani C.F. 2007, Il rilievo dei monumenti, l’immaginario collettivo e il dato di fatto, in F. Filippi (ed.), Ricostruire l’Antico prima del virtuale. Italo Gismondi. un architetto per l’archeologia (1887-1974), Roma, Quasar, 63-75.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giuliani",
+     "given": "C.F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Filippi",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "Il rilievo dei monumenti, l’immaginario collettivo e il dato di fatto",
+   "is_part_of": [
+    "Ricostruire l’Antico prima del virtuale. Italo Gismondi. un architetto per l’archeologia (1887-1974)"
+   ],
+   "pages": "63-75",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 54,
+   "raw": "González S. 2007, La fotografia en la arqueología española, Madrid, Real Academia de la Historia, Universidad Autonoma de Madrid.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "González",
+     "given": "S."
+    }
+   ],
+   "date": "2007",
+   "title": "La fotografia en la arqueología española",
+   "publisher": "Real Academia de la Historia, Universidad Autonoma de Madrid",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 55,
+   "raw": "Goubitz O. 1984, The drawing and registration of archaeological footwear, «Studies in Conservation», 29, 187-196.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Goubitz",
+     "given": "O."
+    }
+   ],
+   "date": "1984",
+   "title": "The drawing and registration of archaeological footwear",
+   "is_part_of": [
+    "Studies in Conservation"
+   ],
+   "volume": "29",
+   "pages": "187-196",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 56,
+   "raw": "Griffiths N., Jenner A. 1990, Drawing Archaeological Finds: A Handbook, London, Archetype Publications.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Griffiths",
+     "given": "N."
+    },
+    {
+     "family": "Jenner",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "Drawing Archaeological Finds: A Handbook",
+   "publisher": "Archetype Publications",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 57,
+   "raw": "Jodar A. 2006, Por dibujado y por escrito, Granada, Universidad de Granada.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jodar",
+     "given": "A."
+    }
+   ],
+   "date": "2006",
+   "title": "Por dibujado y por escrito",
+   "publisher": "Universidad de Granada",
+   "place": "Granada",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 58,
+   "raw": "Johnson I. 2008, Mapping the fourth dimension: A ten year retrospective, «Archeologia e Calcolatori», 19, 31-43.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Johnson",
+     "given": "I."
+    }
+   ],
+   "date": "2008",
+   "title": "Mapping the fourth dimension: A ten year retrospective",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "19",
+   "pages": "31-43",
+   "language": "eng",
+   "cited_aec_id": 475,
+   "notes": "pages cited 31-43; metadata of AeC 475 gives 31-44",
+   "confidence": "high"
+  },
+  {
+   "position": 59,
+   "raw": "Lewuillon S. 2002, Archaeological illustrations: A new development in 19th century science, «Antiquity», 291, 223-234.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lewuillon",
+     "given": "S."
+    }
+   ],
+   "date": "2002",
+   "title": "Archaeological illustrations: A new development in 19th century science",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "291",
+   "pages": "223-234",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 60,
+   "raw": "López Marcos M. 1992, El dibujo y la arqueología, Madrid, Método y ciencia. Arqueología Hoy, Cuadernos UNED.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "López Marcos",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "El dibujo y la arqueología",
+   "series": "Método y ciencia. Arqueología Hoy, Cuadernos UNED",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 61,
+   "raw": "Madeira J.L. 2002, O Desenho na Arqueologia, Coimbra, Instituto de Arqueologia. Faculdade de Letras da Universidade de Coimbra.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Madeira",
+     "given": "J.L."
+    }
+   ],
+   "date": "2002",
+   "title": "O Desenho na Arqueologia",
+   "publisher": "Instituto de Arqueologia. Faculdade de Letras da Universidade de Coimbra",
+   "place": "Coimbra",
+   "language": "por",
+   "confidence": "high"
+  },
+  {
+   "position": 62,
+   "raw": "Magnano E., Galizia M., Santagati C. 2012, Rilievo e modellazione 3D per lo studio delle chiese a pianta ovale in Sicilia: il caso di Santa Chiara a Catania, «Disegnarecon», 5, 10, 193-200.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Magnano",
+     "given": "E."
+    },
+    {
+     "family": "Galizia",
+     "given": "M."
+    },
+    {
+     "family": "Santagati",
+     "given": "C."
+    }
+   ],
+   "date": "2012",
+   "title": "Rilievo e modellazione 3D per lo studio delle chiese a pianta ovale in Sicilia: il caso di Santa Chiara a Catania",
+   "is_part_of": [
+    "Disegnarecon"
+   ],
+   "volume": "5",
+   "issue": "10",
+   "pages": "193-200",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 63,
+   "raw": "Manetti R. 1989, Rilievo e disegno: analisi e rappresentazione architettonica, Firenze, Alinea.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Manetti",
+     "given": "R."
+    }
+   ],
+   "date": "1989",
+   "title": "Rilievo e disegno: analisi e rappresentazione architettonica",
+   "publisher": "Alinea",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 64,
+   "raw": "Mañana P., Blanco-Rotea R., Rodríguez A. 2009, La documentación geométrica de elementos patrimoniales con láser escáner terrestre. La experiencia Lapa en Galicia, «Cuadernos de Estudios Gallegos», 122, 33-65.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mañana",
+     "given": "P."
+    },
+    {
+     "family": "Blanco-Rotea",
+     "given": "R."
+    },
+    {
+     "family": "Rodríguez",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "La documentación geométrica de elementos patrimoniales con láser escáner terrestre. La experiencia Lapa en Galicia",
+   "is_part_of": [
+    "Cuadernos de Estudios Gallegos"
+   ],
+   "volume": "122",
+   "pages": "33-65",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 65,
+   "raw": "Marcos M. 1989, El dibujo al servicio de la arqueología: técnica y método, Madrid, UNED.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Marcos",
+     "given": "M."
+    }
+   ],
+   "date": "1989",
+   "title": "El dibujo al servicio de la arqueología: técnica y método",
+   "publisher": "UNED",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 66,
+   "raw": "Martinez A. 2010, La evolución de la documentación geométrica del patrimonio en un estudio privado. La importancia del dibujo, in Jornadas sobre Documentación Gráfica del Patrimonio Histórico. Presente y Futuro, Madrid, CSIC, 64-79.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Martinez",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "La evolución de la documentación geométrica del patrimonio en un estudio privado. La importancia del dibujo",
+   "is_part_of": [
+    "Jornadas sobre Documentación Gráfica del Patrimonio Histórico. Presente y Futuro"
+   ],
+   "pages": "64-79",
+   "publisher": "CSIC",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 67,
+   "raw": "Mascione C. 2006, Il rilievo strumentale in archeologia, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mascione",
+     "given": "C."
+    }
+   ],
+   "date": "2006",
+   "title": "Il rilievo strumentale in archeologia",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 68,
+   "raw": "Masturzo N. 1998, Il rilievo archeologico. Problemi e proposte di procedure, «Archeologia dell’Emilia Romagna», 3, 269-279.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Masturzo",
+     "given": "N."
+    }
+   ],
+   "date": "1998",
+   "title": "Il rilievo archeologico. Problemi e proposte di procedure",
+   "is_part_of": [
+    "Archeologia dell’Emilia Romagna"
+   ],
+   "volume": "3",
+   "pages": "269-279",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 69,
+   "raw": "Medri M. 2003, Manuale di rilievo archeologico, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Manuale di rilievo archeologico",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 70,
+   "raw": "Migliari R. 2002, Frontiere del rilievo. Dalla matita alle scansioni 3D, Roma, Gangemi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Migliari",
+     "given": "R."
+    }
+   ],
+   "date": "2002",
+   "title": "Frontiere del rilievo. Dalla matita alle scansioni 3D",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 71,
+   "raw": "Monge G. 1799, Géométrie descriptive, Paris.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Monge",
+     "given": "G."
+    }
+   ],
+   "date": "1799",
+   "title": "Géométrie descriptive",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 72,
+   "raw": "Morelli de Rossi P. 1973-1974, Tecniche di prospezione e rilievo archeologico subacqueo nell’Alto Adriatico, «Aquilea chiama», 10, 8-12.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Morelli de Rossi",
+     "given": "P."
+    }
+   ],
+   "date": "1973-1974",
+   "title": "Tecniche di prospezione e rilievo archeologico subacqueo nell’Alto Adriatico",
+   "is_part_of": [
+    "Aquilea chiama"
+   ],
+   "volume": "10",
+   "pages": "8-12",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 73,
+   "raw": "Morichi R. 2003, Rilievo e disegno dell’architettura antica, in M.V. Fontana, B. Genito, Studi in onore di Umberto Scerrato per il suo settantacinquesimo compleanno, Napoli, Università degli Studi di Napoli, L’Orientale, 573-592.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Morichi",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Fontana",
+     "given": "M.V."
+    },
+    {
+     "family": "Genito",
+     "given": "B."
+    }
+   ],
+   "date": "2003",
+   "title": "Rilievo e disegno dell’architettura antica",
+   "is_part_of": [
+    "Studi in onore di Umberto Scerrato per il suo settantacinquesimo compleanno"
+   ],
+   "pages": "573-592",
+   "publisher": "Università degli Studi di Napoli, L’Orientale",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 74,
+   "raw": "Olaria Puyoles C.R., Valdés L. 2012, El dibujo arqueológico: el tratamiento informatizado de la documentación gráfica. Normalización de convenciones gráficas aplicadas a las intervenciones arqueológicas, Bilbao, Denboraren Argia.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Olaria Puyoles",
+     "given": "C.R."
+    },
+    {
+     "family": "Valdés",
+     "given": "L."
+    }
+   ],
+   "date": "2012",
+   "title": "El dibujo arqueológico: el tratamiento informatizado de la documentación gráfica. Normalización de convenciones gráficas aplicadas a las intervenciones arqueológicas",
+   "publisher": "Denboraren Argia",
+   "place": "Bilbao",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 75,
+   "raw": "Page del Pozo V., Acosta M. 2002, El dibujo arqueológico, Murcia, Victoria de Mula.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Page del Pozo",
+     "given": "V."
+    },
+    {
+     "family": "Acosta",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "El dibujo arqueológico",
+   "publisher": "Victoria de Mula",
+   "place": "Murcia",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 76,
+   "raw": "Palladio A. 1570, I Quattro Libri dell’Architettura, Venezia.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Palladio",
+     "given": "A."
+    }
+   ],
+   "date": "1570",
+   "title": "I Quattro Libri dell’Architettura",
+   "place": "Venezia",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 77,
+   "raw": "Peloso D. 2005, Tecniche laser scanner per il rilievo dei beni culturali, «Archeologia e Calcolatori», 16, 199-224.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peloso",
+     "given": "D."
+    }
+   ],
+   "date": "2005",
+   "title": "Tecniche laser scanner per il rilievo dei beni culturali",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "16",
+   "pages": "199-224",
+   "language": "ita",
+   "cited_aec_id": 411,
+   "confidence": "high"
+  },
+  {
+   "position": 78,
+   "raw": "Pennacchioni M. 2004, Metodologie e tecniche del disegno archeologico, Firenze, Edizioni all’Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pennacchioni",
+     "given": "M."
+    }
+   ],
+   "date": "2004",
+   "title": "Metodologie e tecniche del disegno archeologico",
+   "publisher": "Edizioni all’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 79,
+   "raw": "Puche J. 2006, Metrologia, modulació, proporcions i proposta d’alçats, in J. López Vilar, Les basíliques paleocristianes del suburbi occidental de Tarraco, Tarragona, ICAC, 126-134.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Puche",
+     "given": "J."
+    }
+   ],
+   "date": "2006",
+   "title": "Metrologia, modulació, proporcions i proposta d’alçats",
+   "is_part_of": [
+    "Les basíliques paleocristianes del suburbi occidental de Tarraco"
+   ],
+   "pages": "126-134",
+   "publisher": "ICAC",
+   "place": "Tarragona",
+   "language": "cat",
+   "notes": "container is a book by J. López Vilar (author, not editor)",
+   "confidence": "high"
+  },
+  {
+   "position": 80,
+   "raw": "Rodríguez Iborra J. 2006, Dibujo arqueològico: metodologia aplicada en el CNIAS sobre cerámica fenicia de Playa de la Isla (excavación y prospección de 1993 a 2003), «Cuadernos de Arqueología Marítima», 7, 128-134.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rodríguez Iborra",
+     "given": "J."
+    }
+   ],
+   "date": "2006",
+   "title": "Dibujo arqueològico: metodologia aplicada en el CNIAS sobre cerámica fenicia de Playa de la Isla (excavación y prospección de 1993 a 2003)",
+   "is_part_of": [
+    "Cuadernos de Arqueología Marítima"
+   ],
+   "volume": "7",
+   "pages": "128-134",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 81,
+   "raw": "Rovina D., Usai L. 2003, Di-signum. Sull’importanza del disegno archeologico, Sassari, Sopritendenza per i Beni Archeologici per le Province di Sassari e Nuoro.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rovina",
+     "given": "D."
+    },
+    {
+     "family": "Usai",
+     "given": "L."
+    }
+   ],
+   "date": "2003",
+   "title": "Di-signum. Sull’importanza del disegno archeologico",
+   "publisher": "Soprintendenza per i Beni Archeologici per le Province di Sassari e Nuoro",
+   "place": "Sassari",
+   "language": "ita",
+   "notes": "publisher cited as \"Sopritendenza\" (typo)",
+   "confidence": "high"
+  },
+  {
+   "position": 82,
+   "raw": "Russo M. 2011, Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico, Firenze, Edizioni All’Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Russo",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico",
+   "publisher": "Edizioni All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 83,
+   "raw": "Russo M., Guidi G., Remondino F. 2011, Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico, «Archeologia e Calcolatori», 22, 169-198.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Russo",
+     "given": "M."
+    },
+    {
+     "family": "Guidi",
+     "given": "G."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2011",
+   "title": "Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "169-198",
+   "language": "ita",
+   "cited_aec_id": 592,
+   "confidence": "high"
+  },
+  {
+   "position": 84,
+   "raw": "Schmiedt G. 1982, Fotointerpretazione archeologica, in C. Pietramellara, L. Marino (eds.), Contributi sul restauro archeologico, Firenze, Alinea, 89-115.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Schmiedt",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pietramellara",
+     "given": "C."
+    },
+    {
+     "family": "Marino",
+     "given": "L."
+    }
+   ],
+   "date": "1982",
+   "title": "Fotointerpretazione archeologica",
+   "is_part_of": [
+    "Contributi sul restauro archeologico"
+   ],
+   "pages": "89-115",
+   "publisher": "Alinea",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 85,
+   "raw": "Scott P.J. 1983, Drawing and measurement of finds: A Reflex action, «World Archaeology», 14, 191-199.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scott",
+     "given": "P.J."
+    }
+   ],
+   "date": "1983",
+   "title": "Drawing and measurement of finds: A Reflex action",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "14",
+   "pages": "191-199",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 86,
+   "raw": "Sousa F. 1999, Introduçao ao desenho arqueológico, Almada, Museo Municipal de Almada.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sousa",
+     "given": "F."
+    }
+   ],
+   "date": "1999",
+   "title": "Introduçao ao desenho arqueológico",
+   "publisher": "Museo Municipal de Almada",
+   "place": "Almada",
+   "language": "por",
+   "confidence": "high"
+  },
+  {
+   "position": 87,
+   "raw": "Tucci G., Bonora V., Constantino F., Ostuni D. 2004, Metodi di rilievo tridimensionale a confronto: affidabilità metrica e capacità descrittive, in Atti del I Convegno e-Arcom, tecnologie per comunicare l’architettura (Ancona 2004), Ancona, 553-558.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tucci",
+     "given": "G."
+    },
+    {
+     "family": "Bonora",
+     "given": "V."
+    },
+    {
+     "family": "Constantino",
+     "given": "F."
+    },
+    {
+     "family": "Ostuni",
+     "given": "D."
+    }
+   ],
+   "date": "2004",
+   "title": "Metodi di rilievo tridimensionale a confronto: affidabilità metrica e capacità descrittive",
+   "is_part_of": [
+    "Atti del I Convegno e-Arcom, tecnologie per comunicare l’architettura (Ancona 2004)"
+   ],
+   "pages": "553-558",
+   "place": "Ancona",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 88,
+   "raw": "Tzonis A., Oorschot L. 1987, Frames, plans, representation: Concepta at Inleiding Programmatische en Functionele Analyse, Delft, Delft University of Technology.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tzonis",
+     "given": "A."
+    },
+    {
+     "family": "Oorschot",
+     "given": "L."
+    }
+   ],
+   "date": "1987",
+   "title": "Frames, plans, representation: Concepta at Inleiding Programmatische en Functionele Analyse",
+   "publisher": "Delft University of Technology",
+   "place": "Delft",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 89,
+   "raw": "Urcia A., Montanari A. 2012, Scansione laser e ricostruzione digitale: il sito di San Severo a Classe (RA), «Archeologia e Calcolatori», 23, 311-325.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Urcia",
+     "given": "A."
+    },
+    {
+     "family": "Montanari",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Scansione laser e ricostruzione digitale: il sito di San Severo a Classe (RA)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "311-325",
+   "language": "ita",
+   "cited_aec_id": 625,
+   "confidence": "high"
+  },
+  {
+   "position": 90,
+   "raw": "Versaci A., Cardaci A. 2011, Il rilievo “automatico” del colore: nuove tecnologie a supporto della lettura cromatica per il restauro dell’edilizia storica, in P. Falzone (ed.), Il colore nel costruito storico. Innovazione, sperimentazione, applicazione (Lerici 2011), Roma, Aracne Editrice, 1-7.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Versaci",
+     "given": "A."
+    },
+    {
+     "family": "Cardaci",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Falzone",
+     "given": "P."
+    }
+   ],
+   "date": "2011",
+   "title": "Il rilievo “automatico” del colore: nuove tecnologie a supporto della lettura cromatica per il restauro dell’edilizia storica",
+   "is_part_of": [
+    "Il colore nel costruito storico. Innovazione, sperimentazione, applicazione (Lerici 2011)"
+   ],
+   "pages": "1-7",
+   "publisher": "Aracne Editrice",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 91,
+   "raw": "Vinci S. 2012, La documentazione dell’edilizia storica in ambito urbano: applicazioni del raddrizzamento fotografico al caso del “Foro provinciale” di Tarragona, «Archeologia e Calcolatori», 23, 101-119.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vinci",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "La documentazione dell’edilizia storica in ambito urbano: applicazioni del raddrizzamento fotografico al caso del “Foro provinciale” di Tarragona",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "101-119",
+   "language": "ita",
+   "cited_aec_id": 611,
+   "notes": "pages cited 101-119; metadata of AeC 611 gives 101-120",
+   "confidence": "high"
+  },
+  {
+   "position": 92,
+   "raw": "Wilcok J. 1982, Computers in Archaeological Draughtsmanship, Bristol, Association of Archaeological Illustrators and Surveyors, Technicals Papers 2.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wilcok",
+     "given": "J."
+    }
+   ],
+   "date": "1982",
+   "title": "Computers in Archaeological Draughtsmanship",
+   "series": "Technicals Papers",
+   "series_number": "2",
+   "publisher": "Association of Archaeological Illustrators and Surveyors",
+   "place": "Bristol",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

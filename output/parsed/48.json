@@ -1,0 +1,44 @@
+{
+ "citing_aec_id": 48,
+ "source_file": "data/journal/4/48.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "COAD P., YOURDON E. 1991, Object-Oriented Analysis, Englewood Cliffs, New Jersey, Prentice-Hall.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Coad",
+     "given": "P."
+    },
+    {
+     "family": "Yourdon",
+     "given": "E."
+    }
+   ],
+   "date": "1991",
+   "title": "Object-Oriented Analysis",
+   "place": "Englewood Cliffs, New Jersey",
+   "publisher": "Prentice-Hall",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "DJINDJIAN F. 1991, Méthodes pour l'archéologie, Paris, A. Colin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Méthodes pour l'archéologie",
+   "place": "Paris",
+   "publisher": "A. Colin",
+   "language": "fre",
+   "confidence": "high"
+  }
+ ]
+}

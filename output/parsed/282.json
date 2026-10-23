@@ -1,0 +1,62 @@
+{
+ "citing_aec_id": 282,
+ "source_file": "data/journal/10/282.md",
+ "references": [
+  {
+   "raw": "LEVENTHAL M. et al. 1998, Designing XML Internet Applications, Upper Saddle River (NJ), Prentice-Hall.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Leventhal",
+     "given": "M."
+    }
+   ],
+   "notes": "et al. in citation",
+   "type": "book",
+   "title": "Designing XML Internet Applications",
+   "publisher": "Prentice-Hall",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1,
+   "place": "Upper Saddle River (NJ)"
+  },
+  {
+   "raw": "SONNENREICH W., MACINTA T. 1998, Web Developer Guide to Search Engines, New York, John Wiley & Sons.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Sonnenreich",
+     "given": "W."
+    },
+    {
+     "family": "Macinta",
+     "given": "T."
+    }
+   ],
+   "type": "book",
+   "title": "Web Developer Guide to Search Engines",
+   "place": "New York",
+   "publisher": "John Wiley & Sons",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "WATERS C. 1997, Universal Web Design, Indianapolis, New Riders Publishing.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Waters",
+     "given": "C."
+    }
+   ],
+   "type": "book",
+   "title": "Universal Web Design",
+   "place": "Indianapolis",
+   "publisher": "New Riders Publishing",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "citing_aec_id": 440,
+ "source_file": "data/journal/18/440.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BIANCHI BANDINELLI R. 1928, *Materiali archeologici della Val d’Elsa e dei dintorni di Siena*, 2, Siena, La Balzana.",
+   "type": "book",
+   "date": "1928",
+   "title": "Materiali archeologici della Val d'Elsa e dei dintorni di Siena",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Bianchi Bandinelli",
+     "given": "R."
+    }
+   ],
+   "volume": "2",
+   "place": "Siena",
+   "publisher": "La Balzana"
+  },
+  {
+   "position": 2,
+   "raw": "BRUZZI G. 1990, *Le prospezioni geofisiche applicate all’archeologia*, in M. MARINI CALVANI (ed.), *Tutela archeologica e pianificazione*, Parma, 19-20.",
+   "type": "chapter",
+   "date": "1990",
+   "title": "Le prospezioni geofisiche applicate all'archeologia",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Bruzzi",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Marini Calvani",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Tutela archeologica e pianificazione"
+   ],
+   "pages": "19-20",
+   "place": "Parma"
+  },
+  {
+   "position": 3,
+   "raw": "CAVALIERI M., BALDINI G. 2005, *La “villa romana” di Torraccia di Chiusi, Comune di San Gimignano (SI)*, «Notiziario della Soprintendenza ai Beni Archeologici della Toscana», 1, 401-409.",
+   "type": "article",
+   "date": "2005",
+   "title": "La “villa romana” di Torraccia di Chiusi, Comune di San Gimignano (SI)",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Cavalieri",
+     "given": "M."
+    },
+    {
+     "family": "Baldini",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Notiziario della Soprintendenza ai Beni Archeologici della Toscana"
+   ],
+   "volume": "1",
+   "pages": "401-409"
+  },
+  {
+   "position": 4,
+   "raw": "CAVALIERI M. 2007, *Un progetto di studio per Torraccia di Chiusi, loc. Aiano, San Gimignano (SI). I nuovi dati parziali della II campagna di scavo, 2006*, «Notiziario della Soprintendenza ai Beni Archeologici della Toscana», 2, in corso di stampa.",
+   "type": "article",
+   "date": "2007",
+   "title": "Un progetto di studio per Torraccia di Chiusi, loc. Aiano, San Gimignano (SI). I nuovi dati parziali della II campagna di scavo, 2006",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Cavalieri",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Notiziario della Soprintendenza ai Beni Archeologici della Toscana"
+   ],
+   "volume": "2",
+   "notes": "cited 'in corso di stampa' in place of pages; year 2007 given; web search found no publication data"
+  },
+  {
+   "position": 5,
+   "raw": "DE MARINIS G. 1977, *Topografia storica della Valdelsa in periodo etrusco*, Castelfiorentino, Società Storica della Valdelsa Editrice.",
+   "type": "book",
+   "date": "1977",
+   "title": "Topografia storica della Valdelsa in periodo etrusco",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "De Marinis",
+     "given": "G."
+    }
+   ],
+   "place": "Castelfiorentino",
+   "publisher": "Società Storica della Valdelsa Editrice"
+  },
+  {
+   "position": 6,
+   "raw": "KEAY S., MILLETT M., POPPY S., ROBINSON J., TAYLOR J., TERRENATO N. 2000, *Falerii Novi: A new survey of the walled area*, «Papers of the British School at Rome», 68, 1-94.",
+   "type": "article",
+   "date": "2000",
+   "title": "Falerii Novi: A new survey of the walled area",
+   "language": "eng",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Keay",
+     "given": "S."
+    },
+    {
+     "family": "Millett",
+     "given": "M."
+    },
+    {
+     "family": "Poppy",
+     "given": "S."
+    },
+    {
+     "family": "Robinson",
+     "given": "J."
+    },
+    {
+     "family": "Taylor",
+     "given": "J."
+    },
+    {
+     "family": "Terrenato",
+     "given": "N."
+    }
+   ],
+   "is_part_of": [
+    "Papers of the British School at Rome"
+   ],
+   "volume": "68",
+   "pages": "1-94"
+  },
+  {
+   "position": 7,
+   "raw": "LOKE M.H. 2004, *Electrical Imaging Surveys for Hydrogeological, Environmental and Engineering Studies*, Piacenza, Geofluid.",
+   "type": "book",
+   "date": "2004",
+   "title": "Electrical Imaging Surveys for Hydrogeological, Environmental and Engineering Studies",
+   "language": "eng",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Loke",
+     "given": "M.H."
+    }
+   ],
+   "place": "Piacenza",
+   "publisher": "Geofluid"
+  },
+  {
+   "position": 8,
+   "raw": "MILSOM J. 2003, *Field Geophysics*, The Geological Field Guide Series, Chichester, J. Wiley & Sons.",
+   "type": "book",
+   "date": "2003",
+   "title": "Field Geophysics",
+   "language": "eng",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Milsom",
+     "given": "J."
+    }
+   ],
+   "series": "The Geological Field Guide Series",
+   "place": "Chichester",
+   "publisher": "J. Wiley & Sons"
+  },
+  {
+   "position": 9,
+   "raw": "MOSCA A. 2002, *Via Cassia. Un sistema stradale romano tra Roma e Firenze*, Firenze, Leo S. Olschki Editore.",
+   "type": "book",
+   "date": "2002",
+   "title": "Via Cassia. Un sistema stradale romano tra Roma e Firenze",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Mosca",
+     "given": "A."
+    }
+   ],
+   "place": "Firenze",
+   "publisher": "Leo S. Olschki Editore"
+  },
+  {
+   "position": 10,
+   "raw": "MUSSETT A.E., KHAN M.A. 2003, *Esplorazione del sottosuolo, un’introduzione alla geofisica applicata*, Milano, Zanichelli.",
+   "type": "book",
+   "date": "2003",
+   "title": "Esplorazione del sottosuolo, un'introduzione alla geofisica applicata",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Mussett",
+     "given": "A.E."
+    },
+    {
+     "family": "Khan",
+     "given": "M.A."
+    }
+   ],
+   "place": "Milano",
+   "publisher": "Zanichelli"
+  },
+  {
+   "position": 11,
+   "raw": "NORINELLI A. 1996, *Elementi di geofisica applicata*, Bologna, Patron Editore.",
+   "type": "book",
+   "date": "1996",
+   "title": "Elementi di geofisica applicata",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Norinelli",
+     "given": "A."
+    }
+   ],
+   "place": "Bologna",
+   "publisher": "Patron Editore"
+  },
+  {
+   "position": 12,
+   "raw": "PATITUCCI UGGERI S. (ed.) 2005, *La via Francigena e altre strade della Toscana medievale*, Firenze, All’Insegna del Giglio.",
+   "type": "book",
+   "date": "2005",
+   "title": "La via Francigena e altre strade della Toscana medievale",
+   "language": "ita",
+   "confidence": "high",
+   "editors": [
+    {
+     "family": "Patitucci Uggeri",
+     "given": "S."
+    }
+   ],
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio"
+  },
+  {
+   "position": 13,
+   "raw": "RICCIARDI G. 2005-2006, *Misure di resistività finalizzate allo studio ed alla modellazione della “villa romana” rinvenuta in località Torraccia di Chiusi (Comune di San Gimignano)*, Tesi di laurea in GeoTecnologie, Università degli Studi di Siena.",
+   "type": "thesis",
+   "date": "2005-2006",
+   "title": "Misure di resistività finalizzate allo studio ed alla modellazione della “villa romana” rinvenuta in località Torraccia di Chiusi (Comune di San Gimignano)",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Ricciardi",
+     "given": "G."
+    }
+   ],
+   "publisher": "Università degli Studi di Siena",
+   "notes": "Tesi di laurea in GeoTecnologie"
+  },
+  {
+   "position": 14,
+   "raw": "SHERIFF R.E. 2002, *Encyclopaedic Dictionary of Applied Geophysics*, Tulsa, Society of Exploration Geophysicists.",
+   "type": "book",
+   "date": "2002",
+   "title": "Encyclopaedic Dictionary of Applied Geophysics",
+   "language": "eng",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Sheriff",
+     "given": "R.E."
+    }
+   ],
+   "place": "Tulsa",
+   "publisher": "Society of Exploration Geophysicists"
+  }
+ ]
+}

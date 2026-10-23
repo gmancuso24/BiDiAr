@@ -1,0 +1,1145 @@
+{
+ "citing_aec_id": 1145,
+ "source_file": "data/journal/32/1145.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Albertin F., Bettuzzi M., Brancaccio R., Morigi M.P., Casali F. 2019, *X-ray computed tomography in situ: An opportunity for museums and restoration laboratories*, «Heritage», 2, 2028–2038 (https://doi.org/10.3390/heritage2030122).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Albertin",
+     "given": "F."
+    },
+    {
+     "family": "Bettuzzi",
+     "given": "M."
+    },
+    {
+     "family": "Brancaccio",
+     "given": "R."
+    },
+    {
+     "family": "Morigi",
+     "given": "M.P."
+    },
+    {
+     "family": "Casali",
+     "given": "F."
+    }
+   ],
+   "date": "2019",
+   "title": "X-ray computed tomography in situ: An opportunity for museums and restoration laboratories",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "2",
+   "pages": "2028-2038",
+   "language": "eng",
+   "doi": "10.3390/heritage2030122",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Angliker E. 2016, *Musical instruments and the festivals of Apollo: A study of the auloi dedications in the sanctuary of Delos*, in Bellia, Bundrick 2016, 25-37.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Angliker",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bellia",
+     "given": "A."
+    },
+    {
+     "family": "Bundrick",
+     "given": "S.D."
+    }
+   ],
+   "date": "2016",
+   "title": "Musical instruments and the festivals of Apollo: A study of the auloi dedications in the sanctuary of Delos",
+   "is_part_of": [
+    "Musical Instruments as Votive Gifts in the Ancient World"
+   ],
+   "pages": "25-37",
+   "publisher": "Istituti Editoriali e Poligrafici Internazionali",
+   "place": "Pisa-Roma",
+   "language": "eng",
+   "notes": "cited as \"in Bellia, Bundrick 2016\"; the volume is cited as 2019 in ref. 13",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Avanzini F., Canazza S., De Poli G., Fantozzi C., Pretto N., Rodà A., Angelini I., Bettineschi C., Deotto G., Faresin E. et al. 2015, *Archaeology and virtual acoustics. A Pan flute from ancient Egypt*, in Proceedings of the 12th International Conference in Sound and Music Computing (SMC 2015) (Maynooth 2015), 31-36 (https://doi.org/10.5281/zenodo.851067).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Avanzini",
+     "given": "F."
+    },
+    {
+     "family": "Canazza",
+     "given": "S."
+    },
+    {
+     "family": "De Poli",
+     "given": "G."
+    },
+    {
+     "family": "Fantozzi",
+     "given": "C."
+    },
+    {
+     "family": "Pretto",
+     "given": "N."
+    },
+    {
+     "family": "Rodà",
+     "given": "A."
+    },
+    {
+     "family": "Angelini",
+     "given": "I."
+    },
+    {
+     "family": "Bettineschi",
+     "given": "C."
+    },
+    {
+     "family": "Deotto",
+     "given": "G."
+    },
+    {
+     "family": "Faresin",
+     "given": "E."
+    }
+   ],
+   "date": "2015",
+   "title": "Archaeology and virtual acoustics. A Pan flute from ancient Egypt",
+   "is_part_of": [
+    "Proceedings of the 12th International Conference in Sound and Music Computing (SMC 2015) (Maynooth 2015)"
+   ],
+   "pages": "31-36",
+   "language": "eng",
+   "doi": "10.5281/zenodo.851067",
+   "notes": "authors cited as \"... Faresin E. et al.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Avanzini F., Canazza S., De Poli G., Fantozzi C., Micheloni E., Pretto N., Rodà A., Gasparotto S., Salemi G. 2016, *Virtual reconstruction of an ancient Greek Pan flute*, in Proceedings of the 13th Sound and Music Computing Conference (SMC2016), 41-46 (https://doi.org/10.5281/zenodo.851179).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Avanzini",
+     "given": "F."
+    },
+    {
+     "family": "Canazza",
+     "given": "S."
+    },
+    {
+     "family": "De Poli",
+     "given": "G."
+    },
+    {
+     "family": "Fantozzi",
+     "given": "C."
+    },
+    {
+     "family": "Micheloni",
+     "given": "E."
+    },
+    {
+     "family": "Pretto",
+     "given": "N."
+    },
+    {
+     "family": "Rodà",
+     "given": "A."
+    },
+    {
+     "family": "Gasparotto",
+     "given": "S."
+    },
+    {
+     "family": "Salemi",
+     "given": "G."
+    }
+   ],
+   "date": "2016",
+   "title": "Virtual reconstruction of an ancient Greek Pan flute",
+   "is_part_of": [
+    "Proceedings of the 13th Sound and Music Computing Conference (SMC2016)"
+   ],
+   "pages": "41-46",
+   "language": "eng",
+   "doi": "10.5281/zenodo.851179",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bakogiannis K., Polychronopoulos S., Marini D., Kouroupetroglou G. 2020, *ENTROTUNER: A computational method adopting the musician's interaction with the instrument to estimate its tuning*, «IEEE Access», 8, 53185-53195 (https://doi.org/10.1109/ACCESS.2020.2981007).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bakogiannis",
+     "given": "K."
+    },
+    {
+     "family": "Polychronopoulos",
+     "given": "S."
+    },
+    {
+     "family": "Marini",
+     "given": "D."
+    },
+    {
+     "family": "Kouroupetroglou",
+     "given": "G."
+    }
+   ],
+   "date": "2020",
+   "title": "ENTROTUNER: A computational method adopting the musician's interaction with the instrument to estimate its tuning",
+   "is_part_of": [
+    "IEEE Access"
+   ],
+   "volume": "8",
+   "pages": "53185-53195",
+   "language": "eng",
+   "doi": "10.1109/ACCESS.2020.2981007",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Bär F.P., Fuchs T., Kirsch S., Wagner R., Scholz G., Kretzer C., Schielein R., Brennhäuser G., Böhnel M., Reims M., Eberhorn M., Koppers T., Raquet M., Wolters-Rosbach M., Fischeidl K., Wagner S., Zepf M. 2018, *Three-dimensional computed tomography scanning of musical instruments*, in M.A. Pérez, E. Marconi (eds.), Wooden Musical Instruments Different Forms of Knowledge, Paris, Musée de la Musique.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bär",
+     "given": "F.P."
+    },
+    {
+     "family": "Fuchs",
+     "given": "T."
+    },
+    {
+     "family": "Kirsch",
+     "given": "S."
+    },
+    {
+     "family": "Wagner",
+     "given": "R."
+    },
+    {
+     "family": "Scholz",
+     "given": "G."
+    },
+    {
+     "family": "Kretzer",
+     "given": "C."
+    },
+    {
+     "family": "Schielein",
+     "given": "R."
+    },
+    {
+     "family": "Brennhäuser",
+     "given": "G."
+    },
+    {
+     "family": "Böhnel",
+     "given": "M."
+    },
+    {
+     "family": "Reims",
+     "given": "M."
+    },
+    {
+     "family": "Eberhorn",
+     "given": "M."
+    },
+    {
+     "family": "Koppers",
+     "given": "T."
+    },
+    {
+     "family": "Raquet",
+     "given": "M."
+    },
+    {
+     "family": "Wolters-Rosbach",
+     "given": "M."
+    },
+    {
+     "family": "Fischeidl",
+     "given": "K."
+    },
+    {
+     "family": "Wagner",
+     "given": "S."
+    },
+    {
+     "family": "Zepf",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pérez",
+     "given": "M.A."
+    },
+    {
+     "family": "Marconi",
+     "given": "E."
+    }
+   ],
+   "date": "2018",
+   "title": "Three-dimensional computed tomography scanning of musical instruments",
+   "is_part_of": [
+    "Wooden Musical Instruments Different Forms of Knowledge"
+   ],
+   "publisher": "Musée de la Musique",
+   "place": "Paris",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Barker A. 2002, *Euterpe. Ricerche sulla musica greca e romana*, Pisa, Edizioni ETS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barker",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Euterpe. Ricerche sulla musica greca e romana",
+   "publisher": "Edizioni ETS",
+   "place": "Pisa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Bellia A. 2012, *Strumenti musicali e oggetti sonori nell'Italia meridionale e in Sicilia (VI-III sec. a.C.). Funzioni rituali e contesti*, Lucca, Libreria musicale italiana.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bellia",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Strumenti musicali e oggetti sonori nell'Italia meridionale e in Sicilia (VI-III sec. a.C.). Funzioni rituali e contesti",
+   "publisher": "Libreria musicale italiana",
+   "place": "Lucca",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Bellia A. 2016, *Tombe di 'musicisti' in Magna Grecia: il caso di Metaponto*, in A. Bellia, A. De Siena, G. Gruppioni (eds.), Solo tombe di musicisti a Metaponto? Studio dei resti ossei e degli strumenti musicali contenuti nei corredi funerari, Pisa-Roma, Istituti Editoriali e Poligrafici Internazionali, 45-98.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bellia",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bellia",
+     "given": "A."
+    },
+    {
+     "family": "De Siena",
+     "given": "A."
+    },
+    {
+     "family": "Gruppioni",
+     "given": "G."
+    }
+   ],
+   "date": "2016",
+   "title": "Tombe di 'musicisti' in Magna Grecia: il caso di Metaponto",
+   "is_part_of": [
+    "Solo tombe di musicisti a Metaponto? Studio dei resti ossei e degli strumenti musicali contenuti nei corredi funerari"
+   ],
+   "pages": "45-98",
+   "publisher": "Istituti Editoriali e Poligrafici Internazionali",
+   "place": "Pisa-Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Bellia A. 2017, *Su uno strumento musicale ri-trovato nel Museo Archeologico Regionale \"Antonino Salinas\" di Palermo. Il frammento di aulos dal santuario della Malophoros*, «Sicilia Antiqua», 14, 17-22.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bellia",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Su uno strumento musicale ri-trovato nel Museo Archeologico Regionale \"Antonino Salinas\" di Palermo. Il frammento di aulos dal santuario della Malophoros",
+   "is_part_of": [
+    "Sicilia Antiqua"
+   ],
+   "volume": "14",
+   "pages": "17-22",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Bellia A. 2018, *Musical instruments as votive gifts: Towards an archaeology of musical performances*, in Bellia, Bundrick 2016, 89-102.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bellia",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bellia",
+     "given": "A."
+    },
+    {
+     "family": "Bundrick",
+     "given": "S.D."
+    }
+   ],
+   "date": "2018",
+   "title": "Musical instruments as votive gifts: Towards an archaeology of musical performances",
+   "is_part_of": [
+    "Musical Instruments as Votive Gifts in the Ancient World"
+   ],
+   "pages": "89-102",
+   "publisher": "Istituti Editoriali e Poligrafici Internazionali",
+   "place": "Pisa-Roma",
+   "language": "eng",
+   "notes": "cited as \"in Bellia, Bundrick 2016\"; the volume is cited as 2019 in ref. 13",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Bellia A. 2019, *Towards a new approach in the study of ancient Greek music: Virtual reconstruction of an ancient musical instrument*, «Digital Scholarship in the Humanities», 34, 2, 233-243 (https://doi.org/10.1093/llc/fqy043).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bellia",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "title": "Towards a new approach in the study of ancient Greek music: Virtual reconstruction of an ancient musical instrument",
+   "is_part_of": [
+    "Digital Scholarship in the Humanities"
+   ],
+   "volume": "34",
+   "issue": "2",
+   "pages": "233-243",
+   "language": "eng",
+   "doi": "10.1093/llc/fqy043",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Bellia A., Bundrick S.D. (eds.) 2019, *Musical Instruments as Votive Gifts in the Ancient World*, Pisa-Roma, Istituti Editoriali e Poligrafici Internazionali.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Bellia",
+     "given": "A."
+    },
+    {
+     "family": "Bundrick",
+     "given": "S.D."
+    }
+   ],
+   "date": "2019",
+   "title": "Musical Instruments as Votive Gifts in the Ancient World",
+   "publisher": "Istituti Editoriali e Poligrafici Internazionali",
+   "place": "Pisa-Roma",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Berlinzani F. 2014, *Alcuni reperti in osso da Camarina. Riconsiderando A. Bélis*, «Aristonothos», 4, 203-230.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Berlinzani",
+     "given": "F."
+    }
+   ],
+   "date": "2014",
+   "title": "Alcuni reperti in osso da Camarina. Riconsiderando A. Bélis",
+   "is_part_of": [
+    "Aristonothos"
+   ],
+   "volume": "4",
+   "pages": "203-230",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Damodaran A., Sugavaneswaran M., Lessard L. 2021, *An overview of additive manufacturing technologies for musical wind instruments*, «SN Applied Sciences», 3, 162 (https://doi.org/10.1007/s42452-021-04170-x).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Damodaran",
+     "given": "A."
+    },
+    {
+     "family": "Sugavaneswaran",
+     "given": "M."
+    },
+    {
+     "family": "Lessard",
+     "given": "L."
+    }
+   ],
+   "date": "2021",
+   "title": "An overview of additive manufacturing technologies for musical wind instruments",
+   "is_part_of": [
+    "SN Applied Sciences"
+   ],
+   "volume": "3",
+   "pages": "162",
+   "language": "eng",
+   "doi": "10.1007/s42452-021-04170-x",
+   "notes": "162 is an article number",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "De Grossi Mazzorin J., Epifani I. 2012, *Le tecniche di lavorazione delle materie dure di origine animale e gli strumenti utilizzati*, in J. De Grossi Mazzorin (ed.), Artigiani dell'osso, avorio e palco. Ornamenti, utensili e giochi dalla preistoria al medioevo, Lecce, UniSalento Press.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Grossi Mazzorin",
+     "given": "J."
+    },
+    {
+     "family": "Epifani",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Grossi Mazzorin",
+     "given": "J."
+    }
+   ],
+   "date": "2012",
+   "title": "Le tecniche di lavorazione delle materie dure di origine animale e gli strumenti utilizzati",
+   "is_part_of": [
+    "Artigiani dell'osso, avorio e palco. Ornamenti, utensili e giochi dalla preistoria al medioevo"
+   ],
+   "publisher": "UniSalento Press",
+   "place": "Lecce",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Farina A., Tronchin L. 2013, *3D sound characterisation in theatres employing microphone arrays*, «Acta Acustica», 99, 118-125.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Farina",
+     "given": "A."
+    },
+    {
+     "family": "Tronchin",
+     "given": "L."
+    }
+   ],
+   "date": "2013",
+   "title": "3D sound characterisation in theatres employing microphone arrays",
+   "is_part_of": [
+    "Acta Acustica"
+   ],
+   "volume": "99",
+   "pages": "118-125",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Fuchs T. Wagner R., Kretzer C., Scholz G., Bär F., Kirsch S., Wolters-Rosbach M., Fischeidl K. 2019, *Musical instrument computed tomography examination standard: The final report featuring methods for optimization, results of measurements, recommendations, checklists and meta-data models*, in 9th Conference on Industrial Computed Tomography (iCT) 2019 (Padova 2019) (https://www.ndt.net/search/docs.php3?id=23696).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fuchs",
+     "given": "T."
+    },
+    {
+     "family": "Wagner",
+     "given": "R."
+    },
+    {
+     "family": "Kretzer",
+     "given": "C."
+    },
+    {
+     "family": "Scholz",
+     "given": "G."
+    },
+    {
+     "family": "Bär",
+     "given": "F."
+    },
+    {
+     "family": "Kirsch",
+     "given": "S."
+    },
+    {
+     "family": "Wolters-Rosbach",
+     "given": "M."
+    },
+    {
+     "family": "Fischeidl",
+     "given": "K."
+    }
+   ],
+   "date": "2019",
+   "title": "Musical instrument computed tomography examination standard: The final report featuring methods for optimization, results of measurements, recommendations, checklists and meta-data models",
+   "is_part_of": [
+    "9th Conference on Industrial Computed Tomography (iCT) 2019 (Padova 2019)"
+   ],
+   "language": "eng",
+   "uri": "https://www.ndt.net/search/docs.php3?id=23696",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Geoffroy-Schwinden R.D. 2018, *Digital approaches to historical acoustemology*, in M.C. Lingold, D. Mueller, W. Trettien (eds.), Digital Sound Studies, Durham, Duke University Press, 231-249.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Geoffroy-Schwinden",
+     "given": "R.D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lingold",
+     "given": "M.C."
+    },
+    {
+     "family": "Mueller",
+     "given": "D."
+    },
+    {
+     "family": "Trettien",
+     "given": "W."
+    }
+   ],
+   "date": "2018",
+   "title": "Digital approaches to historical acoustemology",
+   "is_part_of": [
+    "Digital Sound Studies"
+   ],
+   "pages": "231-249",
+   "publisher": "Duke University Press",
+   "place": "Durham",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Hagel S. 2010-2011, *The aulos sýrinx*, in D. Castaldo, F.G. Giannachi, A. Manieri (eds.), Poesia, musica e agoni nella Grecia antica, vol. 2 (Rudiae. Ricerche sul mondo classico 22-23, 2010-2011), Congedo, Galatina, 491-518.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hagel",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Castaldo",
+     "given": "D."
+    },
+    {
+     "family": "Giannachi",
+     "given": "F.G."
+    },
+    {
+     "family": "Manieri",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "The aulos sýrinx",
+   "is_part_of": [
+    "Poesia, musica e agoni nella Grecia antica"
+   ],
+   "volume": "2",
+   "pages": "491-518",
+   "series": "Rudiae. Ricerche sul mondo classico",
+   "series_number": "22-23",
+   "publisher": "Congedo",
+   "place": "Galatina",
+   "language": "eng",
+   "notes": "cited 2010-2011 (Rudiae 22-23, 2010-2011)",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Micheloni E., Pretto N., Avanzini F., Canazza S., Rodà A. 2016, *Installazioni interattive per la valorizzazione di strumenti musicali antichi: il flauto di Pan del Museo di Scienze Archeologiche e d'Arte dell'Università degli Studi di Padova*, in A. Terzaroli, A. Valle (eds.), «Extending Interactivity». Atti del XXI CIM - Colloquio di Informatica Musicale (Cagliari 2016), Venice, IUAV University, 203-208 (http://cim.lim.di.unimi.it/2016_CIM_XXI_Atti.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Micheloni",
+     "given": "E."
+    },
+    {
+     "family": "Pretto",
+     "given": "N."
+    },
+    {
+     "family": "Avanzini",
+     "given": "F."
+    },
+    {
+     "family": "Canazza",
+     "given": "S."
+    },
+    {
+     "family": "Rodà",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Terzaroli",
+     "given": "A."
+    },
+    {
+     "family": "Valle",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Installazioni interattive per la valorizzazione di strumenti musicali antichi: il flauto di Pan del Museo di Scienze Archeologiche e d'Arte dell'Università degli Studi di Padova",
+   "is_part_of": [
+    "Extending Interactivity. Atti del XXI CIM - Colloquio di Informatica Musicale (Cagliari 2016)"
+   ],
+   "pages": "203-208",
+   "publisher": "IUAV University",
+   "place": "Venice",
+   "language": "ita",
+   "uri": "http://cim.lim.di.unimi.it/2016_CIM_XXI_Atti.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Polychronopoulos S., Marini D., Bakogiannis K., Kouroupetroglou G.T., Psaroudakês S., Georgaki A. 2021, *Physical modeling of the ancient Greek wind musical instrument aulos: A double-reed exciter linked to an acoustic resonator*, «IEEE Access», 9, 98150-98160 (10.1109/ACCESS.2021.3095720).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Polychronopoulos",
+     "given": "S."
+    },
+    {
+     "family": "Marini",
+     "given": "D."
+    },
+    {
+     "family": "Bakogiannis",
+     "given": "K."
+    },
+    {
+     "family": "Kouroupetroglou",
+     "given": "G.T."
+    },
+    {
+     "family": "Psaroudakês",
+     "given": "S."
+    },
+    {
+     "family": "Georgaki",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "Physical modeling of the ancient Greek wind musical instrument aulos: A double-reed exciter linked to an acoustic resonator",
+   "is_part_of": [
+    "IEEE Access"
+   ],
+   "volume": "9",
+   "pages": "98150-98160",
+   "language": "eng",
+   "doi": "10.1109/ACCESS.2021.3095720",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Pretto N., Micheloni E., Gasparotto S., Fantozzi C., De Poli G., Canazza S. 2020, *Technology-enhanced interaction with cultural heritage: An ancient Pan flute from Egypt*, «Journal on Computing and Cultural Heritage», 13, 2, 267-280 (https://doi.org/10.1145/3355395).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pretto",
+     "given": "N."
+    },
+    {
+     "family": "Micheloni",
+     "given": "E."
+    },
+    {
+     "family": "Gasparotto",
+     "given": "S."
+    },
+    {
+     "family": "Fantozzi",
+     "given": "C."
+    },
+    {
+     "family": "De Poli",
+     "given": "G."
+    },
+    {
+     "family": "Canazza",
+     "given": "S."
+    }
+   ],
+   "date": "2020",
+   "title": "Technology-enhanced interaction with cultural heritage: An ancient Pan flute from Egypt",
+   "is_part_of": [
+    "Journal on Computing and Cultural Heritage"
+   ],
+   "volume": "13",
+   "issue": "2",
+   "pages": "267-280",
+   "language": "eng",
+   "doi": "10.1145/3355395",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Psaroudakês S. 2014, *The aulos of Poseidōnia*, in A. Bellia (ed.), Musica, culti e riti dei Greci d'Occidente, Roma-Pisa, Istituti Editoriali e Poligrafici Internazionali, 117-129.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Psaroudakês",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bellia",
+     "given": "A."
+    }
+   ],
+   "date": "2014",
+   "title": "The aulos of Poseidōnia",
+   "is_part_of": [
+    "Musica, culti e riti dei Greci d'Occidente"
+   ],
+   "pages": "117-129",
+   "publisher": "Istituti Editoriali e Poligrafici Internazionali",
+   "place": "Roma-Pisa",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Ravani A., Thun Hohenstein U. 2010, *Oggetti d'uso quotidiano in materia dura animale proveniente dal sito di I-VI sec. d.C. di Chiusano, Ficarolo – Gaiba (Rovigo)*, in A. Tagliacozzo, I. Fiore, S. Marconi, U. Tecchiati (eds.), Atti del V Convegno Nazionale di Archeozoologia (Rovereto 2006), Rovereto, Osiride, 253-255.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ravani",
+     "given": "A."
+    },
+    {
+     "family": "Thun Hohenstein",
+     "given": "U."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Tagliacozzo",
+     "given": "A."
+    },
+    {
+     "family": "Fiore",
+     "given": "I."
+    },
+    {
+     "family": "Marconi",
+     "given": "S."
+    },
+    {
+     "family": "Tecchiati",
+     "given": "U."
+    }
+   ],
+   "date": "2010",
+   "title": "Oggetti d'uso quotidiano in materia dura animale proveniente dal sito di I-VI sec. d.C. di Chiusano, Ficarolo – Gaiba (Rovigo)",
+   "is_part_of": [
+    "Atti del V Convegno Nazionale di Archeozoologia (Rovereto 2006)"
+   ],
+   "pages": "253-255",
+   "publisher": "Osiride",
+   "place": "Rovereto",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Safa E., Barreau J.-B., Gaugne R., Duchemin W., Talma J.-D., Arnaldi B., Dumont G., Gouranton V. 2016, *Digital and handcrafting processes applied to sound-studies of archaeological bone flutes*, in M. Ioannides, E. Fink, A. Moropoulou, M. Hagedorn-Saupe, A. Fresa, G. Liestøl, V. Rajcic, P. Grussenmeyer (eds.), Digital Heritage. Progress in Cultural Heritage: Documentation, Preservation, and Protection. 6th International Conference, EuroMed 2016 (Nicosia 2016), Berlin, Springer, 184-195 (https://doi.org/10.1007/978-3-319-48496-9_15).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Safa",
+     "given": "E."
+    },
+    {
+     "family": "Barreau",
+     "given": "J.-B."
+    },
+    {
+     "family": "Gaugne",
+     "given": "R."
+    },
+    {
+     "family": "Duchemin",
+     "given": "W."
+    },
+    {
+     "family": "Talma",
+     "given": "J.-D."
+    },
+    {
+     "family": "Arnaldi",
+     "given": "B."
+    },
+    {
+     "family": "Dumont",
+     "given": "G."
+    },
+    {
+     "family": "Gouranton",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Fink",
+     "given": "E."
+    },
+    {
+     "family": "Moropoulou",
+     "given": "A."
+    },
+    {
+     "family": "Hagedorn-Saupe",
+     "given": "M."
+    },
+    {
+     "family": "Fresa",
+     "given": "A."
+    },
+    {
+     "family": "Liestøl",
+     "given": "G."
+    },
+    {
+     "family": "Rajcic",
+     "given": "V."
+    },
+    {
+     "family": "Grussenmeyer",
+     "given": "P."
+    }
+   ],
+   "date": "2016",
+   "title": "Digital and handcrafting processes applied to sound-studies of archaeological bone flutes",
+   "is_part_of": [
+    "Digital Heritage. Progress in Cultural Heritage: Documentation, Preservation, and Protection. 6th International Conference, EuroMed 2016 (Nicosia 2016)"
+   ],
+   "pages": "184-195",
+   "publisher": "Springer",
+   "place": "Berlin",
+   "language": "eng",
+   "doi": "10.1007/978-3-319-48496-9_15",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Sun Z., Rodà A., Whiting E., Faresin E., Salemi G. 2020, *3D virtual reconstruction and sound simulation of an ancient Roman brass musical instrument*, in M. Rauterberg (ed.), Culture and Computing. HCII 2020, Lecture Notes in Computer Science, 12215, Cham, Springer (https://link.springer.com/chapter/10.1007/978-3-030-50267-6_21#citeas).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sun",
+     "given": "Z."
+    },
+    {
+     "family": "Rodà",
+     "given": "A."
+    },
+    {
+     "family": "Whiting",
+     "given": "E."
+    },
+    {
+     "family": "Faresin",
+     "given": "E."
+    },
+    {
+     "family": "Salemi",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rauterberg",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "3D virtual reconstruction and sound simulation of an ancient Roman brass musical instrument",
+   "is_part_of": [
+    "Culture and Computing. HCII 2020"
+   ],
+   "series": "Lecture Notes in Computer Science",
+   "series_number": "12215",
+   "publisher": "Springer",
+   "place": "Cham",
+   "language": "eng",
+   "uri": "https://link.springer.com/chapter/10.1007/978-3-030-50267-6_21#citeas",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Swift E., Bosworth L., Creese D., Morris G., Pudsey A., Richardson J., Stoner J., Walker F., Wright G. 2021, *Creation of functional replica Roman and Late Antique musical instruments through 3D scanning and printing technology, and their use in research and museum education*, «Internet Archaeology», 56 (https://doi.org/10.11141/ia.56.1).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Swift",
+     "given": "E."
+    },
+    {
+     "family": "Bosworth",
+     "given": "L."
+    },
+    {
+     "family": "Creese",
+     "given": "D."
+    },
+    {
+     "family": "Morris",
+     "given": "G."
+    },
+    {
+     "family": "Pudsey",
+     "given": "A."
+    },
+    {
+     "family": "Richardson",
+     "given": "J."
+    },
+    {
+     "family": "Stoner",
+     "given": "J."
+    },
+    {
+     "family": "Walker",
+     "given": "F."
+    },
+    {
+     "family": "Wright",
+     "given": "G."
+    }
+   ],
+   "date": "2021",
+   "title": "Creation of functional replica Roman and Late Antique musical instruments through 3D scanning and printing technology, and their use in research and museum education",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "56",
+   "language": "eng",
+   "doi": "10.11141/ia.56.1",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Tronchin L. 2020 (ed.), *Special issue on musical instruments: Acoustics and vibration*, «Applied Sciences», 10, 9, 3294 (https://doi.org/10.3390/app10093294).",
+   "type": "article",
+   "editors": [
+    {
+     "family": "Tronchin",
+     "given": "L."
+    }
+   ],
+   "date": "2020",
+   "title": "Special issue on musical instruments: Acoustics and vibration",
+   "is_part_of": [
+    "Applied Sciences"
+   ],
+   "volume": "10",
+   "issue": "9",
+   "pages": "3294",
+   "language": "eng",
+   "doi": "10.3390/app10093294",
+   "notes": "3294 is an article number",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "West M.L. 1992, *Ancien Greek Music*, Oxford, Clarendon Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "West",
+     "given": "M.L."
+    }
+   ],
+   "date": "1992",
+   "title": "Ancient Greek Music",
+   "publisher": "Clarendon Press",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "cited as \"Ancien Greek Music\" (typo corrected)",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Zoran A. 2011, *The 3D printed flute: Digital fabrication and design of musical instruments*, «Journal of New Music Research», 40, 4, 379-387 (https://doi.org/10.1080/09298215.2011.621541).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zoran",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "The 3D printed flute: Digital fabrication and design of musical instruments",
+   "is_part_of": [
+    "Journal of New Music Research"
+   ],
+   "volume": "40",
+   "issue": "4",
+   "pages": "379-387",
+   "language": "eng",
+   "doi": "10.1080/09298215.2011.621541",
+   "confidence": "high"
+  }
+ ]
+}

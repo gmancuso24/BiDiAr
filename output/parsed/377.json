@@ -1,0 +1,1048 @@
+{
+ "citing_aec_id": 377,
+ "source_file": "data/journal/15/377.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV. 1993, Sistema de clasificación de documentación etnográfica española. Anales del Museo del Pueblo Español, Madrid, Ministerio de Cultura.",
+   "type": "book",
+   "date": "1993",
+   "title": "Sistema de clasificación de documentación etnográfica española. Anales del Museo del Pueblo Español",
+   "publisher": "Ministerio de Cultura",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Abejón Peña T. 2000, Un instrumento versátil e idóneo para la interconexión de sistemas de información: Tesauro de Patrimonio Histórico Andaluz, «Boletín del Instituto Andaluz del Patrimonio Histórico», 31, 134-141, Sevilla.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Abejón Peña",
+     "given": "T."
+    }
+   ],
+   "date": "2000",
+   "title": "Un instrumento versátil e idóneo para la interconexión de sistemas de información: Tesauro de Patrimonio Histórico Andaluz",
+   "is_part_of": [
+    "Boletín del Instituto Andaluz del Patrimonio Histórico"
+   ],
+   "volume": "31",
+   "pages": "134-141",
+   "language": "spa",
+   "notes": "Sevilla (place) in the citation after the pages",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Alcina Franch J. (ed.) 1998, Diccionario de Arqueología, Madrid, Alianza.",
+   "type": "book",
+   "date": "1998",
+   "title": "Diccionario de Arqueología",
+   "editors": [
+    {
+     "family": "Alcina Franch",
+     "given": "J."
+    }
+   ],
+   "publisher": "Alianza",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Beagrie N., Abercromby D. 1992, The Archaeological Site Types Thesaurus. Thesauri for Museum Documentation, «Museum Documentation Association Occasional Paper», 18, MDA.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Beagrie",
+     "given": "N."
+    },
+    {
+     "family": "Abercromby",
+     "given": "D."
+    }
+   ],
+   "date": "1992",
+   "title": "The Archaeological Site Types Thesaurus. Thesauri for Museum Documentation",
+   "is_part_of": [
+    "Museum Documentation Association Occasional Paper"
+   ],
+   "volume": "18",
+   "language": "eng",
+   "notes": "publisher MDA in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bergman D. 1994, EDOC. Egyptological documentation on computer. New relational database structure, new multiple window user interface and interface to the multilingual thesaurus, «Informatique et Egyptologie», 9, 10-16.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bergman",
+     "given": "D."
+    }
+   ],
+   "date": "1994",
+   "title": "EDOC. Egyptological documentation on computer. New relational database structure, new multiple window user interface and interface to the multilingual thesaurus",
+   "is_part_of": [
+    "Informatique et Egyptologie"
+   ],
+   "volume": "9",
+   "pages": "10-16",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Bewley R. (ed.) 1999, Archiving Aerial Photography and Remote Sensing Data: A Guide to Good Practice, Oxford, Oxbow Books for the Arts and Humanities Data Service.",
+   "type": "book",
+   "date": "1999",
+   "title": "Archiving Aerial Photography and Remote Sensing Data: A Guide to Good Practice",
+   "editors": [
+    {
+     "family": "Bewley",
+     "given": "R."
+    }
+   ],
+   "publisher": "Oxbow Books for the Arts and Humanities Data Service",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Bray W., Trump D. 1976, Diccionario de Arqueología, Barcelona, Labor.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bray",
+     "given": "W."
+    },
+    {
+     "family": "Trump",
+     "given": "D."
+    }
+   ],
+   "date": "1976",
+   "title": "Diccionario de Arqueología",
+   "publisher": "Labor",
+   "place": "Barcelona",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Brezillon M. 1969, Dictionnaire de la Prehistoire, Paris, Larousse.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Brezillon",
+     "given": "M."
+    }
+   ],
+   "date": "1969",
+   "title": "Dictionnaire de la Prehistoire",
+   "publisher": "Larousse",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Carlisle P. 2001, HITITE: The heritage illustrated thesaurus. An online resource for monument identification, in C.P. Clarke (ed.), Protecting the Past in the Present for the Future. The Development of SMRs in the Planarch Project Region and Beyond. Papers from the Planarch Chelmsford Seminar (May, 2001), Chelmsford, Essex County Council, 65-68.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Carlisle",
+     "given": "P."
+    }
+   ],
+   "date": "2001",
+   "title": "HITITE: The heritage illustrated thesaurus. An online resource for monument identification",
+   "editors": [
+    {
+     "family": "Clarke",
+     "given": "C.P."
+    }
+   ],
+   "is_part_of": [
+    "Protecting the Past in the Present for the Future. The Development of SMRs in the Planarch Project Region and Beyond. Papers from the Planarch Chelmsford Seminar (May, 2001)"
+   ],
+   "pages": "65-68",
+   "publisher": "Essex County Council",
+   "place": "Chelmsford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Carretero Pérez A. 2001, El proyecto de normalización documental de museos: reflexiones y perspectivas, «Boletín del Instituto Andaluz del Patrimonio Histórico», 34, 166-176.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carretero Pérez",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "El proyecto de normalización documental de museos: reflexiones y perspectivas",
+   "is_part_of": [
+    "Boletín del Instituto Andaluz del Patrimonio Histórico"
+   ],
+   "volume": "34",
+   "pages": "166-176",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Chatenet M., Verdier H. 2000, Thesaurus de l'Architecture, Paris, Direction de l'Architecture et du Patrimoine.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chatenet",
+     "given": "M."
+    },
+    {
+     "family": "Verdier",
+     "given": "H."
+    }
+   ],
+   "date": "2000",
+   "title": "Thesaurus de l’Architecture",
+   "publisher": "Direction de l’Architecture et du Patrimoine",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "CIDOC 1995, Draft International Core Data Standard for Archaeological Sites and Monuments, Paris (CIDOC = Comité International pour la Documentation Scientifique).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "CIDOC",
+     "given": ""
+    }
+   ],
+   "date": "1995",
+   "title": "Draft International Core Data Standard for Archaeological Sites and Monuments",
+   "place": "Paris",
+   "language": "eng",
+   "notes": "CIDOC = Comité International pour la Documentation Scientifique",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "CIDOC-ASWG 2000, World Survey of Inventories of Archaeological Sites (http://www.natmus.min.dk/cidoc/archsite/survey/survey.htm).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "CIDOC-ASWG",
+     "given": ""
+    }
+   ],
+   "date": "2000",
+   "title": "World Survey of Inventories of Archaeological Sites",
+   "uri": "http://www.natmus.min.dk/cidoc/archsite/survey/survey.htm",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Coe 1992, European Convention on the Protection of the Archaeological Heritage (Valetta 1992), European Treaty Series 143, Strasbourg, European Council.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Coe",
+     "given": ""
+    }
+   ],
+   "date": "1992",
+   "title": "European Convention on the Protection of the Archaeological Heritage (Valetta 1992)",
+   "series": "European Treaty Series",
+   "series_number": "143",
+   "publisher": "European Council",
+   "place": "Strasbourg",
+   "language": "eng",
+   "notes": "author \"Coe\" (Council of Europe) as cited",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Coe 1995, European Bronze Age Monuments. A Multilingual Glossary of Archaeological Terminology, Amersfoot, Council of Europe Glossary SS7.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Coe",
+     "given": ""
+    }
+   ],
+   "date": "1995",
+   "title": "European Bronze Age Monuments. A Multilingual Glossary of Archaeological Terminology",
+   "series": "Council of Europe Glossary",
+   "series_number": "SS7",
+   "place": "Amersfoot",
+   "language": "eng",
+   "notes": "author \"Coe\" (Council of Europe) as cited",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Cunha I. 1990, Do mito a análise documéntaria, Sao Paulo, Edusp.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cunha",
+     "given": "I."
+    }
+   ],
+   "date": "1990",
+   "title": "Do mito a análise documéntaria",
+   "publisher": "Edusp",
+   "place": "Sao Paulo",
+   "language": "por",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Ellis L. (ed.) 2000, Archaeological Method and Theory. An Encyclopedia, New York, Garland Publishing.",
+   "type": "book",
+   "date": "2000",
+   "title": "Archaeological Method and Theory. An Encyclopedia",
+   "editors": [
+    {
+     "family": "Ellis",
+     "given": "L."
+    }
+   ],
+   "publisher": "Garland Publishing",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Fatás G., Borrás G. 1990, Diccionario de términos de arte y elementos de arqueología, heráldica y numismática, Madrid, Alianza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fatás",
+     "given": "G."
+    },
+    {
+     "family": "Borrás",
+     "given": "G."
+    }
+   ],
+   "date": "1990",
+   "title": "Diccionario de términos de arte y elementos de arqueología, heráldica y numismática",
+   "publisher": "Alianza",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Fernández Cacho S. (ed.) 2002, ARQUEOS. Sistema de información del patrimonio arqueológico de Andalucía, Sevilla, Junta de Andalucía.",
+   "type": "book",
+   "date": "2002",
+   "title": "ARQUEOS. Sistema de información del patrimonio arqueológico de Andalucía",
+   "editors": [
+    {
+     "family": "Fernández Cacho",
+     "given": "S."
+    }
+   ],
+   "publisher": "Junta de Andalucía",
+   "place": "Sevilla",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Fillmore C.J. 1968, The case for case, in E. Bach, R.T. Harm (eds.), Universals in Linguistic Theory, New York, Holt, Rinehart and Winston.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fillmore",
+     "given": "C.J."
+    }
+   ],
+   "date": "1968",
+   "title": "The case for case",
+   "editors": [
+    {
+     "family": "Bach",
+     "given": "E."
+    },
+    {
+     "family": "Harm",
+     "given": "R.T."
+    }
+   ],
+   "is_part_of": [
+    "Universals in Linguistic Theory"
+   ],
+   "publisher": "Holt, Rinehart and Winston",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Francovich R., Manacorda D. (eds.) 2002, Diccionario de Arqueología, Barcelona, Crítica.",
+   "type": "book",
+   "date": "2002",
+   "title": "Diccionario de Arqueología",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "publisher": "Crítica",
+   "place": "Barcelona",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "García Gutiérrez A. 1998, Principios de lenguaje epistemográfico. La representación del conocimiento sobre Patrimonio Histórico Andaluz, Sevilla, Junta de Andalucía.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "García Gutiérrez",
+     "given": "A."
+    }
+   ],
+   "date": "1998",
+   "title": "Principios de lenguaje epistemográfico. La representación del conocimiento sobre Patrimonio Histórico Andaluz",
+   "publisher": "Junta de Andalucía",
+   "place": "Sevilla",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "García Gutiérrez A. 1999, Lenguajes documentales e información de actualidad, in Introducción a la Documentación Informativa y Periodística, Sevilla, Mad, 351-372.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "García Gutiérrez",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "Lenguajes documentales e información de actualidad",
+   "is_part_of": [
+    "Introducción a la Documentación Informativa y Periodística"
+   ],
+   "pages": "351-372",
+   "publisher": "Mad",
+   "place": "Sevilla",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "García Gutiérrez A. 2000, Itinerarios de representación del conocimiento en la sociedad de la información: bases para la construcción epistemográfica del patrimonio histórico andaluz, «Boletín del Instituto Andaluz del Patrimonio Histórico», 31, 96-105, Sevilla, Junta de Andalucía.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "García Gutiérrez",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "Itinerarios de representación del conocimiento en la sociedad de la información: bases para la construcción epistemográfica del patrimonio histórico andaluz",
+   "is_part_of": [
+    "Boletín del Instituto Andaluz del Patrimonio Histórico"
+   ],
+   "volume": "31",
+   "pages": "96-105",
+   "language": "spa",
+   "notes": "Sevilla, Junta de Andalucía in the citation after the pages",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "García Sanjuán L., Hurtado Pérez V. 2000, Quince mil palabras de viaje sin destino. La terminología arqueológica dentro del Tesauro de Patrimonio Histórico de Andalucía, «Boletín Informativo del Instituto Andaluz del Patrimonio Histórico», 31, 112-117.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "García Sanjuán",
+     "given": "L."
+    },
+    {
+     "family": "Hurtado Pérez",
+     "given": "V."
+    }
+   ],
+   "date": "2000",
+   "title": "Quince mil palabras de viaje sin destino. La terminología arqueológica dentro del Tesauro de Patrimonio Histórico de Andalucía",
+   "is_part_of": [
+    "Boletín Informativo del Instituto Andaluz del Patrimonio Histórico"
+   ],
+   "volume": "31",
+   "pages": "112-117",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Gillings M., Wise A. (eds.) 1998, GIS Guide to Good Practice, Oxford, Oxbow.",
+   "type": "book",
+   "date": "1998",
+   "title": "GIS Guide to Good Practice",
+   "editors": [
+    {
+     "family": "Gillings",
+     "given": "M."
+    },
+    {
+     "family": "Wise",
+     "given": "A."
+    }
+   ],
+   "publisher": "Oxbow",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "IAPH 1998, Tesauro de Patrimonio Histórico Andaluz, Sevilla, Instituto Andaluz del Patrimonio Histórico.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "IAPH",
+     "given": ""
+    }
+   ],
+   "date": "1998",
+   "title": "Tesauro de Patrimonio Histórico Andaluz",
+   "publisher": "Instituto Andaluz del Patrimonio Histórico",
+   "place": "Sevilla",
+   "language": "spa",
+   "notes": "author \"IAPH\" = Instituto Andaluz del Patrimonio Histórico",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Kilbride W. 2002, Mapping the heritage information landscape: interoperability and geo-spatial description in the management of Europe's historic environment, in L. García Sanjuán, D. Wheatley (eds.), Mapping the Future of the Past. Managing the Spatial Dimension of the European Archaeological Resource, Seville, University of Seville, University of Southampton and IAPH, 115-128.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kilbride",
+     "given": "W."
+    }
+   ],
+   "date": "2002",
+   "title": "Mapping the heritage information landscape: interoperability and geo-spatial description in the management of Europe’s historic environment",
+   "editors": [
+    {
+     "family": "García Sanjuán",
+     "given": "L."
+    },
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Mapping the Future of the Past. Managing the Spatial Dimension of the European Archaeological Resource"
+   ],
+   "pages": "115-128",
+   "publisher": "University of Seville, University of Southampton and IAPH",
+   "place": "Seville",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Ladrón de Guevara M.C. 1996, Experiencias del Centro de Documentación: el sistema de información del patrimonio histórico (SIPHA), in AA.VV., Catalogación del Patrimonio Histórico, Sevilla, Junta de Andalucía, 58-71.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ladrón de Guevara",
+     "given": "M.C."
+    }
+   ],
+   "date": "1996",
+   "title": "Experiencias del Centro de Documentación: el sistema de información del patrimonio histórico (SIPHA)",
+   "is_part_of": [
+    "Catalogación del Patrimonio Histórico"
+   ],
+   "pages": "58-71",
+   "publisher": "Junta de Andalucía",
+   "place": "Sevilla",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Leroi-Gourhan A. (ed.) 1988, Dictionnaire de la Prehistoire, Paris, P.U.F.",
+   "type": "book",
+   "date": "1988",
+   "title": "Dictionnaire de la Prehistoire",
+   "editors": [
+    {
+     "family": "Leroi-Gourhan",
+     "given": "A."
+    }
+   ],
+   "publisher": "P.U.F.",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Menéndez M., Jimeno A., Fernández V. 1997, Diccionario de Prehistoria, Madrid, Alianza Universidad.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Menéndez",
+     "given": "M."
+    },
+    {
+     "family": "Jimeno",
+     "given": "A."
+    },
+    {
+     "family": "Fernández",
+     "given": "V."
+    }
+   ],
+   "date": "1997",
+   "title": "Diccionario de Prehistoria",
+   "publisher": "Alianza Universidad",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "MDA 1997, Archaeological Objects Thesaurus, Museum Documentation Association.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "MDA",
+     "given": ""
+    }
+   ],
+   "date": "1997",
+   "title": "Archaeological Objects Thesaurus",
+   "publisher": "Museum Documentation Association",
+   "language": "eng",
+   "notes": "author \"MDA\" = Museum Documentation Association",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Moscati P., Tagliamonte G. (eds.) 1998, Methodological Trends and Future Perspectives in the Application of GIS to Archaeology, «Archeologia e Calcolatori», 9, Firenze, All'Insegna del Giglio.",
+   "type": "proceedings",
+   "date": "1998",
+   "title": "Methodological Trends and Future Perspectives in the Application of GIS to Archaeology",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Tagliamonte",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "eng",
+   "notes": "AeC 9, whole volume",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Muñoz Cruz V. 1996, La normalización del Sistema de Información del Patrimonio Histórico de Andalucía: el Tesauro de Patrimonio Histórico, «Boletín del Instituto Andaluz del Patrimonio Histórico», 14, 100-115, Sevilla, Junta de Andalucía.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Muñoz Cruz",
+     "given": "V."
+    }
+   ],
+   "date": "1996",
+   "title": "La normalización del Sistema de Información del Patrimonio Histórico de Andalucía: el Tesauro de Patrimonio Histórico",
+   "is_part_of": [
+    "Boletín del Instituto Andaluz del Patrimonio Histórico"
+   ],
+   "volume": "14",
+   "pages": "100-115",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Muñoz Cruz V. 2001, Hacia un sistema integrado del Patrimonio Histórico de Andalucía: la base de datos del Patrimonio Inmueble, «Boletín del Instituto Andaluz del Patrimonio Histórico», 37, 223-229, Sevilla, Junta de Andalucía.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Muñoz Cruz",
+     "given": "V."
+    }
+   ],
+   "date": "2001",
+   "title": "Hacia un sistema integrado del Patrimonio Histórico de Andalucía: la base de datos del Patrimonio Inmueble",
+   "is_part_of": [
+    "Boletín del Instituto Andaluz del Patrimonio Histórico"
+   ],
+   "volume": "37",
+   "pages": "223-229",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Ocampo E. 1988, Diccionario de términos artísticos y arqueológicos, Barcelona, Montesinos.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ocampo",
+     "given": "E."
+    }
+   ],
+   "date": "1988",
+   "title": "Diccionario de términos artísticos y arqueológicos",
+   "publisher": "Montesinos",
+   "place": "Barcelona",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Petersen T. (ed.) 1990, Art and Architecture Thesaurus, New York, Oxford University Press.",
+   "type": "book",
+   "date": "1990",
+   "title": "Art and Architecture Thesaurus",
+   "editors": [
+    {
+     "family": "Petersen",
+     "given": "T."
+    }
+   ],
+   "publisher": "Oxford University Press",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Pottier B. 1976, Lingüística General. Teoría y Descripción, Madrid, Gredos.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pottier",
+     "given": "B."
+    }
+   ],
+   "date": "1976",
+   "title": "Lingüística General. Teoría y Descripción",
+   "publisher": "Gredos",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Rachet G. 1983, Dictionnaire de l'Archéologie, Paris, Robert Laffont.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rachet",
+     "given": "G."
+    }
+   ],
+   "date": "1983",
+   "title": "Dictionnaire de l’Archéologie",
+   "publisher": "Robert Laffont",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Ranganathan S.R. 1967, Prolegomena to Library Classification, Bombay, Asian Publishing House (3° ed.).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ranganathan",
+     "given": "S.R."
+    }
+   ],
+   "date": "1967",
+   "title": "Prolegomena to Library Classification",
+   "publisher": "Asian Publishing House",
+   "place": "Bombay",
+   "language": "eng",
+   "edition": "3",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "REDC 1989, Documentación. Directrices para el establecimiento y desarrollo de tesauros monolingües (PNE-50106, ISO 2788-1986). Parte 1, «Revista Española de Documentación Científica», 12 (4), 463-483.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "REDC",
+     "given": ""
+    }
+   ],
+   "date": "1989",
+   "title": "Documentación. Directrices para el establecimiento y desarrollo de tesauros monolingües (PNE-50106, ISO 2788-1986). Parte 1",
+   "is_part_of": [
+    "Revista Española de Documentación Científica"
+   ],
+   "volume": "12",
+   "issue": "4",
+   "pages": "463-483",
+   "language": "spa",
+   "notes": "author \"REDC\" = Revista Española de Documentación Científica (as cited)",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "REDC 1990, Documentación. Directrices para el establecimiento y desarrollo de tesauros monolingües (PNE-50106, ISO 2788-1986). Parte 2, «Revista Española de Documentación Científica», 13 (1), 601-629.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "REDC",
+     "given": ""
+    }
+   ],
+   "date": "1990",
+   "title": "Documentación. Directrices para el establecimiento y desarrollo de tesauros monolingües (PNE-50106, ISO 2788-1986). Parte 2",
+   "is_part_of": [
+    "Revista Española de Documentación Científica"
+   ],
+   "volume": "13",
+   "issue": "1",
+   "pages": "601-629",
+   "language": "spa",
+   "notes": "author \"REDC\" (as cited)",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "RCHME 1986, Thesaurus of Archaeological Terms, London, Royal Commission on the Historical Monuments of England.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "RCHME",
+     "given": ""
+    }
+   ],
+   "date": "1986",
+   "title": "Thesaurus of Archaeological Terms",
+   "publisher": "Royal Commission on the Historical Monuments of England",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "RCHME 1989, Revised Thesaurus of Architectural Terms, London, Royal Commission on the Historical Monuments of England.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "RCHME",
+     "given": ""
+    }
+   ],
+   "date": "1989",
+   "title": "Revised Thesaurus of Architectural Terms",
+   "publisher": "Royal Commission on the Historical Monuments of England",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "RCHME 1993, Recording England's Past. A Data Standard for the Extended National Archaeological Record, Swindon, Royal Commission on the Historical Monuments of England.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "RCHME",
+     "given": ""
+    }
+   ],
+   "date": "1993",
+   "title": "Recording England’s Past. A Data Standard for the Extended National Archaeological Record",
+   "publisher": "Royal Commission on the Historical Monuments of England",
+   "place": "Swindon",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "RCHME 1998, MIDAS. A Manual and Data Standard for Monument Inventories, Swindon, Royal Commission on the Historical Monuments of England.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "RCHME",
+     "given": ""
+    }
+   ],
+   "date": "1998",
+   "title": "MIDAS. A Manual and Data Standard for Monument Inventories",
+   "publisher": "Royal Commission on the Historical Monuments of England",
+   "place": "Swindon",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "RCHME-EH 1992, Thesaurus of Archaeological Site Types, London, Royal Commission on the Historical Monuments of England.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "RCHME-EH",
+     "given": ""
+    }
+   ],
+   "date": "1992",
+   "title": "Thesaurus of Archaeological Site Types",
+   "publisher": "Royal Commission on the Historical Monuments of England",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "RCHME-EH 1995, Thesaurus of Monument Types. A Standard for Use in Archaeological and Architectural Records, Swindon, Royal Commission on the Historical Monuments of England.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "RCHME-EH",
+     "given": ""
+    }
+   ],
+   "date": "1995",
+   "title": "Thesaurus of Monument Types. A Standard for Use in Archaeological and Architectural Records",
+   "publisher": "Royal Commission on the Historical Monuments of England",
+   "place": "Swindon",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "RCHME-EH 1996, Thesaurus of Building Materials, Swindon, Royal Commission on the Historical Monuments of England.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "RCHME-EH",
+     "given": ""
+    }
+   ],
+   "date": "1996",
+   "title": "Thesaurus of Building Materials",
+   "publisher": "Royal Commission on the Historical Monuments of England",
+   "place": "Swindon",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "Schmidt A. 2001, Geophysical Data in Archaeology. A Guide to Good Practice, Oxford, Oxbow Books.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Schmidt",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Geophysical Data in Archaeology. A Guide to Good Practice",
+   "publisher": "Oxbow Books",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 51,
+   "raw": "Van der Plas D. (ed.) 1996, Egyptological Thesaurus, Paris-Utrech, ICOM.",
+   "type": "book",
+   "date": "1996",
+   "title": "Egyptological Thesaurus",
+   "editors": [
+    {
+     "family": "Van der Plas",
+     "given": "D."
+    }
+   ],
+   "publisher": "ICOM",
+   "place": "Paris-Utrech",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "Van Leusen M. 2001, Indexing and retrieving archaeological resources on the Internet. A prototype multilingual thesaurus application, in Z. Stancic, T. Veljanovski (eds.), Computing Archaeology for Understanding the Past. Computer Applications and Quantitative Methods in Archaeology 2000, Oxford, Archaeopress, 303-312.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Indexing and retrieving archaeological resources on the Internet. A prototype multilingual thesaurus application",
+   "editors": [
+    {
+     "family": "Stancic",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. Computer Applications and Quantitative Methods in Archaeology 2000"
+   ],
+   "pages": "303-312",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 53,
+   "raw": "Whitehouse R. (ed.) 1985, MacMillan Dictionary of Archaeology, London, MacMillan Press.",
+   "type": "book",
+   "date": "1985",
+   "title": "MacMillan Dictionary of Archaeology",
+   "editors": [
+    {
+     "family": "Whitehouse",
+     "given": "R."
+    }
+   ],
+   "publisher": "MacMillan Press",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

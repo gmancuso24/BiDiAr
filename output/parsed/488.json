@@ -1,0 +1,802 @@
+{
+ "citing_aec_id": 488,
+ "source_file": "data/journal/19/488.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Allen J.F. 1984, Towards a general theory of action and time, «Artificial Intelligence», 23, 2, 123-154.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Allen",
+     "given": "J.F."
+    }
+   ],
+   "date": "1984",
+   "title": "Towards a general theory of action and time",
+   "is_part_of": [
+    "Artificial Intelligence"
+   ],
+   "volume": "23",
+   "issue": "2",
+   "pages": "123-154",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Berge C. 1958, Théorie des graphes et ses applications, Collection universitaire de mathématiques, Paris, Dunod.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Berge",
+     "given": "C."
+    }
+   ],
+   "date": "1958",
+   "title": "Théorie des graphes et ses applications",
+   "series": "Collection universitaire de mathématiques",
+   "publisher": "Dunod",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Biddle M., Hudson D. 1973, The Future of London’s Past: a survey of the archaeological implications of planning and development in the nation’s capital, Worcester, Rescue.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Biddle",
+     "given": "M."
+    },
+    {
+     "family": "Hudson",
+     "given": "D."
+    }
+   ],
+   "date": "1973",
+   "title": "The Future of London's Past: a survey of the archaeological implications of planning and development in the nation's capital",
+   "publisher": "Rescue",
+   "place": "Worcester",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Boffet A. 2002, L’analyse des villes, in A. Ruas, Généralisation et représentation multiple, Traité IGAT, Paris, Hermès, 225-240.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Boffet",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ruas",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "L'analyse des villes",
+   "is_part_of": [
+    "Généralisation et représentation multiple"
+   ],
+   "series": "Traité IGAT",
+   "pages": "225-240",
+   "publisher": "Hermès",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "A. Ruas cited without '(ed.)': treated as editor of the volume",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Egenhofer J.M., Golledge G.R. 1998, Spatial and Temporal Reasoning in Geographic Information, Oxford, Oxford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Egenhofer",
+     "given": "J.M."
+    },
+    {
+     "family": "Golledge",
+     "given": "G.R."
+    }
+   ],
+   "date": "1998",
+   "title": "Spatial and Temporal Reasoning in Geographic Information",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "initials as cited",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Frank A., Raper J., Cheylan J. (eds.) 2001, Life and Motion of Socio-Economic Units, GISDATA 8, London, Taylor & Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Frank",
+     "given": "A."
+    },
+    {
+     "family": "Raper",
+     "given": "J."
+    },
+    {
+     "family": "Cheylan",
+     "given": "J."
+    }
+   ],
+   "date": "2001",
+   "title": "Life and Motion of Socio-Economic Units",
+   "series": "GISDATA",
+   "series_number": "8",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Galinié H. 2000, Ville, espace urbain et archéologie, coll. Sciences de la Ville 16, MSH Villes et territoires, Tours.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Galinié",
+     "given": "H."
+    }
+   ],
+   "date": "2000",
+   "title": "Ville, espace urbain et archéologie",
+   "series": "Sciences de la Ville",
+   "series_number": "16",
+   "publisher": "MSH Villes et territoires",
+   "place": "Tours",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Galinié H., Rodier X. 2002, ToToPI, un outil d’analyse urbaine, «Les petits cahiers d’Anatole» 11 (http://www.univ-tours.fr/lat/pdf/F2_11.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Galinié",
+     "given": "H."
+    },
+    {
+     "family": "Rodier",
+     "given": "X."
+    }
+   ],
+   "date": "2002",
+   "title": "ToToPI, un outil d'analyse urbaine",
+   "is_part_of": [
+    "Les petits cahiers d'Anatole"
+   ],
+   "volume": "11",
+   "uri": "http://www.univ-tours.fr/lat/pdf/F2_11.pdf",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Galinié H., Rodier X., Saligny L. 2004, Entités fonctionnelles, entités spatiales et dynamique urbaine dans la longue durée, «Histoire & Mesure», 19, 3/4, 223-242.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Galinié",
+     "given": "H."
+    },
+    {
+     "family": "Rodier",
+     "given": "X."
+    },
+    {
+     "family": "Saligny",
+     "given": "L."
+    }
+   ],
+   "date": "2004",
+   "title": "Entités fonctionnelles, entités spatiales et dynamique urbaine dans la longue durée",
+   "is_part_of": [
+    "Histoire & Mesure"
+   ],
+   "volume": "19",
+   "issue": "3/4",
+   "pages": "223-242",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Gauthier E. in press, Consumption and circulation of prehistoric products in Europe: characterization of spatial evolutions using map algebra. Spatial Analysis and Modelling of Ancient Social-Economic Systems, in Layers of Perception. Proceedings of the 35<sup>th</sup> CAA Conference (Berlin 2007), online and on CD.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gauthier",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Posluschny",
+     "given": "A."
+    },
+    {
+     "family": "Lambers",
+     "given": "K."
+    }
+   ],
+   "date": "2008",
+   "title": "Consumption and circulation of prehistoric products in Europe: characterization of spatial evolutions using map algebra",
+   "is_part_of": [
+    "CAA2007: Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA), Berlin, Germany, April 2-6, 2007"
+   ],
+   "series": "Kolloquien zur Vor- und Frühgeschichte",
+   "series_number": "10",
+   "publisher": "Rudolf Habelt",
+   "place": "Bonn",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://proceedings.caaconference.org/?p=4826 ; Propylaeum-Dok eprint 556 (CAA 2007 proceedings); same title and author; volume data from the Tübingen record of the same volume (handle 10900/61143)"
+   },
+   "notes": "cited as 'in press'; 'Spatial Analysis and Modelling of Ancient Social-Economic Systems' is the session title cited after the title; pages not found",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Heighway C. 1972, The Erosion of History, London, Council for British Archaeology.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Heighway",
+     "given": "C."
+    }
+   ],
+   "date": "1972",
+   "title": "The Erosion of History",
+   "publisher": "Council for British Archaeology",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Langlois P. 2005, Complexité et systèmes spatiaux, in Y. Guermond (ed.), Modélisations Géographiques, Traité IGAT, Paris, Hermès.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Langlois",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Guermond",
+     "given": "Y."
+    }
+   ],
+   "date": "2005",
+   "title": "Complexité et systèmes spatiaux",
+   "is_part_of": [
+    "Modélisations Géographiques"
+   ],
+   "series": "Traité IGAT",
+   "publisher": "Hermès",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Lardon S., Libourel T., Cheylan J.-P. 1999, Concevoir la dynamique des entités spatio-temporelles, in Représentation de l’espace et du temps dans les SIG, «Revue internationale de géomatique», 9, 45-65.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lardon",
+     "given": "S."
+    },
+    {
+     "family": "Libourel",
+     "given": "T."
+    },
+    {
+     "family": "Cheylan",
+     "given": "J.-P."
+    }
+   ],
+   "date": "1999",
+   "title": "Concevoir la dynamique des entités spatio-temporelles",
+   "is_part_of": [
+    "Représentation de l'espace et du temps dans les SIG",
+    "Revue internationale de géomatique"
+   ],
+   "volume": "9",
+   "pages": "45-65",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Lepetit B. 1988, Les villes dans la France moderne (1740-1840), Paris, Albin Michel.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lepetit",
+     "given": "B."
+    }
+   ],
+   "date": "1988",
+   "title": "Les villes dans la France moderne (1740-1840)",
+   "publisher": "Albin Michel",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Muller P., Dugat V. 2007, Représentation en logique classique, in F. Le Ber, G. Ligozat, O. Papini (eds.) 2007, Raisonnements sur l’espace et le temps: des modèles aux applications, Traité IGAT, Paris, Hermès., 33-70.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Muller",
+     "given": "P."
+    },
+    {
+     "family": "Dugat",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Le Ber",
+     "given": "F."
+    },
+    {
+     "family": "Ligozat",
+     "given": "G."
+    },
+    {
+     "family": "Papini",
+     "given": "O."
+    }
+   ],
+   "date": "2007",
+   "title": "Représentation en logique classique",
+   "is_part_of": [
+    "Raisonnements sur l'espace et le temps: des modèles aux applications"
+   ],
+   "series": "Traité IGAT",
+   "pages": "33-70",
+   "publisher": "Hermès",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Nuninger L., Favory F. et al. 2006b, Dynamique spatiale du peuplement et ressources naturelles: vers une analyse intégrée dans le long terme, de la Préhistoire au Moyen Âge, «Bulletin AGER», 16, 7-11.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nuninger",
+     "given": "L."
+    },
+    {
+     "family": "Favory",
+     "given": "F."
+    }
+   ],
+   "date": "2006",
+   "title": "Dynamique spatiale du peuplement et ressources naturelles: vers une analyse intégrée dans le long terme, de la Préhistoire au Moyen Âge",
+   "is_part_of": [
+    "Bulletin AGER"
+   ],
+   "volume": "16",
+   "pages": "7-11",
+   "language": "fre",
+   "notes": "et al.; cited as 2006b",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Nuninger L., Sanders L. et al. 2006a, La modélisation des réseaux d’habitat en archéologie: trois expériences, «M@ppemonde», 83 (http://mappemonde.mgm.fr/num11/articles/art06302.html).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nuninger",
+     "given": "L."
+    },
+    {
+     "family": "Sanders",
+     "given": "L."
+    }
+   ],
+   "date": "2006",
+   "title": "La modélisation des réseaux d'habitat en archéologie: trois expériences",
+   "is_part_of": [
+    "M@ppemonde"
+   ],
+   "volume": "83",
+   "uri": "http://mappemonde.mgm.fr/num11/articles/art06302.html",
+   "language": "fre",
+   "notes": "et al.; cited as 2006a",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Nuninger L., Tourneux F.-P., Favory F. in press, From Archaeomedes to Archaedyn, in Layers of Perception. Proceedings of the 35<sup>th</sup> CAA Conference (Berlin 2007), online and on CD.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nuninger",
+     "given": "L."
+    },
+    {
+     "family": "Tourneux",
+     "given": "F.-P."
+    },
+    {
+     "family": "Favory",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Posluschny",
+     "given": "A."
+    },
+    {
+     "family": "Lambers",
+     "given": "K."
+    }
+   ],
+   "date": "2008",
+   "title": "From Archaeomedes to Archaedyn",
+   "is_part_of": [
+    "CAA2007: Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA), Berlin, Germany, April 2-6, 2007"
+   ],
+   "series": "Kolloquien zur Vor- und Frühgeschichte",
+   "series_number": "10",
+   "publisher": "Rudolf Habelt",
+   "place": "Bonn",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://publikationen.uni-tuebingen.de/xmlui/handle/10900/61143 (CAA2007 Layers of Perception, KVF 10, Habelt, Bonn 2008; ed. Posluschny, Lambers)"
+   },
+   "notes": "cited as 'in press'; pages not found",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Ott T., Swiaczny F. 2001, Time-Integrative Geographic Information Systems, Management and Analysis of Spatio-Temporal Data, Berlin, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ott",
+     "given": "T."
+    },
+    {
+     "family": "Swiaczny",
+     "given": "F."
+    }
+   ],
+   "date": "2001",
+   "title": "Time-Integrative Geographic Information Systems, Management and Analysis of Spatio-Temporal Data",
+   "publisher": "Springer",
+   "place": "Berlin",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Panopoulos G., Stamatopoulos A., Kavouras M. 2003, Spatio-temporal generalization: the chronograph application. 21<sup>st</sup> International Cartographic Conference (Durban, South Africa) (http://ontogeo.ntua.gr/publications/icc2003_panopoulos_etal..pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Panopoulos",
+     "given": "G."
+    },
+    {
+     "family": "Stamatopoulos",
+     "given": "A."
+    },
+    {
+     "family": "Kavouras",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Spatio-temporal generalization: the chronograph application",
+   "is_part_of": [
+    "21st International Cartographic Conference (Durban, South Africa)"
+   ],
+   "uri": "http://ontogeo.ntua.gr/publications/icc2003_panopoulos_etal..pdf",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Peuquet D.J. 1994, It’s about time. A conceptual framework for the representation of temporal dynamics in Geographic Information Systems, «Annals of the Association of the American Geographers», 3, 441-461.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peuquet",
+     "given": "D.J."
+    }
+   ],
+   "date": "1994",
+   "title": "It's about time. A conceptual framework for the representation of temporal dynamics in Geographic Information Systems",
+   "is_part_of": [
+    "Annals of the Association of the American Geographers"
+   ],
+   "issue": "3",
+   "pages": "441-461",
+   "language": "eng",
+   "notes": "cited as '3, 441-461': volume not given in the citation (journal name cited 'of the American Geographers')",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Pumain D. 1993, L’espace, le temps et la matérialité des villes, in B. Lepetit, D. Pumain (eds.), Temporalités urbaines, coll. Villes, Paris, Anthropos, 135-157.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pumain",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lepetit",
+     "given": "B."
+    },
+    {
+     "family": "Pumain",
+     "given": "D."
+    }
+   ],
+   "date": "1993",
+   "title": "L'espace, le temps et la matérialité des villes",
+   "is_part_of": [
+    "Temporalités urbaines"
+   ],
+   "series": "Villes",
+   "pages": "135-157",
+   "publisher": "Anthropos",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Rodier X., Galinié H. 2006, Figurer l’espace/temps de Tours pré-industriel: essai de chronochorématique urbaine, «M@ppemonde», 83 (http://mappemonde.mgm.fr/num11/articles/art06303.html).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rodier",
+     "given": "X."
+    },
+    {
+     "family": "Galinié",
+     "given": "H."
+    }
+   ],
+   "date": "2006",
+   "title": "Figurer l'espace/temps de Tours pré-industriel: essai de chronochorématique urbaine",
+   "is_part_of": [
+    "M@ppemonde"
+   ],
+   "volume": "83",
+   "uri": "http://mappemonde.mgm.fr/num11/articles/art06303.html",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Rodier X., Saligny L. 2007, Modélisation des objets urbains pour l’étude des dynamiques urbaines dans la longue durée, in M. Batton-Hubert, T. Joliveau, S. Lardon (eds.), SAGEO 2007, Rencontres internationales Géomatique et territoire (http://www.emse.fr/site/SAGEO2007/CDROM/index.html).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rodier",
+     "given": "X."
+    },
+    {
+     "family": "Saligny",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Batton-Hubert",
+     "given": "M."
+    },
+    {
+     "family": "Joliveau",
+     "given": "T."
+    },
+    {
+     "family": "Lardon",
+     "given": "S."
+    }
+   ],
+   "date": "2007",
+   "title": "Modélisation des objets urbains pour l'étude des dynamiques urbaines dans la longue durée",
+   "is_part_of": [
+    "SAGEO 2007, Rencontres internationales Géomatique et territoire"
+   ],
+   "uri": "http://www.emse.fr/site/SAGEO2007/CDROM/index.html",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Rodier X., Saligny L. in press, Social features, Spatial features, Time features: Urban archaeological data model, in Layers of Perception. Proceedings of the 35<sup>th</sup> CAA Conference (Berlin 2007), Bonn, Habelt.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rodier",
+     "given": "X."
+    },
+    {
+     "family": "Saligny",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Posluschny",
+     "given": "A."
+    },
+    {
+     "family": "Lambers",
+     "given": "K."
+    }
+   ],
+   "date": "2008",
+   "title": "Social features, Spatial features, Time features: Urban archaeological data model",
+   "is_part_of": [
+    "CAA2007: Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA), Berlin, Germany, April 2-6, 2007"
+   ],
+   "series": "Kolloquien zur Vor- und Frühgeschichte",
+   "series_number": "10",
+   "publisher": "Rudolf Habelt",
+   "place": "Bonn",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://halshs.archives-ouvertes.fr/halshs-00956185 (title 'Social features, Spatial features, Time features: An urban archaeological data model', CAA 2007); the citation itself gives Bonn, Habelt"
+   },
+   "notes": "cited as 'in press'; pages not found; the published title has 'An urban archaeological data model'",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Saint-Gérand T. 2005, Comprendre pour mesurer… ou mesurer pour comprendre?, in Y. Guermond (ed.), Modélisations Géographiques, Traité IGAT, Paris, Hermès.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Saint-Gérand",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Guermond",
+     "given": "Y."
+    }
+   ],
+   "date": "2005",
+   "title": "Comprendre pour mesurer… ou mesurer pour comprendre?",
+   "is_part_of": [
+    "Modélisations Géographiques"
+   ],
+   "series": "Traité IGAT",
+   "publisher": "Hermès",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Saligny L. 2004, La modélisation des entités spatiales, in Informatisation des documents d’évaluation du patrimoine archéologique des villes de France, Ministère de la Culture et de la Communication, Centre National d’Archéologie Urbaine, 35-38.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Saligny",
+     "given": "L."
+    }
+   ],
+   "date": "2004",
+   "title": "La modélisation des entités spatiales",
+   "is_part_of": [
+    "Informatisation des documents d'évaluation du patrimoine archéologique des villes de France"
+   ],
+   "pages": "35-38",
+   "publisher": "Ministère de la Culture et de la Communication, Centre National d'Archéologie Urbaine",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Thériault M., Claramunt C. 1999, La représentation du temps et des processus dans les SIG: une nécessité pour la recherche interdisciplinaire, in Représentation de l’espace et du temps dans les SIG, «Revue internationale de géomatique», 9, 67-99.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Thériault",
+     "given": "M."
+    },
+    {
+     "family": "Claramunt",
+     "given": "C."
+    }
+   ],
+   "date": "1999",
+   "title": "La représentation du temps et des processus dans les SIG: une nécessité pour la recherche interdisciplinaire",
+   "is_part_of": [
+    "Représentation de l'espace et du temps dans les SIG",
+    "Revue internationale de géomatique"
+   ],
+   "volume": "9",
+   "pages": "67-99",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Van Es W., Poldermans J., Sarfatij H. 1982, Het bodemarchief bedreigtd: archeologie en planologie in de binnensteden van Nederland, Amersfoort.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Van Es",
+     "given": "W."
+    },
+    {
+     "family": "Poldermans",
+     "given": "J."
+    },
+    {
+     "family": "Sarfatij",
+     "given": "H."
+    }
+   ],
+   "date": "1982",
+   "title": "Het bodemarchief bedreigd: archeologie en planologie in de binnensteden van Nederland",
+   "place": "Amersfoort",
+   "language": "dut",
+   "notes": "cited as 'bedreigtd' (typo)",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Wirtz B., Olivier L. 2003, Recherches sur le temps archéologique: l’apport de l’archéologie du présent, «Antiquités nationales», 35, 255-266.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wirtz",
+     "given": "B."
+    },
+    {
+     "family": "Olivier",
+     "given": "L."
+    }
+   ],
+   "date": "2003",
+   "title": "Recherches sur le temps archéologique: l'apport de l'archéologie du présent",
+   "is_part_of": [
+    "Antiquités nationales"
+   ],
+   "volume": "35",
+   "pages": "255-266",
+   "language": "fre",
+   "confidence": "high"
+  }
+ ]
+}

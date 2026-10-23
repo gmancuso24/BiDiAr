@@ -1,0 +1,248 @@
+{
+ "citing_aec_id": 480,
+ "source_file": "data/journal/19/480.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Berty A., Legrand H., Tisserand L.-M., Vacquer T., Platon C. 1866-1897, Topographie historique du Vieux Paris, 6, Coll. Histoire Générale de Paris, Paris.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Berty",
+     "given": "A."
+    },
+    {
+     "family": "Legrand",
+     "given": "H."
+    },
+    {
+     "family": "Tisserand",
+     "given": "L.-M."
+    },
+    {
+     "family": "Vacquer",
+     "given": "T."
+    },
+    {
+     "family": "Platon",
+     "given": "C."
+    }
+   ],
+   "date": "1866-1897",
+   "title": "Topographie historique du Vieux Paris",
+   "volume": "6",
+   "series": "Histoire Générale de Paris",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "date given as a range (1866-1897) by the citation; vol. 6",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Caron C. 1996, Cadre descriptif des projets d’implantation de technologies géomatiques dans les organisations, Thèse de Doctorat, CRG – Université de Laval (http://www.bibl.ulaval.ca/).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Caron",
+     "given": "C."
+    }
+   ],
+   "date": "1996",
+   "title": "Cadre descriptif des projets d'implantation de technologies géomatiques dans les organisations",
+   "publisher": "CRG – Université de Laval",
+   "uri": "http://www.bibl.ulaval.ca/",
+   "language": "fre",
+   "notes": "Thèse de Doctorat",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Chouquer G. 2000, L’étude des paysages. Essais sur leurs formes et leur histoire, Paris, Errance.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chouquer",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "L'étude des paysages. Essais sur leurs formes et leur histoire",
+   "publisher": "Errance",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Chouquer G. 2003, Crise et recomposition des objets: les enjeux de l’archéogéographie. Introduction, «Études rurales», 167-168, 13-31.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Chouquer",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Crise et recomposition des objets: les enjeux de l'archéogéographie. Introduction",
+   "is_part_of": [
+    "Études rurales"
+   ],
+   "volume": "167-168",
+   "pages": "13-31",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Chouquer G. 2007, Quels scénarios pour l’histoire du paysage? Orientations de recherche pour l’archéogéographie, Coimbra-Porto.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chouquer",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "Quels scénarios pour l'histoire du paysage? Orientations de recherche pour l'archéogéographie",
+   "place": "Coimbra-Porto",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Darin M. 1998, The study or urban form in France, «Urban Morphology», 2, 2, 63-76.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Darin",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "The study of urban form in France",
+   "is_part_of": [
+    "Urban Morphology"
+   ],
+   "volume": "2",
+   "issue": "2",
+   "pages": "63-76",
+   "language": "eng",
+   "notes": "cited as 'The study or urban form' (typo)",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Lepetit B., Pumain D. (eds.) 1993, Temporalités urbaines, Paris, Anthropos Economica.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Lepetit",
+     "given": "B."
+    },
+    {
+     "family": "Pumain",
+     "given": "D."
+    }
+   ],
+   "date": "1993",
+   "title": "Temporalités urbaines",
+   "publisher": "Anthropos Economica",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Lepetit B. (ed.) 1995, Les formes de l’expérience. Une autre histoire sociale, Paris, Albin Michel.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Lepetit",
+     "given": "B."
+    }
+   ],
+   "date": "1995",
+   "title": "Les formes de l'expérience. Une autre histoire sociale",
+   "publisher": "Albin Michel",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Leuridan J., Mallet J.-A. 1975, Plan restitué de Paris en 1380, Paris, CNRS (2<sup>e</sup> éd. 1991, 3<sup>e</sup> éd. 1999).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Leuridan",
+     "given": "J."
+    },
+    {
+     "family": "Mallet",
+     "given": "J.-A."
+    }
+   ],
+   "date": "1975",
+   "title": "Plan restitué de Paris en 1380",
+   "publisher": "CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "the citation adds '2e éd. 1991, 3e éd. 1999': recorded as the 1975 first edition",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Pornon H. 2007, Bilan et perspectives de 20 années de géomatique, «Géomatique expert», 57, 36-60.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pornon",
+     "given": "H."
+    }
+   ],
+   "date": "2007",
+   "title": "Bilan et perspectives de 20 années de géomatique",
+   "is_part_of": [
+    "Géomatique expert"
+   ],
+   "volume": "57",
+   "pages": "36-60",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Roncayolo M. 1996, Les grammaires d’une ville. Essai sur la genèse des structures urbaines à Marseille, Paris, Ehess.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Roncayolo",
+     "given": "M."
+    }
+   ],
+   "date": "1996",
+   "title": "Les grammaires d'une ville. Essai sur la genèse des structures urbaines à Marseille",
+   "publisher": "Ehess",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Roncayolo M. 2002, Lectures de villes. Formes et temps, Marseille, Parenthèses.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Roncayolo",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Lectures de villes. Formes et temps",
+   "publisher": "Parenthèses",
+   "place": "Marseille",
+   "language": "fre",
+   "confidence": "high"
+  }
+ ]
+}

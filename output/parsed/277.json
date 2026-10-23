@@ -1,0 +1,225 @@
+{
+ "citing_aec_id": 277,
+ "source_file": "data/journal/10/277.md",
+ "references": [
+  {
+   "raw": "D’AGOSTINO B. 1996, Pontecagnano, in Bibliografia Topografica della Colonizzazione Greca nell’Italia Meridionale XIV, Pisa-Roma-Napoli, 187-198.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "D’Agostino",
+     "given": "B."
+    }
+   ],
+   "type": "chapter",
+   "title": "Pontecagnano",
+   "pages": "187-198",
+   "is_part_of": [
+    "Bibliografia Topografica della Colonizzazione Greca nell’Italia Meridionale"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 1,
+   "volume": "XIV",
+   "place": "Pisa-Roma-Napoli"
+  },
+  {
+   "raw": "DJINDJIAN F. 1996, Méthode archéologique assistée par ordinateur, in P. MOSCATI (ed.), III International Symposium on Computing and Archaeology, «Archeologia e Calcolatori», 7, 1259-1266.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "type": "article",
+   "title": "Méthode archéologique assistée par ordinateur",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "pages": "1259-1266",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "fre",
+   "confidence": "high",
+   "position": 2,
+   "volume": "7"
+  },
+  {
+   "raw": "DJINDJIAN F. 1998, GIS usage in worldwide archaeology, «Archeologia e Calcolatori», 9, 19-30.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "type": "article",
+   "title": "GIS usage in worldwide archaeology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "19-30",
+   "volume": "9",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "GAFFNEY V., OSTIR K., STANCIC Z., PODOBNIKAR T. 1997, The impact of mass tourism on cultural resources on the central Dalmatian islands, in GOTTARELLI 1997, 79-87.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Ostir",
+     "given": "K."
+    },
+    {
+     "family": "Stancic",
+     "given": "Z."
+    },
+    {
+     "family": "Podobnikar",
+     "given": "T."
+    }
+   ],
+   "type": "chapter",
+   "title": "The impact of mass tourism on cultural resources on the central Dalmatian islands",
+   "pages": "79-87",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4,
+   "xref": 5,
+   "is_part_of": [
+    "Sistemi informativi e reti geografiche in archeologia: GIS - INTERNET. Atti del VII ciclo di lezioni sulla ricerca applicata in campo archeologico (Certosa di Pontignano, 11-17 dicembre 1995)"
+   ],
+   "editors": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio"
+  },
+  {
+   "raw": "GOTTARELLI A. (ed.) 1997, Sistemi informativi e reti geografiche in archeologia: GIS-INTERNET, VII Ciclo di Lezioni sulla Ricerca applicata in Archeologia (Certosa di Pontignano, Siena, 11-17 dicembre 1995), Quaderni del Dipartimento di Archeologia e Storia delle Arti, Sezione Archeologica - Università di Siena, n. 42, Firenze, Edizioni All’Insegna del Giglio.",
+   "date": "1997",
+   "editors": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Sistemi informativi e reti geografiche in archeologia: GIS - INTERNET. Atti del VII ciclo di lezioni sulla ricerca applicata in campo archeologico (Certosa di Pontignano, 11-17 dicembre 1995)",
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "JOHNSON I. 1995, Mapping Archaeological Data: A Structured Introduction to MapInfo, Sydney University Archaeological Methods Series, n. 3, Sydney, Prehistoric & Historical Archaeology.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Johnson",
+     "given": "I."
+    }
+   ],
+   "type": "book",
+   "title": "Mapping Archaeological Data: A Structured Introduction to MapInfo",
+   "place": "Sydney",
+   "publisher": "Prehistoric & Historical Archaeology",
+   "series": "Sydney University Archaeological Methods Series",
+   "series_number": "3",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "KVAMME K.L. 1997, Archaeological spatial analysis using GIS: Methods and issues, in GOTTARELLI 1997, 45-58.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "type": "chapter",
+   "title": "Archaeological spatial analysis using GIS: Methods and issues",
+   "pages": "45-58",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7,
+   "xref": 5,
+   "is_part_of": [
+    "Sistemi informativi e reti geografiche in archeologia: GIS - INTERNET. Atti del VII ciclo di lezioni sulla ricerca applicata in campo archeologico (Certosa di Pontignano, 11-17 dicembre 1995)"
+   ],
+   "editors": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio"
+  },
+  {
+   "raw": "MOSCATI P. 1996, Archeologia quantitativa: nascita, sviluppo e crisi, in P. MOSCATI (ed.), III International Symposium on Computing and Archaeology, «Archeologia e Calcolatori», 7, 579-590.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "Archeologia quantitativa: nascita, sviluppo e crisi",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "pages": "579-590",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 8,
+   "volume": "7"
+  },
+  {
+   "raw": "MOSCATI P. 1998, GIS applications in Italian archaeology, «Archeologia e Calcolatori», 9, 191-236.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "GIS applications in Italian archaeology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "191-236",
+   "volume": "9",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9
+  }
+ ]
+}

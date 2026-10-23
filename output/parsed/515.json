@@ -1,0 +1,1417 @@
+{
+ "citing_aec_id": 515,
+ "source_file": "data/journal/20/515.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bearman D. 1996, Overview and discussion points, in Research Agenda for Networked Cultural Heritage, Santa Monica, CA, Getty AHIP, 7-22.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bearman",
+     "given": "D."
+    }
+   ],
+   "date": "1996",
+   "title": "Overview and discussion points",
+   "is_part_of": [
+    "Research Agenda for Networked Cultural Heritage"
+   ],
+   "language": "eng",
+   "pages": "7-22",
+   "publisher": "Getty AHIP",
+   "place": "Santa Monica, CA",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Benardou A. et al. 2009, Understanding the information requirements of arts and humanities scholarship: implications for digital curation, «International Journal of Digital Curation», 2010 (accepted for publication).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Benardou",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Understanding the information requirements of arts and humanities scholarship: implications for digital curation",
+   "is_part_of": [
+    "International Journal of Digital Curation"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://www.ijdc.net/index.php/ijdc/article/download/141/206"
+   },
+   "notes": "cited 'Benardou A. et al. 2009 ... 2010 (accepted for publication)'; published IJDC 5(1) 2010, 18-33, with authors Benardou, Constantopoulos, Dallas, Gavrilis: only Benardou kept as cited ('et al.')",
+   "volume": "5",
+   "issue": "1",
+   "pages": "18-33",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Brachman R.J., Levesque H.J. (eds.) 1985, Readings in Knowledge Representation, San Francisco, CA, Morgan Kaufmann Publishers Inc.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Brachman",
+     "given": "R.J."
+    },
+    {
+     "family": "Levesque",
+     "given": "H.J."
+    }
+   ],
+   "date": "1985",
+   "title": "Readings in Knowledge Representation",
+   "language": "eng",
+   "publisher": "Morgan Kaufmann Publishers Inc.",
+   "place": "San Francisco, CA",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Charniak E., McDermott D. 1985, Introduction to Artificial Intelligence, Reading, MA, Addison-Wesley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Charniak",
+     "given": "E."
+    },
+    {
+     "family": "McDermott",
+     "given": "D."
+    }
+   ],
+   "date": "1985",
+   "title": "Introduction to Artificial Intelligence",
+   "language": "eng",
+   "publisher": "Addison-Wesley",
+   "place": "Reading, MA",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Christoforaki M., Constantopoulos P., Doerr M. 1995, Modelling occurrences in cultural documentation, in P. Moscati (ed.), III International Symposium on Computing and Archaeology (Roma 1995), «Archeologia e Calcolatori», 7, 1996, 22-25.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Christoforaki",
+     "given": "M."
+    },
+    {
+     "family": "Constantopoulos",
+     "given": "P."
+    },
+    {
+     "family": "Doerr",
+     "given": "M."
+    }
+   ],
+   "date": "1996",
+   "title": "Modelling occurrences in cultural documentation",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "22-25",
+   "language": "eng",
+   "cited_aec_id": 211,
+   "notes": "cited 'Christoforaki ... 1995, ... in P. Moscati (ed.), III International Symposium on Computing and Archaeology (Roma 1995), AeC 7, 1996, 22-25'; year 1996 taken from the AeC volume; the AeC metadata has pages 1047-1060 (recognised by title)",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Clarke D.L. 1968, Analythical Archaeology, London, Methuen.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1968",
+   "title": "Analytical Archaeology",
+   "language": "eng",
+   "notes": "cited 'Analythical Archaeology' (typo corrected)",
+   "publisher": "Methuen",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Constantopoulos P. 1994, Cultural Documentation: The Clio System, Technical Report FORTH - ICS/TR - 115.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Constantopoulos",
+     "given": "P."
+    }
+   ],
+   "date": "1994",
+   "title": "Cultural Documentation: The Clio System",
+   "series": "Technical Report FORTH - ICS/TR",
+   "series_number": "115",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Constantopoulos P., Dallas C. 2008, Aspects of a digital curation agenda for cultural heritage, in IEEE International Conference on Distributed Human-Machine Systems (Athens 2008), Prague, Czech Technical University, 317-322.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Constantopoulos",
+     "given": "P."
+    },
+    {
+     "family": "Dallas",
+     "given": "C."
+    }
+   ],
+   "date": "2008",
+   "title": "Aspects of a digital curation agenda for cultural heritage",
+   "is_part_of": [
+    "IEEE International Conference on Distributed Human-Machine Systems (Athens 2008)"
+   ],
+   "language": "eng",
+   "pages": "317-322",
+   "publisher": "Czech Technical University",
+   "place": "Prague",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Constantopoulos P. et al. 2008, Preparing DARIAH, in Proceedings of the International Conference on Virtual Systems and MultiMedia (VSMM08), Nicosia, Cyprus (http://www.dcu.gr/dcu/Documents/documents/preparing-dariah/en/attachment/).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Constantopoulos",
+     "given": "P."
+    }
+   ],
+   "date": "2008",
+   "title": "Preparing DARIAH",
+   "is_part_of": [
+    "Proceedings of the International Conference on Virtual Systems and MultiMedia (VSMM08), Nicosia, Cyprus"
+   ],
+   "language": "eng",
+   "uri": "http://www.dcu.gr/dcu/Documents/documents/preparing-dariah/en/attachment/",
+   "notes": "cited 'Constantopoulos P. et al.': only the first author is known",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Crofts N., Doerr M., Gill T., Stead S., Stiff M. (eds.) 2009, Definition of the CIDOC Conceptual Reference Model (version 5.0.1), ICOM/CIDOC CRM Special Interest Group (http://cidoc.ics.forth.gr/docs/cidoc_crm_version_5.0.1_Mar09.pdf).",
+   "type": "other",
+   "editors": [
+    {
+     "family": "Crofts",
+     "given": "N."
+    },
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Gill",
+     "given": "T."
+    },
+    {
+     "family": "Stead",
+     "given": "S."
+    },
+    {
+     "family": "Stiff",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Definition of the CIDOC Conceptual Reference Model (version 5.0.1)",
+   "publisher": "ICOM/CIDOC CRM Special Interest Group",
+   "uri": "http://cidoc.ics.forth.gr/docs/cidoc_crm_version_5.0.1_Mar09.pdf",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Dallas C. 1987a, Death, costume and social identity: a quantitative study of the iconography of classical Attic stelae, «Archaeological Computing Newsletter», 11, 9-17.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    }
+   ],
+   "date": "1987",
+   "title": "Death, costume and social identity: a quantitative study of the iconography of classical Attic stelae",
+   "is_part_of": [
+    "Archaeological Computing Newsletter"
+   ],
+   "language": "eng",
+   "volume": "11",
+   "pages": "9-17",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Dallas C. 1987b, The Significance of Costume on Classical Attic Grave Stelai: A Statistical Analysis, D.Phil. thesis, University of Oxford.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    }
+   ],
+   "date": "1987",
+   "title": "The Significance of Costume on Classical Attic Grave Stelai: A Statistical Analysis",
+   "publisher": "University of Oxford",
+   "language": "eng",
+   "notes": "D.Phil. thesis",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Dallas C. 1992a, Information systems and cultural knowledge: the Benaki Museum case, «Computers and the History of Art Journal», 3, 1, 7-15.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    }
+   ],
+   "date": "1992",
+   "title": "Information systems and cultural knowledge: the Benaki Museum case",
+   "is_part_of": [
+    "Computers and the History of Art Journal"
+   ],
+   "language": "eng",
+   "volume": "3",
+   "issue": "1",
+   "pages": "7-15",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Dallas C. 1992b, Relational description, similarity and classification of complex archaeological entities, in G. Lock, J. Moffett (eds.), Computer Applications and Quantitative Methods in Archaeology, BAR International Series 577, Oxford, Tempus Reparatum, 167-178.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "date": "1992",
+   "title": "Relational description, similarity and classification of complex archaeological entities",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology"
+   ],
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "577",
+   "pages": "167-178",
+   "publisher": "Tempus Reparatum",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Dallas C. 1992c, Syntax and semantics of figurative art: a formal approach, in S. Rahtz, P. Reilly (eds.), Archaeology and the Information Age: A Global Perspective, London, Routledge, 230-275.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S."
+    },
+    {
+     "family": "Reilly",
+     "given": "P."
+    }
+   ],
+   "date": "1992",
+   "title": "Syntax and semantics of figurative art: a formal approach",
+   "is_part_of": [
+    "Archaeology and the Information Age: A Global Perspective"
+   ],
+   "language": "eng",
+   "pages": "230-275",
+   "publisher": "Routledge",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Dallas C. 1994, A new agenda for museum information systems, in S. Ross (ed.), Problems and Potentials of Electronic Information in Archaeology Seminar: Pre-circulated Papers, London, British Library, 251-264 (http://eprints.rclis.org/archive/00007978/, accessed August 8, 2008).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ross",
+     "given": "S."
+    }
+   ],
+   "date": "1994",
+   "title": "A new agenda for museum information systems",
+   "is_part_of": [
+    "Problems and Potentials of Electronic Information in Archaeology Seminar: Pre-circulated Papers"
+   ],
+   "language": "eng",
+   "uri": "http://eprints.rclis.org/archive/00007978/",
+   "notes": "accessed August 8, 2008",
+   "pages": "251-264",
+   "publisher": "British Library",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Dallas C. 1996, Multimedia in exhibitions, in Introduction to Multimedia in Museums, CIDOC Multimedia Working Group, 10-16 (http://cidoc.mediahost.org/content/archive/cidoc_site_2006_12_31/introtomultimediamuseums.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    }
+   ],
+   "date": "1996",
+   "title": "Multimedia in exhibitions",
+   "is_part_of": [
+    "Introduction to Multimedia in Museums"
+   ],
+   "language": "eng",
+   "uri": "http://cidoc.mediahost.org/content/archive/cidoc_site_2006_12_31/introtomultimediamuseums.pdf",
+   "pages": "10-16",
+   "publisher": "CIDOC Multimedia Working Group",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Dallas C. 2007a, An agency-oriented approach to digital curation theory and practice, in J. Trant, D. Bearman (eds.), The International Cultural Heritage Informatics Meeting Proceedings, Toronto, Archives & Museum Informatics (http://www.archimuse.com/ichim07/papers/dallas/dallas.html/, accessed August 5, 2009).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Trant",
+     "given": "J."
+    },
+    {
+     "family": "Bearman",
+     "given": "D."
+    }
+   ],
+   "date": "2007",
+   "title": "An agency-oriented approach to digital curation theory and practice",
+   "is_part_of": [
+    "The International Cultural Heritage Informatics Meeting Proceedings"
+   ],
+   "language": "eng",
+   "uri": "http://www.archimuse.com/ichim07/papers/dallas/dallas.html/",
+   "notes": "accessed August 5, 2009",
+   "publisher": "Archives & Museum Informatics",
+   "place": "Toronto",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Dallas C. 2007b, Archaeological knowledge, virtual exhibitions and the social construction of meaning, in P. Moscati (ed.), Virtual Museums and Archaeology. The Contribution of the Italian National Research Council, «Archeologia e Calcolatori», Suppl. 1, Firenze, All’Insegna del Giglio, 31-64.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    }
+   ],
+   "date": "2007",
+   "title": "Archaeological knowledge, virtual exhibitions and the social construction of meaning",
+   "is_part_of": [
+    "Archeologia e Calcolatori. Supplementi"
+   ],
+   "volume": "1",
+   "pages": "31-64",
+   "language": "eng",
+   "cited_aec_id": 460,
+   "notes": "cited 'in P. Moscati (ed.), Virtual Museums and Archaeology..., AeC Suppl. 1'; pages 31-64 cited, 31-63 in the AeC metadata",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Dallas C., Garzotto F. 1993, Dynamic multimedia from a museum database: the Gold of Greece application, in D. Lees (ed.), Museums and Interactive Multimedia, Cambridge, Archives and Museum Informatics & Museum Documentation Association, 131-139.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    },
+    {
+     "family": "Garzotto",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lees",
+     "given": "D."
+    }
+   ],
+   "date": "1993",
+   "title": "Dynamic multimedia from a museum database: the Gold of Greece application",
+   "is_part_of": [
+    "Museums and Interactive Multimedia"
+   ],
+   "language": "eng",
+   "pages": "131-139",
+   "publisher": "Archives and Museum Informatics & Museum Documentation Association",
+   "place": "Cambridge",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Dallas C., Smith P., Lock R., Cornforth J., Davidson C. 1993, Digital multimedia and classical culture: the Sacred Way perspective, in D.A. Roberts (ed.), European Museum Documentation: Strategies and Standards, Cambridge, Museum Documentation Association, 117-130.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    },
+    {
+     "family": "Smith",
+     "given": "P."
+    },
+    {
+     "family": "Lock",
+     "given": "R."
+    },
+    {
+     "family": "Cornforth",
+     "given": "J."
+    },
+    {
+     "family": "Davidson",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Roberts",
+     "given": "D.A."
+    }
+   ],
+   "date": "1993",
+   "title": "Digital multimedia and classical culture: the Sacred Way perspective",
+   "is_part_of": [
+    "European Museum Documentation: Strategies and Standards"
+   ],
+   "language": "eng",
+   "pages": "117-130",
+   "publisher": "Museum Documentation Association",
+   "place": "Cambridge",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Dallas C., Thiopoulos C. 1993, Collocation of figurative subjects on classical Attic stelai and semiotic categorisation, in CAA93: Computer Applications and Quantitative Methods in Archaeology (Stoke-on-Trent 1993), unpublished.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    },
+    {
+     "family": "Thiopoulos",
+     "given": "C."
+    }
+   ],
+   "date": "1993",
+   "title": "Collocation of figurative subjects on classical Attic stelai and semiotic categorisation",
+   "is_part_of": [
+    "CAA93: Computer Applications and Quantitative Methods in Archaeology (Stoke-on-Trent 1993)"
+   ],
+   "language": "eng",
+   "notes": "unpublished",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Deetz J. 1977, In Small Things Forgotten: The Archeology of Early American Life, New York, Anchor Books.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Deetz",
+     "given": "J."
+    }
+   ],
+   "date": "1977",
+   "title": "In Small Things Forgotten: The Archeology of Early American Life",
+   "language": "eng",
+   "publisher": "Anchor Books",
+   "place": "New York",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Dionissiadou I., Doerr M. 1994, Mapping of material culture to a semantic network, in Proceedings of the 1994 Joint Annual Meeting of the International Council of Museums Documentation Committee and Computer Network (Washington DC 1994).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dionissiadou",
+     "given": "I."
+    },
+    {
+     "family": "Doerr",
+     "given": "M."
+    }
+   ],
+   "date": "1994",
+   "title": "Mapping of material culture to a semantic network",
+   "is_part_of": [
+    "Proceedings of the 1994 Joint Annual Meeting of the International Council of Museums Documentation Committee and Computer Network (Washington DC 1994)"
+   ],
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Eshera M., Fu K. 1986, An image understanding system using attributed symbolic representation and inexact graph-matching, «IEEE Transactions on Pattern Analysis and Machine Intelligence», 8, 5, 604-618.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Eshera",
+     "given": "M."
+    },
+    {
+     "family": "Fu",
+     "given": "K."
+    }
+   ],
+   "date": "1986",
+   "title": "An image understanding system using attributed symbolic representation and inexact graph-matching",
+   "is_part_of": [
+    "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+   ],
+   "language": "eng",
+   "volume": "8",
+   "issue": "5",
+   "pages": "604-618",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Evans T.L., Daly P.T. (eds.) 2006, Digital Archaeology: Bridging Method and Theory, New York-London, Routledge.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Evans",
+     "given": "T.L."
+    },
+    {
+     "family": "Daly",
+     "given": "P.T."
+    }
+   ],
+   "date": "2006",
+   "title": "Digital Archaeology: Bridging Method and Theory",
+   "language": "eng",
+   "publisher": "Routledge",
+   "place": "New York-London",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Gardin J.-C. 1958, Four codes for the description of artifacts: an essay in archaeological technique and theory, «American Anthropologist», n.s. 60, 2, 335-357.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1958",
+   "title": "Four codes for the description of artifacts: an essay in archaeological technique and theory",
+   "is_part_of": [
+    "American Anthropologist"
+   ],
+   "language": "eng",
+   "volume": "n.s. 60",
+   "issue": "2",
+   "pages": "335-357",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Gardin J.-C. 1967, Methods for the descriptive analysis of archaeological material, «American Antiquity», 32, 1, 13-30 (http://www.jstor.org/stable/278775, accessed August 12, 2008).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1967",
+   "title": "Methods for the descriptive analysis of archaeological material",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "language": "eng",
+   "uri": "http://www.jstor.org/stable/278775",
+   "notes": "accessed August 12, 2008",
+   "volume": "32",
+   "issue": "1",
+   "pages": "13-30",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Gardin J.-C. 1976, Code pour l’analyse des formes de poteries, Paris, CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1976",
+   "title": "Code pour l'analyse des formes de poteries",
+   "language": "fre",
+   "publisher": "CNRS",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Gardin J.-C. 1978, Code pour l’analyse des ornements, Paris, CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1978",
+   "title": "Code pour l'analyse des ornements",
+   "language": "fre",
+   "publisher": "CNRS",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Gardin J.-C. 1980, Archaeological Constructs: An Aspect of Theoretical Archaeology, Cambridge-New York, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1980",
+   "title": "Archaeological Constructs: An Aspect of Theoretical Archaeology",
+   "language": "eng",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge-New York",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Gell A. 1998, Art and Agency: An Anthropological Theory, Oxford, Clarendon Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gell",
+     "given": "A."
+    }
+   ],
+   "date": "1998",
+   "title": "Art and Agency: An Anthropological Theory",
+   "language": "eng",
+   "publisher": "Clarendon Press",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Glaser B.G., Strauss A.L. 1967, The Discovery of Grounded Theory: Strategies for Qualitative Research, New York, Aldine.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Glaser",
+     "given": "B.G."
+    },
+    {
+     "family": "Strauss",
+     "given": "A.L."
+    }
+   ],
+   "date": "1967",
+   "title": "The Discovery of Grounded Theory: Strategies for Qualitative Research",
+   "language": "eng",
+   "publisher": "Aldine",
+   "place": "New York",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Glassie H. 1975, Folk Housing in Middle Virginia: A Structural Analysis of Historic Artifacts, Knoxville, Tennessee, University of Tennessee Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Glassie",
+     "given": "H."
+    }
+   ],
+   "date": "1975",
+   "title": "Folk Housing in Middle Virginia: A Structural Analysis of Historic Artifacts",
+   "language": "eng",
+   "publisher": "University of Tennessee Press",
+   "place": "Knoxville, Tennessee",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Guimier-Sorbets A. 1990, Les bases de données en archéologie: conception et mise en oeuvre, Paris, CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "Les bases de données en archéologie: conception et mise en oeuvre",
+   "language": "fre",
+   "publisher": "CNRS",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Hillier B., Hanson J. 1984, The Social Logic of Space, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hillier",
+     "given": "B."
+    },
+    {
+     "family": "Hanson",
+     "given": "J."
+    }
+   ],
+   "date": "1984",
+   "title": "The Social Logic of Space",
+   "language": "eng",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Hillier B., Hanson J., Graham H. 1987, Ideas are in things: an application of the space syntax method to discovering house genotypes, «Environment & Planning B: Planning & Design», 14, 4, 363-385.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hillier",
+     "given": "B."
+    },
+    {
+     "family": "Hanson",
+     "given": "J."
+    },
+    {
+     "family": "Graham",
+     "given": "H."
+    }
+   ],
+   "date": "1987",
+   "title": "Ideas are in things: an application of the space syntax method to discovering house genotypes",
+   "is_part_of": [
+    "Environment & Planning B: Planning & Design"
+   ],
+   "language": "eng",
+   "volume": "14",
+   "issue": "4",
+   "pages": "363-385",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Hodder I. 1982, Symbolic and Structural Archaeology, New York, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1982",
+   "title": "Symbolic and Structural Archaeology",
+   "language": "eng",
+   "publisher": "Cambridge University Press",
+   "place": "New York",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Hodder I. (ed.) 1987, The Archaeology of Contextual Meanings, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1987",
+   "title": "The Archaeology of Contextual Meanings",
+   "language": "eng",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Hoffmann H. 1977, Sexual and Asexual Pursuit: A Structuralist Approach to Greek Vase Painting, London, Royal Anthropological Institute.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hoffmann",
+     "given": "H."
+    }
+   ],
+   "date": "1977",
+   "title": "Sexual and Asexual Pursuit: A Structuralist Approach to Greek Vase Painting",
+   "language": "eng",
+   "publisher": "Royal Anthropological Institute",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Huggett J., Ross S. 2004, Archaeological informatics: beyond technology, «Internet Archaeology», 15 (http://intarch.ac.uk/journal/issue15/inf_index.html, accessed September 21, 2009).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    },
+    {
+     "family": "Ross",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Archaeological informatics: beyond technology",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "language": "eng",
+   "uri": "http://intarch.ac.uk/journal/issue15/inf_index.html",
+   "notes": "accessed September 21, 2009",
+   "volume": "15",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Kaptelinin V., Nardi B.A. 2007, Acting with Technology: Activity Theory and Interaction Design, Cambridge, MA-London, MIT Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kaptelinin",
+     "given": "V."
+    },
+    {
+     "family": "Nardi",
+     "given": "B.A."
+    }
+   ],
+   "date": "2007",
+   "title": "Acting with Technology: Activity Theory and Interaction Design",
+   "language": "eng",
+   "publisher": "MIT Press",
+   "place": "Cambridge, MA-London",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Kopytoff I. 1986, The cultural biography of things, in A. Appadurai (ed.), The Social Life of Things: Commodities in Cultural Perspective, Cambridge, Cambridge University Press, 64-91.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kopytoff",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Appadurai",
+     "given": "A."
+    }
+   ],
+   "date": "1986",
+   "title": "The cultural biography of things",
+   "is_part_of": [
+    "The Social Life of Things: Commodities in Cultural Perspective"
+   ],
+   "language": "eng",
+   "pages": "64-91",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Lagrange M.S. 1975, Code pour l’analyse des monuments civils, Paris, CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lagrange",
+     "given": "M.S."
+    }
+   ],
+   "date": "1975",
+   "title": "Code pour l'analyse des monuments civils",
+   "language": "fre",
+   "publisher": "CNRS",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Lagrange M.S., Renaud M. 1983, L’interprétation des documents figurés en archéologie et histoire de l’art: essai de simulation sur ordinateur, in F. Lissarague, F. Thélamon (eds.), Image et ceramique grecque (Rouen 1982), Rouen, Université de Rouen, 43-66.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lagrange",
+     "given": "M.S."
+    },
+    {
+     "family": "Renaud",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lissarague",
+     "given": "F."
+    },
+    {
+     "family": "Thélamon",
+     "given": "F."
+    }
+   ],
+   "date": "1983",
+   "title": "L'interprétation des documents figurés en archéologie et histoire de l'art: essai de simulation sur ordinateur",
+   "is_part_of": [
+    "Image et ceramique grecque (Rouen 1982)"
+   ],
+   "language": "fre",
+   "pages": "43-66",
+   "publisher": "Université de Rouen",
+   "place": "Rouen",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Leont’ev A.N. 2007, Activity, consciousness and personality (http://lchc.ucsd.edu/MCA/Paper/leontev/index.html).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Leont'ev",
+     "given": "A.N."
+    }
+   ],
+   "date": "2007",
+   "title": "Activity, consciousness and personality",
+   "uri": "http://lchc.ucsd.edu/MCA/Paper/leontev/index.html",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "Levesque H. 1986, Knowledge representation and reasoning, «Annual Review of Computer Science», 1, 225-287.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Levesque",
+     "given": "H."
+    }
+   ],
+   "date": "1986",
+   "title": "Knowledge representation and reasoning",
+   "is_part_of": [
+    "Annual Review of Computer Science"
+   ],
+   "language": "eng",
+   "volume": "1",
+   "pages": "225-287",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "Lock G.R., Brown K. (eds.) 2000, On the Theory and Practice of Archaeological Computing, Oxford, Oxford University Committee for Archaeology.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G.R."
+    },
+    {
+     "family": "Brown",
+     "given": "K."
+    }
+   ],
+   "date": "2000",
+   "title": "On the Theory and Practice of Archaeological Computing",
+   "language": "eng",
+   "publisher": "Oxford University Committee for Archaeology",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "McCarthy G. 2007, Finding a future for digital cultural heritage information resources using contextual information frameworks, in F. Cameron, S. Kenderdine, Theorizing Digital Cultural Heritage: A Critical Discourse, Cambridge, MA, MIT Press, 245-260.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "McCarthy",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cameron",
+     "given": "F."
+    },
+    {
+     "family": "Kenderdine",
+     "given": "S."
+    }
+   ],
+   "date": "2007",
+   "title": "Finding a future for digital cultural heritage information resources using contextual information frameworks",
+   "is_part_of": [
+    "Theorizing Digital Cultural Heritage: A Critical Discourse"
+   ],
+   "language": "eng",
+   "notes": "Cameron and Kenderdine cited without (eds.)",
+   "pages": "245-260",
+   "publisher": "MIT Press",
+   "place": "Cambridge, MA",
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "Moscati P. 1986, Analisi statistiche multivariate sugli specchi etruschi, Roma, Accademia Nazionale dei Lincei.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1986",
+   "title": "Analisi statistiche multivariate sugli specchi etruschi",
+   "language": "ita",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 51,
+   "raw": "Munn N. 1966, Visual categories: an approach to the study of representational systems, «American Anthropologist», 68, 936-950.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Munn",
+     "given": "N."
+    }
+   ],
+   "date": "1966",
+   "title": "Visual categories: an approach to the study of representational systems",
+   "is_part_of": [
+    "American Anthropologist"
+   ],
+   "language": "eng",
+   "volume": "68",
+   "pages": "936-950",
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "Pearce S.M. (ed.) 1994, Interpreting Objects and Collections, London-New York, Routledge.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Pearce",
+     "given": "S.M."
+    }
+   ],
+   "date": "1994",
+   "title": "Interpreting Objects and Collections",
+   "language": "eng",
+   "publisher": "Routledge",
+   "place": "London-New York",
+   "confidence": "high"
+  },
+  {
+   "position": 53,
+   "raw": "Pearce S.M. (ed.) 1990, Objects of Knowledge, London, Athlone Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Pearce",
+     "given": "S.M."
+    }
+   ],
+   "date": "1990",
+   "title": "Objects of Knowledge",
+   "language": "eng",
+   "publisher": "Athlone Press",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 54,
+   "raw": "Preucel R.W. 2006, Archaeological Semiotics, Oxford, Blackwell Publishing.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Preucel",
+     "given": "R.W."
+    }
+   ],
+   "date": "2006",
+   "title": "Archaeological Semiotics",
+   "language": "eng",
+   "publisher": "Blackwell Publishing",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 55,
+   "raw": "Richards J.D. 1998, Recent trends in computer applications in archaeology, «Journal of Archaeological Research», 6, 4, 331-382 (http://dx.doi.org/10.1023/A:1022879819064; accessed September 21, 2009).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Richards",
+     "given": "J.D."
+    }
+   ],
+   "date": "1998",
+   "title": "Recent trends in computer applications in archaeology",
+   "is_part_of": [
+    "Journal of Archaeological Research"
+   ],
+   "volume": "6",
+   "issue": "4",
+   "pages": "331-382",
+   "doi": "10.1023/A:1022879819064",
+   "language": "eng",
+   "notes": "accessed September 21, 2009",
+   "confidence": "high"
+  },
+  {
+   "position": 56,
+   "raw": "Ross S. 2007, Digital preservation, archival science and methodological foundations for digital libraries, in 11th European Conference on Research and Advanced Technology for Digital Libraries, Keynote Paper (Budapest 2007) (http://www.ecdl2007.org/Keynote_ECDL2007_SROSS.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ross",
+     "given": "S."
+    }
+   ],
+   "date": "2007",
+   "title": "Digital preservation, archival science and methodological foundations for digital libraries",
+   "is_part_of": [
+    "11th European Conference on Research and Advanced Technology for Digital Libraries, Keynote Paper (Budapest 2007)"
+   ],
+   "language": "eng",
+   "uri": "http://www.ecdl2007.org/Keynote_ECDL2007_SROSS.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 57,
+   "raw": "Salomé M. 1980, Code pour l’analyse des représentations figurées sur les vases grecs, Paris, CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Salomé",
+     "given": "M."
+    }
+   ],
+   "date": "1980",
+   "title": "Code pour l'analyse des représentations figurées sur les vases grecs",
+   "language": "fre",
+   "publisher": "CNRS",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 58,
+   "raw": "Shanks M., Tilley C.Y. 1993, Re-constructing Archaeology: Theory and Practice, London, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Shanks",
+     "given": "M."
+    },
+    {
+     "family": "Tilley",
+     "given": "C.Y."
+    }
+   ],
+   "date": "1993",
+   "title": "Re-constructing Archaeology: Theory and Practice",
+   "language": "eng",
+   "publisher": "Routledge",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 59,
+   "raw": "Spaulding A. 1953, Statistical techniques for the discovery of artifact types, «American Antiquity», 18, 305-313.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Spaulding",
+     "given": "A."
+    }
+   ],
+   "date": "1953",
+   "title": "Statistical techniques for the discovery of artifact types",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "language": "eng",
+   "volume": "18",
+   "pages": "305-313",
+   "confidence": "high"
+  },
+  {
+   "position": 60,
+   "raw": "Tilley C.Y. 1999, Metaphor and Material Culture, Oxford-Malden, Blackwell.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tilley",
+     "given": "C.Y."
+    }
+   ],
+   "date": "1999",
+   "title": "Metaphor and Material Culture",
+   "language": "eng",
+   "publisher": "Blackwell",
+   "place": "Oxford-Malden",
+   "confidence": "high"
+  },
+  {
+   "position": 61,
+   "raw": "Trigger B.G. 1989, A History of Archaeological Thought, Cambridge-New York, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Trigger",
+     "given": "B.G."
+    }
+   ],
+   "date": "1989",
+   "title": "A History of Archaeological Thought",
+   "language": "eng",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge-New York",
+   "confidence": "high"
+  },
+  {
+   "position": 62,
+   "raw": "Vergo P. 1989, The New Museology, London, Reaktion Books.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Vergo",
+     "given": "P."
+    }
+   ],
+   "date": "1989",
+   "title": "The New Museology",
+   "language": "eng",
+   "publisher": "Reaktion Books",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 63,
+   "raw": "Washburn D.K. 1983, Structure and Cognition in Art, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Washburn",
+     "given": "D.K."
+    }
+   ],
+   "date": "1983",
+   "title": "Structure and Cognition in Art",
+   "language": "eng",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "confidence": "high"
+  },
+  {
+   "position": 64,
+   "raw": "Zubrow E.B. 2006, Digital archaeology: a historical context, in T. Evans, P.T. Daly (eds.), Digital Archaeology: Bridging Method and Theory, London, Routledge, 10-31.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zubrow",
+     "given": "E.B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Evans",
+     "given": "T."
+    },
+    {
+     "family": "Daly",
+     "given": "P.T."
+    }
+   ],
+   "date": "2006",
+   "title": "Digital archaeology: a historical context",
+   "is_part_of": [
+    "Digital Archaeology: Bridging Method and Theory"
+   ],
+   "language": "eng",
+   "xref": 26,
+   "pages": "10-31",
+   "publisher": "Routledge",
+   "place": "London",
+   "confidence": "high"
+  }
+ ]
+}

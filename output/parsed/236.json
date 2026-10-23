@@ -1,0 +1,98 @@
+{
+ "citing_aec_id": 236,
+ "source_file": "data/journal/8/236.md",
+ "references": [
+  {
+   "raw": "CLIFF A.D., ORD J.K. 1973, Spatial Autocorrelation, London, Pion, 1-178 (d'après ADE cahier, 8).",
+   "date": "1973",
+   "creators": [
+    {
+     "family": "Cliff",
+     "given": "A.D."
+    },
+    {
+     "family": "Ord",
+     "given": "J.K."
+    }
+   ],
+   "type": "book",
+   "title": "Spatial Autocorrelation",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1,
+   "place": "London",
+   "publisher": "Pion",
+   "pages": "1-178",
+   "notes": "d'après ADE cahier, 8"
+  },
+  {
+   "raw": "DJINDJIAN F. 1991, Méthodes pour l'archéologie, Paris, Colin.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "type": "book",
+   "title": "Méthodes pour l'archéologie",
+   "place": "Paris",
+   "publisher": "Colin",
+   "language": "fre",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "IACOVELLA A. 1996, Observations sur la distribution des tombes dans une nécropole grecque d'époque archaïque: le cas de la nécropole Ouest de Mégara Hyblaea, in P. MOSCATI (ed.), III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995), «Archeologia e Calcolatori», 7, 373-384.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Iacovella",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Observations sur la distribution des tombes dans une nécropole grecque d'époque archaïque: le cas de la nécropole Ouest de Mégara Hyblaea",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "pages": "373-384",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "fre",
+   "confidence": "high",
+   "position": 3,
+   "volume": "7"
+  },
+  {
+   "raw": "ORSI P., CAVALLARI F.S. 1892, Megara Hyblaea. Storia, topografia, necropoli e anathemata, «Monumenti Antichi dei Lincei», 1, coll. 685-950.",
+   "date": "1892",
+   "creators": [
+    {
+     "family": "Orsi",
+     "given": "P."
+    },
+    {
+     "family": "Cavallari",
+     "given": "F.S."
+    }
+   ],
+   "type": "article",
+   "title": "Megara Hyblaea. Storia, topografia, necropoli e anathemata",
+   "is_part_of": [
+    "Monumenti Antichi dei Lincei"
+   ],
+   "volume": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4,
+   "pages": "685-950",
+   "notes": "columns (coll.)"
+  }
+ ]
+}

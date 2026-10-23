@@ -1,0 +1,311 @@
+{
+ "citing_aec_id": 295,
+ "source_file": "data/journal/11/295.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BOUROGH P.A. 1986, Principles of Geographical Information System for Land Resources Assessment, Oxford, Clarendon Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Burrough",
+     "given": "P.A."
+    }
+   ],
+   "date": "1986",
+   "title": "Principles of Geographical Information Systems for Land Resources Assessment",
+   "publisher": "Clarendon Press",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "raw \"BOUROGH\", \"Information System\": OCR/typo corrected"
+  },
+  {
+   "position": 2,
+   "raw": "BRIZZOLARI E., CARDARELLI E., PIRO S., VERSINO L. 1993, Detection of subsurface magnetic anomalies of archaeological interest: Computation of threedimensional magnetic anomalies and interpretation using bidimensional cross-correlation, in A. VOGEL (ed.), Theory and Practice of Applied Geophysics, vol. 7, Wiesbaden, Vieweg Publishing, 3-35.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brizzolari",
+     "given": "E."
+    },
+    {
+     "family": "Cardarelli",
+     "given": "E."
+    },
+    {
+     "family": "Piro",
+     "given": "S."
+    },
+    {
+     "family": "Versino",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Vogel",
+     "given": "A."
+    }
+   ],
+   "date": "1993",
+   "title": "Detection of subsurface magnetic anomalies of archaeological interest: Computation of threedimensional magnetic anomalies and interpretation using bidimensional cross-correlation",
+   "is_part_of": [
+    "Theory and Practice of Applied Geophysics"
+   ],
+   "volume": "7",
+   "pages": "3-35",
+   "publisher": "Vieweg Publishing",
+   "place": "Wiesbaden",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "BRIZZOLARI E., PIRO S., VERSINO L. 1992, Monograph on the geophysical exploration of the Selinunte Archaeological Park, «Bollettino di Geofisica Teorica ed Applicata», 34, 134-135, 82-217.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brizzolari",
+     "given": "E."
+    },
+    {
+     "family": "Piro",
+     "given": "S."
+    },
+    {
+     "family": "Versino",
+     "given": "L."
+    }
+   ],
+   "date": "1992",
+   "title": "Monograph on the geophysical exploration of the Selinunte Archaeological Park",
+   "is_part_of": [
+    "Bollettino di Geofisica Teorica ed Applicata"
+   ],
+   "volume": "34",
+   "issue": "134-135",
+   "pages": "82-217",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "COSTANTINI A. 1999, Esposizione dei dati d’archivio sui lavori eseguiti nel Tevere tra il 1590 e il 1846, in F. COLOSI, A. COSTANTINI, A. DE MEO, R. GABRIELLI, Il Tevere ed il suo antico corso, «Archeologia e Calcolatori», 10, 249-273.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Costantini",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "Esposizione dei dati d’archivio sui lavori eseguiti nel Tevere tra il 1590 e il 1846",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "249-273",
+   "language": "ita",
+   "confidence": "low",
+   "notes": "section of Colosi F., Costantini A., De Meo A., Gabrielli R., \"Il Tevere ed il suo antico corso\", AeC 10, 249-273 (pages are those of the whole article)"
+  },
+  {
+   "position": 5,
+   "raw": "FILIPPI G. 1979, Regio IV. Sabina et Samnium. Forum Novum, «Supplementa Italica», n.s. 5, Roma, Quasar, 145-234.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Filippi",
+     "given": "G."
+    }
+   ],
+   "date": "1979",
+   "title": "Regio IV. Sabina et Samnium. Forum Novum",
+   "is_part_of": [
+    "Supplementa Italica"
+   ],
+   "volume": "n.s. 5",
+   "pages": "145-234",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "lat"
+  },
+  {
+   "position": 6,
+   "raw": "GAMURRINI G.F., COZZA A., PASQUI A., MENGARELLI R. 1972, Carta archeologica d’Italia (1881-1897). Materiali per l’Etruria e la Sabina, Forma Italiae, II, 1, Firenze, Olschki.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gamurrini",
+     "given": "G.F."
+    },
+    {
+     "family": "Cozza",
+     "given": "A."
+    },
+    {
+     "family": "Pasqui",
+     "given": "A."
+    },
+    {
+     "family": "Mengarelli",
+     "given": "R."
+    }
+   ],
+   "date": "1972",
+   "title": "Carta archeologica d’Italia (1881-1897). Materiali per l’Etruria e la Sabina",
+   "series": "Forma Italiae",
+   "series_number": "II, 1",
+   "publisher": "Olschki",
+   "place": "Firenze",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "MUZZIOLI M.P. 1980, Cures Sabini, Formae Italiae, IV, 2, Firenze, Olschki.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Muzzioli",
+     "given": "M.P."
+    }
+   ],
+   "date": "1980",
+   "title": "Cures Sabini",
+   "series": "Forma Italiae",
+   "series_number": "IV, 2",
+   "publisher": "Olschki",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "raw \"Formae Italiae\"; normalized to series name Forma Italiae"
+  },
+  {
+   "position": 8,
+   "raw": "PIRO S., SAMIR A., VERSINO L. 1998, Position and spatial orientation of magnetic bodies from archaeological magnetic surveys, «Annali di Geofisica», 41, 3, 343-358.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Piro",
+     "given": "S."
+    },
+    {
+     "family": "Samir",
+     "given": "A."
+    },
+    {
+     "family": "Versino",
+     "given": "L."
+    }
+   ],
+   "date": "1998",
+   "title": "Position and spatial orientation of magnetic bodies from archaeological magnetic surveys",
+   "is_part_of": [
+    "Annali di Geofisica"
+   ],
+   "volume": "41",
+   "issue": "3",
+   "pages": "343-358",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "QUILICI GIGLI S. 1986, Scali e traghetti sul Tevere in epoca arcaica, «Quaderni di Archeologia Etrusco-Italica», 12, 71-89.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Quilici Gigli",
+     "given": "S."
+    }
+   ],
+   "date": "1986",
+   "title": "Scali e traghetti sul Tevere in epoca arcaica",
+   "is_part_of": [
+    "Quaderni di Archeologia Etrusco-Italica"
+   ],
+   "volume": "12",
+   "pages": "71-89",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "QUILICI GIGLI S., SANTORO P. 1990, Magliano Sabina: la necropoli ed il centro arcaico, «Quaderni di Archeologia Etrusco-Italica», 19, 307-319.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Quilici Gigli",
+     "given": "S."
+    },
+    {
+     "family": "Santoro",
+     "given": "P."
+    }
+   ],
+   "date": "1990",
+   "title": "Magliano Sabina: la necropoli ed il centro arcaico",
+   "is_part_of": [
+    "Quaderni di Archeologia Etrusco-Italica"
+   ],
+   "volume": "19",
+   "pages": "307-319",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "SANTORO P. 1988, Magliano Sabina: una lettura diacronica del territorio sulla base dei materiali del Museo Civico, «Quaderni di Archeologia Etrusco-Italica», 9, 335-343.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Santoro",
+     "given": "P."
+    }
+   ],
+   "date": "1988",
+   "title": "Magliano Sabina: una lettura diacronica del territorio sulla base dei materiali del Museo Civico",
+   "is_part_of": [
+    "Quaderni di Archeologia Etrusco-Italica"
+   ],
+   "volume": "9",
+   "pages": "335-343",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "SANTORO P. 1997, Magliano: origini e sviluppo dell’insediamento, «Quaderni del Museo Archeologico di Magliano Sabina», 2, Roma, 79-85.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Santoro",
+     "given": "P."
+    }
+   ],
+   "date": "1997",
+   "title": "Magliano: origini e sviluppo dell’insediamento",
+   "is_part_of": [
+    "Quaderni del Museo Archeologico di Magliano Sabina"
+   ],
+   "volume": "2",
+   "pages": "79-85",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "TALWANI M. 1965, Computation with the help of a digital computer of magnetic anomalies caused by bodies of arbitrary shape, «Geophysics», 30, 5, 797-817.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Talwani",
+     "given": "M."
+    }
+   ],
+   "date": "1965",
+   "title": "Computation with the help of a digital computer of magnetic anomalies caused by bodies of arbitrary shape",
+   "is_part_of": [
+    "Geophysics"
+   ],
+   "volume": "30",
+   "issue": "5",
+   "pages": "797-817",
+   "language": "eng"
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+{
+ "citing_aec_id": 129,
+ "source_file": "data/journal/7/129.md",
+ "references": [
+  {
+   "raw": "ANGILERI V. 1993, *La qualità dei GIS: considerazioni a margine di alcune esperienze*, «Genio Rurale», 1, 46-53.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Angileri",
+     "given": "V."
+    }
+   ],
+   "type": "article",
+   "title": "La qualità dei GIS: considerazioni a margine di alcune esperienze",
+   "is_part_of": [
+    "Genio Rurale"
+   ],
+   "pages": "46-53",
+   "volume": "1",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "BURROUGH P.A. 1986, *Principles of Geographical Information Systems for Land Resources Assessment*, Oxford, Clarendon Press.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Burrough",
+     "given": "P.A."
+    }
+   ],
+   "type": "book",
+   "title": "Principles of Geographical Information Systems for Land Resources Assessment",
+   "place": "Oxford",
+   "publisher": "Clarendon Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "COSENTINO D., PAROTTO M., PRATURLON A. 1993, *Guide Geologiche Regionali, 14 Itinerari, Lazio*, BE-MA editrice.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Cosentino",
+     "given": "D."
+    },
+    {
+     "family": "Parotto",
+     "given": "M."
+    },
+    {
+     "family": "Praturlon",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Guide Geologiche Regionali, 14 Itinerari, Lazio",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3,
+   "publisher": "BE-MA editrice"
+  },
+  {
+   "raw": "ESPA G., ESPA S., GABRIELLI R., PIFFERI A., RICCI U. 1995, *Impiego integrato di metodi statistico-spaziali e tecniche informatiche nell'analisi di aree di interesse storico-archeologico*, «Archeologia e Calcolatori», 6, 35-60.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Espa",
+     "given": "G."
+    },
+    {
+     "family": "Espa",
+     "given": "S."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Pifferi",
+     "given": "A."
+    },
+    {
+     "family": "Ricci",
+     "given": "U."
+    }
+   ],
+   "type": "article",
+   "title": "Impiego integrato di metodi statistico-spaziali e tecniche informatiche nell'analisi di aree di interesse storico-archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "35-60",
+   "volume": "6",
+   "language": "ita",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "GIGLI QUILICI S., SANTORO P. 1994, *Eretum: ricerca topografica sull'abitato in epoca arcaica*, «Archeologia Laziale», 12, 641-663.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Gigli Quilici",
+     "given": "S."
+    },
+    {
+     "family": "Santoro",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "Eretum: ricerca topografica sull'abitato in epoca arcaica",
+   "is_part_of": [
+    "Archeologia Laziale"
+   ],
+   "pages": "641-663",
+   "volume": "12",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "GETIS A., FRANKLIN J. 1986, *Second-Order Neighborhood Analysis of Mapped Point Patterns*, «Ecology», 65(3), 473-477.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Getis",
+     "given": "A."
+    },
+    {
+     "family": "Franklin",
+     "given": "J."
+    }
+   ],
+   "type": "article",
+   "title": "Second-Order Neighborhood Analysis of Mapped Point Patterns",
+   "is_part_of": [
+    "Ecology"
+   ],
+   "issue": "3",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6,
+   "volume": "65",
+   "pages": "473-477"
+  },
+  {
+   "raw": "I.G.M. Foglio 138 - *Terni*, Carta Geologica d'Italia, scala 1:100.000.",
+   "type": "other",
+   "title": "Foglio 138 - Terni",
+   "confidence": "low",
+   "notes": "scala 1:100.000",
+   "position": 7,
+   "creators": [
+    {
+     "family": "I.G.M.",
+     "given": ""
+    }
+   ],
+   "series": "Carta Geologica d'Italia"
+  },
+  {
+   "raw": "I.G.M. Foglio 144 - *Palombara Sabina*, Carta Geologica d'Italia, scala 1:100.000.",
+   "type": "other",
+   "title": "Foglio 144 - Palombara Sabina",
+   "confidence": "low",
+   "notes": "scala 1:100.000",
+   "position": 8,
+   "creators": [
+    {
+     "family": "I.G.M.",
+     "given": ""
+    }
+   ],
+   "series": "Carta Geologica d'Italia"
+  },
+  {
+   "raw": "OGILVIE R.M. 1965, *Eretum*, «Papers of the British School at Rome», 32, 70-112.",
+   "date": "1965",
+   "creators": [
+    {
+     "family": "Ogilvie",
+     "given": "R.M."
+    }
+   ],
+   "type": "article",
+   "title": "Eretum",
+   "is_part_of": [
+    "Papers of the British School at Rome"
+   ],
+   "pages": "70-112",
+   "volume": "32",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9
+  }
+ ]
+}

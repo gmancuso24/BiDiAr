@@ -1,0 +1,434 @@
+{
+ "citing_aec_id": 1252,
+ "source_file": "data/journal/34/1252.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BÖDŐCS A. 2008, *A római kori úthálózat térinformatikai vizsgálata a mai Magyarország területén. GIS Applied Study of the Roman Road Network in Hungary*, PhD Dissertation, Budapest, Eötvös Loránd University.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Bödőcs",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "A római kori úthálózat térinformatikai vizsgálata a mai Magyarország területén. GIS Applied Study of the Roman Road Network in Hungary",
+   "publisher": "Eötvös Loránd University",
+   "place": "Budapest",
+   "language": "hun",
+   "notes": "PhD dissertation",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "BÖDŐCS A. 2013, *Borders. The problems of the aerial archaeological research of a Roman limitatio in Pannonia*, in Z. CZAJLIK, A. BÖDŐCS (eds.), *Aerial Archaeology and Remote Sensing from the Baltic to the Adriatic. Selected Papers of the Annual Conference of the Aerial Archaeology Research Group (Budapest 2012)*, Budapest, L'Harmattan, 59-66.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bödőcs",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Czajlik",
+     "given": "Z."
+    },
+    {
+     "family": "Bödőcs",
+     "given": "A."
+    }
+   ],
+   "date": "2013",
+   "title": "Borders. The problems of the aerial archaeological research of a Roman limitatio in Pannonia",
+   "is_part_of": [
+    "Aerial Archaeology and Remote Sensing from the Baltic to the Adriatic. Selected Papers of the Annual Conference of the Aerial Archaeology Research Group (Budapest 2012)"
+   ],
+   "pages": "59-66",
+   "publisher": "L'Harmattan",
+   "place": "Budapest",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BÖDŐCS A., KOVÁCS G. 2011, *A római kori birtokrendszer kialakítása és tájformáló hatása Pannoniában*, «Geodézia és Kartográfia», 63, 3, 20-25.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bödőcs",
+     "given": "A."
+    },
+    {
+     "family": "Kovács",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "A római kori birtokrendszer kialakítása és tájformáló hatása Pannoniában",
+   "is_part_of": [
+    "Geodézia és Kartográfia"
+   ],
+   "volume": "63",
+   "issue": "3",
+   "pages": "20-25",
+   "language": "hun",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "BÖDŐCS A., KOVÁCS G., ANDERKÓ K. 2014, *The impact of the Roman agriculture on the territory of Savaria*, «Dissertationes Archaeologicae», 3, 2, 321-332.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bödőcs",
+     "given": "A."
+    },
+    {
+     "family": "Kovács",
+     "given": "G."
+    },
+    {
+     "family": "Anderkó",
+     "given": "K."
+    }
+   ],
+   "date": "2014",
+   "title": "The impact of the Roman agriculture on the territory of Savaria",
+   "is_part_of": [
+    "Dissertationes Archaeologicae"
+   ],
+   "volume": "3",
+   "issue": "2",
+   "pages": "321-332",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BRADFORD J.D. 1957, *Ancient Landscapes: Studies in Field Archaeology*, London, G. Bell.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bradford",
+     "given": "J.D."
+    }
+   ],
+   "date": "1957",
+   "title": "Ancient Landscapes: Studies in Field Archaeology",
+   "publisher": "G. Bell",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "CAILLEMER A., CHEVALLIER R. 1954, *Les centuriations de l'\"Africa Vetus\". Sous l'oeil d'Asmodée*, «Annales. Histoire, Sciences Sociales», 9, 433-460.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Caillemer",
+     "given": "A."
+    },
+    {
+     "family": "Chevallier",
+     "given": "R."
+    }
+   ],
+   "date": "1954",
+   "title": "Les centuriations de l'\"Africa Vetus\". Sous l'oeil d'Asmodée",
+   "is_part_of": [
+    "Annales. Histoire, Sciences Sociales"
+   ],
+   "volume": "9",
+   "pages": "433-460",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "CHOUQUER G., FAVORY F. 1991, *Les paysage de l'Antiquité*, Paris, Errance.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chouquer",
+     "given": "G."
+    },
+    {
+     "family": "Favory",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Les paysage de l'Antiquité",
+   "publisher": "Errance",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "GUGL CH., DONEUS M., DONEUS N. 2008, *Roman field boundaries in West Pannonia: Diversity of a system*, in R. COMPATANGELO-SOUSSIGNAN, J.R. BERTRAND, J. CHAPMAN, P.-Y. LAFFONT (eds.), *Marqueurs des paysages et systèmes socio-économiques. Proceedings of Le Mans COST Conference*, Documents Archéologiques 1, Rennes, 113-125.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gugl",
+     "given": "Ch."
+    },
+    {
+     "family": "Doneus",
+     "given": "M."
+    },
+    {
+     "family": "Doneus",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Compatangelo-Soussignan",
+     "given": "R."
+    },
+    {
+     "family": "Bertrand",
+     "given": "J.R."
+    },
+    {
+     "family": "Chapman",
+     "given": "J."
+    },
+    {
+     "family": "Laffont",
+     "given": "P.-Y."
+    }
+   ],
+   "date": "2008",
+   "title": "Roman field boundaries in West Pannonia: Diversity of a system",
+   "is_part_of": [
+    "Marqueurs des paysages et systèmes socio-économiques. Proceedings of Le Mans COST Conference"
+   ],
+   "pages": "113-125",
+   "series": "Documents Archéologiques",
+   "series_number": "1",
+   "place": "Rennes",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "HORVÁTH T.A. 1993, *Szombathely a XV-XVIII. Században*, Szombathely, Szombathely Megyei Jogú Város és a Panniculus Régiségtani Egylet, 450.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Horváth",
+     "given": "T.A."
+    }
+   ],
+   "date": "1993",
+   "title": "Szombathely a XV-XVIII. Században",
+   "publisher": "Szombathely Megyei Jogú Város és a Panniculus Régiségtani Egylet",
+   "place": "Szombathely",
+   "language": "hun",
+   "notes": "cited with the number 450 (probably total pages)",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "KOVÁCS G. 2010, *The advantages of using the second military survey maps in fluvial studies*, «Acta Geodaetica et Geophysica Hungarica», 45, 64-70.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kovács",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "The advantages of using the second military survey maps in fluvial studies",
+   "is_part_of": [
+    "Acta Geodaetica et Geophysica Hungarica"
+   ],
+   "volume": "45",
+   "pages": "64-70",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "KOVÁCS G. 2013, *Linkage of Young Tectonics and Surface Development in the Eastern Alpine Foothills (Fiatal tektonika és felszínfejlődés kapcsolata az Alpok keleti előterében)*, PhD Dissertation, Budapest, Eötvös Loránd University.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Kovács",
+     "given": "G."
+    }
+   ],
+   "date": "2013",
+   "title": "Linkage of Young Tectonics and Surface Development in the Eastern Alpine Foothills (Fiatal tektonika és felszínfejlődés kapcsolata az Alpok keleti előterében)",
+   "publisher": "Eötvös Loránd University",
+   "place": "Budapest",
+   "language": "eng",
+   "notes": "PhD dissertation",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "MLADONICZKI R., SOSZTARICS O. 2009, *Die Strecke der Bersteinstraße in Savaria*, in S. BIRÓ (ed.), *Ex officina ... Studia in honorem Dénes Gabler*, Győr, Mursella Régészeti Egyesület, 325-356.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mladoniczki",
+     "given": "R."
+    },
+    {
+     "family": "Sosztarics",
+     "given": "O."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Biró",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "Die Strecke der Bersteinstraße in Savaria",
+   "is_part_of": [
+    "Ex officina ... Studia in honorem Dénes Gabler"
+   ],
+   "pages": "325-356",
+   "publisher": "Mursella Régészeti Egyesület",
+   "place": "Győr",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "MÓCSY A. 1965, *Savaria utcarendszerének rekonstrukciójához*, «Archeológiai Értesítő», 92, 27-36.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mócsy",
+     "given": "A."
+    }
+   ],
+   "date": "1965",
+   "title": "Savaria utcarendszerének rekonstrukciójához",
+   "is_part_of": [
+    "Archeológiai Értesítő"
+   ],
+   "volume": "92",
+   "pages": "27-36",
+   "language": "hun",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "MÓCSY A. 1990, *Földbirtok*, in A. MÓCSY, J. FITZ, *Pannonia Régészeti Kézikönyve*, Budapest, Akadémiai Kiadó, 125-127.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mócsy",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Mócsy",
+     "given": "A."
+    },
+    {
+     "family": "Fitz",
+     "given": "J."
+    }
+   ],
+   "date": "1990",
+   "title": "Földbirtok",
+   "is_part_of": [
+    "Pannonia Régészeti Kézikönyve"
+   ],
+   "pages": "125-127",
+   "publisher": "Akadémiai Kiadó",
+   "place": "Budapest",
+   "language": "hun",
+   "notes": "editors as cited (no '(eds.)')",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "PETERSON J.W.M. 1993, *Computer Aided Investigation of Ancient Cadastres*, PhD Dissertation, Norwich, University of East Anglia.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Peterson",
+     "given": "J.W.M."
+    }
+   ],
+   "date": "1993",
+   "title": "Computer Aided Investigation of Ancient Cadastres",
+   "publisher": "University of East Anglia",
+   "place": "Norwich",
+   "language": "eng",
+   "notes": "PhD dissertation",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "TIMÁR G., MOLNÁR G., SZÉKELY B., BISZAK S., VARGA J., JANKÓ A. 2006, *Digitized Maps of the Habsburg Empire. The Map Sheets of the Second Military Survey and Their Georeferenced Version*, Budapest, Arcanum, DVD.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Timár",
+     "given": "G."
+    },
+    {
+     "family": "Molnár",
+     "given": "G."
+    },
+    {
+     "family": "Székely",
+     "given": "B."
+    },
+    {
+     "family": "Biszak",
+     "given": "S."
+    },
+    {
+     "family": "Varga",
+     "given": "J."
+    },
+    {
+     "family": "Jankó",
+     "given": "A."
+    }
+   ],
+   "date": "2006",
+   "title": "Digitized Maps of the Habsburg Empire. The Map Sheets of the Second Military Survey and Their Georeferenced Version",
+   "publisher": "Arcanum",
+   "place": "Budapest",
+   "language": "eng",
+   "notes": "DVD",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "TÓTH E. 1977, *A Savaria-Bassiana útszakasz. The road section between Savaria and Bassiana*, «Archaeológiai Értesítő», 104, 65-77.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tóth",
+     "given": "E."
+    }
+   ],
+   "date": "1977",
+   "title": "A Savaria-Bassiana útszakasz. The road section between Savaria and Bassiana",
+   "is_part_of": [
+    "Archaeológiai Értesítő"
+   ],
+   "volume": "104",
+   "pages": "65-77",
+   "language": "hun",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "citing_aec_id": 1355,
+ "source_file": "data/journal/35/1355.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV. 2013, *Archeologia e paesaggio nell'area costiera veneta: conoscenza, partecipazione e valorizzazione*, Cittadella (Padova), Biblos.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "AA.VV.",
+     "given": ""
+    }
+   ],
+   "date": "2013",
+   "title": "Archeologia e paesaggio nell'area costiera veneta: conoscenza, partecipazione e valorizzazione",
+   "publisher": "Biblos",
+   "place": "Cittadella (Padova)",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Capuis L., Leonardi G., Mattioli S., Rosada G. (eds.) 1988, *Carta archeologica del Veneto*, IV, Modena, Edizioni Panini, 127-135.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Capuis",
+     "given": "L."
+    },
+    {
+     "family": "Leonardi",
+     "given": "G."
+    },
+    {
+     "family": "Mattioli",
+     "given": "S."
+    },
+    {
+     "family": "Rosada",
+     "given": "G."
+    }
+   ],
+   "date": "1988",
+   "title": "Carta archeologica del Veneto",
+   "volume": "IV",
+   "pages": "127-135",
+   "publisher": "Edizioni Panini",
+   "place": "Modena",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "De Bellis A., De Bellis F. 1978, *Ritrovamenti monetali nell'agro di S. Basilio (Ariano Polesine)*, «Padusa - Bollettino del Centro Polesano di Studi Storici Archeologici ed Etnografici».",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Bellis",
+     "given": "A."
+    },
+    {
+     "family": "De Bellis",
+     "given": "F."
+    }
+   ],
+   "date": "1978",
+   "title": "Ritrovamenti monetali nell'agro di S. Basilio (Ariano Polesine)",
+   "is_part_of": [
+    "Padusa - Bollettino del Centro Polesano di Studi Storici Archeologici ed Etnografici"
+   ],
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Frassine M. 2010, *La questione Popillia-Annia tra Padova e Adria*, in G. Rosada, M. Frassine, A.R. Ghiotto (eds.), *Viam Anniam influentibus palustribus aquis eververatam… Tradizione, mito, storia e katastrophé di una strada romana*, Treviso, Edizioni Canova, 107-119.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rosada",
+     "given": "G."
+    },
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "Ghiotto",
+     "given": "A.R."
+    }
+   ],
+   "date": "2010",
+   "title": "La questione Popillia-Annia tra Padova e Adria",
+   "is_part_of": [
+    "Viam Anniam influentibus palustribus aquis eververatam… Tradizione, mito, storia e katastrophé di una strada romana"
+   ],
+   "pages": "107-119",
+   "publisher": "Edizioni Canova",
+   "place": "Treviso",
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "Iadicicco G., Vicenzutto D., Paltineri S. 2022, *Cluster analysis, classificazione numerica e remote sensing. Metodi di analisi integrati applicati alla survey presso San Basilio di Ariano nel Polesine (RO)*, «Archeologia e Calcolatori», 33.2, 53-76 (https://doi.org/10.19282/ac.33.2.2022.04).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Iadicicco",
+     "given": "G."
+    },
+    {
+     "family": "Vicenzutto",
+     "given": "D."
+    },
+    {
+     "family": "Paltineri",
+     "given": "S."
+    }
+   ],
+   "date": "2022",
+   "title": "Cluster analysis, classificazione numerica e remote sensing. Metodi di analisi integrati applicati alla survey presso San Basilio di Ariano nel Polesine (RO)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "33",
+   "issue": "2",
+   "pages": "53-76",
+   "language": "ita",
+   "doi": "10.19282/ac.33.2.2022.04",
+   "cited_aec_id": 1201
+  },
+  {
+   "position": 6,
+   "raw": "Peretto R. 1986, *Ambiente e strutture antropiche nell'antico Polesine*, in *L'antico Polesine: testimonianze archeologiche e paleoambientali. Catalogo delle esposizioni di Adria e di Rovigo*, Padova, Ed. Antoniana, 21-102.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Peretto",
+     "given": "R."
+    }
+   ],
+   "date": "1986",
+   "title": "Ambiente e strutture antropiche nell'antico Polesine",
+   "is_part_of": [
+    "L'antico Polesine: testimonianze archeologiche e paleoambientali. Catalogo delle esposizioni di Adria e di Rovigo"
+   ],
+   "pages": "21-102",
+   "publisher": "Ed. Antoniana",
+   "place": "Padova",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Peretto R., Bedetti S. 2013, *Trasparenze di paesaggi: Atlante aerofotografico del Polesine*, Rovigo, Centro Polesano di Studi Storici Archeologici Etnografici.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Peretto",
+     "given": "R."
+    },
+    {
+     "family": "Bedetti",
+     "given": "S."
+    }
+   ],
+   "date": "2013",
+   "title": "Trasparenze di paesaggi: Atlante aerofotografico del Polesine",
+   "publisher": "Centro Polesano di Studi Storici Archeologici Etnografici",
+   "place": "Rovigo",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "Uggeri G. 2012, *La nuova via Annia da Roma ad Aquileia (153 a.C.)*, «Journal of Ancient Topography», 22, 133-174.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Uggeri",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "La nuova via Annia da Roma ad Aquileia (153 a.C.)",
+   "is_part_of": [
+    "Journal of Ancient Topography"
+   ],
+   "volume": "22",
+   "pages": "133-174",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "Turolla O. 1986, *San Basilio tra storia e leggenda*, Taglio di Po (Rovigo), Arti grafiche Diemme.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Turolla",
+     "given": "O."
+    }
+   ],
+   "date": "1986",
+   "title": "San Basilio tra storia e leggenda",
+   "publisher": "Arti grafiche Diemme",
+   "place": "Taglio di Po (Rovigo)",
+   "language": "ita"
+  }
+ ]
+}

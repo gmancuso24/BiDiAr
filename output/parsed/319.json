@@ -1,0 +1,308 @@
+{
+ "citing_aec_id": 319,
+ "source_file": "data/journal/12/319.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AGUILÓ M. et al. 1993, Guía para la elaboración de estudios del medio físico, Madrid, Ministerio de Obras Públicas y Transportes.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Aguiló",
+     "given": "M."
+    }
+   ],
+   "date": "1993",
+   "title": "Guía para la elaboración de estudios del medio físico",
+   "publisher": "Ministerio de Obras Públicas y Transportes",
+   "place": "Madrid",
+   "language": "spa",
+   "confidence": "low",
+   "notes": "cited \"AGUILÓ M. et al.\"; other authors unknown"
+  },
+  {
+   "position": 2,
+   "raw": "BAENA PREYSLER J., BLASCO BOSQUED C. 1997, Cambios en los patrones de asentamiento y visibilidad. El Bronce Final y la primera Edad del Hierro en el bajo Manzanares, in J. BAENA, C. BLASCO, F. QUESADA (edd.), Los S.I.G. y el análisis espacial en Arqueología, Madrid, Universidad Autónoma de Madrid, 195-212.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Baena Preysler",
+     "given": "J."
+    },
+    {
+     "family": "Blasco Bosqued",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Baena",
+     "given": "J."
+    },
+    {
+     "family": "Blasco",
+     "given": "C."
+    },
+    {
+     "family": "Quesada",
+     "given": "F."
+    }
+   ],
+   "date": "1997",
+   "title": "Cambios en los patrones de asentamiento y visibilidad. El Bronce Final y la primera Edad del Hierro en el bajo Manzanares",
+   "is_part_of": [
+    "Los S.I.G. y el análisis espacial en Arqueología"
+   ],
+   "pages": "195-212",
+   "publisher": "Universidad Autónoma de Madrid",
+   "place": "Madrid",
+   "language": "spa"
+  },
+  {
+   "position": 3,
+   "raw": "BELÉN M., ESCACENA J.L. 1992, Las comunidades prerromanas de Andalucía Occidental, «Paleoetnología de la Península Ibérica. Complutum», 2-3, 65-88.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Belén",
+     "given": "M."
+    },
+    {
+     "family": "Escacena",
+     "given": "J.L."
+    }
+   ],
+   "date": "1992",
+   "title": "Las comunidades prerromanas de Andalucía Occidental",
+   "is_part_of": [
+    "Paleoetnología de la Península Ibérica. Complutum"
+   ],
+   "issue": "2-3",
+   "pages": "65-88",
+   "language": "spa"
+  },
+  {
+   "position": 4,
+   "raw": "BELL T. 1999, Reconstructing Archaeology from the Landscape: GIS, CAD and The Roman Signal Station at Whitby, in L. DINGWALL et al. (eds.), Archaeology in the Age of the Internet. Computers Applications and Quantitative Methods in Archaeology ’97, BAR International Series 750, Oxford (testo in CD-ROM).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bell",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Reconstructing Archaeology from the Landscape: GIS, CAD and The Roman Signal Station at Whitby",
+   "is_part_of": [
+    "Archaeology in the Age of the Internet. CAA 1997 Proceedings of the 25th Anniversary Conference"
+   ],
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "\"testo in CD-ROM\"; no pages"
+  },
+  {
+   "position": 5,
+   "raw": "CORZO R., TOSCANO M. 1992, Las vías romanas de Andalucía, Sevilla, Consejería de Obras Públicas y Transportes, Dirección General de Ordenación el Territorio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Corzo",
+     "given": "R."
+    },
+    {
+     "family": "Toscano",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Las vías romanas de Andalucía",
+   "publisher": "Consejería de Obras Públicas y Transportes, Dirección General de Ordenación el Territorio",
+   "place": "Sevilla",
+   "language": "spa"
+  },
+  {
+   "position": 6,
+   "raw": "ESCACENA J.L. 1992, Indicadores étnicos en la Andalucía prerromana, «Spal», 1, 321-343.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Escacena",
+     "given": "J.L."
+    }
+   ],
+   "date": "1992",
+   "title": "Indicadores étnicos en la Andalucía prerromana",
+   "is_part_of": [
+    "Spal"
+   ],
+   "volume": "1",
+   "pages": "321-343",
+   "language": "spa"
+  },
+  {
+   "position": 7,
+   "raw": "GARCÍA SANJUÁN L. 1999, Los orígenes de la Estratificación Social. Patrones de desigualdad en la Edad del Bronce del Suroeste de la Península Ibérica (Sierra Morena Occidental c. 1700-1100 a.n.e.), BAR International Series 823, Oxford.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "García Sanjuán",
+     "given": "L."
+    }
+   ],
+   "date": "1999",
+   "title": "Los orígenes de la Estratificación Social. Patrones de desigualdad en la Edad del Bronce del Suroeste de la Península Ibérica (Sierra Morena Occidental c. 1700-1100 a.n.e.)",
+   "series": "BAR International Series",
+   "series_number": "823",
+   "place": "Oxford",
+   "language": "spa"
+  },
+  {
+   "position": 8,
+   "raw": "MARTÍNEZ LILLO S., SÁEZ LARA F., MALALANA A. 1997, La aplicación de los S.I.G. como planteamiento para el estudio de la organización del espacio en la marca media andalusí. El sistema de atalayas en la cuenca del Jarama, in J. BAENA, C. BLASCO, F. QUESADA (edd.), Los S.I.G. y el análisis espacial en Arqueología, Madrid, Universidad Autónoma de Madrid, 273-307.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Martínez Lillo",
+     "given": "S."
+    },
+    {
+     "family": "Sáez Lara",
+     "given": "F."
+    },
+    {
+     "family": "Malalana",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Baena",
+     "given": "J."
+    },
+    {
+     "family": "Blasco",
+     "given": "C."
+    },
+    {
+     "family": "Quesada",
+     "given": "F."
+    }
+   ],
+   "date": "1997",
+   "title": "La aplicación de los S.I.G. como planteamiento para el estudio de la organización del espacio en la marca media andalusí. El sistema de atalayas en la cuenca del Jarama",
+   "is_part_of": [
+    "Los S.I.G. y el análisis espacial en Arqueología"
+   ],
+   "pages": "273-307",
+   "publisher": "Universidad Autónoma de Madrid",
+   "place": "Madrid",
+   "language": "spa"
+  },
+  {
+   "position": 9,
+   "raw": "ORIA et al. 1991, El poblamiento antiguo en la Sierra Sur de Sevilla. Zona de Montellano, Sevilla, Excmo, Ayuntamiento de Montellano.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Oria",
+     "given": ""
+    }
+   ],
+   "date": "1991",
+   "title": "El poblamiento antiguo en la Sierra Sur de Sevilla. Zona de Montellano",
+   "publisher": "Excmo. Ayuntamiento de Montellano",
+   "place": "Sevilla",
+   "language": "spa",
+   "confidence": "low",
+   "notes": "cited \"ORIA et al.\"; initials and other authors unknown"
+  },
+  {
+   "position": 10,
+   "raw": "RUÍZ DELGADO M.Mª. 1985, Carta arqueológica de la campiña sevillana. Zona Sureste I, Sevilla, Servicio de Publicaciones de la Universidad de Sevilla.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ruíz Delgado",
+     "given": "M.Mª."
+    }
+   ],
+   "date": "1985",
+   "title": "Carta arqueológica de la campiña sevillana. Zona Sureste I",
+   "publisher": "Servicio de Publicaciones de la Universidad de Sevilla",
+   "place": "Sevilla",
+   "language": "spa"
+  },
+  {
+   "position": 11,
+   "raw": "RUÍZ-GÁLVEZ M. 1995, Ritos de paso y puntos de paso. La Ría de Huelva en el Mundo del Bronce Final Europeo, Complutum Extra 5, Madrid.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ruíz-Gálvez",
+     "given": "M."
+    }
+   ],
+   "date": "1995",
+   "title": "Ritos de paso y puntos de paso. La Ría de Huelva en el Mundo del Bronce Final Europeo",
+   "series": "Complutum Extra",
+   "series_number": "5",
+   "place": "Madrid",
+   "language": "spa"
+  },
+  {
+   "position": 12,
+   "raw": "VAN LEUSEN M. 1999, Viewshed and Cost Surface Analysis using GIS (cartographic modelling in a cell-based GIS II), in J.A. BARCELÓ, A. BRIZ, A. VILA, New Techniques for Old Times. Computers Applications and Quantitative Methods in Archaeology’ 98, BAR International Series 757, Oxford, 215-223.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "Viewshed and Cost Surface Analysis using GIS (cartographic modelling in a cell-based GIS II)",
+   "is_part_of": [
+    "New Techniques for Old Times. CAA 1998 Proceedings of the 26th Conference"
+   ],
+   "pages": "215-223",
+   "place": "Oxford",
+   "language": "eng"
+  }
+ ]
+}

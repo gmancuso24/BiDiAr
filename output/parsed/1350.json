@@ -1,0 +1,92 @@
+{
+ "citing_aec_id": 1350,
+ "source_file": "data/journal/35/1350.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bologna V., Azzari M. 2023, *RT3D stratigraphies: Analysis and software design to manage data*, in I.P. Haynes, T. Ravasi, S. Kay, S. Piro, P. Liverani (eds.), *Non-Intrusive Methodologies for Large Area Urban Research*, Oxford, Archaeopress, 1-3 (https://www.archaeopress.com/Archaeopress/download/9781803274461).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bologna",
+     "given": "V."
+    },
+    {
+     "family": "Azzari",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Haynes",
+     "given": "I.P."
+    },
+    {
+     "family": "Ravasi",
+     "given": "T."
+    },
+    {
+     "family": "Kay",
+     "given": "S."
+    },
+    {
+     "family": "Piro",
+     "given": "S."
+    },
+    {
+     "family": "Liverani",
+     "given": "P."
+    }
+   ],
+   "date": "2023",
+   "title": "RT3D stratigraphies: Analysis and software design to manage data",
+   "is_part_of": [
+    "Non-Intrusive Methodologies for Large Area Urban Research"
+   ],
+   "pages": "1-3",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "uri": "https://www.archaeopress.com/Archaeopress/download/9781803274461"
+  },
+  {
+   "position": 2,
+   "raw": "Haynes I., Liverani P., Ravasi T., Kay S. 2023, *The changing face of the eastern Caelian in the 1st-4th centuries AD: Work by the Rome Transformed project*, in A. Launaro (ed.), *Roman Urbanism in Italy. Recent Discoveries and New Directions*, Oxford-Philadelphia, Oxbow Books, 22-43 (https/doi.org//10.2307/jj.9941113.6).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Haynes",
+     "given": "I."
+    },
+    {
+     "family": "Liverani",
+     "given": "P."
+    },
+    {
+     "family": "Ravasi",
+     "given": "T."
+    },
+    {
+     "family": "Kay",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Launaro",
+     "given": "A."
+    }
+   ],
+   "date": "2023",
+   "title": "The changing face of the eastern Caelian in the 1st-4th centuries AD: Work by the Rome Transformed project",
+   "is_part_of": [
+    "Roman Urbanism in Italy. Recent Discoveries and New Directions"
+   ],
+   "pages": "22-43",
+   "publisher": "Oxbow Books",
+   "place": "Oxford-Philadelphia",
+   "language": "eng",
+   "doi": "10.2307/jj.9941113.6"
+  }
+ ]
+}

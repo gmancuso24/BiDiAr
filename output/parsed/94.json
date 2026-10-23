@@ -1,0 +1,82 @@
+{
+ "citing_aec_id": 94,
+ "source_file": "data/journal/5/94.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BRESSON A., ETIENNE R. 1989, PETRAE: Système de traitement automatique et base de données des inscriptions grecques et latines, in Actes du Colloque sur Epigraphie et Informatique, Lausanne, 69.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bresson",
+     "given": "A."
+    },
+    {
+     "family": "Etienne",
+     "given": "R."
+    }
+   ],
+   "date": "1989",
+   "title": "PETRAE: Système de traitement automatique et base de données des inscriptions grecques et latines",
+   "is_part_of": [
+    "Actes du Colloque sur Epigraphie et Informatique"
+   ],
+   "pages": "69",
+   "place": "Lausanne",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "DI STEFANO MANZELLA I. 1984, Progetto di una scheda epigrafica computerizzata (1981-1983), in A. DONATI (ed.), Il Museo epigrafico, Faenza, 161.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Stefano Manzella",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Donati",
+     "given": "A."
+    }
+   ],
+   "date": "1984",
+   "title": "Progetto di una scheda epigrafica computerizzata (1981-1983)",
+   "is_part_of": [
+    "Il Museo epigrafico"
+   ],
+   "pages": "161",
+   "place": "Faenza",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "DI STEFANO MANZELLA I. 1990, Il computer nell'epigrafia latina, in P. MOSCATI (ed.), Trattamento di dati negli studi archeologici e storici, Roma, 137-150.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Stefano Manzella",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1990",
+   "title": "Il computer nell'epigrafia latina",
+   "is_part_of": [
+    "Trattamento di dati negli studi archeologici e storici"
+   ],
+   "pages": "137-150",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

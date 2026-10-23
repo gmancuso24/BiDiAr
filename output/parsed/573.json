@@ -1,0 +1,413 @@
+{
+ "citing_aec_id": 573,
+ "source_file": "data/journal/21/573.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Baxter M.J. 1994, Exploratory Multivariate Analysis in Archaeology, Edinburgh, Edinburgh University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    }
+   ],
+   "date": "1994",
+   "title": "Exploratory Multivariate Analysis in Archaeology",
+   "publisher": "Edinburgh University Press",
+   "place": "Edinburgh",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Baxter M.J. 2003, Statistics in Archaeology, London, Arnold.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    }
+   ],
+   "date": "2003",
+   "title": "Statistics in Archaeology",
+   "publisher": "Arnold",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bølviken E.E., Helskog K., Holm-Olsen I., Solheim L., Bertelsen R. 1982, Correspondence Analysis: an alternative to principal components, «World Archaeology», 14, 41-60.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bølviken",
+     "given": "E.E."
+    },
+    {
+     "family": "Helskog",
+     "given": "K."
+    },
+    {
+     "family": "Holm-Olsen",
+     "given": "I."
+    },
+    {
+     "family": "Solheim",
+     "given": "L."
+    },
+    {
+     "family": "Bertelsen",
+     "given": "R."
+    }
+   ],
+   "date": "1982",
+   "title": "Correspondence Analysis: an alternative to principal components",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "14",
+   "pages": "41-60",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Cool H.E.M., Baxter M.J. 1999, Peeling the onion: an approach to comparing vessel glass assemblages, «Journal of Roman Archaeology», 12, 72-100.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cool",
+     "given": "H.E.M."
+    },
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    }
+   ],
+   "date": "1999",
+   "title": "Peeling the onion: an approach to comparing vessel glass assemblages",
+   "is_part_of": [
+    "Journal of Roman Archaeology"
+   ],
+   "volume": "12",
+   "pages": "72-100",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Cowgill G.L. 2001, Past, present and future of quantitative methods in United States archaeology, in Z. Stančič, T. Veljanovski (eds.), Computing Archaeology for Understanding the Past. CAA 2000, BAR International Series 931, Oxford, Archaeopress, 35-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cowgill",
+     "given": "G.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "Past, present and future of quantitative methods in United States archaeology",
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. CAA 2000"
+   ],
+   "pages": "35-40",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Djindjian F. 2009, The golden years for mathematics and computers in archaeology (1965-1985), in P. Moscati (ed.), La nascita dell’informatica archeologica. Atti del Convegno internazionale (Roma 2008), «Archeologia e Calcolatori», 20, 61-73.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "The golden years for mathematics and computers in archaeology (1965-1985)",
+   "is_part_of": [
+    "La nascita dell’informatica archeologica. Atti del Convegno internazionale (Roma 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "pages": "61-73",
+   "language": "eng",
+   "cited_aec_id": 504,
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Duff A.I. 1996, Ceramic micro-seriation: types or attributes?, «American Antiquity», 61, 89-101.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Duff",
+     "given": "A.I."
+    }
+   ],
+   "date": "1996",
+   "title": "Ceramic micro-seriation: types or attributes?",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "61",
+   "pages": "89-101",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Greenacre M.J. 1984, Theory and Applications of Correspondence Analysis, London, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Greenacre",
+     "given": "M.J."
+    }
+   ],
+   "date": "1984",
+   "title": "Theory and Applications of Correspondence Analysis",
+   "publisher": "Academic Press",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Hill M.O. 1974, Correspondence Analysis: a neglected multivariate technique, «Applied Statistics», 23, 340-354.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hill",
+     "given": "M.O."
+    }
+   ],
+   "date": "1974",
+   "title": "Correspondence Analysis: a neglected multivariate technique",
+   "is_part_of": [
+    "Applied Statistics"
+   ],
+   "volume": "23",
+   "pages": "340-354",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Lockyear K. 2000a, Experiments with detrended Correspondence Analysis, in K. Lockyear, T.J.T. Sly, V. Mihăilescu-Bîrliba (eds.), Computer Applications and Quantitative Methods in Archaeology: CAA96, BAR International Series 845, Oxford, Archaeopress, 9-17.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lockyear",
+     "given": "K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lockyear",
+     "given": "K."
+    },
+    {
+     "family": "Sly",
+     "given": "T.J.T."
+    },
+    {
+     "family": "Mihăilescu-Bîrliba",
+     "given": "V."
+    }
+   ],
+   "date": "2000",
+   "title": "Experiments with detrended Correspondence Analysis",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology: CAA96"
+   ],
+   "pages": "9-17",
+   "series": "BAR International Series",
+   "series_number": "845",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "cited as 2000a",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Lockyear K. 2000b, Site finds in Roman Britain: a comparison of techniques, «Oxford Journal of Archaeology», 19, 397-423.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lockyear",
+     "given": "K."
+    }
+   ],
+   "date": "2000",
+   "title": "Site finds in Roman Britain: a comparison of techniques",
+   "is_part_of": [
+    "Oxford Journal of Archaeology"
+   ],
+   "volume": "19",
+   "pages": "397-423",
+   "language": "eng",
+   "notes": "cited as 2000b",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Madsen T. (ed.) 1988, Multivariate Archaeology, Aarhus, Aarhus University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Madsen",
+     "given": "T."
+    }
+   ],
+   "date": "1988",
+   "title": "Multivariate Archaeology",
+   "publisher": "Aarhus University Press",
+   "place": "Aarhus",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Orton C. 1999, Plus ça change? - 25 years of statistics in archaeology, in L. Dingwall, S. Exon, V. Gaffney, S. Laflin, M. van Leusen (eds.), Archaeology in the Age of the Internet: CAA97, BAR International Series 750, Oxford, Archaeopress, 25-34.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "van Leusen",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Plus ça change? - 25 years of statistics in archaeology",
+   "is_part_of": [
+    "Archaeology in the Age of the Internet: CAA97"
+   ],
+   "pages": "25-34",
+   "series": "BAR International Series",
+   "series_number": "750",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Ringrose T.J. 1988, Correspondence analysis as an exploratory technique for stratigraphic abundance data, in C.L.N. Ruggles, S.P.Q. Rahtz (eds.), Computers and Quantitative Methods in Archaeology 1987, BAR International Series 393, Oxford, 3-14.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ringrose",
+     "given": "T.J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ruggles",
+     "given": "C.L.N."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S.P.Q."
+    }
+   ],
+   "date": "1988",
+   "title": "Correspondence analysis as an exploratory technique for stratigraphic abundance data",
+   "is_part_of": [
+    "Computers and Quantitative Methods in Archaeology 1987"
+   ],
+   "pages": "3-14",
+   "series": "BAR International Series",
+   "series_number": "393",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Shennan S. 1997, Quantifying Archaeology: Second Edition, Edinburgh, Edinburgh University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Shennan",
+     "given": "S."
+    }
+   ],
+   "date": "1997",
+   "title": "Quantifying Archaeology",
+   "edition": "2",
+   "publisher": "Edinburgh University Press",
+   "place": "Edinburgh",
+   "language": "eng",
+   "notes": "cited as 'Second Edition'",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Venables W.N., Ripley B.D. 2002, Modern Applied Statistics with S: Fourth Edition, New York, Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Venables",
+     "given": "W.N."
+    },
+    {
+     "family": "Ripley",
+     "given": "B.D."
+    }
+   ],
+   "date": "2002",
+   "title": "Modern Applied Statistics with S",
+   "edition": "4",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "eng",
+   "notes": "cited as 'Fourth Edition'",
+   "confidence": "high"
+  }
+ ]
+}

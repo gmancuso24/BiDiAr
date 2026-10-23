@@ -1,0 +1,968 @@
+{
+ "citing_aec_id": 348,
+ "source_file": "data/journal/13/348.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ANSCOMBE G.E.M. 1971, Causality and Determination, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Anscombe",
+     "given": "G.E.M."
+    }
+   ],
+   "date": "1971",
+   "title": "Causality and Determination",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "BARCELÓ J.A., BRIZ I., VILA A. (eds.) 1999, New Techniques for Old Times. CAA98. Computer Applications and Quantitative Methods in Archaeology (Barcelona 1998), BAR International Series 757, Oxford, Archaeopress.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "New Techniques for Old Times. CAA 98. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 26th Conference (Barcelona 1998)",
+   "series": "BAR International Series",
+   "series_number": "757",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "title cited \"New Techniques for Old Times. CAA98. Computer Applications and Quantitative Methods in Archaeology (Barcelona 1998)\""
+  },
+  {
+   "position": 3,
+   "raw": "BARCELÓ J.A., PALLARÉS M. 1996, A critique of G.I.S. in archaeology. From visual seduction to spatial analysis, «Archeologia e Calcolatori», 7, 313-326.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Pallarés",
+     "given": "M."
+    }
+   ],
+   "date": "1996",
+   "title": "A critique of G.I.S. in archaeology. From visual seduction to spatial analysis",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "313-326",
+   "language": "eng",
+   "cited_aec_id": 147
+  },
+  {
+   "position": 4,
+   "raw": "BARCELÓ J.A., PALLARÉS M. 1998, Beyond GIS: The archaeology of social spaces, «Archeologia e Calcolatori», 9, 47-80.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Pallarés",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Beyond GIS: The archaeology of social spaces",
+   "is_part_of": [
+    "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "47-80",
+   "language": "eng",
+   "cited_aec_id": 248
+  },
+  {
+   "position": 5,
+   "raw": "BARCELÓ J.A., PIANA E.L., MARTINIONI D. 2002, Archaeological Spatial Modelling. A case Study from Beagle Channel (Argentina) in G. BURENHULT, J. ARVIDSSEN (eds.), Archaeological Informatics: Pushing the Envelope. CAA 2001 (Gotland 2001), BAR Int. Series 1016, Oxford, Archeopress, 351-360.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Piana",
+     "given": "E.L."
+    },
+    {
+     "family": "Martinioni",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    },
+    {
+     "family": "Arvidssen",
+     "given": "J."
+    }
+   ],
+   "date": "2002",
+   "title": "Archaeological Spatial Modelling. A case Study from Beagle Channel (Argentina)",
+   "is_part_of": [
+    "Archaeological Informatics. Pushing the Envelope. Computer Applications and Quantitative Methods in Archaeology (Visby 2001)"
+   ],
+   "pages": "351-360",
+   "series": "BAR International Series",
+   "series_number": "1016",
+   "publisher": "Archeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "BAXTER M., BEARDAH C.C. 1997, Some archaeological applications of Kernel Density Estimates, «Journal of Archaeological Science», 24, 347-354.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M."
+    },
+    {
+     "family": "Beardah",
+     "given": "C.C."
+    }
+   ],
+   "date": "1997",
+   "title": "Some archaeological applications of Kernel Density Estimates",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "24",
+   "pages": "347-354",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "BEARDAH C.C. 1999, Uses of multivariate Kernel Density Estimates in archaeology, in L. DINGWALL et al. (eds.), Archaeology in the Age of the Internet. CAA Proceedings of the 25th Anniversary Conference (Birmingham 1997), BAR International Series 750, Oxford (CD-Rom).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Beardah",
+     "given": "C.C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    }
+   ],
+   "date": "1999",
+   "title": "Uses of multivariate Kernel Density Estimates in archaeology",
+   "is_part_of": [
+    "Archaeology in the Age of the Internet. CAA Proceedings of the 25th Anniversary Conference (Birmingham 1997)"
+   ],
+   "series": "BAR International Series",
+   "series_number": "750",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "editors cited \"et al.\"; cited as CD-Rom"
+  },
+  {
+   "position": 8,
+   "raw": "BEARDAH C.C., BAXTER M. 1996, MATLAB routines for Kernel Density Estimation and the graphical presentation of data, in H. KAMERMANS, K. FENNEMA (eds.), Interfacing the Past. CAA95, Analecta Praehistorica Leidensia 28, 179-184.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Beardah",
+     "given": "C.C."
+    },
+    {
+     "family": "Baxter",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "date": "1996",
+   "title": "MATLAB routines for Kernel Density Estimation and the graphical presentation of data",
+   "is_part_of": [
+    "Interfacing the Past. CAA95"
+   ],
+   "pages": "179-184",
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "BEARDAH C.C., BAXTER M. 1999, Three-dimensional data display using Kernel Density Estimates, in BARCELÓ, BRIZ, VILA 1999, 163-170.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Beardah",
+     "given": "C.C."
+    },
+    {
+     "family": "Baxter",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "Three-dimensional data display using Kernel Density Estimates",
+   "is_part_of": [
+    "New Techniques for Old Times. CAA 98. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 26th Conference (Barcelona 1998)"
+   ],
+   "pages": "163-170",
+   "series": "BAR International Series",
+   "series_number": "757",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 2
+  },
+  {
+   "position": 10,
+   "raw": "BUNGE M. 1972, Causalidad. El principio de causalidad en la ciencia moderna (trad. Castellana, 3ª ed.), Buenos Aires, Editorial Universitaria de Buenos Aires.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bunge",
+     "given": "M."
+    }
+   ],
+   "date": "1972",
+   "title": "Causalidad. El principio de causalidad en la ciencia moderna",
+   "edition": "3",
+   "publisher": "Editorial Universitaria de Buenos Aires",
+   "place": "Buenos Aires",
+   "language": "spa",
+   "notes": "cited as trad. castellana, 3ª ed."
+  },
+  {
+   "position": 11,
+   "raw": "BUNGE M. 1985, Racionalidad y Realismo, Madrid, Alianza Editorial.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bunge",
+     "given": "M."
+    }
+   ],
+   "date": "1985",
+   "title": "Racionalidad y Realismo",
+   "publisher": "Alianza Editorial",
+   "place": "Madrid",
+   "language": "spa"
+  },
+  {
+   "position": 12,
+   "raw": "BOYCE A.J., KUCHEMANN C.F., HARRISON G.A. 1967, Neighbourhood knowledge and the distribution of marriage distances, «Annals of Human Genetics», 30, 335-338.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Boyce",
+     "given": "A.J."
+    },
+    {
+     "family": "Kuchemann",
+     "given": "C.F."
+    },
+    {
+     "family": "Harrison",
+     "given": "G.A."
+    }
+   ],
+   "date": "1967",
+   "title": "Neighbourhood knowledge and the distribution of marriage distances",
+   "is_part_of": [
+    "Annals of Human Genetics"
+   ],
+   "volume": "30",
+   "pages": "335-338",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "BOYCE A.J., KUCHEMANN C.F., HARRISON G.A. 1971, Population structure and movement patterns, in W. BRASS (ed.), Biological Aspects of Demography, London, Taylor & Francis.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Boyce",
+     "given": "A.J."
+    },
+    {
+     "family": "Kuchemann",
+     "given": "C.F."
+    },
+    {
+     "family": "Harrison",
+     "given": "G.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brass",
+     "given": "W."
+    }
+   ],
+   "date": "1971",
+   "title": "Population structure and movement patterns",
+   "is_part_of": [
+    "Biological Aspects of Demography"
+   ],
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "CAMAGNI R. 1992, Economia Urbana. Principi e Modelli Teorici, Roma, La Nuova Italia Scientifica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Camagni",
+     "given": "R."
+    }
+   ],
+   "date": "1992",
+   "title": "Economia Urbana. Principi e Modelli Teorici",
+   "publisher": "La Nuova Italia Scientifica",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "CARTER H. 1972, The Study of Urban Growth, London, Edward Arnold Publ.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carter",
+     "given": "H."
+    }
+   ],
+   "date": "1972",
+   "title": "The Study of Urban Growth",
+   "publisher": "Edward Arnold Publ.",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "CARTWRIGHT N. 1989, Nature’s Capacities and Their Measurement, Oxford, Clarendon Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cartwright",
+     "given": "N."
+    }
+   ],
+   "date": "1989",
+   "title": "Nature's Capacities and Their Measurement",
+   "publisher": "Clarendon Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "CLARK D. 1982, Urban Geography, Baltimore, John Hopkins University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Clark",
+     "given": "D."
+    }
+   ],
+   "date": "1982",
+   "title": "Urban Geography",
+   "publisher": "John Hopkins University Press",
+   "place": "Baltimore",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "CRESSIE N. 1991, Statistics for Spatial Data, New York, John Wiley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cressie",
+     "given": "N."
+    }
+   ],
+   "date": "1991",
+   "title": "Statistics for Spatial Data",
+   "publisher": "John Wiley",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "DELICADO P. 1999, Statistics in archaeology: New directions, in BARCELÓ, BRIZ, VILA 1999, 29-37.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Delicado",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "Statistics in archaeology: New directions",
+   "is_part_of": [
+    "New Techniques for Old Times. CAA 98. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 26th Conference (Barcelona 1998)"
+   ],
+   "pages": "29-37",
+   "series": "BAR International Series",
+   "series_number": "757",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 2
+  },
+  {
+   "position": 20,
+   "raw": "EELLS E. 1991, Probabilistic Causality, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Eells",
+     "given": "E."
+    }
+   ],
+   "date": "1991",
+   "title": "Probabilistic Causality",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "ESTEVEZ J., MAMELI L. 2000, Muerte en el Canal: experiencias bioestratinómicas controladas sobre la acción sustractora de cánidos, «Archaeofauna», 9, 7-16.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Estevez",
+     "given": "J."
+    },
+    {
+     "family": "Mameli",
+     "given": "L."
+    }
+   ],
+   "date": "2000",
+   "title": "Muerte en el Canal: experiencias bioestratinómicas controladas sobre la acción sustractora de cánidos",
+   "is_part_of": [
+    "Archaeofauna"
+   ],
+   "volume": "9",
+   "pages": "7-16",
+   "language": "spa"
+  },
+  {
+   "position": 22,
+   "raw": "FIX A. 1975, Neighbourhood knowledge and marriage distance: The Semai case, «Annals of Human Genetics», 37, 327-332.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fix",
+     "given": "A."
+    }
+   ],
+   "date": "1975",
+   "title": "Neighbourhood knowledge and marriage distance: The Semai case",
+   "is_part_of": [
+    "Annals of Human Genetics"
+   ],
+   "volume": "37",
+   "pages": "327-332",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "GATRELL A.C. 1983, Distance and Space: A Geographical Perspective, Oxford, Oxford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gatrell",
+     "given": "A.C."
+    }
+   ],
+   "date": "1983",
+   "title": "Distance and Space: A Geographical Perspective",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "GETIS A. 1994, Spatial dependence and heterogeneity and proximal databases, in S. FOTHERINGHAM, P. ROGERSON (eds.), Spatial Analysis and GIS, London, Taylor & Francis.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Getis",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Fotheringham",
+     "given": "S."
+    },
+    {
+     "family": "Rogerson",
+     "given": "P."
+    }
+   ],
+   "date": "1994",
+   "title": "Spatial dependence and heterogeneity and proximal databases",
+   "is_part_of": [
+    "Spatial Analysis and GIS"
+   ],
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "GOTTDIENER M. 1994, Social Production and Urban Space, Austin, Texas University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gottdiener",
+     "given": "M."
+    }
+   ],
+   "date": "1994",
+   "title": "Social Production and Urban Space",
+   "publisher": "Texas University Press",
+   "place": "Austin",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "GREGORY D., URRY J. 1985, Social Relations and Spatial Structures, London, McMillan.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gregory",
+     "given": "D."
+    },
+    {
+     "family": "Urry",
+     "given": "J."
+    }
+   ],
+   "date": "1985",
+   "title": "Social Relations and Spatial Structures",
+   "publisher": "McMillan",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "HAYNES K.E., FOTHERINGHAM S.E. 1984, Gravity and Spatial Interaction Models, Beverly Hills, Sage Publ.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Haynes",
+     "given": "K.E."
+    },
+    {
+     "family": "Fotheringham",
+     "given": "S.E."
+    }
+   ],
+   "date": "1984",
+   "title": "Gravity and Spatial Interaction Models",
+   "publisher": "Sage Publ.",
+   "place": "Beverly Hills",
+   "language": "eng"
+  },
+  {
+   "position": 28,
+   "raw": "KARPINSKI J. 1990, Causality in Social Research, Dordrecht, Kluwer Academic Publ.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Karpinski",
+     "given": "J."
+    }
+   ],
+   "date": "1990",
+   "title": "Causality in Social Research",
+   "publisher": "Kluwer Academic Publ.",
+   "place": "Dordrecht",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "KAUFFMANN S. 1995, At Home in the Universe. The Search for the Laws of Self-Organization and Complexity, Oxford, Oxford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kauffmann",
+     "given": "S."
+    }
+   ],
+   "date": "1995",
+   "title": "At Home in the Universe. The Search for the Laws of Self-Organization and Complexity",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 30,
+   "raw": "KELLERMAN A. 1989, Time, Space, and Society: Geographical Societal Perspectives, Dordrecht, Kluwer Academic Publ.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kellerman",
+     "given": "A."
+    }
+   ],
+   "date": "1989",
+   "title": "Time, Space, and Society: Geographical Societal Perspectives",
+   "publisher": "Kluwer Academic Publ.",
+   "place": "Dordrecht",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "KELLERT S.H. 1992, In the Wake of Chaos. Unpredictable Order in Dynamic Systems, Chicago, University of Chicago Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kellert",
+     "given": "S.H."
+    }
+   ],
+   "date": "1992",
+   "title": "In the Wake of Chaos. Unpredictable Order in Dynamic Systems",
+   "publisher": "University of Chicago Press",
+   "place": "Chicago",
+   "language": "eng"
+  },
+  {
+   "position": 32,
+   "raw": "LEFEBVRE L. 1974, La Production de l’Espace, Paris.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lefebvre",
+     "given": "L."
+    }
+   ],
+   "date": "1974",
+   "title": "La Production de l'Espace",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 33,
+   "raw": "MAMELI L., BARCELÓ J.A., ESTÉVEZ J. 2002, The statistics of archaeological deformation processes. An archaeozoological experiment, in G. BURENHULT, J. ARVIDSSEN (eds.), Archaeological Informatics: Pushing the Envelope. CAA2001 (Gotland 2001), BAR International Series 1016, Oxford, Archeopress, 221-230.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mameli",
+     "given": "L."
+    },
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Estévez",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    },
+    {
+     "family": "Arvidssen",
+     "given": "J."
+    }
+   ],
+   "date": "2002",
+   "title": "The statistics of archaeological deformation processes. An archaeozoological experiment",
+   "is_part_of": [
+    "Archaeological Informatics. Pushing the Envelope. Computer Applications and Quantitative Methods in Archaeology (Visby 2001)"
+   ],
+   "pages": "221-230",
+   "series": "BAR International Series",
+   "series_number": "1016",
+   "publisher": "Archeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 34,
+   "raw": "MELLOR D.H. 1995, The Facts of Causation, London, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mellor",
+     "given": "D.H."
+    }
+   ],
+   "date": "1995",
+   "title": "The Facts of Causation",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "PARKES D.N., THRIFT N.J. 1980, Times, Spaces and Places: A Chronogeographic Perspective, London, John Wiley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Parkes",
+     "given": "D.N."
+    },
+    {
+     "family": "Thrift",
+     "given": "N.J."
+    }
+   ],
+   "date": "1980",
+   "title": "Times, Spaces and Places: A Chronogeographic Perspective",
+   "publisher": "John Wiley",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 36,
+   "raw": "RIVADULLA A. 1991, Probabilidad e Inferencia Científica, Barcelona, Editorial Anthropos.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rivadulla",
+     "given": "A."
+    }
+   ],
+   "date": "1991",
+   "title": "Probabilidad e Inferencia Científica",
+   "publisher": "Editorial Anthropos",
+   "place": "Barcelona",
+   "language": "spa"
+  },
+  {
+   "position": 37,
+   "raw": "SALMON W. 1984, Scientific Explanation and the Causal Structure of the World, Princeton, Princeton University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Salmon",
+     "given": "W."
+    }
+   ],
+   "date": "1984",
+   "title": "Scientific Explanation and the Causal Structure of the World",
+   "publisher": "Princeton University Press",
+   "place": "Princeton",
+   "language": "eng"
+  },
+  {
+   "position": 38,
+   "raw": "SANTOS N. 1997, La naturaleza del Espacio, Madrid, Ed. Taurus.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Santos",
+     "given": "N."
+    }
+   ],
+   "date": "1997",
+   "title": "La naturaleza del Espacio",
+   "publisher": "Ed. Taurus",
+   "place": "Madrid",
+   "language": "spa"
+  },
+  {
+   "position": 39,
+   "raw": "SILVERMAN B. 1986, Density Estimation for Statistics and Data Analysis, London, Chapman and Hall.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Silverman",
+     "given": "B."
+    }
+   ],
+   "date": "1986",
+   "title": "Density Estimation for Statistics and Data Analysis",
+   "publisher": "Chapman and Hall",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 40,
+   "raw": "SIMONSEN K. 1996, What kind of space in what kind of social theory?, «Progress in Human Geography», 20,4, 494-512.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Simonsen",
+     "given": "K."
+    }
+   ],
+   "date": "1996",
+   "title": "What kind of space in what kind of social theory?",
+   "is_part_of": [
+    "Progress in Human Geography"
+   ],
+   "volume": "20",
+   "issue": "4",
+   "pages": "494-512",
+   "language": "eng"
+  },
+  {
+   "position": 41,
+   "raw": "SOJA E. 1980, The socio-spatial dialectic, «Annals of the Association of American Geographers», 70, 207-212.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Soja",
+     "given": "E."
+    }
+   ],
+   "date": "1980",
+   "title": "The socio-spatial dialectic",
+   "is_part_of": [
+    "Annals of the Association of American Geographers"
+   ],
+   "volume": "70",
+   "pages": "207-212",
+   "language": "eng"
+  },
+  {
+   "position": 42,
+   "raw": "SOJA E. 1989, PostModern Geographies, London, Verso.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Soja",
+     "given": "E."
+    }
+   ],
+   "date": "1989",
+   "title": "PostModern Geographies",
+   "publisher": "Verso",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 43,
+   "raw": "SUPPES P. 1984, Probabilistic Metaphysics, Oxford, Basil Blackwell.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Suppes",
+     "given": "P."
+    }
+   ],
+   "date": "1984",
+   "title": "Probabilistic Metaphysics",
+   "publisher": "Basil Blackwell",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 44,
+   "raw": "TOOLEY M. 1987, Causation. A Realist Approach, Oxford, Clarendon Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tooley",
+     "given": "M."
+    }
+   ],
+   "date": "1987",
+   "title": "Causation. A Realist Approach",
+   "publisher": "Clarendon Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 45,
+   "raw": "WHEELER J.O., MULLER P.O., THRALL G.I., FIK T.J. 1998, Economic Geography, London, John Wiley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wheeler",
+     "given": "J.O."
+    },
+    {
+     "family": "Muller",
+     "given": "P.O."
+    },
+    {
+     "family": "Thrall",
+     "given": "G.I."
+    },
+    {
+     "family": "Fik",
+     "given": "T.J."
+    }
+   ],
+   "date": "1998",
+   "title": "Economic Geography",
+   "publisher": "John Wiley",
+   "place": "London",
+   "language": "eng"
+  }
+ ]
+}

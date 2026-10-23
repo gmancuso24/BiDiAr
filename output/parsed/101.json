@@ -1,0 +1,362 @@
+{
+ "citing_aec_id": 101,
+ "source_file": "data/journal/5/101.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ALLEN K.M., GREEN S.W., ZUBROW E.B.W. (eds.) 1990, Interpreting Space: GIS and Archaeology, London, Francis and Taylor.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "Interpreting Space: GIS and Archaeology",
+   "language": "eng",
+   "place": "London",
+   "publisher": "Francis and Taylor",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "BATOVIC S. 1984, Contribution aux études de la céramique corinthienne sur la côte orientale de l’adriatique, « Vjesnik za arheologiju i historiju dalmatinsku », 77, 37-62.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Batovic",
+     "given": "S."
+    }
+   ],
+   "date": "1984",
+   "title": "Contribution aux études de la céramique corinthienne sur la côte orientale de l’adriatique",
+   "is_part_of": [
+    "Vjesnik za arheologiju i historiju dalmatinsku"
+   ],
+   "language": "fre",
+   "volume": "77",
+   "pages": "37-62",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BINTLIFF J.L., GAFFNEY V. 1988, The Ager Pharensis/Hvar project 1987, in J. CHAPMAN, J. BINTLIFF, V. GAFFNEY, B. SLAPSAK (eds.), Recent Developments in Yugoslav Archaeology, Oxford, British Archaeological Reports International Series, 431, 151-175.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bintliff",
+     "given": "J.L."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Chapman",
+     "given": "J."
+    },
+    {
+     "family": "Bintliff",
+     "given": "J."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Slapsak",
+     "given": "B."
+    }
+   ],
+   "date": "1988",
+   "title": "The Ager Pharensis/Hvar project 1987",
+   "is_part_of": [
+    "Recent Developments in Yugoslav Archaeology"
+   ],
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "431",
+   "place": "Oxford",
+   "publisher": "British Archaeological Reports",
+   "pages": "151-175",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "CHISHOLM M.D.J. 1972, Rural Settlement and Land Use: An Essay in Location, London, Hutchinson.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chisholm",
+     "given": "M.D.J."
+    }
+   ],
+   "date": "1972",
+   "title": "Rural Settlement and Land Use: An Essay in Location",
+   "language": "eng",
+   "place": "London",
+   "publisher": "Hutchinson",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "FARLEY J.A., LIMP W.F., LOCKHART J. 1990, The archaeologist’s workbench: integrating GIS, remote sensing, EDA and database management, in K.M. ALLEN, S.W. GREEN, E.B.W. ZUBROW (eds.), Interpreting Space: GIS and Archaeology, London, Francis and Taylor, 141-164.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Farley",
+     "given": "J.A."
+    },
+    {
+     "family": "Limp",
+     "given": "W.F."
+    },
+    {
+     "family": "Lockhart",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "The archaeologist’s workbench: integrating GIS, remote sensing, EDA and database management",
+   "is_part_of": [
+    "Interpreting Space: GIS and Archaeology"
+   ],
+   "language": "eng",
+   "place": "London",
+   "publisher": "Francis and Taylor",
+   "pages": "141-164",
+   "xref": 1,
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "GAFFNEY V., STANCIC Z. 1991, GIS Approaches to Regional Analysis: A Case Study of the Island of Hvar, Ljubljana, Znanstveni institut Filozofske fakultete.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Stancic",
+     "given": "Z."
+    }
+   ],
+   "date": "1991",
+   "title": "GIS Approaches to Regional Analysis: A Case Study of the Island of Hvar",
+   "language": "eng",
+   "place": "Ljubljana",
+   "publisher": "Znanstveni institut Filozofske fakultete",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "KIRIGIN B., SLAPSAK B. 1986, Starigradsko polje na otoku Hvaru, « Arheoloski pregled », 26, (1985), 207-208.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kirigin",
+     "given": "B."
+    },
+    {
+     "family": "Slapsak",
+     "given": "B."
+    }
+   ],
+   "date": "1986",
+   "title": "Starigradsko polje na otoku Hvaru",
+   "is_part_of": [
+    "Arheoloski pregled"
+   ],
+   "language": "hrv",
+   "volume": "26",
+   "pages": "207-208",
+   "notes": "volume 26 dated 1985 in citation",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "KIRIGIN B., POPOVIC P. 1988, Maslinovik - A Greek Watch Tower in the Chora of Pharos. A preliminary report, in J. CHAPMAN, J. BINTLIFF, V. GAFFNEY, B. SLAPSAK (eds.), Recent Developments in Yugoslav Archaeology, Oxford, British Archaeological Reports International Series, 431, 177-189.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kirigin",
+     "given": "B."
+    },
+    {
+     "family": "Popovic",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Chapman",
+     "given": "J."
+    },
+    {
+     "family": "Bintliff",
+     "given": "J."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Slapsak",
+     "given": "B."
+    }
+   ],
+   "date": "1988",
+   "title": "Maslinovik - A Greek Watch Tower in the Chora of Pharos. A preliminary report",
+   "is_part_of": [
+    "Recent Developments in Yugoslav Archaeology"
+   ],
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "431",
+   "place": "Oxford",
+   "publisher": "British Archaeological Reports",
+   "pages": "177-189",
+   "xref": 3,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "KIRIGIN B. 1990, The Greeks in central Dalmatia: some new evidence, in J. DESCOEDRES (ed.), Greek Colonists and Native Populations, Oxford, Oxford University Press, 291-321.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kirigin",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Descoedres",
+     "given": "J."
+    }
+   ],
+   "date": "1990",
+   "title": "The Greeks in central Dalmatia: some new evidence",
+   "is_part_of": [
+    "Greek Colonists and Native Populations"
+   ],
+   "language": "eng",
+   "place": "Oxford",
+   "publisher": "Oxford University Press",
+   "pages": "291-321",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "KVAMME K.L. 1989, Geographic information systems in regional archaeological research and data management, in M.B. SCHIFFER (ed.), Archaeological Method and Theory, Tucson, University of Arizona Press, 1, 139-203.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "date": "1989",
+   "title": "Geographic information systems in regional archaeological research and data management",
+   "is_part_of": [
+    "Archaeological Method and Theory"
+   ],
+   "language": "eng",
+   "volume": "1",
+   "place": "Tucson",
+   "publisher": "University of Arizona Press",
+   "pages": "139-203",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "LOZAR R.C., GORAN W.D. 1987, GRASS for military land use and planning, « The Military Engineer », 468-469.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lozar",
+     "given": "R.C."
+    },
+    {
+     "family": "Goran",
+     "given": "W.D."
+    }
+   ],
+   "date": "1987",
+   "title": "GRASS for military land use and planning",
+   "is_part_of": [
+    "The Military Engineer"
+   ],
+   "language": "eng",
+   "pages": "468-469",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "THUNEN VON J.H. 1876, The Isolated State, Oxford, Oxford University Press, 1966.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Von Thunen",
+     "given": "J.H."
+    }
+   ],
+   "date": "1876",
+   "title": "The Isolated State",
+   "language": "eng",
+   "place": "Oxford",
+   "publisher": "Oxford University Press",
+   "notes": "cited copy: Oxford University Press 1966",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "WESTERVELT J. 1990, XGRASS Development - Draft II, Champaign Illinois, U.S. Army Construction Engineering Research Laboratory.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Westervelt",
+     "given": "J."
+    }
+   ],
+   "date": "1990",
+   "title": "XGRASS Development - Draft II",
+   "language": "eng",
+   "place": "Champaign, Illinois",
+   "publisher": "U.S. Army Construction Engineering Research Laboratory",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,580 @@
+{
+ "citing_aec_id": 256,
+ "source_file": "data/journal/9/256.md",
+ "references": [
+  {
+   "raw": "BISCIONE R., TOSI M. 1979, Protostoria degli stati turanici. Aspetti dell'evoluzione urbana e forme di insediamento nel popolamento dell'Asia Centrale nell'età del Bronzo (2500-2100 a.C.) alla luce dei dati archeologici, Annali dell'Istituto Universitario Orientale, Sez. Orientale, Supplemento n. 20, Napoli.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Biscione",
+     "given": "R."
+    },
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Protostoria degli stati turanici. Aspetti dell'evoluzione urbana e forme di insediamento nel popolamento dell'Asia Centrale nell'età del Bronzo (2500-2100 a.C.) alla luce dei dati archeologici, Annali dell'Istituto Universitario Orientale, Sez. Orientale",
+   "place": "Napoli",
+   "series": "Annali dell’Istituto Universitario Orientale, Sez. Orientale, Supplemento",
+   "series_number": "20",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "CALORI L., FORTE M., GUIDAZZOLI A. 1996, 3D virtual scientific visualization of archaeological sites: New navigation metaphores, «Scienza e Supercalcolo», luglio 9-12.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Calori",
+     "given": "L."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "3D virtual scientific visualization of archaeological sites: New navigation metaphores",
+   "is_part_of": [
+    "Scienza e Supercalcolo"
+   ],
+   "issue": "luglio",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2,
+   "pages": "9-12"
+  },
+  {
+   "raw": "COSTANTINI L. 1977, I legni lavorati di Shahr-i-Sokhta, Museo Nazionale d'Arte Orientale, Roma, 1-63.",
+   "date": "1977",
+   "creators": [
+    {
+     "family": "Costantini",
+     "given": "L."
+    }
+   ],
+   "type": "book",
+   "title": "I legni lavorati di Shahr-i-Sokhta",
+   "place": "Roma",
+   "publisher": "Museo Nazionale d'Arte Orientale",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "FAIRSERVIS W.A. jr. 1961, Archaeological Studies in the Seistan Basin of South Western Afghanistan and Eastern Iran, vol. 48, part 1, Anthropological Papers of the American Museum of Natural History, New York.",
+   "date": "1961",
+   "creators": [
+    {
+     "family": "Fairservis",
+     "given": "W.A. Jr."
+    }
+   ],
+   "type": "book",
+   "title": "Archaeological Studies in the Seistan Basin of South Western Afghanistan and Eastern Iran",
+   "place": "New York",
+   "series": "Anthropological Papers of the American Museum of Natural History",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4,
+   "volume": "48",
+   "issue": "1"
+  },
+  {
+   "raw": "FORTE M. 1993a, Il paesaggio archeologico al calcolatore, «Le Scienze», giugno 46-54.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Il paesaggio archeologico al calcolatore",
+   "is_part_of": [
+    "Le Scienze"
+   ],
+   "issue": "giugno",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5,
+   "pages": "46-54"
+  },
+  {
+   "raw": "FORTE M. 1993b, Image processing applications in archaeology: Classification systems of archaeological sites in the landscape, in J. ANDRESEN, T. MADSEN, I. SCOLLAR, CAA92. Computing the Past: Computer Applications and Quantitative Methods in Archaeology, Aarhus, Aarhus University Press, 53-61.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Image processing applications in archaeology: Classification systems of archaeological sites in the landscape",
+   "pages": "53-61",
+   "is_part_of": [
+    "Computing the Past: Computer Applications and Quantitative Methods in Archaeology, CAA92"
+   ],
+   "place": "Aarhus",
+   "publisher": "Aarhus University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6,
+   "editors": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ]
+  },
+  {
+   "raw": "FORTE M. 1995, Tra archeologia e realtà virtuale: verso l'archeologia virtuale, «Archeologia e Calcolatori», 6, 105-118.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Tra archeologia e realtà virtuale: verso l'archeologia virtuale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "105-118",
+   "volume": "6",
+   "language": "ita",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "FORTE M. 1996a, Visualizzazione scientifica e computer grafica in archeologia: le prospettive dell'informazione archeologica, in S. ANTONELLI et al., Section 2. Archaeometry. Colloquium IV: Digital Image Processing for the Exploitation of Archaeological Settlements and Landscapes, XIII International Congress of Prehistoric and Protohistoric Sciences (Forlì 1996), Forlì, A.B.A.C.O. Edizioni, 97-118..",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Visualizzazione scientifica e computer grafica in archeologia: le prospettive dell'informazione archeologica",
+   "is_part_of": [
+    "Section 2. Archaeometry. Colloquium IV: Digital Image Processing for the Exploitation of Archaeological Settlements and Landscapes, XIII International Congress of Prehistoric and Protohistoric Sciences (Forlì 1996)"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 8,
+   "editors": [
+    {
+     "family": "Antonelli",
+     "given": "S."
+    }
+   ],
+   "place": "Forlì",
+   "publisher": "A.B.A.C.O. Edizioni",
+   "pages": "97-118"
+  },
+  {
+   "raw": "FORTE M. (ed.) 1996b, Archeologia. Percorsi virtuali delle civiltà scomparse, Milano, Arnoldo Mondadori Editore.",
+   "date": "1996",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Archeologia. Percorsi virtuali delle civiltà scomparse",
+   "place": "Milano",
+   "publisher": "Arnoldo Mondadori Editore",
+   "language": "ita",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "FORTE M. 1997a, Il progetto ARCTOS: tra GIS, realtà virtuale e multimedialità, in Seconde giornate internazionali di studi sull'area elima, Atti del Congresso (Gibellina, 22-26 ottobre 1994), Pisa-Gibellina, 693-710.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il progetto ARCTOS: tra GIS, realtà virtuale e multimedialità",
+   "pages": "693-710",
+   "is_part_of": [
+    "Seconde giornate internazionali di studi sull'area elima, Atti del Congresso (Gibellina, 22-26 ottobre 1994)"
+   ],
+   "place": "Pisa-Gibellina",
+   "language": "ita",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "FORTE M. 1997b, Tra reale e virtuale: le geometrie dell'informazione archeologica al calcolatore, in S. BIANCHI, M. CAMPOLONGO, S. SUTERA, Archeologia e tecnologia, Firenze, 79-93.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Tra reale e virtuale: le geometrie dell'informazione archeologica al calcolatore",
+   "pages": "79-93",
+   "is_part_of": [
+    "Archeologia e tecnologia"
+   ],
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high",
+   "position": 11,
+   "editors": [
+    {
+     "family": "Bianchi",
+     "given": "S."
+    },
+    {
+     "family": "Campolongo",
+     "given": "M."
+    },
+    {
+     "family": "Sutera",
+     "given": "S."
+    }
+   ]
+  },
+  {
+   "raw": "FORTE M., GUIDAZZOLI A. 1995, Archeologia computazionale tra visualizzazione scientifica, computer vision e realtà virtuale, «Technographics», 5-6, 36-41.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Archeologia computazionale tra visualizzazione scientifica, computer vision e realtà virtuale",
+   "is_part_of": [
+    "Technographics"
+   ],
+   "pages": "36-41",
+   "issue": "5-6",
+   "language": "ita",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "FORTE M., GUIDAZZOLI A. 1996, Archaeology, GIS and Desktop Virtual Reality: the ARCTOS Project, in H. KAMERMANS, H. FENNEMA (edd.), Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology, CM 95, Analecta Prehistorica Leidensia, n. 28, Leiden, 439-451.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Archaeology, GIS and Desktop Virtual Reality: the ARCTOS Project",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "pages": "439-451",
+   "is_part_of": [
+    "Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995"
+   ],
+   "place": "Leiden",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13,
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28"
+  },
+  {
+   "raw": "JUX U., KEMPF E.K. 1983, Regional geology of Sistan (South West Afghanistan), in M. TOSI (ed.), Prehistoric Sistan, Roma, 5-60.",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Jux",
+     "given": "U."
+    },
+    {
+     "family": "Kempf",
+     "given": "E.K."
+    }
+   ],
+   "type": "chapter",
+   "title": "Regional geology of Sistan (South West Afghanistan)",
+   "editors": [
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "pages": "5-60",
+   "is_part_of": [
+    "Prehistoric Sistan"
+   ],
+   "place": "Roma",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "MARIANI L. 1979, Problems and methods in resource mapping for the palaeoeconomic study of the Hilmand Valley in protohistoric times, in South Asian European Archeologist, Proceedings of the Congress, Berlin, 13-27.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Mariani",
+     "given": "L."
+    }
+   ],
+   "type": "chapter",
+   "title": "Problems and methods in resource mapping for the palaeoeconomic study of the Hilmand Valley in protohistoric times",
+   "pages": "13-27",
+   "is_part_of": [
+    "South Asian European Archeologist, Proceedings of the Congress"
+   ],
+   "place": "Berlin",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "MEDER O. 1977, Sistan. L'ambiente geografico, in La città bruciata nel deserto salato, Venezia, Ediz. Erizzo.",
+   "date": "1977",
+   "creators": [
+    {
+     "family": "Meder",
+     "given": "O."
+    }
+   ],
+   "type": "chapter",
+   "title": "Sistan. L'ambiente geografico",
+   "is_part_of": [
+    "La città bruciata nel deserto salato"
+   ],
+   "place": "Venezia",
+   "publisher": "Ediz. Erizzo",
+   "language": "eng",
+   "confidence": "high",
+   "position": 16
+  },
+  {
+   "raw": "RAIKES R.L. 1983, Environmental studies at Shahr-i-Sokhta, in M. TOSI (ed.), Prehistoric Sistan, Roma.",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Raikes",
+     "given": "R.L."
+    }
+   ],
+   "type": "chapter",
+   "title": "Environmental studies at Shahr-i-Sokhta",
+   "editors": [
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Prehistoric Sistan"
+   ],
+   "place": "Roma",
+   "language": "eng",
+   "confidence": "high",
+   "position": 17
+  },
+  {
+   "raw": "TOSI M. 1969, Excavations at S.i.S. Preliminary report on the second campaign, September-October 1968, «East and West», 19, 283-386.",
+   "date": "1969",
+   "creators": [
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Excavations at S.i.S. Preliminary report on the second campaign, September-October 1968",
+   "is_part_of": [
+    "East and West"
+   ],
+   "pages": "283-386",
+   "volume": "19",
+   "language": "eng",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "TOSI M. 1978a, Ricerche archeologiche sulla protostoria del Sistan, in Un decennio di ricerche archeologiche, Quaderni della Ricerca Scientifica del C.N.R., Roma, 519-547.",
+   "date": "1978",
+   "creators": [
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Ricerche archeologiche sulla protostoria del Sistan",
+   "pages": "519-547",
+   "is_part_of": [
+    "Un decennio di ricerche archeologiche"
+   ],
+   "place": "Roma",
+   "series": "Quaderni della Ricerca Scientifica del C.N.R",
+   "language": "ita",
+   "confidence": "high",
+   "position": 19
+  },
+  {
+   "raw": "TOSI M. 1978b, L'area iranica, in AA.VV., Archeologia: culture e civiltà del passato nel mondo europeo ed extra-europeo, Milano.",
+   "date": "1978",
+   "creators": [
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'area iranica",
+   "is_part_of": [
+    "Archeologia: culture e civiltà del passato nel mondo europeo ed extra-europeo"
+   ],
+   "place": "Milano",
+   "language": "eng",
+   "confidence": "high",
+   "position": 20
+  },
+  {
+   "raw": "TOSI M. 1984, Il crocevia dell'Asia, in AA.VV., Le grandi scoperte dell'archeologia, Milano, 1754-1832.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il crocevia dell'Asia",
+   "pages": "1754-1832",
+   "is_part_of": [
+    "Le grandi scoperte dell’archeologia"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high",
+   "position": 21
+  },
+  {
+   "raw": "TOSI M. 1985, Dalla molle S.i.S. alla rigida Moenjedaro ovvero il consiglio disatteso, in Studi di paletnologia in onore di Salvatore M. Puglisi, Roma, Università degli Studi La Sapienza, 277-288.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Tosi",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Dalla molle S.i.S. alla rigida Moenjedaro ovvero il consiglio disatteso",
+   "pages": "277-288",
+   "is_part_of": [
+    "Studi di paletnologia in onore di Salvatore M. Puglisi"
+   ],
+   "place": "Roma",
+   "publisher": "Università degli Studi La Sapienza",
+   "language": "ita",
+   "confidence": "high",
+   "position": 22
+  },
+  {
+   "raw": "TOSI M., JARRIGE J.-F. 1979, The natural resources of Mundigak. Some observation of the site in relation to its economical space, in South Asian European Archeologist, Proceedings of the Congress, Berlin, 115-139.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Tosi",
+     "given": "M."
+    },
+    {
+     "family": "Jarrige",
+     "given": "J.-F."
+    }
+   ],
+   "type": "chapter",
+   "title": "The natural resources of Mundigak. Some observation of the site in relation to its economical space",
+   "pages": "115-139",
+   "is_part_of": [
+    "South Asian European Archeologist, Proceedings of the Congress"
+   ],
+   "place": "Berlin",
+   "language": "eng",
+   "confidence": "high",
+   "position": 23
+  },
+  {
+   "raw": "TOSI M., MARIANI L. 1987, L'universo famigliare a S.i.S attraverso le attività domestiche e le strutture residenziali, in G. GNOLI, L. LANCIOTTI (edd.), Orientalia Iosephi Tucci Memoriae Dicata, Roma, Ediz. IsMEO, 853-879.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Tosi",
+     "given": "M."
+    },
+    {
+     "family": "Mariani",
+     "given": "L."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'universo famigliare a S.i.S attraverso le attività domestiche e le strutture residenziali",
+   "editors": [
+    {
+     "family": "Gnoli",
+     "given": "G."
+    },
+    {
+     "family": "Lanciotti",
+     "given": "L."
+    }
+   ],
+   "pages": "853-879",
+   "is_part_of": [
+    "Orientalia Iosephi Tucci Memoriae Dicata"
+   ],
+   "place": "Roma",
+   "publisher": "Ediz. IsMEO",
+   "language": "ita",
+   "confidence": "high",
+   "position": 24
+  }
+ ]
+}

@@ -1,0 +1,1623 @@
+{
+ "citing_aec_id": 1130,
+ "source_file": "data/journal/32/1130.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Abballe M. 2020, *From scattered data to palaeolandscape reconstruction: A case study from the Romagna plain, Italy*, in M. Tagliani, V. Canciani, F. Tommasi (eds.), *Humanities: Approaches, Contaminations and Perspectives. Conference Proceedings (Verona 2019)*, Verona, Cierre Edizioni, 73-85.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Abballe",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Tagliani",
+     "given": "M."
+    },
+    {
+     "family": "Canciani",
+     "given": "V."
+    },
+    {
+     "family": "Tommasi",
+     "given": "F."
+    }
+   ],
+   "date": "2020",
+   "title": "From scattered data to palaeolandscape reconstruction: A case study from the Romagna plain, Italy",
+   "is_part_of": [
+    "Humanities: Approaches, Contaminations and Perspectives. Conference Proceedings (Verona 2019)"
+   ],
+   "pages": "73-85",
+   "publisher": "Cierre Edizioni",
+   "place": "Verona",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Abballe M. 2021, *Fiumi, valli e litorali tra Lamone e Savio dal periodo romano all'età medievale*, in P. Galetti (ed.), *Una terra antica. Paesaggi e insediamenti nella Romania dei secoli V-XI*, Storie di Paesaggi Medievali 4, Firenze, All'Insegna del Giglio, 35-48.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Abballe",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Galetti",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "Fiumi, valli e litorali tra Lamone e Savio dal periodo romano all'età medievale",
+   "is_part_of": [
+    "Una terra antica. Paesaggi e insediamenti nella Romania dei secoli V-XI"
+   ],
+   "pages": "35-48",
+   "series": "Storie di Paesaggi Medievali",
+   "series_number": "4",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Abballe M. under review, *Deserted medieval villages in Romagna: A view from the sky*, «Medieval Archaeology».",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Abballe",
+     "given": "M."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Deserted medieval villages in Romagna: A view from the sky",
+   "is_part_of": [
+    "Medieval Archaeology"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "cited \"under review\"; searched author + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Ammermann A.J., Bonardi S. 1981, *Recent developments in the study of Neolithic settlements in Calabria*, in G.W.W. Barker, R. Hodges (eds.), *Archaeology and Italian Society*, BAR International Serie 102, Oxford, 335-342.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ammermann",
+     "given": "A.J."
+    },
+    {
+     "family": "Bonardi",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barker",
+     "given": "G.W.W."
+    },
+    {
+     "family": "Hodges",
+     "given": "R."
+    }
+   ],
+   "date": "1981",
+   "title": "Recent developments in the study of Neolithic settlements in Calabria",
+   "is_part_of": [
+    "Archaeology and Italian Society"
+   ],
+   "pages": "335-342",
+   "series": "BAR International Series",
+   "series_number": "102",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "series cited as \"BAR International Serie 102\"",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Andresen J.B.R. 2008, *Topographic wetness index and prehistoric land use*, in A. Posluschny, I. Herzog, K. Lambers (eds.), *Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA)*, Bonn, Habelt, 405-410.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Andresen",
+     "given": "J.B.R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Posluschny",
+     "given": "A."
+    },
+    {
+     "family": "Herzog",
+     "given": "I."
+    },
+    {
+     "family": "Lambers",
+     "given": "K."
+    }
+   ],
+   "date": "2008",
+   "title": "Topographic wetness index and prehistoric land use",
+   "is_part_of": [
+    "Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA)"
+   ],
+   "pages": "405-410",
+   "publisher": "Habelt",
+   "place": "Bonn",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Argyriou A.V., Teeuw R.M., Sarris A. 2017, *GIS-based landform classification of Bronze Age archaeological sites on Crete Island*, «PLOS ONE», 12.2, e0170727 (https://doi.org/10.1371/journal.pone.0170727).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Argyriou",
+     "given": "A.V."
+    },
+    {
+     "family": "Teeuw",
+     "given": "R.M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "GIS-based landform classification of Bronze Age archaeological sites on Crete Island",
+   "is_part_of": [
+    "PLoS ONE"
+   ],
+   "volume": "12",
+   "issue": "2",
+   "pages": "e0170727",
+   "language": "eng",
+   "doi": "10.1371/journal.pone.0170727",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Augenti A., Ficara M., Ravaioli E. (eds.) 2012, *Atlante dei beni archeologici della provincia di Ravenna, I, Il paesaggio monumentale del Medioevo*, Bologna, Ante Quem.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Augenti",
+     "given": "A."
+    },
+    {
+     "family": "Ficara",
+     "given": "M."
+    },
+    {
+     "family": "Ravaioli",
+     "given": "E."
+    }
+   ],
+   "date": "2012",
+   "title": "Atlante dei beni archeologici della provincia di Ravenna, I, Il paesaggio monumentale del Medioevo",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Balista C. 1997, *Fossati, canali e paleoalvei: connessioni nevralgiche per l'impianto e la sopravvivenza dei grandi siti terramaricoli di bassa pianura*, in M. Bernabò Brea, A. Cardarelli, M. Cremaschi (eds.), *Le Terramare. La più antica civiltà padana*, Milano, Electa, 126-136.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Balista",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bernabò Brea",
+     "given": "M."
+    },
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    },
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    }
+   ],
+   "date": "1997",
+   "title": "Fossati, canali e paleoalvei: connessioni nevralgiche per l'impianto e la sopravvivenza dei grandi siti terramaricoli di bassa pianura",
+   "is_part_of": [
+    "Le Terramare. La più antica civiltà padana"
+   ],
+   "pages": "126-136",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Bermond Montanari G. 1990, *Demografia del territorio nella pre-protostoria e la prima fase insediativa di Ravenna*, in G. Susini (ed.), *Storia di Ravenna, 1, L'Evo antico*, Venezia, Marsilio Editori, 31-48.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bermond Montanari",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Susini",
+     "given": "G."
+    }
+   ],
+   "date": "1990",
+   "title": "Demografia del territorio nella pre-protostoria e la prima fase insediativa di Ravenna",
+   "is_part_of": [
+    "Storia di Ravenna, 1, L'Evo antico"
+   ],
+   "pages": "31-48",
+   "publisher": "Marsilio Editori",
+   "place": "Venezia",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Beven K.J., Kirkby M.J. 1979, *A physically based, variable contributing area model of basin hydrology / Un modèle à base physique de zone d'appel variable de l'hydrologie du bassin versant*, «Hydrological Sciences Bulletin», 24, 1, 43-69.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Beven",
+     "given": "K.J."
+    },
+    {
+     "family": "Kirkby",
+     "given": "M.J."
+    }
+   ],
+   "date": "1979",
+   "title": "A physically based, variable contributing area model of basin hydrology / Un modèle à base physique de zone d'appel variable de l'hydrologie du bassin versant",
+   "is_part_of": [
+    "Hydrological Sciences Bulletin"
+   ],
+   "volume": "24",
+   "issue": "1",
+   "pages": "43-69",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Bottazzi G. 1993, *Le centuriazioni romagnole ed i Solonates Saltusque Galliani*, «Atti e Memorie della Regia Deputazione di Storia Patria per le provincie di Romagna», 43, 169-232.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bottazzi",
+     "given": "G."
+    }
+   ],
+   "date": "1993",
+   "title": "Le centuriazioni romagnole ed i Solonates Saltusque Galliani",
+   "is_part_of": [
+    "Atti e Memorie della Regia Deputazione di Storia Patria per le provincie di Romagna"
+   ],
+   "volume": "43",
+   "pages": "169-232",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Brandolini F., Carrer F. 2020, Terra, silva et paludes. *Assessing the role of alluvial geomorphology for late-holocene settlement strategies (Po Plain-N Italy) through Point Pattern Analysis*, «Environmental Archaeology», 26, 5, 511-525.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brandolini",
+     "given": "F."
+    },
+    {
+     "family": "Carrer",
+     "given": "F."
+    }
+   ],
+   "date": "2020",
+   "title": "Terra, silva et paludes. Assessing the role of alluvial geomorphology for late-holocene settlement strategies (Po Plain-N Italy) through Point Pattern Analysis",
+   "is_part_of": [
+    "Environmental Archaeology"
+   ],
+   "volume": "26",
+   "issue": "5",
+   "pages": "511-525",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Casarotto A., Stek T.D., Pelgrom J., van Otterloo R.H., Sevink J. 2018, *Assessing visibility and geomorphological biases in regional field surveys: The case of Roman Aesernia*, «Geoarchaeology», 33, 2, 177-192.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Casarotto",
+     "given": "A."
+    },
+    {
+     "family": "Stek",
+     "given": "T.D."
+    },
+    {
+     "family": "Pelgrom",
+     "given": "J."
+    },
+    {
+     "family": "van Otterloo",
+     "given": "R.H."
+    },
+    {
+     "family": "Sevink",
+     "given": "J."
+    }
+   ],
+   "date": "2018",
+   "title": "Assessing visibility and geomorphological biases in regional field surveys: The case of Roman Aesernia",
+   "is_part_of": [
+    "Geoarchaeology"
+   ],
+   "volume": "33",
+   "issue": "2",
+   "pages": "177-192",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Cattani M. 2008, *La Media età del Bronzo nell'area tra Panaro e Reno (province di Modena e Bologna). Progetto per una ricostruzione del paesaggio*, «IpoTESI di Preistoria», 1, 1, 211-250.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "La Media età del Bronzo nell'area tra Panaro e Reno (province di Modena e Bologna). Progetto per una ricostruzione del paesaggio",
+   "is_part_of": [
+    "IpoTESI di Preistoria"
+   ],
+   "volume": "1",
+   "issue": "1",
+   "pages": "211-250",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Cattani M. 2009, *CE 31. Fondo Asmara, Casa S. Vincenzo, Podere Pradella (XIX secolo)*, in A. Cardarelli, L. Malnati (eds.), *Atlante dei beni archeologici della provincia di Modena, III, 2. Collina e alta pianura*, Firenze, All'Insegna del Giglio, 33-35.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    },
+    {
+     "family": "Malnati",
+     "given": "L."
+    }
+   ],
+   "date": "2009",
+   "title": "CE 31. Fondo Asmara, Casa S. Vincenzo, Podere Pradella (XIX secolo)",
+   "is_part_of": [
+    "Atlante dei beni archeologici della provincia di Modena, III, 2. Collina e alta pianura"
+   ],
+   "pages": "33-35",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Cavalazzi M. 2020, *\"Looking through the keyhole\": Problems and research strategies for landscape archaeology in an alluvial plain with a high rate of vertical growth. The case of Bassa Romagna and south-eastern Po Valley*, «Groma. Documenting Archaeology», 5 (https://groma.unibo.it/cavalazzi-looking-through-the-keyhole).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cavalazzi",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "\"Looking through the keyhole\": Problems and research strategies for landscape archaeology in an alluvial plain with a high rate of vertical growth. The case of Bassa Romagna and south-eastern Po Valley",
+   "is_part_of": [
+    "Groma. Documenting Archaeology"
+   ],
+   "volume": "5",
+   "language": "eng",
+   "uri": "https://groma.unibo.it/cavalazzi-looking-through-the-keyhole",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Chouquer G. 2015, *Les parcellaires médiévaux en Émilie et en Romagne. Morphologie et droit agraires*, Paris, FIEF.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chouquer",
+     "given": "G."
+    }
+   ],
+   "date": "2015",
+   "title": "Les parcellaires médiévaux en Émilie et en Romagne. Morphologie et droit agraires",
+   "publisher": "FIEF",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Citter C., Patacchini A. 2017, *Il territorio della città di Este attraverso lo studio del palinsesto dei catasti storici*, in G.P. Brogiolo (ed.), *Este, l'Adige e i Colli. Storie di paesaggi*, Mantova, SAP, 41-68.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Citter",
+     "given": "C."
+    },
+    {
+     "family": "Patacchini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "date": "2017",
+   "title": "Il territorio della città di Este attraverso lo studio del palinsesto dei catasti storici",
+   "is_part_of": [
+    "Este, l'Adige e i Colli. Storie di paesaggi"
+   ],
+   "pages": "41-68",
+   "publisher": "SAP",
+   "place": "Mantova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Conrad O., Bechtel B., Bock M., Dietrich H., Fischer E., Gerlitz L., Wehberg J., Wichmann V., Böhner J. 2015, *System for Automated Geoscientific Analyses (SAGA) v. 2.1.4*, «Geoscientific Model Development», 8, 7, 1991-2007.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Conrad",
+     "given": "O."
+    },
+    {
+     "family": "Bechtel",
+     "given": "B."
+    },
+    {
+     "family": "Bock",
+     "given": "M."
+    },
+    {
+     "family": "Dietrich",
+     "given": "H."
+    },
+    {
+     "family": "Fischer",
+     "given": "E."
+    },
+    {
+     "family": "Gerlitz",
+     "given": "L."
+    },
+    {
+     "family": "Wehberg",
+     "given": "J."
+    },
+    {
+     "family": "Wichmann",
+     "given": "V."
+    },
+    {
+     "family": "Böhner",
+     "given": "J."
+    }
+   ],
+   "date": "2015",
+   "title": "System for Automated Geoscientific Analyses (SAGA) v. 2.1.4",
+   "is_part_of": [
+    "Geoscientific Model Development"
+   ],
+   "volume": "8",
+   "issue": "7",
+   "pages": "1991-2007",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "CRA-CI = *Carta del Rischio Archeologico - Comprensorio Imolese* (https://www.nuovocircondarioimolese.it/psc/psc-rue-ca/quadro-conoscitivo/volume-3).",
+   "type": "other",
+   "date": "",
+   "title": "Carta del Rischio Archeologico - Comprensorio Imolese",
+   "language": "ita",
+   "uri": "https://www.nuovocircondarioimolese.it/psc/psc-rue-ca/quadro-conoscitivo/volume-3",
+   "notes": "cited as \"CRA-CI\"; no date in the citation",
+   "confidence": "low"
+  },
+  {
+   "position": 21,
+   "raw": "Cremaschi M. 1997, *Terramare e paesaggio padano*, in M. Bernabò Brea, A. Cardarelli, M. Cremaschi (eds.), *Le Terramare. La più antica civiltà padana*, Milano, Electa, 107-125.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bernabò Brea",
+     "given": "M."
+    },
+    {
+     "family": "Cardarelli",
+     "given": "A."
+    },
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    }
+   ],
+   "date": "1997",
+   "title": "Terramare e paesaggio padano",
+   "is_part_of": [
+    "Le Terramare. La più antica civiltà padana"
+   ],
+   "pages": "107-125",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Cremaschi M., Pizzi C., Ferraro F., Putzolu C. 2005, *Spatial intra-site analyses at the Terramara of Poviglio S. Rosa (Reggio Emilia, Italy): The enclosure vs. the hydraulic system*, in M. Forte (ed.), *The Reconstruction of Archaeological Landscapes through Digital Technologies. Proceedings of the 2nd Italy-United States Workshop (Rome 2003)*, Berkeley-Oxford, Archaeopress, 23-33.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    },
+    {
+     "family": "Pizzi",
+     "given": "C."
+    },
+    {
+     "family": "Ferraro",
+     "given": "F."
+    },
+    {
+     "family": "Putzolu",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2005",
+   "title": "Spatial intra-site analyses at the Terramara of Poviglio S. Rosa (Reggio Emilia, Italy): The enclosure vs. the hydraulic system",
+   "is_part_of": [
+    "The Reconstruction of Archaeological Landscapes through Digital Technologies. Proceedings of the 2nd Italy-United States Workshop (Rome 2003)"
+   ],
+   "pages": "23-33",
+   "publisher": "Archaeopress",
+   "place": "Berkeley-Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Cremonini S. 1994, *Lineamenti evolutivi del paesaggio fisico del territorio di Bagnacavallo nel contesto paleoidrografico romagnolo*, in A. Calbi, G. Susini (eds.), *Storia di Bagnacavallo*, Bologna, Banca Popolare dell'Adriatico, 1-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cremonini",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Calbi",
+     "given": "A."
+    },
+    {
+     "family": "Susini",
+     "given": "G."
+    }
+   ],
+   "date": "1994",
+   "title": "Lineamenti evolutivi del paesaggio fisico del territorio di Bagnacavallo nel contesto paleoidrografico romagnolo",
+   "is_part_of": [
+    "Storia di Bagnacavallo"
+   ],
+   "pages": "1-40",
+   "publisher": "Banca Popolare dell'Adriatico",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Cremonini S. 2003, *Tra Idice e Santerno: problemi paleoidrografici*, in A.R. Bambi, L. Gambi (eds.), *Castel Guelfo di Bologna, un caso di studio: geologia, archeologia e storia dell'insediamento tra Idice e Sillaro*, Bologna, Costa, 19-55.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cremonini",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bambi",
+     "given": "A.R."
+    },
+    {
+     "family": "Gambi",
+     "given": "L."
+    }
+   ],
+   "date": "2003",
+   "title": "Tra Idice e Santerno: problemi paleoidrografici",
+   "is_part_of": [
+    "Castel Guelfo di Bologna, un caso di studio: geologia, archeologia e storia dell'insediamento tra Idice e Sillaro"
+   ],
+   "pages": "19-55",
+   "publisher": "Costa",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "De Reu J., Bourgeois J., Bats M., Zwertvaegher A., Gelorini V., De Smedt P., Chu W., Antrop M., De Maeyer P., Finke P., Van Meirvenne M., Verniers J., Crombé P. 2013, *Application of the topographic position index to heterogeneous landscapes*, «Geomorphology», 186, 39-49.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Reu",
+     "given": "J."
+    },
+    {
+     "family": "Bourgeois",
+     "given": "J."
+    },
+    {
+     "family": "Bats",
+     "given": "M."
+    },
+    {
+     "family": "Zwertvaegher",
+     "given": "A."
+    },
+    {
+     "family": "Gelorini",
+     "given": "V."
+    },
+    {
+     "family": "De Smedt",
+     "given": "P."
+    },
+    {
+     "family": "Chu",
+     "given": "W."
+    },
+    {
+     "family": "Antrop",
+     "given": "M."
+    },
+    {
+     "family": "De Maeyer",
+     "given": "P."
+    },
+    {
+     "family": "Finke",
+     "given": "P."
+    },
+    {
+     "family": "Van Meirvenne",
+     "given": "M."
+    },
+    {
+     "family": "Verniers",
+     "given": "J."
+    },
+    {
+     "family": "Crombé",
+     "given": "P."
+    }
+   ],
+   "date": "2013",
+   "title": "Application of the topographic position index to heterogeneous landscapes",
+   "is_part_of": [
+    "Geomorphology"
+   ],
+   "volume": "186",
+   "pages": "39-49",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Ficara M. 2006, *L'occupazione dei dossi fluviali nel territorio di Reggio Emilia: il caso di Canolo di Mezzo*, in N. Mancassola, F. Saggioro (eds.), *Medioevo, paesaggi e metodi*, Mantova, SAP, 147-168.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ficara",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Mancassola",
+     "given": "N."
+    },
+    {
+     "family": "Saggioro",
+     "given": "F."
+    }
+   ],
+   "date": "2006",
+   "title": "L'occupazione dei dossi fluviali nel territorio di Reggio Emilia: il caso di Canolo di Mezzo",
+   "is_part_of": [
+    "Medioevo, paesaggi e metodi"
+   ],
+   "pages": "147-168",
+   "publisher": "SAP",
+   "place": "Mantova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Franceschelli C., Marabini S. 2004, *Assetto paleidografico e centuriazione romana nella pianura faentina*, «Agri centuriati: an International Journal of Landscape Archaeology», 1, 2004, 87-107.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Franceschelli",
+     "given": "C."
+    },
+    {
+     "family": "Marabini",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Assetto paleidografico e centuriazione romana nella pianura faentina",
+   "is_part_of": [
+    "Agri centuriati: an International Journal of Landscape Archaeology"
+   ],
+   "volume": "1",
+   "pages": "87-107",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Franceschelli C., Marabini S. 2007, *Lettura di un territorio sepolto: la pianura lughese in età romana*, Bologna, Ante Quem.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Franceschelli",
+     "given": "C."
+    },
+    {
+     "family": "Marabini",
+     "given": "S."
+    }
+   ],
+   "date": "2007",
+   "title": "Lettura di un territorio sepolto: la pianura lughese in età romana",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Gambi L. 1949, *L'insediamento umano nella regione della bonifica romagnola*, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gambi",
+     "given": "L."
+    }
+   ],
+   "date": "1949",
+   "title": "L'insediamento umano nella regione della bonifica romagnola",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Gorelick N., Hancher M., Dixon M., Ilyushchenko S., Thau D., Moore R. 2017, *Google Earth Engine: Planetary-scale geospatial analysis for everyone*, «Remote Sensing of Environment», 202, 18-27.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gorelick",
+     "given": "N."
+    },
+    {
+     "family": "Hancher",
+     "given": "M."
+    },
+    {
+     "family": "Dixon",
+     "given": "M."
+    },
+    {
+     "family": "Ilyushchenko",
+     "given": "S."
+    },
+    {
+     "family": "Thau",
+     "given": "D."
+    },
+    {
+     "family": "Moore",
+     "given": "R."
+    }
+   ],
+   "date": "2017",
+   "title": "Google Earth Engine: Planetary-scale geospatial analysis for everyone",
+   "is_part_of": [
+    "Remote Sensing of Environment"
+   ],
+   "volume": "202",
+   "pages": "18-27",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Grohmann C., Riccomini C. 2009, *Comparison of roving-window and search-window techniques for characterising landscape morphometry*, «Computers&Geosciences», 35, 2164-2169.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Grohmann",
+     "given": "C."
+    },
+    {
+     "family": "Riccomini",
+     "given": "C."
+    }
+   ],
+   "date": "2009",
+   "title": "Comparison of roving-window and search-window techniques for characterising landscape morphometry",
+   "is_part_of": [
+    "Computers & Geosciences"
+   ],
+   "volume": "35",
+   "pages": "2164-2169",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Gruber S., Peckham S. 2009, *Chapter 7 Land-Surface Parameters and Objects in Hydrology*, in T. Hengl, H.I. Reuter (eds.), *Geomorphometry: Concepts, Software, Applications*, Developments in Soil Science 33, Amsterdam, Elsevier, 171-194.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gruber",
+     "given": "S."
+    },
+    {
+     "family": "Peckham",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Hengl",
+     "given": "T."
+    },
+    {
+     "family": "Reuter",
+     "given": "H.I."
+    }
+   ],
+   "date": "2009",
+   "title": "Land-Surface Parameters and Objects in Hydrology",
+   "is_part_of": [
+    "Geomorphometry: Concepts, Software, Applications"
+   ],
+   "pages": "171-194",
+   "series": "Developments in Soil Science",
+   "series_number": "33",
+   "publisher": "Elsevier",
+   "place": "Amsterdam",
+   "language": "eng",
+   "notes": "\"Chapter 7\" dropped from the title",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Guisan A., Weiss S.B, Weiss A.D. 1999, *GLM versus CCA spatial modeling of plant species distribution*, «Plant Ecology», 143, 1, 107-122.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guisan",
+     "given": "A."
+    },
+    {
+     "family": "Weiss",
+     "given": "S.B."
+    },
+    {
+     "family": "Weiss",
+     "given": "A.D."
+    }
+   ],
+   "date": "1999",
+   "title": "GLM versus CCA spatial modeling of plant species distribution",
+   "is_part_of": [
+    "Plant Ecology"
+   ],
+   "volume": "143",
+   "issue": "1",
+   "pages": "107-122",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Hjerdt K.N., McDonnell J.J., Seibert J., Rodhe A. 2004, *A new topographic index to quantify downslope controls on local drainage*, «Water Resources Research», 40, 5, W056021-W056026.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hjerdt",
+     "given": "K.N."
+    },
+    {
+     "family": "McDonnell",
+     "given": "J.J."
+    },
+    {
+     "family": "Seibert",
+     "given": "J."
+    },
+    {
+     "family": "Rodhe",
+     "given": "A."
+    }
+   ],
+   "date": "2004",
+   "title": "A new topographic index to quantify downslope controls on local drainage",
+   "is_part_of": [
+    "Water Resources Research"
+   ],
+   "volume": "40",
+   "issue": "5",
+   "pages": "W056021-W056026",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Maioli M.G. 1990, *Aggiornamento della situazione conoscitiva delle ville rustiche di epoca romana a Ravenna e in Romagna*, «Corsi di Cultura sull'Arte Ravennate e Bizantina», 37, 249-279.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Maioli",
+     "given": "M.G."
+    }
+   ],
+   "date": "1990",
+   "title": "Aggiornamento della situazione conoscitiva delle ville rustiche di epoca romana a Ravenna e in Romagna",
+   "is_part_of": [
+    "Corsi di Cultura sull'Arte Ravennate e Bizantina"
+   ],
+   "volume": "37",
+   "pages": "249-279",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Mancassola N. 2012, *Uomini e acque nella pianura reggiana durante il Medioevo (secoli IX-XIV)*, in D. Canzian, R. Simonetti (eds.), *Acque e territorio nel Veneto medievale*, Roma, Viella, 115-132.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mancassola",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Canzian",
+     "given": "D."
+    },
+    {
+     "family": "Simonetti",
+     "given": "R."
+    }
+   ],
+   "date": "2012",
+   "title": "Uomini e acque nella pianura reggiana durante il Medioevo (secoli IX-XIV)",
+   "is_part_of": [
+    "Acque e territorio nel Veneto medievale"
+   ],
+   "pages": "115-132",
+   "publisher": "Viella",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Marabini S., Vai G.B. 2020, *Carta geologica della pianura tra Imola e Ravenna: guida alla lettura*, Imola, Il Thèodolite Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Marabini",
+     "given": "S."
+    },
+    {
+     "family": "Vai",
+     "given": "G.B."
+    }
+   ],
+   "date": "2020",
+   "title": "Carta geologica della pianura tra Imola e Ravenna: guida alla lettura",
+   "publisher": "Il Thèodolite Editore",
+   "place": "Imola",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Mertel A., Ondrejka P., Šabatová K. 2018, *Spatial predictive modeling of prehistoric sites in the Bohemian-Moravian Highlands based on graph similarity analysis*, «Open Geosciences», 10, 1, 261-274.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mertel",
+     "given": "A."
+    },
+    {
+     "family": "Ondrejka",
+     "given": "P."
+    },
+    {
+     "family": "Šabatová",
+     "given": "K."
+    }
+   ],
+   "date": "2018",
+   "title": "Spatial predictive modeling of prehistoric sites in the Bohemian-Moravian Highlands based on graph similarity analysis",
+   "is_part_of": [
+    "Open Geosciences"
+   ],
+   "volume": "10",
+   "issue": "1",
+   "pages": "261-274",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Mitas L., Mitasova H. 2005, *Spatial interpolation*, in P. Longley, M.F. Goodchild, D.J. Maguire, D.W. Rhind (eds.), *Geographical Information Systems: Principles, Techniques, Management and Applications*, Hoboken, N.J., Wiley, 481-492.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mitas",
+     "given": "L."
+    },
+    {
+     "family": "Mitasova",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Longley",
+     "given": "P."
+    },
+    {
+     "family": "Goodchild",
+     "given": "M.F."
+    },
+    {
+     "family": "Maguire",
+     "given": "D.J."
+    },
+    {
+     "family": "Rhind",
+     "given": "D.W."
+    }
+   ],
+   "date": "2005",
+   "title": "Spatial interpolation",
+   "is_part_of": [
+    "Geographical Information Systems: Principles, Techniques, Management and Applications"
+   ],
+   "pages": "481-492",
+   "publisher": "Wiley",
+   "place": "Hoboken, N.J.",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Montevecchi G. 2003, *Viaggio nei siti archeologici della provincia di Ravenna*, Ravenna, Longo Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Montevecchi",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Viaggio nei siti archeologici della provincia di Ravenna",
+   "publisher": "Longo Editore",
+   "place": "Ravenna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Nance J.D. 1983, *Regional sampling in archaeological survey: The statistical perspective*, «Advances in Archaeological Method and Theory», 6, 289-356.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nance",
+     "given": "J.D."
+    }
+   ],
+   "date": "1983",
+   "title": "Regional sampling in archaeological survey: The statistical perspective",
+   "is_part_of": [
+    "Advances in Archaeological Method and Theory"
+   ],
+   "volume": "6",
+   "pages": "289-356",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Orengo H.A., Petrie C.A. 2018, *Multi-scale relief model (MSRM): A new algorithm for the visualization of subtle topographic change of variable size in digital elevation models*, «Earth Surface Processes and Landforms», 43,6, 1361-1369.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orengo",
+     "given": "H.A."
+    },
+    {
+     "family": "Petrie",
+     "given": "C.A."
+    }
+   ],
+   "date": "2018",
+   "title": "Multi-scale relief model (MSRM): A new algorithm for the visualization of subtle topographic change of variable size in digital elevation models",
+   "is_part_of": [
+    "Earth Surface Processes and Landforms"
+   ],
+   "volume": "43",
+   "issue": "6",
+   "pages": "1361-1369",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Pike R.J., Evans I.S., Hengl T. 2009, *Chapter 1 Geomorphometry: A brief guide*, in T. Hengl, H.I. Reuter (eds.), *Developments in Soil Science*, Elsevier, 3-30.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pike",
+     "given": "R.J."
+    },
+    {
+     "family": "Evans",
+     "given": "I.S."
+    },
+    {
+     "family": "Hengl",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Hengl",
+     "given": "T."
+    },
+    {
+     "family": "Reuter",
+     "given": "H.I."
+    }
+   ],
+   "date": "2009",
+   "title": "Geomorphometry: A brief guide",
+   "is_part_of": [
+    "Developments in Soil Science"
+   ],
+   "pages": "3-30",
+   "publisher": "Elsevier",
+   "language": "eng",
+   "notes": "\"Chapter 1\" dropped from the title; container cited as \"Developments in Soil Science\"",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Roncuzzi A., Veggi L. 1968, *Nuovi studi sull'antica topografia del territorio ravennate*, «Bollettino economico della Camera di Commercio di Ravenna», 23, 193-201.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Roncuzzi",
+     "given": "A."
+    },
+    {
+     "family": "Veggi",
+     "given": "L."
+    }
+   ],
+   "date": "1968",
+   "title": "Nuovi studi sull'antica topografia del territorio ravennate",
+   "is_part_of": [
+    "Bollettino economico della Camera di Commercio di Ravenna"
+   ],
+   "volume": "23",
+   "pages": "193-201",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Schmidt J., Werther L., Zielhofer C. 2018, *Shaping pre-modern digital terrain models: The former topography at Charlemagne's canal construction site*, «PLOS ONE», 13, 7: e0200167 (https://doi.org/10.1371/journal.pone.0200167).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schmidt",
+     "given": "J."
+    },
+    {
+     "family": "Werther",
+     "given": "L."
+    },
+    {
+     "family": "Zielhofer",
+     "given": "C."
+    }
+   ],
+   "date": "2018",
+   "title": "Shaping pre-modern digital terrain models: The former topography at Charlemagne's canal construction site",
+   "is_part_of": [
+    "PLoS ONE"
+   ],
+   "volume": "13",
+   "issue": "7",
+   "pages": "e0200167",
+   "language": "eng",
+   "doi": "10.1371/journal.pone.0200167",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Terrenato N. 2000, *The visibility of sites and the interpretation of field survey results: Towards an analysis of incomplete distributions*, in R. Francovich, H. Patterson, G. Barker (eds.), *Extracting Meaning from Ploughsoil Assemblages*, Oxford, Oxbow Books, 60-71.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Terrenato",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Patterson",
+     "given": "H."
+    },
+    {
+     "family": "Barker",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "The visibility of sites and the interpretation of field survey results: Towards an analysis of incomplete distributions",
+   "is_part_of": [
+    "Extracting Meaning from Ploughsoil Assemblages"
+   ],
+   "pages": "60-71",
+   "publisher": "Oxbow Books",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "van Leusen P.M. 2002, *Pattern to Process: Methodological Investigations into the Formation and Interpretation of Spatial Patterns in Archaeological Landscapes*, Groningen, Rijksuniversiteit Groningen.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "van Leusen",
+     "given": "P.M."
+    }
+   ],
+   "date": "2002",
+   "title": "Pattern to Process: Methodological Investigations into the Formation and Interpretation of Spatial Patterns in Archaeological Landscapes",
+   "publisher": "Rijksuniversiteit Groningen",
+   "place": "Groningen",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "Vasina A. 1970, *Romagna Medievale*, Ravenna, Edizioni A. Longo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Vasina",
+     "given": "A."
+    }
+   ],
+   "date": "1970",
+   "title": "Romagna Medievale",
+   "publisher": "Edizioni A. Longo",
+   "place": "Ravenna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "Veggiani A. 1973, *Le trasformazioni dell'ambiente naturale del ravennate negli ultimi millenni*, «Studi Romagnoli», 24, 3-23.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Veggiani",
+     "given": "A."
+    }
+   ],
+   "date": "1973",
+   "title": "Le trasformazioni dell'ambiente naturale del ravennate negli ultimi millenni",
+   "is_part_of": [
+    "Studi Romagnoli"
+   ],
+   "volume": "24",
+   "pages": "3-23",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "Veggiani A. 1975, *Le vicende idrografiche del Santerno da Imola al mare nell'antichità*, «Studi Romagnoli», 26, 3-21.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Veggiani",
+     "given": "A."
+    }
+   ],
+   "date": "1975",
+   "title": "Le vicende idrografiche del Santerno da Imola al mare nell'antichità",
+   "is_part_of": [
+    "Studi Romagnoli"
+   ],
+   "volume": "26",
+   "pages": "3-21",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 51,
+   "raw": "Veggiani A. 1976, *Le variazioni della linea di costa del Ravennate dall'età preromana al Medioevo*, «Corsi di Cultura sull'Arte Ravennate e Bizantina», 23, 2-24.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Veggiani",
+     "given": "A."
+    }
+   ],
+   "date": "1976",
+   "title": "Le variazioni della linea di costa del Ravennate dall'età preromana al Medioevo",
+   "is_part_of": [
+    "Corsi di Cultura sull'Arte Ravennate e Bizantina"
+   ],
+   "volume": "23",
+   "pages": "2-24",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "Veggiani A. 1980, *Considerazioni geologiche sulla captazione e sul tracciato dell'acquedotto romano di Ravenna*, «Studi Romagnoli», 31, 3-19.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Veggiani",
+     "given": "A."
+    }
+   ],
+   "date": "1980",
+   "title": "Considerazioni geologiche sulla captazione e sul tracciato dell'acquedotto romano di Ravenna",
+   "is_part_of": [
+    "Studi Romagnoli"
+   ],
+   "volume": "31",
+   "pages": "3-19",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 53,
+   "raw": "Veggiani A. 1990, *Fluttuazioni climatiche e trasformazioni ambientali nel territorio imolese dall'alto medioevo all'età moderna*, in F. Mancini, M. Giberti, A. Veggiani (eds.), *Imola nel Medioevo*, Imola, Grafiche Galeati, 41-102.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Veggiani",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Mancini",
+     "given": "F."
+    },
+    {
+     "family": "Giberti",
+     "given": "M."
+    },
+    {
+     "family": "Veggiani",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "Fluttuazioni climatiche e trasformazioni ambientali nel territorio imolese dall'alto medioevo all'età moderna",
+   "is_part_of": [
+    "Imola nel Medioevo"
+   ],
+   "pages": "41-102",
+   "publisher": "Grafiche Galeati",
+   "place": "Imola",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 54,
+   "raw": "Veggiani A. 1995, *Storia geologica ed evoluzione ambientale nel territorio di Lugo di Romagna*, in L. Mascanzoni, A. Vasina (eds.), *Storia di Lugo, I, Dalla preistoria all'età moderna*, Forlì, Cassa di Risparmio di Lugo, 9-54.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Veggiani",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Mascanzoni",
+     "given": "L."
+    },
+    {
+     "family": "Vasina",
+     "given": "A."
+    }
+   ],
+   "date": "1995",
+   "title": "Storia geologica ed evoluzione ambientale nel territorio di Lugo di Romagna",
+   "is_part_of": [
+    "Storia di Lugo, I, Dalla preistoria all'età moderna"
+   ],
+   "pages": "9-54",
+   "publisher": "Cassa di Risparmio di Lugo",
+   "place": "Forlì",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 55,
+   "raw": "Vita-Finzi C. 1969, *The Mediterranean Valleys: Geological Changes in Historical Times*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Vita-Finzi",
+     "given": "C."
+    }
+   ],
+   "date": "1969",
+   "title": "The Mediterranean Valleys: Geological Changes in Historical Times",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 56,
+   "raw": "Weiss A.D. 2001, *Topographic Position and Landforms Analysis*, Poster Presentation, San Diego, CA.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Weiss",
+     "given": "A.D."
+    }
+   ],
+   "date": "2001",
+   "title": "Topographic Position and Landforms Analysis",
+   "place": "San Diego, CA",
+   "language": "eng",
+   "notes": "Poster Presentation",
+   "confidence": "high"
+  },
+  {
+   "position": 57,
+   "raw": "Wilson J.P., Gallant J.C. 2000, *Terrain Analysis: Principles and Applications*, New York, Wiley.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wilson",
+     "given": "J.P."
+    },
+    {
+     "family": "Gallant",
+     "given": "J.C."
+    }
+   ],
+   "date": "2000",
+   "title": "Terrain Analysis: Principles and Applications",
+   "publisher": "Wiley",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 58,
+   "raw": "Zangheri P. 1927, *Il corso del Montone e del Rabbi dalle epoche geologiche ai tempi attuali*, «Forum Livii», 2, 4, 29-35; 2, 5, 33-36; 2, 6, 26-33.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zangheri",
+     "given": "P."
+    }
+   ],
+   "date": "1927",
+   "title": "Il corso del Montone e del Rabbi dalle epoche geologiche ai tempi attuali",
+   "is_part_of": [
+    "Forum Livii"
+   ],
+   "volume": "2",
+   "issue": "4, 5, 6",
+   "pages": "29-35; 33-36; 26-33",
+   "language": "ita",
+   "notes": "cited as three instalments: 2, 4, 29-35; 2, 5, 33-36; 2, 6, 26-33",
+   "confidence": "high"
+  }
+ ]
+}

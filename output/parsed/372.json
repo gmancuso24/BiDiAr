@@ -1,0 +1,1059 @@
+{
+ "citing_aec_id": 372,
+ "source_file": "data/journal/15/372.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV. 1998, *La pubblicazione delle scoperte archeologiche in Italia. Atti della Tavola Rotonda (Roma 1997)*, Roma, Accademia Nazionale dei Lincei.",
+   "type": "proceedings",
+   "date": "1998",
+   "title": "La pubblicazione delle scoperte archeologiche in Italia. Atti della Tavola Rotonda (Roma 1997)",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Andrews G., Barrett J.C., Lewis J.S.C. 2000, *Interpretation not record: the practice of archaeology*, «Antiquity», 74, 525-530.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Andrews",
+     "given": "G."
+    },
+    {
+     "family": "Barrett",
+     "given": "J.C."
+    },
+    {
+     "family": "Lewis",
+     "given": "J.S.C."
+    }
+   ],
+   "date": "2000",
+   "title": "Interpretation not record: the practice of archaeology",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "74",
+   "pages": "525-530",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Alvoni G. 2002, *Scienze dell’antichità per via informatica. Banche dati, Internet e risorse elettroniche nello studio dell’antichità classica*, Bologna, CLUEB.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Alvoni",
+     "given": "G."
+    }
+   ],
+   "date": "2002",
+   "title": "Scienze dell’antichità per via informatica. Banche dati, Internet e risorse elettroniche nello studio dell’antichità classica",
+   "publisher": "CLUEB",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Baiani S., Ghilardi M. (eds.) 2000, *Crypta Balbi-Fori Imperiali. Archeologia urbana a Roma e interventi di restauro nell’anno del Grande Giubileo*, Roma, Kappa.",
+   "type": "book",
+   "date": "2000",
+   "title": "Crypta Balbi-Fori Imperiali. Archeologia urbana a Roma e interventi di restauro nell’anno del Grande Giubileo",
+   "editors": [
+    {
+     "family": "Baiani",
+     "given": "S."
+    },
+    {
+     "family": "Ghilardi",
+     "given": "M."
+    }
+   ],
+   "publisher": "Kappa",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Barrett J.C. 2000, *Archeologia come ricerca storica*, in N. Terrenato (ed.), *Archeologia teorica*, Firenze, All’Insegna del Giglio, 243-256.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barrett",
+     "given": "J.C."
+    }
+   ],
+   "date": "2000",
+   "title": "Archeologia come ricerca storica",
+   "editors": [
+    {
+     "family": "Terrenato",
+     "given": "N."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia teorica"
+   ],
+   "pages": "243-256",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Brill D. 2000, *Video-recording as a part of the critical archaeological process*, in Hodder 2000, 229-233.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brill",
+     "given": "D."
+    }
+   ],
+   "date": "2000",
+   "title": "Video-recording as a part of the critical archaeological process",
+   "editors": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "is_part_of": [
+    "Towards Reflexive Method in Archaeology: the Example at Çatalhöyük"
+   ],
+   "pages": "229-233",
+   "publisher": "Oxbow",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 20,
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Burenhult G., Arvidsson J. (eds.) 2002, *Archaelogical Informatics: Pushing the Envelope. CAA 2001 (Gotland)*, BAR International Series 1016, Oxford, Archaeopress.",
+   "type": "proceedings",
+   "date": "2002",
+   "title": "Archaeological Informatics: Pushing the Envelope. CAA 2001 (Gotland)",
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    },
+    {
+     "family": "Arvidsson",
+     "given": "J."
+    }
+   ],
+   "series": "BAR International Series",
+   "series_number": "1016",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "\"Archaelogical\" in the citation corrected to \"Archaeological\"",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Carver M. 2003, *Archaeological Value and Evaluation*, Mantova, SAP.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carver",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Archaeological Value and Evaluation",
+   "publisher": "SAP",
+   "place": "Mantova",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Chippindale C. 1997, *From print culture to electronic culture*, «Antiquity», 71, 1070-1073.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Chippindale",
+     "given": "C."
+    }
+   ],
+   "date": "1997",
+   "title": "From print culture to electronic culture",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "71",
+   "pages": "1070-1073",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Clarke J. 2002, *Questions raised by electronic publication in archaeology*, in Burenhult, Arvidsson 2002, 351-355.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "J."
+    }
+   ],
+   "date": "2002",
+   "title": "Questions raised by electronic publication in archaeology",
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    },
+    {
+     "family": "Arvidsson",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "Archaeological Informatics: Pushing the Envelope. CAA 2001 (Gotland)"
+   ],
+   "pages": "351-355",
+   "series": "BAR International Series",
+   "series_number": "1016",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 7,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Darcque P., Etienne R., Pariente A. 1994, *La diffusion des résultats en archéologie classique*, «Revue Archéologique», 2, 269-280.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Darcque",
+     "given": "P."
+    },
+    {
+     "family": "Etienne",
+     "given": "R."
+    },
+    {
+     "family": "Pariente",
+     "given": "A."
+    }
+   ],
+   "date": "1994",
+   "title": "La diffusion des résultats en archéologie classique",
+   "is_part_of": [
+    "Revue Archéologique"
+   ],
+   "volume": "2",
+   "pages": "269-280",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Develotte C., Lancien T. 2000, *Propositions pour l’analyse des discours multimedia: l’exemple de deux articles encyclopediques*, in Lancien 2000, 119-138.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Develotte",
+     "given": "C."
+    },
+    {
+     "family": "Lancien",
+     "given": "T."
+    }
+   ],
+   "date": "2000",
+   "title": "Propositions pour l’analyse des discours multimedia: l’exemple de deux articles encyclopediques",
+   "editors": [
+    {
+     "family": "Lancien",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Multimédia: les mutations du texte"
+   ],
+   "pages": "119-138",
+   "publisher": "ENS",
+   "place": "Fontenay-aux-Roses",
+   "language": "fre",
+   "xref": 23,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Fagan B. 2000, *Education is what’s left: some thoughts on introductory archaeology*, «Antiquity», 74, 190-194.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fagan",
+     "given": "B."
+    }
+   ],
+   "date": "2000",
+   "title": "Education is what’s left: some thoughts on introductory archaeology",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "74",
+   "pages": "190-194",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Farid S. 2000, *The excavation process at Çatalhöyük*, in Hodder 2000, 19-36.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Farid",
+     "given": "S."
+    }
+   ],
+   "date": "2000",
+   "title": "The excavation process at Çatalhöyük",
+   "editors": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "is_part_of": [
+    "Towards Reflexive Method in Archaeology: the Example at Çatalhöyük"
+   ],
+   "pages": "19-36",
+   "publisher": "Oxbow",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 20,
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Forte M. 2000, *Comunicazione archeologica*, in R. Francovich, D. Manacorda (eds.), *Dizionario di archeologia*, Roma-Bari, Laterza 75-80.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "Comunicazione archeologica",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Dizionario di archeologia"
+   ],
+   "pages": "75-80",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Francovich R. 1990, *Una nota sui problemi della pubblicazione degli scavi archeologici*, «Quaderni di Archeologia del Veneto», 6, 275-277.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "1990",
+   "title": "Una nota sui problemi della pubblicazione degli scavi archeologici",
+   "is_part_of": [
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "volume": "6",
+   "pages": "275-277",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Hodder I. 1997, *“Always momentary, fluid and flexible”: towards a reflexive excavation methodology*, «Antiquity», 71, 691-700.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1997",
+   "title": "“Always momentary, fluid and flexible”: towards a reflexive excavation methodology",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "71",
+   "pages": "691-700",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Hodder I. 1999a, *Archaeology and Global Information Systems*, «Internet Archaeology», 6 (http://intarch.ac.uk/journal/issue6/hodder/index.html).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1999",
+   "title": "Archaeology and Global Information Systems",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "6",
+   "uri": "http://intarch.ac.uk/journal/issue6/hodder/index.html",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Hodder I. 1999b, *The Archaeological Process. An Introduction*, Oxford, Blackwell.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "date": "1999",
+   "title": "The Archaeological Process. An Introduction",
+   "publisher": "Blackwell",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Hodder I. (ed.) 2000, *Towards Reflexive Method in Archaeology: the Example at Çatalhöyük*, Oxford, Oxbow.",
+   "type": "book",
+   "date": "2000",
+   "title": "Towards Reflexive Method in Archaeology: the Example at Çatalhöyük",
+   "editors": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "publisher": "Oxbow",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Joyce R.A., Preucel R.W., Lopiparo J., Guyer C., Joyce M. 2002, *The Languages of Archaeology: Dialogue, Narrative and Writing*, Oxford-Malden (MA), Blackwell.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Joyce",
+     "given": "R.A."
+    },
+    {
+     "family": "Preucel",
+     "given": "R.W."
+    },
+    {
+     "family": "Lopiparo",
+     "given": "J."
+    },
+    {
+     "family": "Guyer",
+     "given": "C."
+    },
+    {
+     "family": "Joyce",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "The Languages of Archaeology: Dialogue, Narrative and Writing",
+   "publisher": "Blackwell",
+   "place": "Oxford-Malden (MA)",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Kemmis Betty P. 2002, *Anyone for writing?*, «Antiquity», 76, 1054-1058.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kemmis Betty",
+     "given": "P."
+    }
+   ],
+   "date": "2002",
+   "title": "Anyone for writing?",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "76",
+   "pages": "1054-1058",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Lancien T. (ed.) 2000, *Multimédia: les mutations du texte*, Fontenay-aux-Roses, ENS.",
+   "type": "book",
+   "date": "2000",
+   "title": "Multimédia: les mutations du texte",
+   "editors": [
+    {
+     "family": "Lancien",
+     "given": "T."
+    }
+   ],
+   "publisher": "ENS",
+   "place": "Fontenay-aux-Roses",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Little B.J. (ed.) 2002, *Public Benefits of Archaeology*, Gainesville, University Press of Florida.",
+   "type": "book",
+   "date": "2002",
+   "title": "Public Benefits of Archaeology",
+   "editors": [
+    {
+     "family": "Little",
+     "given": "B.J."
+    }
+   ],
+   "publisher": "University Press of Florida",
+   "place": "Gainesville",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Manacorda D. 1990, *L’edizione degli scavi archeologici: alcune osservazioni*, «Quaderni di Archeologia del Veneto», 6, 275-278.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "1990",
+   "title": "L’edizione degli scavi archeologici: alcune osservazioni",
+   "is_part_of": [
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "volume": "6",
+   "pages": "275-278",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Manacorda D. 1998, *L’archeologia italiana di fronte allo sviluppo dei metodi dell’archeologia globale*, in AA.VV. 1998, 95-101.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "1998",
+   "title": "L’archeologia italiana di fronte allo sviluppo dei metodi dell’archeologia globale",
+   "is_part_of": [
+    "La pubblicazione delle scoperte archeologiche in Italia. Atti della Tavola Rotonda (Roma 1997)"
+   ],
+   "pages": "95-101",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 1,
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Manacorda D., Caravale A., Laudando M.T., Zanini E. 2001, *Il mondo dell’archeologia. Storia, metodi, protagonisti*, Roma, Istituto della Enciclopedia Italiana – Treccani.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Laudando",
+     "given": "M.T."
+    },
+    {
+     "family": "Zanini",
+     "given": "E."
+    }
+   ],
+   "date": "2001",
+   "title": "Il mondo dell’archeologia. Storia, metodi, protagonisti",
+   "publisher": "Istituto della Enciclopedia Italiana – Treccani",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Mannoni T. 1990, *I problemi della pubblicazione di uno scavo archeologico: documentazione, materiali e interpretazione*, «Quaderni di Archeologia del Veneto», 6, 278-280.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mannoni",
+     "given": "T."
+    }
+   ],
+   "date": "1990",
+   "title": "I problemi della pubblicazione di uno scavo archeologico: documentazione, materiali e interpretazione",
+   "is_part_of": [
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "volume": "6",
+   "pages": "278-280",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Marazzi F. 2000, *Museo Nazionale Romano-Crypta Balbi: un CdRom su “Roma nell’Alto Medioevo”, secoli V-X*, in Baiani, Ghilardi 2000, 57-60.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Marazzi",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "Museo Nazionale Romano-Crypta Balbi: un CdRom su “Roma nell’Alto Medioevo”, secoli V-X",
+   "editors": [
+    {
+     "family": "Baiani",
+     "given": "S."
+    },
+    {
+     "family": "Ghilardi",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Crypta Balbi-Fori Imperiali. Archeologia urbana a Roma e interventi di restauro nell’anno del Grande Giubileo"
+   ],
+   "pages": "57-60",
+   "publisher": "Kappa",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 4,
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Mochet M.-A., O’Neil C. 2000, *Mise en page, mise en texte-encyclopédie papier et multimédia*, in Lancien 2000, 87-118.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mochet",
+     "given": "M.-A."
+    },
+    {
+     "family": "O’Neil",
+     "given": "C."
+    }
+   ],
+   "date": "2000",
+   "title": "Mise en page, mise en texte-encyclopédie papier et multimédia",
+   "editors": [
+    {
+     "family": "Lancien",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Multimédia: les mutations du texte"
+   ],
+   "pages": "87-118",
+   "publisher": "ENS",
+   "place": "Fontenay-aux-Roses",
+   "language": "fre",
+   "xref": 23,
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Moscati P. 2001, *Progetto Caere: questioni di metodo e sperimentazioni*, «Archeologia e Calcolatori», 12, 47-54.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2001",
+   "title": "Progetto Caere: questioni di metodo e sperimentazioni",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "47-54",
+   "language": "ita",
+   "cited_aec_id": 314,
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Orlandi T. 1999, *Multimedialità e archeologia*, «Archeologia e Calcolatori», 10, 145-157.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "1999",
+   "title": "Multimedialità e archeologia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "145-157",
+   "language": "ita",
+   "cited_aec_id": 272,
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Pluciennik M. 2003, rec. a A. Joyce *et al.*, *The languages of archaeology: dialogue, narrative and writing (Oxford-Malden (MA) 2002)*, «Antiquity», 297, 643-645.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pluciennik",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Review of: A. Joyce et al., The languages of archaeology: dialogue, narrative and writing (Oxford-Malden (MA) 2002)",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "297",
+   "pages": "643-645",
+   "language": "eng",
+   "notes": "citation: «Antiquity», 297 (issue number given in the volume position)",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Renfrew C., Bahn P. 1995, *Archeologia. Teorie, metodi, pratica*, Bologna, Zanichelli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Bahn",
+     "given": "P."
+    }
+   ],
+   "date": "1995",
+   "title": "Archeologia. Teorie, metodi, pratica",
+   "publisher": "Zanichelli",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Ricci A. 1990, *Il fantasma della descrizione: rischi di una compilazione meccanica delle schede cartacee*, «Quaderni di Archeologia del Veneto», 6, 280-281.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ricci",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "Il fantasma della descrizione: rischi di una compilazione meccanica delle schede cartacee",
+   "is_part_of": [
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "volume": "6",
+   "pages": "280-281",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Sanders D.H. 2000, *Archaeological publications using virtual reality: case studies and caveat*, in J.A. Barceló, M. Forte, D.H. Sanders (eds.), *Virtual Reality in Archaeology*, BAR International Series 843, Oxford, Archeopress, 351-355.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "date": "2000",
+   "title": "Archaeological publications using virtual reality: case studies and caveat",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "series": "BAR International Series",
+   "series_number": "843",
+   "pages": "351-355",
+   "publisher": "Archeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Settis S. 2002, *Italia S.p.A.: l’assalto al patrimonio culturale*, Torino, Einaudi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Settis",
+     "given": "S."
+    }
+   ],
+   "date": "2002",
+   "title": "Italia S.p.A.: l’assalto al patrimonio culturale",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Torelli M. 1998, *Editoria periodica italiana di archeologia: un tentativo di bilancio*, in AA.VV. 1998, 103-109.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Torelli",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Editoria periodica italiana di archeologia: un tentativo di bilancio",
+   "is_part_of": [
+    "La pubblicazione delle scoperte archeologiche in Italia. Atti della Tavola Rotonda (Roma 1997)"
+   ],
+   "pages": "103-109",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 1,
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Uotila K., Tulkki C. 2002, *Three-dimensional excavation plans and 3D Studio Max. Experiences from the excavations of the medieval town of Naantali, Finland*, in Burenhult, Arvidsson 2002, 427-430.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Uotila",
+     "given": "K."
+    },
+    {
+     "family": "Tulkki",
+     "given": "C."
+    }
+   ],
+   "date": "2002",
+   "title": "Three-dimensional excavation plans and 3D Studio Max. Experiences from the excavations of the medieval town of Naantali, Finland",
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    },
+    {
+     "family": "Arvidsson",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "Archaeological Informatics: Pushing the Envelope. CAA 2001 (Gotland)"
+   ],
+   "pages": "427-430",
+   "series": "BAR International Series",
+   "series_number": "1016",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 7,
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Wolle A.-C., Tringham R.I. 2000, *Multiple Çatalhöyüks on the World Wide Web*, in Hodder 2000, 207-217.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wolle",
+     "given": "A.-C."
+    },
+    {
+     "family": "Tringham",
+     "given": "R.I."
+    }
+   ],
+   "date": "2000",
+   "title": "Multiple Çatalhöyüks on the World Wide Web",
+   "editors": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "is_part_of": [
+    "Towards Reflexive Method in Archaeology: the Example at Çatalhöyük"
+   ],
+   "pages": "207-217",
+   "publisher": "Oxbow",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 20,
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Zanini E. 2000, *Alla ricerca di un linguaggio comune: un prodotto multimediale per il Museo della Crypta Balbi*, in Baiani, Ghilardi 2000, 53-56.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zanini",
+     "given": "E."
+    }
+   ],
+   "date": "2000",
+   "title": "Alla ricerca di un linguaggio comune: un prodotto multimediale per il Museo della Crypta Balbi",
+   "editors": [
+    {
+     "family": "Baiani",
+     "given": "S."
+    },
+    {
+     "family": "Ghilardi",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Crypta Balbi-Fori Imperiali. Archeologia urbana a Roma e interventi di restauro nell’anno del Grande Giubileo"
+   ],
+   "pages": "53-56",
+   "publisher": "Kappa",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 4,
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Zanini E. 2001, *L’anfora e i suoi miti*, Piombino, Museo Archeologico del Territorio di Populonia.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Zanini",
+     "given": "E."
+    }
+   ],
+   "date": "2001",
+   "title": "L’anfora e i suoi miti",
+   "publisher": "Museo Archeologico del Territorio di Populonia",
+   "place": "Piombino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Zanini E. 2002, *Dalla “Villa Publica” alla Via delle Botteghe Oscure*, Museo Nazionale Romano-Crypta Balbi, Roma-Milano, Electa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Zanini",
+     "given": "E."
+    }
+   ],
+   "date": "2002",
+   "title": "Dalla “Villa Publica” alla Via delle Botteghe Oscure",
+   "publisher": "Electa",
+   "place": "Roma-Milano",
+   "language": "ita",
+   "notes": "Museo Nazionale Romano-Crypta Balbi given in the citation as institution/series",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Zhukovsky M. 2002, *Handling digital 3-D record of archaeological excavation data*, in Burenhult, Arvidsson 2002, 431-439.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zhukovsky",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Handling digital 3-D record of archaeological excavation data",
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    },
+    {
+     "family": "Arvidsson",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "Archaeological Informatics: Pushing the Envelope. CAA 2001 (Gotland)"
+   ],
+   "pages": "431-439",
+   "series": "BAR International Series",
+   "series_number": "1016",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 7,
+   "confidence": "high"
+  }
+ ]
+}

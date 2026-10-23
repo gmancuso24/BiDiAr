@@ -1,0 +1,102 @@
+{
+ "citing_aec_id": 215,
+ "source_file": "data/journal/7/215.md",
+ "references": [
+  {
+   "raw": "GOTTARELLI A. 1995, La modellazione tridimensionale del documento archeologico: livelli descrittivi e processamento digitale, «Archeologia e Calcolatori», 6, 75-103.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "La modellazione tridimensionale del documento archeologico: livelli descrittivi e processamento digitale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "75-103",
+   "volume": "6",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "GOVI MORIGI C. 1994, Presentazione, in La collezione egiziana, Leonardo Arte, 6-8.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Govi Morigi",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Presentazione",
+   "pages": "6-8",
+   "is_part_of": [
+    "La collezione egiziana"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 2,
+   "publisher": "Leonardo Arte"
+  },
+  {
+   "raw": "MARTIN G. 1989, The Memphite Tomb of Horemheb, Commander in Chief of Tutankhamun, Londra.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Martin",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "The Memphite Tomb of Horemheb, Commander in Chief of Tutankhamun",
+   "place": "Londra",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "PERNIGOTTI S. 1994, La collezione egiziana, in La collezione egiziana, Leonardo Arte, 19-28.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Pernigotti",
+     "given": "S."
+    }
+   ],
+   "type": "chapter",
+   "title": "La collezione egiziana",
+   "pages": "19-28",
+   "is_part_of": [
+    "La collezione egiziana"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 4,
+   "publisher": "Leonardo Arte"
+  },
+  {
+   "raw": "PIAZZI S. 1994, L'allestimento della sezione egiziana al Museo Archeologico di Bologna: questioni di metodo e forma, in La collezione egiziana, Leonardo Arte, 13-15.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Piazzi",
+     "given": "S."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'allestimento della sezione egiziana al Museo Archeologico di Bologna: questioni di metodo e forma",
+   "pages": "13-15",
+   "is_part_of": [
+    "La collezione egiziana"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 5,
+   "publisher": "Leonardo Arte"
+  }
+ ]
+}

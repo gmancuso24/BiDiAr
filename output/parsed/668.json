@@ -1,0 +1,532 @@
+{
+ "citing_aec_id": 668,
+ "source_file": "data/journal/24/668.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Andrews A. 1974, The U-shaped structures at Chan Chan, Peru, «Journal of Field Archaeology», 1, 3-4, 241-264.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Andrews",
+     "given": "A."
+    }
+   ],
+   "date": "1974",
+   "title": "The U-shaped structures at Chan Chan, Peru",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "volume": "1",
+   "issue": "3-4",
+   "pages": "241-264",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Campana Delgado C. 2006, Chan Chan del Chimo. Estudio de la ciudad de adobe más grande de América Latina, Lima, Editorial Orus.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Campana Delgado",
+     "given": "C."
+    }
+   ],
+   "date": "2006",
+   "title": "Chan Chan del Chimo. Estudio de la ciudad de adobe más grande de América Latina",
+   "place": "Lima",
+   "publisher": "Editorial Orus",
+   "language": "spa"
+  },
+  {
+   "position": 3,
+   "raw": "Colosi F., Fangi G., Gabrielli R., Orazi R., Angelini A., Bozzi C.A. 2009, Planning the Archaeological Park of Chan Chan (Perù) by means of satellite images, GIS and photogrammetry, «Journal of Cultural Heritage», 10, 1, 27-34.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Fangi",
+     "given": "G."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Orazi",
+     "given": "R."
+    },
+    {
+     "family": "Angelini",
+     "given": "A."
+    },
+    {
+     "family": "Bozzi",
+     "given": "C.A."
+    }
+   ],
+   "date": "2009",
+   "title": "Planning the Archaeological Park of Chan Chan (Perù) by means of satellite images, GIS and photogrammetry",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "10",
+   "issue": "1",
+   "pages": "27-34",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Colosi F., Gabrielli R., Orazi R., Angelini A., Rossi M. 2011, The Archaeological Park of Chan Chan. Studies and projects, in Proceedings of 5th International Congress Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Istanbul 2011), 1, Roma, VALMAR, 244-251.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Orazi",
+     "given": "R."
+    },
+    {
+     "family": "Angelini",
+     "given": "A."
+    },
+    {
+     "family": "Rossi",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "The Archaeological Park of Chan Chan. Studies and projects",
+   "is_part_of": [
+    "Proceedings of the 5th International Congress Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Istanbul 2011)"
+   ],
+   "volume": "1",
+   "place": "Roma",
+   "publisher": "VALMAR",
+   "pages": "244-251",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Conrand Geoffrey W. 1982, The burial platforms of Chan Chan: Some social and political implications, in M.E. Moseley, D. Kent (eds.), Chan Chan, Andean Desert City, Albuquerque, University of New Mexico Press, 87-117.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Conrad",
+     "given": "Geoffrey W."
+    }
+   ],
+   "date": "1982",
+   "title": "The burial platforms of Chan Chan: Some social and political implications",
+   "pages": "87-117",
+   "confidence": "low",
+   "notes": "author cited \"Conrand Geoffrey W.\"; editors cited \"M.E. Moseley, D. Kent\": the volume is Moseley, Day 1982 (entry 15)",
+   "editors": [
+    {
+     "family": "Moseley",
+     "given": "M.E."
+    },
+    {
+     "family": "Day",
+     "given": "K.C."
+    }
+   ],
+   "is_part_of": [
+    "Chan Chan: Andean desert city"
+   ],
+   "place": "Albuquerque",
+   "publisher": "University of New Mexico Press",
+   "xref": 15,
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Colosi F., Orazi R. 2003, Integrated technology for the study, documentation and improvement of the archaeological site of Chan Chan, in Proceedings of Terra 2003. 9th International Conference on the Study and Conservation of Earthen Architecture (Yazd 2003), Teheran, Deputy of Presentation ICHO, 465-474.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Orazi",
+     "given": "R."
+    }
+   ],
+   "date": "2003",
+   "title": "Integrated technology for the study, documentation and improvement of the archaeological site of Chan Chan",
+   "is_part_of": [
+    "Proceedings of Terra 2003. 9th International Conference on the Study and Conservation of Earthen Architecture (Yazd 2003)"
+   ],
+   "place": "Teheran",
+   "publisher": "Deputy of Presentation ICHO",
+   "pages": "465-474",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Colosi F., Orazi R. 2004, New technologies for the conservation of the Archaeological Park of Chan Chan, in Proceedings of LEHM 2004, 4th International Conference on Building with Earth (Lipsia 2004), Weimar, Dachverband Lehm e.V., 162-169.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Colosi",
+     "given": "F."
+    },
+    {
+     "family": "Orazi",
+     "given": "R."
+    }
+   ],
+   "date": "2004",
+   "title": "New technologies for the conservation of the Archaeological Park of Chan Chan",
+   "is_part_of": [
+    "Proceedings of LEHM 2004, 4th International Conference on Building with Earth (Lipsia 2004)"
+   ],
+   "place": "Weimar",
+   "publisher": "Dachverband Lehm e.V.",
+   "pages": "162-169",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Fangi G., Malinverni E.S., Schavoni A. 2005, Integrated surveying techniques for the Archaeological Park of Chan Chan in Peru, in S. Dequal (ed.), Proceedings of XX CIPA Symposium International Cooperation to Save the World's Cultural Heritage (Turin 2005), XXXVI, 5/C34, 259-264.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fangi",
+     "given": "G."
+    },
+    {
+     "family": "Malinverni",
+     "given": "E.S."
+    },
+    {
+     "family": "Schiavoni",
+     "given": "A."
+    }
+   ],
+   "date": "2005",
+   "title": "Integrated surveying techniques for the Archaeological Park of Chan Chan in Peru",
+   "editors": [
+    {
+     "family": "Dequal",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of XX CIPA Symposium International Cooperation to Save the World's Cultural Heritage (Turin 2005)"
+   ],
+   "volume": "XXXVI",
+   "issue": "5/C34",
+   "pages": "259-264",
+   "notes": "third author cited \"Schavoni\"",
+   "confidence": "low",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Galli A., Fangi G., Malinverni E.S. 2005, Analisi e valorizzazione del sito archeologico di Chan Chan mediante immagini Quickbird, in Atti del Convegno AIIA 2005, L'ingegneria agraria per lo sviluppo sostenibile dell'area mediterranea (Catania 2005), CD-Rom.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Galli",
+     "given": "A."
+    },
+    {
+     "family": "Fangi",
+     "given": "G."
+    },
+    {
+     "family": "Malinverni",
+     "given": "E.S."
+    }
+   ],
+   "date": "2005",
+   "title": "Analisi e valorizzazione del sito archeologico di Chan Chan mediante immagini Quickbird",
+   "is_part_of": [
+    "Atti del Convegno AIIA 2005, L'ingegneria agraria per lo sviluppo sostenibile dell'area mediterranea (Catania 2005)"
+   ],
+   "notes": "CD-Rom",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Klymyshyn Uliana A.M. 1982, Elite compounds in Chan Chan, in Moseley, Day 1982, 119-143.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Klymyshyn",
+     "given": "Uliana A.M."
+    }
+   ],
+   "date": "1982",
+   "title": "Elite compounds in Chan Chan",
+   "pages": "119-143",
+   "editors": [
+    {
+     "family": "Moseley",
+     "given": "M.E."
+    },
+    {
+     "family": "Day",
+     "given": "K.C."
+    }
+   ],
+   "is_part_of": [
+    "Chan Chan: Andean desert city"
+   ],
+   "place": "Albuquerque",
+   "publisher": "University of New Mexico Press",
+   "xref": 15,
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Kolata A.L. 1982, Chronology and settlement growth at Chan Chan, in Moseley, Day 1982, 67-84.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kolata",
+     "given": "A.L."
+    }
+   ],
+   "date": "1982",
+   "title": "Chronology and settlement growth at Chan Chan",
+   "pages": "67-84",
+   "editors": [
+    {
+     "family": "Moseley",
+     "given": "M.E."
+    },
+    {
+     "family": "Day",
+     "given": "K.C."
+    }
+   ],
+   "is_part_of": [
+    "Chan Chan: Andean desert city"
+   ],
+   "place": "Albuquerque",
+   "publisher": "University of New Mexico Press",
+   "xref": 15,
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Kolata A.L. 1990, The urban concept of Chan Chan, in M.E. Moseley, A. Cordly-Condins (eds.), The Northern Dynasties: Kingship and Statecraft in Chimor. A Symposium at Durbarton Oaks (Washington 1985), Washington D.C., Durbanton Oaks, 107-144.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kolata",
+     "given": "A.L."
+    }
+   ],
+   "date": "1990",
+   "title": "The urban concept of Chan Chan",
+   "editors": [
+    {
+     "family": "Moseley",
+     "given": "M.E."
+    },
+    {
+     "family": "Cordy-Collins",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "The Northern Dynasties: Kingship and Statecraft in Chimor. A Symposium at Dumbarton Oaks (Washington 1985)"
+   ],
+   "place": "Washington D.C.",
+   "publisher": "Dumbarton Oaks",
+   "pages": "107-144",
+   "notes": "editor cited \"Cordly-Condins\", \"Durbarton/Durbanton Oaks\"",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Lavallée D., Lumbreras L.G. 1986, L'America precolombiana, le Ande, dalla preistoria agli Incas, Milano, Rizzoli Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lavallée",
+     "given": "D."
+    },
+    {
+     "family": "Lumbreras",
+     "given": "L.G."
+    }
+   ],
+   "date": "1986",
+   "title": "L'America precolombiana, le Ande, dalla preistoria agli Incas",
+   "place": "Milano",
+   "publisher": "Rizzoli Editore",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "Malinverni E.S., Fangi G. 2009, Comparative cluster analysis to localize emergencies in archaeology, «Journal of Cultural Heritage», 10, suppl. 1, 10-19.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Malinverni",
+     "given": "E.S."
+    },
+    {
+     "family": "Fangi",
+     "given": "G."
+    }
+   ],
+   "date": "2009",
+   "title": "Comparative cluster analysis to localize emergencies in archaeology",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "10",
+   "issue": "suppl. 1",
+   "pages": "10-19",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Moseley M.E., Day K.C. (eds.) 1982, Chan Chan: Andean desert city, Albuquerque, University of New Messico Press.",
+   "type": "book",
+   "date": "1982",
+   "title": "Chan Chan: Andean desert city",
+   "editors": [
+    {
+     "family": "Moseley",
+     "given": "M.E."
+    },
+    {
+     "family": "Day",
+     "given": "K.C."
+    }
+   ],
+   "place": "Albuquerque",
+   "publisher": "University of New Mexico Press",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Piminchumo Hurtado V., Galvez Mora C.A. 2003, La muralla de La Cumbre: Morfología y función de una estructura monumental Chimú en el valle de Moche, «Revista Arqueológica Sián», 8, 14, 18-25.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Piminchumo Hurtado",
+     "given": "V."
+    },
+    {
+     "family": "Galvez Mora",
+     "given": "C.A."
+    }
+   ],
+   "date": "2003",
+   "title": "La muralla de La Cumbre: Morfología y función de una estructura monumental Chimú en el valle de Moche",
+   "is_part_of": [
+    "Revista Arqueológica Sián"
+   ],
+   "volume": "8",
+   "issue": "14",
+   "pages": "18-25",
+   "language": "spa"
+  },
+  {
+   "position": 17,
+   "raw": "Sgrenzaroli M., Vassena G. 2007, Tecniche di rilevamento tridimensionale tramite laser scanner, Brescia, Starrylink Editrice.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sgrenzaroli",
+     "given": "M."
+    },
+    {
+     "family": "Vassena",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "Tecniche di rilevamento tridimensionale tramite laser scanner",
+   "place": "Brescia",
+   "publisher": "Starrylink Editrice",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "Tassetti N., Bernardini A., Malinverni E.S. 2008, Use of remote sensing data and GIS technology for assessment of landslide hazards in Susa valley (Italy), in R. Lasaponara, N. Masini (eds.), Proceedings of the 1st International EARSel Workshop Advanced of Remote Sensing for Archaeology and Cultural Heritage Management (Rome 2008), Roma, Aracne Editrice s.r.l., 59-67.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tassetti",
+     "given": "N."
+    },
+    {
+     "family": "Bernardini",
+     "given": "A."
+    },
+    {
+     "family": "Malinverni",
+     "given": "E.S."
+    }
+   ],
+   "date": "2008",
+   "title": "Use of remote sensing data and GIS technology for assessment of landslide hazards in Susa valley (Italy)",
+   "editors": [
+    {
+     "family": "Lasaponara",
+     "given": "R."
+    },
+    {
+     "family": "Masini",
+     "given": "N."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the 1st International EARSeL Workshop Advances on Remote Sensing for Archaeology and Cultural Heritage Management (Rome 2008)"
+   ],
+   "place": "Roma",
+   "publisher": "Aracne Editrice",
+   "pages": "59-67",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Topic J.R. 1982, Lower-class social and economic organization at Chan Chan, in Moseley, Day 1982, 146-175.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Topic",
+     "given": "J.R."
+    }
+   ],
+   "date": "1982",
+   "title": "Lower-class social and economic organization at Chan Chan",
+   "pages": "146-175",
+   "editors": [
+    {
+     "family": "Moseley",
+     "given": "M.E."
+    },
+    {
+     "family": "Day",
+     "given": "K.C."
+    }
+   ],
+   "is_part_of": [
+    "Chan Chan: Andean desert city"
+   ],
+   "place": "Albuquerque",
+   "publisher": "University of New Mexico Press",
+   "xref": 15,
+   "language": "eng"
+  }
+ ]
+}

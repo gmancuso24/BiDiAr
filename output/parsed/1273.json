@@ -1,0 +1,785 @@
+{
+ "citing_aec_id": 1273,
+ "source_file": "data/journal/34/1273.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Anichini F., Dubbini N., Fabiani F., Gattiglia G., Gualandi M.L. 2013, *MAPPA. Metodologie Applicate alla Predittività del Potenziale Archeologico*, 2, Roma, Nuova Cultura.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Dubbini",
+     "given": "N."
+    },
+    {
+     "family": "Fabiani",
+     "given": "F."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    },
+    {
+     "family": "Gualandi",
+     "given": "M.L."
+    }
+   ],
+   "date": "2013",
+   "title": "MAPPA. Metodologie Applicate alla Predittività del Potenziale Archeologico",
+   "volume": "2",
+   "publisher": "Nuova Cultura",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Anichini F., Fabiani F., Gattiglia G., Gualandi M.L. 2012, *MAPPA. Metodologie Applicate alla Predittività del Potenziale Archeologico*, 1, Roma, Nuova Cultura.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Fabiani",
+     "given": "F."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    },
+    {
+     "family": "Gualandi",
+     "given": "M.L."
+    }
+   ],
+   "date": "2012",
+   "title": "MAPPA. Metodologie Applicate alla Predittività del Potenziale Archeologico",
+   "volume": "1",
+   "publisher": "Nuova Cultura",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Anichini F., Gattiglia G., Montalbano R., Saponara A.R., Zanni S. 2021a, *Analisi delle procedure interne di gestione delle pratiche alle Soprintendenze Archeologia, Belle Arti e Paesaggio*, Report D1.1.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    },
+    {
+     "family": "Montalbano",
+     "given": "R."
+    },
+    {
+     "family": "Saponara",
+     "given": "A.R."
+    },
+    {
+     "family": "Zanni",
+     "given": "S."
+    }
+   ],
+   "date": "2021",
+   "title": "Analisi delle procedure interne di gestione delle pratiche alle Soprintendenze Archeologia, Belle Arti e Paesaggio",
+   "language": "ita",
+   "notes": "report D1.1",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Anichini F., Gattiglia G., Montalbano R., Saponara A.R., Zanni S. 2021b, *Modello dati, applicativo web e servizi erogabili*, Report D1.2.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    },
+    {
+     "family": "Montalbano",
+     "given": "R."
+    },
+    {
+     "family": "Saponara",
+     "given": "A.R."
+    },
+    {
+     "family": "Zanni",
+     "given": "S."
+    }
+   ],
+   "date": "2021",
+   "title": "Modello dati, applicativo web e servizi erogabili",
+   "language": "ita",
+   "notes": "report D1.2",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Anichini F., Gattiglia G., Montalbano R., Saponara A.R., Zanni S. 2021c, *Acquisizione dati archeologici dagli archivi delle SABAP-FI e PI-LI*, Report D2.1.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    },
+    {
+     "family": "Montalbano",
+     "given": "R."
+    },
+    {
+     "family": "Saponara",
+     "given": "A.R."
+    },
+    {
+     "family": "Zanni",
+     "given": "S."
+    }
+   ],
+   "date": "2021",
+   "title": "Acquisizione dati archeologici dagli archivi delle SABAP-FI e PI-LI",
+   "language": "ita",
+   "notes": "report D2.1",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Arbeid B., Bueno M., Tarantini M. 2020, *Gli archivi della Soprintendenza archeologia della Toscana*, in Pessina, Tarantini 2020a, 73-103.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arbeid",
+     "given": "B."
+    },
+    {
+     "family": "Bueno",
+     "given": "M."
+    },
+    {
+     "family": "Tarantini",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pessina",
+     "given": "A."
+    },
+    {
+     "family": "Tarantini",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "Gli archivi della Soprintendenza archeologia della Toscana",
+   "is_part_of": [
+    "Archivi dell'archeologia italiana. Atti della Giornata di Studi Archivi dell'archeologia italiana. Progetti, problemi, prospettive (Firenze 2016)"
+   ],
+   "pages": "73-103",
+   "language": "ita",
+   "xref": 18,
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Basso P., Belussi A., Bruno B., Grossi P., Migliorini S. 2015, *Progetto SITAVR. Una carta archeologica per Verona*, in G. Leoni, M. Serlorenzi (eds.), *Il SITAR nella Rete della ricerca italiana. Verso la conoscenza archeologica condivisa. Atti del III Convegno (Roma 2013)*, «Archeologia e Calcolatori», Suppl. 7, 155-167 (http://www.archcalc.cnr.it/indice/Suppl_7/18_Bruno_et_al.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Basso",
+     "given": "P."
+    },
+    {
+     "family": "Belussi",
+     "given": "A."
+    },
+    {
+     "family": "Bruno",
+     "given": "B."
+    },
+    {
+     "family": "Grossi",
+     "given": "P."
+    },
+    {
+     "family": "Migliorini",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Leoni",
+     "given": "G."
+    },
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "Progetto SITAVR. Una carta archeologica per Verona",
+   "is_part_of": [
+    "Il SITAR nella Rete della ricerca italiana. Verso la conoscenza archeologica condivisa. Atti del III Convegno (Roma 2013)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 7",
+   "pages": "155-167",
+   "uri": "http://www.archcalc.cnr.it/indice/Suppl_7/18_Bruno_et_al.pdf",
+   "language": "ita",
+   "cited_aec_id": 821,
+   "notes": "authors cited as 'Basso P., Belussi A., Bruno B., ...' (AeC metadata: Bruno, Basso, Grossi, Belussi, Migliorini)",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Calandra E., Boi V., Falcone A., Acconcia V., Di Giorgio S., Massara F., Ronzino P. 2021, *Policy and practice for digital archaeological archiving in Italy*, «Internet Archaeology», 58 (https://doi.org/10.11141/ia.58.27).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Calandra",
+     "given": "E."
+    },
+    {
+     "family": "Boi",
+     "given": "V."
+    },
+    {
+     "family": "Falcone",
+     "given": "A."
+    },
+    {
+     "family": "Acconcia",
+     "given": "V."
+    },
+    {
+     "family": "Di Giorgio",
+     "given": "S."
+    },
+    {
+     "family": "Massara",
+     "given": "F."
+    },
+    {
+     "family": "Ronzino",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "Policy and practice for digital archaeological archiving in Italy",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "58",
+   "doi": "10.11141/ia.58.27",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Conti P., Tarantini M. 2020, *L'archivio storico della Soprintendenza archeologia della Toscana*, in Pessina, Tarantini 2020a, 49-72.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Conti",
+     "given": "P."
+    },
+    {
+     "family": "Tarantini",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pessina",
+     "given": "A."
+    },
+    {
+     "family": "Tarantini",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "L'archivio storico della Soprintendenza archeologia della Toscana",
+   "is_part_of": [
+    "Archivi dell'archeologia italiana. Atti della Giornata di Studi Archivi dell'archeologia italiana. Progetti, problemi, prospettive (Firenze 2016)"
+   ],
+   "pages": "49-72",
+   "language": "ita",
+   "xref": 18,
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Dubbini N., Gattiglia G. 2016, *Information and time in predictive modelling*, in *Proceedings of the 1st International Conference on Metrology for Archaeology (Benevento 2015)*, 373-377.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dubbini",
+     "given": "N."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    }
+   ],
+   "date": "2016",
+   "title": "Information and time in predictive modelling",
+   "is_part_of": [
+    "Proceedings of the 1st International Conference on Metrology for Archaeology (Benevento 2015)"
+   ],
+   "pages": "373-377",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Frassine M., De Francesco S., Zambetti A. 2021, *RAPTOR reloaded. Un geodatabase gestionale per la tutela archeologica: nuovi aggiornamenti per un sistema aperto*, «Archeologia e Calcolatori», 32, 1, 307-324 (http://www.archcalc.cnr.it/indice/PDF32.1/17_Frassine_et_al.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "De Francesco",
+     "given": "S."
+    },
+    {
+     "family": "Zambetti",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "RAPTOR reloaded. Un geodatabase gestionale per la tutela archeologica: nuovi aggiornamenti per un sistema aperto",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "32",
+   "issue": "1",
+   "pages": "307-324",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF32.1/17_Frassine_et_al.pdf",
+   "language": "ita",
+   "cited_aec_id": 1140,
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Frassine M., Naponiello G. 2012, *RAPTOR: archeologia e tutela. Verso la pubblica amministrazione digitale*, «Archeologia e Calcolatori», 23, 81-99 (http://www.archcalc.cnr.it/indice/PDF23/05_Frassine_Naponiello.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "Naponiello",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "RAPTOR: archeologia e tutela. Verso la pubblica amministrazione digitale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "81-99",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF23/05_Frassine_Naponiello.pdf",
+   "language": "ita",
+   "cited_aec_id": 610,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Frassine M., Naponiello G., De Francesco S., Asta A. 2016, *RAPTOR 1.5. Aggiornamenti e sperimentazione*, in P. Basso, A. Caravale, P. Grossi (eds.), *ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica, Atti del IX Workshop (Verona 2014)*, «Archeologia e Calcolatori», Suppl. 8, 61-67 (http://www.archcalc.cnr.it/indice/Suppl_8/09_Frassine_et_al.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "Naponiello",
+     "given": "G."
+    },
+    {
+     "family": "De Francesco",
+     "given": "S."
+    },
+    {
+     "family": "Asta",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Basso",
+     "given": "P."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Grossi",
+     "given": "P."
+    }
+   ],
+   "date": "2016",
+   "title": "RAPTOR 1.5. Aggiornamenti e sperimentazione",
+   "is_part_of": [
+    "ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica, Atti del IX Workshop (Verona 2014)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 8",
+   "pages": "61-67",
+   "uri": "http://www.archcalc.cnr.it/indice/Suppl_8/09_Frassine_et_al.pdf",
+   "language": "ita",
+   "cited_aec_id": 867,
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Gattiglia G. 2012, *GIS applications for the archaeological analysis of a medieval town: Pisa, Italy*, in F. Giligny, L. Costa, F. Djindjian, P. Ciezar, B. Desachy (eds.), *Actes des 2èmes Journées d'Informatique et Archéologie de Paris-JIAP 2010*, «Archeologia e Calcolatori», Suppl. 3, 124-140 (http://www.archcalc.cnr.it/indice/Suppl_3/09-gattiglia.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giligny",
+     "given": "F."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Ciezar",
+     "given": "P."
+    },
+    {
+     "family": "Desachy",
+     "given": "B."
+    }
+   ],
+   "date": "2012",
+   "title": "GIS applications for the archaeological analysis of a medieval town: Pisa, Italy",
+   "is_part_of": [
+    "Actes des 2èmes Journées d'Informatique et Archéologie de Paris-JIAP 2010",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 3",
+   "pages": "124-140",
+   "uri": "http://www.archcalc.cnr.it/indice/Suppl_3/09-gattiglia.pdf",
+   "language": "eng",
+   "cited_aec_id": 637,
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Gattiglia G., Roberto S. 2020, *Le necropoli urbane di Pisa tra tarda antichità e basso medioevo. Analisi preliminari*, «Studi Classici Orientali», 66, 329-346 (https://doi.org/10.12871/978883339362921).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    },
+    {
+     "family": "Roberto",
+     "given": "S."
+    }
+   ],
+   "date": "2020",
+   "title": "Le necropoli urbane di Pisa tra tarda antichità e basso medioevo. Analisi preliminari",
+   "is_part_of": [
+    "Studi Classici Orientali"
+   ],
+   "volume": "66",
+   "pages": "329-346",
+   "doi": "10.12871/978883339362921",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Hermon S., Niccolucci F. 2017, *Formally defining the time-space-archaeological culture relation: Problems and prospects*, «Archeologia e Calcolatori», 28, 1, 93-108 (https://doi.org/10.19282/AC.28.1.2017.06).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hermon",
+     "given": "S."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2017",
+   "title": "Formally defining the time-space-archaeological culture relation: Problems and prospects",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "1",
+   "pages": "93-108",
+   "doi": "10.19282/AC.28.1.2017.06",
+   "language": "eng",
+   "cited_aec_id": 899,
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Niccolucci F., Hermon S. 2016, *Representing gazetteers and period thesauri in four-dimensional space-time*, «International Journal on Digital Libraries», 17.1, 63-69.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Hermon",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "Representing gazetteers and period thesauri in four-dimensional space-time",
+   "is_part_of": [
+    "International Journal on Digital Libraries"
+   ],
+   "volume": "17",
+   "issue": "1",
+   "pages": "63-69",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Pessina A., Tarantini M. (eds.) 2020a, *Archivi dell'archeologia italiana. Atti della Giornata di Studi Archivi dell'archeologia italiana. Progetti, problemi, prospettive (Firenze 2016)*, Roma, Ministero per i Beni e le Attività culturali e per il Turismo. Direzione generale Archivi.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Pessina",
+     "given": "A."
+    },
+    {
+     "family": "Tarantini",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "Archivi dell'archeologia italiana. Atti della Giornata di Studi Archivi dell'archeologia italiana. Progetti, problemi, prospettive (Firenze 2016)",
+   "publisher": "Ministero per i Beni e le Attività culturali e per il Turismo. Direzione generale Archivi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Pessina A., Tarantini M. 2020b, *Per gli archivi dell'archeologia italiana*, in Pessina, Tarantini 2020a, XV-XIX.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pessina",
+     "given": "A."
+    },
+    {
+     "family": "Tarantini",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pessina",
+     "given": "A."
+    },
+    {
+     "family": "Tarantini",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "Per gli archivi dell'archeologia italiana",
+   "is_part_of": [
+    "Archivi dell'archeologia italiana. Atti della Giornata di Studi Archivi dell'archeologia italiana. Progetti, problemi, prospettive (Firenze 2016)"
+   ],
+   "pages": "XV-XIX",
+   "language": "ita",
+   "xref": 18,
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Serlorenzi M. 2018, *Accessibilità e diffusione del dato archeologico: l'esperienza del SITAR*, in M. Arizza, V. Boi, A. Caravale, A. Palombini, A. Piergrossi (eds.), *I dati archeologici. Accessibilità, proprietà, disseminazione (Roma 2017)*, «Archeologia e Calcolatori», 29, 31-40 (https://doi.org/10.19282/ac.29.2018.04).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Arizza",
+     "given": "M."
+    },
+    {
+     "family": "Boi",
+     "given": "V."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Palombini",
+     "given": "A."
+    },
+    {
+     "family": "Piergrossi",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Accessibilità e diffusione del dato archeologico: l'esperienza del SITAR",
+   "is_part_of": [
+    "I dati archeologici. Accessibilità, proprietà, disseminazione (Roma 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "29",
+   "pages": "31-40",
+   "doi": "10.19282/ac.29.2018.04",
+   "language": "ita",
+   "cited_aec_id": 990,
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Serlorenzi M., Cordone C., Lamonaca F., Picciola S. 2012, *Il Sistema Informativo Territoriale Archeologico di Roma SITAR*, «Archeologia e Calcolatori», 23, 31-50 (http://www.archcalc.cnr.it/indice/PDF23/02_Serlorenzi_et_al.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Cordone",
+     "given": "C."
+    },
+    {
+     "family": "Lamonaca",
+     "given": "F."
+    },
+    {
+     "family": "Picciola",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "Il Sistema Informativo Territoriale Archeologico di Roma SITAR",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "23",
+   "pages": "31-50",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF23/02_Serlorenzi_et_al.pdf",
+   "language": "ita",
+   "cited_aec_id": 607,
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Serlorenzi M., Leoni G., Lamonaca F., Picciola S. 2021, *Il SITAR e le comunità degli utenti: un'infrastruttura culturale al servizio del patrimonio archeologico di Roma*, in F.R. Cerami, M.L. Scaduto, A. De Tommasi (eds.), *I bacini culturali e la progettazione sociale orientata all'heritage-making, tra politiche giovanili, innovazione sociale, diversità culturale, framework del Progetto ABACUS – Attivazione dei Bacini Culturali Siciliani, alla luce della Convenzione Quadro del Consiglio d'Europa sul valore del Patrimonio culturale per la società*, Firenze, All'Insegna del Giglio, 201-212 (https://www.insegnadelgiglio.it/prodotto/i-bacini-culturali/).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Leoni",
+     "given": "G."
+    },
+    {
+     "family": "Lamonaca",
+     "given": "F."
+    },
+    {
+     "family": "Picciola",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cerami",
+     "given": "F.R."
+    },
+    {
+     "family": "Scaduto",
+     "given": "M.L."
+    },
+    {
+     "family": "De Tommasi",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "Il SITAR e le comunità degli utenti: un'infrastruttura culturale al servizio del patrimonio archeologico di Roma",
+   "is_part_of": [
+    "I bacini culturali e la progettazione sociale orientata all'heritage-making, tra politiche giovanili, innovazione sociale, diversità culturale, framework del Progetto ABACUS – Attivazione dei Bacini Culturali Siciliani, alla luce della Convenzione Quadro del Consiglio d'Europa sul valore del Patrimonio culturale per la società"
+   ],
+   "pages": "201-212",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "uri": "https://www.insegnadelgiglio.it/prodotto/i-bacini-culturali/",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Tarantini M. 2014, *Firenze. Archivio storico della Soprintendenza Archeologia della Toscana: lavori di riordino e catalogazione*, «Notiziario della Soprintendenza per i Beni Archeologici della Toscana», 10, 218-219.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tarantini",
+     "given": "M."
+    }
+   ],
+   "date": "2014",
+   "title": "Firenze. Archivio storico della Soprintendenza Archeologia della Toscana: lavori di riordino e catalogazione",
+   "is_part_of": [
+    "Notiziario della Soprintendenza per i Beni Archeologici della Toscana"
+   ],
+   "volume": "10",
+   "pages": "218-219",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

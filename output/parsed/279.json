@@ -1,0 +1,223 @@
+{
+ "citing_aec_id": 279,
+ "source_file": "data/journal/10/279.md",
+ "references": [
+  {
+   "raw": "AMBROSETTI P. et al. 1987, Il Pliocene ed il Pleistocene inferiore del bacino del fiume Tevere nell’Umbria meridionale, «Geogr. Fis. Dinam. Quat.», 10, 10-33.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Ambrosetti",
+     "given": "P."
+    }
+   ],
+   "notes": "et al. in citation",
+   "type": "article",
+   "title": "Il Pliocene ed il Pleistocene inferiore del bacino del fiume Tevere nell’Umbria meridionale",
+   "is_part_of": [
+    "Geogr. Fis. Dinam. Quat."
+   ],
+   "pages": "10-33",
+   "volume": "10",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "AZZENA G. 1994, Topografia di Roma antica: ipotesi per una sistematizzazione dei dati a valenza topografica, «Archeologia e Calcolatori», 5, 269-292.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Topografia di Roma antica: ipotesi per una sistematizzazione dei dati a valenza topografica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "269-292",
+   "volume": "5",
+   "language": "ita",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "ESPA S. et al. c.s., Statistical methods and computer high technology for the study of archaeological presence in the Sabina Tiberina area, in Proceedings of the 26th Computer Applications and Quantitative Methods in Archaeology. International Conference (Barcellona, 24-28/3/1998).",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Espa",
+     "given": "S."
+    }
+   ],
+   "notes": "et al. in citation",
+   "type": "chapter",
+   "title": "Statistical methods and computer high technology for the study of archaeological presence in the Sabina Tiberina area",
+   "is_part_of": [
+    "Proceedings of the 26th Computer Applications and Quantitative Methods in Archaeology. International Conference (Barcellona, 24-28/3/1998)"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "ESPA S. et al. c.s., Sabina Tiberina. Modellizzazione della distribuzione delle presenze archeologiche, «Archeologia e Calcolatori», 10.",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Espa",
+     "given": "S."
+    }
+   ],
+   "notes": "et al. in citation",
+   "type": "article",
+   "title": "Sabina Tiberina. Modellizzazione della distribuzione delle presenze archeologiche",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "cs": {
+    "status": "unresolved"
+   },
+   "language": "ita",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "FORTE M., MONTEBELLI M., TUSA S. 1998, Il progetto Valle del Belice: applicazioni GIS e di remote sensing su dati archeologici, «Archeologia e Calcolatori», 9, 1998, 291-304.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Montebelli",
+     "given": "M."
+    },
+    {
+     "family": "Tusa",
+     "given": "S."
+    }
+   ],
+   "type": "article",
+   "title": "Il progetto Valle del Belice: applicazioni GIS e di remote sensing su dati archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "291-304",
+   "volume": "9",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "FORTE M., MOZZI P., ZOCCHI M. 1998, Immagini satellitari e modelli virtuali: interpretazioni geoarcheologiche della regione del Sistan meridionale, «Archeologia e Calcolatori», 9, 271-290.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Mozzi",
+     "given": "P."
+    },
+    {
+     "family": "Zocchi",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Immagini satellitari e modelli virtuali: interpretazioni geoarcheologiche della regione del Sistan meridionale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "271-290",
+   "volume": "9",
+   "language": "ita",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "GIROTTI O., PICCARDI E. 1994, Linee di riva del Pleistocene inferiore sul versante sinistro della media valle del fiume Tevere, «Il Quaternario», 7, 2, 525-536.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Girotti",
+     "given": "O."
+    },
+    {
+     "family": "Piccardi",
+     "given": "E."
+    }
+   ],
+   "type": "article",
+   "title": "Linee di riva del Pleistocene inferiore sul versante sinistro della media valle del fiume Tevere",
+   "is_part_of": [
+    "Il Quaternario"
+   ],
+   "pages": "525-536",
+   "volume": "7",
+   "issue": "2",
+   "language": "ita",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "MARTINORI E. 1929, Via Flaminia, Roma.",
+   "date": "1929",
+   "creators": [
+    {
+     "family": "Martinori",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "Via Flaminia",
+   "place": "Roma",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "PIETRANGELI C. 1978, Otricoli, Roma, Ugo Bozzi Editore.",
+   "date": "1978",
+   "creators": [
+    {
+     "family": "Pietrangeli",
+     "given": "C."
+    }
+   ],
+   "type": "book",
+   "title": "Otricoli",
+   "place": "Roma",
+   "publisher": "Ugo Bozzi Editore",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "LORENZETTI R. (ed.) 1994, Il territorio di carta, la Sabina, Roma, Editalia.",
+   "date": "1994",
+   "editors": [
+    {
+     "family": "Lorenzetti",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Il territorio di carta, la Sabina",
+   "place": "Roma",
+   "publisher": "Editalia",
+   "language": "ita",
+   "confidence": "high",
+   "position": 10
+  }
+ ]
+}

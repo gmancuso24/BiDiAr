@@ -40,7 +40,7 @@ In short, starting from the reference lists printed at the end of each AeC artic
 - a table of **people** (authors and editors, disambiguated and, where possible, with full names and ORCID);
 - a table of **citations** (which work cites which), expressed through stable internal identifiers.
 
-> **Scope of this repository.** Only the final tables are published here. Working documents, backups, intermediate files, the raw Markdown bibliographies and the bibliographic files themselves are **not** part of this repository (see [Related repositories](#related-repositories)).
+> **Scope of this repository.** The repository holds the working tables of the project (`output/`), the parsing results of every article, the scripts and the project instructions used to build them. The raw Markdown bibliographies and metadata (`data/`), the automatic backups of the tables and the API caches are **not** versioned here, because they live elsewhere or can be regenerated (see [Related repositories](#related-repositories)).
 
 ## Context: BiDiAr and H2IOSC
 
@@ -60,14 +60,41 @@ Useful entry points:
 .
 ├── README.md
 ├── LICENSE
-├── data/
-│   ├── works.csv          # bibliographic records            [filename to be confirmed]
-│   ├── people.csv         # authors and editors              [filename to be confirmed]
-│   └── citations.csv      # citation links between works     [filename to be confirmed]
-└── bibliographies/        # <-- placeholder: bibliographic files are hosted elsewhere
+├── CLAUDE.md                  # project rules: workflow, matching rules, table conventions
+├── PASSAGGIO_CONSEGNE.md      # handover notes: status, working habits, open points
+├── PIANO_LAVORO.md            # work plan
+├── .claude/
+│   └── skills/
+│       ├── parse-aec-bibliography/   # how to parse the bibliography of one article
+│       └── prereview-aec-volume/     # automatic pre-review of a volume's review rows
+├── scripts/                   # Python tools (they only read/write the tables via these scripts)
+│   ├── aec_metadata_to_csv.py        # AeC metadata -> initial works/persons tables
+│   ├── build_parsed.py               # builds output/parsed/{aec_id}.json from a compact spec
+│   ├── merge_article.py              # parsed article -> tables (+ duplicate audit)
+│   ├── resolve.py                    # applies review decisions (merge, detach, set, done, purge...)
+│   ├── audit_duplicates.py           # read-only duplicate audit of works and persons
+│   ├── health_check.py               # read-only integrity and citation-link check
+│   ├── find_aec.py                   # finds a cited AeC article in the metadata
+│   ├── show_works.py                 # read-only: prints works compactly (authors, container, citing articles)
+│   ├── suggest_names.py              # full given names from the Zotero names list
+│   ├── fetch_names_api.py            # proposes full given names from Crossref/OpenAlex records (via DOI)
+│   └── missing_names_list.py         # lists persons with no given name or initials only
+└── output/
+    ├── works.csv                     # bibliographic records (AeC articles + cited works)
+    ├── persons.csv                   # authors and editors
+    ├── citations.csv                 # citing -> cited links
+    ├── review.csv                    # open review rows
+    ├── review_archive.csv            # closed review rows (decision + date)
+    ├── decisions.log                 # log of every change made with resolve.py
+    ├── cs_non_risolti.md             # unresolved "c.s." / in-press references
+    ├── health_check.csv              # latest output of health_check.py
+    ├── audit_duplicates.csv          # latest output of audit_duplicates.py
+    └── parsed/                       # one JSON per article: parsing result of its bibliography
 ```
 
-<!-- TODO: update the tree above with the final file names and folder layout. -->
+Not versioned (see `.gitignore`): `data/` (AeC metadata, Zotero names list, Markdown bibliographies), `output/backup/` (copy of the tables before every merge) and `output/archivio/` (applied name lists, API caches, old reports).
+
+The tables currently live in `output/` under their working names (`persons.csv`, not `people.csv`). The export script that will produce the import-ready files for Omeka S is still to be written.
 
 ## Data model
 
@@ -91,7 +118,7 @@ Because tables reference each other through identifiers, they must be imported i
 
 ## Tables
 
-> The column lists below are a summary; the authoritative field mapping is the one of the BiDiAr import template.
+> The column lists below are a summary; the authoritative field mapping is the one of the BiDiAr import template and the table conventions in `CLAUDE.md`. Columns starting with `_` are working columns and are not imported.
 > <!-- TODO: complete with the final column names after the last export. -->
 
 ### `works`
@@ -159,7 +186,7 @@ All records included in BiDiAr are collected, openly accessible, in the dedicate
 
 - **Bibliographies (AeC reference lists):** <!-- TODO: add link to the repository -->
 - **AeC corpus / Markdown texts:** <!-- TODO: add link, if public -->
-- **Processing tools:** <!-- TODO: add link, if public -->
+- **Processing tools:** the `scripts/` and `.claude/skills/` folders of this repository.
 
 ## Coverage and status
 

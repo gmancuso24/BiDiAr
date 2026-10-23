@@ -1,0 +1,1005 @@
+{
+ "citing_aec_id": 576,
+ "source_file": "data/journal/21/576.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Angel J.L. 1969, The bases of paleodemography, «American Journal of Physical Anthropology», 30, 427-437.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Angel",
+     "given": "J.L."
+    }
+   ],
+   "date": "1969",
+   "title": "The bases of paleodemography",
+   "is_part_of": [
+    "American Journal of Physical Anthropology"
+   ],
+   "volume": "30",
+   "pages": "427-437",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bertran P., Lenoble A. 2002, Fabrique des niveaux archéologiques: méthode et premier bilan des apports à l’étude taphonomique des sites paléolithiques, «Paleo», 14, 13-28.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bertran",
+     "given": "P."
+    },
+    {
+     "family": "Lenoble",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Fabrique des niveaux archéologiques: méthode et premier bilan des apports à l’étude taphonomique des sites paléolithiques",
+   "is_part_of": [
+    "Paleo"
+   ],
+   "volume": "14",
+   "pages": "13-28",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bohmers A. 1956, Statistics and graphs in the study of flint assemblages, «Palaeohistoria», 5, 15-37.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bohmers",
+     "given": "A."
+    }
+   ],
+   "date": "1956",
+   "title": "Statistics and graphs in the study of flint assemblages",
+   "is_part_of": [
+    "Palaeohistoria"
+   ],
+   "volume": "5",
+   "pages": "15-37",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bordes F., Bourgon M. 1953, Levalloisien et Moustérien, «Bulletin de la Société Préhistorique Française», 50, 226-235.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bordes",
+     "given": "F."
+    },
+    {
+     "family": "Bourgon",
+     "given": "M."
+    }
+   ],
+   "date": "1953",
+   "title": "Levalloisien et Moustérien",
+   "is_part_of": [
+    "Bulletin de la Société Préhistorique Française"
+   ],
+   "volume": "50",
+   "pages": "226-235",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Brainerd G.W. 1951, The place of chronological ordering in archaeological analysis, «American Antiquity», 16, 301-313.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brainerd",
+     "given": "G.W."
+    }
+   ],
+   "date": "1951",
+   "title": "The place of chronological ordering in archaeological analysis",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "16",
+   "pages": "301-313",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Chaix L., Meniel P. 2001, Archéozoologie, Paris, Errance.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chaix",
+     "given": "L."
+    },
+    {
+     "family": "Meniel",
+     "given": "P."
+    }
+   ],
+   "date": "2001",
+   "title": "Archéozoologie",
+   "publisher": "Errance",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Chapman H. 2006, Landscape Archaeology and GIS, London, Stroud.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chapman",
+     "given": "H."
+    }
+   ],
+   "date": "2006",
+   "title": "Landscape Archaeology and GIS",
+   "publisher": "Stroud",
+   "place": "London",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "cited 'London, Stroud': Stroud is probably the place (Tempus), kept as cited"
+  },
+  {
+   "position": 8,
+   "raw": "Clark P.J., Evans F.C. 1954, Distance to nearest neighbour as a measure of spatial relationships in populations, «Ecology», 55, 445-453.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Clark",
+     "given": "P.J."
+    },
+    {
+     "family": "Evans",
+     "given": "F.C."
+    }
+   ],
+   "date": "1954",
+   "title": "Distance to nearest neighbour as a measure of spatial relationships in populations",
+   "is_part_of": [
+    "Ecology"
+   ],
+   "volume": "55",
+   "pages": "445-453",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Cremaschi M. 2000, Manuale di geoarcheologia, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "Manuale di geoarcheologia",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "De Heinzelin de Brancourt J. 1960, Principes de diagnose numérique en typologie, Mémoires de l’Académie Royale de Belgique, 14, 6.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Heinzelin de Brancourt",
+     "given": "J."
+    }
+   ],
+   "date": "1960",
+   "title": "Principes de diagnose numérique en typologie",
+   "is_part_of": [
+    "Mémoires de l’Académie Royale de Belgique"
+   ],
+   "volume": "14",
+   "issue": "6",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Desachy B. 2009, Formalisation du traitement des données stratigraphiques en archéologie de terrain, Thèse Université Paris 1 Panthéon-Sorbonne.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Desachy",
+     "given": "B."
+    }
+   ],
+   "date": "2009",
+   "title": "Formalisation du traitement des données stratigraphiques en archéologie de terrain",
+   "publisher": "Université Paris 1 Panthéon-Sorbonne",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Desachy B., Djindjian F. 1990, Sur l’aide au traitement des données stratigraphiques des sites archéologiques, «Histoire et Mesure», 5, 1-2, 51-88.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Desachy",
+     "given": "B."
+    },
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1990",
+   "title": "Sur l’aide au traitement des données stratigraphiques des sites archéologiques",
+   "is_part_of": [
+    "Histoire et Mesure"
+   ],
+   "volume": "5",
+   "issue": "1-2",
+   "pages": "51-88",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Djindjian F. 1980, Faciès chronologiques aurignaciens et périgordiens à La Ferrassie (Dordogne), in L’analyse des objets archéologiques et les procédés statistiques d’interprétation, «Archéologia» (Les Dossiers de l’Archéologie, 42), 70-74.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1980",
+   "title": "Faciès chronologiques aurignaciens et périgordiens à La Ferrassie (Dordogne)",
+   "is_part_of": [
+    "L’analyse des objets archéologiques et les procédés statistiques d’interprétation",
+    "Archéologia (Les Dossiers de l’Archéologie)"
+   ],
+   "volume": "42",
+   "pages": "70-74",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Djindjian F. 1991, Méthodes pour l’Archéologie, Paris, Armand Colin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Méthodes pour l’Archéologie",
+   "publisher": "Armand Colin",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Djindjian F. 1993, Les systèmes d’informations en Archéologie, «Archeologia e Calcolatori», 4, 9-26.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1993",
+   "title": "Les systèmes d’informations en Archéologie",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "9-26",
+   "language": "fre",
+   "cited_aec_id": 48,
+   "notes": "metadata has pages 9-25, cited 9-26",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Djindjian F. 1996, Histoires de burins, «Bulletin du Centre Genevois d’Anthropologie», 3-4, 3-21.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1996",
+   "title": "Histoires de burins",
+   "is_part_of": [
+    "Bulletin du Centre Genevois d’Anthropologie"
+   ],
+   "volume": "3-4",
+   "pages": "3-21",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Djindjian F. 2002, Pour une théorie générale de la connaissance en Archéologie, «Archeologia e Calcolatori», 13, 101-117.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "Pour une théorie générale de la connaissance en Archéologie",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "pages": "101-117",
+   "language": "fre",
+   "cited_aec_id": 337,
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Djindjian F. 2009, The golden years for mathematics and computers in archaeology (1965-1985), in P. Moscati (ed.), La nascita dell’informatica archeologica, Atti del Convegno internazionale (Roma 2008), «Archeologia e Calcolatori», 20, 61-73.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "The golden years for mathematics and computers in archaeology (1965-1985)",
+   "is_part_of": [
+    "La nascita dell’informatica archeologica. Atti del Convegno internazionale (Roma 2008)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "20",
+   "pages": "61-73",
+   "language": "eng",
+   "cited_aec_id": 504,
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Djindjian F., Ducasse H. (eds.) 1987, Data Processing and Mathematics Applied to Archaeology/ Mathématiques et Informatique appliquées à l’Archéologie, «Pact», 16.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Ducasse",
+     "given": "H."
+    }
+   ],
+   "date": "1987",
+   "title": "Data Processing and Mathematics Applied to Archaeology/ Mathématiques et Informatique appliquées à l’Archéologie",
+   "is_part_of": [
+    "Pact"
+   ],
+   "volume": "16",
+   "language": "eng",
+   "notes": "special volume of PACT",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Djindjian F., Moscati P. (eds.), Proceedings of the Commission 4 Symposia, XIV UISPP Congress (Liège 2001), «Archeologia e Calcolatori», 13.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2002",
+   "title": "Proceedings of the Commission 4 Symposia, XIV UISPP Congress (Liège 2001)",
+   "is_part_of": [
+    "Proceedings of the Commission 4 Symposia, XIV UISPP Congress (Liège 2001)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "year not in the citation: 2002 taken from the AeC metadata (vol. 13); whole AeC 13 cited"
+  },
+  {
+   "position": 21,
+   "raw": "Doran J.E. 2000, Prospects for agent-based modelling in Archaeology, «Archeologia e Calcolatori», 10, 33-44.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    }
+   ],
+   "date": "2000",
+   "title": "Prospects for agent-based modelling in Archaeology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "33-44",
+   "language": "eng",
+   "cited_aec_id": 264,
+   "notes": "metadata: AeC 10 is 1999, cited 2000",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Doran J.E., Hodson F.R. 1975, Mathematics and Computers in Archaeology, Edinburgh, Edinburgh University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    },
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    }
+   ],
+   "date": "1975",
+   "title": "Mathematics and Computers in Archaeology",
+   "publisher": "Edinburgh University Press",
+   "place": "Edinburgh",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Ford J.A. 1962, A Quantitative Method for Deriving Cultural Chronology, Washington 1962, Dpt. of Social Affairs, Pan-American Union.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ford",
+     "given": "J.A."
+    }
+   ],
+   "date": "1962",
+   "title": "A Quantitative Method for Deriving Cultural Chronology",
+   "publisher": "Dpt. of Social Affairs, Pan-American Union",
+   "place": "Washington",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Gardin J.-Cl. 1979, Une archéologie théorique, Paris, Hachette.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-Cl."
+    }
+   ],
+   "date": "1979",
+   "title": "Une archéologie théorique",
+   "publisher": "Hachette",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Harris E.C., Brown M.R. III, Brown G.J. (eds.) 1993, Practices of Archaeological Stratigraphy, London, Academic Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Harris",
+     "given": "E.C."
+    },
+    {
+     "family": "Brown",
+     "given": "M.R. III"
+    },
+    {
+     "family": "Brown",
+     "given": "G.J."
+    }
+   ],
+   "date": "1993",
+   "title": "Practices of Archaeological Stratigraphy",
+   "publisher": "Academic Press",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Hassan F.A. 1981, Demographic Archaeology, New-York, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hassan",
+     "given": "F.A."
+    }
+   ],
+   "date": "1981",
+   "title": "Demographic Archaeology",
+   "publisher": "Academic Press",
+   "place": "New-York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Higgs E.S. (ed.) 1975, Palaeoeconomy, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Higgs",
+     "given": "E.S."
+    }
+   ],
+   "date": "1975",
+   "title": "Palaeoeconomy",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Hodder I., Orton Cl. 1976, Spatial Analysis in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    },
+    {
+     "family": "Orton",
+     "given": "Cl."
+    }
+   ],
+   "date": "1976",
+   "title": "Spatial Analysis in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Hodson F.R., Kendall D.G., Tautu P. 1971, Mathematics in the Archaeological and Historical Sciences. Proceedings of the Anglo-romanian Conference (Mamaia, 1970), Edinburgh, Edinburgh University Press.",
+   "type": "proceedings",
+   "creators": [
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    },
+    {
+     "family": "Kendall",
+     "given": "D.G."
+    },
+    {
+     "family": "Tautu",
+     "given": "P."
+    }
+   ],
+   "date": "1971",
+   "title": "Mathematics in the Archaeological and Historical Sciences. Proceedings of the Anglo-romanian Conference (Mamaia, 1970)",
+   "publisher": "Edinburgh University Press",
+   "place": "Edinburgh",
+   "language": "eng",
+   "notes": "authors of the proceedings volume are its editors; cited without (eds.)",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Jochim M.A. 1976, Hunter-gatherer Subsistence: a Predictive Model, New York, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jochim",
+     "given": "M.A."
+    }
+   ],
+   "date": "1976",
+   "title": "Hunter-gatherer Subsistence: a Predictive Model",
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Journot F. 1999, Archéologie du bâti, in A. Ferdière (ed.), La construction en pierre, Paris, Errance, 133-162.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Journot",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ferdière",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "Archéologie du bâti",
+   "is_part_of": [
+    "La construction en pierre"
+   ],
+   "pages": "133-162",
+   "publisher": "Errance",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Laplace G. 1966, Recherches sur l’origine et l’évolution des complexes leptolithiques, «Mélanges d’archéologie et d’histoire», Ecole française de Rome, Suppl. 4, Paris, E. de Boccard.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Laplace",
+     "given": "G."
+    }
+   ],
+   "date": "1966",
+   "title": "Recherches sur l’origine et l’évolution des complexes leptolithiques",
+   "series": "Mélanges d’archéologie et d’histoire",
+   "series_number": "Suppl. 4",
+   "publisher": "E. de Boccard",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "'Ecole française de Rome' cited as the body of the series",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Lenoble A., Bertran P., Bourguignon L., Lacrampe F., Detrain L. 2003, Impact de la solifluxion sur les niveaux archéologiques: simulation à partir d’une expérience en milieu actif et application à des sites paléolithiques aquitains, «Paleo», 15, 105-122.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lenoble",
+     "given": "A."
+    },
+    {
+     "family": "Bertran",
+     "given": "P."
+    },
+    {
+     "family": "Bourguignon",
+     "given": "L."
+    },
+    {
+     "family": "Lacrampe",
+     "given": "F."
+    },
+    {
+     "family": "Detrain",
+     "given": "L."
+    }
+   ],
+   "date": "2003",
+   "title": "Impact de la solifluxion sur les niveaux archéologiques: simulation à partir d’une expérience en milieu actif et application à des sites paléolithiques aquitains",
+   "is_part_of": [
+    "Paleo"
+   ],
+   "volume": "15",
+   "pages": "105-122",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Leroi-Gourhan A. 1964, Le geste et la parole, Paris, Albin Michel.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Leroi-Gourhan",
+     "given": "A."
+    }
+   ],
+   "date": "1964",
+   "title": "Le geste et la parole",
+   "publisher": "Albin Michel",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Leroi-Gourhan A. 1968, Tableaux de morphologie descriptive, in La Préhistoire, Paris, PUF.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Leroi-Gourhan",
+     "given": "A."
+    }
+   ],
+   "date": "1968",
+   "title": "Tableaux de morphologie descriptive",
+   "is_part_of": [
+    "La Préhistoire"
+   ],
+   "publisher": "PUF",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Meighan C.W. 1959, A new method for seriation of archaeological collections, «American Antiquity», 25, 203-211.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Meighan",
+     "given": "C.W."
+    }
+   ],
+   "date": "1959",
+   "title": "A new method for seriation of archaeological collections",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "25",
+   "pages": "203-211",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Mueller J.W. (ed.) 1975, Sampling in Archaeology, Tucson, The University of Arizona Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Mueller",
+     "given": "J.W."
+    }
+   ],
+   "date": "1975",
+   "title": "Sampling in Archaeology",
+   "publisher": "The University of Arizona Press",
+   "place": "Tucson",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Orton Cl. 1980, Mathematics in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "Cl."
+    }
+   ],
+   "date": "1980",
+   "title": "Mathematics in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Rapp G. Jr., Hill C.L. 2006, Geoarchaeology. The Earth-Science Approach to Archaeological Interpretation, New Haven, Yale University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rapp",
+     "given": "G. Jr."
+    },
+    {
+     "family": "Hill",
+     "given": "C.L."
+    }
+   ],
+   "date": "2006",
+   "title": "Geoarchaeology. The Earth-Science Approach to Archaeological Interpretation",
+   "publisher": "Yale University Press",
+   "place": "New Haven",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Renfrew C. 1977, Alternative models for exchange and spatial distribution, in T.K. Earle, J.E. Ericson (eds.), Exchange Systems in Prehistory, New York, Academic Press, 71-90.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Earle",
+     "given": "T.K."
+    },
+    {
+     "family": "Ericson",
+     "given": "J.E."
+    }
+   ],
+   "date": "1977",
+   "title": "Alternative models for exchange and spatial distribution",
+   "is_part_of": [
+    "Exchange Systems in Prehistory"
+   ],
+   "pages": "71-90",
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Renfrew C., Dixon J.E., Cann J.R. 1968, Further analysis of Near East obsidian, «Proceedings of the Prehistoric Society», 34, 319-331.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Renfrew",
+     "given": "C."
+    },
+    {
+     "family": "Dixon",
+     "given": "J.E."
+    },
+    {
+     "family": "Cann",
+     "given": "J.R."
+    }
+   ],
+   "date": "1968",
+   "title": "Further analysis of Near East obsidian",
+   "is_part_of": [
+    "Proceedings of the Prehistoric Society"
+   ],
+   "volume": "34",
+   "pages": "319-331",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Robinson W.S. 1951, A method for chronologically ordering archaeological deposits, «American Antiquity», 16, 293-301.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Robinson",
+     "given": "W.S."
+    }
+   ],
+   "date": "1951",
+   "title": "A method for chronologically ordering archaeological deposits",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "16",
+   "pages": "293-301",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Simondon G. 1958, Du mode d’existence des objets techniques, Paris, Aubier.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Simondon",
+     "given": "G."
+    }
+   ],
+   "date": "1958",
+   "title": "Du mode d’existence des objets techniques",
+   "publisher": "Aubier",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Spaulding A.C. 1953, Statistical techniques for the discovery of artifact types, «American Antiquity», 18, 4, 305-313.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Spaulding",
+     "given": "A.C."
+    }
+   ],
+   "date": "1953",
+   "title": "Statistical techniques for the discovery of artifact types",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "18",
+   "issue": "4",
+   "pages": "305-313",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Vita-Finzi C. 1978, Archaeological Sites and Their Setting, London, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Vita-Finzi",
+     "given": "C."
+    }
+   ],
+   "date": "1978",
+   "title": "Archaeological Sites and Their Setting",
+   "publisher": "Academic Press",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Voorrips A. (ed.) 1990, Mathematics and Information Science in Archaeology: a Flexible Framework, Studies in Modern Archaeology, 3, Bonn, Holos Verlag.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "Mathematics and Information Science in Archaeology: a Flexible Framework",
+   "series": "Studies in Modern Archaeology",
+   "series_number": "3",
+   "publisher": "Holos Verlag",
+   "place": "Bonn",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "Voorrips A., Loving S.H. (eds.) 1985, To Pattern of the Past, «Pact», 11.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    },
+    {
+     "family": "Loving",
+     "given": "S.H."
+    }
+   ],
+   "date": "1985",
+   "title": "To Pattern of the Past",
+   "is_part_of": [
+    "Pact"
+   ],
+   "volume": "11",
+   "language": "eng",
+   "notes": "special volume of PACT",
+   "confidence": "high"
+  }
+ ]
+}

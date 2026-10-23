@@ -1,0 +1,549 @@
+{
+ "citing_aec_id": 510,
+ "source_file": "data/journal/20/510.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Adamo G. 1994, Bibliografia di Informatica Umanistica, Roma, Bulzoni.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Adamo",
+     "given": "G."
+    }
+   ],
+   "date": "1994",
+   "title": "Bibliografia di Informatica Umanistica",
+   "publisher": "Bulzoni",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Arroyo-Bishop A., Lantada Zarzosa M.T. 1993, Bibliografía sobre la aplicación de la informática en arqueología, Cuadernos del Instituto Aragonés de Arqueología, 3, Teruel.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "A."
+    },
+    {
+     "family": "Lantada Zarzosa",
+     "given": "M.T."
+    }
+   ],
+   "date": "1993",
+   "title": "Bibliografía sobre la aplicación de la informática en arqueología",
+   "series": "Cuadernos del Instituto Aragonés de Arqueología",
+   "series_number": "3",
+   "place": "Teruel",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Barceló J.A., Briz I., Vila A. (eds.) 1999, New Techniques for Old Times. CAA98 Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 26<sup>th</sup> Conference (Barcelona 1998), BAR International Series 757, Oxford, Archaeopress.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "New Techniques for Old Times. CAA98 Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 26th Conference (Barcelona 1998)",
+   "series": "BAR International Series",
+   "series_number": "757",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Boardman J., Kurtz D. (eds.) 1993, International Conference on Data and Image Processing in Classical Archaeology (Ravello 1992), «Archeologia e Calcolatori», 4.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Boardman",
+     "given": "J."
+    },
+    {
+     "family": "Kurtz",
+     "given": "D."
+    }
+   ],
+   "date": "1993",
+   "title": "International Conference on Data and Image Processing in Classical Archaeology (Ravello 1992)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "language": "eng",
+   "notes": "whole AeC volume 4",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Cowgill G.L. 1967, Computer Applications in Archaeology, «Computers and the Humanities», 2, 1, 17-23.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cowgill",
+     "given": "G.L."
+    }
+   ],
+   "date": "1967",
+   "title": "Computer Applications in Archaeology",
+   "is_part_of": [
+    "Computers and the Humanities"
+   ],
+   "volume": "2",
+   "issue": "1",
+   "pages": "17-23",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Cristofani M., Francovich R. 1990, Editoriale, «Archeologia e Calcolatori», 1, 7-8.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cristofani",
+     "given": "M."
+    },
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "1990",
+   "title": "Editoriale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "7-8",
+   "language": "ita",
+   "notes": "find_aec: not in the metadata (editorial)",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "D’Andrea A., Niccolucci F. (eds.) 2000, I Workshop Nazionale di Archeologia Computazionale (Napoli-Firenze 1999), «Archeologia e Calcolatori», 11.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "I Workshop Nazionale di Archeologia Computazionale (Napoli-Firenze 1999)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "language": "ita",
+   "notes": "whole AeC volume 11",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Djindjian F. (ed.) 1990, Archéologie, «Histoire et Mesure», 5, 1-2.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1990",
+   "title": "Archéologie",
+   "is_part_of": [
+    "Histoire et Mesure"
+   ],
+   "volume": "5",
+   "issue": "1-2",
+   "language": "fre",
+   "notes": "whole journal issue",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Djindjian F. 1991, Méthodes pour l’archéologie, Paris, Armand Colin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Méthodes pour l'archéologie",
+   "publisher": "Armand Colin",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Djindjian F., Ducasse H. 1983, Réflexions à l’issue du Cours Intensif Européen Informatique et mathématiques appliquées à l’archéologie, «Archéologues et Ordinateurs», 4, 21-22.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Ducasse",
+     "given": "H."
+    }
+   ],
+   "date": "1983",
+   "title": "Réflexions à l'issue du Cours Intensif Européen Informatique et mathématiques appliquées à l'archéologie",
+   "is_part_of": [
+    "Archéologues et Ordinateurs"
+   ],
+   "volume": "4",
+   "pages": "21-22",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Djindjian F., Ducasse H. (eds.) 1987, Data Processing and Mathematics Applied to Archaeology/Mathématiques et Informatique appliquées à l’archéologie, «PACT», 16.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Ducasse",
+     "given": "H."
+    }
+   ],
+   "date": "1987",
+   "title": "Data Processing and Mathematics Applied to Archaeology/Mathématiques et Informatique appliquées à l'archéologie",
+   "series": "Pact",
+   "series_number": "16",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Djindjian F., Moscati P. (eds.) 2002, XIV UISPP Congress (Liège 2001). Proceedings of Commission IV Symposia. Data Management and Mathematical Methods in Archaeology, «Archeologia e Calcolatori», 13.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2002",
+   "title": "XIV UISPP Congress (Liège 2001). Proceedings of Commission IV Symposia. Data Management and Mathematical Methods in Archaeology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "language": "eng",
+   "notes": "whole AeC volume 13",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Djindjian F., Noizet H., Costa L., Pouget F. (eds.) 2008, Webmapping dans les sciences historiques & archéologiques. Actes du Colloque international (Paris 2008), «Archeologia e Calcolatori», 19.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    },
+    {
+     "family": "Noizet",
+     "given": "H."
+    },
+    {
+     "family": "Costa",
+     "given": "L."
+    },
+    {
+     "family": "Pouget",
+     "given": "F."
+    }
+   ],
+   "date": "2008",
+   "title": "Webmapping dans les sciences historiques & archéologiques. Actes du Colloque international (Paris 2008)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "19",
+   "language": "fre",
+   "notes": "whole AeC volume 19",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Gardin J.-C. (ed.) 1970, Archéologie et calculateurs: problèmes sémiologiques et mathématiques. Actes du Colloque International (Marseille 1969), Paris, CNRS.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1970",
+   "title": "Archéologie et calculateurs: problèmes sémiologiques et mathématiques. Actes du Colloque International (Marseille 1969)",
+   "publisher": "CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Gardin J.-C. 1991, Le calcul et la raison. Essais sur la formalisation du discours savant, Paris, CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1991",
+   "title": "Le calcul et la raison. Essais sur la formalisation du discours savant",
+   "publisher": "CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Gob A. 1984, Constitution, à l’Université de Liège, d’un groupe pour la diffusion de l’Informatique en archéologie et en préhistoire, «Revue Informatique et Statistique dans les Sciences humaines», 20, 1984, 233-234 (http://promethee.philo.ulg.ac.be/RISSHpdf/annee1984/Notes/AGob.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gob",
+     "given": "A."
+    }
+   ],
+   "date": "1984",
+   "title": "Constitution, à l'Université de Liège, d'un groupe pour la diffusion de l'Informatique en archéologie et en préhistoire",
+   "is_part_of": [
+    "Revue Informatique et Statistique dans les Sciences humaines"
+   ],
+   "volume": "20",
+   "pages": "233-234",
+   "uri": "http://promethee.philo.ulg.ac.be/RISSHpdf/annee1984/Notes/AGob.pdf",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Johnson J.C. 1989, Editorial, «Journal of Quantitative Anthropology», 1, V.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Johnson",
+     "given": "J.C."
+    }
+   ],
+   "date": "1989",
+   "title": "Editorial",
+   "is_part_of": [
+    "Journal of Quantitative Anthropology"
+   ],
+   "volume": "1",
+   "pages": "V",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Moscati P. 1990, “Archeologia e Calcolatori”. Una nuova rivista per gli studi sull’età storica, «Centro di elaborazione automatica di dati e documenti storico artistici. Bollettino d’informazioni», 11, 181-198.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1990",
+   "title": "\"Archeologia e Calcolatori\". Una nuova rivista per gli studi sull'età storica",
+   "is_part_of": [
+    "Centro di elaborazione automatica di dati e documenti storico artistici. Bollettino d'informazioni"
+   ],
+   "volume": "11",
+   "pages": "181-198",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Moscati P. (ed.) 1996, III International Symposium on Computing and Archaeology (Roma 1995), «Archeologia e Calcolatori», 7.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1996",
+   "title": "III International Symposium on Computing and Archaeology (Roma 1995)",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "language": "eng",
+   "notes": "whole AeC volume 7 (monographic issue, see skill)",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Moscati P. 1999, “Archeologia e Calcolatori”: dieci anni di contributi all’informatica archeologica, «Archeologia e Calcolatori», 10, 343-352.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1999",
+   "title": "\"Archeologia e Calcolatori\": dieci anni di contributi all'informatica archeologica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "343-352",
+   "language": "ita",
+   "cited_aec_id": 284,
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Moscati P. 2002, Archeologia e informatica: fra tradizione e rinnovamento, «Bollettino ICR», n.s. 5, 21-27.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2002",
+   "title": "Archeologia e informatica: fra tradizione e rinnovamento",
+   "is_part_of": [
+    "Bollettino ICR"
+   ],
+   "volume": "n.s. 5",
+   "pages": "21-27",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Moscati P. 2009, Archeologia e società dell’informazione, in XXI Secolo, Vol. I, Roma, Istituto della Enciclopedia Italiana Treccani, 621-630.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Archeologia e società dell'informazione",
+   "is_part_of": [
+    "XXI Secolo, Vol. I"
+   ],
+   "pages": "621-630",
+   "publisher": "Istituto della Enciclopedia Italiana Treccani",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Scardozzi G. (ed.) 2007, Il Mediterraneo antico e medievale come luogo di incontro tra Oriente e Occidente, Nord e Sud. Atti della Giornata di studio sul tema “GIS e applicazioni informatiche alle ricerche archeologiche e storiche” (Roma 2007), «Archeologia e Calcolatori», 18.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "Il Mediterraneo antico e medievale come luogo di incontro tra Oriente e Occidente, Nord e Sud. Atti della Giornata di studio sul tema \"GIS e applicazioni informatiche alle ricerche archeologiche e storiche\" (Roma 2007)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "18",
+   "language": "ita",
+   "notes": "whole AeC volume 18",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Valdés L., Arenal L., Pujana I. (eds.) 1995, Aplicaciones Informáticas en Arqueología: Teorías y Sistemas (Saint-Germain-en-Laye 1991, Bilbao 1993), Bilbao, Denboraren Argia.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Valdés",
+     "given": "L."
+    },
+    {
+     "family": "Arenal",
+     "given": "L."
+    },
+    {
+     "family": "Pujana",
+     "given": "I."
+    }
+   ],
+   "date": "1995",
+   "title": "Aplicaciones Informáticas en Arqueología: Teorías y Sistemas (Saint-Germain-en-Laye 1991, Bilbao 1993)",
+   "publisher": "Denboraren Argia",
+   "place": "Bilbao",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Whallon R. 1972, The computer in archaeology: A critical survey, «Computers and the Humanities», 7, 1, 29-45.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Whallon",
+     "given": "R."
+    }
+   ],
+   "date": "1972",
+   "title": "The computer in archaeology: A critical survey",
+   "is_part_of": [
+    "Computers and the Humanities"
+   ],
+   "volume": "7",
+   "issue": "1",
+   "pages": "29-45",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

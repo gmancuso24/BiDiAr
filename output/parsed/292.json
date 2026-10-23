@@ -1,0 +1,56 @@
+{
+ "citing_aec_id": 292,
+ "source_file": "data/journal/11/292.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "LINEE GUIDA CARTA ARCHEOLOGICA 1998, Linee guida per la redazione della Carta Archeologica della Toscana. Versione del 11/9/1998, Firenze, Regione Toscana.",
+   "type": "other",
+   "date": "1998",
+   "title": "Linee guida per la redazione della Carta Archeologica della Toscana. Versione del 11/9/1998",
+   "publisher": "Regione Toscana",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "cited as LINEE GUIDA CARTA ARCHEOLOGICA 1998; no personal author"
+  },
+  {
+   "position": 2,
+   "raw": "VALENTI M. 1998a, La gestione informatica del dato; percorsi ed evoluzioni nell’attività della cattedra di Archeologia Medievale del Dipartimento di Archeologia e Storia delle Arti-Sezione Archeologica dell’Università di Siena, «Archeologia e Calcolatori», 9, 305-329.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "La gestione informatica del dato; percorsi ed evoluzioni nell’attività della cattedra di Archeologia Medievale del Dipartimento di Archeologia e Storia delle Arti-Sezione Archeologica dell’Università di Siena",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "305-329",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "VALENTI M. 1998b, Computer Science and the management of an archaeological excavation: The Poggio Imperiale Project, «Archaeological Computing Newsletter», 50 (Spring), 13-20.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Computer Science and the management of an archaeological excavation: The Poggio Imperiale Project",
+   "is_part_of": [
+    "Archaeological Computing Newsletter"
+   ],
+   "volume": "50",
+   "pages": "13-20",
+   "language": "eng",
+   "notes": "\"50 (Spring)\""
+  }
+ ]
+}

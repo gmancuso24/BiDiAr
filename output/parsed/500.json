@@ -1,0 +1,214 @@
+{
+ "citing_aec_id": 500,
+ "source_file": "data/journal/20/500.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Atzeni P., Batini C., De Antonellis V. 1983, La teoria relazionale dei dati, Torino, Boringhieri.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Atzeni",
+     "given": "P."
+    },
+    {
+     "family": "Batini",
+     "given": "C."
+    },
+    {
+     "family": "De Antonellis",
+     "given": "V."
+    }
+   ],
+   "date": "1983",
+   "title": "La teoria relazionale dei dati",
+   "publisher": "Boringhieri",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Borillo M. 1984, Informatique pour les Sciences de l’Homme. Limites de la formalisation du raisonnement, Bruxelles, Pierre Mardaga (http://www.irit.fr/recherches/LILAC/Pers/Borillo/).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Borillo",
+     "given": "M."
+    }
+   ],
+   "date": "1984",
+   "title": "Informatique pour les Sciences de l'Homme. Limites de la formalisation du raisonnement",
+   "publisher": "Pierre Mardaga",
+   "place": "Bruxelles",
+   "uri": "http://www.irit.fr/recherches/LILAC/Pers/Borillo/",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Gardin J.-Cl. 1976, Code pour l’analyse des formes de poteries, établi en 1956, revisé en 1974, Paris, CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-Cl."
+    }
+   ],
+   "date": "1976",
+   "title": "Code pour l'analyse des formes de poteries, établi en 1956, revisé en 1974",
+   "publisher": "CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Gardin J.-Cl. 1980, Archaeological Constructs. An Aspect of Theoretical Archaeology, Cambridge-Paris, Cambridge University Press-Editions de la Maison des Sciences de l’Homme.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-Cl."
+    }
+   ],
+   "date": "1980",
+   "title": "Archaeological Constructs. An Aspect of Theoretical Archaeology",
+   "publisher": "Cambridge University Press-Editions de la Maison des Sciences de l'Homme",
+   "place": "Cambridge-Paris",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Gardin J.-Cl. 1991, Le calcul et la raison. Essais sur la formalisation du discours savant, Paris, Editions de l’Ecole des Hautes Etudes en Sciences Sociales.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-Cl."
+    }
+   ],
+   "date": "1991",
+   "title": "Le calcul et la raison. Essais sur la formalisation du discours savant",
+   "publisher": "Editions de l'Ecole des Hautes Etudes en Sciences Sociales",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Guimier-Sorbets A.-M. 1990, Les bases de données en archéologie. Conception et mise en œuvre, Paris, CNRS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "date": "1990",
+   "title": "Les bases de données en archéologie. Conception et mise en œuvre",
+   "publisher": "CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Igartua J.E. 1991, The Computer and the Historian’s Work, «History and Computing», 3, 73-83.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Igartua",
+     "given": "J.E."
+    }
+   ],
+   "date": "1991",
+   "title": "The Computer and the Historian's Work",
+   "is_part_of": [
+    "History and Computing"
+   ],
+   "volume": "3",
+   "pages": "73-83",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Lancashire I. (ed.) 1988, 1991, The Humanities Computing Yearbook 1988; 1989-90. A Comprehensive Guide to Software and Other Resources, Oxford, Clarendon Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Lancashire",
+     "given": "I."
+    }
+   ],
+   "date": "1988",
+   "title": "The Humanities Computing Yearbook 1988; 1989-90. A Comprehensive Guide to Software and Other Resources",
+   "publisher": "Clarendon Press",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "cited as '1988, 1991' (two yearbooks in one line); first year kept",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Moscati P. 1987, Archeologia e calcolatori, Firenze, Giunti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Archeologia e calcolatori",
+   "publisher": "Giunti",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Orlandi T. 2002, Is Humanities Computing a Discipline?, «Jahrbuch für Computerphilologie», 4, 51-58.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "2002",
+   "title": "Is Humanities Computing a Discipline?",
+   "is_part_of": [
+    "Jahrbuch für Computerphilologie"
+   ],
+   "volume": "4",
+   "pages": "51-58",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Orlandi T. c.s., Un ultimo bilancio dell’informatica umanistica, in Elaborare il sapere nell’era digitale. Atti del Convegno (Montevarchi 2007), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Un ultimo bilancio dell'informatica umanistica",
+   "is_part_of": [
+    "Elaborare il sapere nell'era digitale. Atti del Convegno (Montevarchi 2007)"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title (2 web searches): no publication found",
+   "confidence": "high"
+  }
+ ]
+}

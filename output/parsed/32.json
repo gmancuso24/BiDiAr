@@ -1,0 +1,106 @@
+{
+ "citing_aec_id": 32,
+ "source_file": "data/journal/2/32.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BARKER P. 1982, Techniques of Archaeology Excavation, London, B. T. Batsford.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barker",
+     "given": "P."
+    }
+   ],
+   "date": "1982",
+   "title": "Techniques of Archaeology Excavation",
+   "place": "London",
+   "publisher": "B.T. Batsford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "BISHOP S., WILCOCK J. 1976, Archaeological Context Sorting by Computer: The Strata Program, «Science and Archaeology», 17, 3-12.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bishop",
+     "given": "S."
+    },
+    {
+     "family": "Wilcock",
+     "given": "J."
+    }
+   ],
+   "date": "1976",
+   "title": "Archaeological Context Sorting by Computer: The Strata Program",
+   "is_part_of": [
+    "Science and Archaeology"
+   ],
+   "volume": "17",
+   "pages": "3-12",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "GRACE R., ORTON C. 1989, Hypercard as a teaching tool, in Computer Applications in Archaeology, Oxford, British Archaeological Reports.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Grace",
+     "given": "R."
+    },
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "date": "1989",
+   "title": "Hypercard as a teaching tool",
+   "is_part_of": [
+    "Computer Applications in Archaeology"
+   ],
+   "publisher": "British Archaeological Reports",
+   "place": "Oxford",
+   "notes": "editors not cited",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "HARRINGTON J. L. 1988, Relational Database Management for Microcomputers: Design and Implementation, New York, Holt, Rinehart and Winston.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Harrington",
+     "given": "J.L."
+    }
+   ],
+   "date": "1988",
+   "title": "Relational Database Management for Microcomputers: Design and Implementation",
+   "place": "New York",
+   "publisher": "Holt, Rinehart and Winston",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "HARRIS E. 1989, Principles of Archaeological Stratigraphy, London, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "E."
+    }
+   ],
+   "date": "1989",
+   "title": "Principles of Archaeological Stratigraphy",
+   "place": "London",
+   "publisher": "Academic Press",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,698 @@
+{
+ "citing_aec_id": 120,
+ "source_file": "data/journal/6/120.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV. 1978, La difesa del patrimonio artistico, Milano, Touring Club.",
+   "type": "book",
+   "date": "1978",
+   "title": "La difesa del patrimonio artistico",
+   "place": "Milano",
+   "publisher": "Touring Club",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "AA.VV. 1986, Le mura e gli archi: valorizzazione del patrimonio storico-artistico e nuovo modello di sviluppo, Roma.",
+   "type": "book",
+   "date": "1986",
+   "title": "Le mura e gli archi: valorizzazione del patrimonio storico-artistico e nuovo modello di sviluppo",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "ANCESCHI G. (ed.) 1993, Il progetto delle interfacce. Oggetti colloquiali e protesi virtuali, Milano, Domus Academy Edizioni.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Anceschi",
+     "given": "G."
+    }
+   ],
+   "date": "1993",
+   "title": "Il progetto delle interfacce. Oggetti colloquiali e protesi virtuali",
+   "place": "Milano",
+   "publisher": "Domus Academy Edizioni",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "BEARMAN D. 1991, Hypermedia and Interactivity in Museums, in Proceedings of the International Conference Archives and Museums Information, Pittsburgh 1991.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bearman",
+     "given": "D."
+    }
+   ],
+   "date": "1991",
+   "title": "Hypermedia and Interactivity in Museums",
+   "is_part_of": [
+    "Proceedings of the International Conference Archives and Museums Information, Pittsburgh 1991"
+   ],
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BOOTH B. 1991, Information Technology at the National Museum of Science and Industry, «Archeological Computing Newsletter», 28, 1-4.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Booth",
+     "given": "B."
+    }
+   ],
+   "date": "1991",
+   "title": "Information Technology at the National Museum of Science and Industry",
+   "is_part_of": [
+    "Archeological Computing Newsletter"
+   ],
+   "volume": "28",
+   "pages": "1-4",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "BUCCHETTI V. 1994, Coordinare l’interfaccia, «Linea Grafica», settembre, 14-19.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bucchetti",
+     "given": "V."
+    }
+   ],
+   "date": "1994",
+   "title": "Coordinare l’interfaccia",
+   "is_part_of": [
+    "Linea Grafica"
+   ],
+   "pages": "14-19",
+   "issue": "settembre",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "CALIDONI M. 1988, Città, scuola e beni culturali, «Informazioni IBC», 1-2, 46-47.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Calidoni",
+     "given": "M."
+    }
+   ],
+   "date": "1988",
+   "title": "Città, scuola e beni culturali",
+   "is_part_of": [
+    "Informazioni IBC"
+   ],
+   "pages": "46-47",
+   "issue": "1-2",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "CALIDONI M. 1990, Scuola e beni culturali e ambientali, «l’Ippogrifo», 3, 285-298.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Calidoni",
+     "given": "M."
+    }
+   ],
+   "date": "1990",
+   "title": "Scuola e beni culturali e ambientali",
+   "is_part_of": [
+    "l’Ippogrifo"
+   ],
+   "volume": "3",
+   "pages": "285-298",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "CALVANI A. 1992, Le nuove tecnologie dell’informazione nella didattica della storia: come servirsi degli ipertesti, in Abstracts VII International Congress, Association for History and Computing, (Bologna 29 agosto-2 settembre 1992), Bologna, Grafis, 154-155.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Calvani",
+     "given": "A."
+    }
+   ],
+   "date": "1992",
+   "title": "Le nuove tecnologie dell’informazione nella didattica della storia: come servirsi degli ipertesti",
+   "is_part_of": [
+    "Abstracts VII International Congress, Association for History and Computing, (Bologna 29 agosto-2 settembre 1992)"
+   ],
+   "place": "Bologna",
+   "publisher": "Grafis",
+   "pages": "154-155",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "CAGNAZZO M.R., ORTALDA F. 1991, Gli ipertesti nella didattica e nella ricerca, in Atti del Convegno Torino 1991, Torino, CSI Piemonte.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cagnazzo",
+     "given": "M.R."
+    },
+    {
+     "family": "Ortalda",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Gli ipertesti nella didattica e nella ricerca",
+   "is_part_of": [
+    "Atti del Convegno Torino 1991"
+   ],
+   "place": "Torino",
+   "publisher": "CSI Piemonte",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "EMILIANI A. 1974, Una politica dei beni culturali, Torino, Einaudi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Emiliani",
+     "given": "A."
+    }
+   ],
+   "date": "1974",
+   "title": "Una politica dei beni culturali",
+   "place": "Torino",
+   "publisher": "Einaudi",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "FEENEY M., ROSS S. (ed.) 1993, Information Technology in Humanities Scholarship, British Achievements, Prospects and Barriers, London, The British Library.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Feeney",
+     "given": "M."
+    },
+    {
+     "family": "Ross",
+     "given": "S."
+    }
+   ],
+   "date": "1993",
+   "title": "Information Technology in Humanities Scholarship, British Achievements, Prospects and Barriers",
+   "place": "London",
+   "publisher": "The British Library",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "ELLIS M. 1991, Microcomputers at the National Gallery, «Museum Development», August, 26-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ellis",
+     "given": "M."
+    }
+   ],
+   "date": "1991",
+   "title": "Microcomputers at the National Gallery",
+   "is_part_of": [
+    "Museum Development"
+   ],
+   "pages": "26-30",
+   "issue": "August",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "FRANCHI DELL’ORTO L. 1989, “Consorzio Neapolis”. Studi in margine ad un sistema informatico pilota per i beni culturali, «Rivista di Studi Pompeiani», 3, 69-77.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Franchi Dell’Orto",
+     "given": "L."
+    }
+   ],
+   "date": "1989",
+   "title": "Consorzio Neapolis. Studi in margine ad un sistema informatico pilota per i beni culturali",
+   "is_part_of": [
+    "Rivista di Studi Pompeiani"
+   ],
+   "volume": "3",
+   "pages": "69-77",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "GIULIANO A. 1966, Urbanistica delle città greche, Milano, Il Saggiatore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Giuliano",
+     "given": "A."
+    }
+   ],
+   "date": "1966",
+   "title": "Urbanistica delle città greche",
+   "place": "Milano",
+   "publisher": "Il Saggiatore",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "GUERMANDI M.P. 1992, Musei e informatica: la favola di Cenerentola e del Principe Azzurro, in S. SANTORO BIANCHI (ed.), Un secolo di Archeologia: dall’album all’informatica, Catalogo della mostra, Bologna, Edizioni Age, 264-272.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Santoro Bianchi",
+     "given": "S."
+    }
+   ],
+   "date": "1992",
+   "title": "Musei e informatica: la favola di Cenerentola e del Principe Azzurro",
+   "is_part_of": [
+    "Un secolo di Archeologia: dall’album all’informatica, Catalogo della mostra"
+   ],
+   "place": "Bologna",
+   "publisher": "Edizioni Age",
+   "pages": "264-272",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "MAFFEI S., TARCHI R., SIGNORE O. 1990, TURMS: una guida ipertestuale dei beni culturali nell’area grossetana, «Bollettino d’Informazioni», Scuola Normale Superiore di Pisa, 11, 2, 7-78.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Maffei",
+     "given": "S."
+    },
+    {
+     "family": "Tarchi",
+     "given": "R."
+    },
+    {
+     "family": "Signore",
+     "given": "O."
+    }
+   ],
+   "date": "1990",
+   "title": "TURMS: una guida ipertestuale dei beni culturali nell’area grossetana",
+   "is_part_of": [
+    "Bollettino d’Informazioni"
+   ],
+   "volume": "11",
+   "pages": "7-78",
+   "issue": "2",
+   "publisher": "Scuola Normale Superiore di Pisa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "MANSUELLI G.A. 1971, Urbanistica e architettura nell’Italia settentrionale, Bruxelles, Latomus.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mansuelli",
+     "given": "G.A."
+    }
+   ],
+   "date": "1971",
+   "title": "Urbanistica e architettura nell’Italia settentrionale",
+   "place": "Bruxelles",
+   "publisher": "Latomus",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "MARINI CALVANI M. 1978, Parma nell’antichità, in Parma. La città storica, Parma, Artegrafica Silva.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Marini Calvani",
+     "given": "M."
+    }
+   ],
+   "date": "1978",
+   "title": "Parma nell’antichità",
+   "is_part_of": [
+    "Parma. La città storica"
+   ],
+   "place": "Parma",
+   "publisher": "Artegrafica Silva",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "MARINI D., PRAMPOLINI F., ROMANATO G., TURTUR A. 1990, Sistemi ipertestuali e ipermediali: panoramica. Problematiche e applicazioni, «Note di Informatica - IBM», 24, 34-45.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Marini",
+     "given": "D."
+    },
+    {
+     "family": "Prampolini",
+     "given": "F."
+    },
+    {
+     "family": "Romanato",
+     "given": "G."
+    },
+    {
+     "family": "Turtur",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "Sistemi ipertestuali e ipermediali: panoramica. Problematiche e applicazioni",
+   "is_part_of": [
+    "Note di Informatica - IBM"
+   ],
+   "volume": "24",
+   "pages": "34-45",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Modena 1989, Modena dalle origini all’anno Mille, Catalogo della mostra, Modena, Panini.",
+   "type": "book",
+   "date": "1989",
+   "title": "Modena dalle origini all’anno Mille. Catalogo della mostra",
+   "place": "Modena",
+   "publisher": "Panini",
+   "notes": "cited \"Modena 1989\"",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Memorabilia 1987, Memorabilia: il futuro della memoria, Bari, Laterza.",
+   "type": "book",
+   "date": "1987",
+   "title": "Memorabilia: il futuro della memoria",
+   "place": "Bari",
+   "publisher": "Laterza",
+   "notes": "cited \"Memorabilia 1987\"",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "ORTALLI J. 1994, L’assetto urbanistico e viario di Forum Corneli e del suo territorio, in AA.VV., Archeologia del territorio nell’Imolese, Catalogo della mostra, Imola, Grafiche Galeati, 65-70.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ortalli",
+     "given": "J."
+    }
+   ],
+   "date": "1994",
+   "title": "L’assetto urbanistico e viario di Forum Corneli e del suo territorio",
+   "is_part_of": [
+    "Archeologia del territorio nell’Imolese, Catalogo della mostra"
+   ],
+   "place": "Imola",
+   "publisher": "Grafiche Galeati",
+   "pages": "65-70",
+   "notes": "cited \"in AA.VV.\"",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "PAGLIANI M.L. 1991, Piacenza. Forma e urbanistica, Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pagliani",
+     "given": "M.L."
+    }
+   ],
+   "date": "1991",
+   "title": "Piacenza. Forma e urbanistica",
+   "place": "Roma",
+   "publisher": "L’Erma di Bretschneider",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "PAGLIANI M.L. 1992, Beni culturali: didattica al computer, «Archeologia e Calcolatori», 3, 199-206.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pagliani",
+     "given": "M.L."
+    }
+   ],
+   "date": "1992",
+   "title": "Beni culturali: didattica al computer",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "3",
+   "pages": "199-206",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "PAGLIANI M.L. 1993a, A scuola di beni culturali, «Ecole», V, 15, 35.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pagliani",
+     "given": "M.L."
+    }
+   ],
+   "date": "1993",
+   "title": "A scuola di beni culturali",
+   "is_part_of": [
+    "Ecole"
+   ],
+   "volume": "V",
+   "pages": "35",
+   "issue": "15",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "PAGLIANI M.L. 1993b, Computer dietro la lavagna, «Informazioni IBC», n.s., I, 4, 19-20.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pagliani",
+     "given": "M.L."
+    }
+   ],
+   "date": "1993",
+   "title": "Computer dietro la lavagna",
+   "is_part_of": [
+    "Informazioni IBC"
+   ],
+   "volume": "n.s. I",
+   "pages": "19-20",
+   "issue": "4",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "PANZERI P. 1990, Didattica museale in Italia. Rassegna di Bibliografia, Roma, Fratelli Palombi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Panzeri",
+     "given": "P."
+    }
+   ],
+   "date": "1990",
+   "title": "Didattica museale in Italia. Rassegna di Bibliografia",
+   "place": "Roma",
+   "publisher": "Fratelli Palombi",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "PEIRSON JONES J. 1990, Interactive video and the Gallery 33 project, «Museum development», June, 10-18.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peirson Jones",
+     "given": "J."
+    }
+   ],
+   "date": "1990",
+   "title": "Interactive video and the Gallery 33 project",
+   "is_part_of": [
+    "Museum development"
+   ],
+   "pages": "10-18",
+   "issue": "June",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "POLDI ALLAI P. (ed.) 1991, Pedagogie del Museo, Genova, Sagep.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Poldi Allai",
+     "given": "P."
+    }
+   ],
+   "date": "1991",
+   "title": "Pedagogie del Museo",
+   "place": "Genova",
+   "publisher": "Sagep",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "REILLY P. 1992, Rediscovering Pompei: a virtual museum and electronic archive for the 1990s, «Archaeological Computing Newsletter», 30, 15-16.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Reilly",
+     "given": "P."
+    }
+   ],
+   "date": "1992",
+   "title": "Rediscovering Pompei: a virtual museum and electronic archive for the 1990s",
+   "is_part_of": [
+    "Archaeological Computing Newsletter"
+   ],
+   "volume": "30",
+   "pages": "15-16",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "SCHIATTARELLA F. 1990, Sistemi multimediali: stato dell’arte e prospettive, «Note di informatica-IBM», 24, 24-33.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schiattarella",
+     "given": "F."
+    }
+   ],
+   "date": "1990",
+   "title": "Sistemi multimediali: stato dell’arte e prospettive",
+   "is_part_of": [
+    "Note di informatica-IBM"
+   ],
+   "volume": "24",
+   "pages": "24-33",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "TIBILETTI G. 1968, La struttura topografica antica di Pavia, in Atti Convegno di Studio sul Centro Storico di Pavia (Pavia 1964), Pavia, 205-222.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tibiletti",
+     "given": "G."
+    }
+   ],
+   "date": "1968",
+   "title": "La struttura topografica antica di Pavia",
+   "is_part_of": [
+    "Atti Convegno di Studio sul Centro Storico di Pavia (Pavia 1964)"
+   ],
+   "place": "Pavia",
+   "pages": "205-222",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "TOZZI P. 1972, Cremona e il suo territorio in età romana, in Storia Padana Antica, Milano, Casa Editrice Ceschina, 9-51.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tozzi",
+     "given": "P."
+    }
+   ],
+   "date": "1972",
+   "title": "Cremona e il suo territorio in età romana",
+   "is_part_of": [
+    "Storia Padana Antica"
+   ],
+   "place": "Milano",
+   "publisher": "Casa Editrice Ceschina",
+   "pages": "9-51",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "VALLI P., TASCIO M. 1992, Il supporto informatico nel contesto museale, in M. SALVATORE (ed.), Il Museo Archeologico di Venosa, Matera, 69-71.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Valli",
+     "given": "P."
+    },
+    {
+     "family": "Tascio",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Salvatore",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Il supporto informatico nel contesto museale",
+   "is_part_of": [
+    "Il Museo Archeologico di Venosa"
+   ],
+   "place": "Matera",
+   "pages": "69-71",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,713 @@
+{
+ "citing_aec_id": 1195,
+ "source_file": "data/journal/33/1195.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Akerraz A., Camporeale S., Papi E. (eds.) 2013, *Sidi Ali ben Ahmed - Thamusida, 3. I materiali*, Roma, Quasar.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Akerraz",
+     "given": "A."
+    },
+    {
+     "family": "Camporeale",
+     "given": "S."
+    },
+    {
+     "family": "Papi",
+     "given": "E."
+    }
+   ],
+   "date": "2013",
+   "title": "Sidi Ali ben Ahmed - Thamusida, 3. I materiali",
+   "language": "ita",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Akerraz A., Papi E. (eds.) 2008, *Sidi Ali ben Ahmed - Thamusida, 1. I contesti*, Roma, Quasar.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Akerraz",
+     "given": "A."
+    },
+    {
+     "family": "Papi",
+     "given": "E."
+    }
+   ],
+   "date": "2008",
+   "title": "Sidi Ali ben Ahmed - Thamusida, 1. I contesti",
+   "language": "ita",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Ammar H. 2008, *A propos du nymphée de Sala*, in J. González, P. Ruggeri, C. Vismara, R. Zucca (eds.), *L'Africa romana. Le richezze dell'Africa. Risorse, produzioni, scambi. Atti del XVII Convegno di studio (Sevilla 2006)*, Roma, Carocci, 559-569.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ammar",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "González",
+     "given": "J."
+    },
+    {
+     "family": "Ruggeri",
+     "given": "P."
+    },
+    {
+     "family": "Vismara",
+     "given": "C."
+    },
+    {
+     "family": "Zucca",
+     "given": "R."
+    }
+   ],
+   "date": "2008",
+   "title": "A propos du nymphée de Sala",
+   "is_part_of": [
+    "L'Africa romana. Le richezze dell'Africa. Risorse, produzioni, scambi. Atti del XVII Convegno di studio (Sevilla 2006)"
+   ],
+   "language": "fre",
+   "pages": "559-569",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Balty J.C. 1991, *Curia Ordinis. Recherches d'architecture et d'urbanisme antiques sur les curies provinciales du monde romain*, Bruxelles, Académie Royale de Belgique.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Balty",
+     "given": "J.C."
+    }
+   ],
+   "date": "1991",
+   "title": "Curia Ordinis. Recherches d'architecture et d'urbanisme antiques sur les curies provinciales du monde romain",
+   "language": "fre",
+   "publisher": "Académie Royale de Belgique",
+   "place": "Bruxelles",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bekkari M. 1968-1972, *L'archéologie marocaine en 1968 et 1969*, «Bulletin d'Archéologie Marocaine», 8, 241-248.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bekkari",
+     "given": "M."
+    }
+   ],
+   "date": "1968",
+   "title": "L'archéologie marocaine en 1968 et 1969",
+   "is_part_of": [
+    "Bulletin d'Archéologie Marocaine"
+   ],
+   "language": "fre",
+   "volume": "8",
+   "pages": "241-248",
+   "notes": "cited 1968-1972",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Boube J. 1962, *Découvertes récentes à Sala Colonia (Chellah)*, «Bulletin archéologique du Comité des travaux historiques et scientifiques», 141-145.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Boube",
+     "given": "J."
+    }
+   ],
+   "date": "1962",
+   "title": "Découvertes récentes à Sala Colonia (Chellah)",
+   "is_part_of": [
+    "Bulletin archéologique du Comité des travaux historiques et scientifiques"
+   ],
+   "language": "fre",
+   "pages": "141-145",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Boube J. 1966, *Fouilles archéologiques à Sala*, «Hespéris-Tamuda», 7, 23-32.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Boube",
+     "given": "J."
+    }
+   ],
+   "date": "1966",
+   "title": "Fouilles archéologiques à Sala",
+   "is_part_of": [
+    "Hespéris-Tamuda"
+   ],
+   "language": "fre",
+   "volume": "7",
+   "pages": "23-32",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Boube J. 1967, *Documents d'architecture Mauretanienne au Maroc*, «Bulletin d'Archéologie Marocaine», 7, 263-367.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Boube",
+     "given": "J."
+    }
+   ],
+   "date": "1967",
+   "title": "Documents d'architecture Mauretanienne au Maroc",
+   "is_part_of": [
+    "Bulletin d'Archéologie Marocaine"
+   ],
+   "language": "fre",
+   "volume": "7",
+   "pages": "263-367",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Boube J. 1977, *Sala III, Les nécropoles, planches.*, Villes et sites archéologiques du Maroc (VESAM), ed. 1, Rabat, Musée des Antiquités.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Boube",
+     "given": "J."
+    }
+   ],
+   "date": "1977",
+   "title": "Sala III, Les nécropoles, planches",
+   "language": "fre",
+   "series": "Villes et sites archéologiques du Maroc (VESAM)",
+   "publisher": "Musée des Antiquités",
+   "place": "Rabat",
+   "notes": "cited 'ed. 1' after the series: not read as an edition or a series number",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Boube J. 1990, *La dédicace du Capitole de Sala (Maroc) et la base honorifique de C. Hosidius Severus*, «Mélanges de l'École Française de Rome. Antiquité», 102, 213-246.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Boube",
+     "given": "J."
+    }
+   ],
+   "date": "1990",
+   "title": "La dédicace du Capitole de Sala (Maroc) et la base honorifique de C. Hosidius Severus",
+   "is_part_of": [
+    "Mélanges de l'École Française de Rome. Antiquité"
+   ],
+   "language": "fre",
+   "volume": "102",
+   "pages": "213-246",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Boube J. 1997, *Sala*, in *Enciclopedia dell'Arte Antica*, II Suppl. (1971-1994), Roma, Istituto dell'Enciclopedia Italiana, 62-64.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Boube",
+     "given": "J."
+    }
+   ],
+   "date": "1997",
+   "title": "Sala",
+   "is_part_of": [
+    "Enciclopedia dell'Arte Antica, II Suppl. (1971-1994)"
+   ],
+   "language": "ita",
+   "pages": "62-64",
+   "publisher": "Istituto dell'Enciclopedia Italiana",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Boube J. 1999, *Les nécropoles de Sala*, Paris, Éditions Recherche sur les Civilisations.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Boube",
+     "given": "J."
+    }
+   ],
+   "date": "1999",
+   "title": "Les nécropoles de Sala",
+   "language": "fre",
+   "publisher": "Éditions Recherche sur les Civilisations",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Carcopino J. 1943, *Le Maroc antique*, Paris, Librairie Gallimard.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carcopino",
+     "given": "J."
+    }
+   ],
+   "date": "1943",
+   "title": "Le Maroc antique",
+   "language": "fre",
+   "publisher": "Librairie Gallimard",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Chatelain L. 1930a, *Le forum de Sala*, «Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres», 74, 336-340.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Chatelain",
+     "given": "L."
+    }
+   ],
+   "date": "1930",
+   "title": "Le forum de Sala",
+   "is_part_of": [
+    "Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres"
+   ],
+   "language": "fre",
+   "volume": "74",
+   "pages": "336-340",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Chatelain L. 1930b, *La Ville romaine de Sala*, «Maroc», 22, 23-24.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Chatelain",
+     "given": "L."
+    }
+   ],
+   "date": "1930",
+   "title": "La Ville romaine de Sala",
+   "is_part_of": [
+    "Maroc"
+   ],
+   "language": "fre",
+   "volume": "22",
+   "pages": "23-24",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Chatelain L. 1930-1931a, *Inscriptions de Sala*, «Bulletin archéologique du Comité des travaux historiques et scientifiques», 225-228.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Chatelain",
+     "given": "L."
+    }
+   ],
+   "date": "1930",
+   "title": "Inscriptions de Sala",
+   "is_part_of": [
+    "Bulletin archéologique du Comité des travaux historiques et scientifiques"
+   ],
+   "language": "fre",
+   "pages": "225-228",
+   "notes": "cited 1930-1931a",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Chatelain L. 1930-1931b, *Inscriptions latines de Sala*, «Bulletin archéologique du Comité des travaux historiques et scientifiques», 171-15.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Chatelain",
+     "given": "L."
+    }
+   ],
+   "date": "1930",
+   "title": "Inscriptions latines de Sala",
+   "is_part_of": [
+    "Bulletin archéologique du Comité des travaux historiques et scientifiques"
+   ],
+   "language": "lat",
+   "pages": "171-15",
+   "notes": "cited 1930-1931b; page range '171-15' as cited (last page not readable)",
+   "confidence": "low"
+  },
+  {
+   "position": 18,
+   "raw": "Chatelain L. 1944, *Le Maroc des Romains*, Paris, De Boccard.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chatelain",
+     "given": "L."
+    }
+   ],
+   "date": "1944",
+   "title": "Le Maroc des Romains",
+   "language": "fre",
+   "publisher": "De Boccard",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Dell'Unto N., Landeschi G. 2022, *Archaeological 3D GIS*. London-New York, Routledge (https://doi.org/10.4324/9781003304131).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Dell'Unto",
+     "given": "N."
+    },
+    {
+     "family": "Landeschi",
+     "given": "G."
+    }
+   ],
+   "date": "2022",
+   "title": "Archaeological 3D GIS",
+   "language": "eng",
+   "publisher": "Routledge",
+   "place": "London-New York",
+   "doi": "10.4324/9781003304131",
+   "notes": "doi as cited (in other bibliographies 10.4324/9781003034131)",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Dell'Unto N., Landeschi G., Leander Touati A.-M., Dellepiane M., Callieri M., Ferdani D. 2016, *Experiencing ancient buildings from a 3D GIS perspective: A case drawn from the Swedish Pompeii Project*, «Journal of Archaeological Method and Theory», 23, 73-94 (https://doi.org/10.1007/s10816-014-9226-7).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dell'Unto",
+     "given": "N."
+    },
+    {
+     "family": "Landeschi",
+     "given": "G."
+    },
+    {
+     "family": "Leander Touati",
+     "given": "A.-M."
+    },
+    {
+     "family": "Dellepiane",
+     "given": "M."
+    },
+    {
+     "family": "Callieri",
+     "given": "M."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    }
+   ],
+   "date": "2016",
+   "title": "Experiencing ancient buildings from a 3D GIS perspective: A case drawn from the Swedish Pompeii Project",
+   "is_part_of": [
+    "Journal of Archaeological Method and Theory"
+   ],
+   "language": "eng",
+   "volume": "23",
+   "pages": "73-94",
+   "doi": "10.1007/s10816-014-9226-7",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Gascou J. 1991, *Hypothèse sur la création du municipe de Sala*, «Antiquités africaines», 27, 151-156.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gascou",
+     "given": "J."
+    }
+   ],
+   "date": "1991",
+   "title": "Hypothèse sur la création du municipe de Sala",
+   "is_part_of": [
+    "Antiquités africaines"
+   ],
+   "language": "fre",
+   "volume": "27",
+   "pages": "151-156",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Gliozzo E., Turbanti Memmi I., Akerraz A., Papi E. (eds.) 2009, *Sidi Ali ben Ahmed - Thamusida, 2. L'archeometria*, Roma, Quasar.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Gliozzo",
+     "given": "E."
+    },
+    {
+     "family": "Turbanti Memmi",
+     "given": "I."
+    },
+    {
+     "family": "Akerraz",
+     "given": "A."
+    },
+    {
+     "family": "Papi",
+     "given": "E."
+    }
+   ],
+   "date": "2009",
+   "title": "Sidi Ali ben Ahmed - Thamusida, 2. L'archeometria",
+   "language": "ita",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Gsell S., Carcopino J. 1931, *La base de M. Sulpicius Félix et le décret des décurions de Sala*, «Mélanges d'archéologie et d'histoire», 48, 1-39.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gsell",
+     "given": "S."
+    },
+    {
+     "family": "Carcopino",
+     "given": "J."
+    }
+   ],
+   "date": "1931",
+   "title": "La base de M. Sulpicius Félix et le décret des décurions de Sala",
+   "is_part_of": [
+    "Mélanges d'archéologie et d'histoire"
+   ],
+   "language": "fre",
+   "volume": "48",
+   "pages": "1-39",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Hassar-Benslimane J. 1976, *L'archéologie marocaine de 1973 á 1975*, «Bulletin d'Archéologie Marocaine», 10, 243-252.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hassar-Benslimane",
+     "given": "J."
+    }
+   ],
+   "date": "1976",
+   "title": "L'archéologie marocaine de 1973 à 1975",
+   "is_part_of": [
+    "Bulletin d'Archéologie Marocaine"
+   ],
+   "language": "fre",
+   "volume": "10",
+   "pages": "243-252",
+   "notes": "'á' corrected to 'à'",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Lamare N. 2019, *Les fontaines monumentales en Afrique romaine*, Collection de l'École française de Rome 557, Roma, École Française de Rome.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lamare",
+     "given": "N."
+    }
+   ],
+   "date": "2019",
+   "title": "Les fontaines monumentales en Afrique romaine",
+   "language": "fre",
+   "series": "Collection de l'École française de Rome",
+   "series_number": "557",
+   "publisher": "École Française de Rome",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Lenoir E. 2009, *Documents sur le contrôle et la distribution de l'eau dans le Maroc antique*, in V. Bridoux (ed.), *Contrôle et distribution de l'eau dans le Maghreb antique et médiéval. Actes du Colloque organisé par l'Institut National du Patrimoine de Tunisie et l'École Française de Rome (Tunis 2002)*, École Française de Rome, 41-83.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lenoir",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bridoux",
+     "given": "V."
+    }
+   ],
+   "date": "2009",
+   "title": "Documents sur le contrôle et la distribution de l'eau dans le Maroc antique",
+   "is_part_of": [
+    "Contrôle et distribution de l'eau dans le Maghreb antique et médiéval. Actes du Colloque organisé par l'Institut National du Patrimoine de Tunisie et l'École Française de Rome (Tunis 2002)"
+   ],
+   "language": "fre",
+   "pages": "41-83",
+   "publisher": "École Française de Rome",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Maschek D., Schneyder M., Tschannerl M. 2009, *Virtual 3D reconstructions. Benefit or danger for modern archaeology?*, in Proceedings of the 14th International Congress Cultural Heritage and New Technologies (Vienna 2009), Wien, Museen der Stadt Wien, Stadtarchäologie, 447-460.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Maschek",
+     "given": "D."
+    },
+    {
+     "family": "Schneyder",
+     "given": "M."
+    },
+    {
+     "family": "Tschannerl",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Virtual 3D reconstructions. Benefit or danger for modern archaeology?",
+   "is_part_of": [
+    "Proceedings of the 14th International Congress Cultural Heritage and New Technologies (Vienna 2009)"
+   ],
+   "language": "eng",
+   "pages": "447-460",
+   "publisher": "Museen der Stadt Wien, Stadtarchäologie",
+   "place": "Wien",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Mascione C., Pansini R., Passalacqua L. 2016, *Integrated methodologies for the reconstruction of the ancient city of Lixus (Morocco)*, in S. Campana, R. Scopigno, M. Cirillo, G. Carpentiero (eds.), *CAA2015. Keep the Revolution Going. Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Siena 2015)*, Oxford, Archaeopress, 157-166.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mascione",
+     "given": "C."
+    },
+    {
+     "family": "Pansini",
+     "given": "R."
+    },
+    {
+     "family": "Passalacqua",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Scopigno",
+     "given": "R."
+    },
+    {
+     "family": "Cirillo",
+     "given": "M."
+    },
+    {
+     "family": "Carpentiero",
+     "given": "G."
+    }
+   ],
+   "date": "2016",
+   "title": "Integrated methodologies for the reconstruction of the ancient city of Lixus (Morocco)",
+   "is_part_of": [
+    "CAA2015. Keep the Revolution Going. Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Siena 2015)"
+   ],
+   "language": "eng",
+   "pages": "157-166",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Pansini R. 2012-2013, *Lixus (Marocco) – il quartiere della pendice orientale: tecniche edilizie e impianto urbanistico tra età maura e islamica*, Tesi Magistrale, Università degli Studi di Siena, Dipartimento di Scienze Storiche e dei Beni Culturali.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Pansini",
+     "given": "R."
+    }
+   ],
+   "date": "2012",
+   "title": "Lixus (Marocco) – il quartiere della pendice orientale: tecniche edilizie e impianto urbanistico tra età maura e islamica",
+   "language": "ita",
+   "publisher": "Università degli Studi di Siena, Dipartimento di Scienze Storiche e dei Beni Culturali",
+   "notes": "Tesi Magistrale; cited 2012-2013",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Wilson Jones M. 2006, *Ancient architecture and mathematics: Methodology and the doric temple*, «Nexus - Architecture and Mathematics», 6, 149-170.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wilson Jones",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Ancient architecture and mathematics: Methodology and the doric temple",
+   "is_part_of": [
+    "Nexus - Architecture and Mathematics"
+   ],
+   "language": "eng",
+   "volume": "6",
+   "pages": "149-170",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Wilson Jones M. 2009, *Principles of Roman Architecture*, 3rd ed., New Haven-London, Yale University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wilson Jones",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Principles of Roman Architecture",
+   "language": "eng",
+   "edition": "3",
+   "publisher": "Yale University Press",
+   "place": "New Haven-London",
+   "confidence": "high"
+  }
+ ]
+}

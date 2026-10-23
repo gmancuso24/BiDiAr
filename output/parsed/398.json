@@ -1,0 +1,392 @@
+{
+ "citing_aec_id": 398,
+ "source_file": "data/journal/15/398.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BRUNO P. 2001, Le parole della rete, Milano, Mondadori.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bruno",
+     "given": "P."
+    }
+   ],
+   "date": "2001",
+   "title": "Le parole della rete",
+   "publisher": "Mondadori",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "CARLINI F. 1999, Lo stile del Web. Parole e immagini nella comunicazione di rete, Torino, Einaudi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Carlini",
+     "given": "F."
+    }
+   ],
+   "date": "1999",
+   "title": "Lo stile del Web. Parole e immagini nella comunicazione di rete",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "D’ANDREA A., NICCOLUCCI F. 2000, L’archeologia computazionale in Italia: orientamenti, metodi e prospettive, «Archeologia e Calcolatori», 11, 13-32.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "L’archeologia computazionale in Italia: orientamenti, metodi e prospettive",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "13-32",
+   "language": "ita",
+   "cited_aec_id": 286,
+   "notes": "cited pp. 13-32; AeC metadata 13-31",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "FLEMING J. 2000, Web navigation. Il design delle interfacce web, Milano, Hops Libri.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fleming",
+     "given": "J."
+    }
+   ],
+   "date": "2000",
+   "title": "Web navigation. Il design delle interfacce web",
+   "publisher": "Hops Libri",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "FRANCOVICH R. 1999, Archeologia medievale e informatica: dieci anni dopo, «Archeologia e Calcolatori», 10, 45-63.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "1999",
+   "title": "Archeologia medievale e informatica: dieci anni dopo",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "45-63",
+   "language": "ita",
+   "cited_aec_id": 265,
+   "notes": "cited pp. 45-63; AeC metadata 45-61",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "FRANCOVICH R. 1990, Dalla teoria alla ricerca sul campo: il contributo dell’informatica all’archeologia medievale, «Archeologia e Calcolatori», 1, 15-26.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    }
+   ],
+   "date": "1990",
+   "title": "Dalla teoria alla ricerca sul campo: il contributo dell’informatica all’archeologia medievale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "15-26",
+   "language": "ita",
+   "cited_aec_id": 5,
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "FRONZA V., NARDINI A., SALZOTTI F., VALENTI M. 2001, A GIS Solution for excavations: experience of the Siena University LIAAM, in Z. STANČIČ, T. VELJANOVSKI (eds.), Computing Archaeology for Understanding the Past, CAA 2000. Computer Applications and Quantitative Methods in Archaeology, Proceedings of the 28th Conference (Ljubljana 2000), BAR International Series, 931, Oxford, Archaeopress, 173-177.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    },
+    {
+     "family": "Nardini",
+     "given": "A."
+    },
+    {
+     "family": "Salzotti",
+     "given": "F."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "A GIS Solution for excavations: experience of the Siena University LIAAM",
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past, CAA 2000. Computer Applications and Quantitative Methods in Archaeology, Proceedings of the 28th Conference (Ljubljana 2000)"
+   ],
+   "series": "BAR International Series",
+   "series_number": "931",
+   "pages": "173-177",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "FRONZA V., NARDINI A., VALENTI M. 2002, An Integrated Information System for Archaeological Data Management: Latest Developments, in CAA2002 (Heraklion, Crete 2002), c.s.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "V."
+    },
+    {
+     "family": "Nardini",
+     "given": "A."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "An Integrated Information System for Archaeological Data Management: Latest Developments",
+   "editors": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "CAA 2002. The Digital Heritage of Archaeology, Proceedings of the 30th Conference (Heraklion, Crete 2002)"
+   ],
+   "pages": "147-153",
+   "publisher": "Hellenic Ministry of Culture – Archive of Monuments and Publications",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "AeC 15 bibliography of article 388 (same authors and title, Doerr-Sarris eds, 2003, pp. 147-153)"
+   },
+   "notes": "cited as 2002, c.s. (CAA2002, Heraklion); published 2003, details from the bibliography of AeC article 388",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "ISABELLA L., SALZOTTI F., VALENTI M. 2001, L’esperienza dell’insegnamento di Archeologia Medievale nel campo dell’informatica applicata, in M. DE MARCHI, M. SCUDELLARI, A. ZAVAGLIA, Lo spessore storico in urbanistica, Mantova, Società Archeologica Padana s.r.l., 31-64.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Isabella",
+     "given": "L."
+    },
+    {
+     "family": "Salzotti",
+     "given": "F."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "L’esperienza dell’insegnamento di Archeologia Medievale nel campo dell’informatica applicata",
+   "editors": [
+    {
+     "family": "De Marchi",
+     "given": "M."
+    },
+    {
+     "family": "Scudellari",
+     "given": "M."
+    },
+    {
+     "family": "Zavaglia",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Lo spessore storico in urbanistica"
+   ],
+   "pages": "31-64",
+   "publisher": "Società Archeologica Padana s.r.l.",
+   "place": "Mantova",
+   "language": "ita",
+   "notes": "editors not marked \"(eds.)\" in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "LONGO B. 2001, La nuova editoria. Mercato, strumenti e linguaggi del libro in Internet, Roma, Editrice Bibliografica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Longo",
+     "given": "B."
+    }
+   ],
+   "date": "2001",
+   "title": "La nuova editoria. Mercato, strumenti e linguaggi del libro in Internet",
+   "publisher": "Editrice Bibliografica",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "LUGHI G. 2001, Parole on line. Dall’ipertesto all’editoria multimediale, Milano, Guerini e Associati.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lughi",
+     "given": "G."
+    }
+   ],
+   "date": "2001",
+   "title": "Parole on line. Dall’ipertesto all’editoria multimediale",
+   "publisher": "Guerini e Associati",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "NIELSEN J. 2000, Web usability, Milano, Apogeo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nielsen",
+     "given": "J."
+    }
+   ],
+   "date": "2000",
+   "title": "Web usability",
+   "publisher": "Apogeo",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "SALA V. 2001, E-book. Editoria elettronica, Milano, Apogeo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sala",
+     "given": "V."
+    }
+   ],
+   "date": "2001",
+   "title": "E-book. Editoria elettronica",
+   "publisher": "Apogeo",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "VALENTI M. 1998, Computer science and the management of an archaeological excavation: the Poggio Imperiale Project, «Archeological Computing Newsletter», 50, Spring, 13-20.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Computer science and the management of an archaeological excavation: the Poggio Imperiale Project",
+   "is_part_of": [
+    "Archeological Computing Newsletter"
+   ],
+   "volume": "50",
+   "issue": "Spring",
+   "pages": "13-20",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "VALENTI M. 2001, Dai contesti ai reperti: un sistema informatico per la gestione della memoria storica, in A. RICCI (ed.), Archeologia e urbanistica. International School in Archaeology (Certosa di Pontignano, Siena, 2001), Firenze, All’Insegna del Giglio, 281-302.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Dai contesti ai reperti: un sistema informatico per la gestione della memoria storica",
+   "editors": [
+    {
+     "family": "Ricci",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e urbanistica. International School in Archaeology (Certosa di Pontignano, Siena, 2001)"
+   ],
+   "pages": "281-302",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "year cited 2001 (2002 in the bibliography of article 388)",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "VISCIOLA M. 2000, Usabilità dei siti web, Milano, Apogeo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Visciola",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "Usabilità dei siti web",
+   "publisher": "Apogeo",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

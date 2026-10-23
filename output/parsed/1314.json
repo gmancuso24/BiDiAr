@@ -1,0 +1,135 @@
+{
+ "citing_aec_id": 1314,
+ "source_file": "data/journal/35/1314.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bianchin Citton E., Gambacurta G., Ruta Serafini A. (eds.) 1998, …“presso l’Adige ridente”…Recenti rinvenimenti da Este a Montagnana, Catalogo della mostra, Padova, ADLE Edizioni.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Bianchin Citton",
+     "given": "E."
+    },
+    {
+     "family": "Gambacurta",
+     "given": "G."
+    },
+    {
+     "family": "Ruta Serafini",
+     "given": "A."
+    }
+   ],
+   "date": "1998",
+   "title": "…\"presso l'Adige ridente\"…Recenti rinvenimenti da Este a Montagnana, Catalogo della mostra",
+   "publisher": "ADLE Edizioni",
+   "place": "Padova",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Gamba M., Gambacurta G., Ruta Serafini A. 2015, Paesaggi e architetture delle necropoli venete, in G.M. Della Fina (ed.), La delimitazione dello spazio funerario in Italia dalla Protostoria all’età arcaica. Recinti, circoli, tumuli, Atti del XXII Convegno Internazionale di Studi sulla Storia e l’Archeologia dell’Etruria (Orvieto 2014), Annali della Fondazione per il Museo «Claudio Faina», 22, 87-112.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gamba",
+     "given": "M."
+    },
+    {
+     "family": "Gambacurta",
+     "given": "G."
+    },
+    {
+     "family": "Ruta Serafini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Della Fina",
+     "given": "G.M."
+    }
+   ],
+   "date": "2015",
+   "title": "Paesaggi e architetture delle necropoli venete",
+   "is_part_of": [
+    "La delimitazione dello spazio funerario in Italia dalla Protostoria all'età arcaica. Recinti, circoli, tumuli, Atti del XXII Convegno Internazionale di Studi sulla Storia e l'Archeologia dell'Etruria (Orvieto 2014)",
+    "Annali della Fondazione per il Museo «Claudio Faina»"
+   ],
+   "volume": "22",
+   "pages": "87-112",
+   "language": "ita",
+   "notes": "Convegno cited as XXII, Annali 22 (other articles cite XXIII/23)"
+  },
+  {
+   "position": 3,
+   "raw": "Gambacurta G., Locatelli D., Marinetti A., Ruta Serafini A. 2005, Delimitazione dello spazio e rituale funerario nel Veneto preromano, in G. Cresci Marrone, M. Tirelli (eds.), “Terminavit sepulcrum”. I recinti funerari nelle necropoli di Altino, Atti del Convegno (Venezia 2003), Roma, Quasar, 9-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gambacurta",
+     "given": "G."
+    },
+    {
+     "family": "Locatelli",
+     "given": "D."
+    },
+    {
+     "family": "Marinetti",
+     "given": "A."
+    },
+    {
+     "family": "Ruta Serafini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cresci Marrone",
+     "given": "G."
+    },
+    {
+     "family": "Tirelli",
+     "given": "M."
+    }
+   ],
+   "date": "2005",
+   "title": "Delimitazione dello spazio e rituale funerario nel Veneto preromano",
+   "is_part_of": [
+    "\"Terminavit sepulcrum\". I recinti funerari nelle necropoli di Altino, Atti del Convegno (Venezia 2003)"
+   ],
+   "pages": "9-40",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Gaucci A. 2021, Virtual archaeology and the study of necropolises as a system: Methodology and practice in the case study of Numana (AN), Italy, in V. Baldoni (ed.), From Pottery to Context. Archaeology and Virtual Modelling, «Archeologia e Calcolatori», 32.2, 27-34 (https://doi.org/10.19282/ac.32.2.2021.03).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "language": "eng",
+   "cited_aec_id": 1157
+  },
+  {
+   "position": 5,
+   "raw": "Moscati P. 2019, Informatica archeologica e archeologia digitale. Le risposte dalla rete, in P. Moscati (ed.), 30 anni di Archeologia e Calcolatori. Tra memoria e progettualità, «Archeologia e Calcolatori», 30, 21-38 (https://doi.org/10.19282/ac.30.2019.03).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2019",
+   "language": "ita",
+   "cited_aec_id": 1038
+  }
+ ]
+}

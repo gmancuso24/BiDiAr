@@ -1,0 +1,529 @@
+{
+ "citing_aec_id": 523,
+ "source_file": "data/journal/20/523.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bagnara R., Macchi Jànica G. (eds.) 2006, Open Source, Free Software e Open Format nei processi di ricerca archeologici. Atti del I Workshop (Grosseto 2006), Firenze, Centro Editoriale Toscano.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Bagnara",
+     "given": "R."
+    },
+    {
+     "family": "Macchi Jànica",
+     "given": "G."
+    }
+   ],
+   "date": "2006",
+   "title": "Open Source, Free Software e Open Format nei processi di ricerca archeologici. Atti del I Workshop (Grosseto 2006)",
+   "publisher": "Centro Editoriale Toscano",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Barton M., Bezzi A., Bezzi L., Francisci D., Gietl R., Neteler M. 2006, GRASS, un potente GIS per archeologi, in Bagnara, Macchi Jànica 2006, 95-101.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barton",
+     "given": "M."
+    },
+    {
+     "family": "Bezzi",
+     "given": "A."
+    },
+    {
+     "family": "Bezzi",
+     "given": "L."
+    },
+    {
+     "family": "Francisci",
+     "given": "D."
+    },
+    {
+     "family": "Gietl",
+     "given": "R."
+    },
+    {
+     "family": "Neteler",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bagnara",
+     "given": "R."
+    },
+    {
+     "family": "Macchi Jànica",
+     "given": "G."
+    }
+   ],
+   "date": "2006",
+   "title": "GRASS, un potente GIS per archeologi",
+   "is_part_of": [
+    "Open Source, Free Software e Open Format nei processi di ricerca archeologici. Atti del I Workshop (Grosseto 2006)"
+   ],
+   "language": "ita",
+   "xref": 1,
+   "pages": "95-101",
+   "publisher": "Centro Editoriale Toscano",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Besl P.J., McKay N.D. 1992, A method for registration of 3-D shapes, in IEEE Transactions on Pattern Analysis and Machine Intelligence, 14, 2, 239-256.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Besl",
+     "given": "P.J."
+    },
+    {
+     "family": "McKay",
+     "given": "N.D."
+    }
+   ],
+   "date": "1992",
+   "title": "A method for registration of 3-D shapes",
+   "is_part_of": [
+    "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+   ],
+   "volume": "14",
+   "issue": "2",
+   "pages": "239-256",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bezzi A., Bezzi L., Francisci D., Gietl R. 2005a, L’utilizzo di GRASS in archeologia, «Geomatic Workbooks», 5, 2005.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bezzi",
+     "given": "A."
+    },
+    {
+     "family": "Bezzi",
+     "given": "L."
+    },
+    {
+     "family": "Francisci",
+     "given": "D."
+    },
+    {
+     "family": "Gietl",
+     "given": "R."
+    }
+   ],
+   "date": "2005",
+   "title": "L'utilizzo di GRASS in archeologia",
+   "is_part_of": [
+    "Geomatic Workbooks"
+   ],
+   "volume": "5",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bezzi A., Bezzi L., Francisci D., Gietl R. 2005b, ArcheOS 1.0 Akhenaton, the first GNU/Linux live distribution for archaeologists, in W. Boerner, S. Uhlirz (eds.), Archäologie und Computer 2005. Workshop 10, Kulturelles Erbe und neue Technologien, Wien, CD-Rom.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bezzi",
+     "given": "A."
+    },
+    {
+     "family": "Bezzi",
+     "given": "L."
+    },
+    {
+     "family": "Francisci",
+     "given": "D."
+    },
+    {
+     "family": "Gietl",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Boerner",
+     "given": "W."
+    },
+    {
+     "family": "Uhlirz",
+     "given": "S."
+    }
+   ],
+   "date": "2005",
+   "title": "ArcheOS 1.0 Akhenaton, the first GNU/Linux live distribution for archaeologists",
+   "is_part_of": [
+    "Archäologie und Computer 2005. Workshop 10, Kulturelles Erbe und neue Technologien"
+   ],
+   "language": "eng",
+   "notes": "CD-Rom",
+   "place": "Wien",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Bezzi A., Bezzi L., Gietl R. 2006a, Aramus 2006: an international archaeological expedition completely supported by Free and Open Source Software, in W. Boerner, S. Uhlirz (eds.), Archäologie und Computer 2006, Workshop 11, Kulturelles Erbe und neue Technologien, Wien, CD-Rom.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bezzi",
+     "given": "A."
+    },
+    {
+     "family": "Bezzi",
+     "given": "L."
+    },
+    {
+     "family": "Gietl",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Boerner",
+     "given": "W."
+    },
+    {
+     "family": "Uhlirz",
+     "given": "S."
+    }
+   ],
+   "date": "2006",
+   "title": "Aramus 2006: an international archaeological expedition completely supported by Free and Open Source Software",
+   "is_part_of": [
+    "Archäologie und Computer 2006, Workshop 11, Kulturelles Erbe und neue Technologien"
+   ],
+   "language": "eng",
+   "notes": "CD-Rom",
+   "place": "Wien",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Bezzi A., Bezzi L., Francisci D., Gietl R. 2006b, ArcheOS 1.1.6. Akhenaton: la nuova release della prima distribuzione GNU/Linux per archeologi, in Bagnara, Macchi Jànica 2006, 7-16.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bezzi",
+     "given": "A."
+    },
+    {
+     "family": "Bezzi",
+     "given": "L."
+    },
+    {
+     "family": "Francisci",
+     "given": "D."
+    },
+    {
+     "family": "Gietl",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bagnara",
+     "given": "R."
+    },
+    {
+     "family": "Macchi Jànica",
+     "given": "G."
+    }
+   ],
+   "date": "2006",
+   "title": "ArcheOS 1.1.6. Akhenaton: la nuova release della prima distribuzione GNU/Linux per archeologi",
+   "is_part_of": [
+    "Open Source, Free Software e Open Format nei processi di ricerca archeologici. Atti del I Workshop (Grosseto 2006)"
+   ],
+   "language": "ita",
+   "xref": 1,
+   "pages": "7-16",
+   "publisher": "Centro Editoriale Toscano",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Chen Y., Medioni G. 1992, Object modelling by registration of multiple range images, «Image and Vision Computing», 10, 3, 145-155.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Chen",
+     "given": "Y."
+    },
+    {
+     "family": "Medioni",
+     "given": "G."
+    }
+   ],
+   "date": "1992",
+   "title": "Object modelling by registration of multiple range images",
+   "is_part_of": [
+    "Image and Vision Computing"
+   ],
+   "volume": "10",
+   "issue": "3",
+   "pages": "145-155",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Ercolino R. 2004, Settore H, in G. Rosada (ed.), Pederobba - Onigo (Treviso): Mura della Bastia. Scavo delle strutture e del deposito medievale: campagna 2003, «Quaderni di Archeologia del Veneto», 20, 49-54.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ercolino",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rosada",
+     "given": "G."
+    }
+   ],
+   "date": "2004",
+   "title": "Settore H",
+   "is_part_of": [
+    "Pederobba - Onigo (Treviso): Mura della Bastia. Scavo delle strutture e del deposito medievale: campagna 2003",
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "language": "ita",
+   "volume": "20",
+   "pages": "49-54",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Frassine M. 2007, Settore H ambiente 200, in G. Rosada (ed.), Onigo (Treviso): Mura della Bastia. Campagna 2006, «Quaderni di Archeologia del Veneto», 23, 60-62.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rosada",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "Settore H ambiente 200",
+   "is_part_of": [
+    "Onigo (Treviso): Mura della Bastia. Campagna 2006",
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "language": "ita",
+   "volume": "23",
+   "pages": "60-62",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Frassine M. 2008, Una campagna di passaggio, una svolta per il sito ‘Mura Bastia’, in M. Frassine, G. Rosada (eds.), Onigo (Treviso): Campagna 2007. Scavo archeologico e rilievo 3D laser scanning di “Mura Bastia”, «Quaderni di Archeologia del Veneto», 24, 51-54.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "Rosada",
+     "given": "G."
+    }
+   ],
+   "date": "2008",
+   "title": "Una campagna di passaggio, una svolta per il sito 'Mura Bastia'",
+   "is_part_of": [
+    "Onigo (Treviso): Campagna 2007. Scavo archeologico e rilievo 3D laser scanning di \"Mura Bastia\"",
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "language": "ita",
+   "volume": "24",
+   "pages": "51-54",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Frassine M. 2009, Scavi, rilievi e restauri nel castello degli Onigo, in M. Frassine, G. Rosada (eds.), Onigo, “Mura Bastia”: campagna 2008, «Quaderni di Archeologia del Veneto», 25, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "Rosada",
+     "given": "G."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Scavi, rilievi e restauri nel castello degli Onigo",
+   "is_part_of": [
+    "Onigo, \"Mura Bastia\": campagna 2008",
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "language": "ita",
+   "volume": "25",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "cited as 2009, 'in corso di stampa'; searched author + title: no publication data found",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Frassine M., Rosada G., Fabris M., Achilli V., Bragagnolo D., Bezzi A. 2008, “Mura della Bastia” - Onigo di Pederobba (Treviso). Ricerche archeologiche, rilievo 3D laser scanning e anastilosi virtuale in un castello medievale del Pedemonte trevigiano, «Archeologia e Calcolatori», 19, 293-321.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "Rosada",
+     "given": "G."
+    },
+    {
+     "family": "Fabris",
+     "given": "M."
+    },
+    {
+     "family": "Achilli",
+     "given": "V."
+    },
+    {
+     "family": "Bragagnolo",
+     "given": "D."
+    },
+    {
+     "family": "Bezzi",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "\"Mura della Bastia\" - Onigo di Pederobba (Treviso). Ricerche archeologiche, rilievo 3D laser scanning e anastilosi virtuale in un castello medievale del Pedemonte trevigiano",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "19",
+   "pages": "293-321",
+   "language": "ita",
+   "cited_aec_id": 495,
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Grossi P., Pirotti F., Pontin M. 2004, Rilievo, posizionamento geodetico, elaborazione grafica nelle campagne 2002-2003, in G. Rosada (ed.), Pederobba - Onigo (Treviso): Mura della Bastia. Scavo delle strutture e del deposito medievale: campagna 2003, «Quaderni di Archeologia del Veneto», 20, 47-49.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Grossi",
+     "given": "P."
+    },
+    {
+     "family": "Pirotti",
+     "given": "F."
+    },
+    {
+     "family": "Pontin",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rosada",
+     "given": "G."
+    }
+   ],
+   "date": "2004",
+   "title": "Rilievo, posizionamento geodetico, elaborazione grafica nelle campagne 2002-2003",
+   "is_part_of": [
+    "Pederobba - Onigo (Treviso): Mura della Bastia. Scavo delle strutture e del deposito medievale: campagna 2003",
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "language": "ita",
+   "volume": "20",
+   "pages": "47-49",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Marchiori A. 2003, Settore H, in A. Marchiori (ed.), Onigo (Treviso) 2002: ripresa degli scavi del castello in località “Mura della Bastia”, «Quaderni di Archeologia del Veneto», 19, 77-82.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Marchiori",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Marchiori",
+     "given": "A."
+    }
+   ],
+   "date": "2003",
+   "title": "Settore H",
+   "is_part_of": [
+    "Onigo (Treviso) 2002: ripresa degli scavi del castello in località \"Mura della Bastia\"",
+    "Quaderni di Archeologia del Veneto"
+   ],
+   "language": "ita",
+   "volume": "19",
+   "pages": "77-82",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Rusinkiewicz S., Levoy M. 2001, Efficient variants of the ICP algorithm, in Proceedings of the Third International Conference on 3D Digital Imaging and Modelling (Quebec City 2001), 145-152.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rusinkiewicz",
+     "given": "S."
+    },
+    {
+     "family": "Levoy",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Efficient variants of the ICP algorithm",
+   "is_part_of": [
+    "Proceedings of the Third International Conference on 3D Digital Imaging and Modelling (Quebec City 2001)"
+   ],
+   "language": "eng",
+   "pages": "145-152",
+   "confidence": "high"
+  }
+ ]
+}

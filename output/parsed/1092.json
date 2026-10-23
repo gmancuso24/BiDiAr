@@ -1,0 +1,211 @@
+{
+ "citing_aec_id": 1092,
+ "source_file": "data/journal/31/1092.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Breitling P. 1975, *Historische Städte für Morge, Deutsche Nationalkomitee für das Europäische Denkmalschutzjahr*, Köln, Deutsche UNESCO-Kommission.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Breitling",
+     "given": "P."
+    }
+   ],
+   "date": "1975",
+   "title": "Historische Städte für Morge, Deutsche Nationalkomitee für das Europäische Denkmalschutzjahr",
+   "language": "ger",
+   "publisher": "Deutsche UNESCO-Kommission",
+   "place": "Köln",
+   "notes": "title as cited (Morge)",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Cotugno D. 1785, *Dello spirito della medicina. Discorso accademico letto nel Teatro Anatomico del Regio Spedale degl'Incurabili di Napoli in un solenne congresso il dì 5 Marzo 1772. dal signor dottore d. Domenico Cotugno professore di anatomia nei regj studj di Napoli ec. ec. ec.*, Firenze nella Stamperia Moücke.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cotugno",
+     "given": "D."
+    }
+   ],
+   "date": "1785",
+   "title": "Dello spirito della medicina. Discorso accademico letto nel Teatro Anatomico del Regio Spedale degl'Incurabili di Napoli in un solenne congresso il dì 5 Marzo 1772. dal signor dottore d. Domenico Cotugno professore di anatomia nei regj studj di Napoli ec. ec. ec.",
+   "language": "ita",
+   "publisher": "Stamperia Moücke",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Ewald F. 1991, *Insurance and risk*, in G. Buchell, C. Gordon, P. Miller (eds.), *The Foucault Effect: Studies in Governmentality*, Chicago, University of Chicago Press.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ewald",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Buchell",
+     "given": "G."
+    },
+    {
+     "family": "Gordon",
+     "given": "C."
+    },
+    {
+     "family": "Miller",
+     "given": "P."
+    }
+   ],
+   "date": "1991",
+   "title": "Insurance and risk",
+   "is_part_of": [
+    "The Foucault Effect: Studies in Governmentality"
+   ],
+   "language": "eng",
+   "publisher": "University of Chicago Press",
+   "place": "Chicago",
+   "notes": "editor spelled Buchell as cited",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Ferrigni F. (ed.) 2005, *San Lorenzello, alla ricerca delle anomalie che proteggono*, Ravello, Centro Universitario Europeo per i Beni Culturali.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Ferrigni",
+     "given": "F."
+    }
+   ],
+   "date": "2005",
+   "title": "San Lorenzello, alla ricerca delle anomalie che proteggono",
+   "language": "ita",
+   "publisher": "Centro Universitario Europeo per i Beni Culturali",
+   "place": "Ravello",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Marino L. 2016, *Il restauro archeologico*, Firenze, Altralinea Edizioni.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Marino",
+     "given": "L."
+    }
+   ],
+   "date": "2016",
+   "title": "Il restauro archeologico",
+   "language": "ita",
+   "publisher": "Altralinea Edizioni",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Marino L. 2019, *Il restauro di siti archeologici e manufatti edili allo stato di rudere*, Firenze, Dipartimento di Architettura, Università degli Studi di Firenze.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Marino",
+     "given": "L."
+    }
+   ],
+   "date": "2019",
+   "title": "Il restauro di siti archeologici e manufatti edili allo stato di rudere",
+   "language": "ita",
+   "publisher": "Dipartimento di Architettura, Università degli Studi di Firenze",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Nostradamus M. 1598, *Les Prophéties de M.M.N.*, Lyon.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Nostradamus",
+     "given": "M."
+    }
+   ],
+   "date": "1598",
+   "title": "Les Prophéties de M.M.N.",
+   "language": "fre",
+   "place": "Lyon",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Petrosky H. 2009, *Gli errori degli ingegneri. Paradigmi di progettazione*, Bologna, Pendragon.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Petrosky",
+     "given": "H."
+    }
+   ],
+   "date": "2009",
+   "title": "Gli errori degli ingegneri. Paradigmi di progettazione",
+   "language": "ita",
+   "publisher": "Pendragon",
+   "place": "Bologna",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Portelli A. 2017, *La città dell'acciaio. Due secoli di storia operaia*, Roma, Donzelli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Portelli",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "La città dell'acciaio. Due secoli di storia operaia",
+   "language": "ita",
+   "publisher": "Donzelli",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Sennett R. 2008, *L'uomo artigiano*, Milano, Edizioni Feltrinelli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sennett",
+     "given": "R."
+    }
+   ],
+   "date": "2008",
+   "title": "L'uomo artigiano",
+   "language": "ita",
+   "publisher": "Edizioni Feltrinelli",
+   "place": "Milano",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Trétiak P. 2001, *Faut-il Pendre les Architectes?* Paris, Ed. du Seuil.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Trétiak",
+     "given": "P."
+    }
+   ],
+   "date": "2001",
+   "title": "Faut-il Pendre les Architectes?",
+   "language": "fre",
+   "publisher": "Ed. du Seuil",
+   "place": "Paris",
+   "confidence": "high"
+  }
+ ]
+}

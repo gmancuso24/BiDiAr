@@ -1,0 +1,936 @@
+{
+ "citing_aec_id": 1138,
+ "source_file": "data/journal/32/1138.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Adorni B. 2008, *L'architettura a Parma sotto i primi Farnese 1545-1630*, Reggio Emilia, Diabasis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Adorni",
+     "given": "B."
+    }
+   ],
+   "date": "2008",
+   "title": "L'architettura a Parma sotto i primi Farnese 1545-1630",
+   "publisher": "Diabasis",
+   "place": "Reggio Emilia",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Affò I. 1793, *Storia della città di Parma*, II, Parma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Affò",
+     "given": "I."
+    }
+   ],
+   "date": "1793",
+   "title": "Storia della città di Parma",
+   "volume": "II",
+   "place": "Parma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Arcagni S. 2020, *Immersi nel futuro. La realtà virtuale, nuova frontiera del cinema e della TV*, Palermo, Palermo University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Arcagni",
+     "given": "S."
+    }
+   ],
+   "date": "2020",
+   "title": "Immersi nel futuro. La realtà virtuale, nuova frontiera del cinema e della TV",
+   "publisher": "Palermo University Press",
+   "place": "Palermo",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Banzola V. (ed.) 1978, *Parma la città storica*, Parma, Cassa di Risparmio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Banzola",
+     "given": "V."
+    }
+   ],
+   "date": "1978",
+   "title": "Parma la città storica",
+   "publisher": "Cassa di Risparmio",
+   "place": "Parma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bertini G., Bianchi A. (eds.) 2003, *Il Palazzo Vescovile*, Parma, Cassa di Risparmio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Bertini",
+     "given": "G."
+    },
+    {
+     "family": "Bianchi",
+     "given": "A."
+    }
+   ],
+   "date": "2003",
+   "title": "Il Palazzo Vescovile",
+   "publisher": "Cassa di Risparmio",
+   "place": "Parma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Bianchi A., Catarsi M. 2004, *Il museo diocesano di Parma*, Parma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bianchi",
+     "given": "A."
+    },
+    {
+     "family": "Catarsi",
+     "given": "M."
+    }
+   ],
+   "date": "2004",
+   "title": "Il museo diocesano di Parma",
+   "place": "Parma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Bombelles C.R. 1845, *Monumenti e munificenze di Sua Maestà la Principessa Imperiale Maria Luigia Arciduchessa d'Austria, Duchessa di Parma, Piacenza e Guastalla*, Parma-Parigi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bombelles",
+     "given": "C.R."
+    }
+   ],
+   "date": "1845",
+   "title": "Monumenti e munificenze di Sua Maestà la Principessa Imperiale Maria Luigia Arciduchessa d'Austria, Duchessa di Parma, Piacenza e Guastalla",
+   "place": "Parma-Parigi",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Bonacini E. 2014, *La realtà aumentata e le app culturali in Italia: storie da un matrimonio in mobilità*, «Il Capitale Culturale: Studies on the Value of Cultural Heritage», 9, 89-121.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bonacini",
+     "given": "E."
+    }
+   ],
+   "date": "2014",
+   "title": "La realtà aumentata e le app culturali in Italia: storie da un matrimonio in mobilità",
+   "is_part_of": [
+    "Il Capitale Culturale: Studies on the Value of Cultural Heritage"
+   ],
+   "volume": "9",
+   "pages": "89-121",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Capoferro Cencetti A.M. 1994, *Gli anfiteatri romani dell'Emilia-Romagna*, in *Spettacolo in Aquileia e Cisalpina romana*, Antichità Altoadriatiche, 41, Trieste, Edizioni Università di Trieste, 301-313.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Capoferro Cencetti",
+     "given": "A.M."
+    }
+   ],
+   "date": "1994",
+   "title": "Gli anfiteatri romani dell'Emilia-Romagna",
+   "is_part_of": [
+    "Spettacolo in Aquileia e Cisalpina romana"
+   ],
+   "pages": "301-313",
+   "series": "Antichità Altoadriatiche",
+   "series_number": "41",
+   "publisher": "Edizioni Università di Trieste",
+   "place": "Trieste",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Catarsi M. 2009, *Il contributo dell'archeologia*, in Vera 2009, 367-500.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Catarsi",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Vera",
+     "given": "D."
+    }
+   ],
+   "date": "2009",
+   "title": "Il contributo dell'archeologia",
+   "is_part_of": [
+    "Storia di Parma, II, Parma romana"
+   ],
+   "pages": "367-500",
+   "language": "ita",
+   "xref": 42,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Catarsi M., Anghinetti C., Raggio P., Usai L. 2013, *Presenze longobarde nell'alta pianura parmense fra il torrente Parma e il fiume Enza. Atti del IV Convegno nazionale FederArcheo (Cosenza 2013)* (http://www.archeobologna.beniculturali.it/pubblicazioni/2013_catarsi_longobardi.pdf).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Catarsi",
+     "given": "M."
+    },
+    {
+     "family": "Anghinetti",
+     "given": "C."
+    },
+    {
+     "family": "Raggio",
+     "given": "P."
+    },
+    {
+     "family": "Usai",
+     "given": "L."
+    }
+   ],
+   "date": "2013",
+   "title": "Presenze longobarde nell'alta pianura parmense fra il torrente Parma e il fiume Enza. Atti del IV Convegno nazionale FederArcheo (Cosenza 2013)",
+   "language": "ita",
+   "uri": "http://www.archeobologna.beniculturali.it/pubblicazioni/2013_catarsi_longobardi.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Communication Strategies Lab 2012, *Realtà aumentate: esperienze, strategie e contenuti per l'Augmented Reality*, Milano, Apogeo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Communication Strategies Lab",
+     "given": ""
+    }
+   ],
+   "date": "2012",
+   "title": "Realtà aumentate: esperienze, strategie e contenuti per l'Augmented Reality",
+   "publisher": "Apogeo",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Conforti P. 1979, *Le mura di Parma*, I, Parma, Battei.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Conforti",
+     "given": "P."
+    }
+   ],
+   "date": "1979",
+   "title": "Le mura di Parma",
+   "volume": "I",
+   "publisher": "Battei",
+   "place": "Parma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Dall'Aglio M. 2000, *Il monastero di San Paolo a Parma*, «Felix Ravenna», 4, 153-156, 195-219.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dall'Aglio",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "Il monastero di San Paolo a Parma",
+   "is_part_of": [
+    "Felix Ravenna"
+   ],
+   "volume": "4",
+   "pages": "153-156; 195-219",
+   "language": "ita",
+   "notes": "pages cited \"153-156, 195-219\"",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Dall'Aglio P.L. 1987, *Problemi storico topografici in Agazia*, «Padusa», 23, 57-65.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dall'Aglio",
+     "given": "P.L."
+    }
+   ],
+   "date": "1987",
+   "title": "Problemi storico topografici in Agazia",
+   "is_part_of": [
+    "Padusa"
+   ],
+   "volume": "23",
+   "pages": "57-65",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Dall'Aglio P.L. 2000, *Il disegno urbano di Parma*, in F. Barocelli (ed.), *Una città e la storia: Parma attraverso i secoli*, Parma, Comune di Parma.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dall'Aglio",
+     "given": "P.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barocelli",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "Il disegno urbano di Parma",
+   "is_part_of": [
+    "Una città e la storia: Parma attraverso i secoli"
+   ],
+   "publisher": "Comune di Parma",
+   "place": "Parma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Dall'Aglio P.L. 2009, *Il territorio di Parma in età romana*, in Vera 2009, 555-601.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dall'Aglio",
+     "given": "P.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Vera",
+     "given": "D."
+    }
+   ],
+   "date": "2009",
+   "title": "Il territorio di Parma in età romana",
+   "is_part_of": [
+    "Storia di Parma, II, Parma romana"
+   ],
+   "pages": "555-601",
+   "language": "ita",
+   "xref": 42,
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Dalpozzo C., Negri F., Novaga A. (eds.) 2018, *La realtà virtuale. Dispositivi, estetiche, immagini*, Milano-Udine, Mimesis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Dalpozzo",
+     "given": "C."
+    },
+    {
+     "family": "Negri",
+     "given": "F."
+    },
+    {
+     "family": "Novaga",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "La realtà virtuale. Dispositivi, estetiche, immagini",
+   "publisher": "Mimesis",
+   "place": "Milano-Udine",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "da Mareto F. 1978, *Chiese e conventi di Parma*, Parma, Deputazione di Storia Patria per le province parmensi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "da Mareto",
+     "given": "F."
+    }
+   ],
+   "date": "1978",
+   "title": "Chiese e conventi di Parma",
+   "publisher": "Deputazione di Storia Patria per le province parmensi",
+   "place": "Parma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "De Paolis L.T. 2012, *Applicazione interattiva di realtà aumentata per i beni culturali*, «SCIRES-IT», 2, 121-132 (http://dx.doi.org/10.2423/i22394303v2n1p121).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Paolis",
+     "given": "L.T."
+    }
+   ],
+   "date": "2012",
+   "title": "Applicazione interattiva di realtà aumentata per i beni culturali",
+   "is_part_of": [
+    "SCIRES-IT"
+   ],
+   "volume": "2",
+   "pages": "121-132",
+   "language": "ita",
+   "doi": "10.2423/i22394303v2n1p121",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Di Pietro I. 2018, *Realtà aumentata per la fruizione museale: risorse culturali o inevitabili invasioni?*, «INTRECCI d'Arte», 7, 117-122.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Pietro",
+     "given": "I."
+    }
+   ],
+   "date": "2018",
+   "title": "Realtà aumentata per la fruizione museale: risorse culturali o inevitabili invasioni?",
+   "is_part_of": [
+    "INTRECCI d'Arte"
+   ],
+   "volume": "7",
+   "pages": "117-122",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Ferdani D., Demetrescu E., Cavalieri M., Pace G., Lenzi S. 2019, *3D modelling and visualization in field archaeology. From survey to interpretation of the past using digital technologies*, «Groma», 4, 1-21 (http://dx.doi.org/10.12977/groma26).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Cavalieri",
+     "given": "M."
+    },
+    {
+     "family": "Pace",
+     "given": "G."
+    },
+    {
+     "family": "Lenzi",
+     "given": "S."
+    }
+   ],
+   "date": "2019",
+   "title": "3D modelling and visualization in field archaeology. From survey to interpretation of the past using digital technologies",
+   "is_part_of": [
+    "Groma"
+   ],
+   "volume": "4",
+   "pages": "1-21",
+   "language": "eng",
+   "doi": "10.12977/groma26",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Gelichi S., Greci R. (eds.) 2013, *Andare oltretorrente. Archeologia e storia a Parma*, Parma, Edizioni Monte.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Gelichi",
+     "given": "S."
+    },
+    {
+     "family": "Greci",
+     "given": "R."
+    }
+   ],
+   "date": "2013",
+   "title": "Andare oltretorrente. Archeologia e storia a Parma",
+   "publisher": "Edizioni Monte",
+   "place": "Parma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Geroimenko V. (ed.) 2019, *Augmented Reality. Games II: The Gamification of Education, Medicine and Art*, Berlin, Springer.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Geroimenko",
+     "given": "V."
+    }
+   ],
+   "date": "2019",
+   "title": "Augmented Reality. Games II: The Gamification of Education, Medicine and Art",
+   "publisher": "Springer",
+   "place": "Berlin",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Giusteschi Conti P.M. 1962, *Note e spunti su Parma longobarda*, «Aurea Parma», 44, 207-2015.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Giusteschi Conti",
+     "given": "P.M."
+    }
+   ],
+   "date": "1962",
+   "title": "Note e spunti su Parma longobarda",
+   "is_part_of": [
+    "Aurea Parma"
+   ],
+   "volume": "44",
+   "pages": "207-2015",
+   "language": "ita",
+   "notes": "pages cited \"207-2015\" (as written)",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Gregori G.L. 1984, *Amphiteatralia*, «Mélanges de l'Ecole française de Rome», 96, 338-343.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gregori",
+     "given": "G.L."
+    }
+   ],
+   "date": "1984",
+   "title": "Amphiteatralia",
+   "is_part_of": [
+    "Mélanges de l'Ecole française de Rome"
+   ],
+   "volume": "96",
+   "pages": "338-343",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Guzzon C. 1995, *Il palazzo dell'Arena: uno dei più significativi edifici di Parma attraverso ricostruzioni e rifacimenti durati quasi duemila anni*, «Archivio Storico per le Province parmensi», 47, 247-261.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guzzon",
+     "given": "C."
+    }
+   ],
+   "date": "1995",
+   "title": "Il palazzo dell'Arena: uno dei più significativi edifici di Parma attraverso ricostruzioni e rifacimenti durati quasi duemila anni",
+   "is_part_of": [
+    "Archivio Storico per le Province parmensi"
+   ],
+   "volume": "47",
+   "pages": "247-261",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "La Valle S. 2017, *Virtual Reality*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "La Valle",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Virtual Reality",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Locatelli D., Malnati L., Maras D. 2013, *Storie della prima Parma. Etruschi, Galli, Romani: le origini della città alla luce delle nuove scoperte archeologiche*, Catalogo della mostra, Roma, L'Erma Di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Locatelli",
+     "given": "D."
+    },
+    {
+     "family": "Malnati",
+     "given": "L."
+    },
+    {
+     "family": "Maras",
+     "given": "D."
+    }
+   ],
+   "date": "2013",
+   "title": "Storie della prima Parma. Etruschi, Galli, Romani: le origini della città alla luce delle nuove scoperte archeologiche",
+   "publisher": "L'Erma Di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "\"Catalogo della mostra\"",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Mambriani C. 2006, *Il giardino di Parma*, Parma, Cassa di Risparmio di Parma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mambriani",
+     "given": "C."
+    }
+   ],
+   "date": "2006",
+   "title": "Il giardino di Parma",
+   "publisher": "Cassa di Risparmio di Parma",
+   "place": "Parma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Marini Calvani M. 2012, *Ventidue secoli a Parma: lo scavo sotto la sede centrale della Cassa di Risparmio in piazza Garibaldi*, BAR International Series 2406, Oxford, Archaeopress.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Marini Calvani",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Ventidue secoli a Parma: lo scavo sotto la sede centrale della Cassa di Risparmio in piazza Garibaldi",
+   "series": "BAR International Series",
+   "series_number": "2406",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Monaco G. 1957, *Regione VIII, Parma. Rinvenimenti nel centro della città romana nel 1948*, «Notizie degli Scavi di Antichità», 11, VIII s., 231-240.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Monaco",
+     "given": "G."
+    }
+   ],
+   "date": "1957",
+   "title": "Regione VIII, Parma. Rinvenimenti nel centro della città romana nel 1948",
+   "is_part_of": [
+    "Notizie degli Scavi di Antichità"
+   ],
+   "volume": "11",
+   "pages": "231-240",
+   "language": "ita",
+   "notes": "cited \"11, VIII s.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Morigi A. 2009, *La città dentro la città. Le trasformazioni di Parma antica*, in Vera 2009, 659-693.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Morigi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Vera",
+     "given": "D."
+    }
+   ],
+   "date": "2009",
+   "title": "La città dentro la città. Le trasformazioni di Parma antica",
+   "is_part_of": [
+    "Storia di Parma, II, Parma romana"
+   ],
+   "pages": "659-693",
+   "language": "ita",
+   "xref": 42,
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Morigi A. 2014, *Nuove carte d'identità. Topografia antica & progettazione urbana moderna per il restyling consapevole della forma di Parma*, «Paideia», 70, 277-287.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Morigi",
+     "given": "A."
+    }
+   ],
+   "date": "2014",
+   "title": "Nuove carte d'identità. Topografia antica & progettazione urbana moderna per il restyling consapevole della forma di Parma",
+   "is_part_of": [
+    "Paideia"
+   ],
+   "volume": "70",
+   "pages": "277-287",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Morigi A. 2016, *Pons lapidis. Nuovi documenti per la morfologia, la storia edilizia e la continuità insediativa del ponte romano nell'Archivio Storico Comunale di Parma*, «Paideia», 71, 81-114.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Morigi",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Pons lapidis. Nuovi documenti per la morfologia, la storia edilizia e la continuità insediativa del ponte romano nell'Archivio Storico Comunale di Parma",
+   "is_part_of": [
+    "Paideia"
+   ],
+   "volume": "71",
+   "pages": "81-114",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Morigi A. 2018, *Luoghi archeologici ritrovati: il ponte antico di Parma/Archaeological sites rediscovered: The Roman bridge of Parma*, in A. Morigi, C. Quintelli, *Fondare e ri-fondare. Parma, Reggio e Modena lungo la via Emilia romana/Founding and Re-founding. Parma, Reggio and Modena along the Roman Via Aemilia. Atti del Simposio internazionale (Parma 2017)*, Padova, Il Poligrafo, 355-374.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Morigi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Morigi",
+     "given": "A."
+    },
+    {
+     "family": "Quintelli",
+     "given": "C."
+    }
+   ],
+   "date": "2018",
+   "title": "Luoghi archeologici ritrovati: il ponte antico di Parma/Archaeological sites rediscovered: The Roman bridge of Parma",
+   "is_part_of": [
+    "Fondare e ri-fondare. Parma, Reggio e Modena lungo la via Emilia romana/Founding and Re-founding. Parma, Reggio and Modena along the Roman Via Aemilia. Atti del Simposio internazionale (Parma 2017)"
+   ],
+   "pages": "355-374",
+   "publisher": "Il Poligrafo",
+   "place": "Padova",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Morigi A. 2020, *Il linguaggio urbano. Segno, sopravvivenza e semantica dell'antico nel ponte di Parma e nelle città romane lungo la via Emilia*, in S. Voce (ed.), *La città e le sue metamorfosi. Dal mondo antico all'età moderna. Atti del Convegno (Parma 2019)*, Bologna, Patron, 77-103.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Morigi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Voce",
+     "given": "S."
+    }
+   ],
+   "date": "2020",
+   "title": "Il linguaggio urbano. Segno, sopravvivenza e semantica dell'antico nel ponte di Parma e nelle città romane lungo la via Emilia",
+   "is_part_of": [
+    "La città e le sue metamorfosi. Dal mondo antico all'età moderna. Atti del Convegno (Parma 2019)"
+   ],
+   "pages": "77-103",
+   "publisher": "Patron",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Ortalli J. 1994, *I teatri romani dell'Emilia Romagna*, in *Spettacolo in Aquileia e Cisalpina romana*, Antichità Altoadriatiche 41, Udine, 271-300.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ortalli",
+     "given": "J."
+    }
+   ],
+   "date": "1994",
+   "title": "I teatri romani dell'Emilia Romagna",
+   "is_part_of": [
+    "Spettacolo in Aquileia e Cisalpina romana"
+   ],
+   "pages": "271-300",
+   "series": "Antichità Altoadriatiche",
+   "series_number": "41",
+   "place": "Udine",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Primi A. 2017, *Realtà aumentata per il turismo: da nuova tecnologia a strategia innovativa?*, «Bollettino dell'Associazione Italiana di Cartografia», 159, 4-23.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Primi",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Realtà aumentata per il turismo: da nuova tecnologia a strategia innovativa?",
+   "is_part_of": [
+    "Bollettino dell'Associazione Italiana di Cartografia"
+   ],
+   "volume": "159",
+   "pages": "4-23",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Santoro S. 2009, *Gusto, cultura artistica e produzione artigianale in Parma romana*, in Vera 2009, 501-555.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Santoro",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Vera",
+     "given": "D."
+    }
+   ],
+   "date": "2009",
+   "title": "Gusto, cultura artistica e produzione artigianale in Parma romana",
+   "is_part_of": [
+    "Storia di Parma, II, Parma romana"
+   ],
+   "pages": "501-555",
+   "language": "ita",
+   "xref": 42,
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Stricker D., Gleue T., Daehne P., Almeida L., Vlahakis V., Ioannidis N., Karigiannis J., Tsotros M., Gounaris M. 2002, *Archeoguide: An Augmented Reality guide for archaeological sites*, «IEEE Computer Graphics and Applications», 2, 52-59.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Stricker",
+     "given": "D."
+    },
+    {
+     "family": "Gleue",
+     "given": "T."
+    },
+    {
+     "family": "Daehne",
+     "given": "P."
+    },
+    {
+     "family": "Almeida",
+     "given": "L."
+    },
+    {
+     "family": "Vlahakis",
+     "given": "V."
+    },
+    {
+     "family": "Ioannidis",
+     "given": "N."
+    },
+    {
+     "family": "Karigiannis",
+     "given": "J."
+    },
+    {
+     "family": "Tsotros",
+     "given": "M."
+    },
+    {
+     "family": "Gounaris",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Archeoguide: An Augmented Reality guide for archaeological sites",
+   "is_part_of": [
+    "IEEE Computer Graphics and Applications"
+   ],
+   "volume": "2",
+   "pages": "52-59",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Vera D. (ed.) 2009, *Storia di Parma*, II, *Parma romana*, Parma, Monte Università di Parma.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Vera",
+     "given": "D."
+    }
+   ],
+   "date": "2009",
+   "title": "Storia di Parma, II, Parma romana",
+   "publisher": "Monte Università di Parma",
+   "place": "Parma",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

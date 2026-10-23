@@ -1,0 +1,738 @@
+{
+ "citing_aec_id": 1047,
+ "source_file": "data/journal/30/1047.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bonetto J., Zara A. 2017, *The Nora Virtual Tour: An immersive visit in the ancient city*, in Garagnani, Gaucci 2017, 531-538.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bonetto",
+     "given": "J."
+    },
+    {
+     "family": "Zara",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "The Nora Virtual Tour: An immersive visit in the ancient city",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference in Honour of Professor Giuseppe Sassatelli's 70th Birthday (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "531-538",
+   "language": "eng",
+   "cited_aec_id": 956,
+   "xref": 8
+  },
+  {
+   "position": 2,
+   "raw": "Bracci A. 2004, *Prospezioni geofisiche*, in De Maria 2004, 169-175.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bracci",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Maria",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Prospezioni geofisiche",
+   "is_part_of": [
+    "Nuove ricerche e scavi nell'area della villa di Teoderico a Galeata, Atti della giornata di Studi (Ravenna 2002)"
+   ],
+   "pages": "169-175",
+   "language": "ita",
+   "xref": 5
+  },
+  {
+   "position": 3,
+   "raw": "Buscemi F., Militello P., D'Agostino G., Sammito A.M. 2014, *Tecniche di fotomodellazione per la documentazione e la comunicazione in archeologia: il sito di Calicantone (RG)*, «Archeologia e Calcolatori», 25, 131-156.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Buscemi",
+     "given": "F."
+    },
+    {
+     "family": "Militello",
+     "given": "P."
+    },
+    {
+     "family": "D'Agostino",
+     "given": "G."
+    },
+    {
+     "family": "Sammito",
+     "given": "A.M."
+    }
+   ],
+   "date": "2014",
+   "title": "Tecniche di fotomodellazione per la documentazione e la comunicazione in archeologia: il sito di Calicantone (RG)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "25",
+   "pages": "131-156",
+   "language": "ita",
+   "cited_aec_id": 719
+  },
+  {
+   "position": 4,
+   "raw": "D'Andrea A., Bosco A., Barbarino M. 2017, *A 3D environment to rebuild virtually the so-called Augusteum in Herculaneum*, in Garagnani, Gaucci 2017, 437-446.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Bosco",
+     "given": "A."
+    },
+    {
+     "family": "Barbarino",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "A 3D environment to rebuild virtually the so-called Augusteum in Herculaneum",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference in Honour of Professor Giuseppe Sassatelli's 70th Birthday (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "437-446",
+   "language": "eng",
+   "cited_aec_id": 948,
+   "xref": 8
+  },
+  {
+   "position": 5,
+   "raw": "De Maria S. (ed.) 2004, *Nuove ricerche e scavi nell'area della villa di Teoderico a Galeata, Atti della giornata di Studi (Ravenna 2002)*, Bologna, Ante Quem.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "De Maria",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Nuove ricerche e scavi nell'area della villa di Teoderico a Galeata, Atti della giornata di Studi (Ravenna 2002)",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "De Reu J., De Smedt Ph., Herremans D., Van Meirvenne M., Laloo P., De Clercq W. 2014, *On introducing an image-based 3D reconstruction method in archaeological excavation practice*, «Journal of Archaeological Science», 41, 251-262.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Reu",
+     "given": "J."
+    },
+    {
+     "family": "De Smedt",
+     "given": "Ph."
+    },
+    {
+     "family": "Herremans",
+     "given": "D."
+    },
+    {
+     "family": "Van Meirvenne",
+     "given": "M."
+    },
+    {
+     "family": "Laloo",
+     "given": "P."
+    },
+    {
+     "family": "De Clercq",
+     "given": "W."
+    }
+   ],
+   "date": "2014",
+   "title": "On introducing an image-based 3D reconstruction method in archaeological excavation practice",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "41",
+   "pages": "251-262",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Fiorini A. 2013, *Nuove possibilità fotogrammetria. La documentazione archeologica del nuraghe di Tanca Manna (Nuoro)*, «Archeologia e Calcolatori», 24, 341-354.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2013",
+   "title": "Nuove possibilità fotogrammetria. La documentazione archeologica del nuraghe di Tanca Manna (Nuoro)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "24",
+   "pages": "341-354",
+   "language": "ita",
+   "cited_aec_id": 678,
+   "notes": "cited title lacks 'della' before 'fotogrammetria' (metadata: 'Nuove possibilità della fotogrammetria')"
+  },
+  {
+   "position": 8,
+   "raw": "Garagnani S., Gaucci A. (eds.) 2017, *Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference in Honour of Professor Giuseppe Sassatelli's 70th Birthday (Bologna 2017)*, «Archeologia e Calcolatori», 28.2.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference in Honour of Professor Giuseppe Sassatelli's 70th Birthday (Bologna 2017)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Giorgi E. (ed.) 2009, *Groma 2. In profondità senza scavare. Metodologie di indagine non invasiva e diagnostica per l'archeologia. Atti della Tavola rotonda (Bologna 2008)*, Bologna, BraDypUS Communicating Cultural Heritage.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Giorgi",
+     "given": "E."
+    }
+   ],
+   "date": "2009",
+   "title": "Groma 2. In profondità senza scavare. Metodologie di indagine non invasiva e diagnostica per l'archeologia. Atti della Tavola rotonda (Bologna 2008)",
+   "publisher": "BraDypUS Communicating Cultural Heritage",
+   "place": "Bologna",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Grillini G.C., Minguzzi V., Carletti F. 2004, *Intonaci decorativi e malte di allettamento presenti nella villa di Teodorico (FC): caratterizzazione mineralogica e petrografica*, in De Maria 2004, 177-182.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Grillini",
+     "given": "G.C."
+    },
+    {
+     "family": "Minguzzi",
+     "given": "V."
+    },
+    {
+     "family": "Carletti",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Maria",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Intonaci decorativi e malte di allettamento presenti nella villa di Teodorico (FC): caratterizzazione mineralogica e petrografica",
+   "is_part_of": [
+    "Nuove ricerche e scavi nell'area della villa di Teoderico a Galeata, Atti della giornata di Studi (Ravenna 2002)"
+   ],
+   "pages": "177-182",
+   "language": "ita",
+   "xref": 5
+  },
+  {
+   "position": 11,
+   "raw": "Incerti M., D'Amico S., Giannetti S., Lavoratti G., Velo U. 2018, *Le Digital Humanities per lo studio e la comunicazione di beni culturali architettonici: il caso dei mausolei di Teodorico e Galla Placidia in Ravenna*, «Archeologia e Calcolatori», 29, 297-316.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Incerti",
+     "given": "M."
+    },
+    {
+     "family": "D'Amico",
+     "given": "S."
+    },
+    {
+     "family": "Giannetti",
+     "given": "S."
+    },
+    {
+     "family": "Lavoratti",
+     "given": "G."
+    },
+    {
+     "family": "Velo",
+     "given": "U."
+    }
+   ],
+   "date": "2018",
+   "title": "Le Digital Humanities per lo studio e la comunicazione di beni culturali architettonici: il caso dei mausolei di Teodorico e Galla Placidia in Ravenna",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "29",
+   "pages": "297-316",
+   "language": "ita",
+   "cited_aec_id": 1009
+  },
+  {
+   "position": 12,
+   "raw": "Kersten T.P., Lindstaedt M. 2012, *Image-based low-cost systems for automatic 3D recording and modelling of archaeological finds and objects*, in M. Ioannides, D. Fritsch, J. Leissner, R. Davies, F. Remondino, R. Caffo (eds.), *Progress in Cultural Heritage Preservation, Proceedings of the 4th International Conference, EuroMed 2012 (Limassol 2012)*, Berlin, Springer, 1-10.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kersten",
+     "given": "T.P."
+    },
+    {
+     "family": "Lindstaedt",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Fritsch",
+     "given": "D."
+    },
+    {
+     "family": "Leissner",
+     "given": "J."
+    },
+    {
+     "family": "Davies",
+     "given": "R."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Caffo",
+     "given": "R."
+    }
+   ],
+   "date": "2012",
+   "title": "Image-based low-cost systems for automatic 3D recording and modelling of archaeological finds and objects",
+   "is_part_of": [
+    "Progress in Cultural Heritage Preservation, Proceedings of the 4th International Conference, EuroMed 2012 (Limassol 2012)"
+   ],
+   "pages": "1-10",
+   "publisher": "Springer",
+   "place": "Berlin",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Morigi A. 2015, *Atlante stradale della terra di mezzo: tracciabilità delle rotte e dei flussi itinerari via Fornovo in età romana*, in M. Catarsi (ed.), *Da Forum Novum a Fornovo Taro. Archeologia, arte e storia di un territorio*, Fornovo Taro, 44-53.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Morigi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Catarsi",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "Atlante stradale della terra di mezzo: tracciabilità delle rotte e dei flussi itinerari via Fornovo in età romana",
+   "is_part_of": [
+    "Da Forum Novum a Fornovo Taro. Archeologia, arte e storia di un territorio"
+   ],
+   "pages": "44-53",
+   "place": "Fornovo Taro",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "Morigi A. 2016, *Progetto S.F.E.R.A. Ricerca scientifica, formazione universitaria, progettazione urbana e politiche occupazionali per l'archeologia dell'Emilia-Romagna*, «Studi Romagnoli», 66, 809-822.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Morigi",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Progetto S.F.E.R.A. Ricerca scientifica, formazione universitaria, progettazione urbana e politiche occupazionali per l'archeologia dell'Emilia-Romagna",
+   "is_part_of": [
+    "Studi Romagnoli"
+   ],
+   "volume": "66",
+   "pages": "809-822",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Morigi A. 2017, *Villa in agro: dati inediti sulle ville parmensi dalle indagini stratigrafiche del Lido Valtermina a Traversetolo*, «Paideia», 72, 637-660.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Morigi",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Villa in agro: dati inediti sulle ville parmensi dalle indagini stratigrafiche del Lido Valtermina a Traversetolo",
+   "is_part_of": [
+    "Paideia"
+   ],
+   "volume": "72",
+   "pages": "637-660",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Morigi A. 2018a, *Archeologia in Unipr. Il Programma S.F.E.R.A. Spazi e Forme dell'Emilia-Romagna Antica*, in A. Morigi, C. Quintelli (eds.), *Fondare e ri-fondare. Origine e sviluppo della città di Parma. Costruzione di un'identità policentrica lungo la via Emilia tra Parma, Reggio e Modena, Atti del simposio Internazionale (Parma 2017)*, Padova, Il Poligrafo, 113-134.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Morigi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Morigi",
+     "given": "A."
+    },
+    {
+     "family": "Quintelli",
+     "given": "C."
+    }
+   ],
+   "date": "2018",
+   "title": "Archeologia in Unipr. Il Programma S.F.E.R.A. Spazi e Forme dell'Emilia-Romagna Antica",
+   "is_part_of": [
+    "Fondare e ri-fondare. Origine e sviluppo della città di Parma. Costruzione di un'identità policentrica lungo la via Emilia tra Parma, Reggio e Modena, Atti del simposio Internazionale (Parma 2017)"
+   ],
+   "pages": "113-134",
+   "publisher": "Il Poligrafo",
+   "place": "Padova",
+   "language": "ita"
+  },
+  {
+   "position": 17,
+   "raw": "Morigi A. 2018b, *Fuori porta. Dati inediti sulle ville extraurbane di Parma dagli scavi e prospezioni in via Forlanini e in via De Chirico*, «Paideia», 73, 567-591.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Morigi",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Fuori porta. Dati inediti sulle ville extraurbane di Parma dagli scavi e prospezioni in via Forlanini e in via De Chirico",
+   "is_part_of": [
+    "Paideia"
+   ],
+   "volume": "73",
+   "pages": "567-591",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "Morigi A., Villicich R. 2017, *Scavi nell'area della Villa di Teoderico a Galeata. Le fasi di età romana*, Bologna, Bononia University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Morigi",
+     "given": "A."
+    },
+    {
+     "family": "Villicich",
+     "given": "R."
+    }
+   ],
+   "date": "2017",
+   "title": "Scavi nell'area della Villa di Teoderico a Galeata. Le fasi di età romana",
+   "publisher": "Bononia University Press",
+   "place": "Bologna",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Morigi A., Villicich R., Rinaldi E. 2017, *La villa sotto la villa. Nuovi dati di scavo sull'edificio urbano-rustico di età romana nell'area del \"Palazzo\" di Teoderico a Galeata*, «Studi Romagnoli», 68, 401-446.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Morigi",
+     "given": "A."
+    },
+    {
+     "family": "Villicich",
+     "given": "R."
+    },
+    {
+     "family": "Rinaldi",
+     "given": "E."
+    }
+   ],
+   "date": "2017",
+   "title": "La villa sotto la villa. Nuovi dati di scavo sull'edificio urbano-rustico di età romana nell'area del Palazzo di Teoderico a Galeata",
+   "is_part_of": [
+    "Studi Romagnoli"
+   ],
+   "volume": "68",
+   "pages": "401-446",
+   "language": "ita"
+  },
+  {
+   "position": 20,
+   "raw": "Putzolu C., Vicenzutto D. 2013, *Il rilievo delle superfici tramite fotogrammetria 3D: dal microscavo dei complessi tombali agli scavi in open area*, «Archeologia e Calcolatori», 24, 355-370.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Putzolu",
+     "given": "C."
+    },
+    {
+     "family": "Vicenzutto",
+     "given": "D."
+    }
+   ],
+   "date": "2013",
+   "title": "Il rilievo delle superfici tramite fotogrammetria 3D: dal microscavo dei complessi tombali agli scavi in open area",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "24",
+   "pages": "355-370",
+   "language": "ita",
+   "cited_aec_id": 679
+  },
+  {
+   "position": 21,
+   "raw": "Sfacteria M. 2016, *Fotomodellazione 3D e rilievo speditivo di scavo: l'esperienza del Philosophiana Project*, «Archeologia e Calcolatori», 27, 271-289.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sfacteria",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "Fotomodellazione 3D e rilievo speditivo di scavo: l'esperienza del Philosophiana Project",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "27",
+   "pages": "271-289",
+   "language": "ita",
+   "cited_aec_id": 852
+  },
+  {
+   "position": 22,
+   "raw": "Sordini M., Brogi F., Campana S. 2016, *3D recording of archaeological excavation: The case study of Santa Marta*, in S. Campana, R. Scopigno, G. Carpentiero, M. Cirillo (eds.), *CAA 2015, Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology*, I, Oxford, Archaeopress, 383-392.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sordini",
+     "given": "M."
+    },
+    {
+     "family": "Brogi",
+     "given": "F."
+    },
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Campana",
+     "given": "S."
+    },
+    {
+     "family": "Scopigno",
+     "given": "R."
+    },
+    {
+     "family": "Carpentiero",
+     "given": "G."
+    },
+    {
+     "family": "Cirillo",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "3D recording of archaeological excavation: The case study of Santa Marta",
+   "is_part_of": [
+    "CAA 2015, Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology"
+   ],
+   "volume": "I",
+   "pages": "383-392",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Villicich R. 2004, *Il complesso palaziale: i nuovi scavi*, in De Maria 2004, 121-135.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Villicich",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Maria",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Il complesso palaziale: i nuovi scavi",
+   "is_part_of": [
+    "Nuove ricerche e scavi nell'area della villa di Teoderico a Galeata, Atti della giornata di Studi (Ravenna 2002)"
+   ],
+   "pages": "121-135",
+   "language": "ita",
+   "xref": 5
+  },
+  {
+   "position": 24,
+   "raw": "Villicich R. 2012, *Scavi nell'area della villa di Teoderico a Galeata (FC): i nuovi dati*, «FOLD&R», 261, 1-13.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Villicich",
+     "given": "R."
+    }
+   ],
+   "date": "2012",
+   "title": "Scavi nell'area della villa di Teoderico a Galeata (FC): i nuovi dati",
+   "is_part_of": [
+    "FOLD&R"
+   ],
+   "volume": "261",
+   "pages": "1-13",
+   "language": "ita"
+  },
+  {
+   "position": 25,
+   "raw": "Villicich R. 2014, *La villa Teodericiana di Galeata: risultati e prospettive dopo le recenti campagne di scavo*, in P. Pensabene, C. Sfameni (eds.), *La villa restaurata e i nuovi studi sull'edilizia residenziale tardo antica (Piazza Armerina 2012)*, Bari, Edipuglia, 241-250.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Villicich",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pensabene",
+     "given": "P."
+    },
+    {
+     "family": "Sfameni",
+     "given": "C."
+    }
+   ],
+   "date": "2014",
+   "title": "La villa Teodericiana di Galeata: risultati e prospettive dopo le recenti campagne di scavo",
+   "is_part_of": [
+    "La villa restaurata e i nuovi studi sull'edilizia residenziale tardo antica (Piazza Armerina 2012)"
+   ],
+   "pages": "241-250",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita"
+  },
+  {
+   "position": 26,
+   "raw": "Villicich R. 2018, *Il teatro di Phoinike*, Bologna, Bononia University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Villicich",
+     "given": "R."
+    }
+   ],
+   "date": "2018",
+   "title": "Il teatro di Phoinike",
+   "publisher": "Bononia University Press",
+   "place": "Bologna",
+   "language": "ita"
+  },
+  {
+   "position": 27,
+   "raw": "Villicich R., Carra M.L. 2009, *Galeata (Forlì-Cesena). Villa di Teoderico*, «Ocnus», 17, 184-189.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Villicich",
+     "given": "R."
+    },
+    {
+     "family": "Carra",
+     "given": "M.L."
+    }
+   ],
+   "date": "2009",
+   "title": "Galeata (Forlì-Cesena). Villa di Teoderico",
+   "is_part_of": [
+    "Ocnus"
+   ],
+   "volume": "17",
+   "pages": "184-189",
+   "language": "ita"
+  }
+ ]
+}

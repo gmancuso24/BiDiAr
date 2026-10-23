@@ -1,0 +1,577 @@
+{
+ "citing_aec_id": 1211,
+ "source_file": "data/journal/33/1211.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Calvelli L., Sperti L., Pilutti Namer M., Delpozzo E. 2021, *Misurazioni digitali non invasive di* spolia *veneziani: innovazioni di metodo e proposte di applicazione*, «Archeologia e Calcolatori», 32.1, 175-194 (https://doi.org/10.19282/ac.32.1.2021.10).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Calvelli",
+     "given": "L."
+    },
+    {
+     "family": "Sperti",
+     "given": "L."
+    },
+    {
+     "family": "Pilutti Namer",
+     "given": "M."
+    },
+    {
+     "family": "Delpozzo",
+     "given": "E."
+    }
+   ],
+   "date": "2021",
+   "title": "Misurazioni digitali non invasive di spolia veneziani: innovazioni di metodo e proposte di applicazione",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "32",
+   "issue": "1",
+   "pages": "175-194",
+   "doi": "10.19282/ac.32.1.2021.10",
+   "cited_aec_id": 1133,
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Capecchi G. 2008, *I Barbari Daci fiorentini. Forma e colore di un'immagine di vittoria*, in G. Capecchi, M.G. Marzi, V. Saladino, *I Granduchi di Toscana e l'antico. Acquisti, restauri, allestimenti*, Biblioteca dell'\"Archivum Romanicum\", serie I, 352, Firenze, Leo S. Olschki, 131-179.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Capecchi",
+     "given": "G."
+    }
+   ],
+   "date": "2008",
+   "title": "I Barbari Daci fiorentini. Forma e colore di un'immagine di vittoria",
+   "is_part_of": [
+    "I Granduchi di Toscana e l'antico. Acquisti, restauri, allestimenti"
+   ],
+   "language": "ita",
+   "pages": "131-179",
+   "place": "Firenze",
+   "publisher": "Leo S. Olschki",
+   "series": "Biblioteca dell'\"Archivum Romanicum\", serie I",
+   "series_number": "352",
+   "notes": "volume by Capecchi G., Marzi M.G., Saladino V. (authors, not editors): not entered",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Meneghini R. 2018, *Il Foro di Traiano*, in Parisi Presicce et al. 2018, 257-262.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Meneghini",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Parisi Presicce",
+     "given": "C."
+    },
+    {
+     "family": "Milella",
+     "given": "M."
+    },
+    {
+     "family": "Pastor",
+     "given": "S."
+    },
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "date": "2018",
+   "title": "Il Foro di Traiano",
+   "is_part_of": [
+    "Traiano. Costruire l'Impero, creare l'Europa"
+   ],
+   "language": "ita",
+   "pages": "257-262",
+   "xref": 6,
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Muzzioli M.P. 2019, *Antonio de Romanis: disegni e appunti nelle raccolte Lanciani dell'Istituto Nazionale di Archeologia e Storia dell'Arte*, Roma, «Rivista dell'Istituto Nazionale d'Archeologia e Storia dell'Arte», 42.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Muzzioli",
+     "given": "M.P."
+    }
+   ],
+   "date": "2019",
+   "title": "Antonio de Romanis: disegni e appunti nelle raccolte Lanciani dell'Istituto Nazionale di Archeologia e Storia dell'Arte",
+   "is_part_of": [
+    "Rivista dell'Istituto Nazionale d'Archeologia e Storia dell'Arte"
+   ],
+   "language": "ita",
+   "volume": "42",
+   "notes": "place 'Roma' cited before the journal",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Paolucci F. 2019, *Traiano a Firenze*, in G. Di Pasquale (ed.), *L'arte di costruire un capolavoro: la Colonna Traiana*, Catalogo della mostra, Firenze, Giunti.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Paolucci",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Di Pasquale",
+     "given": "G."
+    }
+   ],
+   "date": "2019",
+   "title": "Traiano a Firenze",
+   "is_part_of": [
+    "L'arte di costruire un capolavoro: la Colonna Traiana"
+   ],
+   "language": "ita",
+   "place": "Firenze",
+   "publisher": "Giunti",
+   "notes": "catalogo della mostra",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Parisi Presicce C., Milella M., Pastor S., Ungaro L. (eds.) 2018, *Traiano. Costruire l'Impero, creare l'Europa*, Catalogo mostra, 2ª ed., Roma, De Luca Editori d'Arte.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Parisi Presicce",
+     "given": "C."
+    },
+    {
+     "family": "Milella",
+     "given": "M."
+    },
+    {
+     "family": "Pastor",
+     "given": "S."
+    },
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "date": "2018",
+   "title": "Traiano. Costruire l'Impero, creare l'Europa",
+   "language": "ita",
+   "publisher": "De Luca Editori d'Arte",
+   "place": "Roma",
+   "edition": "2",
+   "notes": "catalogo della mostra; 2ª ed.",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Rose Ch.B. 1997, *Dynastic Commemoration and Imperial Portraiture in the Julio-Claudian Period*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rose",
+     "given": "Ch.B."
+    }
+   ],
+   "date": "1997",
+   "title": "Dynastic Commemoration and Imperial Portraiture in the Julio-Claudian Period",
+   "language": "eng",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Sommaini F., Di Cola V., Albano V. 2019, *L'Aula Ovest del complesso di Domiziano tra Foro Romano e Palatino: metodologie a confronto per un rilievo XXL*, «Archeologia e Calcolatori», 30, 251-272 (https://doi.org/10.19282/ac.30.2019.15).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sommaini",
+     "given": "F."
+    },
+    {
+     "family": "Di Cola",
+     "given": "V."
+    },
+    {
+     "family": "Albano",
+     "given": "V."
+    }
+   ],
+   "date": "2019",
+   "title": "L'Aula Ovest del complesso di Domiziano tra Foro Romano e Palatino: metodologie a confronto per un rilievo XXL",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "30",
+   "pages": "251-272",
+   "doi": "10.19282/ac.30.2019.15",
+   "cited_aec_id": 1050,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Tuccinardi S. 2019, *Statua (non finita) di Dace prigioniero*, in S. Settis, C. Gasparri (eds.), *I Marmi Torlonia. Collezionare Capolavori*, Catalogo della mostra, Milano, Electa, 190-191.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tuccinardi",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Settis",
+     "given": "S."
+    },
+    {
+     "family": "Gasparri",
+     "given": "C."
+    }
+   ],
+   "date": "2019",
+   "title": "Statua (non finita) di Dace prigioniero",
+   "is_part_of": [
+    "I Marmi Torlonia. Collezionare Capolavori"
+   ],
+   "language": "ita",
+   "pages": "190-191",
+   "place": "Milano",
+   "publisher": "Electa",
+   "notes": "catalogo della mostra",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Ungaro L. 2002, *I Daci dal Foro di Traiano*, in M. De Nuccio, L. Ungaro (eds.), *I marmi colorati della Roma imperiale*, Catalogo della mostra, Venezia, Marsilio, 128-133; 334-337.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Nuccio",
+     "given": "M."
+    },
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "date": "2002",
+   "title": "I Daci dal Foro di Traiano",
+   "is_part_of": [
+    "I marmi colorati della Roma imperiale"
+   ],
+   "language": "ita",
+   "pages": "128-133; 334-337",
+   "place": "Venezia",
+   "publisher": "Marsilio",
+   "notes": "catalogo della mostra",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Ungaro L. 2007 (ed.), *Il Museo dei Fori Imperiali nei Mercati di Traiano*, Milano, Mondadori-Electa.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "date": "2007",
+   "title": "Il Museo dei Fori Imperiali nei Mercati di Traiano",
+   "language": "ita",
+   "publisher": "Mondadori-Electa",
+   "place": "Milano",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Ungaro L. 2010, *La Dacia a Roma: statue di Daci e il Foro di Traiano*, in E. Oberländer-Târnoveanu, L. Ungaro (eds.), *Ori antichi della Romania prima e dopo Traiano*, Catalogo della mostra, Milano, Silvana, 105-113.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Oberländer-Târnoveanu",
+     "given": "E."
+    },
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "date": "2010",
+   "title": "La Dacia a Roma: statue di Daci e il Foro di Traiano",
+   "is_part_of": [
+    "Ori antichi della Romania prima e dopo Traiano"
+   ],
+   "language": "ita",
+   "pages": "105-113",
+   "place": "Milano",
+   "publisher": "Silvana",
+   "notes": "catalogo della mostra",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Ungaro L. 2018a, *Il potere ritratto nel Foro di Traiano*, in Parisi Presicce et al. 2018, 91-98.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Parisi Presicce",
+     "given": "C."
+    },
+    {
+     "family": "Milella",
+     "given": "M."
+    },
+    {
+     "family": "Pastor",
+     "given": "S."
+    },
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "date": "2018",
+   "title": "Il potere ritratto nel Foro di Traiano",
+   "is_part_of": [
+    "Traiano. Costruire l'Impero, creare l'Europa"
+   ],
+   "language": "ita",
+   "pages": "91-98",
+   "xref": 6,
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Ungaro L. 2018b, *Daci e barbari deportati: dallo stereotipo all'esibizione nel foro, regalità e violenza*, in Parisi Presicce et al. 2018, 146-150.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Parisi Presicce",
+     "given": "C."
+    },
+    {
+     "family": "Milella",
+     "given": "M."
+    },
+    {
+     "family": "Pastor",
+     "given": "S."
+    },
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "date": "2018",
+   "title": "Daci e barbari deportati: dallo stereotipo all'esibizione nel foro, regalità e violenza",
+   "is_part_of": [
+    "Traiano. Costruire l'Impero, creare l'Europa"
+   ],
+   "language": "ita",
+   "pages": "146-150",
+   "xref": 6,
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Ungaro L. 2018c, *Simboli e immagini del trionfo in marmo: \"barbari\", romani e congeries armorum nel Foro di Traiano*, in Parisi Presicce et al. 2018, 291-296.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Parisi Presicce",
+     "given": "C."
+    },
+    {
+     "family": "Milella",
+     "given": "M."
+    },
+    {
+     "family": "Pastor",
+     "given": "S."
+    },
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "date": "2018",
+   "title": "Simboli e immagini del trionfo in marmo: \"barbari\", romani e congeries armorum nel Foro di Traiano",
+   "is_part_of": [
+    "Traiano. Costruire l'Impero, creare l'Europa"
+   ],
+   "language": "ita",
+   "pages": "291-296",
+   "xref": 6,
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Ungaro L. 2018d, *Schede di catalogo*, in Parisi Presicce et al. 2018, 406-413, 438-440, 458-461.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Parisi Presicce",
+     "given": "C."
+    },
+    {
+     "family": "Milella",
+     "given": "M."
+    },
+    {
+     "family": "Pastor",
+     "given": "S."
+    },
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "date": "2018",
+   "title": "Schede di catalogo",
+   "is_part_of": [
+    "Traiano. Costruire l'Impero, creare l'Europa"
+   ],
+   "language": "ita",
+   "pages": "406-413, 438-440, 458-461",
+   "xref": 6,
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Ungaro L. 2018e, *Traiano e la costruzione della sua immagine nel Foro*, «Veleia», 35, 151-177.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "date": "2018",
+   "title": "Traiano e la costruzione della sua immagine nel Foro",
+   "is_part_of": [
+    "Veleia"
+   ],
+   "language": "ita",
+   "volume": "35",
+   "pages": "151-177",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Ungaro L. 2020, *Sculture colossali nell'atelier del Foro di Traiano*, in J.M. Noguera, L. Ruiz (eds.), *Escultura romana en Hispania IX*, «Yakka. Revista de estudios yeclanos», 27, 23-32.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Noguera",
+     "given": "J.M."
+    },
+    {
+     "family": "Ruiz",
+     "given": "L."
+    }
+   ],
+   "date": "2020",
+   "title": "Sculture colossali nell'atelier del Foro di Traiano",
+   "is_part_of": [
+    "Escultura romana en Hispania IX",
+    "Yakka. Revista de estudios yeclanos"
+   ],
+   "language": "ita",
+   "pages": "23-32",
+   "volume": "27",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Ungaro L. 2022 c.s., *La conoscenza e la rappresentazione dei Fori Imperiali e dei Mercati di Traiano dall'era analogica a quella digitale: strutture e materiali dell'area traianea*, in Ph. Fleury, S. Madeleine (eds.), *Topographie et urbanisme de la Rome antique*, Actes du Colloque (Université de Caen Normandie 2019), Caen, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ungaro",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Fleury",
+     "given": "Ph."
+    },
+    {
+     "family": "Madeleine",
+     "given": "S."
+    }
+   ],
+   "date": "c.s.",
+   "title": "La conoscenza e la rappresentazione dei Fori Imperiali e dei Mercati di Traiano dall'era analogica a quella digitale: strutture e materiali dell'area traianea",
+   "is_part_of": [
+    "Topographie et urbanisme de la Rome antique. Actes du Colloque (Université de Caen Normandie 2019)"
+   ],
+   "language": "ita",
+   "place": "Caen",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title (and volume title): no publication found; cited '2022 c.s.'",
+   "confidence": "high"
+  }
+ ]
+}

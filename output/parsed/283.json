@@ -1,0 +1,249 @@
+{
+ "citing_aec_id": 283,
+ "source_file": "data/journal/10/283.md",
+ "references": [
+  {
+   "raw": "AA.VV. 1997, La Carta del Rischio del Patrimonio Culturale, Roma, Ministero per i Beni Culturali e Ambientali, Istituto Centrale per il Restauro, Bonifica.",
+   "date": "1997",
+   "type": "book",
+   "title": "La Carta del Rischio del Patrimonio Culturale",
+   "place": "Roma",
+   "publisher": "Ministero per i Beni Culturali e Ambientali, Istituto Centrale per il Restauro",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1,
+   "notes": "Bonifica"
+  },
+  {
+   "raw": "AA.VV. 1998, Progetto Finalizzato Beni Culturali, Sottoprogetto 3 (I° Relazione Annuale), Roma, C.N.R.",
+   "date": "1998",
+   "type": "book",
+   "title": "Progetto Finalizzato Beni Culturali, Sottoprogetto 3 (I° Relazione Annuale)",
+   "place": "Roma",
+   "publisher": "C.N.R",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "BEDINI L., BOZZI A., TONAZZINI A. 1997, Digital techniques for character recognition in old documents, «ERCIM News», 28, 24.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Bedini",
+     "given": "L."
+    },
+    {
+     "family": "Bozzi",
+     "given": "A."
+    },
+    {
+     "family": "Tonazzini",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Digital techniques for character recognition in old documents",
+   "is_part_of": [
+    "ERCIM News"
+   ],
+   "pages": "24",
+   "volume": "28",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "BOZZI A., TARIFFI F. 1997, Manuscripts and microfilms: techniques for digital conversion, in A. BOZZI (ed.), Better Access to Manuscripts and Browsings of Images, Bologna, Editrice CLUEB, 27-42.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Bozzi",
+     "given": "A."
+    },
+    {
+     "family": "Tariffi",
+     "given": "F."
+    }
+   ],
+   "type": "chapter",
+   "title": "Manuscripts and microfilms: techniques for digital conversion",
+   "editors": [
+    {
+     "family": "Bozzi",
+     "given": "A."
+    }
+   ],
+   "pages": "27-42",
+   "is_part_of": [
+    "Better Access to Manuscripts and Browsings of Images"
+   ],
+   "place": "Bologna",
+   "publisher": "Editrice CLUEB",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "FEDERICI C., ROSSI L. 1983, Manuale di conservazione e restauro del libro, Roma, La Nuova Italia Scientifica.",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Federici",
+     "given": "C."
+    },
+    {
+     "family": "Rossi",
+     "given": "L."
+    }
+   ],
+   "type": "book",
+   "title": "Manuale di conservazione e restauro del libro",
+   "place": "Roma",
+   "publisher": "La Nuova Italia Scientifica",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "GENOVA M., LORUSSO S. 1995, Biblioteca Nazionale Centrale e Biblioteca Casanatense a Roma: valutazioni ambientali ed energetiche, Rapporto Finale CISE-DSM-95-78.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Genova",
+     "given": "M."
+    },
+    {
+     "family": "Lorusso",
+     "given": "S."
+    }
+   ],
+   "type": "other",
+   "title": "Biblioteca Nazionale Centrale e Biblioteca Casanatense a Roma: valutazioni ambientali ed energetiche",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6,
+   "notes": "Rapporto Finale CISE-DSM-95-78"
+  },
+  {
+   "raw": "HENDRIKS K.B. 1991, Stability and preservation of archives media: paper, photographic materials and magnetic recordings, in AA.VV., 7th International Congress of Restorers of Graphic Art (Uppsala, 26th-30th August 1991).",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Hendriks",
+     "given": "K.B."
+    }
+   ],
+   "type": "chapter",
+   "title": "Stability and preservation of archives media: paper, photographic materials and magnetic recordings",
+   "is_part_of": [
+    "7th International Congress of Restorers of Graphic Art (Uppsala, 26th-30th August 1991)"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "HEY M. 1991, Preservazione di massa a portata di mano, in Dal 1966 al 1986. Interventi di massa e piani di emergenza per la conservazione del patrimonio librario e archivistico, Atti del Convegno (Firenze, 20-22 novembre 1986), Roma, Ministero per i Beni Culturali e Ambientali.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Hey",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Preservazione di massa a portata di mano",
+   "is_part_of": [
+    "Dal 1966 al 1986. Interventi di massa e piani di emergenza per la conservazione del patrimonio librario e archivistico, Atti del Convegno (Firenze, 20-22 novembre 1986)"
+   ],
+   "place": "Roma",
+   "publisher": "Ministero per i Beni Culturali e Ambientali",
+   "language": "ita",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "LORUSSO S. 1996, Caratterizzazione, tecnologia e conservazione dei manufatti cartacei, Roma, Bulzoni.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Lorusso",
+     "given": "S."
+    }
+   ],
+   "type": "book",
+   "title": "Caratterizzazione, tecnologia e conservazione dei manufatti cartacei",
+   "place": "Roma",
+   "publisher": "Bulzoni",
+   "language": "ita",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "LORUSSO S., MARABELLI M., VIVIANO G. 1995, La contaminazione ambientale ed il degrado dei materiali di interesse storico-artistico, Roma, Bulzoni.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Lorusso",
+     "given": "S."
+    },
+    {
+     "family": "Marabelli",
+     "given": "M."
+    },
+    {
+     "family": "Viviano",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "La contaminazione ambientale ed il degrado dei materiali di interesse storico-artistico",
+   "place": "Roma",
+   "publisher": "Bulzoni",
+   "language": "ita",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "MC INTYRE J.E. 1991, Disasters: Defence and self protection, in Dal 1966 al 1986. Interventi di massa e piani di emergenza per la conservazione del patrimonio librario e archivistico, Atti del Convegno (Firenze, 20-22 novembre 1986), Roma, Ministero per i Beni Culturali e Ambientali.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Mc Intyre",
+     "given": "J.E."
+    }
+   ],
+   "type": "chapter",
+   "title": "Disasters: Defence and self protection",
+   "is_part_of": [
+    "Dal 1966 al 1986. Interventi di massa e piani di emergenza per la conservazione del patrimonio librario e archivistico, Atti del Convegno (Firenze, 20-22 novembre 1986)"
+   ],
+   "place": "Roma",
+   "publisher": "Ministero per i Beni Culturali e Ambientali",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "VILLANTI S. 1997, Strumenti per il controllo dei parametri ambientali, «Cabnewsletter», 2, 2-7.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Villanti",
+     "given": "S."
+    }
+   ],
+   "type": "article",
+   "title": "Strumenti per il controllo dei parametri ambientali",
+   "is_part_of": [
+    "Cabnewsletter"
+   ],
+   "pages": "2-7",
+   "volume": "2",
+   "language": "ita",
+   "confidence": "high",
+   "position": 12
+  }
+ ]
+}

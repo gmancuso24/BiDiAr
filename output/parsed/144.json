@@ -1,0 +1,291 @@
+{
+ "citing_aec_id": 144,
+ "source_file": "data/journal/7/144.md",
+ "references": [
+  {
+   "raw": "D'ANDRIA F., SEMERARO G. 1993, Un sistema integrato per la gestione della cartografia e dei dati di scavo, «Archeologia e Calcolatori», 4, 159-180.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Semeraro",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Un sistema integrato per la gestione della cartografia e dei dati di scavo",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "159-180",
+   "volume": "4",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "ARROYO-BISHOP D. 1989, The Archéodata Project, in S. RAHTZ, J. RICHARDS (edd.), Computer Applications and Quantitative Methods in Archaeology, BAR International Series 548, 69-86.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Arroyo-Bishop",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "The Archéodata Project",
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S."
+    },
+    {
+     "family": "Richards",
+     "given": "J."
+    }
+   ],
+   "pages": "69-86",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology"
+   ],
+   "series": "BAR International Series",
+   "series_number": "548",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "BENELLI M.V. 1992, Le collezioni archeologiche dell'Opera della Primaziale pisana, «Archeologia e Calcolatori», 3, 139-155.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Benelli",
+     "given": "M.V."
+    }
+   ],
+   "type": "article",
+   "title": "Le collezioni archeologiche dell'Opera della Primaziale pisana",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "139-155",
+   "volume": "3",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "BURILLO F., GIMENO A., IBÁÑEZ E., POLO C. 1993, Un modelo de gestión integral del patrimonio arqueológico, en Aplicaciones Informáticas en Arqueología: Teorías y sistemas, Bilbao, 23-39.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Burillo",
+     "given": "F."
+    },
+    {
+     "family": "Gimeno",
+     "given": "A."
+    },
+    {
+     "family": "Ibáñez",
+     "given": "E."
+    },
+    {
+     "family": "Polo",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Un modelo de gestión integral del patrimonio arqueológico",
+   "pages": "23-39",
+   "is_part_of": [
+    "Aplicaciones Informáticas en Arqueología: Teorías y sistemas"
+   ],
+   "place": "Bilbao",
+   "language": "spa",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "FILIPPI G. 1992, Scheda computerizzata per il materiale laterizio bollato, «Archeologia e Calcolatori», 3, 219-252.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Filippi",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Scheda computerizzata per il materiale laterizio bollato",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "219-252",
+   "volume": "3",
+   "language": "ita",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "GUIMIER-SORBETS A.-M. 1990, Les bases de données en Archéologie, Paris, Editions du CNRS.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "book",
+   "title": "Les bases de données en Archéologie",
+   "place": "Paris",
+   "publisher": "Editions du CNRS",
+   "language": "fre",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "MOLINA F., ESQUIVEL J.A., CONTRERAS F. 1991, Sistema integrado de catalogación y análisis de la información arqueológica, «Complutum», 1, 243-246.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Molina",
+     "given": "F."
+    },
+    {
+     "family": "Esquivel",
+     "given": "J.A."
+    },
+    {
+     "family": "Contreras",
+     "given": "F."
+    }
+   ],
+   "type": "article",
+   "title": "Sistema integrado de catalogación y análisis de la información arqueológica",
+   "is_part_of": [
+    "Complutum"
+   ],
+   "pages": "243-246",
+   "volume": "1",
+   "language": "fre",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "MOLINA F., RODRÍGUEZ I., CONTRERAS F., ESQUIVEL J.A., PEÑA J.A. 1995, Un sistema de información arqueológica para Andalucía, en Jornadas Andaluzas de Patrimonio (in press).",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Molina",
+     "given": "F."
+    },
+    {
+     "family": "Rodríguez",
+     "given": "I."
+    },
+    {
+     "family": "Contreras",
+     "given": "F."
+    },
+    {
+     "family": "Esquivel",
+     "given": "J.A."
+    },
+    {
+     "family": "Peña",
+     "given": "J.A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Un sistema de información arqueológica para Andalucía",
+   "is_part_of": [
+    "Jornadas Andaluzas de Patrimonio"
+   ],
+   "language": "spa",
+   "confidence": "high",
+   "position": 8,
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "cited \"(in press)\"; online search not performed (year given)"
+  },
+  {
+   "raw": "SANTIS F., PEDUTO P., SESSA M.I., URSULEO M. 1990, Informatica e beni culturali, Roma, Edizioni Scientifiche Italiane.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Santis",
+     "given": "F."
+    },
+    {
+     "family": "Peduto",
+     "given": "P."
+    },
+    {
+     "family": "Sessa",
+     "given": "M.I."
+    },
+    {
+     "family": "Ursuleo",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Informatica e beni culturali",
+   "place": "Roma",
+   "publisher": "Edizioni Scientifiche Italiane",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "SANTIS F., SESSA M. 1990, Programmi, in Informatica e beni culturali, Roma, Edizione Scientifiche Italiane, 87-105.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Santis",
+     "given": "F."
+    },
+    {
+     "family": "Sessa",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Programmi",
+   "pages": "87-105",
+   "is_part_of": [
+    "Informatica e beni culturali"
+   ],
+   "place": "Roma",
+   "publisher": "Edizione Scientifiche Italiane",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10,
+   "xref": 9
+  },
+  {
+   "raw": "WIJNGAARDEN-BAKKER L. (ed.) 1986, Database Management and Zooarchaeology, «PACT», 14, Strasbourg.",
+   "date": "1986",
+   "editors": [
+    {
+     "family": "Wijngaarden-Bakker",
+     "given": "L."
+    }
+   ],
+   "type": "article",
+   "title": "Database Management and Zooarchaeology",
+   "is_part_of": [
+    "PACT"
+   ],
+   "volume": "14",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11,
+   "place": "Strasbourg"
+  }
+ ]
+}

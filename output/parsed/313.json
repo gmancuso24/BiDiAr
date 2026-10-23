@@ -1,0 +1,736 @@
+{
+ "citing_aec_id": 313,
+ "source_file": "data/journal/12/313.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BACELAR-NICOLAU H., NICOLAU F.C. 1994, Exploratory and Confirmatory Discrete Multivariate Analysis in a probabilistic approach for studying the regional distribution of Aids in Angola, in DIDAY et al. 1994, 610-618.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bacelar-Nicolau",
+     "given": "H."
+    },
+    {
+     "family": "Nicolau",
+     "given": "F.C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Diday",
+     "given": "E."
+    }
+   ],
+   "date": "1994",
+   "title": "Exploratory and Confirmatory Discrete Multivariate Analysis in a probabilistic approach for studying the regional distribution of Aids in Angola",
+   "is_part_of": [
+    "New Approaches in Classification and Data Analysis"
+   ],
+   "pages": "610-618",
+   "publisher": "Springer",
+   "place": "Berlin",
+   "language": "eng",
+   "xref": 16
+  },
+  {
+   "position": 2,
+   "raw": "BÉCUE M., HAEUSLER L. 1995, Vers une post-codification automatique, in S. BOLASCO, L. LEBART, A. SALEM (eds.), JADT 1995 – III Giornate Internazionali di Analisi Statistica dei Dati Testuali, Roma, CISU, 1, 35-42.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bécue",
+     "given": "M."
+    },
+    {
+     "family": "Haeusler",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bolasco",
+     "given": "S."
+    },
+    {
+     "family": "Lebart",
+     "given": "L."
+    },
+    {
+     "family": "Salem",
+     "given": "A."
+    }
+   ],
+   "date": "1995",
+   "title": "Vers une post-codification automatique",
+   "is_part_of": [
+    "JADT 1995 – III Giornate Internazionali di Analisi Statistica dei Dati Testuali"
+   ],
+   "volume": "1",
+   "pages": "35-42",
+   "publisher": "CISU",
+   "place": "Roma",
+   "language": "fre"
+  },
+  {
+   "position": 3,
+   "raw": "BENALI H., BUVAT I., FROUIN F., BAZIN J.P., CHABRIAIS J., DI PAOLA R. 1994, Factor Analysis of Medical Image Sequences (FAMIS): Fundamental principles and applications, in DIDAY et al. 1994, 619-627.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Benali",
+     "given": "H."
+    },
+    {
+     "family": "Buvat",
+     "given": "I."
+    },
+    {
+     "family": "Frouin",
+     "given": "F."
+    },
+    {
+     "family": "Bazin",
+     "given": "J.P."
+    },
+    {
+     "family": "Chabriais",
+     "given": "J."
+    },
+    {
+     "family": "Di Paola",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Diday",
+     "given": "E."
+    }
+   ],
+   "date": "1994",
+   "title": "Factor Analysis of Medical Image Sequences (FAMIS): Fundamental principles and applications",
+   "is_part_of": [
+    "New Approaches in Classification and Data Analysis"
+   ],
+   "pages": "619-627",
+   "publisher": "Springer",
+   "place": "Berlin",
+   "language": "eng",
+   "xref": 16
+  },
+  {
+   "position": 4,
+   "raw": "BÉNZÉCRI J.-P. (ed.) 1982, L’analyse des données, I-II, Paris, Dunod.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Bénzécri",
+     "given": "J.-P."
+    }
+   ],
+   "date": "1982",
+   "title": "L’analyse des données, I-II",
+   "publisher": "Dunod",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "2 vol."
+  },
+  {
+   "position": 5,
+   "raw": "BOLASCO S. 1999, Analisi multidimensionale dei dati, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bolasco",
+     "given": "S."
+    }
+   ],
+   "date": "1999",
+   "title": "Analisi multidimensionale dei dati",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "CAMIZ S. 1993, STATIS Ordinations vs. the Juhász-Nagy Models: the Predictability of an Exploratory Tool, «Abstracta Botanica», 17 (1-2), 29-36.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    }
+   ],
+   "date": "1993",
+   "title": "STATIS Ordinations vs. the Juhász-Nagy Models: the Predictability of an Exploratory Tool",
+   "is_part_of": [
+    "Abstracta Botanica"
+   ],
+   "volume": "17",
+   "issue": "1-2",
+   "pages": "29-36",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "CAMIZ S. 1994, Metodi di codifica ed analisi dei dati per lo studio di sigilli sumerici, in Atti della XXXVII Riunione Scientifica della Società Italiana di Statistica, Roma, CISU, 2, 105-112.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    }
+   ],
+   "date": "1994",
+   "title": "Metodi di codifica ed analisi dei dati per lo studio di sigilli sumerici",
+   "is_part_of": [
+    "Atti della XXXVII Riunione Scientifica della Società Italiana di Statistica"
+   ],
+   "volume": "2",
+   "pages": "105-112",
+   "publisher": "CISU",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "CAMIZ S. in press, Exploratory 2- and 3-way Data Analysis and Applications, «Lecture Notes of TICMI», Tbilisi International Centre of Mathematics and Informatics, 2 (2000).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    }
+   ],
+   "date": "2000",
+   "title": "Exploratory 2- and 3-way Data Analysis and Applications",
+   "is_part_of": [
+    "Lecture Notes of TICMI"
+   ],
+   "volume": "2",
+   "publisher": "Tbilisi International Centre of Mathematics and Informatics",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://emis.muni.cz/journals/TICMI/lnt/vol2/contents.htm"
+   },
+   "notes": "raw: \"in press ... 2 (2000)\"; volume found online as published in 2000 (ed. G. Jaiani); pages not given"
+  },
+  {
+   "position": 9,
+   "raw": "CAMIZ S., ROVA E. 1991, Analysis of ancient Near-Eastern cylinder seals (late fourth millenium B.C.), in E. DIDAY, Y. LECHEVALLIER (eds.), Symbolic-Numeric Data Analysis and Learning, Commack (NY), Nova Science Publisher, 131-142.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    },
+    {
+     "family": "Rova",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Diday",
+     "given": "E."
+    },
+    {
+     "family": "Lechevallier",
+     "given": "Y."
+    }
+   ],
+   "date": "1991",
+   "title": "Analysis of ancient Near-Eastern cylinder seals (late fourth millenium B.C.)",
+   "is_part_of": [
+    "Symbolic-Numeric Data Analysis and Learning"
+   ],
+   "pages": "131-142",
+   "publisher": "Nova Science Publisher",
+   "place": "Commack (NY)",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "CAMIZ S., ROVA E. 1992, Analyse des sceaux cylindriques du Proche Orient ancien de la période de Uruk/Jemdet Nasr, in M. BÉCUE, L. LEBART, N. RAJADELL (eds.), Jornades Internacionals d’Anàlisi de Dades Textuals 1990, Barcelona, Universitat Politecnica de Catalunya, 213-216.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    },
+    {
+     "family": "Rova",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bécue",
+     "given": "M."
+    },
+    {
+     "family": "Lebart",
+     "given": "L."
+    },
+    {
+     "family": "Rajadell",
+     "given": "N."
+    }
+   ],
+   "date": "1992",
+   "title": "Analyse des sceaux cylindriques du Proche Orient ancien de la période de Uruk/Jemdet Nasr",
+   "is_part_of": [
+    "Jornades Internacionals d’Anàlisi de Dades Textuals 1990"
+   ],
+   "pages": "213-216",
+   "publisher": "Universitat Politecnica de Catalunya",
+   "place": "Barcelona",
+   "language": "fre"
+  },
+  {
+   "position": 11,
+   "raw": "CAMIZ S., ROVA E. 1993a, L’analyse des segments repétés pour l’étude des sceaux du Proche-Orient, in Secondes journées internationales de analyse statistique des données textuelles, Montpellier, Telecom Paris, 437-445.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    },
+    {
+     "family": "Rova",
+     "given": "E."
+    }
+   ],
+   "date": "1993",
+   "title": "L’analyse des segments repétés pour l’étude des sceaux du Proche-Orient",
+   "is_part_of": [
+    "Secondes journées internationales de analyse statistique des données textuelles"
+   ],
+   "pages": "437-445",
+   "publisher": "Telecom Paris",
+   "place": "Montpellier",
+   "language": "fre"
+  },
+  {
+   "position": 12,
+   "raw": "CAMIZ S., ROVA E. 1993b, Multivariate Analysis Techniques applied to ancient Near Eastern seals of the late fourth millennium B.C., in J. PAVUK (ed.), Actes du XIIe Congrès International des Sciences Préhistoriques et Protohistoriques (Bratislava 1991), Bratislava, 133-138.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    },
+    {
+     "family": "Rova",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pavuk",
+     "given": "J."
+    }
+   ],
+   "date": "1993",
+   "title": "Multivariate Analysis Techniques applied to ancient Near Eastern seals of the late fourth millennium B.C.",
+   "is_part_of": [
+    "Actes du XIIe Congrès International des Sciences Préhistoriques et Protohistoriques (Bratislava 1991)"
+   ],
+   "pages": "133-138",
+   "place": "Bratislava",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "CAMIZ S., ROVA E. 1996, Metodi di analisi per lo studio di un gruppo di sigilli cilindrici vicino-orientali e di altre immagini strutturate, «Archeologia e Calcolatori», 7, 647-659.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    },
+    {
+     "family": "Rova",
+     "given": "E."
+    }
+   ],
+   "date": "1996",
+   "title": "Metodi di analisi per lo studio di un gruppo di sigilli cilindrici vicino-orientali e di altre immagini strutturate",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "647-659",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "CAMIZ S., ROVA E., TULLI V. 1998, Exploratory analysis of images engraved on ancient Near-Eastern seals based on a distance among strings, «Statistica», 58, 670-689.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    },
+    {
+     "family": "Rova",
+     "given": "E."
+    },
+    {
+     "family": "Tulli",
+     "given": "V."
+    }
+   ],
+   "date": "1998",
+   "title": "Exploratory analysis of images engraved on ancient Near-Eastern seals based on a distance among strings",
+   "is_part_of": [
+    "Statistica"
+   ],
+   "volume": "58",
+   "pages": "670-689",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "CAMIZ S., TULLI V. 1994, Distance indexes among hierarchic strings, in R. DUTTER, W. GROSSMANN (eds.), Compstat 1994, Proceedings in Computational Statistics, Short Communications, Vienna, Vienna Institutes for Statistics, University of Technology, University of Vienna, 45-46.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Camiz",
+     "given": "S."
+    },
+    {
+     "family": "Tulli",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dutter",
+     "given": "R."
+    },
+    {
+     "family": "Grossmann",
+     "given": "W."
+    }
+   ],
+   "date": "1994",
+   "title": "Distance indexes among hierarchic strings",
+   "is_part_of": [
+    "Compstat 1994, Proceedings in Computational Statistics, Short Communications"
+   ],
+   "pages": "45-46",
+   "publisher": "Vienna Institutes for Statistics, University of Technology, University of Vienna",
+   "place": "Vienna",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "DIDAY E. et al. (eds.) 1994, New Approaches in Classification and Data Analysis, Berlin, Springer.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Diday",
+     "given": "E."
+    }
+   ],
+   "date": "1994",
+   "title": "New Approaches in Classification and Data Analysis",
+   "publisher": "Springer",
+   "place": "Berlin",
+   "language": "eng",
+   "notes": "cited as DIDAY E. et al. (eds.); other editors unknown"
+  },
+  {
+   "position": 17,
+   "raw": "DIGARD F. et al. 1975, Répertoire analytique des cylindres orientaux publiés dans les sources bibliographiques éparses, I-III, Paris, Editions du Centre National de la Recherche Scientifique.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Digard",
+     "given": "F."
+    }
+   ],
+   "date": "1975",
+   "title": "Répertoire analytique des cylindres orientaux publiés dans les sources bibliographiques éparses, I-III",
+   "publisher": "Editions du Centre National de la Recherche Scientifique",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "low",
+   "notes": "cited \"DIGARD F. et al.\"; other authors unknown; 3 vol."
+  },
+  {
+   "position": 18,
+   "raw": "LEBART L., MORINEAU A., BÉCUE M., HAEUSLER L. 1994, Spad.t – version 1.5 – Manuel de référence, Paris, Cisia.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Lebart",
+     "given": "L."
+    },
+    {
+     "family": "Morineau",
+     "given": "A."
+    },
+    {
+     "family": "Bécue",
+     "given": "M."
+    },
+    {
+     "family": "Haeusler",
+     "given": "L."
+    }
+   ],
+   "date": "1994",
+   "title": "Spad.t – version 1.5 – Manuel de référence",
+   "publisher": "Cisia",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "software manual"
+  },
+  {
+   "position": 19,
+   "raw": "LEBART L., MORINEAU A., LAMBERT T., PLEUVRET P. 1991, Spad.n – version 2 – Manuel de référence, Paris, Cisia.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Lebart",
+     "given": "L."
+    },
+    {
+     "family": "Morineau",
+     "given": "A."
+    },
+    {
+     "family": "Lambert",
+     "given": "T."
+    },
+    {
+     "family": "Pleuvret",
+     "given": "P."
+    }
+   ],
+   "date": "1991",
+   "title": "Spad.n – version 2 – Manuel de référence",
+   "publisher": "Cisia",
+   "place": "Paris",
+   "language": "fre",
+   "notes": "software manual"
+  },
+  {
+   "position": 20,
+   "raw": "LEBART L., MORINEAU A., PIRON M. 1995, Statistique exploratoire multidimensionelle, Paris, Dunod.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lebart",
+     "given": "L."
+    },
+    {
+     "family": "Morineau",
+     "given": "A."
+    },
+    {
+     "family": "Piron",
+     "given": "M."
+    }
+   ],
+   "date": "1995",
+   "title": "Statistique exploratoire multidimensionelle",
+   "publisher": "Dunod",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 21,
+   "raw": "LEBART L., MORINEAU A., WARWICK K. 1985, Multivariate Descriptive Statistical Analysis, New York, J. Wiley and Sons.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lebart",
+     "given": "L."
+    },
+    {
+     "family": "Morineau",
+     "given": "A."
+    },
+    {
+     "family": "Warwick",
+     "given": "K."
+    }
+   ],
+   "date": "1985",
+   "title": "Multivariate Descriptive Statistical Analysis",
+   "publisher": "J. Wiley and Sons",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "LEBART L., SALEM A. 1988, Analyse statistique des données textuelles, Paris, Dunod.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lebart",
+     "given": "L."
+    },
+    {
+     "family": "Salem",
+     "given": "A."
+    }
+   ],
+   "date": "1988",
+   "title": "Analyse statistique des données textuelles",
+   "publisher": "Dunod",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 23,
+   "raw": "LEBART L., SALEM A. 1994, Statistique textuelle, Paris, Dunod.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lebart",
+     "given": "L."
+    },
+    {
+     "family": "Salem",
+     "given": "A."
+    }
+   ],
+   "date": "1994",
+   "title": "Statistique textuelle",
+   "publisher": "Dunod",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 24,
+   "raw": "MOSCATI P. 1986, Analisi statistiche multivariate sugli specchi etruschi, Contributi del Centro Linceo Interdisciplinare 74, Roma, Accademia Nazionale dei Lincei.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1986",
+   "title": "Analisi statistiche multivariate sugli specchi etruschi",
+   "series": "Contributi del Centro Linceo Interdisciplinare",
+   "series_number": "74",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 25,
+   "raw": "MOSCATI P. 1995, Quantitative analysis of Etruscan cinerary urns, in J. HUGGETT, N. RYAN (eds.), Computer Applications and Quantitative Methods in Archaeology, Oxford, Tempus Reparatum, 101-104.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    },
+    {
+     "family": "Ryan",
+     "given": "N."
+    }
+   ],
+   "date": "1995",
+   "title": "Quantitative analysis of Etruscan cinerary urns",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology"
+   ],
+   "pages": "101-104",
+   "publisher": "Tempus Reparatum",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "ROVA E. 1994, Ricerche sui sigilli a cilindro vicino-orientali del periodo di Uruk/Jemdet Nasr, Orientis Antiqui Collectio 20, Roma, Istituto per l’Oriente “C. Nallino”.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rova",
+     "given": "E."
+    }
+   ],
+   "date": "1994",
+   "title": "Ricerche sui sigilli a cilindro vicino-orientali del periodo di Uruk/Jemdet Nasr",
+   "series": "Orientis Antiqui Collectio",
+   "series_number": "20",
+   "publisher": "Istituto per l’Oriente “C. Nallino”",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 27,
+   "raw": "ROVA E. 1995, Metodi di codifica e analisi per lo studio di immagini strutturate: un’applicazione ai sigilli cilindrici del periodo di Uruk/Jemdet Nasr, «Archeologia e Calcolatori», 6, 7-34.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rova",
+     "given": "E."
+    }
+   ],
+   "date": "1995",
+   "title": "Metodi di codifica e analisi per lo studio di immagini strutturate: un’applicazione ai sigilli cilindrici del periodo di Uruk/Jemdet Nasr",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "6",
+   "pages": "7-34",
+   "language": "ita"
+  },
+  {
+   "position": 28,
+   "raw": "ROVA E. 1996, A method for analyzing the composition structure of images: a test on Near-Eastern cylinder seals, Proceedings of the XIIIth Congress of the International Union of Prehistoric and Protohistoric Sciences, Forlì, MAC, 1, 27-34.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rova",
+     "given": "E."
+    }
+   ],
+   "date": "1996",
+   "title": "A method for analyzing the composition structure of images: a test on Near-Eastern cylinder seals",
+   "is_part_of": [
+    "Proceedings of the XIIIth Congress of the International Union of Prehistoric and Protohistoric Sciences"
+   ],
+   "volume": "1",
+   "pages": "27-34",
+   "publisher": "MAC",
+   "place": "Forlì",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "SUTER C.E. 1999, Review of Rova 1994, «Journal of Near Eastern Studies», 58, 47-53.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Suter",
+     "given": "C.E."
+    }
+   ],
+   "date": "1999",
+   "title": "Review of Rova 1994",
+   "is_part_of": [
+    "Journal of Near Eastern Studies"
+   ],
+   "volume": "58",
+   "pages": "47-53",
+   "language": "eng"
+  }
+ ]
+}

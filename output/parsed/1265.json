@@ -1,0 +1,830 @@
+{
+ "citing_aec_id": 1265,
+ "source_file": "data/journal/34/1265.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Beltrami F. 2010, *La ricostruzione virtuale della Casa 1. Una proposta*, in Govi, Sassatelli 2010, 283-287.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Beltrami",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Govi",
+     "given": "E."
+    },
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "La ricostruzione virtuale della Casa 1. Una proposta",
+   "is_part_of": [
+    "Marzabotto. La Casa 1 della Regio IV – Insula 2"
+   ],
+   "pages": "283-287",
+   "language": "ita",
+   "xref": 21,
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Demetrescu E. 2015, *Archaeological stratigraphy as a formal language for virtual reconstruction. Theory and practice*, «Journal of Archaeological Science», 57, 42-55 (https://doi.org/10.1016/j.jas.2015.02.004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    }
+   ],
+   "date": "2015",
+   "title": "Archaeological stratigraphy as a formal language for virtual reconstruction. Theory and practice",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "57",
+   "pages": "42-55",
+   "doi": "10.1016/j.jas.2015.02.004",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Demetrescu E. 2018, *Virtual reconstruction as a scientific tool: The Extended Matrix and source-based modelling approach*, in S. Münster, S. Friedrichs, F. Niebling, A. Seidel-Grzesińska (eds.), *Digital Research and Education in Architectural Heritage (UHDL DECH, Dresden 2017)*, Springer, Cham, 102-116 (https://doi.org/10.1007/978-3-319-76992-9_7).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Münster",
+     "given": "S."
+    },
+    {
+     "family": "Friedrichs",
+     "given": "S."
+    },
+    {
+     "family": "Niebling",
+     "given": "F."
+    },
+    {
+     "family": "Seidel-Grzesińska",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "Virtual reconstruction as a scientific tool: The Extended Matrix and source-based modelling approach",
+   "is_part_of": [
+    "Digital Research and Education in Architectural Heritage (UHDL DECH, Dresden 2017)"
+   ],
+   "pages": "102-116",
+   "publisher": "Springer",
+   "place": "Cham",
+   "doi": "10.1007/978-3-319-76992-9_7",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Demetrescu E. 2022, *Extended Matrix. A Tool for Virtual Reconstruction in Archaeology* (https://www.extendedmatrix.org/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    }
+   ],
+   "date": "2022",
+   "title": "Extended Matrix. A Tool for Virtual Reconstruction in Archaeology",
+   "uri": "https://www.extendedmatrix.org/",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Demetrescu E., Fanini B. 2017, *A white-box framework to oversee archaeological virtual reconstructions in space and time: Methods and tools*, «Journal of Archaeological Sience: Reports», 14, 500-514.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Fanini",
+     "given": "B."
+    }
+   ],
+   "date": "2017",
+   "title": "A white-box framework to oversee archaeological virtual reconstructions in space and time: Methods and tools",
+   "is_part_of": [
+    "Journal of Archaeological Science: Reports"
+   ],
+   "volume": "14",
+   "pages": "500-514",
+   "language": "eng",
+   "notes": "'Sience' corrected to Science",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Demetrescu E., Ferdani D. 2021, *From field archaeology to virtual reconstruction: A five steps method using the Extended Matrix*, «Applied Sciences», 11, 5206 (https://doi.org/10.3390/app11115206).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    }
+   ],
+   "date": "2021",
+   "title": "From field archaeology to virtual reconstruction: A five steps method using the Extended Matrix",
+   "is_part_of": [
+    "Applied Sciences"
+   ],
+   "volume": "11",
+   "pages": "5206",
+   "doi": "10.3390/app11115206",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Garagnani S. 2017, *Archaeological Building Information Modeling: Beyond scalable representation in architecture and archaeology*, in Garagnani, Gaucci 2017, 141-149 (https://doi.org/10.19282/AC.28.2.2017.09).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Archaeological Building Information Modeling: Beyond scalable representation in architecture and archaeology",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "141-149",
+   "doi": "10.19282/AC.28.2.2017.09",
+   "language": "eng",
+   "xref": 8,
+   "cited_aec_id": 922,
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Garagnani S., Gaucci A. (eds.) 2017, *Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)*, «Archeologia e Calcolatori», 28, 2 (http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2017-01-07).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "uri": "http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2017-01-07",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Garagnani S., Gaucci A., Govi E. 2016a, *ArchaeoBIM: dallo scavo al Building Information Modeling di una struttura sepolta. Il caso del tempio etrusco di Uni a Marzabotto*, «Archeologia e Calcolatori», 27, 251-270 (https://doi.org/10.19282/AC.27.2016.13).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "date": "2016",
+   "title": "ArchaeoBIM: dallo scavo al Building Information Modeling di una struttura sepolta. Il caso del tempio etrusco di Uni a Marzabotto",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "27",
+   "pages": "251-270",
+   "doi": "10.19282/AC.27.2016.13",
+   "language": "ita",
+   "cited_aec_id": 851,
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Garagnani S., Gaucci A., Govi E. 2017, *Ancient reality and contemporary research. An introduction to the Conference KAINUA 2017 and its Proceedings*, in Garagnani, Gaucci 2017, 11-23 (https://doi.org/10.19282/AC.28.2.2017.01).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Ancient reality and contemporary research. An introduction to the Conference KAINUA 2017 and its Proceedings",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "11-23",
+   "doi": "10.19282/AC.28.2.2017.01",
+   "language": "eng",
+   "xref": 8,
+   "cited_aec_id": 914,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Garagnani S., Gaucci A., Gruška B. 2016b, *From the archaeological record to ArchaeoBIM. The case study of the Etruscan temple of Uni in Marzabotto*, «Virtual Archaeology Review», 7, 15, 77-86 (https://doi.org/10.4995/var.2016.5846).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Gruška",
+     "given": "B."
+    }
+   ],
+   "date": "2016",
+   "title": "From the archaeological record to ArchaeoBIM. The case study of the Etruscan temple of Uni in Marzabotto",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "volume": "7",
+   "issue": "15",
+   "pages": "77-86",
+   "doi": "10.4995/var.2016.5846",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Garagnani S., Gaucci A., Moscati P., Gaiani M. 2021, *ArchaeoBIM. Theory, Processes and Digital Methodologies for the Lost Heritage*, Bologna, Bononia University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Gaiani",
+     "given": "M."
+    }
+   ],
+   "date": "2021",
+   "title": "ArchaeoBIM. Theory, Processes and Digital Methodologies for the Lost Heritage",
+   "publisher": "Bononia University Press",
+   "place": "Bologna",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Gaucci A. 2017, *Kainua project: Principles, theoretical framework and archaeological analysis*, in Garagnani, Gaucci 2017, 99-112 (https://doi.org/10.19282/AC.28.2.2017.06).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Kainua project: Principles, theoretical framework and archaeological analysis",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "99-112",
+   "doi": "10.19282/AC.28.2.2017.06",
+   "language": "eng",
+   "xref": 8,
+   "cited_aec_id": 919,
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Gaucci A., Garagnani S., Manferdini A.M. 2015, *Reconstructing the lost reality. Archaeological analysis and transmedial technologies for a perspective of virtual reality in the Etruscan city of Kainua*, in G. Guidi et al. (eds.), *2nd Digital Heritage International Congress, DigitalHERITAGE 2015 (Granada 2015)*, IEEE, 227-234.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Manferdini",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Guidi",
+     "given": "G."
+    }
+   ],
+   "date": "2015",
+   "title": "Reconstructing the lost reality. Archaeological analysis and transmedial technologies for a perspective of virtual reality in the Etruscan city of Kainua",
+   "is_part_of": [
+    "2nd Digital Heritage International Congress, DigitalHERITAGE 2015 (Granada 2015)"
+   ],
+   "pages": "227-234",
+   "publisher": "IEEE",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Gaucci A., Garagnani S., Manferdini A.M., Dubbini M., Mancuso G. 2022, *Marzabotto, DTM della città etrusca* (https://doi.org/10.5281/zenodo.5734013).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Manferdini",
+     "given": "A.M."
+    },
+    {
+     "family": "Dubbini",
+     "given": "M."
+    },
+    {
+     "family": "Mancuso",
+     "given": "G."
+    }
+   ],
+   "date": "2022",
+   "title": "Marzabotto, DTM della città etrusca",
+   "doi": "10.5281/zenodo.5734013",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Gerbino S., Cieri L., Rainieri C., Fabbrocino G. 2021, *On BIM interoperability via the IFC standard: An assessment from the structural engineering and design viewpoint*, «Applied Sciences», 11, 11430 (https://doi.org/10.3390/app112311430).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gerbino",
+     "given": "S."
+    },
+    {
+     "family": "Cieri",
+     "given": "L."
+    },
+    {
+     "family": "Rainieri",
+     "given": "C."
+    },
+    {
+     "family": "Fabbrocino",
+     "given": "G."
+    }
+   ],
+   "date": "2021",
+   "title": "On BIM interoperability via the IFC standard: An assessment from the structural engineering and design viewpoint",
+   "is_part_of": [
+    "Applied Sciences"
+   ],
+   "volume": "11",
+   "pages": "11430",
+   "doi": "10.3390/app112311430",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Giuliani C.F. 2006, *L'edilizia nell'antichità*, Roma, Carocci Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Giuliani",
+     "given": "C.F."
+    }
+   ],
+   "date": "2006",
+   "title": "L'edilizia nell'antichità",
+   "publisher": "Carocci Editore",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Govi E. 2010, *L'analisi planimetrica e la ricostruzione delle fasi edilizie*, in Govi, Sassatelli 2010, 179-204.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Govi",
+     "given": "E."
+    },
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "L'analisi planimetrica e la ricostruzione delle fasi edilizie",
+   "is_part_of": [
+    "Marzabotto. La Casa 1 della Regio IV – Insula 2"
+   ],
+   "pages": "179-204",
+   "language": "ita",
+   "xref": 21,
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Govi E. 2016, *L'architettura domestica di Marzabotto tra vecchi scavi e nuove indagini*, «Annali della Fondazione per il Museo \"Claudio Faina\"», 23, 187-241.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "date": "2016",
+   "title": "L'architettura domestica di Marzabotto tra vecchi scavi e nuove indagini",
+   "is_part_of": [
+    "Annali della Fondazione per il Museo \"Claudio Faina\""
+   ],
+   "volume": "23",
+   "pages": "187-241",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Govi E. 2017, *Kainua-Marzabotto: The archaeological framework*, in Garagnani, Gaucci 2017, 87-97 (https://doi.org/10.19282/AC.28.2.2017.05).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Kainua-Marzabotto: The archaeological framework",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "87-97",
+   "doi": "10.19282/AC.28.2.2017.05",
+   "language": "eng",
+   "xref": 8,
+   "cited_aec_id": 918,
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Govi E., Sassatelli G. (eds.) 2010, *Marzabotto. La Casa 1 della Regio IV – Insula 2*, Imola, Antequem.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Govi",
+     "given": "E."
+    },
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "Marzabotto. La Casa 1 della Regio IV – Insula 2",
+   "publisher": "Antequem",
+   "place": "Imola",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Gruška B., Mancuso G., Zampieri E. 2017, *Building materials and virtual models of the Etruscan city of Kainua*, in Garagnani, Gaucci 2017, 165-176 (https://doi.org/10.19282/AC.28.2.2017.11).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gruška",
+     "given": "B."
+    },
+    {
+     "family": "Mancuso",
+     "given": "G."
+    },
+    {
+     "family": "Zampieri",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Building materials and virtual models of the Etruscan city of Kainua",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "165-176",
+   "doi": "10.19282/AC.28.2.2017.11",
+   "language": "eng",
+   "xref": 8,
+   "cited_aec_id": 924,
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Harris E. 1979, *Principles of Archaeological Stratigraphy*, Suffolk, Academic Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "E."
+    }
+   ],
+   "date": "1979",
+   "title": "Principles of Archaeological Stratigraphy",
+   "publisher": "Academic Press",
+   "place": "Suffolk",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Harris E., Brown III M.R., Brown G.J. (eds.) 1993, *Practices of Archaeological Stratigraphy*, Cambridge, MA, Academic Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Harris",
+     "given": "E."
+    },
+    {
+     "family": "Brown III",
+     "given": "M.R."
+    },
+    {
+     "family": "Brown",
+     "given": "G.J."
+    }
+   ],
+   "date": "1993",
+   "title": "Practices of Archaeological Stratigraphy",
+   "publisher": "Academic Press",
+   "place": "Cambridge, MA",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "London Charter 2009, *London Charter for the Computer-based Visualization of Cultural Heritage, Draft 2.1-2009* (www.londoncharter.org).",
+   "type": "other",
+   "date": "2009",
+   "title": "London Charter for the Computer-based Visualization of Cultural Heritage, Draft 2.1-2009",
+   "uri": "http://www.londoncharter.org",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Mancuso G. 2023a, *Marzabotto, Kainua 3D. Base GIS* (https://doi.org/10.5281/zenodo.7540522).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Mancuso",
+     "given": "G."
+    }
+   ],
+   "date": "2023",
+   "title": "Marzabotto, Kainua 3D. Base GIS",
+   "doi": "10.5281/zenodo.7540522",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Mancuso G. 2023b, *Marzabotto, Regio IV, Insula 2, Casa 1. Modello ricostruttivo BIM* (https://doi.org/10.5281/zenodo.7540382).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Mancuso",
+     "given": "G."
+    }
+   ],
+   "date": "2023",
+   "title": "Marzabotto, Regio IV, Insula 2, Casa 1. Modello ricostruttivo BIM",
+   "doi": "10.5281/zenodo.7540382",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Muzzarelli A., Franzoia M. 2017, *The ancient Digital Terrain Model and the infrastructure of the Etruscan city*, in Garagnani, Gaucci 2017, 151-164 (https://doi.org/10.19282/AC.28.2.2017.10).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Muzzarelli",
+     "given": "A."
+    },
+    {
+     "family": "Franzoia",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "The ancient Digital Terrain Model and the infrastructure of the Etruscan city",
+   "is_part_of": [
+    "Knowledge, Analysis and Innovative Methods for the Study and the Dissemination of Ancient Urban Areas, Proceedings of the KAINUA 2017 International Conference (Bologna 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "28",
+   "issue": "2",
+   "pages": "151-164",
+   "doi": "10.19282/AC.28.2.2017.10",
+   "language": "eng",
+   "xref": 8,
+   "cited_aec_id": 923,
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Sassatelli G., Taglioni C. 2000, *Città etrusca di Marzabotto*, Bologna, HitStudio Editori.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sassatelli",
+     "given": "G."
+    },
+    {
+     "family": "Taglioni",
+     "given": "C."
+    }
+   ],
+   "date": "2000",
+   "title": "Città etrusca di Marzabotto",
+   "publisher": "HitStudio Editori",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Seville Charter 2012, *International Principles of Virtual Archaeology* (http://sevilleprinciples.com/).",
+   "type": "other",
+   "date": "2012",
+   "title": "International Principles of Virtual Archaeology",
+   "uri": "http://sevilleprinciples.com/",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Yu Hook D. 2016, *From illusions to reality: Transformation of the term \"virtual archaeology\"*, «Archaeological and Anthropological Sciences», 8, 4, 647-650.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Yu Hook",
+     "given": "D."
+    }
+   ],
+   "date": "2016",
+   "title": "From illusions to reality: Transformation of the term \"virtual archaeology\"",
+   "is_part_of": [
+    "Archaeological and Anthropological Sciences"
+   ],
+   "volume": "8",
+   "issue": "4",
+   "pages": "647-650",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

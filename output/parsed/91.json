@@ -1,0 +1,74 @@
+{
+ "citing_aec_id": 91,
+ "source_file": "data/journal/5/91.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "DJINDJIAN F. 1985, La sériation en archéologie: un état de l'art: méthodes et applications, dans Panorama 1985 des traitements de données en archéologie, Juan-Les-Pins, A.P.C.D.A., 9-46.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1985",
+   "title": "La sériation en archéologie: un état de l'art: méthodes et applications",
+   "is_part_of": [
+    "Panorama 1985 des traitements de données en archéologie"
+   ],
+   "pages": "9-46",
+   "place": "Juan-Les-Pins",
+   "publisher": "A.P.C.D.A.",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "JAMBU M. 1989, Exploration informatique et statistique des données, Paris, Dunod.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jambu",
+     "given": "M."
+    }
+   ],
+   "date": "1989",
+   "title": "Exploration informatique et statistique des données",
+   "place": "Paris",
+   "publisher": "Dunod",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "RICHARDOT-COULET, CHESSEL D., BOURNAUD M. 1986, Typological value of the benthos of old beds of a large river. Methodological approch, « Archiv für Hydrobiologie », 107, 3, 363-383.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Richardot-Coulet",
+     "given": ""
+    },
+    {
+     "family": "Chessel",
+     "given": "D."
+    },
+    {
+     "family": "Bournaud",
+     "given": "M."
+    }
+   ],
+   "date": "1986",
+   "title": "Typological value of the benthos of old beds of a large river. Methodological approch",
+   "is_part_of": [
+    "Archiv für Hydrobiologie"
+   ],
+   "volume": "107",
+   "issue": "3",
+   "pages": "363-383",
+   "language": "eng",
+   "notes": "first author given name missing in citation",
+   "confidence": "high"
+  }
+ ]
+}

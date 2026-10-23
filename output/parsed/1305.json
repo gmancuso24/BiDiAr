@@ -1,0 +1,705 @@
+{
+ "citing_aec_id": 1305,
+ "source_file": "data/journal/35/1305.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bezzi A., Bezzi L., Ducke B. 2010, *Computer vision e Structure from Motion, nuove metodologie per la documentazione archeologica tridimensionale: un approccio aperto*, in G. De Felice, M.G. Sibilano (eds.), *ArcheoFOSS. Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del V Workshop (Foggia 2010)*, Bari, Edipuglia, 103-111.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bezzi",
+     "given": "A."
+    },
+    {
+     "family": "Bezzi",
+     "given": "L."
+    },
+    {
+     "family": "Ducke",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    }
+   ],
+   "date": "2010",
+   "title": "Computer vision e Structure from Motion, nuove metodologie per la documentazione archeologica tridimensionale: un approccio aperto",
+   "is_part_of": [
+    "ArcheoFOSS. Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del V Workshop (Foggia 2010)"
+   ],
+   "pages": "103-111",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "language": "ita",
+   "notes": "authors cited as Ducke (1303 cites Benjamin, year 2011)"
+  },
+  {
+   "position": 2,
+   "raw": "Bogdani J. 2020, *Fieldnotes for the development and publication of open standards for the vectorisation of archaeologic and architectonic topographic legacy data*, in J. Bogdani, R. Montalbano, P. Rosati (eds.), *ArcheoFOSS XIV 2020: Open Software, Hardware, Processes, Data and Formats in Archaeological Research. Proceedings of the 14th International Conference*, Oxford, Archaeopress, 138-147 (https://www.archaeopress.com/Archaeopress/download/9781803271248).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    },
+    {
+     "family": "Montalbano",
+     "given": "R."
+    },
+    {
+     "family": "Rosati",
+     "given": "P."
+    }
+   ],
+   "date": "2020",
+   "title": "Fieldnotes for the development and publication of open standards for the vectorisation of archaeologic and architectonic topographic legacy data",
+   "is_part_of": [
+    "ArcheoFOSS XIV 2020: Open Software, Hardware, Processes, Data and Formats in Archaeological Research. Proceedings of the 14th International Conference"
+   ],
+   "pages": "138-147",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "uri": "https://www.archaeopress.com/Archaeopress/download/9781803271248"
+  },
+  {
+   "position": 3,
+   "raw": "Bonomi S. 1991, *Corpus Vasorum Antiquorum*, Italia LXV, Adria II, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bonomi",
+     "given": "S."
+    }
+   ],
+   "date": "1991",
+   "title": "Corpus Vasorum Antiquorum, Italia LXV, Adria II",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Brancato R., Giacoppo F., Luongo G., Pianese C., Roccuzzo M.C., Scerra S. in press, *Osservazioni archeologiche e topografiche sull'insediamento d'altura nel territorio ibleo (Sicilia sud-orientale): il caso di Monte Casasia*, in *Hyblaea* II.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    },
+    {
+     "family": "Giacoppo",
+     "given": "F."
+    },
+    {
+     "family": "Luongo",
+     "given": "G."
+    },
+    {
+     "family": "Pianese",
+     "given": "C."
+    },
+    {
+     "family": "Roccuzzo",
+     "given": "M.C."
+    },
+    {
+     "family": "Scerra",
+     "given": "S."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Osservazioni archeologiche e topografiche sull'insediamento d'altura nel territorio ibleo (Sicilia sud-orientale): il caso di Monte Casasia",
+   "is_part_of": [
+    "Hyblaea II"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "position": 5,
+   "raw": "Brancato R., Lamanna C., Manganelli L., Mirto V. 2023, *Digital technologies and the archaeological topography of Castellito (Sicily): The reconstruction of a Roman villa*, «Archeologia e Calcolatori», 34.2, 185-206 (https://doi.org/10.19282/ac.34.2.2023.10).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    },
+    {
+     "family": "Lamanna",
+     "given": "C."
+    },
+    {
+     "family": "Manganelli",
+     "given": "L."
+    },
+    {
+     "family": "Mirto",
+     "given": "V."
+    }
+   ],
+   "date": "2023",
+   "language": "eng",
+   "cited_aec_id": 1268
+  },
+  {
+   "position": 6,
+   "raw": "Cardaci A., Gallina D., Versaci A. 2013, *Laser Scanner 3D per lo studio e la catalogazione dell'archeologia medievale: la chiesa di Santa Croce in Bergamo*, «Archeologia e Calcolatori», 24, 209-229 (https://www.archcalc.cnr.it/journal/id.php?id=669).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cardaci",
+     "given": "A."
+    },
+    {
+     "family": "Gallina",
+     "given": "D."
+    },
+    {
+     "family": "Versaci",
+     "given": "A."
+    }
+   ],
+   "date": "2013",
+   "language": "ita",
+   "cited_aec_id": 669
+  },
+  {
+   "position": 7,
+   "raw": "Costabile S., Cocco S., Petriglia L. 2013, *Il nuovo piano straordinario di telerilevamento ambientale: esempio di sinergia tra amministrazione centrale e amministrazione locale*, in *Atti della 17° Conferenza Nazionale ASITA. Federazione italiana delle Associazioni Scientifiche per le Informazioni Territoriali e Ambientali (Riva del Garda 2013)*, New York, Springer, 491-494.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Costabile",
+     "given": "S."
+    },
+    {
+     "family": "Cocco",
+     "given": "S."
+    },
+    {
+     "family": "Petriglia",
+     "given": "L."
+    }
+   ],
+   "date": "2013",
+   "title": "Il nuovo piano straordinario di telerilevamento ambientale: esempio di sinergia tra amministrazione centrale e amministrazione locale",
+   "is_part_of": [
+    "Atti della 17° Conferenza Nazionale ASITA. Federazione italiana delle Associazioni Scientifiche per le Informazioni Territoriali e Ambientali (Riva del Garda 2013)"
+   ],
+   "pages": "491-494",
+   "publisher": "Springer",
+   "place": "New York",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "Ferdani F., Demetrescu E., Cavalieri E., Pace G., Lenzi S. 2019, *3D modelling and visualization in field archaeology. From survey to interpretation of the past using digital technologies*, «Groma», 4 (https://doi.org/10.12977/groma26).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ferdani",
+     "given": "F."
+    },
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Cavalieri",
+     "given": "E."
+    },
+    {
+     "family": "Pace",
+     "given": "G."
+    },
+    {
+     "family": "Lenzi",
+     "given": "S."
+    }
+   ],
+   "date": "2019",
+   "title": "3D modelling and visualization in field archaeology. From survey to interpretation of the past using digital technologies",
+   "is_part_of": [
+    "Groma"
+   ],
+   "volume": "4",
+   "language": "eng",
+   "doi": "10.12977/groma26"
+  },
+  {
+   "position": 9,
+   "raw": "Fontana G. 2022, *Italy's hidden hillforts: A large-scale Lidar-based mapping of Samnium*, «Journal of Field Archaeology», 47, 4, 245-261 (https://doi.org/10.1080/00934690.2022.2031465).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fontana",
+     "given": "G."
+    }
+   ],
+   "date": "2022",
+   "title": "Italy's hidden hillforts: A large-scale Lidar-based mapping of Samnium",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "volume": "47",
+   "issue": "4",
+   "pages": "245-261",
+   "language": "eng",
+   "doi": "10.1080/00934690.2022.2031465"
+  },
+  {
+   "position": 10,
+   "raw": "García Sánchez J. 2018, *Archaeological LiDAR in Italy: Enhancing research with publicly accessible data*, «Antiquity», 92, 364, 1-12 (https://doi.org/https://doi.org/10.15184/aqy.2018.147).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "García Sánchez",
+     "given": "J."
+    }
+   ],
+   "date": "2018",
+   "title": "Archaeological LiDAR in Italy: Enhancing research with publicly accessible data",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "92",
+   "issue": "364",
+   "pages": "1-12",
+   "language": "eng",
+   "doi": "10.15184/aqy.2018.147"
+  },
+  {
+   "position": 11,
+   "raw": "Gorton A.F. 1996, *Egyptian and Egyptianizing scarabs: A typology of steatite, faience and paste scarabs from Punic and other Mediterranean sites*, Oxford, Oxford University Committee.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gorton",
+     "given": "A.F."
+    }
+   ],
+   "date": "1996",
+   "title": "Egyptian and Egyptianizing scarabs: A typology of steatite, faience and paste scarabs from Punic and other Mediterranean sites",
+   "publisher": "Oxford University Committee",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Hölbl G. 1979, *Beziehungen der ägyptischen Kultur zu Altitalien* (Etudes préliminaires aux religions orientales dans l'Empire romain 62), Leiden, Brill.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hölbl",
+     "given": "G."
+    }
+   ],
+   "date": "1979",
+   "title": "Beziehungen der ägyptischen Kultur zu Altitalien",
+   "series": "Etudes préliminaires aux religions orientales dans l'Empire romain",
+   "series_number": "62",
+   "publisher": "Brill",
+   "place": "Leiden",
+   "language": "ger"
+  },
+  {
+   "position": 13,
+   "raw": "Lock G. 2003, *Using Computers in Archaeology: Towards Virtual Pasts*, London-New York, Routledge (https://doi.org/10.4324/9780203451076).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Using Computers in Archaeology: Towards Virtual Pasts",
+   "publisher": "Routledge",
+   "place": "London-New York",
+   "language": "eng",
+   "doi": "10.4324/9780203451076"
+  },
+  {
+   "position": 14,
+   "raw": "Lo Schiavo F. 2010, *Le fibule dell'Italia meridionale e della Sicilia dall'età del Bronzo recente al VI sec. a.C.*, Stuttgart, Franz Steiner Verlag.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lo Schiavo",
+     "given": "F."
+    }
+   ],
+   "date": "2010",
+   "title": "Le fibule dell'Italia meridionale e della Sicilia dall'età del Bronzo recente al VI sec. a.C.",
+   "publisher": "Franz Steiner Verlag",
+   "place": "Stuttgart",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Moretti A.M., Ricciardi L. 1993, *Le terrecotte architettoniche di Tuscania*, in E. Rystedt, C. Wikander, Ö. Wikander (eds.), Deliciae Fictiles, *Proceedings of the first Iternational Conference on Central Italic Architectural Terracottas*, Stockholm, Åstroms, 163-181.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moretti",
+     "given": "A.M."
+    },
+    {
+     "family": "Ricciardi",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rystedt",
+     "given": "E."
+    },
+    {
+     "family": "Wikander",
+     "given": "C."
+    },
+    {
+     "family": "Wikander",
+     "given": "Ö."
+    }
+   ],
+   "date": "1993",
+   "title": "Le terrecotte architettoniche di Tuscania",
+   "is_part_of": [
+    "Deliciae Fictiles, Proceedings of the first International Conference on Central Italic Architectural Terracottas"
+   ],
+   "pages": "163-181",
+   "publisher": "Åstroms",
+   "place": "Stockholm",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Moretti Sgubini A.M. 2018, *Una tomba infantile della necropoli di Sasso Pizzuto di Tuscania*, «Mediterranea», 15, 309-322.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moretti Sgubini",
+     "given": "A.M."
+    }
+   ],
+   "date": "2018",
+   "title": "Una tomba infantile della necropoli di Sasso Pizzuto di Tuscania",
+   "is_part_of": [
+    "Mediterranea"
+   ],
+   "volume": "15",
+   "pages": "309-322",
+   "language": "ita"
+  },
+  {
+   "position": 17,
+   "raw": "Moscati P. 2009, *Archeologia e musealizzazione virtuale*, in A.L. D'Agata, S. Alaura (eds.), *Quale Futuro per l'Archeologia?*, Roma, Gangemi, 189-200.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "D'Agata",
+     "given": "A.L."
+    },
+    {
+     "family": "Alaura",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "Archeologia e musealizzazione virtuale",
+   "is_part_of": [
+    "Quale Futuro per l'Archeologia?"
+   ],
+   "pages": "189-200",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "Naso A. 2023, *Tombe a camera con atrio a tre celle: novità da Tuscania*, in R. Brancato (ed.), *Città e territorio nel Mediterraneo antico. Studi offerti a Edoardo Tortorici*, Roma, Quasar, 49-59.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Naso",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brancato",
+     "given": "R."
+    }
+   ],
+   "date": "2023",
+   "title": "Tombe a camera con atrio a tre celle: novità da Tuscania",
+   "is_part_of": [
+    "Città e territorio nel Mediterraneo antico. Studi offerti a Edoardo Tortorici"
+   ],
+   "pages": "49-59",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Naso A., Zinni M., Brancato R., Carosi S. in press, *La necropoli di Sasso Pinzuto a Tuscania: campagna di scavo 2022*, in *Come Federico opera sul campo*, II, Roma, Quasar.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Naso",
+     "given": "A."
+    },
+    {
+     "family": "Zinni",
+     "given": "M."
+    },
+    {
+     "family": "Brancato",
+     "given": "R."
+    },
+    {
+     "family": "Carosi",
+     "given": "S."
+    }
+   ],
+   "date": "c.s.",
+   "title": "La necropoli di Sasso Pinzuto a Tuscania: campagna di scavo 2022",
+   "is_part_of": [
+    "Come Federico opera sul campo, II"
+   ],
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "position": 20,
+   "raw": "Pansini A., Alvaro C., Amici S., Bajeot J., Danesi G., Gerogiannis G.M., La Marca C., Liberotti G., Moscone D., Pizzoli E., Zinni M. 2018, *The 'Shape of Monuments' project: Traditional methods and new technologies in the Basilica of San Lorenzo Fuori le Mura, Rome*, in D. Spampinato (ed.), *Settimo Convegno Annuale AIUCD 2018 (Bari 2018). Patrimoni culturali nell'era digitale. Memorie, culture umanistiche e tecnologia, Book of Abstracts*, Bari, Associazione per l'Informatica Umanistica e la Cultura Digitale, 183-187.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pansini",
+     "given": "A."
+    },
+    {
+     "family": "Alvaro",
+     "given": "C."
+    },
+    {
+     "family": "Amici",
+     "given": "S."
+    },
+    {
+     "family": "Bajeot",
+     "given": "J."
+    },
+    {
+     "family": "Danesi",
+     "given": "G."
+    },
+    {
+     "family": "Gerogiannis",
+     "given": "G.M."
+    },
+    {
+     "family": "La Marca",
+     "given": "C."
+    },
+    {
+     "family": "Liberotti",
+     "given": "G."
+    },
+    {
+     "family": "Moscone",
+     "given": "D."
+    },
+    {
+     "family": "Pizzoli",
+     "given": "E."
+    },
+    {
+     "family": "Zinni",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Spampinato",
+     "given": "D."
+    }
+   ],
+   "date": "2018",
+   "title": "The 'Shape of Monuments' project: Traditional methods and new technologies in the Basilica of San Lorenzo Fuori le Mura, Rome",
+   "is_part_of": [
+    "Settimo Convegno Annuale AIUCD 2018 (Bari 2018). Patrimoni culturali nell'era digitale. Memorie, culture umanistiche e tecnologia, Book of Abstracts"
+   ],
+   "pages": "183-187",
+   "publisher": "Associazione per l'Informatica Umanistica e la Cultura Digitale",
+   "place": "Bari",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "Prayon F. 1975, *Frühetruskische Grab- und Hausarchitektur*, Heidelberg, Kerle Verlag.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Prayon",
+     "given": "F."
+    }
+   ],
+   "date": "1975",
+   "title": "Frühetruskische Grab- und Hausarchitektur",
+   "publisher": "Kerle Verlag",
+   "place": "Heidelberg",
+   "language": "ger"
+  },
+  {
+   "position": 22,
+   "raw": "Quilici Gigli S. 1969, *Per una tipologia delle tombe di Tuscania*, «Palladio», 19, 135-138.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Quilici Gigli",
+     "given": "S."
+    }
+   ],
+   "date": "1969",
+   "title": "Per una tipologia delle tombe di Tuscania",
+   "is_part_of": [
+    "Palladio"
+   ],
+   "volume": "19",
+   "pages": "135-138",
+   "language": "ita"
+  },
+  {
+   "position": 23,
+   "raw": "Quilici Gigli S. 1970, *Tuscana*, Forma Italiae VII.2, Roma, De Luca Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Quilici Gigli",
+     "given": "S."
+    }
+   ],
+   "date": "1970",
+   "title": "Tuscana",
+   "series": "Forma Italiae",
+   "series_number": "VII.2",
+   "publisher": "De Luca Editore",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 24,
+   "raw": "Scardozzi G. 2012, *La necropoli etrusca di Casale Galeotti a Tuscania: studio storico-topografico*, «ATTA», 22, 99-121.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "La necropoli etrusca di Casale Galeotti a Tuscania: studio storico-topografico",
+   "is_part_of": [
+    "ATTA"
+   ],
+   "volume": "22",
+   "pages": "99-121",
+   "language": "ita"
+  },
+  {
+   "position": 25,
+   "raw": "Scardozzi G. 2019, *Gli ipogei della necropoli etrusca di Casale Galeotti (Tuscania): tipologie architettoniche e trasformazioni*, «Daidalos», 17, 81-128.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2019",
+   "title": "Gli ipogei della necropoli etrusca di Casale Galeotti (Tuscania): tipologie architettoniche e trasformazioni",
+   "is_part_of": [
+    "Daidalos"
+   ],
+   "volume": "17",
+   "pages": "81-128",
+   "language": "ita"
+  },
+  {
+   "position": 26,
+   "raw": "Sgubini Moretti A.M., Ricciardi L. 2004, *Testimonianze di Tuscania*, in A.M. Sgubini Moretti (ed.), *Scavo nello scavo. Gli Etruschi non visti. Ricerche e 'riscoperte' nei depositi dei Musei archeologici dell'Etruria meridionale*, Catalogo della mostra, Viterbo, Union Printing, 63-67.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sgubini Moretti",
+     "given": "A.M."
+    },
+    {
+     "family": "Ricciardi",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Sgubini Moretti",
+     "given": "A.M."
+    }
+   ],
+   "date": "2004",
+   "title": "Testimonianze di Tuscania",
+   "is_part_of": [
+    "Scavo nello scavo. Gli Etruschi non visti. Ricerche e 'riscoperte' nei depositi dei Musei archeologici dell'Etruria meridionale, Catalogo della mostra"
+   ],
+   "pages": "63-67",
+   "publisher": "Union Printing",
+   "place": "Viterbo",
+   "language": "ita"
+  },
+  {
+   "position": 27,
+   "raw": "Winter N. 2009, *Symbols of the Wealth and Power. Architectural Terracotta Decoration in Etruria and Central Italy, 640-510 B.C.*, Ann Arbor, The University of Michigan Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Winter",
+     "given": "N."
+    }
+   ],
+   "date": "2009",
+   "title": "Symbols of the Wealth and Power. Architectural Terracotta Decoration in Etruria and Central Italy, 640-510 B.C.",
+   "publisher": "The University of Michigan Press",
+   "place": "Ann Arbor",
+   "language": "eng"
+  }
+ ]
+}

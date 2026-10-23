@@ -1,0 +1,994 @@
+{
+ "citing_aec_id": 342,
+ "source_file": "data/journal/13/342.md",
+ "references": [
+  {
+   "position": 5,
+   "raw": "BLACKMAN D. 1996-97, «AR», 120.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Blackman",
+     "given": "D."
+    }
+   ],
+   "date": "1996-97",
+   "title": "AR 1996-97",
+   "is_part_of": [
+    "Annual Report of the Managing Committee of the British School at Athens"
+   ],
+   "pages": "120",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «AR» + year used)"
+  },
+  {
+   "position": 6,
+   "raw": "BLACKMAN D. 1997-98, «AR», 120-124.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Blackman",
+     "given": "D."
+    }
+   ],
+   "date": "1997-98",
+   "title": "AR 1997-98",
+   "is_part_of": [
+    "Annual Report of the Managing Committee of the British School at Athens"
+   ],
+   "pages": "120-124",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «AR» + year used)"
+  },
+  {
+   "position": 7,
+   "raw": "BLACKMAN D. 1998-99, «AR», 123-124.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Blackman",
+     "given": "D."
+    }
+   ],
+   "date": "1998-99",
+   "title": "AR 1998-99",
+   "is_part_of": [
+    "Annual Report of the Managing Committee of the British School at Athens"
+   ],
+   "pages": "123-124",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «AR» + year used)"
+  },
+  {
+   "position": 8,
+   "raw": "BLACKMAN D. 1999-2000, «AR», 148.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Blackman",
+     "given": "D."
+    }
+   ],
+   "date": "1999-2000",
+   "title": "AR 1999-2000",
+   "is_part_of": [
+    "Annual Report of the Managing Committee of the British School at Athens"
+   ],
+   "pages": "148",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «AR» + year used)"
+  },
+  {
+   "position": 9,
+   "raw": "DRIESSEN J. 2001, History and hierarchy. Preliminary observations on the settlement pattern of Minoan Crete, in K. BRANIGAN (ed.), Urbanism in the Aegean, Sheffield Studies in Archaeology (in press).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Driessen",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Branigan",
+     "given": "K."
+    }
+   ],
+   "date": "2001",
+   "title": "History and hierarchy. Preliminary observations on the settlement pattern of Minoan Crete",
+   "is_part_of": [
+    "Urbanism in the Aegean"
+   ],
+   "series": "Sheffield Studies in Archaeology",
+   "language": "eng",
+   "notes": "cited \"(in press)\" with year 2001; year kept"
+  },
+  {
+   "position": 10,
+   "raw": "FAURE P. 1969, Sur trois sortes de sanctuaires crétois, «BCH», 93, 174-213.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Faure",
+     "given": "P."
+    }
+   ],
+   "date": "1969",
+   "title": "Sur trois sortes de sanctuaires crétois",
+   "is_part_of": [
+    "Bulletin de Correspondance Hellénique"
+   ],
+   "volume": "93",
+   "pages": "174-213",
+   "language": "fre"
+  },
+  {
+   "position": 11,
+   "raw": "FAURE P. 1972, Cultes populaires dans la Crète antique, «BCH», 96, 389-426.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Faure",
+     "given": "P."
+    }
+   ],
+   "date": "1972",
+   "title": "Cultes populaires dans la Crète antique",
+   "is_part_of": [
+    "Bulletin de Correspondance Hellénique"
+   ],
+   "volume": "96",
+   "pages": "389-426",
+   "language": "fre"
+  },
+  {
+   "position": 12,
+   "raw": "GAFFNEY V., VAN LEUSEN M. 1995, Postscript – GIS, environmental determinism and archaeology, in G. LOCK, Z. STANÈIÈ (eds.), Archaeology and Geographical Information Systems, A European Perspective, London-Bristol, Taylor & Francis, 367-382.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Postscript – GIS, environmental determinism and archaeology",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems: A European Perspective"
+   ],
+   "pages": "367-382",
+   "publisher": "Taylor & Francis",
+   "place": "London-Bristol",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "HENRIKSSON G., BLOMBERG M. 1996, Evidence for Minoan Astronomical Observations from the Peak Sanctuaries on Petsophas and Traostalos, «Opuscula Atheniensia», XXI: 6, 99-114.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Henriksson",
+     "given": "G."
+    },
+    {
+     "family": "Blomberg",
+     "given": "M."
+    }
+   ],
+   "date": "1996",
+   "title": "Evidence for Minoan Astronomical Observations from the Peak Sanctuaries on Petsophas and Traostalos",
+   "is_part_of": [
+    "Opuscula Atheniensia"
+   ],
+   "volume": "XXI",
+   "issue": "6",
+   "pages": "99-114",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "KARETSOU A. 1974, «Prakt», 228-239.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Karetsou",
+     "given": "A."
+    }
+   ],
+   "date": "1974",
+   "title": "Prakt 1974",
+   "is_part_of": [
+    "Praktika tes en Athenais Archaiologikes Etaireias"
+   ],
+   "pages": "228-239",
+   "language": "gre",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «Prakt» + year used)"
+  },
+  {
+   "position": 15,
+   "raw": "KARETSOU A. 1975, «Prakt», 330-342.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Karetsou",
+     "given": "A."
+    }
+   ],
+   "date": "1975",
+   "title": "Prakt 1975",
+   "is_part_of": [
+    "Praktika tes en Athenais Archaiologikes Etaireias"
+   ],
+   "pages": "330-342",
+   "language": "gre",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «Prakt» + year used)"
+  },
+  {
+   "position": 16,
+   "raw": "KARETSOU A. 1976, «Prakt», 408-418.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Karetsou",
+     "given": "A."
+    }
+   ],
+   "date": "1976",
+   "title": "Prakt 1976",
+   "is_part_of": [
+    "Praktika tes en Athenais Archaiologikes Etaireias"
+   ],
+   "pages": "408-418",
+   "language": "gre",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «Prakt» + year used)"
+  },
+  {
+   "position": 17,
+   "raw": "KARETSOU A. 1977, «Prakt», 419-420.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Karetsou",
+     "given": "A."
+    }
+   ],
+   "date": "1977",
+   "title": "Prakt 1977",
+   "is_part_of": [
+    "Praktika tes en Athenais Archaiologikes Etaireias"
+   ],
+   "pages": "419-420",
+   "language": "gre",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «Prakt» + year used)"
+  },
+  {
+   "position": 18,
+   "raw": "KARETSOU A. 1978, «Prakt», 232-258.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Karetsou",
+     "given": "A."
+    }
+   ],
+   "date": "1978",
+   "title": "Prakt 1978",
+   "is_part_of": [
+    "Praktika tes en Athenais Archaiologikes Etaireias"
+   ],
+   "pages": "232-258",
+   "language": "gre",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «Prakt» + year used)"
+  },
+  {
+   "position": 19,
+   "raw": "KARETSOU A. 1980, «Prakt», 337-363.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Karetsou",
+     "given": "A."
+    }
+   ],
+   "date": "1980",
+   "title": "Prakt 1980",
+   "is_part_of": [
+    "Praktika tes en Athenais Archaiologikes Etaireias"
+   ],
+   "pages": "337-363",
+   "language": "gre",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «Prakt» + year used)"
+  },
+  {
+   "position": 20,
+   "raw": "KARETSOU A. 1981a, The peak sanctuary of Mt. Juktas, in R. HÄGG, N. MARINATOS (eds.), Sanctuaries and Cults in the Aegean Bronze Age. Proceedings of the First International Symposium at the Swedish Institute in Athens (May 1980), Stockolm, Swedish Institute in Athens, 137-153.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Karetsou",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Hägg",
+     "given": "R."
+    },
+    {
+     "family": "Marinatos",
+     "given": "N."
+    }
+   ],
+   "date": "1981",
+   "title": "The peak sanctuary of Mt. Juktas",
+   "is_part_of": [
+    "Sanctuaries and Cults in the Aegean Bronze Age. Proceedings of the First International Symposium at the Swedish Institute in Athens (May 1980)"
+   ],
+   "pages": "137-153",
+   "publisher": "Swedish Institute in Athens",
+   "place": "Stockolm",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "KARETSOU A. 1981b, «Prakt», 405-408.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Karetsou",
+     "given": "A."
+    }
+   ],
+   "date": "1981",
+   "title": "Prakt 1981",
+   "is_part_of": [
+    "Praktika tes en Athenais Archaiologikes Etaireias"
+   ],
+   "pages": "405-408",
+   "language": "gre",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «Prakt» + year used)"
+  },
+  {
+   "position": 22,
+   "raw": "KARETSOU A. 1984a, «Prakt», 600-614.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Karetsou",
+     "given": "A."
+    }
+   ],
+   "date": "1984",
+   "title": "Prakt 1984",
+   "is_part_of": [
+    "Praktika tes en Athenais Archaiologikes Etaireias"
+   ],
+   "pages": "600-614",
+   "language": "gre",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «Prakt» + year used)"
+  },
+  {
+   "position": 23,
+   "raw": "KARETSOU A. 1984b, «Ergon», 111-115.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Karetsou",
+     "given": "A."
+    }
+   ],
+   "date": "1984",
+   "title": "Ergon 1984",
+   "is_part_of": [
+    "To Ergon tes Archaiologikes Etaireias"
+   ],
+   "pages": "111-115",
+   "language": "gre",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «Ergon» + year used)"
+  },
+  {
+   "position": 24,
+   "raw": "KARETSOU A. 1985, «Ergon», 83-87.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Karetsou",
+     "given": "A."
+    }
+   ],
+   "date": "1985",
+   "title": "Ergon 1985",
+   "is_part_of": [
+    "To Ergon tes Archaiologikes Etaireias"
+   ],
+   "pages": "83-87",
+   "language": "gre",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «Ergon» + year used)"
+  },
+  {
+   "position": 25,
+   "raw": "KVAMME K. 1997, Ranters Corner: bringing the camps together: GIS and ED, «Archaeological Computing Newsletter», 47, 1-5.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K."
+    }
+   ],
+   "date": "1997",
+   "title": "Ranters Corner: bringing the camps together: GIS and ED",
+   "is_part_of": [
+    "Archaeological Computing Newsletter"
+   ],
+   "volume": "47",
+   "pages": "1-5",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "MOODY J., PEATFIELD A., MARKOULAKI S. 1996, The Ayios Vasilios Valley Archaeological Survey: A preliminary report, in Proceedings of the 8th International Congress of Cretan Studies, Iraklion, Crete, Greece, Society of Cretan Historical Studies, 359-371.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moody",
+     "given": "J."
+    },
+    {
+     "family": "Peatfield",
+     "given": "A."
+    },
+    {
+     "family": "Markoulaki",
+     "given": "S."
+    }
+   ],
+   "date": "1996",
+   "title": "The Ayios Vasilios Valley Archaeological Survey: A preliminary report",
+   "is_part_of": [
+    "Proceedings of the 8th International Congress of Cretan Studies"
+   ],
+   "pages": "359-371",
+   "publisher": "Society of Cretan Historical Studies",
+   "place": "Iraklion, Crete, Greece",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "MORRIS CHR., PEATFIELD A.A.D. 1995, Pottery from the peak sanctuary of Atsipadhes Korakias, Ay Vasiliou, Rethymnon, in Proceedings of the 7th International Cretological Congress (Rethymnon 1990), Society of Cretan Historical Studies, 643-646.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Morris",
+     "given": "Chr."
+    },
+    {
+     "family": "Peatfield",
+     "given": "A.A.D."
+    }
+   ],
+   "date": "1995",
+   "title": "Pottery from the peak sanctuary of Atsipadhes Korakias, Ay Vasiliou, Rethymnon",
+   "is_part_of": [
+    "Proceedings of the 7th International Cretological Congress (Rethymnon 1990)"
+   ],
+   "pages": "643-646",
+   "publisher": "Society of Cretan Historical Studies",
+   "language": "eng"
+  },
+  {
+   "position": 28,
+   "raw": "NOWICKI K. 1991, Some remarks on the distribution of peak sanctuaries in Middle Minoan Crete, «ArcheologiaWar (Warsaw)», XLII, 143-145.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nowicki",
+     "given": "K."
+    }
+   ],
+   "date": "1991",
+   "title": "Some remarks on the distribution of peak sanctuaries in Middle Minoan Crete",
+   "is_part_of": [
+    "Archeologia (Warsaw)"
+   ],
+   "volume": "XLII",
+   "pages": "143-145",
+   "language": "eng",
+   "notes": "journal cited as \"ArcheologiaWar (Warsaw)\" (OCR)"
+  },
+  {
+   "position": 29,
+   "raw": "NOWICKI K. 1994, Some remarks on the Pre- and Protopalatial peak sanctuaries in Crete, «Aegean Archaeology», 1, 31-48.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nowicki",
+     "given": "K."
+    }
+   ],
+   "date": "1994",
+   "title": "Some remarks on the Pre- and Protopalatial peak sanctuaries in Crete",
+   "is_part_of": [
+    "Aegean Archaeology"
+   ],
+   "volume": "1",
+   "pages": "31-48",
+   "language": "eng"
+  },
+  {
+   "position": 30,
+   "raw": "PEATFIELD A.A.D. 1983, The topography of Minoan peak sanctuaries, «Annual of the British School at Athens», 78, 273-279.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peatfield",
+     "given": "A.A.D."
+    }
+   ],
+   "date": "1983",
+   "title": "The topography of Minoan peak sanctuaries",
+   "is_part_of": [
+    "Annual of the British School at Athens"
+   ],
+   "volume": "78",
+   "pages": "273-279",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "PEATFIELD A.A.D. 1987, Palace and peak: The political and religious relationship between palaces and peak sanctuaries, in R. HÄGG, N. MARINATOS (eds.), The Function of the Minoan Palaces. Proceedings of the Fourth International Symposium at the Swedish Institute in Athens (June 1984), Swedish Institute in Athens, Series in 4°, 35, Stockholm, 89-93.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Peatfield",
+     "given": "A.A.D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Hägg",
+     "given": "R."
+    },
+    {
+     "family": "Marinatos",
+     "given": "N."
+    }
+   ],
+   "date": "1987",
+   "title": "Palace and peak: The political and religious relationship between palaces and peak sanctuaries",
+   "is_part_of": [
+    "The Function of the Minoan Palaces. Proceedings of the Fourth International Symposium at the Swedish Institute in Athens (June 1984)"
+   ],
+   "pages": "89-93",
+   "series": "Swedish Institute in Athens, Series in 4°",
+   "series_number": "35",
+   "publisher": "Swedish Institute in Athens",
+   "place": "Stockholm",
+   "language": "eng"
+  },
+  {
+   "position": 32,
+   "raw": "PEATFIELD A.A.D. 1990, Minoan peak sanctuaries: History and society, «Opuscula Atheniensia», 18, 117-132.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peatfield",
+     "given": "A.A.D."
+    }
+   ],
+   "date": "1990",
+   "title": "Minoan peak sanctuaries: History and society",
+   "is_part_of": [
+    "Opuscula Atheniensia"
+   ],
+   "volume": "18",
+   "pages": "117-132",
+   "language": "eng"
+  },
+  {
+   "position": 33,
+   "raw": "PEATFIELD A.A.D. 1991, Crete Atsipadhes Archaeological Report 1991, «AR», 26.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peatfield",
+     "given": "A.A.D."
+    }
+   ],
+   "date": "1991",
+   "title": "Crete Atsipadhes Archaeological Report 1991",
+   "is_part_of": [
+    "Annual Report of the Managing Committee of the British School at Athens"
+   ],
+   "pages": "26",
+   "language": "eng"
+  },
+  {
+   "position": 34,
+   "raw": "PEATFIELD A.A.D. 1992, Rural ritual in Bronze Age Crete: The peak sanctuary at Atsipadhes, «Cambridge Archaeological Journal», 2 (1), 59-87.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peatfield",
+     "given": "A.A.D."
+    }
+   ],
+   "date": "1992",
+   "title": "Rural ritual in Bronze Age Crete: The peak sanctuary at Atsipadhes",
+   "is_part_of": [
+    "Cambridge Archaeological Journal"
+   ],
+   "volume": "2",
+   "issue": "1",
+   "pages": "59-87",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "PEATFIELD A.A.D. 1992b, Crete Atsipadhes Archaeological Report 1992, «AR», 27.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peatfield",
+     "given": "A.A.D."
+    }
+   ],
+   "date": "1992",
+   "title": "Crete Atsipadhes Archaeological Report 1992",
+   "is_part_of": [
+    "Annual Report of the Managing Committee of the British School at Athens"
+   ],
+   "pages": "27",
+   "language": "eng"
+  },
+  {
+   "position": 36,
+   "raw": "PEATFIELD A.A.D. 1993, Crete Atsipadhes Archaeological Report 1993, «AR», 31-32.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peatfield",
+     "given": "A.A.D."
+    }
+   ],
+   "date": "1993",
+   "title": "Crete Atsipadhes Archaeological Report 1993",
+   "is_part_of": [
+    "Annual Report of the Managing Committee of the British School at Athens"
+   ],
+   "pages": "31-32",
+   "language": "eng"
+  },
+  {
+   "position": 37,
+   "raw": "PEATFIELD A.A.D. 1994a, After the ‘Big Bang’ - What? Or Minoan symbols and shrines beyond palatial collapse, in S.E. ALCOCK, R. OSBORNE (eds.), Placing the Gods, Sanctuaries and Sacred Space in Greece, Clarendon Press, Oxford, 19-36.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Peatfield",
+     "given": "A.A.D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Alcock",
+     "given": "S.E."
+    },
+    {
+     "family": "Osborne",
+     "given": "R."
+    }
+   ],
+   "date": "1994",
+   "title": "After the Big Bang - What? Or Minoan symbols and shrines beyond palatial collapse",
+   "is_part_of": [
+    "Placing the Gods, Sanctuaries and Sacred Space in Greece"
+   ],
+   "pages": "19-36",
+   "publisher": "Clarendon Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 38,
+   "raw": "PEATFIELD A.A.D. 1994b, The Atsipadhes Korakias peak sanctuary Project, «Classics Ireland», 1 (http://www.ucd.ie/~classics/94/Peatfield94.html).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peatfield",
+     "given": "A.A.D."
+    }
+   ],
+   "date": "1994",
+   "title": "The Atsipadhes Korakias peak sanctuary Project",
+   "is_part_of": [
+    "Classics Ireland"
+   ],
+   "volume": "1",
+   "language": "eng",
+   "uri": "http://www.ucd.ie/~classics/94/Peatfield94.html"
+  },
+  {
+   "position": 39,
+   "raw": "PEATFIELD A.A.D. 1994c, Crete Atsipadhes Archaeological Report 1994, «AR», 23-35.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peatfield",
+     "given": "A.A.D."
+    }
+   ],
+   "date": "1994",
+   "title": "Crete Atsipadhes Archaeological Report 1994",
+   "is_part_of": [
+    "Annual Report of the Managing Committee of the British School at Athens"
+   ],
+   "pages": "23-35",
+   "language": "eng"
+  },
+  {
+   "position": 40,
+   "raw": "PEATFIELD A.A.D. 1995, Crete Atsipadhes Archaeological Report 1995, «AR», 25.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peatfield",
+     "given": "A.A.D."
+    }
+   ],
+   "date": "1995",
+   "title": "Crete Atsipadhes Archaeological Report 1995",
+   "is_part_of": [
+    "Annual Report of the Managing Committee of the British School at Athens"
+   ],
+   "pages": "25",
+   "language": "eng"
+  },
+  {
+   "position": 41,
+   "raw": "PEATFIELD A.A.D. 1996, Crete Atsipadhes Archaeological Report 1996, «AR», 26.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peatfield",
+     "given": "A.A.D."
+    }
+   ],
+   "date": "1996",
+   "title": "Crete Atsipadhes Archaeological Report 1996",
+   "is_part_of": [
+    "Annual Report of the Managing Committee of the British School at Athens"
+   ],
+   "pages": "26",
+   "language": "eng"
+  },
+  {
+   "position": 42,
+   "raw": "RUTKOWSKI B. 1988, Minoan peak sanctuaries: The topography and architecture, in R. LAFFINEUR (ed.), «AEGAEUM 2. Annales d’archéologie égéenne de l’Université de Liège», 71-100.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rutkowski",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Laffineur",
+     "given": "R."
+    }
+   ],
+   "date": "1988",
+   "title": "Minoan peak sanctuaries: The topography and architecture",
+   "is_part_of": [
+    "Aegaeum. Annales d'archéologie égéenne de l'Université de Liège"
+   ],
+   "volume": "2",
+   "pages": "71-100",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "cited «AEGAEUM 2. Annales d'archéologie égéenne de l'Université de Liège», in R. LAFFINEUR (ed.); parsed as journal-like series volume"
+  },
+  {
+   "position": 43,
+   "raw": "RUTKOWSKI B. 1991, Petsofas. A Cretan Peak Sanctuary, Studies and Monographs in Mediterranean Archaeology and Civilization, I.1, Warsaw, Polish Academy of Sciences.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rutkowski",
+     "given": "B."
+    }
+   ],
+   "date": "1991",
+   "title": "Petsofas. A Cretan Peak Sanctuary",
+   "series": "Studies and Monographs in Mediterranean Archaeology and Civilization",
+   "series_number": "I.1",
+   "publisher": "Polish Academy of Sciences",
+   "place": "Warsaw",
+   "language": "eng"
+  },
+  {
+   "position": 44,
+   "raw": "SOETENS S., SARRIS A., TOPOUZI S. 2001, Peak sanctuaries in the Minoan cultural landscape, in 9th International Congress of Cretan Studies, Elounda.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Soetens",
+     "given": "S."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    },
+    {
+     "family": "Topouzi",
+     "given": "S."
+    }
+   ],
+   "date": "2001",
+   "title": "Peak sanctuaries in the Minoan cultural landscape",
+   "is_part_of": [
+    "9th International Congress of Cretan Studies"
+   ],
+   "place": "Elounda",
+   "language": "eng",
+   "notes": "congress paper"
+  },
+  {
+   "position": 45,
+   "raw": "SOETENS S., SARRIS A., TOPOUZI S., TRIPOLITSIOTIS A. 2002, GIS modelling of the Minoan peak sanctuaries of East Crete, in G. BURENHULT (ed.), Archaeological Informatics. Pushing the Envelope, Computer Applications and Quantitative Methods in Archaeology (Visby 2001), BAR International Series 1016, Oxford, 129-138.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Soetens",
+     "given": "S."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    },
+    {
+     "family": "Topouzi",
+     "given": "S."
+    },
+    {
+     "family": "Tripolitsiotis",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    }
+   ],
+   "date": "2002",
+   "title": "GIS modelling of the Minoan peak sanctuaries of East Crete",
+   "is_part_of": [
+    "Archaeological Informatics. Pushing the Envelope. Computer Applications and Quantitative Methods in Archaeology (Visby 2001)"
+   ],
+   "pages": "129-138",
+   "series": "BAR International Series",
+   "series_number": "1016",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 46,
+   "raw": "TOMLINSON R.A. 1989-90, «AR», 78.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tomlinson",
+     "given": "R.A."
+    }
+   ],
+   "date": "1989-90",
+   "title": "AR 1989-90",
+   "is_part_of": [
+    "Annual Report of the Managing Committee of the British School at Athens"
+   ],
+   "pages": "78",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «AR» + year used)"
+  },
+  {
+   "position": 47,
+   "raw": "TOMLINSON R.A. 1993-94, «AR», 84.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tomlinson",
+     "given": "R.A."
+    }
+   ],
+   "date": "1993-94",
+   "title": "AR 1993-94",
+   "is_part_of": [
+    "Annual Report of the Managing Committee of the British School at Athens"
+   ],
+   "pages": "84",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «AR» + year used)"
+  },
+  {
+   "position": 48,
+   "raw": "TOMLINSON R.A. 1994-95, «AR», 72.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tomlinson",
+     "given": "R.A."
+    }
+   ],
+   "date": "1994-95",
+   "title": "AR 1994-95",
+   "is_part_of": [
+    "Annual Report of the Managing Committee of the British School at Athens"
+   ],
+   "pages": "72",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "no title in the citation (journal abbreviation «AR» + year used)"
+  },
+  {
+   "position": 49,
+   "raw": "WHEATLEY D. 1995, Cumulative viewshed Analysis: A GIS based method for investigating intervisibility, and its archaeological application, in G. LOCK, Z. STANÈIÈ (eds.), Archaeology and Geographical Information Systems, A European Perspective, London-Bristol, Taylor & Francis, 171-186.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Cumulative viewshed Analysis: A GIS based method for investigating intervisibility, and its archaeological application",
+   "is_part_of": [
+    "Archaeology and Geographical Information Systems: A European Perspective"
+   ],
+   "pages": "171-186",
+   "publisher": "Taylor & Francis",
+   "place": "London-Bristol",
+   "language": "eng"
+  }
+ ]
+}

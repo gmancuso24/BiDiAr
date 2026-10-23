@@ -1,0 +1,373 @@
+{
+ "citing_aec_id": 474,
+ "source_file": "data/journal/19/474.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Barchesi C., Moscati P. 2007, Esperienze di codifica elettronica di documenti archeologici, in XML per i Beni Culturali. Esperienze e prospettive per il trattamento di dati strutturati e semistrutturati (Pisa 2004), Pisa, Scuola Normale Superiore, 1-16.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barchesi",
+     "given": "C."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2007",
+   "title": "Esperienze di codifica elettronica di documenti archeologici",
+   "is_part_of": [
+    "XML per i Beni Culturali. Esperienze e prospettive per il trattamento di dati strutturati e semistrutturati (Pisa 2004)"
+   ],
+   "pages": "1-16",
+   "publisher": "Scuola Normale Superiore",
+   "place": "Pisa",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Chapman H. 2006, Landscape Archaeology and GIS, Stroud, Tempus.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chapman",
+     "given": "H."
+    }
+   ],
+   "date": "2006",
+   "title": "Landscape Archaeology and GIS",
+   "publisher": "Tempus",
+   "place": "Stroud",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Cinnirella A. et al. 2006, Multimedia annotation through WebGIS and mobile devices: Wireless infrastructure project for the UNESCO site in Cerveteri - Italy, in M. Ioannides, D. Arnold, F. Niccolucci, K. Mania (eds.), The 7<sup>th</sup> International Symposium on Virtual Reality, Archaeology and Cultural Heritage VAST (2006) Project Presentations, Bupadest 2006, Archaeolingua, 234-239.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cinnirella",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Arnold",
+     "given": "D."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Mania",
+     "given": "K."
+    }
+   ],
+   "date": "2006",
+   "title": "Multimedia annotation through WebGIS and mobile devices: Wireless infrastructure project for the UNESCO site in Cerveteri - Italy",
+   "is_part_of": [
+    "The 7th International Symposium on Virtual Reality, Archaeology and Cultural Heritage VAST (2006) Project Presentations"
+   ],
+   "pages": "234-239",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "eng",
+   "notes": "et al.: only the first author is cited; 'Bupadest' corrected to Budapest",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Conolly J., Lake M. 2006, Geographical Information Systems in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Conolly",
+     "given": "J."
+    },
+    {
+     "family": "Lake",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Geographical Information Systems in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Djindjian F. 1998, GIS usage in worldwide archaeology, in P. Moscati (ed.), Methodological Trends and Future Perspectives in tha Application of GIS in Archaeology, «Archeologia e Calcolatori», 9, 19-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1998",
+   "title": "GIS usage in worldwide archaeology",
+   "is_part_of": [
+    "Methodological Trends and Future Perspectives in the Application of GIS in Archaeology",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "19-30",
+   "language": "eng",
+   "cited_aec_id": 246,
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Forte M. (ed.) 2008, Villa di Livia: un percorso di ricerca di archeologia virtuale, Roma, L’Erma di Bretschneider.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "Villa di Livia: un percorso di ricerca di archeologia virtuale",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Mancinelli M.L. 2004, Sistema Informativo Generale del Catalogo: nuovi strumenti per la gestione integrata delle conoscenze sui beni archeologici, in P. Moscati (ed.), New Frontiers of Archaeological Research. Languages, Communication, Information Technology, «Archeologia e Calcolatori», 15, 115-128.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mancinelli",
+     "given": "M.L."
+    }
+   ],
+   "date": "2004",
+   "title": "Sistema Informativo Generale del Catalogo: nuovi strumenti per la gestione integrata delle conoscenze sui beni archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "15",
+   "pages": "115-128",
+   "language": "ita",
+   "cited_aec_id": 375,
+   "notes": "AeC 15 is the proceedings 'New Frontiers of Archaeological Research' (ed. Moscati); recorded as journal article",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Mehrer M.W., Wescott K.L. (eds.) 2006, GIS and Archaeological Site Location Modeling, London, Taylor and Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Mehrer",
+     "given": "M.W."
+    },
+    {
+     "family": "Wescott",
+     "given": "K.L."
+    }
+   ],
+   "date": "2006",
+   "title": "GIS and Archaeological Site Location Modeling",
+   "publisher": "Taylor and Francis",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Moscati P. 2002, From an Etruscan town to modern technologies: new advancements in the “Caere Project”, in F. Djindjian, P. Moscati (eds.), XIV Congress of the UISPP, Commission IV Data Management and Mathematical Methods in Archaeology. Proceedings of Symposia 1.3, 1.5, 1.8, 1.10 (Liège 2001), «Archeologia e Calcolatori», 13, 135-149.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2002",
+   "title": "From an Etruscan town to modern technologies: new advancements in the \"Caere Project\"",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "pages": "135-149",
+   "language": "eng",
+   "cited_aec_id": 339,
+   "notes": "AeC 13 is the UISPP Commission IV proceedings (eds Djindjian, Moscati); recorded as journal article",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Moscati P. 2005, Verso l’edizione multimediale degli scavi della Vigna Parrocchiale, in AA.VV., Atti del XXIII Convegno di Studi Etruschi e Italici “Dinamiche di sviluppo della città nell’Etruria meridionale: Veio, Cerveteri, Traquinia e Vulci” (Roma, Vulci, Tarquinia 2001), Pisa-Roma, 243-246.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2005",
+   "title": "Verso l'edizione multimediale degli scavi della Vigna Parrocchiale",
+   "is_part_of": [
+    "Atti del XXIII Convegno di Studi Etruschi e Italici \"Dinamiche di sviluppo della città nell'Etruria meridionale: Veio, Cerveteri, Tarquinia e Vulci\" (Roma, Vulci, Tarquinia 2001)"
+   ],
+   "pages": "243-246",
+   "place": "Pisa-Roma",
+   "language": "ita",
+   "notes": "AA.VV. as editor: none recorded; 'Traquinia' corrected to Tarquinia",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Moscati P. 2006, Linguaggi di marcatura per la conservazione e la valorizzazione dell’informazione archeologica, in Atti del Convegno internazionale Archivi informatici per il patrimonio culturale (Roma 2003), Roma, Accademia Nazionale dei Lincei, 77-94.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "2006",
+   "title": "Linguaggi di marcatura per la conservazione e la valorizzazione dell'informazione archeologica",
+   "is_part_of": [
+    "Atti del Convegno internazionale Archivi informatici per il patrimonio culturale (Roma 2003)"
+   ],
+   "pages": "77-94",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Moscati P. 2008, Between real and virtual reality: archaeological data recontextualisation, in G. Bagnasco Gianni (ed.), Bridging Archaeological and IT Cultures for Community Accessibility, Roma, L’Erma di Bretschneider, 143-150.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bagnasco Gianni",
+     "given": "G."
+    }
+   ],
+   "date": "2008",
+   "title": "Between real and virtual reality: archaeological data recontextualisation",
+   "is_part_of": [
+    "Bridging Archaeological and IT Cultures for Community Accessibility"
+   ],
+   "pages": "143-150",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Moscati P. in press, Cerveteri, Vigna Parrocchiale: tra progettualità e ricerca, in Munera Caeretana. Incontro di studio in memoria di Mauro Cristofani (Roma 2008), «Mediterranea».",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Cerveteri, Vigna Parrocchiale: tra progettualità e ricerca",
+   "is_part_of": [
+    "Munera Caeretana. Incontro di studio in memoria di Mauro Cristofani (Roma 2008)",
+    "Mediterranea"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: the volume appears to be Mediterranea 5 (2008), but the article itself (pages) was not found online",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Roncalli F., Moscati P., Scala N. 2007, Dinamiche di scambio nel Mediterraneo antico: il caso dell’Etruria, in G. Scardozzi (ed.), Progetto FIRB 2001: il Mediterraneo antico e medievale come luogo d’incontro tra Oriente e Occidente, Nord e Sud, «Archeologia e Calcolatori», 18, 353-372.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Roncalli",
+     "given": "F."
+    },
+    {
+     "family": "Moscati",
+     "given": "P."
+    },
+    {
+     "family": "Scala",
+     "given": "N."
+    }
+   ],
+   "date": "2007",
+   "title": "Dinamiche di scambio nel Mediterraneo antico: il caso dell'Etruria",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "18",
+   "pages": "353-372",
+   "language": "ita",
+   "cited_aec_id": 451,
+   "notes": "find_aec gives 'Dinamiche di scambio nel Mediterraneo antico: il caso di Cerveteri', pp. 355-371: same authors, volume and first pages; title and pages cited differently. AeC 18 is the FIRB 2001 proceedings (ed. Scardozzi)",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Sommella P. (ed.) 2006, Tabula Imperii Romani, Foglio K 32. Firenze, Roma, Quasar.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "date": "2006",
+   "title": "Tabula Imperii Romani, Foglio K 32. Firenze",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Weatley D., Gillings M. 2002, Spatial Technology and Archaeology. The Archaeological Applications of GIS, London.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D."
+    },
+    {
+     "family": "Gillings",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Spatial Technology and Archaeology. The Archaeological Applications of GIS",
+   "place": "London",
+   "language": "eng",
+   "notes": "cited as 'Weatley' (typo for Wheatley)",
+   "confidence": "high"
+  }
+ ]
+}

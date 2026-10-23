@@ -1,0 +1,968 @@
+{
+ "citing_aec_id": 663,
+ "source_file": "data/journal/24/663.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Altunel E. 2000, L'attività sismica a Hierapolis e nelle zone limitrofe, in F. D'Andria, F. Silvestrelli (eds.), Ricerche archeologiche turche nella valle del Lykos, Galatina, Congedo Editore, 299-314.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Altunel",
+     "given": "E."
+    }
+   ],
+   "date": "2000",
+   "title": "L'attività sismica a Hierapolis e nelle zone limitrofe",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Silvestrelli",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Ricerche archeologiche turche nella valle del Lykos"
+   ],
+   "place": "Galatina",
+   "publisher": "Congedo Editore",
+   "pages": "299-314",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Campagna L., Limoncelli M. 2011, The Nymphaeum of the Tritons at Hieropolis of Phrygia (Turkey) from excavations to 3D-virtual reconstruction: An example of integrated methods in the study of ancient architecture, in Ferrari 2012, I, 281-290.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Campagna",
+     "given": "L."
+    },
+    {
+     "family": "Limoncelli",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "The Nymphaeum of the Tritons at Hieropolis of Phrygia (Turkey) from excavations to 3D-virtual reconstruction: An example of integrated methods in the study of ancient architecture",
+   "pages": "281-290",
+   "language": "eng",
+   "editors": [
+    {
+     "family": "Ferrari",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the 5th International Congress Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Istanbul 2011)"
+   ],
+   "volume": "I",
+   "place": "Roma",
+   "publisher": "Associazione Investire in Cultura",
+   "xref": 14
+  },
+  {
+   "position": 3,
+   "raw": "Campagna L., Scardozzi G. c.s., Archeologia delle acque a Hierapolis di Frigia: tematiche principali e metodologie integrate di ricerca, in H. Bru, G. Labarre (eds.), Proceedings of the International Symposium: L'Anatolie des peuples, cités et cultures (IIe millénaire av. J.-C.-Ve siècle ap. J.-C.) Autour du projet d'Atlas historique et archéologique de l'Asie Mineure antique (Besançon 2010), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Campagna",
+     "given": "L."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Archeologia delle acque a Hierapolis di Frigia: tematiche principali e metodologie integrate di ricerca",
+   "editors": [
+    {
+     "family": "Bru",
+     "given": "H."
+    },
+    {
+     "family": "Labarre",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the International Symposium: L'Anatolie des peuples, cités et cultures (IIe millénaire av. J.-C.-Ve siècle ap. J.-C.) Autour du projet d'Atlas historique et archéologique de l'Asie Mineure antique (Besançon 2010)"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Castrianni L., Di Giacomo G., Ditaranto I., Scardozzi G. 2010, La cinta muraria di Hierapolis di Frigia: il geodatabase dei materiali di reimpiego come strumento di ricerca e conoscenza del monumento e della città, «Archeologia e Calcolatori», 21, 93-126.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Castrianni",
+     "given": "L."
+    },
+    {
+     "family": "Di Giacomo",
+     "given": "G."
+    },
+    {
+     "family": "Ditaranto",
+     "given": "I."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "La cinta muraria di Hierapolis di Frigia: il geodatabase dei materiali di reimpiego come strumento di ricerca e conoscenza del monumento e della città",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "21",
+   "pages": "93-126",
+   "cited_aec_id": 567,
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "Cuntz O. 1990<sup>2</sup> (ed.), Itineraria Romana, I. Itineraria Antonini Augusti et Burdigalense, Stutgardiae, Teubneri.",
+   "type": "book",
+   "date": "1990",
+   "title": "Itineraria Romana, I. Itineraria Antonini Augusti et Burdigalense",
+   "editors": [
+    {
+     "family": "Cuntz",
+     "given": "O."
+    }
+   ],
+   "edition": "2",
+   "place": "Stutgardiae",
+   "publisher": "Teubner",
+   "language": "lat"
+  },
+  {
+   "position": 6,
+   "raw": "D'Andria F. 2003, Hierapolis di Frigia (Pamukkale). Guida archeologica, Istanbul, Ege Yayınları.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "date": "2003",
+   "title": "Hierapolis di Frigia (Pamukkale). Guida archeologica",
+   "place": "Istanbul",
+   "publisher": "Ege Yayınları",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "D'Andria F. 2012, Phrygia Hierapolis'i (Pamukkale). 2010 yılı kazı ve onarım çalışmaları, in 33. Kazı Sonuçları Toplantısı, 1. Cilt, Ankara, 475-495.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "date": "2012",
+   "title": "Phrygia Hierapolis'i (Pamukkale). 2010 yılı kazı ve onarım çalışmaları",
+   "is_part_of": [
+    "33. Kazı Sonuçları Toplantısı"
+   ],
+   "volume": "1",
+   "place": "Ankara",
+   "pages": "475-495",
+   "language": "tur"
+  },
+  {
+   "position": 8,
+   "raw": "D'Andria F., Caggia M.P. 2007 (eds.), Hierapolis di Frigia I. Le attività della Missione Archeologica Italiana in Turchia. Campagne 2000-2003, Istanbul, Ege Yayınları.",
+   "type": "book",
+   "date": "2007",
+   "title": "Hierapolis di Frigia I. Le attività della Missione Archeologica Italiana in Turchia. Campagne 2000-2003",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Caggia",
+     "given": "M.P."
+    }
+   ],
+   "place": "Istanbul",
+   "publisher": "Ege Yayınları",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "D'Andria F., Caggia M.P., Ismaelli T. 2012 (eds.), Hierapolis di Frigia V. Le attività delle campagne di scavo e restauro 2004-2006, Istanbul, Ege Yayınları.",
+   "type": "book",
+   "date": "2012",
+   "title": "Hierapolis di Frigia V. Le attività delle campagne di scavo e restauro 2004-2006",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Caggia",
+     "given": "M.P."
+    },
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "place": "Istanbul",
+   "publisher": "Ege Yayınları",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "D'Andria F., Scardozzi G., Spanò A. 2008 (eds.), Atlante di Hierapolis di Frigia, Istanbul, Ege Yayınları.",
+   "type": "book",
+   "date": "2008",
+   "title": "Atlante di Hierapolis di Frigia",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    },
+    {
+     "family": "Spanò",
+     "given": "A."
+    }
+   ],
+   "place": "Istanbul",
+   "publisher": "Ege Yayınları",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "Di Giacomo G., Ditaranto I., Leucci G., Miccoli I., Scardozzi G. 2012, The 2011 GPR surveys in the archaeological site of Hierapolis of Phrygia (Turkey), in Proceedings of the 14th International Conference on Ground Penetrating Radar (Shanghai 2012), Shanghai, IEEE, 595-601.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Giacomo",
+     "given": "G."
+    },
+    {
+     "family": "Ditaranto",
+     "given": "I."
+    },
+    {
+     "family": "Leucci",
+     "given": "G."
+    },
+    {
+     "family": "Miccoli",
+     "given": "I."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "The 2011 GPR surveys in the archaeological site of Hierapolis of Phrygia (Turkey)",
+   "is_part_of": [
+    "Proceedings of the 14th International Conference on Ground Penetrating Radar (Shanghai 2012)"
+   ],
+   "place": "Shanghai",
+   "publisher": "IEEE",
+   "pages": "595-601",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Di Giacomo G., Limoncelli M., Scardozzi G. c.s., Rilievo e ricostruzione virtuale del Ponte Sud di Hierapolis di Frigia (Turchia), in IV Congreso Internacional de Arqueología e Informática Gráfica, Patrimonio e Innovación (Sevilla 2012), in corso di stampa.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Giacomo",
+     "given": "G."
+    },
+    {
+     "family": "Limoncelli",
+     "given": "M."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2013",
+   "title": "Rilievo e ricostruzione virtuale del Ponte Sud di Hierapolis di Frigia (Turchia)",
+   "is_part_of": [
+    "IV Congreso Internacional de Arqueología e Informática Gráfica, Patrimonio e Innovación (Sevilla 2012)",
+    "Virtual Archaeology Review"
+   ],
+   "volume": "4",
+   "issue": "8",
+   "pages": "20-24",
+   "cs": {
+    "status": "resolved",
+    "source": "https://polipapers.upv.es/index.php/var/article/view/4281"
+   },
+   "notes": "cited c.s. in the Sevilla 2012 congress proceedings; published in Virtual Archaeology Review 4, 8 (2013), 20-24",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "Di Giacomo G., Scardozzi G. 2012, The archaeological digital cartography of Hierapolis in Phrygia (Turkey), in Ferrari 2012, I, 203-213.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Giacomo",
+     "given": "G."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "The archaeological digital cartography of Hierapolis in Phrygia (Turkey)",
+   "pages": "203-213",
+   "language": "eng",
+   "editors": [
+    {
+     "family": "Ferrari",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the 5th International Congress Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Istanbul 2011)"
+   ],
+   "volume": "I",
+   "place": "Roma",
+   "publisher": "Associazione Investire in Cultura",
+   "xref": 14
+  },
+  {
+   "position": 14,
+   "raw": "Ferrari A. (ed.) 2012, Proceedings of the 5th International Congress Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Istanbul 2011), Roma, Associazione Investire in Cultura.",
+   "type": "proceedings",
+   "date": "2012",
+   "title": "Proceedings of the 5th International Congress Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Istanbul 2011)",
+   "editors": [
+    {
+     "family": "Ferrari",
+     "given": "A."
+    }
+   ],
+   "place": "Roma",
+   "publisher": "Associazione Investire in Cultura",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Gabellone F. 2012, La scansione laser terrestre per lo studio di reperti archeologici: ambiti di applicazione e operatività sul campo, in D'Andria, Caggia, Ismaelli 2012, 61-67.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gabellone",
+     "given": "F."
+    }
+   ],
+   "date": "2012",
+   "title": "La scansione laser terrestre per lo studio di reperti archeologici: ambiti di applicazione e operatività sul campo",
+   "pages": "61-67",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Caggia",
+     "given": "M.P."
+    },
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Hierapolis di Frigia V. Le attività delle campagne di scavo e restauro 2004-2006"
+   ],
+   "place": "Istanbul",
+   "publisher": "Ege Yayınları",
+   "xref": 9,
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Gabellone F., Ferrari I., Giuri F., Limoncelli M. 2010, Virtual Hierapolis: tra tecnicismo e realismo, in III Congreso International de Arqueología e Informática Gráfica, Patrimonio e Innovaciòn (Sevilla 2010), Sevilla, SEAV, 279-284.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gabellone",
+     "given": "F."
+    },
+    {
+     "family": "Ferrari",
+     "given": "I."
+    },
+    {
+     "family": "Giuri",
+     "given": "F."
+    },
+    {
+     "family": "Limoncelli",
+     "given": "M."
+    }
+   ],
+   "date": "2010",
+   "title": "Virtual Hierapolis: tra tecnicismo e realismo",
+   "is_part_of": [
+    "III Congreso Internacional de Arqueología e Informática Gráfica, Patrimonio e Innovación (Sevilla 2010)"
+   ],
+   "place": "Sevilla",
+   "publisher": "SEAV",
+   "pages": "279-284",
+   "language": "ita"
+  },
+  {
+   "position": 17,
+   "raw": "Gabellone F., Scardozzi G. 2010, Reconstruction of the urban landscape of an ancient metropolis in Asia Minor: Integration of 2D and 3D technologies and methodologies in Hierapolis of Phrygia (Turkey), in Proceedings of the 15th International Conference on Cultural Heritage and New Technologies (Vienna 2010), Vienna, Stadt Archäologie Wien, 311-329.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gabellone",
+     "given": "F."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2010",
+   "title": "Reconstruction of the urban landscape of an ancient metropolis in Asia Minor: Integration of 2D and 3D technologies and methodologies in Hierapolis of Phrygia (Turkey)",
+   "is_part_of": [
+    "Proceedings of the 15th International Conference on Cultural Heritage and New Technologies (Vienna 2010)"
+   ],
+   "place": "Vienna",
+   "publisher": "Stadt Archäologie Wien",
+   "pages": "311-329",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Galliazzo V. 1995, I ponti romani, Treviso, Edizioni Canova.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Galliazzo",
+     "given": "V."
+    }
+   ],
+   "date": "1995",
+   "title": "I ponti romani",
+   "place": "Treviso",
+   "publisher": "Edizioni Canova",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Limoncelli M. 2009, Virtual Archaeology a Herapolis di Frigia: restauro virtuale e restituzione 3D degli edifici di ordine dorico, in T. Ismaelli, Architettura dorica a Hierapolis di Frigia, Istanbul, Ege Yayınları, 493-503.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Limoncelli",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Virtual Archaeology a Hierapolis di Frigia: restauro virtuale e restituzione 3D degli edifici di ordine dorico",
+   "is_part_of": [
+    "Architettura dorica a Hierapolis di Frigia"
+   ],
+   "place": "Istanbul",
+   "publisher": "Ege Yayınları",
+   "pages": "493-503",
+   "notes": "\"Herapolis\" in the citation; the container is a monograph by T. Ismaelli (author, not editor)",
+   "language": "ita"
+  },
+  {
+   "position": 20,
+   "raw": "Limoncelli M. 2012a, Il progetto \"Hierapolis Virtuale\". Esperienze di restauro virtuale e restituzione in 3D, in R. D'Andria, K. Mannino (eds.), Gli Allievi raccontano. Atti dell'Incontro di Studio per i Trent'anni della Scuola di Specializzazione in Beni Archeologici (Cavallino 2010), Galatina, Congedo Editore, 253-260.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Limoncelli",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Il progetto \"Hierapolis Virtuale\". Esperienze di restauro virtuale e restituzione in 3D",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "R."
+    },
+    {
+     "family": "Mannino",
+     "given": "K."
+    }
+   ],
+   "is_part_of": [
+    "Gli Allievi raccontano. Atti dell'Incontro di Studio per i Trent'anni della Scuola di Specializzazione in Beni Archeologici (Cavallino 2010)"
+   ],
+   "place": "Galatina",
+   "publisher": "Congedo Editore",
+   "pages": "253-260",
+   "language": "ita"
+  },
+  {
+   "position": 21,
+   "raw": "Limoncelli M. 2012b, Il restauro virtuale in archeologia, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Limoncelli",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Il restauro virtuale in archeologia",
+   "place": "Roma",
+   "publisher": "Carocci",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "Limoncelli M., Scardozzi G. 2012, Il Teatro Nord e le mura proto-bizantine di Hierapolis di Frigia. Dall'indagine topografica alla ricostruzione 2D e 3D, in Uno sguardo extra moenia. Riflessioni su identità culturale e circolazione di idee tra Oriente e Occidente, Marina di Patti, Pungitopo, 185-199.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Limoncelli",
+     "given": "M."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "Il Teatro Nord e le mura proto-bizantine di Hierapolis di Frigia. Dall'indagine topografica alla ricostruzione 2D e 3D",
+   "is_part_of": [
+    "Uno sguardo extra moenia. Riflessioni su identità culturale e circolazione di idee tra Oriente e Occidente"
+   ],
+   "place": "Marina di Patti",
+   "publisher": "Pungitopo",
+   "pages": "185-199",
+   "language": "ita"
+  },
+  {
+   "position": 23,
+   "raw": "Limoncelli M., Scardozzi G. c.s., The North Theatre of Hierapolis in Phrygia (Turkey): From the multidisciplinary field works to the virtual reconstruction, in Proceedings of the 15th Symposium of the Mediterranean Archaeology (Catania 2011), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Limoncelli",
+     "given": "M."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "c.s.",
+   "title": "The North Theatre of Hierapolis in Phrygia (Turkey): From the multidisciplinary field works to the virtual reconstruction",
+   "is_part_of": [
+    "Proceedings of the 15th Symposium of the Mediterranean Archaeology (Catania 2011)"
+   ],
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: not found in SOMA 2011 (BAR S2695, 2015) contents"
+  },
+  {
+   "position": 24,
+   "raw": "Marabini S., Scardozzi G. 2012, Geo-archaeological research in Hierapolis of Phrygia (Turkey): Preliminary results, in 86° Congresso della Società Geologica Italiana. Sessione TS3.6 - Geological Data-base, Learning and Cultural Heritage in the Mediterranean Environment (Arcavacata Di Rende 2012), «Rendiconti Online della Società Geologica Italiana», 21, 761-764.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Marabini",
+     "given": "S."
+    },
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "Geo-archaeological research in Hierapolis of Phrygia (Turkey): Preliminary results",
+   "is_part_of": [
+    "86° Congresso della Società Geologica Italiana. Sessione TS3.6 - Geological Data-base, Learning and Cultural Heritage in the Mediterranean Environment (Arcavacata Di Rende 2012)",
+    "Rendiconti Online della Società Geologica Italiana"
+   ],
+   "volume": "21",
+   "pages": "761-764",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "Scardozzi G. 2007, L'urbanistica di Hierapolis di Frigia: ricerche topografiche, immagini satellitari e fotografie aeree, «Archeologia Aerea», 2, 83-134.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "L'urbanistica di Hierapolis di Frigia: ricerche topografiche, immagini satellitari e fotografie aeree",
+   "is_part_of": [
+    "Archeologia Aerea"
+   ],
+   "volume": "2",
+   "pages": "83-134",
+   "language": "ita"
+  },
+  {
+   "position": 26,
+   "raw": "Scardozzi G. 2010-2011, Il contributo delle immagini satellitari \"storiche\" e recenti alle ricerche di topografia antica, «Archeologia Aerea», 4-5, 281-288.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2010-2011",
+   "title": "Il contributo delle immagini satellitari \"storiche\" e recenti alle ricerche di topografia antica",
+   "is_part_of": [
+    "Archeologia Aerea"
+   ],
+   "volume": "4-5",
+   "pages": "281-288",
+   "language": "ita"
+  },
+  {
+   "position": 27,
+   "raw": "Scardozzi G. 2011, Contributo alla ricostruzione della topografia antica della Frigia meridionale tra l'età ellenistica e l'epoca proto-bizantina: ricognizioni archeologiche nel territorio di Hierapolis, «Atlante Tematico di Topografia Antica», 21, 111-146.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "Contributo alla ricostruzione della topografia antica della Frigia meridionale tra l'età ellenistica e l'epoca proto-bizantina: ricognizioni archeologiche nel territorio di Hierapolis",
+   "is_part_of": [
+    "Atlante Tematico di Topografia Antica"
+   ],
+   "volume": "21",
+   "pages": "111-146",
+   "language": "ita"
+  },
+  {
+   "position": 28,
+   "raw": "Scardozzi G. 2012a, Integrated methodologies and technologies for the reconstruction of the ancient topography of Hierapolis in Phrygia and its surrounding territory (Turkey), in Ferrari 2012, I, 192-202.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "Integrated methodologies and technologies for the reconstruction of the ancient topography of Hierapolis in Phrygia and its surrounding territory (Turkey)",
+   "pages": "192-202",
+   "language": "eng",
+   "editors": [
+    {
+     "family": "Ferrari",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the 5th International Congress Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin (Istanbul 2011)"
+   ],
+   "volume": "I",
+   "place": "Roma",
+   "publisher": "Associazione Investire in Cultura",
+   "xref": 14
+  },
+  {
+   "position": 29,
+   "raw": "Scardozzi G. 2012b, New data on the North Theatre of Hierapolis in Phrygia: archaeological, topographical and geophysical surveys, in F. Masino, P. Minghetto, G. Sobrà (eds.), Restoration and Management of Ancient Theatres in Turkey: Methods, Research, Results. Proceedings of the Hierapolis International Symposium (Karahayit, Turkey 2007), Galatina, 217-235.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "New data on the North Theatre of Hierapolis in Phrygia: archaeological, topographical and geophysical surveys",
+   "editors": [
+    {
+     "family": "Masino",
+     "given": "F."
+    },
+    {
+     "family": "Mighetto",
+     "given": "P."
+    },
+    {
+     "family": "Sobrà",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Restoration and Management of Ancient Theatres in Turkey: Methods, Research, Results. Proceedings of the Hierapolis International Symposium (Karahayit, Turkey 2007)"
+   ],
+   "place": "Galatina",
+   "pages": "217-235",
+   "language": "eng",
+   "notes": "editor cited as \"Minghetto\""
+  },
+  {
+   "position": 30,
+   "raw": "Scardozzi G. 2012c, Ricerche per la carta archeologica di Hierapolis di Frigia (Turchia): indagini multidisciplinari integrate per la ricostruzione di una città antica, in Atti del Secondo Seminario di Archeologia Virtuale: la metodologia prima del software (Roma 2011), Roma, Espera, 132-147.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "Ricerche per la carta archeologica di Hierapolis di Frigia (Turchia): indagini multidisciplinari integrate per la ricostruzione di una città antica",
+   "is_part_of": [
+    "Atti del Secondo Seminario di Archeologia Virtuale: la metodologia prima del software (Roma 2011)"
+   ],
+   "place": "Roma",
+   "publisher": "Espera",
+   "pages": "132-147",
+   "language": "ita"
+  },
+  {
+   "position": 31,
+   "raw": "Scardozzi G. 2012d, Un nuovo miliario dal territorio di Hierapolis. Contributo alla ricostruzione della viabilità antica nella valle del Lykos, in D'Andria, Caggia, Ismaelli 2012, 739-766.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "Un nuovo miliario dal territorio di Hierapolis. Contributo alla ricostruzione della viabilità antica nella valle del Lykos",
+   "pages": "739-766",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    },
+    {
+     "family": "Caggia",
+     "given": "M.P."
+    },
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Hierapolis di Frigia V. Le attività delle campagne di scavo e restauro 2004-2006"
+   ],
+   "place": "Istanbul",
+   "publisher": "Ege Yayınları",
+   "xref": 9,
+   "language": "ita"
+  },
+  {
+   "position": 32,
+   "raw": "Scardozzi G., Giese S., Hübner C. 2013, Integrated Geophysical Investigations in Hierapolis of Phrygia (Turkey), «Near Surface Geophysics», 13, 101-113.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scardozzi",
+     "given": "G."
+    },
+    {
+     "family": "Giese",
+     "given": "S."
+    },
+    {
+     "family": "Hübner",
+     "given": "C."
+    }
+   ],
+   "date": "2013",
+   "title": "Integrated Geophysical Investigations in Hierapolis of Phrygia (Turkey)",
+   "is_part_of": [
+    "Near Surface Geophysics"
+   ],
+   "volume": "13",
+   "pages": "101-113",
+   "language": "eng"
+  },
+  {
+   "position": 33,
+   "raw": "Sobrà G., Masino F., Gabellone G., Limoncelli M. 2011, Research on the Theatre at Hierapolis Phrygia: An integrated approach, in F. Henze et al. (eds.), Von Handaufmass bis High Tech III: 3D in der historischen Bauforschung, Darmstad, Zabern, 72-78.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sobrà",
+     "given": "G."
+    },
+    {
+     "family": "Masino",
+     "given": "F."
+    },
+    {
+     "family": "Gabellone",
+     "given": "G."
+    },
+    {
+     "family": "Limoncelli",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "Research on the Theatre at Hierapolis Phrygia: An integrated approach",
+   "editors": [
+    {
+     "family": "Henze",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Von Handaufmass bis High Tech III: 3D in der historischen Bauforschung"
+   ],
+   "place": "Darmstadt",
+   "publisher": "Zabern",
+   "pages": "72-78",
+   "language": "eng",
+   "notes": "editors cited \"F. Henze et al.\""
+  },
+  {
+   "position": 34,
+   "raw": "Spanò A. 2002, Le ragioni dell'intervento di natura topografica a Hierapolis, in D. De Bernardi Ferrero (ed.), Saggi in onore di Paolo Verzone, Roma, Giorgio Bretschneider Editore, 233-261.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Spanò",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Le ragioni dell'intervento di natura topografica a Hierapolis",
+   "editors": [
+    {
+     "family": "De Bernardi Ferrero",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Saggi in onore di Paolo Verzone"
+   ],
+   "place": "Roma",
+   "publisher": "Giorgio Bretschneider Editore",
+   "pages": "233-261",
+   "language": "ita"
+  },
+  {
+   "position": 35,
+   "raw": "Tanriöver Y.E., Baykan N.O., Baykan N. 2006, The water supply systems of Caria. An inventory study, in G. Wiplinger (ed.), Cura Aquarum in Ephesus. Proceedings of the 12th International Conference on the History of Water Management and Hydraulic Engineering (Ephesus-Selçuk 2004), Leuven-Paris-Dudley, Peeters, I, 127-132.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tanriöver",
+     "given": "Y.E."
+    },
+    {
+     "family": "Baykan",
+     "given": "N.O."
+    },
+    {
+     "family": "Baykan",
+     "given": "N."
+    }
+   ],
+   "date": "2006",
+   "title": "The water supply systems of Caria. An inventory study",
+   "pages": "127-132",
+   "language": "eng",
+   "editors": [
+    {
+     "family": "Wiplinger",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Cura Aquarum in Ephesus. Proceedings of the 12th International Conference on the History of Water Management and Hydraulic Engineering (Ephesus-Selçuk 2004)"
+   ],
+   "place": "Leuven-Paris-Dudley",
+   "publisher": "Peeters",
+   "volume": "I"
+  },
+  {
+   "position": 36,
+   "raw": "Verzone P. 1977, L'urbanistica di Hierapolis di Frigia. Tracciato viario e monumenti rimessi alla luce dal 1957 al 1972, in Atti del XVI Congresso di Storia dell'Architettura (Atene 1969), Roma, 401-413.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Verzone",
+     "given": "P."
+    }
+   ],
+   "date": "1977",
+   "title": "L'urbanistica di Hierapolis di Frigia. Tracciato viario e monumenti rimessi alla luce dal 1957 al 1972",
+   "is_part_of": [
+    "Atti del XVI Congresso di Storia dell'Architettura (Atene 1969)"
+   ],
+   "place": "Roma",
+   "pages": "401-413",
+   "language": "ita"
+  },
+  {
+   "position": 37,
+   "raw": "Wiplinger G. 2006, Wasser für Ephesos. Stand der Erforschung der Wasserversorgung, in G. Wiplinger (ed.), Cura Aquarum in Ephesus. Proceedings of the 12th International Conference on the History of Water Management and Hydraulic Engineering (Ephesus-Selçuk 2004), Leuven-Paris-Dudley, Peeters, I, 23-37.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wiplinger",
+     "given": "G."
+    }
+   ],
+   "date": "2006",
+   "title": "Wasser für Ephesos. Stand der Erforschung der Wasserversorgung",
+   "pages": "23-37",
+   "language": "ger",
+   "editors": [
+    {
+     "family": "Wiplinger",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Cura Aquarum in Ephesus. Proceedings of the 12th International Conference on the History of Water Management and Hydraulic Engineering (Ephesus-Selçuk 2004)"
+   ],
+   "place": "Leuven-Paris-Dudley",
+   "publisher": "Peeters",
+   "volume": "I"
+  }
+ ]
+}

@@ -1,0 +1,1219 @@
+{
+ "citing_aec_id": 324,
+ "source_file": "data/journal/12/324.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BARCELÓ J.A. 1996, Arqueología Automática. Inteligencia Artificial en Arqueología, Cuadernos de Arqueología Mediterránea 2, Sabadell.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "1996",
+   "title": "Arqueología Automática. Inteligencia Artificial en Arqueología",
+   "series": "Cuadernos de Arqueología Mediterránea",
+   "series_number": "2",
+   "place": "Sabadell",
+   "language": "spa"
+  },
+  {
+   "position": 2,
+   "raw": "BARCELÓ J.A, FORTE M., SANDERS D. (eds.) 2000, Virtual Reality in Archaeology, BAR International Series 843, Oxford.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "date": "2000",
+   "title": "Virtual Reality in Archaeology",
+   "series": "BAR International Series",
+   "series_number": "843",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "BARCELÓ J.A., PALLARES M. 1996, A critique of G.I.S. in archaeology. From visual seduction to spatial analysis, «Archeologia e Calcolatori», 7, 313-326.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Pallarés",
+     "given": "M."
+    }
+   ],
+   "date": "1996",
+   "title": "A critique of G.I.S. in archaeology. From visual seduction to spatial analysis",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "313-326",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "BARCELÓ J.A., PALLARES M. 1998, Beyond GIS. The archaeology of social spaces, «Archeologia e Calcolatori», 9, 47-80.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Pallarés",
+     "given": "M."
+    }
+   ],
+   "date": "1998",
+   "title": "Beyond GIS. The archaeology of social spaces",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "47-80",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "BARCELÓ J.A, PIJOAN J., VICENTE O. 2001, Image quantification as archaeological description, in STANÈIÈ, VELJANOVSKI 2001, 69-77.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Pijoan",
+     "given": "J."
+    },
+    {
+     "family": "Vicente",
+     "given": "O."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "Image quantification as archaeological description",
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. CAA 2000 - Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000)"
+   ],
+   "pages": "69-77",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "BILLINGHURST M., KATO H. 1999, Collaborative mixed reality, in Proceedings of the First International Symposium on Mixed Reality (ISMR ’99). Mixed Reality - Merging Real and Virtual Worlds, Berlin, Springer Verlag, 261-284.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Billinghurst",
+     "given": "M."
+    },
+    {
+     "family": "Kato",
+     "given": "H."
+    }
+   ],
+   "date": "1999",
+   "title": "Collaborative mixed reality",
+   "is_part_of": [
+    "Proceedings of the First International Symposium on Mixed Reality (ISMR ’99). Mixed Reality - Merging Real and Virtual Worlds"
+   ],
+   "pages": "261-284",
+   "publisher": "Springer Verlag",
+   "place": "Berlin",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "BONFIGLI M.E., GUIDAZZOLI A. 2000, A WWW virtual museum for improving the knowledge of the history of a city, in BARCELÓ, FORTE, SANDERS 2000, 143-147.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bonfigli",
+     "given": "M.E."
+    },
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "date": "2000",
+   "title": "A WWW virtual museum for improving the knowledge of the history of a city",
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "pages": "143-147",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "BROGNI A., BRESCIANI E., BERGAMASCO M., SILVANO F. 2000, An interactive system for the presentation of a virtual Egyptian flute in a real museum, in BARCELÓ, FORTE, SANDERS 2000, 129-134.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brogni",
+     "given": "A."
+    },
+    {
+     "family": "Bresciani",
+     "given": "E."
+    },
+    {
+     "family": "Bergamasco",
+     "given": "M."
+    },
+    {
+     "family": "Silvano",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "date": "2000",
+   "title": "An interactive system for the presentation of a virtual Egyptian flute in a real museum",
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "pages": "129-134",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "BRYSON S. 1994, Real-time exploratory scientific visualisation and Virtual Reality, in ROSENBLUM et al. 1994, 65-85.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bryson",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rosenblum",
+     "given": "L."
+    }
+   ],
+   "date": "1994",
+   "title": "Real-time exploratory scientific visualisation and Virtual Reality",
+   "is_part_of": [
+    "Scientific Visualization. Advances and Challenges"
+   ],
+   "pages": "65-85",
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "BRYSON S. 1996, Virtual Reality in Scientific Visualisation, in Communications of the ACM, 39, 5, 62-71.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bryson",
+     "given": "S."
+    }
+   ],
+   "date": "1996",
+   "title": "Virtual Reality in Scientific Visualisation",
+   "is_part_of": [
+    "Communications of the ACM"
+   ],
+   "volume": "39",
+   "issue": "5",
+   "pages": "62-71",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "BUXTON W. 1997, Living in Augmented Reality: Ubiquitous media and reactive environments, in K. FINN, A. SELLEN, S. WILBER (eds.), Video Mediated Communication, Hillsdale, N.J. Erlbaum, 363-384.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buxton",
+     "given": "W."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Finn",
+     "given": "K."
+    },
+    {
+     "family": "Sellen",
+     "given": "A."
+    },
+    {
+     "family": "Wilber",
+     "given": "S."
+    }
+   ],
+   "date": "1997",
+   "title": "Living in Augmented Reality: Ubiquitous media and reactive environments",
+   "is_part_of": [
+    "Video Mediated Communication"
+   ],
+   "pages": "363-384",
+   "publisher": "Erlbaum",
+   "place": "Hillsdale, N.J.",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "CARTWRIGHT N. 1989, Nature’s Capacities and Their Measurement, Oxford, Clarendon Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cartwright",
+     "given": "N."
+    }
+   ],
+   "date": "1989",
+   "title": "Nature’s Capacities and Their Measurement",
+   "publisher": "Clarendon Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "COLONNA J.F. 1994, Images du Virtuel, Paris, Addison-Wesley France.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Colonna",
+     "given": "J.F."
+    }
+   ],
+   "date": "1994",
+   "title": "Images du Virtuel",
+   "publisher": "Addison-Wesley France",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 14,
+   "raw": "DRASCIC D., MILGRAM P. 1995, Perceptual issues in Augmented Reality, in SPIE 2653: Stereoscopic Displays and Virtual Reality Systems, III, San Jose, Feb. 1996, 123-134.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Drascic",
+     "given": "D."
+    },
+    {
+     "family": "Milgram",
+     "given": "P."
+    }
+   ],
+   "date": "1995",
+   "title": "Perceptual issues in Augmented Reality",
+   "is_part_of": [
+    "SPIE 2653: Stereoscopic Displays and Virtual Reality Systems, III"
+   ],
+   "pages": "123-134",
+   "place": "San Jose",
+   "language": "eng",
+   "notes": "\"San Jose, Feb. 1996\""
+  },
+  {
+   "position": 15,
+   "raw": "DURLACH N.I., MAVOR A.S. (eds.) 1995, Virtual Reality. Scientific and Technological Challenges, Washington, National Academy Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Durlach",
+     "given": "N.I."
+    },
+    {
+     "family": "Mavor",
+     "given": "A.S."
+    }
+   ],
+   "date": "1995",
+   "title": "Virtual Reality. Scientific and Technological Challenges",
+   "publisher": "National Academy Press",
+   "place": "Washington",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "EBERT D.S., MUSGRAVE F.K., PEACHEY D., PERLIN K., WORLEY S. 1995, Texturing and Modelling. A Procedural Approach, Boston, Academic Press Professional.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ebert",
+     "given": "D.S."
+    },
+    {
+     "family": "Musgrave",
+     "given": "F.K."
+    },
+    {
+     "family": "Peachey",
+     "given": "D."
+    },
+    {
+     "family": "Perlin",
+     "given": "K."
+    },
+    {
+     "family": "Worley",
+     "given": "S."
+    }
+   ],
+   "date": "1995",
+   "title": "Texturing and Modelling. A Procedural Approach",
+   "publisher": "Academic Press Professional",
+   "place": "Boston",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "EELLS E. 1991, Probabilistic Causality, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Eells",
+     "given": "E."
+    }
+   ],
+   "date": "1991",
+   "title": "Probabilistic Causality",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "ELLIS S.R. 1994, What are virtual environments?, «IEEE Computer Graphics and Applications», 14,1, 17-22.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ellis",
+     "given": "S.R."
+    }
+   ],
+   "date": "1994",
+   "title": "What are virtual environments?",
+   "is_part_of": [
+    "IEEE Computer Graphics and Applications"
+   ],
+   "volume": "14",
+   "issue": "1",
+   "pages": "17-22",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "FISHWICK P.A. 1995, Simulation and Model Design and Execution. Building Digital Worlds, Englewood Cliffs, Prentice Hall.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fishwick",
+     "given": "P.A."
+    }
+   ],
+   "date": "1995",
+   "title": "Simulation and Model Design and Execution. Building Digital Worlds",
+   "publisher": "Prentice Hall",
+   "place": "Englewood Cliffs",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "FOLEY J., RIBARSKY B. 1994, Next-generation data visualisation tools, in ROSENBLUM et al. 1994, 103-127.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Foley",
+     "given": "J."
+    },
+    {
+     "family": "Ribarsky",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rosenblum",
+     "given": "L."
+    }
+   ],
+   "date": "1994",
+   "title": "Next-generation data visualisation tools",
+   "is_part_of": [
+    "Scientific Visualization. Advances and Challenges"
+   ],
+   "pages": "103-127",
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "FORTE M. (ed.) 1997, Virtual Archaeology: Great Discoveries Brought to Life Through Virtual Reality, London, Thames and Hudson.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "1997",
+   "title": "Virtual Archaeology: Great Discoveries Brought to Life Through Virtual Reality",
+   "publisher": "Thames and Hudson",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "FRISCHER B., FAVRO D., LIVERANI P., DE BLAAUW S., ABERNATHY D. 2000, Virtual Reality and ancient Rome: The UCLA cultural VR Lab’s Santa Maria Maggiore Project, in BARCELÓ, FORTE, SANDERS 2000, 155-162.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Frischer",
+     "given": "B."
+    },
+    {
+     "family": "Favro",
+     "given": "D."
+    },
+    {
+     "family": "Liverani",
+     "given": "P."
+    },
+    {
+     "family": "De Blaauw",
+     "given": "S."
+    },
+    {
+     "family": "Abernathy",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "date": "2000",
+   "title": "Virtual Reality and ancient Rome: The UCLA cultural VR Lab’s Santa Maria Maggiore Project",
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "pages": "155-162",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "GERSHON N. 1994, From perception to visualisation, in ROSENBLUM et al. 1994, 129-139.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gershon",
+     "given": "N."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rosenblum",
+     "given": "L."
+    }
+   ],
+   "date": "1994",
+   "title": "From perception to visualisation",
+   "is_part_of": [
+    "Scientific Visualization. Advances and Challenges"
+   ],
+   "pages": "129-139",
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "GOLDSTEIN L. 1996, Representation and geometrical methods of problem-solving, in D. PETERSON (ed.), Forms of Representation, Exeter, Intellect Books.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Goldstein",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Peterson",
+     "given": "D."
+    }
+   ],
+   "date": "1996",
+   "title": "Representation and geometrical methods of problem-solving",
+   "is_part_of": [
+    "Forms of Representation"
+   ],
+   "publisher": "Intellect Books",
+   "place": "Exeter",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "HÖHNE H., POMMERT A., RIEMER M., SCHIEMANN T., SCHUBERT R., TIEDE T. 1994, Medical volume visualization based on ‘Intelligent Volumes’, in ROSENBLUM et al. 1994, 21-36.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Höhne",
+     "given": "H."
+    },
+    {
+     "family": "Pommert",
+     "given": "A."
+    },
+    {
+     "family": "Riemer",
+     "given": "M."
+    },
+    {
+     "family": "Schiemann",
+     "given": "T."
+    },
+    {
+     "family": "Schubert",
+     "given": "R."
+    },
+    {
+     "family": "Tiede",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rosenblum",
+     "given": "L."
+    }
+   ],
+   "date": "1994",
+   "title": "Medical volume visualization based on ‘Intelligent Volumes’",
+   "is_part_of": [
+    "Scientific Visualization. Advances and Challenges"
+   ],
+   "pages": "21-36",
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "HOLLAN J., STORNETTA S. 1992, Beyond being there, in Proceedings of CHI ’92, New York, ACM Press, 119-125.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hollan",
+     "given": "J."
+    },
+    {
+     "family": "Stornetta",
+     "given": "S."
+    }
+   ],
+   "date": "1992",
+   "title": "Beyond being there",
+   "is_part_of": [
+    "Proceedings of CHI ’92"
+   ],
+   "pages": "119-125",
+   "publisher": "ACM Press",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "KADOBAYASHI R., NISHIMOTO K., MASE K. 2000, Immersive walk-through experience of Japanese ancient villages with the Vista-Walk System, in BARCELÓ, FORTE, SANDERS 2000, 135-142.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kadobayashi",
+     "given": "R."
+    },
+    {
+     "family": "Nishimoto",
+     "given": "K."
+    },
+    {
+     "family": "Mase",
+     "given": "K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "date": "2000",
+   "title": "Immersive walk-through experience of Japanese ancient villages with the Vista-Walk System",
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "pages": "135-142",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 28,
+   "raw": "McCORMICK B-H., DE FANTI T., BROWN M.D. 1987, Visualisation in scientific computing, «Computer Graphics», 21,6, 1-14.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "McCormick",
+     "given": "B.-H."
+    },
+    {
+     "family": "De Fanti",
+     "given": "T."
+    },
+    {
+     "family": "Brown",
+     "given": "M.D."
+    }
+   ],
+   "date": "1987",
+   "title": "Visualisation in scientific computing",
+   "is_part_of": [
+    "Computer Graphics"
+   ],
+   "volume": "21",
+   "issue": "6",
+   "pages": "1-14",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "MILGRAM P., DRASCIC D. 1995, Merging Real and Virtual Worlds, Monte Carlo, Imagina.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Milgram",
+     "given": "P."
+    },
+    {
+     "family": "Drascic",
+     "given": "D."
+    }
+   ],
+   "date": "1995",
+   "title": "Merging Real and Virtual Worlds",
+   "publisher": "Imagina",
+   "place": "Monte Carlo",
+   "language": "eng"
+  },
+  {
+   "position": 30,
+   "raw": "MILGRAM P., KISHINO F. 1994, A taxonomy of Mixed Reality visual displays, «IEICE Transactions on Information Systems», E77-D, 12, 1321-1329.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Milgram",
+     "given": "P."
+    },
+    {
+     "family": "Kishino",
+     "given": "F."
+    }
+   ],
+   "date": "1994",
+   "title": "A taxonomy of Mixed Reality visual displays",
+   "is_part_of": [
+    "IEICE Transactions on Information Systems"
+   ],
+   "volume": "E77-D",
+   "issue": "12",
+   "pages": "1321-1329",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "MILGRAM P., TAKEMURA H. 1994, Augmented Reality: A class of displays on the reality-virtuality continuum, in SPIE, 2351: Telemanipulator and Telepresence Technologies, 282-292.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Milgram",
+     "given": "P."
+    },
+    {
+     "family": "Takemura",
+     "given": "H."
+    }
+   ],
+   "date": "1994",
+   "title": "Augmented Reality: A class of displays on the reality-virtuality continuum",
+   "is_part_of": [
+    "SPIE, 2351: Telemanipulator and Telepresence Technologies"
+   ],
+   "pages": "282-292",
+   "language": "eng"
+  },
+  {
+   "position": 32,
+   "raw": "MILGRAM P., YIN S. 1997, An Augmented Reality based teleoperation interface for unstructured environments, in ANS 7th Meeting on Robotics and Remote Systems, Augusta, GA, 101-123.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Milgram",
+     "given": "P."
+    },
+    {
+     "family": "Yin",
+     "given": "S."
+    }
+   ],
+   "date": "1997",
+   "title": "An Augmented Reality based teleoperation interface for unstructured environments",
+   "is_part_of": [
+    "ANS 7th Meeting on Robotics and Remote Systems"
+   ],
+   "pages": "101-123",
+   "place": "Augusta, GA",
+   "language": "eng"
+  },
+  {
+   "position": 33,
+   "raw": "MILLER P., RICHARDS J. 1995, The good, the bad, and the downright misleading: archaeological adoption of computer visualisation, in J. HUGGETT, N. RYAN, Computer Applications in Archaeology 1994, BAR International Series 600, Oxford, 19-22.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Miller",
+     "given": "P."
+    },
+    {
+     "family": "Richards",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    },
+    {
+     "family": "Ryan",
+     "given": "N."
+    }
+   ],
+   "date": "1995",
+   "title": "The good, the bad, and the downright misleading: archaeological adoption of computer visualisation",
+   "is_part_of": [
+    "Computer Applications in Archaeology 1994"
+   ],
+   "pages": "19-22",
+   "series": "BAR International Series",
+   "series_number": "600",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 34,
+   "raw": "MORTENSON M.E. 1985, Geometric Modelling, New York, John Wiley & Sons.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mortenson",
+     "given": "M.E."
+    }
+   ],
+   "date": "1985",
+   "title": "Geometric Modelling",
+   "publisher": "John Wiley & Sons",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "ROSE E., BREEN D., AHLERS K.H., CRAMPTON C., TUCERYAN M., WHITAKER R., GREER D. 1994, Annotating real-world objects using Augmented Reality, in R.A. EARNSHAW, J.A. VINCE (eds.), Computer Graphics. Developments in Virtual Environments, London, Academic Press, 357-370.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Rose",
+     "given": "E."
+    },
+    {
+     "family": "Breen",
+     "given": "D."
+    },
+    {
+     "family": "Ahlers",
+     "given": "K.H."
+    },
+    {
+     "family": "Crampton",
+     "given": "C."
+    },
+    {
+     "family": "Tuceryan",
+     "given": "M."
+    },
+    {
+     "family": "Whitaker",
+     "given": "R."
+    },
+    {
+     "family": "Greer",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Earnshaw",
+     "given": "R.A."
+    },
+    {
+     "family": "Vince",
+     "given": "J.A."
+    }
+   ],
+   "date": "1994",
+   "title": "Annotating real-world objects using Augmented Reality",
+   "is_part_of": [
+    "Computer Graphics. Developments in Virtual Environments"
+   ],
+   "pages": "357-370",
+   "publisher": "Academic Press",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 36,
+   "raw": "ROSENBLUM L. et al. (eds.) 1994, Scientific Visualization. Advances and Challenges, New York, Academic Press.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Rosenblum",
+     "given": "L."
+    }
+   ],
+   "date": "1994",
+   "title": "Scientific Visualization. Advances and Challenges",
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng",
+   "notes": "cited ROSENBLUM L. et al. (eds.); other editors unknown"
+  },
+  {
+   "position": 37,
+   "raw": "RYAN N.S., PASCOE J., MORSE D.R. 1999, Enhanced Reality fieldwork: The context-aware archaeological assistant, in L. DINGWALL, S. EXON, V. GAFFNEY, S. LAFLIN, M. VAN LEUSEN (eds.), Computer Applications in Archaeology 1997, BAR International Series 750, Oxford, 269-274.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ryan",
+     "given": "N.S."
+    },
+    {
+     "family": "Pascoe",
+     "given": "J."
+    },
+    {
+     "family": "Morse",
+     "given": "D.R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Enhanced Reality fieldwork: The context-aware archaeological assistant",
+   "is_part_of": [
+    "Archaeology in the Age of the Internet. CAA 1997 Proceedings of the 25th Anniversary Conference"
+   ],
+   "pages": "269-274",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 38,
+   "raw": "SALMON W. 1984, Scientific Explanation and the Causal Structure of the World, Princeton, Princeton University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Salmon",
+     "given": "W."
+    }
+   ],
+   "date": "1984",
+   "title": "Scientific Explanation and the Causal Structure of the World",
+   "publisher": "Princeton University Press",
+   "place": "Princeton",
+   "language": "eng"
+  },
+  {
+   "position": 39,
+   "raw": "SANDERS D. 2000, Archaeological publications using Virtual Reality: Case studies and caveats, in BARCELÓ, FORTE, SANDERS 2000.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sanders",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "date": "2000",
+   "title": "Archaeological publications using Virtual Reality: Case studies and caveats",
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 40,
+   "raw": "SCHMALSTEIG D., FUHRMANN A., SZALAVARI Z., GERVAUTZ M., STUDIERSTUBE 1996, An environment for collaboration in Augmented Reality, in CVE ’96 Workshop Proceedings (September 1996), Nottingham.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Schmalstieg",
+     "given": "D."
+    },
+    {
+     "family": "Fuhrmann",
+     "given": "A."
+    },
+    {
+     "family": "Szalavari",
+     "given": "Z."
+    },
+    {
+     "family": "Gervautz",
+     "given": "M."
+    }
+   ],
+   "date": "1996",
+   "title": "Studierstube: An environment for collaboration in Augmented Reality",
+   "is_part_of": [
+    "CVE ’96 Workshop Proceedings (September 1996)"
+   ],
+   "place": "Nottingham",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "raw lists \"STUDIERSTUBE\" as a fifth author; it is the first word of the title (title reconstructed)"
+  },
+  {
+   "position": 41,
+   "raw": "SMALL C.G. 1996, The Statistical Theory of Shape, New York, Springer-Verlag.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Small",
+     "given": "C.G."
+    }
+   ],
+   "date": "1996",
+   "title": "The Statistical Theory of Shape",
+   "publisher": "Springer-Verlag",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 42,
+   "raw": "STANÈIÈ Z., VELJANOVSKI T. (eds.) 2001, Computing Archaeology for Understanding the Past. CAA 2000, BAR International Series 931, Oxford.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "Computing Archaeology for Understanding the Past. CAA 2000",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 43,
+   "raw": "THALMAN N.M., THALMAN D. 1994, Computer animation: A key issue for time visualisation, scientific visualisation. Advances and challenges, in L. ROSENBLUM et al. 1994, 201-222.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Thalmann",
+     "given": "N.M."
+    },
+    {
+     "family": "Thalmann",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rosenblum",
+     "given": "L."
+    }
+   ],
+   "date": "1994",
+   "title": "Computer animation: A key issue for time visualisation",
+   "is_part_of": [
+    "Scientific Visualization. Advances and Challenges"
+   ],
+   "pages": "201-222",
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng",
+   "notes": "raw \"THALMAN\"; \"scientific visualisation. Advances and challenges\" in the raw is the container title"
+  },
+  {
+   "position": 44,
+   "raw": "VOTE E., ACEVEDO D., LAIDLAW D., JOUKOWSKY M.S. 2001, ARCHAVE: A virtual environment for archaeological research, in STANÈIÈ, VELJANOVSKI 2001, 313-316.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vote",
+     "given": "E."
+    },
+    {
+     "family": "Acevedo",
+     "given": "D."
+    },
+    {
+     "family": "Laidlaw",
+     "given": "D."
+    },
+    {
+     "family": "Joukowsky",
+     "given": "M.S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "date": "2001",
+   "title": "ARCHAVE: A virtual environment for archaeological research",
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. CAA 2000 - Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 28th Conference (Ljubljana 2000)"
+   ],
+   "pages": "313-316",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  }
+ ]
+}

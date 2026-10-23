@@ -1,0 +1,326 @@
+{
+ "citing_aec_id": 210,
+ "source_file": "data/journal/7/210.md",
+ "references": [
+  {
+   "raw": "AAT Application Protocol: Appendix A: Date and Geographic Name Guidelines 1994, in T. PETERSEN, P.J. BARNETT (eds.), Guide to Indexing and Cataloguing with the Art and Architecture Thesaurus, New York, Oxford University Press, 47-50.",
+   "date": "1994",
+   "pages": "47-50",
+   "type": "chapter",
+   "title": "AAT Application Protocol: Appendix A: Date and Geographic Name Guidelines",
+   "place": "New York",
+   "publisher": "Oxford University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1,
+   "is_part_of": [
+    "Guide to Indexing and Cataloguing with the Art and Architecture Thesaurus"
+   ],
+   "editors": [
+    {
+     "family": "Petersen",
+     "given": "T."
+    },
+    {
+     "family": "Barnett",
+     "given": "P.J."
+    }
+   ]
+  },
+  {
+   "raw": "Hypertext IDEAs (A poster by D. Parapadakis and N. Lambrou for a poster exhibition at Imperial College, presenting the way IDEAs can deal with the problems of experts and inexperts alike).",
+   "type": "other",
+   "title": "Hypertext IDEAs",
+   "confidence": "low",
+   "notes": "poster for a poster exhibition at Imperial College; no year",
+   "position": 2,
+   "creators": [
+    {
+     "family": "Parapadakis",
+     "given": "D."
+    },
+    {
+     "family": "Lambrou",
+     "given": "N."
+    }
+   ],
+   "language": "eng"
+  },
+  {
+   "raw": "Art & Architecture Thesaurus 1994, 2nd ed. 5 vols, New York, Oxford University Press.",
+   "date": "1994",
+   "type": "book",
+   "title": "Art & Architecture Thesaurus",
+   "place": "New York",
+   "publisher": "Oxford University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3,
+   "edition": "2",
+   "notes": "5 vols"
+  },
+  {
+   "raw": "BEARMAN D. 1990, Archives and Museum Data Models and Dictionaries, Archives and Museum Informatics Technical Report 10, Pittsburg.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Bearman",
+     "given": "D."
+    }
+   ],
+   "type": "other",
+   "title": "Archives and Museum Data Models and Dictionaries",
+   "place": "Pittsburg",
+   "series": "Archives and Museum Informatics Technical Report",
+   "series_number": "10",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "BEARMAN D. 1991, Computer interchange of Museum information, «Bulletin of the American Society for Information Science», 14-16.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Bearman",
+     "given": "D."
+    }
+   ],
+   "type": "article",
+   "title": "Computer interchange of Museum information",
+   "is_part_of": [
+    "Bulletin of the American Society for Information Science"
+   ],
+   "pages": "14-16",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "BEARMAN D. 1991, Museum information standards: Progress and prospects, in S.M. STIVAC, K.A. WINSELL (eds.), A Sourcebook of Standards Information, Boston, G.K. Hall, 253-264.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Bearman",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "Museum information standards: Progress and prospects",
+   "editors": [
+    {
+     "family": "Stivac",
+     "given": "S.M."
+    },
+    {
+     "family": "Winsell",
+     "given": "K.A."
+    }
+   ],
+   "pages": "253-264",
+   "is_part_of": [
+    "A Sourcebook of Standards Information"
+   ],
+   "place": "Boston",
+   "publisher": "G.K. Hall",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "BEARMAN D. 1992, Information exchange requirements of archives and museums, in D.A. ROBERTS (ed.).",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Bearman",
+     "given": "D."
+    }
+   ],
+   "type": "chapter",
+   "title": "Information exchange requirements of archives and museums",
+   "editors": [
+    {
+     "family": "Roberts",
+     "given": "D.A."
+    }
+   ],
+   "language": "eng",
+   "confidence": "low",
+   "position": 7,
+   "notes": "container title not given in the citation"
+  },
+  {
+   "raw": "DIONYSSIADOU I., DOERR M. 1994, Mapping of material culture to a semantic network, in Joint Annual Meeting, Automating Museums in the Americas and Beyond, International Council of Museums Documentation Committee and Museum Computer Network, 31-38.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Dionyssiadou",
+     "given": "I."
+    },
+    {
+     "family": "Doerr",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Mapping of material culture to a semantic network",
+   "pages": "31-38",
+   "is_part_of": [
+    "Joint Annual Meeting, Automating Museums in the Americas and Beyond"
+   ],
+   "publisher": "International Council of Museums Documentation Committee and Museum Computer Network",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "GOLDFARB C.F. 1990, The SGML Handbook, Oxford, Clarendon Press.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Goldfarb",
+     "given": "C.F."
+    }
+   ],
+   "type": "book",
+   "title": "The SGML Handbook",
+   "place": "Oxford",
+   "publisher": "Clarendon Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "KONSTANTINOU V., MORSE P. 1992, Electronic Documentation System: Using Automated Hypertext Techniques for Technical Support Services (a research paper, presented in ACM SIGDOC 92, on 13 October 1992).",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Konstantinou",
+     "given": "V."
+    },
+    {
+     "family": "Morse",
+     "given": "P."
+    }
+   ],
+   "type": "other",
+   "title": "Electronic Documentation System: Using Automated Hypertext Techniques for Technical Support Services (a research paper, presented in ACM SIGDOC 92, on 13 October 1992)",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10,
+   "is_part_of": [
+    "ACM SIGDOC 92"
+   ],
+   "notes": "research paper presented on 13 October 1992"
+  },
+  {
+   "raw": "Objets religieux, Méthode d'analyse et vocabulaire - Religious Objects, User's Guide and Terminology, 1994, Paris, Editions de Réunion des Musées nationaux.",
+   "date": "1994",
+   "type": "book",
+   "title": "Objets religieux, Méthode d'analyse et vocabulaire - Religious Objects, User's Guide and Terminology",
+   "publisher": "Editions de Réunion des Musées nationaux",
+   "language": "fre",
+   "confidence": "high",
+   "position": 11,
+   "place": "Paris"
+  },
+  {
+   "raw": "PARAPADAKIS D., KONSTANTINOU V., MORSE P. 1992, A Report on the Intelligent Hypertext Research at the University of Westminster, Artificial Intelligence Division.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Parapadakis",
+     "given": "D."
+    },
+    {
+     "family": "Konstantinou",
+     "given": "V."
+    },
+    {
+     "family": "Morse",
+     "given": "P."
+    }
+   ],
+   "type": "other",
+   "title": "A Report on the Intelligent Hypertext Research at the University of Westminster",
+   "language": "eng",
+   "confidence": "high",
+   "position": 12,
+   "publisher": "Artificial Intelligence Division"
+  },
+  {
+   "raw": "ROBERTS D.A. 1988, Collections Management for Museums, MDA, Cambridge.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Roberts",
+     "given": "D.A."
+    }
+   ],
+   "type": "book",
+   "title": "Collections Management for Museums",
+   "place": "Cambridge",
+   "publisher": "MDA",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "ROBINSON P. 1994, The Transcription of Primary Textual Sources Using SGML, «Office for Humanities Communication Publications», Number 6, Oxford.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Robinson",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "The Transcription of Primary Textual Sources Using SGML",
+   "issue": "Number 6",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14,
+   "series": "Office for Humanities Communication Publications",
+   "series_number": "6",
+   "place": "Oxford",
+   "notes": "series cited between guillemets; same series as Robinson 1993 (article 202)"
+  },
+  {
+   "raw": "SPERBERG-McQUEEN C.M., BURNARD L. (eds.) 1990, Guidelines for the Encoding and Interchange of Machine-Readable Texts, Draft Version 1.1, Chicago and Oxford.",
+   "date": "1990",
+   "editors": [
+    {
+     "family": "Sperberg-Mcqueen",
+     "given": "C.M."
+    },
+    {
+     "family": "Burnard",
+     "given": "L."
+    }
+   ],
+   "type": "book",
+   "title": "Guidelines for the Encoding and Interchange of Machine-Readable Texts, Draft Version 1.1",
+   "place": "Chicago and Oxford",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "VAN HERWIJNEN E. 1994, Practical SGML, Dordrecht, Kluwer Academic Publishers.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Van Herwijnen",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "Practical SGML",
+   "place": "Dordrecht",
+   "publisher": "Kluwer Academic Publishers",
+   "language": "eng",
+   "confidence": "high",
+   "position": 16
+  }
+ ]
+}

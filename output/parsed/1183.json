@@ -1,0 +1,184 @@
+{
+ "citing_aec_id": 1183,
+ "source_file": "data/journal/33/1183.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Dell’Unto N., Landeschi G. 2022, Archaeological 3D GIS, London, Routledge (https://doi.org/10.4324/9781003034131).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Dell'Unto",
+     "given": "N."
+    },
+    {
+     "family": "Landeschi",
+     "given": "G."
+    }
+   ],
+   "date": "2022",
+   "title": "Archaeological 3D GIS",
+   "publisher": "Routledge",
+   "place": "London",
+   "uri": "https://doi.org/10.4324/9781003034131",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Dessales H. (ed.) 2020a, The Villa of Diomedes. The Making of a Roman Villa in Pompeii, Collection du Centre Jean Bérard, Napoli-Paris, Centre Jean Bérard-Hermann Éditeurs.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Dessales",
+     "given": "H."
+    }
+   ],
+   "date": "2020",
+   "title": "The Villa of Diomedes. The Making of a Roman Villa in Pompeii",
+   "series": "Collection du Centre Jean Bérard",
+   "publisher": "Centre Jean Bérard-Hermann Éditeurs",
+   "place": "Napoli-Paris",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Dessales H. 2020b, Construction techniques for elevations: Methods and typology, in Dessales 2020a, 189-205.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dessales",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dessales",
+     "given": "H."
+    }
+   ],
+   "date": "2020",
+   "title": "Construction techniques for elevations: Methods and typology",
+   "is_part_of": [
+    "The Villa of Diomedes. The Making of a Roman Villa in Pompeii"
+   ],
+   "pages": "189-205",
+   "series": "Collection du Centre Jean Bérard",
+   "publisher": "Centre Jean Bérard-Hermann Éditeurs",
+   "place": "Napoli-Paris",
+   "language": "eng",
+   "xref": 2,
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Mascione C. 2006, Il rilievo strumentale in archeologia, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mascione",
+     "given": "C."
+    }
+   ],
+   "date": "2006",
+   "title": "Il rilievo strumentale in archeologia",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Medri M. 2003, Manuale di rilievo archeologico, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    }
+   ],
+   "date": "2003",
+   "title": "Manuale di rilievo archeologico",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Pinto Puerto F. (ed.) 2020, Modelos digitales de información en la tutela sostenible del patrimonio cultural. Contribución al conocimiento e innovación social, Seville, Editorial Universidad de Sevilla.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Pinto Puerto",
+     "given": "F."
+    }
+   ],
+   "date": "2020",
+   "title": "Modelos digitales de información en la tutela sostenible del patrimonio cultural. Contribución al conocimiento e innovación social",
+   "publisher": "Editorial Universidad de Sevilla",
+   "place": "Seville",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Tricoche A. 2020, Database Management System, in Dessales 2020a, 121-132.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tricoche",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Dessales",
+     "given": "H."
+    }
+   ],
+   "date": "2020",
+   "title": "Database Management System",
+   "is_part_of": [
+    "The Villa of Diomedes. The Making of a Roman Villa in Pompeii"
+   ],
+   "pages": "121-132",
+   "series": "Collection du Centre Jean Bérard",
+   "publisher": "Centre Jean Bérard-Hermann Éditeurs",
+   "place": "Napoli-Paris",
+   "language": "eng",
+   "xref": 2,
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Trizio I., Demetrescu E., Ferdani D. (eds.) 2021, Virtual reconstruction and restoration. Comparing methodologies, practices, and experiences, «DISEGNARECON», 14, 27 (http://disegnarecon.univaq.it/ojs/index.php/disegnarecon/issue/view/30/showToc).",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Trizio",
+     "given": "I."
+    },
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    }
+   ],
+   "date": "2021",
+   "title": "Virtual reconstruction and restoration. Comparing methodologies, practices, and experiences",
+   "is_part_of": [
+    "DISEGNARECON"
+   ],
+   "volume": "14",
+   "issue": "27",
+   "uri": "http://disegnarecon.univaq.it/ojs/index.php/disegnarecon/issue/view/30/showToc",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

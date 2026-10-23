@@ -1,0 +1,388 @@
+{
+ "citing_aec_id": 133,
+ "source_file": "data/journal/7/133.md",
+ "references": [
+  {
+   "raw": "BATTELLI G. 1974, *Il più ricco fondo diplomatico delle Marche: le pergamene di Fiastra*, «Studi Maceratesi», 10, 79-104.",
+   "date": "1974",
+   "creators": [
+    {
+     "family": "Battelli",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Il più ricco fondo diplomatico delle Marche: le pergamene di Fiastra",
+   "is_part_of": [
+    "Studi Maceratesi"
+   ],
+   "pages": "79-104",
+   "volume": "10",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "CATANI E. 1990, *Monumenti funerari dell'agro urbisalviense*, «Studi Maceratesi», 23, 121-162.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Catani",
+     "given": "E."
+    }
+   ],
+   "type": "article",
+   "title": "Monumenti funerari dell'agro urbisalviense",
+   "is_part_of": [
+    "Studi Maceratesi"
+   ],
+   "pages": "121-162",
+   "volume": "23",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "CHIAVARI A. 1991, *Note di topografia medievale nell'area dell'abbazia di Fiastra*, «Studi Maceratesi», 25, 117-213.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Chiavari",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Note di topografia medievale nell'area dell'abbazia di Fiastra",
+   "is_part_of": [
+    "Studi Maceratesi"
+   ],
+   "pages": "117-213",
+   "volume": "25",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "CHOUQUER G., CLAVEL LÉVÊQUE M., FAVORY F., VALLAT J.P. 1987, *Structures agraires en Italie centro-méridionale. Cadastres et paysage ruraux*, Roma, Ecole Française.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Chouquer",
+     "given": "G."
+    },
+    {
+     "family": "Clavel Lévêque",
+     "given": "M."
+    },
+    {
+     "family": "Favory",
+     "given": "F."
+    },
+    {
+     "family": "Vallat",
+     "given": "J.P."
+    }
+   ],
+   "type": "book",
+   "title": "Structures agraires en Italie centro-méridionale. Cadastres et paysage ruraux",
+   "place": "Roma",
+   "publisher": "Ecole Française",
+   "language": "fre",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "COMPATANGELO R. 1989, *Un cadastre de pierre. Le Salento romain*, Paris.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Compatangelo",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Un cadastre de pierre. Le Salento romain",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "COMPATANGELO R. 1994, *Recherches sur l'occupation du sol et les cadastrations antiques du territoire de Canosa*, «Dialogues d'histoire ancienne», 20.1, 199-243.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Compatangelo",
+     "given": "R."
+    }
+   ],
+   "type": "article",
+   "title": "Recherches sur l'occupation du sol et les cadastrations antiques du territoire de Canosa",
+   "is_part_of": [
+    "Dialogues d'histoire ancienne"
+   ],
+   "pages": "199-243",
+   "issue": "1",
+   "language": "fre",
+   "confidence": "high",
+   "position": 6,
+   "volume": "20"
+  },
+  {
+   "raw": "DELPLACE C. 1993, *La romanisation du Picenum. L'exemple d'Urbs Salvia*, Roma, École Française.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Delplace",
+     "given": "C."
+    }
+   ],
+   "type": "book",
+   "title": "La romanisation du Picenum. L'exemple d'Urbs Salvia",
+   "place": "Roma",
+   "publisher": "École Française",
+   "language": "fre",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "DE LUCA A. 1990, *Per un'edizione delle pergamene di Fiastra. Problemi di cronologia e di autenticità*, «Studi Maceratesi», 23, 189-230.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "De Luca",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Per un'edizione delle pergamene di Fiastra. Problemi di cronologia e di autenticità",
+   "is_part_of": [
+    "Studi Maceratesi"
+   ],
+   "pages": "189-230",
+   "volume": "23",
+   "language": "ita",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "GABBA E. 1989, *Sui sistemi catastali romani in Italia*, «Athenaeum», 67, 567-570.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Gabba",
+     "given": "E."
+    }
+   ],
+   "type": "article",
+   "title": "Sui sistemi catastali romani in Italia",
+   "is_part_of": [
+    "Athenaeum"
+   ],
+   "pages": "567-570",
+   "volume": "67",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "MOSCATELLI U., VETTORAZZI L. 1988, *Aspetti delle divisioni agrarie romane nelle Marche*, «Le Marche. Archeologia storia territorio», 1, 7-84.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Moscatelli",
+     "given": "U."
+    },
+    {
+     "family": "Vettorazzi",
+     "given": "L."
+    }
+   ],
+   "type": "article",
+   "title": "Aspetti delle divisioni agrarie romane nelle Marche",
+   "is_part_of": [
+    "Le Marche. Archeologia storia territorio"
+   ],
+   "pages": "7-84",
+   "volume": "1",
+   "language": "ita",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "MOSCATELLI U. 1990, *A proposito di alcuni recenti ricerche sulle divisioni agrarie in Italia centro-meridionale*, «Annali della Facoltà di Lettere dell'Università di Macerata», 22-23, 659-677.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Moscatelli",
+     "given": "U."
+    }
+   ],
+   "type": "article",
+   "title": "A proposito di alcuni recenti ricerche sulle divisioni agrarie in Italia centro-meridionale",
+   "is_part_of": [
+    "Annali della Facoltà di Lettere dell'Università di Macerata"
+   ],
+   "pages": "659-677",
+   "language": "ita",
+   "confidence": "high",
+   "position": 11,
+   "volume": "22-23"
+  },
+  {
+   "raw": "OVIDI E. 1908, *Le carte dell'Abbazia di Chiaravalle di Fiastra*, Ancona, Deputazione di Storia Patria.",
+   "date": "1908",
+   "creators": [
+    {
+     "family": "Ovidi",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "Le carte dell'Abbazia di Chiaravalle di Fiastra",
+   "place": "Ancona",
+   "publisher": "Deputazione di Storia Patria",
+   "language": "ita",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "PACINI D. 1967, *I monaci di Farfa nelle valli picene del Chienti e del Potenza*, «Studi Maceratesi», 2, 129-174.",
+   "date": "1967",
+   "creators": [
+    {
+     "family": "Pacini",
+     "given": "D."
+    }
+   ],
+   "type": "article",
+   "title": "I monaci di Farfa nelle valli picene del Chienti e del Potenza",
+   "is_part_of": [
+    "Studi Maceratesi"
+   ],
+   "pages": "129-174",
+   "volume": "2",
+   "language": "ita",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "QUILICI L. 1994, *Centuriazione e paesaggio agrario nell'Italia centrale*, in J. CARLSEN, P. ØRSTED, J.E. SKYDSGAARD (edd.), *Landuse in the Roman Empire*, Roma, L'Erma di Bretschneider, 127-133.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Quilici",
+     "given": "L."
+    }
+   ],
+   "type": "chapter",
+   "title": "Centuriazione e paesaggio agrario nell'Italia centrale",
+   "editors": [
+    {
+     "family": "Carlsen",
+     "given": "J."
+    },
+    {
+     "family": "Ørsted",
+     "given": "P."
+    },
+    {
+     "family": "Skydsgaard",
+     "given": "J.E."
+    }
+   ],
+   "pages": "127-133",
+   "is_part_of": [
+    "Landuse in the Roman Empire"
+   ],
+   "place": "Roma",
+   "publisher": "L'Erma di Bretschneider",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "SERENI E. 1976, *Storia del paesaggio agrario italiano*, Bari, Laterza.",
+   "date": "1976",
+   "creators": [
+    {
+     "family": "Sereni",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "Storia del paesaggio agrario italiano",
+   "place": "Bari",
+   "publisher": "Laterza",
+   "language": "ita",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "TONEATTO L. 1992, *Il nuovo censimento dei manoscritti latini d'agrimensura (tradizione diretta e indiretta)*, in O. BEHRENDS, L. CAPOGROSSI COLOGNESI (edd.), *Die römische Feldmesskunst. Interdisziplinäre Beiträge zu ihrer Bedeutung für die Zivilisationgeschichte Roms*, Göttingen, Vandenhoeck & Ruprecht, 26-66.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Toneatto",
+     "given": "L."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il nuovo censimento dei manoscritti latini d'agrimensura (tradizione diretta e indiretta)",
+   "editors": [
+    {
+     "family": "Behrends",
+     "given": "O."
+    },
+    {
+     "family": "Capogrossi Colognesi",
+     "given": "L."
+    }
+   ],
+   "pages": "26-66",
+   "is_part_of": [
+    "Die römische Feldmesskunst. Interdisziplinäre Beiträge zu ihrer Bedeutung für die Zivilisationgeschichte Roms"
+   ],
+   "place": "Göttingen",
+   "publisher": "Vandenhoeck & Ruprecht",
+   "language": "ita",
+   "confidence": "high",
+   "position": 16
+  },
+  {
+   "raw": "TONEATTO L. 1994, *Codices artis mensoriae. I manoscritti degli antichi opuscoli latini d'agrimensura (V-XIX sec.)*.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Toneatto",
+     "given": "L."
+    }
+   ],
+   "type": "book",
+   "title": "Codices artis mensoriae. I manoscritti degli antichi opuscoli latini d'agrimensura (V-XIX sec.)",
+   "language": "ita",
+   "confidence": "high",
+   "position": 17
+  },
+  {
+   "raw": "VETTORAZZI L. 1990, *Ricerche topografiche nel territorio a nord di Urbs Salvia*, «Le Marche. Archeologia storia territorio», 2, 97-136.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Vettorazzi",
+     "given": "L."
+    }
+   ],
+   "type": "article",
+   "title": "Ricerche topografiche nel territorio a nord di Urbs Salvia",
+   "is_part_of": [
+    "Le Marche. Archeologia storia territorio"
+   ],
+   "pages": "97-136",
+   "volume": "2",
+   "language": "ita",
+   "confidence": "high",
+   "position": 18
+  }
+ ]
+}

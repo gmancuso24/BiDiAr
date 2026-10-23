@@ -1,0 +1,98 @@
+{
+ "citing_aec_id": 1341,
+ "source_file": "data/journal/35/1341.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Baudrillard J. 1981, *Simulacres et simulation*, Paris, Editions Galilée.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Baudrillard",
+     "given": "J."
+    }
+   ],
+   "date": "1981",
+   "title": "Simulacres et simulation",
+   "publisher": "Editions Galilée",
+   "place": "Paris",
+   "language": "fre"
+  },
+  {
+   "position": 2,
+   "raw": "Jenkins H. 2009, *Confronting the Challenges of Participatory Culture: Media Education for the 21st Century*, Cambridge (MA), The MacArthur Foundation.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jenkins",
+     "given": "H."
+    }
+   ],
+   "date": "2009",
+   "title": "Confronting the Challenges of Participatory Culture: Media Education for the 21st Century",
+   "publisher": "The MacArthur Foundation",
+   "place": "Cambridge (MA)",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Park J.S., Popowski L., Cai C., Morris M.R., Liang P., Bernstein M.S. 2022, *Social Simulacra: Creating populated prototypes for social computing systems*, in *Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology* (Bend 2022), New York, Association for Computing Machinery, 1-18.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Park",
+     "given": "J.S."
+    },
+    {
+     "family": "Popowski",
+     "given": "L."
+    },
+    {
+     "family": "Cai",
+     "given": "C."
+    },
+    {
+     "family": "Morris",
+     "given": "M.R."
+    },
+    {
+     "family": "Liang",
+     "given": "P."
+    },
+    {
+     "family": "Bernstein",
+     "given": "M.S."
+    }
+   ],
+   "date": "2022",
+   "title": "Social Simulacra: Creating populated prototypes for social computing systems",
+   "is_part_of": [
+    "Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology (Bend 2022)"
+   ],
+   "pages": "1-18",
+   "publisher": "Association for Computing Machinery",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Vygotsky L.S., Cole M. 1978, *Mind in Society: Development of Higher Psychological Processes*, Cambridge (MA), Harvard University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Vygotsky",
+     "given": "L.S."
+    },
+    {
+     "family": "Cole",
+     "given": "M."
+    }
+   ],
+   "date": "1978",
+   "title": "Mind in Society: Development of Higher Psychological Processes",
+   "publisher": "Harvard University Press",
+   "place": "Cambridge (MA)",
+   "language": "eng"
+  }
+ ]
+}

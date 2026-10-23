@@ -1,0 +1,894 @@
+{
+ "citing_aec_id": 1161,
+ "source_file": "data/journal/32/1161.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ABV, Beazley J.D. 1956, Attic Black-Figure Vase-Painters, Oxford, Oxford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Beazley",
+     "given": "J.D."
+    }
+   ],
+   "date": "1956",
+   "title": "Attic Black-Figure Vase-Painters",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "cited as \"ABV\"",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Algrain I. 2014, L'alabastre attique. Origine, forme et usages, Études d'archéologie 7, Bruxelles, CReA-Patrimoine.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Algrain",
+     "given": "I."
+    }
+   ],
+   "date": "2014",
+   "title": "L'alabastre attique. Origine, forme et usages",
+   "series": "Études d'archéologie",
+   "series_number": "7",
+   "publisher": "CReA-Patrimoine",
+   "place": "Bruxelles",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Algrain I. 2020, Paint it Black: Boeotia, Attica and Black-Glaze Pottery, in M. Langner, S. Schmidt (eds.), Die Materialität griechischer Vasen. Mikrohistorische Perspektiven in der Vasenforschung, Beihefte der Bayerischen Akademie der Wissenschaften, Deutschland 9, München, Verlag der Bayerischen Akademie der Wissenschaften, 27-35.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Algrain",
+     "given": "I."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Langner",
+     "given": "M."
+    },
+    {
+     "family": "Schmidt",
+     "given": "S."
+    }
+   ],
+   "date": "2020",
+   "title": "Paint it Black: Boeotia, Attica and Black-Glaze Pottery",
+   "is_part_of": [
+    "Die Materialität griechischer Vasen. Mikrohistorische Perspektiven in der Vasenforschung"
+   ],
+   "pages": "27-35",
+   "series": "Beihefte der Bayerischen Akademie der Wissenschaften, Deutschland",
+   "series_number": "9",
+   "publisher": "Verlag der Bayerischen Akademie der Wissenschaften",
+   "place": "München",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Arcelin-Pradelle Ch., Laubenheimer F. 1983, La notion de série en céramique tournée, in Histoire des techniques et sources documentaires. Méthodes d'approche et expérimentation en région méditerranéenne. Actes du colloque du G.I.S. (Aix en Provence 1982), Aix-en-Provence, Université de Provence. Institut de recherches méditerranéennes, 129-139.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Arcelin-Pradelle",
+     "given": "Ch."
+    },
+    {
+     "family": "Laubenheimer",
+     "given": "F."
+    }
+   ],
+   "date": "1983",
+   "title": "La notion de série en céramique tournée",
+   "is_part_of": [
+    "Histoire des techniques et sources documentaires. Méthodes d'approche et expérimentation en région méditerranéenne. Actes du colloque du G.I.S. (Aix en Provence 1982)"
+   ],
+   "pages": "129-139",
+   "publisher": "Université de Provence. Institut de recherches méditerranéennes",
+   "place": "Aix-en-Provence",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "ARV², Beazley J.D. 1963, Attic Red-Figure Vase-Painters (Second Edition), Oxford, Clarendon Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Beazley",
+     "given": "J.D."
+    }
+   ],
+   "date": "1963",
+   "title": "Attic Red-Figure Vase-Painters",
+   "edition": "2",
+   "publisher": "Clarendon Press",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "cited as \"ARV²\"",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Audiat J. 1938, Compte rendu: Haspels (C.H. Émilie). Attic black-figured Lekythoi (École française d'Athènes: Travaux et Mémoires publiés par les professeurs de l'Institut supérieur d'études françaises et les membres étrangers de l'École), «Revue des études grecques», 51.240, 291-294.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Audiat",
+     "given": "J."
+    }
+   ],
+   "date": "1938",
+   "title": "Compte rendu: Haspels (C.H. Émilie). Attic black-figured Lekythoi (École française d'Athènes: Travaux et Mémoires publiés par les professeurs de l'Institut supérieur d'études françaises et les membres étrangers de l'École)",
+   "is_part_of": [
+    "Revue des études grecques"
+   ],
+   "volume": "51",
+   "issue": "240",
+   "pages": "291-294",
+   "language": "fre",
+   "notes": "cited as \"51.240\"",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Beazley J.D. 1944, Potter and Painter in Ancient Athens, Proceedings of the British Academy 30, London.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Beazley",
+     "given": "J.D."
+    }
+   ],
+   "date": "1944",
+   "title": "Potter and Painter in Ancient Athens",
+   "is_part_of": [
+    "Proceedings of the British Academy"
+   ],
+   "volume": "30",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Bloesch H. 1940, Formen attischer Schalen von Exekias bis zum Ende des Strengen Stils, Bern, Benteli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bloesch",
+     "given": "H."
+    }
+   ],
+   "date": "1940",
+   "title": "Formen attischer Schalen von Exekias bis zum Ende des Strengen Stils",
+   "publisher": "Benteli",
+   "place": "Bern",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Bloesch H. 1951, Stout and slender in the late archaic period, «The Journal of Hellenic Studies», 71, 29-39.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bloesch",
+     "given": "H."
+    }
+   ],
+   "date": "1951",
+   "title": "Stout and slender in the late archaic period",
+   "is_part_of": [
+    "The Journal of Hellenic Studies"
+   ],
+   "volume": "71",
+   "pages": "29-39",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Brijder H.A.G. 1983, Siana Cups I and Komast Cups, Allard Pierson Series 4, Amsterdam, Allard Pierson Museum.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Brijder",
+     "given": "H.A.G."
+    }
+   ],
+   "date": "1983",
+   "title": "Siana Cups I and Komast Cups",
+   "series": "Allard Pierson Series",
+   "series_number": "4",
+   "publisher": "Allard Pierson Museum",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Cook B.F. 1984, Class 6L: A minor workshop of red figured lekythoi, in H.A.G. Brijder (éd.), Ancient Greek and Related Pottery. Proceedings of the International Vase Symposium (Amsterdam 1984), Amsterdam, Allard Pierson Museum, 149-152.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cook",
+     "given": "B.F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brijder",
+     "given": "H.A.G."
+    }
+   ],
+   "date": "1984",
+   "title": "Class 6L: A minor workshop of red figured lekythoi",
+   "is_part_of": [
+    "Ancient Greek and Related Pottery. Proceedings of the International Vase Symposium (Amsterdam 1984)"
+   ],
+   "pages": "149-152",
+   "publisher": "Allard Pierson Museum",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Cook R.M. 1945, Review: H. Bloesch, Formen Attischer Schalen von Exekias bis zum Ende des Strengen Stils, «The Journal of Hellenic Studies», 65, 122-123.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cook",
+     "given": "R.M."
+    }
+   ],
+   "date": "1945",
+   "title": "Review: H. Bloesch, Formen Attischer Schalen von Exekias bis zum Ende des Strengen Stils",
+   "is_part_of": [
+    "The Journal of Hellenic Studies"
+   ],
+   "volume": "65",
+   "pages": "122-123",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Euwe J. 1996, The Potters of the Nolan amphorae in Sicily: Criteria for attributions, in G. Rizza (ed.), I vasi attici ed altre ceramiche coeve in Sicilia. Atti del convegno internazionale (Catania, Camarina, Gela, Vittoria 1990), II, Catania, CNR - Centro di studio sull'archeologia greca, 67-80.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Euwe",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rizza",
+     "given": "G."
+    }
+   ],
+   "date": "1996",
+   "title": "The Potters of the Nolan amphorae in Sicily: Criteria for attributions",
+   "is_part_of": [
+    "I vasi attici ed altre ceramiche coeve in Sicilia. Atti del convegno internazionale (Catania, Camarina, Gela, Vittoria 1990)"
+   ],
+   "volume": "II",
+   "pages": "67-80",
+   "publisher": "CNR - Centro di studio sull'archeologia greca",
+   "place": "Catania",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Haspels C.H.E. 1936, Attic Black-Figured Lekythoi, Paris, de Boccard.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Haspels",
+     "given": "C.H.E."
+    }
+   ],
+   "date": "1936",
+   "title": "Attic Black-Figured Lekythoi",
+   "publisher": "de Boccard",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Hemelrijk J.M. 1991, A closer look at the potter, in T. Rasmussen, N. Spivey (eds.), Looking at Greek Vases, Cambridge, Cambridge University Press, 233-256.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hemelrijk",
+     "given": "J.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rasmussen",
+     "given": "T."
+    },
+    {
+     "family": "Spivey",
+     "given": "N."
+    }
+   ],
+   "date": "1991",
+   "title": "A closer look at the potter",
+   "is_part_of": [
+    "Looking at Greek Vases"
+   ],
+   "pages": "233-256",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Jubier-Galinier C. 1999, Les Peintres de Sappho et de Diosphos, structure d'atelier, in M.-Ch. Villanueva Puig (ed.), Céramique et peinture grecques. Modes d'emploi, Paris, La Documentation française, 181-186.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Jubier-Galinier",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Villanueva Puig",
+     "given": "M.-Ch."
+    }
+   ],
+   "date": "1999",
+   "title": "Les Peintres de Sappho et de Diosphos, structure d'atelier",
+   "is_part_of": [
+    "Céramique et peinture grecques. Modes d'emploi"
+   ],
+   "pages": "181-186",
+   "publisher": "La Documentation française",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Jubier-Galinier C. 2003, L'atelier des Peintres de Diosphos et de Haimon, in P. Rouillard, A. Verbanck-Piérard (eds.), Le vase grec et ses destins, München, Biering & Brinkmann, 79-89.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Jubier-Galinier",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rouillard",
+     "given": "P."
+    },
+    {
+     "family": "Verbanck-Piérard",
+     "given": "A."
+    }
+   ],
+   "date": "2003",
+   "title": "L'atelier des Peintres de Diosphos et de Haimon",
+   "is_part_of": [
+    "Le vase grec et ses destins"
+   ],
+   "pages": "79-89",
+   "publisher": "Biering & Brinkmann",
+   "place": "München",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Jubier-Galinier C. 2016, Les attributions des vases à figures noires tardives en question, in N. Eschbach, S. Schmidt (eds.), Töpfer Maler Werkstatt. Zuschreibungen in der griechischen Vasenmalerei und die Organisation antiker Keramikproduktion, Beihefte zum CVA Deutschland 7, München, C.H. Beck, 130-138.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Jubier-Galinier",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Eschbach",
+     "given": "N."
+    },
+    {
+     "family": "Schmidt",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "Les attributions des vases à figures noires tardives en question",
+   "is_part_of": [
+    "Töpfer Maler Werkstatt. Zuschreibungen in der griechischen Vasenmalerei und die Organisation antiker Keramikproduktion"
+   ],
+   "pages": "130-138",
+   "series": "Beihefte zum CVA Deutschland",
+   "series_number": "7",
+   "publisher": "C.H. Beck",
+   "place": "München",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Kathariou K. 2017, Moving Bloesch's methodology one century forward: Challenges and perspectives, in L. Cappuccini, Ch. Leypold, M. Mohr (eds.), Fragmenta Mediterranea. Contatti, tradizioni e innovazioni in Grecia, Magna Grecia, Etruria e Roma. Studi in onore di Christoph Reusser, Sesto Fiorentino, All'Insegna del Giglio, 217-230.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kathariou",
+     "given": "K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cappuccini",
+     "given": "L."
+    },
+    {
+     "family": "Leypold",
+     "given": "Ch."
+    },
+    {
+     "family": "Mohr",
+     "given": "M."
+    }
+   ],
+   "date": "2017",
+   "title": "Moving Bloesch's methodology one century forward: Challenges and perspectives",
+   "is_part_of": [
+    "Fragmenta Mediterranea. Contatti, tradizioni e innovazioni in Grecia, Magna Grecia, Etruria e Roma. Studi in onore di Christoph Reusser"
+   ],
+   "pages": "217-230",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Sesto Fiorentino",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Kurtz D.C. 1975, Athenian White Lekythoi, patterns and Painters, Oxford, Clarendon Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kurtz",
+     "given": "D.C."
+    }
+   ],
+   "date": "1975",
+   "title": "Athenian White Lekythoi, patterns and Painters",
+   "publisher": "Clarendon Press",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Langner M. 2013, Grundlagen der Chronologie spätrotfiguriger Vasen aus Athen, «Bulletin Antike Beschaving», 88, 127-170.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Langner",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Grundlagen der Chronologie spätrotfiguriger Vasen aus Athen",
+   "is_part_of": [
+    "Bulletin Antike Beschaving"
+   ],
+   "volume": "88",
+   "pages": "127-170",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Mackay E.A. 1984, Amphorae by Exekias, in H.A.G. Brijder (ed.), Ancient Greek and Related Pottery. Proceedings of the International Vase Symposium (Amsterdam 1984), Allard Pierson Series 5, Amsterdam, Allard Pierson Museum, 153.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mackay",
+     "given": "E.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brijder",
+     "given": "H.A.G."
+    }
+   ],
+   "date": "1984",
+   "title": "Amphorae by Exekias",
+   "is_part_of": [
+    "Ancient Greek and Related Pottery. Proceedings of the International Vase Symposium (Amsterdam 1984)"
+   ],
+   "pages": "153",
+   "series": "Allard Pierson Series",
+   "series_number": "5",
+   "publisher": "Allard Pierson Museum",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Mackay E.A. 1985, Methodology in vase-profile analysis, in Greek Vases in the J. Paul Getty Museum 2, Malibu (California), J. Paul Getty Museum, 229-236.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mackay",
+     "given": "E.A."
+    }
+   ],
+   "date": "1985",
+   "title": "Methodology in vase-profile analysis",
+   "is_part_of": [
+    "Greek Vases in the J. Paul Getty Museum"
+   ],
+   "volume": "2",
+   "pages": "229-236",
+   "publisher": "The J. Paul Getty Museum",
+   "place": "Malibu (California)",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Mackay E.A. 2010, Tradition and Originality: A Study of Exekias, BAR international series 2092, Oxford, Archaeopress.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mackay",
+     "given": "E.A."
+    }
+   ],
+   "date": "2010",
+   "title": "Tradition and Originality: A Study of Exekias",
+   "series": "BAR International Series",
+   "series_number": "2092",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Mertens J.R. 2006, Attic white ground: Potter and painter, in B. Cohen (ed.), The Colors of Clay. Special Techniques in Athenian Vases, Los Angeles, The J. Paul Getty Museum, 186-193.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mertens",
+     "given": "J.R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cohen",
+     "given": "B."
+    }
+   ],
+   "date": "2006",
+   "title": "Attic white ground: Potter and painter",
+   "is_part_of": [
+    "The Colors of Clay. Special Techniques in Athenian Vases"
+   ],
+   "pages": "186-193",
+   "publisher": "The J. Paul Getty Museum",
+   "place": "Los Angeles",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Noble J.V. 1965, The Techniques of Painted Attic Pottery, New York, Watson-Guptill Publications in cooperation with the Metropolitan Museum of Art.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Noble",
+     "given": "J.V."
+    }
+   ],
+   "date": "1965",
+   "title": "The Techniques of Painted Attic Pottery",
+   "publisher": "Watson-Guptill Publications in cooperation with the Metropolitan Museum of Art",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Orton C. 1987, The envelope: un nouvel outil pour l'étude morphologique des céramiques, in J. Chapelot, H. Galinié, J. Pilet-Lemière (eds.), La céramique (Ve-XIXe s.), fabrication, commercialisation, utilisation. Actes du premier congrès international d'archéologie médiévale (Paris 1985), Caen, Société d'Archéologie Médiévale, 33-41.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Chapelot",
+     "given": "J."
+    },
+    {
+     "family": "Galinié",
+     "given": "H."
+    },
+    {
+     "family": "Pilet-Lemière",
+     "given": "J."
+    }
+   ],
+   "date": "1987",
+   "title": "The envelope: un nouvel outil pour l'étude morphologique des céramiques",
+   "is_part_of": [
+    "La céramique (Ve-XIXe s.), fabrication, commercialisation, utilisation. Actes du premier congrès international d'archéologie médiévale (Paris 1985)"
+   ],
+   "pages": "33-41",
+   "publisher": "Société d'Archéologie Médiévale",
+   "place": "Caen",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Para, Beazley J.D. 1971, Paralipomena. Additions to Attic Black-figure Vase-painters and to Attic Red-figure Vase-painters (Second Edition), Oxford, Clarendon Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Beazley",
+     "given": "J.D."
+    }
+   ],
+   "date": "1971",
+   "title": "Paralipomena. Additions to Attic Black-figure Vase-painters and to Attic Red-figure Vase-painters (Second Edition)",
+   "publisher": "Clarendon Press",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "cited as \"Para\"",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Robertson M. 1989, Beazley's use of terms, in Beazley Addenda: Additional References to ABV, ARV2 & Paralipomena, Oxford, Oxford University Press², xi-xviii.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Robertson",
+     "given": "M."
+    }
+   ],
+   "date": "1989",
+   "title": "Beazley's use of terms",
+   "is_part_of": [
+    "Beazley Addenda: Additional References to ABV, ARV2 & Paralipomena"
+   ],
+   "pages": "xi-xviii",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "publisher cited as \"Oxford University Press²\" (second edition of the container)",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Schreiber T. 1999, Athenian Vase Construction. A Potter's Analysis, Malibu (California), The J. Paul Getty Museum.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Schreiber",
+     "given": "T."
+    }
+   ],
+   "date": "1999",
+   "title": "Athenian Vase Construction. A Potter's Analysis",
+   "publisher": "The J. Paul Getty Museum",
+   "place": "Malibu (California)",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Sparkes B.A., Talcott L. 1970, The Athenian Agora, XII, Black and Plain Pottery of the 6th, 5th and 4th Centuries B.C., The Athenian Agorà XII, Princeton (New Jersey), The American School of Classical Studies.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sparkes",
+     "given": "B.A."
+    },
+    {
+     "family": "Talcott",
+     "given": "L."
+    }
+   ],
+   "date": "1970",
+   "title": "Black and Plain Pottery of the 6th, 5th and 4th Centuries B.C.",
+   "series": "The Athenian Agora",
+   "series_number": "XII",
+   "publisher": "The American School of Classical Studies",
+   "place": "Princeton (New Jersey)",
+   "language": "eng",
+   "notes": "cited as \"The Athenian Agora, XII, Black and Plain Pottery ..., The Athenian Agorà XII\"",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Tonglet D. 2014, New attributions to the Sappho-Diosphos Painters' workshop. A group of black-figure kyathoi reconsidered, «Babesch», 89, 1-15.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tonglet",
+     "given": "D."
+    }
+   ],
+   "date": "2014",
+   "title": "New attributions to the Sappho-Diosphos Painters' workshop. A group of black-figure kyathoi reconsidered",
+   "is_part_of": [
+    "Babesch"
+   ],
+   "volume": "89",
+   "pages": "1-15",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Tonglet D. 2018, Le kyathos attique de Madame Teithurnai. Échanges artisanaux et interactions culturelles entre Grecs et Étrusques en Méditerranée archaïque, Études d'archéologie 13, Bruxelles, CReA-Patrimoine.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tonglet",
+     "given": "D."
+    }
+   ],
+   "date": "2018",
+   "title": "Le kyathos attique de Madame Teithurnai. Échanges artisanaux et interactions culturelles entre Grecs et Étrusques en Méditerranée archaïque",
+   "series": "Études d'archéologie",
+   "series_number": "13",
+   "publisher": "CReA-Patrimoine",
+   "place": "Bruxelles",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Tsingarida A. 2008a, Nikosthénès looking at East? Phialai in Six's and polychrome Six's technique, in D. Kurtz et al. (eds.), Essays in Classical Archaeology for Eleni Hatzivassiliou 1977-2007, BAR International Series 1796, Oxford, Archaeopress, 105-114.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tsingarida",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Kurtz",
+     "given": "D."
+    }
+   ],
+   "date": "2008",
+   "title": "Nikosthénès looking at East? Phialai in Six's and polychrome Six's technique",
+   "is_part_of": [
+    "Essays in Classical Archaeology for Eleni Hatzivassiliou 1977-2007"
+   ],
+   "pages": "105-114",
+   "series": "BAR International Series",
+   "series_number": "1796",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "cited 2008a; editors cited \"D. Kurtz et al. (eds.)\"",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Tsingarida A. 2008b, Color for a market? Special techniques and distribution patterns in Late Archaic and Early Classical Greece, in K. Lapatin (ed.), Papers on Special Techniques in Athenian Vases. Proceedings of the Symposium Held at the Getty Villa (Los Angeles 2006), Los Angeles, The J. Paul Getty Museum, 187-206.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tsingarida",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lapatin",
+     "given": "K."
+    }
+   ],
+   "date": "2008",
+   "title": "Color for a market? Special techniques and distribution patterns in Late Archaic and Early Classical Greece",
+   "is_part_of": [
+    "Papers on Special Techniques in Athenian Vases. Proceedings of the Symposium Held at the Getty Villa (Los Angeles 2006)"
+   ],
+   "pages": "187-206",
+   "publisher": "The J. Paul Getty Museum",
+   "place": "Los Angeles",
+   "language": "eng",
+   "notes": "cited 2008b",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Tsingarida A. (ed.) 2009, Shapes and Uses of Greek vases, 7th-4th Centuries B.C. Proceedings of the Symposium Held at the Université Libre de Bruxelles (Bruxelles 2006), Études d'archéologie 3, Bruxelles, CReA-Patrimoine.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Tsingarida",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "Shapes and Uses of Greek vases, 7th-4th Centuries B.C. Proceedings of the Symposium Held at the Université Libre de Bruxelles (Bruxelles 2006)",
+   "series": "Études d'archéologie",
+   "series_number": "3",
+   "publisher": "CReA-Patrimoine",
+   "place": "Bruxelles",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Tsingarida A., Viviers D. (eds.) 2013, Pottery Markets in the Ancient Greek World (8th-1st Centuries B.C.). Proceedings of the International symposium Held at the Université libre de Bruxelles (Bruxelles 2008), Études d'archéologie 5, Bruxelles, CReA-Patrimoine.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Tsingarida",
+     "given": "A."
+    },
+    {
+     "family": "Viviers",
+     "given": "D."
+    }
+   ],
+   "date": "2013",
+   "title": "Pottery Markets in the Ancient Greek World (8th-1st Centuries B.C.). Proceedings of the International symposium Held at the Université libre de Bruxelles (Bruxelles 2008)",
+   "series": "Études d'archéologie",
+   "series_number": "5",
+   "publisher": "CReA-Patrimoine",
+   "place": "Bruxelles",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Williams D. 1990, Euphronios: du peintre au potier, in Euphronios, peintre à Athènes au VIe siècle av. J.-C., Paris, Editions de la Réunion des musées nationaux, 33-37.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Williams",
+     "given": "D."
+    }
+   ],
+   "date": "1990",
+   "title": "Euphronios: du peintre au potier",
+   "is_part_of": [
+    "Euphronios, peintre à Athènes au VIe siècle av. J.-C."
+   ],
+   "pages": "33-37",
+   "publisher": "Editions de la Réunion des musées nationaux",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  }
+ ]
+}

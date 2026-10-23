@@ -1,0 +1,449 @@
+{
+ "citing_aec_id": 50,
+ "source_file": "data/journal/4/50.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BIETTI A. 1982, Tecniche matematiche nell'analisi dei dati archeologici, Contributi del Centro Linceo Interdisciplinare di Scienze Matematiche e loro Applicazioni n. 61, Roma.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    }
+   ],
+   "date": "1982",
+   "title": "Tecniche matematiche nell'analisi dei dati archeologici",
+   "series": "Contributi del Centro Linceo Interdisciplinare di Scienze Matematiche e loro Applicazioni",
+   "series_number": "61",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "BIETTI A. 1989, Applicazioni di metodi matematici e statistici nell'analisi spaziale di siti del Paleolitico, in Atti della XXVII Riunione Scientifica dell'Istituto Italiano di Preistoria e Protostoria, 251-274.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    }
+   ],
+   "date": "1989",
+   "title": "Applicazioni di metodi matematici e statistici nell'analisi spaziale di siti del Paleolitico",
+   "is_part_of": [
+    "Atti della XXVII Riunione Scientifica dell'Istituto Italiano di Preistoria e Protostoria"
+   ],
+   "pages": "251-274",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BIETTI A. 1990, Nuovi sviluppi negli scavi del Paleolitico: dai \"suoli d'abitato\" ai \"palinsesti\", in R. FRANCOVICH, D. MANACORDA (edd.), Lo Scavo Archeologico dalla diagnosi all'edizione, Firenze, Edizioni All'Insegna del Giglio.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "Nuovi sviluppi negli scavi del Paleolitico: dai \"suoli d'abitato\" ai \"palinsesti\"",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Lo Scavo Archeologico dalla diagnosi all'edizione"
+   ],
+   "publisher": "Edizioni All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "BIETTI A. in stampa, Paleosuperfici antropiche e strati \"spessi\": alcune considerazioni sul loro contenuto di informazione, in Atti della XXXI Riunione Scientifica dell'Istituto Italiano di Preistoria e Protostoria.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Paleosuperfici antropiche e strati \"spessi\": alcune considerazioni sul loro contenuto di informazione",
+   "is_part_of": [
+    "Atti della XXXI Riunione Scientifica dell'Istituto Italiano di Preistoria e Protostoria"
+   ],
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: not found; the title looks like the XXX Riunione (Paleosuperfici del Pleistocene, Firenze 1993), but the paper itself was not located",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BINFORD L.R. 1978, Dimensional analysis of behavior and site structure: learning from an Eskimo hunting stand, « American Antiquity », 43, 330-361.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Binford",
+     "given": "L.R."
+    }
+   ],
+   "date": "1978",
+   "title": "Dimensional analysis of behavior and site structure: learning from an Eskimo hunting stand",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "43",
+   "pages": "330-361",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "BINFORD L.R. 1988, Etude taphonomique des restes fauniques de la Grotte Vaufrey, couche VIII, in RIGAUD 1988, 535-563.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Binford",
+     "given": "L.R."
+    }
+   ],
+   "date": "1988",
+   "title": "Etude taphonomique des restes fauniques de la Grotte Vaufrey, couche VIII",
+   "editors": [
+    {
+     "family": "Rigaud",
+     "given": "J.-P."
+    }
+   ],
+   "is_part_of": [
+    "La Grotte Vaufrey, Paléoenvironnement-Chronologie-Activités humaines"
+   ],
+   "pages": "535-563",
+   "series": "Mémoires de la Société Préhistorique Française",
+   "series_number": "XIX",
+   "place": "Paris",
+   "xref": 13,
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "BLANKHOLM H.P. 1991, Intrasite Spatial Analysis in Theory and Practice, Aarhus, Aarhus University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Blankholm",
+     "given": "H.P."
+    }
+   ],
+   "date": "1991",
+   "title": "Intrasite Spatial Analysis in Theory and Practice",
+   "place": "Aarhus",
+   "publisher": "Aarhus University Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "BORDES F. 1961, Typologie du Paleolithique ancien et moyen, Bordeaux, Delmas.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bordes",
+     "given": "F."
+    }
+   ],
+   "date": "1961",
+   "title": "Typologie du Paléolithique ancien et moyen",
+   "place": "Bordeaux",
+   "publisher": "Delmas",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "DJINDJIAN F. 1991, Méthodes pour l'archéologie, Paris, A. Colin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Méthodes pour l'archéologie",
+   "place": "Paris",
+   "publisher": "A. Colin",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "HIETALA H.J. 1984 (ed.), Intrasite Spatial Analysis in Archaeology, New Directions in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "date": "1984",
+   "title": "Intrasite Spatial Analysis in Archaeology",
+   "editors": [
+    {
+     "family": "Hietala",
+     "given": "H.J."
+    }
+   ],
+   "series": "New Directions in Archaeology",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "JOHNSON I. 1984, Cell frequency distribution and analysis of artifact distribution, in HIETALA 1984, 75-96.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Johnson",
+     "given": "I."
+    }
+   ],
+   "date": "1984",
+   "title": "Cell frequency distribution and analysis of artifact distribution",
+   "editors": [
+    {
+     "family": "Hietala",
+     "given": "H.J."
+    }
+   ],
+   "is_part_of": [
+    "Intrasite Spatial Analysis in Archaeology"
+   ],
+   "pages": "75-96",
+   "series": "New Directions in Archaeology",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "xref": 10,
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "LEROI-GOURHAN A., BRÉZILLON M. 1972, Fouilles de Pincevent, essai d'analyse ethnographique d'un habitat magdalénien (la section 36), « Gallia Préhistoire », VII suppl.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Leroi-Gourhan",
+     "given": "A."
+    },
+    {
+     "family": "Brézillon",
+     "given": "M."
+    }
+   ],
+   "date": "1972",
+   "title": "Fouilles de Pincevent, essai d'analyse ethnographique d'un habitat magdalénien (la section 36)",
+   "is_part_of": [
+    "Gallia Préhistoire"
+   ],
+   "volume": "Suppl. VII",
+   "notes": "cited 'VII suppl.'",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "RIGAUD J.PH. 1988 (ed.), La Grotte Vaufrey, Paléoenvironnement-Chronologie-Activités humaines, Mémoires de la Societé Préhistorique Française, XIX, Paris.",
+   "type": "book",
+   "date": "1988",
+   "title": "La Grotte Vaufrey, Paléoenvironnement-Chronologie-Activités humaines",
+   "editors": [
+    {
+     "family": "Rigaud",
+     "given": "J.-P."
+    }
+   ],
+   "series": "Mémoires de la Société Préhistorique Française",
+   "series_number": "XIX",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "SIMEK J.F. 1984, A k-means approach to the analysis of spatial structure in Upper Paleolithic habitation sites: Le Flageolet I and Pincevent 36, British Archaeological Reports International Series, n. 205.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Simek",
+     "given": "J.F."
+    }
+   ],
+   "date": "1984",
+   "title": "A k-means approach to the analysis of spatial structure in Upper Paleolithic habitation sites: Le Flageolet I and Pincevent 36",
+   "series": "British Archaeological Reports International Series",
+   "series_number": "205",
+   "confidence": "low",
+   "notes": "cited only as BAR International Series n. 205, no container",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "SIMEK J.F. 1988, Analyse spatiale de la distribution des objets de la couche VIII de la Grotte Vaufrey, in RIGAUD 1988, 569-592.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Simek",
+     "given": "J.F."
+    }
+   ],
+   "date": "1988",
+   "title": "Analyse spatiale de la distribution des objets de la couche VIII de la Grotte Vaufrey",
+   "editors": [
+    {
+     "family": "Rigaud",
+     "given": "J.-P."
+    }
+   ],
+   "is_part_of": [
+    "La Grotte Vaufrey, Paléoenvironnement-Chronologie-Activités humaines"
+   ],
+   "pages": "569-592",
+   "series": "Mémoires de la Société Préhistorique Française",
+   "series_number": "XIX",
+   "place": "Paris",
+   "xref": 13,
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "SIMEK J.F., AMMERMAN A.J., KINTIGH K.W. 1985, Explorations in heuristic spatial analysis: Analyzing the structure of material accumulation over space, « P.A.C.T. », 11, 229-247.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Simek",
+     "given": "J.F."
+    },
+    {
+     "family": "Ammerman",
+     "given": "A.J."
+    },
+    {
+     "family": "Kintigh",
+     "given": "K.W."
+    }
+   ],
+   "date": "1985",
+   "title": "Explorations in heuristic spatial analysis: Analyzing the structure of material accumulation over space",
+   "is_part_of": [
+    "P.A.C.T."
+   ],
+   "volume": "11",
+   "pages": "229-247",
+   "notes": "reference split over two lines in the source",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "VILLA P. 1976-77, Sols et niveaux d'habitat du Paléolithique inférieur en Europe et au Proche Orient, «Quaternaria», 19, 107-134.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Villa",
+     "given": "P."
+    }
+   ],
+   "date": "1976-77",
+   "title": "Sols et niveaux d'habitat du Paléolithique inférieur en Europe et au Proche Orient",
+   "is_part_of": [
+    "Quaternaria"
+   ],
+   "volume": "19",
+   "pages": "107-134",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "WHALLON R. 1973, Spatial analysis of occupation floors. I. Application of dimensional analysis of variance, « American Antiquity », 38, 266-278.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Whallon",
+     "given": "R."
+    }
+   ],
+   "date": "1973",
+   "title": "Spatial analysis of occupation floors. I. Application of dimensional analysis of variance",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "38",
+   "pages": "266-278",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "WHALLON R. 1974, Spatial analysis of occupation floors. II. The application of nearest neighbor analysis, « American Antiquity », 39, 16-34.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Whallon",
+     "given": "R."
+    }
+   ],
+   "date": "1974",
+   "title": "Spatial analysis of occupation floors. II. The application of nearest neighbor analysis",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "39",
+   "pages": "16-34",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "WHALLON R. 1984, Unconstrained clustering for the analysis of spatial distributions in archaeology, in HIETALA 1984, 242-277.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Whallon",
+     "given": "R."
+    }
+   ],
+   "date": "1984",
+   "title": "Unconstrained clustering for the analysis of spatial distributions in archaeology",
+   "editors": [
+    {
+     "family": "Hietala",
+     "given": "H.J."
+    }
+   ],
+   "is_part_of": [
+    "Intrasite Spatial Analysis in Archaeology"
+   ],
+   "pages": "242-277",
+   "series": "New Directions in Archaeology",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "xref": 10,
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

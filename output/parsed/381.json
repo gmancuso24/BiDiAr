@@ -1,0 +1,1767 @@
+{
+ "citing_aec_id": 381,
+ "source_file": "data/journal/15/381.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Aykroyd R.G., Lucy D., Pollard A.M., Roberts C.A. 1999, Nasty, brutish, but not necessarily short: a reconsideration of the statistical methods used to calculate age at death from adult human skeletal and dental age indicators, «American Antiquity», 64, 55-70.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Aykroyd",
+     "given": "R.G."
+    },
+    {
+     "family": "Lucy",
+     "given": "D."
+    },
+    {
+     "family": "Pollard",
+     "given": "A.M."
+    },
+    {
+     "family": "Roberts",
+     "given": "C.A."
+    }
+   ],
+   "date": "1999",
+   "title": "Nasty, brutish, but not necessarily short: a reconsideration of the statistical methods used to calculate age at death from adult human skeletal and dental age indicators",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "64",
+   "pages": "55-70",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bagg J., Ryan N. 1997, Modeling historical changes in Southern Corsica, in Z. Kemp (ed.), Innovations in GIS, London, Taylor & Francis, 42-55.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bagg",
+     "given": "J."
+    },
+    {
+     "family": "Ryan",
+     "given": "N."
+    }
+   ],
+   "date": "1997",
+   "title": "Modeling historical changes in Southern Corsica",
+   "editors": [
+    {
+     "family": "Kemp",
+     "given": "Z."
+    }
+   ],
+   "is_part_of": [
+    "Innovations in GIS"
+   ],
+   "pages": "42-55",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Barceló J.A. 1996, Heuristic classification and fuzzy sets. New tools for archaeological typologies, in H. Kamermans, K. Fennema (eds.), Intefacing the Past, CAA95, Analecta Praehistorica Leidensia, 28, Leiden, University of Leiden, 155-164.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "1996",
+   "title": "Heuristic classification and fuzzy sets. New tools for archaeological typologies",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "is_part_of": [
+    "Interfacing the Past, CAA95"
+   ],
+   "pages": "155-164",
+   "publisher": "University of Leiden",
+   "place": "Leiden",
+   "language": "eng",
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28",
+   "notes": "\"Intefacing\" in the citation corrected",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Baxter M.J., Buck C.E. 2000, Data handling and statistical analysis, in E. Ciliberto, G. Spoto (eds.), Modern Analytical Methods in Art and Archaeology, New York, Wiley, 681-746.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Baxter",
+     "given": "M.J."
+    },
+    {
+     "family": "Buck",
+     "given": "C.E."
+    }
+   ],
+   "date": "2000",
+   "title": "Data handling and statistical analysis",
+   "editors": [
+    {
+     "family": "Ciliberto",
+     "given": "E."
+    },
+    {
+     "family": "Spoto",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Modern Analytical Methods in Art and Archaeology"
+   ],
+   "pages": "681-746",
+   "publisher": "Wiley",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bernabei M., Bondioli L., Guidi A. 1995, Social order of Sauromatian nomads, in B. Genito, M.G. Moskova (eds.), Statistical Analyses of Burial Customs of the Sauromatian Period in Asian Sarmata (6th-4th Centuries B.C.), Napoli, Istituto Universitario Orientale, 161-195.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bernabei",
+     "given": "M."
+    },
+    {
+     "family": "Bondioli",
+     "given": "L."
+    },
+    {
+     "family": "Guidi",
+     "given": "A."
+    }
+   ],
+   "date": "1995",
+   "title": "Social order of Sauromatian nomads",
+   "editors": [
+    {
+     "family": "Genito",
+     "given": "B."
+    },
+    {
+     "family": "Moskova",
+     "given": "M.G."
+    }
+   ],
+   "is_part_of": [
+    "Statistical Analyses of Burial Customs of the Sauromatian Period in Asian Sarmata (6th-4th Centuries B.C.)"
+   ],
+   "pages": "161-195",
+   "publisher": "Istituto Universitario Orientale",
+   "place": "Napoli",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Borodkin L.I., Garskova I.M. 1995, Analytical procedure for multidimensional hierarchical data, in B. Genito, M.G. Moskova (eds.), Statistical Analyses of Burial Customs of the Sauromatian Period in Asian Sarmata (6th-4th Centuries B.C.), Napoli, Istituto Universitario Orientale, 63-114.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Borodkin",
+     "given": "L.I."
+    },
+    {
+     "family": "Garskova",
+     "given": "I.M."
+    }
+   ],
+   "date": "1995",
+   "title": "Analytical procedure for multidimensional hierarchical data",
+   "editors": [
+    {
+     "family": "Genito",
+     "given": "B."
+    },
+    {
+     "family": "Moskova",
+     "given": "M.G."
+    }
+   ],
+   "is_part_of": [
+    "Statistical Analyses of Burial Customs of the Sauromatian Period in Asian Sarmata (6th-4th Centuries B.C.)"
+   ],
+   "pages": "63-114",
+   "publisher": "Istituto Universitario Orientale",
+   "place": "Napoli",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Bourdieu P. 2003, Il mestiere di scienziato, Milano, Feltrinelli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bourdieu",
+     "given": "P."
+    }
+   ],
+   "date": "2003",
+   "title": "Il mestiere di scienziato",
+   "publisher": "Feltrinelli",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Buck C.E. 1993, The provenancing of archaeological ceramics: a Bayesian approach, in J. Andresen, T. Madsen, I. Scollar (eds.), Computing the Past: CAA92, Aarhus, Aarhus University Press, 193-301.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buck",
+     "given": "C.E."
+    }
+   ],
+   "date": "1993",
+   "title": "The provenancing of archaeological ceramics: a Bayesian approach",
+   "editors": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "is_part_of": [
+    "Computing the Past: CAA92"
+   ],
+   "pages": "193-301",
+   "publisher": "Aarhus University Press",
+   "place": "Aarhus",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Buck C.E. 2001, Applications of the Bayesian paradigm, in D.R. Brothwell, A.M. Pollard (eds.), Handbook of Archaeological Sciences, New York, Wiley, 695-702.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buck",
+     "given": "C.E."
+    }
+   ],
+   "date": "2001",
+   "title": "Applications of the Bayesian paradigm",
+   "editors": [
+    {
+     "family": "Brothwell",
+     "given": "D.R."
+    },
+    {
+     "family": "Pollard",
+     "given": "A.M."
+    }
+   ],
+   "is_part_of": [
+    "Handbook of Archaeological Sciences"
+   ],
+   "pages": "695-702",
+   "publisher": "Wiley",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Buck C.E., Cavanagh W.G., Litton C.D. 1988, Tools for the interpretation of soil phosphate data from archaeological field surveys, in P. Spoerry (ed.), Geoprospection in the Archaeological Landscape, Oxford, Oxbow Books, 75-87.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buck",
+     "given": "C.E."
+    },
+    {
+     "family": "Cavanagh",
+     "given": "W.G."
+    },
+    {
+     "family": "Litton",
+     "given": "C.D."
+    }
+   ],
+   "date": "1988",
+   "title": "Tools for the interpretation of soil phosphate data from archaeological field surveys",
+   "editors": [
+    {
+     "family": "Spoerry",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Geoprospection in the Archaeological Landscape"
+   ],
+   "pages": "75-87",
+   "publisher": "Oxbow Books",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Buck C.E., Cavanagh W.G., Litton C.D. 1996, Bayesian Approach to Interpreting Archaeological Data, Chilchester, John Wiley & Sons.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Buck",
+     "given": "C.E."
+    },
+    {
+     "family": "Cavanagh",
+     "given": "W.G."
+    },
+    {
+     "family": "Litton",
+     "given": "C.D."
+    }
+   ],
+   "date": "1996",
+   "title": "Bayesian Approach to Interpreting Archaeological Data",
+   "publisher": "John Wiley & Sons",
+   "place": "Chichester",
+   "language": "eng",
+   "notes": "\"Chilchester\" in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Buck C.E., Christen J.A. 1999, Making complex radiocarbon calibration. Software more accessible: a new approach?, in Dingwall et al. 1999, 103-105.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buck",
+     "given": "C.E."
+    },
+    {
+     "family": "Christen",
+     "given": "J.A."
+    }
+   ],
+   "date": "1999",
+   "title": "Making complex radiocarbon calibration. Software more accessible: a new approach?",
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Archaeology in the Age of the Internet. Computer Applications and Quantitative Methods in Archaeology 1997"
+   ],
+   "pages": "103-105",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "750",
+   "xref": 23,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Buck C.E., Sahu S.K. 2000, Bayesian models for relative archaeological chronology building, «Applied Statistics», 49, 423-440.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Buck",
+     "given": "C.E."
+    },
+    {
+     "family": "Sahu",
+     "given": "S.K."
+    }
+   ],
+   "date": "2000",
+   "title": "Bayesian models for relative archaeological chronology building",
+   "is_part_of": [
+    "Applied Statistics"
+   ],
+   "volume": "49",
+   "pages": "423-440",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Burrough P.A., Frank A.U. 1996, Geographic Objects with Indeterminate Boundaries, London, Taylor & Francis 1996.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Burrough",
+     "given": "P.A."
+    },
+    {
+     "family": "Frank",
+     "given": "A.U."
+    }
+   ],
+   "date": "1996",
+   "title": "Geographic Objects with Indeterminate Boundaries",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Canal E., Cavazzoni S. 1990, Antichi insediamenti antropici nella laguna di Venezia: analisi multivariata di tipo \"Fuzzy C-Means Clustering\", «Archeologia e Calcolatori», 1, 165-177.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Canal",
+     "given": "E."
+    },
+    {
+     "family": "Cavazzoni",
+     "given": "S."
+    }
+   ],
+   "date": "1990",
+   "title": "Antichi insediamenti antropici nella laguna di Venezia: analisi multivariata di tipo “Fuzzy C-Means Clustering”",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "165-177",
+   "language": "ita",
+   "cited_aec_id": 10,
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Cini M. 1994, Un paradiso perduto, Milano, Feltrinelli.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cini",
+     "given": "M."
+    }
+   ],
+   "date": "1994",
+   "title": "Un paradiso perduto",
+   "publisher": "Feltrinelli",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Cowgill G.L. 2001, Past, present and future of quantitative methods in United States archaeology, in Z. Stančič, T. Veljanovski (eds.), Computing Archaeology for Understanding the Past. CAA 2000. Proceedings of the 28th Conference (Ljubliana 2000), BAR International Series 931, Oxford, Archaeopress, 35-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cowgill",
+     "given": "G.L."
+    }
+   ],
+   "date": "2001",
+   "title": "Past, present and future of quantitative methods in United States archaeology",
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. CAA 2000. Proceedings of the 28th Conference (Ljubliana 2000)"
+   ],
+   "pages": "35-40",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Cowgill G.L. 2002, Getting Bayesian ideas across to a wide audience, in F. Djindjian, P. Moscati (eds.), XIV Congress of the UISPP, Commission IV Data Management and Mathematical Methods in Archaeology (Liège 2001), «Archeologia e Calcolatori», 13, 191-196.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cowgill",
+     "given": "G.L."
+    }
+   ],
+   "date": "2002",
+   "title": "Getting Bayesian ideas across to a wide audience",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "pages": "191-196",
+   "language": "eng",
+   "cited_aec_id": 344,
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Crescioli M., D'Andrea A., Niccolucci F. 2000, A GIS-based analysis of the Etruscan cemetery of Pontecagnano using fuzzy logic, in G. Lock (ed.), Beyond the Map: Archaeology and Spatial Technologies, NATO Science Series 321, Amsterdam, IOS Press, 157-179.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Crescioli",
+     "given": "M."
+    },
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "A GIS-based analysis of the Etruscan cemetery of Pontecagnano using fuzzy logic",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Beyond the Map: Archaeology and Spatial Technologies"
+   ],
+   "pages": "157-179",
+   "publisher": "IOS Press",
+   "place": "Amsterdam",
+   "language": "eng",
+   "series": "NATO Science Series",
+   "series_number": "321",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Cuozzo M. 2000, Orizzonti teorici ed interpretativi, tra percorsi di matrice francese, archeologia post-processuale e tendenze italiane: considerazioni e indirizzi di ricerca per lo studio delle necropoli, in N. Terrenato (ed.), Archeologia teorica, Firenze, All'Insegna del Giglio, 323-360.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cuozzo",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "Orizzonti teorici ed interpretativi, tra percorsi di matrice francese, archeologia post-processuale e tendenze italiane: considerazioni e indirizzi di ricerca per lo studio delle necropoli",
+   "editors": [
+    {
+     "family": "Terrenato",
+     "given": "N."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia teorica"
+   ],
+   "pages": "323-360",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "D'Andrea A., Niccolucci F. 2001, L'informatica dell'archeologo: istruzioni per l'uso, «Archeologia e Calcolatori», 12, 199-220.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2001",
+   "title": "L’informatica dell’archeologo: istruzioni per l’uso",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "199-220",
+   "language": "ita",
+   "cited_aec_id": 323,
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Delicado P. 1999, Statistics in archaeology: new directions, in J.A. Barceló, I. Briz, A. Vila (eds.), Computer Applications and Quantitative Methods in Archaeology 1998, BAR International Series 757, Oxford, 29-37.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Delicado",
+     "given": "P."
+    }
+   ],
+   "date": "1999",
+   "title": "Statistics in archaeology: new directions",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1998"
+   ],
+   "pages": "29-37",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "757",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Dingwall L., Exon S., Gaffney V., Laflin S., van Leusen M. (eds.) 1999, Archaeology in the Age of the Internet. Computer Applications and Quantitative Methods in Archaeology 1997, BAR International Series 750, Oxford, Archaeopress.",
+   "type": "proceedings",
+   "date": "1999",
+   "title": "Archaeology in the Age of the Internet. Computer Applications and Quantitative Methods in Archaeology 1997",
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "750",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Dumitrescu D., Lazarovic Gh., Pop H.F. 1989, Fuzzy clustering in archaeology (Romanian), in Symposium of Computer Science Applied in Socio-Human Sciences, Cluj-Napoca.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dumitrescu",
+     "given": "D."
+    },
+    {
+     "family": "Lazarovic",
+     "given": "Gh."
+    },
+    {
+     "family": "Pop",
+     "given": "H.F."
+    }
+   ],
+   "date": "1989",
+   "title": "Fuzzy clustering in archaeology",
+   "is_part_of": [
+    "Symposium of Computer Science Applied in Socio-Human Sciences"
+   ],
+   "place": "Cluj-Napoca",
+   "language": "eng",
+   "notes": "paper in Romanian (\"Romanian\" in the citation)",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Dumitrescu D., Pop H.F. 1992, Qualitative fuzzy clustering in archaeology (Romanian), in Fifth National Symposium of Archaeometry, Cluj-Napoca.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dumitrescu",
+     "given": "D."
+    },
+    {
+     "family": "Pop",
+     "given": "H.F."
+    }
+   ],
+   "date": "1992",
+   "title": "Qualitative fuzzy clustering in archaeology",
+   "is_part_of": [
+    "Fifth National Symposium of Archaeometry"
+   ],
+   "place": "Cluj-Napoca",
+   "language": "eng",
+   "notes": "paper in Romanian (\"Romanian\" in the citation)",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Einstein A. 1921, Geometrie und Erfahrung, Berlin, Julius Springer.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Einstein",
+     "given": "A."
+    }
+   ],
+   "date": "1921",
+   "title": "Geometrie und Erfahrung",
+   "publisher": "Julius Springer",
+   "place": "Berlin",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Fan Y., Brooks S.P. 2000, Bayesian modelling of prehistoric corbelled domes, «The Statistician», 49, 339-354.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fan",
+     "given": "Y."
+    },
+    {
+     "family": "Brooks",
+     "given": "S.P."
+    }
+   ],
+   "date": "2000",
+   "title": "Bayesian modelling of prehistoric corbelled domes",
+   "is_part_of": [
+    "The Statistician"
+   ],
+   "volume": "49",
+   "pages": "339-354",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Gidlow J. 2000, Archaeological computing and disciplinary theory, in G. Lock, K. Brown (eds.), On the Theory and Practice of Archaeological Computing, Oxford, Oxford University Committee for Archaeology Monograph, 51, 23-30.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gidlow",
+     "given": "J."
+    }
+   ],
+   "date": "2000",
+   "title": "Archaeological computing and disciplinary theory",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Brown",
+     "given": "K."
+    }
+   ],
+   "is_part_of": [
+    "On the Theory and Practice of Archaeological Computing"
+   ],
+   "pages": "23-30",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "Oxford University Committee for Archaeology Monograph",
+   "series_number": "51",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Gomez Portugal Aguilar D., Litton C.D., O'Hagan A. 2002, Novel statistical model for a piece-wise linear radiocarbon calibration curve, «Radiocarbon», 44 (1), 195-212.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gomez Portugal Aguilar",
+     "given": "D."
+    },
+    {
+     "family": "Litton",
+     "given": "C.D."
+    },
+    {
+     "family": "O’Hagan",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Novel statistical model for a piece-wise linear radiocarbon calibration curve",
+   "is_part_of": [
+    "Radiocarbon"
+   ],
+   "volume": "44",
+   "pages": "195-212",
+   "language": "eng",
+   "issue": "1",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Halekoh U., Vach W. 1999, Bayesian seriation as a tool in archaeology, in Dingwall et al. 1999, 107.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Halekoh",
+     "given": "U."
+    },
+    {
+     "family": "Vach",
+     "given": "W."
+    }
+   ],
+   "date": "1999",
+   "title": "Bayesian seriation as a tool in archaeology",
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Archaeology in the Age of the Internet. Computer Applications and Quantitative Methods in Archaeology 1997"
+   ],
+   "pages": "107",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "750",
+   "xref": 23,
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Hatzinikolaou E., Hatzichristos T., Siolas A., Mantzourani E. 2003, Predicting archaeological site location using a GIS and fuzzy logic, in M. Doerr, A. Sarris, The Digital Heritage of Archaeology. Proceedings of the 30th CAA Conference (Heraklion 2002), Archive of Monuments and Publications, Hellenic Ministry of Culture, 169-177.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hatzinikolaou",
+     "given": "E."
+    },
+    {
+     "family": "Hatzichristos",
+     "given": "T."
+    },
+    {
+     "family": "Siolas",
+     "given": "A."
+    },
+    {
+     "family": "Mantzourani",
+     "given": "E."
+    }
+   ],
+   "date": "2003",
+   "title": "Predicting archaeological site location using a GIS and fuzzy logic",
+   "editors": [
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Sarris",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "The Digital Heritage of Archaeology. Proceedings of the 30th CAA Conference (Heraklion 2002)"
+   ],
+   "pages": "169-177",
+   "publisher": "Archive of Monuments and Publications, Hellenic Ministry of Culture",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Hodder J. 1991, Post-Processual archaeology and current debate, in R.W. Preucel (ed.), Processual and Post-Processual Archaeologies. Multiple Ways of Knowing the Past, Southern Illinois University at Carbondale, 32-42.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "J."
+    }
+   ],
+   "date": "1991",
+   "title": "Post-Processual archaeology and current debate",
+   "editors": [
+    {
+     "family": "Preucel",
+     "given": "R.W."
+    }
+   ],
+   "is_part_of": [
+    "Processual and Post-Processual Archaeologies. Multiple Ways of Knowing the Past"
+   ],
+   "pages": "32-42",
+   "publisher": "Southern Illinois University at Carbondale",
+   "language": "eng",
+   "notes": "author cited as \"Hodder J.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Hodder J. 1999, The Archaeological Process, Oxford, Blackwell.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "J."
+    }
+   ],
+   "date": "1999",
+   "title": "The Archaeological Process",
+   "publisher": "Blackwell",
+   "place": "Oxford",
+   "language": "eng",
+   "notes": "author cited as \"Hodder J.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Hugget J. 2000, Computers and archaeological culture change, in G. Lock, K. Brown (eds.), On the Theory and Practice of Archaeological Computing, Oxford, Oxford University Committee for Archaeology Monograph, 51, 5-22.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hugget",
+     "given": "J."
+    }
+   ],
+   "date": "2000",
+   "title": "Computers and archaeological culture change",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Brown",
+     "given": "K."
+    }
+   ],
+   "is_part_of": [
+    "On the Theory and Practice of Archaeological Computing"
+   ],
+   "pages": "5-22",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "Oxford University Committee for Archaeology Monograph",
+   "series_number": "51",
+   "notes": "author spelled \"Hugget\" in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Kosko B. 1995, Il fuzzy-pensiero. Teoria ed applicazioni della logica fuzzy, Milano, Baldini & Castoldi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kosko",
+     "given": "B."
+    }
+   ],
+   "date": "1995",
+   "title": "Il fuzzy-pensiero. Teoria ed applicazioni della logica fuzzy",
+   "publisher": "Baldini & Castoldi",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Kuhn T.S. 1969, La struttura delle rivoluzioni scientifiche, Torino, Einaudi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kuhn",
+     "given": "T.S."
+    }
+   ],
+   "date": "1969",
+   "title": "La struttura delle rivoluzioni scientifiche",
+   "publisher": "Einaudi",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Laxton R.R., Cavanagh W.G., Litton C.D., Buck C.E., Blair R. 1994, The Bayesian approach to archaeological data analysis: an application of change-point analysis to prehistoric domes, in P. Moscati (ed.), Choice, Representation and Structuring of Archaeological Information, «Archeologia e Calcolatori», 5, 53-68.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Laxton",
+     "given": "R.R."
+    },
+    {
+     "family": "Cavanagh",
+     "given": "W.G."
+    },
+    {
+     "family": "Litton",
+     "given": "C.D."
+    },
+    {
+     "family": "Buck",
+     "given": "C.E."
+    },
+    {
+     "family": "Blair",
+     "given": "R."
+    }
+   ],
+   "date": "1994",
+   "title": "The Bayesian approach to archaeological data analysis: an application of change-point analysis to prehistoric domes",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "5",
+   "pages": "53-68",
+   "language": "eng",
+   "cited_aec_id": 90,
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Litton C.D., Zainodin H.J. 1991, Statistical models of dendrochronology, «Journal of Archaeological Sciences», 18, 429-440.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Litton",
+     "given": "C.D."
+    },
+    {
+     "family": "Zainodin",
+     "given": "H.J."
+    }
+   ],
+   "date": "1991",
+   "title": "Statistical models of dendrochronology",
+   "is_part_of": [
+    "Journal of Archaeological Sciences"
+   ],
+   "volume": "18",
+   "pages": "429-440",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Llobera M. 1996, Living and dying on a grid cell: a discussion on the theoretical basis for the humanistic approach to archaeological GIS (paper presented at Theoretical Archeological Group, Session \"Spatial Technologies and Archaeological Reasoning\").",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Llobera",
+     "given": "M."
+    }
+   ],
+   "date": "1996",
+   "title": "Living and dying on a grid cell: a discussion on the theoretical basis for the humanistic approach to archaeological GIS",
+   "is_part_of": [
+    "Theoretical Archeological Group, Session “Spatial Technologies and Archaeological Reasoning”"
+   ],
+   "language": "eng",
+   "notes": "paper presented at the session",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Lock G. 2003, Using Computers in Archaeology, London and New York, Taylor & Francis.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lock",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Using Computers in Archaeology",
+   "publisher": "Taylor & Francis",
+   "place": "London and New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Loots L., Nackaerts K., Waelkens M. 1999, Fuzzy viewshed analysis of the hellenistic city. Defence system at Sagalassos, in Dingwall et al. 1999, 63-65.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Loots",
+     "given": "L."
+    },
+    {
+     "family": "Nackaerts",
+     "given": "K."
+    },
+    {
+     "family": "Waelkens",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Fuzzy viewshed analysis of the hellenistic city. Defence system at Sagalassos",
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Archaeology in the Age of the Internet. Computer Applications and Quantitative Methods in Archaeology 1997"
+   ],
+   "pages": "63-65",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "750",
+   "xref": 23,
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "McHugh F. 1999, Theoretical and Quantitative Approaches to the Study of Mortuary Practice, BAR International Series 785, Oxford, Archaeopress.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "McHugh",
+     "given": "F."
+    }
+   ],
+   "date": "1999",
+   "title": "Theoretical and Quantitative Approaches to the Study of Mortuary Practice",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "785",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Millard A.R., Gowland R.L. 2002, A Bayesian approach to the estimation of the age of humans from tooth development and wear, in F. Djindjian, P. Moscati (eds.), XIV Congress of the UISPP, Commission IV Data Management and Mathematical Methods in Archaeology (Liège 2001), «Archeologia e Calcolatori», 13, 197-210.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Millard",
+     "given": "A.R."
+    },
+    {
+     "family": "Gowland",
+     "given": "R.L."
+    }
+   ],
+   "date": "2002",
+   "title": "A Bayesian approach to the estimation of the age of humans from tooth development and wear",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "pages": "197-210",
+   "language": "eng",
+   "cited_aec_id": 345,
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Moscati P. 1997, Recensione a: Buck C.E., Cavanagh W.G., Litton C.D. 1996, «Archeologia e Calcolatori», 8, 187-190.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "date": "1997",
+   "title": "Recensione a: Buck C.E., Cavanagh W.G., Litton C.D. 1996",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "8",
+   "pages": "187-190",
+   "language": "ita",
+   "notes": "review; not found in the AeC metadata",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Nackaerts K., Govers G., Loots L. 1999, The use of Monte Carlo techniques for the estimation of visibility, in Dingwall et al. 1999, 63-65.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nackaerts",
+     "given": "K."
+    },
+    {
+     "family": "Govers",
+     "given": "G."
+    },
+    {
+     "family": "Loots",
+     "given": "L."
+    }
+   ],
+   "date": "1999",
+   "title": "The use of Monte Carlo techniques for the estimation of visibility",
+   "editors": [
+    {
+     "family": "Dingwall",
+     "given": "L."
+    },
+    {
+     "family": "Exon",
+     "given": "S."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Laflin",
+     "given": "S."
+    },
+    {
+     "family": "Van Leusen",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Archaeology in the Age of the Internet. Computer Applications and Quantitative Methods in Archaeology 1997"
+   ],
+   "pages": "63-65",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "750",
+   "xref": 23,
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Niccolucci F., Hermon S. 2003, La logica fuzzy e le sue applicazioni alla ricerca archeologica, «Archeologia e Calcolatori», 14, 97-110.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Hermon",
+     "given": "S."
+    }
+   ],
+   "date": "2003",
+   "title": "La logica fuzzy e le sue applicazioni alla ricerca archeologica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "14",
+   "pages": "97-110",
+   "language": "ita",
+   "cited_aec_id": 355,
+   "notes": "authors in the AeC metadata: Hermon, Niccolucci",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "Niccolucci F., D'Andrea A., Crescioli M. 2001, Archaeological applications of Fuzzy databases, in Z. Stančič, T. Veljanovski (eds.), Computing Archaeology for Understanding the Past. CAA 2000. Proceedings of the 28th Conference (Ljubliana 2000), BAR International Series 931, Oxford, Archaeopress, 107-115.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Crescioli",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Archaeological applications of Fuzzy databases",
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. CAA 2000. Proceedings of the 28th Conference (Ljubliana 2000)"
+   ],
+   "pages": "107-115",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "Niccolucci F., Pardi G., Zoppi T. 1996, Un archivio georeferenziato di insediamenti archeologici, in P. Moscati (ed.), III International Symposium on Computing and Archaeology (Roma1995), «Archeologia e Calcolatori», 7, 161-177.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Pardi",
+     "given": "G."
+    },
+    {
+     "family": "Zoppi",
+     "given": "T."
+    }
+   ],
+   "date": "1996",
+   "title": "Un archivio georeferenziato di insediamenti archeologici",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "161-177",
+   "language": "ita",
+   "cited_aec_id": 134,
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "Orlandi T. 1996, Formalizzazione dei dati, semiotica e comunicazione, in P. Moscati (ed.), III International Symposium on Computing and Archaeology (Roma1995), «Archeologia e Calcolatori», 7, 1247-1258.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "1996",
+   "title": "Formalizzazione dei dati, semiotica e comunicazione",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "1247-1258",
+   "language": "ita",
+   "cited_aec_id": 229,
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "Orton C. 1992, Quantitative methods in the 1990s, in G. Lock, J. Moffett (eds.), Proceedings of the 19th CAA Conference (Oxford 1991), BAR International Series 577, Oxford, Archaeopress, 137-140.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "date": "1992",
+   "title": "Quantitative methods in the 1990s",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of the 19th CAA Conference (Oxford 1991)"
+   ],
+   "pages": "137-140",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "577",
+   "confidence": "high"
+  },
+  {
+   "position": 51,
+   "raw": "Orton C. 2000, A Bayesian approach to a problem of archaeological site evaluation, in K. Lockyear, T.J.T. Sly, V. Mihilescu-Bîrliba (eds.), Proceedings of CAA96 Conference, BAR International Series 845, Oxford, 1-7.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "date": "2000",
+   "title": "A Bayesian approach to a problem of archaeological site evaluation",
+   "editors": [
+    {
+     "family": "Lockyear",
+     "given": "K."
+    },
+    {
+     "family": "Sly",
+     "given": "T.J.T."
+    },
+    {
+     "family": "Mihilescu-Bîrliba",
+     "given": "V."
+    }
+   ],
+   "is_part_of": [
+    "Proceedings of CAA96 Conference"
+   ],
+   "pages": "1-7",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "845",
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "Puyol-Gruart J. 1999, Computer science, artificial intelligence and archaeology, in J.A. Barceló, I. Briz, A. Vila (eds.), New Techniques for Old Time. Proceedings of the CAA98 Conference, BAR International Series 757, Oxford, Archaeopress, 19-27.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Puyol-Gruart",
+     "given": "J."
+    }
+   ],
+   "date": "1999",
+   "title": "Computer science, artificial intelligence and archaeology",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "New Techniques for Old Time. Proceedings of the CAA98 Conference"
+   ],
+   "pages": "19-27",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "757",
+   "confidence": "high"
+  },
+  {
+   "position": 53,
+   "raw": "Ramsey C.B. 1995, Radiocarbon calibration and analysis of stratigraphy: the OxCal program, «Radiocarbon», 37, 425-430.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ramsey",
+     "given": "C.B."
+    }
+   ],
+   "date": "1995",
+   "title": "Radiocarbon calibration and analysis of stratigraphy: the OxCal program",
+   "is_part_of": [
+    "Radiocarbon"
+   ],
+   "volume": "37",
+   "pages": "425-430",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 54,
+   "raw": "Ryan N. 1996, Managing Complexity: Archaeological Information Systems Past, Present and Future, Paper presented at the British Association Annual Festival of Science, University of Birmingham.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Ryan",
+     "given": "N."
+    }
+   ],
+   "date": "1996",
+   "title": "Managing Complexity: Archaeological Information Systems Past, Present and Future",
+   "is_part_of": [
+    "British Association Annual Festival of Science, University of Birmingham"
+   ],
+   "language": "eng",
+   "notes": "paper presented at the festival",
+   "confidence": "high"
+  },
+  {
+   "position": 55,
+   "raw": "Reeler C. 1997, Fuzzy logic, neural networks and the analysis of pa sites, in M. North, I. Johnson (eds.), Archaeological Applications of GIS. Proceedings of Colloquium II, UISPP XIIIth Congress (Forlì, Italy, 1996), Sydney University Archaeological Methods Series, n. 5 (CD-ROM).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Reeler",
+     "given": "C."
+    }
+   ],
+   "date": "1997",
+   "title": "Fuzzy logic, neural networks and the analysis of pa sites",
+   "editors": [
+    {
+     "family": "North",
+     "given": "M."
+    },
+    {
+     "family": "Johnson",
+     "given": "I."
+    }
+   ],
+   "is_part_of": [
+    "Archaeological Applications of GIS. Proceedings of Colloquium II, UISPP XIIIth Congress (Forlì, Italy, 1996)"
+   ],
+   "language": "eng",
+   "series": "Sydney University Archaeological Methods Series",
+   "series_number": "5",
+   "notes": "CD-ROM",
+   "confidence": "high"
+  },
+  {
+   "position": 56,
+   "raw": "Robertson I.G. 1999, Spatial and multivariate analysis, random sampling error, and analytical noise: empirical Bayesian methods at Teotihuacan, Mexico, «American Antiquity», 64, 137-152.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Robertson",
+     "given": "I.G."
+    }
+   ],
+   "date": "1999",
+   "title": "Spatial and multivariate analysis, random sampling error, and analytical noise: empirical Bayesian methods at Teotihuacan, Mexico",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "64",
+   "pages": "137-152",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 57,
+   "raw": "Shanks M., Tilley C. 1987, Re-constructing Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Shanks",
+     "given": "M."
+    },
+    {
+     "family": "Tilley",
+     "given": "C."
+    }
+   ],
+   "date": "1987",
+   "title": "Re-constructing Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 58,
+   "raw": "Signore O., Bartoli R. 1989, Managing art history fuzzy dates; an application in historical-geographical authority, «Historical Social Research», 14, 3.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Signore",
+     "given": "O."
+    },
+    {
+     "family": "Bartoli",
+     "given": "R."
+    }
+   ],
+   "date": "1989",
+   "title": "Managing art history fuzzy dates; an application in historical-geographical authority",
+   "is_part_of": [
+    "Historical Social Research"
+   ],
+   "volume": "14",
+   "language": "eng",
+   "issue": "3",
+   "confidence": "high"
+  },
+  {
+   "position": 59,
+   "raw": "Trigger B. 1981, Anglo-American archaeology, «World Archaeology», 13, 138-155.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Trigger",
+     "given": "B."
+    }
+   ],
+   "date": "1981",
+   "title": "Anglo-American archaeology",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "13",
+   "pages": "138-155",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 60,
+   "raw": "Wheatley D.W. 1995, Cumulative viewshed analysis: a GIS-based method for investigating intervisibility, and its archaeological application, in G. Lock, Z. Stančič (eds.), Archaeological and Geographical Information Systems: a European Perspective, London, Taylor & Francis, 171-186.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wheatley",
+     "given": "D.W."
+    }
+   ],
+   "date": "1995",
+   "title": "Cumulative viewshed analysis: a GIS-based method for investigating intervisibility, and its archaeological application",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "is_part_of": [
+    "Archaeological and Geographical Information Systems: a European Perspective"
+   ],
+   "pages": "171-186",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 61,
+   "raw": "Zink A.J.C. 2002, Bayesian approach applied to authenticity testing by luminescence, in F. Djindjian, P. Moscati (eds.), XIV Congress of the UISPP, Commission IV Data Management and Mathematical Methods in Archaeology (Liège 2001), «Archeologia e Calcolatori», 13, 211-216.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zink",
+     "given": "A.J.C."
+    }
+   ],
+   "date": "2002",
+   "title": "Bayesian approach applied to authenticity testing by luminescence",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "13",
+   "pages": "211-216",
+   "language": "eng",
+   "cited_aec_id": 346,
+   "confidence": "high"
+  }
+ ]
+}

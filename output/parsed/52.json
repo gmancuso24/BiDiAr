@@ -1,0 +1,571 @@
+{
+ "citing_aec_id": 52,
+ "source_file": "data/journal/4/52.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BRUN P. 1986, La civilisation des Champs d'Urnes. Etude critique dans le Bassin Parisien, Paris.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Brun",
+     "given": "P."
+    }
+   ],
+   "date": "1986",
+   "title": "La civilisation des Champs d'Urnes. Etude critique dans le Bassin Parisien",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "CLOSE-BROOKS J. 1970, Compte-rendu de Hencken 1968, «Journal of Roman Studies » LX, 238-240.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Close-Brooks",
+     "given": "J."
+    }
+   ],
+   "date": "1970",
+   "title": "Compte-rendu de Hencken 1968",
+   "is_part_of": [
+    "Journal of Roman Studies"
+   ],
+   "volume": "LX",
+   "pages": "238-240",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "DJINDJIAN F. 1985a, La sériation en archéologie: un état de l'art méthodes et applications, in Panorama des traitements des données en archéologie, Juan les Pins, 9-46.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1985",
+   "title": "La sériation en archéologie: un état de l'art méthodes et applications",
+   "is_part_of": [
+    "Panorama des traitements des données en archéologie"
+   ],
+   "pages": "9-46",
+   "place": "Juan les Pins",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "DJINDJIAN F. 1985b, Sériation and toposériation by correspondance analysis, in A. VOORRIPS , S.H. LOVING (edd.), To Pattern the Past, « PACT », 11, 119-135.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1985",
+   "title": "Sériation and toposériation by correspondance analysis",
+   "editors": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    },
+    {
+     "family": "Loving",
+     "given": "S.H."
+    }
+   ],
+   "is_part_of": [
+    "To Pattern the Past"
+   ],
+   "pages": "119-135",
+   "series": "PACT",
+   "series_number": "11",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "DJINDJIAN F. 1991, Méthodes pour l'archéologie, Paris, A. Colin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Méthodes pour l'archéologie",
+   "place": "Paris",
+   "publisher": "A. Colin",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "FERNANDEZ DE LA VEGA W. 1971, Sur deux techniques de sériation, CNRS, Centre d'analyse documentaire pour l'archéologie, Institut d'art et d'archéologie, 1970-71, 17 pp.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Fernandez de la Vega",
+     "given": "W."
+    }
+   ],
+   "date": "1971",
+   "title": "Sur deux techniques de sériation",
+   "publisher": "CNRS, Centre d'analyse documentaire pour l'archéologie, Institut d'art et d'archéologie",
+   "notes": "1970-71, 17 pp.",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "FERNANDEZ DE LA VEGA W. 1977, Deux algorithmes de sériation, in Raisonnement et méthodes mathématiques en archéologie, editions du CNRS, Paris, 157-170.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fernandez de la Vega",
+     "given": "W."
+    }
+   ],
+   "date": "1977",
+   "title": "Deux algorithmes de sériation",
+   "is_part_of": [
+    "Raisonnement et méthodes mathématiques en archéologie"
+   ],
+   "pages": "157-170",
+   "publisher": "Editions du CNRS",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "GARDIN J.C. 1979, Une archéologie théorique, Paris, Hachette.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.C."
+    }
+   ],
+   "date": "1979",
+   "title": "Une archéologie théorique",
+   "place": "Paris",
+   "publisher": "Hachette",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "GASTALDI P. 1979, Le necropoli protostoriche della valle del Sarno: proposta per una suddivisione in fasi, « Annali del Seminario di Studi del Mondo Classico. Istituto Universitario Orientale di Napoli Archeologia e Storia Antica», 1, 13-55.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gastaldi",
+     "given": "P."
+    }
+   ],
+   "date": "1979",
+   "title": "Le necropoli protostoriche della valle del Sarno: proposta per una suddivisione in fasi",
+   "is_part_of": [
+    "Annali del Seminario di Studi del Mondo Classico. Istituto Universitario Orientale di Napoli. Archeologia e Storia Antica"
+   ],
+   "volume": "1",
+   "pages": "13-55",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "GEBÜHR M., KAMPFFMEYER U. 1980, Einsatz von Kleinrechnern in der Ur- und Frühgeschichtsforschung, «Acta praehistorica et archeologica », 11/12, 3-20.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gebühr",
+     "given": "M."
+    },
+    {
+     "family": "Kampffmeyer",
+     "given": "U."
+    }
+   ],
+   "date": "1980",
+   "title": "Einsatz von Kleinrechnern in der Ur- und Frühgeschichtsforschung",
+   "is_part_of": [
+    "Acta praehistorica et archaeologica"
+   ],
+   "volume": "11/12",
+   "pages": "3-20",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "GEBÜHR M., KUNOW J. 1976, Der Urnenfriedhof von Kemnitz, Kr. Potsdam-Land. Untersuchungen zur anthropologischen Bestimmung, Fibeltracht, sozialen Gliederung und \"Depot\" sitte, « Zeitschrift für Archäologie », 10, 185-222.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gebühr",
+     "given": "M."
+    },
+    {
+     "family": "Kunow",
+     "given": "J."
+    }
+   ],
+   "date": "1976",
+   "title": "Der Urnenfriedhof von Kemnitz, Kr. Potsdam-Land. Untersuchungen zur anthropologischen Bestimmung, Fibeltracht, sozialen Gliederung und \"Depot\" sitte",
+   "is_part_of": [
+    "Zeitschrift für Archäologie"
+   ],
+   "volume": "10",
+   "pages": "185-222",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "GOLDMANN K. 1972, Zwei Methoden chronologischer Gruppierung, «Acta praehistorica et archeologica», 3, 1-34.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Goldmann",
+     "given": "K."
+    }
+   ],
+   "date": "1972",
+   "title": "Zwei Methoden chronologischer Gruppierung",
+   "is_part_of": [
+    "Acta praehistorica et archaeologica"
+   ],
+   "volume": "3",
+   "pages": "1-34",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "GRAHAM I., GALLOWAY P., SCOLLAR I. 1976, Model Studies in Computer Seriation, «Journal of Archaeological Sciences », 3, 1-30.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Graham",
+     "given": "I."
+    },
+    {
+     "family": "Galloway",
+     "given": "P."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "date": "1976",
+   "title": "Model Studies in Computer Seriation",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "3",
+   "pages": "1-30",
+   "notes": "cited 'Journal of Archaeological Sciences'",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "HODSON F.R., TYERS P. 1988, Data analysis for archaeologists: the Institute of Archaeology packages, in RAHTZ S.P.Q. (ed.), Computer and Quantitative Methods in Archaeology, Vol. I, Oxford, BAR, 31-61.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    },
+    {
+     "family": "Tyers",
+     "given": "P."
+    }
+   ],
+   "date": "1988",
+   "title": "Data analysis for archaeologists: the Institute of Archaeology packages",
+   "editors": [
+    {
+     "family": "Rahtz",
+     "given": "S.P.Q."
+    }
+   ],
+   "is_part_of": [
+    "Computer and Quantitative Methods in Archaeology"
+   ],
+   "pages": "31-61",
+   "volume": "I",
+   "publisher": "BAR",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "IHM P. 1983, Korrespondenzanalyse und Seriation, « Archäologische Informationen », 6, Heft 1, 8-21.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ihm",
+     "given": "P."
+    }
+   ],
+   "date": "1983",
+   "title": "Korrespondenzanalyse und Seriation",
+   "is_part_of": [
+    "Archäologische Informationen"
+   ],
+   "volume": "6",
+   "issue": "1",
+   "pages": "8-21",
+   "notes": "'Heft 1' read as issue 1",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "IHM P., (unter Mitwirkung von) LÜNING J., ZIMMERMANN A. 1978, Statistik in der Archäologie. Probleme der Anwendung, allgemeine Methoden Seriation und Klassifikation, « ArchaeoPhysica », 9, Bonn.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ihm",
+     "given": "P."
+    },
+    {
+     "family": "Lüning",
+     "given": "J."
+    },
+    {
+     "family": "Zimmermann",
+     "given": "A."
+    }
+   ],
+   "date": "1978",
+   "title": "Statistik in der Archäologie. Probleme der Anwendung, allgemeine Methoden Seriation und Klassifikation",
+   "series": "Archaeo-Physika",
+   "series_number": "9",
+   "place": "Bonn",
+   "notes": "cited 'P. Ihm (unter Mitwirkung von) J. Lüning, A. Zimmermann'; series cited 'ArchaeoPhysica'",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "KENDALL D.G. 1971, Seriation from abundance matrices, in F.R. HODSON, D.G. KENDALL, P. TAUTU, Mathematics in the Archaeology and Historical Sciences, Mamaia 1970, Edinburgh, Edinburgh University Press, 229-264.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kendall",
+     "given": "D.G."
+    }
+   ],
+   "date": "1971",
+   "title": "Seriation from abundance matrices",
+   "editors": [
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    },
+    {
+     "family": "Kendall",
+     "given": "D.G."
+    },
+    {
+     "family": "Tautu",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Mathematics in the Archaeology and Historical Sciences, Mamaia 1970"
+   ],
+   "pages": "229-264",
+   "publisher": "Edinburgh University Press",
+   "place": "Edinburgh",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "LAGRANGE M.S. 1973, Analyse sémiologique et histoire de l'Art. Examen critique d'une classification, Thèse de Doctorat EPHE Paris 1970. T.A. Documents 3, Paris.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Lagrange",
+     "given": "M.S."
+    }
+   ],
+   "date": "1973",
+   "title": "Analyse sémiologique et histoire de l'Art. Examen critique d'une classification",
+   "series": "T.A. Documents",
+   "series_number": "3",
+   "place": "Paris",
+   "publisher": "EPHE",
+   "notes": "Thèse de Doctorat EPHE Paris 1970",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "LEGoux R. 1980, Le recours à l'informatique: la chronologie relative par permutation matérielle automatique, in P. PERIN, La datation des tombes mérovingiennes. Historique. Méthodes. Applications, Genève, 138-149.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Legoux",
+     "given": "R."
+    }
+   ],
+   "date": "1980",
+   "title": "Le recours à l'informatique: la chronologie relative par permutation matérielle automatique",
+   "editors": [
+    {
+     "family": "Périn",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "La datation des tombes mérovingiennes. Historique. Méthodes. Applications"
+   ],
+   "pages": "138-149",
+   "place": "Genève",
+   "notes": "container is an authored book by P. Périn, recorded with Périn as editor",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "PERONI R. 1979, Osservazioni sulla cronologia della Prima Età del Ferro nell'Italia continentale, in V. BIANCO PERONI, I rasoi nell'Italia continentale, « Prahistorische Bronze Funde », VIII, 2, München, 192-200.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Peroni",
+     "given": "R."
+    }
+   ],
+   "date": "1979",
+   "title": "Osservazioni sulla cronologia della Prima Età del Ferro nell'Italia continentale",
+   "editors": [
+    {
+     "family": "Bianco Peroni",
+     "given": "V."
+    }
+   ],
+   "is_part_of": [
+    "I rasoi nell'Italia continentale"
+   ],
+   "pages": "192-200",
+   "series": "Prähistorische Bronzefunde",
+   "series_number": "VIII, 2",
+   "place": "München",
+   "notes": "container is an authored book by V. Bianco Peroni, recorded with Bianco Peroni as editor",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "RUBY P. 1990a, Le crépuscule des marges. Etude chronologique et sociale de la nécropole du Premier Age du Fer de Sala Consilina (Italie), thèse de Doctorat, Université Paris I - Panthéon - Sorbonne, Paris mai 1990, 3 volumes. À paraître aux Editions du Centre J. Bérard de Naples.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Ruby",
+     "given": "P."
+    }
+   ],
+   "date": "1990",
+   "title": "Le crépuscule des marges. Etude chronologique et sociale de la nécropole du Premier Age du Fer de Sala Consilina (Italie)",
+   "publisher": "Université Paris I - Panthéon - Sorbonne",
+   "place": "Paris",
+   "notes": "thèse de Doctorat, Paris mai 1990, 3 volumes; 'à paraître aux Editions du Centre J. Bérard de Naples'",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "RUBY P. 1990b, Sériation par la méthode des moyennes réciproques sur Macintosh avec Microsoft Excel, « Archéologues et Ordinateurs », 15, Centre de Recherches technologiques de Valbonne, 3-18.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ruby",
+     "given": "P."
+    }
+   ],
+   "date": "1990",
+   "title": "Sériation par la méthode des moyennes réciproques sur Macintosh avec Microsoft Excel",
+   "is_part_of": [
+    "Archéologues et Ordinateurs"
+   ],
+   "volume": "15",
+   "pages": "3-18",
+   "notes": "Centre de Recherches technologiques de Valbonne",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "TINÈ-BERTOCCHI F. 1975, Formazione della civiltà dauna dal X al VI sec., in Atti del Colloquio Internazionale di Preistoria e Protostoria della Daunia, Foggia 1973, Firenze, Istituto Italiano di preistoria e protostoria, 271-285.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tinè-Bertocchi",
+     "given": "F."
+    }
+   ],
+   "date": "1975",
+   "title": "Formazione della civiltà dauna dal X al VI sec.",
+   "is_part_of": [
+    "Atti del Colloquio Internazionale di Preistoria e Protostoria della Daunia, Foggia 1973"
+   ],
+   "pages": "271-285",
+   "publisher": "Istituto Italiano di preistoria e protostoria",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "WILKINSON E.M. 1974, Techniques of data analysis - Seriation theory, in E.M. WILKINSON, E.E. MULLINS, A. TABBAGH, Technische und Naturwissenschaftliche Beiträge zur Feldarchäologie, « Archaeo-Physika », 5, Bonn, 7-142",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Wilkinson",
+     "given": "E.M."
+    }
+   ],
+   "date": "1974",
+   "title": "Techniques of data analysis - Seriation theory",
+   "editors": [
+    {
+     "family": "Wilkinson",
+     "given": "E.M."
+    },
+    {
+     "family": "Mullins",
+     "given": "E.E."
+    },
+    {
+     "family": "Tabbagh",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Technische und Naturwissenschaftliche Beiträge zur Feldarchäologie"
+   ],
+   "pages": "7-142",
+   "series": "Archaeo-Physika",
+   "series_number": "5",
+   "place": "Bonn",
+   "notes": "reference split over two lines in the source; container authored by Wilkinson, Mullins, Tabbagh, recorded as editors",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

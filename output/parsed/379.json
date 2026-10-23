@@ -1,0 +1,1172 @@
+{
+ "citing_aec_id": 379,
+ "source_file": "data/journal/15/379.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV. 1998, Il paesaggio culturale nelle strategie europee. Atti del Colloquio (Torino 1996), Napoli, Electa.",
+   "type": "proceedings",
+   "date": "1998",
+   "title": "Il paesaggio culturale nelle strategie europee. Atti del Colloquio (Torino 1996)",
+   "publisher": "Electa",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Amendolea B. (ed.) 1999, Carta Archeologica e pianificazione territoriale: un problema politico e metodologico, in Atti dell'Incontro di studio (Roma 1997), Roma, Palombi.",
+   "type": "proceedings",
+   "date": "1999",
+   "title": "Carta Archeologica e pianificazione territoriale: un problema politico e metodologico. Atti dell’Incontro di studio (Roma 1997)",
+   "editors": [
+    {
+     "family": "Amendolea",
+     "given": "B."
+    }
+   ],
+   "publisher": "Palombi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Assunto R. 1976, Paesaggio-Ambiente-Territorio. Un tentativo di precisazione concettuale, «Bollettino Centro Internazionale Studi di Architettura Andrea Palladio», 18, 45-48.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Assunto",
+     "given": "R."
+    }
+   ],
+   "date": "1976",
+   "title": "Paesaggio-Ambiente-Territorio. Un tentativo di precisazione concettuale",
+   "is_part_of": [
+    "Bollettino Centro Internazionale Studi di Architettura Andrea Palladio"
+   ],
+   "volume": "18",
+   "pages": "45-48",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Azzena G. 1994, Proposta per una standardizzazione dei formati della cartografia archeologica con finalità operative, in La cartografia dei Beni storici, archeologici, e paesistici nelle grandi aree urbane dal censimento alla tutela. Atti del Convegno Nazionale (Roma 1990), Roma, Quasar, 103-104.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    }
+   ],
+   "date": "1994",
+   "title": "Proposta per una standardizzazione dei formati della cartografia archeologica con finalità operative",
+   "is_part_of": [
+    "La cartografia dei Beni storici, archeologici, e paesistici nelle grandi aree urbane dal censimento alla tutela. Atti del Convegno Nazionale (Roma 1990)"
+   ],
+   "pages": "103-104",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Azzena G. 1999, Progettare la cartografia archeologica, in Amendolea 1999, 21-22.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    }
+   ],
+   "date": "1999",
+   "title": "Progettare la cartografia archeologica",
+   "editors": [
+    {
+     "family": "Amendolea",
+     "given": "B."
+    }
+   ],
+   "is_part_of": [
+    "Carta Archeologica e pianificazione territoriale: un problema politico e metodologico. Atti dell’Incontro di studio (Roma 1997)"
+   ],
+   "pages": "21-22",
+   "publisher": "Palombi",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 2,
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Azzena G. 2001, Verso lo standard: riflessioni in margine al caso della FIAT di Melfi, in Guermandi 2001, 77-86.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    }
+   ],
+   "date": "2001",
+   "title": "Verso lo standard: riflessioni in margine al caso della FIAT di Melfi",
+   "editors": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "is_part_of": [
+    "Rischio archeologico: se lo conosci lo eviti. Atti del Convegno di studi su cartografia archeologica e tutela del territorio (Ferrara 2000)"
+   ],
+   "pages": "77-86",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 24,
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Azzena G., Tascio M. 1996, Il Sistema Informativo Territoriale per la Carta Archeologica d'Italia, in M.L. Marchi, G. Sabbatini, Venusia (IGM 187 I NO/NE), Forma Italiae, 37, Firenze, Leo S. Olschki, 281-297.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Azzena",
+     "given": "G."
+    },
+    {
+     "family": "Tascio",
+     "given": "M."
+    }
+   ],
+   "date": "1996",
+   "title": "Il Sistema Informativo Territoriale per la Carta Archeologica d’Italia",
+   "is_part_of": [
+    "Venusia (IGM 187 I NO/NE)"
+   ],
+   "series": "Forma Italiae",
+   "series_number": "37",
+   "pages": "281-297",
+   "publisher": "Leo S. Olschki",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "book by M.L. Marchi, G. Sabbatini (authors, not editors)",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Birocchi I. 1982, Per la storia della proprietà perfetta in Sardegna. Provvedimenti normativi, orientamenti di governo e ruolo delle forze sociali dal 1839 al 1841, Milano, Giuffrè.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Birocchi",
+     "given": "I."
+    }
+   ],
+   "date": "1982",
+   "title": "Per la storia della proprietà perfetta in Sardegna. Provvedimenti normativi, orientamenti di governo e ruolo delle forze sociali dal 1839 al 1841",
+   "publisher": "Giuffrè",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Cambi F. 2003, Archeologia dei paesaggi antichi: fonti e diagnostica, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cambi",
+     "given": "F."
+    }
+   ],
+   "date": "2003",
+   "title": "Archeologia dei paesaggi antichi: fonti e diagnostica",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Caravaggi L. 2002, Razionalità di funzionamento, in Clementi 2002, 198-213.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Caravaggi",
+     "given": "L."
+    }
+   ],
+   "date": "2002",
+   "title": "Razionalità di funzionamento",
+   "editors": [
+    {
+     "family": "Clementi",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Interpretazioni di paesaggio. Convenzione Europea e innovazioni di metodo"
+   ],
+   "pages": "198-213",
+   "publisher": "Meltemi",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 11,
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Clementi A. 2002 (ed.), Interpretazioni di paesaggio. Convenzione Europea e innovazioni di metodo, Roma, Meltemi.",
+   "type": "book",
+   "date": "2002",
+   "title": "Interpretazioni di paesaggio. Convenzione Europea e innovazioni di metodo",
+   "editors": [
+    {
+     "family": "Clementi",
+     "given": "A."
+    }
+   ],
+   "publisher": "Meltemi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Colantonio R., Gibelli G.M. 2002, Ecologie, in Clementi 2002, 161-178.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Colantonio",
+     "given": "R."
+    },
+    {
+     "family": "Gibelli",
+     "given": "G.M."
+    }
+   ],
+   "date": "2002",
+   "title": "Ecologie",
+   "editors": [
+    {
+     "family": "Clementi",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Interpretazioni di paesaggio. Convenzione Europea e innovazioni di metodo"
+   ],
+   "pages": "161-178",
+   "publisher": "Meltemi",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 11,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Convenzione Relazione 2000 = Convenzione Europea del Paesaggio. Relazione esplicativa, Firenze (trad. it. a cura di M.R. Guido, D. Sandroni).",
+   "type": "other",
+   "date": "2000",
+   "title": "Convenzione Europea del Paesaggio. Relazione esplicativa",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "Italian translation by M.R. Guido, D. Sandroni; cited in short form \"Convenzione Relazione 2000\"",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Convenzione Testo 2000 = Convenzione Europea del Paesaggio, Firenze (trad. it. a cura di M.R. Guido, D. Sandroni).",
+   "type": "other",
+   "date": "2000",
+   "title": "Convenzione Europea del Paesaggio",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "Italian translation by M.R. Guido, D. Sandroni; cited in short form \"Convenzione Testo 2000\"",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Corboz A. 1985, Il territorio come palinsesto, «Casabella», 516, 22-27.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Corboz",
+     "given": "A."
+    }
+   ],
+   "date": "1985",
+   "title": "Il territorio come palinsesto",
+   "is_part_of": [
+    "Casabella"
+   ],
+   "volume": "516",
+   "pages": "22-27",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "D'Andrea A., Niccolucci F. 2001, L'informatica dell'archeologo: alcune istruzioni per l'uso, «Archeologia e Calcolatori», 12, 199-220.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2001",
+   "title": "L’informatica dell’archeologo: alcune istruzioni per l’uso",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "199-220",
+   "language": "ita",
+   "cited_aec_id": 323,
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Dierna S. 2002, Mestieri del paesaggio e profili formativi, in Clementi 2002, 119-135.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dierna",
+     "given": "S."
+    }
+   ],
+   "date": "2002",
+   "title": "Mestieri del paesaggio e profili formativi",
+   "editors": [
+    {
+     "family": "Clementi",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Interpretazioni di paesaggio. Convenzione Europea e innovazioni di metodo"
+   ],
+   "pages": "119-135",
+   "publisher": "Meltemi",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 11,
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Forman R.T.T., Hersperger A.M. 1997, Ecologia del paesaggio e pianificazione: una potente combinazione, «Urbanistica», 108.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forman",
+     "given": "R.T.T."
+    },
+    {
+     "family": "Hersperger",
+     "given": "A.M."
+    }
+   ],
+   "date": "1997",
+   "title": "Ecologia del paesaggio e pianificazione: una potente combinazione",
+   "is_part_of": [
+    "Urbanistica"
+   ],
+   "volume": "108",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Francovich R., Pellicanò A., Pasquinucci M. (eds.) 2001, La Carta archeologica fra ricerca e pianificazione territoriale. Atti del Seminario di Studi (Firenze 1999), Firenze, All'Insegna del Giglio.",
+   "type": "proceedings",
+   "date": "2001",
+   "title": "La Carta archeologica fra ricerca e pianificazione territoriale. Atti del Seminario di Studi (Firenze 1999)",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Pellicanò",
+     "given": "A."
+    },
+    {
+     "family": "Pasquinucci",
+     "given": "M."
+    }
+   ],
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Francovich R., Valenti M. 2001, Cartografia archeologica, indagini sul campo ed informatizzazione, in Francovich et al. 2001, 83-116.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Cartografia archeologica, indagini sul campo ed informatizzazione",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Pellicanò",
+     "given": "A."
+    },
+    {
+     "family": "Pasquinucci",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "La Carta archeologica fra ricerca e pianificazione territoriale. Atti del Seminario di Studi (Firenze 1999)"
+   ],
+   "pages": "83-116",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 19,
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Gambino R. 2002, Maniere di intendere il paesaggio, in Clementi 2002, 54-72.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gambino",
+     "given": "R."
+    }
+   ],
+   "date": "2002",
+   "title": "Maniere di intendere il paesaggio",
+   "editors": [
+    {
+     "family": "Clementi",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Interpretazioni di paesaggio. Convenzione Europea e innovazioni di metodo"
+   ],
+   "pages": "54-72",
+   "publisher": "Meltemi",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 11,
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Gelichi S. (ed.) 2001, Dalla carta di rischio archeologico di Cesena alla tutela preventiva urbana in Europa. Atti del Congresso Internazionale (Cesena 1999), Firenze, All'Insegna del Giglio.",
+   "type": "proceedings",
+   "date": "2001",
+   "title": "Dalla carta di rischio archeologico di Cesena alla tutela preventiva urbana in Europa. Atti del Congresso Internazionale (Cesena 1999)",
+   "editors": [
+    {
+     "family": "Gelichi",
+     "given": "S."
+    }
+   ],
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Giuliani C.F. 1999, Interventi sul territorio: un problema di linguaggio, in Amendolea 1999, 248-249.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giuliani",
+     "given": "C.F."
+    }
+   ],
+   "date": "1999",
+   "title": "Interventi sul territorio: un problema di linguaggio",
+   "editors": [
+    {
+     "family": "Amendolea",
+     "given": "B."
+    }
+   ],
+   "is_part_of": [
+    "Carta Archeologica e pianificazione territoriale: un problema politico e metodologico. Atti dell’Incontro di studio (Roma 1997)"
+   ],
+   "pages": "248-249",
+   "publisher": "Palombi",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 2,
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Guermandi M.P. (ed.) 2001, Rischio archeologico: se lo conosci lo eviti. Atti del Convegno di studi su cartografia archeologica e tutela del territorio (Ferrara 2000), Firenze, All'Insegna del Giglio.",
+   "type": "proceedings",
+   "date": "2001",
+   "title": "Rischio archeologico: se lo conosci lo eviti. Atti del Convegno di studi su cartografia archeologica e tutela del territorio (Ferrara 2000)",
+   "editors": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Guzzo P.G. 2001, Il rischio delle carte, in Gelichi 2001, 11-13.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guzzo",
+     "given": "P.G."
+    }
+   ],
+   "date": "2001",
+   "title": "Il rischio delle carte",
+   "editors": [
+    {
+     "family": "Gelichi",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Dalla carta di rischio archeologico di Cesena alla tutela preventiva urbana in Europa. Atti del Congresso Internazionale (Cesena 1999)"
+   ],
+   "pages": "11-13",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 22,
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Guzzo P.G. 2002, Natura e storia nel territorio e nel paesaggio, Roma, \"L'Erma\" di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Guzzo",
+     "given": "P.G."
+    }
+   ],
+   "date": "2002",
+   "title": "Natura e storia nel territorio e nel paesaggio",
+   "publisher": "“L’Erma” di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Hodder I., Orton C. 1976, Spatial Analysis in Archaeology, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    },
+    {
+     "family": "Orton",
+     "given": "C."
+    }
+   ],
+   "date": "1976",
+   "title": "Spatial Analysis in Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Lanzani A. 2002, Sette strategie per il paesaggio, in Clementi 2002, 262-291.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lanzani",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Sette strategie per il paesaggio",
+   "editors": [
+    {
+     "family": "Clementi",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Interpretazioni di paesaggio. Convenzione Europea e innovazioni di metodo"
+   ],
+   "pages": "262-291",
+   "publisher": "Meltemi",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 11,
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Lenzi F. (ed.) 1999, Archeologia e ambiente. Atti del Congresso Internazionale (Ferrara 1998), Bologna-Forlì, Abaco.",
+   "type": "proceedings",
+   "date": "1999",
+   "title": "Archeologia e ambiente. Atti del Congresso Internazionale (Ferrara 1998)",
+   "editors": [
+    {
+     "family": "Lenzi",
+     "given": "F."
+    }
+   ],
+   "publisher": "Abaco",
+   "place": "Bologna-Forlì",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Longobardi G. 2002, Aree archeologiche: nonluoghi della città contemporanea, in Segarra Lagunes 2002, 41-52.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Longobardi",
+     "given": "G."
+    }
+   ],
+   "date": "2002",
+   "title": "Aree archeologiche: nonluoghi della città contemporanea",
+   "editors": [
+    {
+     "family": "Segarra Lagunes",
+     "given": "M.M."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia urbana e progetto di architettura. Atti del Seminario"
+   ],
+   "pages": "41-52",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 46,
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Macchi Jánica G. 2001, Modelli matematici per la ricostruzione dei paesaggi storici, «Archeologia e Calcolatori», 12, 143-165.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Macchi Jánica",
+     "given": "G."
+    }
+   ],
+   "date": "2001",
+   "title": "Modelli matematici per la ricostruzione dei paesaggi storici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "143-165",
+   "language": "ita",
+   "cited_aec_id": 320,
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Maciocco G. (ed.) 1991, La pianificazione ambientale del paesaggio, Milano, Franco-Angeli.",
+   "type": "book",
+   "date": "1991",
+   "title": "La pianificazione ambientale del paesaggio",
+   "editors": [
+    {
+     "family": "Maciocco",
+     "given": "G."
+    }
+   ],
+   "publisher": "FrancoAngeli",
+   "place": "Milano",
+   "language": "ita",
+   "notes": "publisher cited \"Franco-Angeli\"",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Maciocco G. (ed.) 1996, La città in ombra. Pianificazione urbanistica e interdisciplinarietà, Milano, FrancoAngeli.",
+   "type": "book",
+   "date": "1996",
+   "title": "La città in ombra. Pianificazione urbanistica e interdisciplinarietà",
+   "editors": [
+    {
+     "family": "Maciocco",
+     "given": "G."
+    }
+   ],
+   "publisher": "FrancoAngeli",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Maciocco G. 2000, Etica e pianificazione ambientale, in Maciocco *et al.* 2000, 17-24",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Maciocco",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "Etica e pianificazione ambientale",
+   "editors": [
+    {
+     "family": "Maciocco",
+     "given": "G."
+    },
+    {
+     "family": "Deplano",
+     "given": "G."
+    },
+    {
+     "family": "Marchi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Etica e pianificazione spaziale"
+   ],
+   "pages": "17-24",
+   "publisher": "FrancoAngeli",
+   "place": "Milano",
+   "language": "ita",
+   "xref": 35,
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Maciocco G., Deplano G., Marchi G. (eds.) 2000, Etica e pianificazione spaziale, Milano, FrancoAngeli.",
+   "type": "book",
+   "date": "2000",
+   "title": "Etica e pianificazione spaziale",
+   "editors": [
+    {
+     "family": "Maciocco",
+     "given": "G."
+    },
+    {
+     "family": "Deplano",
+     "given": "G."
+    },
+    {
+     "family": "Marchi",
+     "given": "G."
+    }
+   ],
+   "publisher": "FrancoAngeli",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Maniglio Calcagno A., La formazione degli specialisti, in Paesaggio Atti 2000, 532-542.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Maniglio Calcagno",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "La formazione degli specialisti",
+   "editors": [
+    {
+     "family": "Ministero per i Beni e le attività culturali",
+     "given": ""
+    }
+   ],
+   "is_part_of": [
+    "Conferenza Nazionale per il Paesaggio. Atti"
+   ],
+   "pages": "532-542",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 40,
+   "volume": "II",
+   "notes": "no year in the citation: 2000 taken from \"Paesaggio Atti 2000\"",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Mansuelli G.A. 1957, in Enciclopedia Classica, Sezione III. Archeologia e storia dell'arte classica, X, t. III (Geografia e Topografia Storica), Torino, S.E.I., 299-301.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mansuelli",
+     "given": "G.A."
+    }
+   ],
+   "date": "1957",
+   "title": "[senza titolo]",
+   "is_part_of": [
+    "Enciclopedia Classica, Sezione III. Archeologia e storia dell’arte classica"
+   ],
+   "volume": "X, t. III",
+   "pages": "299-301",
+   "publisher": "S.E.I.",
+   "place": "Torino",
+   "language": "ita",
+   "notes": "citation without the entry title; volume \"X, t. III (Geografia e Topografia Storica)\"",
+   "confidence": "low"
+  },
+  {
+   "position": 38,
+   "raw": "Merriman N. 1989, The social role of museum and heritage visiting, in S. Pearce (ed.), Museum Studies in Material Culture, Leicester, University Press.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Merriman",
+     "given": "N."
+    }
+   ],
+   "date": "1989",
+   "title": "The social role of museum and heritage visiting",
+   "editors": [
+    {
+     "family": "Pearce",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Museum Studies in Material Culture"
+   ],
+   "publisher": "University Press",
+   "place": "Leicester",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Ortalli J. 2001, Ricerca e tutela in Emilia Romagna: dall'archeologia preventiva alla cartografia di pianificazione, in Gelichi 2001, 25-30.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ortalli",
+     "given": "J."
+    }
+   ],
+   "date": "2001",
+   "title": "Ricerca e tutela in Emilia Romagna: dall’archeologia preventiva alla cartografia di pianificazione",
+   "editors": [
+    {
+     "family": "Gelichi",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Dalla carta di rischio archeologico di Cesena alla tutela preventiva urbana in Europa. Atti del Congresso Internazionale (Cesena 1999)"
+   ],
+   "pages": "25-30",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 22,
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Paesaggio Atti 2000 = Ministero per i Beni e le attività culturali, Conferenza Nazionale per il Paesaggio, II, Atti, Roma, Gangemi.",
+   "type": "proceedings",
+   "creators": [
+    {
+     "family": "Ministero per i Beni e le attività culturali",
+     "given": ""
+    }
+   ],
+   "date": "2000",
+   "title": "Conferenza Nazionale per il Paesaggio. Atti",
+   "volume": "II",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited in short form \"Paesaggio Atti 2000\"",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Paesaggio Lavori 2000 = Ministero per i Beni e le attività culturali, Conferenza Nazionale per il Paesaggio, I. Lavori preparatori, Roma, Gangemi.",
+   "type": "proceedings",
+   "creators": [
+    {
+     "family": "Ministero per i Beni e le attività culturali",
+     "given": ""
+    }
+   ],
+   "date": "2000",
+   "title": "Conferenza Nazionale per il Paesaggio. Lavori preparatori",
+   "volume": "I",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited in short form \"Paesaggio Lavori 2000\"",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Palazzi A. 2002, Identificare i paesaggi. I. Risorse storico culturali, in Clementi 2002, 138-160.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Palazzi",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Identificare i paesaggi. I. Risorse storico culturali",
+   "editors": [
+    {
+     "family": "Clementi",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Interpretazioni di paesaggio. Convenzione Europea e innovazioni di metodo"
+   ],
+   "pages": "138-160",
+   "publisher": "Meltemi",
+   "place": "Roma",
+   "language": "ita",
+   "xref": 11,
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Sachs I. 1988, I nuovi campi della pianificazione, Roma, Ed. Lavoro.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sachs",
+     "given": "I."
+    }
+   ],
+   "date": "1988",
+   "title": "I nuovi campi della pianificazione",
+   "publisher": "Ed. Lavoro",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Scazzosi L. 1999, Politiche e culture del paesaggio. Esperienze internazionali a confronto, Roma, Gangemi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Scazzosi",
+     "given": "L."
+    }
+   ],
+   "date": "1999",
+   "title": "Politiche e culture del paesaggio. Esperienze internazionali a confronto",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Schön D. 1993, Il professionista riflessivo, Bari, Dedalo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Schön",
+     "given": "D."
+    }
+   ],
+   "date": "1993",
+   "title": "Il professionista riflessivo",
+   "publisher": "Dedalo",
+   "place": "Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Segarra Lagunes M.M. (ed.) 2002, Archeologia urbana e progetto di architettura. Atti del Seminario, Roma, Gangemi.",
+   "type": "proceedings",
+   "date": "2002",
+   "title": "Archeologia urbana e progetto di architettura. Atti del Seminario",
+   "editors": [
+    {
+     "family": "Segarra Lagunes",
+     "given": "M.M."
+    }
+   ],
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "Sole 24 Ore Paesaggio = AA.VV., Paesaggio. Inserto cultura \"DOMENICA\", «Il Sole 24 Ore», 224, 2002, 21-32.",
+   "type": "article",
+   "date": "2002",
+   "title": "Paesaggio. Inserto cultura “DOMENICA”",
+   "is_part_of": [
+    "Il Sole 24 Ore"
+   ],
+   "volume": "224",
+   "pages": "21-32",
+   "language": "ita",
+   "notes": "cited in short form \"Sole 24 Ore Paesaggio\"; AA.VV.",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "Sommella P. 1987, Cartografia archeologica computerizzata, in F. D'Andria (ed.), Informatica e Archeologia Classica. Atti del Congresso Internazionale (Lecce 1986), Lecce, Congedo, 17-30.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "date": "1987",
+   "title": "Cartografia archeologica computerizzata",
+   "editors": [
+    {
+     "family": "D'Andria",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Informatica e Archeologia Classica. Atti del Congresso Internazionale (Lecce 1986)"
+   ],
+   "pages": "17-30",
+   "publisher": "Congedo",
+   "place": "Lecce",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "Sommella P. 2001, Dopo Lanciani, in Guermandi 2001, 20-28.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    }
+   ],
+   "date": "2001",
+   "title": "Dopo Lanciani",
+   "editors": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "is_part_of": [
+    "Rischio archeologico: se lo conosci lo eviti. Atti del Convegno di studi su cartografia archeologica e tutela del territorio (Ferrara 2000)"
+   ],
+   "pages": "20-28",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 24,
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "Spanedda F. (ed.) 2004, Progetti di territori, Milano, FrancoAngeli.",
+   "type": "book",
+   "date": "2004",
+   "title": "Progetti di territori",
+   "editors": [
+    {
+     "family": "Spanedda",
+     "given": "F."
+    }
+   ],
+   "publisher": "FrancoAngeli",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 51,
+   "raw": "Tagliagambe S. 2004, Postfazione, in Spanedda 2004, 220-228.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tagliagambe",
+     "given": "S."
+    }
+   ],
+   "date": "2004",
+   "title": "Postfazione",
+   "editors": [
+    {
+     "family": "Spanedda",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Progetti di territori"
+   ],
+   "pages": "220-228",
+   "publisher": "FrancoAngeli",
+   "place": "Milano",
+   "language": "ita",
+   "xref": 50,
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "Venturi Ferriolo M. 2002, Etiche del paesaggio. Il progetto del mondo umano, Roma, Editori Riuniti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Venturi Ferriolo",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "Etiche del paesaggio. Il progetto del mondo umano",
+   "publisher": "Editori Riuniti",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,441 @@
+{
+ "citing_aec_id": 903,
+ "source_file": "data/journal/28/903.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Atzeni E. 2005, *Ricerche preistoriche in Sardegna*, Cagliari, Edizioni AV.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Atzeni",
+     "given": "E."
+    }
+   ],
+   "date": "2005",
+   "title": "Ricerche preistoriche in Sardegna",
+   "publisher": "Edizioni AV",
+   "place": "Cagliari",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Atzeni E. 2007, *La preistoria del Sulcis-Iglesiente*, Cagliari, Stef.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Atzeni",
+     "given": "E."
+    }
+   ],
+   "date": "2007",
+   "title": "La preistoria del Sulcis-Iglesiente",
+   "publisher": "Stef",
+   "place": "Cagliari",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Atzeni E., Melis M. 2000, *Villaperuccio tra ipogeismo e megalitismo, testimonianze archeologiche dal Neolitico all'età romana*, Sassari, Comune di Villaperuccio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Atzeni",
+     "given": "E."
+    },
+    {
+     "family": "Melis",
+     "given": "M."
+    }
+   ],
+   "date": "2000",
+   "title": "Villaperuccio tra ipogeismo e megalitismo, testimonianze archeologiche dal Neolitico all'età romana",
+   "publisher": "Comune di Villaperuccio",
+   "place": "Sassari",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Barrile V., Bilotta G., Lamari D., Meduri G.M., Monardi Trungadi U., Ricciardi A., *Computer vision/structure for motion per la diffusione dei beni culturali*, in Atti della XIX Conferenza ASITA (Lecco 2015), 51-60 (http://atti.asita.it/ASITA2015/Pdf/1-322.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Barrile",
+     "given": "V."
+    },
+    {
+     "family": "Bilotta",
+     "given": "G."
+    },
+    {
+     "family": "Lamari",
+     "given": "D."
+    },
+    {
+     "family": "Meduri",
+     "given": "G.M."
+    },
+    {
+     "family": "Monardi Trungadi",
+     "given": "U."
+    },
+    {
+     "family": "Ricciardi",
+     "given": "A."
+    }
+   ],
+   "title": "Computer vision/structure for motion per la diffusione dei beni culturali",
+   "is_part_of": [
+    "Atti della XIX Conferenza ASITA (Lecco 2015)"
+   ],
+   "pages": "51-60",
+   "language": "ita",
+   "uri": "http://atti.asita.it/ASITA2015/Pdf/1-322.pdf",
+   "notes": "no year of its own in the citation (conference Lecco 2015)"
+  },
+  {
+   "position": 5,
+   "raw": "Deligia G.G., Fernàndez Ruiz M., Spanedda L. 2014, *La decorazione dell'ingresso della domus de janas di Perdonighéddu (Sorgono, NU): applicazione dell'estensione DStretch del software ImageJ*, «Archeologia e Calcolatori», 25, 157-174.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Deligia",
+     "given": "G.G."
+    },
+    {
+     "family": "Fernàndez Ruiz",
+     "given": "M."
+    },
+    {
+     "family": "Spanedda",
+     "given": "L."
+    }
+   ],
+   "date": "2014",
+   "title": "La decorazione dell'ingresso della domus de janas di Perdonighéddu (Sorgono, NU): applicazione dell'estensione DStretch del software ImageJ",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "25",
+   "pages": "157-174",
+   "language": "ita",
+   "cited_aec_id": 720
+  },
+  {
+   "position": 6,
+   "raw": "Fiorini A., Archetti V. 2013, *Modelli interattivi 3D nei file PDF. Applicazioni in campo archeologico*, in S. Gianolio (ed.), Archeologia Virtuale. Comunicare in digitale. Atti del III Seminario (Roma 2000), Roma, Espera s.r.l., 72-83.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Archetti",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gianolio",
+     "given": "S."
+    }
+   ],
+   "date": "2013",
+   "title": "Modelli interattivi 3D nei file PDF. Applicazioni in campo archeologico",
+   "is_part_of": [
+    "Archeologia Virtuale. Comunicare in digitale. Atti del III Seminario (Roma 2000)"
+   ],
+   "pages": "72-83",
+   "publisher": "Espera s.r.l.",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Forresu R. 2003, *Censimento archeologico del territorio*, Giba, Comune di Giba.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Forresu",
+     "given": "R."
+    }
+   ],
+   "date": "2003",
+   "title": "Censimento archeologico del territorio",
+   "publisher": "Comune di Giba",
+   "place": "Giba",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "Le Quellec J.L., Duquesnoy F., Defrasne C. 2015, *Digital image enhancement with DStretch®: Is complexity always necessary for efficiency?*, «Digital Applications in Archaeology and Cultural Heritage», 2, 2.2, 55-67.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Le Quellec",
+     "given": "J.L."
+    },
+    {
+     "family": "Duquesnoy",
+     "given": "F."
+    },
+    {
+     "family": "Defrasne",
+     "given": "C."
+    }
+   ],
+   "date": "2015",
+   "title": "Digital image enhancement with DStretch®: Is complexity always necessary for efficiency?",
+   "is_part_of": [
+    "Digital Applications in Archaeology and Cultural Heritage"
+   ],
+   "volume": "2",
+   "issue": "2.2",
+   "pages": "55-67",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "López Fraile F.J.L., Gómez García L.M.G., Caballero Klink A.C. 2016, *3D documentation and use of DStretch® for two new sites with post-palaeolithic rock art in Sierra Morena, Spain*, «Rock Art Research», 33, 2, 127-142.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "López Fraile",
+     "given": "F.J.L."
+    },
+    {
+     "family": "Gómez García",
+     "given": "L.M.G."
+    },
+    {
+     "family": "Caballero Klink",
+     "given": "A.C."
+    }
+   ],
+   "date": "2016",
+   "title": "3D documentation and use of DStretch® for two new sites with post-palaeolithic rock art in Sierra Morena, Spain",
+   "is_part_of": [
+    "Rock Art Research"
+   ],
+   "volume": "33",
+   "issue": "2",
+   "pages": "127-142",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Manunza M.R., Fenu P., Nieddu F. 2014, *Approcci allo studio delle architetture domestiche di facies Monte Claro: l'abitato del lago di Monte Pranu-Tratalias/Villaperuccio (CI)*, «Quaderni. Rivista di Archeologia», 25, 33-56.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Manunza",
+     "given": "M.R."
+    },
+    {
+     "family": "Fenu",
+     "given": "P."
+    },
+    {
+     "family": "Nieddu",
+     "given": "F."
+    }
+   ],
+   "date": "2014",
+   "title": "Approcci allo studio delle architetture domestiche di facies Monte Claro: l'abitato del lago di Monte Pranu-Tratalias/Villaperuccio (CI)",
+   "is_part_of": [
+    "Quaderni. Rivista di Archeologia"
+   ],
+   "volume": "25",
+   "pages": "33-56",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "Medici P., Rossi G. 2015, *Valcamonica 3.0: A new dimension in rock art recording. From tracing to structure from motion and post processing*, in F. Troletti (ed.), Prospects for the Prehistoric Art Research. 50 Years since the Founding of the Centro Camuno. XXVI Valcamonica Symposium (Capo di Ponte, BS 2015), Capo di Ponte, Centro Camuno di Studi Preistorici, 9-12.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Medici",
+     "given": "P."
+    },
+    {
+     "family": "Rossi",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Troletti",
+     "given": "F."
+    }
+   ],
+   "date": "2015",
+   "title": "Valcamonica 3.0: A new dimension in rock art recording. From tracing to structure from motion and post processing",
+   "is_part_of": [
+    "Prospects for the Prehistoric Art Research. 50 Years since the Founding of the Centro Camuno. XXVI Valcamonica Symposium (Capo di Ponte, BS 2015)"
+   ],
+   "pages": "9-12",
+   "publisher": "Centro Camuno di Studi Preistorici",
+   "place": "Capo di Ponte",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Melis M.G. 2003, *Aspetti insediativi nel Sulcis tra neolitico ed eneolitico: il territorio di Villaperuccio*, in M.G. Melis (ed.), Studi in onore di Ercole Contu, Sassari, EDES, 84-95.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Melis",
+     "given": "M.G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Melis",
+     "given": "M.G."
+    }
+   ],
+   "date": "2003",
+   "title": "Aspetti insediativi nel Sulcis tra neolitico ed eneolitico: il territorio di Villaperuccio",
+   "is_part_of": [
+    "Studi in onore di Ercole Contu"
+   ],
+   "pages": "84-95",
+   "publisher": "EDES",
+   "place": "Sassari",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "Merella S. 2009, *I menhir della Sardegna*, Sassari, Il Punto Grafico.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Merella",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "I menhir della Sardegna",
+   "publisher": "Il Punto Grafico",
+   "place": "Sassari",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "Remondino F., Campana S. 2014, *3D Recording and Modelling in Archaeology and Cultural Heritage: Theory and Best Practices*, Oxford, Archaeopress.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "date": "2014",
+   "title": "3D Recording and Modelling in Archaeology and Cultural Heritage: Theory and Best Practices",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Rizzo E. 2013, *La modellizzazione 3D applicata ai beni culturali*, «Archeomatica», 4, 3, 16-20.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rizzo",
+     "given": "E."
+    }
+   ],
+   "date": "2013",
+   "title": "La modellizzazione 3D applicata ai beni culturali",
+   "is_part_of": [
+    "Archeomatica"
+   ],
+   "volume": "4",
+   "issue": "3",
+   "pages": "16-20",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Santoni V., Lilliu G. 1995, *Carbonia e il Sulcis: archeologia e territorio*, Oristano, S'Alvure.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Santoni",
+     "given": "V."
+    },
+    {
+     "family": "Lilliu",
+     "given": "G."
+    }
+   ],
+   "date": "1995",
+   "title": "Carbonia e il Sulcis: archeologia e territorio",
+   "publisher": "S'Alvure",
+   "place": "Oristano",
+   "language": "ita"
+  },
+  {
+   "position": 17,
+   "raw": "Scianna A., Gristina S., Sciortino R. 2016, *Integrazione di sistemi GIS FOSS e modelli 3D PDF per la fruizione multimediale di beni monumentali e archeologici: il Castello di Maredolce a Palermo*, in F. Stanco, G. Gallo (eds.), Proceedings of Archeofoss Free, Libre and Open Source Software per i processi di ricerca archeologica, VIII edizione (Catania 2013), Oxford, Archaeopress (http://archaeopress.com/ArchaeopressShop/Public/download.asp?id=%7B14C6CFBD-3371-4DF0-8971-D4ABC24E661E%7D).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scianna",
+     "given": "A."
+    },
+    {
+     "family": "Gristina",
+     "given": "S."
+    },
+    {
+     "family": "Sciortino",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Stanco",
+     "given": "F."
+    },
+    {
+     "family": "Gallo",
+     "given": "G."
+    }
+   ],
+   "date": "2016",
+   "title": "Integrazione di sistemi GIS FOSS e modelli 3D PDF per la fruizione multimediale di beni monumentali e archeologici: il Castello di Maredolce a Palermo",
+   "is_part_of": [
+    "Proceedings of Archeofoss Free, Libre and Open Source Software per i processi di ricerca archeologica, VIII edizione (Catania 2013)"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "ita",
+   "uri": "http://archaeopress.com/ArchaeopressShop/Public/download.asp?id=%7B14C6CFBD-3371-4DF0-8971-D4ABC24E661E%7D"
+  },
+  {
+   "position": 18,
+   "raw": "Tanda G. 2015, *Le domus de janas decorate con motivi scolpiti*, 1, Cagliari, Ed. Condaghes.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tanda",
+     "given": "G."
+    }
+   ],
+   "date": "2015",
+   "title": "Le domus de janas decorate con motivi scolpiti",
+   "volume": "1",
+   "publisher": "Ed. Condaghes",
+   "place": "Cagliari",
+   "language": "ita"
+  }
+ ]
+}

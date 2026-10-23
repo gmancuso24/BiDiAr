@@ -1,0 +1,920 @@
+{
+ "citing_aec_id": 1391,
+ "source_file": "data/journal/36/1391.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bačelić G.B., Pavić J., Periša M. 2016, Revitalization of (the Fortresses of) Šibenik, «Defensive Architecture of the Mediterranean XV to XVIII Centuries», 413.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bačelić",
+     "given": "G.B."
+    },
+    {
+     "family": "Pavić",
+     "given": "J."
+    },
+    {
+     "family": "Periša",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "Revitalization of (the Fortresses of) Šibenik",
+   "is_part_of": [
+    "Defensive Architecture of the Mediterranean XV to XVIII Centuries"
+   ],
+   "pages": "413",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Bianconi F., Filippucci M. 2019, La fotomodellazione per il rilievo archeologico, «Archeologia e Calcolatori», 30, 205-228 (https://doi.org/10.19282/ac.30.2019.13).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bianconi",
+     "given": "F."
+    },
+    {
+     "family": "Filippucci",
+     "given": "M."
+    }
+   ],
+   "date": "2019",
+   "title": "La fotomodellazione per il rilievo archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "30",
+   "pages": "205-228",
+   "doi": "10.19282/ac.30.2019.13",
+   "language": "ita",
+   "cited_aec_id": 1048
+  },
+  {
+   "position": 3,
+   "raw": "Brandolini F., Cremaschi M., Mariani G.S., Zerboni A., Lischi S., Degli Esposti M. 2020, SfM-photogrammetry for fast recording of archaeological features in remote areas, in G. Bagnasco Gianni, S. Bortolotto, A. Garzulino, M. Marzullo (eds.), Milano internazionale: la fragilità territoriale dei contesti archeologici. Atti del Convegno Internazionale (Milano 2019), «Archeologia e Calcolatori», 31.2, 33-45 (https://doi.org/10.19282/ac.31.2.2020.04).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brandolini",
+     "given": "F."
+    },
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    },
+    {
+     "family": "Mariani",
+     "given": "G.S."
+    },
+    {
+     "family": "Zerboni",
+     "given": "A."
+    },
+    {
+     "family": "Lischi",
+     "given": "S."
+    },
+    {
+     "family": "Degli Esposti",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "SfM-photogrammetry for fast recording of archaeological features in remote areas",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "31",
+   "issue": "2",
+   "pages": "33-45",
+   "doi": "10.19282/ac.31.2.2020.04",
+   "language": "eng",
+   "cited_aec_id": 1088
+  },
+  {
+   "position": 4,
+   "raw": "Carre A.L., Dubois A., Partarakis N., Zabulis X., Patsiouras N., Mantinaki E., Zidianakis E., Cadi N., Baka E., Thalmann N.M., Makrygiannis D., Glushkova A., Manitsaris S. 2022, Mixed-Reality demonstration and training of glassblowing, «Heritage», 5, 1, 103-128 (https://doi.org/10.3390/HERITAGE5010006).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carre",
+     "given": "A.L."
+    },
+    {
+     "family": "Dubois",
+     "given": "A."
+    },
+    {
+     "family": "Partarakis",
+     "given": "N."
+    },
+    {
+     "family": "Zabulis",
+     "given": "X."
+    },
+    {
+     "family": "Patsiouras",
+     "given": "N."
+    },
+    {
+     "family": "Mantinaki",
+     "given": "E."
+    },
+    {
+     "family": "Zidianakis",
+     "given": "E."
+    },
+    {
+     "family": "Cadi",
+     "given": "N."
+    },
+    {
+     "family": "Baka",
+     "given": "E."
+    },
+    {
+     "family": "Thalmann",
+     "given": "N.M."
+    },
+    {
+     "family": "Makrygiannis",
+     "given": "D."
+    },
+    {
+     "family": "Glushkova",
+     "given": "A."
+    },
+    {
+     "family": "Manitsaris",
+     "given": "S."
+    }
+   ],
+   "date": "2022",
+   "title": "Mixed-Reality demonstration and training of glassblowing",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "5",
+   "issue": "1",
+   "pages": "103-128",
+   "doi": "10.3390/HERITAGE5010006",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Cerquetti M. 2007, La componente culturale del prodotto turistico integrato: la creazione di valore per il territorio attraverso i musei locali, «Sinergie», 73-74, maggio-dicembre, 421-438 (https://ssrn.com/abstract=2500235).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cerquetti",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "La componente culturale del prodotto turistico integrato: la creazione di valore per il territorio attraverso i musei locali",
+   "is_part_of": [
+    "Sinergie"
+   ],
+   "volume": "73-74",
+   "issue": "maggio-dicembre",
+   "pages": "421-438",
+   "uri": "https://ssrn.com/abstract=2500235",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Cingolani S., Clini P., Quattrini R., Angeloni R., Angelo F., Sforzini L., di Giovanni A., Bollati R. 2024, Dalla replica digitale alla modellazione informativa. Un approccio scan-to-BIM alla documentazione del microscavo e restauro della tomba 27 di Colle Vaccaro (AP), «Archeologia e Calcolatori», 35.1, 407-426 (https://doi.org/10.19282/ac.35.1.2024.25).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cingolani",
+     "given": "S."
+    },
+    {
+     "family": "Clini",
+     "given": "P."
+    },
+    {
+     "family": "Quattrini",
+     "given": "R."
+    },
+    {
+     "family": "Angeloni",
+     "given": "R."
+    },
+    {
+     "family": "Angelo",
+     "given": "F."
+    },
+    {
+     "family": "Sforzini",
+     "given": "L."
+    },
+    {
+     "family": "di Giovanni",
+     "given": "A."
+    },
+    {
+     "family": "Bollati",
+     "given": "R."
+    }
+   ],
+   "date": "2024",
+   "title": "Dalla replica digitale alla modellazione informativa. Un approccio scan-to-BIM alla documentazione del microscavo e restauro della tomba 27 di Colle Vaccaro (AP)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "1",
+   "pages": "407-426",
+   "doi": "10.19282/ac.35.1.2024.25",
+   "language": "ita",
+   "cited_aec_id": 1306
+  },
+  {
+   "position": 7,
+   "raw": "Clini P., Angeloni R., D'Alessio M., Bardelli G., Finocchi S. 2024, Un Virtual Immersive movie per la fruizione del patrimonio archeologico: il viaggio nella \"Tomba della Regina\" di Sirolo-Numana, «Archeologia e Calcolatori», 35.1, 473-490 (https://doi.org/10.19282/ac.35.1.2024.28).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Clini",
+     "given": "P."
+    },
+    {
+     "family": "Angeloni",
+     "given": "R."
+    },
+    {
+     "family": "D’Alessio",
+     "given": "M."
+    },
+    {
+     "family": "Bardelli",
+     "given": "G."
+    },
+    {
+     "family": "Finocchi",
+     "given": "S."
+    }
+   ],
+   "date": "2024",
+   "title": "Un Virtual Immersive movie per la fruizione del patrimonio archeologico: il viaggio nella “Tomba della Regina” di Sirolo-Numana",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "1",
+   "pages": "473-490",
+   "doi": "10.19282/ac.35.1.2024.28",
+   "language": "ita",
+   "cited_aec_id": 1309
+  },
+  {
+   "position": 8,
+   "raw": "Cuno J. 2010, Who Owns Antiquity? Museums and the Battle Over our Ancient Heritage, Princeton University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cuno",
+     "given": "J."
+    }
+   ],
+   "date": "2010",
+   "title": "Who Owns Antiquity? Museums and the Battle Over our Ancient Heritage",
+   "publisher": "Princeton University Press",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Dragoni P. 2005, Antimarketing dei musei italiani, «Sinergie», 68, 55-75.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dragoni",
+     "given": "P."
+    }
+   ],
+   "date": "2005",
+   "title": "Antimarketing dei musei italiani",
+   "is_part_of": [
+    "Sinergie"
+   ],
+   "volume": "68",
+   "pages": "55-75",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Ferdani D., Fanini B., Piccioli M.C., Carboni F., Vigliarolo P. 2020, 3D reconstruction and validation of historical background for immersive VR applications and games: The case study of the Forum of Augustus in Rome, «Journal of Cultural Heritage», 43, 129-143 (https://doi.org/10.1016/j.culher.2019.12.004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Fanini",
+     "given": "B."
+    },
+    {
+     "family": "Piccioli",
+     "given": "M.C."
+    },
+    {
+     "family": "Carboni",
+     "given": "F."
+    },
+    {
+     "family": "Vigliarolo",
+     "given": "P."
+    }
+   ],
+   "date": "2020",
+   "title": "3D reconstruction and validation of historical background for immersive VR applications and games: The case study of the Forum of Augustus in Rome",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "43",
+   "pages": "129-143",
+   "doi": "10.1016/j.culher.2019.12.004",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Ferretti U., Quattrini R., D'Alessio M. 2022, A comprehensive HBIM to XR framework for museum management and user experience in Ducal Palace at Urbino, «Heritage», 5, 3, 1551-1571 (https://doi.org/10.3390/heritage5030081).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ferretti",
+     "given": "U."
+    },
+    {
+     "family": "Quattrini",
+     "given": "R."
+    },
+    {
+     "family": "D’Alessio",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "A comprehensive HBIM to XR framework for museum management and user experience in Ducal Palace at Urbino",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "5",
+   "issue": "3",
+   "pages": "1551-1571",
+   "doi": "10.3390/heritage5030081",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Garagnani S. 2021, Quick digitization techniques: The case study of Numana necropolis, in V. Baldoni (ed.), From pottery to context. Archaeology and virtual modelling, «Archeologia e Calcolatori», 32.2, 53-62 (https://doi.org/10.19282/ac.32.2.2021.06).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    }
+   ],
+   "date": "2021",
+   "title": "Quick digitization techniques: The case study of Numana necropolis",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "32",
+   "issue": "2",
+   "pages": "53-62",
+   "doi": "10.19282/ac.32.2.2021.06",
+   "language": "eng",
+   "cited_aec_id": 1160
+  },
+  {
+   "position": 13,
+   "raw": "Gimeno J., Portalés C., Coma I., Fernández M., Martínez B. 2017, Combining traditional and indirect augmented reality for indoor crowded environments. A case study on the Casa Batlló museum, «Computers&Graphics», 69, 92-103 (https://doi.org/10.1016/j.cag.2017.09.001).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gimeno",
+     "given": "J."
+    },
+    {
+     "family": "Portalés",
+     "given": "C."
+    },
+    {
+     "family": "Coma",
+     "given": "I."
+    },
+    {
+     "family": "Fernández",
+     "given": "M."
+    },
+    {
+     "family": "Martínez",
+     "given": "B."
+    }
+   ],
+   "date": "2017",
+   "title": "Combining traditional and indirect augmented reality for indoor crowded environments. A case study on the Casa Batlló museum",
+   "is_part_of": [
+    "Computers & Graphics"
+   ],
+   "volume": "69",
+   "pages": "92-103",
+   "doi": "10.1016/j.cag.2017.09.001",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Giorgi E., Luppino L., Lapacciana N., Scoz J. 2021, Accurata, ma sostenibile: soluzioni operative per la documentazione grafica e fotografica dello scavo sul sito di Vignale, «Archeologia e Calcolatori», 32.1, 155-174 (https://doi.org/10.19282/ac.32.1.2021.09).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Giorgi",
+     "given": "E."
+    },
+    {
+     "family": "Luppino",
+     "given": "L."
+    },
+    {
+     "family": "Lapacciana",
+     "given": "N."
+    },
+    {
+     "family": "Scoz",
+     "given": "J."
+    }
+   ],
+   "date": "2021",
+   "title": "Accurata, ma sostenibile: soluzioni operative per la documentazione grafica e fotografica dello scavo sul sito di Vignale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "32",
+   "issue": "1",
+   "pages": "155-174",
+   "doi": "10.19282/ac.32.1.2021.09",
+   "language": "ita",
+   "cited_aec_id": 1132
+  },
+  {
+   "position": 15,
+   "raw": "Hamilakis Y. 2013, Archaeology and the Senses: Human Experience, Memory, and Affect, Cambridge, University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hamilakis",
+     "given": "Y."
+    }
+   ],
+   "date": "2013",
+   "title": "Archaeology and the Senses: Human Experience, Memory, and Affect",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Kolivand H., Sunar M.S. 2014, Realistic real-time outdoor rendering in Augmented Reality, «PLOS ONE», 9, 9, e108334 (https://doi.org/10.1371/JOURNAL.PONE.0108334).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kolivand",
+     "given": "H."
+    },
+    {
+     "family": "Sunar",
+     "given": "M.S."
+    }
+   ],
+   "date": "2014",
+   "title": "Realistic real-time outdoor rendering in Augmented Reality",
+   "is_part_of": [
+    "PLOS ONE"
+   ],
+   "volume": "9",
+   "issue": "9",
+   "pages": "e108334",
+   "doi": "10.1371/JOURNAL.PONE.0108334",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Leopardi A., Ceccacci S., Mengoni M., Naspetti S., Gambelli D., Ozturk E., Zanoli R. 2021, X-reality technologies for museums: A comparative evaluation based on presence and visitors experience through user studies, «Journal of Cultural Heritage», 47, 188-198 (https://doi.org/10.1016/J.CULHER.2020.10.005).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Leopardi",
+     "given": "A."
+    },
+    {
+     "family": "Ceccacci",
+     "given": "S."
+    },
+    {
+     "family": "Mengoni",
+     "given": "M."
+    },
+    {
+     "family": "Naspetti",
+     "given": "S."
+    },
+    {
+     "family": "Gambelli",
+     "given": "D."
+    },
+    {
+     "family": "Ozturk",
+     "given": "E."
+    },
+    {
+     "family": "Zanoli",
+     "given": "R."
+    }
+   ],
+   "date": "2021",
+   "title": "X-reality technologies for museums: A comparative evaluation based on presence and visitors experience through user studies",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "47",
+   "pages": "188-198",
+   "doi": "10.1016/J.CULHER.2020.10.005",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Liaskos O., Mitsigkola S., Arapakopoulos A., Papatzanakis G., Ginnis A., Papadopoulos C., Peppa S., Remoundos G. 2022, Development of the virtual reality application: \"the ships of Navarino\", «Applied Sciences (Switzerland)», 12, 7 (https://doi.org/10.3390/app12073541).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Liaskos",
+     "given": "O."
+    },
+    {
+     "family": "Mitsigkola",
+     "given": "S."
+    },
+    {
+     "family": "Arapakopoulos",
+     "given": "A."
+    },
+    {
+     "family": "Papatzanakis",
+     "given": "G."
+    },
+    {
+     "family": "Ginnis",
+     "given": "A."
+    },
+    {
+     "family": "Papadopoulos",
+     "given": "C."
+    },
+    {
+     "family": "Peppa",
+     "given": "S."
+    },
+    {
+     "family": "Remoundos",
+     "given": "G."
+    }
+   ],
+   "date": "2022",
+   "title": "Development of the virtual reality application: “the ships of Navarino”",
+   "is_part_of": [
+    "Applied Sciences (Switzerland)"
+   ],
+   "volume": "12",
+   "issue": "7",
+   "doi": "10.3390/app12073541",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Liu Y., Granier X. 2012, Online tracking of outdoor lighting variations for augmented reality with moving cameras, «IEEE Transactions on Visualization and Computer Graphics», 18, 4, 573-580 (https://doi.org/10.1109/TVCG.2012.53).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Liu",
+     "given": "Y."
+    },
+    {
+     "family": "Granier",
+     "given": "X."
+    }
+   ],
+   "date": "2012",
+   "title": "Online tracking of outdoor lighting variations for augmented reality with moving cameras",
+   "is_part_of": [
+    "IEEE Transactions on Visualization and Computer Graphics"
+   ],
+   "volume": "18",
+   "issue": "4",
+   "pages": "573-580",
+   "doi": "10.1109/TVCG.2012.53",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "Luni M. 2007, Domus di Forum Sempronii: decorazione e arredo, Roma, L'Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Luni",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "Domus di Forum Sempronii: decorazione e arredo",
+   "publisher": "L’Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 21,
+   "raw": "Luni M., Mei O. 2012, Forum Sempronii I: scavi e ricerche (1974-2012), Bari, Edipuglia (https://edipuglia.it/wp-content/uploads/2014/05/pag77_av_162.pdf).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Luni",
+     "given": "M."
+    },
+    {
+     "family": "Mei",
+     "given": "O."
+    }
+   ],
+   "date": "2012",
+   "title": "Forum Sempronii I: scavi e ricerche (1974-2012)",
+   "publisher": "Edipuglia",
+   "place": "Bari",
+   "uri": "https://edipuglia.it/wp-content/uploads/2014/05/pag77_av_162.pdf",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "Marto A., Gonçalves A., Melo M., Bessa M. 2022, A survey of multisensory VR and AR applications for cultural heritage, «Computers and Graphics (Pergamon)», 102, 426-440 (https://doi.org/10.1016/j.cag.2021.10.001).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Marto",
+     "given": "A."
+    },
+    {
+     "family": "Gonçalves",
+     "given": "A."
+    },
+    {
+     "family": "Melo",
+     "given": "M."
+    },
+    {
+     "family": "Bessa",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "A survey of multisensory VR and AR applications for cultural heritage",
+   "is_part_of": [
+    "Computers and Graphics (Pergamon)"
+   ],
+   "volume": "102",
+   "pages": "426-440",
+   "doi": "10.1016/j.cag.2021.10.001",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Mei O., Cariddi L., Gasparini M. 2017, L'area forense di Forum Sempronii: Nuovi dati architettonici e urbanistici alla luce degli scavi 2013-2017, «REUDAR European Journal of Roman Architecture», 1 (http://dx.doi.org/10.21071/reudar.v1i0.10164).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mei",
+     "given": "O."
+    },
+    {
+     "family": "Cariddi",
+     "given": "L."
+    },
+    {
+     "family": "Gasparini",
+     "given": "M."
+    }
+   ],
+   "date": "2017",
+   "title": "L’area forense di Forum Sempronii: Nuovi dati architettonici e urbanistici alla luce degli scavi 2013-2017",
+   "is_part_of": [
+    "REUDAR European Journal of Roman Architecture"
+   ],
+   "volume": "1",
+   "uri": "http://dx.doi.org/10.21071/reudar.v1i0.10164",
+   "language": "ita"
+  },
+  {
+   "position": 24,
+   "raw": "Pietroni E., Menconero S., Botti C., Ghedini F. 2023, e-Archeo: A pilot national project to valorize Italian archaeological parks through digital and virtual reality technologies, «Applied System Innovation», 6, 2, 38 (https://doi.org/10.3390/asi6020038).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pietroni",
+     "given": "E."
+    },
+    {
+     "family": "Menconero",
+     "given": "S."
+    },
+    {
+     "family": "Botti",
+     "given": "C."
+    },
+    {
+     "family": "Ghedini",
+     "given": "F."
+    }
+   ],
+   "date": "2023",
+   "title": "e-Archeo: A pilot national project to valorize Italian archaeological parks through digital and virtual reality technologies",
+   "is_part_of": [
+    "Applied System Innovation"
+   ],
+   "volume": "6",
+   "issue": "2",
+   "pages": "38",
+   "doi": "10.3390/asi6020038",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "Puig A., Rodríguez I., Arcos J.L., Rodríguez-Aguilar J.A., Cebrián S., Bogdanovych A., Morera N., Palomo A., Piqué R. 2020, Lessons learned from supplementing archaeological museum exhibitions with virtual reality, «Virtual Reality», 24, 2, 343-358 (https://doi.org/10.1007/s10055-019-00391-z).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Puig",
+     "given": "A."
+    },
+    {
+     "family": "Rodríguez",
+     "given": "I."
+    },
+    {
+     "family": "Arcos",
+     "given": "J.L."
+    },
+    {
+     "family": "Rodríguez-Aguilar",
+     "given": "J.A."
+    },
+    {
+     "family": "Cebrián",
+     "given": "S."
+    },
+    {
+     "family": "Bogdanovych",
+     "given": "A."
+    },
+    {
+     "family": "Morera",
+     "given": "N."
+    },
+    {
+     "family": "Palomo",
+     "given": "A."
+    },
+    {
+     "family": "Piqué",
+     "given": "R."
+    }
+   ],
+   "date": "2020",
+   "title": "Lessons learned from supplementing archaeological museum exhibitions with virtual reality",
+   "is_part_of": [
+    "Virtual Reality"
+   ],
+   "volume": "24",
+   "issue": "2",
+   "pages": "343-358",
+   "doi": "10.1007/s10055-019-00391-z",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "Rivet M. 2020, Decolonization and restitution. Moving towards a more holistic and relational approach: Report on the panel on ethnographic museums and indigenous people, ICOM Kyoto 2019, «Museum Worlds», 8, 1, 204-209 (https://doi.org/10.3167/armw.2020.080114).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rivet",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "Decolonization and restitution. Moving towards a more holistic and relational approach: Report on the panel on ethnographic museums and indigenous people, ICOM Kyoto 2019",
+   "is_part_of": [
+    "Museum Worlds"
+   ],
+   "volume": "8",
+   "issue": "1",
+   "pages": "204-209",
+   "doi": "10.3167/armw.2020.080114",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "Wali A., Collins R.K. 2023, Decolonizing museums: Toward a paradigm shift, «Annual Review of Anthropology», 52, 1, 329-345 (https://dx.doi.org/10.1146/annurev-anthro-052721-040652).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wali",
+     "given": "A."
+    },
+    {
+     "family": "Collins",
+     "given": "R.K."
+    }
+   ],
+   "date": "2023",
+   "title": "Decolonizing museums: Toward a paradigm shift",
+   "is_part_of": [
+    "Annual Review of Anthropology"
+   ],
+   "volume": "52",
+   "issue": "1",
+   "pages": "329-345",
+   "uri": "https://dx.doi.org/10.1146/annurev-anthro-052721-040652",
+   "language": "eng"
+  },
+  {
+   "position": 28,
+   "raw": "Zhang J., Wan Yahaya W.A.J., Sanmugam M. 2024, The impact of immersive technologies on Cultural Heritage: A bibliometric study of VR, AR, and MR applications, «Sustainability», 16, 15, 6446 (https://doi.org/10.3390/SU16156446).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zhang",
+     "given": "J."
+    },
+    {
+     "family": "Wan Yahaya",
+     "given": "W.A.J."
+    },
+    {
+     "family": "Sanmugam",
+     "given": "M."
+    }
+   ],
+   "date": "2024",
+   "title": "The impact of immersive technologies on Cultural Heritage: A bibliometric study of VR, AR, and MR applications",
+   "is_part_of": [
+    "Sustainability"
+   ],
+   "volume": "16",
+   "issue": "15",
+   "pages": "6446",
+   "doi": "10.3390/SU16156446",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "Zhu K., Liu S., Sun W., Yuan Y., Wu Y. 2023, A lighting consistency technique for outdoor Augmented Reality systems based on multi-source geo-information, «ISPRS International Journal of Geo-Information», 12, 8, 324 (https://doi.org/10.3390/IJGI12080324).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zhu",
+     "given": "K."
+    },
+    {
+     "family": "Liu",
+     "given": "S."
+    },
+    {
+     "family": "Sun",
+     "given": "W."
+    },
+    {
+     "family": "Yuan",
+     "given": "Y."
+    },
+    {
+     "family": "Wu",
+     "given": "Y."
+    }
+   ],
+   "date": "2023",
+   "title": "A lighting consistency technique for outdoor Augmented Reality systems based on multi-source geo-information",
+   "is_part_of": [
+    "ISPRS International Journal of Geo-Information"
+   ],
+   "volume": "12",
+   "issue": "8",
+   "pages": "324",
+   "doi": "10.3390/IJGI12080324",
+   "language": "eng"
+  }
+ ]
+}

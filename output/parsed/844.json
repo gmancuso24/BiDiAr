@@ -1,0 +1,1238 @@
+{
+ "citing_aec_id": 844,
+ "source_file": "data/journal/27/844.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Aceto F. 2001, *La sculpture de Charles Ier d'Anjou à la mort de Jeanne Ière (1266-1382)*, in *L'Europe des Anjou. Aventure des princes angevins du XIIIe au XVe siècle. Catalogue de l'exposition (Fontevraud 2001)*, Paris, Somogy, 75-87.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Aceto",
+     "given": "F."
+    }
+   ],
+   "date": "2001",
+   "title": "La sculpture de Charles Ier d'Anjou à la mort de Jeanne Ière (1266-1382)",
+   "is_part_of": [
+    "L'Europe des Anjou. Aventure des princes angevins du XIIIe au XVe siècle. Catalogue de l'exposition (Fontevraud 2001)"
+   ],
+   "pages": "75-87",
+   "publisher": "Somogy",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Aceto F. 2011, *Tino di Camaino a Napoli*, in R. Bartalini (ed.), *Scultura gotica senese (1260-1350)*, Torino, Umberto Allemandi&C, 183-231.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Aceto",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bartalini",
+     "given": "R."
+    }
+   ],
+   "date": "2011",
+   "title": "Tino di Camaino a Napoli",
+   "is_part_of": [
+    "Scultura gotica senese (1260-1350)"
+   ],
+   "pages": "183-231",
+   "publisher": "Umberto Allemandi & C.",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Aceto F., D'Ovidio S., Scirocco E. (eds.) 2014, *Committenza artistica, vita religiosa e progettualità politica nella Napoli di Roberto d'Angiò e Sancia di Maiorca. La chiesa di Santa Chiara. Atti del Convegno (Napoli 2011)*, Battipaglia, Laveglia&Carlone.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Aceto",
+     "given": "F."
+    },
+    {
+     "family": "D'Ovidio",
+     "given": "S."
+    },
+    {
+     "family": "Scirocco",
+     "given": "E."
+    }
+   ],
+   "date": "2014",
+   "title": "Committenza artistica, vita religiosa e progettualità politica nella Napoli di Roberto d'Angiò e Sancia di Maiorca. La chiesa di Santa Chiara. Atti del Convegno (Napoli 2011)",
+   "publisher": "Laveglia & Carlone",
+   "place": "Battipaglia",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Andaloro M. (ed.) 2006, *Nobiles Officinae. Perle, filigrane e trame di seta dal Palazzo Reale di Palermo. Catalogo della mostra (Palermo, Vienna 2003-2004)*, I-II, Catania, Maimone.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Andaloro",
+     "given": "M."
+    }
+   ],
+   "date": "2006",
+   "title": "Nobiles Officinae. Perle, filigrane e trame di seta dal Palazzo Reale di Palermo. Catalogo della mostra (Palermo, Vienna 2003-2004)",
+   "publisher": "Maimone",
+   "place": "Catania",
+   "language": "ita",
+   "notes": "cited as I-II (two volumes)",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Andaloro M. 2011, *Il Palazzo Reale di Palermo*, Modena, Cosimo Panini.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Andaloro",
+     "given": "M."
+    }
+   ],
+   "date": "2011",
+   "title": "Il Palazzo Reale di Palermo",
+   "publisher": "Cosimo Panini",
+   "place": "Modena",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Baldelli F. 2007, *Tino di Camaino*, Morbio Inferiore, Selective Art.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Baldelli",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "Tino di Camaino",
+   "publisher": "Selective Art",
+   "place": "Morbio Inferiore",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Bertaux É. 1898, *Santa Chiara de Naples. L'église et le monastère des religieuses*, «Mélanges d'Archeologie et d'Histoire», 18, 165-198.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bertaux",
+     "given": "É."
+    }
+   ],
+   "date": "1898",
+   "title": "Santa Chiara de Naples. L'église et le monastère des religieuses",
+   "is_part_of": [
+    "Mélanges d'Archeologie et d'Histoire"
+   ],
+   "volume": "18",
+   "pages": "165-198",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Bertaux É. 1904, *L'art dans l'Italie méridionale*, Paris, Fontemoing.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bertaux",
+     "given": "É."
+    }
+   ],
+   "date": "1904",
+   "title": "L'art dans l'Italie méridionale",
+   "publisher": "Fontemoing",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Bock N. 2011, *Kunst am Hofe der Anjou-Durazzo. Der Bildhauer Antonio Baboccio (1351-ca. 1423)*, München-Berlin, Dt. Kunstverlag.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bock",
+     "given": "N."
+    }
+   ],
+   "date": "2011",
+   "title": "Kunst am Hofe der Anjou-Durazzo. Der Bildhauer Antonio Baboccio (1351-ca. 1423)",
+   "publisher": "Dt. Kunstverlag",
+   "place": "München-Berlin",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Bologna F. 1969, *I pittori alla corte angioina di Napoli 1266-1414 e un riesame dell'arte nell'età fridericiana*, Roma, Ugo Bozzi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bologna",
+     "given": "F."
+    }
+   ],
+   "date": "1969",
+   "title": "I pittori alla corte angioina di Napoli 1266-1414 e un riesame dell'arte nell'età fridericiana",
+   "publisher": "Ugo Bozzi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Bove F. 2014, *La Rocca dei Rettori e i sistemi di difesa della città di Benevento dal Medioevo all'Unità d'Italia*, Soveria Mannelli, Rubbettino.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bove",
+     "given": "F."
+    }
+   ],
+   "date": "2014",
+   "title": "La Rocca dei Rettori e i sistemi di difesa della città di Benevento dal Medioevo all'Unità d'Italia",
+   "publisher": "Rubbettino",
+   "place": "Soveria Mannelli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Braun G., Hohenberg F., *Civitates orbis terrarum*, 5, Köln 1598.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Braun",
+     "given": "G."
+    },
+    {
+     "family": "Hohenberg",
+     "given": "F."
+    }
+   ],
+   "date": "1598",
+   "title": "Civitates orbis terrarum",
+   "volume": "5",
+   "place": "Köln",
+   "language": "lat",
+   "notes": "cited without 'year' after the authors; date taken from 'Köln 1598'",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Brenk B. (ed.) 2010, *La Cappella Palatina a Palermo*, Modena, Cosimo Panini.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Brenk",
+     "given": "B."
+    }
+   ],
+   "date": "2010",
+   "title": "La Cappella Palatina a Palermo",
+   "publisher": "Cosimo Panini",
+   "place": "Modena",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Bruzelius C. 2004, *The Stones of Naples. Church Building in the Angevin Naples 1266-1343*, New Haven-New York, Yale University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bruzelius",
+     "given": "C."
+    }
+   ],
+   "date": "2004",
+   "title": "The Stones of Naples. Church Building in the Angevin Naples 1266-1343",
+   "publisher": "Yale University Press",
+   "place": "New Haven-New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Bruzelius C. 2014, *The Norman Cathedral of Sant'Agata in Catania*, in G. Bordi, I. Carletttini, M.L. Fobelli et al. (eds.), *L'officina dello sguardo. I luoghi dell'arte. Immagine, memoria, materia. Scritti in onore di Maria Andaloro*, Roma, Gangemi, II, 121-126.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bruzelius",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bordi",
+     "given": "G."
+    },
+    {
+     "family": "Carlettini",
+     "given": "I."
+    },
+    {
+     "family": "Fobelli",
+     "given": "M.L."
+    }
+   ],
+   "date": "2014",
+   "title": "The Norman Cathedral of Sant'Agata in Catania",
+   "is_part_of": [
+    "L'officina dello sguardo. I luoghi dell'arte. Immagine, memoria, materia. Scritti in onore di Maria Andaloro"
+   ],
+   "volume": "II",
+   "pages": "121-126",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "eng",
+   "notes": "editors cited 'et al.' (only three listed); 'Carletttini' corrected to Carlettini as in entry 40",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Cadei A. 1998, *I castelli federiciani: concezione architettonica e realizzazione tecnica*, in P. Toubert, A. Paravicini Bagliani (eds.), *Federico II e la Sicilia*, Palermo, Sellerio Editore, 183-201.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cadei",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Toubert",
+     "given": "P."
+    },
+    {
+     "family": "Paravicini Bagliani",
+     "given": "A."
+    }
+   ],
+   "date": "1998",
+   "title": "I castelli federiciani: concezione architettonica e realizzazione tecnica",
+   "is_part_of": [
+    "Federico II e la Sicilia"
+   ],
+   "pages": "183-201",
+   "publisher": "Sellerio Editore",
+   "place": "Palermo",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Caffo F. 2009, *Castello Ursino di Catania. Gli anni dei restauri 1988-2008*, Catania, Soprintendenza per i Beni culturali e ambientali.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Caffo",
+     "given": "F."
+    }
+   ],
+   "date": "2009",
+   "title": "Castello Ursino di Catania. Gli anni dei restauri 1988-2008",
+   "publisher": "Soprintendenza per i Beni culturali e ambientali",
+   "place": "Catania",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Chelazzi Dini G. 1996, *Pacio e Giovanni Bertini da Firenze e la bottega napoletana di Tino di Camaino*, Prato, Martini.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chelazzi Dini",
+     "given": "G."
+    }
+   ],
+   "date": "1996",
+   "title": "Pacio e Giovanni Bertini da Firenze e la bottega napoletana di Tino di Camaino",
+   "publisher": "Martini",
+   "place": "Prato",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Chierici G. 1892, *La Sicilia illustrata nella storia, nell'arte, nei paesi*, Milano, Sonzogno.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chierici",
+     "given": "G."
+    }
+   ],
+   "date": "1892",
+   "title": "La Sicilia illustrata nella storia, nell'arte, nei paesi",
+   "publisher": "Sonzogno",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Cianciolo Cosentino G. 2007, *Francesco Saverio Cavallari. Architetto senza frontiere tra Sicilia, Germania e Messico*, Palermo, Caracol.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cianciolo Cosentino",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "Francesco Saverio Cavallari. Architetto senza frontiere tra Sicilia, Germania e Messico",
+   "publisher": "Caracol",
+   "place": "Palermo",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Cometa M. 1999, *Il romanzo dell'architettura: la Sicilia e il Grand Tour nell'età di Goethe*, Roma, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cometa",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Il romanzo dell'architettura: la Sicilia e il Grand Tour nell'età di Goethe",
+   "publisher": "Laterza",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "De Felice E., Sbriziolo E., Fedele R. 1990, *La Rocca dei Rettori di Benevento. Rapporto tra storia e progetto*, Napoli, Sintesi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "De Felice",
+     "given": "E."
+    },
+    {
+     "family": "Sbriziolo",
+     "given": "E."
+    },
+    {
+     "family": "Fedele",
+     "given": "R."
+    }
+   ],
+   "date": "1990",
+   "title": "La Rocca dei Rettori di Benevento. Rapporto tra storia e progetto",
+   "publisher": "Sintesi",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "De Seta C. (ed.) 2001, *Grand Tour: viaggi narrati e dipinti*, Napoli, Electa.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "De Seta",
+     "given": "C."
+    }
+   ],
+   "date": "2001",
+   "title": "Grand Tour: viaggi narrati e dipinti",
+   "publisher": "Electa",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "De Seta C. (ed.) 2006, *Iconografia delle città in Campania: Napoli e i centri della provincia*, Napoli, Electa.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "De Seta",
+     "given": "C."
+    }
+   ],
+   "date": "2006",
+   "title": "Iconografia delle città in Campania: Napoli e i centri della provincia",
+   "publisher": "Electa",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "De Seta C. (ed.) 2007, *Iconografia delle città in Campania: le province di Avellino, Benevento, Caserta, Salerno*, Napoli, Electa.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "De Seta",
+     "given": "C."
+    }
+   ],
+   "date": "2007",
+   "title": "Iconografia delle città in Campania: le province di Avellino, Benevento, Caserta, Salerno",
+   "publisher": "Electa",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Di Blasi A. 2000, *Il Castello Ursino di Catania e il suo ruolo territoriale*, in G. Arena, A. Riggio, P. Visocchi (eds.), *Monastero e Castello nella costruzione del paesaggio. I seminario di geografia storica (Cassino 1994)*, Perugia, Rux, 361-365.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Di Blasi",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Arena",
+     "given": "G."
+    },
+    {
+     "family": "Riggio",
+     "given": "A."
+    },
+    {
+     "family": "Visocchi",
+     "given": "P."
+    }
+   ],
+   "date": "2000",
+   "title": "Il Castello Ursino di Catania e il suo ruolo territoriale",
+   "is_part_of": [
+    "Monastero e Castello nella costruzione del paesaggio. I seminario di geografia storica (Cassino 1994)"
+   ],
+   "pages": "361-365",
+   "publisher": "Rux",
+   "place": "Perugia",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Demus O. 1998, *Studies in Byzantium Venice and the West*, London, Pindar Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Demus",
+     "given": "O."
+    }
+   ],
+   "date": "1998",
+   "title": "Studies in Byzantium Venice and the West",
+   "publisher": "Pindar Press",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "D'Onofrio M. (ed.) 1994, *I Normanni popolo d'Europa 1030-1200. Catalogo della mostra (Roma 1994)*, Roma, Marsilio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "D'Onofrio",
+     "given": "M."
+    }
+   ],
+   "date": "1994",
+   "title": "I Normanni popolo d'Europa 1030-1200. Catalogo della mostra (Roma 1994)",
+   "publisher": "Marsilio",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Enderlein L. 1997, *Die Grablegen des Hauses Anjou in Unteritalien. Totenkult und Monumente 1266-1343*, Worms am Rhein, Werner.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Enderlein",
+     "given": "L."
+    }
+   ],
+   "date": "1997",
+   "title": "Die Grablegen des Hauses Anjou in Unteritalien. Totenkult und Monumente 1266-1343",
+   "publisher": "Werner",
+   "place": "Worms am Rhein",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Enlart C. 1894, *Origines françaises de l'architecture gothique en Italie*, Paris, Thorin&Fils.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Enlart",
+     "given": "C."
+    }
+   ],
+   "date": "1894",
+   "title": "Origines françaises de l'architecture gothique en Italie",
+   "publisher": "Thorin & Fils",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Gaglione M. 1996, *Nuovi studi sulla basilica di Santa Chiara in Napoli*, Napoli, Thorin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gaglione",
+     "given": "M."
+    }
+   ],
+   "date": "1996",
+   "title": "Nuovi studi sulla basilica di Santa Chiara in Napoli",
+   "publisher": "Thorin",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Gaglione M. 2007, *La Basilica ed il monastero doppio di S. Chiara a Napoli in studi recenti*, «Archivio per la Storia delle donne», 4, 127-209.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gaglione",
+     "given": "M."
+    }
+   ],
+   "date": "2007",
+   "title": "La Basilica ed il monastero doppio di S. Chiara a Napoli in studi recenti",
+   "is_part_of": [
+    "Archivio per la Storia delle donne"
+   ],
+   "volume": "4",
+   "pages": "127-209",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Gaglione M. 2008, *Sancia d'Aragona Maiorca tra impegno di governo e attivismo francescano*, «Studi Storici», 4, 931-985.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gaglione",
+     "given": "M."
+    }
+   ],
+   "date": "2008",
+   "title": "Sancia d'Aragona Maiorca tra impegno di governo e attivismo francescano",
+   "is_part_of": [
+    "Studi Storici"
+   ],
+   "volume": "4",
+   "pages": "931-985",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Gandolfo F. 2007, *Le Cattedrali siciliane*, in A.C. Quintavalle (ed.), *Medioevo: l'Europa delle Cattedrali. Atti del Convegno (Parma 2006)*, Milano, Electa, 191-207.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gandolfo",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Quintavalle",
+     "given": "A.C."
+    }
+   ],
+   "date": "2007",
+   "title": "Le Cattedrali siciliane",
+   "is_part_of": [
+    "Medioevo: l'Europa delle Cattedrali. Atti del Convegno (Parma 2006)"
+   ],
+   "pages": "191-207",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Giuffrè M., Barbera P., Cianciolo Cosentino G. (eds.) 2006, *The Time of Schinkel and the Age of the Neoclassicism between Palermo and Berlin*, Cannitello, Biblioteca del Cenide.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Giuffrè",
+     "given": "M."
+    },
+    {
+     "family": "Barbera",
+     "given": "P."
+    },
+    {
+     "family": "Cianciolo Cosentino",
+     "given": "G."
+    }
+   ],
+   "date": "2006",
+   "title": "The Time of Schinkel and the Age of the Neoclassicism between Palermo and Berlin",
+   "publisher": "Biblioteca del Cenide",
+   "place": "Cannitello",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Gringeri Pantano F. 2009, *L'Isola del viaggio. Palazzolo Acreide, il Museo dei viaggiatori in Sicilia*, Catania, Sanfilippo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gringeri Pantano",
+     "given": "F."
+    }
+   ],
+   "date": "2009",
+   "title": "L'Isola del viaggio. Palazzolo Acreide, il Museo dei viaggiatori in Sicilia",
+   "publisher": "Sanfilippo",
+   "place": "Catania",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Leone A. 1993, *Il convento di S. Chiara e le trasformazioni urbanistiche di Napoli nel secolo XIV*, «Napoli nobilissima», 4 ser., 32, 11-16.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Leone",
+     "given": "A."
+    }
+   ],
+   "date": "1993",
+   "title": "Il convento di S. Chiara e le trasformazioni urbanistiche di Napoli nel secolo XIV",
+   "is_part_of": [
+    "Napoli nobilissima"
+   ],
+   "volume": "32",
+   "pages": "11-16",
+   "language": "ita",
+   "notes": "cited '4 ser., 32' (fourth series, vol. 32)",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Leone de Castris P. 1986, *Arte di corte nella Napoli angioina*, Firenze, Cantini.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Leone de Castris",
+     "given": "P."
+    }
+   ],
+   "date": "1986",
+   "title": "Arte di corte nella Napoli angioina",
+   "publisher": "Cantini",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Leone de Castris P. 2006, *Giotto a Napoli*, Napoli, Electa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Leone de Castris",
+     "given": "P."
+    }
+   ],
+   "date": "2006",
+   "title": "Giotto a Napoli",
+   "publisher": "Electa",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Longo R. 2014, *Bāb al-abnā, Sant'Andrea in Kemonia e l'ingresso normanno nel Palazzo Reale di Palermo*, in G. Bordi, I. Carlettini, M.L. Fobelli et al. (eds.), *L'officina dello sguardo. I luoghi dell'arte. Immagine, memoria, materia. Scritti in onore di Maria Andaloro*, Roma, Gangemi, I, 91-96.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Longo",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bordi",
+     "given": "G."
+    },
+    {
+     "family": "Carlettini",
+     "given": "I."
+    },
+    {
+     "family": "Fobelli",
+     "given": "M.L."
+    }
+   ],
+   "date": "2014",
+   "title": "Bāb al-abnā, Sant'Andrea in Kemonia e l'ingresso normanno nel Palazzo Reale di Palermo",
+   "is_part_of": [
+    "L'officina dello sguardo. I luoghi dell'arte. Immagine, memoria, materia. Scritti in onore di Maria Andaloro"
+   ],
+   "volume": "I",
+   "pages": "91-96",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "editors cited 'et al.' (only three listed)",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Lucherini V. 2009, *La Cattedrale di Napoli. Storia, architettura, storiografia di un monumento medievale*, Rome, École française de Rome.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lucherini",
+     "given": "V."
+    }
+   ],
+   "date": "2009",
+   "title": "La Cattedrale di Napoli. Storia, architettura, storiografia di un monumento medievale",
+   "publisher": "École française de Rome",
+   "place": "Rome",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Lucherini V. 2011, *Le tombe angioine nel presbiterio di Santa Chiara a Napoli e la politica funeraria di Roberto d'Angiò*, in A.C. Quintavalle (ed.), *Medioevo: i committenti. Atti del Convegno (Parma 2010)*, Milano, Electa, 477-504.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lucherini",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Quintavalle",
+     "given": "A.C."
+    }
+   ],
+   "date": "2011",
+   "title": "Le tombe angioine nel presbiterio di Santa Chiara a Napoli e la politica funeraria di Roberto d'Angiò",
+   "is_part_of": [
+    "Medioevo: i committenti. Atti del Convegno (Parma 2010)"
+   ],
+   "pages": "477-504",
+   "publisher": "Electa",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Mangone F. 2002, *Viaggi a sud: gli architetti nordici e l'Italia, 1850-1925*, Napoli, Electa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mangone",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "Viaggi a sud: gli architetti nordici e l'Italia, 1850-1925",
+   "publisher": "Electa",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Maurici F. 1997, *Federico II e la Sicilia. I castelli dell'imperatore*, Catania, Maimone.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Maurici",
+     "given": "F."
+    }
+   ],
+   "date": "1997",
+   "title": "Federico II e la Sicilia. I castelli dell'imperatore",
+   "publisher": "Maimone",
+   "place": "Catania",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Michalsky T. 2000, *Memoria und Repräsentation. Die Grabmäler des Königshauses Anjou in Italien*, Göttingen, Vandenhoeck&Ruprecht.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Michalsky",
+     "given": "T."
+    }
+   ],
+   "date": "2000",
+   "title": "Memoria und Repräsentation. Die Grabmäler des Königshauses Anjou in Italien",
+   "publisher": "Vandenhoeck & Ruprecht",
+   "place": "Göttingen",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Pellé C. 1840, *Les îles et les bords de la Méditerranée*, London, Fisher.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Pellé",
+     "given": "C."
+    }
+   ],
+   "date": "1840",
+   "title": "Les îles et les bords de la Méditerranée",
+   "publisher": "Fisher",
+   "place": "London",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "Santoro L. 1972, *La rocca dei Rettori e la cinta fortificata di Benevento*, in *Scritti in onore di Roberto Pane*, Napoli, Istituto di Storia dell'architettura dell'Università, 129-147.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Santoro",
+     "given": "L."
+    }
+   ],
+   "date": "1972",
+   "title": "La rocca dei Rettori e la cinta fortificata di Benevento",
+   "is_part_of": [
+    "Scritti in onore di Roberto Pane"
+   ],
+   "pages": "129-147",
+   "publisher": "Istituto di Storia dell'architettura dell'Università",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "Scamardi T. 1998, *Viaggiatori tedeschi in Calabria: dal Grand Tour al turismo di massa*, Soveria Mannelli, Rubbettino.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Scamardi",
+     "given": "T."
+    }
+   ],
+   "date": "1998",
+   "title": "Viaggiatori tedeschi in Calabria: dal Grand Tour al turismo di massa",
+   "publisher": "Rubbettino",
+   "place": "Soveria Mannelli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "Smecca P.D. 2006, *Viaggiatori britannici e francesi in Sicilia (1500-1915): bibliografia commentata*, Lugano, Agorà.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Smecca",
+     "given": "P.D."
+    }
+   ],
+   "date": "2006",
+   "title": "Viaggiatori britannici e francesi in Sicilia (1500-1915): bibliografia commentata",
+   "publisher": "Agorà",
+   "place": "Lugano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "Tronzo W. 1997, *The Cultures of His Kingdom. Roger II and the Cappella Palatina in Palermo*, Princeton, Princeton University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tronzo",
+     "given": "W."
+    }
+   ],
+   "date": "1997",
+   "title": "The Cultures of His Kingdom. Roger II and the Cappella Palatina in Palermo",
+   "publisher": "Princeton University Press",
+   "place": "Princeton",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 51,
+   "raw": "Tuzet H. 1988, *Viaggiatori stranieri in Sicilia nel XVIII secolo*, Palermo, Sellerio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Tuzet",
+     "given": "H."
+    }
+   ],
+   "date": "1988",
+   "title": "Viaggiatori stranieri in Sicilia nel XVIII secolo",
+   "publisher": "Sellerio",
+   "place": "Palermo",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "Venditti A. 1969, *Urbanistica e architettura angioina*, in *Storia di Napoli*, III, *Napoli angioina*, Napoli, Edizioni Scientifiche, 665-829.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Venditti",
+     "given": "A."
+    }
+   ],
+   "date": "1969",
+   "title": "Urbanistica e architettura angioina",
+   "is_part_of": [
+    "Storia di Napoli, III, Napoli angioina"
+   ],
+   "pages": "665-829",
+   "publisher": "Edizioni Scientifiche",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 53,
+   "raw": "Vitolo P. 2008, *La chiesa della Regina. L'Incoronata di Napoli, Giovanna I d'Angiò e Roberto di Oderisio*, Roma, Viella.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Vitolo",
+     "given": "P."
+    }
+   ],
+   "date": "2008",
+   "title": "La chiesa della Regina. L'Incoronata di Napoli, Giovanna I d'Angiò e Roberto di Oderisio",
+   "publisher": "Viella",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 54,
+   "raw": "Vitolo P. 2009, *Imprese artistiche e modelli di regalità al femminile nella Napoli della prima età angioina*, «Archivio Storico per le Province Napoletane», 126, 1-54.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vitolo",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Imprese artistiche e modelli di regalità al femminile nella Napoli della prima età angioina",
+   "is_part_of": [
+    "Archivio Storico per le Province Napoletane"
+   ],
+   "volume": "126",
+   "pages": "1-54",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 55,
+   "raw": "Vitolo P. 2010, *Immagini religiose e rappresentazione del potere nell'arte napoletana durante il regno di Giovanna I d'Angiò (1343-1382)*, in P. Ventrone, L. Gaffuri (eds.), *Immagini, culti, liturgie. Le connotazioni politiche del messaggio religioso. Atti del Convegno (Milano 2009)*, Annali di Storia moderna e contemporanea, 16, 249-270.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vitolo",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ventrone",
+     "given": "P."
+    },
+    {
+     "family": "Gaffuri",
+     "given": "L."
+    }
+   ],
+   "date": "2010",
+   "title": "Immagini religiose e rappresentazione del potere nell'arte napoletana durante il regno di Giovanna I d'Angiò (1343-1382)",
+   "is_part_of": [
+    "Immagini, culti, liturgie. Le connotazioni politiche del messaggio religioso. Atti del Convegno (Milano 2009)",
+    "Annali di Storia moderna e contemporanea"
+   ],
+   "volume": "16",
+   "pages": "249-270",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 56,
+   "raw": "Vitolo P. in press, *The tomb of Mary of Aragon in the Catania Cathedral as a representation of the political context in the Aragonese Kingdom of Sicily*.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Vitolo",
+     "given": "P."
+    }
+   ],
+   "date": "c.s.",
+   "title": "The tomb of Mary of Aragon in the Catania Cathedral as a representation of the political context in the Aragonese Kingdom of Sicily",
+   "language": "eng",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title and author + key words (Italian/English): no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 57,
+   "raw": "Warr C., Elliott J. (eds.) 2008, *Import/Export: Painting, Sculpture and Architecture in the Kingdom of Naples 1266-1713*, «Art History», 31, 4.",
+   "type": "other",
+   "editors": [
+    {
+     "family": "Warr",
+     "given": "C."
+    },
+    {
+     "family": "Elliott",
+     "given": "J."
+    }
+   ],
+   "date": "2008",
+   "title": "Import/Export: Painting, Sculpture and Architecture in the Kingdom of Naples 1266-1713",
+   "is_part_of": [
+    "Art History"
+   ],
+   "volume": "31",
+   "issue": "4",
+   "language": "eng",
+   "notes": "special issue of the journal edited by Warr and Elliott",
+   "confidence": "high"
+  },
+  {
+   "position": 58,
+   "raw": "Wright G.N. 1851, *The Shores and Island of the Mediterranean*, London-Paris.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wright",
+     "given": "G.N."
+    }
+   ],
+   "date": "1851",
+   "title": "The Shores and Island of the Mediterranean",
+   "place": "London-Paris",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 59,
+   "raw": "The Kingdom of Sicily Image Database: http://kosimagedb.aahvs.duke.edu/",
+   "type": "other",
+   "title": "The Kingdom of Sicily Image Database",
+   "uri": "http://kosimagedb.aahvs.duke.edu/",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 60,
+   "raw": "Duke University, Wired! Lab: http://www.dukewired.org/",
+   "type": "other",
+   "title": "Duke University, Wired! Lab",
+   "uri": "http://www.dukewired.org/",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 61,
+   "raw": "British School at Rome, Digital Collections: http://www.bsrdigitalcollections.it",
+   "type": "other",
+   "title": "British School at Rome, Digital Collections",
+   "uri": "http://www.bsrdigitalcollections.it",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 62,
+   "raw": "Getty Art&Architecture Thesaurus: http://www.getty.edu/research/tools/vocabularies/aat/",
+   "type": "other",
+   "title": "Getty Art & Architecture Thesaurus",
+   "uri": "http://www.getty.edu/research/tools/vocabularies/aat/",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 63,
+   "raw": "Centro Interdipartimentale di Ricerca sull'iconografia della città europea: http://www.iconografiacittaeuropea.unina.it/",
+   "type": "other",
+   "title": "Centro Interdipartimentale di Ricerca sull'iconografia della città europea",
+   "uri": "http://www.iconografiacittaeuropea.unina.it/",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 64,
+   "raw": "Marburg Photo Archive: http://www.fotomarburg.de/",
+   "type": "other",
+   "title": "Marburg Photo Archive",
+   "uri": "http://www.fotomarburg.de/",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 65,
+   "raw": "The Society of Architectural Historians, SAHARA project: http://www.sah.org/publications-and-research/sahara/",
+   "type": "other",
+   "title": "The Society of Architectural Historians, SAHARA project",
+   "uri": "http://www.sah.org/publications-and-research/sahara/",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

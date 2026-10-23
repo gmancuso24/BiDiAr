@@ -1,0 +1,503 @@
+{
+ "citing_aec_id": 271,
+ "source_file": "data/journal/10/271.md",
+ "references": [
+  {
+   "raw": "ADAMS W.Y., ADAMS E.W. 1991, Archaeological Typology and Practical Reality. A Dialectic Approach to Artifact Classification and Sorting, New York.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Adams",
+     "given": "W.Y."
+    },
+    {
+     "family": "Adams",
+     "given": "E.W."
+    }
+   ],
+   "type": "book",
+   "title": "Archaeological Typology and Practical Reality. A Dialectic Approach to Artifact Classification and Sorting",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "ANDRESEN J., MADSEN T. 1992, Data structures for excavation recording. A case of complex information management, in C.U. LARSEN (ed.), Sites & Monuments. National Archaeological Records, Copenhagen, 49-67.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    }
+   ],
+   "type": "chapter",
+   "title": "Data structures for excavation recording. A case of complex information management",
+   "editors": [
+    {
+     "family": "Larsen",
+     "given": "C.U."
+    }
+   ],
+   "pages": "49-67",
+   "is_part_of": [
+    "Sites & Monuments. National Archaeological Records"
+   ],
+   "place": "Copenhagen",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "ANDRESEN J., MADSEN T. 1996a, IDEA - The Integrated Database for Excavation Analysis, in H. KAMERMANS, K. FENNEMA (eds.), Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology - CAA95, Analecta Praehistorica Leidensia, n. 28, Leiden, 3-14.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    }
+   ],
+   "type": "chapter",
+   "title": "IDEA - The Integrated Database for Excavation Analysis",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "pages": "3-14",
+   "is_part_of": [
+    "Interfacing the Past. Computer Applications and Quantitative Methods in Archaeology 1995"
+   ],
+   "place": "Leiden",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3,
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28"
+  },
+  {
+   "raw": "ANDRESEN J., MADSEN T. 1996b, Dynamic classification and description in the IDEA, in P. MOSCATI (ed.), III International Symposium on Computing and Archaeology, «Archeologia e Calcolatori», 7, 591-602.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    }
+   ],
+   "type": "article",
+   "title": "Dynamic classification and description in the IDEA",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "pages": "591-602",
+   "is_part_of": [
+    "III Convegno Internazionale di Archeologia e Informatica (Roma, 22-25 novembre 1995)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 4,
+   "volume": "7"
+  },
+  {
+   "raw": "DALLAS C. 1992a, Relational description, similarity and classification of complex archaeological entities, in G. LOCK, J. MOFFETT (eds.), Computer Applications and Quantitative Methods in Archaeology - CAA91, BAR International Series, n. 577, Oxford, 167-178.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Relational description, similarity and classification of complex archaeological entities",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Moffett",
+     "given": "J."
+    }
+   ],
+   "pages": "167-178",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology 1991"
+   ],
+   "place": "Oxford",
+   "series": "BAR International Series",
+   "series_number": "577",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "DALLAS C. 1992b, Syntax and semantics of figurative art: a formal approach, in P. REILLY, S. RAHTZ (eds.), Archaeology and the Information Age: A Global Perspective, London, Routledge, 230-275.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Dallas",
+     "given": "C."
+    }
+   ],
+   "type": "chapter",
+   "title": "Syntax and semantics of figurative art: a formal approach",
+   "editors": [
+    {
+     "family": "Reilly",
+     "given": "P."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "pages": "230-275",
+   "is_part_of": [
+    "Archaeology and the Information Age: A Global Perspective"
+   ],
+   "place": "London",
+   "publisher": "Routledge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "ELMASRI R., NAVATHE S.B. 1989, Fundamentals of Database Systems, Redwood City.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Elmasri",
+     "given": "R."
+    },
+    {
+     "family": "Navathe",
+     "given": "S.B."
+    }
+   ],
+   "type": "book",
+   "title": "Fundamentals of Database Systems",
+   "place": "Redwood City",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "HODDER I. 1982, Sequences of structural change in the Dutch Neolithic, in I. HODDER (ed.), Symbolic and Structural Archaeology, Cambridge, Cambridge University Press, 162-177.",
+   "date": "1982",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "type": "chapter",
+   "title": "Sequences of structural change in the Dutch Neolithic",
+   "editors": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "pages": "162-177",
+   "is_part_of": [
+    "Symbolic and Structural Archaeology"
+   ],
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "HODDER I. 1986, Reading the Past. Current Approaches to Interpretation in Archaeology, Cambridge, Cambridge University Press.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "type": "book",
+   "title": "Reading the Past. Current Approaches to Interpretation in Archaeology",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "HODDER I. 1992, Theory and Practice in Archaeology, London, Routledge.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "type": "book",
+   "title": "Theory and Practice in Archaeology",
+   "place": "London",
+   "publisher": "Routledge",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "HODDER I. 1997, ‘Always momentary, fluid and flexible’: towards a reflexive excavation methodology, «Antiquity», 71, 691-700.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Hodder",
+     "given": "I."
+    }
+   ],
+   "type": "article",
+   "title": "‘Always momentary, fluid and flexible’: towards a reflexive excavation methodology",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "pages": "691-700",
+   "volume": "71",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "KLAUER K.C. 1989, Ordinal network representation: Representing proximities by graphs, «Psychometrika», 54, 4, 737-750.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Klauer",
+     "given": "K.C."
+    }
+   ],
+   "type": "article",
+   "title": "Ordinal network representation: Representing proximities by graphs",
+   "is_part_of": [
+    "Psychometrika"
+   ],
+   "pages": "737-750",
+   "volume": "54",
+   "issue": "4",
+   "language": "eng",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "KRUSKAL J.B., WISH M. 1978, Multidimensional Scaling, Quantitative Applications in the Social Sciences, n. 11, Beverly Hills.",
+   "date": "1978",
+   "creators": [
+    {
+     "family": "Kruskal",
+     "given": "J.B."
+    },
+    {
+     "family": "Wish",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Multidimensional Scaling",
+   "place": "Beverly Hills",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13,
+   "series": "Quantitative Applications in the Social Sciences",
+   "series_number": "11"
+  },
+  {
+   "raw": "MADSEN T. 1998, Digitaliseret registrering af udgravninger - er der brug for datastandarder og fælles strategier?, in H.J. HANSEN, V. ØDEGAARD (eds.), De nordiske museer og informationsteknologien - rapport fra en konference 1.-3. December 1996, TemaNord, 513, København, 167-177.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Madsen",
+     "given": "T."
+    }
+   ],
+   "type": "chapter",
+   "title": "Digitaliseret registrering af udgravninger - er der brug for datastandarder og fælles strategier?",
+   "editors": [
+    {
+     "family": "Hansen",
+     "given": "H.J."
+    },
+    {
+     "family": "Ødegaard",
+     "given": "V."
+    }
+   ],
+   "pages": "167-177",
+   "is_part_of": [
+    "De nordiske museer og informationsteknologien - rapport fra en konference 1.-3. December 1996, TemaNord, 513"
+   ],
+   "place": "København",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "MADSEN T. 1999, Digital recording of excavations - do we need data standards and common strategies?, in H.J. HANSEN, G. QUINE (eds.), Our Fragile World. Recording the Past for the Future. National Museum, Copenhagen.",
+   "date": "1999",
+   "creators": [
+    {
+     "family": "Madsen",
+     "given": "T."
+    }
+   ],
+   "type": "chapter",
+   "title": "Digital recording of excavations - do we need data standards and common strategies?",
+   "editors": [
+    {
+     "family": "Hansen",
+     "given": "H.J."
+    },
+    {
+     "family": "Quine",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Our Fragile World. Recording the Past for the Future. National Museum"
+   ],
+   "place": "Copenhagen",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "MONTELIUS O. 1884, Den forhistoriska fornforskarens metod och material, «Antikvarisk Tidskrift för Sverige», 8, 3, 1-28.",
+   "date": "1884",
+   "creators": [
+    {
+     "family": "Montelius",
+     "given": "O."
+    }
+   ],
+   "type": "article",
+   "title": "Den forhistoriska fornforskarens metod och material",
+   "is_part_of": [
+    "Antikvarisk Tidskrift för Sverige"
+   ],
+   "pages": "1-28",
+   "volume": "8",
+   "issue": "3",
+   "language": "ger",
+   "confidence": "high",
+   "position": 16
+  },
+  {
+   "raw": "MÜLLER S. 1884, Mindre Bidrag til den forhistoriske Archaeologis methode, «Aarbøger for Nordisk Oldkyndighed og Historie».",
+   "date": "1884",
+   "creators": [
+    {
+     "family": "Müller",
+     "given": "S."
+    }
+   ],
+   "type": "article",
+   "title": "Mindre Bidrag til den forhistoriske Archaeologis methode",
+   "is_part_of": [
+    "Aarbøger for Nordisk Oldkyndighed og Historie"
+   ],
+   "language": "ger",
+   "confidence": "high",
+   "position": 17
+  },
+  {
+   "raw": "MÜLLER S. 1918, Stenalderens Kunst i Danmark, København.",
+   "date": "1918",
+   "creators": [
+    {
+     "family": "Müller",
+     "given": "S."
+    }
+   ],
+   "type": "book",
+   "title": "Stenalderens Kunst i Danmark",
+   "place": "København",
+   "language": "eng",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "RICHARDS W., KOENDERINK J.J. 1995, Trajectory mapping: A new non-metric scaling technique, «Perception», 24, 1315-1331.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Richards",
+     "given": "W."
+    },
+    {
+     "family": "Koenderink",
+     "given": "J.J."
+    }
+   ],
+   "type": "article",
+   "title": "Trajectory mapping: A new non-metric scaling technique",
+   "is_part_of": [
+    "Perception"
+   ],
+   "pages": "1315-1331",
+   "volume": "24",
+   "language": "eng",
+   "confidence": "high",
+   "position": 19
+  },
+  {
+   "raw": "SHENNAN S. 1988, Quantifying Archaeology, Edinburgh, Edinburgh University Press.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Shennan",
+     "given": "S."
+    }
+   ],
+   "type": "book",
+   "title": "Quantifying Archaeology",
+   "place": "Edinburgh",
+   "publisher": "Edinburgh University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 20
+  },
+  {
+   "raw": "VAN DE VELDE P. 1980, Elsloo and Hienheim: Bandkeramik Social Structure, Analecta Praehistorica Leidensia, n. 12, Leiden.",
+   "date": "1980",
+   "creators": [
+    {
+     "family": "Van de Velde",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "Elsloo and Hienheim: Bandkeramik Social Structure",
+   "place": "Leiden",
+   "language": "eng",
+   "confidence": "high",
+   "position": 21,
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "12"
+  }
+ ]
+}

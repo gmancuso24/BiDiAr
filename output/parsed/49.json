@@ -1,0 +1,217 @@
+{
+ "citing_aec_id": 49,
+ "source_file": "data/journal/4/49.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "ADAMO G. 1987, La codifica come rappresentazione, in G. GIGLIOZZI (ed.), Studi di codifica e trattamento automatico di testi, Roma, Bulzoni, 39-84.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Adamo",
+     "given": "G."
+    }
+   ],
+   "date": "1987",
+   "title": "La codifica come rappresentazione",
+   "editors": [
+    {
+     "family": "Gigliozzi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Studi di codifica e trattamento automatico di testi"
+   ],
+   "pages": "39-84",
+   "publisher": "Bulzoni",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "DJINDJIAN F. 1991, Méthodes pour l'archéologie, Paris, A. Colin.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "date": "1991",
+   "title": "Méthodes pour l'archéologie",
+   "place": "Paris",
+   "publisher": "A. Colin",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "GARDIN J.-Cl. 1980, Archaeological Constructs, Cambridge - Paris, Cambridge University Press - Editions de la Maison des Sciences de l'Homme.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    }
+   ],
+   "date": "1980",
+   "title": "Archaeological Constructs",
+   "place": "Cambridge - Paris",
+   "publisher": "Cambridge University Press - Editions de la Maison des Sciences de l'Homme",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "GUIMIER-SORBETS A.-M. 1986, The Research Centre for Automatic Treatments in Classical Archaeology, «Computer and the Humanities », 20, 319-321.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "date": "1986",
+   "title": "The Research Centre for Automatic Treatments in Classical Archaeology",
+   "is_part_of": [
+    "Computers and the Humanities"
+   ],
+   "volume": "20",
+   "pages": "319-321",
+   "notes": "'Computer and the Humanities' as cited",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "GARTUA J.E. 1991, The Computer and the Historian's Work, « History and Computing », 3.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gartua",
+     "given": "J.E."
+    }
+   ],
+   "date": "1991",
+   "title": "The Computer and the Historian's Work",
+   "is_part_of": [
+    "History and Computing"
+   ],
+   "volume": "3",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "KRINZINGER F., SCHICK M., TEEGEN W.R. 1990, Un calcolatore disegna e registra ceramica antica: il sistema ARCOS-1 negli scavi di Velia, comune di Ascea (Salerno),« Archeologia e Calcolatori», 1, 179-209.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Krinzinger",
+     "given": "F."
+    },
+    {
+     "family": "Schick",
+     "given": "M."
+    },
+    {
+     "family": "Teegen",
+     "given": "W.R."
+    }
+   ],
+   "date": "1990",
+   "title": "Un calcolatore disegna e registra ceramica antica: il sistema ARCOS-1 negli scavi di Velia, comune di Ascea (Salerno)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "179-209",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "ORLANDI T. 1990, Informatica Umanistica, Roma, La Nuova Italia Scientifica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "1990",
+   "title": "Informatica Umanistica",
+   "place": "Roma",
+   "publisher": "La Nuova Italia Scientifica",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "ORLANDI T. 1992, Informatica umanistica, realizzazioni e prospettive, in AA. VV., Calcolatori e Scienze Umane, Milano, Etas Libri, 1-22.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "date": "1992",
+   "title": "Informatica umanistica, realizzazioni e prospettive",
+   "is_part_of": [
+    "Calcolatori e Scienze Umane"
+   ],
+   "pages": "1-22",
+   "publisher": "Etas Libri",
+   "place": "Milano",
+   "notes": "AA.VV. volume, no editors",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "SPAULDING A.C. 1971, Some Elements of Quantitative Archaeology, in F.R. HoosON et al. (edd.), Mathematics in the Archaeological and Historical Sciences, Edinburgh.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Spaulding",
+     "given": "A.C."
+    }
+   ],
+   "date": "1971",
+   "title": "Some Elements of Quantitative Archaeology",
+   "editors": [
+    {
+     "family": "Hodson",
+     "given": "F.R."
+    }
+   ],
+   "is_part_of": [
+    "Mathematics in the Archaeological and Historical Sciences"
+   ],
+   "place": "Edinburgh",
+   "notes": "'et al.' co-editors not listed; 'HoosON' read as Hodson",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "TRIGGER B.G. 1989, A History of Archaeological Thought, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Trigger",
+     "given": "B.G."
+    }
+   ],
+   "date": "1989",
+   "title": "A History of Archaeological Thought",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

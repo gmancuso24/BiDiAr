@@ -1,0 +1,1350 @@
+{
+ "citing_aec_id": 1388,
+ "source_file": "data/journal/36/1388.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "3D-Icons 2014, *3D-ICONS Guidelines & Case Studies*.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "3D-Icons",
+     "given": ""
+    }
+   ],
+   "date": "2014",
+   "title": "3D-ICONS Guidelines & Case Studies",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Adamopoulos E., Rinaudo F., Ardissono L. 2021, *A critical comparison of 3D digitization techniques for heritage objects*, «ISPRS International Journal of Geo-Information», 10, 1, 10 (https://doi.org/10.3390/ijgi10010010).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Adamopoulos",
+     "given": "E."
+    },
+    {
+     "family": "Rinaudo",
+     "given": "F."
+    },
+    {
+     "family": "Ardissono",
+     "given": "L."
+    }
+   ],
+   "date": "2021",
+   "title": "A critical comparison of 3D digitization techniques for heritage objects",
+   "is_part_of": [
+    "ISPRS International Journal of Geo-Information"
+   ],
+   "volume": "10",
+   "issue": "1",
+   "pages": "10",
+   "doi": "10.3390/ijgi10010010",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "Artec3D Conditions 2024, *Operating Conditions for Artec 3D Scanners*, Artec Support Center (https://support.artec3d.com/hc/en-us/articles/207741015-Operating-conditions-for-Artec-3D-scanners).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Artec3D",
+     "given": ""
+    }
+   ],
+   "date": "2024",
+   "title": "Operating Conditions for Artec 3D Scanners",
+   "publisher": "Artec Support Center",
+   "uri": "https://support.artec3d.com/hc/en-us/articles/207741015-Operating-conditions-for-Artec-3D-scanners",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Artec3D HD 2024, *HD Mode for 3D Scanners. Powered by Artec 3D AI Engine* (https://www.artec3d.com/portable-3d-scanners/hd-mode).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Artec3D",
+     "given": ""
+    }
+   ],
+   "date": "2024",
+   "title": "HD Mode for 3D Scanners. Powered by Artec 3D AI Engine",
+   "uri": "https://www.artec3d.com/portable-3d-scanners/hd-mode",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Artec3D Manual 2023, *Artec Studio 18 User Guide* (https://docs.artec-group.com/as/18/en/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Artec3D",
+     "given": ""
+    }
+   ],
+   "date": "2023",
+   "title": "Artec Studio 18 User Guide",
+   "uri": "https://docs.artec-group.com/as/18/en/",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Athanasiou E., Faka M., Hermon S., Vassallo V., Yiakoupi K. 2013, *3D documentation pipeline of Cultural Heritage artifacts: A cross-disciplinary implementation*, in *2013 Digital Heritage International Congress (DigitalHeritage)*, 145-152 (https://doi.org/10.1109/DigitalHeritage.2013.6743724).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Athanasiou",
+     "given": "E."
+    },
+    {
+     "family": "Faka",
+     "given": "M."
+    },
+    {
+     "family": "Hermon",
+     "given": "S."
+    },
+    {
+     "family": "Vassallo",
+     "given": "V."
+    },
+    {
+     "family": "Yiakoupi",
+     "given": "K."
+    }
+   ],
+   "date": "2013",
+   "title": "3D documentation pipeline of Cultural Heritage artifacts: A cross-disciplinary implementation",
+   "is_part_of": [
+    "2013 Digital Heritage International Congress (DigitalHeritage)"
+   ],
+   "pages": "145-152",
+   "doi": "10.1109/DigitalHeritage.2013.6743724",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Bezzi L., Bezzi A., Gietl R., Moraes C., Naponiello G., Airò S., Putzer A., Silvestri E. 2024, *Digital twins of archaeological finds: Open source technologies applied to 3D scanning*, «Archeologia e Calcolatori», 35.2, 203-214 (https://doi.org/10.19282/ac.35.2.2024.22).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bezzi",
+     "given": "L."
+    },
+    {
+     "family": "Bezzi",
+     "given": "A."
+    },
+    {
+     "family": "Gietl",
+     "given": "R."
+    },
+    {
+     "family": "Moraes",
+     "given": "C."
+    },
+    {
+     "family": "Naponiello",
+     "given": "G."
+    },
+    {
+     "family": "Airò",
+     "given": "S."
+    },
+    {
+     "family": "Putzer",
+     "given": "A."
+    },
+    {
+     "family": "Silvestri",
+     "given": "E."
+    }
+   ],
+   "date": "2024",
+   "title": "Digital twins of archaeological finds: Open source technologies applied to 3D scanning",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "203-214",
+   "doi": "10.19282/ac.35.2.2024.22",
+   "language": "eng",
+   "cited_aec_id": 1342
+  },
+  {
+   "position": 8,
+   "raw": "Bosco A. 2022, *3D Surveying Methods and Digital Information Management for Archaeological Heritage*, BAR Publishing (https://doi.org/10.30861/9781407359731).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bosco",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "3D Surveying Methods and Digital Information Management for Archaeological Heritage",
+   "publisher": "BAR Publishing",
+   "doi": "10.30861/9781407359731",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Brize P., Schulz-Brize T., Söğüt B. 2024, *Neue Überlegungen zur Anbringung der Inschriften am Hekate-Tempel von Lagina*, «Archäologischer Anzeiger», 1-56 (https://doi.org/10.34780/8df0-09fd).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brize",
+     "given": "P."
+    },
+    {
+     "family": "Schulz-Brize",
+     "given": "T."
+    },
+    {
+     "family": "Söğüt",
+     "given": "B."
+    }
+   ],
+   "date": "2024",
+   "title": "Neue Überlegungen zur Anbringung der Inschriften am Hekate-Tempel von Lagina",
+   "is_part_of": [
+    "Archäologischer Anzeiger"
+   ],
+   "pages": "1-56",
+   "doi": "10.34780/8df0-09fd",
+   "language": "ger"
+  },
+  {
+   "position": 10,
+   "raw": "Campana S. 2014, *3D modelling in archaeology and cultural heritage - Theory and best practice*, in *3D Recording and Modelling in Archaeology and Cultural Heritage: Theory and Best Practices*, Oxford, Archaeopress, 7-12.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "date": "2014",
+   "title": "3D modelling in archaeology and cultural heritage - Theory and best practice",
+   "is_part_of": [
+    "3D Recording and Modelling in Archaeology and Cultural Heritage: Theory and Best Practices"
+   ],
+   "pages": "7-12",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Carlson E.S. 2014, *Representation and structure conflict in the digital age: Reassessing archaeological illustration and the use of cubist techniques in depicting images of the past*, «Advances in Archaeological Practice», 2, 4, 269-284 (https://doi.org/10.7183/2326-3768.2.4.269).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carlson",
+     "given": "E.S."
+    }
+   ],
+   "date": "2014",
+   "title": "Representation and structure conflict in the digital age: Reassessing archaeological illustration and the use of cubist techniques in depicting images of the past",
+   "is_part_of": [
+    "Advances in Archaeological Practice"
+   ],
+   "volume": "2",
+   "issue": "4",
+   "pages": "269-284",
+   "doi": "10.7183/2326-3768.2.4.269",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Cerasoni J.N., Do Nascimento Rodrigues F., Tang Y., Hallett E.Y. 2022, *Do-It-Yourself digital archaeology: Introduction and practical applications of photography and photogrammetry for the 2D and 3D representation of small objects and artefacts*, «PLOS ONE», 17, 4, e0267168 (https://doi.org/10.1371/journal.pone.0267168).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cerasoni",
+     "given": "J.N."
+    },
+    {
+     "family": "Do Nascimento Rodrigues",
+     "given": "F."
+    },
+    {
+     "family": "Tang",
+     "given": "Y."
+    },
+    {
+     "family": "Hallett",
+     "given": "E.Y."
+    }
+   ],
+   "date": "2022",
+   "title": "Do-It-Yourself digital archaeology: Introduction and practical applications of photography and photogrammetry for the 2D and 3D representation of small objects and artefacts",
+   "is_part_of": [
+    "PLOS ONE"
+   ],
+   "volume": "17",
+   "issue": "4",
+   "pages": "e0267168",
+   "doi": "10.1371/journal.pone.0267168",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Changes 2024, *CHANGES: Cultural Heritage Innovation for Next-Gen Sustainable Society* (https://www.fondazionechanges.org/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Changes",
+     "given": ""
+    }
+   ],
+   "date": "2024",
+   "title": "CHANGES: Cultural Heritage Innovation for Next-Gen Sustainable Society",
+   "uri": "https://www.fondazionechanges.org/",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Delpiano D. 2021, *Antiche e moderne tecnologie: l'applicazione delle tecniche di rilevamento tridimensionale per la rappresentazione e l'analisi dei manufatti litici*, «Archeologia e Calcolatori», 32.1, 43-62 (https://doi.org/10.19282/ac.32.1.2021.03).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Delpiano",
+     "given": "D."
+    }
+   ],
+   "date": "2021",
+   "title": "Antiche e moderne tecnologie: l’applicazione delle tecniche di rilevamento tridimensionale per la rappresentazione e l’analisi dei manufatti litici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "32",
+   "issue": "1",
+   "pages": "43-62",
+   "doi": "10.19282/ac.32.1.2021.03",
+   "language": "ita",
+   "cited_aec_id": 1126
+  },
+  {
+   "position": 15,
+   "raw": "Demetrescu E., Ferdani D. 2021, *From field archaeology to virtual reconstruction: A five steps method using the Extended Matrix*, «Applied Sciences», 11, 11, 5206 (https://doi.org/10.3390/app11115206).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    }
+   ],
+   "date": "2021",
+   "title": "From field archaeology to virtual reconstruction: A five steps method using the Extended Matrix",
+   "is_part_of": [
+    "Applied Sciences"
+   ],
+   "volume": "11",
+   "issue": "11",
+   "pages": "5206",
+   "doi": "10.3390/app11115206",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Diara F. 2023, *Structured-Light scanning and metrological analysis for archaeology: Quality assessment of Artec 3D solutions for cuneiform tablets*, «Heritage», 6, 9, 6016-6034 (https://doi.org/10.3390/heritage6090317).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Diara",
+     "given": "F."
+    }
+   ],
+   "date": "2023",
+   "title": "Structured-Light scanning and metrological analysis for archaeology: Quality assessment of Artec 3D solutions for cuneiform tablets",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "6",
+   "issue": "9",
+   "pages": "6016-6034",
+   "doi": "10.3390/heritage6090317",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Diara F. 2024, *Data extraction from 3D scanning: Post-processing filtering for analytic and informative models of small archaeological finds*, «Archeologia e Calcolatori», 35.2, 225-234 (https://doi.org/10.19282/ac.35.2.2024.24).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Diara",
+     "given": "F."
+    }
+   ],
+   "date": "2024",
+   "title": "Data extraction from 3D scanning: Post-processing filtering for analytic and informative models of small archaeological finds",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "35",
+   "issue": "2",
+   "pages": "225-234",
+   "doi": "10.19282/ac.35.2.2024.24",
+   "language": "eng",
+   "cited_aec_id": 1344
+  },
+  {
+   "position": 18,
+   "raw": "Di Maida G., Hattermann M., Delpiano D. 2023, *3D models of lithic artefacts: A test on their efficacy*, «Digital Applications in Archaeology and Cultural Heritage», 30, e00279 (https://doi.org/10.1016/j.daach.2023.e00279).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Maida",
+     "given": "G."
+    },
+    {
+     "family": "Hattermann",
+     "given": "M."
+    },
+    {
+     "family": "Delpiano",
+     "given": "D."
+    }
+   ],
+   "date": "2023",
+   "title": "3D models of lithic artefacts: A test on their efficacy",
+   "is_part_of": [
+    "Digital Applications in Archaeology and Cultural Heritage"
+   ],
+   "volume": "30",
+   "pages": "e00279",
+   "doi": "10.1016/j.daach.2023.e00279",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Duman B., Ismaelli T., Bozza S. 2024, *Il Ninfeo Monumentale di Tripolis: primi risultati tra ricostruzione storica, conservazione e valorizzazione*, in *La ricerca archeologica per la ricostruzione storica e la valorizzazione del patrimonio, XIII Convegno sul contributo italiano a scavi, ricerche e studi nelle missioni archeologiche in Turchia*, Istanbul, Edizioni Istituto Italiano di Cultura di Istanbul, 174-189.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Duman",
+     "given": "B."
+    },
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    },
+    {
+     "family": "Bozza",
+     "given": "S."
+    }
+   ],
+   "date": "2024",
+   "title": "Il Ninfeo Monumentale di Tripolis: primi risultati tra ricostruzione storica, conservazione e valorizzazione",
+   "is_part_of": [
+    "La ricerca archeologica per la ricostruzione storica e la valorizzazione del patrimonio, XIII Convegno sul contributo italiano a scavi, ricerche e studi nelle missioni archeologiche in Turchia"
+   ],
+   "pages": "174-189",
+   "publisher": "Edizioni Istituto Italiano di Cultura di Istanbul",
+   "place": "Istanbul",
+   "language": "ita"
+  },
+  {
+   "position": 20,
+   "raw": "Europeana 2024, *Discover Europe's Digital Cultural Heritage* (https://www.europeana.eu/en).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Europeana",
+     "given": ""
+    }
+   ],
+   "date": "2024",
+   "title": "Discover Europe’s Digital Cultural Heritage",
+   "uri": "https://www.europeana.eu/en",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "Galli M., Ismaelli T. 2022, *Basilica Iulia I: gli scavi di Laura Fabbrini (1960-1964): strutture, stratigrafie e materiali dalla prima età repubblicana alla costruzione Augustea*, Istanbul, Ege Yayinlari.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Galli",
+     "given": "M."
+    },
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    }
+   ],
+   "date": "2022",
+   "title": "Basilica Iulia I: gli scavi di Laura Fabbrini (1960-1964): strutture, stratigrafie e materiali dalla prima età repubblicana alla costruzione Augustea",
+   "publisher": "Ege Yayinlari",
+   "place": "Istanbul",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "García-Molina D.F., López-Lago S., Hidalgo-Fernandez R.E., Triviño-Tarradas P. 2021, *Digitalization and 3D Documentation Techniques Applied to Two Pieces of Visigothic Sculptural Heritage in Merida Through Structured Light Scanning*, «Journal on Computing and Cultural Heritage», 14, 4, 1-19 (https://doi.org/10.1145/3427381).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "García-Molina",
+     "given": "D.F."
+    },
+    {
+     "family": "López-Lago",
+     "given": "S."
+    },
+    {
+     "family": "Hidalgo-Fernandez",
+     "given": "R.E."
+    },
+    {
+     "family": "Triviño-Tarradas",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "Digitalization and 3D Documentation Techniques Applied to Two Pieces of Visigothic Sculptural Heritage in Merida Through Structured Light Scanning",
+   "is_part_of": [
+    "Journal on Computing and Cultural Heritage"
+   ],
+   "volume": "14",
+   "issue": "4",
+   "pages": "1-19",
+   "doi": "10.1145/3427381",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Gilboa A., Tal A., Shimshoni I., Kolomenkin M. 2013, *Computer-based, automatic recording and illustration of complex archaeological artifacts*, «Journal of Archaeological Science», 40, 2, 1329-1339 (https://doi.org/10.1016/j.jas.2012.09.018).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gilboa",
+     "given": "A."
+    },
+    {
+     "family": "Tal",
+     "given": "A."
+    },
+    {
+     "family": "Shimshoni",
+     "given": "I."
+    },
+    {
+     "family": "Kolomenkin",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "Computer-based, automatic recording and illustration of complex archaeological artifacts",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "40",
+   "issue": "2",
+   "pages": "1329-1339",
+   "doi": "10.1016/j.jas.2012.09.018",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "Göldner D., Karakostis F.A., Falcucci A. 2022, *Practical and technical aspects for the 3D scanning of lithic artefacts using micro-computed tomography techniques and laser light scanners for subsequent geometric morphometric analysis. Introducing the StyroStone protocol*, «PLOS ONE», 17, 4, e0267163 (https://doi.org/10.1371/journal.pone.0267163).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Göldner",
+     "given": "D."
+    },
+    {
+     "family": "Karakostis",
+     "given": "F.A."
+    },
+    {
+     "family": "Falcucci",
+     "given": "A."
+    }
+   ],
+   "date": "2022",
+   "title": "Practical and technical aspects for the 3D scanning of lithic artefacts using micro-computed tomography techniques and laser light scanners for subsequent geometric morphometric analysis. Introducing the StyroStone protocol",
+   "is_part_of": [
+    "PLOS ONE"
+   ],
+   "volume": "17",
+   "issue": "4",
+   "pages": "e0267163",
+   "doi": "10.1371/journal.pone.0267163",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "Göttlich F., Schmitt A., Kilian A., Gries H., Badreshany K. 2021, *A new method for the large-scale documentation of pottery sherds through simultaneous multiple 3D model capture using Structure from Motion: Phoenician carinated-shoulder amphorae from Tell el-Burak (Lebanon) as a case study*, «Open Archaeology», 7, 1, 256-272 (https://doi.org/10.1515/opar-2020-0133).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Göttlich",
+     "given": "F."
+    },
+    {
+     "family": "Schmitt",
+     "given": "A."
+    },
+    {
+     "family": "Kilian",
+     "given": "A."
+    },
+    {
+     "family": "Gries",
+     "given": "H."
+    },
+    {
+     "family": "Badreshany",
+     "given": "K."
+    }
+   ],
+   "date": "2021",
+   "title": "A new method for the large-scale documentation of pottery sherds through simultaneous multiple 3D model capture using Structure from Motion: Phoenician carinated-shoulder amphorae from Tell el-Burak (Lebanon) as a case study",
+   "is_part_of": [
+    "Open Archaeology"
+   ],
+   "volume": "7",
+   "issue": "1",
+   "pages": "256-272",
+   "doi": "10.1515/opar-2020-0133",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "Historic England 2017, *Photogrammetric Applications for Cultural Heritage. Guidance for Good Practice* (https://historicengland.org.uk/images-books/publications/photogrammetric-applications-for-cultural-heritage/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Historic England",
+     "given": ""
+    }
+   ],
+   "date": "2017",
+   "title": "Photogrammetric Applications for Cultural Heritage. Guidance for Good Practice",
+   "uri": "https://historicengland.org.uk/images-books/publications/photogrammetric-applications-for-cultural-heritage/",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "Historic England 2018a, *3D Laser Scanning for Heritage. Advice and Guidance On The Use Of Laser Scanning in Archaeology and Architecture* (https://historicengland.org.uk/images-books/publications/3d-laser-scanning-heritage/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Historic England",
+     "given": ""
+    }
+   ],
+   "date": "2018",
+   "title": "3D Laser Scanning for Heritage. Advice and Guidance On The Use Of Laser Scanning in Archaeology and Architecture",
+   "uri": "https://historicengland.org.uk/images-books/publications/3d-laser-scanning-heritage/",
+   "language": "eng"
+  },
+  {
+   "position": 28,
+   "raw": "Historic England 2018b, *Multi-light Imaging. Highlight-Reflectance Transformation Imaging (H-RTI) for Cultural Heritage* (https://historicengland.org.uk/images-books/publications/multi-light-imaging-heritage-applications/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Historic England",
+     "given": ""
+    }
+   ],
+   "date": "2018",
+   "title": "Multi-light Imaging. Highlight-Reflectance Transformation Imaging (H-RTI) for Cultural Heritage",
+   "uri": "https://historicengland.org.uk/images-books/publications/multi-light-imaging-heritage-applications/",
+   "language": "eng"
+  },
+  {
+   "position": 29,
+   "raw": "Hostettler M., Buhlke A., Drummer C., Emmenegger L., Reich J., Stäheli C. (eds.) 2024, *The 3 Dimensions of Digitalised Archaeology: State-of-the-Art, Data Management and Current Challenges in Archaeological 3D-Documentation*, Cham, Springer International Publishing (https://doi.org/10.1007/978-3-031-53032-6).",
+   "type": "book",
+   "date": "2024",
+   "title": "The 3 Dimensions of Digitalised Archaeology: State-of-the-Art, Data Management and Current Challenges in Archaeological 3D-Documentation",
+   "editors": [
+    {
+     "family": "Hostettler",
+     "given": "M."
+    },
+    {
+     "family": "Buhlke",
+     "given": "A."
+    },
+    {
+     "family": "Drummer",
+     "given": "C."
+    },
+    {
+     "family": "Emmenegger",
+     "given": "L."
+    },
+    {
+     "family": "Reich",
+     "given": "J."
+    },
+    {
+     "family": "Stäheli",
+     "given": "C."
+    }
+   ],
+   "publisher": "Springer International Publishing",
+   "place": "Cham",
+   "doi": "10.1007/978-3-031-53032-6",
+   "language": "eng"
+  },
+  {
+   "position": 30,
+   "raw": "Kadıoğlu M. (ed.) 2021, *Teos: Inscriptions, Cults, and Urban Fabric*, Istanbul, Türkiye İş Bankası Kültür Yayınları.",
+   "type": "book",
+   "date": "2021",
+   "title": "Teos: Inscriptions, Cults, and Urban Fabric",
+   "editors": [
+    {
+     "family": "Kadıoğlu",
+     "given": "M."
+    }
+   ],
+   "publisher": "Türkiye İş Bankası Kültür Yayınları",
+   "place": "Istanbul",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "Kadıoğlu M., Özbil C., Adak M., Yenice G., Ergin H., Bora Ç.H., Bozoğlan O., Bozoğlan S., Uluger T., Aydin G., Ismaelli T., Bozza S. 2022, *2019 ve 2020 yılları Teos çalışmaları (10-11. sezonlar)*, in *2019-2020 Yılı Kazı Çalışmaları*, Ankara, 309-328.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kadıoğlu",
+     "given": "M."
+    },
+    {
+     "family": "Özbil",
+     "given": "C."
+    },
+    {
+     "family": "Adak",
+     "given": "M."
+    },
+    {
+     "family": "Yenice",
+     "given": "G."
+    },
+    {
+     "family": "Ergin",
+     "given": "H."
+    },
+    {
+     "family": "Bora",
+     "given": "Ç.H."
+    },
+    {
+     "family": "Bozoğlan",
+     "given": "O."
+    },
+    {
+     "family": "Bozoğlan",
+     "given": "S."
+    },
+    {
+     "family": "Uluger",
+     "given": "T."
+    },
+    {
+     "family": "Aydin",
+     "given": "G."
+    },
+    {
+     "family": "Ismaelli",
+     "given": "T."
+    },
+    {
+     "family": "Bozza",
+     "given": "S."
+    }
+   ],
+   "date": "2022",
+   "title": "2019 ve 2020 yılları Teos çalışmaları (10-11. sezonlar)",
+   "is_part_of": [
+    "2019-2020 Yılı Kazı Çalışmaları"
+   ],
+   "pages": "309-328",
+   "place": "Ankara",
+   "language": "tur"
+  },
+  {
+   "position": 32,
+   "raw": "Karasik A., Smilansky U. 2008, *3D scanning technology as a standard archaeological tool for pottery analysis: Practice and theory*, «Journal of Archaeological Science», 35, 5, 1148-1168 (https://doi.org/10.1016/j.jas.2007.08.008).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Karasik",
+     "given": "A."
+    },
+    {
+     "family": "Smilansky",
+     "given": "U."
+    }
+   ],
+   "date": "2008",
+   "title": "3D scanning technology as a standard archaeological tool for pottery analysis: Practice and theory",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "35",
+   "issue": "5",
+   "pages": "1148-1168",
+   "doi": "10.1016/j.jas.2007.08.008",
+   "language": "eng"
+  },
+  {
+   "position": 33,
+   "raw": "Kleinitz C., Bauer T., Näser C. 2009, *Optische 3D-Messungen zur digitalen Bestandsdokumentation von dekorierten Bauelementen und Sekundärbildern der Großen Anlage von Musawwarat es Sufra: ein Pilotprojekt*, in *Der antike Sudan*, Berlin, Sudanarchäologischen Gesellschaft zu Berlin, 33-48.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kleinitz",
+     "given": "C."
+    },
+    {
+     "family": "Bauer",
+     "given": "T."
+    },
+    {
+     "family": "Näser",
+     "given": "C."
+    }
+   ],
+   "date": "2009",
+   "title": "Optische 3D-Messungen zur digitalen Bestandsdokumentation von dekorierten Bauelementen und Sekundärbildern der Großen Anlage von Musawwarat es Sufra: ein Pilotprojekt",
+   "is_part_of": [
+    "Der antike Sudan"
+   ],
+   "pages": "33-48",
+   "publisher": "Sudanarchäologischen Gesellschaft zu Berlin",
+   "place": "Berlin",
+   "language": "ger"
+  },
+  {
+   "position": 34,
+   "raw": "Magnani M., Douglass M., Porter S.T. 2016, *Closing the seams: Resolving frequently encountered issues in photogrammetric modelling*, «Antiquity», 90.354, 1654-1669 (https://doi.org/10.15184/aqy.2016.211).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Magnani",
+     "given": "M."
+    },
+    {
+     "family": "Douglass",
+     "given": "M."
+    },
+    {
+     "family": "Porter",
+     "given": "S.T."
+    }
+   ],
+   "date": "2016",
+   "title": "Closing the seams: Resolving frequently encountered issues in photogrammetric modelling",
+   "is_part_of": [
+    "Antiquity"
+   ],
+   "volume": "90",
+   "issue": "354",
+   "pages": "1654-1669",
+   "doi": "10.15184/aqy.2016.211",
+   "language": "eng"
+  },
+  {
+   "position": 35,
+   "raw": "Magnani M., Douglass M., Schroder W., Reeves J., Braun D.R. 2020, *The digital revolution to come: Photogrammetry in archaeological practice*, «American Antiquity», 85, 4, 737-760 (https://doi.org/10.1017/aaq.2020.59).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Magnani",
+     "given": "M."
+    },
+    {
+     "family": "Douglass",
+     "given": "M."
+    },
+    {
+     "family": "Schroder",
+     "given": "W."
+    },
+    {
+     "family": "Reeves",
+     "given": "J."
+    },
+    {
+     "family": "Braun",
+     "given": "D.R."
+    }
+   ],
+   "date": "2020",
+   "title": "The digital revolution to come: Photogrammetry in archaeological practice",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "85",
+   "issue": "4",
+   "pages": "737-760",
+   "doi": "10.1017/aaq.2020.59",
+   "language": "eng"
+  },
+  {
+   "position": 36,
+   "raw": "McPherron S.P., Gernat T., Hublin J.-J. 2009, *Structured light scanning for high-resolution documentation of in situ archaeological finds*, «Journal of Archaeological Science», 36, 1, 19-24 (https://doi.org/10.1016/j.jas.2008.06.028).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "McPherron",
+     "given": "S.P."
+    },
+    {
+     "family": "Gernat",
+     "given": "T."
+    },
+    {
+     "family": "Hublin",
+     "given": "J.-J."
+    }
+   ],
+   "date": "2009",
+   "title": "Structured light scanning for high-resolution documentation of in situ archaeological finds",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "36",
+   "issue": "1",
+   "pages": "19-24",
+   "doi": "10.1016/j.jas.2008.06.028",
+   "language": "eng"
+  },
+  {
+   "position": 37,
+   "raw": "Naga Project 2024, *Naga Project* (https://naga-projekt.de/das-grabungsprojekt/).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Naga Project",
+     "given": ""
+    }
+   ],
+   "date": "2024",
+   "title": "Naga Project",
+   "uri": "https://naga-projekt.de/das-grabungsprojekt/",
+   "language": "eng"
+  },
+  {
+   "position": 38,
+   "raw": "Orsi M., Fusco R., Mazzucchi A., Taglioretti R., Marinato M., Licata M. 2024, *Development of a scanning protocol for anthropological remains: A preliminary study*, «Heritage», 7, 9, 4997-5006 (https://doi.org/10.3390/heritage7090236).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Orsi",
+     "given": "M."
+    },
+    {
+     "family": "Fusco",
+     "given": "R."
+    },
+    {
+     "family": "Mazzucchi",
+     "given": "A."
+    },
+    {
+     "family": "Taglioretti",
+     "given": "R."
+    },
+    {
+     "family": "Marinato",
+     "given": "M."
+    },
+    {
+     "family": "Licata",
+     "given": "M."
+    }
+   ],
+   "date": "2024",
+   "title": "Development of a scanning protocol for anthropological remains: A preliminary study",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "7",
+   "issue": "9",
+   "pages": "4997-5006",
+   "doi": "10.3390/heritage7090236",
+   "language": "eng"
+  },
+  {
+   "position": 39,
+   "raw": "Pendić J., Molloy B. 2024, *The use of 3D documentation for investigating archaeological artefacts*, in M. Hostettler, A. Buhlke, C. Drummer, L. Emmenegger, J. Reich, C. Stäheli (eds.), *The 3 Dimensions of Digitalised Archaeology: State-of-the-Art, Data Management and Current Challenges in Archaeological 3D-Documentation*, Cham, Springer International Publishing, 9-26 (https://doi.org/10.1007/978-3-031-53032-6_2).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pendić",
+     "given": "J."
+    },
+    {
+     "family": "Molloy",
+     "given": "B."
+    }
+   ],
+   "date": "2024",
+   "title": "The use of 3D documentation for investigating archaeological artefacts",
+   "editors": [
+    {
+     "family": "Hostettler",
+     "given": "M."
+    },
+    {
+     "family": "Buhlke",
+     "given": "A."
+    },
+    {
+     "family": "Drummer",
+     "given": "C."
+    },
+    {
+     "family": "Emmenegger",
+     "given": "L."
+    },
+    {
+     "family": "Reich",
+     "given": "J."
+    },
+    {
+     "family": "Stäheli",
+     "given": "C."
+    }
+   ],
+   "is_part_of": [
+    "The 3 Dimensions of Digitalised Archaeology: State-of-the-Art, Data Management and Current Challenges in Archaeological 3D-Documentation"
+   ],
+   "pages": "9-26",
+   "publisher": "Springer International Publishing",
+   "place": "Cham",
+   "doi": "10.1007/978-3-031-53032-6_2",
+   "language": "eng"
+  },
+  {
+   "position": 40,
+   "raw": "Porter S.T., Roussel M., Soressi M. 2016, *A simple photogrammetry rig for the reliable creation of 3D artifact models in the field: Lithic examples from the Early Upper Paleolithic sequence of Les Cottés (France)*, «Advances in Archaeological Practice», 4, 1, 71-86 (https://doi.org/10.7183/2326-3768.4.1.71).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Porter",
+     "given": "S.T."
+    },
+    {
+     "family": "Roussel",
+     "given": "M."
+    },
+    {
+     "family": "Soressi",
+     "given": "M."
+    }
+   ],
+   "date": "2016",
+   "title": "A simple photogrammetry rig for the reliable creation of 3D artifact models in the field: Lithic examples from the Early Upper Paleolithic sequence of Les Cottés (France)",
+   "is_part_of": [
+    "Advances in Archaeological Practice"
+   ],
+   "volume": "4",
+   "issue": "1",
+   "pages": "71-86",
+   "doi": "10.7183/2326-3768.4.1.71",
+   "language": "eng"
+  },
+  {
+   "position": 41,
+   "raw": "Quatember U., Kalasek R. 2011, *Handaufmass gegen High Tech: zur Aufnahme eines kassettierten Tonnengewölbes aus Ephesos*, in *Von Handaufmass bis High Tech III*, Darmstadt-Mainz, von Zabern, 195-200.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Quatember",
+     "given": "U."
+    },
+    {
+     "family": "Kalasek",
+     "given": "R."
+    }
+   ],
+   "date": "2011",
+   "title": "Handaufmass gegen High Tech: zur Aufnahme eines kassettierten Tonnengewölbes aus Ephesos",
+   "is_part_of": [
+    "Von Handaufmass bis High Tech III"
+   ],
+   "pages": "195-200",
+   "publisher": "von Zabern",
+   "place": "Darmstadt-Mainz",
+   "language": "ger"
+  },
+  {
+   "position": 42,
+   "raw": "Richards-Rissetto H., von Schwerin J. 2017, *A catch 22 of 3D data sustainability: Lessons in 3D archaeological data management & accessibility*, «Digital Applications in Archaeology and Cultural Heritage», 6, 38-48 (https://doi.org/10.1016/j.daach.2017.04.005).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Richards-Rissetto",
+     "given": "H."
+    },
+    {
+     "family": "von Schwerin",
+     "given": "J."
+    }
+   ],
+   "date": "2017",
+   "title": "A catch 22 of 3D data sustainability: Lessons in 3D archaeological data management & accessibility",
+   "is_part_of": [
+    "Digital Applications in Archaeology and Cultural Heritage"
+   ],
+   "volume": "6",
+   "pages": "38-48",
+   "doi": "10.1016/j.daach.2017.04.005",
+   "language": "eng"
+  },
+  {
+   "position": 43,
+   "raw": "Ruiz R.M., Torres M.T.M., Allegue P.S. 2022, *Comparative analysis between the main 3D scanning techniques: Photogrammetry, terrestrial laser scanner, and structured light scanner in religious imagery. The case of The Holy Christ of the Blood*, «Journal on Computing and Cultural Heritage», 15, 1, 1-23 (https://doi.org/10.1145/3469126).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ruiz",
+     "given": "R.M."
+    },
+    {
+     "family": "Torres",
+     "given": "M.T.M."
+    },
+    {
+     "family": "Allegue",
+     "given": "P.S."
+    }
+   ],
+   "date": "2022",
+   "title": "Comparative analysis between the main 3D scanning techniques: Photogrammetry, terrestrial laser scanner, and structured light scanner in religious imagery. The case of The Holy Christ of the Blood",
+   "is_part_of": [
+    "Journal on Computing and Cultural Heritage"
+   ],
+   "volume": "15",
+   "issue": "1",
+   "pages": "1-23",
+   "doi": "10.1145/3469126",
+   "language": "eng"
+  },
+  {
+   "position": 44,
+   "raw": "Sapirstein P. 2018, *A high-precision photogrammetric recording system for small artifacts*, «Journal of Cultural Heritage», 31, 33-45 (https://doi.org/10.1016/j.culher.2017.10.011).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sapirstein",
+     "given": "P."
+    }
+   ],
+   "date": "2018",
+   "title": "A high-precision photogrammetric recording system for small artifacts",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "31",
+   "pages": "33-45",
+   "doi": "10.1016/j.culher.2017.10.011",
+   "language": "eng"
+  },
+  {
+   "position": 45,
+   "raw": "Sapirstein P., Murray S. 2017, *Establishing best practices for photogrammetric recording during archaeological fieldwork*, «Journal of Field Archaeology», 42, 4, 337-350 (https://doi.org/10.1080/00934690.2017.1338513).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sapirstein",
+     "given": "P."
+    },
+    {
+     "family": "Murray",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Establishing best practices for photogrammetric recording during archaeological fieldwork",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "volume": "42",
+   "issue": "4",
+   "pages": "337-350",
+   "doi": "10.1080/00934690.2017.1338513",
+   "language": "eng"
+  },
+  {
+   "position": 46,
+   "raw": "Schäfer A., Leitte H., Bock H.G. 2016, *Ein automatisches und virtuelles 3D-Puzzle von Khmer-Tempeln im Angkorstil*, in *3D-Anwendungen in der Archäologie: Computeranwendungen und quantitative Methoden in der Archäologie: Workshop der AG CAA und des Exzellenzclusters Topoi 2013*, Edition Topoi, 59-76.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Schäfer",
+     "given": "A."
+    },
+    {
+     "family": "Leitte",
+     "given": "H."
+    },
+    {
+     "family": "Bock",
+     "given": "H.G."
+    }
+   ],
+   "date": "2016",
+   "title": "Ein automatisches und virtuelles 3D-Puzzle von Khmer-Tempeln im Angkorstil",
+   "is_part_of": [
+    "3D-Anwendungen in der Archäologie: Computeranwendungen und quantitative Methoden in der Archäologie: Workshop der AG CAA und des Exzellenzclusters Topoi 2013"
+   ],
+   "pages": "59-76",
+   "publisher": "Edition Topoi",
+   "language": "ger"
+  },
+  {
+   "position": 47,
+   "raw": "Siebke I., Campana L., Ramstein M., Furtwängler A., Hafner A., Lösch S. 2018, *The application of different 3D-scan-systems and photogrammetry at an excavation. A Neolithic dolmen from Switzerland*, «Digital Applications in Archaeology and Cultural Heritage», 10, e00078 (https://doi.org/10.1016/j.daach.2018.e00078).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Siebke",
+     "given": "I."
+    },
+    {
+     "family": "Campana",
+     "given": "L."
+    },
+    {
+     "family": "Ramstein",
+     "given": "M."
+    },
+    {
+     "family": "Furtwängler",
+     "given": "A."
+    },
+    {
+     "family": "Hafner",
+     "given": "A."
+    },
+    {
+     "family": "Lösch",
+     "given": "S."
+    }
+   ],
+   "date": "2018",
+   "title": "The application of different 3D-scan-systems and photogrammetry at an excavation. A Neolithic dolmen from Switzerland",
+   "is_part_of": [
+    "Digital Applications in Archaeology and Cultural Heritage"
+   ],
+   "volume": "10",
+   "pages": "e00078",
+   "doi": "10.1016/j.daach.2018.e00078",
+   "language": "eng"
+  },
+  {
+   "position": 48,
+   "raw": "Slizewski A., Semal P. 2009, *Experiences with low and high cost 3D surface scanner. Erfahrungen mit niedrig- und hochpreisigen 3D Oberflächenscannern*, «Quartär», 56, 131-138.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Slizewski",
+     "given": "A."
+    },
+    {
+     "family": "Semal",
+     "given": "P."
+    }
+   ],
+   "date": "2009",
+   "title": "Experiences with low and high cost 3D surface scanner. Erfahrungen mit niedrig- und hochpreisigen 3D Oberflächenscannern",
+   "is_part_of": [
+    "Quartär"
+   ],
+   "volume": "56",
+   "pages": "131-138",
+   "language": "eng"
+  },
+  {
+   "position": 49,
+   "raw": "Williams R., Thompson T., Orr C., Birley A., Taylor G. 2019, *3D imaging as a public engagement tool: Investigating an ox cranium used in target practice at Vindolanda*, «Theoretical Roman Archaeology Journal», 2, 1 (https://doi.org/10.16995/traj.364).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Williams",
+     "given": "R."
+    },
+    {
+     "family": "Thompson",
+     "given": "T."
+    },
+    {
+     "family": "Orr",
+     "given": "C."
+    },
+    {
+     "family": "Birley",
+     "given": "A."
+    },
+    {
+     "family": "Taylor",
+     "given": "G."
+    }
+   ],
+   "date": "2019",
+   "title": "3D imaging as a public engagement tool: Investigating an ox cranium used in target practice at Vindolanda",
+   "is_part_of": [
+    "Theoretical Roman Archaeology Journal"
+   ],
+   "volume": "2",
+   "issue": "1",
+   "doi": "10.16995/traj.364",
+   "language": "eng"
+  },
+  {
+   "position": 50,
+   "raw": "Williams R., Thompson T., Orr C., Taylor G. 2024, *Developing a 3D strategy: Pipelines and recommendations for 3D structured light scanning of archaeological artefacts*, «Digital Applications in Archaeology and Cultural Heritage», 33, e00338 (https://doi.org/10.1016/j.daach.2024.e00338).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Williams",
+     "given": "R."
+    },
+    {
+     "family": "Thompson",
+     "given": "T."
+    },
+    {
+     "family": "Orr",
+     "given": "C."
+    },
+    {
+     "family": "Taylor",
+     "given": "G."
+    }
+   ],
+   "date": "2024",
+   "title": "Developing a 3D strategy: Pipelines and recommendations for 3D structured light scanning of archaeological artefacts",
+   "is_part_of": [
+    "Digital Applications in Archaeology and Cultural Heritage"
+   ],
+   "volume": "33",
+   "pages": "e00338",
+   "doi": "10.1016/j.daach.2024.e00338",
+   "language": "eng"
+  }
+ ]
+}

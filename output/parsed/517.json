@@ -1,0 +1,499 @@
+{
+ "citing_aec_id": 517,
+ "source_file": "data/journal/20/517.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AHDS Case Studies 2003, London, AHDS (http://www.ahds.ac.uk/creating/case-studies/index.htm; accessed 12 September 2007).",
+   "type": "other",
+   "date": "2003",
+   "title": "AHDS Case Studies",
+   "language": "eng",
+   "notes": "accessed 12 September 2007",
+   "publisher": "AHDS",
+   "place": "London",
+   "uri": "http://www.ahds.ac.uk/creating/case-studies/index.htm",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "British Library Glossary of Digital Preservation Terms 2008, The British Library Board (http://www.bl.uk/reshelp/atyourdesk/docsupply/publisher/blejournal/glossary/index.html; accessed 25 February 2008).",
+   "type": "other",
+   "date": "2008",
+   "title": "British Library Glossary of Digital Preservation Terms",
+   "language": "eng",
+   "notes": "accessed 25 February 2008",
+   "publisher": "The British Library Board",
+   "uri": "http://www.bl.uk/reshelp/atyourdesk/docsupply/publisher/blejournal/glossary/index.html",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "California Digital Library. Preservation Glossary 2005, The Regents of the University of California (http://www.cdlib.org/inside/diglib/glossary/?field=glossary&action=search&query=preservation; accessed 25 February 2008).",
+   "type": "other",
+   "date": "2005",
+   "title": "California Digital Library. Preservation Glossary",
+   "language": "eng",
+   "notes": "accessed 25 February 2008",
+   "publisher": "The Regents of the University of California",
+   "uri": "http://www.cdlib.org/inside/diglib/glossary/?field=glossary&action=search&query=preservation",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Castells M. 2005, Tinklaveikos visuomenės raida (The Rise of the Network Society), Vilnius.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Castells",
+     "given": "M."
+    }
+   ],
+   "date": "2005",
+   "title": "Tinklaveikos visuomenės raida (The Rise of the Network Society)",
+   "language": "lit",
+   "place": "Vilnius",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Chalmers A.F. 2005, Kas yra mokslas? (What is This Thing Called Science?), Vilnius, Apostrofa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chalmers",
+     "given": "A.F."
+    }
+   ],
+   "date": "2005",
+   "title": "Kas yra mokslas? (What is This Thing Called Science?)",
+   "language": "lit",
+   "publisher": "Apostrofa",
+   "place": "Vilnius",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "CSA Glossary ProQuest 2008 (http://www.csa.com/discoveryguides/cyber/gloss.php; accessed 25 February 2008).",
+   "type": "other",
+   "date": "2008",
+   "title": "CSA Glossary",
+   "language": "eng",
+   "notes": "cited 'CSA Glossary ProQuest 2008'; accessed 25 February 2008",
+   "publisher": "ProQuest",
+   "uri": "http://www.csa.com/discoveryguides/cyber/gloss.php",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Defining e-Science 2008, Glasgow, National e-Science Centre (http://www.nesc.ac.uk/nesc/define.html; accessed 25 February 2008).",
+   "type": "other",
+   "date": "2008",
+   "title": "Defining e-Science",
+   "language": "eng",
+   "notes": "accessed 25 February 2008",
+   "publisher": "National e-Science Centre",
+   "place": "Glasgow",
+   "uri": "http://www.nesc.ac.uk/nesc/define.html",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Dictionary of Computing Terms (HTML) 2004, Needham, TechTarget (http://whatis.techtarget.com/definition/0,,sid9_gci211948,00.html; accessed 20 January 2008).",
+   "type": "other",
+   "date": "2004",
+   "title": "Dictionary of Computing Terms (HTML)",
+   "language": "eng",
+   "notes": "accessed 20 January 2008",
+   "publisher": "TechTarget",
+   "place": "Needham",
+   "uri": "http://whatis.techtarget.com/definition/0,,sid9_gci211948,00.html",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Dublin Core Metadata Initiative 1995-2008 (http://dublincore.org/; accessed 16 February 2008).",
+   "type": "other",
+   "date": "1995",
+   "title": "Dublin Core Metadata Initiative",
+   "language": "eng",
+   "notes": "cited 1995-2008; first year kept; accessed 16 February 2008",
+   "uri": "http://dublincore.org/",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "eSciDoc Project Glossary 2007 (http://www.escidoc-project.de/JSPWiki/Wiki.jsp?page=Glossary; accessed 16 February 2008).",
+   "type": "other",
+   "date": "2007",
+   "title": "eSciDoc Project Glossary",
+   "language": "eng",
+   "notes": "accessed 16 February 2008",
+   "uri": "http://www.escidoc-project.de/JSPWiki/Wiki.jsp?page=Glossary",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Hales S.D., Johnson T. 2003, Endurantism, Perdurantism, and Special Relativity, «The Philosophical Quarterly», 53, 213, 524-539 (http://www.bloomu.edu/departments/philosophy/pages/content/hales/articles/sr.html; accessed 25 February 2008).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hales",
+     "given": "S.D."
+    },
+    {
+     "family": "Johnson",
+     "given": "T."
+    }
+   ],
+   "date": "2003",
+   "title": "Endurantism, Perdurantism, and Special Relativity",
+   "is_part_of": [
+    "The Philosophical Quarterly"
+   ],
+   "volume": "53",
+   "issue": "213",
+   "pages": "524-539",
+   "uri": "http://www.bloomu.edu/departments/philosophy/pages/content/hales/articles/sr.html",
+   "language": "eng",
+   "notes": "accessed 25 February 2008",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Hutchinson Encyclopaedia 2000, Abingdon, Helicon Publishing, (http://www.tiscali.co.uk/reference/dictionaries/computers/data/m0005831.html; accessed 16 February 2008).",
+   "type": "other",
+   "date": "2000",
+   "title": "Hutchinson Encyclopaedia",
+   "language": "eng",
+   "notes": "accessed 16 February 2008",
+   "publisher": "Helicon Publishing",
+   "place": "Abingdon",
+   "uri": "http://www.tiscali.co.uk/reference/dictionaries/computers/data/m0005831.html",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Laužikas R. 2007, Digital preservation researches. European situation, Vilnius (http://www.digitalpreservationeurope.eu/publications/presentations/Lauzikas_Digital_preservation.pdf; accessed 12 August 2008).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Laužikas",
+     "given": "R."
+    }
+   ],
+   "date": "2007",
+   "title": "Digital preservation researches. European situation",
+   "language": "eng",
+   "notes": "accessed 12 August 2008",
+   "place": "Vilnius",
+   "uri": "http://www.digitalpreservationeurope.eu/publications/presentations/Lauzikas_Digital_preservation.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Manzuch Z., Laužikas R., Petrauskiene Ž., Glosiene A. 2006, Outline of training principles and objectives. Deliverable 2.1. Workpackage 2, task 2.1., Vilnius (http://www.digitalpreservationeurope.eu/publications/reports/dpe_research_roadmap_D72.pdf; accessed 16 February 2008).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Manzuch",
+     "given": "Z."
+    },
+    {
+     "family": "Laužikas",
+     "given": "R."
+    },
+    {
+     "family": "Petrauskiene",
+     "given": "Ž."
+    },
+    {
+     "family": "Glosiene",
+     "given": "A."
+    }
+   ],
+   "date": "2006",
+   "title": "Outline of training principles and objectives. Deliverable 2.1. Workpackage 2, task 2.1.",
+   "language": "eng",
+   "notes": "accessed 16 February 2008",
+   "place": "Vilnius",
+   "uri": "http://www.digitalpreservationeurope.eu/publications/reports/dpe_research_roadmap_D72.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Mensch P. van 1992, Towards a Methodology of Museology, PhD thesis, University of Zagreb, Amsterdam, Reinvardt Academie (http://www.xs4all.nl/~rwa/icofomhi.htm; accessed 14 March 2008).",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Mensch",
+     "given": "P. van"
+    }
+   ],
+   "date": "1992",
+   "title": "Towards a Methodology of Museology",
+   "publisher": "Reinvardt Academie",
+   "place": "Amsterdam",
+   "uri": "http://www.xs4all.nl/~rwa/icofomhi.htm",
+   "language": "eng",
+   "notes": "PhD thesis, University of Zagreb; accessed 14 March 2008",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "NEDLIB Networked European Deposit Library Glossary 1998-2008 (http://nedlib.kb.nl/glossary.pdf; accessed 25 February 2008).",
+   "type": "other",
+   "date": "1998",
+   "title": "NEDLIB Networked European Deposit Library Glossary",
+   "language": "eng",
+   "notes": "cited 1998-2008; first year kept; accessed 25 February 2008",
+   "uri": "http://nedlib.kb.nl/glossary.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "North Carolina ECHO, Exploring Cultural Heritage Online Glossary 2008 (http://www.ncecho.org/guide/glossary.htm; accessed 25 February 2008).",
+   "type": "other",
+   "date": "2008",
+   "title": "North Carolina ECHO, Exploring Cultural Heritage Online Glossary",
+   "language": "eng",
+   "notes": "accessed 25 February 2008",
+   "uri": "http://www.ncecho.org/guide/glossary.htm",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Peirce Ch.S. 1894, What Is a Sign?, in The Peirce Edition Project, Indianapolis, USA, Peirce Edition Project, 2005-2006 (http://www.iupui.edu/~peirce/ep/ep2/ep2book/ch02/ep2ch2.htm; accessed 15 May 2008).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Peirce",
+     "given": "Ch.S."
+    }
+   ],
+   "date": "1894",
+   "title": "What Is a Sign?",
+   "is_part_of": [
+    "The Peirce Edition Project"
+   ],
+   "publisher": "Peirce Edition Project",
+   "place": "Indianapolis, USA",
+   "uri": "http://www.iupui.edu/~peirce/ep/ep2/ep2book/ch02/ep2ch2.htm",
+   "language": "eng",
+   "notes": "cited with '2005-2006'; accessed 15 May 2008",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Popper K.R. 1959, The Logic of Scientific Discovery, New York, Basic Books.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Popper",
+     "given": "K.R."
+    }
+   ],
+   "date": "1959",
+   "title": "The Logic of Scientific Discovery",
+   "language": "eng",
+   "publisher": "Basic Books",
+   "place": "New York",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Popper K.R. 2001, Rinktinė (Logik der Forschung), Vilnius, Pradai.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Popper",
+     "given": "K.R."
+    }
+   ],
+   "date": "2001",
+   "title": "Rinktinė (Logik der Forschung)",
+   "language": "lit",
+   "publisher": "Pradai",
+   "place": "Vilnius",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Preservation Solutions Australia Glossary of Digital Preservation Terms 1998-2007 (http://www.preservationsolutionsaustralia.com.au/parbica12/J0604-071005WS7.pdf; accessed 25 February 2008).",
+   "type": "other",
+   "date": "1998",
+   "title": "Preservation Solutions Australia Glossary of Digital Preservation Terms",
+   "language": "eng",
+   "notes": "cited 1998-2007; first year kept; accessed 25 February 2008",
+   "uri": "http://www.preservationsolutionsaustralia.com.au/parbica12/J0604-071005WS7.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Пригожин И. 2002, От существующего к возникающему (From Being to Becoming), Москва.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Пригожин",
+     "given": "И."
+    }
+   ],
+   "date": "2002",
+   "title": "От существующего к возникающему (From Being to Becoming)",
+   "language": "rus",
+   "place": "Москва",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Prigogine I. 2006, Tikrumo pabaiga: laikas, chaosas ir nauji gamtos dėsniai (End of Certainty), Vilnius, Pradai.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Prigogine",
+     "given": "I."
+    }
+   ],
+   "date": "2006",
+   "title": "Tikrumo pabaiga: laikas, chaosas ir nauji gamtos dėsniai (End of Certainty)",
+   "language": "lit",
+   "publisher": "Pradai",
+   "place": "Vilnius",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Пригожин И., Стенгерс И. 1986, Порядок из хаоса: Новый диалог человека с природой (Order out of Chaos: Man’s new dialogue with nature), Москва, Прогресс.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Пригожин",
+     "given": "И."
+    },
+    {
+     "family": "Стенгерс",
+     "given": "И."
+    }
+   ],
+   "date": "1986",
+   "title": "Порядок из хаоса: Новый диалог человека с природой (Order out of Chaos: Man's new dialogue with nature)",
+   "language": "rus",
+   "publisher": "Прогресс",
+   "place": "Москва",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Reference Model for an Open Archival Information System (OAIS) Definitions 2002, Consultative Committee for Space Data Systems (http://public.ccsds.org/publications/archive/650x0b1.pdf, accessed 16 February 2008).",
+   "type": "other",
+   "date": "2002",
+   "title": "Reference Model for an Open Archival Information System (OAIS) Definitions",
+   "language": "eng",
+   "notes": "accessed 16 February 2008",
+   "publisher": "Consultative Committee for Space Data Systems",
+   "uri": "http://public.ccsds.org/publications/archive/650x0b1.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "SAMDOK - Museerna Och Samtiden 2005, Stockholm, Nordiska Museet (http://www.museif.a.se/svenskamuseer/intressegrupper/samdok.html; http://www.nordiskamuseet.se/samdok/; accessed 06 October 2007).",
+   "type": "other",
+   "date": "2005",
+   "title": "SAMDOK - Museerna Och Samtiden",
+   "language": "swe",
+   "notes": "second url: http://www.nordiskamuseet.se/samdok/; accessed 06 October 2007",
+   "publisher": "Nordiska Museet",
+   "place": "Stockholm",
+   "uri": "http://www.museif.a.se/svenskamuseer/intressegrupper/samdok.html",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Соколов A.B. 2002, Общая теория социальной коммуникации, Санкт-Петербург: Михайлов (http://www.ecsocman.edu.ru/db/msg/278088.html; accessed 25 February 2008).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Соколов",
+     "given": "A.B."
+    }
+   ],
+   "date": "2002",
+   "title": "Общая теория социальной коммуникации",
+   "language": "rus",
+   "uri": "http://www.ecsocman.edu.ru/db/msg/278088.html",
+   "notes": "accessed 25 February 2008",
+   "publisher": "Михайлов",
+   "place": "Санкт-Петербург",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Suler J. 2004, The Psychology of Cyberspace, «International Journal of Applied Psychoanalytic Studies», 1, 359-362 (http://www-usr.rider.edu/~suler/psycyber/cybaddict.html; accessed 25 February 2008).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Suler",
+     "given": "J."
+    }
+   ],
+   "date": "2004",
+   "title": "The Psychology of Cyberspace",
+   "is_part_of": [
+    "International Journal of Applied Psychoanalytic Studies"
+   ],
+   "volume": "1",
+   "pages": "359-362",
+   "uri": "http://www-usr.rider.edu/~suler/psycyber/cybaddict.html",
+   "language": "eng",
+   "notes": "accessed 25 February 2008",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Thelwall M. 2004, Link Analysis: An Information Science Approach, San Diego, Academic Press (http://linkanalysis.wlv.ac.uk/; accessed 10 January 2008).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Thelwall",
+     "given": "M."
+    }
+   ],
+   "date": "2004",
+   "title": "Link Analysis: An Information Science Approach",
+   "language": "eng",
+   "uri": "http://linkanalysis.wlv.ac.uk/",
+   "notes": "accessed 10 January 2008",
+   "publisher": "Academic Press",
+   "place": "San Diego",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "UNESCO Guidelines for the Preservation of Digital Heritage 2003 (http://unesdoc.unesco.org/images/0013/001300/130071e.pdf; accessed 25 February 2008).",
+   "type": "other",
+   "date": "2003",
+   "title": "UNESCO Guidelines for the Preservation of Digital Heritage",
+   "language": "eng",
+   "notes": "accessed 25 February 2008",
+   "uri": "http://unesdoc.unesco.org/images/0013/001300/130071e.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Waidacher F. 2007, Bendrosios muzeologijos metmenys, Vilnius, Lietuvos Nacionalinis Muziejus.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Waidacher",
+     "given": "F."
+    }
+   ],
+   "date": "2007",
+   "title": "Bendrosios muzeologijos metmenys",
+   "language": "lit",
+   "publisher": "Lietuvos Nacionalinis Muziejus",
+   "place": "Vilnius",
+   "confidence": "high"
+  }
+ ]
+}

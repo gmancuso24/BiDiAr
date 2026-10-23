@@ -1,0 +1,433 @@
+{
+ "citing_aec_id": 176,
+ "source_file": "data/journal/7/176.md",
+ "references": [
+  {
+   "raw": "BENELLI M.V. 1992, Le collezioni archeologiche dell'Opera della Primaziale Pisana. Un sistema ipertestuale per la catalogazione automatica di materiali antichi reimpiegati, «Archeologia e Calcolatori», 3, 139-155.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Benelli",
+     "given": "M.V."
+    }
+   ],
+   "type": "article",
+   "title": "Le collezioni archeologiche dell'Opera della Primaziale Pisana. Un sistema ipertestuale per la catalogazione automatica di materiali antichi reimpiegati",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "139-155",
+   "volume": "3",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "DJINDJIAN F. 1993, Les systèmes d'informations en archéologie, «Archeologia e Calcolatori», 4, 9-25.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "type": "article",
+   "title": "Les systèmes d'informations en archéologie",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "9-25",
+   "volume": "4",
+   "language": "fre",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "EISNER M. 1988, ARBOR. Un approccio sistematico ai reperti di struttura complessa, in A.M. LIBERATI SILVERIO (ed.), Archeologia e informatica. Analisi delle metodologie e delle tecnologie dell'informazione in archeologia con particolare riferimento alla cartografia, allo scavo, alla catalogazione ed agli aspetti museali e didattici, Roma, Quasar, 21-26.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Eisner",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "ARBOR. Un approccio sistematico ai reperti di struttura complessa",
+   "editors": [
+    {
+     "family": "Liberati Silverio",
+     "given": "A.M."
+    }
+   ],
+   "pages": "21-26",
+   "is_part_of": [
+    "Archeologia e informatica. Analisi delle metodologie e delle tecnologie dell'informazione in archeologia con particolare riferimento alla cartografia, allo scavo, alla catalogazione ed agli aspetti museali e didattici"
+   ],
+   "place": "Roma",
+   "publisher": "Quasar",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "EISNER M. 1989, ARBOR. Eine Sprache zur Beschreibung und ein Programmpaket zur Verarbeitung hierarchischer Datenobjekte der klassischen Archäologie und Kunstgeschichte, Birlinghoven, Gesellschaft für Mathematik und Datenverarbeitung mbH, GMD-Studien 159.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Eisner",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "ARBOR. Eine Sprache zur Beschreibung und ein Programmpaket zur Verarbeitung hierarchischer Datenobjekte der klassischen Archäologie und Kunstgeschichte, Birlinghoven, Gesellschaft für Mathematik und Datenverarbeitung mbH, GMD-Studien 159",
+   "language": "ger",
+   "confidence": "high",
+   "position": 4,
+   "place": "Birlinghoven",
+   "publisher": "Gesellschaft für Mathematik und Datenverarbeitung mbH",
+   "series": "GMD-Studien",
+   "series_number": "159"
+  },
+  {
+   "raw": "EISNER M. 1990, The ARBOR information system for classical archaeology and history of art, «Archeologia e Calcolatori», 1, 253-262.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Eisner",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "The ARBOR information system for classical archaeology and history of art",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "253-262",
+   "volume": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "GARDIN J.-C., GUILLAUME O., HERMAN P.-Q., HESNARD A., LAGRANGE M.-S., RENAUD M., ZADORA-RIO E. 1987, Systèmes experts et sciences humaines. Le cas de l'archéologie, Paris, Eyrolles.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Gardin",
+     "given": "J.-C."
+    },
+    {
+     "family": "Guillaume",
+     "given": "O."
+    },
+    {
+     "family": "Herman",
+     "given": "P.-Q."
+    },
+    {
+     "family": "Hesnard",
+     "given": "A."
+    },
+    {
+     "family": "Lagrange",
+     "given": "M.-S."
+    },
+    {
+     "family": "Renaud",
+     "given": "M."
+    },
+    {
+     "family": "Zadora-Rio",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "Systèmes experts et sciences humaines. Le cas de l'archéologie",
+   "place": "Paris",
+   "publisher": "Eyrolles",
+   "language": "fre",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "GUDIVADA V.N., RAGHAVAN V.V. 1994, A System for Retrieving Images by Content, «RIAO 1994 Papers», 418-436.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Gudivada",
+     "given": "V.N."
+    },
+    {
+     "family": "Raghavan",
+     "given": "V.V."
+    }
+   ],
+   "type": "article",
+   "title": "A System for Retrieving Images by Content",
+   "is_part_of": [
+    "RIAO 1994 Papers"
+   ],
+   "pages": "418-436",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "GUERMANDI M.P., MIGNANI S., MONTANARI A. 1994, Il trattamento dei dati iconografici nell'ambito della ceramica attica e l'esempio del progetto Spina, «Archeologia e Calcolatori», 5, 111-140.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    },
+    {
+     "family": "Mignani",
+     "given": "S."
+    },
+    {
+     "family": "Montanari",
+     "given": "A."
+    }
+   ],
+   "type": "article",
+   "title": "Il trattamento dei dati iconografici nell'ambito della ceramica attica e l'esempio del progetto Spina",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "111-140",
+   "volume": "5",
+   "language": "ita",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "GUIMIER-SORBETS A.-M. 1978, La constitution des données en archéologie classique, Paris, CNRS.",
+   "date": "1978",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "book",
+   "title": "La constitution des données en archéologie classique",
+   "place": "Paris",
+   "publisher": "CNRS",
+   "language": "fre",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "GUIMIER-SORBETS A.-M. 1990, Les bases de données en archéologie. Conception et mise en oeuvre, Paris, CNRS.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "book",
+   "title": "Les bases de données en archéologie. Conception et mise en oeuvre",
+   "place": "Paris",
+   "publisher": "CNRS",
+   "language": "fre",
+   "confidence": "high",
+   "position": 10
+  },
+  {
+   "raw": "LAGRANGE M.-S., CONCEIÇÃO RODRIGUES M. da 1994, La représentation d'un raisonnement en archéologie. Un exemple: analyse logiciste et système expert, «Archeologia e Calcolatori», 5, 333-353.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Lagrange",
+     "given": "M.-S."
+    },
+    {
+     "family": "Conceição Rodrigues M. da",
+     "given": ""
+    }
+   ],
+   "type": "article",
+   "title": "La représentation d'un raisonnement en archéologie. Un exemple: analyse logiciste et système expert",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "333-353",
+   "volume": "5",
+   "language": "fre",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "MISSIKOFF O. 1995, Proposta di applicazione di un approccio object-oriented alla formalizzazione di dati qualitativi, «Archeologia e Calcolatori», 6, 1995, 225-242.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Missikoff",
+     "given": "O."
+    }
+   ],
+   "type": "article",
+   "title": "Proposta di applicazione di un approccio object-oriented alla formalizzazione di dati qualitativi",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "225-242",
+   "volume": "6",
+   "language": "ita",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "MODRZEWSKA I., TARONI G. 1992, Analisi quantitativa di forme di alcune lucerne tardoromane, «Archeologia e Calcolatori», 3, 19-36.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Modrzewska",
+     "given": "I."
+    },
+    {
+     "family": "Taroni",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Analisi quantitativa di forme di alcune lucerne tardoromane",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "19-36",
+   "volume": "3",
+   "language": "ita",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "MOSCATI P. 1987, Archeologia e calcolatori, Firenze, Giunti.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "Archeologia e calcolatori",
+   "place": "Firenze",
+   "publisher": "Giunti",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "MOSCATI P. 1990a, Indirizzi e sviluppi dell'archeologia quantitativa, in P. MOSCATI (ed.), Trattamento di dati negli studi archeologici e storici, Roma, Bulzoni, 1-54.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "Indirizzi e sviluppi dell'archeologia quantitativa",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "pages": "1-54",
+   "is_part_of": [
+    "Trattamento di dati negli studi archeologici e storici"
+   ],
+   "place": "Roma",
+   "publisher": "Bulzoni",
+   "language": "eng",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "MOSCATI P. 1990b, L'analisi quantitativa nell'archeologia di epoca storica, «Archeologia e Calcolatori», 1, 39-80.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "L'analisi quantitativa nell'archeologia di epoca storica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "39-80",
+   "volume": "1",
+   "language": "ita",
+   "confidence": "high",
+   "position": 16
+  },
+  {
+   "raw": "MOSCATI P. 1994, Un gruppo di urne etrusche di produzione volterrana: prospettive di analisi quantitativa, «Archeologia e Calcolatori», 5, 87-110.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "Un gruppo di urne etrusche di produzione volterrana: prospettive di analisi quantitativa",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "87-110",
+   "volume": "5",
+   "language": "ita",
+   "confidence": "high",
+   "position": 17
+  },
+  {
+   "raw": "NEVELING U., WERSIG G. (edd.) 1975, Terminologie der Information und Dokumentation, München, Dokumentation, DGD-Schriftenreihe 4.",
+   "date": "1975",
+   "editors": [
+    {
+     "family": "Neveling",
+     "given": "U."
+    },
+    {
+     "family": "Wersig",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Terminologie der Information und Dokumentation, München, Dokumentation, DGD-Schriftenreihe 4",
+   "language": "ger",
+   "confidence": "high",
+   "position": 18,
+   "series": "DGD-Schriftenreihe",
+   "series_number": "4",
+   "place": "München",
+   "publisher": "Dokumentation"
+  },
+  {
+   "raw": "ORLANDI T. 1993, Sulla codifica delle fonti archeologiche, «Archeologia e Calcolatori», 4, 27-38.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "type": "article",
+   "title": "Sulla codifica delle fonti archeologiche",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "27-38",
+   "volume": "4",
+   "language": "ita",
+   "confidence": "high",
+   "position": 19
+  }
+ ]
+}

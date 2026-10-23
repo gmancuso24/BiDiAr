@@ -1,0 +1,695 @@
+{
+ "citing_aec_id": 1171,
+ "source_file": "data/journal/32/1171.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bianconi F., Filippucci M. 2019, La fotomodellazione per il rilievo archeologico, «Archeologia e Calcolatori», 30, 205-228 (https://doi.org/10.19282/ac.30.2019.13).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bianconi",
+     "given": "F."
+    },
+    {
+     "family": "Filippucci",
+     "given": "M."
+    }
+   ],
+   "date": "2019",
+   "title": "La fotomodellazione per il rilievo archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "30",
+   "pages": "205-228",
+   "language": "ita",
+   "doi": "10.19282/ac.30.2019.13",
+   "cited_aec_id": 1048,
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bonetto J., Camporeale S., Pizzo A. (eds.) 2014, Arqueología de la Construcción IV. Las canteras en el mundo antiguo: sistemas de explotación y procesos productivos, Mérida, Archivo Español de Arqueología, Suppl. 69.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Bonetto",
+     "given": "J."
+    },
+    {
+     "family": "Camporeale",
+     "given": "S."
+    },
+    {
+     "family": "Pizzo",
+     "given": "A."
+    }
+   ],
+   "date": "2014",
+   "title": "Arqueología de la Construcción IV. Las canteras en el mundo antiguo: sistemas de explotación y procesos productivos",
+   "series": "Archivo Español de Arqueología",
+   "series_number": "Suppl. 69",
+   "place": "Mérida",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Botticelli D. 2017, Epigrafia del costruito. Bolli laterizi dallo scavo delle Pendici Nord Orientali del Palatino (Area IV, anni 2007-2008), in C. Panella, V. Cardarelli (eds.), Valle del Colosseo e pendici nord-orientali del Palatino. Materiali e contesti 3, Roma, Scienze e Lettere, 49-96.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Botticelli",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Panella",
+     "given": "C."
+    },
+    {
+     "family": "Cardarelli",
+     "given": "V."
+    }
+   ],
+   "date": "2017",
+   "title": "Epigrafia del costruito. Bolli laterizi dallo scavo delle Pendici Nord Orientali del Palatino (Area IV, anni 2007-2008)",
+   "is_part_of": [
+    "Valle del Colosseo e pendici nord-orientali del Palatino. Materiali e contesti 3"
+   ],
+   "pages": "49-96",
+   "publisher": "Scienze e Lettere",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Brienza E. 2006, Un GIS Intra Site per la valle del Colosseo: concetti, metodi, applicazione, «Scienze dell'Antichità», 13, 123-139.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brienza",
+     "given": "E."
+    }
+   ],
+   "date": "2006",
+   "title": "Un GIS Intra Site per la valle del Colosseo: concetti, metodi, applicazione",
+   "is_part_of": [
+    "Scienze dell'Antichità"
+   ],
+   "volume": "13",
+   "pages": "123-139",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Brienza E. 2016, Valle del Colosseo e pendici nord-orientali del Palatino. La via tra valle e foro: dal dato stratigrafico alla narrazione virtuale (64 d.C.-138 d.C.), Roma, Quasar.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Brienza",
+     "given": "E."
+    }
+   ],
+   "date": "2016",
+   "title": "Valle del Colosseo e pendici nord-orientali del Palatino. La via tra valle e foro: dal dato stratigrafico alla narrazione virtuale (64 d.C.-138 d.C.)",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Brienza E., Caratelli G., Giorgi C., Fornaciari L. c.s., NE Palatine slopes: Open-source methodologies and tools for the analysis of ancient architecture, in Proceedings of 14st ArcheoFOSS International Conference (2020), in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brienza",
+     "given": "E."
+    },
+    {
+     "family": "Caratelli",
+     "given": "G."
+    },
+    {
+     "family": "Fornaciari",
+     "given": "L."
+    },
+    {
+     "family": "Giorgi",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    },
+    {
+     "family": "Montalbano",
+     "given": "R."
+    },
+    {
+     "family": "Rosati",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "Rome - NE Palatine slopes: open-source methodologies and tools for the analysis of ancient architectures",
+   "is_part_of": [
+    "ArcheoFOSS XIV 2020: Open Software, Hardware, Processes, Data and Formats in Archaeological Research"
+   ],
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "cs": {
+    "status": "resolved",
+    "source": "https://main.archaeopress.com/Archaeopress/Products/9781803271248"
+   },
+   "notes": "cited \"c.s.\" as \"NE Palatine slopes: Open-source methodologies and tools for the analysis of ancient architecture\", Brienza, Caratelli, Giorgi, Fornaciari, in \"Proceedings of 14st ArcheoFOSS International Conference (2020)\"; published Dec 2021 (chapter 3); pages not found",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Brogiolo P., Cagnana A. 2012, Archeologia dell'architettura. Metodi e interpretazioni, Firenze, All'Insegna del Giglio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Brogiolo",
+     "given": "P."
+    },
+    {
+     "family": "Cagnana",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Archeologia dell'architettura. Metodi e interpretazioni",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Camporeale S., DeLaine J., Pizzo A. (eds.) 2016, Arqueología de la Construcción V. Manmade Materials, Engineering and Infrastructure, Madrid, Archivo Español de Arqueología, Suppl. 77.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Camporeale",
+     "given": "S."
+    },
+    {
+     "family": "DeLaine",
+     "given": "J."
+    },
+    {
+     "family": "Pizzo",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Arqueología de la Construcción V. Manmade Materials, Engineering and Infrastructure",
+   "series": "Archivo Español de Arqueología",
+   "series_number": "Suppl. 77",
+   "place": "Madrid",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Camporeale S., Dessales H., Pizzo A. (eds.) 2008, Arqueología de la Construcción I. Los procesos constructivos en el mundo romano: Italia y provincias occidentales, Mérida, Archivo Español de Arqueología, Suppl. 50.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Camporeale",
+     "given": "S."
+    },
+    {
+     "family": "Dessales",
+     "given": "H."
+    },
+    {
+     "family": "Pizzo",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "Arqueología de la Construcción I. Los procesos constructivos en el mundo romano: Italia y provincias occidentales",
+   "series": "Archivo Español de Arqueología",
+   "series_number": "Suppl. 50",
+   "place": "Mérida",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Camporeale S., Dessales H., Pizzo A. (eds.) 2010, Arqueología de la Construcción II. Los procesos constructivos en el mundo romano: Italia y provincias orientales, Madrid-Mérida, Archivo Español de Arqueología, Suppl. 57.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Camporeale",
+     "given": "S."
+    },
+    {
+     "family": "Dessales",
+     "given": "H."
+    },
+    {
+     "family": "Pizzo",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Arqueología de la Construcción II. Los procesos constructivos en el mundo romano: Italia y provincias orientales",
+   "series": "Archivo Español de Arqueología",
+   "series_number": "Suppl. 57",
+   "place": "Madrid-Mérida",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Camporeale S., Dessales H., Pizzo A. (eds.) 2012, Arqueología de la Construcción III. Los procesos constructivos en el mundo romano: la economía, de las obras, Madrid-Mérida, Archivo Español de Arqueología, Suppl. 64.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Camporeale",
+     "given": "S."
+    },
+    {
+     "family": "Dessales",
+     "given": "H."
+    },
+    {
+     "family": "Pizzo",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Arqueología de la Construcción III. Los procesos constructivos en el mundo romano: la economía, de las obras",
+   "series": "Archivo Español de Arqueología",
+   "series_number": "Suppl. 64",
+   "place": "Madrid-Mérida",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Caratelli G. 2013, L'aula \"cruciforme\" e lo stibadium delle \"Terme di Elagabalo\", in C. Panella, L. Saguì (eds.), Valle del Colosseo e pendici nord-orientali del Palatino. Materiali e contesti 1, Roma, Scienze e Lettere, 87-120.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Caratelli",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Panella",
+     "given": "C."
+    },
+    {
+     "family": "Saguì",
+     "given": "L."
+    }
+   ],
+   "date": "2013",
+   "title": "L'aula \"cruciforme\" e lo stibadium delle \"Terme di Elagabalo\"",
+   "is_part_of": [
+    "Valle del Colosseo e pendici nord-orientali del Palatino. Materiali e contesti 1"
+   ],
+   "pages": "87-120",
+   "publisher": "Scienze e Lettere",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Giorgi C. 2013, Terme di Elagabalo. Il balneum tardoantico: studio archeologico e rilievo 3D, in C. Panella, L. Saguì (eds.), Valle del Colosseo e pendici nord-orientali del Palatino. Materiali e contesti 1, Roma, Scienze e Lettere, 55-86.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giorgi",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Panella",
+     "given": "C."
+    },
+    {
+     "family": "Saguì",
+     "given": "L."
+    }
+   ],
+   "date": "2013",
+   "title": "Terme di Elagabalo. Il balneum tardoantico: studio archeologico e rilievo 3D",
+   "is_part_of": [
+    "Valle del Colosseo e pendici nord-orientali del Palatino. Materiali e contesti 1"
+   ],
+   "pages": "55-86",
+   "publisher": "Scienze e Lettere",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Medri M. 2017, Studi dei paramenti laterizi delle Mura Aureliane. 1. Osservazioni generali, in Le Mura Aureliane nella storia di Roma. 1. Da Aureliano a Onorio, Atti del Primo Convegno (Roma 2015), Roma, RomaTre Press, 41-67.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    }
+   ],
+   "date": "2017",
+   "title": "Studi dei paramenti laterizi delle Mura Aureliane. 1. Osservazioni generali",
+   "is_part_of": [
+    "Le Mura Aureliane nella storia di Roma. 1. Da Aureliano a Onorio, Atti del Primo Convegno (Roma 2015)"
+   ],
+   "pages": "41-67",
+   "publisher": "RomaTre Press",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Medri M., Di Cola V., Mongodi S., Pasquali G. 2016, Quantitative analysis of brick-faced masonry: Examples from some large imperial buildings in Rome, «Arqueología de la Arquitectura», 13, 1-8.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    },
+    {
+     "family": "Di Cola",
+     "given": "V."
+    },
+    {
+     "family": "Mongodi",
+     "given": "S."
+    },
+    {
+     "family": "Pasquali",
+     "given": "G."
+    }
+   ],
+   "date": "2016",
+   "title": "Quantitative analysis of brick-faced masonry: Examples from some large imperial buildings in Rome",
+   "is_part_of": [
+    "Arqueología de la Arquitectura"
+   ],
+   "volume": "13",
+   "pages": "1-8",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Panella C. 2019, I contesti e le stratigrafie, in M. Papini (ed.), I reperti scultorei dalle \"Terme di Elagabalo\". Il ritrovamento, il restauro, l'edizione, Roma, Quasar, 9-54.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Panella",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Papini",
+     "given": "M."
+    }
+   ],
+   "date": "2019",
+   "title": "I contesti e le stratigrafie",
+   "is_part_of": [
+    "I reperti scultorei dalle \"Terme di Elagabalo\". Il ritrovamento, il restauro, l'edizione"
+   ],
+   "pages": "9-54",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Panella C., Brienza E. 2009, Il geodatabase della valle del Colosseo e del Palatino nord-orientale e il trattamento digitale del dato archeologico, «Bollettino della Società Italiana di Fotogrammetria e Topografia», 3, 9-18.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Panella",
+     "given": "C."
+    },
+    {
+     "family": "Brienza",
+     "given": "E."
+    }
+   ],
+   "date": "2009",
+   "title": "Il geodatabase della valle del Colosseo e del Palatino nord-orientale e il trattamento digitale del dato archeologico",
+   "is_part_of": [
+    "Bollettino della Società Italiana di Fotogrammetria e Topografia"
+   ],
+   "volume": "3",
+   "pages": "9-18",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Panella C., Fano M., Brienza E. 2015, 30 years of urban archaeology: Measuring, interpreting and reconstructing, in Proceedings of 6th IMEKO International Conference on Metrology for Archaeology (Benevento 2015), Benevento, 49-54 (http://www.metroarcheo.com/ma2015/files/MetroArcheo2015_Proceedings.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Panella",
+     "given": "C."
+    },
+    {
+     "family": "Fano",
+     "given": "M."
+    },
+    {
+     "family": "Brienza",
+     "given": "E."
+    }
+   ],
+   "date": "2015",
+   "title": "30 years of urban archaeology: Measuring, interpreting and reconstructing",
+   "is_part_of": [
+    "Proceedings of 6th IMEKO International Conference on Metrology for Archaeology (Benevento 2015)"
+   ],
+   "pages": "49-54",
+   "place": "Benevento",
+   "language": "eng",
+   "uri": "http://www.metroarcheo.com/ma2015/files/MetroArcheo2015_Proceedings.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Panella C., Ferrandes A.F., Iacomelli G., Soranna A. 2019, Curiae Veteres. Nuovi dati sulla frequentazione del santuario in età tardo-repubblicana, «Scienze dell'Antichità», 25.1, 41-71.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Panella",
+     "given": "C."
+    },
+    {
+     "family": "Ferrandes",
+     "given": "A.F."
+    },
+    {
+     "family": "Iacomelli",
+     "given": "G."
+    },
+    {
+     "family": "Soranna",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "title": "Curiae Veteres. Nuovi dati sulla frequentazione del santuario in età tardo-repubblicana",
+   "is_part_of": [
+    "Scienze dell'Antichità"
+   ],
+   "volume": "25",
+   "issue": "1",
+   "pages": "41-71",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Panella C., Gabrielli R., Giorgi C. 2011, Le Terme di Elagabalo sul Palatino: sperimentazione fotogrammetrico 3D applicato allo scavo archeologico, «Archeologia e Calcolatori», 22, 243-260 (http://www.archcalc.cnr.it/indice/PDF22/AC_22_Panella_et_al.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Panella",
+     "given": "C."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Giorgi",
+     "given": "C."
+    }
+   ],
+   "date": "2011",
+   "title": "Le Terme di Elagabalo sul Palatino: sperimentazione fotogrammetrico 3D applicato allo scavo archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "243-260",
+   "language": "ita",
+   "uri": "http://www.archcalc.cnr.it/indice/PDF22/AC_22_Panella_et_al.pdf",
+   "cited_aec_id": 595,
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Piro S. 2006, Indagini georadar ad alta risoluzione nell'area delle pendici nord-orientali del Palatino, «Scienze dell'Antichità», 13, 141-154.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Piro",
+     "given": "S."
+    }
+   ],
+   "date": "2006",
+   "title": "Indagini georadar ad alta risoluzione nell'area delle pendici nord-orientali del Palatino",
+   "is_part_of": [
+    "Scienze dell'Antichità"
+   ],
+   "volume": "13",
+   "pages": "141-154",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Remondino F., Campana S. (eds.) 2014, 3D Surveying and Modelling in Archaeology and Cultural Heritage. Theory and Best Practices, BAR International Series 2598, Oxford, Archaeopress.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "date": "2014",
+   "title": "3D Surveying and Modelling in Archaeology and Cultural Heritage. Theory and Best Practices",
+   "series": "BAR International Series",
+   "series_number": "2598",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Saguì L., Cante M. 2015, Archeologia e architettura nell'area delle \"Terme di Elagabalo\", alle pendici nord-orientali del Palatino. Dagli isolati giulio-claudi alla chiesa paleocristiana, «Thiasos», 4, 37-75.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Saguì",
+     "given": "L."
+    },
+    {
+     "family": "Cante",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "Archeologia e architettura nell'area delle \"Terme di Elagabalo\", alle pendici nord-orientali del Palatino. Dagli isolati giulio-claudi alla chiesa paleocristiana",
+   "is_part_of": [
+    "Thiasos"
+   ],
+   "volume": "4",
+   "pages": "37-75",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Serlorenzi M., Camporeale S. 2017, Anatomia di un muro romano: dati preliminari sullo smontaggio e quantificazione di alcune strutture in laterizio di epoca adrianea dallo scavo di Piazza Dante a Roma, «Arqueología de la Arquitectura», 22, 21-33.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Camporeale",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Anatomia di un muro romano: dati preliminari sullo smontaggio e quantificazione di alcune strutture in laterizio di epoca adrianea dallo scavo di Piazza Dante a Roma",
+   "is_part_of": [
+    "Arqueología de la Arquitectura"
+   ],
+   "volume": "22",
+   "pages": "21-33",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Volpe G. 2020, Archeologia pubblica. Metodi, tecniche, esperienze, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "date": "2020",
+   "title": "Archeologia pubblica. Metodi, tecniche, esperienze",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Zachar J., Horňák M., Novaković P. (eds.) 2017, 3D Digital Recording of Archaeological, Architectural and Artistic Heritage, Ljubljana, CONPRA Series 1, University of Ljubljana-Faculty of Arts.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Zachar",
+     "given": "J."
+    },
+    {
+     "family": "Horňák",
+     "given": "M."
+    },
+    {
+     "family": "Novaković",
+     "given": "P."
+    }
+   ],
+   "date": "2017",
+   "title": "3D Digital Recording of Archaeological, Architectural and Artistic Heritage",
+   "series": "CONPRA Series",
+   "series_number": "1",
+   "publisher": "University of Ljubljana-Faculty of Arts",
+   "place": "Ljubljana",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

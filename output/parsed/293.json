@@ -1,0 +1,256 @@
+{
+ "citing_aec_id": 293,
+ "source_file": "data/journal/11/293.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BURROUGH P.A 1986, Principles of Geographical Information Systems for Land Resources Assessment, Oxford, Oxford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Burrough",
+     "given": "P.A."
+    }
+   ],
+   "date": "1986",
+   "title": "Principles of Geographical Information Systems for Land Resources Assessment",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "CLARKE D.L. 1977, Spatial Information in Archaeology, in Spatial Archaeology, New York, Academic Press.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "D.L."
+    }
+   ],
+   "date": "1977",
+   "title": "Spatial Information in Archaeology",
+   "is_part_of": [
+    "Spatial Archaeology"
+   ],
+   "publisher": "Academic Press",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "DE MEO A., ESPA G., ESPA S., GABRIELLI R., RICCI U. 1994, Impiego di un Sistema Geografico Informativo per un confronto modellistico preliminare tra due aree archeologiche sabine, «Archeologia e Calcolatori», 7, 103-112.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "De Meo",
+     "given": "A."
+    },
+    {
+     "family": "Espa",
+     "given": "G."
+    },
+    {
+     "family": "Espa",
+     "given": "S."
+    },
+    {
+     "family": "Gabrielli",
+     "given": "R."
+    },
+    {
+     "family": "Ricci",
+     "given": "U."
+    }
+   ],
+   "date": "1994",
+   "title": "Impiego di un Sistema Geografico Informativo per un confronto modellistico preliminare tra due aree archeologiche sabine",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "pages": "103-112",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "GAFFNEY V., STANČIČ Z. 1994, GIS and historical archeology the case of the Island of Hvar in Croatia, «Archeologia e Calcolatori», 5, 257-167.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1994",
+   "title": "GIS and historical archeology the case of the Island of Hvar in Croatia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "5",
+   "pages": "257-267",
+   "language": "eng",
+   "confidence": "low",
+   "notes": "raw pages \"257-167\", corrected to 257-267"
+  },
+  {
+   "position": 5,
+   "raw": "HARRIS E.C. 1983, Principi di stratigrafia archeologica, Roma, NIS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "E.C."
+    }
+   ],
+   "date": "1983",
+   "title": "Principi di stratigrafia archeologica",
+   "publisher": "NIS",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "KVAMME K.L. 1990, The fundamental principles and practice of predictive archaeological modelling, in A. VOORRIPS (ed.), Mathematics and Information Science in Archaeology: A Flexible Framework, Studies in Modern Archaeology, Vol. 3, Bonn, Holos-Verlag, 257-295.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K.L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Voorrips",
+     "given": "A."
+    }
+   ],
+   "date": "1990",
+   "title": "The fundamental principles and practice of predictive archaeological modelling",
+   "is_part_of": [
+    "Mathematics and Information Science in Archaeology: A Flexible Framework"
+   ],
+   "pages": "257-295",
+   "publisher": "Holos-Verlag",
+   "place": "Bonn",
+   "language": "eng",
+   "notes": "container series: Studies in Modern Archaeology, 3"
+  },
+  {
+   "position": 7,
+   "raw": "MAGUIRE D.J., GOODCHILD M.F., RHIND D.W., Geographical Information Systems, Vol. 1 and 2, Essex, Longman Scientific and Technical.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Maguire",
+     "given": "D.J."
+    },
+    {
+     "family": "Goodchild",
+     "given": "M.F."
+    },
+    {
+     "family": "Rhind",
+     "given": "D.W."
+    }
+   ],
+   "title": "Geographical Information Systems, Vol. 1 and 2",
+   "publisher": "Longman Scientific and Technical",
+   "place": "Essex",
+   "language": "eng",
+   "notes": "no date in the citation"
+  },
+  {
+   "position": 8,
+   "raw": "PEDUTO P. 1996, Un giardino-palazzo islamico del secolo XIII: l’artificio di Villa Rufolo a Ravello, in «Apollo. Bollettino dei Musei Provinciali del Salernitano», XII, 57-72.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peduto",
+     "given": "P."
+    }
+   ],
+   "date": "1996",
+   "title": "Un giardino-palazzo islamico del secolo XIII: l’artificio di Villa Rufolo a Ravello",
+   "is_part_of": [
+    "Apollo. Bollettino dei Musei Provinciali del Salernitano"
+   ],
+   "volume": "XII",
+   "pages": "57-72",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "PEDUTO P. 1998, Adesioni islamiche in costiera amalfitana nei secoli XII-XVI, in Papers from the EEA Third Annual Meeting at Ravenna 1997, II, BAR International Series 718, Oxford, 148-153.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Peduto",
+     "given": "P."
+    }
+   ],
+   "date": "1998",
+   "title": "Adesioni islamiche in costiera amalfitana nei secoli XII-XVI",
+   "is_part_of": [
+    "Papers from the EEA Third Annual Meeting at Ravenna 1997"
+   ],
+   "volume": "II",
+   "pages": "148-153",
+   "place": "Oxford",
+   "language": "ita",
+   "notes": "BAR International Series 718"
+  },
+  {
+   "position": 10,
+   "raw": "RICHTER D., ROMITO M. (eds.) 1999, I profumi di Neville Reid. Uno scavo archeologico a Villa Rufolo e la vita di un inglese nella Ravello dell’Ottocento, Catalogo della Mostra, Napoli, Electa.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Richter",
+     "given": "D."
+    },
+    {
+     "family": "Romito",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "I profumi di Neville Reid. Uno scavo archeologico a Villa Rufolo e la vita di un inglese nella Ravello dell’Ottocento",
+   "publisher": "Electa",
+   "place": "Napoli",
+   "language": "ita",
+   "notes": "Catalogo della Mostra"
+  },
+  {
+   "position": 11,
+   "raw": "SOMMELLA P., AZZENA G., TASCIO E. 1990, Informatica e topografia storica: cinque anni di esperienza su un secolo di tradizione, «Archeologia e Calcolatori», 1, 211-236.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sommella",
+     "given": "P."
+    },
+    {
+     "family": "Azzena",
+     "given": "G."
+    },
+    {
+     "family": "Tascio",
+     "given": "E."
+    }
+   ],
+   "date": "1990",
+   "title": "Informatica e topografia storica: cinque anni di esperienza su un secolo di tradizione",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "211-236",
+   "language": "ita"
+  }
+ ]
+}

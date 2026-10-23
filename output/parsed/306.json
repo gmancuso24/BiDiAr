@@ -1,0 +1,183 @@
+{
+ "citing_aec_id": 306,
+ "source_file": "data/journal/11/306.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV., Linee Guida del Piano Territoriale Paesistico Regionale, Palermo 1996.",
+   "type": "other",
+   "date": "1996",
+   "title": "Linee Guida del Piano Territoriale Paesistico Regionale",
+   "place": "Palermo",
+   "language": "ita",
+   "notes": "AA.VV."
+  },
+  {
+   "position": 2,
+   "raw": "ALLEN K.M.S., GREEN S.W., ZUBROW E.B.W. (eds.) 1990, Interpreting Space: GIS and Archaeology, London, Taylor & Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Allen",
+     "given": "K.M.S."
+    },
+    {
+     "family": "Green",
+     "given": "S.W."
+    },
+    {
+     "family": "Zubrow",
+     "given": "E.B.W."
+    }
+   ],
+   "date": "1990",
+   "title": "Interpreting Space: GIS and Archaeology",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 3,
+   "raw": "CARUSO E., GINI G. 1999, La pianificazione territoriale paesistica della Regione Sicilia attraverso l’articolazione per sistemi e componenti. Il Sistema Informativo Territoriale e la Carta dei siti di interesse archeologico: un’applicazione completa per la tutela e la pianificazione, in B. AMENDOLEA (ed.), Carta archeologica e pianificazione territoriale. Un problema politico e metodologico. Atti dell’incontro di studio (Roma 1997), Roma, Fratelli Palombi, 219-231.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Caruso",
+     "given": "E."
+    },
+    {
+     "family": "Gini",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Amendolea",
+     "given": "B."
+    }
+   ],
+   "date": "1999",
+   "title": "La pianificazione territoriale paesistica della Regione Sicilia attraverso l’articolazione per sistemi e componenti. Il Sistema Informativo Territoriale e la Carta dei siti di interesse archeologico: un’applicazione completa per la tutela e la pianificazione",
+   "is_part_of": [
+    "Carta archeologica e pianificazione territoriale. Un problema politico e metodologico. Atti dell’incontro di studio (Roma 1997)"
+   ],
+   "pages": "219-231",
+   "publisher": "Fratelli Palombi",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "FORTE M., MONTEBELLI M., TUSA S. 1998, Il progetto Valle del Belice: applicazioni GIS e di remote sensing su dati archeologici, «Archeologia e Calcolatori», 9, 291-304.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Montebelli",
+     "given": "M."
+    },
+    {
+     "family": "Tusa",
+     "given": "S."
+    }
+   ],
+   "date": "1998",
+   "title": "Il progetto Valle del Belice: applicazioni GIS e di remote sensing su dati archeologici",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "pages": "291-304",
+   "language": "ita"
+  },
+  {
+   "position": 5,
+   "raw": "GOTTARRELLI A. (ed.) 1997, Sistemi Informativi e reti geografiche in archeologia: GIS-Internet, Firenze, Edizioni All’Insegna del Giglio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Gottarelli",
+     "given": "A."
+    }
+   ],
+   "date": "1997",
+   "title": "Sistemi Informativi e reti geografiche in archeologia: GIS-Internet",
+   "publisher": "Edizioni All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "notes": "raw \"GOTTARRELLI\""
+  },
+  {
+   "position": 6,
+   "raw": "LOCK G., STANČIČ Z. (eds.) 1995, Archaeology and GIS: A European Perspective, London, Taylor & Francis.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Lock",
+     "given": "G."
+    },
+    {
+     "family": "Stančič",
+     "given": "Z."
+    }
+   ],
+   "date": "1995",
+   "title": "Archaeology and GIS: A European Perspective",
+   "publisher": "Taylor & Francis",
+   "place": "London",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "NENCI G. (ed.) 1993, Alla ricerca di Entella, Pisa.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Nenci",
+     "given": "G."
+    }
+   ],
+   "date": "1993",
+   "title": "Alla ricerca di Entella",
+   "place": "Pisa",
+   "language": "ita"
+  },
+  {
+   "position": 8,
+   "raw": "PARRA M.C. 1999, Modelli di carte archeologiche per un GIS di pianificazione paesistica (un caso siciliano), «Archeologia e Calcolatori», 10, 159-163.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Parra",
+     "given": "M.C."
+    }
+   ],
+   "date": "1999",
+   "title": "Modelli di carte archeologiche per un GIS di pianificazione paesistica (un caso siciliano)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "10",
+   "pages": "159-163",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "WORBOYS M.F. 1995, GIS: A Computing Perspective, London.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Worboys",
+     "given": "M.F."
+    }
+   ],
+   "date": "1995",
+   "title": "GIS: A Computing Perspective",
+   "place": "London",
+   "language": "eng"
+  }
+ ]
+}

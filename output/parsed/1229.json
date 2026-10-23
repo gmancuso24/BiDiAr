@@ -1,0 +1,287 @@
+{
+ "citing_aec_id": 1229,
+ "source_file": "data/journal/34/1229.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bosco A., D'Andrea A., Nuzzolo M., Pirelli R., Zarfagna P. 2018, A virtual reconstruction of the Sun Temple of Niuserra: From scans to ABIM, in M. Matsumoto, E. Uleberg (eds.), CAA2016: Oceans of Data. Proceedings of the 44th Conference on Computer Applications and Quantitative Methods in Archaeology, Oxford, Archaeopress, 377-388.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bosco",
+     "given": "A."
+    },
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Nuzzolo",
+     "given": "M."
+    },
+    {
+     "family": "Pirelli",
+     "given": "R."
+    },
+    {
+     "family": "Zarfagna",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Matsumoto",
+     "given": "M."
+    },
+    {
+     "family": "Uleberg",
+     "given": "E."
+    }
+   ],
+   "date": "2018",
+   "title": "A virtual reconstruction of the Sun Temple of Niuserra: From scans to ABIM",
+   "is_part_of": [
+    "CAA2016: Oceans of Data. Proceedings of the 44th Conference on Computer Applications and Quantitative Methods in Archaeology"
+   ],
+   "pages": "377-388",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Cairoli Giuliani F. 1990, L'edilizia nell'antichità, Roma, Carocci.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cairoli Giuliani",
+     "given": "F."
+    }
+   ],
+   "date": "1990",
+   "title": "L'edilizia nell'antichità",
+   "publisher": "Carocci",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Camporeale S., Dessales H., Tricoche A. (eds.) forthcoming, Atlante delle tecniche della costruzione romana. Manuale, Roma, Quasar.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Camporeale",
+     "given": "S."
+    },
+    {
+     "family": "Dessales",
+     "given": "H."
+    },
+    {
+     "family": "Tricoche",
+     "given": "A."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Atlante delle tecniche della costruzione romana. Manuale",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "cited 'forthcoming'; searched editors + title: no publication found",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Carpentiero L. 2018, La metodologia BIM (Building Information Modeling) per l'acquisizione, l'elaborazione e l'integrazione dei dati di rilievo per lo studio, la conservazione e la valorizzazione del costruito storico, «Newsletter di Archeologia CISA», 9, 1-21.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carpentiero",
+     "given": "L."
+    }
+   ],
+   "date": "2018",
+   "title": "La metodologia BIM (Building Information Modeling) per l'acquisizione, l'elaborazione e l'integrazione dei dati di rilievo per lo studio, la conservazione e la valorizzazione del costruito storico",
+   "is_part_of": [
+    "Newsletter di Archeologia CISA"
+   ],
+   "volume": "9",
+   "pages": "1-21",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Carpentiero L. 2020, Il BIM come modello di gestione di un sito archeologico. Oltre i limiti dell'oggetto parametrico, «Newsletter di Archeologia CISA», 11, 69-86.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carpentiero",
+     "given": "L."
+    }
+   ],
+   "date": "2020",
+   "title": "Il BIM come modello di gestione di un sito archeologico. Oltre i limiti dell'oggetto parametrico",
+   "is_part_of": [
+    "Newsletter di Archeologia CISA"
+   ],
+   "volume": "11",
+   "pages": "69-86",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "D'Auria D., Ballet P. 2020, Modes d'habiter à Pompéi à l'époque républicaine. Diffusion et utilisation du type de la maison à atrium testudinatum, «Chronique des activités archéologiques de l'École française de Rome, Les cités vésuviennes», 1-15 (https://doi.org/10.4000/cefr.4796).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Auria",
+     "given": "D."
+    },
+    {
+     "family": "Ballet",
+     "given": "P."
+    }
+   ],
+   "date": "2020",
+   "title": "Modes d'habiter à Pompéi à l'époque républicaine. Diffusion et utilisation du type de la maison à atrium testudinatum",
+   "is_part_of": [
+    "Chronique des activités archéologiques de l'École française de Rome, Les cités vésuviennes"
+   ],
+   "pages": "1-15",
+   "doi": "10.4000/cefr.4796",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Garagnani S., Gaucci A., Govi E. 2016, ArchaeoBIM: dallo scavo al Building Information Modeling di una struttura sepolta. Il caso del tempio tuscanico di Uni a Marzabotto, «Archeologia e Calcolatori», 27, 251-270 (https://doi.org/10.19282/AC.27.2016.13).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Garagnani",
+     "given": "S."
+    },
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Govi",
+     "given": "E."
+    }
+   ],
+   "date": "2016",
+   "title": "ArchaeoBIM: dallo scavo al Building Information Modeling di una struttura sepolta. Il caso del tempio tuscanico di Uni a Marzabotto",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "27",
+   "pages": "251-270",
+   "doi": "10.19282/AC.27.2016.13",
+   "language": "ita",
+   "cited_aec_id": 851,
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Gaucci A., Garagnani S. 2020, The ArchaeoBIM method and the role of digital models in Archaeology, «Archeologia e Calcolatori», 31.2, 181-188 (https://doi.org/10.19282/ac.31.2.2020.17).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gaucci",
+     "given": "A."
+    },
+    {
+     "family": "Garagnani",
+     "given": "S."
+    }
+   ],
+   "date": "2020",
+   "title": "The ArchaeoBIM method and the role of digital models in Archaeology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "31",
+   "issue": "2",
+   "pages": "181-188",
+   "doi": "10.19282/ac.31.2.2020.17",
+   "language": "eng",
+   "cited_aec_id": 1102,
+   "notes": "authors cited as Gaucci, Garagnani; metadata Garagnani, Gaucci",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Ginouvès R. 1992, Dictionnaire méthodique de l'architecture grecque et romaine II. Eléments constructifs: supports, couvertures, aménagements intérieurs, Rome, École Française d'Athènes, École Française de Rome.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1992",
+   "title": "Dictionnaire méthodique de l'architecture grecque et romaine II. Eléments constructifs: supports, couvertures, aménagements intérieurs",
+   "publisher": "École Française d'Athènes, École Française de Rome",
+   "place": "Rome",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Ginouvès R., Martin R. 1985, Dictionnaire méthodique de l'architecture grecque et romaine I. Matériaux, techniques de construction, techniques et formes du décor, Rome, École Française d'Athènes, École Française de Rome.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Martin",
+     "given": "R."
+    }
+   ],
+   "date": "1985",
+   "title": "Dictionnaire méthodique de l'architecture grecque et romaine I. Matériaux, techniques de construction, techniques et formes du décor",
+   "publisher": "École Française d'Athènes, École Française de Rome",
+   "place": "Rome",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Murphy M., Mc Govern E., Pavia S. 2013, Historic building information modeling - Adding intelligence to laser and image based surveys of European classical architecture, «ISPRS Journal of Photogrammetry and Remote Sensing», 76, 89-102.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Murphy",
+     "given": "M."
+    },
+    {
+     "family": "Mc Govern",
+     "given": "E."
+    },
+    {
+     "family": "Pavia",
+     "given": "S."
+    }
+   ],
+   "date": "2013",
+   "title": "Historic building information modeling - Adding intelligence to laser and image based surveys of European classical architecture",
+   "is_part_of": [
+    "ISPRS Journal of Photogrammetry and Remote Sensing"
+   ],
+   "volume": "76",
+   "pages": "89-102",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

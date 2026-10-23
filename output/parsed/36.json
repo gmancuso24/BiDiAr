@@ -1,0 +1,180 @@
+{
+ "citing_aec_id": 36,
+ "source_file": "data/journal/3/36.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "BIETTI A. 1985, Metodi interattivi di \"Pattern Recognition\" per la classificazione tipologica di manufatti preistorici , Contributi del Centro Linceo Interdisciplinare di Scienze Matematiche e loro applicazioni, n. 69, 63-79.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    }
+   ],
+   "date": "1985",
+   "title": "Metodi interattivi di \"Pattern Recognition\" per la classificazione tipologica di manufatti preistorici",
+   "series": "Contributi del Centro Linceo Interdisciplinare di Scienze Matematiche e loro Applicazioni",
+   "series_number": "69",
+   "pages": "63-79",
+   "confidence": "low",
+   "notes": "cited as a contribution in the series, no container or place",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "BIETTI A., ZANELLO L. 1980, A Project of Pattern Recognition with an interactive system (ISPA - HAN) in Prehistoric Archaeology: \"Quantitative\" typology of the End-Scrapers of an Italian Upper Paleolithic industrial assemblage, in E.S. GELSEMA, L.N. KANAL (edd.), Pattern Recognition in Practice, Amsterdam, 517-526.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    },
+    {
+     "family": "Zanello",
+     "given": "L."
+    }
+   ],
+   "date": "1980",
+   "title": "A Project of Pattern Recognition with an interactive system (ISPA - HAN) in Prehistoric Archaeology: \"Quantitative\" typology of the End-Scrapers of an Italian Upper Paleolithic industrial assemblage",
+   "editors": [
+    {
+     "family": "Gelsema",
+     "given": "E.S."
+    },
+    {
+     "family": "Kanal",
+     "given": "L.N."
+    }
+   ],
+   "is_part_of": [
+    "Pattern Recognition in Practice"
+   ],
+   "pages": "517-526",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BIETTI A., BURANI A., ZANELLO L. 1983, An application of ISPAHAN to the typological classification of some Italian Upper Paleolithic end-scrapers, «Pattern Recognition Letters», 1, 181-186.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    },
+    {
+     "family": "Burani",
+     "given": "A."
+    },
+    {
+     "family": "Zanello",
+     "given": "L."
+    }
+   ],
+   "date": "1983",
+   "title": "An application of ISPAHAN to the typological classification of some Italian Upper Paleolithic end-scrapers",
+   "is_part_of": [
+    "Pattern Recognition Letters"
+   ],
+   "volume": "1",
+   "pages": "181-186",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "BIETTI A., BURANI A., ZANELLO L. 1985, Interactive Pattern Recognition in Prehistoric Archaeology: Some Applications, «PACT », 11 , 205-228.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bietti",
+     "given": "A."
+    },
+    {
+     "family": "Burani",
+     "given": "A."
+    },
+    {
+     "family": "Zanello",
+     "given": "L."
+    }
+   ],
+   "date": "1985",
+   "title": "Interactive Pattern Recognition in Prehistoric Archaeology: Some Applications",
+   "is_part_of": [
+    "PACT"
+   ],
+   "volume": "11",
+   "pages": "205-228",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "GELSEMA E.S., EDEN C. 1980, Mapping algorithms in ISPAHAN, «Pattern Recognition », 12, 127-136.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gelsema",
+     "given": "E.S."
+    },
+    {
+     "family": "Eden",
+     "given": "C."
+    }
+   ],
+   "date": "1980",
+   "title": "Mapping algorithms in ISPAHAN",
+   "is_part_of": [
+    "Pattern Recognition"
+   ],
+   "volume": "12",
+   "pages": "127-136",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "LAPLACE G. 1968, Recherches de typologie analytique 1968, «Origini », 2, 7-64.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Laplace",
+     "given": "G."
+    }
+   ],
+   "date": "1968",
+   "title": "Recherches de typologie analytique 1968",
+   "is_part_of": [
+    "Origini"
+   ],
+   "volume": "2",
+   "pages": "7-64",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "RADMILLI A.M. 1974, Gli scavi nella Grotta Polesini a Ponte Lucano di Tivoli e la più antica arte nel Lazio, in Origines, Firenze, Sansoni",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Radmilli",
+     "given": "A.M."
+    }
+   ],
+   "date": "1974",
+   "title": "Gli scavi nella Grotta Polesini a Ponte Lucano di Tivoli e la più antica arte nel Lazio",
+   "is_part_of": [
+    "Origines"
+   ],
+   "publisher": "Sansoni",
+   "place": "Firenze",
+   "notes": "no pages cited",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

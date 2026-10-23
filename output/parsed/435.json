@@ -1,0 +1,425 @@
+{
+ "citing_aec_id": 435,
+ "source_file": "data/journal/18/435.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV. 1985, I Primi abitanti d'Europa, Catalogo della Mostra, Roma, De Luca.",
+   "type": "book",
+   "date": "1985",
+   "title": "I Primi abitanti d'Europa, Catalogo della Mostra",
+   "language": "ita",
+   "confidence": "high",
+   "place": "Roma",
+   "publisher": "De Luca",
+   "notes": "AA.VV."
+  },
+  {
+   "position": 2,
+   "raw": "AA.VV. 1991, L'arte in Italia dal Paleolitico all'età del Bronzo. Atti della XXVIII Riunione Scientifica IIPP, Firenze, Istituto Italiano di Preistoria e Protostoria.",
+   "type": "proceedings",
+   "date": "1991",
+   "title": "L'arte in Italia dal Paleolitico all'età del Bronzo. Atti della XXVIII Riunione Scientifica IIPP",
+   "language": "ita",
+   "confidence": "high",
+   "place": "Firenze",
+   "publisher": "Istituto Italiano di Preistoria e Protostoria",
+   "notes": "AA.VV."
+  },
+  {
+   "position": 3,
+   "raw": "AA.VV. 2003, Preistoria e Protostoria dell'Abruzzo. Atti della XXXVI Riunione Scientifica IIPP (Chieti-Celano 2001), Firenze, Istituto Italiano di Preistoria e Protostoria.",
+   "type": "proceedings",
+   "date": "2003",
+   "title": "Preistoria e Protostoria dell'Abruzzo. Atti della XXXVI Riunione Scientifica IIPP (Chieti-Celano 2001)",
+   "language": "ita",
+   "confidence": "high",
+   "place": "Firenze",
+   "publisher": "Istituto Italiano di Preistoria e Protostoria",
+   "notes": "AA.VV."
+  },
+  {
+   "position": 4,
+   "raw": "ASPES A. *et al.* 2002, Carta archeologico-preistorica del Comune di Verona. Elenco dei siti preistorici sulla base delle collezioni del Museo di Storia Natuurale e delle ricerche del Nucleo Operativo della Soprintendenza Archeologica del Veneto, «Bollettino del Museo Civico di Storia Naturale di Verona. Geologia Paleontologia Preistoria», 26, 47-118.",
+   "type": "article",
+   "date": "2002",
+   "title": "Carta archeologico-preistorica del Comune di Verona. Elenco dei siti preistorici sulla base delle collezioni del Museo di Storia Naturale e delle ricerche del Nucleo Operativo della Soprintendenza Archeologica del Veneto",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Aspes",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Bollettino del Museo Civico di Storia Naturale di Verona. Geologia Paleontologia Preistoria"
+   ],
+   "volume": "26",
+   "pages": "47-118",
+   "notes": "cited 'et al.'; OCR 'Natuurale' corrected"
+  },
+  {
+   "position": 5,
+   "raw": "BIETTI SESTIERI A. 1996, Protostoria. Teoria e pratica, Roma, La Nuova Italia Scientifica.",
+   "type": "book",
+   "date": "1996",
+   "title": "Protostoria. Teoria e pratica",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Bietti Sestieri",
+     "given": "A."
+    }
+   ],
+   "place": "Roma",
+   "publisher": "La Nuova Italia Scientifica"
+  },
+  {
+   "position": 6,
+   "raw": "COCCHI GENICK D. 1993, Manuale di Preistoria. Paleolitico e Mesolitico, Firenze, Octavo Franco Cantini Editore.",
+   "type": "book",
+   "date": "1993",
+   "title": "Manuale di Preistoria. Paleolitico e Mesolitico",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Cocchi Genick",
+     "given": "D."
+    }
+   ],
+   "place": "Firenze",
+   "publisher": "Octavo Franco Cantini Editore"
+  },
+  {
+   "position": 7,
+   "raw": "COCCHI GENICK D. 1994, Manuale di Preistoria. Neolitico, Firenze, Octavo Franco Cantini Editore.",
+   "type": "book",
+   "date": "1994",
+   "title": "Manuale di Preistoria. Neolitico",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Cocchi Genick",
+     "given": "D."
+    }
+   ],
+   "place": "Firenze",
+   "publisher": "Octavo Franco Cantini Editore"
+  },
+  {
+   "position": 8,
+   "raw": "COCCHI GENICK D. 1996, Manuale di Preistoria. Età del Rame, Firenze, Octavo Franco Cantini Editore.",
+   "type": "book",
+   "date": "1996",
+   "title": "Manuale di Preistoria. Età del Rame",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Cocchi Genick",
+     "given": "D."
+    }
+   ],
+   "place": "Firenze",
+   "publisher": "Octavo Franco Cantini Editore"
+  },
+  {
+   "position": 9,
+   "raw": "FUGAZZOLA DELPINO M.A., PESSINA A., TINÉ V. (eds.) 2004, Il Neolitico in Italia, Origines. Studi e Materiali pubblicati a cura dell'Istituto Italiano di Preistoria e Protostoria, Firenze.",
+   "type": "book",
+   "date": "2004",
+   "title": "Il Neolitico in Italia",
+   "language": "ita",
+   "confidence": "high",
+   "editors": [
+    {
+     "family": "Fugazzola Delpino",
+     "given": "M.A."
+    },
+    {
+     "family": "Pessina",
+     "given": "A."
+    },
+    {
+     "family": "Tiné",
+     "given": "V."
+    }
+   ],
+   "series": "Origines. Studi e Materiali pubblicati a cura dell'Istituto Italiano di Preistoria e Protostoria",
+   "place": "Firenze"
+  },
+  {
+   "position": 10,
+   "raw": "GALIBERTI A. 1997, Il Paleolitico e il Mesolitico della Toscana, Poggibonsi, Lalli Editore.",
+   "type": "book",
+   "date": "1997",
+   "title": "Il Paleolitico e il Mesolitico della Toscana",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Galiberti",
+     "given": "A."
+    }
+   ],
+   "place": "Poggibonsi",
+   "publisher": "Lalli Editore"
+  },
+  {
+   "position": 11,
+   "raw": "GUIDI A., PIPERNO M. (eds.) 1992, Italia preistorica, Bari, Laterza.",
+   "type": "book",
+   "date": "1992",
+   "title": "Italia preistorica",
+   "language": "ita",
+   "confidence": "high",
+   "editors": [
+    {
+     "family": "Guidi",
+     "given": "A."
+    },
+    {
+     "family": "Piperno",
+     "given": "M."
+    }
+   ],
+   "place": "Bari",
+   "publisher": "Laterza"
+  },
+  {
+   "position": 12,
+   "raw": "LENZI A., NENZIONI G. (eds.) 1996, Lettere di pietra. I depositi pleistocenici: sedimenti, industrie e faune del margine appenninico bolognese, Bologna, Editrice Compositori.",
+   "type": "book",
+   "date": "1996",
+   "title": "Lettere di pietra. I depositi pleistocenici: sedimenti, industrie e faune del margine appenninico bolognese",
+   "language": "ita",
+   "confidence": "high",
+   "editors": [
+    {
+     "family": "Lenzi",
+     "given": "A."
+    },
+    {
+     "family": "Nenzioni",
+     "given": "G."
+    }
+   ],
+   "place": "Bologna",
+   "publisher": "Editrice Compositori"
+  },
+  {
+   "position": 13,
+   "raw": "LEROI-GOURHAN A. (ed.) 1991, Dizionario di Preistoria, Torino, Einaudi.",
+   "type": "book",
+   "date": "1991",
+   "title": "Dizionario di Preistoria",
+   "language": "ita",
+   "confidence": "high",
+   "editors": [
+    {
+     "family": "Leroi-Gourhan",
+     "given": "A."
+    }
+   ],
+   "place": "Torino",
+   "publisher": "Einaudi"
+  },
+  {
+   "position": 14,
+   "raw": "LOWENTHAL D. 1985, The Past is a Foreign Country, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "date": "1985",
+   "title": "The Past is a Foreign Country",
+   "language": "eng",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Lowenthal",
+     "given": "D."
+    }
+   ],
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press"
+  },
+  {
+   "position": 15,
+   "raw": "MANCINELLI M.L. 2004, Sistema Informativo Generale del Catalogo: nuovi strumenti per la gestione integrata delle conoscenze sui beni archeologici, in P. MOSCATI (ed.), Nuove frontiere della ricerca archeologica. Linguaggi, comunicazione, informatica / New Frontiers of Archaeological Research. Languages, Communication, Information Technology, «Archeologia e Calcolatori», 15, 115-128.",
+   "type": "article",
+   "date": "2004",
+   "title": "Sistema Informativo Generale del Catalogo: nuovi strumenti per la gestione integrata delle conoscenze sui beni archeologici",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Mancinelli",
+     "given": "M.L."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "15",
+   "pages": "115-128",
+   "cited_aec_id": 375,
+   "notes": "cited as in P. Moscati (ed.), Nuove frontiere della ricerca archeologica (AeC 15 issue title)"
+  },
+  {
+   "position": 16,
+   "raw": "MUSSI M. 1992, Il Paleolitico e il Mesolitico in Italia, in Popoli e Civiltà dell'Italia antica, Bologna, Biblioteca di Storia Patria.",
+   "type": "chapter",
+   "date": "1992",
+   "title": "Il Paleolitico e il Mesolitico in Italia",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Mussi",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Popoli e Civiltà dell'Italia antica"
+   ],
+   "place": "Bologna",
+   "publisher": "Biblioteca di Storia Patria"
+  },
+  {
+   "position": 17,
+   "raw": "ODETTI G. 1990, Bibliografia preistorica della Liguria (con elenco delle principali località preistoriche liguri), Genova, Università di Genova.",
+   "type": "book",
+   "date": "1990",
+   "title": "Bibliografia preistorica della Liguria (con elenco delle principali località preistoriche liguri)",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Odetti",
+     "given": "G."
+    }
+   ],
+   "place": "Genova",
+   "publisher": "Università di Genova"
+  },
+  {
+   "position": 18,
+   "raw": "PALMA DI CESNOLA A. 1993, Il Paleolitico superiore in Italia. Introduzione allo studio, Firenze, Garlatti e Razzai.",
+   "type": "book",
+   "date": "1993",
+   "title": "Il Paleolitico superiore in Italia. Introduzione allo studio",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Palma di Cesnola",
+     "given": "A."
+    }
+   ],
+   "place": "Firenze",
+   "publisher": "Garlatti e Razzai"
+  },
+  {
+   "position": 19,
+   "raw": "PALMA DI CESNOLA A. 2001, Il Paleolitico inferiore e medio in Italia, Firenze, Museo Fiorentino di Preistoria \"Paolo Graziosi\".",
+   "type": "book",
+   "date": "2001",
+   "title": "Il Paleolitico inferiore e medio in Italia",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Palma di Cesnola",
+     "given": "A."
+    }
+   ],
+   "place": "Firenze",
+   "publisher": "Museo Fiorentino di Preistoria \"Paolo Graziosi\""
+  },
+  {
+   "position": 20,
+   "raw": "PARDI G., VENTURI D. 2003, Dizionario dei soggetti e Thesaurus di Toponomastica Antica (TTA), «Archeologia e Calcolatori», 14, 73-96.",
+   "type": "article",
+   "date": "2003",
+   "title": "Dizionario dei soggetti e Thesaurus di Toponomastica Antica (TTA)",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Pardi",
+     "given": "G."
+    },
+    {
+     "family": "Venturi",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "14",
+   "pages": "73-96",
+   "cited_aec_id": 354
+  },
+  {
+   "position": 21,
+   "raw": "PARENTI F., VIENNA A. 1999, L'antropologia in Italia nelle pagine della Rivista di Antropologia: catalogo informatico dei volumi 1-76 (1893-1998), «Rivista di Antropologia», 77, 1-14.",
+   "type": "article",
+   "date": "1999",
+   "title": "L'antropologia in Italia nelle pagine della Rivista di Antropologia: catalogo informatico dei volumi 1-76 (1893-1998)",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Parenti",
+     "given": "F."
+    },
+    {
+     "family": "Vienna",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Rivista di Antropologia"
+   ],
+   "volume": "77",
+   "pages": "1-14"
+  },
+  {
+   "position": 22,
+   "raw": "PERONI R. 1996, L'Italia alle soglie della storia, Bari, Laterza.",
+   "type": "book",
+   "date": "1996",
+   "title": "L'Italia alle soglie della storia",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Peroni",
+     "given": "R."
+    }
+   ],
+   "place": "Bari",
+   "publisher": "Laterza"
+  },
+  {
+   "position": 23,
+   "raw": "RADMILLI A.M. (ed.) 1978, Piccola guida della preistoria italiana, Firenze, Sansoni.",
+   "type": "book",
+   "date": "1978",
+   "title": "Piccola guida della preistoria italiana",
+   "language": "ita",
+   "confidence": "high",
+   "editors": [
+    {
+     "family": "Radmilli",
+     "given": "A.M."
+    }
+   ],
+   "place": "Firenze",
+   "publisher": "Sansoni"
+  }
+ ]
+}

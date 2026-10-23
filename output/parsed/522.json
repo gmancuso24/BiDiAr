@@ -1,0 +1,458 @@
+{
+ "citing_aec_id": 522,
+ "source_file": "data/journal/20/522.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Banzola V. (ed.) 1978, Parma la città storica, Parma, Arte Grafica Silva.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Banzola",
+     "given": "V."
+    }
+   ],
+   "date": "1978",
+   "title": "Parma la città storica",
+   "language": "ita",
+   "publisher": "Arte Grafica Silva",
+   "place": "Parma",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bigliardi G. 2006, Sistema Informativo Territoriale Archeologico della città di Parma, Tesi di Master di II Livello in Geotecnologie per l’Archeologia, Centro di GeoTecnologie, Università degli Studi di Siena.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Bigliardi",
+     "given": "G."
+    }
+   ],
+   "date": "2006",
+   "title": "Sistema Informativo Territoriale Archeologico della città di Parma",
+   "publisher": "Università degli Studi di Siena",
+   "language": "ita",
+   "notes": "Tesi di Master di II Livello in Geotecnologie per l'Archeologia, Centro di GeoTecnologie",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bigliardi G. 2007, Il Sistema Informativo Territoriale Archeologico della città di Parma, «Archeologia e Calcolatori», 18, 75-100.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bigliardi",
+     "given": "G."
+    }
+   ],
+   "date": "2007",
+   "title": "Il Sistema Informativo Territoriale Archeologico della città di Parma",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "cited_aec_id": 436,
+   "volume": "18",
+   "pages": "75-100",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bigliardi G. 2008a, Il Sistema Informativo Territoriale Archeologico del Comune di Parma. Manuale di riferimento, Parma.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Bigliardi",
+     "given": "G."
+    }
+   ],
+   "date": "2008",
+   "title": "Il Sistema Informativo Territoriale Archeologico del Comune di Parma. Manuale di riferimento",
+   "place": "Parma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bigliardi G. 2008b, Linee guida della Carta della Potenzialità Archeologica del Comune di Parma, Parma.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Bigliardi",
+     "given": "G."
+    }
+   ],
+   "date": "2008",
+   "title": "Linee guida della Carta della Potenzialità Archeologica del Comune di Parma",
+   "place": "Parma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Brogiolo G.P. 2000b, Valutazione, in Francovich, Manacorda 2000, 356-357.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2000",
+   "title": "Valutazione",
+   "is_part_of": [
+    "Dizionario di archeologia"
+   ],
+   "language": "ita",
+   "xref": 11,
+   "pages": "356-357",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Campeol G., Pizzinato C. 2007, Metodologia per la valutazione dell’impatto archeologico, «Archeologia e Calcolatori», 18, 273-292.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Campeol",
+     "given": "G."
+    },
+    {
+     "family": "Pizzinato",
+     "given": "C."
+    }
+   ],
+   "date": "2007",
+   "title": "Metodologia per la valutazione dell'impatto archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "cited_aec_id": 445,
+   "volume": "18",
+   "pages": "273-292",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Carver M. 1981, Sampling towns: an optimistic strategy, in Clack, Hazelgrove 1981, 65-91.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Carver",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Clack",
+     "given": "P."
+    },
+    {
+     "family": "Hazelgrove",
+     "given": "S."
+    }
+   ],
+   "date": "1981",
+   "title": "Sampling towns: an optimistic strategy",
+   "is_part_of": [
+    "Approaches to the Urban Past"
+   ],
+   "language": "eng",
+   "xref": 10,
+   "pages": "65-91",
+   "publisher": "University of Durham",
+   "place": "Durham",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Carver M. 1983, Valutazione, strategia e analisi nei siti pluristratificati, «Archeologia Medievale», 10, 49-71.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carver",
+     "given": "M."
+    }
+   ],
+   "date": "1983",
+   "title": "Valutazione, strategia e analisi nei siti pluristratificati",
+   "is_part_of": [
+    "Archeologia Medievale"
+   ],
+   "language": "ita",
+   "volume": "10",
+   "pages": "49-71",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Clack P., Hazelgrove S. (eds.) 1981, Approaches to the Urban Past, Durham, University of Durham.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Clack",
+     "given": "P."
+    },
+    {
+     "family": "Hazelgrove",
+     "given": "S."
+    }
+   ],
+   "date": "1981",
+   "title": "Approaches to the Urban Past",
+   "language": "eng",
+   "publisher": "University of Durham",
+   "place": "Durham",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Francovich R., Manacorda D. (eds.) 2000, Dizionario di archeologia, Roma-Bari, Laterza.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2000",
+   "title": "Dizionario di archeologia",
+   "language": "ita",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Gelichi S. (ed.) 2001a, Dalla carta del rischio archeologico di Cesena alla tutela preventiva in Europa. Atti del Convegno di Studi (Cesena 1999), Firenze, All’Insegna del Giglio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Gelichi",
+     "given": "S."
+    }
+   ],
+   "date": "2001",
+   "title": "Dalla carta del rischio archeologico di Cesena alla tutela preventiva in Europa. Atti del Convegno di Studi (Cesena 1999)",
+   "language": "ita",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Gelichi S. 2001b, Un rischio calcolato, qualche nota a margine della carta di Cesena, in Gelichi 2001a, 7-9.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gelichi",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gelichi",
+     "given": "S."
+    }
+   ],
+   "date": "2001",
+   "title": "Un rischio calcolato, qualche nota a margine della carta di Cesena",
+   "is_part_of": [
+    "Dalla carta del rischio archeologico di Cesena alla tutela preventiva in Europa. Atti del Convegno di Studi (Cesena 1999)"
+   ],
+   "language": "ita",
+   "xref": 12,
+   "pages": "7-9",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Gelichi S. 2002, Città pluristratificate: la conoscenza e la conservazione dei bacini archeologici, in Ricci 2002, 61-72.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gelichi",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ricci",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Città pluristratificate: la conoscenza e la conservazione dei bacini archeologici",
+   "is_part_of": [
+    "Archeologia e urbanistica. XII Ciclo di Lezioni sulla Ricerca Applicata in Archeologia (Certosa di Pontignano, Siena, 2001)"
+   ],
+   "language": "ita",
+   "xref": 21,
+   "pages": "61-72",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Gelichi S., Alberti A., Librenti M. (eds.) 1999, Cesena: la memoria del passato. Archeologia urbana e valutazione dei depositi, Firenze, All’Insegna del Giglio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Gelichi",
+     "given": "S."
+    },
+    {
+     "family": "Alberti",
+     "given": "A."
+    },
+    {
+     "family": "Librenti",
+     "given": "M."
+    }
+   ],
+   "date": "1999",
+   "title": "Cesena: la memoria del passato. Archeologia urbana e valutazione dei depositi",
+   "language": "ita",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Guarnieri C. (ed.) 2000, Progettare il passato. Faenza tra pianificazione urbana e Carta Archeologica, Firenze, All’Insegna del Giglio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Guarnieri",
+     "given": "C."
+    }
+   ],
+   "date": "2000",
+   "title": "Progettare il passato. Faenza tra pianificazione urbana e Carta Archeologica",
+   "language": "ita",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Malnati L. 2005, La verifica preventiva dell’interesse archeologico, «Aedon. Rivista di Arti e Diritto on line», 3 (http://www.aedon.mulino.it/).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Malnati",
+     "given": "L."
+    }
+   ],
+   "date": "2005",
+   "title": "La verifica preventiva dell'interesse archeologico",
+   "is_part_of": [
+    "Aedon. Rivista di Arti e Diritto on line"
+   ],
+   "language": "ita",
+   "uri": "http://www.aedon.mulino.it/",
+   "issue": "3",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Manacorda D. 2004, Prima lezione di archeologia, Roma-Bari, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2004",
+   "title": "Prima lezione di archeologia",
+   "language": "ita",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Marini Calvani M. 1978, Parma nell’antichità, in Banzola 1978, 19-70.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Marini Calvani",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Banzola",
+     "given": "V."
+    }
+   ],
+   "date": "1978",
+   "title": "Parma nell'antichità",
+   "is_part_of": [
+    "Parma la città storica"
+   ],
+   "language": "ita",
+   "xref": 1,
+   "pages": "19-70",
+   "publisher": "Arte Grafica Silva",
+   "place": "Parma",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Ricci A. 1996, I mali dell’abbondanza. Considerazioni impolitiche sui beni culturali, Roma, Lithos.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ricci",
+     "given": "A."
+    }
+   ],
+   "date": "1996",
+   "title": "I mali dell'abbondanza. Considerazioni impolitiche sui beni culturali",
+   "language": "ita",
+   "publisher": "Lithos",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Ricci A. (ed.) 2002, Archeologia e urbanistica. XII Ciclo di Lezioni sulla Ricerca Applicata in Archeologia (Certosa di Pontignano, Siena, 2001), Firenze, All’Insegna del Giglio.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Ricci",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Archeologia e urbanistica. XII Ciclo di Lezioni sulla Ricerca Applicata in Archeologia (Certosa di Pontignano, Siena, 2001)",
+   "language": "ita",
+   "publisher": "All'Insegna del Giglio",
+   "place": "Firenze",
+   "confidence": "high"
+  }
+ ]
+}

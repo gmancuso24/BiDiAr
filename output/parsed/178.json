@@ -1,0 +1,975 @@
+{
+ "citing_aec_id": 178,
+ "source_file": "data/journal/7/178.md",
+ "references": [
+  {
+   "raw": "BENDER T.K. 1976, Literary texts in electronic storage: The editorial potential, «Computers and the Humanities», 10, 4, 193-200",
+   "date": "1976",
+   "creators": [
+    {
+     "family": "Bender",
+     "given": "T.K."
+    }
+   ],
+   "type": "article",
+   "title": "Literary texts in electronic storage: The editorial potential",
+   "is_part_of": [
+    "Computers and the Humanities"
+   ],
+   "pages": "193-200",
+   "volume": "10",
+   "issue": "4",
+   "language": "eng",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "WITTIG S. 1978, The computer and the concept of text, «Computers and the Humanities», 11, 4, 211-215",
+   "date": "1978",
+   "creators": [
+    {
+     "family": "Wittig",
+     "given": "S."
+    }
+   ],
+   "type": "article",
+   "title": "The computer and the concept of text",
+   "is_part_of": [
+    "Computers and the Humanities"
+   ],
+   "pages": "211-215",
+   "volume": "11",
+   "issue": "4",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "ADAMO G. 1994, Bibliografia di Informatica umanistica, Roma, Bulzoni",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Adamo",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Bibliografia di Informatica umanistica",
+   "place": "Roma",
+   "publisher": "Bulzoni",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "BARTOLETTI COLOMBO A.M. (ed.) 1977-1979, Legum Justiniani Imperatoris Vocabularium. Novellae. Pars latina, Milano, Cisalpino - La Goliardica, 11 voll.",
+   "date": "1977",
+   "editors": [
+    {
+     "family": "Bartoletti Colombo",
+     "given": "A.M."
+    }
+   ],
+   "type": "book",
+   "title": "Legum Justiniani Imperatoris Vocabularium. Novellae. Pars latina, Milano, Cisalpino - La Goliardica, 11 voll",
+   "language": "lat",
+   "confidence": "high",
+   "position": 4,
+   "place": "Milano",
+   "publisher": "Cisalpino - La Goliardica",
+   "notes": "11 voll.; cited 1977-1979; date set to first year"
+  },
+  {
+   "raw": "BARTOLETTI COLOMBO A.M. (ed.) 1986-1989, Legum Justiniani Imperatoris Vocabularium. Novellae. Pars graeca, Milano, Cisalpino - La Goliardica, 7 voll.",
+   "date": "1986",
+   "editors": [
+    {
+     "family": "Bartoletti Colombo",
+     "given": "A.M."
+    }
+   ],
+   "type": "book",
+   "title": "Legum Justiniani Imperatoris Vocabularium. Novellae. Pars graeca, Milano, Cisalpino - La Goliardica, 7 voll",
+   "language": "lat",
+   "confidence": "high",
+   "position": 5,
+   "place": "Milano",
+   "publisher": "Cisalpino - La Goliardica",
+   "notes": "7 voll.; cited 1986-1989; date set to first year"
+  },
+  {
+   "raw": "FONDAZIONE IBM ITALIA 1992, Calcolatori e scienze umane, a cura di Marcello Morelli, Milano, Etas Libri",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Fondazione IBM Italia",
+     "given": ""
+    }
+   ],
+   "type": "book",
+   "title": "Calcolatori e scienze umane",
+   "place": "Milano",
+   "publisher": "Etas Libri",
+   "language": "ita",
+   "confidence": "high",
+   "position": 6,
+   "editors": [
+    {
+     "family": "Morelli",
+     "given": "Marcello"
+    }
+   ]
+  },
+  {
+   "raw": "GALLINO L. (ed.) 1991, Informatica e scienze umane. Lo stato dell'arte, Milano, Franco Angeli",
+   "date": "1991",
+   "editors": [
+    {
+     "family": "Gallino",
+     "given": "L."
+    }
+   ],
+   "type": "book",
+   "title": "Informatica e scienze umane. Lo stato dell'arte",
+   "place": "Milano",
+   "publisher": "Franco Angeli",
+   "language": "ita",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "GIGLIOZZI G. 1993, Letteratura modelli e computer, Roma, EUROMA-la Goliardica",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Gigliozzi",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Letteratura modelli e computer",
+   "place": "Roma",
+   "publisher": "EUROMA-la Goliardica",
+   "language": "eng",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "LOSANO M.G. 1985-1986, Informatica per le scienze sociali. Corso di informatica giuridica, Torino, Einaudi, 3 voll.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Losano",
+     "given": "M.G."
+    }
+   ],
+   "type": "book",
+   "title": "Informatica per le scienze sociali. Corso di informatica giuridica, Torino, Einaudi, 3 voll",
+   "language": "ita",
+   "confidence": "high",
+   "position": 9,
+   "place": "Torino",
+   "publisher": "Einaudi",
+   "notes": "3 voll.; cited 1985-1986; date set to first year"
+  },
+  {
+   "raw": "MORDENTI R. (ed.) 1990, Bartolomeo Cerretani, «Dialogo della mutatione di Firenze». Edizione critica secondo l'apografo magliabechiano, Roma, Edizioni di Storia e Letteratura",
+   "date": "1990",
+   "editors": [
+    {
+     "family": "Mordenti",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Bartolomeo Cerretani, Dialogo della mutatione di Firenze. Edizione critica secondo l'apografo magliabechiano",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10,
+   "place": "Roma",
+   "publisher": "Edizioni di Storia e Letteratura"
+  },
+  {
+   "raw": "ORLANDI T. 1990, Informatica Umanistica, Roma, La Nuova Italia Scientifica",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "type": "book",
+   "title": "Informatica Umanistica",
+   "place": "Roma",
+   "publisher": "La Nuova Italia Scientifica",
+   "language": "eng",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "ORLANDI T. (ed.) 1993, Discipline umanistiche e informatica. Il problema dell'integrazione (Roma, 8 ottobre 1991), Roma, Accademia Nazionale dei Lincei",
+   "date": "1993",
+   "editors": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "type": "book",
+   "title": "Discipline umanistiche e informatica. Il problema dell'integrazione (Roma, 8 ottobre 1991)",
+   "place": "Roma",
+   "publisher": "Accademia Nazionale dei Lincei",
+   "language": "ita",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "PICCHI E. 1989, DBT. Data Base Testuale, Pisa, Istituto di Linguistica Computazionale - CNR",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Picchi",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "DBT. Data Base Testuale",
+   "place": "Pisa",
+   "publisher": "Istituto di Linguistica Computazionale - CNR",
+   "language": "eng",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "SAVOCA G. (ed.) 1986, Lessicografia, filologia e critica. Atti del Convegno Internazionale di Studi (Catania-Siracusa, 26-28 aprile 1985), Firenze, Leo S. Olschki",
+   "date": "1986",
+   "editors": [
+    {
+     "family": "Savoca",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Lessicografia, filologia e critica. Atti del Convegno Internazionale di Studi (Catania-Siracusa, 26-28 aprile 1985)",
+   "place": "Firenze",
+   "publisher": "Leo S. Olschki",
+   "language": "ita",
+   "confidence": "high",
+   "position": 14
+  },
+  {
+   "raw": "SAVOCA G. (ed.) 1989, Per la lingua di Montale. Atti dell'incontro di studio (Firenze, 26 novembre 1987), con appendice di liste alla concordanza montaliana, Firenze, Leo S. Olschki",
+   "date": "1989",
+   "editors": [
+    {
+     "family": "Savoca",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Per la lingua di Montale. Atti dell'incontro di studio (Firenze, 26 novembre 1987), con appendice di liste alla concordanza montaliana",
+   "place": "Firenze",
+   "publisher": "Leo S. Olschki",
+   "language": "ita",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "SPINOSA G. (ed.) 1990, with the collaboration of L. Farina, Special Double Issue: Humanities Computing in Italy, «Computers and the Humanities», 24, 5-6, 337-493",
+   "date": "1990",
+   "editors": [
+    {
+     "family": "Spinosa",
+     "given": "G."
+    }
+   ],
+   "type": "article",
+   "title": "Special Double Issue: Humanities Computing in Italy",
+   "is_part_of": [
+    "Computers and the Humanities"
+   ],
+   "pages": "337-493",
+   "volume": "24",
+   "issue": "5-6",
+   "language": "eng",
+   "confidence": "high",
+   "position": 16,
+   "notes": "with the collaboration of L. Farina"
+  },
+  {
+   "raw": "STOPPELLI P., PICCHI E. (eds.) 1993, LIZ - Letteratura Italiana Zanichelli. CD-ROM dei testi della Letteratura italiana, Bologna, Zanichelli",
+   "date": "1993",
+   "editors": [
+    {
+     "family": "Stoppelli",
+     "given": "P."
+    },
+    {
+     "family": "Picchi",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "LIZ - Letteratura Italiana Zanichelli. CD-ROM dei testi della Letteratura italiana",
+   "place": "Bologna",
+   "publisher": "Zanichelli",
+   "language": "ita",
+   "confidence": "high",
+   "position": 17
+  },
+  {
+   "raw": "ADAMO G. 1987, La codifica come rappresentazione. Trasmissione e trattamento dell'informazione nell'elaborazione automatica di dati in ambito umanistico, in G. GIGLIOZZI (ed.), Studi di codifica e trattamento automatico di testi, Roma, Bulzoni, 39-63",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Adamo",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "La codifica come rappresentazione. Trasmissione e trattamento dell'informazione nell'elaborazione automatica di dati in ambito umanistico",
+   "editors": [
+    {
+     "family": "Gigliozzi",
+     "given": "G."
+    }
+   ],
+   "pages": "39-63",
+   "is_part_of": [
+    "Studi di codifica e trattamento automatico di testi"
+   ],
+   "place": "Roma",
+   "publisher": "Bulzoni",
+   "language": "ita",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "ADAMO G. 1992, Analisi informatica di testi: problemi e prospettive, in Calcolatori e scienze umane, Milano, Etas Libri, 350-365",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Adamo",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Analisi informatica di testi: problemi e prospettive",
+   "pages": "350-365",
+   "is_part_of": [
+    "Calcolatori e scienze umane"
+   ],
+   "place": "Milano",
+   "publisher": "Etas Libri",
+   "language": "ita",
+   "confidence": "high",
+   "position": 19
+  },
+  {
+   "raw": "BURNARD L. 1995, What is SGML and how does it help?, «Computers and the Humanities», 29, 1, 41-50",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Burnard",
+     "given": "L."
+    }
+   ],
+   "type": "article",
+   "title": "What is SGML and how does it help?",
+   "is_part_of": [
+    "Computers and the Humanities"
+   ],
+   "pages": "41-50",
+   "volume": "29",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 20
+  },
+  {
+   "raw": "CIOTTI F. 1994, Il testo elettronico: memorizzazione, codifica ed edizione, in C. LEONARDI, M. MORELLI, F. SANTI (eds.), Macchine per leggere. Tradizioni e nuove tecnologie per comprendere i testi, Spoleto, Centro Italiano di Studi sull'Alto Medioevo, 213-230",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Ciotti",
+     "given": "F."
+    }
+   ],
+   "type": "chapter",
+   "title": "Il testo elettronico: memorizzazione, codifica ed edizione",
+   "editors": [
+    {
+     "family": "Leonardi",
+     "given": "C."
+    },
+    {
+     "family": "Morelli",
+     "given": "M."
+    },
+    {
+     "family": "Santi",
+     "given": "F."
+    }
+   ],
+   "pages": "213-230",
+   "is_part_of": [
+    "Macchine per leggere. Tradizioni e nuove tecnologie per comprendere i testi, Spoleto, Centro Italiano di Studi sull'Alto Medioevo"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 21
+  },
+  {
+   "raw": "GIGLIOZZI G. (ed.) 1987, Studi di codifica e trattamento automatico di testi, Roma, Bulzoni",
+   "date": "1987",
+   "editors": [
+    {
+     "family": "Gigliozzi",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Studi di codifica e trattamento automatico di testi",
+   "place": "Roma",
+   "publisher": "Bulzoni",
+   "language": "ita",
+   "confidence": "high",
+   "position": 22
+  },
+  {
+   "raw": "LANA M. 1994, L'uso del computer nell'analisi dei testi, Milano, Franco Angeli",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Lana",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "L'uso del computer nell'analisi dei testi",
+   "place": "Milano",
+   "publisher": "Franco Angeli",
+   "language": "ita",
+   "confidence": "high",
+   "position": 23
+  },
+  {
+   "raw": "MORDENTI R. 1987, Appunti per una semiotica della trascrizione nella procedura ecdotica computazionale, in G. GIGLIOZZI (ed.), Studi di codifica e trattamento automatico di testi, Roma, Bulzoni, 85-124",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Mordenti",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Appunti per una semiotica della trascrizione nella procedura ecdotica computazionale",
+   "editors": [
+    {
+     "family": "Gigliozzi",
+     "given": "G."
+    }
+   ],
+   "pages": "85-124",
+   "is_part_of": [
+    "Studi di codifica e trattamento automatico di testi"
+   ],
+   "place": "Roma",
+   "publisher": "Bulzoni",
+   "language": "ita",
+   "confidence": "high",
+   "position": 24
+  },
+  {
+   "raw": "ORLANDI T. 1986, Problemi di codifica e trattamento informatico in campo filologico, in G. SAVOCA (ed.), Lessicografia, filologia e critica, Firenze, Olschki, 69-82",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "type": "chapter",
+   "title": "Problemi di codifica e trattamento informatico in campo filologico",
+   "editors": [
+    {
+     "family": "Savoca",
+     "given": "G."
+    }
+   ],
+   "pages": "69-82",
+   "is_part_of": [
+    "Lessicografia, filologia e critica"
+   ],
+   "place": "Firenze",
+   "publisher": "Olschki",
+   "language": "ita",
+   "confidence": "high",
+   "position": 25
+  },
+  {
+   "raw": "ORLANDI T. 1995, Alla base dell'analisi dei testi: il problema della codifica, in G. DEGLI ANTONI et al., Scrivere comunicare apprendere con le nuove tecnologie, a cura di Mario Ricciardi, Torino, Bollati Boringhieri, 69-86",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Orlandi",
+     "given": "T."
+    }
+   ],
+   "type": "chapter",
+   "title": "Alla base dell'analisi dei testi: il problema della codifica",
+   "pages": "69-86",
+   "is_part_of": [
+    "Scrivere comunicare apprendere con le nuove tecnologie"
+   ],
+   "place": "Torino",
+   "publisher": "Bollati Boringhieri",
+   "language": "ita",
+   "confidence": "high",
+   "position": 26,
+   "editors": [
+    {
+     "family": "Ricciardi",
+     "given": "Mario"
+    }
+   ],
+   "notes": "cited \"G. DEGLI ANTONI et al., ..., a cura di Mario Ricciardi\""
+  },
+  {
+   "raw": "SPERBERG-MCQUEEN C.M. 1991, Text in the electronic age. Textual study and text encoding, with examples from medieval texts, «Literary and Linguistic Computing», 6, 1, 34-46",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Sperberg-Mcqueen",
+     "given": "C.M."
+    }
+   ],
+   "type": "article",
+   "title": "Text in the electronic age. Textual study and text encoding, with examples from medieval texts",
+   "is_part_of": [
+    "Literary and Linguistic Computing"
+   ],
+   "pages": "34-46",
+   "volume": "6",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 27
+  },
+  {
+   "raw": "BRYAN M. 1988, SGML. An Author's Guide to the Standard Generalized Markup Language, Wokingham, Addison-Wesley",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Bryan",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "SGML. An Author's Guide to the Standard Generalized Markup Language",
+   "place": "Wokingham",
+   "publisher": "Addison-Wesley",
+   "language": "eng",
+   "confidence": "high",
+   "position": 28
+  },
+  {
+   "raw": "BURNARD L. 1995, What is SGML and how does it help?, «Computers and the Humanities», 29, 1, 41-50",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Burnard",
+     "given": "L."
+    }
+   ],
+   "type": "article",
+   "title": "What is SGML and how does it help?",
+   "is_part_of": [
+    "Computers and the Humanities"
+   ],
+   "pages": "41-50",
+   "volume": "29",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 29
+  },
+  {
+   "raw": "GENET J.-PH., ZAMPOLLI A. 1992, Computers and the Humanities, Aldershot, Dartmouth",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Genet J.-Ph.",
+     "given": ""
+    },
+    {
+     "family": "Zampolli",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Computers and the Humanities",
+   "place": "Aldershot",
+   "publisher": "Dartmouth",
+   "language": "eng",
+   "confidence": "high",
+   "position": 30
+  },
+  {
+   "raw": "GOLDFARB CH.F. 1990, The SGML Handbook, Oxford, Clarendon Press",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Goldfarb",
+     "given": "Ch.F."
+    }
+   ],
+   "type": "book",
+   "title": "The SGML Handbook",
+   "place": "Oxford",
+   "publisher": "Clarendon Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 31
+  },
+  {
+   "raw": "HERWIJNEN E. VAN 1994², Practical SGML, Boston, Kluwer",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Van Herwijnen",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "Practical SGML",
+   "place": "Boston",
+   "publisher": "Kluwer",
+   "language": "eng",
+   "confidence": "high",
+   "position": 32,
+   "edition": "2"
+  },
+  {
+   "raw": "IDE N.M., VÉRONIS J. (eds.) 1995, The Text Encoding Initiative: Background and Context, «Computers and the Humanities», 29, 1, 1-98; 2, 99-179; 3, 181-231",
+   "date": "1995",
+   "editors": [
+    {
+     "family": "Ide",
+     "given": "N.M."
+    },
+    {
+     "family": "Véronis",
+     "given": "J."
+    }
+   ],
+   "type": "article",
+   "title": "The Text Encoding Initiative: Background and Context",
+   "is_part_of": [
+    "Computers and the Humanities"
+   ],
+   "pages": "1-231",
+   "volume": "29",
+   "issue": "1-3",
+   "language": "eng",
+   "confidence": "high",
+   "position": 33,
+   "notes": "issues 1 (1-98), 2 (99-179), 3 (181-231)"
+  },
+  {
+   "raw": "IDE N.M., SPERBERG-MCQUEEN C.M. 1995, The TEI: History, goals and future, «Computers and the Humanities», 29, 1, 5-15",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Ide",
+     "given": "N.M."
+    },
+    {
+     "family": "Sperberg-Mcqueen",
+     "given": "C.M."
+    }
+   ],
+   "type": "article",
+   "title": "The TEI: History, goals and future",
+   "is_part_of": [
+    "Computers and the Humanities"
+   ],
+   "pages": "5-15",
+   "volume": "29",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 34
+  },
+  {
+   "raw": "ISO 8879: 1986, Information processing - Text and office systems - Standard Generalized Markup Language (SGML), Genève, ISO",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "ISO",
+     "given": ""
+    }
+   ],
+   "type": "other",
+   "title": "Information processing - Text and office systems - Standard Generalized Markup Language (SGML)",
+   "place": "Genève",
+   "publisher": "ISO",
+   "language": "eng",
+   "confidence": "high",
+   "position": 35,
+   "series": "ISO",
+   "series_number": "8879"
+  },
+  {
+   "raw": "ISO/TR 9573: 1988, Information processing - SGML support facilities - Techniques for using SGML, Genève, ISO",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "ISO",
+     "given": ""
+    }
+   ],
+   "type": "other",
+   "title": "Information processing - SGML support facilities - Techniques for using SGML",
+   "place": "Genève",
+   "publisher": "ISO",
+   "language": "eng",
+   "confidence": "high",
+   "position": 36,
+   "series": "ISO/TR",
+   "series_number": "9573"
+  },
+  {
+   "raw": "LANA M. 1994, L'uso del computer nell'analisi dei testi, Milano, Franco Angeli",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Lana",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "L'uso del computer nell'analisi dei testi",
+   "place": "Milano",
+   "publisher": "Franco Angeli",
+   "language": "ita",
+   "confidence": "high",
+   "position": 37
+  },
+  {
+   "raw": "LANCASHIRE I. 1991, The Humanities Computing Yearbook 1989-90. A Comprehensive Guide to Software and Other Resources, Oxford, Clarendon Press",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Lancashire",
+     "given": "I."
+    }
+   ],
+   "type": "book",
+   "title": "The Humanities Computing Yearbook 1989-90. A Comprehensive Guide to Software and Other Resources",
+   "place": "Oxford",
+   "publisher": "Clarendon Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 38
+  },
+  {
+   "raw": "MARCOS MARÍN F.A. 1994, Informática y humanidades, Madrid, Editorial Gredos",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Marcos Marín",
+     "given": "F.A."
+    }
+   ],
+   "type": "book",
+   "title": "Informática y humanidades",
+   "place": "Madrid",
+   "publisher": "Editorial Gredos",
+   "language": "spa",
+   "confidence": "high",
+   "position": 39
+  },
+  {
+   "raw": "SCOLARI A. 1995, Gli standard OSI per le biblioteche. Dalla biblioteca-catalogo alla biblioteca-nodo di rete, Milano, Editrice Bibliografica",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Scolari",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Gli standard OSI per le biblioteche. Dalla biblioteca-catalogo alla biblioteca-nodo di rete",
+   "place": "Milano",
+   "publisher": "Editrice Bibliografica",
+   "language": "ita",
+   "confidence": "high",
+   "position": 40
+  },
+  {
+   "raw": "SPERBERG-MCQUEEN C.M., BURNARD L. (eds.) 1990, Guidelines for the Encoding and Interchange of Machine-Readable Texts (TEI P1), Chicago-Oxford, Text Encoding Initiative",
+   "date": "1990",
+   "editors": [
+    {
+     "family": "Sperberg-Mcqueen",
+     "given": "C.M."
+    },
+    {
+     "family": "Burnard",
+     "given": "L."
+    }
+   ],
+   "type": "book",
+   "title": "Guidelines for the Encoding and Interchange of Machine-Readable Texts (TEI P1)",
+   "place": "Chicago-Oxford",
+   "publisher": "Text Encoding Initiative",
+   "language": "eng",
+   "confidence": "high",
+   "position": 41
+  },
+  {
+   "raw": "SPERBERG-MCQUEEN C.M., BURNARD L. (eds.) 1992, Guidelines for the Encoding and Interchange of Machine-Readable Texts (TEI P2), Chicago-Oxford, Text Encoding Initiative",
+   "date": "1992",
+   "editors": [
+    {
+     "family": "Sperberg-Mcqueen",
+     "given": "C.M."
+    },
+    {
+     "family": "Burnard",
+     "given": "L."
+    }
+   ],
+   "type": "book",
+   "title": "Guidelines for the Encoding and Interchange of Machine-Readable Texts (TEI P2)",
+   "place": "Chicago-Oxford",
+   "publisher": "Text Encoding Initiative",
+   "language": "eng",
+   "confidence": "high",
+   "position": 42
+  },
+  {
+   "raw": "SPERBERG-MCQUEEN C.M., BURNARD L. (eds.) 1994, Guidelines for Electronic Text Encoding and Interchange (TEI P3), Chicago-Oxford, Text Encoding Initiative, 2 voll.",
+   "date": "1994",
+   "editors": [
+    {
+     "family": "Sperberg-Mcqueen",
+     "given": "C.M."
+    },
+    {
+     "family": "Burnard",
+     "given": "L."
+    }
+   ],
+   "type": "book",
+   "title": "Guidelines for Electronic Text Encoding and Interchange (TEI P3), Chicago-Oxford, Text Encoding Initiative, 2 voll",
+   "language": "eng",
+   "confidence": "high",
+   "position": 43,
+   "place": "Chicago-Oxford",
+   "publisher": "Text Encoding Initiative",
+   "notes": "2 voll."
+  },
+  {
+   "raw": "SPERBERG-MCQUEEN C.M., BURNARD L. 1995, The design of the TEI encoding scheme, «Computers and the Humanities», 29, 1, 17-39",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Sperberg-Mcqueen",
+     "given": "C.M."
+    },
+    {
+     "family": "Burnard",
+     "given": "L."
+    }
+   ],
+   "type": "article",
+   "title": "The design of the TEI encoding scheme",
+   "is_part_of": [
+    "Computers and the Humanities"
+   ],
+   "pages": "17-39",
+   "volume": "29",
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 44
+  },
+  {
+   "raw": "CALZOLARI N., MCNAUGHT J. 1994, EAGLES Interim Report. Editors' Introduction (EAG-EB-IR-2), Pisa, ILC-CNR.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Calzolari",
+     "given": "N."
+    },
+    {
+     "family": "McNaught",
+     "given": "J."
+    }
+   ],
+   "type": "book",
+   "title": "EAGLES Interim Report. Editors' Introduction (EAG-EB-IR-2)",
+   "place": "Pisa",
+   "publisher": "ILC-CNR",
+   "language": "eng",
+   "confidence": "high",
+   "position": 45
+  },
+  {
+   "raw": "EAGLES 1994, Corpus Encoding. Draft - Work in progress (EAG-CSG/IR-T2.1), Pisa, ILC-CNR.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Eagles",
+     "given": ""
+    }
+   ],
+   "type": "book",
+   "title": "Corpus Encoding. Draft - Work in progress (EAG-CSG/IR-T2.1)",
+   "place": "Pisa",
+   "publisher": "ILC-CNR",
+   "language": "eng",
+   "confidence": "high",
+   "position": 46
+  },
+  {
+   "raw": "ISO/IEC 10646-1: 1993, Information Technology - Universal Multiple-Octet Coded Character Set (UCS) - Part 1: Architecture and Basic Multilingual Plane, Genève, ISO.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "ISO/IEC",
+     "given": ""
+    }
+   ],
+   "type": "other",
+   "title": "Information Technology - Universal Multiple-Octet Coded Character Set (UCS) - Part 1: Architecture and Basic Multilingual Plane",
+   "place": "Genève",
+   "publisher": "ISO",
+   "language": "eng",
+   "confidence": "high",
+   "position": 47,
+   "series": "ISO/IEC",
+   "series_number": "10646-1"
+  },
+  {
+   "raw": "THE UNICODE CONSORTIUM 1991-1992, The Unicode Standard. Worldwide Character Encoding. Version 1.0, Reading (Mass.), Addison-Wesley, 2 voll.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "The Unicode Consortium",
+     "given": ""
+    }
+   ],
+   "type": "book",
+   "title": "The Unicode Standard. Worldwide Character Encoding. Version 1.0, Reading (Mass.), Addison-Wesley, 2 voll",
+   "language": "eng",
+   "confidence": "high",
+   "position": 48,
+   "place": "Reading (Mass.)",
+   "publisher": "Addison-Wesley",
+   "notes": "2 voll.; cited 1991-1992; date set to first year"
+  }
+ ]
+}

@@ -1,0 +1,830 @@
+{
+ "citing_aec_id": 1287,
+ "source_file": "data/journal/35/1287.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Bonadies M., Lippolis A.S., Michetti L.M., Zampaglione A. 2023, *Vulci nel Mondo. Un museo virtuale del patrimonio disperso*, «Mélanges de l'École française de Rome, Antiquité», 135, 2, 435-446.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bonadies",
+     "given": "M."
+    },
+    {
+     "family": "Lippolis",
+     "given": "A.S."
+    },
+    {
+     "family": "Michetti",
+     "given": "L.M."
+    },
+    {
+     "family": "Zampaglione",
+     "given": "A."
+    }
+   ],
+   "date": "2023",
+   "title": "Vulci nel Mondo. Un museo virtuale del patrimonio disperso",
+   "is_part_of": [
+    "Mélanges de l'École française de Rome, Antiquité"
+   ],
+   "volume": "135",
+   "issue": "2",
+   "pages": "435-446",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Bonaparte L. 1829, *Muséum étrusque de Lucien Bonaparte, prince de Canino. Fouilles de 1828 à 1829. Vases peints avec inscriptions*, Viterbo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bonaparte",
+     "given": "L."
+    }
+   ],
+   "date": "1829",
+   "title": "Muséum étrusque de Lucien Bonaparte, prince de Canino. Fouilles de 1828 à 1829. Vases peints avec inscriptions",
+   "place": "Viterbo",
+   "language": "fre"
+  },
+  {
+   "position": 3,
+   "raw": "Bubenheimer-Erhart F. 2010, *Die 'ägyptische Grotte' von Vulci: Zum Beginn der Archäologie als wissenschaftliche Disziplin*, Wiesbaden, Reichert Verlag.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bubenheimer-Erhart",
+     "given": "F."
+    }
+   ],
+   "date": "2010",
+   "title": "Die 'ägyptische Grotte' von Vulci: Zum Beginn der Archäologie als wissenschaftliche Disziplin",
+   "publisher": "Reichert Verlag",
+   "place": "Wiesbaden",
+   "language": "ger"
+  },
+  {
+   "position": 4,
+   "raw": "Bubenheimer-Erhart F. 2012, *Das Isisgrab von Vulci: Eine Fundgruppe der Orientalisierenden Periode Etruriens*, Wien, Österreichische Akademie der Wissenschaften.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bubenheimer-Erhart",
+     "given": "F."
+    }
+   ],
+   "date": "2012",
+   "title": "Das Isisgrab von Vulci: Eine Fundgruppe der Orientalisierenden Periode Etruriens",
+   "publisher": "Österreichische Akademie der Wissenschaften",
+   "place": "Wien",
+   "language": "ger"
+  },
+  {
+   "position": 5,
+   "raw": "Buranelli F. 1995, *Gli scavi a Vulci (1828-1854) di Luciano ed Alexandrine Bonaparte Principi di Canino*, in M. Natoli (ed.), *Luciano Bonaparte. Le sue collezioni d'arte, le sue residenze a Roma, nel Lazio, in Italia (1804-1840)*, Roma, Istituto Poligrafico dello Stato, 81-218.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Buranelli",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Natoli",
+     "given": "M."
+    }
+   ],
+   "date": "1995",
+   "title": "Gli scavi a Vulci (1828-1854) di Luciano ed Alexandrine Bonaparte Principi di Canino",
+   "is_part_of": [
+    "Luciano Bonaparte. Le sue collezioni d'arte, le sue residenze a Roma, nel Lazio, in Italia (1804-1840)"
+   ],
+   "pages": "81-218",
+   "publisher": "Istituto Poligrafico dello Stato",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Briquel D., Mazet C., Pelletier-Hornby P. 2023, *Un scarabée étrusque retrouvé au Petit Palais dans la Collection Dutuit*, «Monuments Piot», 101, 17-81.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Briquel",
+     "given": "D."
+    },
+    {
+     "family": "Mazet",
+     "given": "C."
+    },
+    {
+     "family": "Pelletier-Hornby",
+     "given": "P."
+    }
+   ],
+   "date": "2023",
+   "title": "Un scarabée étrusque retrouvé au Petit Palais dans la Collection Dutuit",
+   "is_part_of": [
+    "Monuments Piot"
+   ],
+   "volume": "101",
+   "pages": "17-81",
+   "language": "fre"
+  },
+  {
+   "position": 7,
+   "raw": "Canina L. 1846-1851, *L'antica Etruria marittima: compresa nella dizione pontificia descritta ed illustrata con i monumenti*, Roma, Camera Apostolica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Canina",
+     "given": "L."
+    }
+   ],
+   "date": "1846",
+   "title": "L'antica Etruria marittima: compresa nella dizione pontificia descritta ed illustrata con i monumenti",
+   "publisher": "Camera Apostolica",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited year 1846-1851"
+  },
+  {
+   "position": 8,
+   "raw": "Cannavò A., Fadin L. 2016, *Du croquis de fouille au Web SIG: le Système d'Information Géographique d'Amathonte*, «Nouvelles de l'Archéologie», 145, 28-32.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cannavò",
+     "given": "A."
+    },
+    {
+     "family": "Fadin",
+     "given": "L."
+    }
+   ],
+   "date": "2016",
+   "title": "Du croquis de fouille au Web SIG: le Système d'Information Géographique d'Amathonte",
+   "is_part_of": [
+    "Nouvelles de l'Archéologie"
+   ],
+   "volume": "145",
+   "pages": "28-32",
+   "language": "fre"
+  },
+  {
+   "position": 9,
+   "raw": "Carosi S., Casi C., Regoli C. 2022 (eds.), *Vulci. Work in progress*, Atti del I incontro internazionale (Vulci 2021), Quaderni vulcenti, 2, Acquapendente, Antiqua Res edizioni.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Carosi",
+     "given": "S."
+    },
+    {
+     "family": "Casi",
+     "given": "C."
+    },
+    {
+     "family": "Regoli",
+     "given": "C."
+    }
+   ],
+   "date": "2022",
+   "title": "Vulci. Work in progress, Atti del I incontro internazionale (Vulci 2021)",
+   "series": "Quaderni vulcenti",
+   "series_number": "2",
+   "publisher": "Antiqua Res edizioni",
+   "place": "Acquapendente",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Conti A. 2019, *Il Pittore delle Rondini. Due recuperi del Comando Carabinieri Tutela Patrimonio Culturale*, «Mediterranea», 16, 103-134.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Conti",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "title": "Il Pittore delle Rondini. Due recuperi del Comando Carabinieri Tutela Patrimonio Culturale",
+   "is_part_of": [
+    "Mediterranea"
+   ],
+   "volume": "16",
+   "pages": "103-134",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "Conti A. 2021, *Dall'Italia agli Stati Uniti: appunti vulcenti*, in M.C. Biella, J. Tabolli (eds.), *Lo strano caso di Francesco Mancinelli Scotti. Documenti e approfondimenti dal workshop internazionale \"The Strange Case of Francesco Mancinelli Scotti. Merchant of Antiquities and Terracottas from Excavation\" (Atti Roma 2018)*, Monza, Fondazione Luigi Rovati, 410-455.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Conti",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Biella",
+     "given": "M.C."
+    },
+    {
+     "family": "Tabolli",
+     "given": "J."
+    }
+   ],
+   "date": "2021",
+   "title": "Dall'Italia agli Stati Uniti: appunti vulcenti",
+   "is_part_of": [
+    "Lo strano caso di Francesco Mancinelli Scotti. Documenti e approfondimenti dal workshop internazionale \"The Strange Case of Francesco Mancinelli Scotti. Merchant of Antiquities and Terracottas from Excavation\" (Atti Roma 2018)"
+   ],
+   "pages": "410-455",
+   "publisher": "Fondazione Luigi Rovati",
+   "place": "Monza",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "Conti A., Mazet C. forthcoming, *Vulci: vecchi scavi, nuove prospettive. Un progetto condiviso*, in S. Carosi, C. Casi, C. Regoli (eds.), *Vulci in progress 2, Atti del II incontro Internazionale (Vulci 2023)*.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Conti",
+     "given": "A."
+    },
+    {
+     "family": "Mazet",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Carosi",
+     "given": "S."
+    },
+    {
+     "family": "Casi",
+     "given": "C."
+    },
+    {
+     "family": "Regoli",
+     "given": "C."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Vulci: vecchi scavi, nuove prospettive. Un progetto condiviso",
+   "is_part_of": [
+    "Vulci in progress 2, Atti del II incontro Internazionale (Vulci 2023)"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "cited \"forthcoming\"; searched author + title: no publication found"
+  },
+  {
+   "position": 13,
+   "raw": "Conti A., Mazet C., Michetti L.M. (eds.) 2023a, *Chroniques vulciennes, 1. De l'âge d'or des fouilles à la création du service de tutelle des monuments*, Dossier des Mélanges de l'École française de Rome, Antiquité, 135, 1, 1-148.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Conti",
+     "given": "A."
+    },
+    {
+     "family": "Mazet",
+     "given": "C."
+    },
+    {
+     "family": "Michetti",
+     "given": "L.M."
+    }
+   ],
+   "date": "2023",
+   "title": "Chroniques vulciennes, 1. De l'âge d'or des fouilles à la création du service de tutelle des monuments",
+   "is_part_of": [
+    "Mélanges de l'École française de Rome, Antiquité"
+   ],
+   "volume": "135",
+   "issue": "1",
+   "pages": "1-148",
+   "language": "fre",
+   "notes": "cited 2023a; Dossier des Mélanges"
+  },
+  {
+   "position": 14,
+   "raw": "Conti A., Mazet C., Michetti L.M. (eds.) 2023b, *Chroniques vulciennes 2. Histoire des fouilles, dispersions patrimoniales et horizons numériques*, Dossier des Mélanges de l'École française de Rome, Antiquité, 135, 2, 237-446.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Conti",
+     "given": "A."
+    },
+    {
+     "family": "Mazet",
+     "given": "C."
+    },
+    {
+     "family": "Michetti",
+     "given": "L.M."
+    }
+   ],
+   "date": "2023",
+   "title": "Chroniques vulciennes 2. Histoire des fouilles, dispersions patrimoniales et horizons numériques",
+   "is_part_of": [
+    "Mélanges de l'École française de Rome, Antiquité"
+   ],
+   "volume": "135",
+   "issue": "2",
+   "pages": "237-446",
+   "language": "fre",
+   "notes": "cited 2023b; Dossier des Mélanges"
+  },
+  {
+   "position": 15,
+   "raw": "Davidde Petriaggi B., Carosi S. (eds.) 2016, *Tesori per l'aldilà. La Tomba degli Ori di Vulci. Dal sequestro al restauro,* Roma, Gangemi Editore.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Davidde Petriaggi",
+     "given": "B."
+    },
+    {
+     "family": "Carosi",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "Tesori per l'aldilà. La Tomba degli Ori di Vulci. Dal sequestro al restauro",
+   "publisher": "Gangemi Editore",
+   "place": "Roma",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Delpino F. 1995, *Gli scavi di Stéphane Gsell a Vulci (1889). La politica culturale dell'amministrazione per le antichità tra aperture internazionalistiche e autarchismo archeologico*, «Bullettino di Paletnologia italiana», 86, nuova serie IV, 429-468.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Delpino",
+     "given": "F."
+    }
+   ],
+   "date": "1995",
+   "title": "Gli scavi di Stéphane Gsell a Vulci (1889). La politica culturale dell'amministrazione per le antichità tra aperture internazionalistiche e autarchismo archeologico",
+   "is_part_of": [
+    "Bullettino di Paletnologia italiana"
+   ],
+   "volume": "86",
+   "pages": "429-468",
+   "language": "ita",
+   "notes": "cited \"nuova serie IV\""
+  },
+  {
+   "position": 17,
+   "raw": "De Puma R.D. 1986, *Etruscan Tomb Groups. Ancient Pottery and Bronzes in Chicago'S Field Museum of Natural History,* Mainz, Philip von Zabern Verlag.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "De Puma",
+     "given": "R.D."
+    }
+   ],
+   "date": "1986",
+   "title": "Etruscan Tomb Groups. Ancient Pottery and Bronzes in Chicago's Field Museum of Natural History",
+   "publisher": "Philip von Zabern Verlag",
+   "place": "Mainz",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Dohan E.H. 1942, *Italic Tomb-groups in the University Museum*, Philadelphia, University of Pennsylvania Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Dohan",
+     "given": "E.H."
+    }
+   ],
+   "date": "1942",
+   "title": "Italic Tomb-groups in the University Museum",
+   "publisher": "University of Pennsylvania Press",
+   "place": "Philadelphia",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Franceschini M., Pasieka P.P. 2021, *«Da niuna cura accompagnato fuori che quella di scoprire antiche cose». Nuovi dati sugli scavi Campanari a Vulci (rapporti di scavo inediti, 09.11.1835-28.05.1836)*, «Mitteilungen des Deutschen Archäologischen Instituts, Römische Abteilung», 127, 322-374.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Franceschini",
+     "given": "M."
+    },
+    {
+     "family": "Pasieka",
+     "given": "P.P."
+    }
+   ],
+   "date": "2021",
+   "title": "Da niuna cura accompagnato fuori che quella di scoprire antiche cose. Nuovi dati sugli scavi Campanari a Vulci (rapporti di scavo inediti, 09.11.1835-28.05.1836)",
+   "is_part_of": [
+    "Mitteilungen des Deutschen Archäologischen Instituts, Römische Abteilung"
+   ],
+   "volume": "127",
+   "pages": "322-374",
+   "language": "ita"
+  },
+  {
+   "position": 20,
+   "raw": "Gsell S. 1891, *Fouilles dans la nécropole de Vulci exécutées et publiées aux frais de S. E. le prince Torlonia*, Rome, École française de Rome.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gsell",
+     "given": "S."
+    }
+   ],
+   "date": "1891",
+   "title": "Fouilles dans la nécropole de Vulci exécutées et publiées aux frais de S. E. le prince Torlonia",
+   "publisher": "École française de Rome",
+   "place": "Rome",
+   "language": "fre"
+  },
+  {
+   "position": 21,
+   "raw": "Haumesser L. 2015, *Les débuts des études étrusques à l'École française de Rome. Auguste Geffroy et Vulci*, in M. Gras, O. Poncet (eds.), *Construire l'institution. L'École française de Rome, 1873-1895*, Rome, École française de Rome, 435-478.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Haumesser",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Gras",
+     "given": "M."
+    },
+    {
+     "family": "Poncet",
+     "given": "O."
+    }
+   ],
+   "date": "2015",
+   "title": "Les débuts des études étrusques à l'École française de Rome. Auguste Geffroy et Vulci",
+   "is_part_of": [
+    "Construire l'institution. L'École française de Rome, 1873-1895"
+   ],
+   "pages": "435-478",
+   "publisher": "École française de Rome",
+   "place": "Rome",
+   "language": "fre"
+  },
+  {
+   "position": 22,
+   "raw": "Knapp G. 1832, *Osservazioni generali su i monumenti sepolcrali di Vulcia e su alcuni altri della medesima specie*, «Annali dell'Instituto di Corrispondenza Archeologica», 4, 279-284.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Knapp",
+     "given": "G."
+    }
+   ],
+   "date": "1832",
+   "title": "Osservazioni generali su i monumenti sepolcrali di Vulcia e su alcuni altri della medesima specie",
+   "is_part_of": [
+    "Annali dell'Instituto di Corrispondenza Archeologica"
+   ],
+   "volume": "4",
+   "pages": "279-284",
+   "language": "ita"
+  },
+  {
+   "position": 23,
+   "raw": "Massabò B. 1979, *Vulci e il suo territorio in età etrusca e romana*, «L'Universo», 59, 137-184, 369-400, 489-512.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Massabò",
+     "given": "B."
+    }
+   ],
+   "date": "1979",
+   "title": "Vulci e il suo territorio in età etrusca e romana",
+   "is_part_of": [
+    "L'Universo"
+   ],
+   "volume": "59",
+   "pages": "137-184, 369-400, 489-512",
+   "language": "ita"
+  },
+  {
+   "position": 24,
+   "raw": "Massabò B. 1985, *Contributo alla conoscenza topografica di Vulci: le aree sacre di Fontanile di Legnisina e di Polledrara*, «Bollettino d'Arte», 29, 17-28.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Massabò",
+     "given": "B."
+    }
+   ],
+   "date": "1985",
+   "title": "Contributo alla conoscenza topografica di Vulci: le aree sacre di Fontanile di Legnisina e di Polledrara",
+   "is_part_of": [
+    "Bollettino d'Arte"
+   ],
+   "volume": "29",
+   "pages": "17-28",
+   "language": "ita"
+  },
+  {
+   "position": 25,
+   "raw": "Massabò B., Ricciardi L. 1988-1989, *Canino (VT). Il Santuario etrusco di Fontanile di Legnisina a Vulci*, «Notizie degli Scavi di Antichità», 42-43, 103-209.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Massabò",
+     "given": "B."
+    },
+    {
+     "family": "Ricciardi",
+     "given": "L."
+    }
+   ],
+   "date": "1988",
+   "title": "Canino (VT). Il Santuario etrusco di Fontanile di Legnisina a Vulci",
+   "is_part_of": [
+    "Notizie degli Scavi di Antichità"
+   ],
+   "volume": "42-43",
+   "pages": "103-209",
+   "language": "ita",
+   "notes": "cited year 1988-1989"
+  },
+  {
+   "position": 26,
+   "raw": "Mazet C. 2022, *La mémoire des idoles démembrées. Sur la piste des simulacres funéraires et des contextes orientalisants des fouilles Bonaparte à Vulci*, «Mélanges de l'École française de Rome, Antiquité», 134, 1, 161-192.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mazet",
+     "given": "C."
+    }
+   ],
+   "date": "2022",
+   "title": "La mémoire des idoles démembrées. Sur la piste des simulacres funéraires et des contextes orientalisants des fouilles Bonaparte à Vulci",
+   "is_part_of": [
+    "Mélanges de l'École française de Rome, Antiquité"
+   ],
+   "volume": "134",
+   "issue": "1",
+   "pages": "161-192",
+   "language": "fre"
+  },
+  {
+   "position": 27,
+   "raw": "Mazet C. 2023, *Scavi di Canino: les premières campagnes des fouilles Bonaparte dans le Catalogo generale des archives Faina de Pérouse (1828-1833)*, «Mélanges de l'École française de Rome, Antiquité», 135, 1, 19-42.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mazet",
+     "given": "C."
+    }
+   ],
+   "date": "2023",
+   "title": "Scavi di Canino: les premières campagnes des fouilles Bonaparte dans le Catalogo generale des archives Faina de Pérouse (1828-1833)",
+   "is_part_of": [
+    "Mélanges de l'École française de Rome, Antiquité"
+   ],
+   "volume": "135",
+   "issue": "1",
+   "pages": "19-42",
+   "language": "fre"
+  },
+  {
+   "position": 28,
+   "raw": "Moretti Sgubini A.M. 2004, *Vulci. La Tomba del Guerriero della Polledrara*, in A.M. Moretti Sgubini (ed.), *Scavo nello scavo. Gli Etruschi non visti. Ricerche e riscoperte nei depositi dei musei archeologici dell'Etruria meridionale*, Catalogo della mostra, Viterbo, Ministero per i beni e le attività culturali, Soprintendenza per i beni archeologici dell'Etruria meridionale, 150-165.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moretti Sgubini",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Moretti Sgubini",
+     "given": "A.M."
+    }
+   ],
+   "date": "2004",
+   "title": "Vulci. La Tomba del Guerriero della Polledrara",
+   "is_part_of": [
+    "Scavo nello scavo. Gli Etruschi non visti. Ricerche e riscoperte nei depositi dei musei archeologici dell'Etruria meridionale"
+   ],
+   "pages": "150-165",
+   "publisher": "Ministero per i beni e le attività culturali, Soprintendenza per i beni archeologici dell'Etruria meridionale",
+   "place": "Viterbo",
+   "language": "ita",
+   "notes": "Catalogo della mostra"
+  },
+  {
+   "position": 29,
+   "raw": "Moretti Sgubini A.M. 2012, *Vulci*, in G. Nenci, G. Vallet (eds.), *Bibliografia Topografica della Colonizzazione Greca in Italia e nelle Isole tirreniche*, 21, 1082-1154.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moretti Sgubini",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Nenci",
+     "given": "G."
+    },
+    {
+     "family": "Vallet",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "Vulci",
+   "is_part_of": [
+    "Bibliografia Topografica della Colonizzazione Greca in Italia e nelle Isole tirreniche"
+   ],
+   "volume": "21",
+   "pages": "1082-1154",
+   "language": "ita"
+  },
+  {
+   "position": 30,
+   "raw": "Moretti Sgubini A.M. 2013-2014, *Ancora scoperte nei depositi per l'Orientalizzante di Vulci*, «Rendiconti della Pontificia Accademia di Archeologia Cristiana», 86, 145-198.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Moretti Sgubini",
+     "given": "A.M."
+    }
+   ],
+   "date": "2013",
+   "title": "Ancora scoperte nei depositi per l'Orientalizzante di Vulci",
+   "is_part_of": [
+    "Rendiconti della Pontificia Accademia di Archeologia Cristiana"
+   ],
+   "volume": "86",
+   "pages": "145-198",
+   "language": "ita",
+   "notes": "cited year 2013-2014"
+  },
+  {
+   "position": 31,
+   "raw": "Moretti Sgubini A.M. 2015, *Tumuli a Vulci, tumuli a Tuscania*, in G.M. Della Fina (ed.), *La delimitazione dello spazio funerario in Italia dalla protostoria all'Età arcaica: recinti, circoli, tumuli, Atti del XXIII Convegno Internazionale di Studi sulla Storia e l'Archeologia dell'Etruria (Orvieto 2014)*, Annali della Fondazione per il Museo «Claudio Faina», 23, 597-636.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moretti Sgubini",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Della Fina",
+     "given": "G.M."
+    }
+   ],
+   "date": "2015",
+   "title": "Tumuli a Vulci, tumuli a Tuscania",
+   "is_part_of": [
+    "La delimitazione dello spazio funerario in Italia dalla protostoria all'Età arcaica: recinti, circoli, tumuli, Atti del XXIII Convegno Internazionale di Studi sulla Storia e l'Archeologia dell'Etruria (Orvieto 2014)"
+   ],
+   "pages": "597-636",
+   "series": "Annali della Fondazione per il Museo Claudio Faina",
+   "series_number": "23",
+   "language": "ita"
+  },
+  {
+   "position": 32,
+   "raw": "Moretti Sgubini A.M. 2021, *Gli scavi di Francesco Mancinelli Scotti a Vulci: 1894-1895*, in M.C. Biella, J. Tabolli (eds.), *Lo strano caso di Francesco Mancinelli Scotti. Documenti e approfondimenti dal workshop internazionale \"The Strange Case of Francesco Mancinelli Scotti. Merchant of Antiquities and Terracottas from Excavation\"(Atti Roma 2018)*, Monza, Fondazione Luigi Rovati, 371-407.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Moretti Sgubini",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Biella",
+     "given": "M.C."
+    },
+    {
+     "family": "Tabolli",
+     "given": "J."
+    }
+   ],
+   "date": "2021",
+   "title": "Gli scavi di Francesco Mancinelli Scotti a Vulci: 1894-1895",
+   "is_part_of": [
+    "Lo strano caso di Francesco Mancinelli Scotti. Documenti e approfondimenti dal workshop internazionale \"The Strange Case of Francesco Mancinelli Scotti. Merchant of Antiquities and Terracottas from Excavation\" (Atti Roma 2018)"
+   ],
+   "pages": "371-407",
+   "publisher": "Fondazione Luigi Rovati",
+   "place": "Monza",
+   "language": "ita",
+   "xref": 11
+  },
+  {
+   "position": 33,
+   "raw": "Pocobelli G.F. 2007, *Il territorio suburbano di Vulci attraverso le evidenze aerofotografiche. Viabilità e necropoli*, «Archeologia Aerea», 2, 167-186.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pocobelli",
+     "given": "G.F."
+    }
+   ],
+   "date": "2007",
+   "title": "Il territorio suburbano di Vulci attraverso le evidenze aerofotografiche. Viabilità e necropoli",
+   "is_part_of": [
+    "Archeologia Aerea"
+   ],
+   "volume": "2",
+   "pages": "167-186",
+   "language": "ita"
+  },
+  {
+   "position": 34,
+   "raw": "Pocobelli G.F. 2010-2011, *Vulci ed il suo territorio: area urbana, necropoli e viabilità. Applicazioni di cartografia archeologica e fotogrammetria finalizzata*, in «Archeologia Aerea», 4-5, 117-126.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pocobelli",
+     "given": "G.F."
+    }
+   ],
+   "date": "2010",
+   "title": "Vulci ed il suo territorio: area urbana, necropoli e viabilità. Applicazioni di cartografia archeologica e fotogrammetria finalizzata",
+   "is_part_of": [
+    "Archeologia Aerea"
+   ],
+   "volume": "4-5",
+   "pages": "117-126",
+   "language": "ita",
+   "notes": "cited year 2010-2011"
+  },
+  {
+   "position": 35,
+   "raw": "Ricciardi L. 1989, *La necropoli settentrionale di Vulci. Resoconto di un'indagine bibliografica e d'archivio*, «Bollettino d'Arte», 58, 27-52.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ricciardi",
+     "given": "L."
+    }
+   ],
+   "date": "1989",
+   "title": "La necropoli settentrionale di Vulci. Resoconto di un'indagine bibliografica e d'archivio",
+   "is_part_of": [
+    "Bollettino d'Arte"
+   ],
+   "volume": "58",
+   "pages": "27-52",
+   "language": "ita"
+  },
+  {
+   "position": 36,
+   "raw": "Sgubini Moretti A.M. 1994, *Ricerche archeologiche a Vulci (1985-1990)*, in M. Martelli (ed.), *Tyrrhenoi philotechnoi. Atti della giornata di studio organizzata dalla Facoltà di Conservazione dei Beni Culturali dell'Università degli Studi della Tuscia in occasione della mostra Il mondo degli Etruschi. Testimonianze dai Musei di Berlino e dell'Europa orientale (Viterbo 1990)*, Roma, Gruppo editoriale internazionale, 9-49.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sgubini Moretti",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Martelli",
+     "given": "M."
+    }
+   ],
+   "date": "1994",
+   "title": "Ricerche archeologiche a Vulci (1985-1990)",
+   "is_part_of": [
+    "Tyrrhenoi philotechnoi. Atti della giornata di studio organizzata dalla Facoltà di Conservazione dei Beni Culturali dell'Università degli Studi della Tuscia in occasione della mostra Il mondo degli Etruschi. Testimonianze dai Musei di Berlino e dell'Europa orientale (Viterbo 1990)"
+   ],
+   "pages": "9-49",
+   "publisher": "Gruppo editoriale internazionale",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "cited as Sgubini Moretti (inverted form of Moretti Sgubini)"
+  }
+ ]
+}

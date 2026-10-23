@@ -1,0 +1,393 @@
+{
+ "citing_aec_id": 269,
+ "source_file": "data/journal/10/269.md",
+ "references": [
+  {
+   "raw": "AA.VV. 1995a, Musée de l’Homme, Anthropologie, Préhistoire, Ethnologie, Muséum d’Histoire naturelle, ODA Laser Edition. CD-ROM.",
+   "date": "1995",
+   "type": "other",
+   "title": "Musée de l’Homme, Anthropologie, Préhistoire, Ethnologie, Muséum d’Histoire naturelle",
+   "publisher": "ODA Laser Edition",
+   "language": "fre",
+   "confidence": "high",
+   "position": 1,
+   "notes": "CD-ROM"
+  },
+  {
+   "raw": "AA.VV. 1995b, Le Trésor du San Diego, à la recherche du galion perdu, Carré Multimédia, Club d’Investissement Média, Millemédias. CD-ROM.",
+   "date": "1995",
+   "type": "other",
+   "title": "Le Trésor du San Diego, à la recherche du galion perdu",
+   "place": "Millemédias. CD-ROM",
+   "language": "fre",
+   "confidence": "high",
+   "position": 2,
+   "publisher": "Carré Multimédia, Club d’Investissement Média, Millemédias",
+   "notes": "CD-ROM"
+  },
+  {
+   "raw": "AA.VV. 1995c, L’Art du Moyen Age, Occident, Byzance, Islam, RMN, Carré Multimédia, Gallimard. CD-ROM.",
+   "date": "1995",
+   "type": "other",
+   "title": "L’Art du Moyen Age, Occident, Byzance, Islam",
+   "place": "Carré Multimédia",
+   "publisher": "RMN, Carré Multimédia, Gallimard",
+   "language": "fre",
+   "confidence": "high",
+   "position": 3,
+   "notes": "CD-ROM"
+  },
+  {
+   "raw": "ARCELIN P. 1997, La Publication archéologique sur CD-ROM, exemples pratiques d’écriture électronique, Paris, Ministère de la Culture.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Arcelin",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "La Publication archéologique sur CD-ROM, exemples pratiques d’écriture électronique",
+   "place": "Paris",
+   "publisher": "Ministère de la Culture",
+   "language": "fre",
+   "confidence": "high",
+   "position": 4
+  },
+  {
+   "raw": "ARCELIN P., RICHET C. 1990, L’édition scientifique en archéologie métropolitaine: un état de la question, «Les Nouvelles de l’Archéologie», 41, 10-13.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Arcelin",
+     "given": "P."
+    },
+    {
+     "family": "Richet",
+     "given": "C."
+    }
+   ],
+   "type": "article",
+   "title": "L’édition scientifique en archéologie métropolitaine: un état de la question",
+   "is_part_of": [
+    "Les Nouvelles de l’Archéologie"
+   ],
+   "pages": "10-13",
+   "volume": "41",
+   "language": "fre",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "BÉGUIN D. 1996, Les antiquisants face à l’informatique et aux réseaux, Novembre (http://www.sciences-sociales.ens.fr/atelier/articles/ArticleInternetnov96.html).",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Béguin",
+     "given": "D."
+    }
+   ],
+   "type": "other",
+   "title": "Les antiquisants face à l’informatique et aux réseaux",
+   "language": "fre",
+   "confidence": "high",
+   "position": 6,
+   "notes": "Novembre",
+   "uri": "http://www.sciences-sociales.ens.fr/atelier/articles/ArticleInternetnov96.html"
+  },
+  {
+   "raw": "BOMMELAER J.-F. (sous la dir.) 1996, Marmaria, le sanctuaire d’Athéna à Delphes, Athènes, 108-109.",
+   "date": "1996",
+   "type": "book",
+   "title": "Marmaria, le sanctuaire d’Athéna à Delphes",
+   "place": "Athènes",
+   "language": "ita",
+   "confidence": "high",
+   "position": 7,
+   "editors": [
+    {
+     "family": "Bommelaer",
+     "given": "J.-F."
+    }
+   ],
+   "notes": "pp. 108-109"
+  },
+  {
+   "raw": "COPPENS Y. 1996, Aux origines de l’Homme, Microfolies. CD-ROM.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Coppens",
+     "given": "Y."
+    }
+   ],
+   "type": "other",
+   "title": "Aux origines de l’Homme",
+   "language": "fre",
+   "confidence": "high",
+   "position": 8,
+   "publisher": "Microfolies",
+   "notes": "CD-ROM"
+  },
+  {
+   "raw": "DJINDJIAN F. 1991, Méthodes en Archéologie, Paris, Armand Colin.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Djindjian",
+     "given": "F."
+    }
+   ],
+   "type": "book",
+   "title": "Méthodes en Archéologie",
+   "place": "Paris",
+   "publisher": "Armand Colin",
+   "language": "spa",
+   "confidence": "high",
+   "position": 9
+  },
+  {
+   "raw": "DUCOURTIEUX C. 1998, MENESTREL ou MEdiévistes sur l’interNEt, Sources, Travaux, Références En Ligne, «Le Médiéviste et l’ordinateur», 37, Hiver, 4-7.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Ducourtieux",
+     "given": "C."
+    }
+   ],
+   "type": "article",
+   "title": "MENESTREL ou MEdiévistes sur l’interNEt, Sources, Travaux, Références En Ligne",
+   "is_part_of": [
+    "Le Médiéviste et l’ordinateur"
+   ],
+   "pages": "4-7",
+   "volume": "37",
+   "language": "fre",
+   "confidence": "high",
+   "position": 10,
+   "issue": "Hiver"
+  },
+  {
+   "raw": "GUIMIER-SORBETS A.-M. 1993, Des textes aux images. Accès aux informations multimédias par le langage naturel, «Documentaliste, Sciences de l’Information», 30, 127-134.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "article",
+   "title": "Des textes aux images. Accès aux informations multimédias par le langage naturel",
+   "is_part_of": [
+    "Documentaliste, Sciences de l’Information"
+   ],
+   "pages": "127-134",
+   "volume": "30",
+   "language": "fre",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "GUIMIER-SORBETS A.-M. 1996, Le traitement de l’information en Archéologie: archivage, publication et diffusion, «Archeologia e Calcolatori», 7, 985-995.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "article",
+   "title": "Le traitement de l’information en Archéologie: archivage, publication et diffusion",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "985-995",
+   "volume": "7",
+   "language": "fre",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "GUIMIER-SORBETS A.-M. 1998a, L’édition électronique dans le domaine de l’art: production, publics, usages, «Revue du Musée des Arts et Métiers», 24, 15-22.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "article",
+   "title": "L’édition électronique dans le domaine de l’art: production, publics, usages",
+   "is_part_of": [
+    "Revue du Musée des Arts et Métiers"
+   ],
+   "pages": "15-22",
+   "volume": "24",
+   "language": "fre",
+   "confidence": "high",
+   "position": 13
+  },
+  {
+   "raw": "GUIMIER-SORBETS A.-M. 1998b, Fonctionnalités, modes d’accès, interfaces: pour une meilleure appropriation par l’usager du contenu des cédéroms culturels, in Bibliothèque publique d’Information, Centre Georges Pompidou: Rencontres médias 2 (1997-98), Paris, J. Clément éd., 143-157.",
+   "date": "1998",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Fonctionnalités, modes d’accès, interfaces: pour une meilleure appropriation par l’usager du contenu des cédéroms culturels",
+   "pages": "143-157",
+   "is_part_of": [
+    "Bibliothèque publique d’Information, Centre Georges Pompidou: Rencontres médias 2 (1997-98)"
+   ],
+   "language": "fre",
+   "confidence": "high",
+   "position": 14,
+   "place": "Paris",
+   "publisher": "J. Clément éd."
+  },
+  {
+   "raw": "GUIMIER-SORBETS A.-M., SEIF EL-DIN M. (sous presse), Les peintures de la nécropole de Kom el Chougafa à Alexandrie: éléments de méthode pour la lecture iconographique et l’interprétation du style «bilingue», in Actes du VIIe Colloque international pour la Peinture murale antique (Saint-Romain-en-Gal, 6-10 0ctobre 1998).",
+   "type": "chapter",
+   "title": "Les peintures de la nécropole de Kom el Chougafa à Alexandrie: éléments de méthode pour la lecture iconographique et l’interprétation du style «bilingue»",
+   "confidence": "high",
+   "position": 15,
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    },
+    {
+     "family": "Seif El-Din",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Actes du VIIe Colloque international pour la Peinture murale antique (Saint-Romain-en-Gal, 6-10 octobre 1998)"
+   ],
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "HÉNON P.-M., LÉVEILLÉ J. 1997, s.v. Images de synthèse, in Dictionnaire encyclopédique de l’information et de la documentation, Paris, 282-283.",
+   "date": "1997",
+   "creators": [
+    {
+     "family": "Hénon",
+     "given": "P.-M."
+    },
+    {
+     "family": "Léveillé",
+     "given": "J."
+    }
+   ],
+   "type": "chapter",
+   "title": "s.v. Images de synthèse",
+   "pages": "282-283",
+   "is_part_of": [
+    "Dictionnaire encyclopédique de l’information et de la documentation"
+   ],
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high",
+   "position": 16
+  },
+  {
+   "raw": "JOCKEY P. 1999, L’Archéologie, Paris, 276.",
+   "date": "1999",
+   "creators": [
+    {
+     "family": "Jockey",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "L’Archéologie",
+   "language": "eng",
+   "confidence": "high",
+   "position": 17,
+   "place": "Paris",
+   "notes": "p. 276"
+  },
+  {
+   "raw": "MOSCATI P. (ed.) 1998, Methodological Trends and Future perspectives in the Applications of GIS in Archaeology, «Archeologia e Calcolatori», 9.",
+   "date": "1998",
+   "editors": [
+    {
+     "family": "Moscati",
+     "given": "P."
+    }
+   ],
+   "type": "proceedings",
+   "title": "Methodological trends and future perspectives in the application of GIS in archaeology",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "9",
+   "language": "eng",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "ROSS S., HIGGS E. 1993, Electronic Information Resources and Historians: European Perspectives, London.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Ross",
+     "given": "S."
+    },
+    {
+     "family": "Higgs",
+     "given": "E."
+    }
+   ],
+   "type": "book",
+   "title": "Electronic Information Resources and Historians: European Perspectives",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high",
+   "position": 19
+  },
+  {
+   "raw": "THOUVENOT S. 1999, Sur le chemin d’une dame (diaporama animé interactif présenté sur cédérom au festival Archéo Virtua).",
+   "date": "1999",
+   "creators": [
+    {
+     "family": "Thouvenot",
+     "given": "S."
+    }
+   ],
+   "type": "other",
+   "title": "Sur le chemin d’une dame",
+   "language": "fre",
+   "confidence": "high",
+   "position": 20,
+   "notes": "diaporama animé interactif présenté sur cédérom au festival Archéo Virtua"
+  },
+  {
+   "raw": "ZAÏD N. 1999, La Publication archéologique sur Internet, «Archéologia (Dijon)», 352, janvier, 20-29.",
+   "date": "1999",
+   "creators": [
+    {
+     "family": "Zaïd",
+     "given": "N."
+    }
+   ],
+   "type": "article",
+   "title": "La Publication archéologique sur Internet",
+   "is_part_of": [
+    "Archéologia (Dijon)"
+   ],
+   "pages": "20-29",
+   "language": "fre",
+   "confidence": "high",
+   "position": 21,
+   "issue": "352",
+   "notes": "janvier"
+  }
+ ]
+}

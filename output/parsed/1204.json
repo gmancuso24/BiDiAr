@@ -1,0 +1,702 @@
+{
+ "citing_aec_id": 1204,
+ "source_file": "data/journal/33/1204.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Anichini F., Gattiglia G. 2021, *The ArchAIDE Archive: The open-data policy and management of material covered by copyright*, in J. Bogdani, R. Montalbano, P. Rosati (eds.), *ArcheoFOSS XIV 2020: Open Software, Hardware, Processes, Data and Formats in Archaeological Research*, Oxford, Archaeopress, 101-107.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Anichini",
+     "given": "F."
+    },
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    },
+    {
+     "family": "Montalbano",
+     "given": "R."
+    },
+    {
+     "family": "Rosati",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "The ArchAIDE Archive: The open-data policy and management of material covered by copyright",
+   "is_part_of": [
+    "ArcheoFOSS XIV 2020: Open Software, Hardware, Processes, Data and Formats in Archaeological Research"
+   ],
+   "language": "eng",
+   "pages": "101-107",
+   "place": "Oxford",
+   "publisher": "Archaeopress",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Averett E.W., Gordon J.M., Counts D.B. (eds.) 2016, *Mobilizing the Past for a Digital Future: The Potential of Digital Archaeology*, Grand Forks, The Digital Press at the University of North Dakota (https://doi.org/10.31356/dpb008).",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Averett",
+     "given": "E.W."
+    },
+    {
+     "family": "Gordon",
+     "given": "J.M."
+    },
+    {
+     "family": "Counts",
+     "given": "D.B."
+    }
+   ],
+   "date": "2016",
+   "title": "Mobilizing the Past for a Digital Future: The Potential of Digital Archaeology",
+   "language": "eng",
+   "publisher": "The Digital Press at the University of North Dakota",
+   "place": "Grand Forks",
+   "doi": "10.31356/dpb008",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Berners-Lee T., Cyganiak R., Hausenblas M., Presbrey J., Seneviratne O., Ureche O.-E. 2009, *Realising a Read-Write Web of Data* (https://web.mit.edu/presbrey/Public/rw-wod.pdf).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Berners-Lee",
+     "given": "T."
+    },
+    {
+     "family": "Cyganiak",
+     "given": "R."
+    },
+    {
+     "family": "Hausenblas",
+     "given": "M."
+    },
+    {
+     "family": "Presbrey",
+     "given": "J."
+    },
+    {
+     "family": "Seneviratne",
+     "given": "O."
+    },
+    {
+     "family": "Ureche",
+     "given": "O.-E."
+    }
+   ],
+   "date": "2009",
+   "title": "Realising a Read-Write Web of Data",
+   "language": "eng",
+   "uri": "https://web.mit.edu/presbrey/Public/rw-wod.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bogdani J. 2016, *Un archivio digitale mulidisciplinare per la gestione e la conservazione di un Patrimonio Culturale a rischio: il Progetto Ghazni (Afghanistan)*, in P. Basso, A. Caravale, P. Grossi (eds.), *ARCHEOFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del IX Workshop (Verona 2014)*, «Archeologia e Calcolatori», Suppl. 8, 236-245 (http://www.archcalc.cnr.it/indice/Suppl_8/31_Bogdani.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Basso",
+     "given": "P."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Grossi",
+     "given": "P."
+    }
+   ],
+   "date": "2016",
+   "title": "Un archivio digitale multidisciplinare per la gestione e la conservazione di un Patrimonio Culturale a rischio: il Progetto Ghazni (Afghanistan)",
+   "is_part_of": [
+    "ARCHEOFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica. Atti del IX Workshop (Verona 2014)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "Suppl. 8",
+   "pages": "236-245",
+   "uri": "http://www.archcalc.cnr.it/indice/Suppl_8/31_Bogdani.pdf",
+   "cited_aec_id": 889,
+   "notes": "'mulidisciplinare' corrected",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Bogdani J. 2017, *The Archaeological Atlas of Coptic Literature. A question of method*, «Vicino Oriente», 21, 59-69.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    }
+   ],
+   "date": "2017",
+   "title": "The Archaeological Atlas of Coptic Literature. A question of method",
+   "is_part_of": [
+    "Vicino Oriente"
+   ],
+   "language": "eng",
+   "volume": "21",
+   "pages": "59-69",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Bogdani J., Colliva L. 2017, *The Archaeological Relational Database*, in A. Askari Chaverdi, P. Callieri (eds.), *From Palace to Town. Report on the Multidisciplinary Project Carried out by the Iranian-Italian Joint Archaeological Mission on the Persepolis Terrace (Fars, Iran), 2008-2013. 1. Topography, Diagnostic and Conservation*, Roma, BraDypUS, 17-24.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    },
+    {
+     "family": "Colliva",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Askari Chaverdi",
+     "given": "A."
+    },
+    {
+     "family": "Callieri",
+     "given": "P."
+    }
+   ],
+   "date": "2017",
+   "title": "The Archaeological Relational Database",
+   "is_part_of": [
+    "From Palace to Town. Report on the Multidisciplinary Project Carried out by the Iranian-Italian Joint Archaeological Mission on the Persepolis Terrace (Fars, Iran), 2008-2013. 1. Topography, Diagnostic and Conservation"
+   ],
+   "language": "eng",
+   "pages": "17-24",
+   "place": "Roma",
+   "publisher": "BraDypUS",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Bogdani J., Giorgi E. 2012, *Il territorio di Phoinike in Caonia. Archeologia del paesaggio in Albania meridionale*, Bologna, Ante Quem.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    },
+    {
+     "family": "Giorgi",
+     "given": "E."
+    }
+   ],
+   "date": "2012",
+   "title": "Il territorio di Phoinike in Caonia. Archeologia del paesaggio in Albania meridionale",
+   "language": "ita",
+   "publisher": "Ante Quem",
+   "place": "Bologna",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Bogdani J., Giorgi E., Lepore G. 2007, *La \"Città Bassa\" ai piedi della collina*, in S. De Maria, S. Gjongecaj (eds.), *Phoinike IV. Rapporto preliminare sulle campagne di scavi e ricerche 2004-2006*, Bologna, Ante Quem.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bogdani",
+     "given": "J."
+    },
+    {
+     "family": "Giorgi",
+     "given": "E."
+    },
+    {
+     "family": "Lepore",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "De Maria",
+     "given": "S."
+    },
+    {
+     "family": "Gjongecaj",
+     "given": "S."
+    }
+   ],
+   "date": "2007",
+   "title": "La \"Città Bassa\" ai piedi della collina",
+   "is_part_of": [
+    "Phoinike IV. Rapporto preliminare sulle campagne di scavi e ricerche 2004-2006"
+   ],
+   "language": "ita",
+   "place": "Bologna",
+   "publisher": "Ante Quem",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Buzi P. 2017, *Tracking Papyrus and Parchment Paths: An Archaeological Atlas of Coptic Literature. Literary texts in their geographical context. Production, copying, usage, dissemination and storage (\"PAThs\"). A new project on Coptic literary texts*, «Early Christianity», 8, 507-16.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Buzi",
+     "given": "P."
+    }
+   ],
+   "date": "2017",
+   "title": "Tracking Papyrus and Parchment Paths: An Archaeological Atlas of Coptic Literature. Literary texts in their geographical context. Production, copying, usage, dissemination and storage (\"PAThs\"). A new project on Coptic literary texts",
+   "is_part_of": [
+    "Early Christianity"
+   ],
+   "language": "eng",
+   "volume": "8",
+   "pages": "507-516",
+   "notes": "cited pages '507-16'",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Cereti C.G., Colliva L., Bogdani J., Fusaro A., Galuppi M., Insom C., Labisi G., Mancini S., Terribili G. 2014, *MAIKI, Missione Archeologica Italiana nel Kurdistan Iracheno: la carta archeologica dell'area di Paikuli, obiettivi e metodologie applicate*, «Vicino Oriente», 18, 25-38.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cereti",
+     "given": "C.G."
+    },
+    {
+     "family": "Colliva",
+     "given": "L."
+    },
+    {
+     "family": "Bogdani",
+     "given": "J."
+    },
+    {
+     "family": "Fusaro",
+     "given": "A."
+    },
+    {
+     "family": "Galuppi",
+     "given": "M."
+    },
+    {
+     "family": "Insom",
+     "given": "C."
+    },
+    {
+     "family": "Labisi",
+     "given": "G."
+    },
+    {
+     "family": "Mancini",
+     "given": "S."
+    },
+    {
+     "family": "Terribili",
+     "given": "G."
+    }
+   ],
+   "date": "2014",
+   "title": "MAIKI, Missione Archeologica Italiana nel Kurdistan Iracheno: la carta archeologica dell'area di Paikuli, obiettivi e metodologie applicate",
+   "is_part_of": [
+    "Vicino Oriente"
+   ],
+   "language": "ita",
+   "volume": "18",
+   "pages": "25-38",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Cereti C.G., Colliva L., Fontana M.V., Terribili G., Bogdani J., Bizzarro A., Tilia A., Tilia S.S. 2012, *From flint to silicon, modern technologies applied to the understanding of history. The Italian Archaeological Mission in Iraqi Kurdistan*, «Vicino Oriente», 16, 181-199.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cereti",
+     "given": "C.G."
+    },
+    {
+     "family": "Colliva",
+     "given": "L."
+    },
+    {
+     "family": "Fontana",
+     "given": "M.V."
+    },
+    {
+     "family": "Terribili",
+     "given": "G."
+    },
+    {
+     "family": "Bogdani",
+     "given": "J."
+    },
+    {
+     "family": "Bizzarro",
+     "given": "A."
+    },
+    {
+     "family": "Tilia",
+     "given": "A."
+    },
+    {
+     "family": "Tilia",
+     "given": "S.S."
+    }
+   ],
+   "date": "2012",
+   "title": "From flint to silicon, modern technologies applied to the understanding of history. The Italian Archaeological Mission in Iraqi Kurdistan",
+   "is_part_of": [
+    "Vicino Oriente"
+   ],
+   "language": "eng",
+   "volume": "16",
+   "pages": "181-199",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Eve S., Hunt G. 2008, *ARK: A developmental framework for archaeological recording*, in A. Posluschnya, K. Lambers, I. Herzog (eds.), *Layers of Perception: Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA), (Berlin 2007)*, 1–5. Kolloquien Zur Vor- Und Frühgeschichte, 10, Bonn, Dr. Rudolf Habelt GmbH.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Eve",
+     "given": "S."
+    },
+    {
+     "family": "Hunt",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Posluschny",
+     "given": "A."
+    },
+    {
+     "family": "Lambers",
+     "given": "K."
+    },
+    {
+     "family": "Herzog",
+     "given": "I."
+    }
+   ],
+   "date": "2008",
+   "title": "ARK: A developmental framework for archaeological recording",
+   "is_part_of": [
+    "Layers of Perception: Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA), (Berlin 2007)"
+   ],
+   "language": "eng",
+   "pages": "1-5",
+   "place": "Bonn",
+   "publisher": "Dr. Rudolf Habelt GmbH",
+   "series": "Kolloquien Zur Vor- Und Frühgeschichte",
+   "series_number": "10",
+   "notes": "editor cited 'Posluschnya A.' (typo) corrected",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Fielding R.T. 2000, *Architectural Styles and the Design of Network-Based Software Architectures*, Los Angeles, University of California, Irvine.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Fielding",
+     "given": "R.T."
+    }
+   ],
+   "date": "2000",
+   "title": "Architectural Styles and the Design of Network-Based Software Architectures",
+   "language": "eng",
+   "publisher": "University of California, Irvine",
+   "place": "Los Angeles",
+   "notes": "dissertation (place as cited)",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Haerder T., Reuter A. 1983, *Principles of transaction-oriented database recovery*, «ACM Computing Surveys», 15, 4, 287-317 (https://doi.org/10.1145/289.291).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Haerder",
+     "given": "T."
+    },
+    {
+     "family": "Reuter",
+     "given": "A."
+    }
+   ],
+   "date": "1983",
+   "title": "Principles of transaction-oriented database recovery",
+   "is_part_of": [
+    "ACM Computing Surveys"
+   ],
+   "language": "eng",
+   "volume": "15",
+   "issue": "4",
+   "pages": "287-317",
+   "doi": "10.1145/289.291",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Kansa E.C. 2016, *Click here to save the past*, in Averett, Gordon, Counts 2016, 443-472.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kansa",
+     "given": "E.C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Averett",
+     "given": "E.W."
+    },
+    {
+     "family": "Gordon",
+     "given": "J.M."
+    },
+    {
+     "family": "Counts",
+     "given": "D.B."
+    }
+   ],
+   "date": "2016",
+   "title": "Click here to save the past",
+   "is_part_of": [
+    "Mobilizing the Past for a Digital Future: The Potential of Digital Archaeology"
+   ],
+   "language": "eng",
+   "pages": "443-472",
+   "place": "Grand Forks",
+   "publisher": "The Digital Press at the University of North Dakota",
+   "xref": 2,
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Kansa W.S., Kansa E.C. 2018, *Data beyond the archive in digital archaeology. An Introduction to the Special Section*, «Advances in Archaeological Practice», 6.2, 89-92 (https://doi.org/10.1017/aap.2018.7).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kansa",
+     "given": "W.S."
+    },
+    {
+     "family": "Kansa",
+     "given": "E.C."
+    }
+   ],
+   "date": "2018",
+   "title": "Data beyond the archive in digital archaeology. An Introduction to the Special Section",
+   "is_part_of": [
+    "Advances in Archaeological Practice"
+   ],
+   "language": "eng",
+   "volume": "6",
+   "issue": "2",
+   "pages": "89-92",
+   "doi": "10.1017/aap.2018.7",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Mandolesi L. 2009, *PyArchInit, Python, QGIS e PostgreSQL per la gestione dei dati di scavo*, in P. Cignoni, S. Palombini, S. Pescarin (eds.), *ARCHEOFOSS Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del IV Workshop (Roma 2009)*, «Archeologia e Calcolatori», Suppl. 2, 209-222 (http://www.archcalc.cnr.it/indice/Suppl_2/20_Mandolesi.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cignoni",
+     "given": "P."
+    },
+    {
+     "family": "Palombini",
+     "given": "S."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "PyArchInit, Python, QGIS e PostgreSQL per la gestione dei dati di scavo",
+   "is_part_of": [
+    "ARCHEOFOSS Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del IV Workshop (Roma 2009)",
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "volume": "Suppl. 2",
+   "pages": "209-222",
+   "uri": "http://www.archcalc.cnr.it/indice/Suppl_2/20_Mandolesi.pdf",
+   "cited_aec_id": 549,
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Petrie W.M.F. 1904, *Methods and Aims in Archaeology*, London, Macmillan & Co.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Petrie",
+     "given": "W.M.F."
+    }
+   ],
+   "date": "1904",
+   "title": "Methods and Aims in Archaeology",
+   "language": "eng",
+   "publisher": "Macmillan & Co.",
+   "place": "London",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Sobotkova A., Ross S.A., Ballsun-Stanton B., Fairbairn A., Thompson J. 2016, *Measure twice, cut once: Cooperative deployment of a generalized, archaeology-specific field data collection system*, in Averett, Gordon, Counts 2016, 337-71.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sobotkova",
+     "given": "A."
+    },
+    {
+     "family": "Ross",
+     "given": "S.A."
+    },
+    {
+     "family": "Ballsun-Stanton",
+     "given": "B."
+    },
+    {
+     "family": "Fairbairn",
+     "given": "A."
+    },
+    {
+     "family": "Thompson",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Averett",
+     "given": "E.W."
+    },
+    {
+     "family": "Gordon",
+     "given": "J.M."
+    },
+    {
+     "family": "Counts",
+     "given": "D.B."
+    }
+   ],
+   "date": "2016",
+   "title": "Measure twice, cut once: Cooperative deployment of a generalized, archaeology-specific field data collection system",
+   "is_part_of": [
+    "Mobilizing the Past for a Digital Future: The Potential of Digital Archaeology"
+   ],
+   "language": "eng",
+   "pages": "337-371",
+   "place": "Grand Forks",
+   "publisher": "The Digital Press at the University of North Dakota",
+   "xref": 2,
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Sobotkova A., Ross S.A., Hermankova P., Lupak S., Nassif-Haynes C., Ballsun-Stanton B., Kasimi P. 2021, *Deploying an offline, multi-user mobile system for digital recording of landscape archaeology in the Perachora Peninsula, Greece*, «Journal of Field Archaeology», 46, 571-94 (https://doi.org/10.1080/00934690.2021.1969837).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sobotkova",
+     "given": "A."
+    },
+    {
+     "family": "Ross",
+     "given": "S.A."
+    },
+    {
+     "family": "Hermankova",
+     "given": "P."
+    },
+    {
+     "family": "Lupak",
+     "given": "S."
+    },
+    {
+     "family": "Nassif-Haynes",
+     "given": "C."
+    },
+    {
+     "family": "Ballsun-Stanton",
+     "given": "B."
+    },
+    {
+     "family": "Kasimi",
+     "given": "P."
+    }
+   ],
+   "date": "2021",
+   "title": "Deploying an offline, multi-user mobile system for digital recording of landscape archaeology in the Perachora Peninsula, Greece",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "language": "eng",
+   "volume": "46",
+   "pages": "571-594",
+   "doi": "10.1080/00934690.2021.1969837",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Wilkinson M.D. et al. 2016, *The FAIR guiding principles for scientific data management and stewardship*, «Scientific Data», 3, 1 (160018) (https://doi.org/10.1038/sdata.2016.18).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wilkinson",
+     "given": "M.D."
+    }
+   ],
+   "date": "2016",
+   "title": "The FAIR guiding principles for scientific data management and stewardship",
+   "is_part_of": [
+    "Scientific Data"
+   ],
+   "language": "eng",
+   "volume": "3",
+   "issue": "1",
+   "pages": "160018",
+   "doi": "10.1038/sdata.2016.18",
+   "notes": "cited 'Wilkinson M.D. et al.'; further authors not given",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,1437 @@
+{
+ "citing_aec_id": 225,
+ "source_file": "data/journal/7/225.md",
+ "references": [
+  {
+   "raw": "L'établissement thermal de Gortys d'Arcadie, Paris, Vrin, 1959.",
+   "date": "1959",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "L'établissement thermal de Gortys d'Arcadie",
+   "language": "fre",
+   "confidence": "high",
+   "position": 1,
+   "place": "Paris",
+   "publisher": "Vrin"
+  },
+  {
+   "raw": "Balaneutikè. Recherches sur le bain dans l'Antiquité grecque, Paris, éd. de Boccard, 1963.",
+   "date": "1963",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Balaneutikè. Recherches sur le bain dans l'Antiquité grecque",
+   "language": "fre",
+   "confidence": "high",
+   "position": 2,
+   "place": "Paris",
+   "publisher": "éd. de Boccard"
+  },
+  {
+   "raw": "L'Art grec, Paris, Presses universitaires de France, 1964; 2ème éd. révisée 1981 (traduit en Espagnol).",
+   "date": "1964",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "L'Art grec",
+   "language": "fre",
+   "confidence": "high",
+   "position": 3,
+   "place": "Paris",
+   "publisher": "Presses universitaires de France",
+   "notes": "2ème éd. révisée 1981 (traduit en Espagnol)"
+  },
+  {
+   "raw": "Laodycée du Lycos, le Nymphée. II L'Architecture, Québec-Paris, Presses de l'Université Laval - éd. de Boccard, 1969.",
+   "date": "1969",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Laodycée du Lycos, le Nymphée. II L'Architecture",
+   "language": "fre",
+   "confidence": "high",
+   "position": 4,
+   "place": "Québec-Paris",
+   "publisher": "Presses de l'Université Laval - éd. de Boccard"
+  },
+  {
+   "raw": "Les Mosaïques de la Maison du Ménandre à Mytilène, Sechstes Beiheft zu Antike Kunst, Berne 1970 (avec S. Charitonidis, L. Kahil).",
+   "date": "1970",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Charitonidis",
+     "given": "S."
+    },
+    {
+     "family": "Kahil",
+     "given": "L."
+    }
+   ],
+   "type": "book",
+   "title": "Les Mosaïques de la Maison du Ménandre à Mytilène",
+   "place": "Berne",
+   "language": "fre",
+   "confidence": "high",
+   "position": 5,
+   "series": "Beiheft zu Antike Kunst",
+   "series_number": "6"
+  },
+  {
+   "raw": "Le Théâtron à gradins droits et l'odéon d'Argos, Paris, Vrin, 1972.",
+   "date": "1972",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Le Théâtron à gradins droits et l'odéon d'Argos",
+   "language": "fre",
+   "confidence": "high",
+   "position": 6,
+   "place": "Paris",
+   "publisher": "Vrin"
+  },
+  {
+   "raw": "L'Archéologie gréco-romaine, Paris, Presses Universitaires de France, 1975; 2ème éd. révisée 1982; 3ème éd. mise à jour 1992.",
+   "date": "1975",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "L'Archéologie gréco-romaine",
+   "language": "fre",
+   "confidence": "high",
+   "position": 7,
+   "place": "Paris",
+   "publisher": "Presses Universitaires de France",
+   "notes": "2ème éd. révisée 1982; 3ème éd. mise à jour 1992"
+  },
+  {
+   "raw": "La constitution des données en Archéologie classique, Paris, éd. du CNRS, 1978 (avec A.-M. Guimier-Sorbets).",
+   "date": "1978",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "book",
+   "title": "La constitution des données en Archéologie classique",
+   "language": "fre",
+   "confidence": "high",
+   "position": 8,
+   "place": "Paris",
+   "publisher": "éd. du CNRS"
+  },
+  {
+   "raw": "Dictionnaire méthodique de l'Architecture grecque et romaine, Tome I: Matériaux, techniques de construction, techniques et formes du décor, Athènes-Rome, Ecole française d'Athènes - Ecole française de Rome, 1985 (avec R. Martin et al.).",
+   "type": "book",
+   "title": "Dictionnaire méthodique de l'Architecture grecque et romaine. Tome I: Matériaux, techniques de construction, techniques et formes du décor",
+   "confidence": "low",
+   "notes": "et al. in citation",
+   "position": 9,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Martin",
+     "given": "R."
+    }
+   ],
+   "date": "1985",
+   "place": "Athènes-Rome",
+   "publisher": "Ecole française d'Athènes - Ecole française de Rome",
+   "language": "fre"
+  },
+  {
+   "raw": "Soloi II, la ville basse, Québec, Presses de l'Université Laval, 1989.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Soloi II, la ville basse",
+   "language": "fre",
+   "confidence": "high",
+   "position": 10,
+   "place": "Québec",
+   "publisher": "Presses de l'Université Laval"
+  },
+  {
+   "raw": "Dictionnaire méthodique de l'Architecture grecque et romaine, Tome II: Eléments constructifs: Supports, couvertures, aménagements intérieurs, Athènes-Rome, Ecole française d'Athènes - Ecole française de Rome 1992, (et al.).",
+   "type": "book",
+   "title": "Dictionnaire méthodique de l'Architecture grecque et romaine. Tome II: Eléments constructifs: Supports, couvertures, aménagements intérieurs",
+   "confidence": "low",
+   "notes": "et al. in citation",
+   "position": 11,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1992",
+   "place": "Athènes-Rome",
+   "publisher": "Ecole française d'Athènes - Ecole française de Rome",
+   "language": "fre"
+  },
+  {
+   "raw": "La Macédoine de Philippe II à la conquête romaine, Paris, 1993 (et al.), ouvrage traduit en anglais, en italien, et en grec moderne.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "La Macédoine de Philippe II à la conquête romaine",
+   "language": "fre",
+   "confidence": "high",
+   "position": 12,
+   "place": "Paris",
+   "notes": "et al. in citation; ouvrage traduit en anglais, en italien, et en grec moderne"
+  },
+  {
+   "raw": "L'eau, la santé et la maladie dans le monde grec. Actes du Colloque organisé à Paris, 25-27 Novembre 1992, «BCH» Suppl. 28, 1994 (avec A.-M. Guimier-Sorbets, J. Jouanna, L. Villard ed.) et texte de \"Synthèse\", 357-366.",
+   "type": "article",
+   "title": "L'eau, la santé et la maladie dans le monde grec. Actes du Colloque organisé à Paris, 25-27 Novembre 1992",
+   "confidence": "low",
+   "notes": "citation: \"avec A.-M. Guimier-Sorbets, J. Jouanna, L. Villard ed.\" et texte de \"Synthèse\", 357-366",
+   "position": 13,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    },
+    {
+     "family": "Jouanna",
+     "given": "J."
+    },
+    {
+     "family": "Villard",
+     "given": "L."
+    }
+   ],
+   "date": "1994",
+   "is_part_of": [
+    "BCH"
+   ],
+   "volume": "Suppl. 28",
+   "pages": "357-366",
+   "language": "fre"
+  },
+  {
+   "raw": "Dictionnaire méthodique de l'Architecture grecque et romaine. Tome III: Bâtiments et compositions architecturales, Athènes-Rome, Ecole française d'Athènes - Ecole française de Rome, à paraître en 1997 (et al.).",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Dictionnaire méthodique de l'Architecture grecque et romaine. Tome III: Bâtiments et compositions architecturales",
+   "language": "fre",
+   "confidence": "high",
+   "position": 14,
+   "place": "Athènes-Rome",
+   "publisher": "Ecole française d'Athènes - Ecole française de Rome",
+   "notes": "\"à paraître en 1997\"; et al. in citation; online search not performed",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "Les Formes de vases grecs: principes d'analyse et vocabulaire multilingue, Athènes-Rome, Ecole française d'Athènes - Ecole française de Rome, à paraître en 1997 (et al.).",
+   "date": "c.s.",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "book",
+   "title": "Les Formes de vases grecs: principes d'analyse et vocabulaire multilingue",
+   "language": "fre",
+   "confidence": "high",
+   "position": 15,
+   "place": "Athènes-Rome",
+   "publisher": "Ecole française d'Athènes - Ecole française de Rome",
+   "notes": "\"à paraître en 1997\"; et al. in citation; online search not performed",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "Remarques sur l'architecture domestique à Vaison (Vaucluse), «RA» 34, 1949, 58-65.",
+   "type": "article",
+   "title": "Remarques sur l'architecture domestique à Vaison (Vaucluse)",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 16,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1949",
+   "is_part_of": [
+    "RA"
+   ],
+   "language": "fre",
+   "volume": "34",
+   "pages": "58-65"
+  },
+  {
+   "raw": "Une salle de bains hellénistique à Delphes, «BCH» 76, 1952, 541-561.",
+   "type": "article",
+   "title": "Une salle de bains hellénistique à Delphes",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 17,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1952",
+   "is_part_of": [
+    "BCH"
+   ],
+   "language": "fre",
+   "volume": "76",
+   "pages": "541-561"
+  },
+  {
+   "raw": "La rotonde souterraine de Gortys, «CRAI» 1952, 56-63 (avec P. Courbin).",
+   "date": "1952",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Courbin",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "La rotonde souterraine de Gortys",
+   "language": "fre",
+   "confidence": "high",
+   "position": 18,
+   "is_part_of": [
+    "CRAI"
+   ],
+   "pages": "56-63"
+  },
+  {
+   "raw": "Le bain romain de Zevgolatio près de Corinthe, «BCH» 79, 1955, 102-120 (avec S. Charitonidis).",
+   "type": "article",
+   "title": "Le bain romain de Zevgolatio près de Corinthe",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 19,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Charitonidis",
+     "given": "S."
+    }
+   ],
+   "date": "1955",
+   "is_part_of": [
+    "BCH"
+   ],
+   "language": "fre",
+   "volume": "79",
+   "pages": "102-120"
+  },
+  {
+   "raw": "Sur un aspect de l'évolution des bains en Grèce vers le 4ème siècle de notre ère, «BCH» 79, 1955, 135-152.",
+   "type": "article",
+   "title": "Sur un aspect de l'évolution des bains en Grèce vers le 4ème siècle de notre ère",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 20,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1955",
+   "is_part_of": [
+    "BCH"
+   ],
+   "language": "fre",
+   "volume": "79",
+   "pages": "135-152"
+  },
+  {
+   "raw": "Reconnaissance en Arcadie. Fortifications de Paliocastro, Saint Nicolas et Hellenico, «BCH» 80, 1956, 522-546 (avec P. Charneux).",
+   "type": "article",
+   "title": "Reconnaissance en Arcadie. Fortifications de Paliocastro, Saint Nicolas et Hellenico",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 21,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Charneux",
+     "given": "P."
+    }
+   ],
+   "date": "1956",
+   "is_part_of": [
+    "BCH"
+   ],
+   "language": "fre",
+   "volume": "80",
+   "pages": "522-546"
+  },
+  {
+   "raw": "Bain individuel ou bain collectif. Remarques sur l'évolution des mœurs aux époques grecque et romaine, «Palaeologia» (Japon) 1956, 103-107.",
+   "date": "1956",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "article",
+   "title": "Bain individuel ou bain collectif. Remarques sur l'évolution des mœurs aux époques grecque et romaine",
+   "language": "fre",
+   "confidence": "high",
+   "position": 22,
+   "is_part_of": [
+    "Palaeologia (Japon)"
+   ],
+   "pages": "103-107"
+  },
+  {
+   "raw": "La mosaïque des Mois à Argos, «BCH» 81, 1957, 216-268.",
+   "type": "article",
+   "title": "La mosaïque des Mois à Argos",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 23,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1957",
+   "is_part_of": [
+    "BCH"
+   ],
+   "language": "fre",
+   "volume": "81",
+   "pages": "216-268"
+  },
+  {
+   "raw": "Olynthe et l'urbanisme fonctionnel, «Bulletin de la Société lorraine des amis du Musée et des Arts» 3, 1963, 6-9.",
+   "type": "article",
+   "title": "Olynthe et l'urbanisme fonctionnel",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 24,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1963",
+   "is_part_of": [
+    "Bulletin de la Société lorraine des amis du Musée et des Arts"
+   ],
+   "language": "fre",
+   "volume": "3",
+   "pages": "6-9"
+  },
+  {
+   "raw": "Trois bains souterrains (résumé de communication), «REG» 86, 1963, 3-4.",
+   "type": "article",
+   "title": "Trois bains souterrains (résumé de communication)",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 25,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1963",
+   "is_part_of": [
+    "REG"
+   ],
+   "language": "fre",
+   "volume": "86",
+   "pages": "3-4"
+  },
+  {
+   "raw": "Un monument de la démocratie argienne, dans «Mélanges Michalowski», Varsovie 1966, 431-436.",
+   "date": "1966",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Un monument de la démocratie argienne",
+   "language": "fre",
+   "confidence": "high",
+   "position": 26,
+   "is_part_of": [
+    "Mélanges Michalowski"
+   ],
+   "place": "Varsovie",
+   "pages": "431-436"
+  },
+  {
+   "raw": "Archéographie, archéométrie, archéologie. Pour une informatique de l'archéologie gréco-romaine, «RA» 1971, 93-126.",
+   "date": "1971",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "article",
+   "title": "Archéographie, archéométrie, archéologie. Pour une informatique de l'archéologie gréco-romaine",
+   "language": "fre",
+   "confidence": "high",
+   "position": 27,
+   "is_part_of": [
+    "RA"
+   ],
+   "pages": "93-126"
+  },
+  {
+   "raw": "L'ordinateur au service de l'archéologie, «Québec-Science» 10.3, 1971, 6-9.",
+   "type": "article",
+   "title": "L'ordinateur au service de l'archéologie",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 28,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1971",
+   "is_part_of": [
+    "Québec-Science"
+   ],
+   "language": "fre",
+   "volume": "10",
+   "issue": "3",
+   "pages": "6-9"
+  },
+  {
+   "raw": "Informatique et archéologie, «Bulletin de la Société française d'égyptologie» 63, 1972, 9-18.",
+   "type": "article",
+   "title": "Informatique et archéologie",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 29,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1972",
+   "is_part_of": [
+    "Bulletin de la Société française d'égyptologie"
+   ],
+   "language": "fre",
+   "volume": "63",
+   "pages": "9-18"
+  },
+  {
+   "raw": "Projets de banques de données archéologiques à l'Université de Paris X, dans «Banques de données archéologiques», Paris, CNRS, 1974, 221-226.",
+   "date": "1974",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Projets de banques de données archéologiques à l'Université de Paris X",
+   "language": "fre",
+   "confidence": "high",
+   "position": 30,
+   "is_part_of": [
+    "Banques de données archéologiques"
+   ],
+   "place": "Paris",
+   "publisher": "CNRS",
+   "pages": "221-226"
+  },
+  {
+   "raw": "Quelques questions à propos de la théorie de l'archéologie (résumé de communication), «REG» 87, 1974, XVI-XVII.",
+   "type": "article",
+   "title": "Quelques questions à propos de la théorie de l'archéologie (résumé de communication)",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 31,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1974",
+   "is_part_of": [
+    "REG"
+   ],
+   "language": "fre",
+   "volume": "87",
+   "pages": "XVI-XVII"
+  },
+  {
+   "raw": "La mosaïque à Délos, «RA» 1977, 99-107.",
+   "date": "1977",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "article",
+   "title": "La mosaïque à Délos",
+   "language": "fre",
+   "confidence": "high",
+   "position": 32,
+   "is_part_of": [
+    "RA"
+   ],
+   "pages": "99-107"
+  },
+  {
+   "raw": "Préparation de base de données documentaires en archéologie classique, «Le progrès scientifique (Paris)», 192, 1978, 97-117 (avec A.-M. Guimier-Sorbets).",
+   "type": "article",
+   "title": "Préparation de base de données documentaires en archéologie classique",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 33,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "date": "1978",
+   "is_part_of": [
+    "Le progrès scientifique (Paris)"
+   ],
+   "language": "fre",
+   "volume": "192",
+   "pages": "97-117"
+  },
+  {
+   "raw": "Les banques de données archéologiques, propositions et controverses, «RA» 1979, 87-118 (avec A.-M. Guimier-Sorbets).",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "article",
+   "title": "Les banques de données archéologiques, propositions et controverses",
+   "language": "fre",
+   "confidence": "high",
+   "position": 34,
+   "is_part_of": [
+    "RA"
+   ],
+   "pages": "87-118"
+  },
+  {
+   "raw": "L'archéologie en Grèce, dans Guide Bleu de Grèce, Paris, éd. 1977 et suivantes, avec révisions.",
+   "date": "1977",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'archéologie en Grèce",
+   "language": "fre",
+   "confidence": "high",
+   "position": 35,
+   "is_part_of": [
+    "Guide Bleu de Grèce"
+   ],
+   "notes": "éd. 1977 et suivantes, avec révisions",
+   "place": "Paris"
+  },
+  {
+   "raw": "Informatique et archéologie, dans Encyclopaedia Universalis, suppl. 1980, 787-788.",
+   "date": "1980",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Informatique et archéologie",
+   "language": "fre",
+   "confidence": "high",
+   "position": 36,
+   "is_part_of": [
+    "Encyclopaedia Universalis"
+   ],
+   "notes": "suppl. 1980",
+   "pages": "787-788"
+  },
+  {
+   "raw": "Une archéologie théorique, «RA» 1981, 87-96 (avec A.-M. Guimier-Sorbets).",
+   "date": "1981",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "article",
+   "title": "Une archéologie théorique",
+   "language": "fre",
+   "confidence": "high",
+   "position": 37,
+   "is_part_of": [
+    "RA"
+   ],
+   "pages": "87-96"
+  },
+  {
+   "raw": "Informatique et sciences humaines, conférence inaugurale, dans Acts of the Second International Conference on Data Bases in the Humanities and Social Sciences, Madrid 1980, Madrid 1982.",
+   "date": "1982",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Informatique et sciences humaines, conférence inaugurale",
+   "language": "fre",
+   "confidence": "high",
+   "position": 38,
+   "is_part_of": [
+    "Acts of the Second International Conference on Data Bases in the Humanities and Social Sciences, Madrid 1980"
+   ],
+   "place": "Madrid"
+  },
+  {
+   "raw": "Rapport de synthèse, dans G. VARET (ed.), Bibliographie et informatique, les disciplines humanistes et leurs bibliographies à l'âge de l'informatique, Paris, «MSH» 1983, 153-161.",
+   "date": "1983",
+   "editors": [
+    {
+     "family": "Varet",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Rapport de synthèse",
+   "language": "fre",
+   "confidence": "high",
+   "position": 39,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Bibliographie et informatique, les disciplines humanistes et leurs bibliographies à l'âge de l'informatique"
+   ],
+   "place": "Paris",
+   "publisher": "MSH",
+   "pages": "153-161"
+  },
+  {
+   "raw": "Informatique et archéologie classique, dans Praktika du 12e Congrès international d'archéologie classique, Athènes 1983, Athènes 1985, 339-344. Résumé de ce texte dans «Pact News (Conseil de l'Europe)» 12, avril 1984, 29-31.",
+   "type": "chapter",
+   "title": "Informatique et archéologie classique",
+   "confidence": "low",
+   "notes": "résumé dans Pact News (Conseil de l'Europe) 12, avril 1984, 29-31",
+   "position": 40,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1985",
+   "is_part_of": [
+    "Praktika du 12e Congrès international d'archéologie classique, Athènes 1983"
+   ],
+   "language": "fre",
+   "place": "Athènes",
+   "pages": "339-344"
+  },
+  {
+   "raw": "Un centre de recherche sur l'informatique pour l'archéologie classique, «Pact News (Conseil de l'Europe)», octobre 1984, 16-19.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "article",
+   "title": "Un centre de recherche sur l'informatique pour l'archéologie classique",
+   "language": "fre",
+   "confidence": "high",
+   "position": 41,
+   "is_part_of": [
+    "Pact News (Conseil de l'Europe)"
+   ],
+   "issue": "octobre",
+   "pages": "16-19"
+  },
+  {
+   "raw": "Préparation de Thésaurus dans quelques champs de l'archéologie classique, dans Actes du Colloque sur le Thesaurus, CREDO, Lille 1985, 45-55.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Préparation de Thésaurus dans quelques champs de l'archéologie classique",
+   "language": "fre",
+   "confidence": "high",
+   "position": 42,
+   "is_part_of": [
+    "Actes du Colloque sur le Thesaurus, CREDO"
+   ],
+   "place": "Lille",
+   "pages": "45-55"
+  },
+  {
+   "raw": "L'archéologie et l'homme, dans Le grand Atlas de l'archéologie, Encyclopaedia Universalis, Paris 1985, 11-19.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'archéologie et l'homme",
+   "language": "fre",
+   "confidence": "high",
+   "position": 43,
+   "is_part_of": [
+    "Le grand Atlas de l'archéologie"
+   ],
+   "place": "Paris",
+   "publisher": "Encyclopaedia Universalis",
+   "pages": "11-19"
+  },
+  {
+   "raw": "Un premier vidéodisque pour l'archéologie classique, «RA» 1986, 227-234, résumé de ce texte, dans Images de l'archéologie. Vidéodisque, Paris 1986, 5-8.",
+   "date": "1986",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "article",
+   "title": "Un premier vidéodisque pour l'archéologie classique",
+   "pages": "227-234",
+   "is_part_of": [
+    "RA"
+   ],
+   "language": "fre",
+   "confidence": "high",
+   "position": 44,
+   "notes": "résumé dans Images de l'archéologie. Vidéodisque, Paris 1986, 5-8"
+  },
+  {
+   "raw": "L'architecture, texte de R. Martin établi par R. Ginouvès dans Grèce hellénistique, (L'Univers des formes), Paris 1987, 418-425.",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'architecture",
+   "language": "fre",
+   "confidence": "high",
+   "position": 45,
+   "is_part_of": [
+    "Grèce hellénistique"
+   ],
+   "series": "L'Univers des formes",
+   "notes": "texte de R. Martin établi par R. Ginouvès",
+   "place": "Paris",
+   "pages": "418-425"
+  },
+  {
+   "raw": "Perspectives actuelles de l'archéologie classique, «Classica, Revista de Sociedade Brasileira de Estudos Clasicos» 1, 1988, 111-126.",
+   "type": "article",
+   "title": "Perspectives actuelles de l'archéologie classique",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 46,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1988",
+   "is_part_of": [
+    "Classica, Revista de Sociedade Brasileira de Estudos Clasicos"
+   ],
+   "language": "fre",
+   "volume": "1",
+   "pages": "111-126"
+  },
+  {
+   "raw": "La colonne et la péristasis, dans Mélanges offerts à Georges Roux, Lyon 1988, 13-17.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "La colonne et la péristasis",
+   "language": "fre",
+   "confidence": "high",
+   "position": 47,
+   "is_part_of": [
+    "Mélanges offerts à Georges Roux"
+   ],
+   "place": "Lyon",
+   "pages": "13-17"
+  },
+  {
+   "raw": "Un rapide retour vers le passé, et Un nouveau souffle pour les sciences de l'homme et de la société: les banques d'images, deux articles dans Spécial Imagerie Scientifique, «Le Courrier du CNRS», Numéro spécial 66-68, 1987, 4-5 et 96-97.",
+   "type": "article",
+   "title": "Un rapide retour vers le passé, et Un nouveau souffle pour les sciences de l'homme et de la société: les banques d'images",
+   "confidence": "low",
+   "notes": "Numéro spécial; deux articles, pp. 4-5 et 96-97",
+   "position": 48,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1987",
+   "is_part_of": [
+    "Spécial Imagerie Scientifique",
+    "Le Courrier du CNRS"
+   ],
+   "language": "fre",
+   "volume": "66-68"
+  },
+  {
+   "raw": "Les techniques du relevé, dans Le décor romain, les méthodes de relevé et de restitution. Dossier histoire et archéologie, 119, 1987, 7-9.",
+   "type": "article",
+   "title": "Les techniques du relevé",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 49,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1987",
+   "is_part_of": [
+    "Le décor romain, les méthodes de relevé et de restitution",
+    "Dossier histoire et archéologie"
+   ],
+   "language": "fre",
+   "volume": "119",
+   "pages": "7-9"
+  },
+  {
+   "raw": "Rapports entre données bibliographiques et données factuelles en archéologie, dans Cahiers du GS Techniques nouvelles en sciences de l'homme, 1988.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "article",
+   "title": "Rapports entre données bibliographiques et données factuelles en archéologie",
+   "language": "fre",
+   "confidence": "high",
+   "position": 50,
+   "is_part_of": [
+    "Cahiers du GS Techniques nouvelles en sciences de l'homme"
+   ]
+  },
+  {
+   "raw": "Le Centre de recherche sur les traitements automatisés en archéologie classique. Une politique de recherche, dans Cahiers du GS Techniques nouvelles en sciences de l'homme, 1988.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "article",
+   "title": "Le Centre de recherche sur les traitements automatisés en archéologie classique. Une politique de recherche",
+   "language": "fre",
+   "confidence": "high",
+   "position": 51,
+   "is_part_of": [
+    "Cahiers du GS Techniques nouvelles en sciences de l'homme"
+   ]
+  },
+  {
+   "raw": "Une toiture révolutionnaire à Argos, dans Actes du Colloque \"The Greek Renaissance in the Roman Empire\" London 1986, Londres 1989, 151-155 (avec P. Aupert).",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Aupert",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "Une toiture révolutionnaire à Argos",
+   "language": "fre",
+   "confidence": "high",
+   "position": 52,
+   "is_part_of": [
+    "Actes du Colloque \"The Greek Renaissance in the Roman Empire\" London 1986"
+   ],
+   "place": "Londres",
+   "pages": "151-155"
+  },
+  {
+   "raw": "Les autels de l'Antiquité classique: problèmes de description, dans Actes du Colloque international Archéologie de l'espace sacrificiel dans les civilisations méditerranéennes de l'Antiquité, Lyon, Paris 1991, 277-290 (avec A.-M. Guimier-Sorbets).",
+   "type": "chapter",
+   "title": "Les autels de l'Antiquité classique: problèmes de description",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 53,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "date": "1991",
+   "is_part_of": [
+    "Actes du Colloque international Archéologie de l'espace sacrificiel dans les civilisations méditerranéennes de l'Antiquité, Lyon"
+   ],
+   "language": "fre",
+   "place": "Paris",
+   "pages": "277-290"
+  },
+  {
+   "raw": "L'autel de la religion grecque: mots, formes, significations, dans Mélanges offerts au Cardinal Louis-Albert Vachon, Québec 1989, 171-177.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'autel de la religion grecque: mots, formes, significations",
+   "language": "fre",
+   "confidence": "high",
+   "position": 54,
+   "is_part_of": [
+    "Mélanges offerts au Cardinal Louis-Albert Vachon"
+   ],
+   "place": "Québec",
+   "pages": "171-177"
+  },
+  {
+   "raw": "Documentation informatisée en archéologie: un état de la question, rapport introductif, dans Actes du Congrès international Sciences historiques, sciences du passé et nouvelles technologies d'information, Lille 1990, 97-107.",
+   "type": "chapter",
+   "title": "Documentation informatisée en archéologie: un état de la question, rapport introductif",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 55,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1990",
+   "is_part_of": [
+    "Actes du Congrès international Sciences historiques, sciences du passé et nouvelles technologies d'information"
+   ],
+   "language": "fre",
+   "place": "Lille",
+   "pages": "97-107"
+  },
+  {
+   "raw": "Des banques de données pour l'archéologie?, dans Traitement de l'information en archéologie, «Brises» (CNRS), 15, 1990, 97-107.",
+   "type": "article",
+   "title": "Des banques de données pour l'archéologie?",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 56,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "date": "1990",
+   "is_part_of": [
+    "Traitement de l'information en archéologie",
+    "Brises"
+   ],
+   "language": "fre",
+   "volume": "15",
+   "pages": "97-107"
+  },
+  {
+   "raw": "Préface de l'ouvrage de C. COURTOIS, Le bâtiment de scène des théâtres d'Italie et de Sicile, Etude chronologique et typologique, Louvain-la-Neuve 1989, 9-10.",
+   "date": "1989",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Préface",
+   "language": "fre",
+   "confidence": "high",
+   "position": 57,
+   "is_part_of": [
+    "Le bâtiment de scène des théâtres d'Italie et de Sicile, Etude chronologique et typologique"
+   ],
+   "notes": "Préface de l'ouvrage de C. Courtois",
+   "place": "Louvain-la-Neuve",
+   "pages": "9-10",
+   "editors": [
+    {
+     "family": "Courtois",
+     "given": "C."
+    }
+   ]
+  },
+  {
+   "raw": "Préface de l'ouvrage de A.-M. GUIMIER-SORBETS, Les bases de données en archéologie. Conception et mise en œuvre, Paris 1990, 1-7.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Préface",
+   "language": "fre",
+   "confidence": "high",
+   "position": 58,
+   "is_part_of": [
+    "Les bases de données en archéologie. Conception et mise en œuvre"
+   ],
+   "notes": "Préface de l'ouvrage de A.-M. Guimier-Sorbets",
+   "place": "Paris",
+   "pages": "1-7",
+   "editors": [
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ]
+  },
+  {
+   "raw": "Préface de l'ouvrage de H. ERISTOV, Le quatrième style pompéien, Rome, Ecole française de Rome, 1994.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Préface",
+   "language": "fre",
+   "confidence": "high",
+   "position": 59,
+   "is_part_of": [
+    "Le quatrième style pompéien"
+   ],
+   "notes": "Préface de l'ouvrage de H. Eristov",
+   "place": "Rome",
+   "publisher": "Ecole française de Rome",
+   "editors": [
+    {
+     "family": "Eristov",
+     "given": "H."
+    }
+   ]
+  },
+  {
+   "raw": "Un centre de recherche sur les systèmes d'information en archéologie, «Archeologia e Calcolatori» 2, 1991, 7-12 (avec A.-M. Guimier-Sorbets).",
+   "type": "article",
+   "title": "Un centre de recherche sur les systèmes d'information en archéologie",
+   "confidence": "low",
+   "notes": "unparsed",
+   "position": 60,
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "date": "1991",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "fre",
+   "volume": "2",
+   "pages": "7-12"
+  },
+  {
+   "raw": "L'image dans l'archéologie, Bulletin du CTHS 1992, L'image et la science, 231-248 (avec A.-M. Guimier-Sorbets).",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "article",
+   "title": "L'image dans l'archéologie",
+   "language": "fre",
+   "confidence": "high",
+   "position": 61,
+   "is_part_of": [
+    "L'image et la science",
+    "Bulletin du CTHS"
+   ],
+   "pages": "231-248"
+  },
+  {
+   "raw": "Dieux guérisseurs et sanctuaires de sources dans la Grèce antique, dans Dieux guérisseurs en Gaule romaine, (Chr. Landes ed.), Lattes 1992, 97-105.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Dieux guérisseurs et sanctuaires de sources dans la Grèce antique",
+   "language": "fre",
+   "confidence": "high",
+   "position": 62,
+   "is_part_of": [
+    "Dieux guérisseurs en Gaule romaine"
+   ],
+   "place": "Lattes",
+   "pages": "97-105",
+   "editors": [
+    {
+     "family": "Landes",
+     "given": "Chr."
+    }
+   ]
+  },
+  {
+   "raw": "Archéologie et informatique, dans Encyclopaedia Universalis, 1993 (avec A.-M. Guimier-Sorbets).",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "chapter",
+   "title": "Archéologie et informatique",
+   "language": "fre",
+   "confidence": "high",
+   "position": 63,
+   "is_part_of": [
+    "Encyclopaedia Universalis"
+   ]
+  },
+  {
+   "raw": "L'avenir de l'archéologie, dans Encyclopaedia Universalis, 1993.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'avenir de l'archéologie",
+   "language": "fre",
+   "confidence": "high",
+   "position": 64,
+   "is_part_of": [
+    "Encyclopaedia Universalis"
+   ]
+  },
+  {
+   "raw": "Archéologie et informatique aujourd'hui: quelques idées pour un débat, conférence inaugurale du Colloque européen archéologie et informatique, Saint-Germain-en-Laye, novembre 1992, à paraître dans les \"Actes\" (avec A.-M. Guimier-Sorbets).",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    },
+    {
+     "family": "Guimier-Sorbets",
+     "given": "A.-M."
+    }
+   ],
+   "type": "article",
+   "title": "Archéologie et informatique aujourd'hui: quelques idées pour un débat",
+   "language": "fre",
+   "confidence": "high",
+   "position": 65,
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "7",
+   "cs": {
+    "status": "resolved",
+    "source": "article 226 of the same volume (Archeologia e Calcolatori 7)"
+   },
+   "notes": "cited as conférence inaugurale du Colloque européen archéologie et informatique, Saint-Germain-en-Laye, novembre 1992, \"à paraître dans les Actes\"; published in AeC 7 (article 226)"
+  },
+  {
+   "raw": "Aux origines de la basilique, dans Tranquillitas, Mélanges offerts en l'honneur de Tran Tam Tinh (M.-O. JENTEL, G. DESCHÊNES-WAGNER ed.) Québec, Université Laval, 1994, 207-216.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Ginouvès",
+     "given": "R."
+    }
+   ],
+   "type": "chapter",
+   "title": "Aux origines de la basilique",
+   "language": "fre",
+   "confidence": "high",
+   "position": 66,
+   "is_part_of": [
+    "Tranquillitas, Mélanges offerts en l'honneur de Tran Tam Tinh"
+   ],
+   "place": "Québec",
+   "publisher": "Université Laval",
+   "pages": "207-216",
+   "editors": [
+    {
+     "family": "Jentel",
+     "given": "M.-O."
+    },
+    {
+     "family": "Deschênes-Wagner",
+     "given": "G."
+    }
+   ]
+  }
+ ]
+}

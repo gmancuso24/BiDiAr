@@ -1,0 +1,1399 @@
+{
+ "citing_aec_id": 54,
+ "source_file": "data/journal/4/54.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "*Amphores romaines 1989* = *Amphores romaines et histoire économique. Dix ans de recherche. Actes du colloque (Sienne 1986)*, Roma, l'Erma di Bretschneider.",
+   "type": "proceedings",
+   "date": "1989",
+   "title": "Amphores romaines et histoire économique. Dix ans de recherche. Actes du colloque (Sienne 1986)",
+   "place": "Roma",
+   "publisher": "L'Erma di Bretschneider",
+   "notes": "cited as 'Amphores romaines 1989'",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "*Anfore romane a Padova 1992* = S. Pesavento Mattioli (ed.), *Anfore romane a Padova: ritrovamenti della città*, Padova, F.C. Panini.",
+   "type": "book",
+   "date": "1992",
+   "title": "Anfore romane a Padova: ritrovamenti della città",
+   "place": "Padova",
+   "publisher": "F.C. Panini",
+   "editors": [
+    {
+     "family": "Pesavento Mattioli",
+     "given": "S."
+    }
+   ],
+   "notes": "cited as 'Anfore romane a Padova 1992'",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "*L'Antico Polesine 1986* = L'Antico Polesine. Testimonianze archeologiche e paleoambientali. Catalogo di esposizioni di Adria e di Rovigo 1986, Padova, Antoniana S.P.A.",
+   "type": "book",
+   "date": "1986",
+   "title": "L'Antico Polesine. Testimonianze archeologiche e paleoambientali. Catalogo di esposizioni di Adria e di Rovigo 1986",
+   "place": "Padova",
+   "publisher": "Antoniana S.P.A.",
+   "notes": "cited as 'L'Antico Polesine 1986'",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Arqueología Submarina 1985 = Arqueología Submarina. VI Congreso Internacional (Cartagena 1982), Madrid, Dirección General de Belles Artes y Archivos Ministero de Cultura.",
+   "type": "proceedings",
+   "date": "1985",
+   "title": "Arqueología Submarina. VI Congreso Internacional (Cartagena 1982)",
+   "place": "Madrid",
+   "publisher": "Dirección General de Bellas Artes y Archivos, Ministerio de Cultura",
+   "notes": "cited as 'Arqueología Submarina 1985'; 'Belles' as cited, read as Bellas",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "BALDACCI P. 1969, Alcuni aspetti dei commerci nei territori cisalpini, Atti del Centro Studi e Documentazione sull'Italia romana, I, 1967-1968, Milano, Varese, Istituto Editoriale Cisalpino.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baldacci",
+     "given": "P."
+    }
+   ],
+   "date": "1969",
+   "title": "Alcuni aspetti dei commerci nei territori cisalpini",
+   "is_part_of": [
+    "Atti del Centro Studi e Documentazione sull'Italia romana"
+   ],
+   "volume": "I",
+   "place": "Milano, Varese",
+   "publisher": "Istituto Editoriale Cisalpino",
+   "notes": "1967-1968",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "BALDACCI P. 1972, Le principali correnti del commercio di anfore romane in Cisalpina dal III sec. a.C. al II d.C., in I problemi della ceramica romana di Ravenna e dell'Alto Adriatico. Atti del Convegno Internazionale (Ravenna 1969), Bologna, Arnoldo Forni.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Baldacci",
+     "given": "P."
+    }
+   ],
+   "date": "1972",
+   "title": "Le principali correnti del commercio di anfore romane in Cisalpina dal III sec. a.C. al II d.C.",
+   "is_part_of": [
+    "I problemi della ceramica romana di Ravenna e dell'Alto Adriatico. Atti del Convegno Internazionale (Ravenna 1969)"
+   ],
+   "publisher": "Arnoldo Forni",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "BELTRAN LLORIS M. 1970, Las anforas romanas en España, anejo de« Caesaraugusta » 8, Zaragoza, J.M.Quadrado CSIC.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Beltrán Lloris",
+     "given": "M."
+    }
+   ],
+   "date": "1970",
+   "title": "Las ánforas romanas en España",
+   "series": "Anejos de Caesaraugusta",
+   "series_number": "8",
+   "place": "Zaragoza",
+   "publisher": "J.M. Quadrado CSIC",
+   "notes": "cited 'anejo de Caesaraugusta 8'",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "BELTRAN LLORIS M. 1978, Ceramica romana. Tipologia y clasificacion, Excma Diputación Provincial Institución « Ferdinando el Catolico ».",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Beltrán Lloris",
+     "given": "M."
+    }
+   ],
+   "date": "1978",
+   "title": "Cerámica romana. Tipología y clasificación",
+   "publisher": "Excma. Diputación Provincial, Institución «Fernando el Católico»",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "BEZÉCZKY T. 1987, Roman amphorae from the Amber Route in Western Pannonia, BAR International Series 386, Oxford.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bezéczky",
+     "given": "T."
+    }
+   ],
+   "date": "1987",
+   "title": "Roman amphorae from the Amber Route in Western Pannonia",
+   "series": "BAR International Series",
+   "series_number": "386",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "BLANQUER PEREZ J. 1988, Arqueología subaquea en España, Murcia, Ministerio de Cultura.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Blanquer Pérez",
+     "given": "J."
+    }
+   ],
+   "date": "1988",
+   "title": "Arqueología subaquea en España",
+   "place": "Murcia",
+   "publisher": "Ministerio de Cultura",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "BLAZQUEZ MARTINEZ J.M. 1983, Ultimas aportaciones a los problemas de la producción y comercio del aceite en la Antiguedad, in Producción y Comercio 1983, 19-99.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Blázquez Martínez",
+     "given": "J.M."
+    }
+   ],
+   "date": "1983",
+   "title": "Últimas aportaciones a los problemas de la producción y comercio del aceite en la Antigüedad",
+   "is_part_of": [
+    "Producción y comercio del aceite en la Antigüedad. II Congreso Internacional (Sevilla 1982)"
+   ],
+   "pages": "19-99",
+   "xref": 54,
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "BLAZQUEZ MARTINEZ J.M. 1990, Excavaciones españoles en el Monte Testaccio, « Revista de Arqueología », 107, 29-35.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Blázquez Martínez",
+     "given": "J.M."
+    }
+   ],
+   "date": "1990",
+   "title": "Excavaciones españoles en el Monte Testaccio",
+   "is_part_of": [
+    "Revista de Arqueología"
+   ],
+   "volume": "107",
+   "pages": "29-35",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "BLAZQUEZ MARTINEZ J.M. 1992, El testaccio. Un programa espaiiol de investigaciones, « Revista de Arqueología », 135, 42-49.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Blázquez Martínez",
+     "given": "J.M."
+    }
+   ],
+   "date": "1992",
+   "title": "El Testaccio. Un programa español de investigaciones",
+   "is_part_of": [
+    "Revista de Arqueología"
+   ],
+   "volume": "135",
+   "pages": "42-49",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "BUCHI F. 1973, Banchi di anfore romane a Verona. Note sui commerci cisalpini, in Il territorio veronese in età romana, Atti del Convegno (Verona 1971), Verona, Accademia di Agricoltura Scienze e Lettere, 530-637.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Büchi",
+     "given": "F."
+    }
+   ],
+   "date": "1973",
+   "title": "Banchi di anfore romane a Verona. Note sui commerci cisalpini",
+   "is_part_of": [
+    "Il territorio veronese in età romana. Atti del Convegno (Verona 1971)"
+   ],
+   "pages": "530-637",
+   "publisher": "Accademia di Agricoltura Scienze e Lettere",
+   "place": "Verona",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "CACCIAGUERRA L. 1990, Anfore e commerci nella Venetia, Portogruaro, Gruppo Archeologico del Veneto Orientale.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cacciaguerra",
+     "given": "L."
+    }
+   ],
+   "date": "1990",
+   "title": "Anfore e commerci nella Venetia",
+   "place": "Portogruaro",
+   "publisher": "Gruppo Archeologico del Veneto Orientale",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "CALLENDER M.H. 1965, Roman Amphorae with Index of Stamp, London, Oxford University Press, University of Durham Publications.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Callender",
+     "given": "M.H."
+    }
+   ],
+   "date": "1965",
+   "title": "Roman Amphorae with Index of Stamp",
+   "series": "University of Durham Publications",
+   "place": "London",
+   "publisher": "Oxford University Press",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "CALLS D., ETIEENNE R. et al. 1977, L'épave de Port-Vendres II et le commerce de la Betique à l'époque de Claude, « Archaeonautica », 1, 33-38.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Calls",
+     "given": "D."
+    },
+    {
+     "family": "Etienne",
+     "given": "R."
+    }
+   ],
+   "date": "1977",
+   "title": "L'épave de Port-Vendres II et le commerce de la Bétique à l'époque de Claude",
+   "is_part_of": [
+    "Archaeonautica"
+   ],
+   "volume": "1",
+   "pages": "33-38",
+   "notes": "'et al.' co-authors not listed; 'ETIEENNE' OCR corrected",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "CAMBI N. 1976, Spanish amphorae found near Split, «Rei Cretariae Romanae Fautorum Acta», 16, Congressus IX, Emonae 1973, Emonae, 115-123.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cambi",
+     "given": "N."
+    }
+   ],
+   "date": "1976",
+   "title": "Spanish amphorae found near Split",
+   "is_part_of": [
+    "Rei Cretariae Romanae Fautorum Acta"
+   ],
+   "volume": "16",
+   "pages": "115-123",
+   "place": "Emonae",
+   "notes": "Congressus IX, Emonae 1973; reference split over two lines in the source",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "CANAL E., CAVAZZONI S. 1990, Antichi insediamenti antropici nella laguna di Venezia: analisi multivariata di tipo \"Fuzzy c-means clustering\", «Archeologia e Calcolatori», 1, 165-177.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Canal",
+     "given": "E."
+    },
+    {
+     "family": "Cavazzoni",
+     "given": "S."
+    }
+   ],
+   "date": "1990",
+   "title": "Antichi insediamenti antropici nella laguna di Venezia: analisi multivariata di tipo \"fuzzy c-means clustering\"",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "1",
+   "pages": "165-177",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "CARBOGNIN L., T ARONI G . 1991, Correlation between percentage matrices: a new approach, « Computers & Geosciences », 17, 477-488.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carbognin",
+     "given": "L."
+    },
+    {
+     "family": "Taroni",
+     "given": "G."
+    }
+   ],
+   "date": "1991",
+   "title": "Correlation between percentage matrices: a new approach",
+   "is_part_of": [
+    "Computers & Geosciences"
+   ],
+   "volume": "17",
+   "pages": "477-488",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "CARDOSO G. 1986, Fornos de anforas romanas na bacia do rio Sado: Pinheiro, Abul e Bugio, «Conimbriga », 25, 156-173.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cardoso",
+     "given": "G."
+    }
+   ],
+   "date": "1986",
+   "title": "Fornos de ánforas romanas na bacia do rio Sado: Pinheiro, Abul e Bugio",
+   "is_part_of": [
+    "Conimbriga"
+   ],
+   "volume": "25",
+   "pages": "156-173",
+   "language": "por",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "CARRE M.B. 1985, Les amphores de la cisalpine et de l'Adriatique du début de l'Empire, «MEFRA», 97 (1), 206-245 .",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carre",
+     "given": "M.B."
+    }
+   ],
+   "date": "1985",
+   "title": "Les amphores de la cisalpine et de l'Adriatique du début de l'Empire",
+   "is_part_of": [
+    "Mélanges de l'Ecole Française de Rome"
+   ],
+   "volume": "97",
+   "issue": "1",
+   "pages": "206-245",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "CHIC GARCIA G. 1985, Epigrafia anforica de la Betica, I. Las marcas impresas en el barro sobre anforas olearias (Dr 19,20 y 23), Sevilla, Universidad de Sevilla, Grafisol.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chic García",
+     "given": "G."
+    }
+   ],
+   "date": "1985",
+   "title": "Epigrafía anfórica de la Bética, I. Las marcas impresas en el barro sobre ánforas olearias (Dr 19, 20 y 23)",
+   "place": "Sevilla",
+   "publisher": "Universidad de Sevilla, Grafisol",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "CIPRIANO M. T., CARRE M.B. 1987, Note sulle anfore conservate nel Museo d'Aquileia, « Antichità Alto Adriatiche», 29, 479-494.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cipriano",
+     "given": "M.T."
+    },
+    {
+     "family": "Carre",
+     "given": "M.B."
+    }
+   ],
+   "date": "1987",
+   "title": "Note sulle anfore conservate nel Museo d'Aquileia",
+   "is_part_of": [
+    "Antichità Altoadriatiche"
+   ],
+   "volume": "29",
+   "pages": "479-494",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "*Convegno Europeo 1991* = Ricerche archeometriche e studi archeologici sulla ceramica antica. Atti del Convegno Europeo (Roma ottobre 1991), Roma, Università «La Sapienza».",
+   "type": "proceedings",
+   "date": "1991",
+   "title": "Ricerche archeometriche e studi archeologici sulla ceramica antica. Atti del Convegno Europeo (Roma ottobre 1991)",
+   "place": "Roma",
+   "publisher": "Università «La Sapienza»",
+   "notes": "cited as 'Convegno Europeo 1991'",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "CUOMO DI CAPRIO N. 1985, La ceramica in archeologia, Roma, l'Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Cuomo di Caprio",
+     "given": "N."
+    }
+   ],
+   "date": "1985",
+   "title": "La ceramica in archeologia",
+   "place": "Roma",
+   "publisher": "L'Erma di Bretschneider",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "D'ABRUZZO M., BONOMI S. et al. 1982, Testimonianze di traffici commerciali in età romana nel delta padano attraverso alcune classi di materiali dello scavo di S. Basilio di Ariano (Polesine, Rovigo anni 1979-80), « Padusa », 13 (1-4), 36-62.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Abruzzo",
+     "given": "M."
+    },
+    {
+     "family": "Bonomi",
+     "given": "S."
+    }
+   ],
+   "date": "1982",
+   "title": "Testimonianze di traffici commerciali in età romana nel delta padano attraverso alcune classi di materiali dello scavo di S. Basilio di Ariano (Polesine, Rovigo anni 1979-80)",
+   "is_part_of": [
+    "Padusa"
+   ],
+   "volume": "13",
+   "issue": "1-4",
+   "pages": "36-62",
+   "notes": "'et al.' co-authors not listed",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "DRESSEL E . 1879, Di un grande deposito d'anfore rinvenuto nel nuovo quartiere del Castro Pretorio, « Bulletino della Commissione Archeologica Comunale di Roma», 7, 96-112, 143-196.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dressel",
+     "given": "E."
+    }
+   ],
+   "date": "1879",
+   "title": "Di un grande deposito d'anfore rinvenuto nel nuovo quartiere del Castro Pretorio",
+   "is_part_of": [
+    "Bullettino della Commissione Archeologica Comunale di Roma"
+   ],
+   "volume": "7",
+   "pages": "96-112, 143-196",
+   "notes": "'Bulletino' as cited",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "ECHALLIER J.C. 1984, Eléments de technologie céramique et d'analyse des terres cuites archéologiques, Documents d'archéologie méridional série Méthodes et Techniques 3, Salon, Amigon.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Echallier",
+     "given": "J.C."
+    }
+   ],
+   "date": "1984",
+   "title": "Eléments de technologie céramique et d'analyse des terres cuites archéologiques",
+   "series": "Documents d'archéologie méridionale. Série Méthodes et Techniques",
+   "series_number": "3",
+   "place": "Salon",
+   "publisher": "Amigon",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "FLECHER VALLS D. 1965, Tipologia de los hornos ceramicos romanos de España, « Archivo Español de Arqueologla >>, 38, 170-174.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Flecher Valls",
+     "given": "D."
+    }
+   ],
+   "date": "1965",
+   "title": "Tipología de los hornos cerámicos romanos de España",
+   "is_part_of": [
+    "Archivo Español de Arqueología"
+   ],
+   "volume": "38",
+   "pages": "170-174",
+   "notes": "surname spelled 'Flecher' as cited (probably Fletcher)",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "HARTIGAN J.A. 1973, Clustering Algoritm, New York, John Wiley & Sons.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hartigan",
+     "given": "J.A."
+    }
+   ],
+   "date": "1973",
+   "title": "Clustering Algoritm",
+   "place": "New York",
+   "publisher": "John Wiley & Sons",
+   "notes": "'Algoritm' as cited",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "JONCHERAY J.P. 1976, Nouvelle classification des amphores découvertes lors des fouilles sous-marines, Frejus, seconde ed.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Joncheray",
+     "given": "J.P."
+    }
+   ],
+   "date": "1976",
+   "title": "Nouvelle classification des amphores découvertes lors des fouilles sous-marines",
+   "place": "Fréjus",
+   "edition": "2",
+   "notes": "'seconde ed.'",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "KEAY S., JONES L. 1982, Differentiation of early imperial amphora production in Hispania Tarraconensis, in J. FREESTONE et al. (edd.), Current research in ceramics; thin-section studies, The British Museum Seminar 1980, British Museum Occasional Paper 32, London, 45-61.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Keay",
+     "given": "S."
+    },
+    {
+     "family": "Jones",
+     "given": "L."
+    }
+   ],
+   "date": "1982",
+   "title": "Differentiation of early imperial amphora production in Hispania Tarraconensis",
+   "editors": [
+    {
+     "family": "Freestone",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "Current research in ceramics; thin-section studies. The British Museum Seminar 1980"
+   ],
+   "pages": "45-61",
+   "series": "British Museum Occasional Paper",
+   "series_number": "32",
+   "place": "London",
+   "notes": "'et al.' co-editors not listed",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "KEAY S.J. 1984, Late Roman amphorae in the Western Medite\"anean. A typology and economie study: the Catalan evidence, BAR International Series 196, Oxford.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Keay",
+     "given": "S.J."
+    }
+   ],
+   "date": "1984",
+   "title": "Late Roman amphorae in the Western Mediterranean. A typology and economic study: the Catalan evidence",
+   "series": "BAR International Series",
+   "series_number": "196",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "LAMBOGLIA N. 1952, La nave romana di Albenga, «Rivista di Studi Liguri », 18, 131-236.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lamboglia",
+     "given": "N."
+    }
+   ],
+   "date": "1952",
+   "title": "La nave romana di Albenga",
+   "is_part_of": [
+    "Rivista di Studi Liguri"
+   ],
+   "volume": "18",
+   "pages": "131-236",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "LAUBENHEIMER F. 1985, La production des amphores en Gaule Narbonaise, Centre de Recherches d'Histoire Ancienne, vol. 66, Annales Littéraire de l'Université de Besançon 327, Paris, 233-323, 355-386.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Laubenheimer",
+     "given": "F."
+    }
+   ],
+   "date": "1985",
+   "title": "La production des amphores en Gaule Narbonnaise",
+   "series": "Annales Littéraires de l'Université de Besançon",
+   "series_number": "327",
+   "place": "Paris",
+   "notes": "also Centre de Recherches d'Histoire Ancienne vol. 66; cited pages 233-323, 355-386 not recorded (book); 'Narbonaise' corrected",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "LEOPOLD L.B., LANGBEIN W.B. 1962, The concept of entropy in landscape evolution, U.S. Geol. Survey Prof. Paper 500-A.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Leopold",
+     "given": "L.B."
+    },
+    {
+     "family": "Langbein",
+     "given": "W.B."
+    }
+   ],
+   "date": "1962",
+   "title": "The concept of entropy in landscape evolution",
+   "series": "U.S. Geological Survey Professional Paper",
+   "series_number": "500-A",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "*Les amphores lusitaniennes* 1990 = A. ALARCAO, F. MAYET (edd.), Les amphores lusitaniennes. Typologie. Production. Commerce. Actes des Journées d'Etudes (Conimbriga 1988), Paris, E. de Boccard, 253-271.",
+   "type": "book",
+   "date": "1990",
+   "title": "Les amphores lusitaniennes. Typologie. Production. Commerce. Actes des Journées d'Etudes (Conimbriga 1988)",
+   "editors": [
+    {
+     "family": "Alarcão",
+     "given": "A."
+    },
+    {
+     "family": "Mayet",
+     "given": "F."
+    }
+   ],
+   "place": "Paris",
+   "publisher": "E. de Boccard",
+   "notes": "cited as 'Les amphores lusitaniennes 1990'; pages 253-271 not recorded (book)",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "LEQUEMENT R., LIOU B. 1975, Les epaves de la côte de Transalpine, « Cahiers ligures de préhistoire et d'archéologie », 24, 59-82.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lequément",
+     "given": "R."
+    },
+    {
+     "family": "Liou",
+     "given": "B."
+    }
+   ],
+   "date": "1975",
+   "title": "Les épaves de la côte de Transalpine",
+   "is_part_of": [
+    "Cahiers ligures de préhistoire et d'archéologie"
+   ],
+   "volume": "24",
+   "pages": "59-82",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "*Luni* I, II = A. FROVA (ed.), Luni I. Scavi di Luni I. Relazione delle campagne di scavo 1970-71, Roma 1973, l'Erma di Bretschneider, 431-455; Luni II, Roma 1977, 218-270.",
+   "type": "book",
+   "date": "1973",
+   "title": "Luni I. Scavi di Luni I. Relazione delle campagne di scavo 1970-71",
+   "editors": [
+    {
+     "family": "Frova",
+     "given": "A."
+    }
+   ],
+   "place": "Roma",
+   "publisher": "L'Erma di Bretschneider",
+   "confidence": "low",
+   "notes": "cited as 'Luni I, II': Luni I, Roma 1973, pp. 431-455; Luni II, Roma 1977, pp. 218-270; both volumes cited in one line, only Luni I recorded",
+   "language": "ita"
+  },
+  {
+   "position": 41,
+   "raw": "MANACORDA D. 1977, Anfore spagnole a Pompei, in L'instrumentum domesticum di Ercolano e Pompei nella prima età imperiale, I, Quaderni di Cultura Materiale, Roma, l'Erma di Bretschneider, 121-133.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "1977",
+   "title": "Anfore spagnole a Pompei",
+   "is_part_of": [
+    "L'instrumentum domesticum di Ercolano e Pompei nella prima età imperiale"
+   ],
+   "pages": "121-133",
+   "volume": "I",
+   "series": "Quaderni di Cultura Materiale",
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "MARTIN KILCHER S. 1987, Die römischen Amphoren aus Augst und Kaiseraugst, in Forschungen in Augst 7, Ein Beitrag zur römischen Handels und Kulturgeschichte 1. Die hispanischen Ölamphoren, Augst, Museen und Archaeologie des Kantons Basel Landschaft.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Martin Kilcher",
+     "given": "S."
+    }
+   ],
+   "date": "1987",
+   "title": "Die römischen Amphoren aus Augst und Kaiseraugst. Ein Beitrag zur römischen Handels und Kulturgeschichte 1. Die hispanischen Ölamphoren",
+   "series": "Forschungen in Augst",
+   "series_number": "7",
+   "place": "Augst",
+   "publisher": "Museen und Archaeologie des Kantons Basel Landschaft",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "MELO E., LUSUARDI S., MELONI S., ODDONE M. 1982, « Journal of Radioanalytical Chemistry » , 69, 1-2, 259 -270.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Melo",
+     "given": "E."
+    },
+    {
+     "family": "Lusuardi",
+     "given": "S."
+    },
+    {
+     "family": "Meloni",
+     "given": "S."
+    },
+    {
+     "family": "Oddone",
+     "given": "M."
+    }
+   ],
+   "date": "1982",
+   "is_part_of": [
+    "Journal of Radioanalytical Chemistry"
+   ],
+   "volume": "69",
+   "issue": "1-2",
+   "pages": "259-270",
+   "confidence": "low",
+   "notes": "title missing in the citation",
+   "language": "eng"
+  },
+  {
+   "position": 44,
+   "raw": "*Méthodes classiques 1977* = Méthodes classiques et méthodes formelles dans l'étude des amphores. Actes de Colloque (Rome 1974), Collection de l'Ecole Française de Rome 32, Rome.",
+   "type": "proceedings",
+   "date": "1977",
+   "title": "Méthodes classiques et méthodes formelles dans l'étude des amphores. Actes de Colloque (Rome 1974)",
+   "series": "Collection de l'Ecole Française de Rome",
+   "series_number": "32",
+   "place": "Rome",
+   "notes": "cited as 'Méthodes classiques 1977'",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "MIRÒ J. 1988, La producción de anforas romanas en Catalunya. Un estudio sobre el comercio del vino de la Tarraconense (siglos l a. C. -I d. C.), BAR International Series 473, Oxford, 10-20.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Miró",
+     "given": "J."
+    }
+   ],
+   "date": "1988",
+   "title": "La producción de ánforas romanas en Catalunya. Un estudio sobre el comercio del vino de la Tarraconense (siglos I a.C.-I d.C.)",
+   "series": "BAR International Series",
+   "series_number": "473",
+   "place": "Oxford",
+   "notes": "cited pages 10-20 not recorded (book)",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "*Misurare la terra* 1985 = R. Bussi, V. VANDELLI (edd.), Misurare la terra: centuriazione e coloni nel mondo romano. Città, agricoltura, commercio: materiali da Roma e dal suburbio, Modena, Panini.",
+   "type": "book",
+   "date": "1985",
+   "title": "Misurare la terra: centuriazione e coloni nel mondo romano. Città, agricoltura, commercio: materiali da Roma e dal suburbio",
+   "editors": [
+    {
+     "family": "Bussi",
+     "given": "R."
+    },
+    {
+     "family": "Vandelli",
+     "given": "V."
+    }
+   ],
+   "place": "Modena",
+   "notes": "cited as 'Misurare la terra 1985'",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "MODRZEWSKA I. 1992, Anfore della laguna veneta. Scelta di ritrovamenti, ISDGM CNR TR n. 168.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Modrzewska",
+     "given": "I."
+    }
+   ],
+   "date": "1992",
+   "title": "Anfore della laguna veneta. Scelta di ritrovamenti",
+   "series": "ISDGM CNR TR",
+   "series_number": "168",
+   "notes": "technical report",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "MODRZEWSKA I., TARONI G. 1992, Analisi quantitativa di forme di alcune lucerne tardoromane, «Archeologia e Calcolatori», 3, 19-34.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Modrzewska",
+     "given": "I."
+    },
+    {
+     "family": "Taroni",
+     "given": "G."
+    }
+   ],
+   "date": "1992",
+   "title": "Analisi quantitativa di forme di alcune lucerne tardoromane",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "3",
+   "pages": "19-34",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "PANELLA C. 1970, Anfore, in Ostia II, «Studi miscellanei», 16, Roma, 102-156, de Luca ed.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Panella",
+     "given": "C."
+    }
+   ],
+   "date": "1970",
+   "title": "Anfore",
+   "is_part_of": [
+    "Ostia II"
+   ],
+   "pages": "102-156",
+   "series": "Studi miscellanei",
+   "series_number": "16",
+   "publisher": "De Luca",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 50,
+   "raw": "PANELLA C. 1973, Anfore, in Ostia III,« Studi Miscellanei», 21, Roma, 463-633, de Luca ed.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Panella",
+     "given": "C."
+    }
+   ],
+   "date": "1973",
+   "title": "Anfore",
+   "is_part_of": [
+    "Ostia III"
+   ],
+   "pages": "463-633",
+   "series": "Studi miscellanei",
+   "series_number": "21",
+   "publisher": "De Luca",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 51,
+   "raw": "PASCUAL GUASCH R. 1973, Underwater archaeology in Andalusia,« International Journal of Nautical Archaeology », 2, 107-120.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pascual Guasch",
+     "given": "R."
+    }
+   ],
+   "date": "1973",
+   "title": "Underwater archaeology in Andalusia",
+   "is_part_of": [
+    "International Journal of Nautical Archaeology"
+   ],
+   "volume": "2",
+   "pages": "107-120",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 52,
+   "raw": "PEACOCK D.P.S. 1975, Amphorae and the Baetican fish industry, «The Antiquaries Journal», 54, part II, 232-243.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Peacock",
+     "given": "D.P.S."
+    }
+   ],
+   "date": "1975",
+   "title": "Amphorae and the Baetican fish industry",
+   "is_part_of": [
+    "The Antiquaries Journal"
+   ],
+   "volume": "54",
+   "issue": "II",
+   "pages": "232-243",
+   "notes": "'part II' read as issue",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 53,
+   "raw": "PONSICH M. 1979, Implantation rurale antique sur le bas Guadalquivir, Pubbl. Casa de Velazquez, fasc. III, Paris, E. de Boccard.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Ponsich",
+     "given": "M."
+    }
+   ],
+   "date": "1979",
+   "title": "Implantation rurale antique sur le bas Guadalquivir",
+   "series": "Publications de la Casa de Velázquez",
+   "volume": "III",
+   "place": "Paris",
+   "publisher": "E. de Boccard",
+   "notes": "cited 'Pubbl. Casa de Velazquez, fasc. III'",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 54,
+   "raw": "Producción y comercio 1983 = Producción y comercio del aceite en la Antiguedad, II Congreso Internacional (Sevilla 1982), Madrid, Universidad Complutense.",
+   "type": "proceedings",
+   "date": "1983",
+   "title": "Producción y comercio del aceite en la Antigüedad. II Congreso Internacional (Sevilla 1982)",
+   "place": "Madrid",
+   "publisher": "Universidad Complutense",
+   "notes": "cited as 'Producción y comercio 1983'",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 55,
+   "raw": "REMESAL RODRIGUEZ J. 1977/78, La economia oleicola Betica: nuevas formas de análisis, « Archivo Español de Arqueologia », 50/51, 87-126.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Remesal Rodríguez",
+     "given": "J."
+    }
+   ],
+   "date": "1977/78",
+   "title": "La economía oleícola bética: nuevas formas de análisis",
+   "is_part_of": [
+    "Archivo Español de Arqueología"
+   ],
+   "volume": "50/51",
+   "pages": "87-126",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 56,
+   "raw": "REMESAL RODRIGUEZ J. 1986, La annona militaris y la exportacion de aceite betico a Germania, Madrid, Universidad Complutense.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Remesal Rodríguez",
+     "given": "J."
+    }
+   ],
+   "date": "1986",
+   "title": "La annona militaris y la exportación de aceite bético a Germania",
+   "place": "Madrid",
+   "publisher": "Universidad Complutense",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 57,
+   "raw": "REMESAL RODRIGUEZ J. 1989, Cuestiones en torno a la epigrafia anforica de la Betica, Collection de l'Ecole Française de Rome 114, Rome.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Remesal Rodríguez",
+     "given": "J."
+    }
+   ],
+   "date": "1989",
+   "title": "Cuestiones en torno a la epigrafía anfórica de la Bética",
+   "series": "Collection de l'Ecole Française de Rome",
+   "series_number": "114",
+   "place": "Rome",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 58,
+   "raw": "RODRIGUEZ ALMEIDA E. 1980, Vicissitudini nella gestione del commercio dell'olio betico da Vespasiano a Severo Alessandro, « Memoirs of the American Academy in Rome», 36, 277-290.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rodríguez Almeida",
+     "given": "E."
+    }
+   ],
+   "date": "1980",
+   "title": "Vicissitudini nella gestione del commercio dell'olio betico da Vespasiano a Severo Alessandro",
+   "is_part_of": [
+    "Memoirs of the American Academy in Rome"
+   ],
+   "volume": "36",
+   "pages": "277-290",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 59,
+   "raw": "SCHALLMAYER E . 1983, Römische Okkupationslinien in Obergermanien und Rätien. Zur chronologischen Typologie der Amphoren, in Producción y comercio 1983, 281-335.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Schallmayer",
+     "given": "E."
+    }
+   ],
+   "date": "1983",
+   "title": "Römische Okkupationslinien in Obergermanien und Rätien. Zur chronologischen Typologie der Amphoren",
+   "is_part_of": [
+    "Producción y comercio del aceite en la Antigüedad. II Congreso Internacional (Sevilla 1982)"
+   ],
+   "pages": "281-335",
+   "xref": 54,
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 60,
+   "raw": "SERRANO RAMOS E . 1991, Terra sigillata Hispanica de los alfares de Singilla Barba, Malaga, Universidad de Malaga.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Serrano Ramos",
+     "given": "E."
+    }
+   ],
+   "date": "1991",
+   "title": "Terra sigillata hispanica de los alfares de Singilla Barba",
+   "place": "Málaga",
+   "publisher": "Universidad de Málaga",
+   "language": "spa",
+   "confidence": "high"
+  },
+  {
+   "position": 61,
+   "raw": "*Settefinestre 1985* = A. Ricci (ed.), Una villa schiavistica nell'Etruria romana II: la villa e i suoi reperti, Modena, 73-85.",
+   "type": "book",
+   "date": "1985",
+   "title": "Una villa schiavistica nell'Etruria romana II: la villa e i suoi reperti",
+   "editors": [
+    {
+     "family": "Ricci",
+     "given": "A."
+    }
+   ],
+   "place": "Modena",
+   "notes": "cited as 'Settefinestre 1985'; pages 73-85 not recorded (book)",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 62,
+   "raw": "SIRAUDEAU J. 1988, Amphores romaines des sites angerins et leur contexte archéologique. Corpus des amphores découvertes dans l'Ouest de la France, vol. 2, Angers.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Siraudeau",
+     "given": "J."
+    }
+   ],
+   "date": "1988",
+   "title": "Amphores romaines des sites angerins et leur contexte archéologique. Corpus des amphores découvertes dans l'Ouest de la France",
+   "volume": "2",
+   "place": "Angers",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 63,
+   "raw": "TARONI G. 1991, Verifica statistica dell'ipotesi di indipendenza tra due variabili tramite test funzionali, «Statistica Applicata», 2, 111-123.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Taroni",
+     "given": "G."
+    }
+   ],
+   "date": "1991",
+   "title": "Verifica statistica dell'ipotesi di indipendenza tra due variabili tramite test funzionali",
+   "is_part_of": [
+    "Statistica Applicata"
+   ],
+   "volume": "2",
+   "pages": "111-123",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 64,
+   "raw": "TARONI G., MODRZEWSKA I. 1991, Problemi di confronto fra forme di alcune lucerne, « Technical Report », 159, CNR, Venezia.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Taroni",
+     "given": "G."
+    },
+    {
+     "family": "Modrzewska",
+     "given": "I."
+    }
+   ],
+   "date": "1991",
+   "title": "Problemi di confronto fra forme di alcune lucerne",
+   "series": "Technical Report",
+   "series_number": "159",
+   "place": "Venezia",
+   "publisher": "CNR",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 65,
+   "raw": "TCHERNIA A. 1969, Recherches sous marines, « Gallia », 27, 467-499.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tchernia",
+     "given": "A."
+    }
+   ],
+   "date": "1969",
+   "title": "Recherches sous-marines",
+   "is_part_of": [
+    "Gallia"
+   ],
+   "volume": "27",
+   "pages": "467-499",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 66,
+   "raw": "TCHERNIA A. 1971, Les amphores vinaires de la tarraconaise et leurexportation au début de l'Empire, « Archivo Espaiiol de Arqueologia », 49, 60-71.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tchernia",
+     "given": "A."
+    }
+   ],
+   "date": "1971",
+   "title": "Les amphores vinaires de la Tarraconaise et leur exportation au début de l'Empire",
+   "is_part_of": [
+    "Archivo Español de Arqueología"
+   ],
+   "volume": "49",
+   "pages": "60-71",
+   "notes": "'leurexportation' corrected",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 67,
+   "raw": "TONIOLO A. 1987, I contenitori da trasporto di epoca romana nel Polesine di Rovigo, «Archeologia Veneta», 10, 87-120.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Toniolo",
+     "given": "A."
+    }
+   ],
+   "date": "1987",
+   "title": "I contenitori da trasporto di epoca romana nel Polesine di Rovigo",
+   "is_part_of": [
+    "Archeologia Veneta"
+   ],
+   "volume": "10",
+   "pages": "87-120",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 68,
+   "raw": "WIDEMANN F., LAUBENHEIMER F. et al. 1978, Analytical and typological study of Gallo-Roman workshops producing amphorae in the area of Narbonne, « Archaophysica », 10, 317-341.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Widemann",
+     "given": "F."
+    },
+    {
+     "family": "Laubenheimer",
+     "given": "F."
+    }
+   ],
+   "date": "1978",
+   "title": "Analytical and typological study of Gallo-Roman workshops producing amphorae in the area of Narbonne",
+   "is_part_of": [
+    "Archaeophysika"
+   ],
+   "volume": "10",
+   "pages": "317-341",
+   "notes": "'et al.' co-authors not listed",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 69,
+   "raw": "ZERBINATI E. 1970, Anfore romane del Polesine,« Padusa », 6 (3), 117-136.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zerbinati",
+     "given": "E."
+    }
+   ],
+   "date": "1970",
+   "title": "Anfore romane del Polesine",
+   "is_part_of": [
+    "Padusa"
+   ],
+   "volume": "6",
+   "issue": "3",
+   "pages": "117-136",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 70,
+   "raw": "ZEVI F. 1966, Appunti sulle anfore romane I: la tavola tipologica di Dressel, «Archeologia Classica », 18, 208-248.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zevi",
+     "given": "F."
+    }
+   ],
+   "date": "1966",
+   "title": "Appunti sulle anfore romane I: la tavola tipologica di Dressel",
+   "is_part_of": [
+    "Archeologia Classica"
+   ],
+   "volume": "18",
+   "pages": "208-248",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

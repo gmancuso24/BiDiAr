@@ -1,0 +1,165 @@
+{
+ "citing_aec_id": 139,
+ "source_file": "data/journal/7/139.md",
+ "references": [
+  {
+   "raw": "BLOMÉ B. 1963, *Die Rollei in der Archaeologie*, «Rollei-Journal».",
+   "date": "1963",
+   "creators": [
+    {
+     "family": "Blomé",
+     "given": "B."
+    }
+   ],
+   "type": "article",
+   "title": "Die Rollei in der Archaeologie",
+   "is_part_of": [
+    "Rollei-Journal"
+   ],
+   "language": "ger",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "HADJIDAKI E. 1992, *Anaskafi se klassiko nayagio sten Alonisso*, «Enalia», 4, 1/2, 16-25.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Hadjidaki",
+     "given": "E."
+    }
+   ],
+   "type": "article",
+   "title": "Anaskafi se klassiko nayagio sten Alonisso",
+   "is_part_of": [
+    "Enalia"
+   ],
+   "pages": "16-25",
+   "volume": "4",
+   "issue": "1/2",
+   "language": "gre",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "GREEN G. 1990, *Maritime Archaeology*, Academic Press.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Green",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Maritime Archaeology",
+   "publisher": "Academic Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "KARANTAIDIS D. 1992, *Ypovrychies Fotogrammetrikes Apotyposis*, «Epigia fotogrammetria ...», Thessaloniki, Un. Aristoteleion of Thessaloniki, 213-221.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Karantaidis",
+     "given": "D."
+    }
+   ],
+   "type": "article",
+   "title": "Ypovrychies Fotogrammetrikes Apotyposis",
+   "is_part_of": [
+    "Epigia fotogrammetria ..."
+   ],
+   "pages": "213-221",
+   "language": "gre",
+   "confidence": "high",
+   "position": 4,
+   "place": "Thessaloniki",
+   "publisher": "Un. Aristoteleion of Thessaloniki"
+  },
+  {
+   "raw": "KYRIAKOPOULOU V. 1990, *Underwater surveying with the Sharps in the 1989 excavation season at Dhokos*, «Enalia», 1, 24-26.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Kyriakopoulou",
+     "given": "V."
+    }
+   ],
+   "type": "article",
+   "title": "Underwater surveying with the Sharps in the 1989 excavation season at Dhokos",
+   "is_part_of": [
+    "Enalia"
+   ],
+   "pages": "24-26",
+   "volume": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "MACKENDRICK P. 1962, *The Greek Stones Speak*, New York, Memor-New American Library, 22.",
+   "date": "1962",
+   "creators": [
+    {
+     "family": "Mackendrick",
+     "given": "P."
+    }
+   ],
+   "type": "book",
+   "title": "The Greek Stones Speak",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6,
+   "place": "New York",
+   "publisher": "Memor-New American Library",
+   "pages": "22"
+  },
+  {
+   "raw": "SCHWARZ G.T. 1966, *Stereoscopic views taken with an ordinary single camera*, «Archaeometry», 36-42.",
+   "date": "1966",
+   "creators": [
+    {
+     "family": "Schwarz",
+     "given": "G.T."
+    }
+   ],
+   "type": "article",
+   "title": "Stereoscopic views taken with an ordinary single camera",
+   "is_part_of": [
+    "Archaeometry"
+   ],
+   "pages": "36-42",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7
+  },
+  {
+   "raw": "WHITTLESEY J.H. 1979, in D.L. CLARK JR. (ed.) *Photogrammetry for Archaeology*, New York.",
+   "date": "1979",
+   "creators": [
+    {
+     "family": "Whittlesey",
+     "given": "J.H."
+    }
+   ],
+   "type": "chapter",
+   "title": "[titolo non riportato]",
+   "place": "New York",
+   "language": "eng",
+   "confidence": "low",
+   "position": 8,
+   "is_part_of": [
+    "Photogrammetry for Archaeology"
+   ],
+   "editors": [
+    {
+     "family": "Clark Jr.",
+     "given": "D.L."
+    }
+   ],
+   "notes": "chapter title missing in citation"
+  }
+ ]
+}

@@ -1,0 +1,798 @@
+{
+ "citing_aec_id": 389,
+ "source_file": "data/journal/15/389.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV. 1988, Die Welt der Etrusker, Berlin, Henschel Verlag.",
+   "type": "book",
+   "date": "1988",
+   "title": "Die Welt der Etrusker",
+   "publisher": "Henschel Verlag",
+   "place": "Berlin",
+   "language": "ger",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "D’ANDREA A., DE NICOLA R., GIORDANO A. 1999, The Eurialo project: a vector GIS for the integrated management of the archeological data of Pontecagnano (Italy), in J.A. BARCELÓ, I. BRIZ, A. VILA (eds.), New Techniques for Old Times. Proceedings of the 26th Conference (Barcelona 1998), CAA 1998, BAR International Series 757, Oxford, Archaeopress, 145-148.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D’Andrea",
+     "given": "A."
+    },
+    {
+     "family": "De Nicola",
+     "given": "R."
+    },
+    {
+     "family": "Giordano",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "The Eurialo project: a vector GIS for the integrated management of the archeological data of Pontecagnano (Italy)",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "New Techniques for Old Times. Proceedings of the 26th Conference (Barcelona 1998), CAA 1998"
+   ],
+   "pages": "145-148",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "757",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "D’ANDRIA F. 1997, Metodologie di catalogazione dei beni archeologici, B.A.C.T., Quaderno 1.1, Lecce, Martano Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "D’Andria",
+     "given": "F."
+    }
+   ],
+   "date": "1997",
+   "title": "Metodologie di catalogazione dei beni archeologici",
+   "series": "B.A.C.T. Quaderno",
+   "series_number": "1.1",
+   "publisher": "Martano Editore",
+   "place": "Lecce",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Forum GIS di scavo = Soluzioni GIS nell’informatizzazione dello scavo archeologico, Workshop di Siena (Siena 2001), disponibili on line all’indirizzo http://192.167.112.135/NewPages/work4.html.",
+   "type": "other",
+   "date": "2001",
+   "title": "Soluzioni GIS nell’informatizzazione dello scavo archeologico (Siena 2001)",
+   "uri": "http://192.167.112.135/NewPages/work4.html",
+   "language": "ita",
+   "notes": "cited in short form \"Forum GIS di scavo\" (Workshop di Siena), online",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "FRANCOVICH R., MANACORDA D. (eds.) 1990, Lo scavo archeologico: dalla diagnosi all’edizione, III Ciclo di lezioni sulla Ricerca applicata in archeologia (Certosa di Pontignano 1989), Firenze, All’Insegna del Giglio.",
+   "type": "proceedings",
+   "date": "1990",
+   "title": "Lo scavo archeologico: dalla diagnosi all’edizione, III Ciclo di lezioni sulla Ricerca applicata in archeologia (Certosa di Pontignano 1989)",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "FRONZA E.V., NARDINI A., SALZOTTI F., VALENTI M. 2001, A GIS solution for excavations: experience of the Siena University LIAAM, in Z. STANČIČ, T. VELJANOVSKI (eds.), Computing Archaeology for Understanding the Past. Proceedings of the 28th Conference (Ljubljana 2000), CAA 2000, BAR International Series 931, Oxford, Archaeopress, 173-177.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fronza",
+     "given": "E.V."
+    },
+    {
+     "family": "Nardini",
+     "given": "A."
+    },
+    {
+     "family": "Salzotti",
+     "given": "F."
+    },
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "A GIS solution for excavations: experience of the Siena University LIAAM",
+   "editors": [
+    {
+     "family": "Stančič",
+     "given": "Z."
+    },
+    {
+     "family": "Veljanovski",
+     "given": "T."
+    }
+   ],
+   "is_part_of": [
+    "Computing Archaeology for Understanding the Past. Proceedings of the 28th Conference (Ljubljana 2000), CAA 2000"
+   ],
+   "pages": "173-177",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "931",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "GENTILE A. 1979, Da Leboriae (Terrae) a Terra di Lavoro. Riflessi linguistici di storia, cultura e civiltà in Campania, «Archivio storico di Terra di Lavoro», 6, 9-63.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gentile",
+     "given": "A."
+    }
+   ],
+   "date": "1979",
+   "title": "Da Leboriae (Terrae) a Terra di Lavoro. Riflessi linguistici di storia, cultura e civiltà in Campania",
+   "is_part_of": [
+    "Archivio storico di Terra di Lavoro"
+   ],
+   "volume": "6",
+   "pages": "9-63",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "GIFFI E. 2001, Il Sistema Informativo Generale del Catalogo, in GIUDICI, ORSI, STANZANI 2001, 47-48.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Giffi",
+     "given": "E."
+    }
+   ],
+   "date": "2001",
+   "title": "Il Sistema Informativo Generale del Catalogo",
+   "editors": [
+    {
+     "family": "Giudici",
+     "given": "C."
+    },
+    {
+     "family": "Orsi",
+     "given": "O."
+    },
+    {
+     "family": "Stanzani",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Lo spazio il tempo le opere. Il catalogo del patrimonio culturale. Catalogo della mostra (Bologna-Milano 2001)"
+   ],
+   "pages": "47-48",
+   "publisher": "Silvana Editoriale",
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "GIUDICI C., ORSI O., STANZANI A. 2001, Lo spazio il tempo le opere. Il catalogo del patrimonio culturale, Catalogo della mostra (Bologna-Milano 2001), Milano, Silvana Editoriale.",
+   "type": "book",
+   "date": "2001",
+   "title": "Lo spazio il tempo le opere. Il catalogo del patrimonio culturale. Catalogo della mostra (Bologna-Milano 2001)",
+   "editors": [
+    {
+     "family": "Giudici",
+     "given": "C."
+    },
+    {
+     "family": "Orsi",
+     "given": "O."
+    },
+    {
+     "family": "Stanzani",
+     "given": "A."
+    }
+   ],
+   "publisher": "Silvana Editoriale",
+   "place": "Milano",
+   "language": "ita",
+   "notes": "authors of the exhibition catalogue, recorded as editors like \"Lo spazio il tempo le opere\" in other bibliographies",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "HARRIS T.M., LOCK G.R. 1996, Multi-dimensional GIS: exploratory approaches to spatial and temporal relationships within archaeological stratigraphy, in H. KAMERMANS, K. FENNEMA (eds.), Interfacing the Past, CAA 1995, Analecta Praehistorica Leidensia 28, Leiden, University of Leiden 307-316.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Harris",
+     "given": "T.M."
+    },
+    {
+     "family": "Lock",
+     "given": "G.R."
+    }
+   ],
+   "date": "1996",
+   "title": "Multi-dimensional GIS: exploratory approaches to spatial and temporal relationships within archaeological stratigraphy",
+   "editors": [
+    {
+     "family": "Kamermans",
+     "given": "H."
+    },
+    {
+     "family": "Fennema",
+     "given": "K."
+    }
+   ],
+   "is_part_of": [
+    "Interfacing the Past, CAA 1995"
+   ],
+   "pages": "307-316",
+   "publisher": "University of Leiden",
+   "place": "Leiden",
+   "language": "eng",
+   "series": "Analecta Praehistorica Leidensia",
+   "series_number": "28",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "KÄSTNER V. et al. 1988, Kampanische Terrakotten, in AA.VV. 1988, 229-242.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kästner",
+     "given": "V."
+    }
+   ],
+   "date": "1988",
+   "title": "Kampanische Terrakotten",
+   "is_part_of": [
+    "Die Welt der Etrusker"
+   ],
+   "pages": "229-242",
+   "publisher": "Henschel Verlag",
+   "place": "Berlin",
+   "language": "ger",
+   "xref": 1,
+   "notes": "\"et al.\" in the citation: only first author recorded",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "KRISELEIT I. et al. 1988, Kampanische Bronzen, in AA.VV. 1988, 242-243.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kriseleit",
+     "given": "I."
+    }
+   ],
+   "date": "1988",
+   "title": "Kampanische Bronzen",
+   "is_part_of": [
+    "Die Welt der Etrusker"
+   ],
+   "pages": "242-243",
+   "publisher": "Henschel Verlag",
+   "place": "Berlin",
+   "language": "ger",
+   "xref": 1,
+   "notes": "\"et al.\" in the citation: only first author recorded",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "LAFORGIA E., MUROLO N. 2003, Il Museo Archeologico di Calatia, Napoli, Electa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Laforgia",
+     "given": "E."
+    },
+    {
+     "family": "Murolo",
+     "given": "N."
+    }
+   ],
+   "date": "2003",
+   "title": "Il Museo Archeologico di Calatia",
+   "publisher": "Electa",
+   "place": "Napoli",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "MEDRI M. 1990, Una applicazione del programma SAXA: l’esperienza del progetto EUBEA, in FRANCOVICH, MANACORDA 1990, 315-341.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    }
+   ],
+   "date": "1990",
+   "title": "Una applicazione del programma SAXA: l’esperienza del progetto EUBEA",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Lo scavo archeologico: dalla diagnosi all’edizione, III Ciclo di lezioni sulla Ricerca applicata in archeologia (Certosa di Pontignano 1989)"
+   ],
+   "pages": "315-341",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 5,
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "NARDINI A. 2000, La piattaforma GIS dello scavo di Poggio Imperiale a Poggibonsi. Una soluzione all’interno della “soluzione GIS”, «Archeologia e Calcolatori», 11, 111-123.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nardini",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "La piattaforma GIS dello scavo di Poggio Imperiale a Poggibonsi. Una soluzione all’interno della “soluzione GIS”",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "111-123",
+   "language": "ita",
+   "cited_aec_id": 291,
+   "notes": "cited title merges the titles of two papers of AeC 11 (Nardini and Fronza)",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "NARDINI A. 2001, Il sistema degli archivi nella gestione di un cantiere di scavo e la sua integrazione in una gestione integrata del dato (l’esperienza senese), in Forum GIS di scavo.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nardini",
+     "given": "A."
+    }
+   ],
+   "date": "2001",
+   "title": "Il sistema degli archivi nella gestione di un cantiere di scavo e la sua integrazione in una gestione integrata del dato (l’esperienza senese)",
+   "is_part_of": [
+    "Soluzioni GIS nell’informatizzazione dello scavo archeologico (Siena 2001)"
+   ],
+   "language": "ita",
+   "xref": 4,
+   "uri": "http://192.167.112.135/NewPages/work4.html",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "NIGRO J.D., LIMP W.F., KVAMME K.K., RUITER DE D.J., BERGER L.R. 2002, The creation and potential applications of a 3-dimensional GIS for the early hominid site of Swartkrans, South Africa, in G. BURENHULT (ed.), Archaeological Informatics: Pushing the Envelope. Computer Applications and Quantitative Methods in Archaeology, CAA 2001, BAR International Series 1016, Oxford, Archaeopress, 113-124.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nigro",
+     "given": "J.D."
+    },
+    {
+     "family": "Limp",
+     "given": "W.F."
+    },
+    {
+     "family": "Kvamme",
+     "given": "K.K."
+    },
+    {
+     "family": "De Ruiter",
+     "given": "D.J."
+    },
+    {
+     "family": "Berger",
+     "given": "L.R."
+    }
+   ],
+   "date": "2002",
+   "title": "The creation and potential applications of a 3-dimensional GIS for the early hominid site of Swartkrans, South Africa",
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Archaeological Informatics: Pushing the Envelope. Computer Applications and Quantitative Methods in Archaeology, CAA 2001"
+   ],
+   "pages": "113-124",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "series": "BAR International Series",
+   "series_number": "1016",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "PARISE BADONI F. 1988, Strutturazione dei dati delle schede di catalogo: beni archeologici immobili e territoriali, Roma, ICCD.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Parise Badoni",
+     "given": "F."
+    }
+   ],
+   "date": "1988",
+   "title": "Strutturazione dei dati delle schede di catalogo: beni archeologici immobili e territoriali",
+   "publisher": "ICCD",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "PARISE BADONI F., RUGGERI GIOVE M. 1984, Norme per la redazione della scheda del saggio stratigrafico, Roma, ICCD.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Parise Badoni",
+     "given": "F."
+    },
+    {
+     "family": "Ruggeri Giove",
+     "given": "M."
+    }
+   ],
+   "date": "1984",
+   "title": "Norme per la redazione della scheda del saggio stratigrafico",
+   "publisher": "ICCD",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "PETACCO L. 2003, La matrice culturale del S.I.T, tecnologie computazionali nella ricerca topografica, in Valle del Sinni 2003, 63-71.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Petacco",
+     "given": "L."
+    }
+   ],
+   "date": "2003",
+   "title": "La matrice culturale del S.I.T, tecnologie computazionali nella ricerca topografica",
+   "editors": [
+    {
+     "family": "Quilici",
+     "given": "L."
+    },
+    {
+     "family": "Quilici Gigli",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Carta archeologica della Valle del Sinni"
+   ],
+   "pages": "63-71",
+   "place": "Roma",
+   "language": "ita",
+   "series": "Atlante tematico di topografia antica",
+   "volume": "I",
+   "xref": 29,
+   "notes": "Suppl. X",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "PETACCO L., QUILICI GIGLI S., SASSO D’ELIA L. 2001, Il SIT Territorio: ricerca archeologico topografica nella valle del Sinni. Le scelte metodologiche e l’architettura del sistema, in I sistemi informativi territoriali per i Beni Culturali – le banche dati e le applicazioni per la gestione ed il controllo del patrimonio culturale ed ambientale italiano, Atti del Convegno di Mondo GIS (Roma 2001), Roma, MondoGis, 165-170.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Petacco",
+     "given": "L."
+    },
+    {
+     "family": "Quilici Gigli",
+     "given": "S."
+    },
+    {
+     "family": "Sasso D’Elia",
+     "given": "L."
+    }
+   ],
+   "date": "2001",
+   "title": "Il SIT Territorio: ricerca archeologico topografica nella valle del Sinni. Le scelte metodologiche e l’architettura del sistema",
+   "is_part_of": [
+    "I sistemi informativi territoriali per i Beni Culturali – le banche dati e le applicazioni per la gestione ed il controllo del patrimonio culturale ed ambientale italiano, Atti del Convegno di Mondo GIS (Roma 2001)"
+   ],
+   "pages": "165-170",
+   "publisher": "MondoGis",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "POLESE W. 1990, La banca dati EUBEA, in FRANCOVICH, MANACORDA 1990, 342-349.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Polese",
+     "given": "W."
+    }
+   ],
+   "date": "1990",
+   "title": "La banca dati EUBEA",
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "is_part_of": [
+    "Lo scavo archeologico: dalla diagnosi all’edizione, III Ciclo di lezioni sulla Ricerca applicata in archeologia (Certosa di Pontignano 1989)"
+   ],
+   "pages": "342-349",
+   "publisher": "All’Insegna del Giglio",
+   "place": "Firenze",
+   "language": "ita",
+   "xref": 5,
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "PY M. 1997, Syslat 3.1. Système d’Information Archéologique. Manuel de référence (Lattara 10), Lattes, Imprimerie Louis-Jean.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Py",
+     "given": "M."
+    }
+   ],
+   "date": "1997",
+   "title": "Syslat 3.1. Système d’Information Archéologique. Manuel de référence",
+   "series": "Lattara",
+   "series_number": "10",
+   "publisher": "Imprimerie Louis-Jean",
+   "place": "Lattes",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "QUILICI GIGLI S., RESCIGNO C. 1996, Maddaloni (Caserta). Località i Torrioni – Villa Galazia. Scavo nell’area urbana dell’antica Calatia, «Bollettino di Archeologia», 37-38, 94-102.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Quilici Gigli",
+     "given": "S."
+    },
+    {
+     "family": "Rescigno",
+     "given": "C."
+    }
+   ],
+   "date": "1996",
+   "title": "Maddaloni (Caserta). Località i Torrioni – Villa Galazia. Scavo nell’area urbana dell’antica Calatia",
+   "is_part_of": [
+    "Bollettino di Archeologia"
+   ],
+   "volume": "37-38",
+   "pages": "94-102",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "RESCIGNO C. 2003, Ricerche sull’urbanistica dei centri campani: Calatia, «Orizzonti», 3, 99-104.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Rescigno",
+     "given": "C."
+    }
+   ],
+   "date": "2003",
+   "title": "Ricerche sull’urbanistica dei centri campani: Calatia",
+   "is_part_of": [
+    "Orizzonti"
+   ],
+   "volume": "3",
+   "pages": "99-104",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "SANTORIELLO A., SCELZA F. 2000, Un sistema informativo archeologico: l’applicazione del Syslat a Fratte di Salerno, «Archeologia e Calcolatori», 11, 29-92.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Santoriello",
+     "given": "A."
+    },
+    {
+     "family": "Scelza",
+     "given": "F."
+    }
+   ],
+   "date": "2000",
+   "title": "Un sistema informativo archeologico: l’applicazione del Syslat a Fratte di Salerno",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "29-92",
+   "language": "ita",
+   "cited_aec_id": 289,
+   "notes": "cited pp. 29-92; AeC metadata 69-92",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "SASSO D’ELIA L. 2003, Genesi di un sistema informativo per la raccolta di dati di Topografia antica, in Valle del Sinni 2003, 53-61.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sasso D’Elia",
+     "given": "L."
+    }
+   ],
+   "date": "2003",
+   "title": "Genesi di un sistema informativo per la raccolta di dati di Topografia antica",
+   "editors": [
+    {
+     "family": "Quilici",
+     "given": "L."
+    },
+    {
+     "family": "Quilici Gigli",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Carta archeologica della Valle del Sinni"
+   ],
+   "pages": "53-61",
+   "place": "Roma",
+   "language": "ita",
+   "series": "Atlante tematico di topografia antica",
+   "volume": "I",
+   "xref": 29,
+   "notes": "Suppl. X",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "VALENTI M. 2001, Temi di discussione del workshop, in Forum GIS di scavo.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Temi di discussione del workshop",
+   "is_part_of": [
+    "Soluzioni GIS nell’informatizzazione dello scavo archeologico (Siena 2001)"
+   ],
+   "language": "ita",
+   "xref": 4,
+   "uri": "http://192.167.112.135/NewPages/work4.html",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Valle del Sinni 2003 = QUILICI L., QUILICI GIGLI S. (eds.), Carta archeologica della Valle del Sinni, «Atlante tematico di topografia antica», Suppl. X, I, Roma.",
+   "type": "book",
+   "date": "2003",
+   "title": "Carta archeologica della Valle del Sinni",
+   "editors": [
+    {
+     "family": "Quilici",
+     "given": "L."
+    },
+    {
+     "family": "Quilici Gigli",
+     "given": "S."
+    }
+   ],
+   "series": "Atlante tematico di topografia antica",
+   "series_number": "Suppl. X",
+   "volume": "I",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "VASCO ROCCA S. 2001, Il catalogo e la catalogazione, in GIUDICI, ORSI, STANZANI 2001, 34-39.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Vasco Rocca",
+     "given": "S."
+    }
+   ],
+   "date": "2001",
+   "title": "Il catalogo e la catalogazione",
+   "editors": [
+    {
+     "family": "Giudici",
+     "given": "C."
+    },
+    {
+     "family": "Orsi",
+     "given": "O."
+    },
+    {
+     "family": "Stanzani",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Lo spazio il tempo le opere. Il catalogo del patrimonio culturale. Catalogo della mostra (Bologna-Milano 2001)"
+   ],
+   "pages": "34-39",
+   "publisher": "Silvana Editoriale",
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  }
+ ]
+}

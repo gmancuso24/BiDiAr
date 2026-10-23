@@ -1,0 +1,457 @@
+{
+ "citing_aec_id": 1360,
+ "source_file": "data/journal/35/1360.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Alperson-Afil N. 2019, *Digitising the undigitized: Converting traditional archaeological records into computerized, three-dimensional site reconstruction*, «Journal of Graphic Information System», 11, 747-765 (https://www.scirp.org/journal/paperinformation?paperid=97426).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Alperson-Afil",
+     "given": "N."
+    }
+   ],
+   "date": "2019",
+   "title": "Digitising the undigitized: Converting traditional archaeological records into computerized, three-dimensional site reconstruction",
+   "is_part_of": [
+    "Journal of Graphic Information System"
+   ],
+   "volume": "11",
+   "pages": "747-765",
+   "language": "eng",
+   "uri": "https://www.scirp.org/journal/paperinformation?paperid=97426"
+  },
+  {
+   "position": 2,
+   "raw": "Bibby D., Ducke B. 2017, *Free and open-source software development in archaeology. Two interrelated case studies: gvSIG CE and Survey2GIS*, «Internet Archaeology», 43 (https://doi.org/10.11141/ia.43.3).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bibby",
+     "given": "D."
+    },
+    {
+     "family": "Ducke",
+     "given": "B."
+    }
+   ],
+   "date": "2017",
+   "title": "Free and open-source software development in archaeology. Two interrelated case studies: gvSIG CE and Survey2GIS",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "43",
+   "language": "eng",
+   "doi": "10.11141/ia.43.3"
+  },
+  {
+   "position": 3,
+   "raw": "Biltgen P., Ryan S. 2015, *Activity-Based Intelligence: Principles and Applications*, Boston-London, Artech House.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Biltgen",
+     "given": "P."
+    },
+    {
+     "family": "Ryan",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "Activity-Based Intelligence: Principles and Applications",
+   "publisher": "Artech House",
+   "place": "Boston-London",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Chippindale C. 2000, *Capta and data: On the true nature of archaeological information*, «American Antiquity», 65, 4, 605-612.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Chippindale",
+     "given": "C."
+    }
+   ],
+   "date": "2000",
+   "title": "Capta and data: On the true nature of archaeological information",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "65",
+   "issue": "4",
+   "pages": "605-612",
+   "language": "eng"
+  },
+  {
+   "position": 5,
+   "raw": "Clarke R. 2016, *Big data, big risks,* «Information Systems Journal», 26, 77-90 (https://doi.org/10.1111/isj.12088).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "R."
+    }
+   ],
+   "date": "2016",
+   "title": "Big data, big risks",
+   "is_part_of": [
+    "Information Systems Journal"
+   ],
+   "volume": "26",
+   "pages": "77-90",
+   "language": "eng",
+   "doi": "10.1111/isj.12088"
+  },
+  {
+   "position": 6,
+   "raw": "D'Andrea A. 2021, *Reconsidering the topography of al-Balid: A preliminary review of the graphical documentation*, «Annali Sezione Orientale», 81, 39-50 (https://doi.org/10.1163/24685631-12340110).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "Reconsidering the topography of al-Balid: A preliminary review of the graphical documentation",
+   "is_part_of": [
+    "Annali Sezione Orientale"
+   ],
+   "volume": "81",
+   "pages": "39-50",
+   "language": "eng",
+   "doi": "10.1163/24685631-12340110"
+  },
+  {
+   "position": 7,
+   "raw": "Fletcher E.C. 2023, *Creating a software methodology to analyze and preserve archaeological legacy data*, «Advances in Archaeological Practice», 11, 2, 139-151 (https//doi.org/10.1017/aap.2022.44).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fletcher",
+     "given": "E.C."
+    }
+   ],
+   "date": "2023",
+   "title": "Creating a software methodology to analyze and preserve archaeological legacy data",
+   "is_part_of": [
+    "Advances in Archaeological Practice"
+   ],
+   "volume": "11",
+   "issue": "2",
+   "pages": "139-151",
+   "language": "eng",
+   "doi": "10.1017/aap.2022.44"
+  },
+  {
+   "position": 8,
+   "raw": "Green K., Niven K., Field G. 2016, *Migrating 2 and 3D datasets: Preserving AutoCAD at the Archaeology Data Service*, «ISPRS International Journal of Geo-Information», 5, 44 (https://doi.org/10.3390/ijgi5040044).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Green",
+     "given": "K."
+    },
+    {
+     "family": "Niven",
+     "given": "K."
+    },
+    {
+     "family": "Field",
+     "given": "G."
+    }
+   ],
+   "date": "2016",
+   "title": "Migrating 2 and 3D datasets: Preserving AutoCAD at the Archaeology Data Service",
+   "is_part_of": [
+    "ISPRS International Journal of Geo-Information"
+   ],
+   "volume": "5",
+   "pages": "44",
+   "language": "eng",
+   "doi": "10.3390/ijgi5040044"
+  },
+  {
+   "position": 9,
+   "raw": "Hey T., Tansley S., Tolle K. (eds.) 2009, *The Fourth Paradigm: Data-Intensive Scientific Discovery*, Washington, Microsoft Research.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Hey",
+     "given": "T."
+    },
+    {
+     "family": "Tansley",
+     "given": "S."
+    },
+    {
+     "family": "Tolle",
+     "given": "K."
+    }
+   ],
+   "date": "2009",
+   "title": "The Fourth Paradigm: Data-Intensive Scientific Discovery",
+   "publisher": "Microsoft Research",
+   "place": "Washington",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Huggett J. 2015, *Challenging digital archaeology,* «Open Archaeology», 1, 1, 79-85 (https://doi.org/10.1515/opar-2015-0003).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    }
+   ],
+   "date": "2015",
+   "title": "Challenging digital archaeology",
+   "is_part_of": [
+    "Open Archaeology"
+   ],
+   "volume": "1",
+   "issue": "1",
+   "pages": "79-85",
+   "language": "eng",
+   "doi": "10.1515/opar-2015-0003"
+  },
+  {
+   "position": 11,
+   "raw": "Huggett J. 2018, *Reuse remix recycle: Repurposing archaeological digital data*, «Advances in Archaeological Practice», 6, 2, 93-104 (https://doi.org/10.1017/aap.2018.1).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    }
+   ],
+   "date": "2018",
+   "title": "Reuse remix recycle: Repurposing archaeological digital data",
+   "is_part_of": [
+    "Advances in Archaeological Practice"
+   ],
+   "volume": "6",
+   "issue": "2",
+   "pages": "93-104",
+   "language": "eng",
+   "doi": "10.1017/aap.2018.1"
+  },
+  {
+   "position": 12,
+   "raw": "Huggett J. 2022, *Data legacies, epistemic anxieties, and digital imaginaries in archaeology*, «Digital», 2, 2, 267-295 (https://doi.org/10.3390/digital2020016).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    }
+   ],
+   "date": "2022",
+   "title": "Data legacies, epistemic anxieties, and digital imaginaries in archaeology",
+   "is_part_of": [
+    "Digital"
+   ],
+   "volume": "2",
+   "issue": "2",
+   "pages": "267-295",
+   "language": "eng",
+   "doi": "10.3390/digital2020016"
+  },
+  {
+   "position": 13,
+   "raw": "Huvila I. 2017, *Being FAIR. When archaeological information is MEAN: Miscellaneous, exceptional, arbitrary, nonconformist*, Presentation at the Centre for Digital Heritage Conference (Leiden 2017) (http://www.istohuvila.se/node/526).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Huvila",
+     "given": "I."
+    }
+   ],
+   "date": "2017",
+   "title": "Being FAIR. When archaeological information is MEAN: Miscellaneous, exceptional, arbitrary, nonconformist",
+   "language": "eng",
+   "uri": "http://www.istohuvila.se/node/526",
+   "notes": "Presentation at the Centre for Digital Heritage Conference (Leiden 2017)"
+  },
+  {
+   "position": 14,
+   "raw": "Kvamme K. 1989, *Geographic Information Systems in regional archaeological research and data management*, in M.B. Schiffer (ed.), *Archaeological Method and Theory*, 1, Tucson, University of Arizona Press, 139-203.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kvamme",
+     "given": "K."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "date": "1989",
+   "title": "Geographic Information Systems in regional archaeological research and data management",
+   "is_part_of": [
+    "Archaeological Method and Theory"
+   ],
+   "volume": "1",
+   "pages": "139-203",
+   "publisher": "University of Arizona Press",
+   "place": "Tucson",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Jansen M. 2015, *The archaeological park of Al-Baleed, Sultanate of Oman. Site atlas along with selected Technical Reports 1995-2001*, Muscat, Office of the Adviser to His Majesty the Sultan for Cultural Affairs.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jansen",
+     "given": "M."
+    }
+   ],
+   "date": "2015",
+   "title": "The archaeological park of Al-Baleed, Sultanate of Oman. Site atlas along with selected Technical Reports 1995-2001",
+   "publisher": "Office of the Adviser to His Majesty the Sultan for Cultural Affairs",
+   "place": "Muscat",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Mayer-Schonberger V., Cukier K. 2013, *Big Data: A Revolution That Will Transform How We Live, Work, and Think*, New York, Houghton Mifflin Harcourt.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Mayer-Schonberger",
+     "given": "V."
+    },
+    {
+     "family": "Cukier",
+     "given": "K."
+    }
+   ],
+   "date": "2013",
+   "title": "Big Data: A Revolution That Will Transform How We Live, Work, and Think",
+   "publisher": "Houghton Mifflin Harcourt",
+   "place": "New York",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Morgan C., Eve S. 2012, *DIY and Digital Archaeology: What are you doing to participate?*, «World Archaeology», 44, 4, 521-537.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Morgan",
+     "given": "C."
+    },
+    {
+     "family": "Eve",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "DIY and Digital Archaeology: What are you doing to participate?",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "44",
+   "issue": "4",
+   "pages": "521-537",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Roosevelt C. H., Cobb P., Moss E., Olson B.R., Ünlüsoy S. 2015, *Excavation is destruction digitization: Advances in archaeological practice*, «Journal of Field Archaeology», 40, 3, 325-346 (https://doi.org/10.1179/2042458215Y.0000000004).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Roosevelt",
+     "given": "C.H."
+    },
+    {
+     "family": "Cobb",
+     "given": "P."
+    },
+    {
+     "family": "Moss",
+     "given": "E."
+    },
+    {
+     "family": "Olson",
+     "given": "B.R."
+    },
+    {
+     "family": "Ünlüsoy",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "Excavation is destruction digitization: Advances in archaeological practice",
+   "is_part_of": [
+    "Journal of Field Archaeology"
+   ],
+   "volume": "40",
+   "issue": "3",
+   "pages": "325-346",
+   "language": "eng",
+   "doi": "10.1179/2042458215Y.0000000004"
+  },
+  {
+   "position": 19,
+   "raw": "Schiffer M.B. 1987, *Formation Processes of the Archaeological Record*, Albuquerque, University of New Mexico.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Schiffer",
+     "given": "M.B."
+    }
+   ],
+   "date": "1987",
+   "title": "Formation Processes of the Archaeological Record",
+   "publisher": "University of New Mexico Press",
+   "place": "Albuquerque",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "Schmidt S.C., Marwick B. 2020, *Tool-driven revolutions in archaeological science*, «Journal of Computer Applications in Archaeology», 3, 1, 8-32 (https://doi.org/10.5334/jcaa.29).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Schmidt",
+     "given": "S.C."
+    },
+    {
+     "family": "Marwick",
+     "given": "B."
+    }
+   ],
+   "date": "2020",
+   "title": "Tool-driven revolutions in archaeological science",
+   "is_part_of": [
+    "Journal of Computer Applications in Archaeology"
+   ],
+   "volume": "3",
+   "issue": "1",
+   "pages": "8-32",
+   "language": "eng",
+   "doi": "10.5334/jcaa.29"
+  },
+  {
+   "position": 21,
+   "raw": "*The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks upon the United States*, 2004, Washington, Government Printing Office (https://www.govinfo.gov/content/pkg/GPO-911REPORT/pdf/GPO-911REPORT.pdf).",
+   "type": "other",
+   "date": "2004",
+   "title": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks upon the United States",
+   "publisher": "Government Printing Office",
+   "place": "Washington",
+   "language": "eng",
+   "uri": "https://www.govinfo.gov/content/pkg/GPO-911REPORT/pdf/GPO-911REPORT.pdf"
+  }
+ ]
+}

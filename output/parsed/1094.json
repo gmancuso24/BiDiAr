@@ -1,0 +1,294 @@
+{
+ "citing_aec_id": 1094,
+ "source_file": "data/journal/31/1094.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Adjali S. 1986, *Habitat traditionnel dans les Aurès, le cas de la vallée de l'Oued Abdi*, «Annuaire de l'Afrique du Nord», 25, 271-280.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Adjali",
+     "given": "S."
+    }
+   ],
+   "date": "1986",
+   "title": "Habitat traditionnel dans les Aurès, le cas de la vallée de l'Oued Abdi",
+   "is_part_of": [
+    "Annuaire de l'Afrique du Nord"
+   ],
+   "volume": "25",
+   "pages": "271-280",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Busson H. 1900, *Les vallées de l'Aurès*, «Annales de Géographie», 9, 43, 43-55.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Busson",
+     "given": "H."
+    }
+   ],
+   "date": "1900",
+   "title": "Les vallées de l'Aurès",
+   "is_part_of": [
+    "Annales de Géographie"
+   ],
+   "volume": "9",
+   "issue": "43",
+   "pages": "43-55",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Boughida A.M. 2012, *Revitalisation des vieilles villes Auresiennes. Cas de Menaa*, Mémoire de Magister en Architecture, Universite Hadj Lakhdar Batna.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Boughida",
+     "given": "A.M."
+    }
+   ],
+   "date": "2012",
+   "title": "Revitalisation des vieilles villes Auresiennes. Cas de Menaa",
+   "language": "fre",
+   "publisher": "Université Hadj Lakhdar Batna",
+   "notes": "Mémoire de Magister en Architecture",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Daas N. 2012, *Etude morphologique des agglomérations vernaculaires Auressiennes*, Mémoire de Magister en Architecture, Université Hadj Lakhdar Batna.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Daas",
+     "given": "N."
+    }
+   ],
+   "date": "2012",
+   "title": "Etude morphologique des agglomérations vernaculaires Auressiennes",
+   "language": "fre",
+   "publisher": "Université Hadj Lakhdar Batna",
+   "notes": "Mémoire de Magister en Architecture",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Fallot E. 1899, *Les Monts Aurès*, Paris, Plon.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Fallot",
+     "given": "E."
+    }
+   ],
+   "date": "1899",
+   "title": "Les Monts Aurès",
+   "language": "fre",
+   "publisher": "Plon",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Faublée-Urbain M. 1951, *Magasins collectifs de l'oued el Abiod*, «Journal des Africanistes», 21, 139-150.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Faublée-Urbain",
+     "given": "M."
+    }
+   ],
+   "date": "1951",
+   "title": "Magasins collectifs de l'oued el Abiod",
+   "is_part_of": [
+    "Journal des Africanistes"
+   ],
+   "volume": "21",
+   "pages": "139-150",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Jacques-Meunié D. 1951, *Greniers citadelles au Maroc*, Paris, Arts et métiers graphiques.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jacques-Meunié",
+     "given": "D."
+    }
+   ],
+   "date": "1951",
+   "title": "Greniers citadelles au Maroc",
+   "language": "fre",
+   "publisher": "Arts et métiers graphiques",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Jema-Gouzon D. 1989, *Villages de l'Aurès: archives de pierres*, Paris, Harmattan.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Jema-Gouzon",
+     "given": "D."
+    }
+   ],
+   "date": "1989",
+   "title": "Villages de l'Aurès: archives de pierres",
+   "language": "fre",
+   "publisher": "Harmattan",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Keddane N. 2018, *Greniers colletifs de l'Anti-Atlas marocain*, Paris, Harmattan.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Keddane",
+     "given": "N."
+    }
+   ],
+   "date": "2018",
+   "title": "Greniers collectifs de l'Anti-Atlas marocain",
+   "language": "fre",
+   "publisher": "Harmattan",
+   "place": "Paris",
+   "notes": "cited colletifs (typo)",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Montagne R. 1930, *Un magasin collectif de l'Anti-Atlas l'Agadir des Ikounka*, Paris, Larose.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Montagne",
+     "given": "R."
+    }
+   ],
+   "date": "1930",
+   "title": "Un magasin collectif de l'Anti-Atlas l'Agadir des Ikounka",
+   "language": "fre",
+   "publisher": "Larose",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Montagne R. 1931, *Les berbères et le makhzen dans le sud du Maroc*, «Revue de l'histoire des colonies françaises», 19, 82, 440-443.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Montagne",
+     "given": "R."
+    }
+   ],
+   "date": "1931",
+   "title": "Les berbères et le makhzen dans le sud du Maroc",
+   "is_part_of": [
+    "Revue de l'histoire des colonies françaises"
+   ],
+   "volume": "19",
+   "issue": "82",
+   "pages": "440-443",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Morizot P. 1997, *Archéologie aérienne de l'Aurès*, Paris, CTHS.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Morizot",
+     "given": "P."
+    }
+   ],
+   "date": "1997",
+   "title": "Archéologie aérienne de l'Aurès",
+   "language": "fre",
+   "publisher": "CTHS",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Popp H. 2010, *Les Ksours du sud tunisien, Atlas illustré d'un patrimoine culturel*, Bayreuth, Naturwissenschaftliche Gesellschaft Bayreuth.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Popp",
+     "given": "H."
+    }
+   ],
+   "date": "2010",
+   "title": "Les Ksours du sud tunisien, Atlas illustré d'un patrimoine culturel",
+   "language": "fre",
+   "publisher": "Naturwissenschaftliche Gesellschaft Bayreuth",
+   "place": "Bayreuth",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Robert C.M. 1934, *Un an dans l'Aurès: au pays des Guelaas et des Canyons*, «Echo d'Alger».",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Robert",
+     "given": "C.M."
+    }
+   ],
+   "date": "1934",
+   "title": "Un an dans l'Aurès: au pays des Guelaas et des Canyons",
+   "is_part_of": [
+    "Echo d'Alger"
+   ],
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Salima N. 2006, *Greniers collectifs de l'Atlas patrimoine au sud marocain*, Aix-en-Provence, Edisud.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Salima",
+     "given": "N."
+    }
+   ],
+   "date": "2006",
+   "title": "Greniers collectifs de l'Atlas patrimoine au sud marocain",
+   "language": "fre",
+   "publisher": "Edisud",
+   "place": "Aix-en-Provence",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Salima N. 2009, *Art et architecture berbères du Maroc*, Casablanca, Eddif Maroc.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Salima",
+     "given": "N."
+    }
+   ],
+   "date": "2009",
+   "title": "Art et architecture berbères du Maroc",
+   "language": "fre",
+   "publisher": "Eddif Maroc",
+   "place": "Casablanca",
+   "confidence": "high"
+  }
+ ]
+}

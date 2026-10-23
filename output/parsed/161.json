@@ -1,0 +1,554 @@
+{
+ "citing_aec_id": 161,
+ "source_file": "data/journal/7/161.md",
+ "references": [
+  {
+   "raw": "Atlante = AA.VV., Atlante delle forme ceramiche, I, Supplemento Enciclopedia dell'Arte Antica, Roma 1981.",
+   "date": "1981",
+   "type": "book",
+   "title": "Atlante delle forme ceramiche",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1,
+   "volume": "I",
+   "series": "Supplemento Enciclopedia dell'Arte Antica",
+   "place": "Roma",
+   "notes": "abbreviation \"Atlante\""
+  },
+  {
+   "raw": "BROGIOLO G. P., GELICHI S. 1995, Ceramiche, tecnologie ed organizzazione delle produzioni nell'Italia padana tra VI e X secolo, VIe Congrès Intern. sur la Céramique Médiévale en Méditerranée, (Aix-en-Provence novembre 1995), (in corso di stampa).",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    },
+    {
+     "family": "Gelichi",
+     "given": "S."
+    }
+   ],
+   "type": "chapter",
+   "title": "Ceramiche, tecnologie ed organizzazione delle produzioni nell'Italia padana tra VI e X secolo, VIe Congrès Intern. sur la Céramique Médiévale en Méditerranée, (Aix-en-Provence novembre 1995), (in corso di stampa)",
+   "language": "ita",
+   "confidence": "high",
+   "position": 2,
+   "is_part_of": [
+    "VIe Congrès Intern. sur la Céramique Médiévale en Méditerranée, (Aix-en-Provence novembre 1995)"
+   ],
+   "notes": "cited \"(in corso di stampa)\"; online search not performed (year given)",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "CHERUBINI L., DEL RIO A. 1994, Le produzioni ceramiche delle basse valli del Fine e del Cecina, in G. OLCESE (ed.), Ceramica romana e archeometria: lo stato degli studi, Firenze, All'Insegna del Giglio, 217-223.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Cherubini",
+     "given": "L."
+    },
+    {
+     "family": "Del Rio",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Le produzioni ceramiche delle basse valli del Fine e del Cecina",
+   "editors": [
+    {
+     "family": "Olcese",
+     "given": "G."
+    }
+   ],
+   "pages": "217-223",
+   "is_part_of": [
+    "Ceramica romana e archeometria: lo stato degli studi"
+   ],
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio",
+   "language": "ita",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "CIAMPOLTRINI G. 1995, Ceramiche \"comuni\" nella Toscana centro-settentrionale fra VI e VII secolo, in Colloquio in onore di J. Hayes, Ceramica in Italia: VI-VII secolo, (Roma 11-13 maggio 1995), (in corso di stampa).",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Ciampoltrini",
+     "given": "G."
+    }
+   ],
+   "type": "chapter",
+   "title": "Ceramiche \"comuni\" nella Toscana centro-settentrionale fra VI e VII secolo",
+   "is_part_of": [
+    "Colloquio in onore di J. Hayes, Ceramica in Italia: VI-VII secolo, (Roma 11-13 maggio 1995)"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 4,
+   "notes": "cited \"(in corso di stampa)\"; volume published 1998 (L. Saguì ed.), chapter not confirmed",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "DEL RIO A., MANNONI T., MENCHELLI S., PASQUINUCCI M. 1996, Importations et productions locales de la haute Etrurie tyrrhénienne, de la période de la romanisation jusqu'au VIe siècle apr. J.-C. Un exemple d'étude archéométrique, «Revue d'Archéométrie», Supplément 1996, 113-118.",
+   "date": "1996",
+   "creators": [
+    {
+     "family": "Del Rio",
+     "given": "A."
+    },
+    {
+     "family": "Mannoni",
+     "given": "T."
+    },
+    {
+     "family": "Menchelli",
+     "given": "S."
+    },
+    {
+     "family": "Pasquinucci",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Importations et productions locales de la haute Etrurie tyrrhénienne, de la période de la romanisation jusqu'au VIe siècle apr. J.-C. Un exemple d'étude archéométrique",
+   "is_part_of": [
+    "Revue d'Archéométrie"
+   ],
+   "pages": "113-118",
+   "issue": "Supplément 1996",
+   "language": "fre",
+   "confidence": "high",
+   "position": 5
+  },
+  {
+   "raw": "FONTANA S. 1991, Analisi comparata delle attestazioni della ceramica africana nel V sec. d.C.: un'indagine preliminare, «Archeologia e Calcolatori», 2, 19-121.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Fontana",
+     "given": "S."
+    }
+   ],
+   "type": "article",
+   "title": "Analisi comparata delle attestazioni della ceramica africana nel V sec. d.C.: un'indagine preliminare",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "19-121",
+   "volume": "2",
+   "language": "ita",
+   "confidence": "high",
+   "position": 6
+  },
+  {
+   "raw": "FULFORD M.G. 1984, Excavations at Carthage: the British Mission. Volume I, 2, University of Sheffield, JSOT Press.",
+   "date": "1984",
+   "creators": [
+    {
+     "family": "Fulford",
+     "given": "M.G."
+    }
+   ],
+   "type": "book",
+   "title": "Excavations at Carthage: the British Mission",
+   "publisher": "University of Sheffield, JSOT Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 7,
+   "volume": "I, 2"
+  },
+  {
+   "raw": "HARTLEY K.F. 1973, La diffusion des mortiers, tuiles et autres produits en provenance des fabriques italiennes, «Cahiers d'Archéologie Subaquarique», 2, 49-60.",
+   "date": "1973",
+   "creators": [
+    {
+     "family": "Hartley",
+     "given": "K.F."
+    }
+   ],
+   "type": "article",
+   "title": "La diffusion des mortiers, tuiles et autres produits en provenance des fabriques italiennes",
+   "is_part_of": [
+    "Cahiers d'Archéologie Subaquarique"
+   ],
+   "pages": "49-60",
+   "volume": "2",
+   "language": "fre",
+   "confidence": "high",
+   "position": 8
+  },
+  {
+   "raw": "HAYES J.W. 1972, Late Roman Pottery, British School at Rome, London.",
+   "date": "1972",
+   "creators": [
+    {
+     "family": "Hayes",
+     "given": "J.W."
+    }
+   ],
+   "type": "book",
+   "title": "Late Roman Pottery",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high",
+   "position": 9,
+   "publisher": "British School at Rome"
+  },
+  {
+   "raw": "Luni II = A. FROVA (ed.), Scavi di Luni II. Relazione delle campagne di scavo 1972-1973-1974, Roma 1977, Erma di Bretschneider.",
+   "date": "1977",
+   "editors": [
+    {
+     "family": "Frova",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Scavi di Luni II. Relazione delle campagne di scavo 1972-1973-1974",
+   "publisher": "Erma di Bretschneider",
+   "language": "eng",
+   "confidence": "high",
+   "position": 10,
+   "place": "Roma",
+   "notes": "abbreviation \"Luni II\""
+  },
+  {
+   "raw": "MENCHELLI S. 1994a, Da Cn. Ateius ai vasai tardo-italici: alcune considerazioni sulla terra sigillata \"pisana\", «Bollettino Storico Pisano», 63, 1-29.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Menchelli",
+     "given": "S."
+    }
+   ],
+   "type": "article",
+   "title": "Da Cn. Ateius ai vasai tardo-italici: alcune considerazioni sulla terra sigillata \"pisana\"",
+   "is_part_of": [
+    "Bollettino Storico Pisano"
+   ],
+   "pages": "1-29",
+   "volume": "63",
+   "language": "ita",
+   "confidence": "high",
+   "position": 11
+  },
+  {
+   "raw": "MENCHELLI S. 1994b, Le produzioni ceramiche della Bassa Valle dell'Arno, in G. OLCESE (ed.), Ceramica romana e archeometria: lo stato degli studi, Firenze, Edizioni all'Insegna del Giglio, 205-215.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Menchelli",
+     "given": "S."
+    }
+   ],
+   "type": "chapter",
+   "title": "Le produzioni ceramiche della Bassa Valle dell'Arno",
+   "editors": [
+    {
+     "family": "Olcese",
+     "given": "G."
+    }
+   ],
+   "pages": "205-215",
+   "is_part_of": [
+    "Ceramica romana e archeometria: lo stato degli studi"
+   ],
+   "place": "Firenze",
+   "publisher": "Edizioni all'Insegna del Giglio",
+   "language": "ita",
+   "confidence": "high",
+   "position": 12
+  },
+  {
+   "raw": "MILLETT M. 1995, The comparison of surface and stratified artefact assemblages, in Pisa Populus Colloquium (Pisa dicembre 1995) (in corso di stampa).",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Millett",
+     "given": "M."
+    }
+   ],
+   "type": "chapter",
+   "title": "The comparison of surface and stratified artefact assemblages",
+   "is_part_of": [
+    "Pisa Populus Colloquium (Pisa dicembre 1995)"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 13,
+   "notes": "cited \"(in corso di stampa)\"; online search not performed (year given)",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "Munsell = Munsell Soil Color Charts, Baltimore 1975.",
+   "date": "1975",
+   "type": "other",
+   "title": "Munsell Soil Color Charts",
+   "language": "eng",
+   "confidence": "high",
+   "position": 14,
+   "place": "Baltimore",
+   "notes": "abbreviation \"Munsell\""
+  },
+  {
+   "raw": "OLCESE G. 1993, Le ceramiche comuni di Albintimilium, Firenze, Edizioni All'Insegna del Giglio.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Olcese",
+     "given": "G."
+    }
+   ],
+   "type": "book",
+   "title": "Le ceramiche comuni di Albintimilium",
+   "place": "Firenze",
+   "publisher": "Edizioni All'Insegna del Giglio",
+   "language": "ita",
+   "confidence": "high",
+   "position": 15
+  },
+  {
+   "raw": "ORTON C.R., TYERS P.A. 1990, Statistical analysis of ceramic assemblages, «Archeologia e Calcolatori», 1, 81-110.",
+   "date": "1990",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C.R."
+    },
+    {
+     "family": "Tyers",
+     "given": "P.A."
+    }
+   ],
+   "type": "article",
+   "title": "Statistical analysis of ceramic assemblages",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "pages": "81-110",
+   "volume": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 16
+  },
+  {
+   "raw": "ORTON C.R., TYERS P.A., VINCE A. 1993, Pottery in Archaeology, Cambridge, Cambridge University Press.",
+   "date": "1993",
+   "creators": [
+    {
+     "family": "Orton",
+     "given": "C.R."
+    },
+    {
+     "family": "Tyers",
+     "given": "P.A."
+    },
+    {
+     "family": "Vince",
+     "given": "A."
+    }
+   ],
+   "type": "book",
+   "title": "Pottery in Archaeology",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng",
+   "confidence": "high",
+   "position": 17
+  },
+  {
+   "raw": "PASQUINUCCI M., MENCHELLI S. 1995, Paesaggio agrario e produzioni artigianali nell'Etruria settentrionale costiera (ager Pisanus e Volaterranus costiero), in N. CHRISTIE (ed.), Papers of the Fifth Conference of Italian Archaeology, Oxford, Oxbow Book, 209-217.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Pasquinucci",
+     "given": "M."
+    },
+    {
+     "family": "Menchelli",
+     "given": "S."
+    }
+   ],
+   "type": "chapter",
+   "title": "Paesaggio agrario e produzioni artigianali nell'Etruria settentrionale costiera (ager Pisanus e Volaterranus costiero)",
+   "editors": [
+    {
+     "family": "Christie",
+     "given": "N."
+    }
+   ],
+   "pages": "209-217",
+   "is_part_of": [
+    "Papers of the Fifth Conference of Italian Archaeology"
+   ],
+   "place": "Oxford",
+   "publisher": "Oxbow Book",
+   "language": "eng",
+   "confidence": "high",
+   "position": 18
+  },
+  {
+   "raw": "PASQUINUCCI M., DEL RIO A., MENCHELLI S. 1995, I vespai sottopavimentali negli Horrea di Vada Volaterrana, in Seminario di Studi Bonifiche e drenaggi con anfore in epoca romana: aspetti tecnici e topografici (Padova, ottobre 1995) (in corso di stampa).",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Pasquinucci",
+     "given": "M."
+    },
+    {
+     "family": "Del Rio",
+     "given": "A."
+    },
+    {
+     "family": "Menchelli",
+     "given": "S."
+    }
+   ],
+   "type": "chapter",
+   "title": "I vespai sottopavimentali negli Horrea di Vada Volaterrana",
+   "is_part_of": [
+    "Seminario di Studi Bonifiche e drenaggi con anfore in epoca romana: aspetti tecnici e topografici (Padova, ottobre 1995)"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 19,
+   "notes": "cited \"(in corso di stampa)\"; searched in article 160 (no publication found)",
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "PASQUINUCCI M. et al. 1995, La ceramica di VI-VII sec. da Vada Volaterrana, in Colloquio in onore di J. Hayes, Ceramica in Italia: VI-VII secolo, (Roma 11-13 maggio 1995), (in corso di stampa).",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Pasquinucci",
+     "given": "M."
+    }
+   ],
+   "notes": "cited \"(in corso di stampa)\"; volume published 1998 (L. Saguì ed.), chapter not confirmed; et al. in citation",
+   "type": "chapter",
+   "title": "La ceramica di VI-VII sec. da Vada Volaterrana",
+   "is_part_of": [
+    "Colloquio in onore di J. Hayes, Ceramica in Italia: VI-VII secolo, (Roma 11-13 maggio 1995)"
+   ],
+   "language": "ita",
+   "confidence": "high",
+   "position": 20,
+   "cs": {
+    "status": "unresolved"
+   }
+  },
+  {
+   "raw": "RICCI A., Ceramica a pareti sottili, in AA. VV., Atlante delle forme ceramiche II. Ceramica fine romana nel bacino del Mediterraneo (tardo ellenismo e primo impero), EAA Suppl., Roma 1985, 231-357.",
+   "date": "1985",
+   "creators": [
+    {
+     "family": "Ricci",
+     "given": "A."
+    }
+   ],
+   "type": "chapter",
+   "title": "Ceramica a pareti sottili",
+   "language": "ita",
+   "confidence": "high",
+   "position": 21,
+   "is_part_of": [
+    "Atlante delle forme ceramiche II. Ceramica fine romana nel bacino del Mediterraneo (tardo ellenismo e primo impero)"
+   ],
+   "series": "EAA Suppl.",
+   "place": "Roma",
+   "pages": "231-357"
+  },
+  {
+   "raw": "RIGOIR J. 1968, Le sigillées paléochrétiennes grises et orangées, «Gallia», 26, 177-244.",
+   "date": "1968",
+   "creators": [
+    {
+     "family": "Rigoir",
+     "given": "J."
+    }
+   ],
+   "type": "article",
+   "title": "Le sigillées paléochrétiennes grises et orangées",
+   "is_part_of": [
+    "Gallia"
+   ],
+   "pages": "177-244",
+   "volume": "26",
+   "language": "fre",
+   "confidence": "high",
+   "position": 22
+  },
+  {
+   "raw": "SCHURING J.M. 1988, Terra Sigillata Africana from the San Sisto Vecchio in Rome, «Bulletin Antieke Beschaving», 63, 1-48.",
+   "date": "1988",
+   "creators": [
+    {
+     "family": "Schuring",
+     "given": "J.M."
+    }
+   ],
+   "type": "article",
+   "title": "Terra Sigillata Africana from the San Sisto Vecchio in Rome",
+   "is_part_of": [
+    "Bulletin Antieke Beschaving"
+   ],
+   "pages": "1-48",
+   "volume": "63",
+   "language": "eng",
+   "confidence": "high",
+   "position": 23
+  },
+  {
+   "raw": "Settefinestre 1985 = A. CARANDINI, A. RICCI (edd.), Una villa schiavistica nell'Etruria romana, Modena, Edizioni Panini.",
+   "date": "1985",
+   "type": "book",
+   "title": "Una villa schiavistica nell'Etruria romana",
+   "place": "Modena",
+   "publisher": "Edizioni Panini",
+   "language": "ita",
+   "confidence": "high",
+   "position": 24,
+   "editors": [
+    {
+     "family": "Carandini",
+     "given": "A."
+    },
+    {
+     "family": "Ricci",
+     "given": "A."
+    }
+   ],
+   "notes": "abbreviation \"Settefinestre 1985\""
+  },
+  {
+   "raw": "VALENTI M. 1991, Materiali ceramici tardoantichi dal territorio senese: contributo alla tipologizzazione della ceramica comune di produzione locale, «Archeologia Medievale», 18, 737-754.",
+   "date": "1991",
+   "creators": [
+    {
+     "family": "Valenti",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Materiali ceramici tardoantichi dal territorio senese: contributo alla tipologizzazione della ceramica comune di produzione locale",
+   "is_part_of": [
+    "Archeologia Medievale"
+   ],
+   "pages": "737-754",
+   "volume": "18",
+   "language": "ita",
+   "confidence": "high",
+   "position": 25
+  }
+ ]
+}

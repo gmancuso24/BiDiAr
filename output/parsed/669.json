@@ -1,0 +1,1251 @@
+{
+ "citing_aec_id": 669,
+ "source_file": "data/journal/24/669.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Angelini L. 1940, Scoperte e restauri di edifici medievali in Bergamo alta, «Palladio. Rivista di Storia dell'Architettura», 4, 35-43.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Angelini",
+     "given": "L."
+    }
+   ],
+   "date": "1940",
+   "title": "Scoperte e restauri di edifici medievali in Bergamo alta",
+   "is_part_of": [
+    "Palladio. Rivista di Storia dell'Architettura"
+   ],
+   "volume": "4",
+   "pages": "35-43",
+   "language": "ita"
+  },
+  {
+   "position": 2,
+   "raw": "Angelini L. 1963, I lavori compiuti per il Piano di risanamento di Bergamo Alta, 1936-1943, 1950-1960, Bergamo, Stamperia Conti.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Angelini",
+     "given": "L."
+    }
+   ],
+   "date": "1963",
+   "title": "I lavori compiuti per il Piano di risanamento di Bergamo Alta, 1936-1943, 1950-1960",
+   "place": "Bergamo",
+   "publisher": "Stamperia Conti",
+   "language": "ita"
+  },
+  {
+   "position": 3,
+   "raw": "Angelini S. (ed.) 1989, Bergamo: Città Alta. Una vicenda urbana, Bergamo, Comune di Bergamo.",
+   "type": "book",
+   "date": "1989",
+   "title": "Bergamo: Città Alta. Una vicenda urbana",
+   "editors": [
+    {
+     "family": "Angelini",
+     "given": "S."
+    }
+   ],
+   "place": "Bergamo",
+   "publisher": "Comune di Bergamo",
+   "language": "ita"
+  },
+  {
+   "position": 4,
+   "raw": "Baud A. 2003, Cluny, un grand chantier médiéval au coeur de l'Europe, Paris, Editions A&J Picard.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Baud",
+     "given": "A."
+    }
+   ],
+   "date": "2003",
+   "title": "Cluny, un grand chantier médiéval au coeur de l'Europe",
+   "place": "Paris",
+   "publisher": "Editions A&J Picard",
+   "language": "fre"
+  },
+  {
+   "position": 5,
+   "raw": "Bertocci S., Bini M. 2012, Manuale di rilievo architettonico e urbano, Novara, CittàStudi Edizioni.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bertocci",
+     "given": "S."
+    },
+    {
+     "family": "Bini",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Manuale di rilievo architettonico e urbano",
+   "place": "Novara",
+   "publisher": "CittàStudi Edizioni",
+   "language": "ita"
+  },
+  {
+   "position": 6,
+   "raw": "Biblioteca Civica A. Mai, Bergamo, Fondo Angelini, Fald. 306, cartella \"Città Alta. Interventi su monumenti, Tempietto di Santa Croce - 1938-1940\".",
+   "type": "other",
+   "title": "Città Alta. Interventi su monumenti, Tempietto di Santa Croce - 1938-1940",
+   "publisher": "Biblioteca Civica A. Mai, Bergamo",
+   "notes": "archival folder: Fondo Angelini, Fald. 306",
+   "language": "ita"
+  },
+  {
+   "position": 7,
+   "raw": "Binding G. 1993, Baubetrieb im Mittelalter, Darmstadt, Wissenschaftliche Buchgesellschaft.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Binding",
+     "given": "G."
+    }
+   ],
+   "date": "1993",
+   "title": "Baubetrieb im Mittelalter",
+   "place": "Darmstadt",
+   "publisher": "Wissenschaftliche Buchgesellschaft",
+   "language": "ger"
+  },
+  {
+   "position": 8,
+   "raw": "Borgherini M. 2001, Disegno e progetto nel cantiere medievale. Esempi toscani del XIV secolo, Venezia, Marsilio.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Borgherini",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "Disegno e progetto nel cantiere medievale. Esempi toscani del XIV secolo",
+   "place": "Venezia",
+   "publisher": "Marsilio",
+   "language": "ita"
+  },
+  {
+   "position": 9,
+   "raw": "Brandt O. 2012, Battisteri oltre la pianta. Gli alzati di nove battisteri in Italia, Roma, Pontificio Istituto di Archeologia Cristiana.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Brandt",
+     "given": "O."
+    }
+   ],
+   "date": "2012",
+   "title": "Battisteri oltre la pianta. Gli alzati di nove battisteri in Italia",
+   "place": "Roma",
+   "publisher": "Pontificio Istituto di Archeologia Cristiana",
+   "language": "ita"
+  },
+  {
+   "position": 10,
+   "raw": "Cagnana A. 2000, Un graffito di cantiere dagli scavi del Duomo di S. Andrea a Venzone (UD), in G.P. Brogiolo (ed.), Atti del II Congresso Nazionale di Archeologia Medievale (Brescia 2000), Firenze, Edizioni all'Insegna del Giglio, 389-394.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cagnana",
+     "given": "A."
+    }
+   ],
+   "date": "2000",
+   "title": "Un graffito di cantiere dagli scavi del Duomo di S. Andrea a Venzone (UD)",
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "is_part_of": [
+    "Atti del II Congresso Nazionale di Archeologia Medievale (Brescia 2000)"
+   ],
+   "place": "Firenze",
+   "publisher": "Edizioni all'Insegna del Giglio",
+   "pages": "389-394",
+   "language": "ita"
+  },
+  {
+   "position": 11,
+   "raw": "Cagnana A. 2010, Oriente e Occidente: contatti e trasmissioni di tecnologie fra X e XII secolo, in G.P. Brogiolo (ed.), Archeologia dell'architettura: temi e prospettive di ricerca. Atti del Convegno (Gavi 2010), «Archeologia dell'Architettura», 15, 197-204.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cagnana",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Oriente e Occidente: contatti e trasmissioni di tecnologie fra X e XII secolo",
+   "editors": [
+    {
+     "family": "Brogiolo",
+     "given": "G.P."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia dell'architettura: temi e prospettive di ricerca. Atti del Convegno (Gavi 2010)",
+    "Archeologia dell'Architettura"
+   ],
+   "volume": "15",
+   "pages": "197-204",
+   "language": "ita"
+  },
+  {
+   "position": 12,
+   "raw": "Calzana P., Caccia B. 2008, Attorno a Santa Croce, «La Rivista di Bergamo», 54, 29-34.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Calzana",
+     "given": "P."
+    },
+    {
+     "family": "Caccia",
+     "given": "B."
+    }
+   ],
+   "date": "2008",
+   "title": "Attorno a Santa Croce",
+   "is_part_of": [
+    "La Rivista di Bergamo"
+   ],
+   "volume": "54",
+   "pages": "29-34",
+   "language": "ita"
+  },
+  {
+   "position": 13,
+   "raw": "Carbonara G. (ed.) 2008, Trattato di restauro architettonico. Secondo Aggiornamento. Grandi temi di restauro, Torino, UTET.",
+   "type": "book",
+   "date": "2008",
+   "title": "Trattato di restauro architettonico. Secondo Aggiornamento. Grandi temi di restauro",
+   "editors": [
+    {
+     "family": "Carbonara",
+     "given": "G."
+    }
+   ],
+   "place": "Torino",
+   "publisher": "UTET",
+   "language": "ita"
+  },
+  {
+   "position": 14,
+   "raw": "Carbonara G. 2012, Disegno e documentazione per il restauro: un impegno interdisciplinare, «Disegnarecon», 5, 10, 9-20 (http://disegnarecon.unibo.it/article/view/3292/2670/).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Carbonara",
+     "given": "G."
+    }
+   ],
+   "date": "2012",
+   "title": "Disegno e documentazione per il restauro: un impegno interdisciplinare",
+   "is_part_of": [
+    "Disegnarecon"
+   ],
+   "volume": "5",
+   "issue": "10",
+   "pages": "9-20",
+   "uri": "http://disegnarecon.unibo.it/article/view/3292/2670/",
+   "language": "ita"
+  },
+  {
+   "position": 15,
+   "raw": "Cardaci A., Versaci A. 2010, Il rilievo nel progetto di restauro: Il caso studio del Duomo di Enna, in Disegno e Progetto. Sesto Congresso UID, XXXI Convegno Internazionale delle discipline della rappresentazione (Lerici 2009), Genova, GS Digital, I, 48-53.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cardaci",
+     "given": "A."
+    },
+    {
+     "family": "Versaci",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Il rilievo nel progetto di restauro: Il caso studio del Duomo di Enna",
+   "is_part_of": [
+    "Disegno e Progetto. Sesto Congresso UID, XXXI Convegno Internazionale delle discipline della rappresentazione (Lerici 2009)"
+   ],
+   "volume": "I",
+   "place": "Genova",
+   "publisher": "GS Digital",
+   "pages": "48-53",
+   "language": "ita"
+  },
+  {
+   "position": 16,
+   "raw": "Cardaci A., Versaci A. 2012, Documentare per conservare: l'uso delle nuove tecnologie per la conoscenza, la salvaguardia e la comunicazione del patrimonio culturale armeno, «Disegnarecon», 5, 10, 255-264 (http://disegnarecon.unibo.it/article/view/3354/2729).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cardaci",
+     "given": "A."
+    },
+    {
+     "family": "Versaci",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Documentare per conservare: l'uso delle nuove tecnologie per la conoscenza, la salvaguardia e la comunicazione del patrimonio culturale armeno",
+   "is_part_of": [
+    "Disegnarecon"
+   ],
+   "volume": "5",
+   "issue": "10",
+   "pages": "255-264",
+   "uri": "http://disegnarecon.unibo.it/article/view/3354/2729",
+   "language": "ita"
+  },
+  {
+   "position": 17,
+   "raw": "Cassanelli R. (ed.) 1995, Cantieri medievali, Milano, Jaca Book.",
+   "type": "book",
+   "date": "1995",
+   "title": "Cantieri medievali",
+   "editors": [
+    {
+     "family": "Cassanelli",
+     "given": "R."
+    }
+   ],
+   "place": "Milano",
+   "publisher": "Jaca Book",
+   "language": "ita"
+  },
+  {
+   "position": 18,
+   "raw": "Castelnuovo E., Sergi G. (eds.) 2002, Arti e storia nel Medioevo. I. Tempi Spazi Istituzioni, Torino, Einaudi.",
+   "type": "book",
+   "date": "2002",
+   "title": "Arti e storia nel Medioevo. I. Tempi Spazi Istituzioni",
+   "editors": [
+    {
+     "family": "Castelnuovo",
+     "given": "E."
+    },
+    {
+     "family": "Sergi",
+     "given": "G."
+    }
+   ],
+   "place": "Torino",
+   "publisher": "Einaudi",
+   "language": "ita"
+  },
+  {
+   "position": 19,
+   "raw": "Castelnuovo E., Sergi G. (eds.) 2003, Arti e storia del Medioevo, II. Del costruire: tecniche, artisti, artigiani, committenti, Torino, Einaudi.",
+   "type": "book",
+   "date": "2003",
+   "title": "Arti e storia del Medioevo, II. Del costruire: tecniche, artisti, artigiani, committenti",
+   "editors": [
+    {
+     "family": "Castelnuovo",
+     "given": "E."
+    },
+    {
+     "family": "Sergi",
+     "given": "G."
+    }
+   ],
+   "place": "Torino",
+   "publisher": "Einaudi",
+   "language": "ita"
+  },
+  {
+   "position": 20,
+   "raw": "Chierici S. 1991, La Lombardia, Milano, Jaca Book, 366-367.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chierici",
+     "given": "S."
+    }
+   ],
+   "date": "1991",
+   "title": "La Lombardia",
+   "place": "Milano",
+   "publisher": "Jaca Book",
+   "pages": "366-367",
+   "language": "ita"
+  },
+  {
+   "position": 21,
+   "raw": "Chiovelli R. 2006, Tecniche costruttive murali medievali. La Tuscia, Roma, L'Erma di Bretschneider.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Chiovelli",
+     "given": "R."
+    }
+   ],
+   "date": "2006",
+   "title": "Tecniche costruttive murali medievali. La Tuscia",
+   "place": "Roma",
+   "publisher": "L'Erma di Bretschneider",
+   "language": "ita"
+  },
+  {
+   "position": 22,
+   "raw": "De Dartein F. 1865-1882, Étude sur l'architecture lombarde et sur les origines de l'architecture romano-byzantine, ristampa in facsimile, Como 1963, Novindustria.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "De Dartein",
+     "given": "F."
+    }
+   ],
+   "date": "1865-1882",
+   "title": "Étude sur l'architecture lombarde et sur les origines de l'architecture romano-byzantine",
+   "place": "Como",
+   "publisher": "Novindustria",
+   "language": "fre",
+   "notes": "facsimile reprint, Como 1963, Novindustria"
+  },
+  {
+   "position": 23,
+   "raw": "Docci M. 2009, Manuale di rilevamento architettonico e urbano, Bari-Roma, Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Docci",
+     "given": "M."
+    }
+   ],
+   "date": "2009",
+   "title": "Manuale di rilevamento architettonico e urbano",
+   "place": "Bari-Roma",
+   "publisher": "Laterza",
+   "language": "ita"
+  },
+  {
+   "position": 24,
+   "raw": "Drap P. *et al.* 2012, An information system for Medieval archaeology based on photogrammetry and archaeological database: The Shawbak Castle Project, «Progress in Cultural Heritage Preservation. Lecture Notes in Computer Science», 7616, 119-128.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Drap",
+     "given": "P."
+    }
+   ],
+   "date": "2012",
+   "title": "An information system for Medieval archaeology based on photogrammetry and archaeological database: The Shawbak Castle Project",
+   "is_part_of": [
+    "Progress in Cultural Heritage Preservation",
+    "Lecture Notes in Computer Science"
+   ],
+   "volume": "7616",
+   "pages": "119-128",
+   "language": "eng",
+   "notes": "authors cited \"Drap P. et al.\""
+  },
+  {
+   "position": 25,
+   "raw": "Fiorani D. (ed.) 2009, Restauro e tecnologie in architettura, Roma, Carocci.",
+   "type": "book",
+   "date": "2009",
+   "title": "Restauro e tecnologie in architettura",
+   "editors": [
+    {
+     "family": "Fiorani",
+     "given": "D."
+    }
+   ],
+   "place": "Roma",
+   "publisher": "Carocci",
+   "language": "ita"
+  },
+  {
+   "position": 26,
+   "raw": "Fiorini A. 2008, Esperienze di fotomodellazione e stereofotogrammetria archeologica, in G. De Felice, M.G. Sibilano, G. Volpe (eds.), L'informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008), Santo Spirito, Edipuglia, 175-186.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "Esperienze di fotomodellazione e stereofotogrammetria archeologica",
+   "editors": [
+    {
+     "family": "De Felice",
+     "given": "G."
+    },
+    {
+     "family": "Sibilano",
+     "given": "M.G."
+    },
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "L'informatica e il metodo della stratigrafia. Atti del Workshop (Foggia 2008)"
+   ],
+   "place": "Santo Spirito",
+   "publisher": "Edipuglia",
+   "pages": "175-186",
+   "language": "ita"
+  },
+  {
+   "position": 27,
+   "raw": "Fiorini A., Archetti V. 2011, Fotomodellazione e stereofotogrammetria per la creazione di modelli stratigrafici in archeologia dell'architettura, «Archeologia e Calcolatori», 22, 199-216.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    },
+    {
+     "family": "Archetti",
+     "given": "V."
+    }
+   ],
+   "date": "2011",
+   "title": "Fotomodellazione e stereofotogrammetria per la creazione di modelli stratigrafici in archeologia dell'architettura",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "199-216",
+   "cited_aec_id": 593,
+   "language": "ita"
+  },
+  {
+   "position": 28,
+   "raw": "Fortunati M. (ed.) 2006, Medioevo a Bergamo. Archeologia e antropologia raccontano le genti bergamasche, Truccazzano (MI), Arti grafiche Bianca & Volta.",
+   "type": "book",
+   "date": "2006",
+   "title": "Medioevo a Bergamo. Archeologia e antropologia raccontano le genti bergamasche",
+   "editors": [
+    {
+     "family": "Fortunati",
+     "given": "M."
+    }
+   ],
+   "place": "Truccazzano (MI)",
+   "publisher": "Arti grafiche Bianca & Volta",
+   "language": "ita"
+  },
+  {
+   "position": 29,
+   "raw": "Fortunati M., Vitali M. 1999-2000, Bergamo, Cappella di Santa Croce. Le strutture ipogee tra età romana e Medioevo, «Notiziario della Soprintendenza per i Beni Archeologici della Lombardia», 199-202.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fortunati",
+     "given": "M."
+    },
+    {
+     "family": "Vitali",
+     "given": "M."
+    }
+   ],
+   "date": "1999-2000",
+   "title": "Bergamo, Cappella di Santa Croce. Le strutture ipogee tra età romana e Medioevo",
+   "is_part_of": [
+    "Notiziario della Soprintendenza per i Beni Archeologici della Lombardia"
+   ],
+   "pages": "199-202",
+   "language": "ita"
+  },
+  {
+   "position": 30,
+   "raw": "Gallina D. 2009, Tecniche costruttive e tipologie dell'architettura bassomedievale nei paesi del Sebino bresciano e bergamasco, «Notizie Archeologiche Bergomensi», 17, 47-137.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gallina",
+     "given": "D."
+    }
+   ],
+   "date": "2009",
+   "title": "Tecniche costruttive e tipologie dell'architettura bassomedievale nei paesi del Sebino bresciano e bergamasco",
+   "is_part_of": [
+    "Notizie Archeologiche Bergomensi"
+   ],
+   "volume": "17",
+   "pages": "47-137",
+   "language": "ita"
+  },
+  {
+   "position": 31,
+   "raw": "García-Gómez I., Fernández De Gorostiza M., Mesanza Moraza A. 2011, Láser escáner y nubes de puntos. Un horizonte aplicado al análisis arqueológico de edificios, «Arqueología de la Arquitectura», 8, 25-44.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "García-Gómez",
+     "given": "I."
+    },
+    {
+     "family": "Fernández De Gorostiza",
+     "given": "M."
+    },
+    {
+     "family": "Mesanza Moraza",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "Láser escáner y nubes de puntos. Un horizonte aplicado al análisis arqueológico de edificios",
+   "is_part_of": [
+    "Arqueología de la Arquitectura"
+   ],
+   "volume": "8",
+   "pages": "25-44",
+   "language": "spa"
+  },
+  {
+   "position": 32,
+   "raw": "Ghiroldi A. 2006, Gli scavi, in Fortunati 2006, 25-27.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ghiroldi",
+     "given": "A."
+    }
+   ],
+   "date": "2006",
+   "title": "Gli scavi",
+   "editors": [
+    {
+     "family": "Fortunati",
+     "given": "M."
+    }
+   ],
+   "is_part_of": [
+    "Medioevo a Bergamo. Archeologia e antropologia raccontano le genti bergamasche"
+   ],
+   "place": "Truccazzano (MI)",
+   "publisher": "Arti grafiche Bianca & Volta",
+   "pages": "25-27",
+   "xref": 28,
+   "language": "ita"
+  },
+  {
+   "position": 33,
+   "raw": "Ghiroldi A. 2007, La Cappella di Santa Croce in Bergamo, in M. Fortunati, R. Poggiani Keller (eds.), Storia economica e sociale di Bergamo. I primi millenni. Dalla preistoria al Medioevo, II, Bergamo, Fondazione per la Storia Economica e Sociale di Bergamo - Istituto di Studi e Ricerche, 534-538.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ghiroldi",
+     "given": "A."
+    }
+   ],
+   "date": "2007",
+   "title": "La Cappella di Santa Croce in Bergamo",
+   "editors": [
+    {
+     "family": "Fortunati",
+     "given": "M."
+    },
+    {
+     "family": "Poggiani Keller",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Storia economica e sociale di Bergamo. I primi millenni. Dalla preistoria al Medioevo"
+   ],
+   "volume": "II",
+   "place": "Bergamo",
+   "publisher": "Fondazione per la Storia Economica e Sociale di Bergamo - Istituto di Studi e Ricerche",
+   "pages": "534-538",
+   "language": "ita"
+  },
+  {
+   "position": 34,
+   "raw": "Greci R. 2003, I cantieri: le corporazioni, in Castelnuovo, Sergi 2003, 69-106.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Greci",
+     "given": "R."
+    }
+   ],
+   "date": "2003",
+   "title": "I cantieri: le corporazioni",
+   "pages": "69-106",
+   "editors": [
+    {
+     "family": "Castelnuovo",
+     "given": "E."
+    },
+    {
+     "family": "Sergi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Arti e storia del Medioevo, II. Del costruire: tecniche, artisti, artigiani, committenti"
+   ],
+   "place": "Torino",
+   "publisher": "Einaudi",
+   "xref": 19,
+   "language": "ita"
+  },
+  {
+   "position": 35,
+   "raw": "Guidi G., Russo M., Beraldin J. 2010, Acquisizione 3D e modellazione poligonale, Milano, McGraw-Hill Education.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Guidi",
+     "given": "G."
+    },
+    {
+     "family": "Russo",
+     "given": "M."
+    },
+    {
+     "family": "Beraldin",
+     "given": "J."
+    }
+   ],
+   "date": "2010",
+   "title": "Acquisizione 3D e modellazione poligonale",
+   "place": "Milano",
+   "publisher": "McGraw-Hill Education",
+   "language": "ita"
+  },
+  {
+   "position": 36,
+   "raw": "Kimpel D. 2002, I cantieri, in Castelnuovo, Sergi 2002, 171-197.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kimpel",
+     "given": "D."
+    }
+   ],
+   "date": "2002",
+   "title": "I cantieri",
+   "pages": "171-197",
+   "editors": [
+    {
+     "family": "Castelnuovo",
+     "given": "E."
+    },
+    {
+     "family": "Sergi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Arti e storia nel Medioevo. I. Tempi Spazi Istituzioni"
+   ],
+   "place": "Torino",
+   "publisher": "Einaudi",
+   "xref": 18,
+   "language": "ita"
+  },
+  {
+   "position": 37,
+   "raw": "Kling M. 1995, Romanische Zentralbauten in Oberitalien. Vorlaufer und Anverwandte, Hildesheim-New York, Georg Olms Verlag.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kling",
+     "given": "M."
+    }
+   ],
+   "date": "1995",
+   "title": "Romanische Zentralbauten in Oberitalien. Vorläufer und Anverwandte",
+   "place": "Hildesheim-New York",
+   "publisher": "Georg Olms Verlag",
+   "language": "ger"
+  },
+  {
+   "position": 38,
+   "raw": "Krautheimer L. 1993, Introduzione a un'iconografia dell'architettura sacra medievale, in R. Krautheimer, Architettura sacra paleocristiana e medievale e altri saggi su Rinascimento e Barocco, Torino, Bollati Boringhieri, 98-150.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Krautheimer",
+     "given": "R."
+    }
+   ],
+   "date": "1993",
+   "title": "Introduzione a un'iconografia dell'architettura sacra medievale",
+   "is_part_of": [
+    "Architettura sacra paleocristiana e medievale e altri saggi su Rinascimento e Barocco"
+   ],
+   "place": "Torino",
+   "publisher": "Bollati Boringhieri",
+   "pages": "98-150",
+   "confidence": "low",
+   "notes": "author cited \"Krautheimer L.\"; the container is a collection of essays by R. Krautheimer: read as R.",
+   "language": "ita"
+  },
+  {
+   "position": 39,
+   "raw": "Leoni J. 1999, Il tempietto di S. Croce, Bergamo. Mémoire, Master of Conservation of Historic Towns and Buildings, Faculteit toegepaste wetenschappen Centre R. Lemaire pour la conservation, Katholieke Universiteit Leuven.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Leoni",
+     "given": "J."
+    }
+   ],
+   "date": "1999",
+   "title": "Il tempietto di S. Croce, Bergamo",
+   "publisher": "Katholieke Universiteit Leuven",
+   "notes": "Mémoire, Master of Conservation of Historic Towns and Buildings, Faculteit toegepaste wetenschappen Centre R. Lemaire pour la conservation",
+   "language": "ita"
+  },
+  {
+   "position": 40,
+   "raw": "Locatelli G. 1939, Origine della cappella di S. Croce, «L'Eco di Bergamo», 8 maggio.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Locatelli",
+     "given": "G."
+    }
+   ],
+   "date": "1939",
+   "title": "Origine della cappella di S. Croce",
+   "is_part_of": [
+    "L'Eco di Bergamo"
+   ],
+   "notes": "8 maggio",
+   "language": "ita"
+  },
+  {
+   "position": 41,
+   "raw": "Lorenzi M., Pellegrini A. 2003, Sulle tracce del romanico in provincia di Bergamo tra storia, architettura, paesaggio, Bergamo, Provincia di Bergamo.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lorenzi",
+     "given": "M."
+    },
+    {
+     "family": "Pellegrini",
+     "given": "A."
+    }
+   ],
+   "date": "2003",
+   "title": "Sulle tracce del romanico in provincia di Bergamo tra storia, architettura, paesaggio",
+   "place": "Bergamo",
+   "publisher": "Provincia di Bergamo",
+   "language": "ita"
+  },
+  {
+   "position": 42,
+   "raw": "Lupo M. 1784-1799, Codex diplomaticus civitatis, et ecclesiae bergomatis a canonico Mario Lupo eiusdem ecclesiae primicenio digestus notis, et animadversionibus illustratus, Bergomi, Ex typographia Vincentii Antoine.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lupo",
+     "given": "M."
+    }
+   ],
+   "date": "1784-1799",
+   "title": "Codex diplomaticus civitatis, et ecclesiae bergomatis a canonico Mario Lupo eiusdem ecclesiae primicerio digestus notis, et animadversionibus illustratus",
+   "place": "Bergomi",
+   "publisher": "Ex typographia Vincentii Antoine",
+   "language": "lat"
+  },
+  {
+   "position": 43,
+   "raw": "Mannoni T. 1997, Il problema complesso delle murature storiche in pietra. I, Cultura materiale e cronotipologia, «Archeologia dell'Architettura», 2, 15-24.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mannoni",
+     "given": "T."
+    }
+   ],
+   "date": "1997",
+   "title": "Il problema complesso delle murature storiche in pietra. I, Cultura materiale e cronotipologia",
+   "is_part_of": [
+    "Archeologia dell'Architettura"
+   ],
+   "volume": "2",
+   "pages": "15-24",
+   "language": "ita"
+  },
+  {
+   "position": 44,
+   "raw": "Miller M.C. 2000, The Bishop's Palace. Architecture and Authority in Medieval Italy, Ithaca-London, Cornell University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Miller",
+     "given": "M.C."
+    }
+   ],
+   "date": "2000",
+   "title": "The Bishop's Palace. Architecture and Authority in Medieval Italy",
+   "place": "Ithaca-London",
+   "publisher": "Cornell University Press",
+   "language": "eng"
+  },
+  {
+   "position": 45,
+   "raw": "Pagella E. 2002, Vedere, copiare, interpretare: artisti e circolazione di modelli nell'ambito ecclesiastico, in Castelnuovo, Sergi 2002, 473-511.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pagella",
+     "given": "E."
+    }
+   ],
+   "date": "2002",
+   "title": "Vedere, copiare, interpretare: artisti e circolazione di modelli nell'ambito ecclesiastico",
+   "pages": "473-511",
+   "editors": [
+    {
+     "family": "Castelnuovo",
+     "given": "E."
+    },
+    {
+     "family": "Sergi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Arti e storia nel Medioevo. I. Tempi Spazi Istituzioni"
+   ],
+   "place": "Torino",
+   "publisher": "Einaudi",
+   "xref": 18,
+   "language": "ita"
+  },
+  {
+   "position": 46,
+   "raw": "Piva P. 1990, Le cattedrali lombarde. Ricerche sulle \"cattedrali doppie\" da Sant'Ambrogio all'età romanica, Quistello, Edizioni Ceschi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Piva",
+     "given": "P."
+    }
+   ],
+   "date": "1990",
+   "title": "Le cattedrali lombarde. Ricerche sulle \"cattedrali doppie\" da Sant'Ambrogio all'età romanica",
+   "place": "Quistello",
+   "publisher": "Edizioni Ceschi",
+   "language": "ita"
+  },
+  {
+   "position": 47,
+   "raw": "Piva P. 2012, La chiesa dei Santi Nazzaro e Celso a Pluda (Leno). Una testimonianza di edilizia cultuale fra altomedioevo e \"premier art roman\", «Brixia Sacra. Memorie Storiche della Diocesi di Brescia», s. III, XVII, 1-2, 109-126.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Piva",
+     "given": "P."
+    }
+   ],
+   "date": "2012",
+   "title": "La chiesa dei Santi Nazzaro e Celso a Pluda (Leno). Una testimonianza di edilizia cultuale fra altomedioevo e \"premier art roman\"",
+   "is_part_of": [
+    "Brixia Sacra. Memorie Storiche della Diocesi di Brescia"
+   ],
+   "volume": "XVII",
+   "issue": "1-2",
+   "pages": "109-126",
+   "notes": "s. III",
+   "language": "ita"
+  },
+  {
+   "position": 48,
+   "raw": "Porter A.K. 1916, Lombard Architecture, II. Monuments. Abbazia di Albino, Milan, New Haven, Yale University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Porter",
+     "given": "A.K."
+    }
+   ],
+   "date": "1916",
+   "title": "Lombard Architecture, II. Monuments. Abbazia di Albino, Milan",
+   "place": "New Haven",
+   "publisher": "Yale University Press",
+   "language": "eng"
+  },
+  {
+   "position": 49,
+   "raw": "Recht R. 2001, Il disegno d'architettura. Origine e funzioni, Milano, Jaca Book.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Recht",
+     "given": "R."
+    }
+   ],
+   "date": "2001",
+   "title": "Il disegno d'architettura. Origine e funzioni",
+   "place": "Milano",
+   "publisher": "Jaca Book",
+   "language": "ita"
+  },
+  {
+   "position": 50,
+   "raw": "Russo M., Remondino F., Guidi G. 2011, Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico, «Archeologia e Calcolatori», 22, 169-198.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Russo",
+     "given": "M."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Guidi",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "Principali tecniche e strumenti per il rilievo tridimensionale in ambito archeologico",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "22",
+   "pages": "169-198",
+   "cited_aec_id": 592,
+   "language": "ita"
+  },
+  {
+   "position": 51,
+   "raw": "Salvarani R. 2008a, La fortuna del Santo Sepolcro nel Medioevo. Spazio, liturgia, architettura, Milano, Jaca Book.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Salvarani",
+     "given": "R."
+    }
+   ],
+   "date": "2008",
+   "title": "La fortuna del Santo Sepolcro nel Medioevo. Spazio, liturgia, architettura",
+   "place": "Milano",
+   "publisher": "Jaca Book",
+   "language": "ita"
+  },
+  {
+   "position": 52,
+   "raw": "Salvarani R. 2008b, Chiese a pianta circolare e imitationes del S. Sepolcro nei secoli centrali del Medioevo. Aspetti storici, in V. Volta (ed.), Rotonde d'Italia. Analisi tipologica della pianta centrale, Milano, Jaca Book, 33-44.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Salvarani",
+     "given": "R."
+    }
+   ],
+   "date": "2008",
+   "title": "Chiese a pianta circolare e imitationes del S. Sepolcro nei secoli centrali del Medioevo. Aspetti storici",
+   "editors": [
+    {
+     "family": "Volta",
+     "given": "V."
+    }
+   ],
+   "is_part_of": [
+    "Rotonde d'Italia. Analisi tipologica della pianta centrale"
+   ],
+   "place": "Milano",
+   "publisher": "Jaca Book",
+   "pages": "33-44",
+   "language": "ita"
+  },
+  {
+   "position": 53,
+   "raw": "Scirea F. 2010, Il complesso cattedrale di Bergamo, in R. Cassanelli, P. Piva (eds.), Lombardia romanica. II, Paesaggi monumentali, Milano, Jaca Book.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Scirea",
+     "given": "F."
+    }
+   ],
+   "date": "2010",
+   "title": "Il complesso cattedrale di Bergamo",
+   "editors": [
+    {
+     "family": "Cassanelli",
+     "given": "R."
+    },
+    {
+     "family": "Piva",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Lombardia romanica. II, Paesaggi monumentali"
+   ],
+   "place": "Milano",
+   "publisher": "Jaca Book",
+   "language": "ita"
+  },
+  {
+   "position": 54,
+   "raw": "Tosco C. 2003, Gli architetti e le maestranze, in Castelnuovo, Sergi 2003, 43-68.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tosco",
+     "given": "C."
+    }
+   ],
+   "date": "2003",
+   "title": "Gli architetti e le maestranze",
+   "pages": "43-68",
+   "editors": [
+    {
+     "family": "Castelnuovo",
+     "given": "E."
+    },
+    {
+     "family": "Sergi",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Arti e storia del Medioevo, II. Del costruire: tecniche, artisti, artigiani, committenti"
+   ],
+   "place": "Torino",
+   "publisher": "Einaudi",
+   "xref": 19,
+   "language": "ita"
+  },
+  {
+   "position": 55,
+   "raw": "Untermann M. 1989, Der Zentralbau im Mittelalter: Form, Funktion, Verbreitung, Darmstadt, Wissenschaftliche Buchgesellschaft.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Untermann",
+     "given": "M."
+    }
+   ],
+   "date": "1989",
+   "title": "Der Zentralbau im Mittelalter: Form, Funktion, Verbreitung",
+   "place": "Darmstadt",
+   "publisher": "Wissenschaftliche Buchgesellschaft",
+   "language": "ger"
+  },
+  {
+   "position": 56,
+   "raw": "Venanzio O. 1959, Costruzioni romaniche a sistema centrale nel Bergamasco, «Arte Lombarda», 4, 1, 29-35.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Venanzio",
+     "given": "O."
+    }
+   ],
+   "date": "1959",
+   "title": "Costruzioni romaniche a sistema centrale nel Bergamasco",
+   "is_part_of": [
+    "Arte Lombarda"
+   ],
+   "volume": "4",
+   "issue": "1",
+   "pages": "29-35",
+   "language": "ita"
+  },
+  {
+   "position": 57,
+   "raw": "Versaci A., Cardaci A. 2011, Il rilievo \"automatico\" del colore: nuove tecnologie a supporto della lettura cromatica per il restauro dell'edilizia storica, in P. Falzone (ed.), Il colore nel costruito storico. Innovazione, sperimentazione, applicazione (Lerici 2011), Roma, Aracne Editrice, 1-7.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Versaci",
+     "given": "A."
+    },
+    {
+     "family": "Cardaci",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "Il rilievo \"automatico\" del colore: nuove tecnologie a supporto della lettura cromatica per il restauro dell'edilizia storica",
+   "editors": [
+    {
+     "family": "Falzone",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Il colore nel costruito storico. Innovazione, sperimentazione, applicazione (Lerici 2011)"
+   ],
+   "place": "Roma",
+   "publisher": "Aracne Editrice",
+   "pages": "1-7",
+   "language": "ita"
+  },
+  {
+   "position": 58,
+   "raw": "Versaci A., Cardaci A. 2012, Innovative methodologies of automatic color survey in the service of architectural restoration, in Colore e Colorimetria. Contributi Multidisciplinari, VIII, Santarcangelo di Romagna (RN), Maggioli S.p.A., 191-198.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Versaci",
+     "given": "A."
+    },
+    {
+     "family": "Cardaci",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Innovative methodologies of automatic color survey in the service of architectural restoration",
+   "is_part_of": [
+    "Colore e Colorimetria. Contributi Multidisciplinari"
+   ],
+   "volume": "VIII",
+   "place": "Santarcangelo di Romagna (RN)",
+   "publisher": "Maggioli S.p.A.",
+   "pages": "191-198",
+   "language": "eng"
+  },
+  {
+   "position": 59,
+   "raw": "Zizzo G. 2000, S. Croce, Bergamo, in P. Capellini, G.M. Labaa (eds.), Itinerari dell'Anno Mille. Chiese romaniche nel Bergamasco, Bergamo, Sesaab Editrice, 63-66.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zizzo",
+     "given": "G."
+    }
+   ],
+   "date": "2000",
+   "title": "S. Croce, Bergamo",
+   "editors": [
+    {
+     "family": "Capellini",
+     "given": "P."
+    },
+    {
+     "family": "Labaa",
+     "given": "G.M."
+    }
+   ],
+   "is_part_of": [
+    "Itinerari dell'Anno Mille. Chiese romaniche nel Bergamasco"
+   ],
+   "place": "Bergamo",
+   "publisher": "Sesaab Editrice",
+   "pages": "63-66",
+   "language": "ita"
+  }
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "citing_aec_id": 1225,
+ "source_file": "data/journal/34/1225.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Baldelli G. 2002, *Per una nuova carta archeologica di* Fanum Fortunae, «Quaderni dell'Accademia Fanestre», 1, 31-48.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Baldelli",
+     "given": "G."
+    }
+   ],
+   "date": "2002",
+   "title": "Per una nuova carta archeologica di Fanum Fortunae",
+   "is_part_of": [
+    "Quaderni dell'Accademia Fanestre"
+   ],
+   "volume": "1",
+   "pages": "31-48",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Frassine M., De Francesco S., Zambetti A. 2021, *Raptor reloaded. Un geodatabase gestionale per la tutela archeologica: nuovi aggiornamenti per un sistema aperto*, «Archeologia e Calcolatori», 32.1, 307-324 (https://doi.org/10.19282/ac.32.1.2021.17).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frassine",
+     "given": "M."
+    },
+    {
+     "family": "De Francesco",
+     "given": "S."
+    },
+    {
+     "family": "Zambetti",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "Raptor reloaded. Un geodatabase gestionale per la tutela archeologica: nuovi aggiornamenti per un sistema aperto",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "32",
+   "issue": "1",
+   "pages": "307-324",
+   "doi": "10.19282/ac.32.1.2021.17",
+   "language": "ita",
+   "cited_aec_id": 1140,
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Frenquellucci M. 2002, \"Palacium Maius\". Reimpiego medievale del teatro romano di Fano, «Quaderni dell'Accademia Fanestre», 1, 59-71.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Frenquellucci",
+     "given": "M."
+    }
+   ],
+   "date": "2002",
+   "title": "\"Palacium Maius\". Reimpiego medievale del teatro romano di Fano",
+   "is_part_of": [
+    "Quaderni dell'Accademia Fanestre"
+   ],
+   "volume": "1",
+   "pages": "59-71",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Mandolesi L. 2009, *pyArchInit - python, QGIS e PostgreSQL per la gestione dei dati di scavo*, in P. Cignoni, A. Palombini, S. Pescarin (eds.), *ArcheoFOSS Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del IV Workshop (Roma 2009)*, «Archeologia e Calcolatori», Suppl. 2, 209-222 (http://www.archcalc.cnr.it/journal/id.php?id=549&sup=true).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cignoni",
+     "given": "P."
+    },
+    {
+     "family": "Palombini",
+     "given": "A."
+    },
+    {
+     "family": "Pescarin",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "pyArchInit - python, QGIS e PostgreSQL per la gestione dei dati di scavo",
+   "is_part_of": [
+    "ArcheoFOSS Open Source, Free Software e Open Format nei processi di ricerca archeologica. Atti del IV Workshop (Roma 2009)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 2",
+   "pages": "209-222",
+   "uri": "http://www.archcalc.cnr.it/journal/id.php?id=549&sup=true",
+   "language": "ita",
+   "cited_aec_id": 549,
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Mandolesi L., Cocca E. 2013, *PyArchInit: gli sviluppi dopo ArcheoFoss 2009*, in M. Serlorenzi (ed.), *ArcheoFOSS Free, Libre and Open Source Software e Open format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012)*, «Archeologia e Calcolatori», Suppl. 4, 128-138 (http://www.archcalc.cnr.it/journal/id.php?id=697&sup=true).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mandolesi",
+     "given": "L."
+    },
+    {
+     "family": "Cocca",
+     "given": "E."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Serlorenzi",
+     "given": "M."
+    }
+   ],
+   "date": "2013",
+   "title": "PyArchInit: gli sviluppi dopo ArcheoFoss 2009",
+   "is_part_of": [
+    "ArcheoFOSS Free, Libre and Open Source Software e Open format nei processi di ricerca archeologica. Atti del VII Workshop (Roma 2012)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "Suppl. 4",
+   "pages": "128-138",
+   "uri": "http://www.archcalc.cnr.it/journal/id.php?id=697&sup=true",
+   "language": "ita",
+   "cited_aec_id": 697,
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Milesi F. (ed.) 1992, *Fano romana. Mostra storico-archeologica*, Fano, Editrice Fortuna.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Milesi",
+     "given": "F."
+    }
+   ],
+   "date": "1992",
+   "title": "Fano romana. Mostra storico-archeologica",
+   "publisher": "Editrice Fortuna",
+   "place": "Fano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Purcaro V., De Sanctis L., Furlani M., Pierboni M. 2013, *L'area ipogea sotto il complesso di Sant'Agostino*, in Volpe 2013, 247-283.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Purcaro",
+     "given": "V."
+    },
+    {
+     "family": "De Sanctis",
+     "given": "L."
+    },
+    {
+     "family": "Furlani",
+     "given": "M."
+    },
+    {
+     "family": "Pierboni",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "date": "2013",
+   "title": "L'area ipogea sotto il complesso di Sant'Agostino",
+   "is_part_of": [
+    "Il complesso monumentale di Sant'Agostino a Fano, dalle origini agli ultimi restauri"
+   ],
+   "pages": "247-283",
+   "place": "Fano",
+   "publisher": "Carifano Editore",
+   "language": "ita",
+   "xref": 8,
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Volpe G. (ed.) 2013, *Il complesso monumentale di Sant'Agostino a Fano, dalle origini agli ultimi restauri*, Fano, Carifano Editore.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Volpe",
+     "given": "G."
+    }
+   ],
+   "date": "2013",
+   "title": "Il complesso monumentale di Sant'Agostino a Fano, dalle origini agli ultimi restauri",
+   "publisher": "Carifano Editore",
+   "place": "Fano",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

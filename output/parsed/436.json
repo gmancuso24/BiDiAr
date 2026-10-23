@@ -1,0 +1,281 @@
+{
+ "citing_aec_id": 436,
+ "source_file": "data/journal/18/436.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "CAMPANA S. 2003, Geografia storica, telerilevamento e tecnologia GIS: una rassegna bibliografica, «Trame nello spazio – Quaderni di geografia storica e quantitativa», 1, 99-104.",
+   "type": "article",
+   "date": "2003",
+   "title": "Geografia storica, telerilevamento e tecnologia GIS: una rassegna bibliografica",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Campana",
+     "given": "S."
+    }
+   ],
+   "is_part_of": [
+    "Trame nello spazio – Quaderni di geografia storica e quantitativa"
+   ],
+   "volume": "1",
+   "pages": "99-104"
+  },
+  {
+   "position": 2,
+   "raw": "CATTANI M., FIORINI A. 2004, Topologia: identificazione, significato e valenza nella ricerca archeologica, in P. MOSCATI (ed.), Nuove frontiere della ricerca archeologica. Linguaggi, comunicazione, informatica/New Frontiers of Archaeological Research. Languages, Communication, Information Technology, «Archeologia e Calcolatori», 15, 317-340.",
+   "type": "article",
+   "date": "2004",
+   "title": "Topologia: identificazione, significato e valenza nella ricerca archeologica",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Cattani",
+     "given": "M."
+    },
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "15",
+   "pages": "317-340",
+   "cited_aec_id": 387,
+   "notes": "cited as in P. Moscati (ed.), Nuove frontiere della ricerca archeologica (AeC 15)"
+  },
+  {
+   "position": 3,
+   "raw": "D'ANDREA A. 2000, Modelli GIS nel Cultural Resource Menagement, in D'ANDREA, NICCOLUCCI 2000, 153-170.",
+   "type": "article",
+   "date": "2000",
+   "title": "Modelli GIS nel Cultural Resource Management",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11",
+   "pages": "153-170",
+   "cited_aec_id": 294,
+   "notes": "cited 'Menagement' (typo corrected); cited as in D'Andrea, Niccolucci 2000 (AeC 11)"
+  },
+  {
+   "position": 4,
+   "raw": "D'ANDREA A. 2001, Discretizzazione e modello-dati nei sistemi GIS, «Archeologia e Calcolatori», 12, 337-342.",
+   "type": "article",
+   "date": "2001",
+   "title": "Discretizzazione e modello-dati nei sistemi GIS",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "12",
+   "pages": "337-342",
+   "cited_aec_id": 329
+  },
+  {
+   "position": 5,
+   "raw": "D'ANDREA A., NICCOLUCCI F. (eds.) 2000, Atti del I Workshop Nazionale di Archeologia Computazionale (Napoli-Firenze 1999), «Archeologia e Calcolatori», 11.",
+   "type": "proceedings",
+   "date": "2000",
+   "title": "Atti del I Workshop Nazionale di Archeologia Computazionale (Napoli-Firenze 1999)",
+   "language": "ita",
+   "confidence": "high",
+   "editors": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "11"
+  },
+  {
+   "position": 6,
+   "raw": "FORTE M. 2002, I Sistemi Informativi Geografici in archeologia, Roma, MondoGis.",
+   "type": "book",
+   "date": "2002",
+   "title": "I Sistemi Informativi Geografici in archeologia",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "place": "Roma",
+   "publisher": "MondoGis"
+  },
+  {
+   "position": 7,
+   "raw": "GUERMANDI M.P. (ed.) 2001, Rischio archeologico: se lo conosci lo eviti. Atti del Convegno di studi su cartografia e tutela del territorio (Ferrara 2000), Firenze, All'Insegna del Giglio.",
+   "type": "proceedings",
+   "date": "2001",
+   "title": "Rischio archeologico: se lo conosci lo eviti. Atti del Convegno di studi su cartografia e tutela del territorio (Ferrara 2000)",
+   "language": "ita",
+   "confidence": "high",
+   "editors": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio"
+  },
+  {
+   "position": 8,
+   "raw": "LA REGINA A. 2001, Roma: archeologia e sviluppo nella città e nel suburbio, in GUERMANDI 2001, 44-51.",
+   "type": "chapter",
+   "date": "2001",
+   "title": "Roma: archeologia e sviluppo nella città e nel suburbio",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "La Regina",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "is_part_of": [
+    "Rischio archeologico: se lo conosci lo eviti. Atti del Convegno di studi su cartografia e tutela del territorio (Ferrara 2000)"
+   ],
+   "pages": "44-51",
+   "xref": 7,
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio"
+  },
+  {
+   "position": 9,
+   "raw": "MANNONI T. 2002, Recupero dei significati delle memorie urbane, in A. RICCI (ed.), Archeologia e urbanistica. XII Ciclo di Lezioni sulla Ricerca Applicata in Archeologia (Certosa di Pontignano, Siena 2001), Firenze, All'Insegna del Giglio, 39-60.",
+   "type": "chapter",
+   "date": "2002",
+   "title": "Recupero dei significati delle memorie urbane",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Mannoni",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ricci",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "Archeologia e urbanistica. XII Ciclo di Lezioni sulla Ricerca Applicata in Archeologia (Certosa di Pontignano, Siena 2001)"
+   ],
+   "pages": "39-60",
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio"
+  },
+  {
+   "position": 10,
+   "raw": "MARINI CALVANI M. 1978, Parma nell'antichità, in V. BANZOLA (ed.), Parma: la città storica, Parma, Cassa di Risparmio, 19-70.",
+   "type": "chapter",
+   "date": "1978",
+   "title": "Parma nell'antichità",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Marini Calvani",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Banzola",
+     "given": "V."
+    }
+   ],
+   "is_part_of": [
+    "Parma: la città storica"
+   ],
+   "pages": "19-70",
+   "place": "Parma",
+   "publisher": "Cassa di Risparmio"
+  },
+  {
+   "position": 11,
+   "raw": "MELUCCO VACCARO A. 2001, Rischio \"da archeologia\" e rischio \"per l'archeologia\": l'attività del Ministero Beni e Attività Culturali e dell'Ufficio Centrale Beni Ambientali e Paesaggistici, in GUERMANDI 2001, 49-54.",
+   "type": "chapter",
+   "date": "2001",
+   "title": "Rischio \"da archeologia\" e rischio \"per l'archeologia\": l'attività del Ministero Beni e Attività Culturali e dell'Ufficio Centrale Beni Ambientali e Paesaggistici",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Melucco Vaccaro",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "is_part_of": [
+    "Rischio archeologico: se lo conosci lo eviti. Atti del Convegno di studi su cartografia e tutela del territorio (Ferrara 2000)"
+   ],
+   "pages": "49-54",
+   "xref": 7,
+   "place": "Firenze",
+   "publisher": "All'Insegna del Giglio"
+  },
+  {
+   "position": 12,
+   "raw": "MONACO G. 1957, Parma. Rinvenimenti nel centro della città romana (Piazza Garibaldi) nel 1948, «Notizie degli Scavi di Antichità», 231-258.",
+   "type": "article",
+   "date": "1957",
+   "title": "Parma. Rinvenimenti nel centro della città romana (Piazza Garibaldi) nel 1948",
+   "language": "ita",
+   "confidence": "high",
+   "creators": [
+    {
+     "family": "Monaco",
+     "given": "G."
+    }
+   ],
+   "is_part_of": [
+    "Notizie degli Scavi di Antichità"
+   ],
+   "pages": "231-258"
+  }
+ ]
+}

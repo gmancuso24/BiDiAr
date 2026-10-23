@@ -1,0 +1,1485 @@
+{
+ "citing_aec_id": 1276,
+ "source_file": "data/journal/34/1276.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Aloia N., Binding C., Cuy S., Doerr M., Fanini B., Felicetti A., Fihn J. *et al.* 2017, *Enabling European archaeological research: The ARIADNE e-infrastructure*, «Internet Archaeology», 43 (https://doi.org/10.11141/ia.43.11).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Aloia",
+     "given": "N."
+    },
+    {
+     "family": "Binding",
+     "given": "C."
+    },
+    {
+     "family": "Cuy",
+     "given": "S."
+    },
+    {
+     "family": "Doerr",
+     "given": "M."
+    },
+    {
+     "family": "Fanini",
+     "given": "B."
+    },
+    {
+     "family": "Felicetti",
+     "given": "A."
+    },
+    {
+     "family": "Fihn",
+     "given": "J."
+    }
+   ],
+   "date": "2017",
+   "title": "Enabling European archaeological research: The ARIADNE e-infrastructure",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "43",
+   "doi": "10.11141/ia.43.11",
+   "language": "eng",
+   "notes": "et al. after the 7th author",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Batini C., Cappiello C., Francalanci C., Maurino A. 2009, *Methodologies for data quality assessment and improvement*, «ACM Computing Surveys», 41, 3, 1-52 (https://doi.org/10.1145/1541880.1541883).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Batini",
+     "given": "C."
+    },
+    {
+     "family": "Cappiello",
+     "given": "C."
+    },
+    {
+     "family": "Francalanci",
+     "given": "C."
+    },
+    {
+     "family": "Maurino",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "Methodologies for data quality assessment and improvement",
+   "is_part_of": [
+    "ACM Computing Surveys"
+   ],
+   "volume": "41",
+   "issue": "3",
+   "pages": "1-52",
+   "doi": "10.1145/1541880.1541883",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Beacham R., Denard H., Niccolucci F. *et al.* 2006, *An introduction to the London charter*, Joint Event CIPA/VAST/EG/EuroMed 1, 1.6.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Beacham",
+     "given": "R."
+    },
+    {
+     "family": "Denard",
+     "given": "H."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2006",
+   "title": "An introduction to the London charter",
+   "is_part_of": [
+    "Joint Event CIPA/VAST/EG/EuroMed"
+   ],
+   "volume": "1",
+   "pages": "1-6",
+   "language": "eng",
+   "notes": "et al. after the 3rd author; pages cited as '1.6' (read as 1-6)",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bellelli V., Pietroni E., Rizzo C., Carlani R., Palermo A., Rosati F., Dettori M., Bucci V., Monotti G. 2022, *Cerveteri, Tomba dei Capitelli. Dataset ricostruzione virtuale, back-end scientifico, storytelling*, Zenodo (https://doi.org/10.5281/ZENODO.6614066).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Bellelli",
+     "given": "V."
+    },
+    {
+     "family": "Pietroni",
+     "given": "E."
+    },
+    {
+     "family": "Rizzo",
+     "given": "C."
+    },
+    {
+     "family": "Carlani",
+     "given": "R."
+    },
+    {
+     "family": "Palermo",
+     "given": "A."
+    },
+    {
+     "family": "Rosati",
+     "given": "F."
+    },
+    {
+     "family": "Dettori",
+     "given": "M."
+    },
+    {
+     "family": "Bucci",
+     "given": "V."
+    },
+    {
+     "family": "Monotti",
+     "given": "G."
+    }
+   ],
+   "date": "2022",
+   "title": "Cerveteri, Tomba dei Capitelli. Dataset ricostruzione virtuale, back-end scientifico, storytelling",
+   "publisher": "Zenodo",
+   "doi": "10.5281/ZENODO.6614066",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Benardou A., Champion E., Dallas C., Hughes L.M. (eds.) 2018, *Cultural Heritage Infrastructures in Digital Humanities*, London-New York, Routledge, Taylor & Francis Group.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Benardou",
+     "given": "A."
+    },
+    {
+     "family": "Champion",
+     "given": "E."
+    },
+    {
+     "family": "Dallas",
+     "given": "C."
+    },
+    {
+     "family": "Hughes",
+     "given": "L.M."
+    }
+   ],
+   "date": "2018",
+   "title": "Cultural Heritage Infrastructures in Digital Humanities",
+   "publisher": "Routledge, Taylor & Francis Group",
+   "place": "London-New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Bendicho V., López-Menchero M. 2013, *International guidelines for Virtual Archaeology: The Seville Principles*, in C. Corsi, B. Slapšak, F. Vermeulen (eds.), *Good Practice in Archaeological Diagnostics*, Natural Science in Archaeology, Cham, Springer International Publishing, 269-283 (https://doi.org/10.1007/978-3-319-01784-6_16).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bendicho",
+     "given": "V."
+    },
+    {
+     "family": "López-Menchero",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Corsi",
+     "given": "C."
+    },
+    {
+     "family": "Slapšak",
+     "given": "B."
+    },
+    {
+     "family": "Vermeulen",
+     "given": "F."
+    }
+   ],
+   "date": "2013",
+   "title": "International guidelines for Virtual Archaeology: The Seville Principles",
+   "is_part_of": [
+    "Good Practice in Archaeological Diagnostics"
+   ],
+   "pages": "269-283",
+   "series": "Natural Science in Archaeology",
+   "publisher": "Springer International Publishing",
+   "place": "Cham",
+   "doi": "10.1007/978-3-319-01784-6_16",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Bentkowska-Kafel A., Denard H., Baker D. (eds.) 2012, *Paradata and Transparency in Virtual Heritage* (*Digital Research in the Arts and Humanities*), Farnham, Surrey, England-Burlington, VT, Ashgate.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Bentkowska-Kafel",
+     "given": "A."
+    },
+    {
+     "family": "Denard",
+     "given": "H."
+    },
+    {
+     "family": "Baker",
+     "given": "D."
+    }
+   ],
+   "date": "2012",
+   "title": "Paradata and Transparency in Virtual Heritage",
+   "series": "Digital Research in the Arts and Humanities",
+   "publisher": "Ashgate",
+   "place": "Farnham, Surrey, England-Burlington, VT",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Börjesson L., Sköld O., Friberg Z., Löwenborg D., Pálsson G., Huvila I. 2022, *Re-purposing Excavation database content as paradata: An explorative analysis of paradata identification challenges and opportunities*, «KULA: Knowledge Creation, Dissemination, and Preservation Studies» 6, 3, 1-18 (https://doi.org/10.18357/kula.221).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Börjesson",
+     "given": "L."
+    },
+    {
+     "family": "Sköld",
+     "given": "O."
+    },
+    {
+     "family": "Friberg",
+     "given": "Z."
+    },
+    {
+     "family": "Löwenborg",
+     "given": "D."
+    },
+    {
+     "family": "Pálsson",
+     "given": "G."
+    },
+    {
+     "family": "Huvila",
+     "given": "I."
+    }
+   ],
+   "date": "2022",
+   "title": "Re-purposing Excavation database content as paradata: An explorative analysis of paradata identification challenges and opportunities",
+   "is_part_of": [
+    "KULA: Knowledge Creation, Dissemination, and Preservation Studies"
+   ],
+   "volume": "6",
+   "issue": "3",
+   "pages": "1-18",
+   "doi": "10.18357/kula.221",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Bradley K. 2007, *Defining digital sustainability*, «Library Trends», 56, 1, 148-163 (https://doi.org/10.1353/lib.2007.0044).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bradley",
+     "given": "K."
+    }
+   ],
+   "date": "2007",
+   "title": "Defining digital sustainability",
+   "is_part_of": [
+    "Library Trends"
+   ],
+   "volume": "56",
+   "issue": "1",
+   "pages": "148-163",
+   "doi": "10.1353/lib.2007.0044",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Braun V., Clarke V. 2020, *One size fits all? What counts as quality practice in (reflexive) thematic analysis?*, «Qualitative Research in Psychology», 18, 3, 328-352 (https://doi.org/10.1080/14780887.2020.1769238).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Braun",
+     "given": "V."
+    },
+    {
+     "family": "Clarke",
+     "given": "V."
+    }
+   ],
+   "date": "2020",
+   "title": "One size fits all? What counts as quality practice in (reflexive) thematic analysis?",
+   "is_part_of": [
+    "Qualitative Research in Psychology"
+   ],
+   "volume": "18",
+   "issue": "3",
+   "pages": "328-352",
+   "doi": "10.1080/14780887.2020.1769238",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Cappellini V. (ed.) 2012, *Electronic Imaging & the Visual Arts: EVA 2012 (Florence 2012)*, Firenze, University Press.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Cappellini",
+     "given": "V."
+    }
+   ],
+   "date": "2012",
+   "title": "Electronic Imaging & the Visual Arts: EVA 2012 (Florence 2012)",
+   "publisher": "Firenze University Press",
+   "place": "Firenze",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Champion E., Rahaman H. 2019, *3D Digital Heritage models as sustainable scholarly resources*, «Sustainability», 11, 8, 2425 (https://doi.org/10.3390/su11082425).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Champion",
+     "given": "E."
+    },
+    {
+     "family": "Rahaman",
+     "given": "H."
+    }
+   ],
+   "date": "2019",
+   "title": "3D Digital Heritage models as sustainable scholarly resources",
+   "is_part_of": [
+    "Sustainability"
+   ],
+   "volume": "11",
+   "issue": "8",
+   "doi": "10.3390/su11082425",
+   "language": "eng",
+   "notes": "2425 is the article number",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Champion E., Rahaman H. 2020, *Survey of 3D Digital Heritage repositories and platforms*, «Virtual Archaeology Review», 11, 23, 1 (https://doi.org/10.4995/var.2020.13226).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Champion",
+     "given": "E."
+    },
+    {
+     "family": "Rahaman",
+     "given": "H."
+    }
+   ],
+   "date": "2020",
+   "title": "Survey of 3D Digital Heritage repositories and platforms",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "volume": "11",
+   "issue": "23",
+   "pages": "1",
+   "doi": "10.4995/var.2020.13226",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "D'Andrea A., Niccolucci F., Bassett S., Fernie K. 2012, *3D-ICONS: World Heritage sites for Europeana: Making complex 3D models available to everyone*, in *2012 18th International Conference on Virtual Systems and Multimedia*, Milan, IEEE, 517-520 (https://doi.org/10.1109/VSMM.2012.6365966).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Bassett",
+     "given": "S."
+    },
+    {
+     "family": "Fernie",
+     "given": "K."
+    }
+   ],
+   "date": "2012",
+   "title": "3D-ICONS: World Heritage sites for Europeana: Making complex 3D models available to everyone",
+   "is_part_of": [
+    "2012 18th International Conference on Virtual Systems and Multimedia"
+   ],
+   "pages": "517-520",
+   "publisher": "IEEE",
+   "place": "Milan",
+   "doi": "10.1109/VSMM.2012.6365966",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Dell'Unto N., Landeschi G. 2022, *Archaeological 3D GIS*, London, Routledge (https://doi.org/10.4324/9781003034131).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Dell'Unto",
+     "given": "N."
+    },
+    {
+     "family": "Landeschi",
+     "given": "G."
+    }
+   ],
+   "date": "2022",
+   "title": "Archaeological 3D GIS",
+   "publisher": "Routledge",
+   "place": "London",
+   "doi": "10.4324/9781003034131",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Demetrescu E., Ferdani D. 2021, *From field archaeology to virtual reconstruction: A five steps method using the Extended Matrix*, «Applied Sciences», 11, 11, 5206 (https://doi.org/10.3390/app11115206).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    }
+   ],
+   "date": "2021",
+   "title": "From field archaeology to virtual reconstruction: A five steps method using the Extended Matrix",
+   "is_part_of": [
+    "Applied Sciences"
+   ],
+   "volume": "11",
+   "issue": "11",
+   "pages": "5206",
+   "doi": "10.3390/app11115206",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Di Giulio R., Boeri A., Longo D., Gianfrate V., Boulanger S.O.M., Mariotti C. 2021, *ICTs for accessing, understanding and safeguarding Cultural Heritage: The experience of INCEPTION and ROCK H2020 Projects*, «International Journal of Architectural Heritage», 15, 6, 825-843 (https://doi.org/10.1080/15583058.2019.1690075).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Di Giulio",
+     "given": "R."
+    },
+    {
+     "family": "Boeri",
+     "given": "A."
+    },
+    {
+     "family": "Longo",
+     "given": "D."
+    },
+    {
+     "family": "Gianfrate",
+     "given": "V."
+    },
+    {
+     "family": "Boulanger",
+     "given": "S.O.M."
+    },
+    {
+     "family": "Mariotti",
+     "given": "C."
+    }
+   ],
+   "date": "2021",
+   "title": "ICTs for accessing, understanding and safeguarding Cultural Heritage: The experience of INCEPTION and ROCK H2020 Projects",
+   "is_part_of": [
+    "International Journal of Architectural Heritage"
+   ],
+   "volume": "15",
+   "issue": "6",
+   "pages": "825-843",
+   "doi": "10.1080/15583058.2019.1690075",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Ekengren F., Callieri M., Dininno D., Berggren Å., Macheridis S., Dell'Unto N. 2021, *Dynamic collections: A 3D web infrastructure for artifact engagement*, «Open Archaeology», 7, 1, 337-352 (https://doi.org/10.1515/opar-2020-0139).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ekengren",
+     "given": "F."
+    },
+    {
+     "family": "Callieri",
+     "given": "M."
+    },
+    {
+     "family": "Dininno",
+     "given": "D."
+    },
+    {
+     "family": "Berggren",
+     "given": "Å."
+    },
+    {
+     "family": "Macheridis",
+     "given": "S."
+    },
+    {
+     "family": "Dell'Unto",
+     "given": "N."
+    }
+   ],
+   "date": "2021",
+   "title": "Dynamic collections: A 3D web infrastructure for artifact engagement",
+   "is_part_of": [
+    "Open Archaeology"
+   ],
+   "volume": "7",
+   "issue": "1",
+   "pages": "337-352",
+   "doi": "10.1515/opar-2020-0139",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "*European Commission. Directorate General for Communications Networks, Content and Technology* 2022, *Study on Quality in 3D Digitisation of Tangible Cultural Heritage: Mapping Parameters, Formats, Standards, Benchmarks, Methodologies, and Guidelines: Final Study Report*, LU, Publications Office (https://data.europa.eu/doi/10.2759/471776).",
+   "type": "other",
+   "date": "2022",
+   "title": "Study on Quality in 3D Digitisation of Tangible Cultural Heritage: Mapping Parameters, Formats, Standards, Benchmarks, Methodologies, and Guidelines: Final Study Report",
+   "publisher": "Publications Office",
+   "place": "LU",
+   "uri": "https://data.europa.eu/doi/10.2759/471776",
+   "language": "eng",
+   "notes": "author cited as 'European Commission. Directorate General for Communications Networks, Content and Technology' (corporate); no person recorded; place cited as 'LU' (Luxembourg)",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Frischer B. 2005, *New directions for cultural Virtual Reality: A global strategy for archiving serving and exhibiting 3D computer model of Cultural Heritage sites*, in R. Vergnieux, C. Delevoie (eds.), *Actes du Colloque Virtual Retrospect 2005*, Archéovision 2, Bordeaux, Ausonius, 168-175.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Frischer",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Vergnieux",
+     "given": "R."
+    },
+    {
+     "family": "Delevoie",
+     "given": "C."
+    }
+   ],
+   "date": "2005",
+   "title": "New directions for cultural Virtual Reality: A global strategy for archiving serving and exhibiting 3D computer model of Cultural Heritage sites",
+   "is_part_of": [
+    "Actes du Colloque Virtual Retrospect 2005"
+   ],
+   "pages": "168-175",
+   "series": "Archéovision",
+   "series_number": "2",
+   "publisher": "Ausonius",
+   "place": "Bordeaux",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Frischer B. 2008, *From digital illustration to digital heuristics*, in B. Frischer, A. Dakouri-Hild (eds.), *Beyond Illustration: 2D and 3D Digital Technologies as Tools for Discovery in Archaeology*, BAR International Series 1805, Oxford, Archaeopress, V-XXIV.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Frischer",
+     "given": "B."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Frischer",
+     "given": "B."
+    },
+    {
+     "family": "Dakouri-Hild",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "From digital illustration to digital heuristics",
+   "is_part_of": [
+    "Beyond Illustration: 2D and 3D Digital Technologies as Tools for Discovery in Archaeology"
+   ],
+   "pages": "V-XXIV",
+   "series": "BAR International Series",
+   "series_number": "1805",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Frischer B., Niccolucci F., Ryan N.S., Barceló J.A. 2002, *From CVR to CVRO: The past, present, and future of cultural Virtual Reality*, in F. Niccolucci (ed.), *Virtual Archaeology between Scientific Research and Territorial Marketing. Proceedings of the VAST EuroConference (Arezzo 2000)*, BAR International Series 1075, Oxford, Archaeopress, 7-18.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Frischer",
+     "given": "B."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Ryan",
+     "given": "N.S."
+    },
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    }
+   ],
+   "date": "2002",
+   "title": "From CVR to CVRO: The past, present, and future of cultural Virtual Reality",
+   "is_part_of": [
+    "Virtual Archaeology between Scientific Research and Territorial Marketing. Proceedings of the VAST EuroConference (Arezzo 2000)"
+   ],
+   "pages": "7-18",
+   "series": "BAR International Series",
+   "series_number": "1075",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Fund N., Schoueri K., Scheibler C. 2021, *Pure 3D: Technical Report*, Maastricht University (https://pure3d.eu/wpcontent/uploads).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Fund",
+     "given": "N."
+    },
+    {
+     "family": "Schoueri",
+     "given": "K."
+    },
+    {
+     "family": "Scheibler",
+     "given": "C."
+    }
+   ],
+   "date": "2021",
+   "title": "Pure 3D: Technical Report",
+   "publisher": "Maastricht University",
+   "uri": "https://pure3d.eu/wpcontent/uploads",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Garstki K. 2020, *Digital Innovations in European Archaeology*, Cambridge, Cambridge University Press (https://doi.org/10.1017/9781108881425).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Garstki",
+     "given": "K."
+    }
+   ],
+   "date": "2020",
+   "title": "Digital Innovations in European Archaeology",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "doi": "10.1017/9781108881425",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Gattiglia G. 2018, *La maternità e la paternità del dato archeologico. L'esempio del MOD (Mappa Open Data)*, in M. Arizza, V. Boi, A. Caravale, A. Palombini, A. Piergrossi (eds.), *I dati archeologici. Accessibilità, proprietà, disseminazione (Roma 2017)*, «Archeologia e Calcolatori», 29, 51-58 (https://doi.org/10.19282/ac.29.2018.06).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gattiglia",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Arizza",
+     "given": "M."
+    },
+    {
+     "family": "Boi",
+     "given": "V."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Palombini",
+     "given": "A."
+    },
+    {
+     "family": "Piergrossi",
+     "given": "A."
+    }
+   ],
+   "date": "2018",
+   "title": "La maternità e la paternità del dato archeologico. L'esempio del MOD (Mappa Open Data)",
+   "is_part_of": [
+    "I dati archeologici. Accessibilità, proprietà, disseminazione (Roma 2017)",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "29",
+   "pages": "51-58",
+   "doi": "10.19282/ac.29.2018.06",
+   "language": "ita",
+   "cited_aec_id": 992,
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Haynes I., Liverani P., Carboni F., Ravasi T., Kay S., Piro S., Morelli G. 2021, *Rome transformed: Interdisciplinary analysis of the Eastern Caelian (Rome)*, «Papers of the British School at Rome», 89, 342-346 (https://doi.org/10.1017/S0068246221000088).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Haynes",
+     "given": "I."
+    },
+    {
+     "family": "Liverani",
+     "given": "P."
+    },
+    {
+     "family": "Carboni",
+     "given": "F."
+    },
+    {
+     "family": "Ravasi",
+     "given": "T."
+    },
+    {
+     "family": "Kay",
+     "given": "S."
+    },
+    {
+     "family": "Piro",
+     "given": "S."
+    },
+    {
+     "family": "Morelli",
+     "given": "G."
+    }
+   ],
+   "date": "2021",
+   "title": "Rome transformed: Interdisciplinary analysis of the Eastern Caelian (Rome)",
+   "is_part_of": [
+    "Papers of the British School at Rome"
+   ],
+   "volume": "89",
+   "pages": "342-346",
+   "doi": "10.1017/S0068246221000088",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Hermon S., Niccolucci F., D'Andrea A. 2005, *Some evaluations on the potential impact of virtual reality on the archaeological scientific research*, in H. Thwaites (ed.), *VSMM2005. Proceedings of the Eleventh International Conference on Virtual Systems and Multimedia. Virtual Reality at Work in the 21st Century. Impact on Society*, Budapest, Archaeolingua, 1-9.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hermon",
+     "given": "S."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "D'Andrea",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Thwaites",
+     "given": "H."
+    }
+   ],
+   "date": "2005",
+   "title": "Some evaluations on the potential impact of virtual reality on the archaeological scientific research",
+   "is_part_of": [
+    "VSMM2005. Proceedings of the Eleventh International Conference on Virtual Systems and Multimedia. Virtual Reality at Work in the 21st Century. Impact on Society"
+   ],
+   "pages": "1-9",
+   "publisher": "Archaeolingua",
+   "place": "Budapest",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Hermon S., Niccolucci F., Ronzino P. 2012, *A metadata schema for Cultural Heritage documentation*, in V. Cappellini (ed.), *Electronic Imaging & the Visual Arts: EVA 2012 (Florence 2012)*, Firenze, Firenze University Press (https://doi.org/10.1400/187333, accessed on January 9, 2023), 36-41.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hermon",
+     "given": "S."
+    },
+    {
+     "family": "Niccolucci",
+     "given": "F."
+    },
+    {
+     "family": "Ronzino",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cappellini",
+     "given": "V."
+    }
+   ],
+   "date": "2012",
+   "title": "A metadata schema for Cultural Heritage documentation",
+   "is_part_of": [
+    "Electronic Imaging & the Visual Arts: EVA 2012 (Florence 2012)"
+   ],
+   "pages": "36-41",
+   "publisher": "Firenze University Press",
+   "place": "Firenze",
+   "doi": "10.1400/187333",
+   "language": "eng",
+   "xref": 11,
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Huggett J. 2015, *Challenging digital archaeology*, «Open Archaeology», 1, 1 (https://doi.org/10.1515/opar-2015-0003).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Huggett",
+     "given": "J."
+    }
+   ],
+   "date": "2015",
+   "title": "Challenging digital archaeology",
+   "is_part_of": [
+    "Open Archaeology"
+   ],
+   "volume": "1",
+   "issue": "1",
+   "doi": "10.1515/opar-2015-0003",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Ioannides M., Fritsch D., Leissner J., Davies R., Remondino F., Caffo R. (eds.) 2012, *Progress in Cultural Heritage Preservation: 4th International Conference, EuroMed 2012 (Limassol, Cyprus 2012)*, vol. 7616, Lecture Notes in Computer Science, Berlin-Heidelberg, Springer (https://doi.org/10.1007/978-3-642-34234-9).",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Ioannides",
+     "given": "M."
+    },
+    {
+     "family": "Fritsch",
+     "given": "D."
+    },
+    {
+     "family": "Leissner",
+     "given": "J."
+    },
+    {
+     "family": "Davies",
+     "given": "R."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Caffo",
+     "given": "R."
+    }
+   ],
+   "date": "2012",
+   "title": "Progress in Cultural Heritage Preservation: 4th International Conference, EuroMed 2012 (Limassol, Cyprus 2012)",
+   "series": "Lecture Notes in Computer Science",
+   "series_number": "7616",
+   "publisher": "Springer",
+   "place": "Berlin-Heidelberg",
+   "doi": "10.1007/978-3-642-34234-9",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Jones N. 2018, *How to stop data centres from gobbling up the world's electricity*, «Nature», 561 (7722), 163-166 (https://doi.org/10.1038/d41586-018-06610-y).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Jones",
+     "given": "N."
+    }
+   ],
+   "date": "2018",
+   "title": "How to stop data centres from gobbling up the world's electricity",
+   "is_part_of": [
+    "Nature"
+   ],
+   "volume": "561",
+   "issue": "7722",
+   "pages": "163-166",
+   "doi": "10.1038/d41586-018-06610-y",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Kansa E. 2012, *Openness and archaeology's information ecosystem*, «World Archaeology», 44, 4, 498-520 (https://doi.org/10.1080/00438243.2012.737575).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kansa",
+     "given": "E."
+    }
+   ],
+   "date": "2012",
+   "title": "Openness and archaeology's information ecosystem",
+   "is_part_of": [
+    "World Archaeology"
+   ],
+   "volume": "44",
+   "issue": "4",
+   "pages": "498-520",
+   "doi": "10.1080/00438243.2012.737575",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Kassel K., Rimanoczy I., Mitchell S.F. 2018, *A sustainability mindset model for management education*, in K. Kassel, I. Rimanoczy (eds.), *Developing a sustainability mindset in management education*, London, Routledge, 3-37.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kassel",
+     "given": "K."
+    },
+    {
+     "family": "Rimanoczy",
+     "given": "I."
+    },
+    {
+     "family": "Mitchell",
+     "given": "S.F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Kassel",
+     "given": "K."
+    },
+    {
+     "family": "Rimanoczy",
+     "given": "I."
+    }
+   ],
+   "date": "2018",
+   "title": "A sustainability mindset model for management education",
+   "is_part_of": [
+    "Developing a sustainability mindset in management education"
+   ],
+   "pages": "3-37",
+   "publisher": "Routledge",
+   "place": "London",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Koller D., Frischer B., Humphreys G. 2009, *Research challenges for digital archives of 3D Cultural Heritage models*, «Journal on Computing and Cultural Heritage», 2, 3, 1-17 (https://doi.org/10.1145/1658346.1658347).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Koller",
+     "given": "D."
+    },
+    {
+     "family": "Frischer",
+     "given": "B."
+    },
+    {
+     "family": "Humphreys",
+     "given": "G."
+    }
+   ],
+   "date": "2009",
+   "title": "Research challenges for digital archives of 3D Cultural Heritage models",
+   "is_part_of": [
+    "Journal on Computing and Cultural Heritage"
+   ],
+   "volume": "2",
+   "issue": "3",
+   "pages": "1-17",
+   "doi": "10.1145/1658346.1658347",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Kuroczyński P. 2017, *Virtual research environment for digital 3D reconstructions. Standards, thresholds and prospects*, «Studies in Digital Heritage», 1, 2, 456-476 (https://doi.org/10.14434/sdh.v1i2.23330).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kuroczyński",
+     "given": "P."
+    }
+   ],
+   "date": "2017",
+   "title": "Virtual research environment for digital 3D reconstructions. Standards, thresholds and prospects",
+   "is_part_of": [
+    "Studies in Digital Heritage"
+   ],
+   "volume": "1",
+   "issue": "2",
+   "pages": "456-476",
+   "doi": "10.14434/sdh.v1i2.23330",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Kuroczyński P., Hauck B.O., Dworak D. 2014, *Digital reconstruction of Cultural Heritage. Questions of documentation and visualisation standards for 3D content*, in *Digital Heritage. Progress in Cultural Heritage: Documentation, Preservation and Protection, 5th International Conference, EuroMed (Limassol, Cyprus 2014)*.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Kuroczyński",
+     "given": "P."
+    },
+    {
+     "family": "Hauck",
+     "given": "B.O."
+    },
+    {
+     "family": "Dworak",
+     "given": "D."
+    }
+   ],
+   "date": "2014",
+   "title": "Digital reconstruction of Cultural Heritage. Questions of documentation and visualisation standards for 3D content",
+   "is_part_of": [
+    "Digital Heritage. Progress in Cultural Heritage: Documentation, Preservation and Protection, 5th International Conference, EuroMed (Limassol, Cyprus 2014)"
+   ],
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Meghini C., Scopigno R., Richards J., Wright H., Geser G., Cuy S., Fihn J. *et al.* 2017, *ARIADNE: A research infrastructure for archaeology*, «Journal on Computing and Cultural Heritage», 10, 3, 1-27 (https://doi.org/10.1145/3064527).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Meghini",
+     "given": "C."
+    },
+    {
+     "family": "Scopigno",
+     "given": "R."
+    },
+    {
+     "family": "Richards",
+     "given": "J."
+    },
+    {
+     "family": "Wright",
+     "given": "H."
+    },
+    {
+     "family": "Geser",
+     "given": "G."
+    },
+    {
+     "family": "Cuy",
+     "given": "S."
+    },
+    {
+     "family": "Fihn",
+     "given": "J."
+    }
+   ],
+   "date": "2017",
+   "title": "ARIADNE: A research infrastructure for archaeology",
+   "is_part_of": [
+    "Journal on Computing and Cultural Heritage"
+   ],
+   "volume": "10",
+   "issue": "3",
+   "pages": "1-27",
+   "doi": "10.1145/3064527",
+   "language": "eng",
+   "notes": "et al. after the 7th author",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Muenster S. 2022, *Digital 3D technologies for Humanities research and education: An overview*, «Applied Sciences», 12, 5, 2426 (https://doi.org/10.3390/app12052426).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Muenster",
+     "given": "S."
+    }
+   ],
+   "date": "2022",
+   "title": "Digital 3D technologies for Humanities research and education: An overview",
+   "is_part_of": [
+    "Applied Sciences"
+   ],
+   "volume": "12",
+   "issue": "5",
+   "pages": "2426",
+   "doi": "10.3390/app12052426",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Pittman L.D. 2020, *Combatting copyright overreach: Keeping 3D representations of Cultural Heritage in the public domain*, «New York University Law Review», 95, 1192.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pittman",
+     "given": "L.D."
+    }
+   ],
+   "date": "2020",
+   "title": "Combatting copyright overreach: Keeping 3D representations of Cultural Heritage in the public domain",
+   "is_part_of": [
+    "New York University Law Review"
+   ],
+   "volume": "95",
+   "pages": "1192",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Potts A. 2021, *European Cultural Heritage Green Paper \"Putting Europe's Shared Heritage at the Heart of the European Green Deal\"*, Europa Nostra, The Hague & Brussel.",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Potts",
+     "given": "A."
+    }
+   ],
+   "date": "2021",
+   "title": "European Cultural Heritage Green Paper \"Putting Europe's Shared Heritage at the Heart of the European Green Deal\"",
+   "publisher": "Europa Nostra",
+   "place": "The Hague & Brussel",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Richards J.D. 2021, *Archiving archaeological data in the United Kingdom*, «Internet Archaeology», 58 (https://doi.org/10.11141/ia.58.21).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Richards",
+     "given": "J.D."
+    }
+   ],
+   "date": "2021",
+   "title": "Archiving archaeological data in the United Kingdom",
+   "is_part_of": [
+    "Internet Archaeology"
+   ],
+   "volume": "58",
+   "doi": "10.11141/ia.58.21",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Rimanoczy I. 2021, *The Sustainability Mindset Principles: A Guide to Develop a Mindset for a Better World*, The Principles for Responsible Management Education Series, London-New York, Routledge.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rimanoczy",
+     "given": "I."
+    }
+   ],
+   "date": "2021",
+   "title": "The Sustainability Mindset Principles: A Guide to Develop a Mindset for a Better World",
+   "series": "The Principles for Responsible Management Education Series",
+   "publisher": "Routledge",
+   "place": "London-New York",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Sandron D., Tallon A. 2013, *Notre-Dame de Paris: neuf siècles d'histoire*, Paris, Parigramme.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sandron",
+     "given": "D."
+    },
+    {
+     "family": "Tallon",
+     "given": "A."
+    }
+   ],
+   "date": "2013",
+   "title": "Notre-Dame de Paris: neuf siècles d'histoire",
+   "publisher": "Parigramme",
+   "place": "Paris",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Scopigno R., Callieri M., Dellepiane M., Ponchio F., Potenziani M. 2017, *Delivering and using 3D models on the web: Are we ready?*, «Virtual Archaeology Review», 8, 17, 1 (https://doi.org/10.4995/var.2017.6405).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Scopigno",
+     "given": "R."
+    },
+    {
+     "family": "Callieri",
+     "given": "M."
+    },
+    {
+     "family": "Dellepiane",
+     "given": "M."
+    },
+    {
+     "family": "Ponchio",
+     "given": "F."
+    },
+    {
+     "family": "Potenziani",
+     "given": "M."
+    }
+   ],
+   "date": "2017",
+   "title": "Delivering and using 3D models on the web: Are we ready?",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "volume": "8",
+   "issue": "17",
+   "pages": "1",
+   "doi": "10.4995/var.2017.6405",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Sicilia M.-A., García-Barriocanal E., Sánchez-Alonso S. 2017, *Community curation in open dataset repositories: Insights from Zenodo*, «Procedia Computer Science», 106, 54-60 (https://doi.org/10.1016/j.procs.2017.03.009).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Sicilia",
+     "given": "M.-A."
+    },
+    {
+     "family": "García-Barriocanal",
+     "given": "E."
+    },
+    {
+     "family": "Sánchez-Alonso",
+     "given": "S."
+    }
+   ],
+   "date": "2017",
+   "title": "Community curation in open dataset repositories: Insights from Zenodo",
+   "is_part_of": [
+    "Procedia Computer Science"
+   ],
+   "volume": "106",
+   "pages": "54-60",
+   "doi": "10.1016/j.procs.2017.03.009",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Soriano F. 2022, *Desenzano, Villa romana, Rilievo fotogrammetrico*, Zenodo (https://doi.org/10.5281/ZENODO.6007431).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Soriano",
+     "given": "F."
+    }
+   ],
+   "date": "2022",
+   "title": "Desenzano, Villa romana, Rilievo fotogrammetrico",
+   "publisher": "Zenodo",
+   "doi": "10.5281/ZENODO.6007431",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "Tallon A. 2014, *Divining proportions in the information age*, «Architectural Histories», 2, 1, 15 (https://doi.org/10.5334/ah.bo).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tallon",
+     "given": "A."
+    }
+   ],
+   "date": "2014",
+   "title": "Divining proportions in the information age",
+   "is_part_of": [
+    "Architectural Histories"
+   ],
+   "volume": "2",
+   "issue": "1",
+   "pages": "15",
+   "doi": "10.5334/ah.bo",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "Thwaites H. 2013, *Digital Heritage: What happens when we digitize everything?*, in E. Ch'ng, V. Gaffney, H. Chapman (eds.), *Visual Heritage in the Digital Age*, Springer Series on Cultural Computing, London, Springer, 327-348 (https://doi.org/10.1007/978-1-4471-5535-5_17).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Thwaites",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Ch'ng",
+     "given": "E."
+    },
+    {
+     "family": "Gaffney",
+     "given": "V."
+    },
+    {
+     "family": "Chapman",
+     "given": "H."
+    }
+   ],
+   "date": "2013",
+   "title": "Digital Heritage: What happens when we digitize everything?",
+   "is_part_of": [
+    "Visual Heritage in the Digital Age"
+   ],
+   "pages": "327-348",
+   "series": "Springer Series on Cultural Computing",
+   "publisher": "Springer",
+   "place": "London",
+   "doi": "10.1007/978-1-4471-5535-5_17",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 49,
+   "raw": "Wilkinson M.D., Dumontier M., Aalbersberg I.J., Appleton G., Axton M., Baak A., Blomberg N. *et al.* 2016, *The FAIR Guiding Principles for Scientific Data Management and Stewardship*, «Scientific Data» 3, 1, 160018 (https://doi.org/10.1038/sdata.2016.18).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wilkinson",
+     "given": "M.D."
+    },
+    {
+     "family": "Dumontier",
+     "given": "M."
+    },
+    {
+     "family": "Aalbersberg",
+     "given": "I.J."
+    },
+    {
+     "family": "Appleton",
+     "given": "G."
+    },
+    {
+     "family": "Axton",
+     "given": "M."
+    },
+    {
+     "family": "Baak",
+     "given": "A."
+    },
+    {
+     "family": "Blomberg",
+     "given": "N."
+    }
+   ],
+   "date": "2016",
+   "title": "The FAIR Guiding Principles for Scientific Data Management and Stewardship",
+   "is_part_of": [
+    "Scientific Data"
+   ],
+   "volume": "3",
+   "issue": "1",
+   "doi": "10.1038/sdata.2016.18",
+   "language": "eng",
+   "notes": "et al. after the 7th author; 160018 is the article number",
+   "confidence": "high"
+  }
+ ]
+}

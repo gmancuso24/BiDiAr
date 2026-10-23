@@ -1,0 +1,401 @@
+{
+ "citing_aec_id": 1146,
+ "source_file": "data/journal/32/1146.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "*Aristidis Quintiliani De musica libri tres*, edidit R.P. Winnington-Ingram, Leipzig 1963, Teubner.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Winnington-Ingram",
+     "given": "R.P."
+    }
+   ],
+   "date": "1963",
+   "title": "Aristidis Quintiliani De musica libri tres",
+   "publisher": "Teubner",
+   "place": "Leipzig",
+   "language": "lat",
+   "notes": "ancient author Aristides Quintilianus not given as creator in the citation",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bakogiannis K., Polychronopoulos S., Marini D., Kouroupetroglou G. 2020, *ENTROTUNER: A computational method adopting the musician's interaction with the instrument to estimate its tuning*, «IEEE Access», 8, 53185-53195 (https://doi.org/10.1109/ACCESS.2020.2981007).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bakogiannis",
+     "given": "K."
+    },
+    {
+     "family": "Polychronopoulos",
+     "given": "S."
+    },
+    {
+     "family": "Marini",
+     "given": "D."
+    },
+    {
+     "family": "Kouroupetroglou",
+     "given": "G."
+    }
+   ],
+   "date": "2020",
+   "title": "ENTROTUNER: A computational method adopting the musician's interaction with the instrument to estimate its tuning",
+   "is_part_of": [
+    "IEEE Access"
+   ],
+   "volume": "8",
+   "pages": "53185-53195",
+   "language": "eng",
+   "doi": "10.1109/ACCESS.2020.2981007",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bélis A. 1984, *Auloi grecs du Louvre*, «Bulletin de Correspondance Hellénique», 108, 111-122.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bélis",
+     "given": "A."
+    }
+   ],
+   "date": "1984",
+   "title": "Auloi grecs du Louvre",
+   "is_part_of": [
+    "Bulletin de Correspondance Hellénique"
+   ],
+   "volume": "108",
+   "pages": "111-122",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bodley N.B. 1946, *The auloi of Meroë: A study of the Greek-Egyptian auloi found at Meroë, Egypt*, «American Journal of Archaeology», 50, 217-240.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bodley",
+     "given": "N.B."
+    }
+   ],
+   "date": "1946",
+   "title": "The auloi of Meroë: A study of the Greek-Egyptian auloi found at Meroë, Egypt",
+   "is_part_of": [
+    "American Journal of Archaeology"
+   ],
+   "volume": "50",
+   "pages": "217-240",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Gänsicke S., Hagel S. 2017, *The auloi from Meroë: Preliminary notes on the conservation, technical examination, and interpretation of a cache of ancient musical instruments*, in J.M. Daehner, K. Lapatin, A. Spinelli (eds.), Artistry in Bronze: The Greeks and Their Legacy. XIXth International Congress on Ancient Bronzes, Los Angeles, Getty Publications, 381-388.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Gänsicke",
+     "given": "S."
+    },
+    {
+     "family": "Hagel",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Daehner",
+     "given": "J.M."
+    },
+    {
+     "family": "Lapatin",
+     "given": "K."
+    },
+    {
+     "family": "Spinelli",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "The auloi from Meroë: Preliminary notes on the conservation, technical examination, and interpretation of a cache of ancient musical instruments",
+   "is_part_of": [
+    "Artistry in Bronze: The Greeks and Their Legacy. XIXth International Congress on Ancient Bronzes"
+   ],
+   "pages": "381-388",
+   "publisher": "Getty Publications",
+   "place": "Los Angeles",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Hagel S. 2004, *Calculating auloi: The Louvre aulos scale*, in E. Hickmann, R. Eichmann (eds.), Studien zur Musikarchäologie IV, Orient Archäologie, 4, 15, 373-390.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hagel",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Hickmann",
+     "given": "E."
+    },
+    {
+     "family": "Eichmann",
+     "given": "R."
+    }
+   ],
+   "date": "2004",
+   "title": "Calculating auloi: The Louvre aulos scale",
+   "is_part_of": [
+    "Studien zur Musikarchäologie IV"
+   ],
+   "pages": "373-390",
+   "series": "Orient Archäologie",
+   "series_number": "15",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Hagel S. 2008, *Re-evaluating the Pompeii auloi*, «The Journal of Hellenic Studies», 128, 52-71.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Hagel",
+     "given": "S."
+    }
+   ],
+   "date": "2008",
+   "title": "Re-evaluating the Pompeii auloi",
+   "is_part_of": [
+    "The Journal of Hellenic Studies"
+   ],
+   "volume": "128",
+   "pages": "52-71",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Hagel S. 2009, *Ancient Greek Music: A New Technical History*, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hagel",
+     "given": "S."
+    }
+   ],
+   "date": "2009",
+   "title": "Ancient Greek Music: A New Technical History",
+   "publisher": "Cambridge University Press",
+   "place": "Cambridge",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Hagel S. 2010, *Understanding the Aulos Berlin Egyptian Museum 12461/12462*, in Studien zur Musikarchäologie VII, Orient Archäologie, 7, 25, 67-87.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hagel",
+     "given": "S."
+    }
+   ],
+   "date": "2010",
+   "title": "Understanding the Aulos Berlin Egyptian Museum 12461/12462",
+   "is_part_of": [
+    "Studien zur Musikarchäologie VII"
+   ],
+   "pages": "67-87",
+   "series": "Orient Archäologie",
+   "series_number": "25",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Hagel S. 2012, *The Pompeii auloi: Improved data and a hitherto unknown mechanism*, in Studien zur Musikarchäologie VIII, Orient Archäologie, 8, 27, 103-114.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hagel",
+     "given": "S."
+    }
+   ],
+   "date": "2012",
+   "title": "The Pompeii auloi: Improved data and a hitherto unknown mechanism",
+   "is_part_of": [
+    "Studien zur Musikarchäologie VIII"
+   ],
+   "pages": "103-114",
+   "series": "Orient Archäologie",
+   "series_number": "27",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Hagel S. 2014, *Better understanding the Louvre aulos*, in Studien zur Musikarchäologie IX, Orient Archäologie, 9, 33, 131-142.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hagel",
+     "given": "S."
+    }
+   ],
+   "date": "2014",
+   "title": "Better understanding the Louvre aulos",
+   "is_part_of": [
+    "Studien zur Musikarchäologie IX"
+   ],
+   "pages": "131-142",
+   "series": "Orient Archäologie",
+   "series_number": "33",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Hagel S. 2019, *Reconstructing the auloi from Queen Amanishakheto's Pyramid*, in Studien zur Musikarchäologie XI, Orient Archäologie, 11, 40, 177-197.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hagel",
+     "given": "S."
+    }
+   ],
+   "date": "2019",
+   "title": "Reconstructing the auloi from Queen Amanishakheto's Pyramid",
+   "is_part_of": [
+    "Studien zur Musikarchäologie XI"
+   ],
+   "pages": "177-197",
+   "series": "Orient Archäologie",
+   "series_number": "40",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Hagel S. 2020, *Understanding early auloi: Instruments from Paestum, Pydna and elsewhere*, in G. Zuchtriegel, A. Meriani (eds.), La tomba del Tuffatore: rito, arte e poesia a Paestum e nel Mediterraneo d'epoca tardo-arcaica, Pisa, ETS, 421-459.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Hagel",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Zuchtriegel",
+     "given": "G."
+    },
+    {
+     "family": "Meriani",
+     "given": "A."
+    }
+   ],
+   "date": "2020",
+   "title": "Understanding early auloi: Instruments from Paestum, Pydna and elsewhere",
+   "is_part_of": [
+    "La tomba del Tuffatore: rito, arte e poesia a Paestum e nel Mediterraneo d'epoca tardo-arcaica"
+   ],
+   "pages": "421-459",
+   "publisher": "ETS",
+   "place": "Pisa",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Litvinsky B.A. 1999, *греческие флейты (авлосы) в глубинной азии (Greek flutes (auloi) in Central Asia)*, in J. Duchesne-Guillemin (ed.), Monumentum Marcelle Duchesne-Guillemin, «Acta Iranica», 3, 19, 517-543.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Litvinsky",
+     "given": "B.A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Duchesne-Guillemin",
+     "given": "J."
+    }
+   ],
+   "date": "1999",
+   "title": "греческие флейты (авлосы) в глубинной азии (Greek flutes (auloi) in Central Asia)",
+   "is_part_of": [
+    "Monumentum Marcelle Duchesne-Guillemin"
+   ],
+   "pages": "517-543",
+   "series": "Acta Iranica",
+   "series_number": "3, 19",
+   "language": "rus",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Litvinsky B.A. 2010, *Храм Окса в Бактрии, 3: Искусство, Художественное ремесло, Музыкальньие инструменты (The Temple of Oxus in Bactria. 3: Art, Fine art, Musical Instruments)*, Moscow, Vostochnaya Literatura.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Litvinsky",
+     "given": "B.A."
+    }
+   ],
+   "date": "2010",
+   "title": "Храм Окса в Бактрии, 3: Искусство, Художественное ремесло, Музыкальньие инструменты (The Temple of Oxus in Bactria. 3: Art, Fine art, Musical Instruments)",
+   "publisher": "Vostochnaya Literatura",
+   "place": "Moscow",
+   "language": "rus",
+   "notes": "title as cited (Cyrillic typo \"Музыкальньие\")",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Terzēs C. 2020, *Musical instruments of Greek and Roman antiquity*, in A Companion to Ancient Greek and Roman Music, John Wiley & Sons, Ltd, 213-227.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Terzēs",
+     "given": "C."
+    }
+   ],
+   "date": "2020",
+   "title": "Musical instruments of Greek and Roman antiquity",
+   "is_part_of": [
+    "A Companion to Ancient Greek and Roman Music"
+   ],
+   "pages": "213-227",
+   "publisher": "John Wiley & Sons, Ltd",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "West M.L. 1992, *Ancient Greek Music*, Oxford, Oxford University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "West",
+     "given": "M.L."
+    }
+   ],
+   "date": "1992",
+   "title": "Ancient Greek Music",
+   "publisher": "Oxford University Press",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

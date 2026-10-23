@@ -1,0 +1,1200 @@
+{
+ "citing_aec_id": 525,
+ "source_file": "data/journal/20/525.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Albeni M. 2008, ES 8905. La frequentazione dell’Ambiente C. Analisi dei materiali datanti, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Albeni",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "ES 8905. La frequentazione dell'Ambiente C. Analisi dei materiali datanti",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bacchetta A. 2008, La Domus del Labirinto, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bacchetta",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "La Domus del Labirinto",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bacchetta A. 2009, Scavi e ricerche a Calvatone romana: il “Quartiere degli Artigiani” (scavi 2005-2007), «Lanx. Rivista della Scuola di Specializzazione in Archeologia - Università degli Studi di Milano», 2, 169-183.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bacchetta",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "Scavi e ricerche a Calvatone romana: il \"Quartiere degli Artigiani\" (scavi 2005-2007)",
+   "is_part_of": [
+    "Lanx. Rivista della Scuola di Specializzazione in Archeologia - Università degli Studi di Milano"
+   ],
+   "language": "ita",
+   "volume": "2",
+   "pages": "169-183",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bacchetta A. c.s., Calvatone (CR), Costa di S. Andrea - Area di proprietà provinciale. Un nuovo mosaico dal vicus di Bedriacum, «Lanx. Rivista della Scuola di Specializzazione in Archeologia - Università degli Studi di Milano», in corso di stampa.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Bacchetta",
+     "given": "A."
+    }
+   ],
+   "date": "2009",
+   "title": "Calvatone (CR), Costa di S. Andrea - Area di proprietà provinciale. Un nuovo mosaico dal vicus di Bedriacum",
+   "is_part_of": [
+    "Lanx. Rivista della Scuola di Specializzazione in Archeologia - Università degli Studi di Milano"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "resolved",
+    "source": "https://test-ojs-unimi-it.archicoop.it/index.php/lanx/en/article/view/375"
+   },
+   "notes": "c.s. resolved: Lanx 3, 2009, pp. 63-71 (same author, title, journal)",
+   "volume": "3",
+   "pages": "63-71",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Benedetti D. 2008a, La Domus delle Esagonelle, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Benedetti",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "La Domus delle Esagonelle",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Benedetti D. 2008b, ES 9013. Il piano in pezzame laterizio, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Benedetti",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "ES 9013. Il piano in pezzame laterizio",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Burenhult G., Arvidsson J. (eds.) 2002, Archaeological Informatics: Pushing the Envelope. CAA 2001 (Gotland), BAR International Series 1016, Oxford, Archaeopress.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    },
+    {
+     "family": "Arvidsson",
+     "given": "J."
+    }
+   ],
+   "date": "2002",
+   "title": "Archaeological Informatics: Pushing the Envelope. CAA 2001 (Gotland)",
+   "series": "BAR International Series",
+   "series_number": "1016",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Bursich D. 2008, Un contesto moderno: analisi dei materiali per la definizione di un orizzonte cronologico e delle più recenti attività nell’area di proprietà provinciale, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bursich",
+     "given": "D."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "Un contesto moderno: analisi dei materiali per la definizione di un orizzonte cronologico e delle più recenti attività nell'area di proprietà provinciale",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Calvatone-Bedriacum 2008, M.T. Grassi (ed.), Calvatone-Bedriacum. I nuovi scavi nell’area della Domus del Labirinto (2001-2006), Milano, DVD.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)",
+   "place": "Milano",
+   "language": "ita",
+   "notes": "DVD",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Calvatone romana 1991, G.M. Facchini (ed.), Calvatone romana. Studi e ricerche preliminari, Quaderni di Acme 13, Milano.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Facchini",
+     "given": "G.M."
+    }
+   ],
+   "date": "1991",
+   "title": "Calvatone romana. Studi e ricerche preliminari",
+   "series": "Quaderni di Acme",
+   "series_number": "13",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Calvatone romana 1997, G. Sena Chiesa, S. Masseroli, T. Medici, M. Volonté (eds.), Calvatone Romana. Un pozzo e il suo contesto. Saggio nella zona nord dell’area di proprietà provinciale, Quaderni di Acme 29, Milano.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Sena Chiesa",
+     "given": "G."
+    },
+    {
+     "family": "Masseroli",
+     "given": "S."
+    },
+    {
+     "family": "Medici",
+     "given": "T."
+    },
+    {
+     "family": "Volonté",
+     "given": "M."
+    }
+   ],
+   "date": "1997",
+   "title": "Calvatone Romana. Un pozzo e il suo contesto. Saggio nella zona nord dell'area di proprietà provinciale",
+   "series": "Quaderni di Acme",
+   "series_number": "29",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Cerutti A. 2008, ES 9301. Una fossa di scarico, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Cerutti",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "ES 9301. Una fossa di scarico",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Clarke J. 2002, Questions raised by electronic publication in archaeology, in Burenhult, Arvidsson 2002, 351-355.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Clarke",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Burenhult",
+     "given": "G."
+    },
+    {
+     "family": "Arvidsson",
+     "given": "J."
+    }
+   ],
+   "date": "2002",
+   "title": "Questions raised by electronic publication in archaeology",
+   "is_part_of": [
+    "Archaeological Informatics: Pushing the Envelope. CAA 2001 (Gotland)"
+   ],
+   "pages": "351-355",
+   "series": "BAR International Series",
+   "series_number": "1016",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "xref": 7,
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Corsano M. 1991, Le fonti antiche, in Calvatone romana 1991, 51-59.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Corsano",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Facchini",
+     "given": "G.M."
+    }
+   ],
+   "date": "1991",
+   "title": "Le fonti antiche",
+   "is_part_of": [
+    "Calvatone romana. Studi e ricerche preliminari"
+   ],
+   "pages": "51-59",
+   "series": "Quaderni di Acme",
+   "series_number": "13",
+   "place": "Milano",
+   "language": "ita",
+   "xref": 10,
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Crisà A., Le monete, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Crisà",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "Le monete",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "low",
+   "notes": "no year in the citation ('Crisà A., Le monete, in Calvatone-Bedriacum 2008'): 2008 taken from the container"
+  },
+  {
+   "position": 16,
+   "raw": "Forte M. 2000, Comunicazione archeologica, in R. Francovich, D. Manacorda (eds.), Dizionario di archeologia, Roma-Bari, Laterza, 75-80.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Francovich",
+     "given": "R."
+    },
+    {
+     "family": "Manacorda",
+     "given": "D."
+    }
+   ],
+   "date": "2000",
+   "title": "Comunicazione archeologica",
+   "is_part_of": [
+    "Dizionario di archeologia"
+   ],
+   "pages": "75-80",
+   "publisher": "Laterza",
+   "place": "Roma-Bari",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Grassi M.T. 2007, Calvatone (CR). Località Costa di S. Andrea, area di proprietà provinciale. Vicus di età romana: la fase pre-Labirinto e l’ambiente 2005, «Notiziario della Soprintendenza per i Beni Archeologici della Lombardia», 2005, 109-116.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2007",
+   "title": "Calvatone (CR). Località Costa di S. Andrea, area di proprietà provinciale. Vicus di età romana: la fase pre-Labirinto e l'ambiente 2005",
+   "is_part_of": [
+    "Notiziario della Soprintendenza per i Beni Archeologici della Lombardia"
+   ],
+   "language": "ita",
+   "notes": "'2005' = year of the Notiziario issue",
+   "volume": "2005",
+   "pages": "109-116",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Grassi M.T. 2008a, La ceramica a vernice nera di Calvatone-Bedriacum, Flos Italiae. Documenti di archeologia della Cisalpina Romana, 7, Firenze.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "La ceramica a vernice nera di Calvatone-Bedriacum",
+   "series": "Flos Italiae. Documenti di archeologia della Cisalpina Romana",
+   "series_number": "7",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Grassi M.T. 2008b, Introduzione. Dal Labirinto all’olla “tipo Calvatone”, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "Introduzione. Dal Labirinto all'olla \"tipo Calvatone\"",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Grassi M.T. 2008c, Calvatone (CR). Località Costa di S. Andrea, area di proprietà provinciale. Vicus di età romana: scavi oltre la Domus del Labirinto e nel Quartiere degli Artigiani, «Notiziario della Soprintendenza per i Beni Archeologici della Lombardia», 2006-2007, 73-81.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "Calvatone (CR). Località Costa di S. Andrea, area di proprietà provinciale. Vicus di età romana: scavi oltre la Domus del Labirinto e nel Quartiere degli Artigiani",
+   "is_part_of": [
+    "Notiziario della Soprintendenza per i Beni Archeologici della Lombardia"
+   ],
+   "language": "ita",
+   "notes": "'2006-2007' = years of the Notiziario issue",
+   "volume": "2006-2007",
+   "pages": "73-81",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Guermandi M.P. 2000, L’archeologia in rete. Internet e Multimedia, «Archeologia e Calcolatori», 11, 391-395.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "2000",
+   "title": "L'archeologia in rete. Internet e Multimedia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "cited_aec_id": 311,
+   "volume": "11",
+   "pages": "391-395",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Guermandi M.P. 2003, Internet e Multimedia, «Archeologia e Calcolatori», 14, 336-339.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "2003",
+   "title": "Internet e Multimedia",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "cited_aec_id": 366,
+   "volume": "14",
+   "pages": "336-339",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Guermandi M.P. 2004, Nuovi linguaggi e “vecchie tecnologie”: comunicare la conoscenza archeologica attraverso la rete, «Archeologia e Calcolatori», 15, 483-496.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guermandi",
+     "given": "M.P."
+    }
+   ],
+   "date": "2004",
+   "title": "Nuovi linguaggi e \"vecchie tecnologie\": comunicare la conoscenza archeologica attraverso la rete",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "cited_aec_id": 396,
+   "volume": "15",
+   "pages": "483-496",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Lorenzi J. 1996, Il territorio di Calvatone in epoca preistorica, in Passi Pitcher 1996, 1,1, 45-54.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lorenzi",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Passi Pitcher",
+     "given": "L."
+    }
+   ],
+   "date": "1996",
+   "title": "Il territorio di Calvatone in epoca preistorica",
+   "is_part_of": [
+    "Bedriacum. Ricerche archeologiche a Calvatone"
+   ],
+   "volume": "1",
+   "issue": "1",
+   "pages": "45-54",
+   "publisher": "Edizioni Et",
+   "place": "Milano",
+   "language": "ita",
+   "xref": 34,
+   "notes": "volume cited '1,1'",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Manacorda D., Caravale A., Laudando M.T., Zanini E. 2001, Il mondo dell’archeologia. Storia, metodi, protagonisti, Roma, Istituto della Enciclopedia Italiana Treccani, CD-ROM.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Manacorda",
+     "given": "D."
+    },
+    {
+     "family": "Caravale",
+     "given": "A."
+    },
+    {
+     "family": "Laudando",
+     "given": "M.T."
+    },
+    {
+     "family": "Zanini",
+     "given": "E."
+    }
+   ],
+   "date": "2001",
+   "title": "Il mondo dell'archeologia. Storia, metodi, protagonisti",
+   "publisher": "Istituto della Enciclopedia Italiana Treccani",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "CD-ROM",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Mirabella Roberti M. 1972, Scavi a Bedriacum, in Archeologia e storia nella Lombardia padana. Bedriacum nel XIX centenario delle battaglie. Atti del Convegno (Villa Monastero di Varenna, Lago di Como 1969), Como, 103-122.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mirabella Roberti",
+     "given": "M."
+    }
+   ],
+   "date": "1972",
+   "title": "Scavi a Bedriacum",
+   "is_part_of": [
+    "Archeologia e storia nella Lombardia padana. Bedriacum nel XIX centenario delle battaglie. Atti del Convegno (Villa Monastero di Varenna, Lago di Como 1969)"
+   ],
+   "pages": "103-122",
+   "place": "Como",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Nava S. 2008, ES 9116. Un cumulo di macerie dopo la fase residenziale, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Nava",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "ES 9116. Un cumulo di macerie dopo la fase residenziale",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Orsenigo C. 2008a, La media età imperiale: rinnovamento e trasformazione, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Orsenigo",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "La media età imperiale: rinnovamento e trasformazione",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Orsenigo C. 2008b, L’olla tipo Calvatone, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Orsenigo",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "L'olla tipo Calvatone",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Orsenigo C. 2008c, ES 8908. Il crollo dell’Ambiente C, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Orsenigo",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "ES 8908. Il crollo dell'Ambiente C",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Ossorio F. 2008a, I contesti nella Domus del Labirinto: osservazioni generali, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ossorio",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "I contesti nella Domus del Labirinto: osservazioni generali",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Ossorio F. 2008b, ES 9226. Il riempimento del pozzo, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ossorio",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "ES 9226. Il riempimento del pozzo",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Palmieri L. 2008, ES 9228. Una fossa rituale nella Domus del Focolare, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Palmieri",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "ES 9228. Una fossa rituale nella Domus del Focolare",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Passi Pitcher L. 1996 (ed.), Bedriacum. Ricerche archeologiche a Calvatone, Milano, Edizioni Et.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Passi Pitcher",
+     "given": "L."
+    }
+   ],
+   "date": "1996",
+   "title": "Bedriacum. Ricerche archeologiche a Calvatone",
+   "publisher": "Edizioni Et",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Passi Pitcher L., Finzi E., Sena Chiesa G. 1987, Calvatone (Cremona). Programma di ricerche nel “vicus”. Studio geomorfologico e geofisico. Piano di intervento, «Notiziario della Soprintendenza Archeologica della Lombardia», 1986, 223-225.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Passi Pitcher",
+     "given": "L."
+    },
+    {
+     "family": "Finzi",
+     "given": "E."
+    },
+    {
+     "family": "Sena Chiesa",
+     "given": "G."
+    }
+   ],
+   "date": "1987",
+   "title": "Calvatone (Cremona). Programma di ricerche nel \"vicus\". Studio geomorfologico e geofisico. Piano di intervento",
+   "is_part_of": [
+    "Notiziario della Soprintendenza Archeologica della Lombardia"
+   ],
+   "language": "ita",
+   "notes": "'1986' = year of the Notiziario issue",
+   "volume": "1986",
+   "pages": "223-225",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Ravasi T. 2008, Prima frequentazione dell’area e impianto degli edifici residenziali, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ravasi",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "Prima frequentazione dell'area e impianto degli edifici residenziali",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Romagnolo M. 2008, ES 8904, ES 8814, ES 8963, ES 8907. Una grande fossa e i suoi livelli di riempimento, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Romagnolo",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "ES 8904, ES 8814, ES 8963, ES 8907. Una grande fossa e i suoi livelli di riempimento",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Sanders D.H. 2000, Archaeological publications using Virtual Reality: case studies and caveats, in J.A. Barceló, M. Forte, D.H. Sanders (eds.), Virtual Reality in Archaeology, BAR International Series 843, Oxford, Archaeopress, 351-355.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    },
+    {
+     "family": "Sanders",
+     "given": "D.H."
+    }
+   ],
+   "date": "2000",
+   "title": "Archaeological publications using Virtual Reality: case studies and caveats",
+   "is_part_of": [
+    "Virtual Reality in Archaeology"
+   ],
+   "pages": "351-355",
+   "series": "BAR International Series",
+   "series_number": "843",
+   "publisher": "Archaeopress",
+   "place": "Oxford",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Sena Chiesa G. 1998, Calvatone-Bedriacum: un vicus commerciale lungo la via Postumia, in Sena Chiesa, Arslan 1998, 345-367.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sena Chiesa",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Sena Chiesa",
+     "given": "G."
+    },
+    {
+     "family": "Arslan",
+     "given": "E.A."
+    }
+   ],
+   "date": "1998",
+   "title": "Calvatone-Bedriacum: un vicus commerciale lungo la via Postumia",
+   "is_part_of": [
+    "Optima Via. Postumia. Storia e archeologia di una grande strada romana alle radici dell'Europa. Atti del Convegno Internazionale di Studi (Cremona 1996)"
+   ],
+   "pages": "345-367",
+   "place": "Cremona",
+   "language": "ita",
+   "xref": 40,
+   "confidence": "high"
+  },
+  {
+   "position": 40,
+   "raw": "Sena Chiesa G., Arslan E.A. 1998 (eds.), Optima Via. Postumia. Storia e archeologia di una grande strada romana alle radici dell’Europa. Atti del Convegno Internazionale di Studi (Cremona 1996), Cremona.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Sena Chiesa",
+     "given": "G."
+    },
+    {
+     "family": "Arslan",
+     "given": "E.A."
+    }
+   ],
+   "date": "1998",
+   "title": "Optima Via. Postumia. Storia e archeologia di una grande strada romana alle radici dell'Europa. Atti del Convegno Internazionale di Studi (Cremona 1996)",
+   "place": "Cremona",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 41,
+   "raw": "Slavazzi F. 2008, I pavimenti del settore di rappresentanza, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Slavazzi",
+     "given": "F."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "I pavimenti del settore di rappresentanza",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 42,
+   "raw": "Sperti L. 2008a, ES 8905. La frequentazione dell’Ambiente C. Per la cronologia dell’olla tipo Calvatone, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sperti",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "ES 8905. La frequentazione dell'Ambiente C. Per la cronologia dell'olla tipo Calvatone",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 43,
+   "raw": "Sperti L. 2008b, ES 8916, ES 8923, ES 8973. I contesti “post-Ambiente C”, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sperti",
+     "given": "L."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "ES 8916, ES 8923, ES 8973. I contesti \"post-Ambiente C\"",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 44,
+   "raw": "Volonté M. 2008, Il mosaico del Labirinto, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Volonté",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "Il mosaico del Labirinto",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  },
+  {
+   "position": 45,
+   "raw": "Zanini E. 2001, L’anfora e i suoi miti, Piombino, Museo Archeologico del Territorio di Populonia.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Zanini",
+     "given": "E."
+    }
+   ],
+   "date": "2001",
+   "title": "L'anfora e i suoi miti",
+   "publisher": "Museo Archeologico del Territorio di Populonia",
+   "place": "Piombino",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 46,
+   "raw": "Zanini E. 2002, Dalla “Villa Publica” alla Via delle Botteghe Oscure, Roma-Milano, Museo Nazionale Romano-Crypta Balbi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Zanini",
+     "given": "E."
+    }
+   ],
+   "date": "2002",
+   "title": "Dalla \"Villa Publica\" alla Via delle Botteghe Oscure",
+   "publisher": "Museo Nazionale Romano-Crypta Balbi",
+   "place": "Roma-Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 47,
+   "raw": "Zanini E. 2004, Scrivere per il multimediale: alcune riflessioni di un non-specialista, a partire da un’esperienza recente, «Archeologia e Calcolatori», 15, 63-80.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Zanini",
+     "given": "E."
+    }
+   ],
+   "date": "2004",
+   "title": "Scrivere per il multimediale: alcune riflessioni di un non-specialista, a partire da un'esperienza recente",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "language": "ita",
+   "cited_aec_id": 372,
+   "notes": "cited pages 63-80; the AeC metadata has 63-79",
+   "volume": "15",
+   "pages": "63-80",
+   "confidence": "high"
+  },
+  {
+   "position": 48,
+   "raw": "Zenoni G. 2008, US 8148. Una fossa di scarico, in Calvatone-Bedriacum 2008.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Zenoni",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Grassi",
+     "given": "M.T."
+    }
+   ],
+   "date": "2008",
+   "title": "US 8148. Una fossa di scarico",
+   "is_part_of": [
+    "Calvatone-Bedriacum. I nuovi scavi nell'area della Domus del Labirinto (2001-2006)"
+   ],
+   "place": "Milano",
+   "language": "ita",
+   "xref": 9,
+   "confidence": "high"
+  }
+ ]
+}

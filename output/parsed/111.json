@@ -1,0 +1,267 @@
+{
+ "citing_aec_id": 111,
+ "source_file": "data/journal/6/111.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AA.VV. 1993, Scienza e supercalcolo al CINECA, Bologna.",
+   "type": "book",
+   "date": "1993",
+   "title": "Scienza e supercalcolo al CINECA",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "ANCESCHI G. 1993 (ed.), Il progetto delle interfacce. Oggetti colloquiali e protesi verbali, Milano.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Anceschi",
+     "given": "G."
+    }
+   ],
+   "date": "1993",
+   "title": "Il progetto delle interfacce. Oggetti colloquiali e protesi verbali",
+   "place": "Milano",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "BRAND S. 1993, Media Lab, Bologna.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Brand",
+     "given": "S."
+    }
+   ],
+   "date": "1993",
+   "title": "Media Lab",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "CREMASCHI M., FERRETTI A., FORTE M. 1994, Tecniche digitali e di visualizzazione in geoarcheologia: il caso di studio della terramara S. Rosa di Poviglio (RE), «Archeologia e Calcolatori», 5, 305-316.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Cremaschi",
+     "given": "M."
+    },
+    {
+     "family": "Ferretti",
+     "given": "A."
+    },
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "1994",
+   "title": "Tecniche digitali e di visualizzazione in geoarcheologia: il caso di studio della terramara S. Rosa di Poviglio (RE)",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "5",
+   "pages": "305-316",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "FORTE M. 1992, Archeologia e tecniche di eidologia informatica, «Archeologia e Calcolatori», 3, 1992, 37-76.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "1992",
+   "title": "Archeologia e tecniche di eidologia informatica",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "3",
+   "pages": "37-76",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "FORTE M. 1993, Un esperimento di visualizzazione scientifica per l’archeologia del paesaggio: la navigazione nel paesaggio virtuale, «Archeologia e Calcolatori», 4, 137-152.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "1993",
+   "title": "Un esperimento di visualizzazione scientifica per l’archeologia del paesaggio: la navigazione nel paesaggio virtuale",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "4",
+   "pages": "137-152",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "FORTE M. 1993a, Image processing applications in archaeology: classification systems of archaeological sites in the landscape, in J. ANDRESEN, T. MADSEN, I. SCOLLAR (eds.) 1993, Computing the Past. CAA 92, Aarhus, Aarhus Univeristy Press, 53-61.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Andresen",
+     "given": "J."
+    },
+    {
+     "family": "Madsen",
+     "given": "T."
+    },
+    {
+     "family": "Scollar",
+     "given": "I."
+    }
+   ],
+   "date": "1993",
+   "title": "Image processing applications in archaeology: classification systems of archaeological sites in the landscape",
+   "is_part_of": [
+    "Computing the Past. CAA 92"
+   ],
+   "place": "Aarhus",
+   "publisher": "Aarhus University Press",
+   "pages": "53-61",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "FORTE M. 1993b, Il paesaggio archeologico al calcolatore, «Le Scienze» (ed. italiana di Scientific American), 46-54.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forte",
+     "given": "M."
+    }
+   ],
+   "date": "1993",
+   "title": "Il paesaggio archeologico al calcolatore",
+   "is_part_of": [
+    "Le Scienze"
+   ],
+   "pages": "46-54",
+   "notes": "Italian edition of Scientific American",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "REILLY P. 1991, Towards a virtual archaeology, in K. LOCKYEAR, S. RAHTZ (eds.), Computer Applications and Quantitative Methods in Archaeology, Oxford, BAR International Series 565, 133-140.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Reilly",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lockyear",
+     "given": "K."
+    },
+    {
+     "family": "Rahtz",
+     "given": "S."
+    }
+   ],
+   "date": "1991",
+   "title": "Towards a virtual archaeology",
+   "is_part_of": [
+    "Computer Applications and Quantitative Methods in Archaeology"
+   ],
+   "series": "BAR International Series",
+   "series_number": "565",
+   "place": "Oxford",
+   "pages": "133-140",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "RHEINGOLD H. 1993, La realtà virtuale, Bologna.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Rheingold",
+     "given": "H."
+    }
+   ],
+   "date": "1993",
+   "title": "La realtà virtuale",
+   "place": "Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "SARTI A., LAMBERTI C., ERBACCI G., PINI R. 1993, Volume rendering for 3D Echocardiography Visualization, Computers in Cardiology, IEEE Computers Society, Londra.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Sarti",
+     "given": "A."
+    },
+    {
+     "family": "Lamberti",
+     "given": "C."
+    },
+    {
+     "family": "Erbacci",
+     "given": "G."
+    },
+    {
+     "family": "Pini",
+     "given": "R."
+    }
+   ],
+   "date": "1993",
+   "title": "Volume rendering for 3D Echocardiography Visualization",
+   "is_part_of": [
+    "Computers in Cardiology"
+   ],
+   "place": "London",
+   "publisher": "IEEE Computers Society",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "WOOLEY B. 1993, Mondi virtuali, Torino.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wooley",
+     "given": "B."
+    }
+   ],
+   "date": "1993",
+   "title": "Mondi virtuali",
+   "place": "Torino",
+   "language": "ita",
+   "confidence": "high"
+  }
+ ]
+}

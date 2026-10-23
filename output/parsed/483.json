@@ -1,0 +1,140 @@
+{
+ "citing_aec_id": 483,
+ "source_file": "data/journal/19/483.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "AASI 1970, Atlas of the Archaeological Sites in Iraq, Bagdad, Iraq Directorate General of Antiquities.",
+   "type": "book",
+   "date": "1970",
+   "title": "Atlas of the Archaeological Sites in Iraq",
+   "publisher": "Iraq Directorate General of Antiquities",
+   "place": "Bagdad",
+   "language": "eng",
+   "notes": "cited under the acronym AASI as author: no person recorded",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Ehrich R.W. (ed.) 1957, Relative Chronologies in Old World Archaeology, Chicago, University of Chicago Press (1<sup>st</sup> edition).",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Ehrich",
+     "given": "R.W."
+    }
+   ],
+   "date": "1957",
+   "title": "Relative Chronologies in Old World Archaeology",
+   "publisher": "University of Chicago Press",
+   "place": "Chicago",
+   "language": "eng",
+   "notes": "cited as 1st edition",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Farr T.G. et al. 2007, The Shuttle Radar Topography Mission, «Reviews of Geophysics», 45, RG2004, doi:10.1029/2005RG000183.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Farr",
+     "given": "T.G."
+    }
+   ],
+   "date": "2007",
+   "title": "The Shuttle Radar Topography Mission",
+   "is_part_of": [
+    "Reviews of Geophysics"
+   ],
+   "volume": "45",
+   "issue": "RG2004",
+   "doi": "10.1029/2005RG000183",
+   "language": "eng",
+   "notes": "et al.; RG2004 is the article number",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Harmankaya S., Tanindi O., Özbasaran M. 1997, Türkiye Arkeolojik Yerlesmelerı 2 (TAY): Neolitik, Istanbul (http://tayproject.org/veritabeng.html).",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Harmankaya",
+     "given": "S."
+    },
+    {
+     "family": "Tanindi",
+     "given": "O."
+    },
+    {
+     "family": "Özbasaran",
+     "given": "M."
+    }
+   ],
+   "date": "1997",
+   "title": "Türkiye Arkeolojik Yerlesmeleri 2 (TAY): Neolitik",
+   "place": "Istanbul",
+   "uri": "http://tayproject.org/veritabeng.html",
+   "language": "tur",
+   "notes": "OCR 'Yerlesmelerı' read as 'Yerlesmeleri'",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Hours F., Aurenche O., Cauvin J., Cauvin M.C., Copeland L., Sanlaville P. 1994, Atlas des sites du Proche Orient, Travaux de la Maison de l’Orient Méditerranéen 24, Lyon.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Hours",
+     "given": "F."
+    },
+    {
+     "family": "Aurenche",
+     "given": "O."
+    },
+    {
+     "family": "Cauvin",
+     "given": "J."
+    },
+    {
+     "family": "Cauvin",
+     "given": "M.C."
+    },
+    {
+     "family": "Copeland",
+     "given": "L."
+    },
+    {
+     "family": "Sanlaville",
+     "given": "P."
+    }
+   ],
+   "date": "1994",
+   "title": "Atlas des sites du Proche Orient",
+   "series": "Travaux de la Maison de l'Orient Méditerranéen",
+   "series_number": "24",
+   "place": "Lyon",
+   "language": "fre",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Redman C.L. 1978, The Rise of Civilization. From Early Farmers to Urban Society in the Ancient Near East, San Fransisco, W.H. Freeman and Co.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Redman",
+     "given": "C.L."
+    }
+   ],
+   "date": "1978",
+   "title": "The Rise of Civilization. From Early Farmers to Urban Society in the Ancient Near East",
+   "publisher": "W.H. Freeman and Co.",
+   "place": "San Francisco",
+   "language": "eng",
+   "notes": "'San Fransisco' corrected",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,1151 @@
+{
+ "citing_aec_id": 672,
+ "source_file": "data/journal/24/672.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Barceló J.A. 2009, Computational Intelligence in Archaeology, Hershey, New York, The IGI Group.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "2009",
+   "title": "Computational Intelligence in Archaeology",
+   "place": "Hershey, New York",
+   "publisher": "The IGI Group",
+   "language": "eng"
+  },
+  {
+   "position": 2,
+   "raw": "Barceló J.A. 2010, Sociedades artificiales para el análisis de procesos sociales en la Prehistoria, «Cuadernos de Prehistoria de la Universidad de Granada», 20, 123-148.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    }
+   ],
+   "date": "2010",
+   "title": "Sociedades artificiales para el análisis de procesos sociales en la Prehistoria",
+   "is_part_of": [
+    "Cuadernos de Prehistoria de la Universidad de Granada"
+   ],
+   "volume": "20",
+   "pages": "123-148",
+   "language": "spa"
+  },
+  {
+   "position": 3,
+   "raw": "Barton C.M., Ullah I., Mitasova H. 2010, Computational modeling and Neolithic socioecological dynamics: A case study from Southwest Asia, «American Antiquity», 75 (2), 364-386.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Barton",
+     "given": "C.M."
+    },
+    {
+     "family": "Ullah",
+     "given": "I."
+    },
+    {
+     "family": "Mitasova",
+     "given": "H."
+    }
+   ],
+   "date": "2010",
+   "title": "Computational modeling and Neolithic socioecological dynamics: A case study from Southwest Asia",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "75",
+   "issue": "2",
+   "pages": "364-386",
+   "language": "eng"
+  },
+  {
+   "position": 4,
+   "raw": "Briz I. 2003, ¿Una realidad compleja? Apuntes y anotaciones para una teoría emergente en arqueología, «Revista Atlántica-Mediterránea de Prehistoria y Arqueología Social», 6, 275-302.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Briz",
+     "given": "I."
+    }
+   ],
+   "date": "2003",
+   "title": "¿Una realidad compleja? Apuntes y anotaciones para una teoría emergente en arqueología",
+   "is_part_of": [
+    "Revista Atlántica-Mediterránea de Prehistoria y Arqueología Social"
+   ],
+   "volume": "6",
+   "pages": "275-302",
+   "language": "spa"
+  },
+  {
+   "position": 5,
+   "raw": "Brown C.T., Wistchey W.R.T. 2003, The fractal geometry of ancient Maya settlement, «Journal of Archaeological Science», 30, 1619-1632.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Brown",
+     "given": "C.T."
+    },
+    {
+     "family": "Witschey",
+     "given": "W.R.T."
+    }
+   ],
+   "date": "2003",
+   "title": "The fractal geometry of ancient Maya settlement",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "30",
+   "pages": "1619-1632",
+   "notes": "second author cited \"Wistchey\"",
+   "language": "eng"
+  },
+  {
+   "position": 6,
+   "raw": "Costopoulos A., Lake M.W. (eds.) 2010, Simulating Change: Archaeology into the Twenty-First Century, Salt Lake City, University of Utah Press.",
+   "type": "book",
+   "date": "2010",
+   "title": "Simulating Change: Archaeology into the Twenty-First Century",
+   "editors": [
+    {
+     "family": "Costopoulos",
+     "given": "A."
+    },
+    {
+     "family": "Lake",
+     "given": "M.W."
+    }
+   ],
+   "place": "Salt Lake City",
+   "publisher": "University of Utah Press",
+   "language": "eng"
+  },
+  {
+   "position": 7,
+   "raw": "Doran J.E., Palmer M. 1995a, The EOS Project: Integrating two models of Palaeolithic social change, in N. Gilbert, R. Conte (eds.), Artificial Societies: The Computer Simulation of Social Life, London, UCL Press, 103-125.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    },
+    {
+     "family": "Palmer",
+     "given": "M."
+    }
+   ],
+   "date": "1995",
+   "title": "The EOS Project: Integrating two models of Palaeolithic social change",
+   "editors": [
+    {
+     "family": "Gilbert",
+     "given": "N."
+    },
+    {
+     "family": "Conte",
+     "given": "R."
+    }
+   ],
+   "is_part_of": [
+    "Artificial Societies: The Computer Simulation of Social Life"
+   ],
+   "place": "London",
+   "publisher": "UCL Press",
+   "pages": "103-125",
+   "language": "eng"
+  },
+  {
+   "position": 8,
+   "raw": "Doran J.E., Palmer M. 1995b, The EOS Project: Modelling prehistoric sociocultural trajectories, in L. Valdés, I. Arenal, I. Pujana (eds.), Aplicaciones informaticas en Arqueología: Teoría y Sistemas I. Proceedings of First International Symposium on Computing and Archaeology (Paris 1991), Bilbao, Denboraren Argia, 183-198.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Doran",
+     "given": "J.E."
+    },
+    {
+     "family": "Palmer",
+     "given": "M."
+    }
+   ],
+   "date": "1995",
+   "title": "The EOS Project: Modelling prehistoric sociocultural trajectories",
+   "editors": [
+    {
+     "family": "Valdés",
+     "given": "L."
+    },
+    {
+     "family": "Arenal",
+     "given": "I."
+    },
+    {
+     "family": "Pujana",
+     "given": "I."
+    }
+   ],
+   "is_part_of": [
+    "Aplicaciones informaticas en Arqueología: Teoría y Sistemas I. Proceedings of First International Symposium on Computing and Archaeology (Paris 1991)"
+   ],
+   "place": "Bilbao",
+   "publisher": "Denboraren Argia",
+   "pages": "183-198",
+   "language": "eng"
+  },
+  {
+   "position": 9,
+   "raw": "Enquist M., Ghirlanda S., Eriksson K. 2011, Modelling the evolution and diversity of cumulative culture, «Philosophical Transactions of the Royal Society B», 366 (1536), 412-423.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Enquist",
+     "given": "M."
+    },
+    {
+     "family": "Ghirlanda",
+     "given": "S."
+    },
+    {
+     "family": "Eriksson",
+     "given": "K."
+    }
+   ],
+   "date": "2011",
+   "title": "Modelling the evolution and diversity of cumulative culture",
+   "is_part_of": [
+    "Philosophical Transactions of the Royal Society B"
+   ],
+   "volume": "366",
+   "issue": "1536",
+   "pages": "412-423",
+   "language": "eng"
+  },
+  {
+   "position": 10,
+   "raw": "Epstein J.M. 2008, Why model?, «Journal of Artificial Societies and Social Simulation», 11(4)12 (doi: 10.1023/A:1009600530279).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Epstein",
+     "given": "J.M."
+    }
+   ],
+   "date": "2008",
+   "title": "Why model?",
+   "is_part_of": [
+    "Journal of Artificial Societies and Social Simulation"
+   ],
+   "volume": "11",
+   "issue": "4",
+   "pages": "12",
+   "doi": "10.1023/A:1009600530279",
+   "language": "eng"
+  },
+  {
+   "position": 11,
+   "raw": "Epstein J., Axtell R. 1996, Growing Artificial Societies. Social Sciences from the Bottom Up, Washington D.C., Brookings Institution Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Epstein",
+     "given": "J."
+    },
+    {
+     "family": "Axtell",
+     "given": "R."
+    }
+   ],
+   "date": "1996",
+   "title": "Growing Artificial Societies. Social Sciences from the Bottom Up",
+   "place": "Washington D.C.",
+   "publisher": "Brookings Institution Press",
+   "language": "eng"
+  },
+  {
+   "position": 12,
+   "raw": "Fort J. 2012, Synthesis between demic and cultural diffusion in the Neolithic transition in Europe, «PNAS», 109, 46, 18669-18673.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fort",
+     "given": "J."
+    }
+   ],
+   "date": "2012",
+   "title": "Synthesis between demic and cultural diffusion in the Neolithic transition in Europe",
+   "is_part_of": [
+    "PNAS"
+   ],
+   "volume": "109",
+   "issue": "46",
+   "pages": "18669-18673",
+   "language": "eng"
+  },
+  {
+   "position": 13,
+   "raw": "Fort J., Méndez V. 1999, Time-delayed theory of the Neolithic transition in Europe, «Physical Review Letters», 82, 4, 867-870.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fort",
+     "given": "J."
+    },
+    {
+     "family": "Méndez",
+     "given": "V."
+    }
+   ],
+   "date": "1999",
+   "title": "Time-delayed theory of the Neolithic transition in Europe",
+   "is_part_of": [
+    "Physical Review Letters"
+   ],
+   "volume": "82",
+   "issue": "4",
+   "pages": "867-870",
+   "language": "eng"
+  },
+  {
+   "position": 14,
+   "raw": "Fort J., Pujol T., Vander Linden M. 2012, Modelling the Neolithic transition in the Near East and Europe, «American Antiquity», 77, 2, 203-220.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fort",
+     "given": "J."
+    },
+    {
+     "family": "Pujol",
+     "given": "T."
+    },
+    {
+     "family": "Vander Linden",
+     "given": "M."
+    }
+   ],
+   "date": "2012",
+   "title": "Modelling the Neolithic transition in the Near East and Europe",
+   "is_part_of": [
+    "American Antiquity"
+   ],
+   "volume": "77",
+   "issue": "2",
+   "pages": "203-220",
+   "language": "eng"
+  },
+  {
+   "position": 15,
+   "raw": "Gilbert N. 2008, Agent-Based Models, Los Angeles, SAGE Publications.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gilbert",
+     "given": "N."
+    }
+   ],
+   "date": "2008",
+   "title": "Agent-Based Models",
+   "place": "Los Angeles",
+   "publisher": "SAGE Publications",
+   "language": "eng"
+  },
+  {
+   "position": 16,
+   "raw": "Gilbert N., Troitzsch K.G. 2008, Simulation for the Social Scientist, New York, Open University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Gilbert",
+     "given": "N."
+    },
+    {
+     "family": "Troitzsch",
+     "given": "K.G."
+    }
+   ],
+   "date": "2008",
+   "title": "Simulation for the Social Scientist",
+   "place": "New York",
+   "publisher": "Open University Press",
+   "language": "eng"
+  },
+  {
+   "position": 17,
+   "raw": "Grimm V., Berger U., Bastiansen F., Eliassen S., Ginot V., Giske J., Goss-Custard J., Grand T., Heinz S.K., Huse G., Huth A., Jepsen J.U., Jørgensen C., Mooij W.M., Müller B., Peter G., Piou C., Railsback S.F., Robbins A.M., Robbins M.M., Rossmanith E., Rüger N., Strand E., Souissi S., Stillman R.A., Vabø R., Visser U., De Angelis D.L. 2006, A standard protocol for describing individual-based and agent-based models, «Ecological Modelling», 198, 1-2, 115-126.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Grimm",
+     "given": "V."
+    },
+    {
+     "family": "Berger",
+     "given": "U."
+    },
+    {
+     "family": "Bastiansen",
+     "given": "F."
+    },
+    {
+     "family": "Eliassen",
+     "given": "S."
+    },
+    {
+     "family": "Ginot",
+     "given": "V."
+    },
+    {
+     "family": "Giske",
+     "given": "J."
+    },
+    {
+     "family": "Goss-Custard",
+     "given": "J."
+    },
+    {
+     "family": "Grand",
+     "given": "T."
+    },
+    {
+     "family": "Heinz",
+     "given": "S.K."
+    },
+    {
+     "family": "Huse",
+     "given": "G."
+    },
+    {
+     "family": "Huth",
+     "given": "A."
+    },
+    {
+     "family": "Jepsen",
+     "given": "J.U."
+    },
+    {
+     "family": "Jørgensen",
+     "given": "C."
+    },
+    {
+     "family": "Mooij",
+     "given": "W.M."
+    },
+    {
+     "family": "Müller",
+     "given": "B."
+    },
+    {
+     "family": "Peter",
+     "given": "G."
+    },
+    {
+     "family": "Piou",
+     "given": "C."
+    },
+    {
+     "family": "Railsback",
+     "given": "S.F."
+    },
+    {
+     "family": "Robbins",
+     "given": "A.M."
+    },
+    {
+     "family": "Robbins",
+     "given": "M.M."
+    },
+    {
+     "family": "Rossmanith",
+     "given": "E."
+    },
+    {
+     "family": "Rüger",
+     "given": "N."
+    },
+    {
+     "family": "Strand",
+     "given": "E."
+    },
+    {
+     "family": "Souissi",
+     "given": "S."
+    },
+    {
+     "family": "Stillman",
+     "given": "R.A."
+    },
+    {
+     "family": "Vabø",
+     "given": "R."
+    },
+    {
+     "family": "Visser",
+     "given": "U."
+    },
+    {
+     "family": "De Angelis",
+     "given": "D.L."
+    }
+   ],
+   "date": "2006",
+   "title": "A standard protocol for describing individual-based and agent-based models",
+   "is_part_of": [
+    "Ecological Modelling"
+   ],
+   "volume": "198",
+   "issue": "1-2",
+   "pages": "115-126",
+   "language": "eng"
+  },
+  {
+   "position": 18,
+   "raw": "Grimm V., Berger U., De Angelis D.L., Polhill J.G., Giske J., Railsback S.F. 2010, The ODD protocol: A review and first update, «Ecological Modelling», 221 (23), 2760-2768.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Grimm",
+     "given": "V."
+    },
+    {
+     "family": "Berger",
+     "given": "U."
+    },
+    {
+     "family": "De Angelis",
+     "given": "D.L."
+    },
+    {
+     "family": "Polhill",
+     "given": "J.G."
+    },
+    {
+     "family": "Giske",
+     "given": "J."
+    },
+    {
+     "family": "Railsback",
+     "given": "S.F."
+    }
+   ],
+   "date": "2010",
+   "title": "The ODD protocol: A review and first update",
+   "is_part_of": [
+    "Ecological Modelling"
+   ],
+   "volume": "221",
+   "issue": "23",
+   "pages": "2760-2768",
+   "language": "eng"
+  },
+  {
+   "position": 19,
+   "raw": "Henrickson L., McKelvey B. 2002, Foundations of \"new\" social science: Institutional legitimacy from phylosophy, complexity science, postmodernism, and agent-based modeling, «PNAS», 99, 3, 7288-7295.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Henrickson",
+     "given": "L."
+    },
+    {
+     "family": "McKelvey",
+     "given": "B."
+    }
+   ],
+   "date": "2002",
+   "title": "Foundations of \"new\" social science: Institutional legitimacy from philosophy, complexity science, postmodernism, and agent-based modeling",
+   "is_part_of": [
+    "PNAS"
+   ],
+   "volume": "99",
+   "issue": "3",
+   "pages": "7288-7295",
+   "language": "eng"
+  },
+  {
+   "position": 20,
+   "raw": "Kennett D.J., Winterhalder B. (eds.) 2006, Behavioural Ecology and the Transition to Agriculture, Berkeley, University of California Press.",
+   "type": "book",
+   "date": "2006",
+   "title": "Behavioural Ecology and the Transition to Agriculture",
+   "editors": [
+    {
+     "family": "Kennett",
+     "given": "D.J."
+    },
+    {
+     "family": "Winterhalder",
+     "given": "B."
+    }
+   ],
+   "place": "Berkeley",
+   "publisher": "University of California Press",
+   "language": "eng"
+  },
+  {
+   "position": 21,
+   "raw": "Kohler T.A. 2011, Complex Systems and Archaeology, SFI Working Paper Abstract (http://www.santafe.edu/media/workingpapers/11-06-023.pdf; consulted 30-I-2013).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Kohler",
+     "given": "T.A."
+    }
+   ],
+   "date": "2011",
+   "title": "Complex Systems and Archaeology",
+   "series": "SFI Working Paper",
+   "uri": "http://www.santafe.edu/media/workingpapers/11-06-023.pdf",
+   "notes": "consulted 30-I-2013",
+   "language": "eng"
+  },
+  {
+   "position": 22,
+   "raw": "Kohler T.A., van der Leeuw S.A. (eds.) 2007, The Model-based Archaeology of Socionatural Systems, Santa Fe, School for Advanced Research Press.",
+   "type": "book",
+   "date": "2007",
+   "title": "The Model-based Archaeology of Socionatural Systems",
+   "editors": [
+    {
+     "family": "Kohler",
+     "given": "T.A."
+    },
+    {
+     "family": "van der Leeuw",
+     "given": "S.A."
+    }
+   ],
+   "place": "Santa Fe",
+   "publisher": "School for Advanced Research Press",
+   "language": "eng"
+  },
+  {
+   "position": 23,
+   "raw": "Kohler T.A., Varien M.D. 2012, Emergence and Collapse of Early Villages: Models of Central Mesa Verde Archaeology, Berkeley, University of California Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Kohler",
+     "given": "T.A."
+    },
+    {
+     "family": "Varien",
+     "given": "M.D."
+    }
+   ],
+   "date": "2012",
+   "title": "Emergence and Collapse of Early Villages: Models of Central Mesa Verde Archaeology",
+   "place": "Berkeley",
+   "publisher": "University of California Press",
+   "language": "eng"
+  },
+  {
+   "position": 24,
+   "raw": "Kosse K. 2001, Some regularities in Human group formation and the evolution of societal complexity, «Complexity», 6, 1, 60-64.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kosse",
+     "given": "K."
+    }
+   ],
+   "date": "2001",
+   "title": "Some regularities in Human group formation and the evolution of societal complexity",
+   "is_part_of": [
+    "Complexity"
+   ],
+   "volume": "6",
+   "issue": "1",
+   "pages": "60-64",
+   "language": "eng"
+  },
+  {
+   "position": 25,
+   "raw": "Lake M.W. 2000, Computer simulation of mesolithic foraging, in G.J. Gumerman, T.A. Kohler (eds.), Dynamics in Human and Primate Societies: Agent-Based Modeling of Social and Spatial Processes, New York, Oxford University Press, 107-143.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lake",
+     "given": "M.W."
+    }
+   ],
+   "date": "2000",
+   "title": "Computer simulation of mesolithic foraging",
+   "editors": [
+    {
+     "family": "Gumerman",
+     "given": "G.J."
+    },
+    {
+     "family": "Kohler",
+     "given": "T.A."
+    }
+   ],
+   "is_part_of": [
+    "Dynamics in Human and Primate Societies: Agent-Based Modeling of Social and Spatial Processes"
+   ],
+   "place": "New York",
+   "publisher": "Oxford University Press",
+   "pages": "107-143",
+   "language": "eng"
+  },
+  {
+   "position": 26,
+   "raw": "Lake M.W. 2001, Numerical modelling in archaeology, in D.R. Brothwell, A.M. Pollard (eds.), Handbook of Archaeological Science, Chichester, John Willey & Sons, 723-733.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lake",
+     "given": "M.W."
+    }
+   ],
+   "date": "2001",
+   "title": "Numerical modelling in archaeology",
+   "editors": [
+    {
+     "family": "Brothwell",
+     "given": "D.R."
+    },
+    {
+     "family": "Pollard",
+     "given": "A.M."
+    }
+   ],
+   "is_part_of": [
+    "Handbook of Archaeological Science"
+   ],
+   "place": "Chichester",
+   "publisher": "John Wiley & Sons",
+   "pages": "723-733",
+   "language": "eng"
+  },
+  {
+   "position": 27,
+   "raw": "Lewin R. 2002, Complejidad. El caos como generador de orden, Colección Metatemas, 41, Barcelona, Fundació La Caixa-Museu de la Ciència, Tusquets editores.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lewin",
+     "given": "R."
+    }
+   ],
+   "date": "2002",
+   "title": "Complejidad. El caos como generador de orden",
+   "series": "Colección Metatemas",
+   "series_number": "41",
+   "place": "Barcelona",
+   "publisher": "Fundació La Caixa-Museu de la Ciència, Tusquets editores",
+   "language": "spa"
+  },
+  {
+   "position": 28,
+   "raw": "López Borgoñoz A. 1999, Modelos, pasado, sistemas complejos y sistema mundial, in R. de Balbín Behrman, P. Bueno (eds.), Actas del II Congreso de Arqueología peninsular (Zamora 1996), III, Alcalá de Henares, Universidad de Alcalá de Henares, 537-550.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "López Borgoñoz",
+     "given": "A."
+    }
+   ],
+   "date": "1999",
+   "title": "Modelos, pasado, sistemas complejos y sistema mundial",
+   "editors": [
+    {
+     "family": "de Balbín Behrmann",
+     "given": "R."
+    },
+    {
+     "family": "Bueno",
+     "given": "P."
+    }
+   ],
+   "is_part_of": [
+    "Actas del II Congreso de Arqueología peninsular (Zamora 1996)"
+   ],
+   "volume": "III",
+   "place": "Alcalá de Henares",
+   "publisher": "Universidad de Alcalá de Henares",
+   "pages": "537-550",
+   "language": "spa"
+  },
+  {
+   "position": 29,
+   "raw": "Luke S. 2011, Multiagent simulation and the MASON Library, Fairfax, George Mason University (http://cs.gmu.edu/~eclab/projects/mason/manual.pdf, consulted 30-I-2013).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Luke",
+     "given": "S."
+    }
+   ],
+   "date": "2011",
+   "title": "Multiagent simulation and the MASON Library",
+   "place": "Fairfax",
+   "publisher": "George Mason University",
+   "uri": "http://cs.gmu.edu/~eclab/projects/mason/manual.pdf",
+   "notes": "consulted 30-I-2013",
+   "language": "eng"
+  },
+  {
+   "position": 30,
+   "raw": "Lull V. 1999, The new technologies and designer archaeology, in J.A. Barceló, I. Briz, A. Vila (eds.), New Techniques for Old Times. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 26th Conference (Barcelona 1998), Oxford, BAR International Series 757, Archaeopress, 374-383.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Lull",
+     "given": "V."
+    }
+   ],
+   "date": "1999",
+   "title": "The new technologies and designer archaeology",
+   "editors": [
+    {
+     "family": "Barceló",
+     "given": "J.A."
+    },
+    {
+     "family": "Briz",
+     "given": "I."
+    },
+    {
+     "family": "Vila",
+     "given": "A."
+    }
+   ],
+   "is_part_of": [
+    "New Techniques for Old Times. Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 26th Conference (Barcelona 1998)"
+   ],
+   "series": "BAR International Series",
+   "series_number": "757",
+   "place": "Oxford",
+   "publisher": "Archaeopress",
+   "pages": "374-383",
+   "language": "eng"
+  },
+  {
+   "position": 31,
+   "raw": "Maturana H., Varela F. 2004, De máquinas y seres vivos. Autopoiesis: la organización de lo vivo, Buenos Aires, Editorial universitaria Lumen.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Maturana",
+     "given": "H."
+    },
+    {
+     "family": "Varela",
+     "given": "F."
+    }
+   ],
+   "date": "2004",
+   "title": "De máquinas y seres vivos. Autopoiesis: la organización de lo vivo",
+   "place": "Buenos Aires",
+   "publisher": "Editorial universitaria Lumen",
+   "language": "spa"
+  },
+  {
+   "position": 32,
+   "raw": "Miller J.H., Page S.E. 2007, Complex Adaptive Systems. An Introduction to Computational Models of Social Life, Princeton, Princeton University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Miller",
+     "given": "J.H."
+    },
+    {
+     "family": "Page",
+     "given": "S.E."
+    }
+   ],
+   "date": "2007",
+   "title": "Complex Adaptive Systems. An Introduction to Computational Models of Social Life",
+   "place": "Princeton",
+   "publisher": "Princeton University Press",
+   "language": "eng"
+  },
+  {
+   "position": 33,
+   "raw": "Mithen S. 1994, Simulating prehistoric hunter-gatherer societies, in N. Gilbert, J. Doran (eds.), Simulating Societies. The Computer Simulation of Social Phenomena, London, UCL Press, 165-193.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mithen",
+     "given": "S."
+    }
+   ],
+   "date": "1994",
+   "title": "Simulating prehistoric hunter-gatherer societies",
+   "editors": [
+    {
+     "family": "Gilbert",
+     "given": "N."
+    },
+    {
+     "family": "Doran",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "Simulating Societies. The Computer Simulation of Social Phenomena"
+   ],
+   "place": "London",
+   "publisher": "UCL Press",
+   "pages": "165-193",
+   "language": "eng"
+  },
+  {
+   "position": 34,
+   "raw": "Morin E. 2003, Introducción al pensamiento complejo, Barcelona, Gedisa.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Morin",
+     "given": "E."
+    }
+   ],
+   "date": "2003",
+   "title": "Introducción al pensamiento complejo",
+   "place": "Barcelona",
+   "publisher": "Gedisa",
+   "language": "spa"
+  },
+  {
+   "position": 35,
+   "raw": "North M., Howe T., Collier N., Vos J. 2007, A declarative model assembly infrastructure for verification and validation, in S. Takahashi, D. Sallach, J. Rouchier (eds.), Advancing Social Simulation: The First World Congress, Heidelberg, Springer, 129-140.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "North",
+     "given": "M."
+    },
+    {
+     "family": "Howe",
+     "given": "T."
+    },
+    {
+     "family": "Collier",
+     "given": "N."
+    },
+    {
+     "family": "Vos",
+     "given": "J."
+    }
+   ],
+   "date": "2007",
+   "title": "A declarative model assembly infrastructure for verification and validation",
+   "editors": [
+    {
+     "family": "Takahashi",
+     "given": "S."
+    },
+    {
+     "family": "Sallach",
+     "given": "D."
+    },
+    {
+     "family": "Rouchier",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "Advancing Social Simulation: The First World Congress"
+   ],
+   "place": "Heidelberg",
+   "publisher": "Springer",
+   "pages": "129-140",
+   "language": "eng"
+  },
+  {
+   "position": 36,
+   "raw": "Prigogine I. 1997, Las leyes del Caos, Barcelona, Biblioteca de Bolsillo, 16, Crítica.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Prigogine",
+     "given": "I."
+    }
+   ],
+   "date": "1997",
+   "title": "Las leyes del Caos",
+   "series": "Biblioteca de Bolsillo",
+   "series_number": "16",
+   "place": "Barcelona",
+   "publisher": "Crítica",
+   "language": "spa"
+  },
+  {
+   "position": 37,
+   "raw": "Raiza E., Pachano E., Pereira L., Torres A. 2002, El paradigma complejo. Un cadáver exquisito, «Cinta de Moebio. Revista Electrónica de Epistemología y Ciencias Sociales», 14 (http://www.moebio.uchile.cl/14/frames07.htm, consulted 30-I-2013).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Raiza",
+     "given": "E."
+    },
+    {
+     "family": "Pachano",
+     "given": "E."
+    },
+    {
+     "family": "Pereira",
+     "given": "L."
+    },
+    {
+     "family": "Torres",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "El paradigma complejo. Un cadáver exquisito",
+   "is_part_of": [
+    "Cinta de Moebio. Revista Electrónica de Epistemología y Ciencias Sociales"
+   ],
+   "volume": "14",
+   "uri": "http://www.moebio.uchile.cl/14/frames07.htm",
+   "language": "spa",
+   "notes": "consulted 30-I-2013"
+  },
+  {
+   "position": 38,
+   "raw": "Richard F. 2009, Historical and dialectical perspectives on the Archaeology of Complexity in the Siin-Saalum (Senegal): Back to the future?, «African Archaeological Review», 26, 2, 75-135.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Richard",
+     "given": "F."
+    }
+   ],
+   "date": "2009",
+   "title": "Historical and dialectical perspectives on the Archaeology of Complexity in the Siin-Saalum (Senegal): Back to the future?",
+   "is_part_of": [
+    "African Archaeological Review"
+   ],
+   "volume": "26",
+   "issue": "2",
+   "pages": "75-135",
+   "language": "eng"
+  },
+  {
+   "position": 39,
+   "raw": "Sawyer R.K. 2005, Social Emergence. Societies as Complex Systems, Cambridge, Cambridge University Press.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Sawyer",
+     "given": "R.K."
+    }
+   ],
+   "date": "2005",
+   "title": "Social Emergence. Societies as Complex Systems",
+   "place": "Cambridge",
+   "publisher": "Cambridge University Press",
+   "language": "eng"
+  },
+  {
+   "position": 40,
+   "raw": "Shennan S. 2002, Genes, Memes and Human History. Darwinian Archaeology and Cultural Evolution, London, Thames & Hudson.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Shennan",
+     "given": "S."
+    }
+   ],
+   "date": "2002",
+   "title": "Genes, Memes and Human History. Darwinian Archaeology and Cultural Evolution",
+   "place": "London",
+   "publisher": "Thames & Hudson",
+   "language": "eng"
+  },
+  {
+   "position": 41,
+   "raw": "Solé R., Manrubia S. 1996, Orden y Caos en sistemas complejos, Barcelona, Ediciones UPC.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Solé",
+     "given": "R."
+    },
+    {
+     "family": "Manrubia",
+     "given": "S."
+    }
+   ],
+   "date": "1996",
+   "title": "Orden y Caos en sistemas complejos",
+   "place": "Barcelona",
+   "publisher": "Ediciones UPC",
+   "language": "spa"
+  },
+  {
+   "position": 42,
+   "raw": "Wagensberg J. 1998, Ideas sobre la Complejidad del Mundo, Colección metatemas, 9, Barcelona, Tusquets Editores.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Wagensberg",
+     "given": "J."
+    }
+   ],
+   "date": "1998",
+   "title": "Ideas sobre la Complejidad del Mundo",
+   "series": "Colección Metatemas",
+   "series_number": "9",
+   "place": "Barcelona",
+   "publisher": "Tusquets Editores",
+   "language": "spa"
+  },
+  {
+   "position": 43,
+   "raw": "Wilensky U. 1999, NetLogo. Center for Connected Learning and Computer Based Modeling, Evanston, Northwestern University (http://ccl.northwestern.edu/netlogo, consulted 30-I-2013).",
+   "type": "other",
+   "creators": [
+    {
+     "family": "Wilensky",
+     "given": "U."
+    }
+   ],
+   "date": "1999",
+   "title": "NetLogo",
+   "place": "Evanston",
+   "publisher": "Center for Connected Learning and Computer Based Modeling, Northwestern University",
+   "uri": "http://ccl.northwestern.edu/netlogo",
+   "notes": "consulted 30-I-2013",
+   "language": "eng"
+  },
+  {
+   "position": 44,
+   "raw": "Wickson F., Carew A.L., Russell A.W. 2006, Transdisciplinary research: Characteristics, quandaries and quality, «Futures», 38, 9, 1046-1059.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Wickson",
+     "given": "F."
+    },
+    {
+     "family": "Carew",
+     "given": "A.L."
+    },
+    {
+     "family": "Russell",
+     "given": "A.W."
+    }
+   ],
+   "date": "2006",
+   "title": "Transdisciplinary research: Characteristics, quandaries and quality",
+   "is_part_of": [
+    "Futures"
+   ],
+   "volume": "38",
+   "issue": "9",
+   "pages": "1046-1059",
+   "language": "eng"
+  }
+ ]
+}

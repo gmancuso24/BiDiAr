@@ -1,0 +1,93 @@
+{
+ "citing_aec_id": 216,
+ "source_file": "data/journal/7/216.md",
+ "references": [
+  {
+   "raw": "BARTOLONI P. 1992, L'insediamento fenicio e punico di Monte Sirai, «Sardegna antica», 2, 20-21.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Bartoloni",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "L'insediamento fenicio e punico di Monte Sirai",
+   "is_part_of": [
+    "Sardegna antica"
+   ],
+   "pages": "20-21",
+   "volume": "2",
+   "language": "ita",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "BARTOLONI P. 1994, L'impianto urbanistico di Monte Sirai in età repubblicana, in \"L'Africa romana\", Atti del X Convegno di studio, Cagliari, 817-829.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Bartoloni",
+     "given": "P."
+    }
+   ],
+   "type": "chapter",
+   "title": "L'impianto urbanistico di Monte Sirai in età repubblicana",
+   "pages": "817-829",
+   "is_part_of": [
+    "L'Africa romana, Atti del X Convegno di studio"
+   ],
+   "place": "Cagliari",
+   "language": "ita",
+   "confidence": "high",
+   "position": 2
+  },
+  {
+   "raw": "BARTOLONI P. 1994, Monte Sirai I. Gli scavi 1990-92, «Rivista di Studi Fenici», 22, 75-82.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Bartoloni",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "Monte Sirai I. Gli scavi 1990-92",
+   "is_part_of": [
+    "Rivista di Studi Fenici"
+   ],
+   "pages": "75-82",
+   "volume": "22",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3
+  },
+  {
+   "raw": "BARTOLONI P., MARRAS L.A., BONDÌ S.F. 1992, Monte Sirai (= Itinerari, 9), Roma, 9-12.",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Bartoloni",
+     "given": "P."
+    },
+    {
+     "family": "Marras",
+     "given": "L.A."
+    },
+    {
+     "family": "Bondì",
+     "given": "S.F."
+    }
+   ],
+   "pages": "9-12",
+   "type": "book",
+   "title": "Monte Sirai",
+   "place": "Roma",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4,
+   "series": "Itinerari",
+   "series_number": "9"
+  }
+ ]
+}

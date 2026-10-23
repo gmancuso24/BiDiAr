@@ -1,0 +1,626 @@
+{
+ "citing_aec_id": 1271,
+ "source_file": "data/journal/34/1271.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Arrighetti A., Pansini R. (eds.) 2022, *Sistemi e tecniche di documentazione, gestione e valorizzazione dell'architettura storica. Alcune recenti esperienze*, «Archeologia e Calcolatori», 33, 1 (http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2022-07-25).",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    },
+    {
+     "family": "Pansini",
+     "given": "R."
+    }
+   ],
+   "date": "2022",
+   "title": "Sistemi e tecniche di documentazione, gestione e valorizzazione dell'architettura storica. Alcune recenti esperienze",
+   "is_part_of": [
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "33",
+   "issue": "1",
+   "uri": "http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2022-07-25",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bianchini C., Inglese C., Ippolito A. 2016, *The Ancient Theatres of the Mediterranean as Integrated Survey Experience*, Roma, Sapienza Università Editrice.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bianchini",
+     "given": "C."
+    },
+    {
+     "family": "Inglese",
+     "given": "C."
+    },
+    {
+     "family": "Ippolito",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "The Ancient Theatres of the Mediterranean as Integrated Survey Experience",
+   "publisher": "Sapienza Università Editrice",
+   "place": "Roma",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Bianchini C., Inglese C., Ippolito A., Attenni M., Griffo M. 2022, *Un viaggio nelle Basiliche Romane: l'esperienza culturale dalla documentazione alla fruizione - A tour of the Roman Basilicas: The cultural experience from documentation to fruition*, in *Atti del II Convegno annuale/Proceedings of the 2nd Conference (Roma 2021)*, DTC Lazio Distretto tecnologico beni e attività culturali Centro di eccellenza, Roma, L'Erma di Bretschneider.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bianchini",
+     "given": "C."
+    },
+    {
+     "family": "Inglese",
+     "given": "C."
+    },
+    {
+     "family": "Ippolito",
+     "given": "A."
+    },
+    {
+     "family": "Attenni",
+     "given": "M."
+    },
+    {
+     "family": "Griffo",
+     "given": "M."
+    }
+   ],
+   "date": "2022",
+   "title": "Un viaggio nelle Basiliche Romane: l'esperienza culturale dalla documentazione alla fruizione - A tour of the Roman Basilicas: The cultural experience from documentation to fruition",
+   "is_part_of": [
+    "Atti del II Convegno annuale/Proceedings of the 2nd Conference (Roma 2021)"
+   ],
+   "publisher": "L'Erma di Bretschneider",
+   "place": "Roma",
+   "language": "ita",
+   "notes": "conference of DTC Lazio Distretto tecnologico beni e attività culturali Centro di eccellenza; no editors cited; no pages",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Dellepiane M., Dell'Unto N., Callieri M., Lindgren S., Scopigno R. 2013, *Archeological excavation monitoring using dense stereo matching techniques*, «Journal of Cultural Heritage», 3, 14, 201-210.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dellepiane",
+     "given": "M."
+    },
+    {
+     "family": "Dell'Unto",
+     "given": "N."
+    },
+    {
+     "family": "Callieri",
+     "given": "M."
+    },
+    {
+     "family": "Lindgren",
+     "given": "S."
+    },
+    {
+     "family": "Scopigno",
+     "given": "R."
+    }
+   ],
+   "date": "2013",
+   "title": "Archeological excavation monitoring using dense stereo matching techniques",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "14",
+   "issue": "3",
+   "pages": "201-210",
+   "language": "eng",
+   "notes": "cited as '3, 14' (issue, volume inverted); read as vol. 14, issue 3",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "De Blaauw S. 2015, *Anomalous architecture: The case of Santa Maria Maggiore, Rome*, in *Digitizing Visual Memories in Architecture: Rome and Amsterdam Workshop*, Netherlands Institute for Advanced Study (Amsterdam 2015).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "De Blaauw",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "Anomalous architecture: The case of Santa Maria Maggiore, Rome",
+   "is_part_of": [
+    "Digitizing Visual Memories in Architecture: Rome and Amsterdam Workshop"
+   ],
+   "publisher": "Netherlands Institute for Advanced Study",
+   "place": "Amsterdam",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Ferdani D., Demetrescu E., Bottazzi G., Bigi P. 2022, *Il contributo dell'archeologia digitale allo studio e all'interpretazione dell'edilizia storica. Il caso di San Marino*, in Arrighetti, Pansini 2022, 181-200 (https://doi.org/10.19282/ac.33.1.2022.10).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Demetrescu",
+     "given": "E."
+    },
+    {
+     "family": "Bottazzi",
+     "given": "G."
+    },
+    {
+     "family": "Bigi",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    },
+    {
+     "family": "Pansini",
+     "given": "R."
+    }
+   ],
+   "date": "2022",
+   "title": "Il contributo dell'archeologia digitale allo studio e all'interpretazione dell'edilizia storica. Il caso di San Marino",
+   "is_part_of": [
+    "Sistemi e tecniche di documentazione, gestione e valorizzazione dell'architettura storica. Alcune recenti esperienze",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "33",
+   "issue": "1",
+   "pages": "181-200",
+   "doi": "10.19282/ac.33.1.2022.10",
+   "language": "ita",
+   "xref": 1,
+   "cited_aec_id": 1192,
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Fiorini A. 2022, *Scansioni dinamiche in archeologia dell'architettura: test e valutazioni metriche del sensore LiDAR di Apple*, in Arrighetti, Pansini 2022, 35-54 (https://doi.org/10.19282/ac.33.1.2022.03).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Fiorini",
+     "given": "A."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    },
+    {
+     "family": "Pansini",
+     "given": "R."
+    }
+   ],
+   "date": "2022",
+   "title": "Scansioni dinamiche in archeologia dell'architettura: test e valutazioni metriche del sensore LiDAR di Apple",
+   "is_part_of": [
+    "Sistemi e tecniche di documentazione, gestione e valorizzazione dell'architettura storica. Alcune recenti esperienze",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "33",
+   "issue": "1",
+   "pages": "35-54",
+   "doi": "10.19282/ac.33.1.2022.03",
+   "language": "ita",
+   "xref": 1,
+   "cited_aec_id": 1185,
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Iannantuono K. 2010, *Aristocrazia e potere. La gens Neratia tra antico e tardoantico*, Tesi di Laurea, Università di Bologna.",
+   "type": "thesis",
+   "creators": [
+    {
+     "family": "Iannantuono",
+     "given": "K."
+    }
+   ],
+   "date": "2010",
+   "title": "Aristocrazia e potere. La gens Neratia tra antico e tardoantico",
+   "publisher": "Università di Bologna",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Inglese C., Luchetti S. 2022, *Il mausoleo di Cecilia Metella tra documentazione grafica analogica e digitale: un approccio metodologico multidisciplinare*, in Arrighetti, Pansini 2022, 73-90 (https://doi.org/10.19282/ac.33.1.2022.05).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Inglese",
+     "given": "C."
+    },
+    {
+     "family": "Luchetti",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Arrighetti",
+     "given": "A."
+    },
+    {
+     "family": "Pansini",
+     "given": "R."
+    }
+   ],
+   "date": "2022",
+   "title": "Il mausoleo di Cecilia Metella tra documentazione grafica analogica e digitale: un approccio metodologico multidisciplinare",
+   "is_part_of": [
+    "Sistemi e tecniche di documentazione, gestione e valorizzazione dell'architettura storica. Alcune recenti esperienze",
+    "Archeologia e Calcolatori"
+   ],
+   "volume": "33",
+   "issue": "1",
+   "pages": "73-90",
+   "doi": "10.19282/ac.33.1.2022.05",
+   "language": "ita",
+   "xref": 1,
+   "cited_aec_id": 1187,
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Ippolito A., Bartolomei C. 2014, *La gestione del dato di rilievo attraverso software open source: il sistema delle porte bolognesi*, in P. Giandebiaggi, C. Vernizzi (eds.), *Italian Survey & International Experience*, Roma, Gangemi, 897-906.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ippolito",
+     "given": "A."
+    },
+    {
+     "family": "Bartolomei",
+     "given": "C."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Giandebiaggi",
+     "given": "P."
+    },
+    {
+     "family": "Vernizzi",
+     "given": "C."
+    }
+   ],
+   "date": "2014",
+   "title": "La gestione del dato di rilievo attraverso software open source: il sistema delle porte bolognesi",
+   "is_part_of": [
+    "Italian Survey & International Experience"
+   ],
+   "pages": "897-906",
+   "publisher": "Gangemi",
+   "place": "Roma",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Liverani P. 1987, *L'ambiente nell'antichità*, in C. Pietrangeli (ed.), *La basilica romana di Santa Maria Maggiore*, Firenze, Nardini, 45-53.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Liverani",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Pietrangeli",
+     "given": "C."
+    }
+   ],
+   "date": "1987",
+   "title": "L'ambiente nell'antichità",
+   "is_part_of": [
+    "La basilica romana di Santa Maria Maggiore"
+   ],
+   "pages": "45-53",
+   "publisher": "Nardini",
+   "place": "Firenze",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Liverani P. 2010, *Osservazioni sulla domus sotto S. Maria Maggiore a Roma e sulla sua relazione con la basilica*, «Mitteilungen des Deutschen Archäologischen Instituts. Römische Abteilung», 116, 459-467.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Liverani",
+     "given": "P."
+    }
+   ],
+   "date": "2010",
+   "title": "Osservazioni sulla domus sotto S. Maria Maggiore a Roma e sulla sua relazione con la basilica",
+   "is_part_of": [
+    "Mitteilungen des Deutschen Archäologischen Instituts. Römische Abteilung"
+   ],
+   "volume": "116",
+   "pages": "459-467",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Liverani P. 2013, *Alarico in Laterano e sull'Esquilino: due casi e qualche riflessione*, in J. Lipps, C. Machado, Ph. von Rummel (eds.), *The Sack of Rome in 410 AD. The Event, its Context and its Impact. German Archaeological Institute, Proceedings of the Conference (Rome 2010)*, Wiesbaden, Dr. Ludwig Reichert Verlag, 277-292.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Liverani",
+     "given": "P."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Lipps",
+     "given": "J."
+    },
+    {
+     "family": "Machado",
+     "given": "C."
+    },
+    {
+     "family": "von Rummel",
+     "given": "Ph."
+    }
+   ],
+   "date": "2013",
+   "title": "Alarico in Laterano e sull'Esquilino: due casi e qualche riflessione",
+   "is_part_of": [
+    "The Sack of Rome in 410 AD. The Event, its Context and its Impact. German Archaeological Institute, Proceedings of the Conference (Rome 2010)"
+   ],
+   "pages": "277-292",
+   "publisher": "Dr. Ludwig Reichert Verlag",
+   "place": "Wiesbaden",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Magi F. 1972, *Il calendario dipinto sotto Santa Maria Maggiore*, «Atti della Pontificia Accademia Romana di Archeologia», s. III, 11, 1, 1-102.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Magi",
+     "given": "F."
+    }
+   ],
+   "date": "1972",
+   "title": "Il calendario dipinto sotto Santa Maria Maggiore",
+   "is_part_of": [
+    "Atti della Pontificia Accademia Romana di Archeologia"
+   ],
+   "volume": "s. III, 11",
+   "issue": "1",
+   "pages": "1-102",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Remondino F. 2011, *Heritage recording and 3D modeling with photogrammetry and 3D scanning*, «Remote Sensing», 3, 1104-1138.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2011",
+   "title": "Heritage recording and 3D modeling with photogrammetry and 3D scanning",
+   "is_part_of": [
+    "Remote Sensing"
+   ],
+   "volume": "3",
+   "pages": "1104-1138",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Remondino F., El-Hakim S., Baltsavias E., Picard M., Grammatikopoulos L. 2008, *Image-based 3D modeling of the Erechteion, Acropolis of Athens*, «The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», 37-B5, 1083-1091 (http://www.isprs.org/proceedings/XXXVII/congress/5_pdf/186.pdf).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "El-Hakim",
+     "given": "S."
+    },
+    {
+     "family": "Baltsavias",
+     "given": "E."
+    },
+    {
+     "family": "Picard",
+     "given": "M."
+    },
+    {
+     "family": "Grammatikopoulos",
+     "given": "L."
+    }
+   ],
+   "date": "2008",
+   "title": "Image-based 3D modeling of the Erechteion, Acropolis of Athens",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "37-B5",
+   "pages": "1083-1091",
+   "uri": "http://www.isprs.org/proceedings/XXXVII/congress/5_pdf/186.pdf",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Remondino F., Spera M.G., Nocerino E., Menna F., Nex F. 2014, *State of the art in high density image matching*, «The Photogrammetric Record», 29, 144-166.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Remondino",
+     "given": "F."
+    },
+    {
+     "family": "Spera",
+     "given": "M.G."
+    },
+    {
+     "family": "Nocerino",
+     "given": "E."
+    },
+    {
+     "family": "Menna",
+     "given": "F."
+    },
+    {
+     "family": "Nex",
+     "given": "F."
+    }
+   ],
+   "date": "2014",
+   "title": "State of the art in high density image matching",
+   "is_part_of": [
+    "The Photogrammetric Record"
+   ],
+   "volume": "29",
+   "pages": "144-166",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Russo M., Manferdini A.M. 2015, *Integrated multi-scalar approach for 3D Cultural Heritage acquisitions*, in S. Brusaporci (ed.), *Handbook of Research on Emerging Digital Tools for Architectural Surveying, Modelling, and Representation*, Hershey PA, Engineering Science Reference (IGI Global), 337-360.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Russo",
+     "given": "M."
+    },
+    {
+     "family": "Manferdini",
+     "given": "A.M."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Brusaporci",
+     "given": "S."
+    }
+   ],
+   "date": "2015",
+   "title": "Integrated multi-scalar approach for 3D Cultural Heritage acquisitions",
+   "is_part_of": [
+    "Handbook of Research on Emerging Digital Tools for Architectural Surveying, Modelling, and Representation"
+   ],
+   "pages": "337-360",
+   "publisher": "Engineering Science Reference (IGI Global)",
+   "place": "Hershey PA",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Steinby E.M. 1995, *Lexicon topographicum urbis Romae*, II, D-G, Roma, Edizioni Quasar.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Steinby",
+     "given": "E.M."
+    }
+   ],
+   "date": "1995",
+   "title": "Lexicon topographicum urbis Romae",
+   "volume": "II, D-G",
+   "publisher": "Edizioni Quasar",
+   "place": "Roma",
+   "language": "lat",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Steinby E.M. 1996, *Lexicon topographicum urbis Romae*, III, H-O, Roma, Edizioni Quasar.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Steinby",
+     "given": "E.M."
+    }
+   ],
+   "date": "1996",
+   "title": "Lexicon topographicum urbis Romae",
+   "volume": "III, H-O",
+   "publisher": "Edizioni Quasar",
+   "place": "Roma",
+   "language": "lat",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Unesco W.H.C. 2021, *Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura* (https://whc.unesco.org/en/list/91/).",
+   "type": "other",
+   "date": "2021",
+   "title": "Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",
+   "uri": "https://whc.unesco.org/en/list/91/",
+   "language": "eng",
+   "notes": "author cited as 'Unesco W.H.C.' (UNESCO World Heritage Centre, corporate); no person recorded",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Vogt M., Rips A., Emmelmann C. 2021, *Comparison of iPad Pro®'s LiDAR and TrueDepth capabilities with an industrial 3D scanning solution*, «Technologies», 9, 25 (https://doi.org/10.3390/technologies9020025).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vogt",
+     "given": "M."
+    },
+    {
+     "family": "Rips",
+     "given": "A."
+    },
+    {
+     "family": "Emmelmann",
+     "given": "C."
+    }
+   ],
+   "date": "2021",
+   "title": "Comparison of iPad Pro®'s LiDAR and TrueDepth capabilities with an industrial 3D scanning solution",
+   "is_part_of": [
+    "Technologies"
+   ],
+   "volume": "9",
+   "doi": "10.3390/technologies9020025",
+   "language": "eng",
+   "notes": "25 is the article number",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,898 @@
+{
+ "citing_aec_id": 1174,
+ "source_file": "data/journal/32/1174.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Andrés A.N., Buill Pozuelo F., Regot Marimón J., de Mesa Gisbert A. 2012, Generation of virtual models of cultural heritage, «Journal of Cultural Heritage», 13, 1, 103-106.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Andrés",
+     "given": "A.N."
+    },
+    {
+     "family": "Buill Pozuelo",
+     "given": "F."
+    },
+    {
+     "family": "Regot Marimón",
+     "given": "J."
+    },
+    {
+     "family": "de Mesa Gisbert",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Generation of virtual models of cultural heritage",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "13",
+   "issue": "1",
+   "pages": "103-106",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Aquino A., Pagnotta S., Pecchioni E., Moggi Cecchi V., Columbu S., Lezzerini M. 2020a, The role of 3D modelling for different stone objects: From mineral to artefact, in 2020 IMEKO TC-4 International Conference on Metrology for Archaeology and Cultural Heritage, 184-188 (https://www.imeko.org/publications/tc4-Archaeo-2020/IMEKO-TC4-MetroArchaeo2020-036.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Aquino",
+     "given": "A."
+    },
+    {
+     "family": "Pagnotta",
+     "given": "S."
+    },
+    {
+     "family": "Pecchioni",
+     "given": "E."
+    },
+    {
+     "family": "Moggi Cecchi",
+     "given": "V."
+    },
+    {
+     "family": "Columbu",
+     "given": "S."
+    },
+    {
+     "family": "Lezzerini",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "The role of 3D modelling for different stone objects: From mineral to artefact",
+   "is_part_of": [
+    "2020 IMEKO TC-4 International Conference on Metrology for Archaeology and Cultural Heritage"
+   ],
+   "pages": "184-188",
+   "language": "eng",
+   "uri": "https://www.imeko.org/publications/tc4-Archaeo-2020/IMEKO-TC4-MetroArchaeo2020-036.pdf",
+   "notes": "cited as 2020a",
+   "confidence": "high"
+  },
+  {
+   "position": 3,
+   "raw": "Aquino A., Pagnotta S., Polese S., Tamponi M., Lezzerini M. 2020b, Panchina calcarenite: A building material from Tuscany coast, in IOP Conference Series: Earth and Environmental Science, 609, 1, n. 012077 (https://iopscience.iop.org/article/10.1088/1755-1315/609/1/012077/meta).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Aquino",
+     "given": "A."
+    },
+    {
+     "family": "Pagnotta",
+     "given": "S."
+    },
+    {
+     "family": "Polese",
+     "given": "S."
+    },
+    {
+     "family": "Tamponi",
+     "given": "M."
+    },
+    {
+     "family": "Lezzerini",
+     "given": "M."
+    }
+   ],
+   "date": "2020",
+   "title": "Panchina calcarenite: A building material from Tuscany coast",
+   "is_part_of": [
+    "IOP Conference Series: Earth and Environmental Science"
+   ],
+   "volume": "609",
+   "issue": "1",
+   "pages": "012077",
+   "language": "eng",
+   "uri": "https://iopscience.iop.org/article/10.1088/1755-1315/609/1/012077/meta",
+   "notes": "cited as 2020b; \"n. 012077\" is an article number",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Aquino A., Pecchioni E., Fratini F., Cantisani E., La Felice S., Abebe T., Principe C., Lezzerini M. 2019, The production of binding materials in southern Florence area: Stones and their properties (Greve in Chianti, Italy), in IMEKO TC4 International Conference on Metrology for Archaeology and Cultural Heritage (Florence 2019), 90-94 (https://www.imeko.org/publications/tc4-Archaeo-2019/IMEKO-TC4-METROARCHAEO-2019-16.pdf).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Aquino",
+     "given": "A."
+    },
+    {
+     "family": "Pecchioni",
+     "given": "E."
+    },
+    {
+     "family": "Fratini",
+     "given": "F."
+    },
+    {
+     "family": "Cantisani",
+     "given": "E."
+    },
+    {
+     "family": "La Felice",
+     "given": "S."
+    },
+    {
+     "family": "Abebe",
+     "given": "T."
+    },
+    {
+     "family": "Principe",
+     "given": "C."
+    },
+    {
+     "family": "Lezzerini",
+     "given": "M."
+    }
+   ],
+   "date": "2019",
+   "title": "The production of binding materials in southern Florence area: Stones and their properties (Greve in Chianti, Italy)",
+   "is_part_of": [
+    "IMEKO TC4 International Conference on Metrology for Archaeology and Cultural Heritage (Florence 2019)"
+   ],
+   "pages": "90-94",
+   "language": "eng",
+   "uri": "https://www.imeko.org/publications/tc4-Archaeo-2019/IMEKO-TC4-METROARCHAEO-2019-16.pdf",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Calin M., Damian G., Popescu T., Manea R., Erghelegiu B., Salagean T. 2015, 3D modelling for digital preservation of Romanian heritage monuments, «Agriculture and Agricultural Science Procedia», 6, 421-428.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Calin",
+     "given": "M."
+    },
+    {
+     "family": "Damian",
+     "given": "G."
+    },
+    {
+     "family": "Popescu",
+     "given": "T."
+    },
+    {
+     "family": "Manea",
+     "given": "R."
+    },
+    {
+     "family": "Erghelegiu",
+     "given": "B."
+    },
+    {
+     "family": "Salagean",
+     "given": "T."
+    }
+   ],
+   "date": "2015",
+   "title": "3D modelling for digital preservation of Romanian heritage monuments",
+   "is_part_of": [
+    "Agriculture and Agricultural Science Procedia"
+   ],
+   "volume": "6",
+   "pages": "421-428",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Capuano N., Gaeta A., Guarino G., Miranda S. 2016, Enhancing augmented reality with cognitive and knowledge perspectives: A case study in museum exhibitions, «Behaviour & Information Technology», 35, 11, 968-979.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Capuano",
+     "given": "N."
+    },
+    {
+     "family": "Gaeta",
+     "given": "A."
+    },
+    {
+     "family": "Guarino",
+     "given": "G."
+    },
+    {
+     "family": "Miranda",
+     "given": "S."
+    }
+   ],
+   "date": "2016",
+   "title": "Enhancing augmented reality with cognitive and knowledge perspectives: A case study in museum exhibitions",
+   "is_part_of": [
+    "Behaviour & Information Technology"
+   ],
+   "volume": "35",
+   "issue": "11",
+   "pages": "968-979",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Esmaeili H., Thwaites H. 2016, Virtual photogrammetry, Proceedings of the 2016 International Conference on Virtual Systems and Multimedia, VSMM 2016, n. 7863153 (https://ieeexplore.ieee.org/document/7863153).",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Esmaeili",
+     "given": "H."
+    },
+    {
+     "family": "Thwaites",
+     "given": "H."
+    }
+   ],
+   "date": "2016",
+   "title": "Virtual photogrammetry",
+   "is_part_of": [
+    "Proceedings of the 2016 International Conference on Virtual Systems and Multimedia, VSMM 2016"
+   ],
+   "pages": "7863153",
+   "language": "eng",
+   "uri": "https://ieeexplore.ieee.org/document/7863153",
+   "notes": "\"n. 7863153\" is an article number",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Fernandes-Lozano J., Gutiérrez-Alonso G., Ruiz-Tejada M.A., Criado-Valdés M. 2017, 3D digital documentation and image enhancement integration into schematic rock art analysis and preservation: The Castrocontrigo Neolithic rock art (NW Spain), «Journal of Cultural Heritage», 26, 160-166.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fernandes-Lozano",
+     "given": "J."
+    },
+    {
+     "family": "Gutiérrez-Alonso",
+     "given": "G."
+    },
+    {
+     "family": "Ruiz-Tejada",
+     "given": "M.A."
+    },
+    {
+     "family": "Criado-Valdés",
+     "given": "M."
+    }
+   ],
+   "date": "2017",
+   "title": "3D digital documentation and image enhancement integration into schematic rock art analysis and preservation: The Castrocontrigo Neolithic rock art (NW Spain)",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "26",
+   "pages": "160-166",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Forlani G., Roncella R., Nardinocchi C. 2015, Where is photogrammetry heading to? State of the art and trends, «Rendiconti Lincei. Scienze Fisiche e Naturali», 26, 1, 85-96.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Forlani",
+     "given": "G."
+    },
+    {
+     "family": "Roncella",
+     "given": "R."
+    },
+    {
+     "family": "Nardinocchi",
+     "given": "C."
+    }
+   ],
+   "date": "2015",
+   "title": "Where is photogrammetry heading to? State of the art and trends",
+   "is_part_of": [
+    "Rendiconti Lincei. Scienze Fisiche e Naturali"
+   ],
+   "volume": "26",
+   "issue": "1",
+   "pages": "85-96",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Fratini F., Cantisani E., Pecchioni E., Pandeli E., Vettori S. 2020, Pietra Alberese: Building material and stone for lime in the Florentine territory (Tuscany, Italy), «Heritage», 3, 1520-1538.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Fratini",
+     "given": "F."
+    },
+    {
+     "family": "Cantisani",
+     "given": "E."
+    },
+    {
+     "family": "Pecchioni",
+     "given": "E."
+    },
+    {
+     "family": "Pandeli",
+     "given": "E."
+    },
+    {
+     "family": "Vettori",
+     "given": "S."
+    }
+   ],
+   "date": "2020",
+   "title": "Pietra Alberese: Building material and stone for lime in the Florentine territory (Tuscany, Italy)",
+   "is_part_of": [
+    "Heritage"
+   ],
+   "volume": "3",
+   "pages": "1520-1538",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Guidazzoli A., Liguori M.C., Luca D.D., Imboden S. 2014, Valorizzazione a collezioni museali archeologiche italiane, «Virtual Archaeology Review», 5,10, 93-106.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Guidazzoli",
+     "given": "A."
+    },
+    {
+     "family": "Liguori",
+     "given": "M.C."
+    },
+    {
+     "family": "Luca",
+     "given": "D.D."
+    },
+    {
+     "family": "Imboden",
+     "given": "S."
+    }
+   ],
+   "date": "2014",
+   "title": "Valorizzazione a collezioni museali archeologiche italiane",
+   "is_part_of": [
+    "Virtual Archaeology Review"
+   ],
+   "volume": "5",
+   "issue": "10",
+   "pages": "93-106",
+   "language": "ita",
+   "notes": "third author cited as \"Luca D.D.\"",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Kersten T.P., Tschirschwitz F., Lindstaedt M., Deggim S. 2018, The historic wooden model of Solomon's Temple: 3D recording, modelling and immersive virtual reality visualisation, «Journal of Cultural Heritage Management and Sustainable Development», 8, 4, 448-464.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Kersten",
+     "given": "T.P."
+    },
+    {
+     "family": "Tschirschwitz",
+     "given": "F."
+    },
+    {
+     "family": "Lindstaedt",
+     "given": "M."
+    },
+    {
+     "family": "Deggim",
+     "given": "S."
+    }
+   ],
+   "date": "2018",
+   "title": "The historic wooden model of Solomon's Temple: 3D recording, modelling and immersive virtual reality visualisation",
+   "is_part_of": [
+    "Journal of Cultural Heritage Management and Sustainable Development"
+   ],
+   "volume": "8",
+   "issue": "4",
+   "pages": "448-464",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Lezzerini M. 2005, Mappatura delle pietre presenti nella facciata della chiesa di San Frediano (Pisa, Italia), «Atti della Società Toscana di Scienze Naturali, Memorie Serie A», 110, 43-50.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lezzerini",
+     "given": "M."
+    }
+   ],
+   "date": "2005",
+   "title": "Mappatura delle pietre presenti nella facciata della chiesa di San Frediano (Pisa, Italia)",
+   "is_part_of": [
+    "Atti della Società Toscana di Scienze Naturali, Memorie Serie A"
+   ],
+   "volume": "110",
+   "pages": "43-50",
+   "language": "ita",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Lezzerini M., Aquino A., Legnaioli S., Pagnotta S., Palleschi V. 2020, The source materials for lime production in the Monte Pisano Area (NW Tuscany, Italy), in IOP Conference Series: Earth and Environmental Science, 609, 1, n. 012078 (https://iopscience.iop.org/article/10.1088/1755-1315/609/1/012078).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Lezzerini",
+     "given": "M."
+    },
+    {
+     "family": "Aquino",
+     "given": "A."
+    },
+    {
+     "family": "Legnaioli",
+     "given": "S."
+    },
+    {
+     "family": "Pagnotta",
+     "given": "S."
+    },
+    {
+     "family": "Palleschi",
+     "given": "V."
+    }
+   ],
+   "date": "2020",
+   "title": "The source materials for lime production in the Monte Pisano Area (NW Tuscany, Italy)",
+   "is_part_of": [
+    "IOP Conference Series: Earth and Environmental Science"
+   ],
+   "volume": "609",
+   "issue": "1",
+   "pages": "012078",
+   "language": "eng",
+   "uri": "https://iopscience.iop.org/article/10.1088/1755-1315/609/1/012078",
+   "notes": "\"n. 012078\" is an article number",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "McCarthy J. 2014, Multi-image photogrammetry as a practical tool for cultural heritage survey and community engagement, «Journal of Archaeological Science», 43, 175-185.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "McCarthy",
+     "given": "J."
+    }
+   ],
+   "date": "2014",
+   "title": "Multi-image photogrammetry as a practical tool for cultural heritage survey and community engagement",
+   "is_part_of": [
+    "Journal of Archaeological Science"
+   ],
+   "volume": "43",
+   "pages": "175-185",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Medina J.J., Maley J.M., Sannapareddy S., Medina N.N., Gilman C.M., McCormack J.E. 2020, A rapid and cost-effective pipeline for digitization of museum specimens with 3D photogrammetry, «PLoS One», 15, 8, e0236417.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Medina",
+     "given": "J.J."
+    },
+    {
+     "family": "Maley",
+     "given": "J.M."
+    },
+    {
+     "family": "Sannapareddy",
+     "given": "S."
+    },
+    {
+     "family": "Medina",
+     "given": "N.N."
+    },
+    {
+     "family": "Gilman",
+     "given": "C.M."
+    },
+    {
+     "family": "McCormack",
+     "given": "J.E."
+    }
+   ],
+   "date": "2020",
+   "title": "A rapid and cost-effective pipeline for digitization of museum specimens with 3D photogrammetry",
+   "is_part_of": [
+    "PLoS One"
+   ],
+   "volume": "15",
+   "issue": "8",
+   "pages": "e0236417",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Monna F., Esin Y., Magail J., Granjon L., Navarro N., Wilczek J., Saligny L., Couette S., Dumontet A., Chateau C. 2018, Documenting carved stones by 3D modelling – Example of Mongolian deer stones, «Journal of Cultural Heritage», 34, 116-128.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Monna",
+     "given": "F."
+    },
+    {
+     "family": "Esin",
+     "given": "Y."
+    },
+    {
+     "family": "Magail",
+     "given": "J."
+    },
+    {
+     "family": "Granjon",
+     "given": "L."
+    },
+    {
+     "family": "Navarro",
+     "given": "N."
+    },
+    {
+     "family": "Wilczek",
+     "given": "J."
+    },
+    {
+     "family": "Saligny",
+     "given": "L."
+    },
+    {
+     "family": "Couette",
+     "given": "S."
+    },
+    {
+     "family": "Dumontet",
+     "given": "A."
+    },
+    {
+     "family": "Chateau",
+     "given": "C."
+    }
+   ],
+   "date": "2018",
+   "title": "Documenting carved stones by 3D modelling – Example of Mongolian deer stones",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "34",
+   "pages": "116-128",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Nicolae C., Menna F., Remondino F. 2014, Photogrammetry applied to problematic artifacts, «The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences», XL-5, 451-456.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Nicolae",
+     "given": "C."
+    },
+    {
+     "family": "Menna",
+     "given": "F."
+    },
+    {
+     "family": "Remondino",
+     "given": "F."
+    }
+   ],
+   "date": "2014",
+   "title": "Photogrammetry applied to problematic artifacts",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XL-5",
+   "pages": "451-456",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Pavlidis G., Koutsoudis A., Arnaoutoglou F., Tsioukas V., Chamzas C. 2007, Methods for 3D digitization of cultural heritage, «Journal of Cultural Heritage», 8, 93-98.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pavlidis",
+     "given": "G."
+    },
+    {
+     "family": "Koutsoudis",
+     "given": "A."
+    },
+    {
+     "family": "Arnaoutoglou",
+     "given": "F."
+    },
+    {
+     "family": "Tsioukas",
+     "given": "V."
+    },
+    {
+     "family": "Chamzas",
+     "given": "C."
+    }
+   ],
+   "date": "2007",
+   "title": "Methods for 3D digitization of cultural heritage",
+   "is_part_of": [
+    "Journal of Cultural Heritage"
+   ],
+   "volume": "8",
+   "pages": "93-98",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Pescarin S. 2014, Museums and virtual museums in Europe: Reaching expectations, «SCIRES-IT», 8, 131-140.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pescarin",
+     "given": "S."
+    }
+   ],
+   "date": "2014",
+   "title": "Museums and virtual museums in Europe: Reaching expectations",
+   "is_part_of": [
+    "SCIRES-IT"
+   ],
+   "volume": "8",
+   "pages": "131-140",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "Pietroni E. 2017, Virtual museums for landscape valorization and communication, «The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences», XLII-2/W5, 575-582.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pietroni",
+     "given": "E."
+    }
+   ],
+   "date": "2017",
+   "title": "Virtual museums for landscape valorization and communication",
+   "is_part_of": [
+    "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+   ],
+   "volume": "XLII-2/W5",
+   "pages": "575-582",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "Pietroni E., Ferdani D., Forlani M., Pagano A. 2019, Bringing the illusion of reality inside showcases. A methodological proposal for an advanced museology using holographic showcases, «Informatics», 6, 2, 1-43.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pietroni",
+     "given": "E."
+    },
+    {
+     "family": "Ferdani",
+     "given": "D."
+    },
+    {
+     "family": "Forlani",
+     "given": "M."
+    },
+    {
+     "family": "Pagano",
+     "given": "A."
+    }
+   ],
+   "date": "2019",
+   "title": "Bringing the illusion of reality inside showcases. A methodological proposal for an advanced museology using holographic showcases",
+   "is_part_of": [
+    "Informatics"
+   ],
+   "volume": "6",
+   "issue": "2",
+   "pages": "1-43",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Pikov N., Rumyantsev M., Vishniakova M., Kizhner I. 2015, Touching an ancient stone: 3D modeling and augmented reality techniques for a collection of petroglyphs from State Hermitage Museum, «Digital Heritage», 2, 739-740.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Pikov",
+     "given": "N."
+    },
+    {
+     "family": "Rumyantsev",
+     "given": "M."
+    },
+    {
+     "family": "Vishniakova",
+     "given": "M."
+    },
+    {
+     "family": "Kizhner",
+     "given": "I."
+    }
+   ],
+   "date": "2015",
+   "title": "Touching an ancient stone: 3D modeling and augmented reality techniques for a collection of petroglyphs from State Hermitage Museum",
+   "is_part_of": [
+    "Digital Heritage"
+   ],
+   "volume": "2",
+   "pages": "739-740",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Shcherbinin D.Y. 2018, Digital technologies as a way to popularize museum collections, in Proceedings of the International Conference on Engineering Technologies and Computer Science (Moscow 2018), Los Alamitos, Ca, IEEE Computer Society, 76-78.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Shcherbinin",
+     "given": "D.Y."
+    }
+   ],
+   "date": "2018",
+   "title": "Digital technologies as a way to popularize museum collections",
+   "is_part_of": [
+    "Proceedings of the International Conference on Engineering Technologies and Computer Science (Moscow 2018)"
+   ],
+   "pages": "76-78",
+   "publisher": "IEEE Computer Society",
+   "place": "Los Alamitos, Ca",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Tcha-Tokey K., Christmann O., Loup-Escande E., Loup G., Richir S. 2018, Towards a model of user experience in immersive human-computer interaction, «Advances in Human-Computer Interaction», 782-786.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Tcha-Tokey",
+     "given": "K."
+    },
+    {
+     "family": "Christmann",
+     "given": "O."
+    },
+    {
+     "family": "Loup-Escande",
+     "given": "E."
+    },
+    {
+     "family": "Loup",
+     "given": "G."
+    },
+    {
+     "family": "Richir",
+     "given": "S."
+    }
+   ],
+   "date": "2018",
+   "title": "Towards a model of user experience in immersive human-computer interaction",
+   "is_part_of": [
+    "Advances in Human-Computer Interaction"
+   ],
+   "pages": "782-786",
+   "language": "eng",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Thali M., Braun M., Wirth J., Vock P., Dirnhofer R. 2003, 3D Surface and body documentation in forensic medicine: 3-D/CAD photogrammetry merged with 3D radiological scanning, «Journal of Forensic Sciences», 48, 6, 2003118.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Thali",
+     "given": "M."
+    },
+    {
+     "family": "Braun",
+     "given": "M."
+    },
+    {
+     "family": "Wirth",
+     "given": "J."
+    },
+    {
+     "family": "Vock",
+     "given": "P."
+    },
+    {
+     "family": "Dirnhofer",
+     "given": "R."
+    }
+   ],
+   "date": "2003",
+   "title": "3D Surface and body documentation in forensic medicine: 3-D/CAD photogrammetry merged with 3D radiological scanning",
+   "is_part_of": [
+    "Journal of Forensic Sciences"
+   ],
+   "volume": "48",
+   "issue": "6",
+   "pages": "2003118",
+   "language": "eng",
+   "notes": "2003118 is an article number",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Tucci G., Cini D., Nobile A. 2011, Effective 3D digitization of archaeological artifacts for interactive virtual museum, Proceedings of the 4th ISPRS International Workshop 3D-ARCH, (Trento 2011), «International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences», XXXVIII-5/W16, 2, 413-420.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Tucci",
+     "given": "G."
+    },
+    {
+     "family": "Cini",
+     "given": "D."
+    },
+    {
+     "family": "Nobile",
+     "given": "A."
+    }
+   ],
+   "date": "2011",
+   "title": "Effective 3D digitization of archaeological artifacts for interactive virtual museum",
+   "is_part_of": [
+    "Proceedings of the 4th ISPRS International Workshop 3D-ARCH (Trento 2011)"
+   ],
+   "volume": "2",
+   "pages": "413-420",
+   "series": "International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+   "series_number": "XXXVIII-5/W16",
+   "language": "eng",
+   "confidence": "high"
+  }
+ ]
+}

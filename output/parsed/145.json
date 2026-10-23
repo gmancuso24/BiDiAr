@@ -1,0 +1,158 @@
+{
+ "citing_aec_id": 145,
+ "source_file": "data/journal/7/145.md",
+ "references": [
+  {
+   "raw": "FARRUGGIA J.P., KUPER R., LÖNING J., STEHLI P. 1973, Untersuchungen zur neolithischen Besiedlung der Aldenhovener Platte, «Bonner Jahrbücher» 73, 226-256.",
+   "date": "1973",
+   "creators": [
+    {
+     "family": "Farruggia",
+     "given": "J.P."
+    },
+    {
+     "family": "Kuper",
+     "given": "R."
+    },
+    {
+     "family": "Löning",
+     "given": "J."
+    },
+    {
+     "family": "Stehli",
+     "given": "P."
+    }
+   ],
+   "type": "article",
+   "title": "Untersuchungen zur neolithischen Besiedlung der Aldenhovener Platte",
+   "is_part_of": [
+    "Bonner Jahrbücher"
+   ],
+   "pages": "226-256",
+   "volume": "73",
+   "language": "ger",
+   "confidence": "high",
+   "position": 1
+  },
+  {
+   "raw": "KUNA M. 1992, Systém Archiv 1.0. MS (ARU Praha).",
+   "date": "1992",
+   "creators": [
+    {
+     "family": "Kuna",
+     "given": "M."
+    }
+   ],
+   "type": "other",
+   "title": "Systém Archiv 1.0",
+   "language": "eng",
+   "confidence": "high",
+   "position": 2,
+   "notes": "MS (ARU Praha)"
+  },
+  {
+   "raw": "KUNA M. 1994, The State Archaeological Database, «Památky archeologické», Supplementum 1, 221-228.",
+   "date": "1994",
+   "creators": [
+    {
+     "family": "Kuna",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "The State Archaeological Database",
+   "is_part_of": [
+    "Památky archeologické"
+   ],
+   "pages": "221-228",
+   "language": "eng",
+   "confidence": "high",
+   "position": 3,
+   "volume": "Supplementum 1"
+  },
+  {
+   "raw": "PAVLU I., RULF J., ZAPOTOCKA M. 1995, Bylany enclosure. The Neolithic Site Area Model, «Památky archeologické», Supplementum 3, 1, 172, Praha.",
+   "date": "1995",
+   "creators": [
+    {
+     "family": "Pavlu",
+     "given": "I."
+    },
+    {
+     "family": "Rulf",
+     "given": "J."
+    },
+    {
+     "family": "Zapotocka",
+     "given": "M."
+    }
+   ],
+   "type": "article",
+   "title": "Bylany enclosure. The Neolithic Site Area Model",
+   "is_part_of": [
+    "Památky archeologické"
+   ],
+   "issue": "1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 4,
+   "volume": "Supplementum 3",
+   "pages": "172",
+   "place": "Praha"
+  },
+  {
+   "raw": "PAVLU I., STUDLER J., SOUDSKY O. 1987, The structure of informations from excavation of neolithic sites and their preparing for scientific processing, in J. RULF (ed.), Bylany, Seminar, 35-44, Praha (ARU).",
+   "date": "1987",
+   "creators": [
+    {
+     "family": "Pavlu",
+     "given": "I."
+    },
+    {
+     "family": "Studler",
+     "given": "J."
+    },
+    {
+     "family": "Soudsky",
+     "given": "O."
+    }
+   ],
+   "type": "chapter",
+   "title": "The structure of informations from excavation of neolithic sites and their preparing for scientific processing",
+   "editors": [
+    {
+     "family": "Rulf",
+     "given": "J."
+    }
+   ],
+   "is_part_of": [
+    "Bylany, Seminar"
+   ],
+   "language": "eng",
+   "confidence": "high",
+   "position": 5,
+   "pages": "35-44",
+   "place": "Praha (ARU)"
+  },
+  {
+   "raw": "PAVLU I., ZAPOTOCKA M. 1983, Bylany, Katalog A-1. Praha (ARU).",
+   "date": "1983",
+   "creators": [
+    {
+     "family": "Pavlu",
+     "given": "I."
+    },
+    {
+     "family": "Zapotocka",
+     "given": "M."
+    }
+   ],
+   "type": "book",
+   "title": "Bylany, Katalog A-1",
+   "language": "eng",
+   "confidence": "high",
+   "position": 6,
+   "place": "Praha (ARU)"
+  }
+ ]
+}

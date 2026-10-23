@@ -1,0 +1,973 @@
+{
+ "citing_aec_id": 1189,
+ "source_file": "data/journal/33/1189.md",
+ "references": [
+  {
+   "position": 1,
+   "raw": "Aurigemma S. 1922, Statue imperiali e sculture decorative minori di recente scoperta in Venafro, «Bollettino d'Arte», 58-76.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Aurigemma",
+     "given": "S."
+    }
+   ],
+   "date": "1922",
+   "title": "Statue imperiali e sculture decorative minori di recente scoperta in Venafro",
+   "is_part_of": [
+    "Bollettino d'Arte"
+   ],
+   "language": "ita",
+   "pages": "58-76",
+   "confidence": "high"
+  },
+  {
+   "position": 2,
+   "raw": "Bonetto J. 2003, Gli edifici per spettacolo e la viabilità nelle città dell'Italia romana, in G. Tosi, Gli edifici per spettacoli nell'Italia romana, Roma, vol. I, Roma, Quasar, 923-939.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Bonetto",
+     "given": "J."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Tosi",
+     "given": "G."
+    }
+   ],
+   "date": "2003",
+   "title": "Gli edifici per spettacolo e la viabilità nelle città dell'Italia romana",
+   "is_part_of": [
+    "Gli edifici per spettacoli nell'Italia romana"
+   ],
+   "language": "ita",
+   "volume": "I",
+   "pages": "923-939",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "notes": "Tosi cited without '(ed.)' as author of the volume; entered as editor of the container",
+   "confidence": "low"
+  },
+  {
+   "position": 3,
+   "raw": "Bonetto J., Camporeale S., Pizzo A. (eds.) 2014, Arqueología de la construcción 4. Las canteras en el mundo antiguo: sistemas de exploración y processos productivos (Padova 2012), «Archivio Español de Arqueología», Suppl. 49, Mérida.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Bonetto",
+     "given": "J."
+    },
+    {
+     "family": "Camporeale",
+     "given": "S."
+    },
+    {
+     "family": "Pizzo",
+     "given": "A."
+    }
+   ],
+   "date": "2014",
+   "title": "Arqueología de la construcción 4. Las canteras en el mundo antiguo: sistemas de exploración y processos productivos (Padova 2012)",
+   "is_part_of": [
+    "Archivio Español de Arqueología"
+   ],
+   "language": "spa",
+   "volume": "Suppl. 49",
+   "place": "Mérida",
+   "confidence": "high"
+  },
+  {
+   "position": 4,
+   "raw": "Bukowiecki E., Dessales H., Doubolouz J. 2008, Ostie. L'eau dans la ville: châteaux d'eau et réseau d'adduction, Collection de l'Ecole Française de Rome, 402, Rome.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Bukowiecki",
+     "given": "E."
+    },
+    {
+     "family": "Dessales",
+     "given": "H."
+    },
+    {
+     "family": "Doubolouz",
+     "given": "J."
+    }
+   ],
+   "date": "2008",
+   "title": "Ostie. L'eau dans la ville: châteaux d'eau et réseau d'adduction",
+   "language": "fre",
+   "series": "Collection de l'Ecole Française de Rome",
+   "series_number": "402",
+   "place": "Rome",
+   "confidence": "high"
+  },
+  {
+   "position": 5,
+   "raw": "Camporeale S. 2018, Archeologia dei cantieri di età romana, in A. Becchi, R. Carvais, J. Sakarovitch (eds.), L'Histoire de la construction/Construction History. Relevé d'un chantier européen/Survey of a European Building Site, «Histoire des techniques», 13, Paris, Classiques Garnier, 1021-1049.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Camporeale",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Becchi",
+     "given": "A."
+    },
+    {
+     "family": "Carvais",
+     "given": "R."
+    },
+    {
+     "family": "Sakarovitch",
+     "given": "J."
+    }
+   ],
+   "date": "2018",
+   "title": "Archeologia dei cantieri di età romana",
+   "is_part_of": [
+    "L'Histoire de la construction/Construction History. Relevé d'un chantier européen/Survey of a European Building Site",
+    "Histoire des techniques"
+   ],
+   "language": "ita",
+   "volume": "13",
+   "pages": "1021-1049",
+   "publisher": "Classiques Garnier",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 6,
+   "raw": "Camporeale S., Dessales H., Pizzo A. (eds.) 2008, Arqueología de la construcción, 1. Los procesos consructivos en el mundo romano: Italia y provincias occidentales (Mérida 2007), «Archivio Español de Arqueología», Suppl. 50, Mérida.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Camporeale",
+     "given": "S."
+    },
+    {
+     "family": "Dessales",
+     "given": "H."
+    },
+    {
+     "family": "Pizzo",
+     "given": "A."
+    }
+   ],
+   "date": "2008",
+   "title": "Arqueología de la construcción, 1. Los procesos consructivos en el mundo romano: Italia y provincias occidentales (Mérida 2007)",
+   "is_part_of": [
+    "Archivio Español de Arqueología"
+   ],
+   "language": "spa",
+   "volume": "Suppl. 50",
+   "place": "Mérida",
+   "confidence": "high"
+  },
+  {
+   "position": 7,
+   "raw": "Camporeale S., Dessales H., Pizzo A. (eds.) 2010, Arqueología de la construcción, 2. Los procesos consructivos en el mundo romano: la economía de la obras (Parigi 2009), «Archivio Español de Arqueología», Suppl. 57, Madrid-Mérida.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Camporeale",
+     "given": "S."
+    },
+    {
+     "family": "Dessales",
+     "given": "H."
+    },
+    {
+     "family": "Pizzo",
+     "given": "A."
+    }
+   ],
+   "date": "2010",
+   "title": "Arqueología de la construcción, 2. Los procesos consructivos en el mundo romano: la economía de la obras (Parigi 2009)",
+   "is_part_of": [
+    "Archivio Español de Arqueología"
+   ],
+   "language": "spa",
+   "volume": "Suppl. 57",
+   "place": "Madrid-Mérida",
+   "confidence": "high"
+  },
+  {
+   "position": 8,
+   "raw": "Camporeale S., Dessales H., Pizzo A. (eds.) 2012, Arqueología de la construcción, 3. Los procesos consructivos en el mundo romano: Italia y provincias occidentales (Siena 2008), «Archivio Español de Arqueología», Suppl. 50, Mérida.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "Camporeale",
+     "given": "S."
+    },
+    {
+     "family": "Dessales",
+     "given": "H."
+    },
+    {
+     "family": "Pizzo",
+     "given": "A."
+    }
+   ],
+   "date": "2012",
+   "title": "Arqueología de la construcción, 3. Los procesos consructivos en el mundo romano: Italia y provincias occidentales (Siena 2008)",
+   "is_part_of": [
+    "Archivio Español de Arqueología"
+   ],
+   "language": "spa",
+   "volume": "Suppl. 50",
+   "place": "Mérida",
+   "notes": "cited as Suppl. 50 like vol. 1 (position 6); as cited",
+   "confidence": "high"
+  },
+  {
+   "position": 9,
+   "raw": "Camporeale S., Dessales H., Tricoche A. (eds.) c.s., Atlante delle tecniche della costruzione romana. Manuale, Roma, Quasar, in corso di stampa.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "Camporeale",
+     "given": "S."
+    },
+    {
+     "family": "Dessales",
+     "given": "H."
+    },
+    {
+     "family": "Tricoche",
+     "given": "A."
+    }
+   ],
+   "date": "c.s.",
+   "title": "Atlante delle tecniche della costruzione romana. Manuale",
+   "language": "ita",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched editors + title: no publication found (ACoR project page only announces the manual)",
+   "confidence": "high"
+  },
+  {
+   "position": 10,
+   "raw": "Capini S. 1990, Venafro (Isernia). Il teatro romano, «Bollettino d'Archeologia», 1-2, 229-232.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Capini",
+     "given": "S."
+    }
+   ],
+   "date": "1990",
+   "title": "Venafro (Isernia). Il teatro romano",
+   "is_part_of": [
+    "Bollettino d'Archeologia"
+   ],
+   "language": "ita",
+   "issue": "1-2",
+   "pages": "229-232",
+   "confidence": "high"
+  },
+  {
+   "position": 11,
+   "raw": "Capini S. 1991a, Venafrum, in S. Capini, A. Di Niro (eds.), Samnium. Archeologia del Molise, Roma, Quasar, 209-213.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Capini",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Capini",
+     "given": "S."
+    },
+    {
+     "family": "Di Niro",
+     "given": "A."
+    }
+   ],
+   "date": "1991",
+   "title": "Venafrum",
+   "is_part_of": [
+    "Samnium. Archeologia del Molise"
+   ],
+   "language": "lat",
+   "pages": "209-213",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 12,
+   "raw": "Capini S. 1991b, Venafro, in La romanisation du Samnium aux II et I siècles av. J.-C., Actes du colloque organisè par le Centre Jean Bérard en collaboration avec la Soprintendenza archeologica e per i BAAAS del Molise et la Soprintendenza archeologica per le Province di Salerno, Avellino e Benevento (Naples 1988), Napoli, Centre Jean Berard, 21-33.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Capini",
+     "given": "S."
+    }
+   ],
+   "date": "1991",
+   "title": "Venafro",
+   "is_part_of": [
+    "La romanisation du Samnium aux II et I siècles av. J.-C., Actes du colloque organisé par le Centre Jean Bérard en collaboration avec la Soprintendenza archeologica e per i BAAAS del Molise et la Soprintendenza archeologica per le Province di Salerno, Avellino e Benevento (Naples 1988)"
+   ],
+   "language": "ita",
+   "pages": "21-33",
+   "publisher": "Centre Jean Berard",
+   "place": "Napoli",
+   "notes": "'organisè' corrected to 'organisé'",
+   "confidence": "high"
+  },
+  {
+   "position": 13,
+   "raw": "Capini S. 2015, Venafro, città di Augusto, in R. Cecilia (ed.), Venafrum città di Augusto. Tra coltura e cultura, topografia, archeologia e storia, Roma, Quasar.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Capini",
+     "given": "S."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Cecilia",
+     "given": "R."
+    }
+   ],
+   "date": "2015",
+   "title": "Venafro, città di Augusto",
+   "is_part_of": [
+    "Venafrum città di Augusto. Tra coltura e cultura, topografia, archeologia e storia"
+   ],
+   "language": "ita",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 14,
+   "raw": "Ceccarelli A., Fratianni G. 2017, Molise, in Rinaldi Tufi (ed.), Archeologia delle regioni d'Italia, Roma, BraDypUS.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ceccarelli",
+     "given": "A."
+    },
+    {
+     "family": "Fratianni",
+     "given": "G."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Rinaldi Tufi",
+     "given": ""
+    }
+   ],
+   "date": "2017",
+   "title": "Molise",
+   "is_part_of": [
+    "Archeologia delle regioni d'Italia"
+   ],
+   "language": "ita",
+   "publisher": "BraDypUS",
+   "place": "Roma",
+   "notes": "editor cited without initial",
+   "confidence": "high"
+  },
+  {
+   "position": 15,
+   "raw": "Ciliberto F. 2015, Nugae sepinati I. Il macellum di Sepino: una puntualizzazione, «LANX. Rivista elettronica della Scuola di Specializzazione in Archeologia dell'Università degli Studi di Milano», 21, 41-53 (https://doi.org/10.13130/2035-4797/7614).",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ciliberto",
+     "given": "F."
+    }
+   ],
+   "date": "2015",
+   "title": "Nugae sepinati I. Il macellum di Sepino: una puntualizzazione",
+   "is_part_of": [
+    "LANX. Rivista elettronica della Scuola di Specializzazione in Archeologia dell'Università degli Studi di Milano"
+   ],
+   "language": "ita",
+   "volume": "21",
+   "pages": "41-53",
+   "doi": "10.13130/2035-4797/7614",
+   "confidence": "high"
+  },
+  {
+   "position": 16,
+   "raw": "Ciliberto F., Di Palma F. 2018, La pavimentazione del foro di Saepinum, in Altilia, Atti del XXIII Colloquio dell'Associazione Italiana per lo Studio e la Conservazione del Mosaico (AISCOM) (Narni, 2017), Roma, Quasar, 553-563.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ciliberto",
+     "given": "F."
+    },
+    {
+     "family": "Di Palma",
+     "given": "F."
+    }
+   ],
+   "date": "2018",
+   "title": "La pavimentazione del foro di Saepinum",
+   "is_part_of": [
+    "Altilia, Atti del XXIII Colloquio dell'Associazione Italiana per lo Studio e la Conservazione del Mosaico (AISCOM) (Narni, 2017)"
+   ],
+   "language": "ita",
+   "pages": "553-563",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "notes": "'Altilia' kept in the container title as cited",
+   "confidence": "high"
+  },
+  {
+   "position": 17,
+   "raw": "Ciliberto F., Guidi A. 2017, Nugae sepinati II. Le pavimentazioni del macellum di Sepino, in Atti del XXII Colloquio dell'Associazione Italiana per lo Studio e la Conservazione del Mosaico (AISCOM) (Matera 2016), Tivoli, Scripta Manent, 37-48.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Ciliberto",
+     "given": "F."
+    },
+    {
+     "family": "Guidi",
+     "given": "A."
+    }
+   ],
+   "date": "2017",
+   "title": "Nugae sepinati II. Le pavimentazioni del macellum di Sepino",
+   "is_part_of": [
+    "Atti del XXII Colloquio dell'Associazione Italiana per lo Studio e la Conservazione del Mosaico (AISCOM) (Matera 2016)"
+   ],
+   "language": "ita",
+   "pages": "37-48",
+   "publisher": "Scripta Manent",
+   "place": "Tivoli",
+   "confidence": "high"
+  },
+  {
+   "position": 18,
+   "raw": "Ciliberto F., Notardonato M. c.s., La ripresa degli scavi della villa romana in loc. Crocella (cosiddetta Villa dei Neratii) presso San Giuliano del Sannio (CB): aspetti preliminari, in corso di stampa.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Ciliberto",
+     "given": "F."
+    },
+    {
+     "family": "Notardonato",
+     "given": "M."
+    }
+   ],
+   "date": "2023",
+   "title": "La ripresa degli scavi della villa romana in loc. Crocella (cosiddetta Villa dei Neratii) presso San Giuliano del Sannio (CB): aspetti preliminari",
+   "is_part_of": [
+    "The Journal of Fasti Online, FOLD&R"
+   ],
+   "language": "ita",
+   "volume": "552",
+   "pages": "1-22",
+   "cs": {
+    "status": "resolved",
+    "source": "https://iris.unimol.it/handle/11695/118058 ; https://fastionline.org/s/folder/item/97189"
+   },
+   "notes": "cited c.s.; found published as FOLD&R 552 (2023), same title and authors",
+   "confidence": "high"
+  },
+  {
+   "position": 19,
+   "raw": "Coarelli F., La Regina A. 1984, Abruzzo Molise, Roma-Bari, Guide Archeologiche Laterza.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Coarelli",
+     "given": "F."
+    },
+    {
+     "family": "La Regina",
+     "given": "A."
+    }
+   ],
+   "date": "1984",
+   "title": "Abruzzo Molise",
+   "language": "ita",
+   "series": "Guide Archeologiche Laterza",
+   "place": "Roma-Bari",
+   "confidence": "high"
+  },
+  {
+   "position": 20,
+   "raw": "Covolan M. 2017, Venustius est reticulatum. L'evoluzione dell'opera reticolata a Cuma, «European Journal of Roman Architecture», 1, 7-24.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Covolan",
+     "given": "M."
+    }
+   ],
+   "date": "2017",
+   "title": "Venustius est reticulatum. L'evoluzione dell'opera reticolata a Cuma",
+   "is_part_of": [
+    "European Journal of Roman Architecture"
+   ],
+   "language": "ita",
+   "volume": "1",
+   "pages": "7-24",
+   "confidence": "high"
+  },
+  {
+   "position": 21,
+   "raw": "De Benedittis G. (ed.) 2011, San Giuliano del Sannio, La villa dei Neratii, Campobasso, Palladino.",
+   "type": "book",
+   "editors": [
+    {
+     "family": "De Benedittis",
+     "given": "G."
+    }
+   ],
+   "date": "2011",
+   "title": "San Giuliano del Sannio, La villa dei Neratii",
+   "language": "ita",
+   "publisher": "Palladino",
+   "place": "Campobasso",
+   "confidence": "high"
+  },
+  {
+   "position": 22,
+   "raw": "DeLaine J., Camporeale S., Pizzo A. (eds.) 2016, Arqueología de la construcción, 5. Man-made materials, engineering and infrastructure (Oxford 2015), «Archivio Español de Arqueología», Suppl. 75.",
+   "type": "proceedings",
+   "editors": [
+    {
+     "family": "DeLaine",
+     "given": "J."
+    },
+    {
+     "family": "Camporeale",
+     "given": "S."
+    },
+    {
+     "family": "Pizzo",
+     "given": "A."
+    }
+   ],
+   "date": "2016",
+   "title": "Arqueología de la construcción, 5. Man-made materials, engineering and infrastructure (Oxford 2015)",
+   "is_part_of": [
+    "Archivio Español de Arqueología"
+   ],
+   "language": "eng",
+   "volume": "Suppl. 75",
+   "confidence": "high"
+  },
+  {
+   "position": 23,
+   "raw": "Del Vecchio I. 2014, Testimonianze di Sepino tardo-ellenistica: il caso della pavimentazione con pseudo emblema dall'area della basilica, in Atti del XIX Colloquio dell'Associazione Italiana per lo Studio e la Conservazione del Mosaico (AISCOM) (Isernia 2013), Tivoli, Scripta Manent, 5-14.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Del Vecchio",
+     "given": "I."
+    }
+   ],
+   "date": "2014",
+   "title": "Testimonianze di Sepino tardo-ellenistica: il caso della pavimentazione con pseudo emblema dall'area della basilica",
+   "is_part_of": [
+    "Atti del XIX Colloquio dell'Associazione Italiana per lo Studio e la Conservazione del Mosaico (AISCOM) (Isernia 2013)"
+   ],
+   "language": "ita",
+   "pages": "5-14",
+   "publisher": "Scripta Manent",
+   "place": "Tivoli",
+   "confidence": "high"
+  },
+  {
+   "position": 24,
+   "raw": "Dessales H. 2010, Les usages de l'opus reticulatum dans la construction romaine: le cas des enceintes et des aqueducts, in R. Carvais, A. Guillerme, V. Nègre, P. Potié, J. Sakarovitch (eds.), Edifices - Artifices. Histoires Constructives. Recueil de textes issus du premier Congrès francophone d'histoire de la construction (Paris 2008), Paris, Picard, 493-502.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Dessales",
+     "given": "H."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Carvais",
+     "given": "R."
+    },
+    {
+     "family": "Guillerme",
+     "given": "A."
+    },
+    {
+     "family": "Nègre",
+     "given": "V."
+    },
+    {
+     "family": "Potié",
+     "given": "P."
+    },
+    {
+     "family": "Sakarovitch",
+     "given": "J."
+    }
+   ],
+   "date": "2010",
+   "title": "Les usages de l'opus reticulatum dans la construction romaine: le cas des enceintes et des aqueducts",
+   "is_part_of": [
+    "Edifices - Artifices. Histoires Constructives. Recueil de textes issus du premier Congrès francophone d'histoire de la construction (Paris 2008)"
+   ],
+   "language": "fre",
+   "pages": "493-502",
+   "publisher": "Picard",
+   "place": "Paris",
+   "confidence": "high"
+  },
+  {
+   "position": 25,
+   "raw": "Dessales H. 2017, L'archéologie de la construction: une nouvelle approche de l'architecture romaine, «Annales Histoire Sciences Sociales», 72, 75-94.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Dessales",
+     "given": "H."
+    }
+   ],
+   "date": "2017",
+   "title": "L'archéologie de la construction: une nouvelle approche de l'architecture romaine",
+   "is_part_of": [
+    "Annales Histoire Sciences Sociales"
+   ],
+   "language": "fre",
+   "volume": "72",
+   "pages": "75-94",
+   "confidence": "high"
+  },
+  {
+   "position": 26,
+   "raw": "Dessales H. 2020, The Villa of Diomedes. The Making of a Roman Villa in Pompeii, Paris, Hermann.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Dessales",
+     "given": "H."
+    }
+   ],
+   "date": "2020",
+   "title": "The Villa of Diomedes. The Making of a Roman Villa in Pompeii",
+   "language": "eng",
+   "publisher": "Hermann",
+   "place": "Paris",
+   "notes": "cited with Dessales as author; in other bibliographies he is the editor of the volume",
+   "confidence": "high"
+  },
+  {
+   "position": 27,
+   "raw": "Diebner S. 1979, Aesernia – Venafrum, Roma, Giorgio Bretschneider Editore.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Diebner",
+     "given": "S."
+    }
+   ],
+   "date": "1979",
+   "title": "Aesernia – Venafrum",
+   "language": "ita",
+   "publisher": "Giorgio Bretschneider Editore",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 28,
+   "raw": "Gaggiotti M. 1987-1988, Presenze senatorie ed evergetismo a Saepinum, «Annali della Facoltà di Lettere e Filosofia di Perugia», n.s. 12, 47-57.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Gaggiotti",
+     "given": "M."
+    }
+   ],
+   "date": "1987",
+   "title": "Presenze senatorie ed evergetismo a Saepinum",
+   "is_part_of": [
+    "Annali della Facoltà di Lettere e Filosofia di Perugia"
+   ],
+   "language": "ita",
+   "volume": "n.s. 12",
+   "pages": "47-57",
+   "notes": "cited as 1987-1988",
+   "confidence": "high"
+  },
+  {
+   "position": 29,
+   "raw": "Guidi A. 2013, Un pavimento in opus sectile da Sepino, in Atti del XVIII Colloquio dell'Associazione Italiana per lo Studio e la Conservazione del Mosaico (AISCOM) (Cremona 2012), Tivoli, Scripta Manent, 421-432.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guidi",
+     "given": "A."
+    }
+   ],
+   "date": "2013",
+   "title": "Un pavimento in opus sectile da Sepino",
+   "is_part_of": [
+    "Atti del XVIII Colloquio dell'Associazione Italiana per lo Studio e la Conservazione del Mosaico (AISCOM) (Cremona 2012)"
+   ],
+   "language": "ita",
+   "pages": "421-432",
+   "publisher": "Scripta Manent",
+   "place": "Tivoli",
+   "confidence": "high"
+  },
+  {
+   "position": 30,
+   "raw": "Guidi A. 2014, Le pavimentazioni degli edifici lungo il lato SE del foro di Sepino (CB), in Atti del XIX Colloquio dell'Associazione Italiana per lo Studio e la Conservazione del Mosaico (AISCOM) (Isernia 2013), Tivoli, Scripta Manent, 21-30.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Guidi",
+     "given": "A."
+    }
+   ],
+   "date": "2014",
+   "title": "Le pavimentazioni degli edifici lungo il lato SE del foro di Sepino (CB)",
+   "is_part_of": [
+    "Atti del XIX Colloquio dell'Associazione Italiana per lo Studio e la Conservazione del Mosaico (AISCOM) (Isernia 2013)"
+   ],
+   "language": "ita",
+   "pages": "21-30",
+   "publisher": "Scripta Manent",
+   "place": "Tivoli",
+   "confidence": "high"
+  },
+  {
+   "position": 31,
+   "raw": "Lugli G. 1957, La tecnica edilizia romana: con particolare riferimento a Roma e Lazio, Roma, Bardi.",
+   "type": "book",
+   "creators": [
+    {
+     "family": "Lugli",
+     "given": "G."
+    }
+   ],
+   "date": "1957",
+   "title": "La tecnica edilizia romana: con particolare riferimento a Roma e Lazio",
+   "language": "ita",
+   "publisher": "Bardi",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 32,
+   "raw": "Mannoni T. 1993, Le tradizioni liguri negli impieghi delle pietre, in P. Marchi (ed.), Pietre di Liguria, Genova, Sagep, 37-44.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Mannoni",
+     "given": "T."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Marchi",
+     "given": "P."
+    }
+   ],
+   "date": "1993",
+   "title": "Le tradizioni liguri negli impieghi delle pietre",
+   "is_part_of": [
+    "Pietre di Liguria"
+   ],
+   "language": "ita",
+   "pages": "37-44",
+   "publisher": "Sagep",
+   "place": "Genova",
+   "confidence": "high"
+  },
+  {
+   "position": 33,
+   "raw": "Mannoni T. 1997, Il problema complesso delle murature storiche in pietra 1. Cultura materiale e cronotipologia, «Archeologia dell'Architettura», 2, 15-24.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mannoni",
+     "given": "T."
+    }
+   ],
+   "date": "1997",
+   "title": "Il problema complesso delle murature storiche in pietra 1. Cultura materiale e cronotipologia",
+   "is_part_of": [
+    "Archeologia dell'Architettura"
+   ],
+   "language": "ita",
+   "volume": "2",
+   "pages": "15-24",
+   "confidence": "high"
+  },
+  {
+   "position": 34,
+   "raw": "Mannoni T., Boato A. 2002, Archeologia e storia dei cantieri di costruzione, «Arqueología de la Arquitectura», 1, 39-53.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Mannoni",
+     "given": "T."
+    },
+    {
+     "family": "Boato",
+     "given": "A."
+    }
+   ],
+   "date": "2002",
+   "title": "Archeologia e storia dei cantieri di costruzione",
+   "is_part_of": [
+    "Arqueología de la Arquitectura"
+   ],
+   "language": "ita",
+   "volume": "1",
+   "pages": "39-53",
+   "confidence": "high"
+  },
+  {
+   "position": 35,
+   "raw": "Matteini Chiari M., Scocca V. 2014, Saepinum (Altilia), in S. Capini, P. Curci, M.R. Piciuti (eds.), Regio IV. Alife, Bojano, Sepino, Frana, Templa, Deluba. Corpus dei luoghi di culto dell'Italia antica (FTD), 3, Roma, Quasar, 65-92.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Matteini Chiari",
+     "given": "M."
+    },
+    {
+     "family": "Scocca",
+     "given": "V."
+    }
+   ],
+   "editors": [
+    {
+     "family": "Capini",
+     "given": "S."
+    },
+    {
+     "family": "Curci",
+     "given": "P."
+    },
+    {
+     "family": "Piciuti",
+     "given": "M.R."
+    }
+   ],
+   "date": "2014",
+   "title": "Saepinum (Altilia)",
+   "is_part_of": [
+    "Regio IV. Alife, Bojano, Sepino, Frana, Templa, Deluba"
+   ],
+   "language": "ita",
+   "series": "Corpus dei luoghi di culto dell'Italia antica (FTD)",
+   "series_number": "3",
+   "pages": "65-92",
+   "publisher": "Quasar",
+   "place": "Roma",
+   "confidence": "high"
+  },
+  {
+   "position": 36,
+   "raw": "Medri M. 2001, La diffusione dell'opera reticolata: considerazioni a partire dal caso di Olimpia, in Constructions publiques et programmes édilitaires en Grèce du IIe s. av. J.C. au Ier s. ap. J.C. (Athènes 1995), «Bulletin de Correspondance hellénique», Suppl. 39, 15-40.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Medri",
+     "given": "M."
+    }
+   ],
+   "date": "2001",
+   "title": "La diffusione dell'opera reticolata: considerazioni a partire dal caso di Olimpia",
+   "is_part_of": [
+    "Constructions publiques et programmes édilitaires en Grèce du IIe s. av. J.C. au Ier s. ap. J.C. (Athènes 1995)",
+    "Bulletin de Correspondance hellénique"
+   ],
+   "language": "ita",
+   "volume": "Suppl. 39",
+   "pages": "15-40",
+   "confidence": "high"
+  },
+  {
+   "position": 37,
+   "raw": "Pensabene P., Bruni V. c.s., La normalizzazione dell'ordine corinzio in età augustea e il teatro di Venafro (IS), in Tra sacro e profano pubblico e privato nella città di Venafro dall'antichità al medioevo (Venafro 2019), Atti del Convegno, in corso di stampa.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Pensabene",
+     "given": "P."
+    },
+    {
+     "family": "Bruni",
+     "given": "V."
+    }
+   ],
+   "date": "c.s.",
+   "title": "La normalizzazione dell'ordine corinzio in età augustea e il teatro di Venafro (IS)",
+   "is_part_of": [
+    "Tra sacro e profano pubblico e privato nella città di Venafro dall'antichità al medioevo (Venafro 2019), Atti del Convegno"
+   ],
+   "language": "ita",
+   "cs": {
+    "status": "unresolved"
+   },
+   "notes": "searched author + title: no publication found (Atti del convegno Venafro 2019 not located)",
+   "confidence": "high"
+  },
+  {
+   "position": 38,
+   "raw": "Torelli M. 1980, Innovazione nelle tecniche edilizie romane tra il I secolo a.C. ed il II secolo d.C., in Tecnologia, economia e società nel mondo romano, Atti del Convegno (Como 1979), Como, 139-161.",
+   "type": "chapter",
+   "creators": [
+    {
+     "family": "Torelli",
+     "given": "M."
+    }
+   ],
+   "date": "1980",
+   "title": "Innovazione nelle tecniche edilizie romane tra il I secolo a.C. ed il II secolo d.C.",
+   "is_part_of": [
+    "Tecnologia, economia e società nel mondo romano, Atti del Convegno (Como 1979)"
+   ],
+   "language": "ita",
+   "pages": "139-161",
+   "place": "Como",
+   "confidence": "high"
+  },
+  {
+   "position": 39,
+   "raw": "Vecchiattini R. 2019, Datare la malta. Alcuni metodi a confronto, «Archeologia dell'Architettura», 24, 9-10.",
+   "type": "article",
+   "creators": [
+    {
+     "family": "Vecchiattini",
+     "given": "R."
+    }
+   ],
+   "date": "2019",
+   "title": "Datare la malta. Alcuni metodi a confronto",
+   "is_part_of": [
+    "Archeologia dell'Architettura"
+   ],
+   "language": "ita",
+   "volume": "24",
+   "pages": "9-10",
+   "confidence": "high"
+  }
+ ]
+}
