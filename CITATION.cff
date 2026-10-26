@@ -1,0 +1,29 @@
+# Citation metadata for this repository.
+# GitHub shows it as "Cite this repository"; Zenodo uses it to build the record of every new release.
+# To add a contributor, append an entry under "authors" (ORCID optional).
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below."
+type: dataset
+title: "BiDiAr – Bibliography of Digital Archaeology. Open Bibliographic and Citation Data"
+abstract: >-
+  Open bibliographic and citation dataset of BiDiAr (Bibliography of Digital Archaeology),
+  built from the reference lists of the journal Archeologia e Calcolatori (vol. 1–37, 1990–2026).
+  It contains linked tables of works, persons and citations, formatted citations,
+  a CSL-JSON export for Zotero and an interactive citation graph.
+authors:
+  - family-names: Mancuso
+    given-names: Giacomo
+    orcid: "https://orcid.org/0000-0001-8425-6211"
+    affiliation: "CNR – Institute of Heritage Science (ISPC)"
+# Concept DOI from Zenodo (resolves to the latest release): uncomment and fill in.
+# doi: "10.5281/zenodo.XXXXXXX"
+repository-code: "https://github.com/gmancuso24/BiDiAr"
+url: "https://bidiar.cnr.it"
+license: CC-BY-NC-SA-4.0
+keywords:
+  - digital archaeology
+  - bibliography
+  - citation network
+  - linked open data
+  - Archeologia e Calcolatori
+  - H2IOSC

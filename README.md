@@ -207,7 +207,7 @@ reproduced unchanged from the journal, which publishes them under
 
 If you use these data, please cite the dataset through its Zenodo DOI:
 
-> Mancuso G., [other future authors] (2026). *BiDiAr – Bibliography of Digital Archaeology. Open Bibliographic and Citation Data* (version X.Y.Z) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Mancuso G.,(2026). *BiDiAr – Bibliography of Digital Archaeology. Open Data* (version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23676252
 
 The DOI above always resolves to the latest release; each release also has its own DOI,
 listed on the Zenodo page, to cite the exact version you used.
