@@ -1,0 +1,23 @@
+{
+  "title": "BiDiAr – Bibliography of Digital Archaeology. Open Bibliographic and Citation Data",
+  "upload_type": "dataset",
+  "description": "<p>Open bibliographic and citation dataset of BiDiAr (Bibliography of Digital Archaeology), built from the reference lists of the journal <em>Archeologia e Calcolatori</em> (vol. 1–37, 1990–2026).</p><p>It contains linked tables of works, persons and citations, formatted citations, a CSL-JSON export for Zotero and an interactive citation graph.</p>",
+  "creators": [
+    {
+      "name": "Mancuso, Giacomo",
+      "orcid": "0000-0001-8425-6211",
+      "affiliation": "CNR – Institute of Heritage Science (ISPC)"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-nc-sa-4.0",
+  "language": "eng",
+  "keywords": [
+    "digital archaeology",
+    "bibliography",
+    "citation network",
+    "linked open data",
+    "Archeologia e Calcolatori",
+    "H2IOSC"
+  ]
+}
