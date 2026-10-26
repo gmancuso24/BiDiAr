@@ -84,10 +84,3 @@ $RECYCLE.BIN/
 
 # Shortcuts
 *.lnk
-
-# Project: not versioned
-data/
-output/backup/
-output/archivio/
-__pycache__/
-*.pyc
