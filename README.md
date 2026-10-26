@@ -147,7 +147,7 @@ The records are published in BiDiAr (Omeka S, CHLOE environment), imported in th
 
 ## Citation graph
 
-[`docs/citation_graph.html`](docs/citation_graph.html) is an interactive view of the whole citation network, built with [D3.js](https://d3js.org). Online: <https://gmancuso24.github.io/BiDiAr/citation_graph.html>
+[`docs/citation_graph.html`](https://gmancuso24.github.io/BiDiAr/citation_graph.html) is an interactive view of the whole citation network, built with [D3.js](https://d3js.org). Online: <https://gmancuso24.github.io/BiDiAr/citation_graph.html>
 
 - **Nodes** are works, coloured by Zotero item type (`_zotero_type`) and sized by the number of citations received; citing articles have a white outline.
 - **Edges** follow the *cites* direction only (citing → cited).
@@ -195,7 +195,7 @@ Useful entry points:
 
 If you use these data, please cite the dataset through its Zenodo DOI:
 
-> Mancuso G., [other authors] (2026). *BiDiAr – Open Bibliographic and Citation Data* (version X.Y.Z) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Mancuso G., [other future authors] (2026). *BiDiAr – Bibliography of Digital Archaeology. Open Bibliographic and Citation Data* (version X.Y.Z) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
 The DOI above always resolves to the latest release; each release also has its own DOI,
 listed on the Zenodo page, to cite the exact version you used.
