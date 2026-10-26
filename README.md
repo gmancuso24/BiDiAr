@@ -191,6 +191,18 @@ Useful entry points:
 
 ## Licence
 
+The dataset (tables, exports and the citation graph) is released under the
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+licence (CC BY-NC-SA 4.0); see [`LICENSE`](LICENSE).
+
+You are free to share and adapt the data for non-commercial purposes, provided that you give
+appropriate credit (see [How to cite](#how-to-cite)) and distribute your contributions under the same licence.
+
+Content taken from the sources keeps its original licence. In particular, the abstracts and the
+metadata of the *Archeologia e Calcolatori* articles (`dcterms:abstract`, `dcterms:rights`) are
+reproduced unchanged from the journal, which publishes them under
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
 ## How to cite
 
 If you use these data, please cite the dataset through its Zenodo DOI:
