@@ -20,6 +20,7 @@
 - [Repository structure](#repository-structure)
 - [Data tables](#data-tables)
 - [Exports](#exports)
+- [Citation graph](#citation-graph)
 - [Data model](#data-model)
 - [How the data are built](#how-the-data-are-built)
 - [Context: BiDiAr and H2IOSC](#context-bidiar-and-h2iosc)
@@ -70,9 +71,11 @@ Overall: 20,555 works (19,718 of them cited at least once), 21,560 persons and o
 │   ├── persons.csv
 │   ├── citations.csv
 │   └── citations_rendered.jsonl  # formatted citation of every work
-└── exports/
-    └── zotero/
-        └── zotero_all.json       # CSL-JSON, importable in Zotero
+├── exports/
+│   └── zotero/
+│       └── zotero_all.json       # CSL-JSON, importable in Zotero
+└── docs/                         # web pages (GitHub Pages)
+    └── citation_graph.html       # interactive citation network
 ```
 
 ## Data tables
@@ -141,6 +144,17 @@ All works as a **CSL-JSON** array, importable in Zotero via *File → Import*. T
 ### Omeka S
 
 The records are published in BiDiAr (Omeka S, CHLOE environment), imported in the order persons → works → citations (`bibo:cites` on the citing work). Programmatic access is through the Omeka S REST API of the site (`https://chloe.cnr.it/api/items`).
+
+## Citation graph
+
+[`docs/citation_graph.html`](docs/citation_graph.html) is an interactive view of the whole citation network, built with [D3.js](https://d3js.org). Online: <https://gmancuso24.github.io/BiDiAr/citation_graph.html>
+
+- **Nodes** are works, coloured by Zotero item type (`_zotero_type`) and sized by the number of citations received; citing articles have a white outline.
+- **Edges** follow the *cites* direction only (citing → cited).
+- **Search** by title (also author or year): choosing a result zooms to the work.
+- **Click** on a work to see what it cites and what cites it; the legend hides or shows each type.
+
+The page is a single self-contained file (data and D3 embedded), so it also works offline: download it and open it in a browser. The layout is precomputed with `d3-force`, so the graph opens immediately and keeps the same arrangement every time. The online version is published from the `docs/` folder through GitHub Pages.
 
 ## Data model
 
